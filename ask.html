@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ask Ollama</title>
+</head>
+<body>
+    <h2>Ask Ollama</h2>
+    <form id="askForm">
+        <label for="question">Enter your question:</label><br>
+        <input type="text" id="question" name="question" required>
+        <button type="submit">Ask</button>
+    </form>
+    
+    <h3>Response:</h3>
+    <p id="response"></p>
+
+    <script>
+        document.getElementById("askForm").addEventListener("submit", function(event) {
+            event.preventDefault();  // Prevent default form submission
+            
+            let question = document.getElementById("question").value;
+            let responseBox = document.getElementById("response");
+
+            fetch("http://127.0.0.1:4990/ask", {  // Ensure this matches your Flask server URL
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ question: question })
+            })
+            .then(response => response.json())
+            .then(data => {
+                responseBox.innerHTML = `<strong>Question:</strong> ${data.question} <br><br> <strong>Answer:</strong> ${data.answer}`;
+            })
+            .catch(error => {
+                responseBox.innerHTML = "Error: " + error;
+            });
+        });
+    </script>
+</body>
+</html>
