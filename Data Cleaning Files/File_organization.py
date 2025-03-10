@@ -1,9 +1,10 @@
+"""This File takes the results of 'File Spilter' and sorts them into folders based off the context of '{{Keyword' which most files follow"""
 import os
 import shutil
 
-# Define directories
-SOURCE_DIR = r"C:\Users\micha\Documents\School\Senior\CSE 4940 Senior Design\SDdata\SDdata\unprocessed"  # Folder to look for files
-BASE_DIR = r"C:\Users\micha\Documents\School\Senior\CSE 4940 Senior Design\SDdata\SDdata"  # Main directory where files will be stored
+#Define where to find and store the results as well as the keywords that the program will be using
+SOURCE_DIR = r"C:\Users\micha\Documents\School\Senior\CSE 4940 Senior Design\SDdata\SDdata\unprocessed"
+BASE_DIR = r"C:\Users\micha\Documents\School\Senior\CSE 4940 Senior Design\SDdata\SDdata"
 
 KEYWORDS = ["{{Item", 
             "{{Organization", 
@@ -53,14 +54,16 @@ KEYWORDS = ["{{Item",
             "{{Roll of months",
             "{{book",
             "{{Dragon+"]
+
+#Defines a Unprocessed directories to store everything that doesnt fit within the keywords
 UNPROCESSED_DIR = os.path.join(BASE_DIR, "unprocessed") 
 
-# Ensure all necessary directories exist in BASE_DIR
+#Ensure all necessary directories exist in BASE_DIR
 os.makedirs(UNPROCESSED_DIR, exist_ok=True)
 for keyword in KEYWORDS:
     os.makedirs(os.path.join(BASE_DIR, keyword), exist_ok=True)
 
-# Process each file in the source directory
+#Process each file in the source directory
 for filename in os.listdir(SOURCE_DIR):
     file_path = os.path.join(SOURCE_DIR, filename)
 
@@ -83,7 +86,7 @@ for filename in os.listdir(SOURCE_DIR):
                 moved = True
                 break  # Stop searching once a keyword is found
 
-        # If no keyword was found, move the file to the unprocessed folder
+        #If no keyword was found, move the file to the unprocessed folder
         if not moved:
             destination = os.path.join(UNPROCESSED_DIR, filename)
             shutil.move(file_path, destination)

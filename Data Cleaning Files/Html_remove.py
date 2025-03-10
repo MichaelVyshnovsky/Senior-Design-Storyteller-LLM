@@ -1,9 +1,9 @@
+""""""
 import os
 from bs4 import BeautifulSoup
 import re
 
 def html_to_text(input_file, output_file):
-    # Read the HTML file
     with open(input_file, 'r', encoding='utf-8') as file:
         html_content = file.read()
     

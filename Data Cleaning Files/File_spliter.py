@@ -1,3 +1,4 @@
+"""This file takes in the forgotten Relams full wiki html file and breaks up the file in smaller subsections"""
 import re
 import os
 
@@ -22,7 +23,7 @@ def split_html_from_xml(xml_file):
             print(f"Skipping: {section_name}")
             continue
         
-        # Create a filename-friendly version of section name
+        # Create a filename version of section name
         safe_name = re.sub(r'[^a-zA-Z0-9_-]', '_', section_name)
         file_path = os.path.join(output_dir, f"{safe_name}.html")
         
@@ -31,6 +32,5 @@ def split_html_from_xml(xml_file):
         
         print(f"Created: {file_path}")
 
-# Example usage
-xml_filename = "forgottenrealms_pages_current.xml"  # Change this to the actual file name
+xml_filename = "forgottenrealms_pages_current.xml"
 split_html_from_xml(xml_filename)
