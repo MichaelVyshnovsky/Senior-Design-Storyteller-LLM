@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, send_from_directory, render_template
 import requests
 import os
 import datetime
@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 OLLAMA_URL = "http://localhost:11434/api/generate"  # Ensure Ollama is running
 MODEL_NAME = "deepseek-r1:7b"  # Change to your desired model
-WIKI_FILE = "ollama_wiki.html"
+WIKI_FILE = "data/ollama_wiki.html"
 
 def ask_ollama(prompt):
     """Sends a query to Ollama and retrieves the response."""
@@ -46,6 +46,10 @@ def reset_wiki():
         f.write("<html><head><title>Ollama Wiki</title></head><body><h1>Ollama Wiki</h1>\n")
     return "✅ Wiki reset"
 
+@app.route('/')
+def home():
+    return render_template('home.html')
+
 @app.route('/ask', methods=['POST'])
 def ask():
     """Flask route to ask Ollama and store response in the wiki."""
@@ -60,6 +64,10 @@ def ask():
     
     return jsonify({"question": question, "answer": answer})
 
+@app.route('/ask_page')
+def serve_ask_page():
+    return render_template('ask.html')
+
 @app.route('/wiki', methods=['GET'])
 def get_wiki():
     """Flask route to retrieve the current wiki contents as HTML."""
@@ -70,6 +78,7 @@ def get_wiki():
         wiki_content = f.read()
     
     return wiki_content, 200, {'Content-Type': 'text/html'}
+
 
 @app.route('/reset_wiki', methods=['POST'])
 def reset_wiki_route():
