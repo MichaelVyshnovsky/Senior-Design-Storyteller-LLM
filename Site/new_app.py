@@ -48,7 +48,7 @@ def reset_wiki():
 
 @app.route('/')
 def home():
-    return render_template('home.html')
+    return render_template('index.html')
 
 @app.route('/ask', methods=['POST'])
 def ask():
@@ -64,7 +64,7 @@ def ask():
     
     return jsonify({"question": question, "answer": answer})
 
-@app.route('/ask_page')
+@app.route('/ask_page', endpoint='ask_page')
 def serve_ask_page():
     return render_template('ask.html')
 

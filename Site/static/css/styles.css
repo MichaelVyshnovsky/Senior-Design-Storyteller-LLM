@@ -1,0 +1,35 @@
+/* static/css/styles.css */
+
+/* Full-screen centered container */
+.flex-container {
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+    flex-direction: column;
+    height: 100vh; /* Full height of screen */
+}
+
+/* Page background color */
+body {
+    background-color: #94FFDF;
+    margin: 0; /* Remove default margin */
+    font-family: Arial, sans-serif; /* Optional: Better text appearance */
+}
+
+/* Button styling */
+button {
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #008CBA; /* Blue color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+/* Button hover effect */
+button:hover {
+    background-color: #005f75;
+}
