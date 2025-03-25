@@ -3,7 +3,7 @@ import os
 from datasets import Dataset, load_dataset
 from transformers import AutoTokenizer, AutoModelForCausalLM, TrainingArguments, Trainer
 
-data_dir = "./SDdata"  # Change this to your dataset directory
+data_dir = "path_to_json_folder"  # Change this to your dataset directory
 
 def load_json_files(data_dir):
     data = []
@@ -13,8 +13,9 @@ def load_json_files(data_dir):
                 with open(os.path.join(root, file_name), "r", encoding="utf-8") as f:
                     content = json.load(f)
                     doc = content.get("document_data", {})
+                    input_text = "\n".join([f"{key}: {value}" for key, value in doc.items() if isinstance(value, str)])
                     data.append({
-                        "input": f"Title: {doc.get('title', '')}\nSetting: {doc.get('setting', '')}\nStory Arc: {doc.get('story arc', '')}\nDescription:",
+                        "input": input_text + "\nDescription:",
                         "output": doc.get("mainbody", "")
                     })
     return data
@@ -22,12 +23,12 @@ def load_json_files(data_dir):
 data = load_json_files(data_dir)
 dataset = Dataset.from_list(data)
 
-tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2.5-Math-7B")
+tokenizer = AutoTokenizer.from_pretrained("deepseek-ai/deepseek-r1:7b")
 
 def tokenize_function(examples):
     return tokenizer(examples["input"], text_target=examples["output"], padding="max_length", truncation=True)
 
-tokenized_datasets = dataset.map(tokenize_function, batched=True)
+tokenized_datasets = dataset.map(tokenize_function, batched=True, batch_size=16, num_proc=4)
 
 model = AutoModelForCausalLM.from_pretrained("deepseek-ai/deepseek-r1:7b")
 
