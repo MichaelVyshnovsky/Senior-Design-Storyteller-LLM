@@ -1,5 +1,6 @@
 import json
 import os
+import torch
 from datasets import Dataset, load_dataset
 from transformers import AutoTokenizer, AutoModelForCausalLM, TrainingArguments, Trainer, DataCollatorForSeq2Seq
 
@@ -31,21 +32,23 @@ def tokenize_function(examples):
     model_inputs["labels"] = labels["input_ids"]
     return model_inputs
 
-tokenized_datasets = dataset.map(tokenize_function, batched=True, batch_size=16, num_proc=4)
+tokenized_datasets = dataset.map(tokenize_function, batched=True, batch_size=4, num_proc=2)
 
 data_collator = DataCollatorForSeq2Seq(tokenizer=tokenizer, model="Qwen/Qwen2.5-Math-7B")
 
 model = AutoModelForCausalLM.from_pretrained("Qwen/Qwen2.5-Math-7B")
 
+torch.cuda.empty_cache()  # Clears GPU memory
 training_args = TrainingArguments(
     output_dir="./results",
-    evaluation_strategy="no",  # Avoid error by setting evaluation off unless eval_dataset is provided
+    eval_strategy="no",  # Updated deprecated field
     learning_rate=2e-5,
     per_device_train_batch_size=1,
     per_device_eval_batch_size=1,
     num_train_epochs=3,
     weight_decay=0.01,
-    save_strategy="epoch"
+    save_strategy="epoch",
+    fp16=True  # Enables mixed precision to save GPU memory
 )
 
 trainer = Trainer(
@@ -53,7 +56,7 @@ trainer = Trainer(
     args=training_args,
     train_dataset=tokenized_datasets,
     data_collator=data_collator,
-    tokenizer=tokenizer
+    processing_class=tokenizer  # Updated deprecated field
 )
 
 trainer.train()
