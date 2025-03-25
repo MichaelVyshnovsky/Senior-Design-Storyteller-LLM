@@ -3,19 +3,20 @@ import os
 from datasets import Dataset, load_dataset
 from transformers import AutoTokenizer, AutoModelForCausalLM, TrainingArguments, Trainer
 
-data_dir = "path_to_json_folder"  # Change this to your dataset directory
+data_dir = "./SDdata"  # Change this to your dataset directory
 
 def load_json_files(data_dir):
     data = []
-    for file_name in os.listdir(data_dir):
-        if file_name.endswith(".json"):
-            with open(os.path.join(data_dir, file_name), "r", encoding="utf-8") as f:
-                content = json.load(f)
-                doc = content.get("document_data", {})
-                data.append({
-                    "input": f"Title: {doc.get('title', '')}\nSetting: {doc.get('setting', '')}\nStory Arc: {doc.get('story arc', '')}\nDescription:",
-                    "output": doc.get("mainbody", "")
-                })
+    for root, _, files in os.walk(data_dir):  # Walk through subdirectories
+        for file_name in files:
+            if file_name.endswith(".json"):
+                with open(os.path.join(root, file_name), "r", encoding="utf-8") as f:
+                    content = json.load(f)
+                    doc = content.get("document_data", {})
+                    data.append({
+                        "input": f"Title: {doc.get('title', '')}\nSetting: {doc.get('setting', '')}\nStory Arc: {doc.get('story arc', '')}\nDescription:",
+                        "output": doc.get("mainbody", "")
+                    })
     return data
 
 data = load_json_files(data_dir)
