@@ -22,7 +22,7 @@ def load_json_files(data_dir):
 data = load_json_files(data_dir)
 dataset = Dataset.from_list(data)
 
-tokenizer = AutoTokenizer.from_pretrained("deepseek-ai/deepseek-r1:7b")
+tokenizer = AutoTokenizer.from_pretrained("deepseek-r1:7b")
 
 def tokenize_function(examples):
     return tokenizer(examples["input"], text_target=examples["output"], padding="max_length", truncation=True)
