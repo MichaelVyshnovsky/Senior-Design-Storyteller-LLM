@@ -4,7 +4,7 @@ import torch
 from datasets import Dataset, load_dataset
 from transformers import AutoTokenizer, AutoModelForCausalLM, TrainingArguments, Trainer, DataCollatorForSeq2Seq
 
-data_dir = "path_to_json_folder"  # Change this to your dataset directory
+data_dir = "./SDdata"  # Change this to your dataset directory
 
 def load_json_files(data_dir):
     data = []
