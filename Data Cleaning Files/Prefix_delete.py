@@ -21,6 +21,6 @@ def delete_files_by_substring(folder_path, substring):
                 print(f"Error deleting {file_path}: {e}")
 
 # Example usage
-folder_path = r"C:\Users\micha\Documents\School\Senior\CSE 4940 Senior Design\SDdata\SDdata\unprocessed"  # Replace with your folder path
+folder_path = r""  # Replace with your folder path
 substring = "Module_"  # Replace with the substring you want to target
 delete_files_by_substring(folder_path, substring)

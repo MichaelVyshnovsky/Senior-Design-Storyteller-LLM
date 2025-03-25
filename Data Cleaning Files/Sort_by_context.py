@@ -59,8 +59,8 @@ def search_and_move_files(folder_path, keyword, destination_folder):
                 print(f"Error reading or moving file {filename}: {e}")
 
 if __name__ == "__main__":
-    folder_path = r"C:\Users\micha\Documents\School\Senior\CSE 4940 Senior Design\SDdata\SDdata\unprocessed"  # Replace with your folder path
-    destination_folder = r"C:\Users\micha\Documents\School\Senior\CSE 4940 Senior Design\SDdata\SDdata\magical abilities"  # Replace with your destination folder
+    folder_path = r""  # Replace with your folder path
+    destination_folder = r""  # Replace with your destination folder
     keyword = "magical abilities"
     search_and_move_files(folder_path, keyword, destination_folder)
     #search_and_delete_files(folder_path, keyword)

@@ -53,8 +53,8 @@ def process_directory(directory):
                 print(f"Processed: {file_path}")
 
 if __name__ == "__main__":
-    input_folder = r"C:\Users\micha\Documents\School\Senior\CSE 4940 Senior Design\SDdata"  # Replace with your input folder
-    output_folder = r"C:\Users\micha\Documents\School\Senior\CSE 4940 Senior Design\SDdata"  # Replace with your output folder
+    input_folder = r""  # Replace with your input folder
+    output_folder = r""  # Replace with your output folder
     if os.path.isdir(input_folder):
         #process_folder(input_folder, output_folder)
         process_directory(input_folder)
