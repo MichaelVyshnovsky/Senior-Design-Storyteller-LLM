@@ -23,14 +23,14 @@ def load_json_files(data_dir):
 data = load_json_files(data_dir)
 dataset = Dataset.from_list(data)
 
-tokenizer = AutoTokenizer.from_pretrained("deepseek-ai/deepseek-r1:7b")
+tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2.5-Math-7B")
 
 def tokenize_function(examples):
     return tokenizer(examples["input"], text_target=examples["output"], padding="max_length", truncation=True)
 
 tokenized_datasets = dataset.map(tokenize_function, batched=True, batch_size=16, num_proc=4)
 
-model = AutoModelForCausalLM.from_pretrained("deepseek-ai/deepseek-r1:7b")
+model = AutoModelForCausalLM.from_pretrained("Qwen/Qwen2.5-Math-7B")
 
 training_args = TrainingArguments(
     output_dir="./results",
