@@ -1,0 +1,28 @@
+{
+    "template_data": {
+        "edition": "3e",
+        "edition_1": "2e",
+        "edition_2": "1e"
+    },
+    "document_data": {
+        "name": "Inflict Critical Wounds",
+        "level3e": "{{spell table|edition=3e|[[Blackguard]]|4|[[Cleric]]|4|[[Destruction domain|Destruction]]|4}}",
+        "domains3e": "[[Destruction domain|Destruction]]",
+        "school3e": "[[Necromancy]]",
+        "type3e": "",
+        "refs3e": "{{Cite web/Excerpt: Blackguard}}",
+        "reversible2e": "true",
+        "school2e": "[[Necromancy]]",
+        "spheres2e": "[[Healing sphere|Healing]]",
+        "level2e": "{{spell table|edition=2e|[[Cleric]]|5|[[Crusader]]|5|[[Druid]]|5|[[Healing sphere|Healing]]|5|[[Mystic]]|5}}",
+        "type2e": "",
+        "refs2e": "",
+        "reversible1e": "true",
+        "school1e": "[[Necromantic]]",
+        "level1e": "{{spell table|edition=1e|[[Cleric]]|5|[[Druid]]|6}}",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Inflict critical wounds''''', also known as '''''cause critical wounds''''', was a [[necromancy]] spell that caused extreme damage to a creature touched by the caster.",
+        "Effects": "When this spell was cast, the caster channeled [[negative energy]] which did harm to living beings. Since [[undead]] were powered by negative energy, this spell cured them of a like amount of damage, rather than harming them.\n\nThe reverse of this spell, ''[[cure serious wounds]]'', channeled [[positive energy]] and had the exact opposite effect (healed the living, harmed the undead)."
+    }
+}

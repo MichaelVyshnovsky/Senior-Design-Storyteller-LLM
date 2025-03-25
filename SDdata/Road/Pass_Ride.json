@@ -1,0 +1,34 @@
+{
+    "template_data": {
+        "120|mi|k|long": "yes",
+        "120|mi|k|long_1": "yes"
+    },
+    "document_data": {
+        "image": "Pehrrifaal.JPG",
+        "caption": "A map showing Pass Ride in eastern Tethyr.",
+        "name": "Pass Ride",
+        "type": "Road",
+        "aliases": "",
+        "length": "{{SI|120|mi|k|long=yes}}",
+        "width": "",
+        "pavement": "",
+        "location": "[[Tethyr]], the [[Lands of Intrigue]]",
+        "starts": "[[Barakmordin]]",
+        "ends": "[[Kzelter]]",
+        "built": "",
+        "refs": "",
+        "daggers": "",
+        "volorefs": "",
+        "usethe": "",
+        "inhabitants": "",
+        "locations": "yes",
+        "organizations": "",
+        "settlements": "yes",
+        "roads": "",
+        "bodies of water": "",
+        "events": "",
+        "mainbody": "'''Pass Ride''' was a small road found in far eastern [[Tethyr]].{{Cite interactive atlas}}<ref name=EotSS.M\">",
+        "Geography": "Pass Ride branched from [[Ithal Road]], connecting the keep of [[Barakmordin]] in the north with the town of [[Kzelter]] to the southeast. Pass Ride travelled between the [[Omlarandin Mountains]] and [[Forest of Mir]], cutting through the western section of the [[Plains of Pehrrifaal]], for approximately {{SI|120|mi|k|long=yes}} before terminating at Kzelter.<ref name=EotSS.M\"/>",
+        "Notable Locations": "The town of [[Ithal Pass]] was located along the road's halfway point.<ref name=EotSS.M\"/>"
+    }
+}

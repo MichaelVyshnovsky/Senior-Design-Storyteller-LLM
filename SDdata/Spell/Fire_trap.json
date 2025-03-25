@@ -1,0 +1,23 @@
+{
+    "template_data": {
+        "edition": "3e",
+        "edition_1": "2e"
+    },
+    "document_data": {
+        "name": "Fire Trap",
+        "inventor": "[[Noanar]]",
+        "school3e": "[[Abjuration]]",
+        "descriptors3e": "{{desc/fire}}",
+        "level3e": "{{spell table|edition=3e|[[Druid]]|2|[[Sorcerer]]|4|[[Wizard]]|4}}",
+        "type3e": "",
+        "refs3e": "",
+        "school2e": "[[Abjuration]], [[Evocation]]<br/>[[Elemental fire school|Fire]], [[Flame (province)|Flame]], [[Inventive]]",
+        "spheres2e": "[[Elemental fire sphere|Elemental Fire]]",
+        "level2e": "{{spell table|edition=2e|[[Arcanist]]|4|[[Cleric]]|2|[[Druid]]|2|[[Elemental sphere|Elemental]]|2|[[Elemental fire sphere|Elemental Fire]]|2|[[Wizard]]|4}}",
+        "type2e": "",
+        "refs2e": "<ref><ref><ref>",
+        "image": "Fire trap spell.webp}}",
+        "mainbody": "'''Fire trap''''' was both an [[abjuration]] and [[evocation]] spell that could be used on any closeable item, installing a [[trap]] that caused a small fiery explosion upon unauthorized entry.",
+        "History": "This spell was invented by the [[arcanist]] and Fire Warden of [[Netheril]] [[Noanar]] in {{Yearlink|-2319}}. It was the first of his many [[fire]]-based spells, and originally called '''''Noanar's trap'''''."
+    }
+}

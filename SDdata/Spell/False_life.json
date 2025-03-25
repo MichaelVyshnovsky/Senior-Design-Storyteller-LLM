@@ -1,0 +1,35 @@
+{
+    "template_data": {
+        "edition": "5e",
+        "edition_1": "3e"
+    },
+    "document_data": {
+        "image": "False Life 5e.png",
+        "caption": "",
+        "name": "False Life",
+        "deity": "",
+        "inventor": "",
+        "type": "",
+        "school5e": "[[Necromancy]]",
+        "domains5e": "[[Death domain|Death]], [[Grave domain|Grave]]",
+        "circles5e": "",
+        "oaths5e": "",
+        "patrons5e": "[[Undying patron|Undying]]",
+        "traditions5e": "",
+        "level5e": "{{spell table|edition=5e|[[Artificer]]|1|[[Death domain|Death]]|1|[[Grave domain|Grave]]|1|[[Sorcerer]]|1|[[Undying patron|Undying]]|1|[[Wizard]]|1}}",
+        "type5e": "",
+        "refs5e": "",
+        "keywords4e": "",
+        "level4e": "",
+        "type4e": "",
+        "school3e": "[[Necromancy]]",
+        "domains3e": "",
+        "descriptors3e": "",
+        "level3e": "{{Spell table|edition=3e|[[Assassin]]|3|[[Sorcerer]]|2|[[Wizard]]|2|[[Wu jen]]|2}}",
+        "type3e": "",
+        "refs3e": "{{Cite dragon/318/Oriental Adventures Update|40}}",
+        "mainbody": "'''''False life''''' was a [[necromancy]] spell that granted the caster a temporary boost of health above his or her normal healthy state.",
+        "Effects": "This spell only affected the caster and lasted a number of hours per the power of the caster, or until the extra health was lost (due to injury or disease, for example), whichever came first.\n\nAfter the [[Second Sundering]], the spell would grant a higher temporary health boost depending what level the spell was cast at.",
+        "Components": "In addition to [[verbal]] and [[somatic]] components, the caster had to draw mystical sigils on his or her body with a small quantity of alcohol or distilled spirits. The sigils faded from view when the alcohol evaporated."
+    }
+}

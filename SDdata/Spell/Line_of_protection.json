@@ -1,0 +1,19 @@
+{
+    "template_data": {
+        "edition": "2e",
+        "90|ft|long": "yes",
+        "5|ft|long": "yes"
+    },
+    "document_data": {
+        "name": "Line of Protection/Line of Destruction",
+        "reversible2e": "true",
+        "school2e": "[[Abjuration]]",
+        "spheres2e": "[[Protection sphere|Protection]]",
+        "level2e": "{{spell table|edition=2e|[[Cleric]]|3|[[Crusader]]|3|[[Mystic]]|3|[[Paladin]]|3|[[Protection sphere|Protection]]|3|[[Shaman]]|3}}",
+        "type2e": "",
+        "refs2e": "",
+        "mainbody": "'''''Line of protection''''' was a cooperative [[abjuration]] spell that formed a field of force between two or more priests, or two or more stationary objects, that harmed all creatures passing through it, particularly [[evil]] and [[undead]] creatures. The reverse of this spell, '''''line of destruction''''', was particularly painful to [[paladin]]s and [[good]]-aligned creatures.",
+        "Effects": "Two or more priests were required to cast this spell and had to decide during casting if the effect would be stationary or movable. If stationary, each priest drew a magical sigil on facing surfaces; opposite walls, two tree trunks, or facing supports of an arch or portcullis, for example. If the effect was to be mobile, then each priest became an endpoint (or an intermediate point, like a fence post) of the field of force. The distance between two adjacent sigils or priests was a maximum of {{SI|90|ft|long=yes}}, and once cast, could not be shortened or lengthened, forming a piecewise linear barrier.\n\nThe shimmering, translucent field of force extended from the ground to a height of 10 ft (3.1 m) and made objects on the other side hazy and indistinct. Any creature that passed through the field had to overcome the magic of the spell or suffer a small amount of damage. The ''line of protection'' was more than doubly effective on evil creatures and the [[undead]]. Creatures could fly over, burrow under, go around, or even ''[[teleport]]'' through the barrier with no ill effect.\n\nIf cast to be a movable barrier, the priests could move at half their normal rate and were forced to maintain the same distance apart as set at casting time. The field could not be bent and if any object greater than {{SI|5|ft|long=yes}} in diameter blocked the line of sight between two adjacent priests, the spell was immediately broken.\n\nWhen cast in reverse, ''line of destruction'' functioned the same as above except [[paladin]]s and good-aligned creatures took extra damage.",
+        "Components": "In addition to [[verbal]] and [[somatic]] components, the priests casting the mobile version of this spell had to hold their [[staves]], croziers, or religious standards vertically, forming an anchor or corner of the force field."
+    }
+}

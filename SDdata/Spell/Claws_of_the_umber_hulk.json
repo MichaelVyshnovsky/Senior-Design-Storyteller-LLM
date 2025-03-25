@@ -1,0 +1,29 @@
+{
+    "template_data": {
+        "edition": "2e",
+        "10|ft|long": "yes"
+    },
+    "document_data": {
+        "image": "",
+        "caption": "",
+        "name": "Claws of the Umber Hulk",
+        "deity": "",
+        "inventor": "",
+        "type": "",
+        "reversible2e": "",
+        "school2e": "[[Alteration]], [[Elemental earth school|Earth]]<br/>[[Universal (province)]]",
+        "spheres2e": "",
+        "level2e": "{{spell table|edition=2e|[[Wizard]]|6}}",
+        "type2e": "",
+        "refs2e": "<ref><ref>",
+        "reversible1e": "",
+        "school1e": "",
+        "level1e": "",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Claws of the umber hulk''''' was an [[arcane]] [[alteration]] [[spell]] that increased the size and power of the target's hands, akin to that of an [[umber hulk]]. The spell effects were incredibly painful as the hands grew and reformed, but allowed the target to cut through rock, or burrow underground. The caster had to touch the target of this spell in order to cast it.",
+        "Effects": "If the target's stamina allowed for it, the target could cut up to {{SI|10|ft|long=yes}} pure rock or six times that amount of dirt in ten minutes, without resting. To create a passable tunnel in soil, the digger had to proceed at half the maximum rate, taking care that the roof didn't collapse. The claws could also be used in combat, dealing significant additional damage beyond what their normal strength could inflict.",
+        "Components": "In addition to [[Verbal component|verbal]] and [[Somatic component|somatic]] components, this spell required the claw of an umber hulk.",
+        "History": "This spell was originally developed in the [[Underdark]], but later on could be found in use by some on the surface.<ref>"
+    }
+}

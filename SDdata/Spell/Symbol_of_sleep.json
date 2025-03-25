@@ -1,0 +1,15 @@
+{
+    "template_data": {
+        "edition": "3e"
+    },
+    "document_data": {
+        "name": "Symbol of Sleep",
+        "school3e": "[[Enchantment]] ([[Compulsion spells|Compulsion]])",
+        "domains3e": "[[Sloth domain|Sloth]]",
+        "descriptors3e": "{{desc/mind-affecting}}",
+        "level3e": "{{spell table|edition=3e|[[Cleric]]|5|[[Sloth domain|Sloth]]|5|[[Sorcerer]]|5|[[Wizard]]|5|[[Wu jen]]|5}}",
+        "type3e": "",
+        "refs3e": "{{Cite dragon/318/Oriental Adventures Update|41}}{{Cite dragon/323/Seven Deadly Domains|64}}",
+        "mainbody": "'''''Symbol of sleep''''' was an [[enchantment]] spell that could put one or more creatures into a deep sleep when triggered."
+    }
+}

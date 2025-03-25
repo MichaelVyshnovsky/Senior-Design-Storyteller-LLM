@@ -1,0 +1,287 @@
+2900
+170741
+
+973271
+973270
+2024-08-20T01:10:29Z
+
+Weisguar
+43565365
+
+973271
+interactivemap
+text/plain
+{
+    "mapImage": "Cloister of Sombre Embrace map.png",
+    "pageCategories": [
+        "Interactive_maps",
+        "Maps_of_the_Lower City"
+    ],
+    "defaultSort": "",
+    "description": "",
+    "coordinateOrder": "xy",
+    "mapBounds": [
+        [
+            0,
+            0
+        ],
+        [
+            1190,
+            842
+        ]
+    ],
+    "origin": "bottom-left",
+    "useMarkerClustering": false,
+    "categories": [
+        {
+            "id": "1",
+            "listId": 1,
+            "name": "Districts",
+            "color": "#f00",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:City icon.svg"
+        },
+        {
+            "id": "2",
+            "listId": 2,
+            "name": "Gates",
+            "color": "#ffffff",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Gate icon.svg"
+        },
+        {
+            "id": "3",
+            "listId": 3,
+            "name": "Kitchen",
+            "color": "#fa5d00",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Tankard icon.svg"
+        },
+        {
+            "id": "4",
+            "listId": 4,
+            "name": "Temples & Shrines",
+            "color": "#fac600",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Lathander temple icon.svg"
+        },
+        {
+            "id": "5",
+            "listId": 5,
+            "name": "Traders & Warehouses",
+            "color": "#007903",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Tymora coin icon.svg"
+        },
+        {
+            "id": "6",
+            "listId": 6,
+            "name": "Clubs",
+            "color": "#730000",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Instruments icon.svg"
+        },
+        {
+            "id": "7",
+            "listId": 7,
+            "name": "Chambers & Camps",
+            "color": "#ff6a6a",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Hamlet icon.svg"
+        },
+        {
+            "id": "8",
+            "listId": 8,
+            "name": "Landmarks",
+            "color": "#021ebb",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Elminter's choice icon.svg"
+        },
+        {
+            "id": "9",
+            "listId": 9,
+            "name": "Bodies of Water",
+            "color": "#00e8fa",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Bodies of water icon.svg"
+        },
+        {
+            "id": "10",
+            "listId": 10,
+            "name": "Roads and trails",
+            "color": "#2e2703",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Mountain road icon.svg"
+        },
+        {
+            "id": "11",
+            "listId": 11,
+            "name": "References",
+            "color": "#ffffff",
+            "symbol": "",
+            "symbolColor": ""
+        }
+    ],
+    "markers": [
+        {
+            "categoryId": "7",
+            "position": [
+                543,
+                587
+            ],
+            "popup": {
+                "title": "Dormitories",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                },
+                "image": "File:Cloister of Sombre Embrace Dormitories.jpg"
+            },
+            "id": "1"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                637,
+                176
+            ],
+            "popup": {
+                "title": "Night Orchid Cave",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "2"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                697,
+                264
+            ],
+            "popup": {
+                "title": "Armory",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "3"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                428.75,
+                399.75
+            ],
+            "popup": {
+                "title": "Threshold of Loss",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "4"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                155.7402685563371,
+                401.4598750186624
+            ],
+            "popup": {
+                "title": "Mirror of Loss",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "5"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                575.5,
+                398.5
+            ],
+            "popup": {
+                "title": "Main chamber",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                },
+                "image": "File:Cloister of Sombre Embrace Main chamber2.jpg"
+            },
+            "id": "6"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                350.7249634685276,
+                501.33870786126226
+            ],
+            "popup": {
+                "title": "Interrogation chamber",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "7"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1044.5,
+                642
+            ],
+            "popup": {
+                "title": "Interrogation Training area",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "8"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                901.5,
+                643
+            ],
+            "popup": {
+                "title": "Infiltration Training area",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "9"
+        }
+    ],
+    "markerProgress": false
+}
+ctyyvuw30prpmkrhrecc66hejq6hem9
+
+

@@ -1,0 +1,35 @@
+{
+    "template_data": {
+        "150|mi|k|long": "yes",
+        "150|mi|k|long_1": "yes"
+    },
+    "document_data": {
+        "image": "MintarMap.png",
+        "caption": "A map showing Darkhope's Road near the Lake of Steam.",
+        "name": "Darkhope's Road",
+        "type": "Trail",
+        "aliases": "Peakskirt Trail",
+        "length": "{{SI|150|mi|k|long=yes}}",
+        "width": "",
+        "pavement": "",
+        "location": "The [[Lake of Steam]], [[south Faerûn]]",
+        "starts": "[[Kzelter]]",
+        "ends": "The [[River Mintar]]",
+        "built": "",
+        "refs": "",
+        "daggers": "",
+        "volorefs": "",
+        "usethe": "",
+        "inhabitants": "",
+        "locations": "yes",
+        "organizations": "",
+        "settlements": "yes",
+        "roads": "",
+        "bodies of water": "",
+        "events": "",
+        "mainbody": "'''Darkhope's Road''', formerly known as '''Peakskirt Trail''', was a trail found in eastern [[Tethyr]] and the [[Lake of Steam]] region of [[south Faerûn]].{{Cite interactive atlas}}<ref name=EotSS.M\"> It was rarely ever featured on [[map]]s made by northerners.",
+        "Description": "Darkhope's Road was paved and narrower than the more prominent [[Golden Road]].",
+        "Geography": "The trail originated in [[Kzelter]]. It stretched southeast for approximately {{SI|150|mi|k|long=yes}} before meeting the [[Tyrant's Road]] at the crossing at the [[River Mintar]].<ref name=EotSS.M\"/>",
+        "Notable Locations": "[[Mintar]] was found along Darkhope's Road where the River Mintar emptied into the Lake of Steam. The [[Narrows Trail]] branched south from Darkhope's Road northwest of Mintar.<ref name=EotSS.M\"/>"
+    }
+}

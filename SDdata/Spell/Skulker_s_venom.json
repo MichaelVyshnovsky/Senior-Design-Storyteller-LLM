@@ -1,0 +1,14 @@
+{
+    "template_data": {
+        "edition": "4e"
+    },
+    "document_data": {
+        "name": "Skulker’s Venom",
+        "keywords4e": "{{Desc/divine}}{{desc/poison}}{{desc/shadow}}",
+        "type4e": "Encounter",
+        "level4e": "{{Spell table|edition=4e|[[Skulker of Vhaeraun]]|1}}",
+        "refs4e": "{{Cite dragon/413/Character Themes: Fringes of Drow Society}}",
+        "mainbody": "'''''Skulker’s venom''''' was the most basic of all abilities used by a [[skulker of Vhaeraun]].",
+        "References": "{{Refs}}\n1z8a45ybedvfkrc6vag93vwzvx0gblf"
+    }
+}

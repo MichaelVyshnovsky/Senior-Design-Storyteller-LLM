@@ -1,0 +1,44 @@
+{
+    "template_data": {
+        "30|ft|long": "yes",
+        "40|ft|long": "yes",
+        "10|ft|long": "yes",
+        "30|ft|long_1": "yes"
+    },
+    "document_data": {
+        "image": "HappyHippocampus.png",
+        "caption": "",
+        "name": "The Happy Hippocampus",
+        "type": "Inn, tavern",
+        "floors": "Three-stories",
+        "location": "[[Procampur]], [[the Vast]]",
+        "owner": "[[Bialtor Doogen|Bialtor]] and [[Rieggei Doogen]]",
+        "staff": "{{Split table|[[Dysianna Sletor]]|Waitress|[[Endytra Kiel]]|Waitress|[[Maerleni Taern]]|Waitress|[[Tyed]]|Busboy}}",
+        "occupants": "",
+        "services": "",
+        "worship": "",
+        "basicrefs": "",
+        "ownertable": "",
+        "stafftable": "",
+        "histrefs": "",
+        "pipes": "",
+        "tankards": "",
+        "coins": "",
+        "daggers": "",
+        "quality": "Good",
+        "price": "Cheap",
+        "volorefs": "",
+        "inhabitants": "",
+        "locations": "",
+        "organizations": "",
+        "mainbody": "The '''Happy Hippocampus''' was an inn and tavern found in the harbor district of the city of [[Procampur]] in [[the Vast]].",
+        "Location": "This building was located in Procampur's Harbor district.{{Cite polyhedron/136/The Happy Hippocampus|22-23}} It had a number of small \"bed-and-beer\" houses huddled around it.",
+        "Description": {
+            "Structure": "This building was around three stories tall, with a yellow roof slanting over it. In front of the entrance hung a shingle depicting a [[hippocampus]] with a [[beer]] stein in its mouth, with bubbles rising to the creature's side.",
+            "Interior": "Together the tavern area and the bar measured {{SI|30|ft|long=yes}} by {{SI|40|ft|long=yes}}. There were twelve tables in the tavern area, which would be moved around depending upon the size of groups. Various pieces of nautical equipment hung across the tavern walls, such as [[belaying pin]]s, [[net]]s, and [[rope]]s with [[grappling hook]]s. Above the bar was hung a stern wheel and above the entrance was hung an [[astrolabe]].\n\nBehind the bar was a kitchen and pantry that measured {{SI|10|ft|long=yes}} by {{SI|30|ft|long=yes}}. Inside was a staircase to the basement, where food and liqueur were store. This basement also had a small, yet well-stocked, [[wine]] cellar.\n\nSituated next to the bar was a staircase to the second floor. This floor consisted of a large common room and seven guest bedrooms. The door to the third floor was typically locked during working hours, as that was where the staff lived.",
+            "Atmosphere": "Frequented by [[adventurer]]s visiting the city,"
+        },
+        "Provender": "The Happy Hippocampus mostly served seafood at cheap prices and quality. The quality of their drinks varied each night, as the establishment's proprietor was often known to trade his homebrew beer for foreign alcohols.",
+        "History": "Once the site of a failed brothel, this building was purchased by the mariner couple [[Bialtor Doogen|Bialtor]] and [[Rieggei Doogen]]. They founded Happy Hippocampus proper in the {{YearlinkName|1364}}, following Bialtor's discharge from the naval branch of the [[Diamond Legion]]."
+    }
+}

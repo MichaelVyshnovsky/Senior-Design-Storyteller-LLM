@@ -1,0 +1,15 @@
+{
+    "template_data": {
+        "edition": "4e"
+    },
+    "document_data": {
+        "type": "daily",
+        "name": "Fiendish Resilience",
+        "school": "",
+        "keywords4e": "{{desc/arcane}}",
+        "level4e": "{{spell table|edition=4e|[[Warlock]]|2}}",
+        "type4e": "Daily",
+        "mainbody": "'''''Fiendish resilience''''' is a [[spell]] used by many [[warlock]]s, both before and after the [[Spellplague]], to enhance their durability. When a warlock, most typically one bound to the [[devil]]s of the [[Nine Hells]], casts ''fiendish resilience'', he or she imbues her flesh with the power of the Hells themselves, increasing his or her vitality substantially. This effect is not permanent, but nor does it wear down with time, and until this magical protection is stripped away from the warlock they retain it. They can only cast the spell once per day, however, for it calls on much of their available power.",
+        "References": "*\n[[Category:Warlock spells]]\nnwwkn1sdv2l3t8c53rzofgbb6ywdnnb"
+    }
+}

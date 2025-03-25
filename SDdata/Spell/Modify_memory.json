@@ -1,0 +1,29 @@
+{
+    "template_data": {
+        "edition": "5e",
+        "edition_1": "3e",
+        "40|ft|long": "yes",
+        "30|ft|long": "yes"
+    },
+    "document_data": {
+        "image": "Modify_Memory.png",
+        "caption": "''Modify memory — the spell that makes eating worms feel like tasting three-layer cake.''",
+        "name": "Modify Memory",
+        "deity": "",
+        "inventor": "",
+        "type": "",
+        "school5e": "[[Enchantment]]",
+        "domains5e": "[[Trickery domain|Trickery]]",
+        "level5e": "{{Spell table|edition=5e|[[Bard]]|5|[[Trickery domain|Trickery]]|5|[[Wizard]]|5}}",
+        "type5e": "",
+        "refs5e": "",
+        "level3e": "{{spell table|edition=3e|[[Assassin]]|4|[[Bard]]|4|[[Mentalism domain|Mentalism]]|4}}",
+        "domains3e": "[[Mentalism domain|Mentalism]]",
+        "descriptors3e": "{{desc/mind-affecting}}",
+        "school3e": "[[Enchantment]] (Compulsion)",
+        "type3e": "",
+        "refs3e": "",
+        "mainbody": "'''''Modify memory''''' was an [[enchantment]] spell that changed up to 5 minutes of the subject's memory.",
+        "Effects": "This spell allowed the caster to choose a target within {{SI|40|ft|long=yes}} (even farther for more experienced casters) and charm the target, rendering them incapacitated and unaware of their surroundings, though they could still hear the caster. While charmed, the caster could affect the target's memory of an event in the subject's past by eliminating the memory, enhancing it to recall with full clarity, changing details of the memory, or implanting a memory of a completely new event that the target did not actually experience. \n\nAn earlier version of this spell worked on any memory in the target's past but with a maximum of a 5-minute span. The later version of ''modify memory'' was limited to 10 minutes of memory in the last 24 hours, but more distant memories could be effected if the spell was cast at a higher level. This version was also limited to a range of {{SI|30|ft|long=yes}}."
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "template_data": {
+        "edition": "2e",
+        "60|feet|long": "yes",
+        "80|feet|long": "yes",
+        "10|feet|long": "yes"
+    },
+    "document_data": {
+        "image": "",
+        "caption": "",
+        "name": "Gargajaws",
+        "deity": "",
+        "inventor": "",
+        "type": "",
+        "reversible2e": "",
+        "school2e": "[[Alteration]], [[Evocation]]",
+        "spheres2e": "",
+        "level2e": "{{spell table|edition=2e|[[Wizard]]|8}}",
+        "type2e": "",
+        "refs2e": "{{Cite dragon annual/1997/The magic of Myth Drannor|91-92}}",
+        "mainbody": "'''''Gargajaws''''' was a powerful, destructive spell capable of causing incredible damage to structures.",
+        "Effects": "Upon casting the spell, a column of white flame rose from the caster's cupped palms for {{SI|60|feet|long=yes}}. The white flame split in three past that point, each flame forming into a shape akin to the clamlike, eyeless head of a beast; these jaws would then attack a target each within {{SI|80|feet|long=yes}}. Though they dealt no damage to living matter, they struck inanimate and undead matter with the force of a ''[[disintegrate]]'' spell, effectively taking a bite out of a {{SI|10|feet|long=yes}} cube.\n\nWere there not enough room for the column to rise to its full height, a single head was created, but its bite could damage a volume spanning twice the usual area in each dimension.",
+        "Components": "The spell called for [[verbal]] and [[somatic]] components, but also required a series of material components, including a piece of ferrous material, a stone, and a shard, spar, or long rod of glass.",
+        "History": "The elves attacking [[Mythanthar]]'s tower in {{yearlink|241}} employed this spell, amongst others.{{cite book/Elminster in Myth Drannor|296-297|15}}"
+    }
+}

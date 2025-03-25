@@ -1,0 +1,64 @@
+{{Spell
+| image         = Tree stride W&S.PNG
+| caption       = 
+| name          = Tree Stride
+| deity         = 
+| inventor      = 
+| type          = 
+| school5e      = [[Conjuration]]
+| domains5e     = [[Nature domain|Nature]]
+| circles5e     = [[Forest circle|Forest]]
+| oaths5e       = [[Ancients oath|Ancients]]
+| level5e       = {{Spell table|edition=5e|[[Ancients oath|Ancients]]|5|[[Druid]]|5|[[Forest circle|Forest]]|5|[[Nature domain|Nature]]|5|[[Paladin]]|5}}
+| type5e        = 
+| refs5e        = 
+| level3e       = {{spell table|edition=3e|[[Druid]]|5|[[Elf domain|Elf]]|4|[[Ranger]]|4}}
+| school3e      = [[Conjuration]] (Teleportation)
+| domains3e     = [[Elf domain|Elf]]
+| descriptors3e =
+| refs3e        = 
+| type3e        = 
+| school2e      = [[Alteration]]
+| spheres2e     = [[Plant sphere|Plant]]
+| level2e       = {{spell table|edition=2e|[[Druid]]|5|[[Plant sphere|Plant]]|5}}
+| type2e        = 
+| refs2e        = 
+| school1e      = [[Alteration]]
+| level1e       = {{spell table|edition=1e|[[Druid]]|5}}
+| type1e        = 
+| refs1e        = 
+}}
+'''''Tree stride''''', also known as '''''pass plant''''', was a [[conjuration]] or [[alteration]] spell that allowed the caster to enter a [[tree]] and then teleport to a distant tree of the same type, and repeat for the duration of the spell.
+
+==Effects==
+This spell was an improvement on the ''[[plant door]]'' spell, allowing the caster to not only step inside a tree, but also jump to other similar trees within range. Upon entering the first tree, the caster immediately knew the location of all other acceptable trees within the range of the spell. They had to be alive, of the same type ([[oak]], [[maple]], [[pine]], etc.), and big enough to contain the caster in all dimensions. The caster then had the choice of teleporting to one of the candidate trees, staying hidden inside the first tree, or stepping back out. If a jump was made, then the process could be repeated, from tree to tree, as many times as the caster had experience levels.
+
+The conjuration version of ''tree stride'' allowed the caster to stay hidden inside one or more trees for a number of hours equal to the maximum number of trees that could be traversed, whereas the alteration version only lasted for as many minutes as the maximum number of trees. After the spell expired, the caster was ejected from the tree he or she currently occupied. The spell also terminated upon stepping out of any tree, and like ''plant door'', if the tree being occupied was cut down or burned, the caster would also die unless egress was made before the process was complete.
+
+The type of tree had an influence on the distance that could be traversed. Oak, [[ash]], and [[yew]] trees had the greatest range, [[elm]] and linden somewhat less, followed by other deciduous trees, then the conifers, and finally all other (probably rare or exotic) trees. The ranges for the alteration and conjuration versions of this spell are given below.
+
+{|class="wikitable" style="text-align:center;"
+|- align="center"
+| '''Tree Type'''
+| '''Alteration Range'''
+| '''Conjuration Range'''
+|-
+| align="left" | Oak             || 1,800 ft (550 m) || 3,000 ft (910 m)
+|-
+| align="left" | Ash             || 1,620 ft (490 m) || 3,000 ft (910 m)
+|-
+| align="left" | Yew             || 1,440 ft (440 m) || 3,000 ft (910 m)
+|-
+| align="left" | Elm             || 1,260 ft (380 m) || 2,000 ft (610 m)
+|-
+| align="left" | Linden          || 1,080 ft (330 m) || 2,000 ft (610 m)
+|-
+| align="left" | Other deciduous ||   900 ft (270 m) || 1,500 ft (460 m)
+|-
+| align="left" | Any coniferous  ||   720 ft (220 m) || 1,000 ft (300 m)
+|-
+| align="left" | All other trees ||   540 ft (160 m) ||   500 ft (150 m)
+|}
+
+==Components==
+[[Verbal]] and [[somatic]] components, plus at least one tree that meets the conditions above, were required to cast this spell.

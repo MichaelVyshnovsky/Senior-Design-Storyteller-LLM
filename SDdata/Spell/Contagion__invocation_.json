@@ -1,0 +1,14 @@
+{
+    "template_data": {
+        "edition": "4e"
+    },
+    "document_data": {
+        "type": "daily",
+        "name": "Contagion",
+        "level4e": "{{spell table|edition=4e|[[Warlock]]|1}}",
+        "keywords4e": "{{desc/arcane}}{{desc/implement}}{{desc/poison}}",
+        "type4e": "Daily",
+        "mainbody": "'''''Contagion''''' is a [[necromancy|necrotic]] [[spell]] wielded by [[warlock]]s, most commonly of the [[Warlock#Dark Pact Warlock|dark pact]]. When a warlock casts ''contagion'' they infect the flesh of one unfortunate creature within fifty feet with a vile poison that mimics the effect of a disease, causing skin lesions, boils, and a fever of the blood that causes deadly injury for several minutes, though a strong or lucky victim might stave it off more quickly. Any immediately nearby enemies are sometimes also infected, though with reduced symptoms. The likelihood of success in casting the spell depends largely upon the warlock's charisma, though dark pact warlocks are able to increase the effective zone of the spell to more than ten feet in diameter. ''Contagion'' is not easily cast and can only be used once per day.",
+        "References": "*\n[[Category:Warlock spells]]\nmjyz9dvj8caqr7k191slw98h713edpi"
+    }
+}

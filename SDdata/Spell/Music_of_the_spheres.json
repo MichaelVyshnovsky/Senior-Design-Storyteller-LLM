@@ -1,0 +1,17 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "name": "Music of the Spheres",
+        "school2e": "[[Enchantment]] (Charm)",
+        "spheres2e": "[[Charm sphere|Charm]], [[Numbers sphere|Numbers]]",
+        "level2e": "{{spell table|edition=2e|[[Charm sphere|Charm]]|2|[[Cleric]]|2|[[Monk]]|2|[[Mystic]]|2|[[Numbers sphere|Numbers]]|2}}",
+        "type2e": "",
+        "refs2e": "",
+        "mainbody": "'''''Music of the spheres''''' was an [[enchantment]] spell that could prevent creatures from attacking the caster and make them more susceptible to other charms.",
+        "Effects": "Using a set of small [[silver]] bows, the magic of this spell produced heavenly music with such intricate harmonies and complex textures that the listeners were entranced with respect to the caster. Those who were not able to resist the allure of the dulcet tones could not harm the caster for at least 13 minutes (longer for more experienced casters) and were much more vulnerable to spells such as ''[[charm person]]'', ''[[suggestion]]'', ''[[hypnotism]]'', etc. for the duration of the spell. Those that managed to shake off the spell were unaffected and could attack as normal.\n\nConditions had to be conducive to hearing the unearthly music for this spell to work. If the atmosphere was such that normal speech would not be heard, such as during a hurricane, a tumultuous battle, or in an area with a high level of background noise, then the spell would be practically useless. The listeners had to be intelligent enough to recognize music and be physically able to hear it. One creature per every three experience levels of the priest could be affected and they had to be within a 20 ft (6.1 m) circle at a range no greater than 150 ft (46 m).\n\n''Music of the spheres'' did not alter the disposition of the subjects toward the caster's companions&mdash;they could still be attacked. The spell was canceled immediately if the priest took any hostile action toward a creature charmed by this spell.",
+        "Components": "In addition to a verbal component, this spell required a set of three small silver bows (curved metal stave with a taut string for strumming or plucking) crafted so the string lengths were in the ratio of 1 to 4 to 9. For the somatic component, the priest would stroke the bows together in a complex pattern while casting the spell. Estimated cost for the bows was 100 gp each, but they were not consumed in the casting of the spell and could be reused.",
+        "References": "{{refs}}\n[[Category:Cleric spells]]\n[[Category:Monk spells]]\n[[Category:Mystic spells]]\nplh8nz5ihifgipu35ge8bhfv69vhrne"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "image": "SpeakAncientDead.JPG",
+        "caption": "",
+        "name": "Speak with Ancient Dead",
+        "deity": "[[Labelas Enoreth]]",
+        "inventor": "",
+        "type": "",
+        "school5e": "",
+        "level5e": "",
+        "type5e": "",
+        "refs5e": "",
+        "feature4e": "",
+        "keywords4e": "",
+        "level4e": "",
+        "type4e": "",
+        "category4e": "",
+        "skill4e": "",
+        "refs4e": "",
+        "school3e": "",
+        "domains3e": "",
+        "descriptors3e": "",
+        "level3e": "",
+        "type3e": "",
+        "reversible2e": "",
+        "school2e": "[[Necromancy]]",
+        "spheres2e": "[[Divination sphere|Divination]]",
+        "level2e": "{{spell table|edition=2e|[[Cleric]]|5}}",
+        "type2e": "",
+        "refs2e": "",
+        "reversible1e": "",
+        "school1e": "",
+        "level1e": "",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Speak with ancient dead''''' was a [[spell]] used by [[cleric]]s of [[Labelas Enoreth]].",
+        "Effects": "This spell was a more powerful version of the ''[[speak with dead]]'' spell. Both spells were identical except for two key differences. ''Speak with ancient dead'' allowed the caster to ask more question of the dead, and was able to communicate with corpses that have been deceased for thousands of years. The caster's skill level determined both the amount of questions and age of the targeted deceased.",
+        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required a [[material component]], incense that was burned during casting."
+    }
+}

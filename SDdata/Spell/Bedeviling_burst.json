@@ -1,0 +1,14 @@
+{
+    "template_data": {
+        "edition": "4e"
+    },
+    "document_data": {
+        "type": "encounter",
+        "name": "Bedeviling Burst",
+        "keywords4e": "{{Desc/arcane}}{{desc/implement}}{{desc/psychic}}",
+        "level4e": "{{spell table|edition=4e|[[Sorcerer]]|1}}",
+        "type4e": "Encounter",
+        "refs4e": "",
+        "mainbody": "'''''Bedeviling burst''''' is an [[evocation school|evocation]] [[spell]] used by [[sorcerer]]s, most frequently [[Sorcerer#Chaos Sorcerer|chaos sorcerers]]. When a sorcerer casts ''bedeviling burst'' they literally assault the mind of their foe, causing them so much pain that they literally stagger back from the psychic attack. Chaos sorcerers sometimes do this through actual telekinesis rather than simple effect. The spell is not easily cast and a short rest of at least a few minutes is required before the sorcerer can recast ''bedeviling burst''."
+    }
+}

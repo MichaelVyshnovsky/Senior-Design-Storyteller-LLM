@@ -1,0 +1,24 @@
+{
+    "template_data": {
+        "edition": "2e",
+        "14|feet|long": "yes"
+    },
+    "document_data": {
+        "image": "",
+        "caption": "",
+        "name": "Obliviasphere",
+        "deity": "",
+        "inventor": "",
+        "type": "",
+        "reversible2e": "",
+        "school2e": "[[Abjuration]], [[Evocation]]",
+        "spheres2e": "",
+        "level2e": "{{spell table|edition=2e|[[Wizard]]|7}}",
+        "type2e": "",
+        "refs2e": "{{cite book/Secrets of the Magister|110-111}}",
+        "mainbody": "'''''Obliviasphere''''' was a [[spell]] that created a spherical barrier that rebounded spells as [[wild magic]].",
+        "Effects": "The spell generated a sphere of force no less than {{SI|14|feet|long=yes}} in diameter that, for ten minutes, blocked the passage of living creatures other than the caster into or out of it, and of all spells. When a spell or living creature tried to cross the sphere's boundary, they rebounded, and wild magic burst out of the sphere. For most spells, the burst of wild magic rebounded in a random direction, but living creatures were struck by the wild magic in full.\n\nOf note, the wild magic could turn someone unlucky and close by into a [[myconid]].",
+        "Components": "Besides [[verbal]] and [[somatic component]]s, the spell called for any part of a myconid, and a piece of rock crystal that was polished clear.",
+        "History": "[[Azuth]] made this spell available through [[Elminster]] sometime prior to {{yearlink|1370}}.{{cite book/Secrets of the Magister|101}}"
+    }
+}

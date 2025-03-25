@@ -1,0 +1,17 @@
+{
+    "template_data": {
+        "edition": "4e",
+        "50|ft|long": "yes"
+    },
+    "document_data": {
+        "type": "encounter",
+        "name": "Icy Rays",
+        "level4e": "{{spell table|edition=4e|[[Wizard]]|3}}",
+        "keywords4e": "{{desc/arcane}}{{desc/cold}}{{desc/implement}}",
+        "school": "",
+        "type4e": "Encounter",
+        "refs4e": "",
+        "mainbody": "'''''Icy rays''''' was a [[spell]] used by some young or inexperienced [[wizard]]s.",
+        "Effects": "When cast, ''icy rays'' caused two bolts of bright, frigid energy to shoot out from the wizard's location and towards a spot somewhere within {{SI|50|ft|long=yes}}. Bluish-white in color, these rays could strike one or two targets, though only one ray could be used on any one target. If the wizard was successful in his casting, he was able to momentarily freeze the target in its place. The spell was relatively easy to cast, though the caster required a short rest of a few minutes or more before casting it again."
+    }
+}

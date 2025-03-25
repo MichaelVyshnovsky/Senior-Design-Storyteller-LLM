@@ -1,0 +1,43 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "image": "VenomousBlade.JPG",
+        "caption": "",
+        "name": "Venomous Blade",
+        "deity": "[[Selvetarm]]",
+        "inventor": "",
+        "type": "",
+        "school5e": "",
+        "level5e": "",
+        "type5e": "",
+        "refs5e": "",
+        "feature4e": "",
+        "keywords4e": "",
+        "level4e": "",
+        "type4e": "",
+        "category4e": "",
+        "skill4e": "",
+        "refs4e": "",
+        "school3e": "",
+        "domains3e": "",
+        "descriptors3e": "",
+        "level3e": "",
+        "type3e": "",
+        "reversible2e": "",
+        "school2e": "[[Necromancy]]",
+        "spheres2e": "[[Necromantic sphere|Necromantic]]",
+        "level2e": "{{spell table|edition=2e|[[Cleric]]|4}}",
+        "type2e": "",
+        "refs2e": "",
+        "reversible1e": "",
+        "school1e": "",
+        "level1e": "",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Venomous blade''''' was a [[spell]] used by [[cleric]]s of [[Selvetarm]].",
+        "Effects": "This spell temporarily envenomed a single-bladed melee weapon. The weapon delivered venom with the first three strikes into a target. The wielder had to use the weapon within a day or else the effects of the spell expired. Like a ''[[sword of wounding]]'', wounds caused by this spell could not be magically healed. Only a ''[[wish]]'' spell could heal injuries from this spell.",
+        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required [[material component]]s, a thick paste made from venom and other noxious ingredients that was rubbed onto the blade."
+    }
+}

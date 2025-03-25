@@ -1,0 +1,24 @@
+{
+    "template_data": {
+        "edition": "2e",
+        "edition_1": "3e",
+        "50|yards|long": "yes",
+        "10|foot|long": "yes",
+        "edition_2": "2e"
+    },
+    "document_data": {
+        "image": "",
+        "caption": "",
+        "name": "Srinshee's Spell Shift",
+        "inventor": "[[Srinshee]]",
+        "level2e": "{{spell table|edition=2e|[[Wizard]]|10}}",
+        "school2e": "[[Abjuration]], [[Alteration]], [[Divination]]",
+        "refs2e": "",
+        "level3e": "{{spell table|edition=3e|[[Sorcerer]]|9|[[Wizard]]|9|}}",
+        "school3e": "[[Abjuration]]",
+        "type": "",
+        "mainbody": "It was developed by the [[Srinshee]]. Unknown to all but three of her students, [[Elminster Aumar]], [[Mythanthar]] and [[Aravae Irithyl]], there was a stronger version, which could only be wielded by those who had trascended the power of conventional magecraft. This version of the spell, recorded only in her own secret spellbooks, was capable of blocking all conventional spells from its inner barrier, and was not limited to countering or manipulating spells, being also capable of creating transient [[dead magic]] or [[wild magic]] bubbles, as well as aiding other spells, bolstering their power. This spell was considered a precursor to ''[[globe of invulnerability]]'', but the existence of its superior version was seen as up for debate.",
+        "Effects": "This spell caused the caster to be able to perceive the [[Weave]] which allowed the caster to swiftly alter others' spells. The version best known by the Fall of [[Myth Drannor]] allowed the caster to manipulate others' spells, returning them at their caster if they were within a {{SI|50|yards|long=yes}} range, to reduce their area or range by up to three quarters, or to redirect them at a different target. This was only effective on arcane spells, though, and also created a {{SI|10|foot|long=yes}} diameter sphere, blocking all spells but those who were at most one step less powerful than it was. The spell burned out after the caster used it to spellshift two of the most powerful spells, but stronger casters might be able to achieve slightly more than that.\n\nBy {{yearlink|1372}}, the most common version allowed a mage to either counterspell or manipulate the spell being cast by another spellcaster.",
+        "History": "{{Spell\n| image         = \n| caption       = \n| name          = Srinshee's Spell Shift\n| inventor      = [[Srinshee]]\n| level2e       = {{spell table|edition=2e|[[Wizard]]|10}}\n| school2e      = [[Abjuration]], [[Alteration]], [[Divination]]\n| refs2e        = \n| type          = \n}}\nIt was developed by the [[Srinshee]]. Unknown to all but three of her students, [[Elminster Aumar]], [[Mythanthar]] and [[Aravae Irithyl]], there was a stronger version, which could only be wielded by those who had trascended the power of conventional magecraft. This version of the spell, recorded only in her own secret spellbooks, was capable of blocking all conventional spells from its inner barrier, and was not limited to countering or manipulating spells, being also capable of creating transient [[dead magic]] or [[wild magic]] bubbles, as well as aiding other spells, bolstering their power. This spell was considered a precursor to ''[[globe of invulnerability]]'', but the existence of its superior version was seen as up for debate."
+    }
+}

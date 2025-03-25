@@ -1,0 +1,38 @@
+{
+    "template_data": {
+        "300|mi|k|long": "yes"
+    },
+    "document_data": {
+        "type": "City",
+        "name": "Qudra",
+        "image": "SeaCaravans.PNG",
+        "caption": "A map showing mighty Qudra on the coast in north Zakhara.",
+        "aliases": "City of Power",
+        "capital": "",
+        "area": "",
+        "size": "Metropolis",
+        "ruler1": "[[Hatit Abd al-Wajib|Emir Hatit Abd al-Wajib]]",
+        "ruleryear1": "",
+        "rulertype": "",
+        "government": "elected monarchy (vassal to the Grand Caliph)",
+        "languages": "",
+        "races": "{{Percentage table|[[Human]]s|85|nonhumans|15}}",
+        "religion": "[[Vataqatal]]",
+        "reckoning": "",
+        "population1": "500,000",
+        "popyear1": "1367",
+        "imports": "",
+        "exports": "slaves, [[mamluk]]s, armour, [[oil of stars]]",
+        "alignment": "",
+        "allegiances": "The [[Grand Caliph]]",
+        "socrefs": "{{AQ-time}}",
+        "inhabitants": "yes",
+        "locations": "yes",
+        "organizations": "yes",
+        "events": "yes",
+        "items": "yes",
+        "mainbody": "'''Qudra''', or the '''City of Power,''' was a major power in the northern reaches of [[Zakhara]].",
+        "Description": "Qudra was a model of duty and organization. It overlooked the [[Great Sea]] from the mouth of [[Al-Faddi River]]<ref> about {{SI|300|mi|k|long=yes}} northwest of [[Hiyal]]. Qudra served as Zakhara's bastion against the [[Zakharan pantheon|unenlightened]] lands outside its borders. The city's fortifications were increased over a long history of pirate raids and barbarian incursions. As of [[1367 DR]]{{AQ-time}}, Qudra had the strongest bulwarks in all of Zakhara, presenting a stern gray face to the north.",
+        "History": "Qudra was ruled by [[Mamluk]]s who were fiercely devoted to the [[Khalil al-Assad al-Zahir|Grand Caliph]] in [[Huzuz]]. It was considered one of the three great cities of [[Zakhara]].<ref>  This city was noted for its well run and well-treated slave market, its mamluks, armor, and trade in northern goods."
+    }
+}

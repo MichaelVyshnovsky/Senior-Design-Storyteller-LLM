@@ -1,0 +1,76 @@
+{
+    "template_data": {
+        "15|ft|long": "yes"
+    },
+    "document_data": {
+        "image": "portal 4e.jpg",
+        "caption": "''A portal to someplace else.''",
+        "name": "''Portal''",
+        "othernames": "",
+        "nicknames": "",
+        "type": "",
+        "location": "",
+        "value1e": "",
+        "weight1e": "",
+        "refs1e": "",
+        "school2e": "",
+        "level2e": "",
+        "value2e": "",
+        "weight2e": "",
+        "refs2e": "",
+        "school3e": "Strong [[transmutation]] (while functioning)<br/>Weak [[transmutation]] (while not functioning)",
+        "casterlevel3e": "",
+        "itemlevel3e": "",
+        "value3e": "",
+        "weight3e": "",
+        "refs3e": "",
+        "level4e": "",
+        "value4e": "",
+        "weight4e": "",
+        "refs4e": "",
+        "rarity5e": "",
+        "attunement5e": "",
+        "school5e": "",
+        "level5e": "",
+        "value5e": "",
+        "weight5e": "",
+        "refs5e": "",
+        "communication": "",
+        "languages": "",
+        "alignment": "",
+        "Ah, yes, spellspun gates. Portals, some call them. \"Death-doors\" is the term I prefer. The reason? Well, each step through one is a step closer to the time when your death is standing waiting for you on the other side&mdash;with a big cold grin on its face and a sword in its hand you'll have no time nor chance to avoid.\n|[[Bharajak Steelshar]]\n}}": "=Description==",
+        "float": "right",
+        "width": "255px",
+        "source": "Graffiti on a ''portal'' to the [[Elemental Plane of Fire]]",
+        "text": "Don’t forget the marshmallows!",
+        "mainbody": "''Portals'' existed throughout the [[Underdark]]. Entire networks were the primary means people moved around in the Realms Below. Such a ''portal's'' location was often made clear by means of archways, columns, or simple stone piles, if it was part of a trade route. A site with a ''portal'' often had graffiti carved or written. Graffiti provided from time to time information about the ''portal's'' nature or its destination, albeit not always in a clear manner.\n\nOne group of people who sought the destruction of interplanar ''portals'' were the [[incantatrix|incantatar]]s. They did not want creatures from foreign planes to enter their own and as such viewed it as their duty to destroy as many interplanar connections as possible. That said, they were a font of knowledge for ''portals'' in general. The existence of spells developed by mages from other planes like ''[[Otto's irresistible dance]]'' or ''[[Tenser's transformation]]'' was accredited to interplanar ''portals''.",
+        "Description": "[[File:Portal.JPG|250px|thumb|''A transparent portal gave off information about its destination.'']]\nA ''portal'' was a two-dimensional, often up to {{SI|15|ft|long=yes}} circle, but not limited to it both in size and shape, area that was both intangible and invisible. Due to this, a freestanding archway of some kind usually was built to identify the location of a ''portal'', so those who could not [[detect magic|detect magical auras]] did not stumble into them accidentally. It was impossible to visually find out a ''portal's'' destination. For example, sticking one's head into that field to find out the destination was impossible, for touching a ''portal'' activated it.\n\nOne way to find out the location of a ''portal'' was to cast ''detect magic''. The magical aura of a functional ''portal'' was much stronger than that whose uses were completely exhausted. Finding out more about a ''portal'' required an ''[[analyze portal]]'' [[spell]].\n\nThe portal itself was completely intangible. A ''[[greater Underdark map]]'' also had the location of every ''portal'' within the mapped area.\n\nPassing through a portal was described as an unsettling experience: space between the \"fabric of the planes\" was entirely dark, devoid of air and offering no sensation of temperature. Oddly enough, it seemed to elicit phantom scents, like the smell of wintergreen or stale [[wine]].",
+        "Powers": {
+            "Special Portals": {
+                "Creature-Only ''Portals''": "Creature-only ''portals'' were what they sounded like. Only creatures could pass through them, their clothes or other equipment could not,{{Cite web/Perilous Gateways/One-Way Portals in Amn:The Dusty Rat}} A variety that was hard to create allowed both creatures and equipment to pass through the same ''portal'', but the body and equipment reached different destinations.",
+                "Keyed ''Portals''": "It happened quite often that ''portals'' were keyed. This meant that the created ''portal'' could only be used if a special condition was met. Such conditions could be ones that needed to be met by the user, like being a member of a specific race, or ones that needed to be met otherwise like specific time. Keyed ''portals'' needed to be activated and remained so for six seconds. Once activated, anybody could use it during its activation by touching the ''portal'', even without fulfilling the criteria. For example, the [[Ched Nasad portal]] could only be activated by [[drow]] who were male and not divine spellcasters. When it came to the surface end, it was only possible to activate it while [[the sun]] was set.{{Cite web/Perilous Gateways/Dark Elf Portals: The Ched Nasad Portal}} A tool that allowed a person to activate any keyed ''portal'', even without knowledge of its key, was a ''[[universal key]]''.",
+                "Impassable ''Portals''": "Impassable ''portals'' were not passable for anything. An impassable ''portal'' differentiated from most ''portals'' in that it could be used like a window to the destination nobody could reach, while normal ''portals'' gave off no information about its destination.",
+                "Nonliving-Only ''Portals''": "A nonliving-only ''portal'' was one that allowed only nonliving material through. It was the only type of ''portals'' that allowed nonliving things to pass through without a living creature carrying it.",
+                "Random ''Portals''": "A random ''portal's'' randomness lay in its activation time. It was random and even when a person hit upon a random ''portal'' that was in its activation time, it could be impossible to use, because one lacked the proper key. There was one pattern for a random ''portal'' that was quite common. It was one that worked for a random number of creatures between seven and twelve and once the random number went through the ''portal'' stopped working for a random time up to six days.",
+                "Transparent ''Portals''": "Transparent ''portals'' were ''portals'' whose destination could be seen.",
+                "Variable ''Portals''": "Variable  ''portals'' were ''portals'' with more than one set destination. These ''portals'' were considered dangerous to those who were not familiar with them. The reason was that the multiple destinations could change according to a pattern or at random depending on how they were created. A possible danger, which aforementioned people with no familiarity could encounter was that the ''portal'' was set to transport a person with the proper key to the actually intended destination while sending people without the proper key to a dangerous location like the inside of a volcano."
+            },
+            "Malfunction": {
+                "''Portal'' Seepage": "''Portal'' seepage was an occurrence that accompanied malfunctioning ''portals''. It happened when ''portals'' grew old and their magic started to deteriorate. ''Portal'' seepage happened often to malfunctioning ''portals'' that were more than a millennium old and was an often encountered problem in the [[Lowerdark]]. When this occurred, qualities of the ''portal's'' destination such as planar qualities affected the origin point as well."
+            }
+        },
+        "Creation": "[[File:Portal and a scroll.png|thumb|''A portal being worked from a magic scroll.''|425x425px]]\nThe creation of a ''portal'' was formerly believed to require specific ''portal''-knowledge, The creation required one of the following spells: ''[[teleport]]'', ''greater teleport'', ''[[teleportation circle]]'', or ''[[gate]]''. It was also a very costly process. A default ''portal'', meaning one-way, always active, and of 10 feet (3 meters) radius, cost 50,000 [[gp]], a large part of the creator's personal essence, and one hundred days. When creating a ''portal'', the creator needed to set a destination. Any place could be this destination, as long as it fulfilled two criteria. First, it needed to be a place where the creator had been at least once. Second, it needed to be a place where travel via the [[Astral Plane]] was possible, this was due to the nature of teleportation spells in general.\n\nAs mentioned above, a so called two-way ''portal'' was actually not one ''portal'' but two ''portals'', one being built on the other's destination point. Creating a second ''portal'' on the destination point cost half the amount of money to create the first one, more personal essence, and fifty days or more in time.\n\nAs mentioned above, a standard ''portal'' was created with a 10 feet (3 meters) radius, but could be as small as 6 inches (15 centimeters) in radius. As a rule of thumb, ''portals'' that were bigger than the aforementioned 10 feet in radius cost more for every 300 square feet fraction by another 100% in monetary cost.\n\nTurning a ''portal'' into an impassable one or keying and randomizing a ''portal'' incurred no additional costs, but adding more destinations than one increased the cost by a fourth for every additional destination, when it came to creature-only ''portals'', the cost was actually doubled. Those creature-only ''portals'' that sent equipment and body to different destinations incurred costs like a creature-only ''portal'' with one additional destination and were very costly. When it came to nonliving-only ''portals'', the cost was four times as high as a normal one. Turning a ''portal'' transparent cost a flat 50,000 gp.\n\nThe creation of a ''portal'' with limited number of usages was a cost-saving measure. A continuously active portal and one that could be used five times per day cost the same. It cost less as less frequently the ''portal'' could be used. A portal could be created to work even less frequently than once per day dropping the cost even further, but this had a limit. A portal that allowed travel once a tenday was the limit, ''portals'' that worked even less frequently could be still created, there was simply no saving regarding the costs.",
+        "Reputation": "A lot of people created ''portals'' in Toril's history. Due to the durable nature of this [[magic]], Toril had ''portals'' in the hundreds by [[1372 DR]]. However, quite often, the purpose and usage instructions went lost over time alongside their creators. Therefore, ''portals'' were considered both mysterious and unpredictable.\n{{fq\n| float  = right\n| width  = 255px\n| source = Graffiti on a ''portal'' to the [[Elemental Plane of Fire]]\n| text   = Don’t forget the marshmallows!\n}}\n''Portals'' existed throughout the [[Underdark]]. Entire networks were the primary means people moved around in the Realms Below. Such a ''portal's'' location was often made clear by means of archways, columns, or simple stone piles, if it was part of a trade route. A site with a ''portal'' often had graffiti carved or written. Graffiti provided from time to time information about the ''portal's'' nature or its destination, albeit not always in a clear manner.\n\nOne group of people who sought the destruction of interplanar ''portals'' were the [[incantatrix|incantatar]]s. They did not want creatures from foreign planes to enter their own and as such viewed it as their duty to destroy as many interplanar connections as possible. That said, they were a font of knowledge for ''portals'' in general. The existence of spells developed by mages from other planes like ''[[Otto's irresistible dance]]'' or ''[[Tenser's transformation]]'' was accredited to interplanar ''portals''.",
+        "Notable Portals": {
+            "Elfgates": {
+                "[[Elion]] to [[Evereska]]": "One side of this gate was on a hill about a mile above the palace of [[Seiveril Miritar]] near Elion in northern Evermeet. It was in a broad glade and consisted of three old stone markers. The other side was a plaza in Evereska.",
+                "[[Moonwood]] to [[Evereska]]": "The Evereskan side of this gate lay high in the northern [[Shaeradim]] surrounding Evereska, and consisted of a stone marker covered in [[Espruar]] runes beside a waterfall beneath a stone cliff. The other side of the gate linked to a northerly outpost of [[Sharrven]] before it became a ruin."
+            },
+            "Bukhara Spires": "{{Main|Bukhara Spires}}\nThese were teleportation spires created by the [[Imaskari]].",
+            "Elemental Vortices": "[[Elemental vortices]] were pathways connecting [[elemental planes]] with one another or the [[Prime Material Plane]].",
+            "Shadow Portals": "A shadow ''portal'' was a naturally occurring ''portal'' like one of the vortices. The difference was that it did not connect to one of the [[Inner Planes]] but to the [[Shadowfell]]. Technically, these were simple planar holes towards the Shadowfell and not ''portals'', but they worked like ''portals''. About four-fifths of them were two-way ''portals'' and the other one-fifth were one-way ''portals'' They were always active and did not need to be specifically activated. They were a specific feature of the Lowerdark and were more common the deeper one went.",
+            "Time Gates": "Much rarer than normal portals, a few [[time gate]]s existed throughout Faerûn. They were physically similar to other portals, but transported an individual not through space, but into a different time.",
+            "Weavegates": "A weavegate looked and behaved similarly to a regular portal, unless the user knew how to navigate the [[Weave]]. For such users, the weavegate could be used to reach any other portal reached by the Weave, instead of the pre-set destination. Traveling in this way gave the sensation of gently falling through a glowing blue void.{{Cite web/theedverse/2022-06-30 - Weavegate to RenFaire}}"
+        }
+    }
+}

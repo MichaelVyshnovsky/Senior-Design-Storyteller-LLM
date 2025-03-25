@@ -1,0 +1,36 @@
+{
+    "template_data": {
+        "1|lb|k|long": "yes"
+    },
+    "document_data": {
+        "image": "BG3-Charcoal.png",
+        "caption": "A piece of charcoal.",
+        "name": "Charcoal",
+        "aliases": "",
+        "locations": "",
+        "discovered": "",
+        "date": "",
+        "creators": "",
+        "created": "",
+        "hisrefs": "",
+        "type": "",
+        "components": "",
+        "color": "Dark gray to black",
+        "properties": "Flammable",
+        "markings": "",
+        "phyrefs": "",
+        "uses": "Fuel",
+        "cost": "{{Plain table|Ritual quality|1 [[gp]]/{{SIAdj|1|lb|k|long=yes}}}}",
+        "userefs": "",
+        "items": "",
+        "mainbody": "'''Charcoal''' was a common form of processed wood used as a fuel, similar to [[coke]] and [[coal]].",
+        "Properties": "Charcoal was a hard, black, ashy, [[carbon]]-rich mineral-like substance that burned readily.{{Cite dragon/81/Living in a material world|61}}{{Cite dragon/13/How Heavy Is My Giant|7}} It was valued for how it burned hotter, faster, and cleaner than raw wood, making it a superior fuel for heating, cooking, forging, and other purposes.",
+        "Availability": {
+            "Crafting": "Charcoal was made by charcoal-burners, or \"colliers\", by slowly burning [[wood]] or [[peat]] over several days in a smouldering air-starved fire, such as in a specialized kiln, in a turf-covered mound, or in a fire choked with clay.{{Cite web/Candlekeep Forum/Questions for Ed Greenwood (2007)/06-05 - Fuel in the Realms}}{{Cite web/Candlekeep Forum/Questions for Ed Greenwood (2004)/07-06 - Ulgoth's Beard, Part 1}}{{Cite web/Candlekeep Forum/Questions for Ed Greenwood (2005)/01-26 - Drow of Ardeep}}\n\nThe sustainable long-term harvesting of tree limbs for fuel or carpentry, called \"coppicing\", was widely practiced in lands such as [[Cormyr]], [[Chessenta]], [[Tethyr]], [[Turmish]], and the [[Dales]], and most rural farming families, communities, and estates kept extensive woodlots for coppicing to ensure they were self-sufficient in fuel and timber. The wood was burned to charcoal locally, and the excess was exported to fuel-hungry cities in metal boxes. On occasion, charcoal was scented with various substances to produce pleasing aromas when burned.{{Cite web/Candlekeep Forum/Questions for Ed Greenwood (2006)/01-11 - Average Heartlands Farm}}\n\nPriests of [[Silvanus]] helped to protect woodlands from over-exploitation by organizing the production of charcoal from downed wood, as well as the production of peat, manure, and oil-based fuels."
+        },
+        "Usage": {
+            "Spell Components": "A large number of spells used charcoal as a [[material component]], particularly those involving fire.\n* ''[[Animate fire]]'' used a handful of charcoal, [[soda ash]], and [[sulfur]].\n* ''[[Dark fire]]'' used a piece of charcoal to cast.\n* ''[[Find familiar]]'' used a [[brass]] brazier of burning charcoal for the ritual.\n* ''[[Fire breath]]'' used a red hot glowing piece of charcoal clenched in the caster's teeth. Fortunately, this did not burn the caster.\n* ''[[Fire storm]]'' used charcoal from a cremated [[magic-user]].\n* ''[[Fire trap]]'' could be cast by tracing the enclosure in charcoal.\n* ''[[Halaster's blacksphere]]'' used a piece of charcoal.\n* ''[[Heat wave]]'' used a piece of charcoal, some sulfur, and a small [[paper]] fan.{{Cite dragon/271/Arcane Lore: Spells of Defense|69}}\n* ''[[Internal fire]]'' used an iron brazier filled with hot charcoal.\n* ''[[Lose face]]'' used a piece of charcoal.\n* ''[[Neutralize gas]]'' used a bit of charcoal and [[treant]] bark.\n* ''[[Neutralize poison]]'' used a piece of charcoal to cure [[poison]]s.\n* ''[[Plague]]'' used a pinch of charcoal or soot.\n* ''[[Plant door]]'' used a piece of charcoal.\n* ''[[Steam breath]]'' used a glowing hot piece of charcoal that got doused in water.\n* ''[[Whip of flame]]'' could use a chunk of charcoal to cast."
+        },
+        "Other": "* [[Serplar]]s had a strange biology, and could feed upon soot and charcoal from chimneys.{{Cite dragon/139/The Dragon's Bestiary: Rare beasts of the FORGOTTEN REALMS setting|73}}\n* The [[Charcoal Palace]] in the [[City of Brass]] was made of a dark gray [[basalt]], and so resembled charcoal."
+    }
+}

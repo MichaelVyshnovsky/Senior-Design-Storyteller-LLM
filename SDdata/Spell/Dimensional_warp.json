@@ -1,0 +1,15 @@
+{
+    "template_data": {
+        "edition": "4e"
+    },
+    "document_data": {
+        "type": "Encounter",
+        "name": "Dimensional Warp",
+        "school": "",
+        "keywords4e": "{{desc/arcane}}{{desc/teleportation}}",
+        "level4e": "{{spell table|edition=4e|[[Swordmage]]|2}}",
+        "type4e": "Encounter",
+        "mainbody": "'''''Dimensional warp''''' is a [[teleportation]] [[spell]] used by some [[swordmage]]s early on in their training. When cast, ''dimensional warp'' teleports up to two friendly creatures, including the caster if he or she so wishes. When the teleportation is complete the two creatures will have swapped locations, with the each standing where the other was a moment before. The two creatures must be roughly the same in size. For example, the spell would not work on a [[human]] and a [[giant]]. It would, however, work on a [[halfling]] and an [[ogre]]. ''Dimensional warp'' requires some degree of concentration, but not as much as more powerful spells and it can be recast easily after a short rest of a few minutes or more.",
+        "References": "*\n[[Category:Swordmage spells]]\n7g6i1o4bcdvtvv6r3t3xc3wtv8qvyab"
+    }
+}

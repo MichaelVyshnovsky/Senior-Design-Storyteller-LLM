@@ -1,0 +1,51 @@
+{
+    "template_data": {
+        "edition": "1e"
+    },
+    "document_data": {
+        "image": "",
+        "caption": "",
+        "name": "Change",
+        "deity": "",
+        "inventor": "",
+        "type": "",
+        "school5e": "",
+        "domains5e": "",
+        "circles5e": "",
+        "oaths5e": "",
+        "patrons5e": "",
+        "traditions5e": "",
+        "archetypes5e": "",
+        "level5e": "",
+        "type5e": "",
+        "refs5e": "",
+        "feature4e": "",
+        "keywords4e": "",
+        "level4e": "",
+        "type4e": "",
+        "category4e": "",
+        "skill4e": "",
+        "refs4e": "",
+        "school3e": "",
+        "domains3e": "",
+        "descriptors3e": "",
+        "level3e": "",
+        "refs3e": "",
+        "reversible2e": "",
+        "school2e": "",
+        "spheres2e": "",
+        "level2e": "",
+        "type2e": "",
+        "refs2e": "",
+        "reversible1e": "",
+        "school1e": "[[Alteration]]",
+        "level1e": "{{Spell table|edition=1e|[[Magic-user]]|0}}",
+        "type1e": "Legerdemain",
+        "refs1e": "{{Cite dragon/60/More Cantrips: Mini-spells for apprentice magic-users|16}}",
+        "mainbody": "'''''Change''''' was a legerdemain [[cantrip]] that neophyte [[wizard]]s could learn.{{Cite dragon/59/Cantrips: Minor magics for would-be wizards|6}} It temporarily altered one small animal into another or one small item made from vegetable matter into another.",
+        "Effects": {
+            "Examples": "Examples of typical transformations included changing a [[mouse]] to a [[mole]], a bird to a [[bat]], a [[rose]] to a [[firethorn]], or a piece of parchment to a square of cloth. Examples of radical transformations included changing a dead mouse to a live one, a bird to a [[flying squirrel]], a rose to piece of parchment, or a square of cloth to a [[tomato]]. Examples of minor transformations included changing a white mouse to blue, or a [[maple]] leaf to an [[oak]] leaf."
+        },
+        "Components": "This cantrip required [[verbal]] and [[somatic component]]s to cast. The caster spoke a magic word while passing a hand over the target object or creature."
+    }
+}

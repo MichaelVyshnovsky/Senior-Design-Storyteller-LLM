@@ -1,0 +1,22 @@
+{
+    "template_data": {
+        "index": "[[Abella Toth]];[[Barthold Moncrief]];[[Celia Pendrick]];[[Cornelius Latrimor]];[[Dedryk Black]];[[Hillard]];[[Rynarr Nosryrr]];[[Srass Marnanr]];[[Teralyn]]",
+        "index_1": "[[air mephit]];[[human]];[[mountain lion]];[[lizardfolk]];[[owlbear]];[[Shadar-kai (Netherese)",
+        "index_2": "''[[assassin initiate's leathers]];[[branch of vile curses]];[[guidance of Shar]];[[Nightsinger's mantle]];[[pale green ioun stone]]''",
+        "index_3": "[[Cormyr]];[[Storm Horns]];[[Eveningstar]];[[Shadowfell]];[[Wheloon Prison]];[[Wyvernflow]]",
+        "index_4": "[[Purple Dragons]];[[War Wizards]]",
+        "index_5": "[[Shar]]"
+    },
+    "document_data": {
+        "index": "[[Shar]]",
+        "mainbody": "",
+        "Index": {
+            "Characters": "{{Index\n|index = [[Abella Toth]];[[Barthold Moncrief]];[[Celia Pendrick]];[[Cornelius Latrimor]];[[Dedryk Black]];[[Hillard]];[[Rynarr Nosryrr]];[[Srass Marnanr]];[[Teralyn]]\n}}",
+            "Creatures": "{{Index\n|index = [[air mephit]];[[human]];[[mountain lion]];[[lizardfolk]];[[owlbear]];[[Shadar-kai (Netherese)|shadar-kai]];[[shadow]];[[wolf]]\n}}",
+            "Items": "{{Index\n|index = ''[[assassin initiate's leathers]];[[branch of vile curses]];[[guidance of Shar]];[[Nightsinger's mantle]];[[pale green ioun stone]]''\n}}",
+            "Locations": "{{Index\n|index = [[Cormyr]];[[Storm Horns]];[[Eveningstar]];[[Shadowfell]];[[Wheloon Prison]];[[Wyvernflow]]\n}}",
+            "Organizations": "{{Index\n|index = [[Purple Dragons]];[[War Wizards]]\n}}",
+            "Religion": "{{Index\n|index = [[Shar]]\n}}"
+        }
+    }
+}

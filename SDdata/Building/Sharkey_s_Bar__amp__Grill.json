@@ -1,0 +1,72 @@
+{
+    "template_data": {
+        "rca": "center",
+        "lca": "center",
+        "caption": "Total staff employed as of 1361 DR",
+        "captionstyle": "font-family:serif;font-style:italic;",
+        "leftheader": "Job Title",
+        "rightheader": "Number employed",
+        "45|ft|long": "yes",
+        "20|ft|long": "yes",
+        "40|ft|long": "yes",
+        "5|35|ft|long": "yes",
+        "10|ft|long": "yes",
+        "15|ft|long": "yes"
+    },
+    "document_data": {
+        "image": "Sharkey'sInterior.png",
+        "caption": "Another busy day inside of Sharkey's",
+        "name": "Sharkey's Bar & Grill",
+        "aliases": "Sharkey's Bar and Grill",
+        "type": "Restaurant",
+        "architecture": "[[Coral]]",
+        "floors": "2",
+        "location": "[[Serôs]], [[Ravens Bluff Harbor]], [[Dragon Reach]]",
+        "built": "",
+        "destroyed": "",
+        "owner": "[[Slaythis J'harja]]",
+        "staff": "[[Klaijah J'harja]] (manager)<br/>[[Treffle Hoosh]] (manager)",
+        "occupants": "",
+        "services": "",
+        "worship": "",
+        "basicrefs": "",
+        "ownertable": "",
+        "stafftable": "{{Split table|rca=center|lca=center|caption=Total staff employed as of 1361 DR|captionstyle=font-family:serif;font-style:italic;|leftheader=Job Title|rightheader=Number employed|Bartender|15|Bouncer|9|Busboy|12|Cook|9|Manager|3|Waiter|9|Waitress|9}}",
+        "histrefs": "",
+        "pipes": "",
+        "tankards": "",
+        "coins": "",
+        "daggers": "",
+        "stars": "",
+        "coinstacks": "",
+        "skulls": "",
+        "quality": "",
+        "price": "",
+        "volorefs": "",
+        "usethe": "",
+        "useon": "",
+        "inhabitants": "",
+        "locations": "",
+        "organizations": "",
+        "mainbody": "'''Sharkey's Bar & Grill''' was a popular undersea restaurant in the depths of the [[Ravens Bluff Harbor]] in the 14{{th}} century [[DR]]. The name derived from a combination of a nickname held by its owner, [[Slaythis J'harja]], and its unique underwater grill.",
+        "Location": "Sharkey's was located in the depths of the Ravens Bluff Harbor,",
+        "Structure": "Sharkey's was carved into the base of a [[coral]] reef, The light given off by these made Sharkey's quite noticeable within the depths of the water, though none of this light was visible from the surface.{{Cite organized play/LC/...And the Body Dies|6}} Later on, some of these lights were arranged to spell out \"Sharkey's\".{{Cite organized play/LC/A Night at Sharkey's Bar and Grill|7}}",
+        "Interior": {
+            "Staff Areas": "As one entered the hall leading to the kitchen, they would find storage rooms to their immediate right and left that measured {{SI|10|ft}}. The one facing north held various food within [[barrel]]s, [[cask]]s, nets and [[sack]]s. The one facing south held [[cage]]s of live aquatic creatures for later preparation into dishes. Inside the kitchen proper was a door to a utility closet on its northern wall. This closet was used to store backup nets, rags to clean sediment off of surfaces, large [[tool]]s for repair work, and tridents for when the need arose.\n\nThe kitchen had three long tables or counters for preparing food.\n\nFour sets of shelves projected out along the kitchen's western wall. The shelves closest to the salad counter held extra glasses, while those closest to the meat counter held various kitchen [[utensil]]s, primarily [[meat cleaver]]s and other types of culinary [[knives]]. The northernmost shelf also held many thick, spicy sauces in fishskin bags that tapered to a small, stoppered nozzle. The central shelves held the various serving dishes.\n\nAt the westernmost end of the kitchen was the namesake \"Grill\" of Sharkey's Bar & Grill, originally conceived of by the establishment's aquatic dwarf constructors. This was a natural geo-thermal steam vent, which had a natural chimney overhead to allow air to vent and escape to the surface. Long, insulated [[skewer]]s and [[tongs]] were used to safely cook food within the steam.",
+            "Atmosphere": "At any given time there were between as few as 12 to as many as 240 patrons at Sharkey's Bar & Grill. In its early days it was frequented mainly by merfolk, who found the upstart business to be rather cavernous and quiet,{{Cite organized play/LC/The Stroke of Midnight|4}}{{Cite organized play/LC/Cravings|9}} Though the owner himself would express reluctance in its early days over having to let such usually hostile creatures into his establishment.\n\nBesides aquatic races, Sharkey's was occasionally visited by surface dwellers who found means to breath underwater,{{Cite organized play/LC/Protective Custody|4}} At some point they began charging surface dwellers a small cover charge of 5 [[gp]], ensuring that \"low lives\" stayed out.{{Cite organized play/LC/Protective Custody|6}}This \"cover charge\" is only ever mentioned in the module ''Protective Custody'', making it possible that this business move was short lived and only popped up when Sharkey's was initially taking off in popularity among surface folk.\n\nThe patrons of Sharkey's were quite territorial over the three entrances to Sharkey's, with a custom having developed over time regarding who was allowed to pass through which entrance. [[Good]] aligned races, primarily [[aquatic elves]], entered through the northern entrance. The more nefarious aquatic races were expected to use the southern entrance.In the original text of ''Port of Ravens Bluff'', it was stated that the north door was \"used primarily by aquatic elves\". But some [[Living City]] modules interpreted this as meaning the door was exclusive to them. Instances in which this came up included ''...And the Body Dies'' (p.4), ''Cravings'' (p.9), and ''The Stroke of Midnight'' (p.4). Regulars of both groups would usually sit by their respective door to insure that this custom was maintained,{{Cite organized play/LC/Protective Custody|5}} with the latter more likely to start a fight over it,{{Cite organized play/LC/Waterfalls|10}} Refusal to use the proper door could lead to receiving jeers and insults throughout one's dining experience.\n\nOccasionally one could encounter the patrons of the bar playing games at their table,{{Cite organized play/LC/Cravings|10}} such as underwater [[dice]] or multi-tiered versions of [[chess (game)|chess]]."
+        },
+        "Reputation": "The restaurant was considered by some to be a high class establishment.{{Cite organized play/LC/Protective Custody|4}}{{Cite organized play/LC/Cravings|17}}",
+        "Services": {
+            "Prices": {
+                "Drink Syrups": "* [[Ale]], bitter for 1 [[cp]]\n* Ale, light for 1 cp\n* [[Blackmantle's Best]]\n* [[Brandy]], candy for 2 [[sp]]\n* Brandy, sharp for 2 sp\n* Liquor, stiff for 5 sp\n* Liquor, sweetened for 5 sp\n* [[Mage Blood]] (a red wine imported from [[Thay]]) for 5 gp\n* Wine, [[blowfish]] for 10 gp per glass. Additionally, due to its potential to be [[poison]]ous one had to sign a waiver and would receive a stern lecture not to share the drink with anyone else.\n* [[Wine]], sour for 1 sp\n* Wine, sweet for 1 sp",
+                "Food, Crustacea": "* A dozen live jumbo [[shrimp]] for 2 gp\n* A [[giant crab]] leg for 1 gp\n* A whole giant crab or [[giant lobster]] for 5 gp\n* A whole live [[crab]] or [[lobster]] for 3 sp",
+                "Food, Exotica": "* Beef [[steak]] for 5 gp\n* [[Brine shrimp soup]] for 5 sp\n* Half [[chicken]] for 1 gp\n* [[Plankton soup]] for 3 sp",
+                "Food, Fish": "* A whole [[fish]], served live, for 3 sp\n* [[Fish fillet]] for 1 sp\n* [[Sashimi]] for 1 sp\n* Sharkey's Special Shark Steak for 1 gp",
+                "Food, Mollusks": "* Six [[clam]]s or [[oyster]]s for 3 sp\n* Six large [[snail]]s for 5 sp\n* Six [[scallop]]s for 1 sp\n* Whole [[squid]] for 1 gp",
+                "Food, Salads": "* Chef's salad (a mixture of the other salads) for 1 gp\n* [[Kelp]] salad for 1 cp\n* [[Seaweed]] salad for 1 cp\n* [[Worm]] and [[grub]] [[salad]] for 5 sp"
+            }
+        },
+        "History": "The origins of Sharkey went back to Slaythis J'harja's adventuring days, where he met a number of surface dwellers who spoke of such things as restaurants and taverns. Inspired to create such an establishment for the people of the Dragon Reach, he approached the [[Dwarfbilt Construction Company]] in Ravens Bluff. Its dwarven workers were fascinated by the prospect of building an underwater restaurant and contributed much to its plans, with discussions bringing up a number of [[engineering]] and technical issues, but ultimately the company was unwilling to do work in or on the water no matter how much Sharkey offered them. As they parted ways one of the employees took Slaythis and told him in hushed whispers of a fabled offshoot of his race, aquatic dwarves, but warned that they might be unwilling to work with him.\n\nUnperturbed, Sharkey pursued contact with the fabled aquatic dwarves. With the help of a group of friendly tritons familiar with them, he was able to find their underwater cities deep in the Inner Sea. After cautiously offering chests full of precious [[gem]]s to the cautious dwarves and assisting them in battle against a sahuagin ambush, some of them were willing to assist him in constructing Sharkey's Bar & Grill. They discussed several construction options, until finally settling on carving it into the base of a reef in the harbor. Materials were sourced from scavenging various shipwrecks or purchased with treasure taken from shipwrecks.\n\nSometime after Sharkey's began taking off a group of sahuagin were demanding that they be allowed to visit the establishment like other races. Eventually they were allowed in with some reluctance, but segregated to their own entrance and room. When koalinths and sea ogres later began showing up to the restaurant, they would be directed to the areas that were previously relegated to the sahaugin.\n\n{{Quote|Good day fine citizens. We are only charging 5 silver pieces each to take people out to the center of the harbor. It’s really the best way to visit the city’s most exclusive restaurant - Sharkey’s Bar and Grill.|The Clancy Brothers.}}\n\nAs word of the restaurant grew among surface dwellers, the Mages Guild began producing a large number of ''potions of water breathing'' for 400 gold pieces a bottle and offered a 5 gp deposit for returning the bottles. Around that same time three human brothers by the names of [[Mike Clancy]], [[Tom Clancy]], and [[Wayne Clancy]] decided to put aside their jobs as fishermen and start offering trips out to the center of the harbor with their [[skiff]] at a cost of 5 silver pieces. Much later another trio of brothers named [[Bill (sailor)|Bill]], [[Pete (Ravens Bluff)|Pete]], and [[Todd]] would strike upon the same idea. They would charge a higher fee of 5 gp, but also offered weak ''potions of water breathing'' for 50 gp.\n\nOver time the owner was taken with grander ambitions, imagining Sharkey's as the first step to a future undersea city of trade and various races. Though in order to achieve this dream, Sharkey believed he first needed to open relations with the surface city of Ravens Bluff.''Port of Ravens Bluff'' (pp. 42, 45) states that [[Charles O'Kane]] became Mayor 20 years ago, which would set it in 1361 DR. But seeing as this is a location in Serôs, we have taken the liberty to also provide the equivalent date in the [[Timesong calendar]].\n\nOne day, sometime after the [[War with Myrkyssa Jelan]], someone ran through the streets of Ravens Bluff shouting that a local mage had destroyed Sharkey's Bar & Grill and that the underwater races had arrived in the Harbor to take their revenge. This turned out to be merely one of many wild rumors circulating around the city in response to a group of tritons in the pier seeking the aid of adventurers.<ref>{{Cite organized play/LC/Bursting Your Bubble|4}}\n\nIn the {{YearlinkName|1371}}, Sharkey's Bar & Gril was known for serving [[Seaweed Ale]], a mildly alcoholic drink to \"die for.\"{{Cite organized play/LC/Lord of the Grapes|18-19}}",
+        "Inhabitants": "Being a popular establishment that was open at all hours, Sharkey's had a large staff that operated in three shifts. During each shift there would be active only one manager, three bouncers, four busboys, three waiters and three waitresses, three bartenders, and three cooks. All bouncers were armed with a trident, a [[heavy crossbow]], and a [[gold]]-colored [[helmet]]. The rest of staff kept a [[dagger]] on their person for self defense.\n\nMerfolk made up the bulk of Sharkey's staff, including all nine of its large bouncers, its twelve young busboys, its nine waiters, nine of its fifteen bartenders, five of its nine waitresses, and four of its nine cooks. Aquatic elves were the second most prominent staffers, making up five of its bartenders, five of its waitresses, and four of its cooks. Beyond these two aquatic races, there was one triton bartender and one aquatic dwarf cook by the name of [[Lothan]].\n\nOther known staff included the mermaid waitress [[Shelly]],{{Cite organized play/LC/Protective Custody|7}} the merman bartender [[Jedahi]],{{Cite organized play/LC/Protective Custody|10}}\n\nThe restaraunt had three managers in total consisting of Sharkey, its merman founder, along with his brother [[Klaijah J'harha]] and their cousin [[Treffle Hoosh]]. Being a jovial sort, whenever he was on his shift Sharkey would roam around the common room, chatting up various patrons. He took  particular interest in surface dwellers and those who came from or had visited faraway lands,In the module ''Cravings'', Treffle Hoosh is misidentified as being the headwaiter at Sharkey's. And the later module ''A Night at Sharkey's Bar and Grill'' misidentifies Sharkey as being a bartender. though he disliked the tendency among some land dwellers to throw their garbage into the harbor waters, such as the bottles from used up ''potions of water breathing''. Sharkey was also rather protective of his female employees, not tolerating any harassment of them."
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "document_data": {
+        "image": "",
+        "caption": "",
+        "code": "ADCP2-1",
+        "title": "The Paladins' Plague",
+        "publisher": "[[RPGA]]",
+        "designer": "[[M. Sean Molley]]",
+        "editor": "",
+        "reviewer": "[[Greg Marks]], [[Shawn Merwin]], [[Dru Moore]], [[Pieter Sleijpen]], [[Chris Tulach]]",
+        "also_credited": "",
+        "cover_artist": "",
+        "inter_artist": "",
+        "cartography": "",
+        "realm year": "1479 DR{{4e-time}}",
+        "setting": "",
+        "edition1": "LFR",
+        "debut1": "",
+        "released1": "February 17, 2010",
+        "subcat1": "[[Living Forgotten Realms/Adventuring Company|Adventuring Company]]",
+        "pages1": "144",
+        "game_edition1": "4",
+        "isbn1": "",
+        "play_time": "8&ndash;10 hours",
+        "rounds": "2",
+        "players": "4&ndash;6",
+        "levels": "1{{st}}&ndash;17{{th}}",
+        "series": "",
+        "preceded_by": "",
+        "followed_by": "",
+        "mainbody": "'''''The Paladins' Plague''''' is an adventure in the [[Living Forgotten Realms]] organized play campaign for [[Dungeons & Dragons]] 4{{th}} edition. The adventure ties in with the novel ''[[The Edge of Chaos]]'' by [[Jak Koke]].\n\n{{Quote|''The leaders of Elturel are concerned about the plagueland a few miles outside the city, which has recently begun spewing out more twisted monstrosities than usual. The paladins have put out a call for adventuring companies to send their best and bravest explorers to venture to the border, and perhaps even into the plagueland itself. The expedition's charter is to bring back any information about the horrors within and what might be causing the increase in Spellplague activity. This is a risky assignment, offering adventurers the chance to make a name for themselves by braving one of the most dangerous and least understood threats in all of Faerûn. This adventure is a two-round continuous-play Living Forgotten Realms Battle Interactive set in Elturgard for characters levels 1&ndash;17.''}}",
+        "Index": {
+            "Characters": ":{{P|[[Thavius Kreeg|High Observer]]|8-9,11-13,31,43-46,62,97,110-114,135-137,139}} • {{P|[[Sikulis]]|10,43,46}} • {{P|[[Tyrangal]]|8,12}} • {{P|[[Vessen]]|8-9,11-1,31,43-46,97,110-114,136-137}} • {{P|[[Vraith]]|8-9,11,63,95-97}}",
+            "Creatures": ":{{P|[[cobalt dragon]]|12,111-112,115,117,119,121,123,125,127,129,131,133,135}} • {{P|[[dracolich]]|111,135}} • {{P|[[noble eladrin|eladrin]]|8,10,43,46}} • {{P|[[ghost]]|11,96}} • {{P|[[ghoul]]|47,49,57-60}} • {{P|[[human]]|13}} • {{P|[[plaguechanged]] (plagueborn)|9-11,15-29,31-41,44,46-48,57,62,64,112,135}} • {{P|[[sharn]]|8-9,111,136-137}} • {{P|[[skeleton]]|47,49,51-60}} • {{P|[[slaad]]|11,65-68,84}} ({{P|[[blue slaad]]|65,67,75,77,79,81,83}}, {{P|[[flux slaad]]|65-67,69-74,83}}, {{P|[[gray slaad]]|65-67,69-74,76,78,80,82-83}}, {{P|[[green slaad]]|65,67,75,77,79,81,83}}, {{P|[[red slaad]]|65-67,69,75,77,79,81,83}}) • {{P|[[Spellplague behemoth]]|95-109,136-137}} • {{P|[[zombie]]|47,49,51-56}}\n::{{Refonly}}\n::{{P|[[giant]]|13}} • {{P|[[gnoll]]|84-85,140}} • {{P|[[hydra]]|96}} • {{P|[[hyena]]|140}} • {{P|[[shambling mound]]|96}}",
+            "Items": ":{{P|''[[gem of valor]]''|68,144}} • {{P|''[[Loyalty's Sacrifice]]''|14,17,68,91,98,137,139-140}} • {{P|''[[potion of clarity]]''|91,144}} • {{P|''[[potion of healing]]''|17}} • {{P|''[[potion of vitality]]''|17}} • {{P|''[[silver sand]]''|98,144}}",
+            "Locations": ":{{P|[[The Companion]]|10,12-13,31,43-48,50,62,68,86,110-112,114,139}} • {{P|[[Elturel]]|1,8-13,15,29,43,46-50,62-64,95,98,110-112,114,136-137,139}} • {{P|[[Elturgard]]|1,8-9,12,29,44,46,63-64,84,111,113,136,140}} • {{P|[[Faerûn]]|1,29}} • {{P|[[Temple of Torm]]|10,12-13,15-16,28,31,46,62,110-111,113,139}}\n::{{Refonly}}\n::{{P|[[Abyss]]|66}} • {{P|[[Dungeon of the Inquisitor]]|43,46}} • {{P|[[Elemental Chaos]]|11,67}} • {{P|[[Ormpetarr]]|8,97,136}} • {{P|[[Plaguewrought Land]]|8-9,95,97,136}} • {{P|[[Reaching Woods]]|84}}",
+            "Magic": ":{{P|''[[phantom steed]]''|63,68}} • {{P|''[[raise dead]]''|17,97-98,139}} • {{P|''[[soulguard]]''|85}} • {{P|[[spellscar]]|8,11-13,19-27,30,32-41,44-45,51-60,111-113,116,118,120,122,124,126,128,130,132,134-135}}\n::{{Refonly}}\n::{{P|''[[purge Spellplague]]''|85}}",
+            "Organizations": ":{{P|[[Order of Blue Fire]]|8-12,49,65,95,97,111-114,136-137,140}}\n::{{Refonly}}\n::{{P|[[Cult of the Dragon]]|111}} • {{P|[[Masters of Absolute Accord]]|8-9,12,49,95,112}}",
+            "Religion": ":{{P|[[Amaunator]]|10,12,43-46}} • {{P|[[Torm]]|8-9,12-13,43-45,62,68,84,98,110,112,136-137}} • {{P|[[Yeenoghu]]|11,84-85,88,98,137,139-140}}\n::{{Refonly}}\n::{{P|[[Kelemvor]]|50}} • {{P|[[Mystra]]|8}}",
+            "Miscellaneous": ":{{P|[[plagueland]]|1,8-9,11-13,31,44,47-48,50,62-66,68-75,77,79,81,84-85,88,95-98,110,136,139-140,142}} • {{P|[[Primordial language]]|65}} • {{P|[[Spellplague]]|1,8-13,15,29-30,43,45-47,50,62,64,68,84-88,96-97,110,114,136,142}}"
+        }
+    }
+}

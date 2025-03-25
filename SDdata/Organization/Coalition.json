@@ -1,0 +1,43 @@
+{
+    "template_data": {
+        "rca": "center",
+        "leftheader": "Military",
+        "rightheader": "# of soldiers",
+        "rhstyle": "color:text-align:"
+    },
+    "document_data": {
+        "image": "Coalition.png",
+        "caption": "| captionstyle=font-family:serif;font-style:|leftheader=Military|rightheader=# of soldiers|rhstyle = color:text-align:|[[City Guard (Waterdeep)|Waterdhavian guardsmen]]|350|[[Flaming Fist]]|100|[[Army of Daggerford|Daggerford militia]]|50}}",
+        "name": "Coalition",
+        "aliases": "",
+        "type": "Army",
+        "base": "War camp near [[Dead Man's Pass]]",
+        "leader": "[[Cedric deLancie]]<br/>[[Kyrill Nederlok]]<br/>[[Haither Stonehand]]",
+        "symbol": "",
+        "favored deity": "",
+        "favored weapon": "",
+        "domains": "",
+        "formed": "''Circa'' [[Uktar]] [[1368 DR]]",
+        "disbanded": "",
+        "basicrefs": "",
+        "members": "",
+        "memberstable": "{{Split table",
+        "rca": "center",
+        "memtableheader": "Coalition Army",
+        "alignment": "",
+        "races": "",
+        "memrefs": "",
+        "allegiances": "[[Lords' Alliance]]",
+        "enemies": "[[Shining Crusade]]",
+        "relrefs": "",
+        "showmembers": "yes",
+        "orgname": "the Coalition",
+        "mainbody": "The '''Coalition''' was a temporary alliance formed between the armed forces of [[Waterdeep]], [[Baldur's Gate]], and [[Daggerford]] to combat the growing threat of the [[Shining Crusade]].",
+        "Organization": "The Coalition army was led by three generals, each representing one of the three member-cities. [[Cedric deLancie|Torsin Cedric deLancie]] commanded the [[Waterdhavian]] [[City Guard (Waterdeep)|guardsmen]], [[Kyrill Nederlok|Marshal Kyrill Nederlok]] led the mercenaries of the [[Flaming Fist]], and [[Haither Stonehand|General Haither Stonehand]] directed the militiamen of Daggerford.",
+        "Base of Operations": "The Coalition formed their war camp at a location near [[Dead Man's Pass]], some ways north of the [[Winding Water]].",
+        "History": "{{See also|War of the Shining Crusade}}\nWhile the three powers of the Coalition agreed to form an alliance together, their forces were not able to rally together for some time. It was not until the siege of [[Bridgefort]] was broken, that the Flaming Fist army coming from Baldur's Gate could march north beyond the Winding Water. Even then, it was a matter of weeks before they rendezvoused with the armies of Daggerford and Waterdeep.\n\nThe Coalition won two decisive battles against the Shining Crusade. The first was a defense of their own war camp, when it was assaulted by various units of the Shining Legion. The second was a counterattack, when the Coalition army besieged the ruins of Dragonspear Castle, routed the crusaders, and stopped the Shining Lady from inflicting further destruction upon the [[Sword Coast]]",
+        "Members": {
+            "Notable Members": "* [[Simonetta Twoedged]], a military consultant from Waterdeep\n* [[Halasan|Vigilant Halasan]], a drill instructor responsible for training new recruits\n* [[Theodosia Immartyred]], a [[cleric]] of [[Ilmater]]  that served as the Coalition's lead healer\n* [[Belegarm]], the Coalition logistician and provisioner of the Flaming Fist\n* [[Mizhena]], a devout warrior of [[Tempus]]"
+        }
+    }
+}

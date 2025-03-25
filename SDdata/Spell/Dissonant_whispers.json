@@ -1,0 +1,27 @@
+{
+    "template_data": {
+        "edition": "5e"
+    },
+    "document_data": {
+        "variant": "",
+        "image": "Dissonant Whispers 5e.png",
+        "caption": "",
+        "name": "Dissonant whispers",
+        "school": "[[Enchantment]]",
+        "spheres": "",
+        "domains": "",
+        "inventor": "",
+        "descriptors": "",
+        "keywords": "",
+        "level": "",
+        "type": "",
+        "school5e": "[[Enchantment]]",
+        "patrons5e": "[[Great Old One patron|Great Old One]]",
+        "level5e": "{{spell table|edition=5e|[[Bard]]|1|[[Great Old One patron|Great Old One]]|1}}",
+        "type5e": "",
+        "refs5e": "",
+        "mainbody": "'''Dissonant whispers''' was an [[enchantment]] [[spell]] that created a cacophonous whisper that damaged a target and could make it run away.",
+        "Effects": "The caster would whisper a cacophonous sound that only the target could hear. It caused damage to the target and, if they couldn't resist the spell, they had to move away from the caster. If the target did resist the spell, then they only took half the damage and didn't have to retreat. If the spell was cast with a higher spell level, then the spell caused more damage to the target.\n\nA target that couldn't hear would not be effected by this spell.",
+        "Components": "Only a vocal component was needed for the casting of this spell."
+    }
+}

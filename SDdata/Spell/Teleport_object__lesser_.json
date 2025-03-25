@@ -1,0 +1,24 @@
+{
+    "template_data": {
+        "edition": "2e",
+        "100|feet|long": "yes"
+    },
+    "document_data": {
+        "image": "",
+        "caption": "",
+        "name": "Teleport Object",
+        "deity": "",
+        "inventor": "",
+        "type": "",
+        "reversible2e": "",
+        "school2e": "[[Alteration]], [[Dimension]]",
+        "spheres2e": "",
+        "level2e": "{{spell table|edition=2e|[[Wizard]]|3}}",
+        "type2e": "",
+        "refs2e": "{{Cite dragon/220/Moving in Mysterious Ways|31}}",
+        "mainbody": "'''''Teleport object''''' was an [[alteration]] spell that could instantly transport a small object across large distances.",
+        "Effects": "One object weighing no more than a few ounces (a minimum of six for the most basic user, but the spell might as well work with one or two more) could be ''teleported'' by the caster to a location seen before on the same plane. There was a chance that the object arrived off target, just like with a ''[[teleport]]'' spell according to early sources, or up to {{SI|100|feet|long=yes}} away from the designated point in any direction according to later sources. It never materialized within solid matter, however.\n\nIn contrast to the more powerful ''[[teleport object]]'' spell, also known as ''vanish'', an item could not be transported to the [[Ethereal plane]].<ref><ref> Also, the spell did not work on [[undead]] creatures. According to some earlier sources, magical items, or those in the grasp of another, might require stronger spellcraft to transport at all.",
+        "Components": "Aside from [[Verbal component|verbal]] and [[somatic component]]s, ''teleport object'' required a [[gem]]stone that was clear or transparent in uncut form and worth at least 25 [[gold piece]]s. The caster also had to touch the object as part of casting this spell.",
+        "Uses": "This spell was frequently used by mages to exchange written messages, as pieces of [[paper]] presented no problem for its weight restriction."
+    }
+}

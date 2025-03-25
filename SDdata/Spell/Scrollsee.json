@@ -1,0 +1,24 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "variant": "",
+        "image": "",
+        "caption": "",
+        "name": "Scrollsee",
+        "deity": "[[Zaltec]]",
+        "domains": "",
+        "inventor": "",
+        "reversible2e": "",
+        "school2e": "[[Hishna]], [[Divination]], [[Enchantment]]",
+        "spheres2e": "[[Hishna]]",
+        "level2e": "{{spell table|edition=2e|[[Cleric]]|2|[[Hishnashaper]]|2|[[Jaguar Knight]]|2}}",
+        "type2e": "",
+        "refs2e": "",
+        "mainbody": "'''''Scrollsee''''' was a spell unique to [[Maztica]].",
+        "Effects": "When cast, this spell allowed a caster to document events they were witnessing onto a material, which was later replayed as moving images. The recording of an event could be replayed by recasting this spell onto the scroll. The moving image was realistic but had low resolution because of its small size. The quality of the image was also affected by the material component used during casting.",
+        "Casting": "To cast this spell, the caster had to remain still and it required their full concentration. This spell could not be cast while riding a horse but could be cast if on a boat in calm water. During casting, the caster held the material and focused on the event to be recorded.",
+        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, the spell required a [[material component]]: a blank sheet of parchment or papyrus, or smooth bark."
+    }
+}

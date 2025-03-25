@@ -1,0 +1,35 @@
+{
+    "template_data": {
+        "500|mi|long": "yes"
+    },
+    "document_data": {
+        "image": "GreatAmber.PNG",
+        "caption": "A map showing the River Murghol joining the Clearflow River.",
+        "name": "River Murghol",
+        "aliases": "",
+        "type": "River",
+        "region": "[[Thay]], [[Murghôm]], the [[Hordelands]]",
+        "size": "",
+        "depth": "",
+        "river source": "[[Sunrise Mountains]]",
+        "river mouth": "[[River Rauthenflow]]",
+        "tributaries": "[[Clearflow River]]",
+        "tributary of": "River Rauthenflow",
+        "georefs": "",
+        "races": "",
+        "socrefs": "",
+        "usethe": "yes",
+        "useon": "yes",
+        "inhabitants": "",
+        "locations": "yes",
+        "organizations": "",
+        "settlements": "yes",
+        "mountains": "",
+        "events": "",
+        "food and drink": "",
+        "items": "",
+        "mainbody": "The '''River Murghol''' was a waterway found on the outskirts of [[Thay]] and the [[Great Amber Steppes]] in [[east Faerûn]] and the [[Hordelands]].",
+        "Geography": "The River Murghol originated in the [[Sunrise Mountains]] along Thay's eastern boundary. It flowed southeast from the mountains onto the great plains of the Hordelands, joining the [[Clearflow River]] northwest of the [[Mountains of Copper]]. It continued to flow south past the [[Ganathwood]] where it joined the [[River Rauthenflow]] in [[Murghôm]]. It stretched for approximately {{SI|500|mi|long=yes}} along its full span.",
+        "Notable Locations": "* [[Murghyr]]"
+    }
+}

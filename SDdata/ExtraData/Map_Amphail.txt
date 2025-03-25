@@ -1,0 +1,364 @@
+2900
+131851
+
+817406
+787961
+2022-09-22T13:23:56Z
+
+Moviesign
+4079189
+
+Adding categories
+817406
+interactivemap
+text/plain
+{
+    "mapImage": "TheNorth-Amphail.png",
+    "pageCategories": [
+        "Interactive_maps",
+        "Maps_of_Amphail",
+        "Maps_of_cities"
+    ],
+    "defaultSort": "",
+    "coordinateOrder": "xy",
+    "mapBounds": [
+        [
+            0,
+            0
+        ],
+        [
+            706,
+            599
+        ]
+    ],
+    "origin": "top-left",
+    "useMarkerClustering": false,
+    "categories": [
+        {
+            "id": "1",
+            "listId": 1,
+            "name": "Inns, Festhalls and Taverns",
+            "color": "#FA005A",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "2",
+            "listId": 2,
+            "name": "Shops",
+            "color": "#FFC500",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "3",
+            "listId": 3,
+            "name": "Landmarks",
+            "color": "#00FFC5",
+            "symbol": "",
+            "symbolColor": ""
+        }
+    ],
+    "markers": [
+        {
+            "categoryId": "2",
+            "position": [
+                150,
+                425
+            ],
+            "popup": {
+                "title": "Elboar's Finest",
+                "description": "Wine and spirits",
+                "link": {
+                    "url": "Elboar's Finest",
+                    "label": "Elboar's Finest"
+                }
+            },
+            "id": "1"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                600,
+                40
+            ],
+            "popup": {
+                "title": "Imbryl's Cloaks",
+                "description": "Apparel",
+                "link": {
+                    "url": "Imbryl's Cloaks",
+                    "label": "Imbryl's Cloaks"
+                }
+            },
+            "id": "2"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                425,
+                305
+            ],
+            "popup": {
+                "title": "Statue of the Great Shalarn",
+                "description": "Honoring a famous horse"
+            },
+            "id": "3"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                360,
+                220
+            ],
+            "popup": {
+                "title": "The Malanderways",
+                "description": "Town square"
+            },
+            "id": "4"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                430,
+                420
+            ],
+            "popup": {
+                "title": "Stag-Horned Flagon",
+                "description": "Tavern",
+                "link": {
+                    "url": "Stag-Horned Flagon",
+                    "label": "Stag-Horned Flagon",
+                    "target": "_self"
+                }
+            },
+            "id": "5"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                140,
+                520
+            ],
+            "popup": {
+                "title": "Shrunedalar's Secrets",
+                "description": "Boutique",
+                "link": {
+                    "url": "Shrunedalar's Secrets",
+                    "label": "Shrunedalar's Secrets"
+                }
+            },
+            "id": "6"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                520,
+                80
+            ],
+            "popup": {
+                "title": "Mother Gothal's",
+                "description": "Festhall",
+                "link": {
+                    "url": "Mother Gothal's",
+                    "label": "Mother Gothal's"
+                }
+            },
+            "id": "7"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                200,
+                270
+            ],
+            "popup": {
+                "title": "Maerlbar Eggs & Fresh Fowl",
+                "description": "Fowler",
+                "link": {
+                    "url": "Maerlbar Eggs & Fresh Fowl",
+                    "label": "Maerlbar Eggs & Fresh Fowl"
+                }
+            },
+            "id": "8"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                240,
+                40
+            ],
+            "popup": {
+                "title": "Eagleshield Fine Horse Leathers",
+                "description": "Tack store",
+                "link": {
+                    "url": "Eagleshield Fine Horse Leathers",
+                    "label": "Eagleshield Fine Horse Leathers"
+                }
+            },
+            "id": "9"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                585,
+                363
+            ],
+            "popup": {
+                "title": "Ammakyl Flowers and Foods",
+                "description": "Produce store",
+                "link": {
+                    "url": "Ammakyl Flowers and Foods",
+                    "label": "Ammakyl Flowers and Foods"
+                }
+            },
+            "id": "10"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                643,
+                252
+            ],
+            "popup": {
+                "title": "Halana Shauluth's",
+                "description": "Bakery",
+                "link": {
+                    "url": "Halana Shauluth's",
+                    "label": "Halana Shauluth's"
+                }
+            },
+            "id": "11"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                220,
+                150
+            ],
+            "popup": {
+                "title": "Blodhlar's Wares",
+                "description": "Hardware store",
+                "link": {
+                    "url": "Blodhlar's Wares",
+                    "label": "Blodhlar's Wares"
+                }
+            },
+            "id": "12"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                570,
+                190
+            ],
+            "popup": {
+                "title": "Hagala's Manyturrets",
+                "description": "Rooming house",
+                "link": {
+                    "url": "Hagala's Manyturrets",
+                    "label": "Hagala's Manyturrets"
+                }
+            },
+            "id": "13"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                410,
+                515
+            ],
+            "popup": {
+                "title": "Golaund Sester's",
+                "description": "Rooming house",
+                "link": {
+                    "url": "Golaund Sester's",
+                    "label": "Golaund Sester's"
+                }
+            },
+            "id": "14"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                550,
+                510
+            ],
+            "popup": {
+                "title": "Pelost Galathaer",
+                "description": "Carpenter",
+                "link": {
+                    "url": "Pelost Galathaer",
+                    "label": "Pelost Galathaer"
+                }
+            },
+            "id": "15"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                435,
+                24
+            ],
+            "popup": {
+                "title": "Stone Stallion",
+                "description": "Inn",
+                "link": {
+                    "url": "Stone Stallion",
+                    "label": "Stone Stallion"
+                }
+            },
+            "id": "16"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                496,
+                360
+            ],
+            "popup": {
+                "title": "Well",
+                "description": "Public access well"
+            },
+            "id": "17"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                32,
+                300
+            ],
+            "popup": {
+                "title": "Horse pond",
+                "description": "Watering hole"
+            },
+            "id": "18"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                49,
+                32
+            ],
+            "popup": {
+                "title": "The Middens",
+                "description": "City dump"
+            },
+            "id": "19"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                650,
+                496
+            ],
+            "popup": {
+                "title": "The Old Dead Rowan",
+                "description": "Meeting and picnic spot"
+            },
+            "id": "20"
+        }
+    ]
+}
+idqq6937omi6z8wf10h9jytdffica58
+
+

@@ -1,0 +1,18 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "name": "Genius",
+        "school2e": "[[Divination]]",
+        "spheres2e": "[[Thought sphere|Thought]]",
+        "level2e": "{{spell table|edition=2e|[[Priest]]|4|[[Monk]]|4|[[Thought sphere|Thought]]|4}}",
+        "type2e": "",
+        "refs2e": "",
+        "mainbody": "'''Genius''' was a [[divination]] spell that [[priest]]s could use to gain a burst of knowledge useful to understanding their current predicament.",
+        "Effects": "This spell granted the caster specific knowledge that could help them evaluate the situation at hand. For example, the granted information could help in identifying creatures in front of them. The granted knowledge was always relevant and correct, although it could be incomplete or cryptic.\n\nThis spell had a cool-down period of twelve hours before it could be cast again.",
+        "Components": "A [[gem]] with a value of at least 50 [[gp]] was required to cast this spell, in addition to [[verbal]] and [[somatic component]]s.",
+        "History": "Genius was one of the spells [[priest]]s could learn by reading [[Wythyndle's Round Book]].",
+        "References": "{{refs}}\n[[Category:Divination spells]]\n[[Category:Cleric spells]]\n[[Category:Monk spells]]\n[[Category:Year of Miracles]]\nt5e4n77krzikboefmvo5jp48xijhnhk"
+    }
+}

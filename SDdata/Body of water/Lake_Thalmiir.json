@@ -1,0 +1,43 @@
+{
+    "template_data": {
+        "60|80|feet|long": "yes",
+        "20|feet|long": "yes"
+    },
+    "document_data": {
+        "image": "Drizzt's Underdark Map.jpg",
+        "caption": "A map of the Underdark showing Lake Thalmiir at the center.",
+        "name": "Lake Thalmiir",
+        "aliases": "Purewaters",
+        "type": "Lake",
+        "region": "[[Deep Wastes]], [[Underdark]], [[Middledark]]",
+        "size": "",
+        "depth": "",
+        "river source": "",
+        "river mouth": "",
+        "tributaries": "",
+        "tributary of": "",
+        "georefs": "{{cite web/Ed Greenwood's Patreon/Purewaters: An Underdark Landmark}}",
+        "races": "",
+        "socrefs": "",
+        "usethe": "",
+        "useon": "",
+        "inhabitants": "",
+        "locations": "yes",
+        "organizations": "",
+        "settlements": "",
+        "mountains": "",
+        "events": "",
+        "food and drink": "",
+        "items": "",
+        "mainbody": "'''Lake Thalmiir''', also known as '''Purewaters''', was a subterranean lake located in the [[Middledark]] beneath eastern [[Cormyr]], near [[Sschindylryn]].",
+        "Environment and Geography": {
+            "Climate": "The lake's waters were warm because of the underlying magma, which supported a unique ecosystem. The warmth circulated throughout the lake, aided by the movement of [[fur stack fungi]] within its depths.",
+            "Flora & Fauna": "Lake Thalmiir hosted a variety of unique creatures. The depths were filled with tree-like fur stack fungi, which filtered the water and were responsible for its purity.\n\nAmongst other creatures, the lake was inhabited by sightless black [[eel]]s up to over {{SI|20|feet|long=yes}} long, [[luslar]] fish, and freshwater [[eye of the deep|eyes of the deep]]."
+        },
+        "History": "Lake Thalmiir was named after [[Thalmiir]], a [[thaalud]] that had been interred there over a millennium prior to the {{yearlinkName|1499}}. [[Cave fisher]]s had held the area, until they were eradicated by [[drow]], at a very high cost in lives. Since then, Lake Thalmiir had been contested by drow and [[mind flayer]]s, both seeking control over the area.\n\nIn the {{yearlinkName|1473}}, a fierce battle occurred between a [[deep dragon]] and the defenders of Sschindylryn over the lake. Although the dragon was eventually driven away, it resulted in the loss of hundreds of combatants, some of them sorcerers and priestesses of [[Lolth]]. The drow left the [[enchanted]] accoutrements of their fallen in the waters throughout every conflict, rather than disturbing the possessions of the dead.",
+        "Inhabitants": "* [[Mralrynx Arzhund]], a [[Netherese]] [[lich]].\n* [[Xaughvulnaar]], an [[undead]] [[elder brain]].",
+        "Notable Locations": "* [[Drythroat]]: A natural rock trench through which the lake overflowed into Daerbraun.\n* [[Daerbraun]]: A pit-shaped lake named after a drow war leader who perished in its waters. It received overflow from Lake Thalmiir and drained into the [[Lowerdark]].\n* Portal: A ''[[portal]]'' on the northwestern shore led to an ancient, abandoned drow monastery.",
+        "Significance": "Rarely, thaluud came to Lake Thalmiir believing that guidance from Thalmiir's spirit could be found there.",
+        "Rumors and Legends": "[[Elminster]] himself advised against venturing there, citing the numerous threats that outweighed the potential rewards."
+    }
+}

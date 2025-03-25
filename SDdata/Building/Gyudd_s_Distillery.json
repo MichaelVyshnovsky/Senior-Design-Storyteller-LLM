@@ -1,0 +1,37 @@
+{
+    "template_data": {
+        "5|gallon|l|long": "yes"
+    },
+    "document_data": {
+        "image": "",
+        "caption": "",
+        "name": "Gyudd's Distillery",
+        "aliases": "",
+        "type": "Distillery",
+        "architecture": "Stone building",
+        "floors": "3",
+        "location": "[[Skullport/Lower Port|Lower Port]], [[Skullport]]",
+        "owner": "[[Gyudd]]",
+        "ownertable": "",
+        "staff": "",
+        "stafftable": "",
+        "occupants": "",
+        "services": "Alcoholic beverages by the [[cask]]",
+        "worship": "",
+        "pipes": "",
+        "tankards": "",
+        "coins": "",
+        "daggers": "",
+        "quality": "",
+        "price": "",
+        "usethe": "",
+        "useon": "",
+        "inhabitants": "",
+        "locations": "",
+        "organizations": "",
+        "mainbody": "'''Gyudd's Distillery''' was a business located within the subterranean city of [[Skullport]] that specialized in the creation of certain spirits. It was run by the [[shield dwarf]] [[Gyudd]], after whom it was named.\n\nThe establishment could be found within the lowest level of the city, known as [[Dredge|the Dredge]] and was so tall that it extended beyond [[Venter|the Venter]].",
+        "Services": {
+            "Prices": "The different spirits were available in [[cask]]s of {{SI|5|gallon|l|long=yes}}. The prices were as follows:\n* [[Amberjack]]: 20 [[gp]]\n* [[Goat's Head ale]]: 10 gp\n* [[Wyrmwizz]]: 5 gp"
+        }
+    }
+}

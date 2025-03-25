@@ -1,0 +1,17 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "name": "Falling Wall",
+        "inventor": "",
+        "school2e": "[[Evocation]]",
+        "level2e": "{{Spell table|edition=2e|[[Wizard]]|2}}",
+        "type2e": "",
+        "refs2e": "",
+        "mainbody": "'''''Falling wall''''' was an [[arcane]] [[evocation]] spell that created a temporary wall composed of armored plates that fell from above.{{Cite dragon/211/The Wizards Three: A Night of Shadows|84}}",
+        "Effects": "When cast, this spell caused 4-inch-thick (10 centimeters) plates of armor to \"fall\" into place in a line 20 feet long by 20 feet high (6.1 meters by 6.1 meters). The wall only lasted a short time before melting away into nothingness. While in effect, the wall presented an immovable object that could withstand any amount of force, but could be removed by spells such as ''[[dispel magic]]'' or ''[[disintegrate]]''. Most other spells bounced off the wall or were forced to go around it if they could.\n\nA ''falling wall'' could be used to damage a creature or object if it landed on it when cast. If a creature struck the wall with uncontrolled force (such as running into it at full speed) it would also suffer damage.\n\nThe spell did not require concentration to maintain.",
+        "Components": "''Falling wall'' had both verbal and somatic components. It also required a piece of armor that had been worn into battle or a piece of tempered metal as a material component.",
+        "History": "During one of their many spell-sharing sessions, [[Elminster]] shared this spell with the wizards [[Mordenkainen]] of [[Oerth]] and [[Dalamar]] of [[Krynn]]."
+    }
+}

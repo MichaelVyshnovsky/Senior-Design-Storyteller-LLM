@@ -1,0 +1,21 @@
+{
+    "template_data": {
+        "edition": "2e",
+        "edition_1": "1e"
+    },
+    "document_data": {
+        "name": "Laeral's Dancing Dweomer",
+        "inventor": "[[Laeral Silverhand]]",
+        "school2e": "[[Illusion]] (Phantasm)",
+        "level2e": "{{Spell table|edition=2e|[[Wizard]]|3}}",
+        "type2e": "",
+        "refs2e": "",
+        "school1e": "",
+        "level1e": "{{spell table|edition=1e|[[Magic-user]]|3}}",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''Laeral's dancing dweomer''' was an [[illusion]]/phantasm that obfuscated magic [[aura]]s, confusing any attempt to use ''[[detect magic]]'' spells or abilities.",
+        "Effects": "This spell created twenty false magic auras that flickered from object to object within the effected area, creating or masking auras on items as they went. Attempting to ''detect magic'' revealed that all items in the area had a magic aura that winked on and off, making true determination impossible. The spell could cover a sphere of 20 ft (6.1 m) radius and be cast at a range of 20 yd (18.3 m) plus increments of 10 yd (9.1 m) according to the experience of the caster. The spell lasted for a minimum of 50 minutes and longer for more experienced casters. It was possible for a seeker to overcome this spell with sufficient resistance and it did not fool ''[[true sight]]''.",
+        "Components": "This spell required verbal and somatic components to cast, as well as a pinch of dust tossed in the air for the material component."
+    }
+}

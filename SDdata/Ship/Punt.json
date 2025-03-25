@@ -1,0 +1,41 @@
+{
+    "template_data": {
+        "10|ton|k|long": "yes",
+        "3|mile|long": "yes",
+        "adj": "long"
+    },
+    "document_data": {
+        "image": "Charon.jpg",
+        "caption": "[[Charon]] taking some poor punt long the River [[Styx]].",
+        "name": "Punt",
+        "propername": "",
+        "aliases": "",
+        "type": "Boat",
+        "size": "",
+        "location": "",
+        "captain": "",
+        "notable crew": "",
+        "flag": "",
+        "built by": "",
+        "used by": "",
+        "value": "",
+        "basicrefs": "",
+        "tonnage": "",
+        "crew": "",
+        "passengers": "",
+        "armament": "",
+        "cargo": "",
+        "keel length": "",
+        "beam width": "",
+        "configrefs": "",
+        "usethe": "",
+        "useon": "",
+        "inhabitants": "",
+        "mainbody": "'''Punts''' were a type of flat-bottomed boat used in calm waters, similar to [[rowboat]]s. Unlike rowboats, which were propelled by [[oar]]s, punts were customarily propelled with the use of poles pushed against the riverbed or lakebed.",
+        "Notable Users": {
+            "Individuals": "* [[Goodwin]] of [[Haywood]] used a punt to navigate the [[Swamp of Nether]] in [[1371 DR]], but the ship began sinking shortly after a [[black dragon]] rose up beneath it.<ref>\n* [[Kao Chou Tang]] used a punt to navigate the [[Nameless swamp (Dragon Coast)|nameless swamp]] of the [[Dragon Coast]].<ref>",
+            "Nations & Settlements": "* Those in the city-state of [[Cursrah]] used punts to navigate its lake.\n* The [[frost giant]]s of [[Svardborg]] utilized giant-sized punts, comparable in size to that of a [[human]] [[longship]], made from frost-covered wood. They could hold up to two [[giant]]s at a time and carry {{SI|10|ton|k|long=yes}} of cargo. It would take up to eight humans or [[demihuman]]s to move one of these punts.<ref>\n* In the land of [[Rashemen]], the people of [[Taporan]] commonly used punts to transport both goods and people along the [[River Tir]].\n* The [[derro]] of the [[Shadow Kingdom]] sometimes used punts to navigate the rivers of the [[Underdark]].<ref>{{Cite dungeon/20/The Ship of Night|14}}\n* In the land of [[Thindol]], punts were commonly used as a form of hireable transportation in [[Delselar]] to reach different parts of the {{SIAdj|3|mile|long=yes|adj=long}} town that stretched along the [[River Dolsel]].",
+            "Religions": "* Punts were among the many types of small seacraft that [[Wavetamer]]s, [[specialty priest]]s in the [[Church of Valkur]], could expertly guide down rapid streams.<ref>"
+        }
+    }
+}

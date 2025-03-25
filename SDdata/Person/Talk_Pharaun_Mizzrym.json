@@ -1,0 +1,15 @@
+{
+    "document_data": {
+        "name": "Vierna Do'Urden",
+        "home": "[[Menzoberranzan]]",
+        "gender": "Female",
+        "race": "[[Drow]]",
+        "age": "''Deceased''",
+        "class": "[[Priestess]] of [[Lolth]]",
+        "alignment": "[[Neutral evil]]",
+        "patron deity": "[[Lolth]]",
+        "mainbody": "</pre></blockquote>\n\n: Let me know if that works.  Cheers, {{User:SkyeNiTessine/Sig1}} 21:02, 12 August 2008 (UTC)\n\nYep thats exactly what I needed thanks mate. --[[User:Mhelvi&#39;virr|M Helvi&#39;virr]] 23:22, 12 August 2008 (UTC)",
+        "Small question": "How do you get the section to appear in there information box for patron deity? Rather how do you edit it?\n--[[User:Mhelvi&#39;virr|M Helvi&#39;virr]] 19:40, 12 August 2008 (UTC)\n\n: Add <span style=\"background:yellow;\"> <nowiki> | patron deity=[[Lolth]]</nowiki></span>, like so:\n<blockquote><pre>\n{{Person\n| image     =\n| name      = Vierna Do'Urden\n| home      = [[Menzoberranzan]]\n| gender    = Female\n| race      = [[Drow]]\n| age       = ''Deceased''\n| class     = [[Priestess]] of [[Lolth]]\n| dob       =\n| alignment = [[Neutral evil]]\n| patron deity= [[Lolth]]\n}}\n</pre></blockquote>\n\n: Let me know if that works.  Cheers, {{User:SkyeNiTessine/Sig1}} 21:02, 12 August 2008 (UTC)\n\nYep thats exactly what I needed thanks mate. --[[User:Mhelvi&#39;virr|M Helvi&#39;virr]] 23:22, 12 August 2008 (UTC)",
+        "Thomas Reid's novel": "The personal history section states:\n\n\"He is later resurrected by Allisza in Thomas Reid's book, \"The Crystal Kingom\", into the cleric Zaisan's body before polymorphing it into his own likeness. The body is rapidly decaying however and he only has a short time to live. He is ultimately re-killed and returns to the Demonweb Pits.\"\n\nI do not believe that Thomas Reid wrote a novel called \"The Crystal Kingdom\". I have yet to read this series of novels but I think that those events really occur in \"The Crystal Mountain.\"\n5kevkrh4670ppm6s6w70exo6dd0128t"
+    }
+}

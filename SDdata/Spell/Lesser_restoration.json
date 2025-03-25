@@ -1,0 +1,33 @@
+{
+    "template_data": {
+        "edition": "5e",
+        "edition_1": "3e",
+        "edition_2": "2e"
+    },
+    "document_data": {
+        "name": "Lesser Restoration",
+        "image": "Lesser Restoration php5e revised.png",
+        "school5e": "[[Abjuration]]",
+        "domains5e": "[[Life domain|Life]]",
+        "circles5e": "",
+        "oaths5e": "[[Devotion oath|Devotion]]",
+        "patrons5e": "[[Celestial patron|Celestial]]",
+        "traditions5e": "",
+        "level5e": "{{spell table|edition=5e|[[Artificer]]|2|[[Bard]]|2|[[Celestial patron|Celestial]]|2|[[Cleric]]|2|[[Devotion oath|Devotion]]|2|[[Druid]]|2|[[Life domain|Life]]|2|[[Paladin]]|2|[[Ranger]]|2}}",
+        "type5e": "",
+        "refs5e": "",
+        "level3e": "{{spell table|edition=3e|[[Beloved of Lurue]]|2|[[Champion of Gwynharwyf]]|1|[[Chastity domain|Chastity]]|2|[[Cleric]]|2|[[Druid]]|2|[[Paladin]]|1|[[Renewal domain|Renewal]]|2|[[Sohei]]|2}}",
+        "domains3e": "[[Chastity domain|Chastity]], [[Renewal domain|Renewal]]",
+        "school3e": "[[Conjuration]] ([[Healing spells|Healing]])",
+        "refs3e": "{{Cite dragon/355/Seven Saintly Domains|26}}",
+        "type3e": "",
+        "school2e": "[[Necromancy]]",
+        "spheres2e": "[[Necromantic sphere|Necromantic]]",
+        "level2e": "{{spell table|edition=2e|[[Cleric]]|2|[[Crusader]]|2|[[Monk]]|2|[[Mystic]]|2|[[Necromantic sphere|Necromantic]]|2}}",
+        "type2e": "",
+        "refs2e": "",
+        "mainbody": "'''''Lesser restoration''''', and a more limited version known as '''''restore strength''''', were [[conjuration]] and [[necromancy]] spells (respectively) that removed a temporary handicap caused by certain creature attacks, poisons, and magical effects.",
+        "Effects": "The necromantic version of this spell, ''restore strength'', could only alleviate temporary losses of strength, whereas the conjuration version returned lost strength, constitution, dexterity, intelligence, wisdom, or charisma (only one of these characteristics per casting of ''lesser restoration''). Using strength loss as an example, these spells could restore some or all of the losses due to ''[[chill touch]]'', ''[[ray of enfeeblement]]'', ''[[ray of fatigue]]'', the excretion of a [[roper]], the touch of a [[shadow]], [[poison|spider venom]], and similar debilitating effects. The conjuration version also alleviated fatigue or revitalized an exhausted state to be merely fatigued.\n\nPermanent losses, or losses due to a physical injury, disease, or other natural causes were not restored by these spells.",
+        "Components": "Only verbal and somatic components were required to cast these spells."
+    }
+}

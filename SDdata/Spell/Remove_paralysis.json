@@ -1,0 +1,31 @@
+{
+    "template_data": {
+        "edition": "3e",
+        "edition_1": "2e",
+        "edition_2": "1e",
+        "30|ft|long": "yes",
+        "20|ft|long": "yes"
+    },
+    "document_data": {
+        "name": "Remove Paralysis",
+        "school3e": "[[Conjuration]] ([[Healing spells|Healing]])",
+        "domains3e": "",
+        "descriptors3e": "",
+        "level3e": "{{spell table|edition=3e|[[Cleric]]|2|[[Paladin]]|2|[[Sohei]]|2}}",
+        "type3e": "",
+        "refs3e": "",
+        "school2e": "[[Abjuration]]",
+        "spheres2e": "[[Necromantic sphere|Necromantic]],<ref group=\"note\">This spell was added to the [[Necromantic sphere]] by the [[Player's Option: Spells & Magic]] sourcebook. See page 187. [[Protection sphere|Protection]]",
+        "level2e": "{{spell table|edition=2e|[[Cleric]]|3|[[Crusader]]|3|[[Monk]]|3|[[Mystic]]|3|[[Necromantic sphere|Necromantic]]|3|[[Paladin]]|3|[[Protection sphere|Protection]]|3|[[Shaman]]|3}}",
+        "type2e": "",
+        "refs2e": "",
+        "reversible1e": "true",
+        "school1e": "[[Abjuration]]",
+        "level1e": "{{spell table|edition=1e|[[Cleric]]|4|[[Shugenja|Shukenja]]|3|[[Witch doctor]]|3}}",
+        "type1e": "",
+        "refs1e": "{{Cite dragon/141/Orcs Throw Spells, Too!|26}}",
+        "mainbody": "'''''Remove paralysis''''' was a [[conjuration]] or [[abjuration]] spell that could free a small number of creatures from a paralyzing effect. It had a reverse form called '''''cause paralysis'''''.",
+        "Effects": "Paralyzing effects that could be removed by this spell included ''[[slow]]'' or ''[[hold]]'' spells, and [[ghoul]] touch. ''Remove paralysis'' could effect one to four creatures, which had to be in fairly close proximity (no more than {{SI|30|ft|long=yes}} apart for the conjuration version; inside a {{SI|20|ft|long=yes}} cube for the abjuration) with no barrier between them and the caster. If three or four creatures were targeted, they each got another chance to resist the paralyzing effect. If two creatures were targeted, they both were twice as likely to resist being paralyzed. If only one creature was targeted, it was guaranteed to be released from paralyzation.\n\nThe reverse form of this spell could only paralyze one target and required the caster to touch the target with their [[holy symbol]].",
+        "Components": "Only [[verbal]] and [[somatic]] components were required to cast this spell."
+    }
+}

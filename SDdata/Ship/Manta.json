@@ -1,0 +1,36 @@
+{
+    "template_data": {
+        "240|miles|long": "yes",
+        "360|miles|long": "yes"
+    },
+    "document_data": {
+        "image": "SahuaginManta.png",
+        "caption": "A manta in use",
+        "name": "Manta",
+        "propername": "Fliers",
+        "aliases": "",
+        "type": "Barge",
+        "size": "",
+        "location": "",
+        "captain": "",
+        "notable crew": "",
+        "flag": "",
+        "built by": "[[Sahuagin]]",
+        "used by": "Sahuagin",
+        "value": "",
+        "basicrefs": "",
+        "tonnage": "",
+        "crew": "~600 sahuagin",
+        "passengers": "",
+        "armament": "None",
+        "cargo": "",
+        "keel length": "{{SI|200|ft}}",
+        "beam width": "{{SI|75|ft}}",
+        "configrefs": "",
+        "usethe": "",
+        "useon": "",
+        "inhabitants": "",
+        "mainbody": "'''Mantas'''<ref>, otherwise referred to by their creators as '''fliers''', were a type of submersible barge used by [[sahuagin]] to transport both themselves and their ill-gotten gains.",
+        "Description": "This vessel's surface-dweller name was derived from its resemblance to the [[manta ray|creature of the same name]].\n\nThese vessels were typically constructed from salvaged shipwrecks, and the odd coastal wood. They could typically carry a crew of up to six hundred sahuagin or more. On average, a manta could traverse up to {{SI|240|miles|long=yes}} a day or, if need be, {{SI|360|miles|long=yes}} a day at risk of exhausting the crew (equivalent to a forced march for surface dwellers). This feat was achieved by crew rotation, as two-thirds of the crew would actively be pushing the vehicle forward, while the remainder rested on top of the craft."
+    }
+}

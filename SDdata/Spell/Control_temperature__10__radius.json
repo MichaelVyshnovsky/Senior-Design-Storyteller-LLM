@@ -1,0 +1,20 @@
+{
+    "template_data": {
+        "edition": "2e",
+        "edition_1": "1e"
+    },
+    "document_data": {
+        "name": "Control Temperature, 10' Radius",
+        "school2e": "[[Alteration]]",
+        "spheres2e": "[[Weather sphere|Weather]]",
+        "level2e": "{{spell table|edition=2e|[[Druid]]|4|[[Weather sphere|Weather]]|4}}",
+        "type2e": "",
+        "refs2e": "",
+        "school1e": "[[Alteration]]",
+        "level1e": "{{spell table|edition=1e|[[Druid]]|4}}",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Control temperature, 10' radius''''' was an [[alteration]] spell that allowed the caster to raise or lower the temperature of the immediate environment around the caster.",
+        "History": "It was recorded in ''[[Yornar's Trail Companion]]'', a holy text of the [[church of Mielikki]].<ref>"
+    }
+}

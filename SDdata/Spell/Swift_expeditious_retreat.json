@@ -1,0 +1,14 @@
+{
+    "template_data": {
+        "edition": "3e"
+    },
+    "document_data": {
+        "name": "Swift Expeditious Retreat",
+        "school3e": "[[Transmutation]]",
+        "level3e": "{{spell table|edition=3e|[[Bard]]|1|[[Sorcerer]]|1|[[Wizard]]|1|}}",
+        "refs3e": "",
+        "mainbody": "reversible2e  =\n| school2e      =\n| spheres2e     =\n| level2e       =\n| type2e        =\n| refs2e        =\n| reversible1e  =\n| school1e      =\n| level1e       =\n| type1e        =\n| refs1e        =\n}}\n'''''Swift expeditious retreat''''' was a simple spell that allowed the user to escape from danger quickly.",
+        "Effects": "The effects of this spell were similar to those of ''[[expeditious retreat]]'', except that it had a much shorter duration and a much faster and simpler spell completion. While both spells increased the speed of the caster, the effects of ''swift expeditious retreat'' lasted only six seconds, compared to minutes for ''expeditious retreat''. The swift version of the spell could be cast in only moments, and the caster spoke the words in a breathless voice, as if out of breath from running.",
+        "Components": "Unlike ''expeditious retreat'', this spell only required a [[verbal component]]."
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "template_data": {
+        "edition": "5e",
+        "variant": "cantrip",
+        "edition_1": "3e",
+        "edition_2": "2e",
+        "edition_3": "1e"
+    },
+    "document_data": {
+        "image": "Message W&S.PNG",
+        "caption": "",
+        "name": "Message",
+        "deity": "",
+        "inventor": "[[Xanad]]",
+        "type": "",
+        "school5e": "[[Transmutation]]",
+        "domains5e": "",
+        "circles5e": "",
+        "oaths5e": "",
+        "patrons5e": "",
+        "traditions5e": "",
+        "level5e": "{{Spell table|edition=5e|variant=cantrip|[[Artificer]]|0|[[Bard]]|0|[[Sorcerer]]|0|[[Wizard]]|0}}",
+        "type5e": "[[Cantrip]]",
+        "refs5e": "",
+        "keywords4e": "",
+        "level4e": "",
+        "type4e": "",
+        "refs4e": "",
+        "school3e": "[[Transmutation]]",
+        "domains3e": "",
+        "descriptors3e": "{{Desc/language-dependent}}",
+        "level3e": "{{spell table|edition=3e|[[Bard]]|1|[[Harper agent]]|1|[[Merchant prince]]|1|[[Sorcerer]]|1|[[Trade domain|Trade]]|1|[[Wizard]]|1|[[Wu jen]]|0}}",
+        "type3e": "",
+        "refs3e": "",
+        "reversible2e": "",
+        "school2e": "[[Alteration]]<br/>[[Universal (province)]]<br/>[[Inventive]]",
+        "spheres2e": "",
+        "level2e": "{{spell table|edition=2e|[[Arcanist]]|1|[[Wizard]]|1}}",
+        "type2e": "",
+        "refs2e": "<ref><ref>",
+        "reversible1e": "",
+        "school1e": "[[Alteration]]",
+        "level1e": "{{spell table|edition=1e|[[Wu jen]]|1}}",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Message''''' was a [[transmutation]] spell that let one converse in whispers at a distance. The spell was language-dependent.",
+        "Components": {
+            "Inscription": "According to the tome known as the ''[[Book of the Silver Talon]]'', the ingredients for the [[ink]] used to inscribe ''message'' into [[spellbook]]s were: one ounce of [[giant squid]] sepia, a non-[[human]] ear, a non-human tongue from a different body than the ear, an [[angelica (plant)|angelica]] plant, a [[turnip]], three shoots of foxtail grass, six leaves of [[hedge mustard]] and a drop of dew. \n\nThe single drop of dew was gathered from a fern leaf during a full moon and placed dropped in a [[cauldron]] of boiling water. The tongue, angelica plant, mustard, foxtail, turnip and ear were shredded and added to the mixture as it heated, in their respective order until it boiled over. The sepia was warmed over a flame, to which was added the residue of the boiling concoction. It was kept on the flame for another hour and stirred constantly. After the hour it was cooled and left in a [[vial]] for a full day."
+        },
+        "History": "The spell was attributed to [[Netherese arcanist]] [[Xanad]] in {{Yearlink|-715}} and was originally called ''Xanad's message''."
+    }
+}

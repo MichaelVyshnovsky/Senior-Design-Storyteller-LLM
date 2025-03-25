@@ -1,0 +1,235 @@
+2900
+143705
+
+819852
+819850
+2022-09-30T20:37:13Z
+
+WanderingKobold
+48279983
+
+819852
+interactivemap
+text/plain
+{
+    "mapImage": "Urml-map.jpg",
+    "pageCategories": [
+        "Interactive_maps",
+        "Maps_of_Urml",
+        "Maps_of_cities"
+    ],
+    "defaultSort": "",
+    "description": "",
+    "coordinateOrder": "xy",
+    "mapBounds": [
+        [
+            0,
+            0
+        ],
+        [
+            844,
+            476
+        ]
+    ],
+    "origin": "bottom-left",
+    "useMarkerClustering": false,
+    "categories": [
+        {
+            "id": "1",
+            "listId": 1,
+            "name": "Inns, Festhalls and Taverns",
+            "color": "#FA005A",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "2",
+            "listId": 2,
+            "name": "Shops",
+            "color": "#FFC500",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "3",
+            "listId": 3,
+            "name": "Landmarks",
+            "color": "#bd00ff",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "4",
+            "listId": 4,
+            "name": "Private residences",
+            "color": "#66ff00",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "5",
+            "listId": 5,
+            "name": "Temples and shrines",
+            "color": "#0089fa",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "6",
+            "listId": 6,
+            "name": "Businesses",
+            "color": "#8eBc8e",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "7",
+            "listId": 7,
+            "name": "Roads and trails",
+            "color": "#7f0000",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "8",
+            "listId": 8,
+            "name": "Public Buildings",
+            "color": "#e0beff",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "9",
+            "listId": 9,
+            "name": "Gates, docks and portals",
+            "color": "#cccccc",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "10",
+            "listId": 10,
+            "name": "Parks and Gardens",
+            "color": "#007f00",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "11",
+            "listId": 11,
+            "name": "Bodies of water",
+            "color": "#00e8ff",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "12",
+            "listId": 12,
+            "name": "Events",
+            "color": "#ccff00",
+            "symbol": "",
+            "symbolColor": ""
+        }
+    ],
+    "markers": [
+        {
+            "categoryId": "5",
+            "position": [
+                313.24830406564,
+                237.58787847868
+            ],
+            "popup": {
+                "title": "Temple of Tyr",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "1"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                311.48053711267,
+                172.18050121892
+            ],
+            "popup": {
+                "title": "Keep of Military Knowledge",
+                "description": "College and library",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "2"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                423,
+                339
+            ],
+            "popup": {
+                "title": "Fairgrounds",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "3"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                819,
+                160
+            ],
+            "popup": {
+                "title": "Orsraun mountains",
+                "description": "",
+                "link": {
+                    "url": "Orsraun Mountains",
+                    "label": "Orsraun Mountains"
+                }
+            },
+            "id": "4"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                11,
+                202
+            ],
+            "popup": {
+                "title": "Road to Ormath",
+                "description": "",
+                "link": {
+                    "url": "Ormath",
+                    "label": "Ormath"
+                }
+            },
+            "id": "5"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                753,
+                300
+            ],
+            "popup": {
+                "title": "Tyr's Watch",
+                "description": "Mountain summit",
+                "link": {
+                    "url": "Tyr's Watch",
+                    "label": "Tyr's Watch"
+                }
+            },
+            "id": "6"
+        }
+    ]
+}
+am5b8f350bxbz7fdz2zpce59rhrpibr
+
+

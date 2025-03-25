@@ -1,0 +1,14 @@
+{
+    "template_data": {
+        "edition": "4e"
+    },
+    "document_data": {
+        "type": "",
+        "name": "Dancing Lightning",
+        "keywords4e": "{{Desc/arcane}}{{desc/implement}}{{Desc/lightning}}{{Desc/thunder}}",
+        "school": "",
+        "level4e": "{{spell table|edition=4e|[[Sorcerer]]|3}}",
+        "type4e": "Encounter",
+        "mainbody": "'''''Dancing lightning''''' is an [[evocation school|evocation]] [[spell]] used by many [[sorcerer]]s early in their training that is similar to ''[[lightning bolt]]''. When a sorcerer casts ''dancing lightning'', he or she causes lightning to strike from the sky into a target at some fifty feet or less. Thunder subsequently booms around the target as well, dealing further damage. ''Dancing lightning'' is not particularly difficult to cast, taking only an instant to use and a rest of a few minutes or more to recharge."
+    }
+}

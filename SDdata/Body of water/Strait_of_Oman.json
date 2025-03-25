@@ -1,0 +1,36 @@
+{
+    "template_data": {
+        "100|mi|k|long": "yes",
+        "100|mi|k|long_1": "yes"
+    },
+    "document_data": {
+        "image": "Moonshae Isles.png",
+        "caption": "A map showing the Stait of Oman between Oman and Gwynneth.",
+        "name": "Strait of Oman",
+        "aliases": "",
+        "type": "Strait",
+        "region": "The [[Sea of Moonshae]], the [[Moonshae Isles]]",
+        "size": "{{SI|100|mi|k|long=yes}} in length",
+        "depth": "",
+        "river source": "",
+        "river mouth": "",
+        "tributaries": "",
+        "tributary of": "",
+        "georefs": "<ref name=PoM.M\">",
+        "races": "",
+        "socrefs": "",
+        "usethe": "yes",
+        "useon": "yes",
+        "inhabitants": "",
+        "locations": "yes",
+        "organizations": "",
+        "settlements": "",
+        "mountains": "",
+        "events": "",
+        "food and drink": "",
+        "items": "",
+        "mainbody": "The '''Strait of Oman''' was a narrow channel of the [[Sea of Moonshae]] that separated the islands of [[Oman's Isle]] and [[Gwynneth]] in the [[Moonshae Isles]].{{Cite dungeon/196/Backdrop: Moonshae Isles|11}}",
+        "Geography": "The strait measured approximately {{SI|100|mi|k|long=yes}} from end to end. Several settlements were located along its length. The [[Codsrun Creek]] emptied into the strait at the [[Codsbay]] on Gwynneth's north shore.",
+        "Notable Locations": "* [[Manger]]\n* [[Codscove]]\n* [[Ramshorn]]"
+    }
+}

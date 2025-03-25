@@ -1,0 +1,54 @@
+{{Spell
+| type          = 
+| image         = Dread.jpg
+| caption       = A [[dread]] guardian, created with the animate dead spell.
+| name          = Animate Dead
+| inventor      = [[Fjord (arcanist)|Fjord]]
+| school5e      = [[Necromancy]]
+| domains5e     = [[Death domain|Death]]
+| circles5e     = 
+| oaths5e       = 
+| patrons5e     = 
+| traditions5e  = 
+| level5e       = {{spell table|edition=5e|[[Cleric]]|3|[[Death domain|Death]]|3|[[Wizard]]|3}}
+| type5e        = 
+| refs5e        = 
+| level4e       = {{spell table|edition=4e|[[Wizard]]|9}}
+| keywords4e    = {{desc/death}}{{desc/evil}}{{desc/implement}}
+| refs4e        = {{Cite dragon/372/Secrets of the City Entombed|24}}
+| type4e        = Daily
+| school3e      = [[Necromancy]]
+| domains3e     = [[Death domain|Death]], [[Undeath domain|Undeath]]
+| descriptors3e = {{Desc/evil}}
+| level3e       = {{Spell table|edition=3e|[[Adept]]|3|[[Cleric]]|3|[[Death domain|Death]]|3|[[Sorcerer]]|4|[[Undeath domain|Undeath]]|3|[[Wizard]]|4}}
+| type3e        = 
+| refs3e        = 
+| school2e      = [[Necromancy]]<br/>[[Universal (province)]]<br/>[[Inventive]], [[Variation]]
+| spheres2e     = [[Necromantic sphere|Necromantic]]
+| level2e       = {{spell table|edition=2e|[[Arcanist]]|5|[[Cleric]]|3|[[Crusader]]|3|[[Monk]]|3|[[Mystic]]|3|[[Necromantic sphere|Necromantic]]|3|[[Wizard]]|5}}
+| type2e        = 
+| refs2e        = <ref><ref>
+| school1e      = [[Necromancy]]
+| level1e       = {{spell table|edition=1e|[[Cleric]]|3|[[Magic-user]]|5|[[Wu jen]]|5}}
+| type1e        = 
+| refs1e        = 
+}}
+'''''Animate dead''''' was a [[necromancy]] spell that allowed the caster to raise one or more mostly intact skeletons or corpses as undead [[skeleton]]s or [[zombie]]s under his or her control.
+
+==Effects==
+This spell was a staple of the necromantic arts and saw many incarnations as [[magic]] evolved over time. The earliest version of this spell treated zombies and skeletons equally and a caster could animate one of either kind of undead per experience level, but only from [[human]] remains. The state of the remains determined if a skeleton (almost no flesh) or a zombie (most flesh intact) was created. Undead created by this version of the spell could be destroyed by ''[[dispel magic]]'' as well as being turned by a cleric or destroyed by physical damage, magical damage, fire, etc. A caster could stand in the middle of a graveyard and animate corpses within a 30 ft (9.1 m) radius.
+
+The second version of ''animate dead'' expanded the types of remains that could be used and treated a skeleton as slightly less than a zombie. The size of the creatures in life determined (by a relatively complex formula) how many undead could be created. For example, a 12th-level caster could animate 24 [[halfling]] skeletons, or 12 halfling zombies, or 12 human skeletons, or 6 human zombies, or 6 [[gnoll]] skeletons, or 4 gnoll zombies, or 1 [[fire giant]] skeleton or zombie. These undead thralls had none of the special characteristics that they had in life&mdash;a fire giant zombie was not immune to fire for example. However, they could not be destroyed by ''dispel magic''.
+
+The third incarnation of this spell increased the number of undead that could be created by a single casting, but limited how many such creatures could be controlled by the caster. (Any undead being commanded or rebuked by those with such power did not count toward the limit. The limit only applied to undead animated by this spell.) For example, a 12th-level caster could animate 24 human-sized skeletons with one ''animate dead'' spell, and control 48 of them. But if that same caster tried to create 50 such skeletons, then two from the first batch (chosen by the caster) would be released from servitude. If this spell was cast in a ''[[desecrate]]d'' area it doubled the number of undead that could be created at one time. Note that this version of the spell required the caster to touch each corpse at the time of casting<ref group="note">The [[Player's Handbook v.3.5]] says casting this spell is instantaneous. Therefore, the only practical way to create multiple undead is to allow the corpses to touch each other and the caster touch one of them, but the sourcebook does not state this explicitly. and there was a significant material component cost (see below).
+
+To be animated by the later versions of this spell, a corpse had to have bones (which ruled out creatures like [[purple worm]]s) arranged in some form of anatomy (which ruled out [[gelatinous cube]]s, for example) and be mostly intact.<ref group="note">Replacement bones could be made from [[meerschaum]] using a special spell. Zombies required most of the flesh to be attached to the bones as well. If the caster chose to create a skeleton from a fleshy corpse, the flesh fell off the skeleton as it rose. Zombies and skeletons created by this spell obeyed simple spoken commands such as "follow", "guard this area", or "kill all elves that enter this room". The undead were permanently animated and would follow orders until they were destroyed. Destruction of a skeleton or zombie rendered it unfit to be animated again.
+
+The fifth version of this spell needed its components and the chosen bones or corpses of medium to small creatures. The undead obeyed the mental commands of its creator if they were nearby, but only for 24 hours and then this spell had to be renewed before the time was up or else they became aimless. The creatures could perform simple tasks like guarding. If left with no orders the creatures would only defend themselves. When cast at a higher skill level, the caster gained more undead servants if there were sufficient bones or corpses.
+
+==Components==
+All versions of ''animate dead'' required verbal and somatic components, but the material components varied. The earliest version required a bit of human flesh, a drop of blood, and a bone shard or a pinch of powdered bone. The second version changed it to a bit of flesh of the type of creature being animated. The third incarnation did away with the flesh, blood, and bone and instead required a black [[onyx]] gem worth at least 25 gp be placed in the mouth or eye socket of each corpse. Casting this version of ''animate dead'' consumed most of the gem, leaving a worthless, charred, empty shell behind. The fifth version brought back the drop of blood, the piece of flesh, and the pinch of bone dust as material components.
+
+==History==
+The spell was attributed to [[Netherese arcanist]] [[Fjord (arcanist)|Fjord]] in {{Yearlink|-514}} and was originally known as ''Fjord's animation''. This spell was also inscribed within the [[Kelemvor]]ite [[relic]] the ''[[Testament of Vraer]]''.
+

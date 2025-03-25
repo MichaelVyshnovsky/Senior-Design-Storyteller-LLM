@@ -1,0 +1,23 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "variant": "",
+        "image": "",
+        "caption": "",
+        "name": "Elevate I",
+        "deity": "[[Qotal]]",
+        "domains": "",
+        "inventor": "",
+        "reversible2e": "",
+        "school2e": "[[Pluma]], [[Alteration]]",
+        "spheres2e": "[[Pluma]]",
+        "level2e": "{{spell table|edition=2e|[[Cleric]]|1|[[Eagle Knight]]|1|[[Plumaweaver]]|1}}",
+        "type2e": "",
+        "refs2e": "",
+        "mainbody": "'''''Elevate I''''' was a spell unique to [[Maztica]].",
+        "Effects": "When cast, this spell elevated an object crafted with ''[[featherweaving]]'' into the air. The maximum weight of the object and maximum height it can float was determined by the caster's skill level. The caster was able to move the object around while it was floating.",
+        "Components": "This spell required only [[Verbal component|verbal]] and [[somatic component|somatic]] components."
+    }
+}

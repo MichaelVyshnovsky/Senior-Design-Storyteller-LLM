@@ -1,0 +1,24 @@
+{
+    "template_data": {
+        "edition": "2e",
+        "120|feet|long": "yes"
+    },
+    "document_data": {
+        "image": "",
+        "caption": "",
+        "name": "Dispel Shunt",
+        "deity": "",
+        "inventor": "",
+        "type": "",
+        "reversible2e": "",
+        "school2e": "[[Abjuration]]",
+        "spheres2e": "",
+        "level2e": "{{spell table|edition=2e|[[Wizard]]|6}}",
+        "type2e": "",
+        "refs2e": "{{cite book/Secrets of the Magister|106-107}}",
+        "mainbody": "'''''Dispel shunt''''' was a [[spell]] that protected its caster from ''[[dispel magic]]''.",
+        "Effects": "The spell remained in effect for ten minutes, redirecting any ''[[dispel magic]]'' spell cast upon the caster to another location of their choice about {{SI|120|feet|long=yes}} or maybe about twice that. However, it would be reflected by any spell barrier at least as complex as a ''[[wall of ice]]''. There was a risk, if the dispelling attempt was focused on its original caster, that the shunt would be broken instead, though it still protected the caster.\n\nThe ''shunt'' had unique interactions with ''[[antimagic field]]'', being able to break that spell, but at the same time, it would be broken rather than suppressed; it had a similar response to ''[[Mordenkainen's disjunction]]'', though its chances were somewhat slimmer. It also protected the target somewhat against a ''[[rod of cancellation]]'', improving their odds of enduring the effect somewhat; finally, it could block the ray of a ''[[wand of negation]]'', disabling it for a couple minutes due to feedback, though this consumed the shunt.",
+        "Components": "The spell only required [[verbal]] and [[somatic]] components.",
+        "History": "[[Azuth]] made this spell available through [[Elminster]] sometime prior to {{yearlink|1370}}.{{cite book/Secrets of the Magister|101}}"
+    }
+}

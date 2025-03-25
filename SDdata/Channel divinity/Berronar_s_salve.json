@@ -1,0 +1,24 @@
+{
+    "template_data": {
+        "variant": "channel divinity",
+        "variant_1": "channel divinity",
+        "edition": "4e",
+        "variant_2": "channel divinity"
+    },
+    "document_data": {
+        "name": "Berronar's Salve",
+        "deity": "[[Berronar Truesilver]]",
+        "inventor": "",
+        "type": "Encounter",
+        "keywords5e": "",
+        "level5e": "",
+        "type5e": "",
+        "refs5e": "",
+        "keywords4e": "{{desc/divine|variant=channel divinity}}{{desc/healing|variant=channel divinity}}",
+        "level4e": "{{spell table|edition=4e|variant=channel divinity|[[Avenger]]|1|[[Cleric]]|1|[[Invoker]]|1|[[Paladin]]|1}}",
+        "type4e": "Encounter",
+        "refs4e": "",
+        "mainbody": "'''''Berronar's salve''''' was a divine spell, or Channel Divinity, granted to worshipers of [[Berronar Truesilver]] that granted one ally at death's door a burst of healing so they could get back in the fight.",
+        "References": "{{refs}}\n00eil9zwhqbbtvuunwkaotgiw8257e5"
+    }
+}

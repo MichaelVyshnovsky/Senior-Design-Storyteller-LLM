@@ -1,0 +1,36 @@
+{
+    "template_data": {
+        "240|miles|k|long": "yes"
+    },
+    "document_data": {
+        "image": "",
+        "caption": "",
+        "name": "Moondeep Sea",
+        "aliases": "",
+        "type": "Sea",
+        "region": "[[Vault of Gnashing Teeth]], [[Deep Wastes]]",
+        "size": "{{SI|240|miles|k}} wide",
+        "depth": "",
+        "river source": "",
+        "river mouth": "",
+        "tributaries": "",
+        "tributary of": "",
+        "georefs": "",
+        "races": "[[Drow]]",
+        "socrefs": "",
+        "usethe": "yes",
+        "useon": "",
+        "inhabitants": "yes",
+        "locations": "yes",
+        "organizations": "yes",
+        "settlements": "yes",
+        "mountains": "",
+        "events": "",
+        "food and drink": "",
+        "items": "",
+        "mainbody": "The '''Moondeep Sea''' was a subterranean lake, approximately {{SI|240|miles|k|long=yes}} wide, found in the [[Underdark]] beneath the [[Galena Mountains]] and the cold plains of [[Vaasa]].",
+        "Geography": {
+            "Flora and Fauna": "The Moondeep Sea was known for its [[giant water spider]]s."
+        }
+    }
+}

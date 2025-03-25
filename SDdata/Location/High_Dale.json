@@ -1,0 +1,71 @@
+{
+    "document_data": {
+        "type": "",
+        "name": "High Dale",
+        "image": "HighDale-1367DR.png",
+        "caption": "Map of High Dale, circa [[1367 DR]].",
+        "aliases": "",
+        "capital": "[[Highcastle]]",
+        "area": "[[Dalelands]], [[North Faerûn]]",
+        "size": "",
+        "ruler1": "[[Dale Council (High Dale)|Dale Council]] and High Constable [[Irreph Mulmar]]",
+        "ruleryear1": "1367",
+        "ruler2": "",
+        "ruleryear2": "",
+        "ruler3": "",
+        "ruleryear3": "",
+        "ruler4": "",
+        "ruleryear4": "",
+        "ruler5": "",
+        "ruleryear5": "",
+        "rulertype": "",
+        "government": "Republic with elected [[High Constable]]",
+        "languages": "",
+        "races": "{{percentage table|[[Human]]s|86|[[Gnomes]]|10|[[Half-elf|Half-elves]]|3|Other|1|}}",
+        "religion": "[[Mielikki]], [[Mystra]], [[Oghma]], [[Selûne]], [[Silvanus]]",
+        "reckoning": "DR",
+        "population1": "",
+        "popyear1": "",
+        "population2": "8,179",
+        "popyear2": "1372",
+        "population3": "15,000",
+        "popyear3": "1479",
+        "imports": "[[List of armor|Armor]], [[book]]s, [[metal]]work, [[paper]], [[textile]]s, [[weapon]]s",
+        "exports": "[[Copper]]",
+        "alignment": "{{alignment grid|on|on|off|on|off|off|off|off|off}}",
+        "allegiance": "",
+        "usethe": "",
+        "useon": "",
+        "inhabitants": "yes",
+        "locations": "yes",
+        "organizations": "yes",
+        "settlements": "yes",
+        "roads": "yes",
+        "source": "[[Forgotten Realms Campaign Setting 3rd edition]]",
+        "page": "131",
+        "mainbody": "'''High Dale''' lay on the southwestern edge of the [[Dalelands]], in relative isolation to the others,  at a strategic crossroads between [[Cormyr]] and [[Sembia]]. It was nestled in a steep mountain pass in the [[Thunder Peaks]],<ref> between [[Hooknose Crag]] and [[Wyvernfang]].\n\nRight in the center of the dale was the keep known as [[High Castle]], with a [[Highcastle|surrounding town]] that grew below its northward steppes, arising from its protection and borrowing its name.",
+        "Society": "The folk of High Dale were a proud and independent group, likely due to their relative isolation to the surrounding dales. Generally, they were pleased as a whole to be left alone by their more grandiose neighbors.",
+        "Government": {
+            "Law and order": "The High Constable was supported six subordinate constables, who in turn were responsible for training and leading the town's militia. These militia were quickly rally-able and would rapidly respond to bring criminals to justice.",
+            "Defense": "Due to its naturally defensive terrain, High Dale seldom had to worry about raiding parties, monster invasions or conquering armies. The defense of the dale fell mostly on the shoulders of the militia, under command of the constables. They were supported however by the mercenaries of the [[Pegasus Archery Company]] and the [[Flying Auxiliary]], a score of [[pegasi]]-mounted archers led by the young commander [[Sothinar]]."
+        },
+        "Economy": "High Dale was a mostly self-sufficient domain. They had their share of local craftsmen including smiths, woodworkers and tanners. Farmers in the area grew hay, [[turnip]]s and [[potato]]es while raising sheep and [[goat]]s.\n\nWhile they had no permanent merchant houses or trading costers, the dale's strategic location between the nations of Cormyr and Sembia saw a bustle of caravans through the warmer months of the year. Travelers and merchants could pick up supplies or local products from small shops or general stores.",
+        "History": "High Dale is among one of the oldest of the Dales, being founded sometime in the 600's [[DR]]. Over the centuries, the Highdalesmen have terraced the mountainside, creating pastures for herding and farming.\n\nThe most notable event in High Dale's recorded history took place on [[Flamerule 26]], [[720 DR]], in the [[Dancing Place]] known as the [[Gathering of the Gods]]. Several deities of nature, peace and magic all directly spoke through their respective priests and granted their blessing over a joint effort between [[cleric]]s, [[druid]]s, [[dryad]]s and elves to combat a malevolent faction of allied, evil-aligned clergies.{{Cite dragon/367/Epic Faerûn|7}}\n\nPerhaps due to its remote location, High Dale has historically never taken part in the majority of the conflicts of the dales. Outside of small skirmishes, it has seldom seen significant battles, even during the occupation of the [[Zhent]]s.Additionally, despite its central location between the two nations, High Dale has markedly never been a site of conflict between [[Cormyr]] and [[Sembia]].\n\nConversely the dale was home to a small battle of note during the [[Time of Troubles]]. Shortly after the Zhents began occupation oh High Dale, they were fought off [[Elminster]] and a group known as the [[Rangers Three]] before any real harm could come to the region.",
+        "Geographical features": {
+            "Mountains": "* [[Wyvernfang]]: This summit at the apex the [[Thunder Peaks]] served as roost to a number of [[Wyvern]]s who would ambush travelers along the [[Thunder Way]].",
+            "Valleys": "* [[Copper Gulp]]: This small valley was full of small pockets rich in [[copper]].\n\n* The [[Dancing Place]]: Another hidden valley within the dale; it was preserved as a sacred site to both the [[Harpers]] as well as a number of [[nature domain|nature-related]] deities.\n\n* [[Hidden Vale]]: Tucked away, and obscured by distracting alpine wildflowers and winter fog, the walls of this valley were home to a distinct population of reclusive [[gnome]]s."
+        },
+        "Notable locations": {
+            "Fortifications": {
+                "[[Arrowpoint]]": "An earthern stronghold just outside the castle that was home to the Pegasus Archery Company.",
+                "[[High Castle]]": "A castle that protected the surrounding town of Highcastle, and commanded a great view over the [[Thunder Way]] and the rest of High Dale."
+            },
+            "Roads": {
+                "[[Thunder Way]]": "This wagon trail through the Thunder Peaks led out of [[Thunderstone]] in [[Cormyr]], passed through High Dale, and wound down to the small [[Sembia]]n city of [[Saerb]]."
+            },
+            "Settlements": {
+                "[[Highcastle]]": "The largest settlement in High Dale was the village nestled in, and protected by, the [[High Castle|castle]] after which it was named. Home to the Dale Council."
+            }
+        }
+    }
+}

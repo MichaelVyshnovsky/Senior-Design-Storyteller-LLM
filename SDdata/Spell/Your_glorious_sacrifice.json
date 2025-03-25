@@ -1,0 +1,16 @@
+{
+    "template_data": {
+        "edition": "4e"
+    },
+    "document_data": {
+        "type": "daily",
+        "name": "Your Glorious Sacrifice",
+        "school": "",
+        "keywords4e": "{{desc/arcane}}{{desc/implement}}{{desc/necrotic}}{{desc/poison}}",
+        "level4e": "{{spell table|edition=4e|[[Warlock]]|1}}",
+        "type4e": "Daily",
+        "refs4e": "",
+        "mainbody": "'''''Your glorious sacrifice''''' is a moderately powerful [[warlock]] [[invocation]] learned by young or inexperienced [[warlock]]s, particularly those who forge pacts with the powers of the [[Abyss]]. ''Your glorious sacrifice'' is, in many ways, a relatively weak spell, injuring a creature within fifty feet through [[necromancy|necrotic]] power enhanced by the warlock's strength of personality. However, if the warlock chooses, he may target a nearby ally as well with the power, dealing damage to them as well to increase their chances of successfully attacking their primary target.\n\nAdditionally, this \"sacrifice\" allows the warlock to infect their foe with a mild poison, in addition to other attacks and even if ''your glorious sacrifice'' fails to fully affect the target it still can strike into their life force, sapping it.  Dark pact warlocks may also find that their intellect can help to make the poison more deadly. Like any spell of its power to complexity ratio, ''your glorious sacrifice'' can only be cast once per day.",
+        "References": "{{refs}}\n[[Category:Warlock spells]]\n27076plonub381ikwbsq2a2f3hz5egu"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "template_data": {
+        "edition": "3e"
+    },
+    "document_data": {
+        "name": "Spear of Lurue",
+        "school3e": "[[Transmutation]]",
+        "domains3e": "",
+        "descriptors3e": "",
+        "level3e": "{{spell table|edition=3e|[[Beloved of Lurue]]|4|[[Druid]]|5|[[Ranger]]|4}}",
+        "type3e": "",
+        "refs3e": "",
+        "mainbody": "'''''Spear of Lurue''''' was a [[transmutation]] spell that turned a non-magical weapon into a [[silver weapons|silvered]] spear.",
+        "Effects": "The caster had to be holding the drawn weapon to cast this spell. The non-magical weapon became a ''+1 [[Bane (property)|magical beast bane]] [[spear]]'' for the duration of the spell, until the caster canceled it, or until the caster gave up the weapon (willingly or otherwise) to another, whichever came first. If the ''spear of Lurue'' broke, the spell and the original weapon also broke.",
+        "Components": "Only verbal and somatic components were required to cast this spell. The material component was the non-magical weapon to be transformed.",
+        "References": "{{refs}}\n[[Category:Transmutation spells]]\n[[Category:Druid spells]]\n[[Category:Ranger spells]]\neu182qlltkauo4195ch0kfc698i8ex2"
+    }
+}

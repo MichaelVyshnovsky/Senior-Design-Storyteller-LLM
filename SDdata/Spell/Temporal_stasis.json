@@ -1,0 +1,43 @@
+{
+    "template_data": {
+        "edition": "3e",
+        "edition_1": "2e"
+    },
+    "document_data": {
+        "image": "KillerFrog.jpg",
+        "caption": "A [[gnome]] stops a [[killer frog]] in his tracks with temporal stasis.",
+        "name": "Temporal Stasis",
+        "deity": "",
+        "inventor": "[[Jeriah Chronos]]",
+        "school5e": "",
+        "level5e": "",
+        "type5e": "",
+        "refs5e": "",
+        "feature4e": "",
+        "keywords4e": "",
+        "level4e": "",
+        "type4e": "",
+        "category4e": "",
+        "skill4e": "",
+        "refs4e": "",
+        "school3e": "[[Transmutation]]",
+        "domains3e": "",
+        "descriptors3e": "",
+        "level3e": "{{spell table|edition=3e|[[Sorcerer]]|8|[[Wizard]]|8}}",
+        "refs3e": "",
+        "reversible2e": "Yes",
+        "school2e": "[[Alteration]], [[Chronomancy]]<br/>[[Universal (province)]]<br/>[[Variation]]",
+        "spheres2e": "",
+        "level2e": "{{spell table|edition=2e|[[Arcanist]]|9|[[Chronomancer]]|8|[[Wizard]]|9}}",
+        "type2e": "",
+        "refs2e": "<ref><ref><ref><ref>",
+        "reversible1e": "",
+        "school1e": "",
+        "level1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Temporal stasis''''', which was originally called '''''Chronomancer's stasis''''',",
+        "Effects": "Whoever was touched by a mage casting this spell was placed into a state where time ceased flowing for him or her. The creature would not age, and no body functions would operate, nor would there be any consciousness. In addition, the target was protected from any force or effect, including those that might cause harm. This state of stasis would last permanently unless undone by other magic,",
+        "Components": "''Temporal stasis'' required [[verbal component|verbal]] and [[somatic component]]s and an expensive powder (worth at least 5,000 [[gp]]) composed of the dust of several rare gems, including [[diamond]], [[emerald]], [[ruby]], and [[sapphire]], which were consumed in the casting process.",
+        "History": "The spell was invented by [[Netherese arcanist]] [[Jeriah Chronos]] in {{Yearlink|-2119}}."
+    }
+}

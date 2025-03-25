@@ -1,0 +1,37 @@
+{
+    "template_data": {
+        "100|mile|k|long": "yes",
+        "35|mile|k|long": "yes"
+    },
+    "document_data": {
+        "image": "[[File:ScnMap.png]]",
+        "caption": "Map showing the High Road from Waterdeep to Luskan.",
+        "name": "High Road",
+        "type": "Trade route",
+        "aliases": "",
+        "length": "",
+        "width": "",
+        "pavement": "",
+        "location": "",
+        "starts": "[[Waterdeep]]",
+        "ends": "[[Luskan]]",
+        "built": "",
+        "refs": "",
+        "daggers": "",
+        "volorefs": "",
+        "usethe": "yes",
+        "inhabitants": "yes",
+        "organizations": "yes",
+        "locations": "yes",
+        "settlements": "yes",
+        "roads": "yes",
+        "events": "yes",
+        "mainbody": "The '''High Road''' was an inland trade route along the [[Sword Coast North]] that stretched from [[Waterdeep]] in the south to [[Luskan]] in the north. For travelers, it was the key route linking Waterdeep and Leilon with \"civilization\" in [[the North]].<ref>",
+        "Geography": "[[File:Southern High Road.png|thumb|''A portion of southern High Road.''|415x415px]]\nAt its southernmost point, the High Road entered Waterdeep, where it passed through the city as one of its most important [[High Road (Waterdeep)|streets]] and continued south as the [[Trade Way]]. Hence, some accounts referred to the Trade Way as part of the High Road.<ref><ref group=\"note\">While some sources merge the High Road and the Trade Way, and the High Road within Waterdeep, this wiki keeps all three separate for ease of handling. The adjoining [[Long Road]] separated from the High Road a dozen miles (20 kilometers) north of Waterdeep.\n\nFrom the [[North Gate (Waterdeep)|North Gate]] of Waterdeep, it skirted [[Thornhold]] and the eastern edge of the [[Mere of Dead Men]] where it passed beneath [[Iniarv's Tower]] and beside the [[Sword Mountains]], before going through [[Leilon]]. Shortly afterward, it intersected with the western [[Triboar Trail|Triboar Cutoff]] then went through [[Neverwinter]] and [[Port Llast]] before coming to Luskan. It was roughly {{SI|100|mile|k|long=yes}} between Leilon and Neverwinter and {{SI|35|mile|k|long=yes}} between Neverwinter and Port Llast.",
+        "History": "The High Road was older than the Long Road, which ran from Waterdeep to [[Mirabar]].<ref> However, both roads predated Waterdeep, having been develop to connect to the harbor city.\n\nAs the Mere of Dead Men swelled over the centuries, it flooded the lands from the sea to the road, and the High Road was repeatedly rerouted further inland, but could never be moved far enough to escape the ever-encroaching swamp.{{Cite web/Wyrms of the North/Voaraghamanthar, \"the Black Death\"}}\n\nWhile it once passed [[Castle Naerytar]], [[Holk House]], [[Mornhaven Towers]], and [[Wolfhill House]], all lay within the swamp by the mid–14{{th}} century [[DR]].\n\nThe rise to the power of the [[orc]] kingdom of [[Uruth Ukrypt]] around [[930 DR]] saw the end of trade along the High Road, until at least the kingdom's collapse in [[1026 DR]].\n\n\"The Mad Dwarf\", [[Gulyaikin Dzrund]], who dwelled in the caves of [[Mount Sar]] north of Waterdeep in the 1280s DR, was known to roll boulders down onto the High Road, killing hapless travelers there.{{Cite web enhancement/Environs of Waterdeep|14}}\n\nAfter the [[Mount Hotenow]] eruption in the {{YearlinkName|1451}} and the devastation of Neverwinter, and with common monster attacks occurring, the High Road fell into disuse.\n\nHowever, with rebuilding efforts in Neverwinter, the High Road began to be reused and repaired, and in the 1480s DR [[Dagult Neverember]] and the [[High Road Charter Company]] arranged to reroute it once more. Dagult, who was a lord of both Neverwinter and Waterdeep at the time, invested heavily in the work and in hiring adventurers to keep it safe, as well as tearing down the forbidding [[House of Thalivar]] in Leilon. By the late 1480s DR, the High Road was considered safer than sea travel and caravan traffic was increasing.<ref>",
+        "Travel": "On a regular wagon journey ''circa'' [[1357 DR]], a trip from Waterdeep to Leilon took 11 days, from Waterdeep to Neverwinter took 17 days, from Waterdeep to Port Llast took 19 days, and from Waterdeep to Luskan took 23 days. This was 25% longer by foot and 60% faster by [[horse]].<ref>\n\nTo avoid having to camp close to the Mere of Dead Men and risk being swallowed by its bogs or falling prey to its hazards, such as the [[will-o'-wisp]]s that could be seen from the road, travelers commonly kept going through the night for three days' straight.{{Cite web enhancement/Environs of Waterdeep|11}} Thornhold was the last, or next, safe stop after the hurried journey around the mere.\n\nThe [[dracolich]] [[Daurgothoth]], the Creeping Doom, kept an eye on traffic on the High Road, Long Road, and other areas within his domain, from his lair northeast of Waterdeep.<ref><ref>{{Cite web/Wyrms of the North/Daurgothoth, \"The Creeping Doom\"}}",
+        "Defenses": "The Neverwintan militia patrolled the High Road between Leilon and Port Llast.<ref><ref>\n\nWaterdeep's [[City Guard (Waterdeep)|City Guard]] also patrolled the High Road around their city.\n\nThe High Road was at times a battlefield between in the conflicts between Neverwinter and Luskan.",
+        "Trade": "Trade on the High Road was largely arts and agricultural produce from Waterdeep, lumber from the [[Neverwinter Woods]] and manufactured goods from Neverwinter itself, ores from the [[Frozenfar]], and metalwork from Luskan.<ref><ref>\n\nThe [[gnome]]s of [[Ieirithymbul]] in the Sword Mountains journeyed down to the High Road and to Leilon for trademoots. The [[gold dragon]] [[Palarandusk]], the Unseen Protector, accompanied them and learned quite a lot about trade on the High Road, alliances between merchants, and other goings on.{{Cite dragon/252/Wyrms of the North: Palarandusk}}{{Cite web/Wyrms of the North/Palarandusk, \"The Unseen Protector\"}}",
+        "Rumors & Legends": "According to [[Varleth]] of Neverwinter, parts of the High Road near where it was sunken by the Mere of Dead Men had their own ''[[mythal]]s'', which altered the [[spell]]s of mages who stood within those sections in peculiar ways, such as empowering them or cancelling them.\n\nScholars of the mid-to-late 14{{th}} century [[DR]] theorized that [[Iniarv]]'s Curse tied the Mere of Dead Men's eastern border to the High Road, thus guaranteeing it would grow whenever the High Road was rerouted."
+    }
+}

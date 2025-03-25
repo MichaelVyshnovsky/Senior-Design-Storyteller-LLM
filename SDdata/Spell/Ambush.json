@@ -1,0 +1,23 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "variant": "",
+        "image": "",
+        "caption": "",
+        "name": "Ambush",
+        "deity": "[[Zaltec]]",
+        "domains": "",
+        "inventor": "",
+        "reversible2e": "",
+        "school2e": "[[Hishna]], [[Alteration]], [[Illusion/Phantasm]]",
+        "spheres2e": "[[Hishna]]",
+        "level2e": "{{spell table|edition=2e|[[Cleric]]|2|[[Hishnashaper]]|2|[[Jaguar Knight]]|2}}",
+        "type2e": "",
+        "refs2e": "",
+        "mainbody": "'''''Ambush''''' was a spell unique to [[Maztica]].<ref>",
+        "Effects": "This spell allowed a caster to conceal up to 30 individuals in any kind of terrain. While the spell was in effect, the individuals had to remain relatively still and silent, or else the spell would be broken. If successful, they blended perfectly into the terrain, even a flat area. This spell could only be cast outside.",
+        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, the spell required a [[material component]]."
+    }
+}

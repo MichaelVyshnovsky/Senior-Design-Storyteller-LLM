@@ -1,0 +1,21 @@
+{
+    "template_data": {
+        "edition": "2e",
+        "edition_1": "1e"
+    },
+    "document_data": {
+        "name": "Silence, 15' Radius",
+        "school2e": "[[Alteration]]",
+        "spheres2e": "[[Guardian sphere|Guardian]]",
+        "level2e": "{{spell table|edition=2e|[[Cleric]]|2|[[Crusader]]|2|[[Guardian sphere|Guardian]]|2|[[Monk]]|2|[[Mystic]]|2}}",
+        "type2e": "",
+        "refs2e": "",
+        "school1e": "[[Alteration]]",
+        "level1e": "{{spell table|edition=1e|[[Cleric]]|2}}",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Silence, 15' Radius''''' was an [[alteration]] spell that created a zone of complete silence in a sphere of radius 15 ft (4.6 m).",
+        "Effects": "This spell could be cast on an object, a creature, or into the air. If cast upon a creature, it had a chance to resist the spell and, if successful, the center of effect was placed one foot (30 cm) behind the creature. All sounds were stopped at the source and no sound entered or exited the area of effect. Spells with verbal components could not be cast within the sphere of silence and sonic attacks such as a [[harpy]]'s song were ineffective.",
+        "Components": "Only verbal and somatic components were necessary to cast this spell."
+    }
+}

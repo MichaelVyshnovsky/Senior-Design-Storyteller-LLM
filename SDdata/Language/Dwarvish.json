@@ -1,0 +1,31 @@
+{
+    "template_data": {
+        "image": "Runestone dwarf.png"
+    },
+    "document_data": {
+        "name": "Dethek (Dwarvish)",
+        "family": "",
+        "group": "",
+        "subgroup": "",
+        "dialects": "[[#Kurit|Kurit]]<br/>[[#Riftspeak|Riftspeak]]<br/>[[#Duergan|Duergan]]<br/>[[#Shanatan|Shanatan]]<br/>[[#Galenan|Galenan]]<br/>[[#Authalan|Authalan]]<br/>[[#Shanatan|Urdinnir]]",
+        "script": "[[Dethek]]",
+        "regions": "",
+        "speakers": "[[Dwarf|Dwarves]]",
+        "based": "",
+        "image": "Runestone dwarf.png}}",
+        "mainbody": "'Dwarvish''' or '''Dwarven''' was the name for a family of languages used by [[dwarves]]. The dwarves called their own language '''Dethek''',{{Cite dragon/Speaking in Tongues|29}} but most other races used that term to refer to the [[Dethek|runic alphabet]] in which the language was written.\n\nAlthough the language in its pure form and exclusive vocabulary had fallen somewhat in disuse by the mid‒14{{th}} century [[DR]], Dwarvish was still found all over [[Faerûn]] inscribed into weapons, buildings and mystical items.\n\nThe language followed dwarves all over Faerûn and beyond, making it an extremely widespread language. Communities and races that had been separated for some time evolved their own dialects.",
+        "History": "Originating from the ancient [[Elder language]], Dwarvish saw many incarnations and variations.\n\nAlthough once a strong and exclusive language, actual Dwarvish words only made up a fraction of the words used by dwarves by the mid‒14{{th}} century DR. Many dwarves tended to speak [[common]] mixed with Dwarvish words. Dwarven record-keepers and historians were among the few left that could speak whole verses in pure Dwarvish.",
+        "Dialects": {
+            "Kurit": "This dialect was used by [[Arctic dwarf|arctic dwarves]]. The language was strongly influenced by [[Uluik]], the language spoken by human colonies in the nearby [[Great Glacier]].",
+            "Riftspeak": "The dialect of the [[Gold dwarf|gold dwarves]], Riftspeak was one of the oldest dialects and had barely changed in over 10,000 years. This was probably due to the great care gold dwarves took in learning languages. Gold dwarves were one of the most literate races of dwarves in Faerûn.",
+            "Duergan": "Duergan originated from Shanatan, the dialect of the [[Shield dwarf|shield dwarves]]. Since the split, Duergan had changed dramatically, leaving it as one of the most altered Dwarvish dialects. The [[drow]] and [[illithid]] influences in this dialect were hard to ignore, having altered its vocabulary and grammatical structure.",
+            "Shanatan": "Used by western [[Shield dwarf|shield dwarves]], this dialect could be traced back as far as the founding of [[Shanatar]] around {{Yearlink|-10800}}\n\n[[Urdunnir|Urdunnir dwarves]] used an older version of Shanatan, that more closely resembled the language in its early years.",
+            "Galenan": "Eastern shield dwarves used a different dialect to their western cousins. Galenan was a form of Dwarvish strongly influenced by the human dialect [[Damaran]].",
+            "Authalan": "[[Wild dwarf|Wild dwarves]] used an ancient and simplified version of the Riftspeak dialect. Authalan also had noticeable [[Tashalan language|Tashalan]] and [[Chultan language|Chultan]] influences. Literate wild dwarves were extremely rare."
+        },
+        "Writing System": {
+            "Alphabet": "The Dethek runic alphabet consisted of 24 characters. This was because w, x and z were represented by the same character.<ref> This may be confusing for humans trying to translate into common.{{Fact}}\n\n[[File:Dethek alphabet.png|thumb|center|630px|''The Dethek alphabet.'']]"
+        },
+        "Grammar": "Dwarvish had similar grammatical constructs to common. This was no doubt due to the fact that both languages evolved alongside one another. These shared rules meant that speakers of common would have found it relatively easy to learn and translate Dwarvish.{{Fact}}"
+    }
+}

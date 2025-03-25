@@ -1,0 +1,47 @@
+{
+    "template_data": {
+        "1|lb|k|long": "yes",
+        "710|pound|k|long": "yes",
+        "|long": "yes",
+        "1|lb|k|long_1": "yes",
+        "10|lb|k|long": "yes",
+        "5|inch|c|long": "yes",
+        "4|inch|c|long": "yes",
+        "1|inch|c|long": "yes",
+        "1|foot|c|long": "yes"
+    },
+    "document_data": {
+        "image": "Lead Ingots.png",
+        "caption": "Ingots of lead.",
+        "name": "Lead",
+        "aliases": "",
+        "locations": "",
+        "discovered": "",
+        "date": "",
+        "creators": "",
+        "created": "",
+        "hisrefs": "",
+        "type": "Metal",
+        "components": "",
+        "color": "Gray",
+        "properties": "",
+        "markings": "",
+        "phyrefs": "",
+        "uses": "",
+        "cost": "5 [[cp]] for {{SI|1|lb|k|long=yes}}",
+        "userefs": "",
+        "items": "yes",
+        "That leaded pigments and gilded decorations traditionally cover the walls in the quarters of ladies-in-waiting and other rooms of a castle cannot be taken either as proof or disproof of the ring’s original intent, but certainly it might thwart the fancies of an adventurer who found such a ring.\n|''[[Mordenkainen]], commenting on the [[ring of X-ray vision]].''\n}}\nLead generally blocked [[divination]] magic, even in thin sheets of foil. Spells affected in this manner included ''[[detect animals or plants]]'', ''[[detect chaos]]'', ''[[detect evil]]'', ''[[detect poison]]'', ''[[detect snares and pits]]'', and ''[[message]]'', as well as the [[Church of Mask|Maskarran]] spells ''[[listening shadow]]'' and ''[[watching shadow]]''. The ''[[ring of X-ray vision]]'' was also blocked by lead sheeting. For this reason, buildings such as the [[House of the Moon]], a temple to [[Selûne]] in [[Waterdeep]], and the [[Diviner Guildhall]] in [[Ravens Bluff]] had lead lining, as well as [[gorgon]]'s blood [[mortar]] cementing their outer walls.{{Cite polyhedron/88/The Living City: The Ravens Bluff Diviner's Guild|16}}\n\nThe [[philosopher's stone]] was renowned for its ability to transmute lead into gold and iron into silver.": "==Magic Items===",
+        "mainbody": "The ''[[Orcish lead mace]]'' was a powerful, heavy bludgeon.\n* ''[[Sunderstone]]'' was made of lead encased in [[steel]].\n* [[Tuning fork]]s made of lead were used to [[plane shift]] to the [[Elemental Plane of Water]] and the [[Quasi-Elemental Plane of Salt|Quasi-Elemental Planes of Salt]] and [[Quasi-Elemental Plane of Steam|Steam]]. A lead-[[zinc]] tuning fork allowed access to the [[Para-Elemental Plane of Ooze]].{{Cite dragon/120/Plane Speaking|43}}",
+        "Properties": "Pure lead weighed {{SI|710|pound|k|long=yes}} per {{SI|1|cubic foot||long=yes}}, making it one of the heaviest metals in the [[Realms]].{{Cite dragon/13/How Heavy Is My Giant|6}} Lead had a low melting point at {{SI|621|F}}{{Cite dragon/123/Fire for Effect!|35}} and could be melted by most kilns, specialized ovens, or other sources of extreme heat such as the ''[[fireball]]'' and ''[[lightning bolt]]'' spells.",
+        "Availability": {
+            "Mining & Trade": "Lead was mined in the form of [[wikipedia:galena|galena]], a soft, gray, crystalline ore.{{Cite dragon/152/In a Cavern, In a Canyon...|23}}{{Cite dragon/13/How Heavy Is My Giant|7}}\n\n* The [[Galena Mountains]] were home to rich deposits of galena and other minerals, as befitting their name.{{Cite web/theedverse/2020-09-20 - Galena Mountains Geology}}\n* The village of [[Auvandell]] mined lead as well as [[iron]] and [[copper]] that was sent to [[Sundabar]].\n* The rocky tors of the [[Evermoors]] possessed rich veins of lead, [[silver]], and [[gold]], with some veins so soft that they could be dug out with a blunt [[sword]] or fire-hardened stick.\n* The [[Great Rift]] settlement of [[Glitterdelve]] mined lead, iron, silver, gold, and copper.\n* The [[Smoking Mountains]] in [[Unther]] had lead, iron, copper, and gold, mined by folk from [[Dalath]]."
+        },
+        "Usage": {
+            "Spell Components": "* ''[[Illusory script]]'' used a lead-based [[ink]].\n* ''[[Mordenkainen's magnificent mansion]]'' used a sheet of lead."
+        },
+        "Magic": {
+            "Magic Items": "* The ''[[Orcish lead mace]]'' was a powerful, heavy bludgeon.\n* ''[[Sunderstone]]'' was made of lead encased in [[steel]].\n* [[Tuning fork]]s made of lead were used to [[plane shift]] to the [[Elemental Plane of Water]] and the [[Quasi-Elemental Plane of Salt|Quasi-Elemental Planes of Salt]] and [[Quasi-Elemental Plane of Steam|Steam]]. A lead-[[zinc]] tuning fork allowed access to the [[Para-Elemental Plane of Ooze]].{{Cite dragon/120/Plane Speaking|43}}"
+        }
+    }
+}

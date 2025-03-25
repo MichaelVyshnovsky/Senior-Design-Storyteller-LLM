@@ -1,0 +1,36 @@
+{
+    "template_data": {
+        "edition": "3e",
+        "edition_1": "2e",
+        "edition_2": "1e"
+    },
+    "document_data": {
+        "name": "Holy Word",
+        "level3e": "{{spell table|edition=3e|[[Cleric]]|7|[[Good domain|Good]]|7|[[Zeal domain|Zeal]]|7}}",
+        "domains3e": "[[Good domain|Good]], [[Zeal domain|Zeal]]",
+        "descriptors3e": "{{desc/good}}{{desc/sonic}}",
+        "school3e": "[[Evocation]]",
+        "type3e": "",
+        "refs3e": "{{Cite dragon/355/Seven Saintly Domains|30}}",
+        "school2e": "[[Conjuration]] (Summoning)",
+        "reversible2e": "true",
+        "spheres2e": "[[Combat sphere|Combat]]",
+        "level2e": "{{spell table|edition=2e|[[Cleric]]|7|[[Combat sphere|Combat]]|7|[[Crusader]]|7}}",
+        "type2e": "",
+        "refs2e": "",
+        "school1e": "[[Conjuration]] (Summoning)",
+        "reversible1e": "true",
+        "level1e": "{{spell table|edition=1e|[[Cleric]]|7|[[Shugenja|Shukenja]]|7|}}",
+        "type1e": "",
+        "refs1e": "",
+        "-\n| Equal to || deafened briefly\n|-\n| Strictly inferior || and blinded for a few minutes\n|-\n| Greatly inferior || and paralyzed for up to 10 minutes\n|-\n| Completely dominated || and killed (destroyed if [[undead]])\n|}": "==Conjuration===",
+        "-\n| Extremely large or tough || deafened briefly\n|-\n| Considerably large or tough || ''[[slow]]ed'', as the [[wizard]] spell for a few minutes\n|-\n| Fairly large or tough || paralyzed for 10 to 40 minutes\n|-\n| Not large or tough || killed (destroyed if [[undead]])\n|}": "=Components==",
+        "mainbody": "is spell only required a verbal component to cast.",
+        "Effects": {
+            "Evocation": "The area of effect was a circle of 40 ft (12.2 m) radius centered on the caster. Upon uttering the ''holy word'', all nongood creatures equal to or inferior to the caster suffered one or more of the following cumulatively:\n{|class=\"wikitable\"\n! Relation to Caster !! Effect\n|-\n| Equal to || deafened briefly\n|-\n| Strictly inferior || and blinded for a few minutes\n|-\n| Greatly inferior || and paralyzed for up to 10 minutes\n|-\n| Completely dominated || and killed (destroyed if [[undead]])\n|}",
+            "Conjuration": "The area of effect was a circle of 30 ft (9.1 m) radius centered on the caster. Upon uttering the ''holy word'', all creatures of an alignment different than the priest suffered one of the following effects, based on their toughness or experience level:\n{|class=\"wikitable\"\n! Toughness or Level !! Effect\n|-\n| Extremely large or tough || deafened briefly\n|-\n| Considerably large or tough || ''[[slow]]ed'', as the [[wizard]] spell for a few minutes\n|-\n| Fairly large or tough || paralyzed for 10 to 40 minutes\n|-\n| Not large or tough || killed (destroyed if [[undead]])\n|}"
+        },
+        "Components": "This spell only required a verbal component to cast.",
+        "History": "This spell was inscribed within the [[Kelemvor]]ite [[relic]] the ''[[Testament of Vraer]]''."
+    }
+}

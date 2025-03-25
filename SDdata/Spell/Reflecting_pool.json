@@ -1,0 +1,21 @@
+{
+    "template_data": {
+        "edition": "2e",
+        "edition_1": "1e",
+        "1|oz|long": "yes"
+    },
+    "document_data": {
+        "name": "Reflecting Pool",
+        "school2e": "[[Divination]]",
+        "spheres2e": "[[Divination sphere|Divination]], [[Elemental sphere|Elemental]] [[Elemental water sphere|Water]]",
+        "level2e": "{{spell table|edition=2e|[[Cleric]]|4|[[Divination sphere|Divination]]|4|[[Druid]]|4|[[Elemental sphere|Elemental]]|4|[[Elemental water sphere|Elemental Water]]|4|[[Mystic]]|4}}",
+        "type2e": "",
+        "refs2e": "",
+        "school1e": "[[Evocation]], [[Divination]]",
+        "level1e": "{{spell table|edition=1e|[[Druid]]|2}}",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Reflecting pool''''' was a [[divination]] spell that allowed the caster to use a small pool of water as a [[scrying]] device.",
+        "Components": "In addition to a [[verbal component|verbal]] and [[somatic component]], this spell required a [[material component]] in the form of a [[mistletoe]] and an ounce of {{SI|1|oz|long=yes}} of [[oil]] extracted from a [[walnut]] or [[hickory]] nut."
+    }
+}

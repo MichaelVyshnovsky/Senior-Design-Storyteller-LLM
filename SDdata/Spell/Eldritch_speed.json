@@ -1,0 +1,16 @@
+{
+    "template_data": {
+        "edition": "4e"
+    },
+    "document_data": {
+        "type": "daily",
+        "name": "Eldritch Speed",
+        "school": "",
+        "keywords4e": "{{desc/arcane}}",
+        "level4e": "{{spell table|edition=4e|[[Swordmage]]|2}}",
+        "type4e": "Daily",
+        "refs4e": "",
+        "mainbody": "'''''Eldritch speed''''' is a [[transmutation]] [[spell]] used by several inexperienced [[swordmage]]s. When it is cast, ''eldritch speed'' allows a swordmage to infuse their body with [[magic]]al power, quickening both their mental and physical reactive capability. Swordmages enhanced by the ''eldritch speed'' react to danger more quickly and can run twice as fast. ''Eldritch speed'' is a difficult spell, however, and can only be cast once per day.",
+        "References": "{{refs}}\n[[Category:Swordmage spells]]\n5c9p22y8xlkc0ar3htpdrvjzeh4v4vn"
+    }
+}

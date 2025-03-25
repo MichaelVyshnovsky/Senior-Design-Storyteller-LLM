@@ -1,0 +1,40 @@
+{
+    "template_data": {
+        "30|foot|adj": "square"
+    },
+    "document_data": {
+        "image": "The hearth - PaF.webp",
+        "caption": "",
+        "name": "The Hearth",
+        "aliases": "",
+        "type": "Festhall",
+        "architecture": "",
+        "floors": "",
+        "location": "[[Candlekeep]], [[Sword Coast]]",
+        "owner": "",
+        "ownertable": "",
+        "staff": "",
+        "stafftable": "",
+        "occupants": "",
+        "services": "",
+        "worship": "",
+        "pipes": "",
+        "tankards": "",
+        "coins": "",
+        "daggers": "",
+        "quality": "",
+        "price": "",
+        "usethe": "",
+        "useon": "",
+        "inhabitants": "",
+        "locations": "",
+        "organizations": "",
+        "mainbody": "'''The Hearth''' was a [[festhall]] located in the castle-library of [[Candlekeep]] during the 15{{th}} century [[DR]]. It was located in the keep's Court of Air, between the [[House of Rest]] bunkhouse and the public bathhouse.\n\nThe hall had a number of shrines, dedicated to the [[deities]] of knowledge&mdash;[[Deneir]], [[Gond]] and [[Milil]].<ref>\n\nThirty people could dine here comfortably at any time. The Hearth was always open, and its [[fire]] was never permitted to go out. A dozen patrons typically occupied the pub during the day, with more during lunch and supper.",
+        "Structure": "From an external perspective, the Hearth seemed like a humble tavern built solidly, its cozy glow streaming through a couple of tiny windows flanking the entrance. Inside, the building seemed three times larger within. The Hearth gained its larger dimensions courtesy of extradimensional [[magic]] crafted by devotees of Gond. Suspended in the ceiling over the bar was an intricate clockwork device encased within a two-foot-diameter crystal [[orb]] emitting a faint glow. Known as [[geometric amplifier]] among the [[Avowed]], it served as the source of the magic necessary to uphold the expanded space's integrity.",
+        "Interior": {
+            "Demiplanar Chambers": "The Hearth boasted numerous doors along its walls, visible to patrons in the taproom yet seemingly invisible from the exterior. These doors led to individual [[Demiplane|demiplanes]], each measuring {{SIAdj|30|foot|adj=square}}, designated either as private meeting spaces or shrines. While the shrines were open for anyone to enter, access to a private chamber necessitated a key from the barkeep and a payment of 5 [[gp]].",
+            "Meeting Rooms": "Inside each meeting chamber, a modest setup greeted visitors, featuring a sizable round table surrounded by chairs, along with sideboards stocked with dishes and cutlery. A menu and beverage list adorned one wall, allowing those within to place orders for food and drinks as they convened.",
+            "Shrines": "Each of the shrines was outfitted with a simple wooden altar, tables, and benches for study and reflection, along with suitable wall hangings. These adornments varied from [[deity]] to deity but generally included beautiful tapestries telling key stories of the relevant deity or framed, illuminated scriptures discussing and illustrating the god's key tenets."
+        }
+    }
+}

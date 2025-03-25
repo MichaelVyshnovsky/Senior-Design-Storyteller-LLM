@@ -1,0 +1,28 @@
+{
+    "template_data": {
+        "image": "<gallery>",
+        "name": "Bastard sword",
+        "othernames": "Hand-and-a-half sword",
+        "type": "Martial, Melee"
+    },
+    "document_data": {
+        "image": "<gallery>",
+        "name": "Bastard sword",
+        "othernames": "Hand-and-a-half sword",
+        "type": "Martial, Melee",
+        "value1e": "25 [[gp]]",
+        "weight1e": "{{SI|10|lb|k}}",
+        "refs1e": "",
+        "value3e": "35 gp",
+        "weight3e": "{{SI|6|lbs.|k}}",
+        "refs3e": "",
+        "value4e": "30 gp",
+        "weight4e": "{{SI|6|lbs.|k}}",
+        "refs4e": "",
+        "mainbody": "'''Bastard swords''' were a type of sword that fell in-between [[longsword]]s and [[greatsword]]s.",
+        "Description": "Bastard swords had a longer grip than a one-handed sword and a shorter blade than a greatsword for extra precision in the strike. It was also more powerful than a ''longsword'' due to its increased weight.",
+        "Weaponology": "Bastard swords were martial weapons normally used two-handed, but could also be wielded with just one. Though they required extra training to use effectively with a single hand.",
+        "History": "Bastard swords first became available in the [[Netheril|Netheril Empire]] in {{YearlinkConvert|2254|NY}}.",
+        "Notable bastard swords": "{{Sectstub}}\n* [[Fatal Touch]], the bastard sword of [[Kelemvor]].\n* [[Ever Watchful]] / [[Vindicator]], the bastard sword of [[Helm]], [[Gedrin Thalavar]] and [[Kalen Dren]].\n* The [[Moonsword]] of [[Eilistraee]].\n* The acidic burst bastard sword of [[Graz'zt]].\n* [[Keryvian]], one of the [[Baneblades of Demron]], believed to be the most powerful."
+    }
+}

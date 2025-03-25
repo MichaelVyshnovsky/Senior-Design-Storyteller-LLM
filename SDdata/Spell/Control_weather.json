@@ -1,0 +1,39 @@
+{
+    "template_data": {
+        "edition": "5e",
+        "edition_1": "3e",
+        "edition_2": "2e",
+        "edition_3": "1e"
+    },
+    "document_data": {
+        "image": "Control weather php5e revised.png",
+        "caption": "",
+        "name": "Control Weather",
+        "deity": "",
+        "inventor": "[[Fourfinger]]",
+        "type": "",
+        "school5e": "[[Transmutation]]",
+        "level5e": "{{spell table|edition=5e|[[Cleric]]|8|[[Druid]]|8|[[Wizard]]|8}}",
+        "type5e": "",
+        "refs5e": "",
+        "school3e": "[[Transmutation]]",
+        "domains3e": "[[Air domain|Air]], [[Cold domain|Cold]], [[Storm domain|Storm]]",
+        "level3e": "{{spell table|edition=3e|[[Air domain|Air]]|7|[[Cleric]]|7|[[Cold domain|Cold]]|7|[[Druid]]|7|[[Hunt domain|Hunt]]|7|[[Sorcerer]]|7|[[Storm domain|Storm]]|7|[[Wizard]]|7}}",
+        "descriptors3e": "",
+        "type3e": "",
+        "refs3e": "{{Cite dragon/342/The Wild Hunt|91}}",
+        "school2e": "[[Alteration]], [[Elemental air school|Air]], [[School of song|Song]], [[Wind (province)|Wind]]<br/>[[Mentalism]], [[Variation]]",
+        "spheres2e": "[[Law sphere|Law]], [[Weather sphere|Weather]]",
+        "level2e": "{{spell table|edition=2e|[[Arcanist]]|6|[[Druid]]|7|[[Law sphere|Law]]|7|[[Weather sphere|Weather]]|7|[[Wizard]]|6}}",
+        "type2e": "",
+        "refs2e": "<ref><ref><ref>",
+        "school1e": "[[Alteration]]",
+        "level1e": "{{spell table|edition=1e|[[Cleric]]|7|[[Magic-user]]|6|[[Wu jen]]|6}}",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Control weather''''' was a [[transmutation]] or [[alteration]] spell that changed the weather in the local area.",
+        "Effects": "After ten minutes of casting, the weather in a two-mile (3.2 km) radius began to change toward the chosen conditions, within the limitations of the season. Older versions of this spell could affect a randomly bigger or smaller area and used the current state of precipitation, temperature, and wind as a baseline, which the caster was able to independently move up or down one level of intensity. The caster could choose the direction of the wind, but not the path of a tornado or the target of lightning. Conditions had to be compatible: you could not call for snow and a heat wave, or high winds and fog, for example.\n\nDruids were exceptionally adept at weather control, able to affect a 50% bigger radius (or double the area), with twice the duration, and, for old-school druids, two levels of intensity change for each of precipitation, temperature, and wind velocity.\n\nThe post sundering version would last for 8 hours and effect the weather in a 5 mile (8 kilometres) radius, and would change depending on choice, climate and season. The effects would be between 3 types: perception changes ranging from \"clear\" to \"torrential rain\", temperature ranging from \"unbearable heat\" to \"arctic cold\", wind changes from \"calm\" to \"storm\".",
+        "Components": "The more recent version of this spell required only verbal and somatic components. Older versions used incense, prayer beads or other [[divine focus]], and the priest's [[holy symbol]]. The post sundering version needed vocal and somatic components and bits of earth and wood mixed with water and burning incense.",
+        "History": "The spell was attributed to [[Netherese arcanist]] [[Fourfinger]] in {{Yearlink|-1997}} and was originally called '''''Fourfinger's weather control'''''.\n\nIn [[1370 DR]], the city of [[Mirabar]] was known to have a permanent ''control weather'' effect in its gardens in order to maintain a comfortable year-round temperature for their agriculture."
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "template_data": {
+        "edition": "2e",
+        "10|ft|long": "yes"
+    },
+    "document_data": {
+        "name": "Lighten Load",
+        "school2e": "[[Alteration]]",
+        "spheres2e": "[[Travelers sphere|Travelers]]",
+        "level2e": "{{spell table|edition=2e|[[Crusader]]|3|[[Mystic]]|2|[[Shaman]]|2|[[Travelers sphere|Travelers]]|2}}",
+        "type2e": "",
+        "refs2e": "",
+        "mainbody": "'''''Lighten load''''' was an [[alteration]] spell that reduced the weight of burdens by half.",
+        "Effects": "This spell could be cast on a pile of non-magical objects&mdash;organic, inorganic, alive, or dead&mdash;and it temporarily reduced the weight of those objects by half. Once the items were enchanted, they could be divvied up among separate carriers. Magic items were not affected by this spell. The pile of objects could be no bigger than a {{SI|10|ft|long=yes}} cube, and the spell lasted for a few hours. More experienced priests could stretch it out for hours longer.\n\nNo other physical property (size, mass, strength, hardness, etc.) of the objects was modified by this spell&mdash;it was as if gravity were cut in half for the affected objects.",
+        "Components": "[[Verbal]] and [[somatic]] components were required to cast this spell, as well as a feather and a piece of [[paper]] moistened by a soap bubble.",
+        "Notable Users": {
+            "Religions": "* [[Crusader]]s were capable of casting this spell once per day."
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "template_data": {
+        "index": "{{P",
+        "index_1": "{{P",
+        "index_2": "{{P"
+    },
+    "document_data": {
+        "image": "",
+        "caption": "",
+        "code": "",
+        "title": "Family Ties",
+        "publisher": "[[RPGA]]",
+        "designer": "[[Rebecca Ward]], [[William Ward]]",
+        "editor": "[[Thomas M. Reid]]",
+        "reviewer": "",
+        "also_credited": "",
+        "cover_artist": "",
+        "inter_artist": "[[Jason A. Engle]]",
+        "cartography": "[[Rob Lee]]",
+        "realm year": "",
+        "setting": "",
+        "edition1": "LC",
+        "debut": "Con2001",
+        "released": "May 25, 2001",
+        "subcat": "",
+        "pages": "24",
+        "game_edition": "3",
+        "isbn": "",
+        "play_time": "3&ndash;4 hours",
+        "rounds": "1",
+        "players": "",
+        "levels": "1{{st}}&ndash;11{{th}}",
+        "series": "DeSheers (2 of 2)",
+        "preceded_by": "''[[Family Matters]]''",
+        "followed_by": "&mdash;",
+        "index": "{{P|[[City Watch (Ravens Bluff)]]|}}",
+        "mainbody": "",
+        "Index": {
+            "Characters": "{{Index\n|index = {{P|[[Lauren DeVillars]]|}}\n}}",
+            "Locations": "{{Index\n|index = {{P|[[City Watch (Ravens Bluff)]]|}}\n}}"
+        }
+    }
+}

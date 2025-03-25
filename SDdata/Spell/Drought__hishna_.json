@@ -1,0 +1,24 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "variant": "",
+        "image": "",
+        "caption": "",
+        "name": "Drought",
+        "deity": "[[Zaltec]]",
+        "domains": "",
+        "inventor": "",
+        "reversible2e": "",
+        "school2e": "[[Hishna]], [[Alteration]]",
+        "spheres2e": "[[Hishna]]",
+        "level2e": "{{spell table|edition=2e|[[Cleric]]|3|[[Hishnashaper]]|3}}",
+        "type2e": "",
+        "refs2e": "",
+        "mainbody": "'''''Drought''''' was a spell unique to [[Maztica]].",
+        "Effects": "This spell caused an area to dry out, as if struck by a drought. If the spell was cast in an area with standing water of a depth of one foot (30 centimeters) or more, the water vanished but would be quickly replaced by water outside the spell's area of effect. The spell's effects lasted until natural or magically generated weather patterns brought rain to the affected area. ''[[Dispel magic]]'' could reverse the effects of the spell, but only if it was cast before the casting time elapsed.",
+        "Casting": "Casting the spell required an hour of the caster's complete concentration, and they had to cast the spell from the centre of the area to be affected.",
+        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, the spell required a [[material component]], a dried foot from a desert rat."
+    }
+}

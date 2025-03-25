@@ -1,0 +1,50 @@
+{
+    "template_data": {
+        "index": "{{P",
+        "index_1": "{{P",
+        "title": "{{P",
+        "title_1": "{{P",
+        "title_2": "{{P",
+        "title_3": "{{P",
+        "title_4": "{{P",
+        "title_5": "{{P",
+        "title_6": "{{P",
+        "title_7": "{{P",
+        "index_2": "{{P",
+        "title_8": "Items",
+        "index_3": "{{P",
+        "index_4": "{{P"
+    },
+    "document_data": {
+        "image": "Monstrous-Compendium-Planescape-Appendix-I-cover.jpg",
+        "code": "TSR2602",
+        "title": "Items",
+        "author": "[[Allen Varney]]<br/>[[Jeff Easley]]<br/>[[Tony DiTerlizzi]]",
+        "editor": "[[Allen Vamey]]",
+        "cover_artist": "[[Jeff Easley]]",
+        "inter_artist": "[[Tony DiTerlizzi]]<br/>[[Dana Knutson]]Conceptual<br/>[[Robert Repp]] Border Art",
+        "typography": "[[Angelika Lokotz]]",
+        "publisher": "[[TSR]]",
+        "released": "June 1994",
+        "type": "Accessory",
+        "binding": "Paperback",
+        "pages": "128",
+        "game_edition": "2",
+        "isbn10": "1560768622",
+        "isbn13": "978-1560768623",
+        "citetitle": "Monstrous Compendium Planescape Appendix",
+        "index": "{{P|[[Blood War]]|16,43,45,49,88,93,95-108,110,118,120-122,124,127-128}}",
+        "ref": "{{P|[[adamantite dragon]]|128}};{{P|[[celestial archon|archon]]|39,59,112,128}};{{P|[[aquatic elf]]|111}};{{P|[[balaena]]|112}};{{P|[[black dragon]]|86}};{{P|[[drow]]|42}};{{P|[[gold dragon]]|59}};{{P|[[moon dog]]|128}};{{P|[[mortai]]|128}};{{P|[[noctral]]|128}};{{P|[[red dragon]]|47}};{{P|[[silver dragon]]|59}};{{P|[[zoveri]]|128}}",
+        "mainbody": "",
+        "Description": "The ''Monstrous Compendium Planescape Appendix'' was published by TSR, Inc. in 1994 as a loose-leaf binder filled with monster sheets, which could be added to a Dungeon Master's binder of monsters for use in their game.\n\nThe ''Monstrous Compendium Planescape Appendix'' includes information on various creatures that players and Dungeon Masters may encounter in the ''Planescape'' setting. Each monster entry includes details on the creature's physical appearance, abilities, behavior, and habitat.\n\nThe ''Monstrous Compendium Planescape Appendix'' is intended to be used in conjunction with the ''[[Monstrous Manual]]'', which provides more comprehensive information on monsters from various D&D settings.",
+        "Index": {
+            "Characters": "{{Index\n|index = {{P|[[Cat lord]]|12-13}};{{P|[[Hawk lord]]|12,14}};{{P|[[Wolf lord]]|12,15}}\n|ref = {{P|[[Vlaakith CLVII|Lich Queen]]|46-47}}\n}}",
+            "Creatures": "{{Index\n|index = {{P|[[Animal lord]]|12-15}};[[archon]];{{P|[[baku]]|30-31}};{{P|[[bariaur]]|32-33}};{{P|[[bebilith]]|34-35}};{{P|[[bodak]]|36-37}};{{P|[[einheriar]]|38-39}};{{P|[[foo dog]]|40-41}};{{P|[[foo lion]]|40-41}};{{P|[[githyanki]]|46-47,61}};{{P|[[githzerai]]|48-49}};{{P|[[hordling]]|54-55}};{{P|[[imp]]|56-57}};{{P|[[incarnate]]|58-60}};{{P|[[larva]]|62-63}};{{P|[[maelephant]]|64-65}};{{P|[[marut]]|66-67}};{{P|[[mediator]]|68-69}};{{P|[[night hag]]|80-81}};{{P|[[nightmare (creature)|nightmare]]|82-83}};{{P|[[per]]|84-85}};[[phoenix]];{{P|[[shadow fiend]]|86-87}};{{P|[[tiefling]]|112-113}};{{P|[[translator]]|68-69}};{{P|[[vargouille]]|114-115}};{{P|[[yeth hound]]|116-117}}\n|ref = {{P|[[adamantite dragon]]|128}};{{P|[[celestial archon|archon]]|39,59,112,128}};{{P|[[aquatic elf]]|111}};{{P|[[balaena]]|112}};{{P|[[black dragon]]|86}};{{P|[[drow]]|42}};{{P|[[gold dragon]]|59}};{{P|[[moon dog]]|128}};{{P|[[mortai]]|128}};{{P|[[noctral]]|128}};{{P|[[red dragon]]|47}};{{P|[[silver dragon]]|59}};{{P|[[zoveri]]|128}}\n}}\n{{Index\n|title = {{P|[[Aasimon]]|4-11,39,69,128}}\n|index = {{P|[[agathinon]]|5}};{{P|[[deva]]|6-7}} ({{P|[[astral deva|astral]]|6-7}};{{P|[[monadic deva|monadic]]|6-7}};{{P|[[movanic deva|movanic]]|6-7}});{{P|[[Light (angel)|light aasimon]]|8}};{{P|[[planetar]]|9}};{{P|[[solar]]|10-11}}\n}}\n{{Index\n|title = {{P|[[Baatezu]]|16-29}}\n|index = {{P|[[abishai]]|18}} ({{P|[[black abishai]]|18}};{{P|[[green abishai]]|18}};{{P|[[red abishai]]|18}});{{P|[[amnizu]]|19}};{{P|[[barbazu]]|20}};{{P|[[cornugon]]|21}};{{P|[[erinyes]]|22}};{{P|[[gelugon]]|23}};{{P|[[hamatula]]|24}};{{P|[[lemure]]|25}};{{P|[[nupperibo]]|26}};{{P|[[osyluth]]|27}};{{P|[[pit fiend]]|28}};{{P|[[spinagon]]|29}}\n}}\n{{Index\n|title = {{P|[[Gehreleth]]|42-45}}\n|index = {{P|[[farastu]]|42-44}};{{P|[[kelubar]]|42,44-45}};{{P|[[shator]]|42,45}}\n}}\n{{Index\n|title = {{P|[[Grue]]|50-53}}\n|index = {{P|[[chaggrin]]|50}};{{P|[[harginn]]|50-51}};{{P|[[ildriss]]|52-53}};{{P|[[varrdig]]|52-53}}\n}}\n{{Index\n|title = {{P|[[Mephit]]s|70-79}}\n|index = {{P|[[air mephit|air]]|71}};{{P|[[ash mephit|ash]]|77}};{{P|[[dust mephit|dust]]|75}};{{P|[[earth mephit|earth]]|72}};{{P|[[fire mephit|fire]]|73}};{{P|[[ice mephit|ice]]|74}};{{P|[[lightning mephit|lightning]]|76}};{{P|[[magma mephit|magma]]|77}};{{P|[[mineral mephit|mineral]]|76}};{{P|[[mist mephit|mist]]|78}};{{P|[[ooze mephit|ooze]]|72}};{{P|[[radiant mephit|radiant]]|73}};{{P|[[salt mephit|salt]]|75}};{{P|[[smoke mephit|smoke]]|71}};{{P|[[steam mephit|steam]]|78}};{{P|[[water mephit|water]]|74}}\n}}\n{{Index\n|title = {{P|[[Slaad]]|88-91}}\n|index = {{P|[[blue slaad|blue]]|88,90}};{{P|[[death slaad|death]]|88,90-91}};{{P|[[gray slaad|gray]]|88,90}};{{P|[[green slaad|green]]|88,90}};{{P|[[red slaad|red]]|88}}\n}}\n{{Index\n|title = {{P|[[Tanar'ri]]|92-110}}\n|index = {{P|[[alu-fiend]]|93-94}};{{P|[[babau]]|93,95}};{{P|[[balor]]|93,96}};{{P|[[bar-lgura]]|93,97}};{{P|[[cambion]]|93,98}};{{P|[[chasme]]|93,99}};{{P|[[dretch]]|93,100}};{{P|[[glabrezu]]|93,101}};{{P|[[hezrou]]|93,102}};{{P|[[mane]]|93,103}};{{P|[[marilith]]|93,104}};{{P|[[molydeus]]|93,105}};{{P|[[nabassu]]|93,106}};{{P|[[nalfeshnee]]|93,107}};{{P|[[rutterkin]]|93,108}};{{P|[[succubus]]|93,109}};{{P|[[vrock]]|93,110}};{{P|[[wastrilith]]|111}}\n}}\n{{Index\n|title = {{P|[[Yugoloth]]|118-127}}\n|index = {{P|[[arcanaloth]]|118,120}};{{P|[[dergholoth]]|118,121}};{{P|[[hydroloth]]|118,122}};{{P|[[mezzoloth]]|118,123}};{{P|[[nycaloth]]|118,124}};{{P|[[piscoloth]]|118,125}};{{P|[[ultroloth]]|118,126}};{{P|[[yagnoloth]]|118,127}}\n}}",
+            "Locations": "{{Index\n|index = {{P|[[Sigil]]|2,4,36,65,93,112,118,122,128}}\n}}",
+            "Magic": "{{Index\n|title = Items\n|index = {{P|''[[Githyanki silver sword]]''|46}}\n}}",
+            "Miscellaneous": "{{Index\n|index = {{P|[[Blood War]]|16,43,45,49,88,93,95-108,110,118,120-122,124,127-128}}\n}}"
+        },
+        "Gallery": "<gallery>\nMonstrous Compendium Planescape Appendix Back Cover.jpg|''Back Cover''\n</gallery>",
+        "Credits": "* '''Editor:''' Allen Varney\n* '''Project Coordinator:''' Dori Jean Hein\n* '''Cover Artist:''' Jeff Easley\n* '''Interior Artist:''' Tony DiTerlizzi\n* '''Conceptual Artist:''' Dana Knutson\n* '''Compilers:''' David \"Zeb\" Cook, Dori Hein, David Wise\n* '''Able Assisters:''' Wolfgang Baur, Michele Carter, Jon Pickens, Skip Williams\n* '''Graphics Coordinator:''' Sarah Feggestad\n* '''Art Coordinator:''' Peggy Cooper\n* '''Electronic Prepress Coordinator:''' Tim Coumbe\n* '''Typesetter: Angelika Lokotz\n* '''Border Art:''' Robert Repp\n* '''Graphic Design:''' Dee Barnett, Dawn Murin"
+    }
+}

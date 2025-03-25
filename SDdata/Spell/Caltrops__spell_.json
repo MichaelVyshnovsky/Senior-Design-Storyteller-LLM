@@ -1,0 +1,16 @@
+{
+    "template_data": {
+        "edition": "3e",
+        "5|ft|long": "yes",
+        "5|ft|long_1": "yes"
+    },
+    "document_data": {
+        "name": "Caltrops",
+        "school3e": "[[Conjuration]] (Creation)",
+        "level3e": "{{spell table|edition=3e|[[Sorcerer]]|0|[[Wizard]]|0|}}",
+        "refs3e": "",
+        "mainbody": "reversible2e  =\n| school2e      =\n| spheres2e     =\n| level2e       =\n| type2e        =\n| refs2e        =\n| reversible1e  =\n| school1e      =\n| level1e       =\n| type1e        =\n| refs1e        =\n}}\n\n'''''Caltrops''''' was a simple spell.",
+        "Effects": "When cast, this spell covered an area of {{SI|5|ft|long=yes}} by {{SI|5|ft|long=yes}} with [[caltrop]]s. The size of the area covered in caltrops was determined by the caster's skill level.",
+        "Components": "This spell required only a [[Verbal component|verbal]] and [[somatic component|somatic]] component."
+    }
+}

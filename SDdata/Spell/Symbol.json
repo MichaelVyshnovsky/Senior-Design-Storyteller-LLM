@@ -1,0 +1,41 @@
+{
+    "template_data": {
+        "edition": "5e",
+        "edition_1": "2e",
+        "edition_2": "1e"
+    },
+    "document_data": {
+        "image": "Symbol of Hopelessness.jpg",
+        "caption": "The symbol of hopelessness spell.",
+        "name": "Symbol",
+        "deity": "",
+        "inventor": "[[Hersent]]",
+        "type": "",
+        "school5e": "[[Abjuration]]",
+        "domains5e": "",
+        "circles5e": "",
+        "oaths5e": "",
+        "patrons5e": "",
+        "traditions5e": "",
+        "level5e": "{{spell table|edition=5e|[[Bard]]|7|[[Cleric]]|7|[[Wizard]]|7}}",
+        "type5e": "",
+        "refs5e": "",
+        "level2e": "{{spell table|edition=2e|[[Arcanist]]|8|[[Cleric]]|7|[[Crusader]]|7|[[Guardian sphere|Guardian]]|7|[[Monk]]|7|[[Wizard]]|8}}",
+        "spheres2e": "[[Guardian sphere|Guardian]]",
+        "school2e": "[[Conjuration]] (Summoning)<br/>[[Universal (province)]]<br/>[[Inventive]]",
+        "type2e": "",
+        "refs2e": "<ref><ref>",
+        "reversible1e": "",
+        "school1e": "[[Conjuration]] (Summoning)",
+        "level1e": "{{spell table|edition=1e|[[Cleric]]|7|[[Magic-user]]|8|[[Wu jen]]|8}}",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Symbol''''' was a [[conjuration]] spell that was similar to ''[[glyph of warding]]'', creating a rune that had a variety of possible devastating effects when triggered.\n\n{{TOC limit|3}}",
+        "Effects": {
+            "Known Divine Symbols": "The following symbols were typical divine ''symbols'':",
+            "Known Arcane Symbols": "Known arcane ''symbols'' included:"
+        },
+        "Components": "One reason the strength, duration, and variety of effects varied widely between divine and arcane ''symbols'' was the material components used in casting the spell. Divine spellcasters needed bit of [[phosphorous]] and a drop of [[mercury]]. Arcane spellcasters had to have 5,000 gp worth each of powdered [[black opal]] and [[diamond]] dust. Both versions required verbal utterances and somatic gestures including the tracing of the rune or runes themselves.\n\nFor arcane spellcasters, the symbol itself integrated their personal [[signature rune]]s into symbol.",
+        "History": "The spell was attributed to [[Netherese arcanist]] [[Hersent]] in {{Yearlink|-1110}} and was originally called ''Hersent's symbol''."
+    }
+}

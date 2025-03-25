@@ -1,0 +1,16 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "name": "Grounding",
+        "school2e": "[[Abjuration]]",
+        "spheres2e": "[[Wards sphere|Wards]]",
+        "level2e": "{{spell table|edition=2e|[[Crusader]]|5|[[Shaman]]|5|[[Wards sphere|Wards]]|5}}",
+        "type2e": "",
+        "refs2e": "",
+        "mainbody": "'''''Grounding''''' was an [[abjuration]] spell that prevented damage from normal electrical discharges and helped insulate against magical electrical attacks, within the area of effect.",
+        "Effects": "This spell operated similarly to ''[[fire purge]]'' but did not prevent electrical discharges as ''fire purge'' prevented ignition of fires; instead the electricity was prevented from damaging anything in the protected area. Magical bolts could still penetrate the barrier or be generated inside the barrier, but their intensity was cut in half and creatures and objects had a better chance of avoiding or resisting their effects.\n\nThe area of effect was the same as for ''fire purge'' (10 yd/9.1 m square) which increased exponentially if this spell was cast cooperatively by multiple priests.",
+        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required the priest's [[holy symbol]] and a small coil of [[silver]] [[wire]]."
+    }
+}

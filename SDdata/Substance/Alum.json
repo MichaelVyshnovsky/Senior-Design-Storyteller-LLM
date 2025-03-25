@@ -1,0 +1,29 @@
+{
+    "document_data": {
+        "image": "Alum.png",
+        "caption": "A sample of alum powder.",
+        "name": "Alum",
+        "aliases": "",
+        "locations": "",
+        "discovered": "",
+        "date": "",
+        "creators": "",
+        "created": "",
+        "hisrefs": "",
+        "type": "Substance",
+        "components": "",
+        "color": "",
+        "properties": "",
+        "markings": "",
+        "phyrefs": "",
+        "uses": "[[Material component]]",
+        "cost": "5 [[cp]] per {{SI|6|oz}}",
+        "userefs": "",
+        "items": "",
+        "mainbody": "'''Alum''' was a white mineral substance that was widely used in the Realms.",
+        "Availability": "[[File:Dark Alum.png|thumb|''The rarely-seen dark alum.'']]\n* Alum was a processed substance derived from certain porous rocks that were heated and dissolved in [[goldflow|urine]], producing the purified material.{{Cite dragon/152/In a Cavern, In a Canyon...|23}}\n* Alum was harvested from [[Mount Hotenow]].\n* Alum could be bought from [[Aurora's Emporium]] for 5 [[cp]] per {{SI|6|oz}}.\n* '''Dark Alum''' was less common variety of alum that was purple in color, with a known deposit at [[Vellosk]].\n* Experienced miners learned to distinguish the taste of alum in the rock, allowing them to determine its presence.",
+        "Usage": {
+            "Magic": "* A lump of alum was needed as a [[material component]] for casting the [[spell]] ''[[antipathy]]''."
+        }
+    }
+}

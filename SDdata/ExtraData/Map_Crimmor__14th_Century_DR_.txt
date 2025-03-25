@@ -1,0 +1,2043 @@
+2900
+136295
+
+886342
+886341
+2023-08-17T13:21:45Z
+
+Ekremkeser23
+53519192
+
+Undo revision 886341 by [[Special:Contributions/Ekremkeser23|Ekremkeser23]] ([[User talk:Ekremkeser23|talk]])
+886342
+interactivemap
+text/plain
+{
+    "mapImage": "Crimmor-map.jpg",
+    "pageCategories": [
+        "Interactive_maps",
+        "Maps_of_Crimmor",
+        "Maps_of_cities"
+    ],
+    "defaultSort": "",
+    "coordinateOrder": "xy",
+    "mapBounds": [
+        [
+            0,
+            0
+        ],
+        [
+            999,
+            780
+        ]
+    ],
+    "origin": "bottom-left",
+    "useMarkerClustering": false,
+    "categories": [
+        {
+            "id": "1",
+            "listId": 1,
+            "name": "Inns, Festhalls and Taverns",
+            "color": "#FA005A",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "2",
+            "listId": 2,
+            "name": "Shops",
+            "color": "#FFC500",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "3",
+            "listId": 3,
+            "name": "Landmarks",
+            "color": "#ffffff",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "4",
+            "listId": 4,
+            "name": "Private residences",
+            "color": "#66ff00",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "5",
+            "listId": 5,
+            "name": "Temples and shrines",
+            "color": "#0089fa",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "6",
+            "listId": 6,
+            "name": "Businesses",
+            "color": "#8eBc8e",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "7",
+            "listId": 7,
+            "name": "Roads and trails",
+            "color": "#7f0000",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "8",
+            "listId": 8,
+            "name": "Public Buildings",
+            "color": "#e0beff",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "9",
+            "listId": 9,
+            "name": "Gates, docks and portals",
+            "color": "#cccccc",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "10",
+            "listId": 10,
+            "name": "Parks and Gardens",
+            "color": "#007f00",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "11",
+            "listId": 11,
+            "name": "Bodies of water",
+            "color": "#00e8ff",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "12",
+            "listId": 12,
+            "name": "Events",
+            "color": "#ccff00",
+            "symbol": "",
+            "symbolColor": ""
+        }
+    ],
+    "markers": [
+        {
+            "categoryId": "5",
+            "position": [
+                665.46826458716,
+                186.07257193722
+            ],
+            "popup": {
+                "title": "Theater of Joy",
+                "description": "A temple to Lliira, Milil and Sune",
+                "link": {
+                    "url": "Theater of Joy",
+                    "label": "Theater of Joy"
+                }
+            },
+            "id": "1"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                598.46261854704,
+                230.56947517552
+            ],
+            "popup": {
+                "title": "Allfaiths Altarhall",
+                "description": "Aa shrine dedicated to many deities",
+                "link": {
+                    "url": "Allfaiths Altarhall",
+                    "label": "Allfaiths Altarhall"
+                }
+            },
+            "id": "2"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                870.624975091,
+                303.24819916575
+            ],
+            "popup": {
+                "title": "Chauntea's Cradle",
+                "description": "A temple to Chauntea",
+                "link": {
+                    "url": "Chauntea's Cradle",
+                    "label": "Chauntea's Cradle"
+                }
+            },
+            "id": "3"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                671.49172123573,
+                303.04725927637
+            ],
+            "popup": {
+                "title": "The Dausann",
+                "description": "",
+                "link": {
+                    "url": "The Dausann",
+                    "label": "The Dausann"
+                }
+            },
+            "id": "4"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                584.22587911141,
+                257.30304887433
+            ],
+            "popup": {
+                "title": "The Wagonrun",
+                "description": "The large street which separated the Wheel Ward (West) from the Purse Ward (East)",
+                "link": {
+                    "url": "The Wagonrun",
+                    "label": "The Wagonrun"
+                }
+            },
+            "id": "5"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                673.23179084753,
+                356.27638979535
+            ],
+            "popup": {
+                "title": "The High Ride",
+                "description": "The large street which separated the River Ward (North) from the Purse and Wheel Wards (South)",
+                "link": {
+                    "url": "The High Ride",
+                    "label": "The High Ride"
+                }
+            },
+            "id": "6"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                779.98678925363,
+                234.02780353439
+            ],
+            "popup": {
+                "title": "The Thaeldorn",
+                "description": "Court, Civic Building, Mayor's residence",
+                "link": {
+                    "url": "Thaeldorn",
+                    "label": "The Thaeldorn"
+                }
+            },
+            "id": "7"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                837.23840003566,
+                212.04665338821
+            ],
+            "popup": {
+                "title": "Zornflames Bakery",
+                "description": "Bakery",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "8"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                859.73373374957,
+                229.0361513268
+            ],
+            "popup": {
+                "title": "Longbow Wagons",
+                "description": "",
+                "link": {
+                    "url": "Longbow Wagons",
+                    "label": "Longbow Wagons"
+                }
+            },
+            "id": "9"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                856.98267096555,
+                282.77827478073
+            ],
+            "popup": {
+                "title": "Yauncel Darth, Lore and Sagecraft",
+                "description": "",
+                "link": {
+                    "url": "Yauncel Darth",
+                    "label": "Yauncel Darth"
+                }
+            },
+            "id": "10"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                901.98866573167,
+                338.50181766448
+            ],
+            "popup": {
+                "title": "Melpurth House",
+                "description": "Boarding house",
+                "link": {
+                    "url": "Melpurth House",
+                    "label": "Melpurth House"
+                }
+            },
+            "id": "11"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                915.23954584969,
+                395.48646849779
+            ],
+            "popup": {
+                "title": "Sangalorr Fine Flowers",
+                "description": "Sells plants, scents and perfumes",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "12"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                945.98627446762,
+                413.28594936408
+            ],
+            "popup": {
+                "title": "Alandor Gate",
+                "description": "Eastern city gate",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "13"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                925.9948929818,
+                441.26299293496
+            ],
+            "popup": {
+                "title": "The Burning Wagon",
+                "description": "Cheap tavern of fair quality",
+                "link": {
+                    "url": "The Burning Wagon",
+                    "label": "The Burning Wagon"
+                }
+            },
+            "id": "14"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                903.40406934044,
+                455.94070615817
+            ],
+            "popup": {
+                "title": "Aszrim's Stables",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "15"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                903.61609469577,
+                470.01777271932
+            ],
+            "popup": {
+                "title": "Crimmorquaff House",
+                "description": "Brewery",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "16"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                867.61658457278,
+                452.76518086442
+            ],
+            "popup": {
+                "title": "The Dancing Drover",
+                "description": "Moderately priced club of fair quality",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "17"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                870.74146833078,
+                395.39014720397
+            ],
+            "popup": {
+                "title": "Maunk's Safe Carriagehouse",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "18"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                816.7378814347,
+                430.51090598685
+            ],
+            "popup": {
+                "title": "The Emir's Court",
+                "description": "Expensive tavern of excellent quality",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "19"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                766.50375080622,
+                431.68868991439
+            ],
+            "popup": {
+                "title": "Crystalgates Manor",
+                "description": "Krimmevol family mansion",
+                "link": {
+                    "url": "Crystalgates Manor",
+                    "label": "Crystalgates Manor"
+                }
+            },
+            "id": "20"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                729.11395252173,
+                486.63058763524
+            ],
+            "popup": {
+                "title": "Eskel's Barges and Wagons",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "21"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                715.61468318574,
+                481.89664367144
+            ],
+            "popup": {
+                "title": "Kelvaert's Anvil",
+                "description": "Smithy",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "22"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                611.6077750896,
+                450.15519342657
+            ],
+            "popup": {
+                "title": "Ivyposts",
+                "description": "Boarding house",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "23"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                524.11012483865,
+                517.75215426901
+            ],
+            "popup": {
+                "title": "Ralory's Redtarge",
+                "description": "Cheap tavern of poor quality",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "24"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                471.61242476969,
+                504.52393258226
+            ],
+            "popup": {
+                "title": "Felnar's Faithful Beasts",
+                "description": "Buys and sells draft animals, horses and oxen",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "25"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                747.8676058418,
+                361.76676290572
+            ],
+            "popup": {
+                "title": "The Old Wheel",
+                "description": "Expensive club of good quality",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "26"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                713.24030591075,
+                372.39250343569
+            ],
+            "popup": {
+                "title": "Braezel's",
+                "description": "Moderately priced club of fair quality",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "27"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                675.9878316167,
+                373.89496064878
+            ],
+            "popup": {
+                "title": "The Bright Fish",
+                "description": "Expensive tavern of good quality",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "28"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                710.8676473568,
+                348.76578675258
+            ],
+            "popup": {
+                "title": "Salamantha's Sundown",
+                "description": "Expensive club of excellent quality",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "29"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                659.1124745877,
+                328.90071658629
+            ],
+            "popup": {
+                "title": "Alessan House",
+                "description": "Boarding House",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "30"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                612.61304749471,
+                373.25841511331
+            ],
+            "popup": {
+                "title": "Clawthorn's Curios",
+                "description": "Sells creature parts, trophies and distillates",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "31"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                576.11474960974,
+                371.89731688051
+            ],
+            "popup": {
+                "title": "Xornavar's Armory",
+                "description": "Buys and sells weapons and gears",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "32"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                593.99223220679,
+                412.00955956872
+            ],
+            "popup": {
+                "title": "Quarren's Wagons",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "33"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                572.11423482373,
+                342.41411344668
+            ],
+            "popup": {
+                "title": "Harnsar's Board",
+                "description": "Expensive club of good quality",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "34"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                567.49040554676,
+                322.51669558481
+            ],
+            "popup": {
+                "title": "Handurzunn House",
+                "description": "Sells fruits, roots and vegetables",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "35"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                540.11358718972,
+                342.5149789017
+            ],
+            "popup": {
+                "title": "The Blushing Rose Decorators",
+                "description": "Sells paints, trims, furnishings and statues",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "36"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                566.23999039675,
+                256.39647536918
+            ],
+            "popup": {
+                "title": "Nelvor's Wagons",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "37"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                716.99121093777,
+                336.89482600697
+            ],
+            "popup": {
+                "title": "The Zultail",
+                "description": "Expensive club of good quality",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "38"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                714.86535572875,
+                268.39664367144
+            ],
+            "popup": {
+                "title": "Roldskull's Tomes, Maps and Folios",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "39"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                731.49171742078,
+                220.78318920691
+            ],
+            "popup": {
+                "title": "Vauve's Fine Scrolltubes, Coffers and Jewelboxes",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "40"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                737.11561312176,
+                181.02214857824
+            ],
+            "popup": {
+                "title": "Belnar's Bootery",
+                "description": "Sells boots, shoes and leatherwork",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "41"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                618.36679214778,
+                171.26844592838
+            ],
+            "popup": {
+                "title": "Paeraetor Luteworks and Trumpets",
+                "description": "Sells musical instruments",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "42"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                586.86469979174,
+                187.39102237575
+            ],
+            "popup": {
+                "title": "Athtel's",
+                "description": "Moderately priced tavern of good quality",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "43"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                558.98926803573,
+                215.38782463269
+            ],
+            "popup": {
+                "title": "Tethchaith's Saddles and Harness",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "44"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                526.86213416469,
+                176.90573199382
+            ],
+            "popup": {
+                "title": "Suldrakh's",
+                "description": "Boarding House",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "45"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                507.36083889666,
+                189.02746692986
+            ],
+            "popup": {
+                "title": "Rolling Wheel Wagons",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "46"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                502.11724050979,
+                250.75373631031
+            ],
+            "popup": {
+                "title": "Durndraaven Manor",
+                "description": "Ophal family mansion",
+                "link": {
+                    "url": "Durndraaven Manor",
+                    "label": "Durndraaven Manor"
+                }
+            },
+            "id": "47"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                536.49160117878,
+                402.76329587904
+            ],
+            "popup": {
+                "title": "Bustran Telbanner, Caravan Carpenter",
+                "description": "Sells strongchests, caskets, carry-coffers and custom-built crates",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "48"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                490.48854567472,
+                384.65024533994
+            ],
+            "popup": {
+                "title": "Redbanners House",
+                "description": "Boarding house",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "49"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                502.61435106573,
+                415.76686388708
+            ],
+            "popup": {
+                "title": "Thelgorn's Cages, Tents and Carts",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "50"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                476.2375991327,
+                414.39573483921
+            ],
+            "popup": {
+                "title": "Ivnarr Barrelworks",
+                "description": "Makes or repairs casks and barrels",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "51"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                433.36616111977,
+                403.01460863671
+            ],
+            "popup": {
+                "title": "Drover's Drink",
+                "description": "Moderately priced tavern of fair quality",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "52"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                373.73720058869,
+                470.75212060856
+            ],
+            "popup": {
+                "title": "Darsil's Carks",
+                "description": "Cheap tavern of poor quality",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "53"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                310.48653634868,
+                480.51773905887
+            ],
+            "popup": {
+                "title": "Gelkurt's Fresh and Finest",
+                "description": "Fishmonger and eel-pie bakery",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "54"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                325.99082899976,
+                422.66094936408
+            ],
+            "popup": {
+                "title": "Delnur's Matchless Cart Rentals and Repairs",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "55"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                438.24278401975,
+                332.81658037654
+            ],
+            "popup": {
+                "title": "Engelstarn and Storm",
+                "description": "Smithy",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "56"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                415.73177424153,
+                348.76723415207
+            ],
+            "popup": {
+                "title": "Thulvan Importing",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "57"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                391.48247169354,
+                346.2914023575
+            ],
+            "popup": {
+                "title": "Woazgoaz the Weaver",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "58"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                350.01785668734,
+                336.5828278448
+            ],
+            "popup": {
+                "title": "The Pearl",
+                "description": "Luxury Inn",
+                "link": {
+                    "url": "The Pearl (inn)",
+                    "label": "The Pearl"
+                }
+            },
+            "id": "59"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                342.2352448956,
+                384.77773621348
+            ],
+            "popup": {
+                "title": "Hemmishield Carts and Carriages",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "60"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                318.48366732557,
+                365.54591285824
+            ],
+            "popup": {
+                "title": "Farhorizons House",
+                "description": "Sells herbs and spices",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "61"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                269.97775558945,
+                367.27288910821
+            ],
+            "popup": {
+                "title": "Maerlee's Window",
+                "description": "Bake shop",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "62"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                243.98441459558,
+                428.02437016816
+            ],
+            "popup": {
+                "title": "Gaskrel's",
+                "description": "Boarding house",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "63"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                213.23237205754,
+                438.03803631218
+            ],
+            "popup": {
+                "title": "Zoldaftel Wagons",
+                "description": "The most renowned wagon maker in the region.",
+                "link": {
+                    "url": "Zoldaftel Wagons",
+                    "label": "Zoldaftel Wagons"
+                }
+            },
+            "id": "64"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                168.47939958348,
+                473.28123690062
+            ],
+            "popup": {
+                "title": "Maukbarl's Brewcasks",
+                "description": "Brewery",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "65"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                127.97670941143,
+                439.54981747082
+            ],
+            "popup": {
+                "title": "Immermoon Lane",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "66"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                174.73404926358,
+                437.54126771569
+            ],
+            "popup": {
+                "title": "Firesteep Square",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "67"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                349.74567346381,
+                444.53938273031
+            ],
+            "popup": {
+                "title": "Tally Square",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "68"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                170,
+                405
+            ],
+            "popup": {
+                "title": "Tymoran Trails",
+                "description": "Inn",
+                "link": {
+                    "url": "Tymoran Trails",
+                    "label": "Tymoran Trails"
+                }
+            },
+            "id": "69"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                103.47931655348,
+                399.30291423252
+            ],
+            "popup": {
+                "title": "Delthorn's Haven",
+                "description": "Boarding House",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "70"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                194,
+                345
+            ],
+            "popup": {
+                "title": "Brightshields",
+                "description": "Boarding house",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "71"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                120.9751982654,
+                452.51178115864
+            ],
+            "popup": {
+                "title": "The Trails Stables",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "72"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                296.5,
+                330.5
+            ],
+            "popup": {
+                "title": "The Pearl Stables",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "73"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                263.23062842751,
+                297.05015407535
+            ],
+            "popup": {
+                "title": "The Caravan Roof",
+                "description": "Coach, Cart and Wagon Storage",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "74"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                258.25,
+                290.75
+            ],
+            "popup": {
+                "title": "Thulmar's Coach Rentals and Repairs",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "75"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                207.22690868343,
+                285.30331815796
+            ],
+            "popup": {
+                "title": "Sorntalar's Rest",
+                "description": "Inn",
+                "link": {
+                    "url": "Sorntalar's Rest",
+                    "label": "Sorntalar's Rest"
+                }
+            },
+            "id": "76"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                244.72861910147,
+                268.54523964918
+            ],
+            "popup": {
+                "title": "Swordel Street",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "77"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                337.73479653359,
+                294.5382382749
+            ],
+            "popup": {
+                "title": "Sardusk Street",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "78"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                454.49255153575,
+                279.29483572374
+            ],
+            "popup": {
+                "title": "Ammakaunter Street",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "79"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                474.24328219976,
+                225.55520314334
+            ],
+            "popup": {
+                "title": "The Street of the Smiths",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "80"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                532.74462728579,
+                234.28837291671
+            ],
+            "popup": {
+                "title": "Murdroun Street",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "81"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                252.72602856541,
+                235.790325223
+            ],
+            "popup": {
+                "title": "Safehaven Stables",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "82"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                226.47516505339,
+                245.0382382749
+            ],
+            "popup": {
+                "title": "The Sorntalar Stables",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "83"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                240.47609498941,
+                229.04503768646
+            ],
+            "popup": {
+                "title": "The Wallrace",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "84"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                368,
+                214
+            ],
+            "popup": {
+                "title": "Oldmarket Square",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "85"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                563,
+                137
+            ],
+            "popup": {
+                "title": "Drover's Gate",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "86"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                306.75,
+                181.75
+            ],
+            "popup": {
+                "title": "Moongables",
+                "description": "Boarding house",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "87"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                375.75,
+                172.5
+            ],
+            "popup": {
+                "title": "Haelvan Hardroll Cheeseworks",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "88"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                362,
+                153.5
+            ],
+            "popup": {
+                "title": "Julkin's Barrels",
+                "description": "Cider House",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "89"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                472.5,
+                270.25
+            ],
+            "popup": {
+                "title": "Zorn Selvyn, Finesmith",
+                "description": "Wire, fine-work, tools, rings and fine fastenings",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "90"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                471.75,
+                244
+            ],
+            "popup": {
+                "title": "Orntalar Chainworks",
+                "description": "Smithy",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "91"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                456.75,
+                216
+            ],
+            "popup": {
+                "title": "Undarr's Troughs, Spouts, Funnels and Pipes",
+                "description": "Smithy",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "92"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                471.75,
+                202
+            ],
+            "popup": {
+                "title": "Melgor Darsander, Locks, Strongboxes and Armor",
+                "description": "Smithy",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "93"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                461.75,
+                181.25
+            ],
+            "popup": {
+                "title": "Darvo the Dwarf",
+                "description": "Smithy: repairs and swift-work",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "94"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                476,
+                168.25
+            ],
+            "popup": {
+                "title": "Imaego Invarr",
+                "description": "Butcher, Smokehouse",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "95"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                622.75,
+                237.5
+            ],
+            "popup": {
+                "title": "Meldroar Lane",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "96"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                583.75,
+                425.25
+            ],
+            "popup": {
+                "title": "Darthel Street",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "97"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                686.25,
+                420.5
+            ],
+            "popup": {
+                "title": "Tuthnel Lane",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "98"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                569.5,
+                463.75
+            ],
+            "popup": {
+                "title": "Blackoor Street",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "99"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                824,
+                383
+            ],
+            "popup": {
+                "title": "Vezmur Lane",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "100"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                858.5,
+                364.5
+            ],
+            "popup": {
+                "title": "Ornbrar Lane",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "101"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                788.75,
+                317
+            ],
+            "popup": {
+                "title": "The Way of Lances",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "102"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                881.25,
+                285.5
+            ],
+            "popup": {
+                "title": "Aulakont Street",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "103"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                484.5,
+                405.5
+            ],
+            "popup": {
+                "title": "Ob's Lane",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "104"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                975.5,
+                408
+            ],
+            "popup": {
+                "title": "The Lake Way",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "105"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                514.75,
+                28
+            ],
+            "popup": {
+                "title": "Orc Road",
+                "description": "Go south towards the burial crypts of Silent Hill",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "106"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                12,
+                153.5
+            ],
+            "popup": {
+                "title": "River Road",
+                "description": "Go west towards Crytrapper Hill and the estates of wealthy individuals",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "107"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                66.25,
+                179.5
+            ],
+            "popup": {
+                "title": "Crytrapper Hall",
+                "description": "Crytrapper family mansion",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "108"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                492.25,
+                621.75
+            ],
+            "popup": {
+                "title": "River Alandor",
+                "description": "Flows from east to west",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "109"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                491.5,
+                552.75
+            ],
+            "popup": {
+                "title": "Alandor Docks",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "110"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                691,
+                159.5
+            ],
+            "popup": {
+                "title": "Ballista Towers",
+                "description": "Several towers housing rarely used ballistae were located along the city walls",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "111"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                900,
+                246
+            ],
+            "popup": {
+                "title": "The Keepclear",
+                "description": "Land around the city which was kept clear of encampments and buildings.\nUsed by the citizen for moots, walks and picnics.",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "112"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                725.5,
+                306
+            ],
+            "popup": {
+                "title": "The Dausann",
+                "description": "",
+                "link": {
+                    "url": "The Dausann",
+                    "label": "The Dausann"
+                }
+            },
+            "id": "113"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                716.25,
+                169.75
+            ],
+            "popup": {
+                "title": "The Dausann",
+                "description": "",
+                "link": {
+                    "url": "The Dausann",
+                    "label": "The Dausann"
+                }
+            },
+            "id": "114"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                726.25,
+                361.25
+            ],
+            "popup": {
+                "title": "The Drae",
+                "description": "Intersection containing the most elegant clubs of the city.",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "115"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                738.75,
+                410.75
+            ],
+            "popup": {
+                "title": "The High Ride",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "116"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                891,
+                422.25
+            ],
+            "popup": {
+                "title": "The High Ride",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "117"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                810,
+                477.5
+            ],
+            "popup": {
+                "title": "The High Ride",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "118"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                395,
+                369.75
+            ],
+            "popup": {
+                "title": "The High Ride",
+                "description": "The large street which separated the River Ward (North) from the Purse and Wheel Wards (South)",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "119"
+        }
+    ]
+}
+ajhbm0kvk79o8g2w2ozmsr2hs5d0hje
+
+

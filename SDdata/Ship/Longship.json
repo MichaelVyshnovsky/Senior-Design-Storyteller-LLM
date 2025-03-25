@@ -1,0 +1,48 @@
+{
+    "template_data": {
+        "rca": "right",
+        "rca_1": "right",
+        "70|80|ft|long": "yes",
+        "15|20|ft|long": "yes"
+    },
+    "document_data": {
+        "image": "Longship-2e.jpg",
+        "caption": "",
+        "name": "Longship",
+        "propername": "",
+        "aliases": "Dragon ship",
+        "type": "Sailing ship, [[Spelljammer]]",
+        "size": "Gargantuan",
+        "location": "",
+        "captain": "",
+        "notable crew": "",
+        "flag": "",
+        "built by": "[[Human]]s",
+        "used by": "Humans",
+        "value": "2,000‒10,000 [[gp]]",
+        "basicrefs": "",
+        "tonnage": "4 tons",
+        "crew": "{{Split table|rca=right|Sailing|40/200|Spelljammer|12/4}}",
+        "passengers": "100–150",
+        "armament": "1 heavy [[ballista]], or<br />1 heavy [[catapult]], or<br />1 heavy [[jettison]]",
+        "cargo": "{{Split table|rca=right|Sailing|10‒50 tons (9.1‒45 t)|Spelljammer|2 tons (1.8 t)}}",
+        "keel length": "{{SIrange|70|75|ft}}",
+        "beam width": "{{SIrange|15|20|ft}}",
+        "configrefs": "",
+        "usethe": "",
+        "useon": "",
+        "inhabitants": "",
+        "source": "",
+        "page": "",
+        "mainbody": "[[File:Northlongship.jpg|thumb|270px|''A [[Northlander]] longship being pulled onto the shore.'']]\nA '''longship''' was a square-sailed, oared ship with a single mast that could be removed.",
+        "Description": {
+            "Regional Differences": {
+                "[[Gundarlun Island]]": "Their figureheads depicted fish (usually marlins or swordfish) and predatory birds (such as ernes and ospreys).",
+                "[[Tuern]]": "They used longships big enough to support [[Fire giant]]s, with figureheads that depicted fierce warriors.",
+                "[[Ruathym]] and [[Luskan]]": "Their figureheads and sails favored red and white [[dragon]]s.",
+                "[[Purple Rocks]]": "Their longships usually had squid-like figureheads."
+            }
+        },
+        "History": "[[File:Longships_and_giant_octopus.png‎|thumb|right|250px|''Longships vs. a sea monster'']]\nLongships were used extensively in the [[Savage Frontier]] by the [[Northmen]]. Also called '''dragon ships''' for the carved figureheads they usually had mounted, they were appreciated by true Northmen beyond other property or family, and were never used as anything but a warship. Longships were the fastest ships along the [[Sword Coast]] in most weather, and were crewed by 40 men, each one a warrior."
+    }
+}

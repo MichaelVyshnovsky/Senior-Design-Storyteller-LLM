@@ -1,0 +1,42 @@
+{
+    "template_data": {
+        "variant": "psionic power",
+        "edition": "3e",
+        "variant_1": "psionic power"
+    },
+    "document_data": {
+        "image": "",
+        "caption": "",
+        "name": "Mindlink",
+        "deity": "",
+        "inventor": "",
+        "feature4e": "",
+        "keywords4e": "",
+        "level4e": "",
+        "type4e": "",
+        "category4e": "",
+        "skill4e": "",
+        "refs4e": "",
+        "discipline3e": "[[Telepathy]]",
+        "mantles3e": "",
+        "descriptors3e": "{{desc/mind-affecting|variant=psionic power}}",
+        "level3e": "{{Spell table|edition=3e|variant=psionic power|[[Telepath]]|1}}",
+        "type3e": "Discipline power",
+        "refs3e": "",
+        "discipline2e": "[[Telepathy]]",
+        "level2e": "Major (Science)",
+        "type2e": "Standard power",
+        "wild2e": "Yes",
+        "refs2e": "",
+        "level1e": "Major (Science)",
+        "type1e": "Discipline",
+        "refs1e": "",
+        "mainbody": "'''''Mindlink''''', originally known as simply '''''telepathy''''', was a [[psionic]] power of the [[telepathy]] [[discipline]]. It established a limited mental bond between the manifester and another being.",
+        "Effects": "The manifester established a mental bond with a target creature. It let them communicate telepathically, even without a common language between them. It granted no other special power or influence over the target. Communication was two-way and wordless. It was not mind-reading: a participant received only thoughts the other wished to send.\n\nOn manifesting, the target originally needed to be in sight or well-known to the user, in which case they needed to be on the same [[plane]] and within one light-second (186,000 miles, or 300,000 kilometers). The telepathic waves could travel further only if both participants were telepathic. After the [[Time of Troubles]] of [[1358 DR]], this range was effectively unlimited. After the [[1372 DR|Year of Wild Magic, 1372 DR]], the target just needed to be an open-minded or willing sentient being no more than 25 feet (7.6 meters) away, or further for more experienced manifesters, and thereafter it would function over any distance provided they remained on the same plane. If an experienced manifester spent more psionic energy, they could affect an unwilling creature or an additional creature, provided all were within 15 feet (4.7 meters) of each other.\n\nOriginally, it lasted only while one concentrated, but later it lasted at least 10 minutes, or longer for more experienced manifesters.\n\nAfter 1358 DR, ''mindlink'' was a prerequisite for various other powers, but this was not necessary after 1372 DR.",
+        "Prerequisite Powers": "Early versions required an initial ''[[contact]]''.",
+        "Displays": "Manifesting the power produced the standard mental [[display]].",
+        "Usage": "The owner of a [[psicrystal]] could communicate with it as if via ''mindlink'', thanks to their telepathic link.\n\nThe ''[[anchored navigation]]'' power granted a ''mindlink'' with a designated creature as part of its function.",
+        "Users": "''Mindlink'' could be learned by people with wild talents and by [[psionicist]]s, and later by [[psion]]s specialized as [[telepath]]s.\n\n''Mindlink'' was known by [[haun]].<ref> In psionic terms, the ''mindlink'' power was also possessed by [[aboleth]]s, [[couatl]]s, [[ki-rin]]s,",
+        "Notable Users": "* [[Gayrlana]], \"Lady Bloodsword\", leader of the [[Mindulgulph Mercenary Company]].\n* [[Ryvvik Dlardrageth]], [[daemonfey]] [[psionicist]] and third-in-command of [[House Dlardrageth]]<ref>\n* [[Saryndalaghlothtor]], \"Lady Gemcloak\", a [[crystal dragon]]"
+    }
+}

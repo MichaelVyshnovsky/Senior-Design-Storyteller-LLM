@@ -1,0 +1,161 @@
+<!--
+
+Admin BadCatMan: Leave this page protected, as it has been the target of vandalism.
+
+----------------------------------
+The main page design code follows. 
+----------------------------------
+---------- Start of left-column - title, featured materials - dynamic width -->
+<mainpage-leftcolumn-start />
+<div class="scroll-banner-container">
+  <div id="scroll-banner">
+    <div class="leftscroll"><!-- Left scroll end goes here --></div>
+    <div class="midscroll"><!-- Middle scroll image goes here -->
+    <!-- Begin banner content -->
+      <div class="mainPageBannerContentBox">
+        <p>{{MainPageQuote}}</p>
+        <p>A guide to the ''[[Forgotten Realms]]'' that [[Help:Editing|anyone can edit]], covering all editions and media.</p>
+      </div>
+    <!-- End banner content -->
+    </div>
+    <div class="rightscroll"><!-- Right scroll end goes here --></div>
+  </div>
+</div>
+<div class="mainPageLeftSection">
+{{HeadingA|Adventurers' Tales}}
+{{Promotions}}
+</div>
+<div class="mainPageLeftSection">
+{{HeadingA|Current Clack}}
+{{Current Clack}}
+</div>
+<div class="mainPageLeftSection">
+{{HeadingA|Featured Article}}
+{{Featured article}}
+</div>
+<div class="mainPageLeftSection">
+{{HeadingA|New & Upcoming Releases}}
+{{Latest releases}}
+</div>
+<div class="mainPageLeftSection">
+{{HeadingA|Featured Source}}
+{{Featured source}}
+</div>
+<div class="mainPageLeftSection">
+{{HeadingA|Today in the Realms...}}
+...it is '''[[{{Format FR date|{{FR date}}|reverse}}|{{unlink|{{FR date}}}}]]''', or '''{{Format FR date|{{FR date}}|the|nth|of|commonName}}'''. {{Selune phase|mode=info}} {{On this day|{{Format FR date|{{FR date}}|reverse}}}}
+<div style="clear: left; text-align: right;" class="noprint">([[:Category:Calendar dates|Archive]])</div>
+</div>
+<div class="mainPageLeftSection">
+{{HeadingA|Realmslore}}
+{{DidYouKnow}}
+</div>
+<div class="mainPageLeftSection">
+{{HeadingA|Featured Image}}
+{{Featured image}}
+</div>
+<mainpage-endcolumn />
+<!--
+---------- Start of right-column - intro, contents - 300px width -->
+<mainpage-rightcolumn-start />
+<div class="rightColumnContainer">
+<div class="mainPageRightSection">
+{{HeadingA|Welcome}}
+Well met, traveler! This wiki covers the rich and popular ''[[Forgotten Realms]]'' campaign setting for ''[[Dungeons & Dragons]]'' from [[TSR, Inc.]] and [[Wizards of the Coast]], including Realmslore from the ''[[Oriental Adventures]]'', ''[[Al-Qadim]]'', [[Maztica Campaign Set|''Maztica'']], ''[[The Horde]]'', [[Planescape Campaign Setting|''Planescape'']], and [[Spelljammer: AD&D Adventures in Space|''Spelljammer'']] settings, covering [[:category:sourcebooks|sourcebooks]], [[:category:novels|novels]], [[:Category:Video games|video games]], [[:Category:comics|comics]], and more across all editions. See the aims and scope of this wiki [[Forgotten Realms Wiki:About|'''here''']].
+
+Follow us on '''[https://bsky.app/profile/frwiki.bsky.social Bluesky]''', '''[https://dice.camp/@FRWiki Mastodon]''', and '''[https://twitter.com/FRWiki Twitter]''' to have lore come to you.
+</div>
+<div class="mainPageRightSection">
+{{HeadingA|Helping Hand}}
+{{HelpingHand}}
+<br/>'''Beware:''' This wiki does not provide spoiler warnings.
+</div>
+<div class="mainPageRightSection">
+{{HeadingA|Contents &nbsp;}}
+;Realmslore
+* '''[[:Category:Inhabitants|People]]'''&mdash;[[Drizzt]], [[Elminster]], all your favorite heroes and villains, and other interesting folk.
+* '''[[:Category:Inhabitants by race|Races]]'''&mdash;All the races of the Realms, humanoid and monstrous alike.
+* '''[[:Category:Organizations|Organizations]]'''&mdash;The [[Harpers]], [[Zhentarim]], and everything in between.
+* '''[[:Category:Creatures|Creatures]]'''&mdash;Things that climb, crawl, fly, slither, swim, and usually bite.
+* '''[[Portal:Geography|Geography]]'''&mdash;[[Faerûn]]'s towns, kingdoms, wildernesses, and more.
+* '''[[Portal:History|History]]'''&mdash;From the dawn of the [[creator races]] to the present age.
+* '''[[Portal:Deities|Deities]]'''&mdash;The deities of all the pantheons and races.
+* '''[[Cosmology]]'''&mdash;The many planes of existence, how they connect, and who inhabits them.
+* '''[[:Category:Magic|Magic]]'''&mdash;[[Magic]] in the Forgotten Realms, be it [[arcane magic|arcane]], [[divine magic|divine]], or [[Shadow magic|stranger arts]].
+* '''[[:Category:Items|Items]]'''&mdash;[[:Category:Gems|Gems]] and [[:Category:jewelry|jewelry]], [[:Category:poisons|poisons]] and [[:Category:potions|potions]], [[:Category:weapons|weapons]] and [[:Category:armor|armor]], and more. From minor trinkets to artifacts of epic power and renown.
+* '''[[:Category:Interactive_maps|Maps]]'''&mdash;Interactive maps of the Realms, from small villages to big cities like [[Map:Baldur's Gate|Baldur's Gate]] and [[Map:Waterdeep|Waterdeep]] to all [[Map:Faerûn – Full Map|Faerûn]].
+;Media
+* '''[[Portal:Novels|Novels]]'''&mdash;All the many novels, short stories, and ebooks set in the Forgotten Realms.
+* '''[[Portal:Sourcebooks|Sourcebooks]]'''&mdash;The sourcebooks and adventure modules that detail the world.
+* '''[[:Category:Videos|Movies]]'''&mdash;''[[Honor Among Thieves]]'', ''[[Sleep Sound]]'', and future films and series.
+* '''[[List of video games|Video games]]'''&mdash;Classic games like the [[Baldur's Gate (game)|''Baldur's Gate'' series]], ''[[Neverwinter Nights]]'' and more.
+* '''[[:Category:Comics|Comics]]'''&mdash;Comic book adventures set in the Realms.
+* '''[[:Category:Magazines|Magazines]]'''&mdash;The Realms in [[Dragon (magazine)|''Dragon'']] and [[Dungeon (magazine)|''Dungeon'']] magazines.
+* '''[[:Category:Card games|Cards]]'''&mdash;Trading cards and card games featuring the Realms.
+* '''[[:Category:Board games|Board games]]'''&mdash;Punchouts and meeples.
+* '''[[:Category:Authors|Authors]]'''&mdash;The authors of the many novels and sourcebooks.
+;Crunch
+* '''[[Portal:Classes|Classes]]'''&mdash;The myriad classes, kits, paragon paths,  prestige classes, and epic destinies available to the people of the Forgotten Realms.
+* '''[[:Category:Spells|Spells]]'''&mdash;Selected spells with special relations to the Forgotten Realms.
+<div style="text-align: right;" class="noprint">([[Special:Allpages|view all pages]])</div>
+</div>
+<div class="mainPageRightSection"><!--
+{{HeadingA|Twitter [https://twitter.com/FRWiki @FRWiki]}}
+<twitter screen-name="FRWiki" chrome="noheader nofooter" width="275" />-->
+<!--{{HeadingA|Mastodon [https://dice.camp/@FRWiki @FRWiki]}}
+<rss max='1' descriptionLength='0' itemTemplate='MastodonRssEmbed'>https://dice.camp/@FRWiki.rss</rss>-->
+</div>
+</div><!-- end rightColumnContainer -->
+<mainpage-endcolumn /><br style="clear:both;" />
+<div class="bottomWideContainer">
+<div class="bottomWideSection">
+{{HeadingA|Helping Out}}
+Well met, sage! Do you see an error? Maybe you know of some missing lore? Perhaps you want to write an article about a favorite subject? Or maybe you want to really get involved. Don't be shy, click "edit" and get in there! If you're new to wikis, then check out the [[Wikia:Help:Tutorial 1|Wikia tutorial]]. Look at some of the following links to learn [[Forgotten Realms Wiki:About|about]] the Forgotten Realms Wiki, how we [[:Category:Policies|do things here]], and see some of our [[Special:Recentchanges|recent work]]. Don't worry about making a mistake, experienced editors will catch it and fix it. Just remember we accept only [[Forgotten Realms Wiki:Canon|canon and licensed lore]], not homebrew or player characters. Don't just [[Forgotten Realms Wiki:Plagiarism|copy out the sourcebook]], write in your own words. Finally, always give a source for your information, and explain what you've done in the "summary" box. Happy scribing!
+{| style="width:100%; background: transparent;"
+| style="width: 33.3%;" valign="top" |
+;Getting involved
+* '''[[Help:Contents|Help]]'''&mdash;Where to start for everything you need to know.
+* '''[[Help:Editing articles|Editing articles]]'''&mdash;Advice on making edits and additions.
+* '''[[Help:Citing sources|Citing]]'''&mdash;How to add a reference for information.
+* '''[[:Category:Policies|Policies]]'''&mdash;Our rules and guidelines for this wiki.
+* '''[[Forgotten Realms Wiki:Canon|Canon]]'''&mdash;The canon we keep to and how.
+* '''[[Forgotten Realms Wiki:Copyrights|Copyrights]]'''&mdash;Issues of copyright.
+| style="width: 33.3%;" valign="top" |
+;Things to do
+* '''[[:Category:Articles lacking sources|Unreferenced articles]]'''&mdash;Articles that need referencing.
+* '''[[:Category:Stubs|Stubs]]'''&mdash;Unfinished articles that need to be fleshed out.
+* '''[[:Category:Articles needing attention|Needs attention]]'''&mdash;Articles that need a little or a lot of work.
+* '''[[Special:Wantedpages|Wanted articles]]'''&mdash;Articles that need to be written.
+* '''[[Special:UnusedFiles|Unused images]]'''&mdash;Images that need to be shown somewhere.
+* '''[[Special:LonelyPages|Orphaned pages]]'''&mdash;Articles that need to be linked to elsewhere.
+| style="width: 33.3%;" valign="top" |
+;Community
+* '''[[:Category:Categories|Categories]]'''&mdash;All pages organized and categorized.
+* '''[[Special:Community|Community Portal]]'''&mdash;More about getting involved.
+* '''[[Forum:Index|Forum]]'''&mdash;Join a discussion, give feedback, ask a question, or say hi.
+* '''[[:Category:Forgotten Realms Wiki members|Members]]'''&mdash;A list of editors, past and present.
+* '''[[:Category:Forgotten Realms Wiki administrators|Administrators]]'''&mdash;Our administrators, organizers and mentors.
+* '''[[Special:Recentchanges|Recent Changes]]'''&mdash;See what other editors are writing about.
+|}
+</div>
+<!--
+---------- Wikia Gaming Footer -->
+<div class="bottomWideSection">
+{{HeadingA|Wikia Gaming}}
+{{raw:w:Dndfooter|#A0522D}}
+</div>
+</div><!-- end bottomWideContainer -->
+[[ar:]]
+[[de:]]
+[[es:]]
+[[pt-br:]]
+[[pl:]]
+[[fi:]]
+[[fr:]]
+[[ru:]]
+__NOTOC__ <!-- This removes the table of contents -->
+__NOEDITSECTION__ <!-- This removes the section edit links -->
+[[Category:Forgotten Realms Wiki]]
+8ry8a7rgf81h6ey5a619h21u8ud9udp
+
+

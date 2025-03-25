@@ -1,0 +1,25 @@
+{
+    "template_data": {
+        "edition": "3e",
+        "edition_1": "2e",
+        "10|ft|long": "yes",
+        "3|in|long": "yes"
+    },
+    "document_data": {
+        "name": "Invisibility Purge",
+        "school3e": "[[Evocation]]",
+        "domains3e": "",
+        "descriptors3e": "",
+        "level3e": "{{spell table|edition=3e|[[Cleric]]|3}}",
+        "type3e": "",
+        "refs3e": "",
+        "school2e": "[[Abjuration]]",
+        "spheres2e": "[[Wards sphere|Wards]]",
+        "level2e": "{{spell table|edition=2e|[[Crusader]]|3|[[Shaman]]|3|[[Wards sphere|Wards]]|3}}",
+        "type2e": "",
+        "refs2e": "",
+        "mainbody": "'''''Invisibility purge''''' was an [[abjuration]] spell that disabled invisibility effects within a small area.",
+        "Effects": "Invisible objects and creatures that entered the protected area immediately became visible. If the cause of their invisibility was still in effect, they would return to invisibility upon leaving the protected area. While inside the area, spells, potions, and natural abilities for turning invisible simply failed to function at all. ''Invisibility purge'' did not have any effect on creatures that were naturally invisible or had no visible form. Creatures already invisible inside the area before the spell was cast were also not affected unless they turned visible and then tried to turn invisible again, or exited the area and then re-entered.\n\nThe area of effect for this spell was a {{SI|10|ft|long=yes}} square. This spell could be cast cooperatively by multiple priests, in which case an additional square per priest could be protected, plus the duration increased with each additional caster.",
+        "Components": "In addition to [[verbal]] [[somatic]] components, casting this spell required a [[material]] component in the form of a small (no bigger than {{SI|3|in|long=yes}} in diameter) [[silver]] [[mirror]]."
+    }
+}

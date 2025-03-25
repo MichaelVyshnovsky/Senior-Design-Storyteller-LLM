@@ -1,0 +1,32 @@
+{
+    "template_data": {
+        "edition": "5e"
+    },
+    "document_data": {
+        "variant": "",
+        "image": "Compelled Duel.jpg",
+        "caption": "A [[cloud giant]] forced to fight a much, much smaller combatant.",
+        "name": "Compelled duel",
+        "school": "[[Enchantment]]",
+        "spheres": "",
+        "domains": "",
+        "inventor": "",
+        "descriptors": "",
+        "keywords": "",
+        "level": "",
+        "type": "",
+        "school5e": "[[Enchantment]]",
+        "domains5e": "",
+        "circles5e": "",
+        "oaths5e": "[[Crown oath|Crown]]",
+        "patrons5e": "",
+        "traditions5e": "",
+        "level5e": "{{spell table|edition=5e|[[Crown oath|Crown]]|1|[[Paladin]]|1}}",
+        "type5e": "",
+        "refs5e": "",
+        "mainbody": "'''Compelled duel''' was an [[enchantment]] [[spell]] that by divine command compelled a duel with a target.\n\n{{Quote|You might be four times my size, but I will not be ignored.|Anonymous.{{Cite MTG|AFR|178|Compelled Duel|[[Zezhou Chen]]}}}}",
+        "Effect": "The caster would compel a duel with a target within {{SI|30|ft}}. If the target failed to resist, then it would have to try and engage with the caster. The target was at a disadvantage when attacking others and if the caster attacked someone else the spell would end.",
+        "Components": "Only a vocal component was needed for the casting.",
+        "History": "Some time during or before the late 1490s [[DR]],{{HAT-time}} the [[Thay]]an paladin [[Xenk Yendar]] compelled the [[elder brain]] [[Zuphelithid]] to a duel to the death. Xenk emerged as the victor."
+    }
+}

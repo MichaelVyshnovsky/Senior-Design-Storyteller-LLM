@@ -1,0 +1,78 @@
+{
+    "template_data": {
+        "edition": "5e",
+        "edition_1": "3e",
+        "MY|ko|nidz|refs": "{{Cite dragon/93/Ay pronunseeAYshun gyd",
+        "2|12|ft|long": "yes"
+    },
+    "document_data": {
+        "image": "<gallery>",
+        "caption2": "Various depictions of myconids.",
+        "name": "Myconid",
+        "size5e": "{{Size table|Sprout|Small|Adult|Medium|Sovereign|Large}}",
+        "type5e": "[[Plant creature|Plant]]",
+        "subtype5e": "",
+        "alignment5e": "[[Lawful neutral]]",
+        "challenge5e": "{{CR table|edition=5e|Sprout|0|Adult|{{Frac|1|2}}|Sovereign|2}}",
+        "refs5e": "",
+        "size4e": "",
+        "origin4e": "[[Fey]]",
+        "type4e": "[[Humanoid]]",
+        "subtype4e": "[[Plant creature|Plant]]",
+        "alignment4e": "[[Unaligned]]",
+        "refs4e": "",
+        "size3e": "{{Size table|Junior Worker|Tiny|Average worker|Small|Elder worker|Medium|Guard|Medium|Circle Leader|Large|Sovereign|Large}}",
+        "type3e": "[[Plant creature|Plant]]",
+        "subtype3e": "",
+        "alignment3e": "Usually [[lawful neutral]]",
+        "challenge3e": "{{CR table|edition=3e|Junior worker|{{Frac|1|2}}|Average worker|1|Elder worker|2|Guard|4|Circle Leader|6|Sovereign|7}}",
+        "refs3e": "",
+        "size2e": "Tiny to Large",
+        "alignment2e": "[[Lawful neutral]]",
+        "refs2e": "",
+        "size1e": "Small to Large",
+        "alignment1e": "[[Lawful neutral]]",
+        "refs1e": "",
+        "patron deity": "",
+        "vision": "",
+        "activecycle": "",
+        "diet": "Herbivore",
+        "lifespan": "24 years",
+        "location": "The [[Underdark]]",
+        "language": "NoneIn most editions myconids are listed in their ''Monster Manual'' entries as lacking any sort of language, though in 3{{rd}} edition their telepathic \"rapport spores\" were listed as being their language. And as per page 25 of ''A Grand Tour of the Realms'', part of the ''[[Forgotten Realms Campaign Setting 2nd edition (revised)|Forgotten Realms Campaign Setting 2nd edition]]'' box-set, any innate ability that enables \"a deep, almost empathic level\" of communication with other creatures should not be considered a language in its own right.",
+        "subraces": "",
+        "climate": "",
+        "terrain": "Underground",
+        "height": "{{SIrange|2|12|ft}}",
+        "length": "",
+        "wingspan": "",
+        "weight": "",
+        "skincolor": "",
+        "haircolor": "",
+        "hairstyles": "",
+        "feathers": "",
+        "eyecolor": "",
+        "build": "",
+        "distinctions": "",
+        "based": "",
+        "first": "",
+        "mainbody": "'''Myconids''', also known as '''fungus ones''', and '''fungus folk''' ({{Pronounce|MY|ko|nidz|refs={{Cite dragon/93/Ay pronunseeAYshun gyd|28}}}}), were a race of ambulatory fungus creatures. They were known for their peacefulness and appreciation of quiet, making their homes in the darker corners of the world.",
+        "Description": "Myconids resembled giant fungi ranging from {{SIrange|2|12|ft|long=yes}} tall, with their main distinguishing feature being their limbs. Their upper half split into a pair of arms below their caps and their lower half divided into a pair of legs at the stump. Each extremity was pudgy and broad, with their hands ending in two stubby fingers and a thumb, and their feet hosting numerous vestigial toes. This number was not absolute however, with some fungus folk hosting more than the usual number of limbs and/or digits. The bloated flesh of most myconids ranged in coloration from purple to gray. Two eyes rested on their caps, perfectly concealed against the rest of their spongy skin when shut. Some fungus ones secreted a poisonous ooze from nearly everywhere but their hands.\n\nA mutant strain of myconid referred to as venom spores had a pale milky skin tone contrasted by a bright red cap. Their eyes were a sickly shade of yellow with identically colored spots adorning their caps.",
+        "Personality": "Fungus folk were unique amongst the [[Underdark]] races for their complete aversion to violent behavior. A general distrust of outsiders was common among the myconids due to their experience with most other entities. Despite their suspicions however, myconids were a thoughtful race willing to give shelter or allow passage through their colonies to those who approached with peaceful intentions.\n\nThe life of a myconid was strictly scheduled and split evenly between sleep, work and 'melding'. Melding was the core of myconid society, with separation from the process viewed as a frightening and pitiful fate. Violence and disharmony was near unheard of within myconid societies as it adversely impacted the melding process and was largely unneeded.\n\nEthical concerns and moral quandaries were subjects in which the fungus folk showed a relative naivety. Rather than dwell upon the past or fret about the future, myconids focused on present circumstances, reveling in the moment and sharing simple pleasures. Although their communal lifestyle and lack of internal conflict belied the race to some as a collective conscious, each myconid was in fact a distinct individual with their own hopes, dreams, insights, fears, and personality traits.\n\nAlthough the majority of the fungus folk were peaceful, there existed a far more insidious variant of their kind. Contrary to the gradual growth of normal myconid communities they were heavily expansionist, seeking to quickly grow in both number and territory. In spite of their change in basic behavior they were not known to be evil. Venom spores, however, were a bloodthirsty variety of normal myconids that, while not reckless, relished combat. Their dark blood-lust was tempered by their persisting respect for authority, and they only engaged in combat if permitted.",
+        "Abilities": {
+            "Expansionists": "Expansionistic myconids couldn't use their spores to establish telepathic contact, only conveying raw emotions like fear or satisfaction with the sole exception of the sovereign. Offensive power was also noted as more prevalent amongst them, as their fists were covered in spines. These myconids were more magically versed than their normal counterparts, possessing a strange magical link to each other and having dedicated magic users in the rotpriests. Acting as scapegoats and healers, rotpriests absorbed the damage of others in the colony through their connection and inflicting necrotic pain on others. They held a strange link positive and negative energy, as radiant power prevented their regeneration but upon death they would burst and release healing energy."
+        },
+        "Society": {
+            "Language": "Some, such as the [[mycology|mycologist]] [[Balaera Chrintavimm]], believed that myconids possessed their own language.{{Cite web/Candlekeep forum/Questions for Ed Greenwood (2013)/Myconology}} In actuality myconids completely lacked a language, and what people believed to be one was merely the telepathic communication enabled by their \"rapport spores\".<ref group=\"note\" name=\"language\" /> They also disregarded communication through body language or [[sign language]], viewing them as crude means of communicating.",
+            "Religion": "Melding served as a form of worship for the myconids, but they did possess an actual patron deity. [[Psilofyr]] was the wise philosopher god who first taught the myconid kings how to perform alchemy, and guided the selection process for new kings as well as anointing every 20 or so kings his priests. He regularly shared his thoughts with the myconid sovereigns and thus had no need for omens. In times of great peril he would send an avatar to commune with a priest king and thus grant them his powers in order to resolve the current crisis.\n\n[[Zuggtmoy|Zuggtmoy's]] influence could drastically change the behavior of myconids due to their fungal nature and trusting ways making them easy to corrupt. By melding with a myconid directly she could infect them with a madness and fervor that spread as others melded. Infected became enraptured by mad songs and dances, and touched by a sense of euphoria unknown to most. Eventually her abyssal presence transformed myconids into twisted monstrosities, resembling giant fungal maggots capable of actual speech and infecting others through special spores.",
+            "Relations": "Myconids were quick to suspect that flesh and blood humanoids would attempt to use violence against them. They viewed most of them as brutish and insane beings who would conquer and destroy anything in their path before returning to make sure it stayed vanquished. Likewise most humanoids view the fungus ones as ugly monsters, lumping them in with the various evil Underdark forces. Outside of spores that could be used in certain potions, myconids possessed no useful trading goods making it difficult to establish cooperation between most other races. Population pressure furthered their paranoia and xenophobia. Of the few races the myconids could normally get along with were the spiritually peaceful and nature loving [[slyth]]<ref>, as well as their fellow fungi the [[vegepygmy]], whom they viewed as rustic cousins.\n\nExpanionist myconids were cultivated and/or enslaved by other races like the [[drow]], [[fomorian]]s, and [[shadar-kai]] for their inherent resiliency."
+        },
+        "Ecology": {
+            "Usage": "Myconids were edible and considered more than pleasant-tasting by [[dwarves]] and [[duergar]]. In [[Gracklstugh]] of [[Undermountain]], [[myconid pie]]s were sold at [[Gorstaf]]'s bakery for as much as five hundred [[gold]] pieces in the late 15{{th}} century [[DR]]. A dwarven chef [[Geldorf Tinbasher|Geldorf \"The Cook\" Tinbasher]] developed a recipe and craving for a slow-cooked [[myconid soup]] in [[1369 DR]]. And [[Smallfry's Pantry]] in [[Skullport]] once served [[salad]]s dusted with myconid spores.<ref>"
+        },
+        "History": {
+            "Settlements": "The [[Oasis of the Stone King]], where [[Drizzt Do'Urden]] once dwelt, was home to a small community of myconids.<ref>\n\nA group of about 370 myconids dwelled in the [[Lowerdark]] city of [[Fluvenilstra]] under the leadership of [[Meln]], their sovereign. Although the myconids appeared to do nothing, they actually controlled the city's defense force of [[shambling mound]]s, [[phantom fungi]], [[assassin vine]]s, and other [[plant creature|plant]] monsters<ref>\n\nColonies of myconids were also known to make their homes within the giant fungus known Arauamycos, believed by some to be the avatar of Psilofyr.\n\nWithin the Underdark was a group of approximately 150 myconids and spore servants who lived in [[Neverlight Grove]]. Eventually some were forced to evacuate to avoid being corrupted by Zuggtmoy.\n\nThe [[Feydark]] was home to a large population of myconids. Due to their aggressive growth and spread, the myconids were seen as a menace to the other denizens of the Feydark. Myconid colonies were eradicated when encountered, however some [[fomorian]] kingdoms kept gardens of myconids."
+        },
+        "Notable myconids": "*[[Basidia]]\n*[[Feerus]]\n*[[Gasbide]]\n*[[Phylo]]\n*[[Rumpadump]]\n*[[Stool]]"
+    }
+}

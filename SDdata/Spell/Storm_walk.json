@@ -1,0 +1,15 @@
+{
+    "template_data": {
+        "edition": "4e"
+    },
+    "document_data": {
+        "type": "at-will",
+        "name": "Storm Walk",
+        "keywords4e": "{{Desc/arcane}}{{desc/implement}}{{desc/thunder}}",
+        "type4e": "At-Will",
+        "school": "",
+        "level4e": "{{spell table|edition=4e|[[Sorcerer]]|1}}",
+        "refs4e": "",
+        "mainbody": "'''''Storm walk''''' is a [[spell]] of the [[evocation school]] used by [[sorcerer]]s, most often [[Sorcerer#Chaos Sorcerer|those with a taste for the entropic forces of wild magic]]. ''Storm walk'', when cast, makes each step of the sorcerer for a brief, momentary stride of five feet impact the ground with a thunderous clap, injuring a creature of the sorcerer's choice fifty feet or less away from their original location. The spell's power is determined by the sorcerer's charisma, as well as the sorcerer's degree of experience. As one of the most basic spells cast by sorcerers, ''storm walk'' the power needed to cast ''storm walk'' recharges instantaneously."
+    }
+}

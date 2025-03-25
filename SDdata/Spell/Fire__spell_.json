@@ -1,0 +1,23 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "variant": "",
+        "image": "",
+        "caption": "",
+        "name": "Fire",
+        "deity": "[[Zaltec]]",
+        "domains": "",
+        "inventor": "",
+        "reversible2e": "",
+        "school2e": "[[Hishna]], [[Invocation/Evocation]]",
+        "spheres2e": "[[Hishna]]",
+        "level2e": "{{spell table|edition=2e|[[Cleric]]|4|[[Hishnashaper]]|4}}",
+        "type2e": "",
+        "refs2e": "",
+        "mainbody": "'''''Fire''''' was a spell unique to [[Maztica]].",
+        "Effects": "When cast, this spell would cause almost any object to burst into flames. If the targeted object was flammable, it continued to burn after the spell expired. Nearby creatures suffered burns and, if close enough, any flammable clothing caught fire. The summoned fire was non-magical in nature.",
+        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, the spell required a [[material component]]."
+    }
+}

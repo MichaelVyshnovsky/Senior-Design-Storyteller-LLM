@@ -1,0 +1,42 @@
+{{Spell
+| name          = Magic Circle against Evil
+| inventor      = [[M'dhal]]
+| level3e       = {{spell table|edition=3e|[[Champion of Gwynharwyf]]|3|[[Cleric]]|3|[[Demonologist]]|2|[[Good domain|Good]]|3|[[Paladin]]|3|[[Sorcerer]]|3|[[Wizard]]|3}}
+| descriptors3e = {{desc/good}}
+| domains3e     = [[Good domain|Good]]
+| school3e      = [[Abjuration]]
+| type3e        = 
+| refs3e        = 
+| school2e      = [[Abjuration]]<br/>[[Universal (province)]]<br/>[[Mentalism]]
+| reversible2e  = true
+| spheres2e     = [[Protection sphere|Protection]]
+| level2e       = {{spell table|edition=2e|[[Arcanist]]|3|[[Cleric]]|4|[[Mystic]]|4|[[Paladin]]|4|[[Protection sphere|Protection]]|4|[[Shaman]]|4|[[Wizard]]|3}}
+| type2e        = 
+| refs2e        = <ref><ref>
+| school1e      = [[Abjuration]]
+| reversible1e  = true
+| level1e       = {{spell table|edition=1e|[[Cleric]]|4|[[Magic-user]]|3|[[Paladin]]|4|[[Shugenja|Shukenja]]|4|}}
+| type1e        = 
+| refs1e        = 
+}}
+'''''Magic circle against evil''''', also known as '''''protection from evil, 10' radius''''', was an [[abjuration]] spell that created a sphere of warding against mental and physical attacks from evil creatures. The older version of this spell was reversible, called '''''[[protection from good, 10' radius]]''''', and had identical effects on good creatures.
+
+==Effects==
+This spell conferred the same benefits as ''[[protection from evil]]'' to the creature touched, except the aura extended to a 10 ft (3 m) radius sphere around the creature, and warded all those within the area of effect. The barrier prevented nongood summoned creatures from entering unless they managed to resist the spell. If the creature touched was too large to fit completely within the sphere, then the spell acted as a ''protection from evil'' spell for that creature. The ''protection'' lasted for tens of minutes to a few hours, depending on the experience of the caster.
+
+The newer version of this spell could be inverted to prevent nongood summoned creatures from leaving the circle drawn to cast the spell (see [[#Components|Components]] below). The creature had to be summoned immediately after the ''magic circle'' was empowered, and if successful would bind the creature inside the circle for many days. This circle was very fragile to all except the creature being imprisoned, so extreme caution had to be exercised to prevent even so much as a piece of straw from bridging the circle, breaking the spell and releasing the prisoner.
+
+Ranged attacks and spells in either direction were not stopped by the circle. The ''magic circle'' was also permeable to dimensional travel (''[[astral projection]]'', ''[[blink]]'', ''[[dimension door]]'', ''[[etherealness]]'', ''[[gate]]'', ''[[plane shift]]'', ''[[shadow walk]]'', ''[[teleport]]'', etc.) unless strengthened by a ''[[dimensional anchor]]'' spell, either cast on the creature just after it was summoned (risky, because the creature had an opportunity to resist and/or act) or as part of the preparation of the ''magic circle'' (safer, but required a delicate, time-consuming act of [[Spellcraft]]).
+
+To bolster the ''magic circle'' with ''dimensional anchor'' required the drawing of an intricate tracery with no gaps or breaks, adorned with various magical sigils, all around the perimeter of the circle. This task took at least 10 minutes to complete and was difficult to perform successfully when under duress. If not pressed for time then the caster had the luxury of making sure the augmenting figure was complete and was practically guaranteed success. Once the tracing was finished, the ''dimensional anchor'' was cast just before the creature was summoned into the circle. The creature could not resist, dimensional travel was denied, and ranged attacks and spells or abilities could not cross the augmented circle. Anything that disturbed or bridged the circle immediately canceled the spell and released the prisoner, but the imprisoned creature could not directly or indirectly cause this to happen by its own actions.
+
+This spell did not stack with ''[[protection from evil]]'' or vice versa.
+
+==Components==
+For the newer version of the spell, verbal and somatic components were required plus the caster had to draw a 3 ft (91 cm) circle around the recipient using powdered [[silver]]. For the containment version, this silver trace had to be full size (20 ft/6.1 m in diameter)<ref group="note">The spell description in the [[Player's Handbook v.3.5]] does not explicitly state the containing circle be full size, but there would be no way to imprison anything larger than a medium-sized creature inside a very cramped 3 ft circle. and could not be breached, disturbed, altered, or bridged for the duration of the spell or else the spell was canceled.
+
+For the older divine version, the circle was traced with holy water (on the ground) or burning incense (in the air). If the spell was cast in reverse for ''protection from good, 10' radius'', the circle was drawn with unholy water or smoldering dung or blood. For the older arcane version, the circle had to be full size (20 ft/6.1 m in diameter) and made of powdered silver to ward off evil and powdered [[iron]] to ward off good.
+
+==History==
+The [[Arcane magic|arcane version]] of ''protection from evil, 10' radius'' was developed by [[Netheril|Netherese]] [[arcanist]] [[M'dhal]] in  [[-1040 DR|2819 NY (−1040 DR)]] and then called '''''M'dahl's dispel evil II'''''. (The [[-1114 DR|earlier]] ''M'dhal's dispel evil'' was his name for ''protection from evil''.)
+

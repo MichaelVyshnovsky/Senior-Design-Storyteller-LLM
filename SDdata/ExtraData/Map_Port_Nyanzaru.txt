@@ -1,0 +1,923 @@
+2900
+174026
+
+997459
+997018
+2024-12-10T05:35:28Z
+
+Arodp88
+49119728
+
+997459
+interactivemap
+text/plain
+{
+    "mapImage": "Port Nyanzaru - Mike Schley - rotated and cropped.png",
+    "pageCategories": [],
+    "defaultSort": "",
+    "description": "A map of [[Port Nyanzaru]], [[Chult]] as of the late 15{{th}} century [[DR]].",
+    "coordinateOrder": "xy",
+    "mapBounds": [
+        [
+            0,
+            0
+        ],
+        [
+            2161,
+            1669
+        ]
+    ],
+    "origin": "bottom-left",
+    "useMarkerClustering": false,
+    "categories": [
+        {
+            "id": "1",
+            "listId": 1,
+            "name": "Docks",
+            "color": "#fa005a",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Ship icon.svg"
+        },
+        {
+            "id": "2",
+            "listId": 2,
+            "name": "Commercial Areas",
+            "color": "#ab5a78",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Tools guilds icon.svg"
+        },
+        {
+            "id": "3",
+            "listId": 3,
+            "name": "Fortifications",
+            "color": "#ffffff",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Gate icon.svg"
+        },
+        {
+            "id": "5",
+            "listId": 4,
+            "name": "Marketplaces",
+            "color": "#007903",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Tymora coin icon.svg"
+        },
+        {
+            "id": "6",
+            "listId": 5,
+            "name": "Official Buildings",
+            "color": "#fa5200",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Keeps strongholds icon.svg"
+        },
+        {
+            "id": "4",
+            "listId": 6,
+            "name": "Points of Interest",
+            "color": "#021ebb",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Elminter's choice icon.svg"
+        },
+        {
+            "id": "7",
+            "listId": 7,
+            "name": "Private Residences",
+            "color": "#ff6a6a",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Hamlet icon.svg"
+        },
+        {
+            "id": "8",
+            "listId": 8,
+            "name": "Temples and Shrines",
+            "color": "#fac600",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Lathander temple icon.svg"
+        },
+        {
+            "id": "11",
+            "listId": 9,
+            "name": "Bodies of Water",
+            "color": "#00e8fa",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Bodies of water icon.svg"
+        },
+        {
+            "id": "10",
+            "listId": 10,
+            "name": "Topographical Features",
+            "color": "#2e2703",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Mountains icon.svg"
+        },
+        {
+            "id": "9",
+            "listId": 11,
+            "name": "Wards and Districts",
+            "color": "#f00",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:City icon.svg"
+        }
+    ],
+    "markers": [
+        {
+            "categoryId": "1",
+            "position": [
+                636.756297822607,
+                1205.041730734612
+            ],
+            "popup": {
+                "title": "Royal Docks",
+                "description": "An enclosed section of the Harbor Ward containing docks reserved for exclusive use by the [[Port Nyanzaru#Merchant Princes|merchant princes]] or their honored guests.",
+                "link": {
+                    "url": "Royal Docks (Port Nyanzaru)",
+                    "label": "Royal Docks"
+                }
+            },
+            "id": "1"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                218.3563692879526,
+                1550.0420601527026
+            ],
+            "popup": {
+                "title": "Temple of Sune",
+                "description": "A place of worship dedicated to [[Sune]], goddess of love and beauty, located on a rocky island connected to [[Temple Hill (Port Nyanzaru)|Temple Hill]] via a stone bridge.",
+                "link": {
+                    "url": "Temple of Sune (Port Nyanzaru)",
+                    "label": "Temple of Sune"
+                }
+            },
+            "id": "2"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                428.5128742638683,
+                1168.384365087773
+            ],
+            "popup": {
+                "title": "Temple Hill",
+                "description": "One of the two hills dominating the [[Port Nyanzaru\/Merchants' Ward|Merchants' Ward]], this hill was named for the grand [[Temple of Savras (Port Nyanzaru)|Temple of Savras]] at its peak. An arched stone bridge connected it to [[Throne Hill]] to the south, and gates restricted access to the hilltop.",
+                "link": {
+                    "url": "Temple Hill (Port Nyanzaru)",
+                    "label": "Temple Hill"
+                }
+            },
+            "id": "3"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                428.5128742638683,
+                1012.4348372710158
+            ],
+            "popup": {
+                "title": "Temple of Savras",
+                "description": "The temple to [[Savras]], god of fate, was one of [[Port Nyanzaru]]'s oldest temples perhaps the most magnificent building in the city with a massive [[gold]] dome.",
+                "link": {
+                    "url": "Temple of Savras (Port Nyanzaru)",
+                    "label": "Temple of Savras"
+                }
+            },
+            "id": "4"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                508.2470358489637,
+                926.223242348959
+            ],
+            "popup": {
+                "title": "Villa",
+                "description": "A grand villa belonging to one of [[Port Nyanzaru]]'s seven [[Port Nyanzaru#Merchant Princes|merchant princes]].",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "5"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                678.268623980229,
+                650.2653025016615
+            ],
+            "popup": {
+                "title": "Villa",
+                "description": "A grand villa belonging to one of [[Port Nyanzaru]]'s seven [[Port Nyanzaru#Merchant Princes|merchant princes]].",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "6"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                889.1050635542067,
+                365.1271510770158
+            ],
+            "popup": {
+                "title": "Villa",
+                "description": "A grand villa belonging to one of [[Port Nyanzaru]]'s seven [[Port Nyanzaru#Merchant Princes|merchant princes]].",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "7"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                462.29787241613684,
+                718.2614200260275
+            ],
+            "popup": {
+                "title": "Jewel Market",
+                "description": "A marketplace dedicated to the buying and selling of [[gemstone]]s and other luxury items.",
+                "link": {
+                    "url": "Jewel Market",
+                    "label": "Jewel Market"
+                }
+            },
+            "id": "8"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                554.2456430663015,
+                1170.0905910981282
+            ],
+            "popup": {
+                "title": "Temple of Gond",
+                "description": "The god [[Gond]] was popular with Port Nyanzaru's crafters, artisans, and engineers.",
+                "link": {
+                    "url": "Temple of Gond (Port Nyanzaru)",
+                    "label": "Temple of Gond"
+                }
+            },
+            "id": "9"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                618.2588745015931,
+                1444.2957152274612
+            ],
+            "popup": {
+                "title": "Harbormaster's Office",
+                "description": "The headquarters of the city's [[Zindar|harbormaster]], who regulated the docks of the [[Port Nyanzaru\/Harbor Ward|Harbor Ward]] and posted bulletins for [[adventurer]]s. ",
+                "link": {
+                    "url": "Harbormaster's Office (Port Nyanzaru)",
+                    "label": "Harbormaster's Office"
+                }
+            },
+            "id": "10"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                550.2975242204714,
+                566.4471317771904
+            ],
+            "popup": {
+                "title": "Goldenthrone",
+                "description": "A palace in which [[Port Nyanzaru]]'s seven [[Port Nyanzaru#Merchant Princes|merchant princes]] conducted their official business as the government of the city.",
+                "link": {
+                    "url": "Goldenthrone",
+                    "label": "Goldenthrone"
+                }
+            },
+            "id": "11"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                936.2132608694035,
+                1388.154004866818
+            ],
+            "popup": {
+                "title": "Lighthouse",
+                "description": "The fires of this tower could be seen for miles along the coast, and made finding the docks of the [[Port Nyanzaru\/Harbor Ward|Harbor Ward]] safe and easy.",
+                "link": {
+                    "url": "Lighthouse (Port Nyanzaru)",
+                    "label": "Lighthouse"
+                }
+            },
+            "id": "12"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1168.1760039331875,
+                1336.3306575081683
+            ],
+            "popup": {
+                "title": "Fort Nyanzaru",
+                "description": "A defensive fortress built to protect the city against pirates from the [[Bay of Chult]].",
+                "link": {
+                    "url": "Fort Nyanzaru",
+                    "label": "Fort Nyanzaru"
+                }
+            },
+            "id": "13"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1036.1923691294694,
+                1368.3203042398109
+            ],
+            "popup": {
+                "title": "Chain",
+                "description": "This immense [[iron]] [[chain]] could be raised from [[Fort Nyanzaru]] to completely block access to the [[Port Nyanzaru\/Harbor Ward|harbor]].",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "14"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                956.2271886960264,
+                1128.397953752492
+            ],
+            "popup": {
+                "title": "Statue of Na N'buso",
+                "description": "A magnificent golden statue standing in the middle of the  [[Port Nyanzaru\/Harbor Ward|harbor]] which portrayed a mythical (but nonspecific) ancient [[Chultan (ethnicity)|Chultan]] king.",
+                "link": {
+                    "url": "Na N'buso",
+                    "label": "Na N'buso"
+                }
+            },
+            "id": "15"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                934.2317152396786,
+                760.5170163386038
+            ],
+            "popup": {
+                "title": "Warehouse District",
+                "description": "A section of the city's [[Port Nyanzaru\/Harbor Ward|Harbor Ward]] where goods being shipped into or out of the city were stored. [[Dinosaur]]s were used to tow ships along the waterways to and from relevant warehouses.",
+                "link": {
+                    "url": "Port Nyanzaru\/Warehouse District",
+                    "label": "Warehouse District"
+                }
+            },
+            "id": "16"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1130.2021186081051,
+                1090.313186367815
+            ],
+            "popup": {
+                "title": "Docks",
+                "description": "The docks of [[Port Nyanzaru]]'s [[Port Nyanzaru\/Harbor Ward|Harbor Ward]] were very convenient (thanks to the lighthouse and the many dockhands and [[dinosaur]] pack animals ready to help with cargo) but also heavily regulated (with the [[Zindar|Harbormaster]] using [[magic]] to inspect vessels).",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "17"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                720.2546961536062,
+                940.2297131416826
+            ],
+            "popup": {
+                "title": "Drydock",
+                "description": "The city's drydocks were not used for shipbuilding, but rather for dinosaurs to haul ships ashore to be repaired, patched, or cleaned.",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "18"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                814.2383309573245,
+                520.5558410949443
+            ],
+            "popup": {
+                "title": "Grand Souk",
+                "description": "Meaning \"grand market\", this covered marketplace in the [[Port Nyanzaru\/Merchants' Ward|Merchants' Ward]] contained vast rows of shops and stalls, and was the largest and most impressive market in the city, ",
+                "link": {
+                    "url": "Grand Souk",
+                    "label": "Grand Souk"
+                }
+            },
+            "id": "19"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                836.9989554130033,
+                354.99255858836796
+            ],
+            "popup": {
+                "title": "Southern slopes",
+                "description": "The hill overlooking the [[Port Nyanzaru\/Merchants' Ward|Merchants' Ward]] from the south was home to several [[Port Nyanzaru#Merchant Princes|merchant princes]], and was accessible via an arched stone bridge to [[Throne Hill]].",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "20"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                630.3090146774351,
+                584.2918327518273
+            ],
+            "popup": {
+                "title": "Throne Hill",
+                "description": "One of the two hills dominating the [[Port Nyanzaru\/Merchants' Ward|Merchants' Ward]], this was the site of the palace of [[Goldenthrone]]. It was connected via arched stone bridges to [[Temple Hill (Port Nyanzaru)|Temple Hill]] to the north and the southern slopes to the south.",
+                "link": {
+                    "url": "Throne Hill",
+                    "label": "Throne Hill"
+                }
+            },
+            "id": "21"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                438.2661866105701,
+                292.48142697862477
+            ],
+            "popup": {
+                "title": "Beggars' Palaces",
+                "description": "A pair of ancient ziggurats covered in shantytown construction. These were headquarters of the [[Port_Nyanzaru\/Old City#Government|beggar princes]] of the [[Port_Nyanzaru\/Old City|Old City]].",
+                "link": {
+                    "url": "Beggars' Palaces",
+                    "label": "Beggars' Palaces"
+                }
+            },
+            "id": "22"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                320.3030953511204,
+                252.43289603319909
+            ],
+            "popup": {
+                "title": "Small ziggurat",
+                "description": "The smallest of the three ziggurats of the [[Port Nyanzaru\/Old City|Old City]] became the headquarters of the [[Port_Nyanzaru\/Old_City#Government|beggar prince]] known as [[Pock-Marked Po]].",
+                "link": {
+                    "url": "Pock-Marked Po",
+                    "label": "Pock-Marked Po"
+                }
+            },
+            "id": "23"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                362.27245413255037,
+                200.23294853804418
+            ],
+            "popup": {
+                "title": "Executioner's Run",
+                "description": "A long pit in which criminals were sentenced to die by being eaten alive by [[dinosaur]]s. The spectacle of their executions also served as cheap entertainment for the city's citizens.",
+                "link": {
+                    "url": "Executioner's Run",
+                    "label": "Executioner's Run"
+                }
+            },
+            "id": "24"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                120.31458580808425,
+                260.1973591780652
+            ],
+            "popup": {
+                "title": "Refuse pit",
+                "description": "The city's garbage dump located on the outskirts of the [[Port Nyanzaru\/Old City|Old City]]. It never overflowed thanks to [[otyughs]] who consumed the waste and garbage.",
+                "link": {
+                    "url": "Refuse pit (Port Nyanzaru)",
+                    "label": "Refuse pit"
+                }
+            },
+            "id": "25"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1190.1283011270045,
+                438.3623643925134
+            ],
+            "popup": {
+                "title": "Ubtao's Jaws",
+                "description": "A large, south-facing gate in the exterior walls that connected the interior [[Port Nyanzaru\/Harbor Ward|Harbor Ward]] and [[Port Nyanzaru\/Market Ward|Market Ward]] to the exterior slum district of [[Malar's Throat]].",
+                "link": {
+                    "url": "Ubtao's Jaws",
+                    "label": "Ubtao's Jaws"
+                }
+            },
+            "id": "26"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1460.1338722576538,
+                632.3571877583345
+            ],
+            "popup": {
+                "title": "Tiryki Gate",
+                "description": "A large gate in the exterior walls that connected the interior [[Port Nyanzaru\/Market Ward|Market Ward]] to the exterior slum district of [[Tiryki Anchorage]].",
+                "link": {
+                    "url": "Tiryki Gate",
+                    "label": "Tiryki Gate"
+                }
+            },
+            "id": "27"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                1168.2205729783805,
+                262.5396641131356
+            ],
+            "popup": {
+                "title": "Temple of Tymora",
+                "description": "This fortified temple of [[Tymora]] was frequented by the poorest residents of [[Malar's Throat]], who attributed their meager luck to the goddess and who sought refuge within its walls whenever [[undead]] or other jungle monsters attached the slums.",
+                "link": {
+                    "url": "Temple of Tymora (Port Nyanzaru)",
+                    "label": "Temple of Tymora"
+                }
+            },
+            "id": "28"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                1134.233804413672,
+                122.46524999681651
+            ],
+            "popup": {
+                "title": "Malar's Throat",
+                "description": "A slum district in which the city's poorest residents lived. Dilapidated buildings were stacked on top of each other along the walls of a deep ravine that was crisscrossed by rickety bridges.",
+                "link": {
+                    "url": "Port Nyanzaru\/Malar's Throat",
+                    "label": "Malar's Throat"
+                }
+            },
+            "id": "29"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                1616.1523266279287,
+                428.3209513190832
+            ],
+            "popup": {
+                "title": "Tiryki Anchorage",
+                "description": "A slum outside the city walls that was home to the city's animal-handlers, river folk, and smugglers.",
+                "link": {
+                    "url": "Port Nyanzaru\/Tiryki Anchorage",
+                    "label": "Tiryki Anchorage"
+                }
+            },
+            "id": "30"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1734.1331758663223,
+                674.3403636972535
+            ],
+            "popup": {
+                "title": "Docks",
+                "description": "The [[Port Nyanzaru\/Tiryki Anchorage|Tiryki Anchorage]] docks were much less regulated than those located in the [[Port Nyanzaru\/Harbor Ward|Harbor Ward]], but there was no lighthouse to help guide ships safely into port.",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "31"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1678.1484964756075,
+                188.3733647401432
+            ],
+            "popup": {
+                "title": "Dinosaur Pens",
+                "description": "The paddocks where most of the city's [[dinosaur]]s were housed and trained. Muddy pens were surrounded by wooden fences covered with [[Chultan (ethnicity)|Chultan]] shields, colorful banners, and torches. The smell permeated all of [[Port Nyanzaru\/Tiryki Anchorage|Tiryki Anchorage]].",
+                "link": {
+                    "url": "Dinosaur pens",
+                    "label": "Dinosaur Pens"
+                }
+            },
+            "id": "32"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1362.2035113907675,
+                1086.1210038239287
+            ],
+            "popup": {
+                "title": "Villa of Alastar Bol",
+                "description": "The \"Fat Knight\" of the [[Order of the Gauntlet]] conducted his business from his extravagant home at the top of [[Mount Sibasa]] overlooking the [[Fish market (Port Nyanzaru)|fish market]].",
+                "link": {
+                    "url": "Alastar Bol",
+                    "label": "Alastar Bol"
+                }
+            },
+            "id": "33"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                1512.0020891739932,
+                996.0142357439918
+            ],
+            "popup": {
+                "title": "Mount Sibasa",
+                "description": "One of the two hills dominating the [[Port Nyanzaru\/Market Ward|Market Ward]]. A stone bridge connected it to [[Yklwazi Hill]] to the southeast.",
+                "link": {
+                    "url": "Mount Sibasa",
+                    "label": "Mount Sibasa"
+                }
+            },
+            "id": "34"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                1306.206296956092,
+                846.4820740578971
+            ],
+            "popup": {
+                "title": "Yklwazi Hill",
+                "description": "One of the two hills dominating the [[Port Nyanzaru\/Market Ward|Market Ward]]. A stone bridge connected it to [[Mount Sibasa]] to the northwest.",
+                "link": {
+                    "url": "Yklwazi Hill",
+                    "label": "Yklwazi Hill"
+                }
+            },
+            "id": "35"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1272.365935692998,
+                792.4413080637396
+            ],
+            "popup": {
+                "title": "Grand Coliseum",
+                "description": "An arena that hosted races and gladiatorial games, including bloody mock battles, extravagant tournaments, and holiday celebrations",
+                "link": {
+                    "url": "Grand Coliseum",
+                    "label": "Grand Coliseum"
+                }
+            },
+            "id": "36"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                1468.331812517772,
+                1124.3986008317643
+            ],
+            "popup": {
+                "title": "Hall of Gold",
+                "description": "A temple dedicated to the goddess [[Waukeen]] as well as one of [[Port Nyanzaru]]'s most affluent banks. It was named for its massive, [[gold]] domed roof.",
+                "link": {
+                    "url": "Hall of Gold",
+                    "label": "Hall of Gold"
+                }
+            },
+            "id": "37"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1680.2949037772219,
+                1352.324833794717
+            ],
+            "popup": {
+                "title": "Dye works",
+                "description": "A facility in the [[Port Nyanzaru\/Market Ward|Market Ward]] wherein textiles and clothes were dyed in bright colors and patterns. The waters at the base of the cliff were stained with bright colors dumped from the dye works' great vats.",
+                "link": {
+                    "url": "Dye works (Port Nyanzaru)",
+                    "label": "Dye works"
+                }
+            },
+            "id": "38"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1328.356186214362,
+                1360.3222454776278
+            ],
+            "popup": {
+                "title": "Public bathhouse",
+                "description": "One of many bathhouses in the city, this one was operated by the [[church of Sune]] and was open to all peoples regardless of social class.",
+                "link": {
+                    "url": "Public bathhouse (Port Nyanzaru)",
+                    "label": "Public bathhouse"
+                }
+            },
+            "id": "39"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1244.370810432316,
+                984.4438963808288
+            ],
+            "popup": {
+                "title": "Fish market",
+                "description": "Fresh daily catches of [[fish]] and other [[seafood]] were major parts of the city's diet, and were bought and sold in the [[Port Nyanzaru\/Market Ward|Market Ward]] each morning.",
+                "link": {
+                    "url": "Fish market (Port Nyanzaru)",
+                    "label": "Fish market"
+                }
+            },
+            "id": "40"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1476.33041973511,
+                768.5137809422422
+            ],
+            "popup": {
+                "title": "Red Bazaar",
+                "description": "A major marketplace in the [[Port Nyanzaru\/Market Ward|Market Ward]] where the city's residents shopped for their daily needs. Popular inns and taverns like the [[Thundering Lizard]] and [[Kaya's House of Repose]] were located near here.",
+                "link": {
+                    "url": "Red Bazaar",
+                    "label": "Red Bazaar"
+                }
+            },
+            "id": "41"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                1692.2928146032282,
+                972.4477788564627
+            ],
+            "popup": {
+                "title": "Market Ward",
+                "description": "Most of [[Port Nyanzaru]]'s mercantile businesses and shops were located in the eastern ward, along with the residences of most of its tradespeople.",
+                "link": {
+                    "url": "Port Nyanzaru\/Market Ward",
+                    "label": "Market Ward"
+                }
+            },
+            "id": "42"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                252,
+                1012.0142357439918
+            ],
+            "popup": {
+                "title": "Merchants' Ward",
+                "description": "The western half of the city within the walls was the upscale area, and was the site of many of the city's temples as well as the residences of its wealthiest citizens, including the seven [[merchant princes (Port Nyanzaru)|merchant princes]].",
+                "link": {
+                    "url": "Port Nyanzaru\/Merchants' Ward",
+                    "label": "Merchants' Ward"
+                }
+            },
+            "id": "43"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                208.55117578708087,
+                216.69237482140852
+            ],
+            "popup": {
+                "title": "Old City",
+                "description": "A run-down slum district located outside of the city's western walls. It was kept relatively safe thanks to the de facto control by the so-called [[Port Nyanzaru\/Old City#Government|beggar princes]].",
+                "link": {
+                    "url": "Port Nyanzaru\/Old City",
+                    "label": "Old City"
+                }
+            },
+            "id": "44"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                896.431396478125,
+                1004.4374255881048
+            ],
+            "popup": {
+                "title": "Harbor Ward",
+                "description": "This harbor housed the majority of city's docks, and was a busy place where ships were loaded and unloaded.",
+                "link": {
+                    "url": "Port Nyanzaru\/Harbor Ward",
+                    "label": "Harbor Ward"
+                }
+            },
+            "id": "45"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                2056.2294429920944,
+                292.66778580906066
+            ],
+            "popup": {
+                "title": "River Tiryki",
+                "description": "The mouth of a treacherous river originating deep within the [[Chult]]an jungle.",
+                "link": {
+                    "url": "River Tiryki",
+                    "label": "River Tiryki"
+                }
+            },
+            "id": "46"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                1104.3951841289058,
+                1544.2627141845715
+            ],
+            "popup": {
+                "title": "Bay of Chult",
+                "description": "A large bay off of the [[Shining Sea]]. It was the domain of the great [[dragon turtle]] [[Aremag]], with whom the harbormaster of [[Port Nyanzaru]] was rumored  to have struck a deal.",
+                "link": {
+                    "url": "Bay of Chult",
+                    "label": "Bay of Chult"
+                }
+            },
+            "id": "47"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                345.47902354610807,
+                993.0094431814816
+            ],
+            "popup": {
+                "title": "Villa of Mother Sibonseni",
+                "description": "The walled and fortified home of Mother [[Sibonseni]], the high priestess of [[Waukeen]] at the [[Hall of Gold]] and one of the wealthiest and most powerful people in the city.",
+                "link": {
+                    "url": "Sibonseni",
+                    "label": "Sibonseni"
+                }
+            },
+            "id": "48"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1625.0272762054676,
+                957.5223285294195
+            ],
+            "popup": {
+                "title": "The Thundering Lizard",
+                "description": "A raucous tavern and inn located near the [[Red Bazaar]] and a popular place for [[adventurer]]s and [[Harper]]s to stay in the [[Port Nyanzaru\/Market Ward|Market Ward]].",
+                "link": {
+                    "url": "Thundering Lizard",
+                    "label": "Thundering Lizard"
+                }
+            },
+            "id": "49"
+        }
+    ],
+    "markerProgress": false
+}
+5l7co411fjkrfw5yz0ts8w4onqn5cyk
+
+

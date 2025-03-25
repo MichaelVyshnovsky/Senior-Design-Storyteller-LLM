@@ -1,0 +1,23 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "variant": "",
+        "image": "",
+        "caption": "",
+        "name": "Bafflement",
+        "deity": "[[Qotal]]",
+        "domains": "",
+        "inventor": "",
+        "reversible2e": "",
+        "school2e": "[[Pluma]], [[Enchantment/Charm]]",
+        "spheres2e": "[[Pluma]]",
+        "level2e": "{{spell table|edition=2e|[[Cleric]]|2|[[Eagle Knight]]|2|[[Plumaweaver]]|2}}",
+        "type2e": "",
+        "refs2e": "",
+        "mainbody": "'''''Bafflement''''' was a spell unique to [[Maztica]].",
+        "Effects": "A caster used this spell to cause confusion and disorientation in an individual they were addressing. The targeted individual became incapable of any rational action, conversation or thought. As a result, they would become quiet, softly mumbling to themselves. If the baffled individual was attacked, the spell was broken. The spell only functioned if the caster was in an active conversation with the targeted individual.",
+        "Components": "This spell required only [[Verbal component|verbal]] and [[somatic component|somatic]] components."
+    }
+}

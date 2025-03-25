@@ -1,0 +1,18 @@
+{
+    "template_data": {
+        "edition": "3e"
+    },
+    "document_data": {
+        "name": "Dispel Law",
+        "school3e": "[[Abjuration]]",
+        "descriptors3e": "{{desc/chaotic}}",
+        "domains3e": "[[Chaos domain|Chaos]]",
+        "level3e": "{{spell table|edition=3e|[[Chaos domain|Chaos]]|5|[[Cleric]]|5}}",
+        "type3e": "",
+        "refs3e": "",
+        "mainbody": "'''''Dispel law''''' was an [[abjuration]] spell that worked exactly like ''[[dispel evil]]'' except it affected lawful spells and creatures instead of evil ones.",
+        "Effects": "The effects of this spell were the same as ''[[dispel evil]]'' except the aura surrounding the spellcaster was yellow, flickered like a candle, and made of chaotic energy.",
+        "Components": "Verbal and somatic components were required to cast this spell plus the caster's (un)[[holy symbol]] or [[divine focus]].",
+        "References": "{{refs}}\n[[Category:Abjuration spells]]\n[[Category:Cleric spells]]\nlxl9ds447vtdowhzwylaxt4pi1z6mkn"
+    }
+}

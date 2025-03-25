@@ -1,0 +1,53 @@
+{
+    "template_data": {
+        "rca": "right",
+        "rca_1": "right",
+        "rca_2": "right",
+        "rca_3": "right"
+    },
+    "document_data": {
+        "image": "Cloak of elvenkind-5e.jpg",
+        "caption": "A ''[[cloak of elvenkind]]''.",
+        "name": "Cloak",
+        "othernames": "",
+        "nicknames": "",
+        "type": "Clothing",
+        "location": "[[Faerûn]], [[Kara-Tur]], [[Zakhara]], and the [[Underdark]]",
+        "value1e": "{{Split table|rca=right|Standard|5 [[sp]]|Cloth|1 [[tael]]|Fur|4 tael}}",
+        "weight1e": "",
+        "refs1e": "",
+        "school2e": "",
+        "level2e": "",
+        "value2e": "{{Split table|rca=right|Good cloth|8 sp|Fine fur|50 [[gp]]}}",
+        "weight2e": "",
+        "refs2e": "",
+        "school3e": "",
+        "casterlevel3e": "",
+        "itemlevel3e": "",
+        "value3e": "{{Split table|rca=right|Cotton|3 sp|Wool|5 sp|Fur|20 gp}}",
+        "weight3e": "{{Split table|rca=right|Cotton|{{SI|2|lbs.|k}}|Wool|{{SI|3|lbs.|k}}|Fur|{{SI|6|lbs.|k}}}}",
+        "refs3e": "",
+        "level4e": "",
+        "value4e": "",
+        "weight4e": "",
+        "refs4e": "",
+        "rarity5e": "",
+        "attunement5e": "",
+        "school5e": "",
+        "level5e": "",
+        "value5e": "",
+        "weight5e": "",
+        "refs5e": "",
+        "communication": "",
+        "languages": "",
+        "alignment": "",
+        "sentientrefs": "",
+        "mainbody": "A '''cloak''' was a loose garment that was worn over clothes, particularly by adventurers, explorers, travelers, scholars, and those subjected to cold climates.",
+        "Description": "Cloaks were standard adventuring equipment, but varied widely in terms of material and enchantment. They were available throughout [[Faerûn]]; the [[Underdark]], where they were often worn by [[drow]] and known as [[piwafwi]], and [[Zakhara]], where they were known as [[aba]]s (which were essentially cloaks or a very light [[robe]]s). Unenchanted cloaks sold for up to 50 [[gp]], whilst enchanted ones could be extraordinarily expensive.",
+        "History": "Many groups throughout the history of the [[Realms]] were associated with cloaks. For example, the [[Redbrands]] of [[Phandalin]] were named after the red cloaks they wore, and junior members of the [[Lords' Alliance]] were known as Cloaks. Those of the [[Cult of the Dragon]] wore black cloaks that were shaped like the wings of [[dragon]]s.",
+        "Notable Cloaks": "* ''[[Cloak of Balduran]]''\n* ''[[Cloak of displacement]]''\n* ''[[Cloak of elvenkind]]''\n* ''[[Cloak of protection]]''\n* ''[[Cloak of the manta ray]]''",
+        "Notable Wearers of Cloaks": {
+            "Waterdeep Guilds": "Cloaks were part of the livery of multiple [[Guilds of Waterdeep|guilds]] throughout [[Waterdeep]], such as the following:\n* Members of the [[Fellowship of Carters and Coachmen]] were known to wear dark blue cloaks. Those in the [[Guild of Fine Carvers]] preferred royal blue cloaks with red and brown lines as borders.\n* Members of the [[Coopers' Guild]] were known to wear brown cloaks.\n* Members of the [[Guild of Butchers]] were known to wear crimson cloaks with purple lining.\n* Members of the [[Council of Farmer-Grocers]] were known to wear bright green cloaks, while the [[Council of Musicians, Instrument-Makers, & Choristers]] preferred long, deep green cloaks.\n* Members of the [[Guild of Stonecutters, Masons, Potters, and Tile-makers]] were known to wear gray cloaks.\n* Members of the [[Guild of Glassblowers, Glaziers, and Spectacle-makers]] and [[Loyal Order of Street Laborers]] were known to wear pink cloaks.\n* Members of the [[Cellarers' & Plumbers' Guild]] were known to wear orange cloaks.\n* Members of the [[Baker's Guild]], [[Fellowship of Bowers and Fletchers]], and the [[Launderers' Guild]] were all known to wear white cloaks.\n* Members of the [[Fellowship of Salters, Packers, and Joiners]] were known to wear yellow cloaks."
+        }
+    }
+}

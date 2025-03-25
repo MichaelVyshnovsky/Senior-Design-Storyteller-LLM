@@ -1,0 +1,27 @@
+{
+    "template_data": {
+        "edition": "3e",
+        "edition_1": "2e",
+        "edition_2": "1e"
+    },
+    "document_data": {
+        "image": "Wood shape.png",
+        "name": "Wood shape",
+        "level3e": "{{Spell table|edition=3e|[[Druid]]|2|[[Wu jen]]|2}}",
+        "school3e": "[[Transmutation]]",
+        "type3e": "",
+        "refs3e": "",
+        "reversible2e": "",
+        "school2e": "[[Alteration]]",
+        "spheres2e": "",
+        "level2e": "{{Spell table|edition=2e|[[Wu jen]]|3}}",
+        "type2e": "",
+        "refs2e": "",
+        "reversible1e": "",
+        "school1e": "[[Alteration]]",
+        "level1e": "{{Spell table|edition=1e|[[Wu jen]]|3}}",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Wood shape''''' was a [[transmutation]] spell that reshaped wooden objects."
+    }
+}

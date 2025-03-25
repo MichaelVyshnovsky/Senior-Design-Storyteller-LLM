@@ -1,0 +1,47 @@
+{
+    "template_data": {
+        "edition": "2e",
+        "5'|'\"|long": "yes"
+    },
+    "document_data": {
+        "image": "",
+        "caption": "",
+        "name": "Memory Read",
+        "deity": "",
+        "inventor": "",
+        "type": "",
+        "school5e": "",
+        "level5e": "",
+        "type5e": "",
+        "refs5e": "",
+        "feature4e": "",
+        "keywords4e": "",
+        "level4e": "",
+        "type4e": "",
+        "category4e": "",
+        "skill4e": "",
+        "refs4e": "",
+        "domains3e": "",
+        "descriptors3e": "",
+        "type3e": "",
+        "reversible2e": "",
+        "school2e": "[[Divination]]",
+        "spheres2e": "[[Thought sphere]]",
+        "level2e": "{{spell table|edition=2e|[[Cleric]]|3|[[Monk]]|3}}",
+        "type2e": "",
+        "refs2e": "",
+        "reversible1e": "",
+        "school1e": "",
+        "level1e": "",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Memory read''''' was a common [[divine]] [[spell]] that allowed the [[cleric]] to look into a creature's mind.",
+        "Effects": "The spell's target was a single creature, and it could be cast from a distance of {{SI|5'|'\"|long=yes}}. When cast successfully, ''memory read'' let the caster and the target experience a specific memory with the same clarity and intensity as it was preserved in the target's mind. It took the cleric time equal to one-fifteenth of the actual event's length to read the memory. The spell worked well on sleeping or unconscious individuals, as well as those under the influence of ''[[Hold person|hold]]'' or ''[[paralyzation]]'' magic.\n\nThis spell could only affect creatures with intelligence greater than that of a beast, and the cast had to remain in close range or the duration of the reading. Even the sleeping target had a chance of resisting the ''memory read'' spell. The target could attempt to hide a memory or certain aspects from the cleric. The spell became more changing the older the target memory was.\n\n''Memory read'' took a toll on the caster. Mental strain exerted during spellcasting affected the priest's constitution, and the caster was unable to re-cast the spell instill they received full eight hours of sleep or [[reverie]], restoring their health.\n\nThis spell was among those that could be cast by priests while underwater or by aquatic spellcasters.",
+        "Components": "The spell required [[Verbal component|verbal]], [[somatic component|somatic]], and [[material component]]s components. The material component was a small piece of [[linen]] cloth with [[thread-of-gold]] strewn in. The spell consumed the material component once cast.",
+        "Notable Users": {
+            "Organizations": "*[[Mazewalker]]s, the specialty clerics of [[Chultan]] deity [[Ubtao]], were granted the ability to ''memory read'' or use the spell of ''[[addition]]'' once per day.\n*[[Tyr]]'s [[holy justice]]s were granted the ability to ''memory read'' after reaching a certain rank.",
+            "Individuals": "*[[Amaunator]]'s avatar had the ability to look into minds of criminals, in a way that closely resembled the ''memory read'' spell.\n*[[Denton Crimsguard]], a vocal priest of Tyr from [[Alaghôn]] ''circa'' [[1370 DR]].",
+            "Other": "*''[[Flame of the Spirit]]'', a holy artifact of the [[Tymoran]] faith. Occasionally, the goddess granted individuals who held the item access to spells, including ''memory read''."
+        }
+    }
+}

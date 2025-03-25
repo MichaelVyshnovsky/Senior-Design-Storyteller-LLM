@@ -1,0 +1,74 @@
+{
+    "document_data": {
+        "image": "[[Image:elmwood-map.JPG|250px|Elmwood]]",
+        "caption": "''Map of Elmwood and surrounding area.''",
+        "name": "Elmwood",
+        "aliases": "",
+        "type": "Settlement",
+        "size": "Village{{cite web/More Moonsea}}",
+        "capital": "",
+        "area": "[[Moonsea]], [[North Faerûn]]",
+        "georefs": "",
+        "demonym": "",
+        "languages": "",
+        "races": "[[Dwarves]], [[Half-elf|half-elves]], [[human]]s",
+        "religion": "[[Eldath]], [[Selûne]]",
+        "population1": "500",
+        "popyear1": "1367",
+        "population2": "500",
+        "popyear2": "1372",
+        "population3": "",
+        "popyear3": "",
+        "imports": "",
+        "exports": "Fish, woodcarvings",
+        "alignment": "",
+        "allegiances": "",
+        "socrefs": "",
+        "government": "",
+        "rulertype": "Constable",
+        "ruler1": "[[Thoyana Jorgadaul]]",
+        "ruleryear1": "1367",
+        "ruler2": "[[Thoyana Jorgadaul]]",
+        "ruleryear2": "1372",
+        "ruler3": "",
+        "ruleryear3": "",
+        "ruler4": "",
+        "ruleryear4": "",
+        "ruler5": "",
+        "ruleryear5": "",
+        "govrefs": "",
+        "usethe": "",
+        "useon": "",
+        "inhabitants": "yes",
+        "locations": "yes",
+        "organizations": "yes",
+        "settlements": "",
+        "events": "yes",
+        "food and drink": "yes",
+        "items": "yes",
+        "float": "right",
+        "source": "[[John Terra]], ''[[The Moonsea (accessory)|The Moonsea]]''",
+        "text": "''The old Moonsea saying \"like an Elmwood watch\" means a task so simple that it practically performs itself.''",
+        "mainbody": "",
+        "Government": "This tranquil place was loosely ruled by its constable, [[Thoyana Jorgadaul]], a [[shield dwarf]] adventurer who retired here due to a respiratory disease.",
+        "Trade": {
+            "Docks (Elmwood)|Docks": "Busiest part of the village located on the northern part of Elmwood; it was made by a series of wooden docks and piers where both village boats and passing merchant vessels moored. Near the Docks, three robust structures made by oak and brick were used as warehouses.",
+            "Grange": "A wood and stone emporium run by [[Tayrom Onetry]], where a trader could find nearly everything, except for armor and weapons."
+        },
+        "History": "Elmwood was founded in the {{YearlinkName|163}}, as a stopover for ships to and from the [[River Lis]]. It was accidentally destroyed in [[1491 DR]] when a ''[[devastation orb]]'' intended to be set off in [[Mulmaster]] prematurely detonated there, leaving only a single survivor to report the tragedy.<ref>{{Cite adventurers league/Embers of Elmwood|5}}",
+        "Notable locations": {
+            "Inns and taverns": {
+                "[[Still Waters]]": "Inn located on the eastern part of the village and run by master brewer, [[Enrad Daleborn]]."
+            },
+            "Temples": {
+                "Temple of the Half-Moon": "Temple of [[Selûne]] run by [[Alamarayne Moonray]], a beautiful [[half-elf]] woman of [[moon elf]] stock, and a close friend to Thoyana Jorgadaul.",
+                "Grove (Elmwood)|Grove": "South of Elmwood, hidden amidst the trees, the [[druid]] [[Ezril Treewarder]] tended a shrine dedicated to [[Eldath]]."
+            },
+            "Other locations": {
+                "Old Well (Elmwood)|Old Well": "South of the Still Waters, near the southeastern edge of the village, lay an ancient stone well, dried long time ago, that lead to an underground, monster infested area of Elmwood.\n{{fq\n| float  = right\n| source = [[John Terra]], ''[[The Moonsea (accessory)|The Moonsea]]''\n| text   = ''The old Moonsea saying \"like an Elmwood watch\" means a task so simple that it practically performs itself.''\n}}"
+            }
+        },
+        "Inhabitants": "The village was home to woodcutters and fishermen, and a waystop for ships and adventurers passing by. The place was neutral and the people kept to themselves, protected both by their isolation and the fact that there was little worth taking by force.",
+        "Rumors & Legends": "The residents of Elmwood told legends of a vicious [[dragon turtle]], the size of their town, who dwelt in the depths of the lake."
+    }
+}

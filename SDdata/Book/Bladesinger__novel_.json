@@ -1,0 +1,35 @@
+{
+    "template_data": {
+        "index": "[[annis hag]];[[goblin]];[[ogre]];[[troll]]",
+        "title": "Languages",
+        "index_1": "[[Goblin language]];[[Halfling language]];[[Rashemi language]];[[Troll language]]",
+        "title_1": "Musical Works",
+        "index_2": "''[[Aelrindel's Lament]]''"
+    },
+    "document_data": {
+        "image": "Bladesinger (novel).jpg",
+        "caption": "Cover of ''Bladesinger''.",
+        "code": "950217400",
+        "title": "Musical Works",
+        "author": "[[Keith Francis Strohm]]",
+        "publisher": "[[Wizards of the Coast]]",
+        "realm year": "[[1340 DR|1340]]–[[1372 DR]]",
+        "released": "April 2006",
+        "type": "Novel",
+        "binding": "Mass Market Paperback",
+        "pages": "312",
+        "isbn10": "0-7869-3835-8",
+        "isbn13": "978-0-7869-3835-3",
+        "series": "''[[The Fighters]]''",
+        "preceded_by": "''[[Son of Thunder]]''",
+        "followed_by": "''none''",
+        "source": "[http://ww2.wizards.com/books/Wizards/Products/?doc=950217400 Wizards product listing]",
+        "index": "''[[Aelrindel's Lament]]''",
+        "mainbody": "",
+        "Summary": "{{sectstub}}",
+        "Index": {
+            "Creatures": "{{Index\n|index = [[annis hag]];[[goblin]];[[ogre]];[[troll]]\n}}",
+            "Miscellaneous": "{{Index\n|title = Languages\n|index = [[Goblin language]];[[Halfling language]];[[Rashemi language]];[[Troll language]]\n}}\n{{Index\n|title = Musical Works\n|index = ''[[Aelrindel's Lament]]''\n}}"
+        }
+    }
+}

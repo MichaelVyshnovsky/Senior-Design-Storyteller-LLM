@@ -1,0 +1,15 @@
+{
+    "template_data": {
+        "edition": "4e"
+    },
+    "document_data": {
+        "type": "daily",
+        "name": "Lightning Breath",
+        "keywords4e": "{{desc/arcane}}{{desc/implement}}{{Desc/lightning}}",
+        "type4e": "Daily",
+        "school": "",
+        "level4e": "{{spell table|edition=4e|[[Sorcerer]]|1}}",
+        "refs4e": "",
+        "mainbody": "'''''Lightning breath''''' is a [[spell]] used by many [[sorcerer]]s, most often [[Sorcerer#Dragon Sorcerer|dragon sorcerer]]s. When a sorcerer casts ''lightning breath'' they exhale a blast of electrically charged air, injuring nearby foes, more so if the sorcerer is a dragon sorcerer. Regardless of whether or not the attack succeeds, ''lightning breath'' forces back any foes caught within its blast zone, which is roughly fifteen feet in diameter, a distance of five feet. If the sorcerer focuses, they may be able to maintain this repelling force even after the lightning itself stops. The spell is not one that comes easily and ''lightning breath'' can only be cast once per day."
+    }
+}

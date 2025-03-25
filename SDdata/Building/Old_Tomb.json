@@ -1,0 +1,48 @@
+{
+    "template_data": {
+        "float": "right",
+        "width": "270px",
+        "text": "Within sleeps she of great magic<br />Disturb only what ye dare<br />For wealth and power still are here.",
+        "source": "Inscription on the wall of the<br />Old Tomb."
+    },
+    "document_data": {
+        "image": "OldTombLocation3e.png",
+        "caption": "Map showing approximate location.",
+        "name": "Old Tomb",
+        "aliases": "Shattershree's Rest",
+        "type": "Mausoleum",
+        "architecture": "Stone",
+        "floors": "One above ground, one below",
+        "location": "[[Desertsmouth Mountains]], [[north Faerûn]]",
+        "owner": "[[Shattershree]]",
+        "ownertable": "",
+        "staff": "",
+        "stafftable": "",
+        "occupants": "",
+        "services": "",
+        "worship": "",
+        "pipes": "",
+        "tankards": "",
+        "coins": "",
+        "daggers": "",
+        "quality": "",
+        "price": "",
+        "usethe": "yes",
+        "useon": "",
+        "inhabitants": "yes",
+        "locations": "",
+        "organizations": "",
+        "source": "",
+        "page": "",
+        "mainbody": "The '''Old Tomb''' was a large mausoleum nestled in the [[Desertsmouth Mountains]].{{Cite dragon/286/Elminster's Guide to the Realms: Shattershree's Rest|73}}",
+        "Location": "The structure was located in a boulder-strewn valley overgrown with scrub in the Desertsmouth Mountains between [[Anauroch]] and the [[Dalelands]]. It could be found traveling through miles of challenging wilderness due west of the [[Serpentsbridge]] that spanned the [[Dagger River]]. There was a distinct trail through the valley leading up to the doorstep, as if it was inhabited or visited regularly.",
+        "Structure": "[[File:OldTombFront.png|thumb|right|100px|The entrance to the Old Tomb.]]\nThe mausoleum was built of skillfully cut stone blocks to form a one-story building with no windows and a gently peaked roof. Three stone steps bracketed by stone banisters led up to a set of large double doors. A statue of a female [[knight]] with a [[shield]] and an upraised [[sword]] stood above the lintel on a platform.{{Cite dragon/286/Elminster's Guide to the Realms: Shattershree's Rest|72}}<ref group=\"note\" name=\"a1\">The description of the building and the dimensions of the interior are based on the artist's rendering in the source and the given dimensions of the coffin.",
+        "Interior": {
+            "Atmosphere": "A most unusual aspect of the Old Tomb was that, regardless of what got moved, used, damaged, or taken, the contents of the rooms were restored to their original arrangement (as described above) before the next visitor arrived. The armor pieces may have varied&mdash;the weapons were slightly different; the map and parchments may have changed; the ring, keys, and scrolls were replaced&mdash;but everything was put back in essentially the same place every time it was disturbed and the disturbers departed.\n[[File:OldTombRoom3.png|thumb|right|250px|Room with water well and shelves of armor pieces.]]"
+        },
+        "Activities": "The owner of the Old Tomb was [[Shattershree]], who, in the [[1372 DR|Year of Wild Magic, 1372 DR]], was a [[Dragon aging|mature adult]] [[silver dragon]] that liked making profitable trade deals and had various investments in [[Sembia]]n businesses. She disliked those who made their wealth through corruption, manipulation, and foul play. The Old Tomb was her way of luring adventuring types into performing services favorable to her goals (and detrimental to her rivals) without them knowing anything about her. The maps she left were lures to explore places she wanted explored, and the sheets of parchment were clues and information needed to profit from the ill-gotten gains of those she felt deserved to be exploited in kind.{{Cite dragon/286/Elminster's Guide to the Realms: Shattershree's Rest|74}}\n\nThe ring, dagger, cloak, and sword were all props that might or might not have played a role in the schemes hinted at by the parchment clues. She made the stain on the floor with [[owlbear]]-hide [[dye]], the chalk circle was a hoax, and the keys she spell-duplicated from originals that fit certain mansions and guild vaults in [[Cormyr]] and Sembia. The armor pieces really were antiques that didn't match anything else and some had minor beneficial enchantments. Every item that anyone would want to remove from the tomb was tagged with Shattershree's own beacon tracer dweomer. She was alerted to the location of her items whenever a spell was cast on them, or when one of her scrolls was used. Thus, she was able to follow the progress of her unwitting henchmen and perhaps play a role (always behind the scenes or in disguise) to assist or nudge them toward a favorable outcome.\n[[File:OldTombRoom4.png|thumb|right|250px|Arcane chalk circle, side table with keys, and neck shackle.]]\n\nIf anyone was ever left behind with her shackle around their neck, she would question them in human guise before deciding what to do with them.",
+        "Defenses": "The Old Tomb had no defenses except Shattershree herself. When she wasn't off tending to her business interests, she sprawled on a mountain ledge that overlooked her valley where she could keep an eye on her lure and keep the large predators (attracted by the deer that used the well-worn path) in check.",
+        "History": "No record of the Old Tomb or who was buried there could be found in the libraries at [[Candlekeep]], Cormyr, or Sembia, or the [[Leaves of Learning]] in [[Highmoon]]. Shattershree commissioned some clanless [[dwarves]] from the [[Storm Horns]], led by [[Hamhaerth]] \"Goldhand\", to build the Tomb for her sometime around the [[1292 DR|Year of the Wandering Waves, 1292 DR]]. The dwarves knew better than to reveal they had any knowledge of the Tomb.",
+        "Rumors & Legends": "There were plenty of stories that attempted to explain who was buried in the Old Tomb. Early tales describe her as a \"lady-lord\" named Ilmaerile, or perhaps Yimaerl. Later stories inflated her title to a lost princess of Anauria. A popular tavern tale postulated that the Old Tomb was the resting place of the warlord (or bandit) [[Loardrin]] who marauded from [[Thar]] down to the homesteads that eventually became Sembia&mdash;the truly interesting part being the explanation of how he came to be buried in a tomb with a feminine theme. The magical references in the decorations gave strength to the theory that the wizard [[Sraedar]] was the Tomb's occupant. Sraedar was thought to have tutored the infamous [[Malaug]]."
+    }
+}

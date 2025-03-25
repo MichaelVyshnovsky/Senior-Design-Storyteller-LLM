@@ -1,0 +1,722 @@
+2900
+144953
+
+849747
+825761
+2023-03-05T17:45:54Z
+
+Artyom.pavlov
+24367202
+
+849747
+interactivemap
+text/plain
+{
+    "mapImage": "Oeble interactive map.jpg",
+    "pageCategories": [
+        "Maps",
+        "Maps_of_cities",
+        "Interactive_maps",
+        "Maps_of_the_Border_Kingdoms"
+    ],
+    "defaultSort": "",
+    "description": "",
+    "coordinateOrder": "xy",
+    "mapBounds": [
+        [
+            0,
+            0
+        ],
+        [
+            3338,
+            2506
+        ]
+    ],
+    "origin": "bottom-left",
+    "useMarkerClustering": false,
+    "categories": [
+        {
+            "id": "1",
+            "listId": 1,
+            "name": "Inns & Taverns",
+            "color": "#fa5d00",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Tankard icon.svg"
+        },
+        {
+            "id": "2",
+            "listId": 2,
+            "name": "Streets & Bridges",
+            "color": "#2e2703",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Mountain road icon.svg"
+        },
+        {
+            "id": "5",
+            "listId": 3,
+            "name": "Shops & Merchants",
+            "color": "#007903",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Tymora coin icon.svg"
+        },
+        {
+            "id": "3",
+            "listId": 4,
+            "name": "Points of Interest",
+            "color": "#021ebb",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Elminter's choice icon.svg"
+        },
+        {
+            "id": "6",
+            "listId": 5,
+            "name": "Ferries & Cable Ferries",
+            "color": "#fa005a",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Ship icon.svg"
+        },
+        {
+            "id": "4",
+            "listId": 6,
+            "name": "Bodies of Water",
+            "color": "#00e8fa",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Bodies of water icon.svg"
+        }
+    ],
+    "markers": [
+        {
+            "categoryId": "1",
+            "position": [
+                1668.0007579091,
+                750.00201848781
+            ],
+            "popup": {
+                "title": "Griffingate House",
+                "description": "A large ornate old inn at the center of the city and its most imposing structure of many balconies and gargoyles.",
+                "link": {
+                    "url": "Griffingate House",
+                    "label": "Griffingate House"
+                }
+            },
+            "id": "1"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1077.6929015574,
+                1784.5576776258
+            ],
+            "popup": {
+                "title": "Alhan's Ride",
+                "description": "The street that began on [[Dead King's Walk]], crossed [[River Scelptar]] via [[Alhan's Span]] , and continued on north across the city.",
+                "link": {
+                    "url": "Alhan's Ride",
+                    "label": "Alhan's Ride"
+                }
+            },
+            "id": "2"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1207.9802943634,
+                904.08679497602
+            ],
+            "popup": {
+                "title": "Alhan's Ride",
+                "description": "The street that began on [[Dead King's Walk]], crossed [[River Scelptar]] via [[Alhan's Span]] , and continued on north across the city.",
+                "link": {
+                    "url": "Alhan's Ride",
+                    "label": "Alhan's Ride"
+                }
+            },
+            "id": "3"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2144.4926409154,
+                851.82439156015
+            ],
+            "popup": {
+                "title": "Vriel's Walk",
+                "description": "The street that began on [[Dead King's Walk]], crossed [[River Scelptar]] via [[Vriel's Leap]], and continued on north across the city.",
+                "link": {
+                    "url": "Vriel's Walk",
+                    "label": "Vriel's Walk"
+                }
+            },
+            "id": "4"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1948.030316364,
+                1952.2866252696
+            ],
+            "popup": {
+                "title": "Vriel's Walk",
+                "description": "The street that began on [[Dead King's Walk]], crossed [[River Scelptar]] via [[Vriel's Leap]], and continued on north across the city.",
+                "link": {
+                    "url": "Vriel's Walk",
+                    "label": "Vriel's Walk"
+                }
+            },
+            "id": "5"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1146.3746628174,
+                1249.5610469816
+            ],
+            "popup": {
+                "title": "Alhan's Span",
+                "description": "The bridge across the [[River Scelptar]], part of [[Alhan's Ride]].",
+                "link": {
+                    "url": "Alhan's Span",
+                    "label": "Alhan's Span"
+                }
+            },
+            "id": "6"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2095.8655712823,
+                1213.3923819433
+            ],
+            "popup": {
+                "title": "Vriel's Leap",
+                "description": "The bridge across the [[River Scelptar]], part of [[Vriel's Walk]].",
+                "link": {
+                    "url": "Vriel's Leap",
+                    "label": "Vriel's Leap"
+                }
+            },
+            "id": "7"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1666.9660305701,
+                1186.749035518
+            ],
+            "popup": {
+                "title": "Arch of Gargoyles",
+                "description": "The bridge that linked [[Laskalar's Square]] to the northern side of [[River Scelptar]].",
+                "link": {
+                    "url": "Arch of Gargoyles",
+                    "label": "Arch of Gargoyles"
+                }
+            },
+            "id": "8"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1666.9735334874,
+                835.86278868389
+            ],
+            "popup": {
+                "title": "Laskalar's Square",
+                "description": "The city square in front of the [[Griffingate House]] inn, on [[River Scelptar]]'s southern bank.",
+                "link": {
+                    "url": "Laskalar's Square",
+                    "label": "Laskalar's Square"
+                }
+            },
+            "id": "9"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                601.18373189862,
+                1043.1219578007
+            ],
+            "popup": {
+                "title": "River Scelptar",
+                "description": "The river that cut [[Oeble]] into southern and northern halves. The river  began in the [[Qurth Forest]] and flowed into the [[Shining Sea]].",
+                "link": {
+                    "url": "River Scelptar",
+                    "label": "River Scelptar"
+                }
+            },
+            "id": "10"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2746.0083370001,
+                654.89790565333
+            ],
+            "popup": {
+                "title": "Balamonthar's Street",
+                "description": "One of [[Oeble]]'s widest streets that began on [[Laskalar's Square]] and ran east, reaching the city's edge.",
+                "link": {
+                    "url": "Balamonthar's Street",
+                    "label": "Balamonthar's Street"
+                }
+            },
+            "id": "11"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1861.6596988138,
+                458.79294428698
+            ],
+            "popup": {
+                "title": "Dead King's Walk",
+                "description": "A curvy street in [[Oeble]]'s southern part that linked [[Alhan's Ride]] and [[Balamonthar's Street]].",
+                "link": {
+                    "url": "Dead King's Walk",
+                    "label": "Dead King's Walk"
+                }
+            },
+            "id": "12"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1432.2012199895,
+                714.54728890038
+            ],
+            "popup": {
+                "title": "The Rolling Shields",
+                "description": "One of the two widest roads in [[Oeble]] that began on [[Laskalar's Square]], ran west, passed the [[Sixturrets]], and reached the city's edge.",
+                "link": {
+                    "url": "The Rolling Shields",
+                    "label": "The Rolling Shields"
+                }
+            },
+            "id": "13"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1278.4501322306,
+                475.17004781167
+            ],
+            "popup": {
+                "title": "Sixturrets",
+                "description": "A wide and busy intersection of [[Mraedur Street]], [[the Rolling Shields]], [[the Street of Six Tombs]], and [[Dead King's Walk]].",
+                "link": {
+                    "url": "Sixturrets",
+                    "label": "Sixturrets"
+                }
+            },
+            "id": "14"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1348.2368160648,
+                1026.8647613164
+            ],
+            "popup": {
+                "title": "Skulls New and Used",
+                "description": "A large infamous emporium of [[enchanted]] items and relics recovered by lucky or unlucky adventurers. The shop's name was inspired by its collection of drinking tankards carved out of various skulls.",
+                "link": {
+                    "url": "Skulls New and Used",
+                    "label": "Skulls New and Used"
+                }
+            },
+            "id": "15"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1440,
+                948.00403697563
+            ],
+            "popup": {
+                "title": "Sarl Street",
+                "description": "The street that began at [[Alhan's Span]]'s southern end and moved east, past [[Skulls New and Used]], and ended in a dead end.",
+                "link": {
+                    "url": "Sarl Street",
+                    "label": "Sarl Street"
+                }
+            },
+            "id": "16"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                567.99393672719,
+                256.00807395126
+            ],
+            "popup": {
+                "title": "The Paeraddyn",
+                "description": "A walled and heavily-protected [[caravansary]] that included  a bathhouse, stables, gardens, minstrels' bower, and a luxurious market advertised as \"A Taste of Oeble.\"",
+                "link": {
+                    "url": "The Paeraddyn",
+                    "label": "The Paeraddyn"
+                }
+            },
+            "id": "17"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                2979.0786516868,
+                466.11028365286
+            ],
+            "popup": {
+                "title": "Garbage-middens",
+                "description": "The final destination of [[Oeble]]'s Dead Cart that delivered the city's dead for a mass-grave burial.{{approx}}",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "18"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1782.6896362233,
+                1663.7456705354
+            ],
+            "popup": {
+                "title": "Slarvyn's Sword",
+                "description": "A fine dining club and a place to be seen at. It offered expensive dishes and was decorated with countless adventuring trophies.",
+                "link": {
+                    "url": "Slarvyn's Sword",
+                    "label": "Slarvyn's Sword"
+                }
+            },
+            "id": "19"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1326.4883758475,
+                1660.2838676532
+            ],
+            "popup": {
+                "title": "Tarandar Street",
+                "description": "A bow-shaped street in the northern half of [[Oeble]] that ran parallel [[River Scelptar]] beginning and ending in curves south, towards the river edge.",
+                "link": {
+                    "url": "Tarandar Street",
+                    "label": "Tarandar Street"
+                }
+            },
+            "id": "20"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2580.8824076058,
+                1685.0103684146
+            ],
+            "popup": {
+                "title": "Tarandar Street",
+                "description": "A bow-shaped street in the northern half of [[Oeble]] that ran parallel [[River Scelptar]] beginning and ending in curves south, towards the river edge.",
+                "link": {
+                    "url": "Tarandar Street",
+                    "label": "Tarandar Street"
+                }
+            },
+            "id": "21"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1236.0205098234,
+                506.31557377157
+            ],
+            "popup": {
+                "title": "Melder's Door",
+                "description": "A rowdy inn and a tavern of ill repute, located in the [[Underways]] directly under the [[Sixturrets]] intersection, frequented by [[Oeble]]'s [[monstrous humanoid]] population,",
+                "link": {
+                    "url": "Melder's Door",
+                    "label": "Melder's Door"
+                }
+            },
+            "id": "22"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2326.7502689513,
+                999.41968475336
+            ],
+            "popup": {
+                "title": "Thaerl Street",
+                "description": "A narrow street that crossed [[Vriel's Walk]].",
+                "link": {
+                    "url": "Thaerl Street",
+                    "label": "Thaerl Street"
+                }
+            },
+            "id": "23"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1566.5160750392,
+                328.83129555545
+            ],
+            "popup": {
+                "title": "Street of Six Tombs",
+                "description": "The street that began at the busy [[Sixturrets]] intersection and ran curving southeast.",
+                "link": {
+                    "url": "Street of Six Tombs",
+                    "label": "Street of Six Tombs"
+                }
+            },
+            "id": "24"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                858.0007579091,
+                712.00403697563
+            ],
+            "popup": {
+                "title": "Mraedur Street",
+                "description": "The street that began at the busy [[Sixturrets]] intersection and ran curving northwest, reaching the outskirts of [[Oeble]].",
+                "link": {
+                    "url": "Mraedur Street",
+                    "label": "Mraedur Street"
+                }
+            },
+            "id": "25"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1367.9969683636,
+                1470.0010092439
+            ],
+            "popup": {
+                "title": "Manywheels Street",
+                "description": "The street that split from [[Tarandar Street]], ran parallel to it and, eventually, rejoined it as it curved south.",
+                "link": {
+                    "url": "Manywheels Street",
+                    "label": "Manywheels Street"
+                }
+            },
+            "id": "26"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2431.07162241,
+                1569.4812486317
+            ],
+            "popup": {
+                "title": "Manywheels Street",
+                "description": "The street that split from [[Tarandar Street]], ran parallel to it and, eventually, rejoined it as it curved south.",
+                "link": {
+                    "url": "Manywheels Street",
+                    "label": "Manywheels Street"
+                }
+            },
+            "id": "27"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2391.4035145357,
+                1908.755841418
+            ],
+            "popup": {
+                "title": "Jarthoun's Ride",
+                "description": "",
+                "link": {
+                    "url": "Jarthoun's Ride",
+                    "label": "Jarthoun's Ride"
+                }
+            },
+            "id": "28"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2524.3138651109,
+                1308.6397317293
+            ],
+            "popup": {
+                "title": "Jarthoun's Ride",
+                "description": "",
+                "link": {
+                    "url": "Jarthoun's Ride",
+                    "label": "Jarthoun's Ride"
+                }
+            },
+            "id": "29"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1466.007292975,
+                1900.0793036633
+            ],
+            "popup": {
+                "title": "Darkwind Street",
+                "description": "",
+                "link": {
+                    "url": "Darkwind Street",
+                    "label": "Darkwind Street"
+                }
+            },
+            "id": "30"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1187.9404642387,
+                390.32865236066
+            ],
+            "popup": {
+                "title": "Mhalree's Door",
+                "description": "An inn of note on [[Oeble]]'s [[Sixturrets]] intersection.",
+                "link": {
+                    "url": "Mhalree's Door",
+                    "label": "Mhalree's Door"
+                }
+            },
+            "id": "31"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                2312.2000521255,
+                360.84974237856
+            ],
+            "popup": {
+                "title": "Wyvernposts",
+                "description": "An inn of note that faced the [[Dead King's Walk]].",
+                "link": {
+                    "url": "Wyvernposts",
+                    "label": "Wyvernposts"
+                }
+            },
+            "id": "32"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1853.6679450912,
+                2174.8006928011
+            ],
+            "popup": {
+                "title": "Sammart Hall",
+                "description": "One of [[Oeble]]'s notable inns.",
+                "link": {
+                    "url": "Sammart Hall",
+                    "label": "Sammart Hall"
+                }
+            },
+            "id": "33"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1811.1986644069,
+                1300.1501684958
+            ],
+            "popup": {
+                "title": "The Black Rose",
+                "description": "A well-known inn and brothel that stood on the [[River Scelptar]].",
+                "link": {
+                    "url": "The Black Rose",
+                    "label": "The Black Rose"
+                }
+            },
+            "id": "34"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1327.5408416112,
+                1195.8480500534
+            ],
+            "popup": {
+                "title": "Ferry",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "35"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1884.9521387161,
+                1150.1678847039
+            ],
+            "popup": {
+                "title": "Cable ferry",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "36"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                2371.6259615691,
+                1184.1261376379
+            ],
+            "popup": {
+                "title": "Ferry",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "37"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                2442.2037308669,
+                1161.4873023486
+            ],
+            "popup": {
+                "title": "Ferry",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "38"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                2736.3773013658,
+                1071.1075174211
+            ],
+            "popup": {
+                "title": "Cable ferry",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "39"
+        }
+    ]
+}
+5eei16l51dbupy7n48w1odploahjck7
+
+

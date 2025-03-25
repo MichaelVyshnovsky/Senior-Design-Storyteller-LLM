@@ -1,0 +1,16 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "name": "Dispel Fatigue",
+        "school2e": "[[Necromancy]]",
+        "spheres2e": "[[Necromantic sphere|Necromantic]]",
+        "level2e": "{{spell table|edition=2e|[[Cleric]]|1|[[Crusader]]|1|[[Monk]]|1|[[Mystic]]|1|[[Necromantic sphere|Necromantic]]|1}}",
+        "type2e": "",
+        "refs2e": "",
+        "mainbody": "'''''Dispel fatigue''''' was a [[necromancy]] spell that alleviated weariness and exhaustion in the recipient.",
+        "Effects": "One creature within a range of 90 ft (27.4 m) could be reinvigorated by this spell. All effects of physical and mental exertion were removed, leaving the subject fully rested and refreshed.<ref group=\"note\">The [[Player's Option: Spells & Magic]] describes other systems of magic, including some using \"spell points\" and \"fatigue points\". The [[Player's Option: Combat & Tactics]] describes a combat system that uses fatigue points. In those systems, this spell removed all fatigue points from a creature.",
+        "Components": "In addition to verbal and somatic components, this spell required a sprinkling of springwater that had been ''[[bless]]ed''."
+    }
+}

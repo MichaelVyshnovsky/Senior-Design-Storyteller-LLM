@@ -1,0 +1,38 @@
+{
+    "template_data": {
+        "edition": "5e",
+        "edition_1": "3e",
+        "edition_2": "2e",
+        "edition_3": "1e"
+    },
+    "document_data": {
+        "image": "Sanctuary 5e.png",
+        "name": "Sanctuary",
+        "school5e": "[[Abjuration]]",
+        "domains5e": "[[Peace domain|Peace]]",
+        "circles5e": "",
+        "oaths5e": "[[Devotion oath|Devotion]], [[Redemption oath|Redemption]]",
+        "patrons5e": "",
+        "traditions5e": "[[Open Hand tradition|Open Hand]]",
+        "level5e": "{{spell table|edition=5e|[[Artificer]]|1|[[Cleric]]|1|[[Devotion oath|Devotion]]|1|[[Open Hand tradition|Open Hand]]|0 [[ki]]|[[Peace domain|Peace]]|1|[[Redemption oath|Redemption]]|1}}",
+        "type5e": "",
+        "refs5e": "",
+        "level3e": "{{spell table|edition=3e|[[Cleric]]|1|[[Patience domain|Patience]]|1|[[Protection domain|Protection]]|1}}",
+        "domains3e": "[[Patience domain|Patience]], [[Protection domain|Protection]]",
+        "school3e": "[[Abjuration]]",
+        "type3e": "",
+        "refs3e": "{{Cite dragon/355/Seven Saintly Domains|29}}",
+        "school2e": "[[Abjuration]]",
+        "spheres2e": "[[Protection sphere|Protection]]",
+        "level2e": "{{spell table|edition=2e|[[Cleric]]|1|[[Crusader]]|1|[[Mystic]]|1|[[Paladin]]|1|[[Protection sphere|Protection]]|1|[[Shaman]]|1}}",
+        "type2e": "",
+        "refs2e": "",
+        "school1e": "[[Abjuration]]",
+        "level1e": "{{spell table|edition=1e|[[Cleric]]|1|[[Paladin]]|1}}",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Sanctuary''''' was an [[abjuration]] spell that could prevent enemies from attacking the subject for a few minutes on the condition that the subject does not take direct offensive action.",
+        "Effects": "This spell protected the touched individual from any targeted attack, either melee, ranged weapon, or spell, unless the attacker was able to overcome the ''sanctuary'' by force of will. If the first attack failed to get past the ''sanctuary'', then no subsequent attack by that enemy on the subject would succeed for the duration of the spell. This spell did not protect against area-effect attacks, such as ''[[fireball]]''. As long as the subject did not directly attack an enemy, he or she could perform non-aggressive actions such as casting ''[[bless]]'', healing, divination, or even summoning creatures (such creatures may attack on the summoner's behalf).\n\nThe older versions of this spell actually made a failed attacker totally ignore the subject for the duration of the spell.",
+        "Components": "In addition to [[verbal]] and [[somatic component]]s, this spell required the use of the caster's [[holy symbol]] or [[divine focus]]. The older versions of ''sanctuary'' also required a small silver [[mirror]] as a [[material component]]."
+    }
+}

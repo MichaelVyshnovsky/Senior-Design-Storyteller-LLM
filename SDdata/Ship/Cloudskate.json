@@ -1,0 +1,39 @@
+{
+    "template_data": {
+        "1|mile|k|long": "yes",
+        "2|mile|k|long": "yes",
+        "4|mile|k|long": "yes"
+    },
+    "document_data": {
+        "image": "Cloudskate.png",
+        "caption": "A cloudskate in the Skysea.",
+        "name": "''Cloudskate''",
+        "propername": "",
+        "aliases": "",
+        "type": "Landship",
+        "location": "[[Skysea]]",
+        "captain": "",
+        "notable crew": "",
+        "flag": "",
+        "built by": "",
+        "used by": "",
+        "value": "",
+        "basicrefs": "",
+        "tonnage": "",
+        "crew": "",
+        "armament": "",
+        "cargo": "",
+        "keel length": "",
+        "beam width": "",
+        "configrefs": "",
+        "usethe": "",
+        "useon": "",
+        "inhabitants": "",
+        "source": "",
+        "page": "",
+        "mainbody": "A '''''cloudskate''''' was a kind of [[enchanted]] vessel used to cross the [[Skysea]], a lethal [[glass]] flat in the [[Raurin]] desert, and was one of the few ways to access the [[Cursed City of Stone]]. It resembled a metal ship raised on two skate blades, with a single magical sail made of [[bronze]].{{cite book/Desert of Desolation|97}}{{Cite dragon/424/Martek and the Desert of Desolation|19}}''[[Sandstorm]]'' describes a non-magical variation of a ''cloudskate'' with a slightly different design. However, this particular type does not appear in the Realms.",
+        "Description": "The enchanted sail of a ''cloudskate'' absorbed the heat of the mirrored [[glass]] and converted it into controllable movement for the ship. At the same time, the hull absorbed the heat of the glass and turned it into a glowing magical force between the runners and allowed it to very slightly hover off the ground. Both the runners and the rudder were [[diamond]]-tipped to give them purchase against the glass, similarly to ice-skates, and while steering the rudder dug into the ground to overcome the vessel's inertia. Riding a ''cloudskate'' got very hot, but it was not physically dangerous. They achieved speeds of only {{SI|1|mile|k|long=yes}} per hour at night, but they reached {{SI|2|mile|k|long=yes}} per hour at dawn or dusk and {{SI|4|mile|k|long=yes}} per hour during the day.",
+        "Notable Cloudskates": "A number of ''cloudskates'' were lost and abandoned on the edge of the Skysea, ready for travelers to recover and use if they wished. Still others were still in operation by unfriendly forces.\n\n* ''[[Cloudskate ghostship]]'', a malevolent haunted vessel.\n* ''[[Cloudskate pirate ship]]'', a ship crewed by undead pirates.",
+        "History": "During the 14{{th}} century [[DR]], a group of [[adventurer]]s sought the ruins of [[Medinat Muskawoon]] but were blocked by the inhospitable Skysea. Fortunately, they found an intact ''cloudskate'' that allowed them passage to the lost city."
+    }
+}

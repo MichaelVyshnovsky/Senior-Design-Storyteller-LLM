@@ -1,0 +1,28 @@
+{
+    "template_data": {
+        "edition": "3e",
+        "edition_1": "2e",
+        "edition_2": "1e"
+    },
+    "document_data": {
+        "name": "Hold Animal",
+        "level3e": "{{spell table|edition=3e|[[Animal domain|Animal]]|2|[[Beloved of Lurue]]|2|[[Blightbringer domain|Blightbringer]]|1|[[Druid]]|2|[[Ranger]]|2}}",
+        "school3e": "[[Enchantment]] ([[Compulsion spells|Compulsion]])",
+        "domains3e": "[[Animal domain|Animal]], [[Blightbringer domain|Blightbringer]]",
+        "descriptors3e": "{{desc/mind-affecting}}",
+        "type3e": "",
+        "refs3e": "",
+        "school2e": "[[Enchantment]] (Charm)",
+        "spheres2e": "[[Animal sphere|Animal]]",
+        "level2e": "{{spell table|edition=2e|[[Animal sphere|Animal]]|3|[[Druid]]|3|[[Mystic]]|3|[[Ranger]]|3|[[Shaman]]|3}}",
+        "type2e": "",
+        "refs2e": "",
+        "school1e": "[[Enchantment]] (Charm)",
+        "level1e": "{{spell table|edition=1e|[[Druid]]|3}}",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Hold animal''''' was an [[enchantment]] spell that held one [[animal]] helpless for a few minutes. Older versions of this spell could paralyze up to four animals for a longer duration.",
+        "Effects": "''Hold animal'' operated in the same fashion as ''[[hold person]]'', with two exceptions. First, it did not require an arcane focus, and second, it affected animals instead of sentient beings. The subject froze in place, standing helpless. It was aware and could breathe normally but could not take any physical actions, including vocalization.\n\nA winged creature being held could not flap its wings and, if flying, fell out of the sky. Swimming creatures could not propel themselves and risked drowning.\n\nThis spell was effective on natural and giant-sized animals but not monsters or magical creatures.",
+        "Components": "Only [[Verbal component|verbal]] and [[somatic component|somatic]] components were necessary to cast this spell."
+    }
+}

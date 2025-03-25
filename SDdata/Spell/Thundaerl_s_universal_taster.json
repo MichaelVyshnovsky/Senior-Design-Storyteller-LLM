@@ -1,0 +1,23 @@
+{
+    "template_data": {
+        "edition": "2e",
+        "30|feet|long": "yes"
+    },
+    "document_data": {
+        "image": "",
+        "caption": "",
+        "name": "Thundaerl's Universal Taster",
+        "deity": "",
+        "inventor": "[[Thundaerl]]",
+        "reversible2e": "",
+        "school2e": "[[Divination]], [[Illusion]]",
+        "spheres2e": "",
+        "level2e": "{{spell table|edition=2e|[[Wizard]]|2}}",
+        "type2e": "",
+        "refs2e": "{{Cite dragon/185/Magic in the Evening|62}}",
+        "mainbody": "'''''Thundaerl's universal taster''''' was a bespoke [[spell]] that detected and announced the presence of [[poison]] in food.",
+        "Effects": "Any food within {{SI|30|feet|long=yes}} of the caster, when he looked at it, would register in his sight with luminous purple flames where substances harmful to them were present in the meal. At will, the caster could make hissing black illusory serpents rise from any such poisoned foodstuffs. The spell's effect could even penetrate sauces, solid foods, and food container lids.",
+        "Components": "Besides [[verbal]] and [[somatic component]]s, the spell called for a spark of flame and a piece of [[snake]]skin.",
+        "History": "The spell was [[Thundaerl]]'s latest as of approximately {{yearlink|1367}}."
+    }
+}

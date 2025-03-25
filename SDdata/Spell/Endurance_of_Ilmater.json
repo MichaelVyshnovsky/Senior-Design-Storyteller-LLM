@@ -1,0 +1,18 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "name": "Endurance of Ilmater",
+        "school2e": "[[Abjuration]], [[alteration]], [[necromancy]]",
+        "spheres2e": "[[Necromantic sphere|Necromantic]], [[Protection sphere|Protection]]",
+        "level2e": "{{spell table|edition=2e|[[Cleric]]|4|[[Mystic]]|4|[[Necromantic sphere|Necromantic]]|4|[[Protection sphere|Protection]]|4}}",
+        "type2e": "",
+        "refs2e": "",
+        "mainbody": "'''''Endurance of Ilmater''''' was a [[Divine magic|divine spell]] that bolstered the health, strength, and endurance of a protected creature.",
+        "Users": "The spell could be cast by [[cleric]]s who commanded the [[Necromantic sphere|necromantic]] and [[Protection sphere|protection]] spheres, and by [[painbearer]]s, the specialty priests of Ilmater.",
+        "Effect": "The spell had several benefits for the health of the subject creature. It doubled the vitality of the creature, caused them to succeed in tests of strength and endurance, and allowed them to automatically overcome effects that attacked their health, such as disease and shock. Furthermore, the protected creature could never be knocked over by any means.",
+        "Components": "This spell required only [[verbal]] and [[somatic component]]s to cast.",
+        "History": "''Endurance of Ilmater'' was, of course, named for the god [[Ilmater]], the One Who Endures."
+    }
+}

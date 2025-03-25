@@ -1,0 +1,42 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "image": "",
+        "caption": "",
+        "name": "Age Creature",
+        "deity": "",
+        "inventor": "",
+        "type": "",
+        "school5e": "",
+        "level5e": "",
+        "type5e": "",
+        "refs5e": "",
+        "feature4e": "",
+        "keywords4e": "",
+        "level4e": "",
+        "type4e": "",
+        "category4e": "",
+        "skill4e": "",
+        "refs4e": "",
+        "domains3e": "",
+        "descriptors3e": "",
+        "type3e": "",
+        "reversible2e": "yes",
+        "school2e": "[[Alteration]]",
+        "spheres2e": "[[Time sphere|Time]]",
+        "level2e": "{{spell table|edition=2e|[[Cleric]]|6|}}",
+        "type2e": "",
+        "refs2e": "",
+        "reversible1e": "",
+        "school1e": "",
+        "level1e": "",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Age creature''''' was a [[divine magic]] spell available to [[priest]]s.",
+        "Effects": "When cast, the spell increased the natural age of a targeted creature. The amount of years the creature aged was determined by the caster's skill level. The spell could not increase the age of a targeted creature beyond their natural lifespan.\n\nThe spell changed the appearance of both [[human]]s and [[humanoid]]s, causing hair to grey and skin to wrinkle. They also suffered from a lose of agility, strength and stamina.\n\nThe reverse of this spell was '''''restore youth'''''. It permanently restored the natural age of an individual who has suffered increased aging as a result of a magical effect. The amount of years the spell restored was determined by the caster's skill level. The spell did not reverse any aging effects as a result of ''[[wish]]'' or ''[[haste]]''. The spell could not make a targeted creature younger than their actual age.",
+        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, this spell required a [[material component]], a small amount of [[emerald]] dust, while ''restore youth'' required a small amount of [[ruby]] dust.",
+        "History": "This spell was inscribed within the [[Kelemvor]]ite [[relic]] the ''[[Testament of Vraer]]''. and in ''[[Yornar's Trail Companion]]'', a holy text of the [[church of Mielikki]].<ref>"
+    }
+}

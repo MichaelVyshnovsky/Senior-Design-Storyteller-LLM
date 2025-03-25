@@ -1,0 +1,33 @@
+{
+    "template_data": {
+        "200|ft|long": "yes"
+    },
+    "document_data": {
+        "image": "NWZhentilKeep.JPG",
+        "caption": "A map showing Plague Street in northwest Zhentil Keep.",
+        "name": "Plague Street",
+        "type": "Street",
+        "aliases": "",
+        "length": "{{SI|200|ft}}",
+        "width": "",
+        "pavement": "",
+        "location": "The [[Zhentil Keep/Common Quarter|Common Quarter]], [[Zhentil Keep]]",
+        "starts": "[[Cobble Road]]",
+        "ends": "The [[Zhentil Keep/Inner Quarter|Inner Quarter]] wall",
+        "built": "",
+        "refs": "",
+        "daggers": "",
+        "volorefs": "",
+        "usethe": "",
+        "inhabitants": "",
+        "locations": "yes",
+        "organizations": "",
+        "settlements": "",
+        "roads": "yes",
+        "bodies of water": "",
+        "events": "",
+        "mainbody": "'''Plague Street''' was a small road located in the city of [[Zhentil Keep]] during the mid-14{{th}} century [[DR]].",
+        "Location": "Plague Street was found within northwest Zhentil Keep in the [[Zhentil Keep/Common Quarter|Common Quarter]]. It originated on [[Nool Street]] in the west and terminated in the east at the wall separating the Common Quarter from the [[Zhentil Keep/Inner Quarter|Inner Quarter]]. It intersected [[Cobble Road]] along the way.",
+        "Description": "It was a small road measuring roughly {{SI|200|ft|long=yes}} in length."
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "template_data": {
+        "30|feet|long": "yes"
+    },
+    "document_data": {
+        "image": "Banishment (psionic).jpg",
+        "caption": "",
+        "name": "Banishment",
+        "deity": "",
+        "inventor": "",
+        "feature4e": "",
+        "keywords4e": "",
+        "level4e": "",
+        "type4e": "",
+        "category4e": "",
+        "skill4e": "",
+        "refs4e": "",
+        "discipline3e": "",
+        "mantles3e": "",
+        "descriptors3e": "",
+        "level3e": "",
+        "type3e": "",
+        "refs3e": "",
+        "discipline2e": "[[Psychoportation]]",
+        "level2e": "Major (Science)",
+        "type2e": "Standard power",
+        "wild2e": "",
+        "refs2e": "",
+        "level1e": "",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Banishment''''' was a [[psionic]] science of the [[psychoportation]] [[discipline]] that allowed the [[psionicist]] to ''[[teleport (psionics)|teleport]]'' a creature against their will.",
+        "Effects": "The psionicist ''teleported'' the target creature into a pocket dimension and held it there for as long as they continued to expend psychic energy. For this power to work the creature needed to be within {{SI|30|feet|long=yes}} of the psionicist when ''banished''. The creature would return to the same spot where it was standing when the ''banishment'' ended. Creatures capable of traveling to the [[astral plane|astral]] or [[ethereal plane]] had a chance to escape the pocket dimension on their own.",
+        "Notable Users": {
+            "Individuals": "* [[Vhondryl]], a psionicist in [[Skullport]] and head of the [[Hall of Mental Splendor]]{{Cite dragon/172/Seeing the Sights in Skullport|12, 14, 88}}"
+        }
+    }
+}

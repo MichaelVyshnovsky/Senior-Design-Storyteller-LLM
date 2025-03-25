@@ -1,0 +1,37 @@
+{
+    "template_data": {
+        "edition": "5e",
+        "edition_1": "3e"
+    },
+    "document_data": {
+        "variant": "",
+        "image": "Dominate beast.png",
+        "caption": "",
+        "name": "Dominate Beast",
+        "school": "[[Enchantment]]",
+        "spheres": "",
+        "domains": "",
+        "inventor": "",
+        "descriptors": "",
+        "keywords": "",
+        "level": "",
+        "type": "",
+        "school5e": "[[Enchantment]]",
+        "domains5e": "",
+        "circles5e": "",
+        "oaths5e": "[[Conquest oath|Conquest]]",
+        "patrons5e": "[[Archfey patron|Archfey]], [[Great Old One patron|Great Old One]]",
+        "traditions5e": "",
+        "level5e": "{{spell table|edition=5e|[[Archfey patron|Archfey]]|4|[[Conquest oath|Conquest]]|4|[[Druid]]|4|[[Great Old One patron|Great Old One]]|4|[[Sorcerer]]|4}}",
+        "type5e": "",
+        "refs5e": "",
+        "school3e": "[[Enchantment]] (Compulsion)",
+        "level3e": "{{spell table|edition=3e|[[Animal domain|Animal]]|3|[[Druid]]|3}}",
+        "descriptors3e": "{{desc/mind-affecting}}",
+        "type3e": "[http://en.wikipedia.org/wiki/Magic_%28gaming%29#Spell_systems Vancian]",
+        "refs3e": "",
+        "mainbody": "'''''Dominate beast''''' or '''''dominate animal''''' was an [[enchantment]] spell that forced an [[animal]] to obey mental commands.",
+        "Effects": "A dominated animal could be commanded with basic orders like \"attack\", \"fetch\" or \"run\", though it wouldn't obey obviously suicidal instructions or attack creatures much bigger than it.\n\nThe post [[Second Sundering]] version of the spell functioned much the same as the old version, except it would last for a minute unless cast with higher levels, all up to a maximum duration of 8 hours.",
+        "Components": "Only [[verbal]] and [[somatic]] components where needed for the casting of this spell."
+    }
+}

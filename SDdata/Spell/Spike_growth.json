@@ -1,0 +1,30 @@
+{
+    "template_data": {
+        "edition": "5e",
+        "edition_1": "3e",
+        "edition_2": "2e"
+    },
+    "document_data": {
+        "image": "Spike growth.png",
+        "name": "Spike Growth",
+        "school5e": "[[Transmutation]]",
+        "domains5e": "[[Nature domain|Nature]]",
+        "circles5e": "[[Arctic circle|Arctic]], [[Mountain circle|Mountain]]",
+        "level5e": "{{Spell table|edition=5e|[[Arctic circle|Arctic]]|2|[[Druid]]|2|[[Mountain circle|Mountain]]|2|[[Nature domain|Nature]]|2|[[Ranger]]|2}}",
+        "type5e": "",
+        "refs5e": "",
+        "level3e": "{{spell table|edition=3e|[[Druid]]|3|[[Ranger]]|2}}",
+        "school3e": "[[Transmutation]]",
+        "domains3e": "",
+        "refs3e": "",
+        "type3e": "",
+        "school2e": "[[Alteration]], [[Enchantment]]",
+        "spheres2e": "[[Plant sphere|Plant]]",
+        "level2e": "{{spell table|edition=2e|[[Druid]]|3|[[Mystic]]|3|[[Plant sphere|Plant]]|3|[[Ranger]]|3|[[Shaman]]|3}}",
+        "type2e": "",
+        "refs2e": "",
+        "mainbody": "'''''Spike growth''''' was a [[transmutation]] or [[alteration]]/[[enchantment]] spell that caused the vegetation in an area of ground to become needle sharp without changing its appearance.",
+        "Effects": "This spell could work outdoors on any ground that could support plant life. Surfaces of bare stone, deep snow, desert [[sand]], ice, or open water would cause ''spike growth'' to fail. When cast, the vegetation on the ground or roots and rootlets just under the surface became hard with sharp points, acting like [[caltrops]] to any who traversed the affected area on foot. Victims who tread on the spikes injured their feet and, unless they resisted the magic of the spell, were reduced in movement rate for the next 24 hours or until ''cured'' for all the damage caused by the spikes. Having the wounds bound and treated by a competent caregiver for ten minutes could also allow the victim to move at full speed again.\n\nThe appearance of the ground was not altered in any way by this spell, making it very difficult to detect by normal means. A [[rogue]] had a chance to search and find this trap, but without ''[[true seeing]]'' or the like the extent of the hazardous area could not be determined. Magical detection methods such as ''[[find traps]]'' worked in the usual fashion. ''Spike growth'' was not a device and could not be disabled like one.\n\nThe transmutation version of this spell lasted longer on average, and affected an area twice as big as the alteration/enchantment version.",
+        "Components": "The newer version of ''spike growth'' required only the caster's [[holy symbol]] or [[divine focus]] plus the usual verbal and somatic components. The older version also needed seven sharp thorns, either naturally grown or whittled from small twigs."
+    }
+}
