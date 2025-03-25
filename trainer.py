@@ -1,7 +1,7 @@
 import json
 import os
 from datasets import Dataset, load_dataset
-from transformers import AutoTokenizer, AutoModelForCausalLM, TrainingArguments, Trainer
+from transformers import AutoTokenizer, AutoModelForCausalLM, TrainingArguments, Trainer, DataCollatorForSeq2Seq
 
 data_dir = "path_to_json_folder"  # Change this to your dataset directory
 
@@ -26,15 +26,20 @@ dataset = Dataset.from_list(data)
 tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2.5-Math-7B")
 
 def tokenize_function(examples):
-    return tokenizer(examples["input"], text_target=examples["output"], padding="max_length", truncation=True)
+    model_inputs = tokenizer(examples["input"], padding="max_length", truncation=True)
+    labels = tokenizer(examples["output"], padding="max_length", truncation=True)
+    model_inputs["labels"] = labels["input_ids"]
+    return model_inputs
 
 tokenized_datasets = dataset.map(tokenize_function, batched=True, batch_size=16, num_proc=4)
+
+data_collator = DataCollatorForSeq2Seq(tokenizer=tokenizer, model="Qwen/Qwen2.5-Math-7B")
 
 model = AutoModelForCausalLM.from_pretrained("Qwen/Qwen2.5-Math-7B")
 
 training_args = TrainingArguments(
     output_dir="./results",
-    evaluation_strategy="epoch",
+    evaluation_strategy="no",  # Avoid error by setting evaluation off unless eval_dataset is provided
     learning_rate=2e-5,
     per_device_train_batch_size=1,
     per_device_eval_batch_size=1,
@@ -47,6 +52,7 @@ trainer = Trainer(
     model=model,
     args=training_args,
     train_dataset=tokenized_datasets,
+    data_collator=data_collator,
     tokenizer=tokenizer
 )
 
