@@ -32,7 +32,7 @@ def tokenize_function(examples):
     model_inputs["labels"] = labels["input_ids"]
     return model_inputs
 
-tokenized_datasets = dataset.map(tokenize_function, batched=True, batch_size=4, num_proc=2)
+tokenized_datasets = dataset.map(tokenize_function, batched=True, batch_size=4, num_proc=1)
 
 data_collator = DataCollatorForSeq2Seq(tokenizer=tokenizer, model="Qwen/Qwen2.5-Math-7B")
 
