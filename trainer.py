@@ -27,10 +27,21 @@ dataset = Dataset.from_list(data)
 tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2.5-Math-1.5B")
 
 def tokenize_function(examples):
-    model_inputs = tokenizer(examples["input"], padding="max_length", truncation=True)
-    labels = tokenizer(examples["output"], padding="max_length", truncation=True)
+    model_inputs = tokenizer(
+        examples["input"],
+        padding="max_length",
+        truncation=True,
+        max_length=512  # Reduce this further if needed
+    )
+    labels = tokenizer(
+        examples["output"],
+        padding="max_length",
+        truncation=True,
+        max_length=512
+    )
     model_inputs["labels"] = labels["input_ids"]
     return model_inputs
+
 
 tokenized_datasets = dataset.map(tokenize_function, batched=True, batch_size=4, num_proc=1)
 
