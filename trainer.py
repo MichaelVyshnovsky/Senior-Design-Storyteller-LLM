@@ -4,7 +4,7 @@ import torch
 from datasets import Dataset, load_dataset
 from transformers import AutoTokenizer, AutoModelForCausalLM, TrainingArguments, Trainer, DataCollatorForSeq2Seq
 
-data_dir = "./SDdata"  # Change this to your dataset directory
+data_dir = "./SDdata/Dungeon"  # Change this to your dataset directory
 
 def load_json_files(data_dir):
     data = []
@@ -24,7 +24,7 @@ def load_json_files(data_dir):
 data = load_json_files(data_dir)
 dataset = Dataset.from_list(data)
 
-tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2.5-Math-7B")
+tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2.5-Math-1.5B")
 
 def tokenize_function(examples):
     model_inputs = tokenizer(examples["input"], padding="max_length", truncation=True)
@@ -34,9 +34,9 @@ def tokenize_function(examples):
 
 tokenized_datasets = dataset.map(tokenize_function, batched=True, batch_size=4, num_proc=1)
 
-data_collator = DataCollatorForSeq2Seq(tokenizer=tokenizer, model="Qwen/Qwen2.5-Math-7B")
+data_collator = DataCollatorForSeq2Seq(tokenizer=tokenizer, model="Qwen/Qwen2.5-Math-1.5B")
 
-model = AutoModelForCausalLM.from_pretrained("Qwen/Qwen2.5-Math-7B")
+model = AutoModelForCausalLM.from_pretrained("Qwen/Qwen2.5-Math-1.5B")
 
 torch.cuda.empty_cache()  # Clears GPU memory
 training_args = TrainingArguments(
