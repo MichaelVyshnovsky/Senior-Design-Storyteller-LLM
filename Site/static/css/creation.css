@@ -1,0 +1,86 @@
+/* DnD Themed Form Styling */
+
+/* Background styling */
+body {
+    background-image: url('https://www.transparenttextures.com/patterns/aged-paper.png'); /* Parchment texture */
+    background-color: #f4e7c5; /* Light parchment color */
+    font-family: 'Cinzel', serif; /* Medieval-style font */
+    color: #3e2723; /* Dark brown for readability */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Container styling */
+.flex-container {
+    background: rgba(255, 239, 196, 0.9); /* Slightly transparent parchment */
+    padding: 20px;
+    border: 5px solid #5d4037; /* Dark brown border */
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    max-width: 600px;
+    width: 90%;
+}
+
+/* Title Styling */
+h1 {
+    font-size: 32px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #4e342e;
+    border-bottom: 2px solid #6d4c41;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+/* Form field styling */
+label {
+    display: block;
+    font-size: 18px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+input[type='text'] {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin-top: 5px;
+    border: 2px solid #8d6e63;
+    border-radius: 5px;
+    background-color: #fff3e0;
+    font-size: 16px;
+    color: #4e342e;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Button Styling */
+button, a button {
+    background-color: #6d4c41; /* Dark brown */
+    color: #ffffff;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: 2px solid #3e2723;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s ease;
+    font-family: 'Cinzel', serif;
+    display: block;
+    margin: 10px auto;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+button:hover, a button:hover {
+    background-color: #5d4037;
+    transform: scale(1.05);
+}

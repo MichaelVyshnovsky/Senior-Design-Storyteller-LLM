@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generated Story</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/dnd_results.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="scroll parchment">
+            <h1>Generated Story</h1>
+            <div class="story-content">{{ generated_content | safe }}</div>
+            <a href="/">
+                <button class="return-btn">Return Home</button>
+            </a>
+        </div>
+    </div>
+</body>
+</html>
