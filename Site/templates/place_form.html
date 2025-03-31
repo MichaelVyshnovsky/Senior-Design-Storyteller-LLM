@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/creation.css') }}">
+    <title>Town Creation</title>
+</head>
+<body>
+    <div class="flex-container">
+        <h1>Town Creation</h1>
+        <p>Design the heart of your world</p>
+
+        <form action="/town_creation" method="POST">
+            <label for="place_name">Town Name:</label>
+            <input type="text" id="place_name" name="place_name" placeholder="Enter the town's name">
+            
+            <label for="nearby">Nearby Landmarks:</label>
+            <input type="text" id="nearby" name="nearby" placeholder="Enter surrounding landmarks">
+        
+            <label for="faction">Ruling Faction:</label>
+            <input type="text" id="faction" name="faction" placeholder="Enter the faction that rules here">
+            
+            <label for="location_type">Type of Settlement:</label>
+            <input type="text" id="location_type" name="location_type" placeholder="e.g., Village, City, Fortress">
+
+            <label for="sub_locations">Notable Places:</label>
+            <input type="text" id="sub_locations" name="sub_locations" placeholder="Key locations (tavern, guild, etc.)">
+
+            <label for="additional_info">History & Lore:</label>
+            <input type="text" id="additional_info" name="additional_info" placeholder="Add any historical details">
+
+            <button type="submit">Establish Town</button>
+        </form>    
+
+        <a href="{{url_for('home')}}">
+            <button>Return to Kingdom</button>
+        </a>
+    </div>
+</body>
+</html>

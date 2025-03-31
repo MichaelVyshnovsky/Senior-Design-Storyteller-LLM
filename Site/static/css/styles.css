@@ -7,29 +7,109 @@
     align-items: center; /* Centers vertically */
     flex-direction: column;
     height: 100vh; /* Full height of screen */
+    text-align: center;
 }
 
-/* Page background color */
+/* Page background */
 body {
-    background-color: #94FFDF;
-    margin: 0; /* Remove default margin */
-    font-family: Arial, sans-serif; /* Optional: Better text appearance */
+    background-image: url('https://images.ctfassets.net/swt2dsco9mfe/2zTQfxWw5vduhqHMGVMJKT/9c64c2a3249356276293a36da4dbf5f0/2560x1600-terrain-wa.jpg');
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    font-family: 'Georgia', serif;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
+
+/* Title styling */
+.title {
+    font-size: 3rem;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    border-radius: 10px;
 }
 
 /* Button styling */
-button {
-    text-align: center;
-    padding: 10px 20px;
-    font-size: 18px;
-    background-color: #008CBA; /* Blue color */
+.btn {
+    font-size: 1.5rem;
+    padding: 15px 30px;
+    background: #8B0000;
     color: white;
     border: none;
-    border-radius: 5px;
+    border-radius: 10px;
     cursor: pointer;
-    transition: 0.3s ease;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: transform 0.2s, background 0.3s;
+}
+
+.button-container a {
+    text-decoration: none;
 }
 
 /* Button hover effect */
-button:hover {
-    background-color: #005f75;
+.btn:hover {
+    background: #B22222;
+    transform: scale(1.1);
+}
+
+
+/* Form Specific Styling */
+
+/* Container for forms */
+.form-container {
+    background: rgba(255, 239, 196, 0.9);
+    padding: 20px;
+    border: 5px solid #5d4037;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    max-width: 600px;
+    width: 90%;
+}
+
+/* Form labels */
+label {
+    display: block;
+    font-size: 18px;
+    margin-top: 10px;
+    font-weight: bold;
+    color: #3e2723;
+}
+
+/* Input fields */
+input[type='text'] {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin-top: 5px;
+    border: 2px solid #8d6e63;
+    border-radius: 5px;
+    background-color: #fff3e0;
+    font-size: 16px;
+    color: #4e342e;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Form buttons */
+.form-btn, a button {
+    background-color: #6d4c41;
+    color: #ffffff;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: 2px solid #3e2723;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s ease;
+    font-family: 'Cinzel', serif;
+    display: block;
+    margin: 10px auto;
+    text-decoration: none;
+}
+
+/* Button hover effects */
+.form-btn:hover, a button:hover {
+    background-color: #5d4037;
+    transform: scale(1.05);
 }

@@ -1,0 +1,65 @@
+/* DnD-Themed Results Page */
+
+body {
+    background-image: url('https://www.transparenttextures.com/patterns/old-paper.png');
+    background-color: #f4e7c5;
+    font-family: 'Cinzel', serif;
+    color: #3e2723;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+    width: 80%;
+    max-width: 900px;
+}
+
+.scroll {
+    background: rgba(255, 239, 196, 0.95);
+    padding: 20px;
+    border: 10px solid #5d4037;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5);
+    text-align: left;
+}
+
+h1 {
+    font-size: 36px;
+    text-align: center;
+    text-transform: uppercase;
+    border-bottom: 3px solid #6d4c41;
+    padding-bottom: 10px;
+}
+
+.story-content {
+    white-space: pre-wrap;
+    font-size: 18px;
+    line-height: 1.6;
+    background: rgba(255, 255, 255, 0.6);
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: inset 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.return-btn {
+    background-color: #6d4c41;
+    color: white;
+    font-size: 18px;
+    padding: 10px 20px;
+    border: 2px solid #3e2723;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s ease;
+    display: block;
+    margin: 20px auto;
+}
+
+.return-btn:hover {
+    background-color: #5d4037;
+    transform: scale(1.05);
+}

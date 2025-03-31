@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/creation.css') }}">
+
+    <title>Character Creation</title>
+</head>
+<body>
+    <div class="flex-container">
+        <h1>Character Creation</h1>
+        <p>Forge the destiny of a new adventurer</p>
+
+        <form action="/character_creation" method="POST">
+            <label for="person_name">Character Name:</label>
+            <input type="text" id="person_name" name="person_name" placeholder="Enter a legendary name">
+            
+            <label for="person_home">Homeland:</label>
+            <input type="text" id="person_home" name="person_home" placeholder="Enter the homeland">
+        
+            <label for="profession">Class/Profession:</label>
+            <input type="text" id="profession" name="profession" placeholder="e.g., Rogue, Sorcerer">
+
+            <label for="faction">Guild or Faction:</label>
+            <input type="text" id="faction" name="faction" placeholder="Enter the faction name">
+
+            <label for="relationships">Allies & Rivals:</label>
+            <input type="text" id="relationships" name="relationships" placeholder="Enter known allies and enemies">
+
+            <label for="additional_info">Backstory & Traits:</label>
+            <input type="text" id="additional_info" name="additional_info" placeholder="Describe the character's lore">
+
+            <button type="submit">Forge Character</button>
+        </form>    
+
+        <a href="{{url_for('home')}}">
+            <button>Return to Town</button>
+        </a>
+    </div>
+</body>
+</html>
