@@ -8,11 +8,44 @@ class ChromaRAG():
         self.template_path = template_path
         self.model_name = model_name
 
+        self.chroma = chromadb.PersistentClient(path=doc_path)
         self.collection = chroma.get_or_create_collection(name = collection_path)
         add_to_collection(self.collection, doc_path)
 
-   # def 
+    def generate_character(self, prompt_dict):
+        """Dictionary contains:
+                person_name
+                person_home
+                profession
+                faction
+                relationships
+                additional_info
+        """
+        prompt = "Generate a character "
+        if prompt_dict['person_name']:
+            prompt += "named " + prompt_dict['person_name'] + " "
 
+        if prompt_dict['person_home']:
+            prompt += "from " + prompt_dict['person_home'] + " "
+
+        if prompt_dict['profession']:
+            prompt += "who is a " + prompt_dict['profession'] + " "
+
+        if prompt_dict['faction']:
+            prompt += "and is a part of " + prompt_dict['faction'] + " "
+
+        if prompt_dict['relationships']:
+            prompt += "\nIn addition the character knows of:\n" + prompt_dict['relationships']
+
+        if prompt_dict['additional_info']:
+            prompt += "\nThe character also:\n" + prompt_dict['additional_info']
+
+        prompt = format_character_prompt(prompt)
+
+        return ollama.generate(self.model_name, prompt)['response']
+
+
+        
 
 
 def add_to_collection(collection, path):
@@ -52,7 +85,54 @@ def context_to_string(documents, ids):
         res += "\"\"\"\n\n"
     return res
 
-def generate_prompt(collection, input_prompt, template = None):
+def format_character_prompt(in_prompt):
+    return """###Task:
+
+    Generate a character for a fantasy world described by the given context under the conditions provided by the user in query with an output formatted the same way as the Template
+
+###Guidelines: 
+
+    Connect the generated content to the given context if possible
+
+    Keep content to a generic fantasy style
+
+###Template:
+
+\"\"\"
+Name
+---
+[Name of the character]
+
+Description
+---
+[Brief overview of the character]
+
+Skills
+---
+[Things the character is good or bad at]
+
+Personality
+---
+[The personality of the character]
+
+Backstory
+---
+[A backstory of where the character comes from]
+
+Relationships
+---
+[Relationships with other characters and factions in the world]
+
+\"\"\"
+
+###Query
+
+""" + in_prompt 
+
+def generate_prompt(collection, input_prompt, context = None, template = None):
+    """
+        Context: collection query result
+    """
     prompt = """###Task: 
 
     Respond to the user query using the provided context, incorporating inline citations in the format [name_of_source] where name_of_source is the title of the source the citation is from. 
@@ -78,14 +158,11 @@ def generate_prompt(collection, input_prompt, template = None):
     If the user asks about a specific topic and the information is found in \"whitepaper.pdf\" with a provided , the response should include the citation like so:  
 
     \"According to the study, the proposed method increases efficiency by 20% [whitepaper.pdf].\" If no context is present, the response should omit the citation. 
-
-###Output: 
-
-    Provide a clear and direct response to the user's query, including inline citations in the format [source_id] only when the tag is present in the context. 
-
-
 """
-    collection_results = collection.query(query_texts=[input_prompt], n_results = 3)
+
+    if not context:
+        collection_results = collection.query(query_texts=[input_prompt], n_results = 3)
+    
     context = context_to_string(collection_results["documents"][0], collection_results["ids"][0])
     if template:
         template_prompt = "###Template\n\nFormat your response using the following template\n\n"
@@ -119,11 +196,11 @@ TEMPLATE_PATH = "./templates"
 DOC_PATH = "./test_docs"
 COLLECTION_NAME = "test_collection"
 
-chroma = chromadb.PersistentClient(path=DOC_PATH)
-
-collection = chroma.get_or_create_collection(name=COLLECTION_NAME)
-
-add_to_collection(collection, DOC_PATH)
+#chroma = chromadb.PersistentClient(path=DOC_PATH)
+#
+#collection = chroma.get_or_create_collection(name=COLLECTION_NAME)
+#
+#add_to_collection(collection, DOC_PATH)
 
 
 
