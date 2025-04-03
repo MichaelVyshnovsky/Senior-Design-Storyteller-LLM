@@ -2,6 +2,7 @@ import chromadb
 import os
 import ollama
 import json
+from html.parser import HTMLParser
 
 class ChromaRAG():
     def __init__(self, doc_path="./docs", collection_path="./collection", model_name="deepseek-r1:7b"):
