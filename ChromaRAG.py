@@ -23,11 +23,17 @@ class ChromaRAG():
                 # Explore all files and add .md and .txt files to the collection and are new or have been modified
                 if (files[-3:] == ".md" or files[-4:] == ".txt") and time_dict.get(path+files, None) != os.stat(path+files).st_mtime:
                     # Add the file to the collection
-                    print(time_dict.get(path+files, None))
                     ids.append(files)
                     docs.append(open(path + files, "r").read())
                     time_dict[path+files] = os.stat(path+files).st_mtime # Save last modified time to time dict
                 
+                if files[-5:] == ".html" and time_dict.get(path+files, None) != os.stat(path+files).st_mtime:
+                    ids.append(files)
+                    html_parse = html_ripper()
+                    html_parse.feed(open(path + files, "r").read())
+                    docs.append(html_parse.get_data())
+                    time_dict[path+files] = os.stat(path+files).st_mtime
+
                 # Use recursion to explore every subfolder
                 if os.path.isdir(path+files):
                     sub_docs, sub_ids, time_dict = _add_to_collection(path + files + "/", time_dict)
@@ -145,7 +151,16 @@ class ChromaRAG():
 
         return ollama.generate(self.model_name, prompt)['response']
 
+class html_ripper(HTMLParser):
+    def __init__(self):
+        super().__init__()
+        self.data = ""
 
+    def handle_data(self, data):
+        self.data += data
+
+    def get_data(self):
+        return self.data
         
 
 
