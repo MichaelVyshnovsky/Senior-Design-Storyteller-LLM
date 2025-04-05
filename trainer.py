@@ -9,6 +9,18 @@ os.environ["CUDA_VISIBLE_DEVICES"] = ""  # hides GPUs from PyTorch
 model = "Qwen/Qwen2.5-Math-7B"
 data_dir = "./SDdata"
 
+# Flatten nested dictionary fields into strings
+def flatten(doc):
+    lines = []
+    for key, value in doc.items():
+        if isinstance(value, str):
+            lines.append(f"{key}: {value}")
+        elif isinstance(value, dict):
+            for subkey, subvalue in value.items():
+                if isinstance(subvalue, str):
+                    lines.append(f"{key} - {subkey}: {subvalue}")
+    return "\n".join(lines)
+
 def load_json_files(data_dir):
     data = []
     for root, _, files in os.walk(data_dir):
@@ -17,10 +29,10 @@ def load_json_files(data_dir):
                 with open(os.path.join(root, file_name), "r", encoding="utf-8") as f:
                     content = json.load(f)
                     doc = content.get("document_data", {})
-                    input_text = "\n".join([f"{key}: {value}" for key, value in doc.items() if isinstance(value, str)])
+                    input_text = flatten(doc)  # Using the flatten function here
                     data.append({
-                        "input": input_text + "\nDescription:",
-                        "output": doc.get("mainbody", "")
+                        "input": input_text + "\nDescription:",  # Input to the model
+                        "output": doc.get("mainbody", "")  # Output for the model (e.g., mainbody)
                     })
     return data
 
@@ -44,7 +56,6 @@ def tokenize_function(examples):
     )
     model_inputs["labels"] = labels["input_ids"]
     return model_inputs
-
 
 tokenized_datasets = dataset.map(tokenize_function, batched=True, batch_size=4, num_proc=1)
 
@@ -70,7 +81,7 @@ trainer = Trainer(
     args=training_args,
     train_dataset=tokenized_datasets,
     data_collator=data_collator,
-    processing_class=tokenizer  # Updated deprecated field
+    tokenizer=tokenizer  # Fix the deprecated field
 )
 
 trainer.train()
