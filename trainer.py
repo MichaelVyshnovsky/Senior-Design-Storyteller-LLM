@@ -73,3 +73,5 @@ trainer = Trainer(
 )
 
 trainer.train()
+trainer.save_model("./results")
+tokenizer.save_pretrained("./results")
