@@ -6,11 +6,12 @@ from transformers import AutoTokenizer, AutoModelForCausalLM, TrainingArguments,
 
 os.environ["CUDA_VISIBLE_DEVICES"] = ""  # hides GPUs from PyTorch
 
-data_dir = "./SDdata/Dungeon"  # Change this to your dataset directory
+model = "Qwen/Qwen2.5-Math-7B"
+data_dir = "./SDdata"
 
 def load_json_files(data_dir):
     data = []
-    for root, _, files in os.walk(data_dir):  # Walk through subdirectories
+    for root, _, files in os.walk(data_dir):
         for file_name in files:
             if file_name.endswith(".json"):
                 with open(os.path.join(root, file_name), "r", encoding="utf-8") as f:
@@ -26,7 +27,7 @@ def load_json_files(data_dir):
 data = load_json_files(data_dir)
 dataset = Dataset.from_list(data)
 
-tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2.5-Math-1.5B", use_fast=True)
+tokenizer = AutoTokenizer.from_pretrained(model, use_fast=True)
 
 def tokenize_function(examples):
     model_inputs = tokenizer(
@@ -47,9 +48,9 @@ def tokenize_function(examples):
 
 tokenized_datasets = dataset.map(tokenize_function, batched=True, batch_size=4, num_proc=1)
 
-data_collator = DataCollatorForSeq2Seq(tokenizer=tokenizer, model="Qwen/Qwen2.5-Math-1.5B")
+data_collator = DataCollatorForSeq2Seq(tokenizer=tokenizer, model=model)
 
-model = AutoModelForCausalLM.from_pretrained("Qwen/Qwen2.5-Math-1.5B", device_map="cpu")
+model = AutoModelForCausalLM.from_pretrained(model, device_map="cpu")
 
 torch.cuda.empty_cache()  # Clears GPU memory
 training_args = TrainingArguments(
