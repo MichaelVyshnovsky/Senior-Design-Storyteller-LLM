@@ -21,7 +21,7 @@ def load_json_files(data_dir):
                         "input": input_text + "\nDescription:",
                         "output": doc.get("mainbody", "")
                     })
-    return datac
+    return data
 
 data = load_json_files(data_dir)
 dataset = Dataset.from_list(data)
