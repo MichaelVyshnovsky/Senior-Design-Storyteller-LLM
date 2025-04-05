@@ -4,7 +4,7 @@ import torch
 from datasets import Dataset, load_dataset
 from transformers import AutoTokenizer, AutoModelForCausalLM, TrainingArguments, Trainer, DataCollatorForSeq2Seq
 
-os.environ["CUDA_VISIBLE_DEVICES"] = ""  # hides GPUs from PyTorch
+os.environ["CUDA_VISIBLE_DEVICES"] = ""  # hides GPUs from PyTorch 
 
 model = "Qwen/Qwen2.5-Math-7B"
 data_dir = "./SDdata"
