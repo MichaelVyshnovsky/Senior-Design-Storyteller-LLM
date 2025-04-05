@@ -4,6 +4,8 @@ import torch
 from datasets import Dataset, load_dataset
 from transformers import AutoTokenizer, AutoModelForCausalLM, TrainingArguments, Trainer, DataCollatorForSeq2Seq
 
+os.environ["CUDA_VISIBLE_DEVICES"] = ""  # hides GPUs from PyTorch
+
 data_dir = "./SDdata/Dungeon"  # Change this to your dataset directory
 
 def load_json_files(data_dir):
@@ -19,12 +21,12 @@ def load_json_files(data_dir):
                         "input": input_text + "\nDescription:",
                         "output": doc.get("mainbody", "")
                     })
-    return data
+    return datac
 
 data = load_json_files(data_dir)
 dataset = Dataset.from_list(data)
 
-tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2.5-Math-1.5B")
+tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2.5-Math-1.5B", use_fast=True)
 
 def tokenize_function(examples):
     model_inputs = tokenizer(
@@ -47,7 +49,7 @@ tokenized_datasets = dataset.map(tokenize_function, batched=True, batch_size=4, 
 
 data_collator = DataCollatorForSeq2Seq(tokenizer=tokenizer, model="Qwen/Qwen2.5-Math-1.5B")
 
-model = AutoModelForCausalLM.from_pretrained("Qwen/Qwen2.5-Math-1.5B")
+model = AutoModelForCausalLM.from_pretrained("Qwen/Qwen2.5-Math-1.5B", device_map="cpu")
 
 torch.cuda.empty_cache()  # Clears GPU memory
 training_args = TrainingArguments(
@@ -59,7 +61,7 @@ training_args = TrainingArguments(
     num_train_epochs=3,
     weight_decay=0.01,
     save_strategy="epoch",
-    fp16=True  # Enables mixed precision to save GPU memory
+    fp16=False  # Enables mixed precision to save GPU memory
 )
 
 trainer = Trainer(
