@@ -2,14 +2,15 @@ import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
 
 # Load your trained model and tokenizer
-model_path = "./results"  # Path where you saved your trained model
+model_path = "./results"
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 model = AutoModelForCausalLM.from_pretrained(model_path)
 
-# Set the model to evaluation mode
-model.eval()
+# Verify model loading
+print("Model loaded successfully")
+print(f"Model device: {next(model.parameters()).device}")  # Should show 'cpu' or 'cuda'
 
-# Sample input data (formatted similarly to your training data)
+# Sample input data
 sample_input = {
     "image": "NewLevel.jpg",
     "name": "New Level",
@@ -19,7 +20,7 @@ sample_input = {
     "denizens": "[[Drow]], [[gargoyle]]s"
 }
 
-# Flatten the input (using the same function from your training script)
+# Flatten function (must match training)
 def flatten(doc):
     lines = []
     for key, value in doc.items():
@@ -31,26 +32,44 @@ def flatten(doc):
                     lines.append(f"{key} - {subkey}: {subvalue}")
     return "\n".join(lines)
 
+# Prepare input text
 input_text = flatten(sample_input) + "\nDescription:"
+print("\nInput text:")
+print(input_text)
 
-# Tokenize the input
+# Tokenize
 inputs = tokenizer(input_text, return_tensors="pt", max_length=512, truncation=True)
+print("\nInput tokens shape:", inputs["input_ids"].shape)
 
-# Generate output
+# Generation parameters
+gen_config = {
+    "max_length": 512,
+    "min_length": 20,  # Ensure at least some output
+    "num_beams": 5,
+    "early_stopping": True,
+    "no_repeat_ngram_size": 2,
+    "temperature": 0.7,
+    "do_sample": True  # More creative output
+}
+
+# Generate
 with torch.no_grad():
-    outputs = model.generate(
-        input_ids=inputs["input_ids"],
-        attention_mask=inputs["attention_mask"],
-        max_length=512,  # Same as during training
-        num_beams=5,  # Beam search for better quality
-        early_stopping=True
-    )
+    try:
+        outputs = model.generate(
+            input_ids=inputs["input_ids"],
+            attention_mask=inputs["attention_mask"],
+            **gen_config
+        )
+        print("\nGeneration successful!")
+    except Exception as e:
+        print(f"\nGeneration failed: {str(e)}")
+        exit()
 
-# Decode the generated text
-generated_text = tokenizer.decode(outputs[0], skip_special_tokens=True)
+# Decode
+full_output = tokenizer.decode(outputs[0], skip_special_tokens=True)
+generated_part = full_output[len(input_text):].strip()
 
-# The output will include both input and generation, so we'll split to get just the new part
-generated_part = generated_text[len(input_text):].strip()
-
-print("Generated Description:")
+print("\nFull output:")
+print(full_output)
+print("\nGenerated part only:")
 print(generated_part)
