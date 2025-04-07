@@ -7,7 +7,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM, TrainingArguments,
 os.environ["CUDA_VISIBLE_DEVICES"] = ""  # hides GPUs from PyTorch 
 
 model = "Qwen/Qwen2.5-Math-7B"
-data_dir = "./SDdata"
+data_dir = "./SDdata/Dungeon"
 
 # Flatten nested dictionary fields into strings
 def flatten(doc):
