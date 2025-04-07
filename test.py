@@ -37,7 +37,7 @@ while True:
         attention_mask=inputs.attention_mask,  # Pass the attention mask
         max_new_tokens=150,
         do_sample=True,
-        temperature=0.7,
+        temperature=0.1,
         top_p=0.9,
         pad_token_id=tokenizer.pad_token_id  # Explicitly set pad token
     )
