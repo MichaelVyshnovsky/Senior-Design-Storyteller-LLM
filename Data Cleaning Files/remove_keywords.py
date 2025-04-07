@@ -59,13 +59,13 @@ def process_file(file_path: str, patterns_dict: Dict[str, Union[str, re.Pattern]
 
 if __name__ == "__main__":
     # Configuration - modify these values
-    FOLDER_TO_PROCESS = r""
+    FOLDER_TO_PROCESS = r"C:\Users\micha\Documents\School\Senior\Spring\CSE 4940 Senior Design\SeniorDesign Codebase\SDdata\Dungeon"
     
     # Dictionary of patterns to remove and their replacements
     # Keys can be either plain strings or regex patterns
     PATTERNS_TO_REMOVE = {
     r'<ref name=".*?">': "",
-    r'<ref name="*?">': "", # Remove all reference tags
+    r'<ref name="*?">': "",  # Remove all reference tags
     r'</ref>': "",
     r'<ref name=".*?"/>': "",
     r'<ref name=".*?" />': "",
@@ -73,7 +73,12 @@ if __name__ == "__main__":
     '</small>': "",
     r'{{Cite book/.*?}}': "",
     r'{{Cite game/.*?}}': "",
-    r'{{Cite Game/.*?}}': ""          
+    r'{{Cite Game/.*?}}': "",
+    r'\[\[': "",  # Fixed - escape square brackets
+    r'\]\]': "",  # Fixed - escape square brackets
+    r"'''": "",   # Easier to read with triple quotes
+    r"''": "",    # Easier to read with triple quotes
+    r"'": ""      # Single quote
 }
     
     # File extensions to process

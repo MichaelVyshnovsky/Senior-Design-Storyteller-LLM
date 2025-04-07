@@ -28,7 +28,7 @@ def delete_bak_files(folder_path: str):
 
 if __name__ == "__main__":
     # Configuration - modify this value
-    FOLDER_TO_PROCESS = r""
+    FOLDER_TO_PROCESS = r"C:\Users\micha\Documents\School\Senior\Spring\CSE 4940 Senior Design\SeniorDesign Codebase\SDdata\Dungeon"
     
     # Ask for confirmation before deleting
     confirm = input(f"WARNING: This will permanently delete all .bak files in {FOLDER_TO_PROCESS} and its subfolders.\n"
