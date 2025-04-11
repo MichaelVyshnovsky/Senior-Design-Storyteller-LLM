@@ -26,6 +26,43 @@ print(f"Available GPUs: {device_count}")
 print(f"CUDA version: {torch.version.cuda}")
 print(f"PyTorch version: {torch.__version__}")
 
+def format_example(doc):
+    # Extract and flatten the document data
+    input_parts = []
+    
+    # Add basic fields
+    basic_fields = ["name", "level of", "level number", "location", "mainbody"]
+    for field in basic_fields:
+        if doc.get(field):
+            input_parts.append(f"{field}: {doc[field]}")
+    
+    # Add nested Geography fields
+    if doc.get("Geography"):
+        geo = doc["Geography"]
+        input_parts.append("\nGeography:")
+        if geo.get("Rooms"):
+            input_parts.append("Rooms:")
+            for room, desc in geo["Rooms"].items():
+                input_parts.append(f"- {room}: {desc}")
+        if geo.get("Traffic"):
+            input_parts.append(f"Traffic: {geo['Traffic']}")
+    
+    # Add Inhabitants
+    if doc.get("Inhabitants"):
+        input_parts.append("\nInhabitants:")
+        for group, desc in doc["Inhabitants"].items():
+            input_parts.append(f"- {group}: {desc}")
+    
+    # Combine all input parts
+    input_text = "\n".join(input_parts)
+    
+    # Create the final example
+    return {
+        "input": input_text,
+        "output": doc.get("mainbody", ""),  # Using mainbody as target output
+        "full_text": input_text + "\n\n" + doc.get("mainbody", "")  # For causal LM training
+    }
+
 # Flatten nested dictionary fields into strings
 def flatten(doc):
     lines = []
@@ -63,20 +100,31 @@ if tokenizer.pad_token is None:
     tokenizer.pad_token = tokenizer.eos_token
 
 def tokenize_function(examples):
-    model_inputs = tokenizer(
+    # Tokenize the full text for causal language modeling
+    tokenized = tokenizer(
+        examples["full_text"],
+        padding="max_length",
+        truncation=True,
+        max_length=512,
+        return_tensors="pt"
+    )
+    
+    # Calculate where the input ends and output begins
+    input_tokenized = tokenizer(
         examples["input"],
         padding="max_length",
         truncation=True,
-        max_length=512
+        max_length=512,
+        return_tensors="pt"
     )
-    labels = tokenizer(
-        examples["output"],
-        padding="max_length",
-        truncation=True,
-        max_length=512
-    )
-    model_inputs["labels"] = labels["input_ids"]
-    return model_inputs
+    
+    # Create labels (mask input portion with -100)
+    input_length = len(input_tokenized["input_ids"][0])
+    labels = tokenized["input_ids"].clone()
+    labels[:, :input_length] = -100
+    
+    tokenized["labels"] = labels
+    return tokenized
 
 # Parallelize dataset processing
 tokenized_datasets = dataset.map(
@@ -128,9 +176,10 @@ training_args = TrainingArguments(
     dataloader_pin_memory=True,
     gradient_checkpointing=True,
     optim="adamw_torch_fused",
-    report_to="none",  # Disabled TensorBoard to avoid requirement
+    report_to="none",
     ddp_find_unused_parameters=False,
     local_rank=int(os.environ.get("LOCAL_RANK", -1)),
+    remove_unused_columns=False,  # Add this line
 )
 
 # Initialize Trainer with updated parameters
