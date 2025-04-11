@@ -96,7 +96,7 @@ data_collator = DataCollatorForSeq2Seq(
 model = AutoModelForCausalLM.from_pretrained(
     model_name,
     device_map="auto",
-    torch_dtype=torch.float16,  # Using float16 instead of bfloat16 for wider compatibility
+    torch_dtype=torch.float16,
 )
 
 # Enable gradient checkpointing to save memory
@@ -109,7 +109,7 @@ print(f"TF32 supported: {tf32_supported}")
 # Training arguments optimized for multi-GPU
 training_args = TrainingArguments(
     output_dir="./results",
-    eval_strategy="steps",  # Updated parameter name
+    eval_strategy="steps",
     eval_steps=500,
     learning_rate=2e-5,
     per_device_train_batch_size=2,
@@ -120,9 +120,9 @@ training_args = TrainingArguments(
     save_strategy="steps",
     save_steps=1000,
     logging_steps=100,
-    fp16=True,  # Mixed precision training
-    bf16=False,  # Disabled by default
-    tf32=tf32_supported,  # Only enable if supported
+    fp16=True,
+    bf16=False,
+    tf32=tf32_supported,
     dataloader_num_workers=4,
     dataloader_pin_memory=True,
     gradient_checkpointing=True,
@@ -137,9 +137,9 @@ trainer = Trainer(
     model=model,
     args=training_args,
     train_dataset=tokenized_datasets,
-    eval_dataset=tokenized_datasets.select(range(min(100, len(tokenized_datasets)))),  # Ensure we don't exceed dataset size
+    eval_dataset=tokenized_datasets.select(range(min(100, len(tokenized_datasets)))),
     data_collator=data_collator,
-    tokenizer=tokenizer
+    tokenizer=tokenizer  # Keep this as is for now (the warning is non-critical)
 )
 
 # Train and save
