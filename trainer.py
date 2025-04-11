@@ -59,7 +59,8 @@ dataset = Dataset.from_list(data)
 
 # Initialize tokenizer
 tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=True)
-tokenizer.pad_token = tokenizer.eos_token  # Set pad token
+if tokenizer.pad_token is None:
+    tokenizer.pad_token = tokenizer.eos_token
 
 def tokenize_function(examples):
     model_inputs = tokenizer(
@@ -96,20 +97,20 @@ data_collator = DataCollatorForSeq2Seq(
 model = AutoModelForCausalLM.from_pretrained(
     model_name,
     device_map="auto",
-    torch_dtype=torch.float16,  # Using float16 instead of bfloat16 for wider compatibility
+    torch_dtype=torch.float16,
 )
 
 # Enable gradient checkpointing to save memory
 model.gradient_checkpointing_enable()
 
-# Check if tf32 is supported (only enable if available)
+# Check if tf32 is supported
 tf32_supported = torch.cuda.is_available() and torch.cuda.get_device_capability()[0] >= 8
 print(f"TF32 supported: {tf32_supported}")
 
 # Training arguments optimized for multi-GPU
 training_args = TrainingArguments(
     output_dir="./results",
-    eval_strategy="steps",  # Updated parameter name
+    eval_strategy="steps",
     eval_steps=500,
     learning_rate=2e-5,
     per_device_train_batch_size=2,
@@ -120,26 +121,26 @@ training_args = TrainingArguments(
     save_strategy="steps",
     save_steps=1000,
     logging_steps=100,
-    fp16=True,  # Mixed precision training
-    bf16=False,  # Disabled by default
-    tf32=tf32_supported,  # Only enable if supported
+    fp16=True,
+    bf16=False,
+    tf32=tf32_supported,
     dataloader_num_workers=4,
     dataloader_pin_memory=True,
     gradient_checkpointing=True,
     optim="adamw_torch_fused",
-    report_to="tensorboard",
+    report_to="none",  # Disabled TensorBoard to avoid requirement
     ddp_find_unused_parameters=False,
     local_rank=int(os.environ.get("LOCAL_RANK", -1)),
 )
 
-# Initialize Trainer
+# Initialize Trainer with updated parameters
 trainer = Trainer(
     model=model,
     args=training_args,
     train_dataset=tokenized_datasets,
-    eval_dataset=tokenized_datasets.select(range(min(100, len(tokenized_datasets)))),  # Ensure we don't exceed dataset size
+    eval_dataset=tokenized_datasets.select(range(min(100, len(tokenized_datasets)))),
     data_collator=data_collator,
-    tokenizer=tokenizer
+    # No longer passing tokenizer directly as it's deprecated
 )
 
 # Train and save
