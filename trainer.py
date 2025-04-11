@@ -15,7 +15,7 @@ from transformers import (
 set_seed(42)
 
 model_name = "Qwen/Qwen2.5-Math-7B"
-data_dir = "./data/"
+data_dir = "./SDdata/"
 
 # Enable multi-GPU training
 os.environ["CUDA_VISIBLE_DEVICES"] = "0,1,2,3"  # Specify which GPUs to use
