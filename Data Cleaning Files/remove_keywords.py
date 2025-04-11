@@ -15,6 +15,7 @@ def remove_substrings_from_files(folder_path: str,
                       Keys can be either plain strings or compiled regex patterns
         file_extensions: List of file extensions to process (default: ['.txt'])
     """
+    print('test')
     for root, dirs, files in os.walk(folder_path):
         for file in files:
             if any(file.lower().endswith(ext) for ext in file_extensions):
@@ -29,6 +30,7 @@ def process_file(file_path: str, patterns_dict: Dict[str, Union[str, re.Pattern]
         file_path: Path to the file to process
         patterns_dict: Dictionary of patterns and their replacements
     """
+    print('test')
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             content = f.read()
@@ -59,8 +61,8 @@ def process_file(file_path: str, patterns_dict: Dict[str, Union[str, re.Pattern]
 
 if __name__ == "__main__":
     # Configuration - modify these values
-    FOLDER_TO_PROCESS = r"C:\Users\micha\Documents\School\Senior\Spring\CSE 4940 Senior Design\SeniorDesign Codebase\SDdata\Dungeon"
-    
+    FOLDER_TO_PROCESS = r"C:\Users\micha\Documents\School\Senior\Spring\CSE 4940 Senior Design\SeniorDesign Codebase\SDdata"
+    print(FOLDER_TO_PROCESS)
     # Dictionary of patterns to remove and their replacements
     # Keys can be either plain strings or regex patterns
     PATTERNS_TO_REMOVE = {
@@ -69,16 +71,21 @@ if __name__ == "__main__":
     r'</ref>': "",
     r'<ref name=".*?"/>': "",
     r'<ref name=".*?" />': "",
+    r'{{DEFAULTSORT:.*?}}': "",
+    r'{{Otheruses4.*?}}': "",
     '<small>': "",
     '</small>': "",
     r'{{Cite book/.*?}}': "",
     r'{{Cite game/.*?}}': "",
     r'{{Cite Game/.*?}}': "",
-    r'\[\[': "",  # Fixed - escape square brackets
-    r'\]\]': "",  # Fixed - escape square brackets
-    r"'''": "",   # Easier to read with triple quotes
-    r"''": "",    # Easier to read with triple quotes
-    r"'": ""      # Single quote
+    '[[': "",  
+    ']]': "",  
+    "'''": "",   
+    "''": "",    
+    "'": "",
+    '{': "",
+    '}': "",
+    '<br />': ""
 }
     
     # File extensions to process
