@@ -1,7 +1,7 @@
 import json
 import os
 import torch
-from datasets import Dataset, load_dataset
+from datasets import Dataset
 from transformers import (
     AutoTokenizer, 
     AutoModelForCausalLM, 
@@ -15,13 +15,16 @@ from transformers import (
 set_seed(42)
 
 model_name = "Qwen/Qwen2.5-Math-7B"
-data_dir = "./SDdata/"
+data_dir = "./data/"
 
-# Enable multi-GPU training
+# Configure GPU settings
 os.environ["CUDA_VISIBLE_DEVICES"] = "0,1,2,3"  # Specify which GPUs to use
-torch.backends.cuda.matmul.allow_tf32 = True  # Enable tf32 for matrix multiplications
 device_count = torch.cuda.device_count()
 print(f"Available GPUs: {device_count}")
+
+# Check CUDA and torch compatibility
+print(f"CUDA version: {torch.version.cuda}")
+print(f"PyTorch version: {torch.__version__}")
 
 # Flatten nested dictionary fields into strings
 def flatten(doc):
@@ -50,6 +53,7 @@ def load_json_files(data_dir):
                     })
     return data
 
+# Load and prepare data
 data = load_json_files(data_dir)
 dataset = Dataset.from_list(data)
 
@@ -77,8 +81,8 @@ def tokenize_function(examples):
 tokenized_datasets = dataset.map(
     tokenize_function, 
     batched=True, 
-    batch_size=8,  # Increased batch size for better GPU utilization
-    num_proc=os.cpu_count()  # Use all available CPU cores
+    batch_size=8,
+    num_proc=os.cpu_count()
 )
 
 data_collator = DataCollatorForSeq2Seq(
@@ -88,43 +92,44 @@ data_collator = DataCollatorForSeq2Seq(
     return_tensors="pt"
 )
 
-# Load model with device_map="auto" for automatic multi-GPU distribution
+# Load model with automatic multi-GPU distribution
 model = AutoModelForCausalLM.from_pretrained(
     model_name,
-    device_map="auto",  # Automatically distributes across available GPUs
-    torch_dtype=torch.bfloat16,  # Uses bfloat16 for better memory efficiency
-    # low_cpu_mem_usage=True,
-    # attn_implementation="flash_attention_2"  # If available
+    device_map="auto",
+    torch_dtype=torch.float16,  # Using float16 instead of bfloat16 for wider compatibility
 )
 
 # Enable gradient checkpointing to save memory
 model.gradient_checkpointing_enable()
 
+# Check if tf32 is supported (only enable if available)
+tf32_supported = torch.cuda.is_available() and torch.cuda.get_device_capability()[0] >= 8
+print(f"TF32 supported: {tf32_supported}")
+
 # Training arguments optimized for multi-GPU
 training_args = TrainingArguments(
     output_dir="./results",
-    evaluation_strategy="steps",
+    eval_strategy="steps",  # Updated parameter name
     eval_steps=500,
     learning_rate=2e-5,
-    per_device_train_batch_size=2,  # Batch size per GPU
+    per_device_train_batch_size=2,
     per_device_eval_batch_size=2,
-    gradient_accumulation_steps=4,  # Accumulates gradients before optimization step
+    gradient_accumulation_steps=4,
     num_train_epochs=3,
     weight_decay=0.01,
     save_strategy="steps",
     save_steps=1000,
     logging_steps=100,
     fp16=True,  # Mixed precision training
-    bf16=False,  # Use if your GPUs support bfloat16
-    tf32=True,  # Use if your GPUs support tf32
-    dataloader_num_workers=4,  # Parallel data loading
-    dataloader_pin_memory=True,  # Faster data transfer to GPU
+    bf16=False,  # Disabled by default
+    tf32=tf32_supported,  # Only enable if supported
+    dataloader_num_workers=4,
+    dataloader_pin_memory=True,
     gradient_checkpointing=True,
-    optim="adamw_torch_fused",  # Fused optimizer for better performance
+    optim="adamw_torch_fused",
     report_to="tensorboard",
-    ddp_find_unused_parameters=False,  # For distributed training
-    deepspeed=None,  # Can specify deepspeed config file if using DeepSpeed
-    local_rank=int(os.environ.get("LOCAL_RANK", -1)),  # For distributed training
+    ddp_find_unused_parameters=False,
+    local_rank=int(os.environ.get("LOCAL_RANK", -1)),
 )
 
 # Initialize Trainer
@@ -132,12 +137,13 @@ trainer = Trainer(
     model=model,
     args=training_args,
     train_dataset=tokenized_datasets,
-    eval_dataset=tokenized_datasets.select(range(100)),  # Small subset for evaluation
+    eval_dataset=tokenized_datasets.select(range(min(100, len(tokenized_datasets)))),  # Ensure we don't exceed dataset size
     data_collator=data_collator,
     tokenizer=tokenizer
 )
 
 # Train and save
+print("Starting training...")
 trainer.train()
 trainer.save_model("./results")
 tokenizer.save_pretrained("./results")
