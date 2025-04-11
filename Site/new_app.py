@@ -7,27 +7,34 @@ from ChromaRAG import ChromaRAG
 app = Flask(__name__)
 
 OLLAMA_URL = "http://localhost:11434/api/generate"  # Ensure Ollama is running
+GPU_URL = "http://137.99.227.35:11434"
 MODEL_NAME = "deepseek-r1:7b"
 WIKI_FILE = "data/ollama_wiki.html"
-docPath = "data/wiki_entries"
+docPath = "./data/wiki_entries"
 
-COLLECTION_NAME = "wiki_entries"  # Must follow ChromaDB rules
+COLLECTION_NAME = "./collection"  # Must follow ChromaDB rules
 Chroma = ChromaRAG(docPath, COLLECTION_NAME)
 
-def ask_deepseek(prompt):
+def ask_deepseek(prompt, use_gpu_server=False):
     """Sends the prompt to DeepSeek and returns a cleaned response."""
+    url = "http://137.99.227.35:11434/api/generate" if use_gpu_server else OLLAMA_URL
     payload = {"model": MODEL_NAME, "prompt": prompt, "stream": False}
-    response = requests.post(OLLAMA_URL, json=payload)
+    response = requests.post(url, json=payload)
 
     if response.status_code == 200:
-        return clean_response(response.json().get("response", "").strip())
+        raw = response.json().get("response", "").strip()
+        if "</think>" in raw:
+            raw = raw.split("</think>")[-1].strip()
+        return clean_response(raw)
 
     return f"Error: {response.status_code} - {response.text}"
+
 
 def clean_response(text):
     """Removes unwanted HTML tags while keeping essential formatting."""
     text = re.sub(r"<(?!p|br|strong|em|h\d)[^>]+>", "", text)  # Keeps <p>, <br>, etc.
     return text.strip()
+
 
 def character_creation_prompt(character_data):
     """Generates a structured prompt for AI to ensure clarity."""
@@ -116,6 +123,69 @@ def update_wiki(title, content, category):
     with open(index_path, "a", encoding="utf-8") as f:
         f.write(f'<li><a href="/wiki_entry/{filename}">{title} ({category})</a></li>\n')
 
+    return filename
+
+def update_location_wiki(place_name, content):
+    """Saves a location entry as its own HTML file with proper title and structure."""
+    wiki_dir = "data/wiki_entries/"
+    os.makedirs(wiki_dir, exist_ok=True)
+
+    # Generate a filename-safe version
+    filename = place_name.replace(" ", "_") + ".html"
+    file_path = os.path.join(wiki_dir, filename)
+
+    # Save the entry with the correct <title> and content
+    with open(file_path, "w", encoding="utf-8") as f:
+        f.write(f"""
+        <html>
+        <head><title>{place_name}</title></head>
+        <body>
+        <div class="wiki-container">
+            <h2>{place_name}</h2>
+            <h3>Town Overview</h3>
+            <div class="wiki-content">{content}</div>
+            <hr>
+            <a href="/wiki">Back to Wiki</a>
+        </div>
+        </body>
+        </html>
+        """)
+
+    # Update the main wiki index
+    index_path = "data/wiki_index.html"
+    with open(index_path, "a", encoding="utf-8") as f:
+        f.write(f'<li><a href="/wiki_entry/{filename}">{place_name} (Location)</a></li>\n')
+
+def update_campaign_wiki(campaign_title, content):
+    """Saves a campaign entry as its own HTML file and updates the wiki index."""
+    wiki_dir = "data/wiki_entries/"
+    os.makedirs(wiki_dir, exist_ok=True)
+
+    filename = campaign_title.replace(" ", "_") + ".html"
+    file_path = os.path.join(wiki_dir, filename)
+
+    with open(file_path, "w", encoding="utf-8") as f:
+        f.write(f"""
+        <html>
+        <head><title>{campaign_title}</title></head>
+        <body>
+        <div class="wiki-container">
+            <h2>{campaign_title}</h2>
+            <h3>Campaign Overview</h3>
+            <div class="wiki-content">{content}</div>
+            <hr>
+            <a href="/wiki">Back to Wiki</a>
+        </div>
+        </body>
+        </html>
+        """)
+
+    index_path = "data/wiki_index.html"
+    with open(index_path, "a", encoding="utf-8") as f:
+        f.write(f'<li><a href="/wiki_entry/{filename}">{campaign_title} (Campaign)</a></li>\n')
+
+
+
 
 def reset_wiki():
     """Creates an empty wiki file if it doesn't exist"""
@@ -130,24 +200,45 @@ def home():
 def character_creation():
     if request.method == 'POST':
         character_data = request.form.to_dict()
-        generated_character = Chroma.generate_character(character_data)
-        update_wiki(character_data.get("person_name", "Unnamed Character"), generated_character, "Character")
+        #use_gpu = character_data.get("ollama_source") == "gpu"
+        #prompt = character_creation_prompt(character_data)
+        #generated_character = ask_deepseek(prompt, use_gpu_server=use_gpu)
+        if character_data.get("ollama_source") == "gpu":
+            url = GPU_URL
+        else:
+            url = None
+        generated_character = Chroma.generate_character(character_data, url)
+        filename = update_wiki(character_data.get("person_name", "Unnamed Character"), generated_character, "Character")
+        Chroma.add_note_to_RAG("./data/wiki_entries/"+filename)
         return redirect('/wiki')
     return render_template('person_form.html', custom_style='css/creation.css')
 
 @app.route('/town_creation', methods=['GET', 'POST'])
 def town_creation():
     if request.method == 'POST':
-        town_data = request.form.to_dict()
-        prompt = town_creation_prompt(town_data)
-        generated_town = ask_deepseek(prompt)
-
-        # Update the wiki with this town entry
-        update_wiki(town_data.get("place_name", "Unnamed Town"), generated_town, "Town")
-
-        return redirect('/wiki')  # Redirect to wiki after generation
+        location_data = request.form.to_dict()
+        use_gpu = location_data.get("ollama_source") == "gpu"
+        prompt = town_creation_prompt(location_data)
+        generated_location = ask_deepseek(prompt, use_gpu_server=use_gpu)
+        place_name = location_data.get("place_name", "Unnamed Location")
+        update_location_wiki(place_name, generated_location)
+        return redirect('/wiki')
     
     return render_template('place_form.html', custom_style='css/creation.css')
+
+@app.route('/generate_story')
+def generate_story():
+    story = Chroma.generate_campaign()
+
+    # Extract title from <h2>Campaign Title: ...</h2>
+    match = re.search(r"<h2>Campaign Title:\s*(.*?)</h2>", story)
+    campaign_title = match.group(1).strip() if match else "Unnamed Campaign"
+
+    update_campaign_wiki(campaign_title, story)
+    return redirect('/wiki')
+
+
+
 
 @app.route('/wiki')
 def view_wiki():
@@ -175,6 +266,7 @@ def view_wiki():
             padding: 20px;
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            
         }
         ul {
             list-style-type: none;
@@ -207,6 +299,11 @@ def view_wiki():
             <ul>
                 {wiki_index}
             </ul>
+            <form action="/generate_story" method="get">
+            <button type="submit" style="margin-top: 20px; padding: 10px 20px; font-size: 16px; background-color: #007bff; color: white; border: none; border-radius: 5px;">
+                Generate Story
+            </button>
+            </form>
         </div>
     </body>
     </html>

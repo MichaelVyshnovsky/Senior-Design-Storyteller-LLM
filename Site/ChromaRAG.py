@@ -5,14 +5,12 @@ import json
 from html.parser import HTMLParser
 
 class ChromaRAG():
-    def __init__(self, doc_path="./docs", collection_path="./collection", template_path="./templates", model_name="deepseek-r1:7b"):
+    def __init__(self, doc_path="./docs", collection_path="./collection", template_path="./templates", model_name="deepseek-r1:7b", ollama_url=None):
         self.doc_path = doc_path
         self.model_name = model_name
         self.collection_path = collection_path
         self.template_path = template_path
-
         self.chroma = chromadb.PersistentClient(path=collection_path)
-        
         self.collection = self.chroma.get_or_create_collection(name = "collection")
         self.add_to_collection()
 
@@ -63,6 +61,19 @@ class ChromaRAG():
         with open(self.collection_path + "/timestamp.dat", 'w') as f:
             json.dump(time_dict, f)
 
+    def add_note_to_RAG(self, file_path):
+        if (file_path[-3:] == ".md" or file_path[-4:] == ".txt"):
+                    # Add the file to the collection
+                    doc = [open(file_path, "r").read()]
+                
+        if file_path[-5:] == ".html":
+            html_parse = html_ripper()
+            html_parse.feed(open(file_path, "r").read())
+            doc = html_parse.get_data()
+
+        self.collection.add(documents=doc,ids=[file_path.split("/")[-1]])
+
+
     def query_notes(self, in_prompt):
         """Method for querying the notes to get information about something
             such as a character or location, mostly used for testing RAG
@@ -86,7 +97,7 @@ class ChromaRAG():
 
     
 
-    def generate_character(self, prompt_dict):
+    def generate_character(self, prompt_dict, use_url):
         """Dictionary contains:
                 person_name
                 person_home
@@ -121,10 +132,19 @@ class ChromaRAG():
         context = context_to_string(collection_results["documents"][0], collection_results["ids"][0])
 
         context = "###Context\n\n" + context
-        
-        prompt = self.format_prompt(prompt, context, "character")
 
-        response = ollama.generate(self.model_name, prompt)['response'].split("</think>")
+        template = open(self.template_path + "/" + "character" + ".template").read()
+        #prompt = self.format_prompt(prompt, context, "character")
+
+        if use_url:
+            client = ollama.Client(host=use_url)
+        else:
+            client = ollama.Client()
+
+        response = client.chat(model=self.model_name, messages=[{'role':'system', 'content': template + context }, {'role':'user', 'content':prompt}])
+
+               
+        response = response['message']['content'].split("</think>")
 
         if len(response) > 1:
             return response[1]
@@ -177,6 +197,48 @@ class ChromaRAG():
             return response[1]
         else:
             return response[0]
+
+    def generate_campaign(self):
+        """Generates a full DnD campaign using all wiki entries and a structured HTML template."""
+
+        wiki_dir = "data/wiki_entries/"
+        all_text = ""
+
+        # Step 1: Aggregate all plain text from HTML wiki files
+        for filename in os.listdir(wiki_dir):
+            if filename.endswith(".html"):
+                with open(os.path.join(wiki_dir, filename), "r", encoding="utf-8") as f:
+                    parser = html_ripper()
+                    parser.feed(f.read())
+                    all_text += parser.get_data().strip() + "\n\n"
+
+        # Step 2: Load the campaign template and inject the world content
+        with open(self.template_path + "/campaign.template", "r", encoding="utf-8") as f:
+            base_template = f.read()
+
+        filled_template = base_template.replace("{{ world }}", all_text.strip())
+
+        # Step 3: Query Chroma for context
+        collection_results = self.collection.query(query_texts=[filled_template], n_results=3)
+        context = context_to_string(collection_results["documents"][0], collection_results["ids"][0])
+        context = "###Context\n\n" + context
+
+        # Step 4: Format the prompt and send to the model
+        prompt = self.format_prompt(filled_template, context, "campaign")
+        response = ollama.generate(self.model_name, prompt)['response'].split("</think>")
+        sources = self.get_context_sources(filled_template)
+        print("Context sources used:", sources)
+
+        return response[1].strip() if len(response) > 1 else response[0].strip()
+    
+    def get_context_sources(self, prompt, n_results=3):
+        """
+        Returns a list of filenames (IDs) from the Chroma collection that were used
+        to generate context for the given prompt.
+        """
+        results = self.collection.query(query_texts=[prompt], n_results=n_results)
+        return results["ids"][0]  # List of source filenames used
+
 
 
 
