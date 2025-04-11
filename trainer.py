@@ -26,43 +26,6 @@ print(f"Available GPUs: {device_count}")
 print(f"CUDA version: {torch.version.cuda}")
 print(f"PyTorch version: {torch.__version__}")
 
-def format_example(doc):
-    # Extract and flatten the document data
-    input_parts = []
-    
-    # Add basic fields
-    basic_fields = ["name", "level of", "level number", "location", "mainbody"]
-    for field in basic_fields:
-        if doc.get(field):
-            input_parts.append(f"{field}: {doc[field]}")
-    
-    # Add nested Geography fields
-    if doc.get("Geography"):
-        geo = doc["Geography"]
-        input_parts.append("\nGeography:")
-        if geo.get("Rooms"):
-            input_parts.append("Rooms:")
-            for room, desc in geo["Rooms"].items():
-                input_parts.append(f"- {room}: {desc}")
-        if geo.get("Traffic"):
-            input_parts.append(f"Traffic: {geo['Traffic']}")
-    
-    # Add Inhabitants
-    if doc.get("Inhabitants"):
-        input_parts.append("\nInhabitants:")
-        for group, desc in doc["Inhabitants"].items():
-            input_parts.append(f"- {group}: {desc}")
-    
-    # Combine all input parts
-    input_text = "\n".join(input_parts)
-    
-    # Create the final example
-    return {
-        "input": input_text,
-        "output": doc.get("mainbody", ""),  # Using mainbody as target output
-        "full_text": input_text + "\n\n" + doc.get("mainbody", "")  # For causal LM training
-    }
-
 # Flatten nested dictionary fields into strings
 def flatten(doc):
     lines = []
@@ -96,35 +59,23 @@ dataset = Dataset.from_list(data)
 
 # Initialize tokenizer
 tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=True)
-if tokenizer.pad_token is None:
-    tokenizer.pad_token = tokenizer.eos_token
+tokenizer.pad_token = tokenizer.eos_token  # Set pad token
 
 def tokenize_function(examples):
-    # Tokenize the full text for causal language modeling
-    tokenized = tokenizer(
-        examples["full_text"],
-        padding="max_length",
-        truncation=True,
-        max_length=512,
-        return_tensors="pt"
-    )
-    
-    # Calculate where the input ends and output begins
-    input_tokenized = tokenizer(
+    model_inputs = tokenizer(
         examples["input"],
         padding="max_length",
         truncation=True,
-        max_length=512,
-        return_tensors="pt"
+        max_length=512
     )
-    
-    # Create labels (mask input portion with -100)
-    input_length = len(input_tokenized["input_ids"][0])
-    labels = tokenized["input_ids"].clone()
-    labels[:, :input_length] = -100
-    
-    tokenized["labels"] = labels
-    return tokenized
+    labels = tokenizer(
+        examples["output"],
+        padding="max_length",
+        truncation=True,
+        max_length=512
+    )
+    model_inputs["labels"] = labels["input_ids"]
+    return model_inputs
 
 # Parallelize dataset processing
 tokenized_datasets = dataset.map(
@@ -145,20 +96,20 @@ data_collator = DataCollatorForSeq2Seq(
 model = AutoModelForCausalLM.from_pretrained(
     model_name,
     device_map="auto",
-    torch_dtype=torch.float16,
+    torch_dtype=torch.float16,  # Using float16 instead of bfloat16 for wider compatibility
 )
 
 # Enable gradient checkpointing to save memory
 model.gradient_checkpointing_enable()
 
-# Check if tf32 is supported
+# Check if tf32 is supported (only enable if available)
 tf32_supported = torch.cuda.is_available() and torch.cuda.get_device_capability()[0] >= 8
 print(f"TF32 supported: {tf32_supported}")
 
 # Training arguments optimized for multi-GPU
 training_args = TrainingArguments(
     output_dir="./results",
-    eval_strategy="steps",
+    eval_strategy="steps",  # Updated parameter name
     eval_steps=500,
     learning_rate=2e-5,
     per_device_train_batch_size=2,
@@ -169,27 +120,26 @@ training_args = TrainingArguments(
     save_strategy="steps",
     save_steps=1000,
     logging_steps=100,
-    fp16=True,
-    bf16=False,
-    tf32=tf32_supported,
+    fp16=True,  # Mixed precision training
+    bf16=False,  # Disabled by default
+    tf32=tf32_supported,  # Only enable if supported
     dataloader_num_workers=4,
     dataloader_pin_memory=True,
     gradient_checkpointing=True,
     optim="adamw_torch_fused",
-    report_to="none",
+    report_to="tensorboard",
     ddp_find_unused_parameters=False,
     local_rank=int(os.environ.get("LOCAL_RANK", -1)),
-    remove_unused_columns=False,  # Add this line
 )
 
-# Initialize Trainer with updated parameters
+# Initialize Trainer
 trainer = Trainer(
     model=model,
     args=training_args,
     train_dataset=tokenized_datasets,
-    eval_dataset=tokenized_datasets.select(range(min(100, len(tokenized_datasets)))),
+    eval_dataset=tokenized_datasets.select(range(min(100, len(tokenized_datasets)))),  # Ensure we don't exceed dataset size
     data_collator=data_collator,
-    # No longer passing tokenizer directly as it's deprecated
+    tokenizer=tokenizer
 )
 
 # Train and save
