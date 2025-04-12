@@ -153,7 +153,7 @@ training_args = TrainingArguments(
     dataloader_num_workers=4,
     dataloader_pin_memory=True,
     gradient_checkpointing=True,
-    optim="adafactor",
+    optim="adamw_torch_fused",
     report_to="tensorboard",
     remove_unused_columns=False,
     ddp_find_unused_parameters=False,
@@ -166,6 +166,9 @@ model = AutoModelForCausalLM.from_pretrained(
     device_map="auto",
     torch_dtype=torch.bfloat16 if tf32_supported else torch.float16
 )
+
+model.config.use_cache = False
+model.gradient_checkpointing_enable()
 
 # Initialize Trainer
 trainer = Trainer(
