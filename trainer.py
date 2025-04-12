@@ -145,7 +145,7 @@ training_args = TrainingArguments(
     learning_rate=2e-5,
     per_device_train_batch_size=1,
     per_device_eval_batch_size=2,
-    gradient_accumulation_steps=8,
+    gradient_accumulation_steps=32,
     num_train_epochs=3,
     weight_decay=0.01,
     save_strategy="steps",
@@ -170,6 +170,7 @@ model = AutoModelForCausalLM.from_pretrained(
     device_map="auto",
     torch_dtype=torch.float16,  # Uses FP16 to save memory
     offload_folder="offload",
+    low_cpu_mem_usage=True
 )
 
 model.config.use_cache = False
