@@ -11,6 +11,9 @@ from transformers import (
     set_seed
 )
 
+os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"  # Reduces fragmentation
+os.environ["CUDA_LAUNCH_BLOCKING"] = "1"  # Helps debug OOMs
+
 # Set seed for reproducibility
 set_seed(42)
 
@@ -153,7 +156,7 @@ training_args = TrainingArguments(
     dataloader_num_workers=4,
     dataloader_pin_memory=True,
     gradient_checkpointing=True,
-    optim="adamw_torch_fused",
+    optim="adafactor",
     report_to="tensorboard",
     remove_unused_columns=False,
     ddp_find_unused_parameters=False,
@@ -164,7 +167,8 @@ training_args = TrainingArguments(
 model = AutoModelForCausalLM.from_pretrained(
     model_name,
     device_map="auto",
-    torch_dtype=torch.bfloat16 if tf32_supported else torch.float16
+    torch_dtype=torch.float16,  # Uses FP16 to save memory
+    offload_folder="offload",
 )
 
 model.config.use_cache = False
