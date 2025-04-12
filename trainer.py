@@ -157,7 +157,8 @@ training_args = TrainingArguments(
     report_to="tensorboard",
     remove_unused_columns=False,
     ddp_find_unused_parameters=False,
-    local_rank=int(os.environ.get("LOCAL_RANK", -1)),
+    local_rank=int(os.environ.get("LOCAL_RANK", -1))
+    use_cache=False,
 )
 
 # Load model with appropriate precision
