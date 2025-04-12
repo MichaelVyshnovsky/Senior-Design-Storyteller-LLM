@@ -147,17 +147,24 @@ training_args = TrainingArguments(
     save_strategy="steps",
     save_steps=1000,
     logging_steps=100,
-    fp16=True,
-    bf16=False,
+    fp16=False,  # Disabled FP16
+    bf16=tf32_supported,  # Use BF16 if supported
     tf32=tf32_supported,
     dataloader_num_workers=4,
     dataloader_pin_memory=True,
     gradient_checkpointing=True,
     optim="adamw_torch_fused",
     report_to="tensorboard",
-    remove_unused_columns=False,  # Important for our custom dataset
+    remove_unused_columns=False,
     ddp_find_unused_parameters=False,
     local_rank=int(os.environ.get("LOCAL_RANK", -1)),
+)
+
+# Load model with appropriate precision
+model = AutoModelForCausalLM.from_pretrained(
+    model_name,
+    device_map="auto",
+    torch_dtype=torch.bfloat16 if tf32_supported else torch.float16
 )
 
 # Initialize Trainer
