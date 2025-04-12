@@ -129,9 +129,7 @@ data_collator = DataCollatorForSeq2Seq(
 print("Loading model...")
 model = AutoModelForCausalLM.from_pretrained(
     model_name,
-    device_map="auto",
-    torch_dtype=torch.float16,
-    offload_folder="offload"
+    torch_dtype=torch.float16
 )
 model.gradient_checkpointing_enable()
 
