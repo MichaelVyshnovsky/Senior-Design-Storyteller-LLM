@@ -147,7 +147,7 @@ training_args = TrainingArguments(
     save_strategy="steps",
     save_steps=1000,
     logging_steps=100,
-    fp16=False,  # Disabled FP16
+    fp16=True,  # Disabled FP16
     bf16=tf32_supported,  # Use BF16 if supported
     tf32=tf32_supported,
     dataloader_num_workers=4,
@@ -157,8 +157,7 @@ training_args = TrainingArguments(
     report_to="tensorboard",
     remove_unused_columns=False,
     ddp_find_unused_parameters=False,
-    local_rank=int(os.environ.get("LOCAL_RANK", -1)),
-    use_cache=False
+    local_rank=int(os.environ.get("LOCAL_RANK", -1))
 )
 
 # Load model with appropriate precision
