@@ -161,16 +161,14 @@ training_args = TrainingArguments(
     report_to="tensorboard",
     remove_unused_columns=False,
     ddp_find_unused_parameters=False,
-    local_rank=int(os.environ.get("LOCAL_RANK", -1))
+    local_rank=int(os.environ.get("LOCAL_RANK", -1)),
+    deepspeed="ds_config.json"
 )
 
 # Load model with appropriate precision
 model = AutoModelForCausalLM.from_pretrained(
     model_name,
-    device_map="auto",
     torch_dtype=torch.float16,  # Uses FP16 to save memory
-    offload_folder="offload",
-    low_cpu_mem_usage=True
 )
 
 model.config.use_cache = False
