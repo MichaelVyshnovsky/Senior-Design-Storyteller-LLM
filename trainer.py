@@ -62,27 +62,35 @@ tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=True)
 tokenizer.pad_token = tokenizer.eos_token  # Set pad token
 
 def tokenize_function(examples):
-    model_inputs = tokenizer(
+    # Tokenize inputs
+    inputs = tokenizer(
         examples["input"],
         padding="max_length",
         truncation=True,
         max_length=512
     )
-    labels = tokenizer(
+    
+    # Tokenize outputs (labels)
+    outputs = tokenizer(
         examples["output"],
         padding="max_length",
         truncation=True,
         max_length=512
     )
-    model_inputs["labels"] = labels["input_ids"]
-    return model_inputs
+    
+    return {
+        "input_ids": inputs["input_ids"],
+        "attention_mask": inputs["attention_mask"],
+        "labels": outputs["input_ids"]  # Make sure to use the tokenized output as labels
+    }
 
 # Parallelize dataset processing
 tokenized_datasets = dataset.map(
     tokenize_function, 
     batched=True, 
     batch_size=8,
-    num_proc=os.cpu_count()
+    num_proc=os.cpu_count(),
+    remove_columns=["input", "output"] 
 )
 
 data_collator = DataCollatorForSeq2Seq(
@@ -130,6 +138,7 @@ training_args = TrainingArguments(
     report_to="tensorboard",
     ddp_find_unused_parameters=False,
     local_rank=int(os.environ.get("LOCAL_RANK", -1)),
+    remove_unused_columns=False,  # Add this line
 )
 
 # Initialize Trainer
@@ -139,7 +148,7 @@ trainer = Trainer(
     train_dataset=tokenized_datasets,
     eval_dataset=tokenized_datasets.select(range(min(100, len(tokenized_datasets)))),
     data_collator=data_collator,
-    tokenizer=tokenizer  # Keep this as is for now (the warning is non-critical)
+    tokenizer=tokenizer
 )
 
 # Train and save
