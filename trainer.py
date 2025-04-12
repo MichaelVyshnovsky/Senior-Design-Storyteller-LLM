@@ -128,7 +128,8 @@ print("Loading model...")
 model = AutoModelForCausalLM.from_pretrained(
     model_name,
     device_map="auto",
-    torch_dtype=torch.float16
+    torch_dtype=torch.float16,
+    offload_folder="offload"
 )
 model.gradient_checkpointing_enable()
 
