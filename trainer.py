@@ -19,7 +19,7 @@ os.environ["CUDA_LAUNCH_BLOCKING"] = "1"  # Helps debug OOMs
 # Set seed for reproducibility
 set_seed(42)
 
-model_name = "Qwen/Qwen2.5-Math-7B"
+model_name = "Qwen/Qwen2.5-Math-1.5B"
 data_dir = "./SDdata/"
 
 # Configure GPU settings
