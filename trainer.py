@@ -11,6 +11,8 @@ from transformers import (
     set_seed
 )
 
+torch.cuda.empty_cache()
+
 os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"  # Reduces fragmentation
 os.environ["CUDA_LAUNCH_BLOCKING"] = "1"  # Helps debug OOMs
 
