@@ -214,7 +214,7 @@ class ChromaRAG():
         """
         
         prompt = "Create a story about:\n\n"+ prompt_dict["prompt"]
-        collection_results = self.collection.query(query_texts=[prompt], n_results = 5)
+        collection_results = self.collection.query(query_texts=[prompt], n_results = 3)
         template = open(self.template_path + "/" + "campaign.template").read()
 
         messages = [ {'role':'system', 'content': template}]
