@@ -2,7 +2,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
 
 # Load your trained model and tokenizer
-model_path = "./results/model_[your_timestamp]"  # Replace with your actual model path
+model_path = "./results/model_20250417_153158"  # Replace with your actual model path
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 model = AutoModelForCausalLM.from_pretrained(model_path)
 
