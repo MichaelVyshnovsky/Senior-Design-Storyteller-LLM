@@ -1,195 +1,146 @@
-import json
 import os
+import json
 import torch
-from datasets import Dataset
+from torch.utils.data import Dataset
 from transformers import (
-    AutoTokenizer, 
-    AutoModelForCausalLM, 
-    TrainingArguments, 
-    Trainer, 
-    DataCollatorForSeq2Seq,
-    set_seed
+    AutoModelForCausalLM,
+    AutoTokenizer,
+    TrainingArguments,
+    Trainer,
+    DataCollatorForLanguageModeling
 )
+from accelerate import Accelerator
+from datetime import datetime
 
-torch.cuda.empty_cache()
+# Configuration - CHANGED TO GPT-2
+MODEL_NAME = "gpt2"  # Using GPT-2 which is designed for causal LM
+DATA_ROOT = "./data"              
+RESULTS_DIR = "./results"         
+BATCH_SIZE = 4                    # Reduced for GPT-2 which is larger
+NUM_EPOCHS = 3                    
+LEARNING_RATE = 5e-5              # Adjusted learning rate
 
-os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"  # Reduces fragmentation
-os.environ["CUDA_LAUNCH_BLOCKING"] = "1"  # Helps debug OOMs
+# Set up environment
+os.makedirs(RESULTS_DIR, exist_ok=True)
+accelerator = Accelerator()
+device = accelerator.device
 
-# Set seed for reproducibility
-set_seed(42)
+# Check available GPUs
+num_gpus = torch.cuda.device_count()
+print(f"Found {num_gpus} GPUs")
+if num_gpus < 5:
+    print("Warning: Expected 5 GPUs but found fewer. Performance may be impacted.")
 
-model_name = "Qwen/Qwen2.5-Math-1.5B"
-data_dir = "./SDdata/"
-
-# Configure GPU settings
-os.environ["CUDA_VISIBLE_DEVICES"] = "0,1,2,3"
-device_count = torch.cuda.device_count()
-print(f"Available GPUs: {device_count}")
-
-# Check CUDA and torch compatibility
-print(f"CUDA version: {torch.version.cuda}")
-print(f"PyTorch version: {torch.__version__}")
-
-def flatten(doc):
-    """Flatten document data into a single string"""
-    lines = []
-    for key, value in doc.items():
-        if isinstance(value, str):
-            lines.append(f"{key}: {value}")
-        elif isinstance(value, dict):
-            for subkey, subvalue in value.items():
-                if isinstance(subvalue, str):
-                    lines.append(f"{key} - {subkey}: {subvalue}")
-                elif isinstance(subvalue, dict):
-                    for subsubkey, subsubvalue in subvalue.items():
-                        if isinstance(subsubvalue, str):
-                            lines.append(f"{key} - {subkey} - {subsubkey}: {subsubvalue}")
-    return "\n".join(lines)
-
-def load_json_files(data_dir):
-    """Load and process JSON files into training examples"""
-    data = []
-    for root, _, files in os.walk(data_dir):
-        for file_name in files:
-            if file_name.endswith(".json"):
-                with open(os.path.join(root, file_name), "r", encoding="utf-8") as f:
-                    content = json.load(f)
-                    doc = content.get("document_data", {})
-                    
-                    # Create input text
-                    input_text = flatten(doc)
-                    
-                    # Get mainbody text (or use empty string if not present)
-                    output_text = doc.get("mainbody", "")
-                    
-                    if output_text:  # Only add if we have output text
-                        data.append({
-                            "input": input_text,
-                            "output": output_text
-                        })
-    return data
-
-# Load and prepare data
-print("Loading data...")
-data = load_json_files(data_dir)
-print(f"Loaded {len(data)} examples")
-
-# Create dataset
-dataset = Dataset.from_dict({
-    "input": [x["input"] for x in data],
-    "output": [x["output"] for x in data]
-})
-
-# Initialize tokenizer
-print("Loading tokenizer...")
-tokenizer = AutoTokenizer.from_pretrained(model_name, use_fast=True)
-tokenizer.pad_token = tokenizer.eos_token
-
-def tokenize_function(examples):
-    """Tokenize both inputs and labels"""
-    # Tokenize inputs
-    model_inputs = tokenizer(
-        examples["input"],
-        max_length=512,
-        padding="max_length",
-        truncation=True
-    )
+# Custom Dataset for JSON files
+class JSONDataset(Dataset):
+    def __init__(self, data_dir, tokenizer, max_length=512):
+        self.tokenizer = tokenizer
+        self.max_length = max_length
+        self.data = []
+        
+        for root, _, files in os.walk(data_dir):
+            for file in files:
+                if file.endswith('.json'):
+                    file_path = os.path.join(root, file)
+                    try:
+                        with open(file_path, 'r', encoding='utf-8') as f:
+                            json_data = json.load(f)
+                            if isinstance(json_data, dict) and 'document_data' in json_data:
+                                text = str(json_data['document_data'])
+                                self.data.append(text)
+                            else:
+                                print(f"File {file_path} doesn't contain 'document_data' or is not a dict")
+                    except (json.JSONDecodeError, UnicodeDecodeError) as e:
+                        print(f"Error reading {file_path}: {str(e)}")
+                    except Exception as e:
+                        print(f"Unexpected error with {file_path}: {str(e)}")
+        
+        if not self.data:
+            raise ValueError(f"No valid training data found in {data_dir}")
+        
+    def __len__(self):
+        return len(self.data)
     
-    # Tokenize outputs (labels)
-    labels = tokenizer(
-        examples["output"],
-        max_length=512,
-        padding="max_length",
-        truncation=True
-    )
+    def __getitem__(self, idx):
+        text = self.data[idx]
+        inputs = self.tokenizer(
+            text,
+            max_length=self.max_length,
+            padding='max_length',
+            truncation=True,
+            return_tensors='pt'
+        )
+        return inputs
+
+# Initialize model and tokenizer - ADDED PAD_TOKEN
+tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
+tokenizer.pad_token = tokenizer.eos_token  # Set pad token for GPT-2
+
+model = AutoModelForCausalLM.from_pretrained(MODEL_NAME)
+
+# Prepare dataset
+try:
+    full_dataset = JSONDataset(DATA_ROOT, tokenizer)
+    print(f"Loaded {len(full_dataset)} samples")
     
-    model_inputs["labels"] = labels["input_ids"]
-    return model_inputs
+    train_size = int(0.9 * len(full_dataset))
+    val_size = len(full_dataset) - train_size
+    train_dataset, val_dataset = torch.utils.data.random_split(
+        full_dataset, [train_size, val_size]
+    )
+    print(f"Train samples: {len(train_dataset)}, Val samples: {len(val_dataset)}")
+except ValueError as e:
+    print(f"Data loading error: {str(e)}")
+    exit(1)
 
-# Tokenize dataset
-print("Tokenizing dataset...")
-tokenized_datasets = dataset.map(
-    tokenize_function,
-    batched=True,
-    batch_size=8,
-    remove_columns=["input", "output"],  # Remove original columns after tokenization
-    num_proc=os.cpu_count()
-)
-
-# Data collator
-data_collator = DataCollatorForSeq2Seq(
+# Data collator - CHANGED FOR CAUSAL LM
+data_collator = DataCollatorForLanguageModeling(
     tokenizer=tokenizer,
-    model=model_name,
-    padding="longest",
-    return_tensors="pt"
+    mlm=False  # Causal language modeling
 )
-
-# Load model
-print("Loading model...")
-model = AutoModelForCausalLM.from_pretrained(
-    model_name,
-    torch_dtype=torch.float16
-)
-model.gradient_checkpointing_enable()
-
-# Check if tf32 is supported
-tf32_supported = torch.cuda.is_available() and torch.cuda.get_device_capability()[0] >= 8
-print(f"TF32 supported: {tf32_supported}")
 
 # Training arguments
 training_args = TrainingArguments(
-    output_dir="./results",
-    evaluation_strategy="steps",
-    eval_steps=500,
-    learning_rate=2e-5,
-    per_device_train_batch_size=1,
-    per_device_eval_batch_size=2,
-    gradient_accumulation_steps=32,
-    num_train_epochs=3,
-    weight_decay=0.01,
-    save_strategy="steps",
-    save_steps=1000,
-    logging_steps=100,
-    fp16=True,  # Disabled FP16
-    bf16=tf32_supported,  # Use BF16 if supported
-    tf32=tf32_supported,
-    dataloader_num_workers=4,
-    dataloader_pin_memory=True,
-    gradient_checkpointing=True,
-    optim="adafactor",
-    report_to="tensorboard",
+    output_dir=RESULTS_DIR,
+    num_train_epochs=NUM_EPOCHS,
+    per_device_train_batch_size=BATCH_SIZE,
+    per_device_eval_batch_size=BATCH_SIZE,
+    learning_rate=LEARNING_RATE,
+    evaluation_strategy="epoch",
+    save_strategy="epoch",
+    logging_dir=f"{RESULTS_DIR}/logs",
+    logging_steps=10,
+    load_best_model_at_end=True,
+    metric_for_best_model="loss",
+    greater_is_better=False,
+    fp16=True,
+    gradient_accumulation_steps=2,
+    dataloader_num_workers=min(4, os.cpu_count()),
+    report_to="none",
+    # ADDED TO PREVENT WARNINGS
     remove_unused_columns=False,
-    ddp_find_unused_parameters=False,
-    local_rank=int(os.environ.get("LOCAL_RANK", -1)),
-    deepspeed="ds_config.json"
 )
-
-# Load model with appropriate precision
-model = AutoModelForCausalLM.from_pretrained(
-    model_name,
-    torch_dtype=torch.float16,  # Uses FP16 to save memory
-)
-
-model.config.use_cache = False
-model.gradient_checkpointing_enable()
 
 # Initialize Trainer
 trainer = Trainer(
     model=model,
     args=training_args,
-    train_dataset=tokenized_datasets,
-    eval_dataset=tokenized_datasets.select(range(min(100, len(tokenized_datasets)))) if len(tokenized_datasets) > 100 else tokenized_datasets,
+    train_dataset=train_dataset,
+    eval_dataset=val_dataset,
     data_collator=data_collator,
-    tokenizer=tokenizer
 )
 
-# Train and save
+# Train
 print("Starting training...")
-trainer.train()
-print("Training complete!")
-
-print("Saving model...")
-trainer.save_model("./results")
-tokenizer.save_pretrained("./results")
-print("Model saved successfully!")
+try:
+    trainer.train()
+    # Save final model
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    output_dir = f"{RESULTS_DIR}/model_{timestamp}"
+    os.makedirs(output_dir, exist_ok=True)
+    trainer.save_model(output_dir)
+    tokenizer.save_pretrained(output_dir)
+    print(f"Training complete. Model saved to {output_dir}")
+except Exception as e:
+    print(f"Training failed: {str(e)}")
+    exit(1)
