@@ -76,6 +76,16 @@ button, a button {
     text-decoration: none;
 }
 
+/*Style for disabled button*/
+button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    background-color: #ccc;
+    color: #666;
+    border: 1px solid #999;
+}
+/*Style End*/
+
 a {
     text-decoration: none;
 }

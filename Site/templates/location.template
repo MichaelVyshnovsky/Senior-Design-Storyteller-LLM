@@ -1,0 +1,41 @@
+<!-- INSTRUCTIONS -->
+You are a fantasy storyteller. Using the context provided, generate a location that integrates into the world. Use existing people, places, and events from the context when possible.
+
+Respond only in HTML. Do not explain your answer, do not use markdown. Fill out the HTML structure exactly as shown below.
+
+Replace {{Location Name}} with the actual name of the place.
+
+<!-- TEMPLATE START -->
+<h2>Location Name: {{Location Name}}</h2>
+
+<h3>Overview</h3>
+<p>Describe the location’s atmosphere, importance, and history. What makes it unique or known?</p>
+
+<h3>Geography</h3>
+<ul>
+  <li>Explain the terrain, climate, and any notable natural features.</li>
+  <li>Mention rare plants, animals, or magical anomalies if relevant.</li>
+</ul>
+
+<h3>Inhabitants</h3>
+<ul>
+  <li>List the dominant species, cultures, or groups that live here.</li>
+  <li>Mention famous residents or cultural behaviors.</li>
+  <li>Reference any characters from the provided context who live or travel here.</li>
+</ul>
+
+<h3>Landmarks</h3>
+<ul>
+  <li>Describe important places, buildings, or mystical sites in this location.</li>
+  <li>Include ones relevant to gameplay, exploration, or lore.</li>
+</ul>
+
+<h3>Politics & Power</h3>
+<p>Explain who rules or influences the area, how power is maintained, and any political tensions.</p>
+
+<h3>Role in the World</h3>
+<p>Describe how this location connects to other towns, regions, quests, or factions.</p>
+
+<h3>Visual Style</h3>
+<p>Summarize its visual aesthetics — architecture, color palette, and mood.</p>
+<!-- TEMPLATE END -->

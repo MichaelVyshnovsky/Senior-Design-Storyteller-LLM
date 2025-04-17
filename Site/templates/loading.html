@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Forging Character...</title>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      font-family: "Cinzel", serif;
+      background-color: #0f172a;
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+    }
+
+    .spinner {
+      border: 6px solid #334155;
+      border-top: 6px solid #3b82f6;
+      border-radius: 50%;
+      width: 60px;
+      height: 60px;
+      animation: spin 1s linear infinite;
+      margin-bottom: 25px;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    h2 {
+      font-size: 1.5rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="spinner"></div>
+  <h2>Forging your character...</h2>
+
+  <!-- Hidden form to resubmit actual data -->
+  <form id="hiddenForm" action="/character_creation" method="POST" style="display: none;">
+    {% for key, value in character_data.items() %}
+      <input type="hidden" name="{{ key }}" value="{{ value }}">
+    {% endfor %}
+  </form>
+
+  <script>
+    // Auto-submit form after 500ms
+    setTimeout(() => {
+      document.getElementById("hiddenForm").submit();
+    }, 500);
+  </script>
+</body>
+</html>
