@@ -1,0 +1,43 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "image": "",
+        "caption": "",
+        "name": "Mantle of Baravar",
+        "deity": "[[Baravar Cloakshadow]]",
+        "inventor": "",
+        "type": "",
+        "school5e": "",
+        "level5e": "",
+        "type5e": "",
+        "refs5e": "",
+        "feature4e": "",
+        "keywords4e": "",
+        "level4e": "",
+        "type4e": "",
+        "category4e": "",
+        "skill4e": "",
+        "refs4e": "",
+        "school3e": "",
+        "domains3e": "",
+        "descriptors3e": "",
+        "level3e": "",
+        "type3e": "",
+        "reversible2e": "",
+        "school2e": "[[Abjuration]]",
+        "spheres2e": "[[Charm sphere|Charm]]",
+        "level2e": "{{spell table|edition=2e|[[Cleric]]|5}}",
+        "type2e": "",
+        "refs2e": "",
+        "reversible1e": "",
+        "school1e": "",
+        "level1e": "",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Mantle of Baravar''''' was a [[spell]] used by [[cleric]]s of [[Baravar Cloakshadow]].",
+        "Effects": "When cast, this spell granted a magical resistance to [[illusion]] and [[phantasm]]-based spells. The caster was capable of bestowing this magical resistance evenly to multiple recipients. The strength of the magical resistance was determined by the caster's skill level. The duration of the spell varied based on how many individuals the spell was cast on, with a maximum of ten hours for one individual. This spell was vulnerable to ''[[dispel magic]]''.",
+        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required a [[material component]], the holy symbol of Baravar Cloakshadow."
+    }
+}

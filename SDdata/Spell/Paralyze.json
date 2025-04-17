@@ -1,0 +1,20 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "name": "Paralyze",
+        "inventor": "",
+        "school2e": "[[Necromancy]]",
+        "level2e": "{{Spell table|edition=2e|[[Wizard]]|3}}",
+        "type2e": "",
+        "refs2e": "",
+        "school1e": "",
+        "level1e": "",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Paralyze''''' was a [[necromancy]] spell that allowed the caster to immobilize creatures with a successful touch attack.",
+        "Effects": "This spell gave the caster a paralyzing touch for a number of minutes equal to his or her experience level. For the duration, any living creature successfully touched (as an attack) by the caster was paralyzed for a few minutes unless they were able to resist the spell. [[Undead]] and non-living creatures like [[golems]] were immune to this spell, as were any creatures naturally immune to paralysis.",
+        "Components": "In addition to verbal and somatic components, this spell required a bit of [[ghoul]] flesh to cast."
+    }
+}

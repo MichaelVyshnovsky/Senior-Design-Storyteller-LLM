@@ -1,0 +1,27 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "name": "Orison",
+        "school2e": "All schools",
+        "spheres2e": "[[All sphere|All]]",
+        "level2e": "{{spell table|edition=2e|[[All sphere|All]]|1|[[Cleric]]|1|[[Crusader]]|1|[[Druid]]|1|[[Monk]]|1|[[Mystic]]|1|[[Shaman]]|1}}",
+        "type2e": "",
+        "refs2e": "",
+        "mainbody": "An '''orison''' was the divine spellcasting equivalent to ''[[Cantrip (spell)|cantrip]]''. Priests of all mythoi learned various ''orisons'' as acolytes.",
+        "Effects": {
+            "Alleviate": "Gave temporary relief from pain or nausea to a sick or wounded creature.",
+            "Calm": "Soothed a creature that had been startled or frightened.",
+            "Clarity": "Gave the priest the ability to speak clearly and be heard, usually when performing rites and rituals.",
+            "Courage": "Gave the priest a momentary boost to combat prowess.",
+            "Guidance": "Gave the priest clarity of thought to make better decisions.",
+            "Healing": "Allowed a healing touch for minor cuts and scratches.",
+            "Magic sense": "Gave a slight prickle of awareness when near a steady magic effect or item.",
+            "Memory": "For the duration of the spell, sights, sounds, and/or text and speech the caster wishes to remember are engraved in memory and are more likely to be recalled exactly as they were initially experienced.",
+            "Resistance to magic": "The caster gains a slightly better resistance to magical effects for one exposure to undesirable magic, or until the spell ends, whichever comes first.",
+            "Resistance to poison": "The caster gains a better chance to overcome the effects of one exposure to a poisonous substance, or until the spell ends, whichever comes first.\n\nWorshipers of [[evil]] or [[chaotic]] [[deities]] had offensive ''orisons'', but they were quite rare."
+        },
+        "Components": "Only [[verbal]] and [[somatic]] components were required to cast these minor spells."
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "template_data": {
+        "variant": "prayer",
+        "variant_1": "prayer",
+        "edition": "4e",
+        "variant_2": "prayer"
+    },
+    "document_data": {
+        "type": "At-Will",
+        "name": "Priest's Shield",
+        "keywords": "{{desc/divine|variant=prayer}}{{desc/weapon|variant=prayer}}",
+        "level": "{{spell table|edition=4e|variant=prayer|[[Cleric]]|1}}",
+        "rules": "4th",
+        "mainbody": "'''''Priest's shield''''' was a [[prayer]] cast by several [[cleric]]s, most often [[Cleric#Battle Cleric|battle cleric]]s. When a cleric casted ''priest's shield'' he or she struck a foe with their melee weapon while simultaneously enhancing their, and one nearby ally's, ability to avoid injury for a brief moment. The strength of the prayer was consistent and proportional to that of the cleric's physical power as well as the cleric's degree of experience. ''Priest's shield'' was easy to use and could be cast at will.",
+        "Appendix": {
+            "References": "{{Refs}}\n54j0r6htzornowlgva3oos76lb4ln1o"
+        }
+    }
+}

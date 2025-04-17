@@ -1,0 +1,27 @@
+{
+    "template_data": {
+        "edition": "5e",
+        "5|ft|long": "yes"
+    },
+    "document_data": {
+        "variant": "",
+        "image": "",
+        "caption": "",
+        "name": "Branding Smite",
+        "spheres": "",
+        "domains": "",
+        "inventor": "",
+        "descriptors": "",
+        "keywords": "",
+        "level": "",
+        "type": "",
+        "school5e": "[[Evocation]]",
+        "patrons5e": "[[Hexblade patron|Hexblade]]",
+        "level5e": "{{spell table|edition=5e|[[Hexblade patron|Hexblade]]|2|[[Paladin]]|2}}",
+        "type5e": "",
+        "refs5e": "",
+        "mainbody": "'''''Branding smite''''' was an [[evocation]] [[spell]] that produced an astral radiant glow on a target when struck.",
+        "Effects": "If the enchanted weapon struck an invisible target, then it would give off a soft glow to a distance of about {{SI|5|ft|long=yes}}. The target would be struck with radiant damage proportional to the power of the caster. The effect lasted for a minute.",
+        "Components": "Only a [[verbal]] component was needed to cast this spell."
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "template_data": {
+        "1|2|ft|long": "yes",
+        "2|ft|long": "yes"
+    },
+    "document_data": {
+        "image": "Ferret.png",
+        "caption": "A ferret [[familiar]].",
+        "name": "Ferret",
+        "type5e": "",
+        "subtype5e": "",
+        "alignment5e": "",
+        "challenge5e": "",
+        "refs5e": "",
+        "origin4e": "",
+        "type4e": "",
+        "subtype4e": "",
+        "alignment4e": "",
+        "refs4e": "",
+        "size3e": "Tiny",
+        "type3e": "[[Animal]]",
+        "subtype3e": "",
+        "alignment3e": "Always [[neutral]]",
+        "challenge3e": "{{Frac|1|4}}",
+        "refs3e": "",
+        "alignment2e": "[[Neutral]]",
+        "refs2e": "",
+        "size1e": "Small",
+        "alignment1e": "[[Neutral]]",
+        "refs1e": "",
+        "patron deity": "",
+        "vision": "[[Low-light vision]]",
+        "lifespan": "",
+        "location": "Temperate hills",
+        "language": "",
+        "based": "[[wikipedia:en:Ferret|Ferret]]",
+        "subraces": "",
+        "height": "",
+        "length": "",
+        "weight": "",
+        "wingspan": "",
+        "skincolor": "",
+        "haircolor": "",
+        "eyecolor": "",
+        "feathers": "",
+        "distinctions": "",
+        "first": "[[Monster Manual II 1st edition|''Monster Manual II'' 1{{st}} edition]]",
+        "mainbody": "The '''ferret''' was a common animal in the Realms, related to [[weasel]]s.{{Cite dragon/137/Treasures of the Wilds|17}}{{Cite dragon/84/A cast of strange familiars|17}}",
+        "Description": "Like weasels, these animals were small and furry creatures, measuring {{SIrange|1|2|ft|long=yes}} in length from head to tail.",
+        "Behavior": "Ferrets could be extremely aggressive but chose to attack smaller prey.",
+        "Species": {
+            "Semberholme": "The Semberholme ferret was found in the [[Semberholme]] area of the [[Cormanthor]] forest. It was characterized by its color-changing fur, which was normally brown but became white in the winter to provide extra camouflage against [[wolves]].",
+            "Swamp": "The swamp ferret was found in the swamps of the [[High Moor]]. Their bodies typically grew to a length of {{SI|2|ft|long=yes}} and had deep brown fur with gray or green markings. They were excellent swimmers, as well as a rather cunning and quite vicious species, even by ferret standards. They were unafraid to attack even mammals that were larger than themselves&mdash;[[Elminster]] had once heard of a small group of swamp ferrets taking down a full-grown [[goblin]]. However, they were primarily known to eat young [[rabbit]]s and [[rat]]s. They made their nests inside of small trees, usually close to other nests."
+        },
+        "Ecology": {
+            "Habitats": "Beyond [[Toril]], ferrets could be found on the planet [[Garden]].",
+            "Relationships": "Some [[wizard]]s were known to have them as [[familiar]]s."
+        },
+        "Notable Ferrets": "* [[Locksmith (ferret)|Locksmith]], a ferret that lived within [[Marigold's Menagerie]].{{Cite polyhedron/97/The Living City: The Hand of Mercy and Marigold's Menagerie|12}}"
+    }
+}

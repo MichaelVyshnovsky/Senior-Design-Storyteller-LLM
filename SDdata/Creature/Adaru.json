@@ -1,0 +1,60 @@
+{
+    "template_data": {
+        "8|ft|long": "yes",
+        "250|lbs|k|long": "yes",
+        "60|ft|long": "yes",
+        "100|ft|long": "yes"
+    },
+    "document_data": {
+        "image": "Adaru3e.jpg",
+        "caption": "",
+        "name": "Adaru",
+        "size5e": "",
+        "type5e": "",
+        "subtype5e": "",
+        "alignment5e": "",
+        "challenge5e": "",
+        "refs5e": "",
+        "size3e": "Medium",
+        "type3e": "[[Outsider]]",
+        "subtype3e": "[[:Category:Creatures with the chaotic subtype|Chaotic]], [[:Category:Creatures with the evil subtype|Evil]], [[Tanar'ri]]",
+        "alignment3e": "Always [[chaotic evil]]",
+        "challenge3e": "10",
+        "refs3e": "",
+        "vision": "[[Darkvision]]",
+        "activecycle": "",
+        "diet": "",
+        "lifespan": "",
+        "location": "The [[Abyss]]",
+        "language": "[[Abyssal language|Abyssal]], [[Celestial language|Celestial]], [[Common]], [[Draconic language|Draconic]], [[Infernal language|Infernal]], [[Terran]], [[Telepathy]]",
+        "climate": "",
+        "terrain": "",
+        "genrefs": "",
+        "height": "",
+        "length": "{{SI|8|ft}}",
+        "wingspan": "",
+        "weight": "{{SI|250|lb}}",
+        "skincolor": "",
+        "haircolor": "",
+        "hairstyles": "",
+        "feathers": "",
+        "eyecolor": "",
+        "build": "",
+        "distinctions": "",
+        "appearrefs": "",
+        "first": "''[[Monster Manual V]]''",
+        "based": "",
+        "histrefs": "",
+        "mainbody": "'''Adarus''' were cunning, mobile [[tanar'ri]] [[demon]]s with a love for collecting, whether it was treasure, minions, or unique body parts. The venomous [[fiend]]s were beings of utter corruption, vile treachery and poisonous lies given form.",
+        "Description": "Adaru demons resembled massive [[millipede]]s, {{SI|8|ft|long=yes}} long arthropods weighing up to {{SI|250|lbs|k|long=yes}}. Hundreds of bright orange, armored legs, each narrowing down to a sharp point, extended out from their undersides, propelling their insectoid forms with uncanny grace.\n\nTheir blue bodies were dense and scaly, and also riddled with orifices crusted over with filth that spewed out foul ooze and noxious clouds of thin mist. On their front end was a hideous mockery of a [[human]] child's face, one that snapped and gnashed with long, brown, dripping fangs, while at the other end of their twisted shapes was a large, sucking organ, also encrusted in filth.",
+        "Personality": "Adarus were cunning, pitiless creatures whose very being was defined by the pain they inflicted. Many spent their existence scouring the planes for the mortal who caused their existence so as to reward them with agony and torment unceasing.\n\nAdarus also loved wealth (favoring jewels), collecting it both to signify their importance and, in the case of coins and gems, to use them as bribes. Disregarding the monetary worth of their prizes, adarus were famous for their trophy-taking.  In addition to traditional treasure, they equally enjoyed more gruesome prizes; adarus were fascinated by the shapes of other life forms and so took body parts they didn't possess, still adorned with the fallen being's belongings. They were sentimental demons who used their souvenirs to bring up memories of their misdeeds, chuckling as they passed over their treasures in fond reminiscence of past suffering.",
+        "Abilities": "Adarus were highly mobile demons easily capable of scuttling, climbing, swimming, and even burrowing (even through solid rock) at great speed. Few types of terrain could prove a serious obstacle for them to traverse, and at will they could cast ''[[freedom of movement]]'' and ''[[greater teleport]]'' on themselves. Additionally, the poisonous mist adarus emitted from their bodies slicked the surrounding ground. The gas itself empowered [[evil]] creatures and left non-[[evil]] ones sickened while within its {{SI|60|ft|long=yes}} diameter. Meanwhile, the vile sick hindered the movements of those that weren't evil, particularly when they were injured since it caused their wounds, in addition to their special organs, to spray the fluid on the ground\n\nAdarus could cast ''[[charm monster]]'' on tanar'ri three times each day had a half chance of summoning around 1-4 [[babau]]s each day. They could communicate [[telepathic]]ally with a {{SI|100|ft|long=yes}} range and could deliver a poison through their bite that sapped the vitality of their victims.",
+        "Combat": "Adarus functioned best when leading bands of other tanar'ri in battle, but they weren't exactly efficient commanders. Though crafty, they used their underlings carelessly, expending them in great numbers while finding amusement in the massacre and giggling the entire time even if ''they'' were on the losing end. Despite their approach to combat, they still assisted their servitors in fights, their first move being ordering them to engage. They went where the fetid mist surrounding them would benefit the most of their allies (and turn the tide against their enemies), and preferred flanking positions that aided their minions.\n\nTheir greatest combat advantage was their speed and mobility; they could fearlessly position themselves wherever they so desired on the battlefield while evading attempts to pin them down, springing forward to bite their foes before moving away to avoid immediate counterattack, such as by crawling up a wall to an unreachable area. If a battle went against them, they would use their ''greater teleport'' ability to flee.",
+        "Society": {
+            "Summoning": "Adarus could be summoned by wicked spellcasters using ''[[summon monster IX]]'' and by vile [[cleric]]s in particular by using ''[[greater planar ally]]'', though they would demand the sacrifice of intelligent beings as part of their payment."
+        },
+        "Ecology": {
+            "Diet": "Despite not needing to eat or drink, adarus nonetheless enjoyed feasting on the bodies of their victims, savoring the torn flesh, exclaiming at the delicious fluids and savoring the morsels they swallowed"
+        }
+    }
+}

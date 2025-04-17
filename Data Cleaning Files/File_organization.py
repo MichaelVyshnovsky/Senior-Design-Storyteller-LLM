@@ -3,8 +3,8 @@ import os
 import shutil
 
 #Define where to find and store the results as well as the keywords that the program will be using
-SOURCE_DIR = r"C:\Users\micha\Documents\School\Senior\CSE 4940 Senior Design\SDdata\SDdata\unprocessed"
-BASE_DIR = r"C:\Users\micha\Documents\School\Senior\CSE 4940 Senior Design\SDdata\SDdata"
+SOURCE_DIR = r""
+BASE_DIR = r""
 
 KEYWORDS = ["{{Item", 
             "{{Organization", 

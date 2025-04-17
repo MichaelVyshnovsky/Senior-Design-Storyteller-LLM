@@ -1,0 +1,23 @@
+{
+    "template_data": {
+        "edition": "2e",
+        "edition_1": "1e"
+    },
+    "document_data": {
+        "name": "Hallucinatory Forest",
+        "school2e": "[[Illusion]] (Phantasm)",
+        "reversible2e": "true",
+        "spheres2e": "[[Plant sphere|Plant]]",
+        "level2e": "{{spell table|edition=2e|[[Druid]]|4|[[Plant sphere|Plant]]|4}}",
+        "type2e": "",
+        "refs2e": "",
+        "school1e": "[[Illusion]] (Phantasm)",
+        "reversible1e": "true",
+        "level1e": "{{spell table|edition=1e|[[Druid]]|4}}",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Hallucinatory forest''''' was an [[illusion]] spell that made a large area appear to be a real forest permanently. The reverse of this spell, '''''revealed wood''''', removed this illusion.",
+        "Effects": "A druid could turn an area the size of a 40 ft (12.2 m) square per level of experience into an illusory forest that looked, smelled, sounded, and felt just like the real thing. Other druids and intelligent forest-dwelling creatures ([[centaur]]s, [[dryad]]s, [[green dragon]]s, [[nymph]]s, [[satyr]]s, [[treant]]s, etc.) could recognize the illusion, but unless a creature had an affinity with woodlands, they believed the phantasm unquestioningly and acted accordingly.\n\nThe reverse of this spell exactly countered ''hallucinatory forest''. It could also be ''[[dispel magic|dispelled]]''.",
+        "Components": "Only [[verbal]] and [[somatic component]]s were required to cast this spell. Some druids required [[mistletoe]] as their [[material component]]."
+    }
+}

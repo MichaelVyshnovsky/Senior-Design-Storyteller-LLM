@@ -1,0 +1,1097 @@
+2900
+149085
+
+880711
+880708
+2023-07-18T21:45:34Z
+
+Artyom.pavlov
+24367202
+
+880711
+interactivemap
+text/plain
+{
+    "mapImage": "(FR) Phlan.jpg",
+    "pageCategories": [
+        "Interactive_maps",
+        "Maps_of_Phlan",
+        "Maps_of_cities"
+    ],
+    "defaultSort": "",
+    "description": "A late 15{{th}} century [[DR]] map of [[Phlan]]. The index and references can be found [[media:(FR) Phlan.jpg|here]].",
+    "coordinateOrder": "xy",
+    "mapBounds": [
+        [
+            0,
+            0
+        ],
+        [
+            1349,
+            966
+        ]
+    ],
+    "origin": "bottom-left",
+    "useMarkerClustering": false,
+    "categories": [
+        {
+            "id": "1",
+            "listId": 1,
+            "name": "Inns, Festhalls and Taverns",
+            "color": "#FA005A",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Tankard icon.svg"
+        },
+        {
+            "id": "2",
+            "listId": 2,
+            "name": "Shops",
+            "color": "#FFC500",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Tymora coin icon.svg"
+        },
+        {
+            "id": "3",
+            "listId": 3,
+            "name": "Landmarks",
+            "color": "#ffffff",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Elminter's choice icon.svg"
+        },
+        {
+            "id": "4",
+            "listId": 4,
+            "name": "Private residences",
+            "color": "#66ff00",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Hamlet icon.svg"
+        },
+        {
+            "id": "5",
+            "listId": 5,
+            "name": "Temples and shrines",
+            "color": "#0089fa",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Lathander temple icon.svg"
+        },
+        {
+            "id": "6",
+            "listId": 6,
+            "name": "Businesses",
+            "color": "#8eBc8e",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Tools guilds icon.svg"
+        },
+        {
+            "id": "7",
+            "listId": 7,
+            "name": "Roads and trails",
+            "color": "#7f0000",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Mountain road icon.svg"
+        },
+        {
+            "id": "8",
+            "listId": 8,
+            "name": "Public Buildings",
+            "color": "#e0beff",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Tower icon.svg"
+        },
+        {
+            "id": "9",
+            "listId": 9,
+            "name": "Gates, docks and portals",
+            "color": "#cccccc",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Gate icon.svg"
+        },
+        {
+            "id": "10",
+            "listId": 10,
+            "name": "Farms",
+            "color": "#007f00",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Farms icon.svg"
+        },
+        {
+            "id": "11",
+            "listId": 11,
+            "name": "Bodies of water",
+            "color": "#00e8ff",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Bodies of water icon.svg"
+        },
+        {
+            "id": "12",
+            "listId": 12,
+            "name": "Events",
+            "color": "#ccff00",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Books icon.svg"
+        },
+        {
+            "id": "13",
+            "listId": 13,
+            "name": "Quarters",
+            "color": "#249793",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Black elminster icon.svg"
+        },
+        {
+            "id": "14",
+            "listId": 14,
+            "name": "Forests",
+            "color": "#fa005a",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Forest icon.svg"
+        }
+    ],
+    "markers": [
+        {
+            "categoryId": "8",
+            "position": [
+                647,
+                449.5
+            ],
+            "popup": {
+                "title": " Valjevo Castle",
+                "description": "",
+                "link": {
+                    "url": " Valjevo Castle",
+                    "label": " Valjevo Castle"
+                }
+            },
+            "id": "1"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                558,
+                398.5
+            ],
+            "popup": {
+                "title": "Stojanow Gate",
+                "description": "",
+                "link": {
+                    "url": "Stojanow Gate",
+                    "label": "Stojanow Gate"
+                }
+            },
+            "id": "2"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                620.5,
+                341
+            ],
+            "popup": {
+                "title": " Lyceum of the Black Lord",
+                "description": "Temple of [[Bane]]",
+                "link": {
+                    "url": " Lyceum of the Black Lord",
+                    "label": " Lyceum of the Black Lord"
+                }
+            },
+            "id": "3"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                493,
+                317.5
+            ],
+            "popup": {
+                "title": " Podol Plaza",
+                "description": "Open-air market",
+                "link": {
+                    "url": " Podol Plaza",
+                    "label": " Podol Plaza"
+                }
+            },
+            "id": "4"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                421.5,
+                279.5
+            ],
+            "popup": {
+                "title": "Cadorna Textiles",
+                "description": "",
+                "link": {
+                    "url": "Cadorna Textiles",
+                    "label": "Cadorna Textiles"
+                }
+            },
+            "id": "5"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                450,
+                249.5
+            ],
+            "popup": {
+                "title": " Mantor's Library",
+                "description": "",
+                "link": {
+                    "url": " Mantor's Library",
+                    "label": " Mantor's Library"
+                }
+            },
+            "id": "6"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                514.9505133991,
+                238.29498525987
+            ],
+            "popup": {
+                "title": " The Cracked Crown",
+                "description": "",
+                "link": {
+                    "url": " The Cracked Crown",
+                    "label": " The Cracked Crown"
+                }
+            },
+            "id": "7"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                348.5,
+                320.5
+            ],
+            "popup": {
+                "title": " Kuto's Gate",
+                "description": "",
+                "link": {
+                    "url": " Kuto's Gate",
+                    "label": " Kuto's Gate"
+                }
+            },
+            "id": "8"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                535.986940139403,
+                285.67113959936523
+            ],
+            "popup": {
+                "title": " Kuto's Well",
+                "description": "",
+                "link": {
+                    "url": " Kuto's Well",
+                    "label": " Kuto's Well"
+                }
+            },
+            "id": "9"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                575.93847327644,
+                247.48737341529
+            ],
+            "popup": {
+                "title": " Nat Wyler's Bell",
+                "description": "",
+                "link": {
+                    "url": " Nat Wyler's Bell",
+                    "label": " Nat Wyler's Bell"
+                }
+            },
+            "id": "10"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                656.72542302701,
+                235.99688822101
+            ],
+            "popup": {
+                "title": "Denlor's Tower",
+                "description": "Mage tower",
+                "link": {
+                    "url": "Denlor's Tower",
+                    "label": "Denlor's Tower"
+                }
+            },
+            "id": "11"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                670,
+                212
+            ],
+            "popup": {
+                "title": " Laughing Goblin Inn",
+                "description": "",
+                "link": {
+                    "url": " Laughing Goblin Inn",
+                    "label": " Laughing Goblin Inn"
+                }
+            },
+            "id": "12"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                456.5,
+                136
+            ],
+            "popup": {
+                "title": " Sokol Keep",
+                "description": "",
+                "link": {
+                    "url": " Sokol Keep",
+                    "label": " Sokol Keep"
+                }
+            },
+            "id": "13"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                764,
+                342.5
+            ],
+            "popup": {
+                "title": "Kovel Mansion",
+                "description": "",
+                "link": {
+                    "url": "Kovel Mansion",
+                    "label": "Kovel Mansion"
+                }
+            },
+            "id": "14"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                835.5,
+                277.5
+            ],
+            "popup": {
+                "title": " House Jannarsk",
+                "description": "",
+                "link": {
+                    "url": " House Jannarsk",
+                    "label": " House Jannarsk"
+                }
+            },
+            "id": "15"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                954,
+                178
+            ],
+            "popup": {
+                "title": "Red Plumes",
+                "description": "Mercenary group",
+                "link": {
+                    "url": "Red Plumes",
+                    "label": "Red Plumes"
+                }
+            },
+            "id": "16"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                916.5,
+                315.5
+            ],
+            "popup": {
+                "title": "Vang's Armory",
+                "description": "",
+                "link": {
+                    "url": "Vang's Armory",
+                    "label": "Vang's Armory"
+                }
+            },
+            "id": "17"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                981.5,
+                303
+            ],
+            "popup": {
+                "title": "Leather clothier",
+                "description": "",
+                "link": {
+                    "url": "Randolph Tzintin",
+                    "label": "Randolph Tzintin"
+                }
+            },
+            "id": "18"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1079,
+                300.5
+            ],
+            "popup": {
+                "title": "Carpenter",
+                "description": "",
+                "link": {
+                    "url": "Vondor Thond",
+                    "label": "Vondor Thond"
+                }
+            },
+            "id": "19"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                942,
+                372
+            ],
+            "popup": {
+                "title": "Alero's Smithy",
+                "description": "",
+                "link": {
+                    "url": "Alero's Smithy",
+                    "label": "Alero's Smithy"
+                }
+            },
+            "id": "20"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                873.5,
+                499.5
+            ],
+            "popup": {
+                "title": "The Velvet Doublet",
+                "description": "",
+                "link": {
+                    "url": "The Velvet Doublet",
+                    "label": "The Velvet Doublet"
+                }
+            },
+            "id": "21"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                1106,
+                775.5
+            ],
+            "popup": {
+                "title": "Castle Atuke",
+                "description": "Military fortress",
+                "link": {
+                    "url": "Castle Atuke",
+                    "label": "Castle Atuke"
+                }
+            },
+            "id": "22"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1206,
+                752.5
+            ],
+            "popup": {
+                "title": "Phlan Path",
+                "description": "",
+                "link": {
+                    "url": " Phlan Path",
+                    "label": " Phlan Path"
+                }
+            },
+            "id": "23"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                969,
+                622.5
+            ],
+            "popup": {
+                "title": " Torath's March",
+                "description": "",
+                "link": {
+                    "url": " Torath's March",
+                    "label": " Torath's March"
+                }
+            },
+            "id": "24"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                682.5,
+                920
+            ],
+            "popup": {
+                "title": "Stojanow Trail",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "25"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                659.02352006586,
+                569.22095885517
+            ],
+            "popup": {
+                "title": "Stojanow River",
+                "description": "",
+                "link": {
+                    "url": "Stojanow",
+                    "label": "Stojanow"
+                }
+            },
+            "id": "26"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                436,
+                464.5
+            ],
+            "popup": {
+                "title": " Valhingen Graveyard",
+                "description": "",
+                "link": {
+                    "url": " Valhingen Graveyard",
+                    "label": " Valhingen Graveyard"
+                }
+            },
+            "id": "27"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                560.5,
+                479.5
+            ],
+            "popup": {
+                "title": " Valhingen Way",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "28"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                85.5,
+                414.5
+            ],
+            "popup": {
+                "title": " Iron Route",
+                "description": "",
+                "link": {
+                    "url": " Iron Route",
+                    "label": " Iron Route"
+                }
+            },
+            "id": "29"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                754.5,
+                142.5
+            ],
+            "popup": {
+                "title": "Bay of Phlan",
+                "description": "",
+                "link": {
+                    "url": " Moonsea (lake)",
+                    "label": "The Moonsea"
+                }
+            },
+            "id": "30"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                882.5,
+                222
+            ],
+            "popup": {
+                "title": "Huldane Way",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "31"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                852.5,
+                322
+            ],
+            "popup": {
+                "title": "The Mezzanine",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "32"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                985,
+                413
+            ],
+            "popup": {
+                "title": "Axmar Lane",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "33"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1048.5,
+                314
+            ],
+            "popup": {
+                "title": "Lamp Street",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "34"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1064.5,
+                254
+            ],
+            "popup": {
+                "title": "Oath Street",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "35"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                925.5,
+                323
+            ],
+            "popup": {
+                "title": "Steel Avenue",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "36"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                995,
+                287
+            ],
+            "popup": {
+                "title": "Maiden Avenue",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "37"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                552,
+                297
+            ],
+            "popup": {
+                "title": "Podol Street",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "38"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                370.5,
+                131.5
+            ],
+            "popup": {
+                "title": "Thorn Island",
+                "description": "",
+                "link": {
+                    "url": " Thorn Island",
+                    "label": " Thorn Island"
+                }
+            },
+            "id": "39"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                608.5,
+                657.5
+            ],
+            "popup": {
+                "title": "Christoph Picone's farm",
+                "description": "",
+                "link": {
+                    "url": "Christoph Picone",
+                    "label": "Christoph Picone"
+                }
+            },
+            "id": "40"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                641.5,
+                717
+            ],
+            "popup": {
+                "title": "Anton Eberhard's farm",
+                "description": "",
+                "link": {
+                    "url": "Anton Eberhard",
+                    "label": "Anton Eberhard"
+                }
+            },
+            "id": "41"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                665,
+                815.5
+            ],
+            "popup": {
+                "title": "Dusk Landville's farm",
+                "description": "",
+                "link": {
+                    "url": "Dusk Landville",
+                    "label": "Dusk Landville"
+                }
+            },
+            "id": "42"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                446.5,
+                765.5
+            ],
+            "popup": {
+                "title": "Parhim Schend's farm",
+                "description": "",
+                "link": {
+                    "url": "Parhim Schend",
+                    "label": "Parhim Schend"
+                }
+            },
+            "id": "43"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                269,
+                772.5
+            ],
+            "popup": {
+                "title": "Lorac Scheimer's farm",
+                "description": "",
+                "link": {
+                    "url": "Lorac Scheimer",
+                    "label": "Lorac Scheimer"
+                }
+            },
+            "id": "44"
+        },
+        {
+            "categoryId": "13",
+            "position": [
+                697.5,
+                330.5
+            ],
+            "popup": {
+                "title": "Noble's Quarter",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "45"
+        },
+        {
+            "categoryId": "13",
+            "position": [
+                590.5,
+                391
+            ],
+            "popup": {
+                "title": "The Old City",
+                "description": "",
+                "link": {
+                    "url": "Phlan\/Old_City",
+                    "label": "Old Phlan"
+                }
+            },
+            "id": "46"
+        },
+        {
+            "categoryId": "13",
+            "position": [
+                479.25,
+                241.5
+            ],
+            "popup": {
+                "title": "Scholar's Square",
+                "description": "''(approximative position)<\/small>''",
+                "link": {
+                    "url": "Scholar's Square",
+                    "label": "Scholar's Square"
+                }
+            },
+            "id": "47"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                638.5,
+                211.5
+            ],
+            "popup": {
+                "title": "City Hall",
+                "description": "''(approximative position)<\/small>''",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "48"
+        },
+        {
+            "categoryId": "13",
+            "position": [
+                647.00270478569,
+                210.71782079359
+            ],
+            "popup": {
+                "title": "Slums District",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "49"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                674.93342264256,
+                225.39028650321
+            ],
+            "popup": {
+                "title": "The Waiting",
+                "description": "Temple of [[Tyr]]\n''(approximative position)<\/small>''",
+                "link": {
+                    "url": "The Waiting",
+                    "label": "The Waiting"
+                }
+            },
+            "id": "50"
+        },
+        {
+            "categoryId": "14",
+            "position": [
+                902,
+                814
+            ],
+            "popup": {
+                "title": "Quivering Forest",
+                "description": "",
+                "link": {
+                    "url": "Quivering Forest",
+                    "label": "Quivering Forest"
+                }
+            },
+            "id": "51"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                592.20192924373,
+                238.47176195516
+            ],
+            "popup": {
+                "title": " Cockburn's Grocery",
+                "description": "''(approximative position)<\/small>''",
+                "link": {
+                    "url": " Cockburn's Grocery",
+                    "label": " Cockburn's Grocery"
+                }
+            },
+            "id": "52"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                633.92122933374,
+                252.96745096949
+            ],
+            "popup": {
+                "title": " The Bitter Blade",
+                "description": "''(approximative position)<\/small>''",
+                "link": {
+                    "url": " The Bitter Blade",
+                    "label": " The Bitter Blade"
+                }
+            },
+            "id": "53"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                554.90204653614,
+                236.3504416116
+            ],
+            "popup": {
+                "title": " Jerome's of Melvaunt",
+                "description": "''(approximative position)<\/small>''",
+                "link": {
+                    "url": " Jerome's of Melvaunt",
+                    "label": " Jerome's of Melvaunt"
+                }
+            },
+            "id": "54"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                498.33350404122,
+                230.16325727622
+            ],
+            "popup": {
+                "title": "Matteo's",
+                "description": "''(approximative position)<\/small>''",
+                "link": {
+                    "url": "Matteo's",
+                    "label": "Matteo's"
+                }
+            },
+            "id": "55"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                599.0962203603,
+                279.13040187339
+            ],
+            "popup": {
+                "title": "Ernst's Livery",
+                "description": "''(approximative position)<\/small>''",
+                "link": {
+                    "url": "Ernst's Livery",
+                    "label": "Ernst's Livery"
+                }
+            },
+            "id": "56"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                570.10484233165,
+                230.34003397152
+            ],
+            "popup": {
+                "title": " Slum Market",
+                "description": "''(approximative position)<\/small>''",
+                "link": {
+                    "url": " Slum Market",
+                    "label": " Slum Market"
+                }
+            },
+            "id": "57"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                498.1567273459228,
+                360.270905014546
+            ],
+            "popup": {
+                "title": "Madame Freona's Tea Kettle",
+                "description": "{{approx}}",
+                "link": {
+                    "url": "Madame Freona's Tea Kettle",
+                    "label": "Madame Freona's Tea Kettle"
+                }
+            },
+            "id": "58"
+        }
+    ]
+}
+sd36jda06k6w7p5mysfuwa126sz3a15
+
+

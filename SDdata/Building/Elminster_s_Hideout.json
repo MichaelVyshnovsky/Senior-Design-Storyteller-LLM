@@ -1,0 +1,41 @@
+{
+    "template_data": {
+        "0.25|mi|long": "yes",
+        "250|ft|long": "yes"
+    },
+    "document_data": {
+        "image": "",
+        "caption": "",
+        "name": "Elminster's Hideout",
+        "aliases": "",
+        "type": "Safehold",
+        "architecture": "Floating metallic sphere",
+        "floors": "",
+        "location": "[[Coliar]]",
+        "owner": "[[Elminster Aumar]]",
+        "ownertable": "",
+        "staff": "",
+        "stafftable": "",
+        "occupants": "",
+        "services": "",
+        "worship": "",
+        "pipes": "",
+        "tankards": "",
+        "coins": "",
+        "daggers": "",
+        "quality": "",
+        "price": "",
+        "usethe": "",
+        "useon": "",
+        "inhabitants": "",
+        "locations": "",
+        "organizations": "",
+        "Notify next of kin before trespassing.\n|Encoded message on the outside of the hideout.\n}}\n'''Elminster's Hideout''' was a retreat designed and built by [[Elminster]] near the center of the planet [[Coliar]]. It contained a large portion of Elminster's library, as well as a vast supply of [[potion]]s and four [[portal]]s that led to different locations on [[Toril]] and on [[Earth]].": "=Location==",
+        "mainbody": "e safehold was located near the central [[earthmote]] of Coliar. It slowly revolved around the territory of the [[red dragon]] [[Firebrand Flametongue]]. It emitted a constant low humming noise that could be heard from over {{SI|0.25|mi|long=yes}} away.",
+        "Location": "The safehold was located near the central [[earthmote]] of Coliar. It slowly revolved around the territory of the [[red dragon]] [[Firebrand Flametongue]]. It emitted a constant low humming noise that could be heard from over {{SI|0.25|mi|long=yes}} away.",
+        "Structure": "From the outside, the safehold appeared to be a perfectly reflective metallic sphere almost {{SI|250|ft|long=yes}} in diameter. Due to its orbital motion, it reflected a faint rainbow-like pattern of light.\n\nIf investigated with magic such as a ''[[detect magic]]'' spell, the outer walls revealed a glowing red piece of beautiful writing that could only be read with magic such as a ''[[comprehend languages]]'' spell.",
+        "Interior": "The hideout was a pocket dimension shaped like an octagonal chamber. Each of the walls alternated between holding shelves or a doorway. The chamber also contained a bed. The shelves held a vast collection of potions and [[scroll]]s that Elminster stored for himself and friends in case of need, as well as the original copies of his entire library of [[book]]s and [[spellbook]]s.\n\nThe four doorways were invisible at their destinations and led to the following locations:\n* A room inside [[Elminster's castle]] on [[Toril]];\n* The temple of [[Mystra]] in [[Evermeet]];\n* [[wikipedia:Yellowstone National Park|Yellowstone National Park]] on [[Earth]] in the year 1894, Elminster's favorite resting location off Toril;\n* [[Ed Greenwood]]'s library on Earth. This was the passage used by Elminster during their several meetings.",
+        "Defenses": "The sphere was impenetrable to any [[divination]] or [[scry]]ing spells from the outside. It could only be accessed via the ''[[Elminster's evasion]]'' spell in effect on Elminster or if someone wearing a non-magical ring bearing Elminster's name touched the outside wall without making any sound.",
+        "History": "Elminster originally built his hideout sometime in the 11{{th}} century [[DR]] with the purpose of monitoring the activities of the Torilian dragon Firebrand Flametongue. After concluding that the dragon had the intention of retiring, Elminster repurposed the location as his hideout."
+    }
+}

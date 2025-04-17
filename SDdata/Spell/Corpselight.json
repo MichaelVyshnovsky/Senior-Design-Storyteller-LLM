@@ -1,0 +1,23 @@
+{
+    "template_data": {
+        "edition": "2e",
+        "edition_1": "1e"
+    },
+    "document_data": {
+        "image": "Corpselight.JPG",
+        "caption": "Behold the soothing glow of corpselight.",
+        "name": "Corpselight",
+        "school2e": "[[Alteration]]/[[Necromancy]]",
+        "inventor": "",
+        "level2e": "{{spell table|edition=2e|[[Wizard]]|1}}",
+        "type2e": "",
+        "refs2e": "",
+        "school1e": "[[Alteration]]/[[Necromancy]]",
+        "level1e": "{{spell table|edition=1e|[[Magic-user]]|1}}",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''Corpselight''' was a [[necromantic]] spell with an [[alteration]] component<ref group=\"note\">Alteration specialists ([[Transmutation|transmuters]]) could not cast ''corpselight'' due to the major necromantic component, but non-specialist wizards and necromancers were able to utilize this spell. that was generally known in [[Faerûn]].",
+        "Effects": "This spell caused a body, either dead or [[undead]], to give off a faint radiance, from a thin nimbus outline to a full [[torch]]-like aura. The brightness was adjustable by the caster as long as he or she was within 30 ft (9.1 m) of the body. The glow was spread out evenly over the corpse and did not flicker. This emanation was not harmful to the undead and could last for a few minutes to a few hours, depending on the level of the caster. The surface area of the corpse(s) was a limiting factor in how many corpses could be affected&mdash;many dead rats could be set aglow, or a couple of [[halfling]] [[zombie]]s, or one [[elvish]] [[skeleton]], for example. More experienced wizards could affect more and larger bodies. Not all forms of undead could be the target of this spell. Gaseous creatures like [[wraith]]s could be lit up, but [[ghost]]s could not.",
+        "Components": "[[Verbal component|Verbal]], [[somatic component|somatic]], and [[material component]]s were required for this spell, including a corpse, a pinch of [[saltpeter]], and a piece of a glowworm or a speck of [[phosphorus]]. The color of the glow could be specified as part of the verbal component as being white, yellow, green, amber, or red."
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "template_data": {
+        "25|ft|long": "yes",
+        "13000|lb|k|long": "yes"
+    },
+    "document_data": {
+        "image": "Eldritch Giant 3e.jpg",
+        "caption": "An eldritch giant",
+        "name": "Eldritch Giant",
+        "size5e": "",
+        "type5e": "",
+        "subtype5e": "",
+        "alignment5e": "",
+        "challenge5e": "",
+        "refs5e": "",
+        "size4e": "Large",
+        "origin4e": "[[Fey]]",
+        "type4e": "[[Humanoid]]",
+        "subtype4e": "[[Giant]]",
+        "alignment4e": "[[Evil]]",
+        "refs4e": "",
+        "size3e": "Huge",
+        "type3e": "[[Giant]]",
+        "subtype3e": "",
+        "alignment3e": "Usually [[neutral evil]]",
+        "challenge3e": "15",
+        "refs3e": "",
+        "vision": "[[Low-light vision]]",
+        "lifespan": "3,000 years",
+        "language": "[[Abyssal]], [[Common]], [[Elven]], [[Giant language|Giant]], [[Terran]]",
+        "climate": "Temperate",
+        "terrain": "Mountains",
+        "genrefs": "",
+        "height": "{{SI|25|ft}}",
+        "weight": "{{SI|13000|lb|k}}",
+        "skincolor": "Faint purple",
+        "haircolor": "Light shades",
+        "eyecolor": "Changing (blue/green/violet)",
+        "appearrefs": "",
+        "mainbody": "'''Eldritch giants''' were a breed of giant with formidable magical ability and a obsession with collecting arcane lore. They were formerly even more powerful creatures who lost much of their power. Their relation to true [[giants]] was unknown.",
+        "Appearance": "Eldritch giants had skin tinged with a faint purple and light colored hair. Their eyes subtly changed colors between blue, green, and violet. Adults stood {{SI|25|ft|long=yes}} tall and weighed around {{SI|13000|lb|k|long=yes}}. Some eldritch giants had tattoos of arcane symbols that covered their whole bodies.",
+        "Abilities": "Eldritch giants had a number of innate magical abilities, namely that they could [[Detect magic|detect]] and [[Greater dispel magic|dispel]] powerful magic, as well attack with [[magic missile]]s. Additionally, they could create [[dimension door]]s or a [[globe of invulnerability]]. Their study of arcane lore also gave them the ability to use many magical items much like a [[wizard]] could, and they had a strong resistance to illusions and mental manipulation due to their powerful wills.\n\nThe arcane tattoos that some eldritch giants possessed allowed them to absorb conjurations and zones of magic and then use the energy to bolster their own attacks. These tattoos were even said to allow eldritch giants to teleport along flows of magic energy.",
+        "Combat": "While extremely dangerous in combat due to their size, eldritch giants would generally avoid it unless absolutely necessary because they viewed it as a distraction from their studies of the arcane.\n\nWhen forced to fight they would do their best to strip an enemy of all magical protection, while simultaneously wrapping themselves in protective spells. They would then close-in on their target to attack at close range, generally favoring [[bastard sword]]s and wearing full [[plate mail|plate armor]]. They preferred hit-and-run tactics, and if an enemy proved to be a greater threat than expected, they were not against fleeing by magical means.",
+        "Society": {
+            "Relations": "Eldritch giants despised storm giants, although as with most things, they deemed their research more important and would rarely pursue this grievance unless provoked."
+        }
+    }
+}

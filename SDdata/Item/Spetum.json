@@ -1,0 +1,52 @@
+{
+    "template_data": {
+        "8|ft|long": "yes"
+    },
+    "document_data": {
+        "image": "Spetum-2e.png",
+        "caption": "The head of a spetum.",
+        "name": "Spetum",
+        "othernames": "",
+        "nicknames": "",
+        "type": "Piercing<br />[[Polearm]]<br />[[Spear]]",
+        "creator": "",
+        "location": "",
+        "basicrefs": "",
+        "value1e": "",
+        "weight1e": "{{SI|5|lbs.|k}}",
+        "refs1e": "",
+        "school2e": "",
+        "level2e": "",
+        "value2e": "5 [[gp]]",
+        "weight2e": "{{SI|7|lbs.|k}}",
+        "refs2e": "<ref>",
+        "school3e": "",
+        "casterlevel3e": "",
+        "itemlevel3e": "",
+        "value3e": "10 gp",
+        "weight3e": "{{SI|8|lbs.|k}}",
+        "refs3e": "{{Cite dragon/331/The Point of Pole Arms|24}}",
+        "level4e": "",
+        "value4e": "",
+        "weight4e": "",
+        "refs4e": "",
+        "rarity5e": "",
+        "attunement5e": "",
+        "school5e": "",
+        "level5e": "",
+        "value5e": "",
+        "weight5e": "",
+        "refs5e": "",
+        "communication": "",
+        "languages": "",
+        "alignment": "",
+        "sentientrefs": "",
+        "mainbody": "'''Spetum'''s were a type of [[spear]] similar to [[ranseur]]s.{{Cite dragon/331/The Point of Pole Arms|27}}",
+        "Description": "Spetums were roughly similar in appearance to ranseurs, having a pair of sharp tapering points Though their shafts were generally shorter, at around {{SI|8|ft|long=yes}} in length. They also sometimes had their side blades angled backwards.",
+        "Weaponology": "Like all spears, the primary function of spetums was to be thrusted at and pierce their foes. Their design's secondary capability was deflecting attacks, as well as catching and holding foes at a distance when penetration wasn't achieved.",
+        "Notable Users": {
+            "Groups": "* Employees of the [[Sigil of the Silent Night]] in [[Ravens Bluff]] were regularly outfitted with spetums.<ref>{{Cite polyhedron/67/The Living City: Sigil of the Silent Night|6}}\n* The [[Riders of Mistledale]] were sometimes outfitted with spetums.",
+            "Individuals": "* [[Dalvar Corzon]] was specialized in the use of spetums.\n* The [[Ravenian]] merchant [[Bendekar]] had multiple spetums in his [[Bendekar's House|home's]] expansive weapons collection.{{Cite organized play/LC/A Handful of Dust|37}}"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "template_data": {
+        "edition": "2e",
+        "edition_1": "3e"
+    },
+    "document_data": {
+        "name": "Ghost Armor",
+        "image": "Ghost Armor.png",
+        "school2e": "[[Conjuration]]",
+        "level2e": "{{Spell table|edition=2e|[[Wizard]]|3}}",
+        "type2e": "",
+        "refs2e": "",
+        "school3e": "[[Conjuration]]",
+        "level3e": "{{Spell table|edition=3e|[[Bard]]|3|[[Silverstar]]|3|[[Sorcerer]]|3|[[Wizard]]|3}}",
+        "refs3e": "",
+        "mainbody": "'''''Ghost armor''''' was a [[conjuration]] spell that improved on the ''[[mage armor|armor]]'' spell by creating an aura of protection around the recipient.",
+        "Effects": "This spell could be cast by touch on one creature of any size up to Huge. ''Ghost armor'' created a translucent aura around the target that made it appear that he or she was wearing ghostly [[plate mail]] over their real clothing or armor, and it afforded the same protection as plate mail. If the recipient was already wearing armor (magical or otherwise) equal to or better than plate mail, this spell had no effect except in altering appearance. Magical bonuses on armor being worn did not stack with this spell.\n\nThe ''ghost armor'' lasted one minute per experience level of the caster, and was a weightless and completely unencumbering magical force, immune to rust, ''[[heat metal]]'', and similar effects that affect metal.",
+        "Components": "[[Verbal]] and [[somatic]] components were required to cast this spell, and the [[material component]] was a scrap of real battle-worn armor.",
+        "History": "In the month of [[Eleasis]], of the {{YearlinkName|1371}}, the city of [[Ravens Bluff]]'s [[Ministry of Art]] and [[Wizards Guild]] jointly declared it illegal to cast ''ghost armor'' within city limits due to a raging unnatural storm at the time called the [[Soulstorm]]. In addition to threatening arrest for those that broke this decree, it was declared that breaking this prohibition would result in a permanent expulsion from either organization.{{Cite trumpeter/2-8|2}}{{LCRB}}"
+    }
+}

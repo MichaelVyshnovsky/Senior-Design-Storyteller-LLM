@@ -1,0 +1,43 @@
+{
+    "template_data": {
+        "edition": "5e",
+        "edition_1": "3e",
+        "edition_2": "2e",
+        "edition_3": "1e",
+        "10|ft|long": "yes"
+    },
+    "document_data": {
+        "image": "",
+        "caption": "",
+        "name": "Antilife Shell",
+        "deity": "",
+        "inventor": "",
+        "type": "",
+        "school5e": "[[Abjuration]]",
+        "domains5e": "[[Death domain|Death]], [[Grave domain|Grave]]",
+        "circles5e": "",
+        "oaths5e": "",
+        "patrons5e": "",
+        "traditions5e": "",
+        "level5e": "{{spell table|edition=5e|[[Death domain|Death]]|5|[[Grave domain|Grave]]|5|[[Druid]]|5|}}",
+        "type5e": "",
+        "refs5e": "",
+        "level3e": "{{spell table|edition=3e|[[Animal domain|Animal]]|6|[[Cleric]]|6|[[Druid]]|6}}",
+        "domains3e": "",
+        "school3e": "[[Abjuration]]",
+        "refs3e": "",
+        "school2e": "[[Abjuration]]",
+        "spheres2e": "[[Animal sphere|Animal]], [[Protection sphere|Protection]]",
+        "level2e": "{{spell table|edition=2e|[[Animal sphere|Animal]]|6|[[Cleric]]|6|[[Druid]]|6|[[Mystic]]|6|[[Protection sphere|Protection]]|6|[[Shaman]]|6}}",
+        "type2e": "",
+        "refs2e": "",
+        "school1e": "[[Abjuration]]",
+        "level1e": "{{spell table|edition=1e|[[Druid]]|6}}",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Antilife shell''''', also known as '''''anti-animal shell''''', was an [[abjuration]] spell that produced a hemispherical barrier that was impermeable to most types of living creatures.",
+        "Effects": "The area protected by this spell was a {{SI|10|ft}} radius hemisphere centered on the caster and lasted almost two hours at a minimum (longer for higher level casters). For the older version called ''anti-animal shell'', the force field prevented entry of creatures that were at least partially animal. This included all [[humanoids]], [[beast]]s, [[magical beast]]s, [[giant]]s, [[vermin]], and hybrids like [[cambion]]s. The newer version added more lifeforms such as [[aberration]]s, [[dragon]]s, [[fey]], [[monstrous humanoid]]s, [[ooze]]s, [[plant creature|plant]]s, and [[shapechanger]]s to this list. Creatures that were unaffected by this spell included [[aerial servant]]s, [[imp]]s, [[quasit]]s, [[construct]]s (like [[golem]]s), [[elemental]]s, [[outsider]]s, or [[undead]].\n\nLike most abjuration spells, this one could not be used offensively to push a warded creature. Any such attempt resulted in the collapsing of the force field.\n\nWith the [[Second Sundering]] magic system lasting for a hour the caster had a {{SI|10|ft|long=yes}} barrier to hedge living creature. The spell would end if the caster moved so that a creature would have to pass the barrier.",
+        "Components": "Both versions required [[verbal]] and [[somatic]] components, plus the [[holy symbol]] or [[divine focus]] of the caster. The older version also required a handful of peppers.",
+        "History": "It was recorded in ''[[Yornar's Trail Companion]]'', a holy text of the [[church of Mielikki]].<ref>"
+    }
+}

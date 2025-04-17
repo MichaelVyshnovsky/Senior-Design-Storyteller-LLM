@@ -1,0 +1,42 @@
+{
+    "template_data": {
+        "lca": "center",
+        "rca": "center",
+        "lca_1": "center",
+        "rca_1": "center"
+    },
+    "document_data": {
+        "image": "Shadow_Druids.png",
+        "caption": "Wren and Olodan of the Shadow Druids.",
+        "name": "Shadow Druids",
+        "aliases": "",
+        "base": "[[Trademeet]], [[Amn]]<br />{{Former}}<br />[[Cloakwood]], [[Sword Coast]]",
+        "leader": "[[Aelis]]<br />{{Former}} [[Amarande]], [[Faldorn]]",
+        "symbol": "",
+        "favored deity": "",
+        "favored weapon": "",
+        "domains": "",
+        "formed": "",
+        "disbanded": "",
+        "basicrefs": "",
+        "members": "",
+        "memberstable": "14{{th}} century<br />{{Split table|lca=center|rca=center|[[Amarande]]|[[Laskal]]|[[Faldorn]]|[[Corsone]]|[[Takiyah]]|[[Izefia]]}}<br/>15{{th}} century<br />{{Split table|lca=center|rca=center|[[Aelis]]|[[Kagha]]}}",
+        "memtableheader": "",
+        "alignment": "[[True neutral]]",
+        "races": "",
+        "memrefs": "",
+        "allegiances": "",
+        "enemies": "[[Iron Throne]]",
+        "relrefs": "",
+        "showmembers": "yes",
+        "orgname": "the Shadow Druids",
+        "mainbody": "The '''Shadow Druids''' were a militant sect of [[druid]]s that operated throughout the [[Sword Coast]] and [[Amn]] during the 14{{th}} and 15{{th}} centuries [[DR]].\n\n{{quote|''Balance is a myth. Where any clan treads, nature struggles.<br/>Unity is a fiction. Men of mere flesh seek only to tame beast and raze flora.<br/>We are thunder, and we are rain. We shatter mankind, and grow new life in its place.''|The excerpt from ''[[Faldorn's Canticle: The Shadow Druid's Doctrine|Faldorn's Canticle]]''.}}",
+        "Organization": "The druidic circle as a whole was led by the [[archdruid|Shadow Archdruid]], while \"First Druids\" served as the leaders of individual groves.",
+        "Activities": "Their guiding belief was that there was a long and endless struggle between people and nature. The tenets of their order were outlined in ''[[Faldorn's Canticle: The Shadow Druid's Doctrine]]''.",
+        "Tactics": "They used extreme methods and violence to drive away civilization, using the ferocious powers of nature.",
+        "History": {
+            "15{{th}} Century": "In the {{YearlinkName|1492}}, there emerged the threat of a growing horde of [[goblinoid]]s, allied with [[drow]], [[gnoll]]s, and other monstrous creatures, which endangered druidic enclaves across the Sword Coast. Under the supervision of [[Aelis]], three druids of their order, [[Olodan]], [[Pinta]], and [[Wren (druid)|Wren]], infiltrated the [[Emerald Grove]] near the [[River Chionthar]] and took great pains to \"protect\" the grove from the rampaging goblins.\n\nThe group managed to corrupt the spirit of [[Kagha]], a senior member of the grove's druids, and manipulate her into carrying out the ''[[Rite of Thorns]]''. The powerful ritual would encase the Emerald Grove in a thicket of vines and brambles, shielding it away from any outsiders. The Shadow Druids would then take control of the grove itself, to further ensure its safety."
+        },
+        "Members": ";14{{th}} century\n* [[Amarande]], Shadow Archdruid of the Cloak Wood.\n* [[Faldorn]], the leader of the order after Amarande.\n;15{{th}} century\n* [[Aelis]], an archdruid and leader within the order.\n* [[Olodan]], a halfling shadow druid who managed to infiltrate Emerald Grove."
+    }
+}

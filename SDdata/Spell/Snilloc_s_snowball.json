@@ -1,0 +1,23 @@
+{
+    "template_data": {
+        "edition": "3e",
+        "edition_1": "2e"
+    },
+    "document_data": {
+        "name": "Snilloc's Snowball",
+        "inventor": "[[Snilloc]]",
+        "school3e": "[[Evocation]]",
+        "descriptors3e": "{{desc/cold}}",
+        "level3e": "{{spell table|edition=3e|[[Sorcerer]]|1|[[Wizard]]|1}}",
+        "type3e": "",
+        "refs3e": "",
+        "school2e": "[[Evocation]], [[Elemental water school|Water]]",
+        "level2e": "{{spell table|edition=2e|[[Wizard]]|1}}",
+        "type2e": "",
+        "refs2e": "",
+        "mainbody": "'''''Snilloc's snowball''''' was an [[evocation]] spell in general use throughout the Realms.",
+        "Effects": "This spell caused one ball of magical snow to instantly appear in the caster's hand which could then be thrown at any creature or object within the range of the spell's effect. The frigid projectile struck unerringly, like a ''[[magic missile]]'', and could be deflected or negated by the same methods that worked against ''magic missile''. At higher levels, the range of this spell was much greater than for ''magic missile'', but it was limited to just the one snowball. Creatures with an affinity for fire were particularly susceptible to damage from this spell, taking up to twice as much damage as a non-fire-using creature.\n\nOther versions of this spell did not magically strike the opponent but had to be aimed and thrown&mdash;or shoved against someone&mdash;by the caster. In such cases, however, a replacement snowball could appear in the caster's hand.",
+        "Components": "Verbal and somatic components were necessary to cast this spell, as well as a chip of ice or a fleck of [[ivory]].",
+        "Related spells": "*''[[Snilloc's snowball swarm]]''\n*There were rumors of a very similar spell with a different missile called '''''Snilloc's cream pie'''''."
+    }
+}

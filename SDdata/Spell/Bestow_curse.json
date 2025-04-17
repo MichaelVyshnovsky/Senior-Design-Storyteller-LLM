@@ -1,0 +1,48 @@
+{
+    "template_data": {
+        "edition": "5e",
+        "edition_1": "3e",
+        "edition_2": "2e",
+        "edition_3": "1e"
+    },
+    "document_data": {
+        "image": "Bestow Curse 5e.png",
+        "caption": "",
+        "name": "Bestow Curse",
+        "spheres": "",
+        "domains": "",
+        "inventor": "[[Enollar]]{{Cite book/Netheril: Empire of Magic/The Winds of",
+        "descriptors": "",
+        "keywords": "",
+        "level": "",
+        "type": "",
+        "school5e": "[[Necromancy]]",
+        "oaths5e": "[[Conquest oath|Conquest]]",
+        "level5e": "{{Spell table|edition=5e|[[Bard]]|3|[[Cleric]]|3|[[Conquest oath|Conquest]]|3|[[Wizard]]|3}}",
+        "type5e": "",
+        "refs5e": "",
+        "domains3e": "[[Fate domain|Fate]], [[Hatred domain|Hatred]], [[Humility domain|Humility]],<br />[[Suffering domain|Suffering]]",
+        "level3e": "{{Spell table|edition=3e|[[Adept]]|3|[[Cleric]]|3|[[Demonologist]]|2|[[Fate domain|Fate]]|3|[[Hatred domain|Hatred]]|3|[[Humility domain|Humility]]|3|[[Sorcerer]]|4|[[Suffering domain|Suffering]]|3|[[Wizard]]|4}}",
+        "school3e": "[[Necromancy]]",
+        "type3e": "",
+        "refs3e": "{{Cite dragon/355/Seven Saintly Domains|28}}",
+        "school2e": "[[Abjuration]], [[Universal spell|Universal]]<br/>[[Mentalism]]",
+        "reversible2e": "true",
+        "spheres2e": "[[All sphere|All]], [[Protection sphere|Protection]]<ref group=\"note\">This spell was originally in the [[Protection sphere]] but was moved to the [[All sphere]] by the [[Player's Option: Spells & Magic]]. See page 186.",
+        "level2e": "{{spell table|edition=2e|[[All sphere|All]]|3|[[Arcanist]]|4|[[Cleric]]|3|[[Crusader]]|3|[[Druid]]|3|[[Monk]]|3|[[Mystic]]|3|[[Paladin]]|3|[[Protection sphere|Protection]]|3|[[Shaman]]|3|[[Wizard]]|4}}",
+        "type2e": "",
+        "refs2e": "<ref><ref>",
+        "school1e": "[[Abjuration]]",
+        "reversible1e": "true",
+        "level1e": "{{spell table|edition=1e|[[Cleric]]|3|[[Paladin]]|3}}",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Bestow curse''''' was a [[necromancy]] or [[abjuration]] spell that handicapped a creature. The reverse of this spell was ''[[remove curse]]''.",
+        "Effects": {
+            "Post-Second Sundering": "After the [[Second Sundering]], the curse changed in several ways. The curse had a one-minute duration if not used with more skill or force but a skilled caster could make the curse last for hours, or if very skilled make it permanent.\n* The spell still could still lower an ability or personality trait, but it also made attempts related to the lowered trait or ability become disadvantageous. \n* Attacks from the victim against the caster would be at a disadvantage.\n* As with the earlier versions, the victim could have blackouts every so often.\n* The caster would cause extra necrotic damage against the victim with either spells or weapons.\n\nThe spell could be dispelled with a remove curse spell."
+        },
+        "Components": "Only verbal and somatic components were required to cast this spell.",
+        "History": "The [[Netherese]] [[arcanist]] [[Enollar]] was given the credit for the creation of this spell in {{Yearlink|-1561}}.",
+        "Traditions": "In the [[Mulan]] spellcasting tradition,{{cite book/Races of Faerûn|97}} curse-type magic was well known and used frequently."
+    }
+}

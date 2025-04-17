@@ -1,0 +1,23 @@
+{
+    "template_data": {
+        "edition": "3e",
+        "edition_1": "2e"
+    },
+    "document_data": {
+        "name": "Changestaff",
+        "level3e": "{{spell table|edition=3e|[[Druid]]|7}}",
+        "descriptors3e": "",
+        "school3e": "[[Transmutation]]",
+        "domains3e": "",
+        "type3e": "",
+        "refs3e": "",
+        "school2e": "[[Evocation]], [[Enchantment]]",
+        "spheres2e": "[[Creation sphere|Creation]], [[Plant sphere|Plant]]",
+        "level2e": "{{spell table|edition=2e|[[Cleric]]|7|[[Creation sphere|Creation]]|7|[[Druid]]|7|[[Plant sphere|Plant]]|7}}",
+        "type2e": "",
+        "refs2e": "",
+        "mainbody": "'''''Changestaff''''' was a [[transmutation]] or [[evocation]] and [[enchantment]] spell that made a specially prepared staff become a [[treant]]-like creature on command.",
+        "Effects": "This spell required a staff that was specifically prepared for use with this spell. The caster planted the staff in the ground and spoke the command invocation and the staff immediately became a creature about {{SI|24|ft}} tall that looked and fought like a [[treant]] but had none of the other abilities of a treant. The staff-treant was at the command of the caster and would defend him or her to the death. If the staff-treant was killed, it turned into powder and the staff was lost. Otherwise, the creature turned back into a staff when the spell expired or at the command of the caster, whichever came first. The staff-treant could be summoned, refreshed and renewed, once every 24 hours.",
+        "Components": "There were two different methods of preparing the staff for this spell. The older version was complex and very demanding of the druid's time. First, a limb from a lightning-struck [[tree]] had to be harvested within 24 hours of the strike. The tree had to be [[ash]], [[oak]], or [[yew]], and the limb in good condition. The limb was then sun-cured and bathed in special smoke for 28 days. After this was done, the staff had to be pruned to shape, carved with woodland scenes, and polished; a process that took another 28 days. Once finished, the druid rubbed the staff with [[holly]] berry juice and stuck the end into the ground of a sacred grove and cast ''[[speak with plants]]'' to call upon the staff for aid in time of need. This charged the staff and enabled many transformations from staff to treant and back again.\n\nThe newer tradition did not require the original tree to be struck by lightning, and shortened the curing, carving and polishing process to just 28 days. In both traditions, the caster could not engage in strenuous activity or go off adventuring during any 28-day period while preparing a staff."
+    }
+}

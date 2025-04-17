@@ -1,0 +1,40 @@
+{
+    "template_data": {
+        "image": "[[Image:Frostburn cover.jpg",
+        "code": "177580000",
+        "title": "Frostburn",
+        "author": "[[Wolfgang Baur]], [[James Jacobs]], and [[George Strayton]]",
+        "publisher": "[[Wizards of the Coast]]",
+        "released": "September 2004",
+        "type": "Accessory",
+        "binding": "Hardcover",
+        "pages": "224",
+        "isbn": "0-7869-2896-4"
+    },
+    "document_data": {
+        "image": "[[Image:Frostburn cover.jpg|250px|Frostburn]]",
+        "code": "177580000",
+        "title": "Frostburn",
+        "author": "[[Wolfgang Baur]], [[James Jacobs]], and [[George Strayton]]",
+        "publisher": "[[Wizards of the Coast]]",
+        "released": "September 2004",
+        "type": "Accessory",
+        "binding": "Hardcover",
+        "pages": "224",
+        "isbn": "0-7869-2896-4",
+        "mainbody": "'''''Frostburn: Mastering the Perils of Ice and Snow''''' is an accessory for the 3.5{{th}}-edition of {{dnd}} ruleset.\n\n{{Quote|'''''Survival at Sub-Zero'''''\n\n''Marrow-chilling conditions, deadly hazards, and other dangers threaten explorers of frostfell environments. Whether traveling through polar regions and frozen mountaintops to ice-glazed dungeons and the Ice Wastes of the [[Abyss]], a wintry grave awaits those who venture forth unprepared.''\n\n''This supplement for the D&D game explores the impact of arctic conditions and extreme cold-weather environments on every aspect of game play. Along with rules for adapting to, navigating through, and surviving hazardous cold-weather conditions and terrain, ''Frostburn'' also includes new spells, feats, magic items, prestige classes, and monsters associated with icy realms.''}}",
+        "Contents": "* Introduction\n* Chapter 1: The Frostfell\n* Chapter 2: Races, Classes and Feats\n* Chapter 3: Prestige Classes\n* Chapter 4: Equipment\n* Chapter 5: Magic of the Frostfell\n* Chapter 6: Monsters of the Frostfell\n* Chapter 7: Adventure Sites\n* Appendix: Encounter Tables",
+        "Description": "''Frostburn'' focuses on cold-environment settings and creatures and has some elements related to the ''[[Forgotten Realms]]''.",
+        "Index": {
+            "Creatures": "{{P|animal, arctic|164}} ({{P|[[caribou]]|164}} • {{P|[[Arctic fox|fox, arctic]]|165}} • {{P|[[Sea otter|otter, sea]]|165}} • {{P|[[penguin]]|166}} • {{P|[[seal]]|166}} • {{P|[[walrus]]|166}}) • {{P|[[branta]]|113}} • {{P|[[chilblain]]|114}} • {{P|[[dire animal]]|115}} ({{P|[[dire polar bear]]|115}} • {{P|[[glyptodon]]|116}} • {{P|[[megaloceros]]|117}} • {{P|[[smilodon]]|118}} • {{P|[[woolly mammoth]]|119}} • {{P|[[zeuglodon]]|120}}) • {{P|[[domovoi]]|121}} • {{P|[[Glacier dwarf|dwarf, glacier]]|122}} • {{P|[[Midgard dwarf|dwarf, Midgard]]|124}} • {{P|[[elemental weird]]|125}} ({{P|[[ice weird]]|126}} • {{P|[[snow weird]]|127}}) • {{P|[[entombed]]|128}} • {{P|[[frost folk]]|130}} • {{P|[[Qorrashi|genie, qorrashi]]|131}} • {{P|[[Frostfell ghost|ghost, Frostfell]]|132}} • {{P|[[frost giant]]|133}} ({{P|[[Frost giant|frost giant mauler]]|134}} • {{P|[[Frost giant|frost giant spiritspeaker]]|134}} • {{P|[[Frost giant|frost giant tundra scout]]|135}}) • {{P|[[Snow goblin|goblin, snow]]|136}} • {{P|[[Ice golem|golem, ice]]|137}} • {{P|[[ice beast]]|138}} • {{P|[[ice toad]]|140}} • {{P|[[ice gaunt]]|141}} • {{P|[[malasynep]]|142}} ({{P|[[Malasynep|malasynep mindmage]]|144}}) • {{P|[[marzanna]]|144}} • {{P|[[neanderthal]]|145}} • {{P|[[Orc|orc, snow shaman]]|146}} • {{P|[[White pudding|pudding, white]]|147}} • {{P|[[Giant raven|raven, giant]]|148}} • {{P|[[rimefire eidolon]]|149}} • {{P|[[rusalka]]|150}} • {{P|[[shivhad]]|152}} • {{P|[[snowcloak]]|153}} • {{P|[[Snow spider|spider, snow]]|154}} • {{P|[[spirit animal]]|155}} • {{P|[[tlalusk]]|157}} • {{P|[[uldra]]|158}} • {{P|[[urskan]]|159}} • {{P|[[vodyanoi]]|160}} • {{P|[[winterspawn]]|161}} • {{P|[[yeti]]|162}} ({{P|[[abominable yeti]]|163}}) • {{P|[[yuki-on-na]]|164}}",
+            "Magic": {
+                "Spells": "{{P|[[Frostbite (spell)]]|58,74,84,95}}"
+            },
+            "Religions": "{{P|[[Aengrist]]|42}} • {{P|[[Auril]]|42}} • {{P|[[Hleid]]|42}} • {{P|[[Iborighu]]|42-43}} • {{P|[[Levistus]]|43}} • {{P|[[Telchur]]|43}} • {{P|[[Thrym]]|43}} • {{P|[[Ulutiu]]|43}} • {{P|[[Vatun]]|43-44}}",
+            "Miscellaneous": {
+                "Conditions": "{{P|[[Frostbite (condition)]]|10,12,21,79,131,142,162}}"
+            }
+        },
+        "Gallery": "<gallery>\nFrostburn Back Cover.jpg|''Back Cover''\n</gallery>"
+    }
+}

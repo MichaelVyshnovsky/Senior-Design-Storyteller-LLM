@@ -1,0 +1,44 @@
+{
+    "template_data": {
+        "700|lbs|k|long": "yes",
+        "300|miles|k|long": "yes"
+    },
+    "document_data": {
+        "image": "Sakina.PNG",
+        "caption": "The wispy form of a sakina.",
+        "name": "Sakina",
+        "size2e": "Medium",
+        "alignment2e": "[[Chaotic good]]",
+        "refs2e": "",
+        "patron deity": "",
+        "vision": "",
+        "activecycle": "Any",
+        "diet": "Smells",
+        "lifespan": "",
+        "location": "[[Zakhara]]",
+        "language": "Sakina, some knew [[Midani]]",
+        "subraces": "",
+        "climate": "Any",
+        "terrain": "Any",
+        "height": "{{SIrange|5|6|ft|c}}",
+        "length": "",
+        "wingspan": "",
+        "weight": "",
+        "skincolor": "",
+        "haircolor": "",
+        "hairstyles": "",
+        "feathers": "",
+        "eyecolor": "",
+        "build": "",
+        "distinctions": "",
+        "based": "[[Wikipedia:Sakina|Sakina]]",
+        "first": "",
+        "mainbody": "'''Sakina''' were air [[Sprite (classification)|sprites]] from [[Zakhara]]. Friendly by nature, these creatures roamed the sky in search of unique scents and adventure.",
+        "Description": "Sakina were wind creatures but had no tie to the [[Elemental Plane of Air]]. They were usually invisible but could draw water vapor into their bodies to appear as partially visible [[humanoid]] creatures.",
+        "Combat": "Sakina were dangerous opponents. They could blast their opponents with compressed air that caused damage and set most opponents off-balance.\n\nA sakina's favorite attack was their ability to make up to seven creatures, weighing less than {{SI|700|lbs|k|long=yes}} each, as light as air. Affected creatures were blown away on the wind currents unless they were able to grab hold of something. The sakina could control how high the creatures floated and then drop them to the ground to devastating effect. This power could also be used to aid friendly creatures that were in danger.\n\nSakina were able to carry a single human-sized passenger up to {{SI|300|miles|k|long=yes}} in a single day.",
+        "Society": {
+            "Relationships": "Sakina were friendly to nearly every good-aligned aerial creature.\n\nSome elemental wind mages knew of a combination of incense and aromas that could be used to summon these creatures. Sakina would usually agree to help the wind mages if they were approached with respect after they consumed their buffet of scents.",
+            "Usages": "Their whispers could be used as components for [[item enchantment|enchanting]] and their mere presence could be used to make a ''[[potion of flying]]''."
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "variant": "",
+        "image": "Soultheft.JPG",
+        "caption": "",
+        "name": "Soultheft",
+        "deity": "",
+        "inventor": "",
+        "skill": "",
+        "reversible2e": "",
+        "school2e": "[[Necromantic]]",
+        "spheres2e": "",
+        "level2e": "{{Spell table|edition=2e|[[Cleric]]|7}}",
+        "type2e": "",
+        "refs2e": "<ref name=DD-40>",
+        "mainbody": "'''''Soultheft''''' was a spell used by priests of [[Vhaeraun]]. As the name suggested, it took a person's soul for later use of its energy.",
+        "Effects": "The spell allowed the caster to steal a killed person's soul and then use it to charge up items with it. The item had to be one that was enchanted in the first place, like a wand in need of recharge, and there were a number of steps needed before it could be recharged.\n\nFirst, the holy symbol of the caster had to touch the corpse during a rather short period after the victim's death to suck the soul into the symbol. Second, the soul had to be transferred into an item by pressing the symbol to the intended item, otherwise it fled out of its container after a short time.\n\nOnce the soul was charged, it powered the item for a number of charges that expired with time if not used up before. On expiration, the soul went free if the spell wasn't renewed. Renewing the spell consisted of recasting the spell but this was done at the risk of destroying the contained soul.\n\nWhile the soul was trapped, it couldn't be raised or contacted by anyone, barring the one owning the object in which it served as a battery; this didn't need to be the caster. The soul could be seen as an image via a ''[[detect magic]]'' spell.",
+        "Components": "This spell required somatic, verbal, and material components to cast. The material components for the initial casting were a drop of cranial fluids, a small cube of [[iron]], and a holy symbol.",
+        "''Soultheft'' and Elven High Magic": "Mainstream elven culture viewed dying in order to cast great magic as one of the most honorable ways to die. However, Vhaeraunites had a means of sidestepping this danger, ''soultheft''. By storing a soul inside a mask, they were able to cast [[elven high magic]] while expending the trapped soul instead of their own, thus bilking the demand for their lives."
+    }
+}

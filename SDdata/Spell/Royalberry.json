@@ -1,0 +1,43 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "image": "",
+        "caption": "",
+        "name": "Royalberry",
+        "deity": "[[Sheela Peryroyl]]",
+        "inventor": "",
+        "type": "",
+        "school5e": "",
+        "level5e": "",
+        "type5e": "",
+        "refs5e": "",
+        "feature4e": "",
+        "keywords4e": "",
+        "level4e": "",
+        "type4e": "",
+        "category4e": "",
+        "skill4e": "",
+        "refs4e": "",
+        "school3e": "",
+        "domains3e": "",
+        "descriptors3e": "",
+        "level3e": "",
+        "type3e": "",
+        "reversible2e": "",
+        "school2e": "[[Alteration]]<br>[[Evocation]]",
+        "spheres2e": "[[Plant sphere|Plant]]",
+        "level2e": "{{spell table|edition=2e|[[Cleric]]|5}}",
+        "type2e": "",
+        "refs2e": "",
+        "reversible1e": "",
+        "school1e": "",
+        "level1e": "",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Royalberry''''' was a [[spell]] used by [[cleric]]s of [[Sheela Peryroyl]].",
+        "Effects": "The caster casts this spell on a handful of berries. A single berry now provided the equivalent nourishment of a full meal. They also provided limited healing of wounds. If the individual was poisoned, the single berry acted in the same manner as ''[[slow poison]]''. If more than three berries were consumed, they acted in the same manner as ''[[neutralize poison]]''. If someone at six berries, they had the same effects as ''[[cure disease]]''. Unlike the ''[[goodberry]]'' spell, this spell was not reversible.",
+        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required [[material component]]s, the holy symbol of Sheela Peryroyl and a handful of berries, which had to be freshly picked."
+    }
+}

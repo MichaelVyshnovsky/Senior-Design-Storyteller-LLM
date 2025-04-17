@@ -1,0 +1,53 @@
+{
+    "template_data": {
+        "12|foot|long": "yes",
+        "adj": "tall",
+        "12|foot|long_1": "yes",
+        "adj_1": "high"
+    },
+    "document_data": {
+        "image": "Dungeon073p25-Stephen Daniele-MoDM.png",
+        "caption": "",
+        "name": "Wolfhill House",
+        "aliases": "",
+        "type": "Manor",
+        "architecture": "",
+        "floors": "3",
+        "location": "",
+        "built": "12{{th}} century DR",
+        "destroyed": "",
+        "owner": "[[Hezekiel Wolf]]",
+        "staff": "",
+        "occupants": "",
+        "services": "",
+        "worship": "",
+        "basicrefs": "{{Cite dungeon/69/Slave Vats of the Yuan-ti|10-27}}",
+        "ownertable": "",
+        "stafftable": "",
+        "histrefs": "",
+        "pipes": "",
+        "tankards": "",
+        "coins": "",
+        "daggers": "",
+        "stars": "",
+        "coinstacks": "",
+        "skulls": "",
+        "quality": "",
+        "price": "",
+        "volorefs": "",
+        "usethe": "",
+        "useon": "",
+        "inhabitants": "",
+        "locations": "",
+        "organizations": "",
+        "mainbody": "'''Wolfhill House''' was a manor on the [[Sword Coast North|northern Sword Coast]].",
+        "Location": "The manor was situated on a hill near the [[Mere of Dead Men]], just off the coast of the [[Sea of Swords]]. The location was accessible via [[Wolfhill Way]], a small access road that provided access back to civilization via the [[High Road]]. Eventually, the swamp encroached on the home, and by the mid–14{{th}} century [[DR]], it was well within the Mere.",
+        "Structure": "When first built, the structure was immaculately grand. A solid brick edifice and columned entryway looked out over Wolfhill Way. The home had two main floors, an attic, and cellar.",
+        "Interior": {
+            "Atmosphere": "What was once a grand interior had fallen into disrepair and decay. Chipped friezes and gold-painted cherubim decorated the rooms, though age and lack of care had not been kind to them or the house. Most ceilings were {{SIAdj|12|foot|long=yes|adj=high}}, but the ceilings themselves were sagging in many areas.\n\nThe creatures of the swamp made their home in the abandoned home, including [[scorpion]]s and [[giant wasp]]s. [[Jermlaine]] that were captured and kept as \"odd pets\" by the Wolfs escaped but remained in the home, and set traps for those who were in search of the late Wolf's treasures."
+        },
+        "History": "The manor house was originally built by [[Hezekiel Wolf]], who thought the location was a perfect place to build a manor home. It was to be a residence for himself and his wife, [[Rebekah Wolf]], and to show off his collection of treasures from distant lands.\n\nBut the home and its inhabitants were doomed from the beginning. Some of the servants fell victim to the [[giant spider]]s and [[giant tick]]s inhabiting the area. Rebekah died during childbirth, with the baby too big to carry to term. Rumors circulated that the home was cursed and eventually the remainder of the servants left. Hezekiel lived out his life in the manor isolated and alone, but unwilling to leave.\n\nSome time during the 14{{th}} century DR, [[yuan-ti]] began using this house as a laboratory. They left the upper floors to be guarded by the insects and jermlaine while they extended the cellars, creating a network of tunnels and rooms that would act as their laboratory. [[Sissiska]], the commander of the yuan-ti forces there, was in charge of the lab, where he performed various experiments in cloning, creating [[megalomen]] and [[Yuan-ti broodguard|histachii]], attempting to use the giant growth properties of the surrounding area to his advantage. [[Esau Enoch]] fled here with [[Domino]] and [[Shan Hsi]] after they were removed from [[Iniarv's Tower]] by forces led [[Justin Melenikus]].",
+        "Rumors & Legends": "The area immediately surrounding the manor was filled with mega-fauna—giant spiders, ticks, and other insects were extremely common. Plant life in the vicinity tended to grow larger than elsewhere in the swamp. Rebekah Wolf went into early labor died during the birth of a daughter who was said to be as large as a one-year-old.",
+        "Inhabitants": ";Mid–12{{th}} century DR\n* [[Hezekiel Wolf]]\n* [[Rebekah Wolf]]\n* [[Petrov]], a servant to the Wolf household\n* [[Giorgi]], servant to the Wolf household\n* A clan of jermlaine taken as captive \"pets\" by Hezekiel and kept in the menagerie\n\n;Mid–14{{th}} century DR\n* Jermlaine\n* [[Sissiska]]\n* Various giant insects"
+    }
+}

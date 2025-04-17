@@ -1,0 +1,42 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "image": "",
+        "caption": "",
+        "name": "Age Dragon",
+        "deity": "",
+        "inventor": "",
+        "type": "",
+        "school5e": "",
+        "level5e": "",
+        "type5e": "",
+        "refs5e": "",
+        "feature4e": "",
+        "keywords4e": "",
+        "level4e": "",
+        "type4e": "",
+        "category4e": "",
+        "skill4e": "",
+        "refs4e": "",
+        "domains3e": "",
+        "descriptors3e": "",
+        "type3e": "",
+        "reversible2e": "",
+        "school2e": "[[Alteration]]",
+        "spheres2e": "[[Time sphere|Time]]",
+        "level2e": "{{spell table|edition=2e|[[Cleric]]|7|}}",
+        "type2e": "",
+        "refs2e": "",
+        "reversible1e": "",
+        "school1e": "",
+        "level1e": "",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Age dragon''''' was a [[divine magic]] spell available to [[priest]]s.",
+        "Effects": "When cast, the spell temporarily affected the age of a targeted dragon. The caster could increase or reduce the dragon's age by a certain number of years, which was determined by the caster's skill level.\n\nThe spell had limits. The caster could not increase the age of a dragon older than that of a great wyrm, nor could they reduce the age of a dragon to younger than a hatchling. An unwilling dragon had a chance of resisting the effects of the spell.\n\nThe spell affected the size, skills and spell abilities of the targeted dragon, while maintaining the memory and personality. Any harm inflicted upon the dragon at their modified age remains when they age back to normal. This could kill the targeted dragon, if they received more harm at their modified age than their body at their regular age could handle.",
+        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, this spell required a [[material component]], a handful of dirt or soil from a dragon's footprint.",
+        "History": "This spell was inscribed within the [[Kelemvor]]ite [[relic]] the ''[[Testament of Vraer]]''."
+    }
+}

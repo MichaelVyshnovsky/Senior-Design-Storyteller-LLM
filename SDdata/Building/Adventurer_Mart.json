@@ -1,0 +1,44 @@
+{
+    "template_data": {
+        "text": "Weapons both magical and plain! Stolen armor from the lairs of dragons! Scrolls of sorcery! Anything you need, we have!",
+        "source": "Hawker, crier of the Adventure Mart"
+    },
+    "document_data": {
+        "image": "AdMart.png",
+        "caption": "",
+        "name": "Adventurer Mart",
+        "aliases": "",
+        "type": "Shop",
+        "architecture": "",
+        "floors": "Two",
+        "location": "[[Waukeen's Promenade]], [[Center District (Athkatla)|Center District ]] of [[Athkatla]]",
+        "owner": "[[Ribald Barterman]]",
+        "staff": "[[Deidre]] (merchant)<br/>[[Yuth]] (merchant)<br/>[[Hawker]] (crier)<br/>One soldier",
+        "occupants": "",
+        "services": "[[Magic]]al items <br/> Scrolls",
+        "worship": "",
+        "pipes": "",
+        "tankards": "",
+        "coins": "",
+        "daggers": "",
+        "quality": "",
+        "price": "",
+        "usethe": "yes",
+        "useon": "",
+        "inhabitants": "",
+        "locations": "",
+        "organizations": "",
+        "source": "Hawker, crier of the Adventure Mart",
+        "text": "Weapons both magical and plain! Stolen armor from the lairs of dragons! Scrolls of sorcery! Anything you need, we have!",
+        "mainbody": "Ribald sold a variety of goods, including weapons, armor, trinkets and scrolls. Lady Yuth sold a huge variety of magical scrolls, whereas Deidre had some unique and incredibly powerful items for sale, from companions of the [[Nameless One]]<ref group=\"note\">Deidre appeared to have items for sale that originated from [[Sigil]], with the items themed around characters from ''[[Planescape: Torment]]''. and [[Balduran]].\n\nApparently, the store had catalogues and \"an army of scribes\" to keep up with the large demand of items sold there.",
+        "Location": "The store was located in the western part of Waukeen's Promenade. It was the closest store to the location where [[Abdel Adrian]] escaped from the [[dungeon]] of [[Jon Irenicus]].",
+        "Structure": "The outer structure of the store was a essentially a large block of stone with a single wooden door. It was surrounded by two stone staircases, which lead up to the other stores in the western part of the promenade.",
+        "Interior": {
+            "Atmosphere": "It was frequented by adventurers, commoners and noblemen alike."
+        },
+        "Services": "{{fq\n|text=Weapons both magical and plain! Stolen armor from the lairs of dragons! Scrolls of sorcery! Anything you need, we have!\n|source=Hawker, crier of the Adventure Mart\n}}\nRibald sold a variety of goods, including weapons, armor, trinkets and scrolls. Lady Yuth sold a huge variety of magical scrolls, whereas Deidre had some unique and incredibly powerful items for sale, from companions of the [[Nameless One]]<ref group=\"note\">Deidre appeared to have items for sale that originated from [[Sigil]], with the items themed around characters from ''[[Planescape: Torment]]''. and [[Balduran]].\n\nApparently, the store had catalogues and \"an army of scribes\" to keep up with the large demand of items sold there.",
+        "Defenses": "An Amnian soldier kept watched and enforced the law, such as not allowing loitering near the shopkeep, around the building. The goods were under his protection, and he allowed no opportunity for thievery.",
+        "History": "The Adventurer Mart had been in business for thirty years in [[1368 DR]], in the same location.",
+        "Inhabitants": "As well as the staff, a couple of men seemed to stay in the store.\n* [[Brelm]], a [[dwarven]] drunkard who had befriended the owner.\n* [[Gereth]], a robed nobleman who spent a long time searching the large store for a certain rarity."
+    }
+}

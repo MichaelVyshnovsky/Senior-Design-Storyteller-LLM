@@ -1,0 +1,16 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "name": "Zone of Sweet Air",
+        "school2e": "[[Abjuration]]",
+        "spheres2e": "[[Elemental sphere|Elemental]] [[Elemental air sphere|Air]], [[Wards sphere|Wards]]",
+        "level2e": "{{spell table|edition=2e|[[Cleric]]|3|[[Crusader]]|3|[[Druid]]|3|[[Elemental sphere|Elemental]]|3|[[Elemental air sphere|Elemental Air]]|3|[[Shaman]]|3|[[Wards sphere|Wards]]|3}}",
+        "type2e": "",
+        "refs2e": "",
+        "mainbody": "'''Zone of sweet air''' was an [[abjuration]] spell that protected a large area<ref group=\"note\">The source states the area of effect in two different ways. In the spell summary it says \"10-foot cube/level\" but in the spell description it says \"a cube whose sides equal the caster's level times 10 feet\", and gives an example calculation. Using the second definition, a 10th level priest could ward a volume almost as big as the [http://answers.yahoo.com/question/index?qid=20070519114542AAxtdWo Washington Monument]. from unhealthy vapors.",
+        "Effects": "All natural and magical (e.g., ''[[stinking cloud]]'') poisonous or otherwise damaging gasses are blocked by this spell, except those from [[dragon]] breath. Fresh air could get through without hindrance. The barrier was invisible to the naked eye and only prevented the entry of noxious vapors. If any fumes were present when the spell was cast, or created inside the area of protection, they were unaffected. However, the duration of such spells as ''stinking cloud'' was cut in half by this spell.",
+        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required the priest's [[holy symbol]] or [[divine focus]], a strand of [[spider silk]], and a silk handkerchief."
+    }
+}

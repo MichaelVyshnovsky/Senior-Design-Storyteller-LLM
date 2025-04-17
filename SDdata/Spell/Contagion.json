@@ -1,0 +1,41 @@
+{
+    "template_data": {
+        "edition": "5e",
+        "edition_1": "3e",
+        "edition_2": "2e"
+    },
+    "document_data": {
+        "image": "Contagion 5e.png",
+        "caption": "",
+        "name": "Contagion",
+        "inventor": "[[Lucke]]",
+        "descriptors": "",
+        "keywords": "",
+        "level": "",
+        "type": "",
+        "school5e": "[[Necromancy]]",
+        "domains5e": "",
+        "circles5e": "",
+        "oaths5e": "",
+        "patrons5e": "[[Undying patron|Undying]]",
+        "traditions5e": "",
+        "level5e": "{{spell table|edition=5e|[[Cleric]]|5|[[Druid]]|5|[[Undying patron|Undying]]|5}}",
+        "type5e": "",
+        "refs5e": "",
+        "school3e": "[[Necromancy]]",
+        "domains3e": "[[Blightbringer domain|Blightbringer]], [[Destruction domain|Destruction]]",
+        "type3e": "",
+        "level3e": "{{Spell table|edition=3e|[[Adept]]|3|[[Blightbringer domain|Blightbringer]]|3|[[Cleric]]|3|[[Destruction domain|Destruction]]|3|[[Druid]]|3|[[Sorcerer]]|4|[[Wizard]]|4}}",
+        "descriptors3e": "{{Desc/evil}}",
+        "refs3e": "",
+        "school2e": "[[Necromancy]]<br/>[[Universal (province)]]<br/>[[Inventive]], [[Variation]]",
+        "spheres2e": "",
+        "level2e": "{{spell table|edition=2e|[[Arcanist]]|4|[[Wizard]]|4}}",
+        "type2e": "",
+        "refs2e": "<ref><ref>",
+        "mainbody": "'''''Contagion''''' was a [[necromancy]] [[spell]] that inflicted a horrendous [[disease]] on a target.",
+        "Effect": "Older versions of the ''contagion'' spell infected a touched target with a vicious infestation, like boils, lesions, seeping abscesses, blotches, or worse. This would reduce a target's strength, agility, and looks, unless they spent weeks recuperating or a ''[[remove disease]]'' spell was cast on them. If the victim did not get any aid, then the diseases would get even worse.\n\nNewer versions caused specific diseases to infect the target, such as [[blinding sickness]], [[cackle fever]], [[filth fever]], [[flesh rot]], [[mindfire]], [[red ache]], [[seizure]], or [[slimy doom]].",
+        "Components": "Only [[verbal]] and [[somatic]] components were needed for the casting.",
+        "History": "The spell was attributed to [[Netherese arcanist]] [[Lucke]] in {{Yearlink|-1745}} and was originally called ''Lucke's contagion''.\n\nA similar spell, known as ''[[plague carrier]]'', inflicted the same diseases as ''contagion'' but as normal illnesses with natural incubation times, allowing the target to unknowingly begin to spread their affliction."
+    }
+}

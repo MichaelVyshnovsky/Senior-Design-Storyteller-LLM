@@ -1,0 +1,2828 @@
+2900
+136299
+
+976746
+976745
+2024-09-03T22:27:03Z
+
+Artyom.pavlov
+24367202
+
+
+Protected "[[Map:Suzail – 15th Century DR]]": High traffic page ([Edit=Allow only autoconfirmed users] (indefinite) [Move=Allow only autoconfirmed users] (indefinite))
+976745
+interactivemap
+text/plain
+{
+    "mapImage": "Suzail-Background",
+    "pageCategories": [
+        "Interactive_maps",
+        "Maps_of_cities",
+        "Maps_of_Suzail"
+    ],
+    "defaultSort": "",
+    "mapImageChangedAt": "2022-05-07 16:31:38",
+    "description": "A map of the 15th century DR Suzail \u2013 the capital city of Cormyr.",
+    "coordinateOrder": "xy",
+    "mapBounds": [
+        [
+            0,
+            0
+        ],
+        [
+            3000,
+            2400
+        ]
+    ],
+    "origin": "bottom-left",
+    "useMarkerClustering": false,
+    "categories": [
+        {
+            "id": "1",
+            "listId": 1,
+            "name": "Castles & Noble Houses",
+            "color": "#ff00f9",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Purple dragons icon.svg"
+        },
+        {
+            "id": "12",
+            "listId": 2,
+            "name": "Shops & Trading Coasters",
+            "color": "#007903",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Tymora coin icon.svg"
+        },
+        {
+            "id": "10",
+            "listId": 3,
+            "name": "Inns & Tavers",
+            "color": "#fa5d00",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Tankard icon.svg"
+        },
+        {
+            "id": "13",
+            "listId": 4,
+            "name": "Guildhalls",
+            "color": "#ab5a78",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Tools guilds icon.svg"
+        },
+        {
+            "id": "11",
+            "listId": 5,
+            "name": "Clubs",
+            "color": "#730000",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Instruments icon.svg"
+        },
+        {
+            "id": "4",
+            "listId": 6,
+            "name": "Temples & Shrines",
+            "color": "#fac600",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Lathander temple icon.svg"
+        },
+        {
+            "id": "2",
+            "listId": 7,
+            "name": "Towers",
+            "color": "#7c002e",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Tower icon.svg"
+        },
+        {
+            "id": "7",
+            "listId": 8,
+            "name": "Schools",
+            "color": "#8c586b",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Books icon.svg"
+        },
+        {
+            "id": "6",
+            "listId": 9,
+            "name": "Roads & Streets",
+            "color": "#2e2703",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Mountain road icon.svg"
+        },
+        {
+            "id": "5",
+            "listId": 10,
+            "name": "Gates",
+            "color": "#ffffff",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Gate icon.svg"
+        },
+        {
+            "id": "14",
+            "listId": 11,
+            "name": "Harbors",
+            "color": "#fa005a",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Ship icon.svg"
+        },
+        {
+            "id": "8",
+            "listId": 12,
+            "name": "Points of Interest",
+            "color": "#021ebb",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Elminter's choice icon.svg"
+        },
+        {
+            "id": "3",
+            "listId": 13,
+            "name": "Bodies of Water",
+            "color": "#00e8fa",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Bodies of water icon.svg"
+        }
+    ],
+    "markers": [
+        {
+            "categoryId": "1",
+            "position": [
+                1671.3974609375,
+                1573.5819091797
+            ],
+            "popup": {
+                "title": "Castle Obarskyr",
+                "description": "The royal palace of [[Suzail]] and the Dragon Throne of [[Cormyr]].",
+                "link": {
+                    "url": "Castle Obarskyr",
+                    "label": "Castle Obarskyr"
+                },
+                "image": "File:Welcome to Suzail.png"
+            },
+            "id": "1"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1697.0570569205,
+                1385.9307057095
+            ],
+            "popup": {
+                "title": "Cormyr's Royal Court",
+                "description": "The center of governing.",
+                "link": {
+                    "url": "Cormyr's Royal Court",
+                    "label": "Cormyr's Royal Court"
+                },
+                "image": "File:Cormyr Royal Court.png"
+            },
+            "id": "2"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1996.0008295134,
+                1535.0005001309
+            ],
+            "popup": {
+                "title": "Tower of the Royal Magician",
+                "description": "Also known as '''Vangerdahast's Tower'''. Home of the [[Royal Magician]] of [[Cormyr]].",
+                "link": {
+                    "url": "Vangerdahast's Tower",
+                    "label": "Tower of the Royal Magician"
+                }
+            },
+            "id": "3"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1982.7243523987,
+                1674.4388488547
+            ],
+            "popup": {
+                "title": "Lake Azoun",
+                "description": "A small crescent-shaped pond that separated [[Castle Obarskyr]] and the [[Royal Gardens]].",
+                "link": {
+                    "url": "Lake Azoun",
+                    "label": "Lake Azoun"
+                }
+            },
+            "id": "4"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                2149.0013825224,
+                1668.0004001047
+            ],
+            "popup": {
+                "title": "The Silent Room",
+                "description": "Temple of the god of knowledge, [[Oghma]]. Previously, dedicated to Oghma's servant - god [[Deneir]].",
+                "link": {
+                    "url": "The Silent Room",
+                    "label": "The Silent Room"
+                }
+            },
+            "id": "5"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                2206.999446991,
+                2011.0007001833
+            ],
+            "popup": {
+                "title": " Shrine to Tempus",
+                "description": "A shrine dedicated to [[Tempus]].",
+                "link": {
+                    "url": " Shrine of Tempus (Suzail)",
+                    "label": " Shrine of Tempus (Suzail)"
+                }
+            },
+            "id": "6"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                2342.5735968854,
+                2185.9131053658
+            ],
+            "popup": {
+                "title": "East Gate",
+                "description": "The '''East Gate''' or '''Eastgate''' that led to the road north of [[Suzail]] \u2013 [[Calantar's Way]].",
+                "link": {
+                    "url": "East Gate (Suzail)",
+                    "label": "East Gate (Suzail)"
+                }
+            },
+            "id": "7"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                2468.6009881542,
+                2269.9216492745
+            ],
+            "popup": {
+                "title": "Calantar's Way",
+                "description": "The road that started at the [[Eastgate (Suzail|Eastgate]] and went north past [[Calantar's Bridge]] and towards [[Arabel]].",
+                "link": {
+                    "url": "Calantar's Way",
+                    "label": "Calantar's Way"
+                }
+            },
+            "id": "8"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                2095.000553009,
+                2069.0008002095
+            ],
+            "popup": {
+                "title": "Shrine to Malar",
+                "description": "A shrine dedicated to the [[Malar|Master of the Hunt]].",
+                "link": {
+                    "url": "Shrine of Malar (Suzail)",
+                    "label": "Shrine of Malar (Suzail)"
+                }
+            },
+            "id": "9"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1884.5261889201,
+                2241.9548077772
+            ],
+            "popup": {
+                "title": "Rowanmantle Castle",
+                "description": "Home estate of the noble House [[Rowanmantle]].",
+                "link": {
+                    "url": "Rowanmantle Castle",
+                    "label": "Rowanmantle Castle"
+                }
+            },
+            "id": "10"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1939.9972935061,
+                2138.0070647074
+            ],
+            "popup": {
+                "title": "Greatgaunt Estate",
+                "description": "Estate of the noble House [[Greatgaunt]]. Formerly, the Estate of House [[Wyvernspur]].",
+                "link": {
+                    "url": "Greatgaunt Estate",
+                    "label": "Greatgaunt Estate"
+                }
+            },
+            "id": "11"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1904.5297006212,
+                2011.8954072693
+            ],
+            "popup": {
+                "title": "Cormaeril Compound",
+                "description": "Estate of the noble House [[Cormaeril]].",
+                "link": {
+                    "url": "Cormaeril Compound",
+                    "label": "Cormaeril Compound"
+                }
+            },
+            "id": "12"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1806.5124932857,
+                1999.8941867109
+            ],
+            "popup": {
+                "title": "Dracohorn Mansion",
+                "description": "Estate of the noble House [[Dracohorn]].",
+                "link": {
+                    "url": "Dracohorn Mansion",
+                    "label": "Dracohorn Mansion"
+                }
+            },
+            "id": "13"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1808.5128444558,
+                2107.9051717363
+            ],
+            "popup": {
+                "title": "Huntcrown Estate",
+                "description": "Estate of the noble House [[Huntcrown]].",
+                "link": {
+                    "url": "Huntcrown Estate",
+                    "label": "Huntcrown Estate"
+                }
+            },
+            "id": "14"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1626.3522443477,
+                2223.1445688008
+            ],
+            "popup": {
+                "title": "College of War Wizards",
+                "description": "The base of [[Cormyr]]'s [[Wizards of War]].",
+                "link": {
+                    "url": "College of War Wizards",
+                    "label": "College of War Wizards"
+                }
+            },
+            "id": "15"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1732.4994999915,
+                2077.9021203404
+            ],
+            "popup": {
+                "title": "Emmarsk Mansion",
+                "description": "Estate of the noble House [[Emmarsk]].",
+                "link": {
+                    "url": "Emmarsk Mansion",
+                    "label": "Emmarsk Mansion"
+                }
+            },
+            "id": "16"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1710.4956371202,
+                1971.8913387413
+            ],
+            "popup": {
+                "title": "Huntsilver House",
+                "description": "Estate of the noble House [[Huntsilver]].",
+                "link": {
+                    "url": "Huntsilver House",
+                    "label": "Huntsilver House"
+                }
+            },
+            "id": "17"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1570,
+                2048.0040369756
+            ],
+            "popup": {
+                "title": "Alsevir Estate",
+                "description": "Estate of the noble House [[Alsevir]].",
+                "link": {
+                    "url": "Alsevir Estate",
+                    "label": "Alsevir Estate"
+                }
+            },
+            "id": "18"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1458.0010825976,
+                2180.0040369756
+            ],
+            "popup": {
+                "title": "Hawklin House",
+                "description": "Estate of the noble House [[Hawklin]].",
+                "link": {
+                    "url": "Hawklin House",
+                    "label": "Hawklin House"
+                }
+            },
+            "id": "19"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1442.9972935061,
+                2043.0045415976
+            ],
+            "popup": {
+                "title": "Goldfeather Estate",
+                "description": "Estate of the noble House [[Goldfeather]].",
+                "link": {
+                    "url": "Goldfeather Estate",
+                    "label": "Goldfeather Estate"
+                }
+            },
+            "id": "20"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1452.4503361756,
+                1937.8878804926
+            ],
+            "popup": {
+                "title": "Dauntinghorn House",
+                "description": "Estate of the noble House [[Dauntinghorn]].",
+                "link": {
+                    "url": "Dauntinghorn House",
+                    "label": "Dauntinghorn House"
+                }
+            },
+            "id": "21"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1348.0021651951,
+                2122.0060554634
+            ],
+            "popup": {
+                "title": "Illance House",
+                "description": "Estate of the noble House [[Illance]]. Formerly, the estate of the House [[Silversword]].",
+                "link": {
+                    "url": "Illance House",
+                    "label": "Illance House"
+                }
+            },
+            "id": "22"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                1578.4724598928,
+                1883.8823879799
+            ],
+            "popup": {
+                "title": "Royal Gardens",
+                "description": "Also known as the '''Floral Gardens''' around the royal palace of [[Castle Obarskyr]].",
+                "link": {
+                    "url": "Royal Gardens",
+                    "label": "Royal Gardens"
+                }
+            },
+            "id": "23"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1331.9967522073,
+                1838.0020184878
+            ],
+            "popup": {
+                "title": "Truesilver Castle",
+                "description": "Estate of the noble House [[Truesilver]].",
+                "link": {
+                    "url": "Truesilver Castle",
+                    "label": "Truesilver Castle"
+                }
+            },
+            "id": "24"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1280.9972935061,
+                2000.0060554634
+            ],
+            "popup": {
+                "title": "Marliir Mansion",
+                "description": "Estate of the noble House [[Marliir]].",
+                "link": {
+                    "url": "Marliir Mansion",
+                    "label": "Marliir Mansion"
+                }
+            },
+            "id": "25"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1209.0027064939,
+                1905.0035323537
+            ],
+            "popup": {
+                "title": "Crownsilver Castle",
+                "description": "Estate of the noble House [[Crownsilver]].",
+                "link": {
+                    "url": "Crownsilver Castle",
+                    "label": "Crownsilver Castle"
+                }
+            },
+            "id": "26"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1230.9994587012,
+                2105.0025231098
+            ],
+            "popup": {
+                "title": "Lord Magister's Estate",
+                "description": "Home of the Lord Magister of [[Suzail]]. Previously known as the '''[[Staghaven House]]''' in the 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "Lord Magister's Estate",
+                    "label": "Lord Magister's Estate"
+                }
+            },
+            "id": "27"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1143.1839055995,
+                2051.0054767314
+            ],
+            "popup": {
+                "title": "Herald's Estate",
+                "description": "The home of the [[High Heralds|Herald]] of [[Suzail]].",
+                "link": {
+                    "url": "Herald's Estate",
+                    "label": "Herald's Estate"
+                }
+            },
+            "id": "28"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                1110.4626271296,
+                1963.8905250357
+            ],
+            "popup": {
+                "title": "Monument to the Purple Dragon",
+                "description": "Monument to black dragon Thauglor, whose defeat inspired the name of Cormyr's Purple Dragons.",
+                "link": {
+                    "url": "Monument to the Purple Dragon",
+                    "label": "Monument to the Purple Dragon"
+                }
+            },
+            "id": "29"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1042.423647247,
+                1985.8927627261
+            ],
+            "popup": {
+                "title": "Skatterhawk Family House",
+                "description": "Estate of the noble House [[Skatterhawk]].",
+                "link": {
+                    "url": "Skatterhawk family house",
+                    "label": "Skatterhawk family house"
+                }
+            },
+            "id": "30"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1064.4275101183,
+                1875.8815742743
+            ],
+            "popup": {
+                "title": "Delcastle Manor",
+                "description": "Estate of the noble House [[Delcastle]].",
+                "link": {
+                    "url": "Delcastle Manor",
+                    "label": "Delcastle Manor"
+                }
+            },
+            "id": "31"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                668.35797843585,
+                1875.8815742743
+            ],
+            "popup": {
+                "title": "Horngate",
+                "description": "The northwestern gate of [[Suzail]] and the beginning of the [[Way of the Dragon]].",
+                "link": {
+                    "url": "Horngate",
+                    "label": "Horngate"
+                }
+            },
+            "id": "32"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                526.33304535781,
+                2051.8994757972
+            ],
+            "popup": {
+                "title": "Way of the Dragon",
+                "description": "The road that started at the [[Horngate]], cut through the [[King's Forest]] and reached the town of [[Waymoot]].",
+                "link": {
+                    "url": "Way of the Dragon",
+                    "label": "Way of the Dragon"
+                },
+                "image": "File:Skull Crag.png"
+            },
+            "id": "33"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                724,
+                1676.5
+            ],
+            "popup": {
+                "title": "The Wailing Wheel",
+                "description": "A fair-priced and quiet inn on the [[Promenade (Suzail)|Promenade]], infamous for its poor service and lack of cleanliness.",
+                "link": {
+                    "url": "The Wailing Wheel",
+                    "label": "The Wailing Wheel"
+                }
+            },
+            "id": "34"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                824.38466736445,
+                1531.8490260507
+            ],
+            "popup": {
+                "title": "The Six Candles",
+                "description": "A cheap and clean inn on the [[Promenade (Suzail)|Promenade]].",
+                "link": {
+                    "url": "The Six Candles",
+                    "label": "The Six Candles"
+                }
+            },
+            "id": "35"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                942.57431691264,
+                1416.3353070918
+            ],
+            "popup": {
+                "title": "Dragonriders Club",
+                "description": "Private club famed for its beautiful Mask Dancers.",
+                "link": {
+                    "url": "Dragonriders Club",
+                    "label": "Dragonriders Club"
+                }
+            },
+            "id": "36"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                1106.5,
+                1272.0009002357
+            ],
+            "popup": {
+                "title": "Witch-Duke's Bride",
+                "description": "A popular tavern established in the 15{{th}} century [[DR]]. Formerly the '''High Tankard''' tavern.",
+                "link": {
+                    "url": "Witch-Duke's Bride",
+                    "label": "Witch-Duke's Bride"
+                }
+            },
+            "id": "37"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                1400.4419080929,
+                1199.8636727513
+            ],
+            "popup": {
+                "title": "The Myrmidon",
+                "description": "Previously known as '''[[Thelmar's Inn]].'''",
+                "link": {
+                    "url": "The Myrmidon",
+                    "label": "The Myrmidon"
+                }
+            },
+            "id": "38"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1700.5391822143,
+                1219.924497244
+            ],
+            "popup": {
+                "title": "The Promenade",
+                "description": "Once known as '''The March''', the wide and semi-circular street arching the [[Royal Court]] district. It was one of the best shopping strolls on [[Toril]].",
+                "link": {
+                    "url": "Promenade (Suzail)",
+                    "label": "Promenade"
+                }
+            },
+            "id": "39"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                2016.0008295134,
+                1286.0006001571
+            ],
+            "popup": {
+                "title": "The Dragon's Jaws",
+                "description": "A tavern often used for business dealings and meetings. Formerly known as the '''Red Sword.'''",
+                "link": {
+                    "url": "The Dragon's Jaws",
+                    "label": "The Dragon's Jaws"
+                }
+            },
+            "id": "40"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                2189.2033766263,
+                1439.6702552461
+            ],
+            "popup": {
+                "title": "Bindle's",
+                "description": "A drinking club popular with merchants.",
+                "link": {
+                    "url": "Bindle's",
+                    "label": "Bindle's"
+                }
+            },
+            "id": "41"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                2258.5,
+                1591.0007001833
+            ],
+            "popup": {
+                "title": "The Royal Smithy",
+                "description": "A long-running smithy.",
+                "link": {
+                    "url": "The Royal Smithy",
+                    "label": "The Royal Smithy"
+                }
+            },
+            "id": "42"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                2293.000553009,
+                1684.0006001571
+            ],
+            "popup": {
+                "title": "Society of Stalwart Adventurers",
+                "description": "The exclusive club for adventuring nobles, archeologists, and stalwart heroes. Entrance on [[Swordstars Lane]].",
+                "link": {
+                    "url": "Society of Stalwart Adventurers",
+                    "label": "Society of Stalwart Adventurers"
+                }
+            },
+            "id": "43"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                2276.0008295134,
+                1913.0005001309
+            ],
+            "popup": {
+                "title": "Towers of Good Fortune",
+                "description": "Also known as the '''Temple of Good Fortune''', the Towers were a large and wealthy temple of [[Tymora]].",
+                "link": {
+                    "url": "Towers of Good Fortune",
+                    "label": "Towers of Good Fortune"
+                }
+            },
+            "id": "44"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                2697.9997234955,
+                2224.0008002095
+            ],
+            "popup": {
+                "title": "The Nightgate Inn",
+                "description": "A damp and gloomy inn located outside the city walls.",
+                "link": {
+                    "url": "The Nightgate Inn",
+                    "label": "The Nightgate Inn"
+                }
+            },
+            "id": "45"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                2558.6041486852,
+                1987.8929661525
+            ],
+            "popup": {
+                "title": "Dragoneye Dealing Coster yards",
+                "description": "A prosperous merchant company based out of [[Cimbar]].",
+                "link": {
+                    "url": "Dragoneye Dealing Coster yards",
+                    "label": "Dragoneye Dealing Coster yards"
+                }
+            },
+            "id": "46"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                2638.6181954898,
+                1837.8777091727
+            ],
+            "popup": {
+                "title": "Thousandheads Trading Coster yards",
+                "description": "A prosperous [[Amn]]ian merchant company.",
+                "link": {
+                    "url": "Thousandheads Trading Coster yards",
+                    "label": "Thousandheads Trading Coster yards"
+                }
+            },
+            "id": "47"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                2660.622058361,
+                1633.8569596802
+            ],
+            "popup": {
+                "title": "Seven Suns Trading Coster yards",
+                "description": "The merchant company controlled by [[Bleth]] and [[Jhasso]] families.",
+                "link": {
+                    "url": "Seven Suns Trading Coster yards",
+                    "label": "Seven Suns Trading Coster yards"
+                }
+            },
+            "id": "48"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                2736.6354028253,
+                1515.8449575228
+            ],
+            "popup": {
+                "title": "Six Coffers Trading Coster yards",
+                "description": "Also known as [[Six Coffers Market Priakos]] trading company.",
+                "link": {
+                    "url": "Six Coffers Trading Coster yards",
+                    "label": "Six Coffers Trading Coster yards"
+                }
+            },
+            "id": "49"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                2564.5718410348,
+                1535.8646898833
+            ],
+            "popup": {
+                "title": "Shrine to Milil",
+                "description": "A shrine dedicated to Milil, the Guardian of Singers and Troubadours.",
+                "link": {
+                    "url": "Shrine to Milil (Suzail)",
+                    "label": "Shrine to Milil (Suzail)"
+                }
+            },
+            "id": "50"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                2481,
+                1465.0011002881
+            ],
+            "popup": {
+                "title": "Shrine to Lliira",
+                "description": "A shrine dedicated to the worship of [[Lliira|Our Lady of Joy]].",
+                "link": {
+                    "url": "Shrine to Lliira (Suzail)",
+                    "label": "Shrine to Lliira"
+                }
+            },
+            "id": "51"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                2804.6392656966,
+                1263.8433301116
+            ],
+            "popup": {
+                "title": "The Market Hall",
+                "description": "A hall used by greengrocers and farmers to sell their goods. Notice board advertised lodgings.",
+                "link": {
+                    "url": "The Market Hall (Suzail)",
+                    "label": "The Market Hall (Suzail)"
+                }
+            },
+            "id": "52"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                2226.000553009,
+                2054.0002000524
+            ],
+            "popup": {
+                "title": "House of Oghma",
+                "description": "A school for scribes and scholars.",
+                "link": {
+                    "url": "House of Oghma",
+                    "label": "House of Oghma"
+                }
+            },
+            "id": "53"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                2526.999446991,
+                1058.0010002619
+            ],
+            "popup": {
+                "title": "Tavernant's Tellings",
+                "description": "[[Suzail]]'s busy print shop started by the eccentric elderly [[Lady Tavernant]] in the late 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "Tavernant's Tellings",
+                    "label": "Tavernant's Tellings"
+                },
+                "image": "File:Lady Tavernant.png"
+            },
+            "id": "54"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2556.572543375,
+                887.84638150759
+            ],
+            "popup": {
+                "title": " The Lockup",
+                "description": "[[Suzail]]'s prison.",
+                "link": {
+                    "url": " The Lockup",
+                    "label": " The Lockup"
+                }
+            },
+            "id": "55"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                2566.5742992256,
+                629.82013950237
+            ],
+            "popup": {
+                "title": "Citadel of the Purple Dragons",
+                "description": "The center of [[Cormyr]]'s military order \u2013 the [[Purple Dragons]].",
+                "link": {
+                    "url": "Citadel of the Purple Dragons",
+                    "label": "Citadel of the Purple Dragons"
+                }
+            },
+            "id": "56"
+        },
+        {
+            "categoryId": "14",
+            "position": [
+                2322.5170584971,
+                351.83437935016
+            ],
+            "popup": {
+                "title": "Royal Docks",
+                "description": "Docks of the [[Purple Dragons]]' Citadel and homeport of the Imperial Navy.",
+                "link": {
+                    "url": "Royal Docks",
+                    "label": "Royal Docks"
+                }
+            },
+            "id": "57"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2228.0010535103,
+                388.0002034264
+            ],
+            "popup": {
+                "title": "Harbor Tower",
+                "description": "A part of the [[Citadel of the Purple Dragons]] and the [[Royal Docks]] under the command of the Royal Admiral of [[Cormyr]].",
+                "link": {
+                    "url": "Harbor Tower (Suzail)",
+                    "label": "Harbor Tower"
+                }
+            },
+            "id": "58"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1460.4994999915,
+                13.849229477144
+            ],
+            "popup": {
+                "title": "Dragonmere",
+                "description": "Dragonmere, or the Lake of the Dragons",
+                "link": {
+                    "url": "Dragonmere",
+                    "label": "Dragonmere"
+                }
+            },
+            "id": "59"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                2272.6420750575,
+                569.90578201551
+            ],
+            "popup": {
+                "title": "The Market Yard",
+                "description": "A market of note.",
+                "link": {
+                    "url": "The Market Yard (Suzail)",
+                    "label": "The Market Yard"
+                }
+            },
+            "id": "60"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                2048.0013825224,
+                903.00110028805
+            ],
+            "popup": {
+                "title": "The Laughing Lass",
+                "description": "A tavern that became a [[festhall]] on warm summer nights.",
+                "link": {
+                    "url": "The Laughing Lass",
+                    "label": "The Laughing Lass"
+                }
+            },
+            "id": "61"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                1544.0022120359,
+                590.99949986907
+            ],
+            "popup": {
+                "title": "The Osculatory",
+                "description": "Also known as the kissing club, a meeting place for single folk in search of companionship.",
+                "link": {
+                    "url": "The Osculatory",
+                    "label": "The Osculatory"
+                }
+            },
+            "id": "62"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                1305.5,
+                784
+            ],
+            "popup": {
+                "title": "Ring of Coins",
+                "description": "A pawn shop that carried a variety of wares.",
+                "link": {
+                    "url": "Ring of Coins",
+                    "label": "Ring of Coins"
+                }
+            },
+            "id": "63"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                193.74113394846,
+                565.69256138134
+            ],
+            "popup": {
+                "title": "Field-Gates",
+                "description": "[[Suzail]]'s western gates that led to a small trail between the [[Stormhorns]] and the [[Dragonmere]].",
+                "link": {
+                    "url": "Field-Gates",
+                    "label": "Field-Gates"
+                }
+            },
+            "id": "64"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                16.739836439393,
+                587.72042900516
+            ],
+            "popup": {
+                "title": "Fields of the Dead",
+                "description": "[[Suzail]]'s burial garden.",
+                "link": {
+                    "url": "Fields of the Dead (Suzail)",
+                    "label": "Fields of the Dead"
+                }
+            },
+            "id": "65"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                531.5,
+                566
+            ],
+            "popup": {
+                "title": "The Market",
+                "description": "[[Suzail]]'s sprawling market plaza.",
+                "link": {
+                    "url": "The Market (Suzail)",
+                    "label": "The Market (Suzail)"
+                }
+            },
+            "id": "66"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                853.5,
+                803
+            ],
+            "popup": {
+                "title": "The Basin",
+                "description": "One of the city's commercial deepwater harbors capable of serving up to 20 ships at the time.",
+                "link": {
+                    "url": "The Basin",
+                    "label": "The Basin"
+                }
+            },
+            "id": "67"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                2390.0209204105,
+                2083.1372846675
+            ],
+            "popup": {
+                "title": "Rheuban's Stables",
+                "description": "",
+                "link": {
+                    "url": "Rheuban's Stables",
+                    "label": "Rheuban's Stables"
+                }
+            },
+            "id": "68"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                320.22031975145,
+                791.7713171671
+            ],
+            "popup": {
+                "title": "Iravan's Rental Yards",
+                "description": "Rental yards owned by the [[Iravan]] merchant family.",
+                "link": {
+                    "url": "Iravan",
+                    "label": "Iravan's Rental Yards"
+                }
+            },
+            "id": "69"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                294.32672429577,
+                1343.8844222438
+            ],
+            "popup": {
+                "title": "Trueshield Trading Priakos yards",
+                "description": "A merchant company based out of [[Telpir]].",
+                "link": {
+                    "url": "Trueshield Trading Priakos",
+                    "label": "Trueshield Trading Priakos yards"
+                }
+            },
+            "id": "70"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                284.39344661728,
+                969.82461488311
+            ],
+            "popup": {
+                "title": "Talahon's Rental Yards",
+                "description": "Rental yards owned by the [[Talahon]] merchant family.",
+                "link": {
+                    "url": "Talahon",
+                    "label": "Talahon's Rental Yards"
+                }
+            },
+            "id": "71"
+        },
+        {
+            "categoryId": "14",
+            "position": [
+                750,
+                544.5
+            ],
+            "popup": {
+                "title": "Shipyards",
+                "description": "[[Suzail]]'s public Shipyards.",
+                "link": {
+                    "url": "Shipyards (Suzail)",
+                    "label": "Shipyards"
+                }
+            },
+            "id": "72"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                1192.000553009,
+                1355.0009002357
+            ],
+            "popup": {
+                "title": "The Winking Eye",
+                "description": "A tavern of note on the [[Court Close]].",
+                "link": {
+                    "url": "Winking Eye",
+                    "label": "The Winking Eye"
+                }
+            },
+            "id": "73"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                1736.5525266786,
+                1163.8815742743
+            ],
+            "popup": {
+                "title": "The Old Dwarf",
+                "description": "A long-standing tavern with deep wince cellars that hid a passage to [[Castle Obarskyr]].",
+                "link": {
+                    "url": "The Old Dwarf",
+                    "label": "The Old Dwarf"
+                }
+            },
+            "id": "74"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                1453.8123241923,
+                685.89414358451
+            ],
+            "popup": {
+                "title": "The Weather Eye",
+                "description": "A tavern not far from the wharves.",
+                "link": {
+                    "url": "The Weather Eye",
+                    "label": "The Weather Eye"
+                }
+            },
+            "id": "75"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                567.5,
+                961.5
+            ],
+            "popup": {
+                "title": "The Golden Goblin",
+                "description": "A rowdy tavern infamous for its brawls.",
+                "link": {
+                    "url": "The Golden Goblin",
+                    "label": "The Golden Goblin"
+                }
+            },
+            "id": "76"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                1414.5746503957,
+                889.85573912185
+            ],
+            "popup": {
+                "title": "Zhaelun's Stockyard",
+                "description": "One of [[Suzail]]'s stockyard.",
+                "link": {
+                    "url": "Zhaelun's Stockyard",
+                    "label": "Zhaelun's Stockyard"
+                }
+            },
+            "id": "77"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                604,
+                725.5
+            ],
+            "popup": {
+                "title": "The Crying Witch",
+                "description": "A tavern overlooking [[Suzail]]'s market plaza.",
+                "link": {
+                    "url": "The Crying Witch",
+                    "label": "The Crying Witch"
+                }
+            },
+            "id": "78"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                711.00082951345,
+                1221.0011002881
+            ],
+            "popup": {
+                "title": " Leaning Post",
+                "description": "A quiet quality inn on the crossing of [[Garth Street]] and the [[Hunt Ride]].",
+                "link": {
+                    "url": "Leaning Post",
+                    "label": "Leaning Post"
+                }
+            },
+            "id": "79"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                571.37057263071,
+                1077.6209531237
+            ],
+            "popup": {
+                "title": "Garth Street",
+                "description": "The street that stretched from the [[Market (Suzail)|Market]] to the [[Promenade (Suzail) |Promenade]].",
+                "link": {
+                    "url": "Garth Street",
+                    "label": "Garth Street"
+                },
+                "image": "File:Garth Street.jpg"
+            },
+            "id": "80"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                780.45595489744,
+                1259.8714029544
+            ],
+            "popup": {
+                "title": "Hunt Bide",
+                "description": "The street that stretched from [[the Basin]] to the [[Promenade (Suzail)|Promenade]].",
+                "link": {
+                    "url": "Hunt Bide",
+                    "label": "Hunt Bide"
+                },
+                "image": "File:Hunt Bide.jpg"
+            },
+            "id": "81"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                2018.5813226279,
+                2199.9592831579
+            ],
+            "popup": {
+                "title": "The Jaws",
+                "description": "A stream that fed into [[Lake Azoun]] and passed toward [[the Basin]] as a culvert.",
+                "link": {
+                    "url": "Jaws (Suzail)",
+                    "label": "Jaws (Suzail)"
+                }
+            },
+            "id": "82"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                1444.4398010722,
+                1043.8467883604
+            ],
+            "popup": {
+                "title": "Selavar's Inn",
+                "description": "An inn of note.",
+                "link": {
+                    "url": "Selavar's Inn",
+                    "label": "Selavar's Inn"
+                }
+            },
+            "id": "83"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                1754.0002765045,
+                1102.0004001047
+            ],
+            "popup": {
+                "title": "Zult's",
+                "description": "[[Suzail]]'s licensed moneychanger stop.",
+                "link": {
+                    "url": "Zult's",
+                    "label": "Zult's"
+                }
+            },
+            "id": "84"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                1074.807781913,
+                680.23870391892
+            ],
+            "popup": {
+                "title": "The Black Rat",
+                "description": "A murky but genuinely hospitable eatery and a tavern.",
+                "link": {
+                    "url": "Black Rat",
+                    "label": "Black Rat"
+                }
+            },
+            "id": "85"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1241.0230016424,
+                795.00925590106
+            ],
+            "popup": {
+                "title": "Tholone Lane",
+                "description": "A short arc street between [[Nerester's Run]] and [[Silverscales Street]].",
+                "link": {
+                    "url": "Tholone Lane",
+                    "label": "Tholone Lane"
+                },
+                "image": "File:Nerester's Run.jpg"
+            },
+            "id": "86"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1089.0208946217,
+                857.99837258882
+            ],
+            "popup": {
+                "title": "Nerester's Run",
+                "description": "The street at the western end of [[Tholone Lane]].",
+                "link": {
+                    "url": "Nerester's Run",
+                    "label": "Nerester's Run"
+                },
+                "image": "File:Nerester's Run.jpg"
+            },
+            "id": "87"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1129.9699749553,
+                688.02105463209
+            ],
+            "popup": {
+                "title": "Silverscales Street",
+                "description": "The street at the eastern end of [[Tholone Lane]].",
+                "link": {
+                    "url": "Silverscales Street",
+                    "label": "Silverscales Street"
+                },
+                "image": "File:Silverscales Street.jpg"
+            },
+            "id": "88"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                1568.4612224491,
+                887.82970054303
+            ],
+            "popup": {
+                "title": "The Mare's Tail",
+                "description": "A tavern of note.",
+                "link": {
+                    "url": "The Mare's Tail",
+                    "label": "The Mare's Tail"
+                }
+            },
+            "id": "89"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                2288.6336469747,
+                1331.9078162795
+            ],
+            "popup": {
+                "title": "Courtyard of Zathchos",
+                "description": "A courtyard named after the merchant [[Zathchos]] family.",
+                "link": {
+                    "url": "Courtyard of Zathchos",
+                    "label": "Courtyard of Zathchos"
+                }
+            },
+            "id": "90"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                1582.5053673319,
+                823.07257621792
+            ],
+            "popup": {
+                "title": "Taneth's Feasthall",
+                "description": "A [[festhall]] of note.",
+                "link": {
+                    "url": "Taneth's Feasthall",
+                    "label": "Taneth's Feasthall"
+                }
+            },
+            "id": "91"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                2662.0019355314,
+                928.00140036661
+            ],
+            "popup": {
+                "title": "Sontravin's Inn",
+                "description": "An inn of note.",
+                "link": {
+                    "url": "Sontravin's Inn",
+                    "label": "Sontravin's Inn"
+                }
+            },
+            "id": "92"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                1034,
+                361
+            ],
+            "popup": {
+                "title": "Skatterhawk warehouses & dock",
+                "description": "A group of warehouses and a dock that belonged to the merchant [[Skatterhawk]] family, relatives of the crown.",
+                "link": {
+                    "url": "Skatterhawk warehouses",
+                    "label": "Skatterhawk warehouses"
+                }
+            },
+            "id": "93"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                2170.9972935061,
+                2025.0035323537
+            ],
+            "popup": {
+                "title": "Shrine to Tyr",
+                "description": "A shrine dedicated to [[Tyr]], God of Justice.",
+                "link": {
+                    "url": "Shrine to Tyr (Suzail)",
+                    "label": "Shrine to Tyr (Suzail)"
+                }
+            },
+            "id": "94"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                2495.2869740277,
+                1776.9072217816
+            ],
+            "popup": {
+                "title": "Sulchra's Festhall",
+                "description": "A [[festhall]] of note.",
+                "link": {
+                    "url": "Sulchra's Festhall",
+                    "label": "Sulchra's Festhall"
+                },
+                "image": "File:Sulchra's Festhall.png"
+            },
+            "id": "95"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                2546.3085709897,
+                1576.9019326953
+            ],
+            "popup": {
+                "title": "The Warm Bed Inn",
+                "description": "",
+                "link": {
+                    "url": "The Warm Bed Inn",
+                    "label": "The Warm Bed Inn"
+                }
+            },
+            "id": "96"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                333,
+                1687.0007001833
+            ],
+            "popup": {
+                "title": "Tower of Argul",
+                "description": "The tower of the wizard [[Arg\u00fbl Marammas]], a magic [[scroll]]-scriber.",
+                "link": {
+                    "url": "Tower of Argul",
+                    "label": "Tower of Argul"
+                }
+            },
+            "id": "97"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                402,
+                297.5
+            ],
+            "popup": {
+                "title": "The Purple Scar",
+                "description": "A [[festhall]], formerly a smithy-shop of [[Atham One-Eye]].",
+                "link": {
+                    "url": "The Purple Scar",
+                    "label": "The Purple Scar"
+                }
+            },
+            "id": "98"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                1086.3421077355,
+                1278.0315153102
+            ],
+            "popup": {
+                "title": "Danain's",
+                "description": "A hardware shop.",
+                "link": {
+                    "url": "Danain's",
+                    "label": "Danain's"
+                }
+            },
+            "id": "99"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                2388.6074889209,
+                1924.7453656817
+            ],
+            "popup": {
+                "title": "Kriyeos Lathmil's stables",
+                "description": "",
+                "link": {
+                    "url": "Kriyeos Lathmil's stables",
+                    "label": "Kriyeos Lathmil's stables"
+                }
+            },
+            "id": "100"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                2350.0006912612,
+                1498.5003500917
+            ],
+            "popup": {
+                "title": "Jhassalan warehouse",
+                "description": "[[Oil]]s and [[perfume]]s warehouse of the merchant [[Jhassalan]] family.",
+                "link": {
+                    "url": "Jhassalan warehouse",
+                    "label": "Jhassalan warehouse"
+                }
+            },
+            "id": "101"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2310.0011060179,
+                1413.0001000262
+            ],
+            "popup": {
+                "title": "Blackgorgons",
+                "description": "The tower residence of [[wizard]] [[Baskor Tranth]] ''circa'' late 14{{th}} century [[DR]]. The wizard was willing to trade in [[spell]] [[scroll]]s.",
+                "link": {
+                    "url": "Blackgorgons",
+                    "label": "Blackgorgons"
+                }
+            },
+            "id": "102"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                2397.9973662242,
+                1532.9977623096
+            ],
+            "popup": {
+                "title": "Swordstars Lane",
+                "description": "The street that ended in a \"Y\" junction to the north and a \"T\" junction to the south.",
+                "link": {
+                    "url": "Swordstars Lane",
+                    "label": "Swordstars Lane"
+                },
+                "image": "File:Swordstars Lane.jpg"
+            },
+            "id": "103"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                2352.0016590269,
+                1541.0008002095
+            ],
+            "popup": {
+                "title": "Vardrim's rooming-house",
+                "description": "A busy rooming-house for carters, crate-makers, and warehouse workers.",
+                "link": {
+                    "url": "Vardrim's rooming-house",
+                    "label": "Vardrim's rooming-house"
+                }
+            },
+            "id": "104"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                2365.0001382522,
+                1567.5003500917
+            ],
+            "popup": {
+                "title": "Jharko's Coffers and Crates",
+                "description": "A [[rat]]-infested secondhand coffer, chest, and other containers vendor.",
+                "link": {
+                    "url": "Jharko's Coffers and Crates",
+                    "label": "Jharko's Coffers and Crates"
+                }
+            },
+            "id": "105"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                2369.4998646753,
+                1581.2508830884
+            ],
+            "popup": {
+                "title": "Cart alley",
+                "description": "A busy cart alley for the warehouses on the block that connected to [[Swordstars Lane]].",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "106"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                2377.117588218,
+                1595.467291316
+            ],
+            "popup": {
+                "title": "Montalar's Happy House",
+                "description": "A busy dawn-to-dusk eatery that did not welcome drunks.",
+                "link": {
+                    "url": "Montalar's Happy House",
+                    "label": "Montalar's Happy House"
+                }
+            },
+            "id": "107"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                2350.4237227369,
+                1623.5175939795
+            ],
+            "popup": {
+                "title": "Talarkgates",
+                "description": "A decaying but grand manor. Once home to [[Umbran Daerith]], a merchant, property investor, and moneylender.",
+                "link": {
+                    "url": "Talarkgates",
+                    "label": "Talarkgates"
+                }
+            },
+            "id": "108"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                2354.0006912612,
+                1752.5004501178
+            ],
+            "popup": {
+                "title": "Faeri warehouse",
+                "description": "[[Ivory]] trade warehouse that belonged to the [[Faeri]] merchant family.",
+                "link": {
+                    "url": "Faeri warehouse",
+                    "label": "Faeri warehouse"
+                }
+            },
+            "id": "109"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                2281.127649217,
+                1832.8207768355
+            ],
+            "popup": {
+                "title": "Ossper warehouse",
+                "description": "A fine cloth trade warehouse of the [[Ossper]] merchant family.",
+                "link": {
+                    "url": "Ossper warehouse",
+                    "label": "Ossper warehouse"
+                }
+            },
+            "id": "110"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                2088.7946047342,
+                1335.0170370466
+            ],
+            "popup": {
+                "title": "Blackshield Apartments",
+                "description": "A large apartment complex that housed clerks of the [[Royal Court]] as well as visiting dignitaries of lower rank.",
+                "link": {
+                    "url": "Blackshield Apartments",
+                    "label": "Blackshield Apartments"
+                }
+            },
+            "id": "111"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1713.3698501745,
+                2030.9585869469
+            ],
+            "popup": {
+                "title": "Royal Ride",
+                "description": "A rich street that began on the [[Promenade (Suzail)|Promenade]] by the [[Towers of Good Fortune]] and ran west.",
+                "link": {
+                    "url": "Royal Ride",
+                    "label": "Royal Ride"
+                },
+                "image": "File:Royal Ride.jpg"
+            },
+            "id": "112"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                2280.0010600788123,
+                1458.000800209493
+            ],
+            "popup": {
+                "title": "Stonebow Street",
+                "description": "A street that began on the [[Promenade (Suzail)|Promenade]] and housed the [[Shrine to Lliira (Suzail)|Shrine to Lliira]] on its northern side.",
+                "link": {
+                    "url": "Stonebow Street",
+                    "label": "Stonebow Street"
+                },
+                "image": "File:Stonebow Stree.jpg"
+            },
+            "id": "113"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                2379.244306859,
+                1338.9220719086
+            ],
+            "popup": {
+                "title": "Torch Street",
+                "description": "A street that crossed [[Stonebow Street]], west of the [[Shrine to Lliira (Suzail)|Shrine to Lliira]].",
+                "link": {
+                    "url": "Torch Street",
+                    "label": "Torch Street"
+                },
+                "image": "File:Torch Street.jpg"
+            },
+            "id": "114"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                2522.2467650498,
+                1321.9295986853
+            ],
+            "popup": {
+                "title": "Blade Lane",
+                "description": "A curved street at the eastern end of [[Stonebow Street]].",
+                "link": {
+                    "url": "Blade Lane",
+                    "label": "Blade Lane"
+                },
+                "image": "File:Blade Lane.jpg"
+            },
+            "id": "115"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                2613.2581780785,
+                1523.9518738758
+            ],
+            "popup": {
+                "title": "Coachwheels Way",
+                "description": "A straight street with the Shrine to Milil on its west side.",
+                "link": {
+                    "url": "Coachwheels Way",
+                    "label": "Coachwheels Way"
+                },
+                "image": "File:Coachwheels Way.jpg"
+            },
+            "id": "116"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                156.97848749619,
+                309.71305307649
+            ],
+            "popup": {
+                "title": "The Hidden Lady",
+                "description": "A friendly inn and tavern overlooking the waters of the [[Dragonmere]].",
+                "link": {
+                    "url": "The Hidden Lady",
+                    "label": "The Hidden Lady"
+                }
+            },
+            "id": "117"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                2165,
+                1414.0007001833
+            ],
+            "popup": {
+                "title": "Fallas' Treasures of Thentia",
+                "description": "A [[silk]] merchant.",
+                "link": {
+                    "url": "Fallas' Treasures of Thentia",
+                    "label": "Fallas' Treasures of Thentia"
+                }
+            },
+            "id": "118"
+        },
+        {
+            "categoryId": "14",
+            "position": [
+                1774.4784297847,
+                367.88523594941
+            ],
+            "popup": {
+                "title": "Stoutbold Marina",
+                "description": "Boats bought, sold, outfitted, rented, & repaired. No job too big. No job too small.\n",
+                "link": {
+                    "url": "Stoutbold Marina",
+                    "label": "Stoutbold Marina"
+                }
+            },
+            "id": "119"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                1269.9633879747,
+                1004.0921951185
+            ],
+            "popup": {
+                "title": "Thentias mansion",
+                "description": "The mansion that once belonged to [[Thentias]], a merchant and a landlord mogul of [[Suzail]].",
+                "link": {
+                    "url": "Thentias mansion",
+                    "label": "Thentias mansion"
+                }
+            },
+            "id": "120"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1665.2601095141,
+                2134.9721148023
+            ],
+            "popup": {
+                "title": "Bleth Estate",
+                "description": "Estate of the noble House [[Bleth]].",
+                "link": {
+                    "url": "Bleth Estate",
+                    "label": "Bleth Estate"
+                }
+            },
+            "id": "121"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                2051.1301425496,
+                2016.9942961702
+            ],
+            "popup": {
+                "title": "Thistleflame Manor",
+                "description": "Also known as '''Thistleflame Keep''', the gated home of the noble [[Thistle (family)|Thistle]] family of [[Suzail]].",
+                "link": {
+                    "url": "Thistleflame Manor",
+                    "label": "Thistleflame Manor"
+                }
+            },
+            "id": "122"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                1510.3828218692,
+                1378.8593549809
+            ],
+            "popup": {
+                "title": "Hall of Honor",
+                "description": "A museum that held relics, [[weapon]]s, and [[armor]] used by [[Cormyr|Cormyte]] heroes of old.",
+                "link": {
+                    "url": "Hall of Honor",
+                    "label": "Hall of Honor"
+                }
+            },
+            "id": "123"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1427,
+                540.5
+            ],
+            "popup": {
+                "title": "Dancing Druid Lane",
+                "description": "The street with the entrance to The [[Osculatory]] at its northern end.",
+                "link": {
+                    "url": "Dancing Druid Lane",
+                    "label": "Dancing Druid Lane"
+                },
+                "image": "File:Dancing Druid Lane.jpg"
+            },
+            "id": "124"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                2134.4650853204,
+                1231.859400797
+            ],
+            "popup": {
+                "title": "Street of Staves",
+                "description": "The street that met with the [[Promenade (Suzail)|Promenade]] right by the [[Dragon's Jaws]] tavern.",
+                "link": {
+                    "url": "Street of Staves",
+                    "label": "Street of Staves"
+                },
+                "image": "File:Street of Staves.jpg"
+            },
+            "id": "125"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1371.9985953195,
+                969.99755888324
+            ],
+            "popup": {
+                "title": "Court Close",
+                "description": "The street that passed immediately east of The [[Winking Eye]], looped around the next block and ran all the way to [[Bolliver's Wharf]].",
+                "link": {
+                    "url": "Court Close",
+                    "label": "Court Close"
+                },
+                "image": "File:Court Close.jpg"
+            },
+            "id": "126"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1242.997243795088,
+                1420.9996999214402
+            ],
+            "popup": {
+                "title": "Court Close",
+                "description": "The street that passed immediately east of The [[Winking Eye]], looped around the next block and ran all the way to [[Bolliver's Wharf]].",
+                "link": {
+                    "url": "Court Close",
+                    "label": "Court Close"
+                },
+                "image": "File:Court Close.jpg"
+            },
+            "id": "127"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1396.485453187,
+                1497.8699789696
+            ],
+            "popup": {
+                "title": "Court Close",
+                "description": "The street that passed immediately east of The [[Winking Eye]], looped around the next block and ran all the way to [[Bolliver's Wharf]].",
+                "link": {
+                    "url": "Court Close",
+                    "label": "Court Close"
+                },
+                "image": "File:Court Close.jpg"
+            },
+            "id": "128"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1473.6113140655,
+                1329.3584852965
+            ],
+            "popup": {
+                "title": "Court Close",
+                "description": "The street that passed immediately east of The [[Winking Eye]], looped around the next block and ran all the way to [[Bolliver's Wharf]].",
+                "link": {
+                    "url": "Court Close",
+                    "label": "Court Close"
+                },
+                "image": "File:Court Close.jpg"
+            },
+            "id": "129"
+        },
+        {
+            "categoryId": "14",
+            "position": [
+                1312.313613313428,
+                221.9787196949873
+            ],
+            "popup": {
+                "title": "Bolliver's Wharf",
+                "description": "A puplic wharf.",
+                "link": {
+                    "url": "Bolliver's Wharf",
+                    "label": "Bolliver's Wharf"
+                }
+            },
+            "id": "130"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                1308.1471541587,
+                394.56600827726
+            ],
+            "popup": {
+                "title": "Shaliber's Ship",
+                "description": "A curious inn aboard a semi-permanently docked ship.",
+                "link": {
+                    "url": "Shaliber's Ship",
+                    "label": "Shaliber's Ship"
+                }
+            },
+            "id": "131"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                708.5209947489205,
+                1494.1166286471748
+            ],
+            "popup": {
+                "title": "Mayhap Lane",
+                "description": "The street that crossed with [[Hunt Bide]] and the [[Promenade (Suzail)|Promenade]] on the corner where The [[The Six Candles|Six Candles]] stood.",
+                "link": {
+                    "url": "Mayhap Lane",
+                    "label": "Mayhap Lane"
+                },
+                "image": "File:Mayhap Lane.jpg"
+            },
+            "id": "132"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                730.4413049657036,
+                1575.4339084836279
+            ],
+            "popup": {
+                "title": "Stables of the Six Candles inn",
+                "description": "Located in the middle of the block with its entry on [[Windever Street]].",
+                "link": {
+                    "url": "The Six Candles",
+                    "label": "The Six Candles"
+                }
+            },
+            "id": "133"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                654.21129686834,
+                1613.9558406905
+            ],
+            "popup": {
+                "title": "Windever Street",
+                "description": "The street ending at the [[Promenade (Suzail)|Promenade]] with the entry to the stables of the [[The Six Candles|Six Candles]] inn.  ",
+                "link": {
+                    "url": "Windever Street",
+                    "label": "Windever Street"
+                },
+                "image": "File:Windever Street.jpg"
+            },
+            "id": "134"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                2019.4977491416,
+                1576.8485464212
+            ],
+            "popup": {
+                "title": "The Refuge",
+                "description": "The magical refuge monitored by the [[Royal Magician]] and created by [[Magister]] [[Maldiglas Turntower]].",
+                "link": {
+                    "url": "The Refuge (Suzail)",
+                    "label": "The Refuge"
+                }
+            },
+            "id": "135"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                2997.3291144413,
+                1132.9559424037
+            ],
+            "popup": {
+                "title": "Plum orchard",
+                "description": "200 acres of [[plum]] [[tree]]s.",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "136"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1387.2207784614,
+                1744.9717079495
+            ],
+            "popup": {
+                "title": "High Oronel",
+                "description": "Stone mansion estate of the noble House [[Haldoneir]]. Previously known as the '''Stormserpent Towers''' in the 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "High Oronel",
+                    "label": "High Oronel"
+                }
+            },
+            "id": "137"
+        },
+        {
+            "categoryId": "13",
+            "position": [
+                1099.000553009,
+                1249.0003000786
+            ],
+            "popup": {
+                "title": "The Caskhouse",
+                "description": "The guildhall of the [[Brewers and Cheesemakers Guild]], above the tavern in the same building.",
+                "link": {
+                    "url": "The Caskhouse",
+                    "label": "The Caskhouse"
+                }
+            },
+            "id": "138"
+        },
+        {
+            "categoryId": "13",
+            "position": [
+                513.00027650448,
+                730.00060015712
+            ],
+            "popup": {
+                "title": "Hardshutters House",
+                "description": "The guildhall of the the [[Roofers, Thatchers, and Glaziers Guild]].",
+                "link": {
+                    "url": "Hardshutters House",
+                    "label": "Hardshutters House"
+                }
+            },
+            "id": "139"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                892.19338719257,
+                620.93915972596
+            ],
+            "popup": {
+                "title": "Flar Oldbottle's Nets",
+                "description": "A two-story warehouse shop, once owned by investor [[Imprur Jusk]].",
+                "link": {
+                    "url": "Flar Oldbottle's Nets, Ropes, Cables, Hawsers, and Cords",
+                    "label": "Flar Oldbottle's Nets, Ropes, Cables, Hawsers, and Cords"
+                }
+            },
+            "id": "140"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                879,
+                686.5
+            ],
+            "popup": {
+                "title": "Jumble's Fresh Fish",
+                "description": "More commonly known as '''Old Rak''', a foul-smelling [[fish]] vendor.",
+                "link": {
+                    "url": "Jumble's Fresh Fish",
+                    "label": "Jumble's Fresh Fish"
+                }
+            },
+            "id": "141"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                897.24114632797,
+                540.91769824107
+            ],
+            "popup": {
+                "title": "Red Sunsets Trading Company warehouse",
+                "description": "Built in the 14{{th}} century [[DR]] small cargo rental warehouse.",
+                "link": {
+                    "url": "Red Sunsets Trading Company",
+                    "label": "Red Sunsets Trading Company warehouse"
+                }
+            },
+            "id": "142"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                891.66204211263,
+                584.77752022886
+            ],
+            "popup": {
+                "title": "Jusk's Stroll",
+                "description": "A hidden magical two-way ''[[gate]]-link.''",
+                "link": {
+                    "url": "Jusk's Stroll",
+                    "label": "Jusk's Stroll"
+                }
+            },
+            "id": "143"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                1195.0016238964,
+                812.00151386586
+            ],
+            "popup": {
+                "title": "Murrock's Fine Glass",
+                "description": "A sturdy stone building permanently blackened by a series of fires. Previously a [[Tireless Eyes]] trading coster HQ.",
+                "link": {
+                    "url": "Murrock's Fine Glass",
+                    "label": "Murrock's Fine Glass"
+                }
+            },
+            "id": "144"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1181.0002765045,
+                827.00030007856
+            ],
+            "popup": {
+                "title": "Valkur's Berth",
+                "description": "A well-hidden half-flooded temple to [[Valkur]] and a smuggling operation.",
+                "link": {
+                    "url": "Valkur's Berth",
+                    "label": "Valkur's Berth"
+                }
+            },
+            "id": "145"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                1534.4217151748,
+                813.17350565648
+            ],
+            "popup": {
+                "title": "Thornposts",
+                "description": "A grand house. Once home of [[Lorimel Rustellur]], the best mapmaker in [[Suzail]].",
+                "link": {
+                    "url": "Thornposts",
+                    "label": "Thornposts"
+                }
+            },
+            "id": "146"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                552.40643991147,
+                1297.8931695789
+            ],
+            "popup": {
+                "title": "Doloph Street",
+                "description": "A short street that began at a crossing with [[Mayhap Lane]] in the north and ended at [[Garth Street]] in the south.",
+                "link": {
+                    "url": "Doloph Street",
+                    "label": "Doloph Street"
+                }
+            },
+            "id": "147"
+        },
+        {
+            "categoryId": "13",
+            "position": [
+                1152.9994664038,
+                736.50012630223
+            ],
+            "popup": {
+                "title": "Starsails House",
+                "description": "The guildhall of the [[Seafarers Guild]].",
+                "link": {
+                    "url": "Starsails House",
+                    "label": "Starsails House"
+                }
+            },
+            "id": "148"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                1510.6252241724,
+                1162.3558858037
+            ],
+            "popup": {
+                "title": "Darcleir's Haven",
+                "description": "An exclusive and fanciful eatery.",
+                "link": {
+                    "url": "Darcleir's Haven",
+                    "label": "Darcleir's Haven"
+                }
+            },
+            "id": "149"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                1295.2010691335,
+                1213.1682234748
+            ],
+            "popup": {
+                "title": "The Old King's Favorite",
+                "description": "Rich and glittering lounge frequented by wealthy socialites and nobles.",
+                "link": {
+                    "url": "Old King's Favorite",
+                    "label": "Old King's Favorite"
+                }
+            },
+            "id": "150"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                1141.2709313897,
+                1217.6383723076
+            ],
+            "popup": {
+                "title": "House of the Lynx",
+                "description": "An establishment where interested could hire courtesan or companions.",
+                "link": {
+                    "url": "House of the Lynx",
+                    "label": "House of the Lynx"
+                }
+            },
+            "id": "151"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                1060.9163598812,
+                1288.7642999278
+            ],
+            "popup": {
+                "title": "The Gilded Feather",
+                "description": "The most expensive pretty-parlor in [[Suzail]].",
+                "link": {
+                    "url": "Gilded Feather",
+                    "label": "Gilded Feather"
+                }
+            },
+            "id": "152"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                735.39105243401,
+                1161.7767951355
+            ],
+            "popup": {
+                "title": "Tathlin's Discreet Errands",
+                "description": "A message runners' business.",
+                "link": {
+                    "url": "Tathlin's Discreet Errands",
+                    "label": "Tathlin's Discreet Errands"
+                }
+            },
+            "id": "153"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                712.05711520944,
+                1159.6555455211
+            ],
+            "popup": {
+                "title": "Culder Darshoon's Cobbler Shop",
+                "description": "A humble cobbler's shop run by [[Culder Darshoon]] in the 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "Culder Darshoon's Cobbler Shop",
+                    "label": "Culder Darshoon's Cobbler Shop"
+                }
+            },
+            "id": "154"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                744.00110601793,
+                1136.0002000524
+            ],
+            "popup": {
+                "title": "Rental lodgings",
+                "description": "Rental lodgings, temporary home of [[Amarune Whitewave]] in the late 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "155"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                802.21283877433,
+                1571.1913738903
+            ],
+            "popup": {
+                "title": "Rental lodgings",
+                "description": "Expensive rental lodgings, temporary home of Lord [[Barandror Murandrake]] in the late 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "Barandror Murandrake",
+                    "label": "Rental lodgings"
+                }
+            },
+            "id": "156"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                572.75688379749,
+                1558.4637701103
+            ],
+            "popup": {
+                "title": "The Willing Smile",
+                "description": "A seedy low-[[coin]] rundown brothel, a once-fashionable destination on a once-fashionable street.",
+                "link": {
+                    "url": "Willing Smile",
+                    "label": "Willing Smile"
+                }
+            },
+            "id": "157"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                814.5,
+                1715.5
+            ],
+            "popup": {
+                "title": "The Bold Archer",
+                "description": "A boisterous club with a sign depicting a woman with a bent [[bow]] surrounded by hungry [[wolves]].",
+                "link": {
+                    "url": "Bold Archer",
+                    "label": "Bold Archer"
+                }
+            },
+            "id": "158"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                934.78238985024,
+                1558.9519848328
+            ],
+            "popup": {
+                "title": "The Eel Revealed",
+                "description": "Eatery is famed for its fortified [[wine]]s, [[eel]] and [[cheese]] [[pie]]s, and young [[oil]]ed wait staff.",
+                "link": {
+                    "url": "Eel Revealed",
+                    "label": "Eel Revealed"
+                }
+            },
+            "id": "159"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                1030,
+                1644
+            ],
+            "popup": {
+                "title": "The Lady Murmurs Yes",
+                "description": "A brothel of note.",
+                "link": {
+                    "url": "Lady Murmurs Yes",
+                    "label": "Lady Murmurs Yes"
+                }
+            },
+            "id": "160"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                1556.1920068875,
+                1771.62561361
+            ],
+            "popup": {
+                "title": "House with access to the Palace cellars",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "161"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                1531.5932880501,
+                1697.0568406813
+            ],
+            "popup": {
+                "title": "Royal Stables",
+                "description": "",
+                "link": {
+                    "url": "Royal Stables",
+                    "label": "Royal Stables"
+                }
+            },
+            "id": "162"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1785.1984863281,
+                1688.0803222656
+            ],
+            "popup": {
+                "title": "Haunted Wing of the Royal Palace",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "163"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1189.353605955773,
+                929.1411650519661
+            ],
+            "popup": {
+                "title": "Minstrel's Ride",
+                "description": "A street that crossed [[Nerester's Run]] and ended at the [[Court Close]].",
+                "link": {
+                    "url": "Minstrel's Ride",
+                    "label": "Minstrel's Ride"
+                }
+            },
+            "id": "164"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                968.7360948474145,
+                874.7837483045696
+            ],
+            "popup": {
+                "title": "Dunstan's Way",
+                "description": "A short street that began across the way from where the [[Hunt Bide]] began and ended on a moot with [[Nerester's Run]] and [[Silverscales Street]].",
+                "link": {
+                    "url": "Dunstan's Way",
+                    "label": "Dunstan's Way"
+                }
+            },
+            "id": "165"
+        }
+    ],
+    "markerProgress": false
+}
+9kn14ljb7bn8yiz6ul66ctnd4oe7hu7
+
+

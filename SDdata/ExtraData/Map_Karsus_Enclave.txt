@@ -1,0 +1,394 @@
+2900
+160538
+
+924705
+919923
+2024-03-03T13:56:59Z
+
+Torbion1.1
+49136539
+
+Adding categories
+924705
+interactivemap
+text/plain
+{
+    "mapImage": "Karsus Enclave Map.png",
+    "pageCategories": [
+        "Maps"
+    ],
+    "defaultSort": "",
+    "description": "The Karsus Enclave in [[-339 DR]], right before its destruction. The index of locations and references can be found [[:File:Karsus Enclave Map.png|here]].",
+    "coordinateOrder": "xy",
+    "mapBounds": [
+        [
+            0,
+            0
+        ],
+        [
+            1036,
+            712
+        ]
+    ],
+    "origin": "bottom-left",
+    "useMarkerClustering": true,
+    "categories": [
+        {
+            "id": "4",
+            "listId": 1,
+            "name": "Government",
+            "color": "#1b42a6",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "1",
+            "listId": 2,
+            "name": "Academia",
+            "color": "#782a9d",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "2",
+            "listId": 3,
+            "name": "Shops",
+            "color": "#9d1907",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "3",
+            "listId": 4,
+            "name": "Services",
+            "color": "#1b9119",
+            "symbol": "",
+            "symbolColor": ""
+        }
+    ],
+    "markers": [
+        {
+            "categoryId": "2",
+            "position": [
+                382,
+                140
+            ],
+            "popup": {
+                "title": "Rualadeen Arms",
+                "description": "A renowned weaponcrafting business.",
+                "link": {
+                    "url": "Rualadeen Arms",
+                    "label": "Rualadeen Arms"
+                }
+            },
+            "id": "1"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                270.1147904132611,
+                305.4701294725885
+            ],
+            "popup": {
+                "title": "Mythomian Warehouse",
+                "description": "A magically-chilled storehouse for [[fish]] and meat, secretly used as a safehouse by the [[Neth Underground for Freedom Fighters]].",
+                "link": {
+                    "url": "Mythomian Warehouse",
+                    "label": "Mythomian Warehouse"
+                }
+            },
+            "id": "2"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                370,
+                384
+            ],
+            "popup": {
+                "title": "Constabulary Branch Two",
+                "description": "The militia headquarters of the southwestern city.",
+                "link": {
+                    "url": "Constabulary Branch Two",
+                    "label": "Constabulary Branch Two"
+                }
+            },
+            "id": "3"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                299.10616844190963,
+                503.1064748142286
+            ],
+            "popup": {
+                "title": "Karsus Castle",
+                "description": "The personal palace of [[Karsus]] himself.",
+                "link": {
+                    "url": "Karsus Castle",
+                    "label": "Karsus Castle"
+                }
+            },
+            "id": "4"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                329.5117600329312,
+                433.1029034767604
+            ],
+            "popup": {
+                "title": "Academy of Mentalist Study",
+                "description": "A prestigious school for [[mentalist]] arcana.",
+                "link": {
+                    "url": "Academy of Mentalist Study",
+                    "label": "Academy of Mentalist Study"
+                }
+            },
+            "id": "5"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                162,
+                327
+            ],
+            "popup": {
+                "title": "Alchemical Seminary",
+                "description": "A school for studying [[alchemy]] and [[transmutation]] magic.",
+                "link": {
+                    "url": "Alchemical Seminary",
+                    "label": "Alchemical Seminary"
+                }
+            },
+            "id": "6"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                132.75,
+                359.5
+            ],
+            "popup": {
+                "title": "The Ancient Scrolls",
+                "description": "A collection of sages who specialized in history.",
+                "link": {
+                    "url": "The Ancient Scrolls",
+                    "label": "The Ancient Scrolls"
+                }
+            },
+            "id": "7"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                104.29825022501576,
+                482.24682476922544
+            ],
+            "popup": {
+                "title": "Shadow Consortium",
+                "description": "The foremost institution regarding [[planes|planar]] studies.",
+                "link": {
+                    "url": "Shadow Consortium",
+                    "label": "Shadow Consortium"
+                }
+            },
+            "id": "8"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                230.87036405740778,
+                548.0077554195743
+            ],
+            "popup": {
+                "title": "Library of Netheril",
+                "description": "A large library that contained general subjects.",
+                "link": {
+                    "url": "Library of Netheril",
+                    "label": "Library of Netheril"
+                }
+            },
+            "id": "9"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                336.58282784479667,
+                586.191521603648
+            ],
+            "popup": {
+                "title": "Constabulary Branch One",
+                "description": "The militia base for the northern segment of the city.",
+                "link": {
+                    "url": "Constabulary Branch One",
+                    "label": "Constabulary Branch One"
+                }
+            },
+            "id": "10"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                372.75,
+                505.5
+            ],
+            "popup": {
+                "title": "League of Noted Singers and Performers",
+                "description": "[[Netheril]]'s guild for skilled actors, performers, and other artists.",
+                "link": {
+                    "url": "League of Noted Singers and Performers",
+                    "label": "League of Noted Singers and Performers"
+                }
+            },
+            "id": "11"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                604.5,
+                325.25
+            ],
+            "popup": {
+                "title": "Museum of Heavy Magic",
+                "description": "A unique museum that used [[heavy magic]]-based illusory exhibits.",
+                "link": {
+                    "url": "Museum of Heavy Magic",
+                    "label": "Museum of Heavy Magic"
+                }
+            },
+            "id": "12"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                691.25,
+                329.25
+            ],
+            "popup": {
+                "title": "Netheril Mint",
+                "description": "One of Netheril's three mints.",
+                "link": {
+                    "url": "Netheril Mint",
+                    "label": "Netheril Mint"
+                }
+            },
+            "id": "13"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                714.75,
+                409.75
+            ],
+            "popup": {
+                "title": "University of Definitive Archwizardry",
+                "description": "A prestigious academy of all arcane studies.",
+                "link": {
+                    "url": "University of Definitive Archwizardry",
+                    "label": "University of Definitive Archwizardry"
+                }
+            },
+            "id": "14"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                635,
+                415
+            ],
+            "popup": {
+                "title": "Mythallar Housing",
+                "description": "The fortified structure that contained the enclave's two ''[[mythallar]]s''.",
+                "link": {
+                    "url": "Mythallar Housing",
+                    "label": "Mythallar Housing"
+                }
+            },
+            "id": "15"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                575.25,
+                466.25
+            ],
+            "popup": {
+                "title": "Ioulaum Industries",
+                "description": "A center of experimentation and research regarding ''[[mythallar]]s''.",
+                "link": {
+                    "url": "Ioulaum Industries",
+                    "label": "Ioulaum Industries"
+                }
+            },
+            "id": "16"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                574.5,
+                610.5
+            ],
+            "popup": {
+                "title": "QM III",
+                "description": "A [[quasimagical item]] shop.",
+                "link": {
+                    "url": "QM III",
+                    "label": "QM III"
+                }
+            },
+            "id": "17"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                792.5,
+                553.5
+            ],
+            "popup": {
+                "title": "Transgate Industries",
+                "description": "A ''[[portal]]'' development company.",
+                "link": {
+                    "url": "Transgate Industries",
+                    "label": "Transgate Industries"
+                }
+            },
+            "id": "18"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                849,
+                378
+            ],
+            "popup": {
+                "title": "Dundaden's Armory",
+                "description": "The foremost armorcrafting workshop in [[Netheril]].",
+                "link": {
+                    "url": "Dundaden's Armory",
+                    "label": "Dundaden's Armory"
+                }
+            },
+            "id": "19"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                902,
+                443.5
+            ],
+            "popup": {
+                "title": "Constabulary Branch Three",
+                "description": "The militia headquarters for the eastern part of the city.",
+                "link": {
+                    "url": "Constabulary Branch Three",
+                    "label": "Constabulary Branch Three"
+                }
+            },
+            "id": "20"
+        }
+    ]
+}
+hmlpiszkfcs8q36vy2ojrq9acjxfq6d
+
+

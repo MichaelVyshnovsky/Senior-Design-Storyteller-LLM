@@ -1,0 +1,19 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "image": "Human male bard NWN.jpg",
+        "name": "Vengaul Bloodsail",
+        "home": "[[Sword Coast]]",
+        "sex": "Male",
+        "race": "[[Human]]",
+        "age": "",
+        "dob": "",
+        "death": "",
+        "class": "{{class table|edition=2e|[[Fighter]]|10}}",
+        "alignment": "",
+        "mainbody": "'''Vengaul Bloodsail''' was the swashbuckling leader of the [[Bloodsailors]].",
+        "Relationships": "Vengaul and [[Nasher Alagondar]] had a long history of rivalry."
+    }
+}

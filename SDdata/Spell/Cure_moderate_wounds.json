@@ -1,0 +1,23 @@
+{
+    "template_data": {
+        "edition": "3e",
+        "edition_1": "2e"
+    },
+    "document_data": {
+        "image": "Cure moderate wounds.png",
+        "name": "Cure Moderate Wounds",
+        "level3e": "{{Spell table|edition=3e|[[Adept]]|2|[[Bard]]|2|[[Beloved of Lurue]]|2|[[Blackguard]]|2|[[Champion of Gwynharwyf]]|3|[[Cleric]]|2|[[Druid]]|3|[[Healing domain|Healing]]|2|[[Paladin]]|3|[[Ranger]]|3}}",
+        "descriptors3e": "",
+        "school3e": "[[Conjuration]] (Healing)",
+        "type3e": "",
+        "refs3e": "{{Cite web/Excerpt: Blackguard}}",
+        "school2e": "[[Necromancy]]",
+        "reversible2e": "true",
+        "spheres2e": "[[Healing sphere|Healing]]",
+        "level2e": "{{spell table|edition=2e|[[Cleric]]|2|[[Crusader]]|2|[[Druid]]|2|[[Healing sphere|Healing]]|2|[[Monk]]|2|[[Mystic]]|2|[[Paladin]]|2|[[Shaman]]|2}}",
+        "type2e": "",
+        "refs2e": "",
+        "mainbody": "'''''Cure moderate wounds''''' was a [[conjuration]] or [[necromancy]] spell that healed slightly more severe injuries than ''[[cure light wounds]]''.",
+        "Effects": "When laying hands upon a living creature, the caster channeled [[positive energy]] that healed a medium amount of damage. The necromantic version of this spell was not as potent as the conjuration version, but it was reversible (called '''''cause moderate wounds''''') and could be used to knock a creature back while doing harm, perhaps critical harm, at the same time.\n\n[[Undead]] creatures which drew their power from [[negative energy]] reacted just the opposite to this spell by taking damage, which could be reduced only by an act of will."
+    }
+}

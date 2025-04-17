@@ -1,0 +1,16 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "name": "Antivermin Barrier",
+        "school2e": "[[Abjuration]]",
+        "spheres2e": "[[Wards sphere|Wards]]",
+        "level2e": "{{spell table|edition=2e|[[Crusader]]|1|[[Shaman]]|1|[[Wards sphere|Wards]]|1}}",
+        "type2e": "",
+        "refs2e": "",
+        "mainbody": "'''''Antivermin barrier''''' was an [[abjuration]] spell that warded a large area<ref group=\"note\">The source states the area of effect in two different ways. In the spell summary it says \"10-foot cube/level\" but in the spell description it says \"a cubic area whose sides are 10 feet times the caster's level\", and gives an example calculation. Using the second definition, a 10th level priest could ward a volume almost as big as the [http://answers.yahoo.com/question/index?qid=20070519114542AAxtdWo Washington Monument]. against small, non-magical creatures.",
+        "Effects": "This spell created a protected area and prevented entry by all manner of small vermin, i.e., insects and spiders, snakes, rodents, worms, etc. The spell also worked on giant varieties of these pests, but only the very weakest ones. Creatures inside the area when the spell was cast were oblivious, but would be prevented from entering the area if they left and tried to come back. The spell lasted at least an hour and more experienced priests received more hours. There was some confusion about how big an area could be warded by this spell (see [[#Notes|Notes]]).",
+        "Components": "In addition to the [[verbal]] and [[somatic]] components, ''antivermin barrier'' required the caster's [[holy symbol]] and the whisker of a rodent to cast."
+    }
+}

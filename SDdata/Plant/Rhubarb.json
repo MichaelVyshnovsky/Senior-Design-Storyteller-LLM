@@ -1,0 +1,40 @@
+{
+    "template_data": {
+        "rca": "right"
+    },
+    "document_data": {
+        "image": "Neverwinter Rhubarb.png",
+        "caption": "",
+        "name": "Rhubarb",
+        "othernames": "Redroot",
+        "nicknames": "",
+        "type": "Plant<br />Vegetable<ref group=\"note\" name=\"fruit\" />",
+        "location": "",
+        "useon": "",
+        "origin": "",
+        "value": "{{Split table|rca=right|Leaf|2–3 [[cp]]|Root|8 cp}}",
+        "usage": "Cooking ingredient<br />[[Material component]]",
+        "genrefs": "",
+        "consumedby": "",
+        "poisonousto": "",
+        "lifespan": "",
+        "height": "",
+        "trunkdiameter": "",
+        "leaftype": "",
+        "leafcolor": "",
+        "flowercolor": "",
+        "color": "",
+        "stemcolor": "",
+        "distinctions": "",
+        "first": "",
+        "mainbody": "'''Rhubarb''', or '''Redroot''',Page 88 of ''[[Ed Greenwood Presents Elminster's Forgotten Realms]]'' misidentifies this as being a fruit.",
+        "Description": "These vegetables were short and leafy with bright red stalks. They were notable for being both sour and slightly sweet.<ref>",
+        "Availability": "Places in the Realms where rhubarb was known to grow or be cultivated were:\n* [[Northwest Faerûn]]: Wild rhubarb grew in the [[Delimbiyr Vale]]. And was cultivated in the gardens of [[Goldenfields]].\n* [[Luiren]]: Rhubarb grew in the [[Long Forest]]. Along the southern rim of that forest it was cultivated and traded widely by the city of [[Fasruil]].\n* The farmers of [[Gaj]] in the [[Vilhon Reach]] grew rhubarb making it the town's main dessert of choice.{{Cite web/theedverse/2022-12-15 - Gaj}}\n* The [[Katakoro Plateau]].\n* In [[Marsember/Xiousing|Xiousing]], a small [[Shou]] district in the city of [[Marsember]], rhubarb was grown by [[Shen's Herb Garden]].{{Cite dungeon/195/Backdrop: Xiousing|6}}\n* Wild rhubarb was also known by some to grow in great numbers in areas of [[fey]] presence, serving as indication of a [[fey crossroad]] being near.<ref>{{Cite organized play/LFR/Lost Love|28}}",
+        "Usages": "* The stalks of rhubarb were used in the filling of a Luiren pastry known as [[bouqthi]].\n* Some used rhubarb in the making of [[incense]].\n* Powdered rhubarb leaves were a [[material component]] for the [[spell]] ''[[Melf's acid arrow]]''.\n* Some were known to cultivate rhubarb for medicinal purposes, such as an astringent or cathartic.<ref>\n* Rhubarb could be used to make [[tea]].",
+        "Notable Users": {
+            "Businesses": "* [[Drover's Last Drink]], a tavern in [[Mosstone]] served a wide variety of handpies and bigger bowl-sized stuffed goodness. Rhubarb [[tart]]s and many-berry tarts were sold for one [[copper piece]] per serving of seven.",
+            "Organizations": "* The [[Ironaxe Clan]] of [[dwarves]] were known to gather rhubarb, in addition to other wild foodstuffs, from the Delimbiyr Vale.",
+            "Races & Sentient Creatures": "* Rhubarb was common in Elven cuisine."
+        }
+    }
+}

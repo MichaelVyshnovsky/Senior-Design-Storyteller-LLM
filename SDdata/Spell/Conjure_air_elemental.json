@@ -1,0 +1,31 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "image": "Conjure air elemental .jpg",
+        "name": "Conjure Air Elemental",
+        "deity": "[[Akadi]], [[Aerdrie Faenya]]",
+        "school2e": "[[Conjuration]] (Summoning)",
+        "spheres2e": "[[Elemental sphere|Elemental]] [[Elemental air sphere|Air]], [[Summoning sphere|Summoning]]",
+        "reversible2e": "true",
+        "level2e": "{{spell table|edition=2e|[[Cleric]] (Akadi/Aerdrie only)|7|[[Druid]]|7|[[Elemental sphere|Elemental]]|7|[[Elemental air sphere|Elemental Air]]|7|[[Monk]] (Akadi/Aerdrie only)|7|[[Mystic]]|7|[[Shaman]] (Akadi/Aerdrie only)|7|[[Summoning sphere|Summoning]]|7}}",
+        "type2e": "",
+        "refs2e": "",
+        "adventures": "{{Duapp|28|The Pipes of Doom}}",
+        "video games": "''[[Baldur's Gate II: Shadows of Amn]]'';''[[Icewind Dale: Enhanced Edition]]''",
+        "card games": "{{Spellfireapp|RR}}",
+        "organized play": "''[[Storm on the Horizon]]'';''[[Air's Looking at You]]'';''[[Starry Eyes]]'';''[[The Messengers]]''",
+        "mainbody": "===External links===\n\n*{{BGW|Conjure Air Elemental}}\n*{{IWDW|Conjure Air Elemental}}\n\n===References===\n{{refs}}\n[[Category:Conjuration spells]]\n[[Category:Summoning spells]]\n[[Category:Reversible spells]]\n[[Category:Akadian spells]]\n[[Category:Aerdrian spells]]\n[[Category:Cleric spells]]\n[[Category:Druid spells]]\n[[Category:Monk spells]]\n[[Category:Mystic spells]]\n[[Category:Shaman spells]]\neaf3ik683vbga6k1wehabdvd3gy9mr3",
+        "Realmslore": "Normally, this spell was the sole purview of [[druid]]s and [[mystic]]s, but priests of [[Akadi]], the Queen of Air, and [[Aerdrie Faenya]], the Winged Mother, could also pray for this spell.",
+        "Effects": "When cast, this spell summoned an [[air elemental]] to serve the caster. The size of the summoned creature was random, with smaller ones more likely than larger ones, but even the smallest was quite formidable. The elemental regarded the caster as a friend and ally and was willing to do the caster's bidding. Unlike the [[conjure elemental|arcane version of this spell]], the caster did not have to concentrate to maintain control of the creature and was not at risk of being attacked by it. The spell lasted for over two hours (even longer for more experienced casters) or until the air elemental was destroyed, ''dismissed'', ''[[dispel magic|dispelled]]'', or banished with a ''[[holy word]]'' spell, whichever came first.\n\nThe casting time for this spell was six minutes for druids and ten minutes for priests of Akadi or Aerdrie Faenya. The range at which the elemental could be ''conjured'' or ''dismissed'' was 240 ft (73 m) for druids and half that for Akadians and Aerdrians.",
+        "Components": "Only [[verbal component|verbal]] and [[somatic component]]s were required to cast this spell.",
+        "Appendix": {
+            "See also": "*''[[Conjure earth elemental]]''\n*''[[Conjure fire elemental]]''\n*''[[Conjure water elemental]]''\n*''[[Conjure elemental]]''\n*''[[Planar ally]]''",
+            "Gallery": "<gallery>\nConjure air elemental 5e.png\nConjure air elemental.png\n</gallery>",
+            "Appearances": "{{Appearances\n| adventures = {{Duapp|28|The Pipes of Doom}}\n| video games = ''[[Baldur's Gate II: Shadows of Amn]]'';''[[Icewind Dale: Enhanced Edition]]''\n| card games = {{Spellfireapp|RR}}\n| organized play = ''[[Storm on the Horizon]]'';''[[Air's Looking at You]]'';''[[Starry Eyes]]'';''[[The Messengers]]''\n}}",
+            "External links": "*{{BGW|Conjure Air Elemental}}\n*{{IWDW|Conjure Air Elemental}}",
+            "References": "{{refs}}\n[[Category:Conjuration spells]]\n[[Category:Summoning spells]]\n[[Category:Reversible spells]]\n[[Category:Akadian spells]]\n[[Category:Aerdrian spells]]\n[[Category:Cleric spells]]\n[[Category:Druid spells]]\n[[Category:Monk spells]]\n[[Category:Mystic spells]]\n[[Category:Shaman spells]]\neaf3ik683vbga6k1wehabdvd3gy9mr3"
+        }
+    }
+}

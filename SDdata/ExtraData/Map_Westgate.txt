@@ -1,0 +1,2210 @@
+2900
+136441
+
+931367
+931365
+2024-04-07T01:20:11Z
+
+Artyom.pavlov
+24367202
+
+931367
+interactivemap
+text/plain
+{
+    "mapImage": "Westgate-Background2",
+    "pageCategories": [
+        "Interactive_maps",
+        "Maps_of_cities",
+        "Maps_of_Westgate"
+    ],
+    "defaultSort": "",
+    "mapImageChangedAt": "2022-05-10 01:10:09",
+    "description": "",
+    "coordinateOrder": "xy",
+    "mapBounds": [
+        [
+            0,
+            0
+        ],
+        [
+            2880,
+            2196
+        ]
+    ],
+    "origin": "bottom-left",
+    "useMarkerClustering": false,
+    "categories": [
+        {
+            "id": "8",
+            "listId": 1,
+            "name": "Districts",
+            "color": "#f00",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:City icon.svg"
+        },
+        {
+            "id": "2",
+            "listId": 2,
+            "name": "Castles and Keeps",
+            "color": "#fa5200",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Keeps strongholds icon.svg"
+        },
+        {
+            "id": "3",
+            "listId": 3,
+            "name": "Inns & Taverns",
+            "color": "#fa5d00",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Tankard icon.svg"
+        },
+        {
+            "id": "11",
+            "listId": 4,
+            "name": "Temples & Shrines",
+            "color": "#fac600",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Lathander temple icon.svg"
+        },
+        {
+            "id": "5",
+            "listId": 5,
+            "name": "Shops and Merchants",
+            "color": "#007903",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Tymora coin icon.svg"
+        },
+        {
+            "id": "1",
+            "listId": 6,
+            "name": "Points of Interest",
+            "color": "#021ebb",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Elminter's choice icon.svg"
+        },
+        {
+            "id": "12",
+            "listId": 7,
+            "name": "Guilds",
+            "color": "#ab5a78",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Tools guilds icon.svg"
+        },
+        {
+            "id": "9",
+            "listId": 8,
+            "name": "Roads & Streets",
+            "color": "#2e2703",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Mountain road icon.svg"
+        },
+        {
+            "id": "7",
+            "listId": 9,
+            "name": "Gates",
+            "color": "#ffffff",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Gate icon.svg"
+        },
+        {
+            "id": "13",
+            "listId": 10,
+            "name": " Docks & Harbors",
+            "color": "#fa005a",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Ship icon.svg"
+        },
+        {
+            "id": "4",
+            "listId": 11,
+            "name": "Stables & Yards",
+            "color": "#ced900",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Farms icon.svg"
+        },
+        {
+            "id": "10",
+            "listId": 12,
+            "name": "Bodies of Water",
+            "color": "#00e8fa",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Bodies of water icon.svg"
+        }
+    ],
+    "markers": [
+        {
+            "categoryId": "1",
+            "position": [
+                56.388179065585,
+                1823.9303966095
+            ],
+            "popup": {
+                "title": "Cormaeril Vale",
+                "description": "Private park of the House [[Cormaeril]].",
+                "link": {
+                    "url": "Connaeril Vale",
+                    "label": "Connaeril Vale"
+                }
+            },
+            "id": "1"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                92.763013666867,
+                2095.8843906811
+            ],
+            "popup": {
+                "title": "Castle Cormaeril",
+                "description": "Also known as '''Castle Dhostar''', the estate of the noble House [[Cormaeril]].",
+                "link": {
+                    "url": "Castle Cormaeril",
+                    "label": "Castle Cormaeril"
+                }
+            },
+            "id": "2"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                233.99891740243,
+                1694.0030277317
+            ],
+            "popup": {
+                "title": "The Leaning Man",
+                "description": "A safe and quiet inn outside the city walls.",
+                "link": {
+                    "url": "Leaning Man Inn",
+                    "label": "Leaning Man Inn"
+                }
+            },
+            "id": "3"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                420.4520920262,
+                1779.9074094267
+            ],
+            "popup": {
+                "title": "Cormaeril yards",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "4"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                283.99783480486,
+                1834.0070647074
+            ],
+            "popup": {
+                "title": "The Blind Eye",
+                "description": "A tack, harness, and trail-goods shop, also a fence.",
+                "link": {
+                    "url": "The Blind Eye",
+                    "label": "The Blind Eye"
+                }
+            },
+            "id": "5"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                399.99891740243,
+                1998.0050462195
+            ],
+            "popup": {
+                "title": "Thessar's residence",
+                "description": "Home once owned by [[Thessar]] the Warrior, famous 14{{th}} century [[DR]] adventurer.\n",
+                "link": {
+                    "url": "Thessar",
+                    "label": "Thessar"
+                }
+            },
+            "id": "6"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                573.99675220729,
+                1942.0080739513
+            ],
+            "popup": {
+                "title": "Lilda's",
+                "description": "A cheap and rowdy [[festhall]].",
+                "link": {
+                    "url": "Lilda's",
+                    "label": "Lilda's"
+                }
+            },
+            "id": "7"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                976.51460030636,
+                1871.9061888683
+            ],
+            "popup": {
+                "title": "The Water Gate",
+                "description": "A cliff gate that led to a steep staircase and a path down to [[the Shore]].",
+                "link": {
+                    "url": "Water Gate",
+                    "label": "Water Gate"
+                }
+            },
+            "id": "8"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                706,
+                1906.0070647074
+            ],
+            "popup": {
+                "title": "The Shore",
+                "description": "A slum neighborhood nestled between the cliff where the [[Water Gate]] stood and the [[Sea of Fallen Stars]].",
+                "link": {
+                    "url": "The Shore",
+                    "label": "The Shore"
+                }
+            },
+            "id": "9"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                856.43207532974,
+                1719.8907284621
+            ],
+            "popup": {
+                "title": "Cormaeril Company sheds",
+                "description": "Warehouses that belonged to the [[Cormaeril]] merchant company.",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "10"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                630,
+                1698.0040369756
+            ],
+            "popup": {
+                "title": "Jolly Warrior Inn",
+                "description": "A posh inn located on the western Mulsantir\u2019s Gate and Westgate Market Street.",
+                "link": {
+                    "url": "Jolly Warrior Inn",
+                    "label": "Jolly Warrior Inn"
+                }
+            },
+            "id": "11"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                415.97295990128,
+                1221.9566701774
+            ],
+            "popup": {
+                "title": "Mulsantir\u2019s Gate",
+                "description": "[[Westgate]]'s main city gates. The end of the [[Trader's Road]] and the start of the [[King's March]].",
+                "link": {
+                    "url": "Mulsantir\u2019s Gate",
+                    "label": "Mulsantir\u2019s Gate"
+                }
+            },
+            "id": "12"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                162,
+                1114.0040369756
+            ],
+            "popup": {
+                "title": "Trader's Road",
+                "description": "Road traveling from the [[Sunset Vale]] through the [[Dragon Coast]], turning to the [[King's March]].",
+                "link": {
+                    "url": "Trader's Road",
+                    "label": "Trader's Road"
+                }
+            },
+            "id": "13"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                568.84659215382,
+                1643.8384163154
+            ],
+            "popup": {
+                "title": "The West Gate",
+                "description": "The western gate into [[Westgate]] on [[Westgate Market Street]].",
+                "link": {
+                    "url": "West Gate (Westgate)",
+                    "label": "West Gate"
+                }
+            },
+            "id": "14"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                580.38220917366,
+                1353.8535014315
+            ],
+            "popup": {
+                "title": "Thorsar Company sheds",
+                "description": "Warehouses of the Thorsar merchant comapny.",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "15"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                662.3966071483,
+                1125.8303108222
+            ],
+            "popup": {
+                "title": "Thalavar Company sheds",
+                "description": "Warehouses of the [[Thalavar]] merchant company.",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "16"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                726.4893160582,
+                973.84800891876
+            ],
+            "popup": {
+                "title": "Castle Ssemm",
+                "description": "Estate of the noble House [[Ssemm]].",
+                "link": {
+                    "url": "Castle Ssemm",
+                    "label": "Castle Ssemm"
+                }
+            },
+            "id": "17"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                336.38536970468,
+                981.8384478781
+            ],
+            "popup": {
+                "title": "Thalavar yards",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "18"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                210.00108259757,
+                1432.0040369756
+            ],
+            "popup": {
+                "title": "The Spitting Cockatrice",
+                "description": "Inn favored by merchants, known for average food and extravagant decor.",
+                "link": {
+                    "url": "The Spitting Cockatrice",
+                    "label": "The Spitting Cockatrice"
+                }
+            },
+            "id": "19"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                204,
+                1572.0050462195
+            ],
+            "popup": {
+                "title": "The Empty Fish",
+                "description": "Exuberantly-priced tavern favored as an anonymous meetup space.",
+                "link": {
+                    "url": "The Empty Fish",
+                    "label": "The Empty Fish"
+                }
+            },
+            "id": "20"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                212.01299117083,
+                1284
+            ],
+            "popup": {
+                "title": "The Westward Eye",
+                "description": "A large well-guarded inn for merchants and traders.",
+                "link": {
+                    "url": "The Westward Eye",
+                    "label": "The Westward Eye"
+                }
+            },
+            "id": "21"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                52.371674070263,
+                1003.9458570157
+            ],
+            "popup": {
+                "title": "The Gatereach Inn",
+                "description": "A luxurious inn for wealthy merchants along the [[Trader's Road]].",
+                "link": {
+                    "url": "The Gatereach Inn",
+                    "label": "The Gatereach Inn"
+                }
+            },
+            "id": "22"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                860.49774414092,
+                837.8457712284
+            ],
+            "popup": {
+                "title": "Ssemm Company sheds",
+                "description": "Warehouses of the [[Ssemm]] merchant company.",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "23"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                192,
+                2155.9983725888
+            ],
+            "popup": {
+                "title": "The Neck",
+                "description": "The strait that connected the [[Dragonmere]] with the [[Sea of Fallen Stars]].",
+                "link": {
+                    "url": "The Neck",
+                    "label": "The Neck"
+                },
+                "image": "File:Dragonmere map 4e.jpg"
+            },
+            "id": "24"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                2356,
+                2051.9910492385
+            ],
+            "popup": {
+                "title": "Sea of Fallen Stars",
+                "description": "Or the '''Inner Sea''', the largest inland body of water in [[Faer\u00fbn]].",
+                "link": {
+                    "url": "Sea of Fallen Stars",
+                    "label": "Sea of Fallen Stars"
+                },
+                "image": "File:Demon Stone concept Sea of Fallen Stars.jpg"
+            },
+            "id": "25"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                875.99891740243,
+                638.00403697563
+            ],
+            "popup": {
+                "title": "Purple Lady",
+                "description": "[[Festhall]] and a tavern renowned for its staff's see-through purple [[robe]]s.",
+                "link": {
+                    "url": "Purple Lady",
+                    "label": "Purple Lady"
+                }
+            },
+            "id": "26"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1460.5560383797,
+                629.84210955325
+            ],
+            "popup": {
+                "title": "Guldar Company Sheds",
+                "description": "Warehouses that belonged to the [[Guldar]] merchant company.",
+                "link": {
+                    "url": "Guldar",
+                    "label": "Guldar Company Sheds"
+                }
+            },
+            "id": "27"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                1423,
+                982
+            ],
+            "popup": {
+                "title": "House of Spires and Shadows",
+                "description": "Also known as '''Shadowspires''', a temple dedicated to [[Mask]].",
+                "link": {
+                    "url": "House of Spires and Shadows",
+                    "label": "House of Spires and Shadows"
+                }
+            },
+            "id": "28"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1342.4117074632,
+                431.84821234516
+            ],
+            "popup": {
+                "title": "The South Gate",
+                "description": "The gate that stood at the end of the [[Grand Ride]] and [[Southgate Market Street]].",
+                "link": {
+                    "url": "South Gate (Westgate)",
+                    "label": "South Gate"
+                }
+            },
+            "id": "29"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                1252.4531455365,
+                81.827055999872
+            ],
+            "popup": {
+                "title": "The Grand Ride",
+                "description": "The road that connected [[Westgate]] and [[Reddansyr]].",
+                "link": {
+                    "url": "The Grand Ride",
+                    "label": "The Grand Ride"
+                },
+                "image": "File:Grand Ride.PNG"
+            },
+            "id": "30"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1838.9978348049,
+                643.00454159758
+            ],
+            "popup": {
+                "title": "City Watch Barracks ",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "31"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                1982.491774249,
+                693.88360853823
+            ],
+            "popup": {
+                "title": "The Lord's Water",
+                "description": "A pool.",
+                "link": {
+                    "url": "The Lord's Water",
+                    "label": "The Lord's Water"
+                }
+            },
+            "id": "32"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2112.6062557059,
+                767.85614597464
+            ],
+            "popup": {
+                "title": "Castle Thorsar",
+                "description": "Estate of the noble House [[Thorsar]].",
+                "link": {
+                    "url": "Castle Thorsar",
+                    "label": "Castle Thorsar"
+                }
+            },
+            "id": "33"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2004.5872925198,
+                765.85594254824
+            ],
+            "popup": {
+                "title": "Castle Urdo",
+                "description": "Estate of the noble House [[Urdo]].",
+                "link": {
+                    "url": "Castle Urdo",
+                    "label": "Castle Urdo"
+                }
+            },
+            "id": "34"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                2029.9967522073,
+                852.00201848781
+            ],
+            "popup": {
+                "title": "House of Silks",
+                "description": "Clothing and jewelry of the highest quality shop.",
+                "link": {
+                    "url": "House of Silks",
+                    "label": "House of Silks"
+                }
+            },
+            "id": "35"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1723.9989174024,
+                637.00555084149
+            ],
+            "popup": {
+                "title": "Blue Banner",
+                "description": "A tavern and inn located in [[Westgate]]'s [[Shou Quarter]].",
+                "link": {
+                    "url": "Blue Banner",
+                    "label": "Blue Banner"
+                }
+            },
+            "id": "36"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                2724.18612016,
+                1368.0699786806
+            ],
+            "popup": {
+                "title": "Shou Quarter",
+                "description": "The district populated by the [[Shou]] immigrants. Also known as the '''East End'''. Formerly known as the '''Warrens.'''",
+                "link": {
+                    "url": "Shou Quarter",
+                    "label": "Shou Quarter"
+                }
+            },
+            "id": "37"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1698.9989174024,
+                1057.0035323537
+            ],
+            "popup": {
+                "title": "The Tower",
+                "description": "Counting house, nobles' offices, armory, barracks, and underground jail.",
+                "link": {
+                    "url": "The Tower",
+                    "label": "The Tower"
+                }
+            },
+            "id": "38"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                1706.4264566079,
+                995.85716310663
+            ],
+            "popup": {
+                "title": "Market Triangle",
+                "description": "The market square at the heart of [[Westgate]].",
+                "link": {
+                    "url": "Market Triangle",
+                    "label": "Market Triangle"
+                }
+            },
+            "id": "39"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2320.5342658327,
+                863.84373696443
+            ],
+            "popup": {
+                "title": "Castle Guldar",
+                "description": "Estate of the noble House [[Guldar]].",
+                "link": {
+                    "url": "Castle Guldar",
+                    "label": "Castle Guldar"
+                }
+            },
+            "id": "40"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2504.5665734831,
+                1157.8736406448
+            ],
+            "popup": {
+                "title": "Castle Vhammos",
+                "description": "The estate of the noble House [[Vhammos]].",
+                "link": {
+                    "url": "Castle Vhammos",
+                    "label": "Castle Vhammos"
+                }
+            },
+            "id": "41"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                2740.597125283,
+                1703.9466707213
+            ],
+            "popup": {
+                "title": "Vhammos Company sheds",
+                "description": "Warehouses that belonged to the [[Vhammos]] merchant company.",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "42"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                2594.5711386946,
+                1031.8823879799
+            ],
+            "popup": {
+                "title": "The River Gate",
+                "description": "The gate on the [[River Thunn]] that fed into the [[Sea of Fallen Stars]].",
+                "link": {
+                    "url": "River Gate",
+                    "label": "River Gate"
+                }
+            },
+            "id": "43"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                2660.0021656359,
+                1402.0030286563
+            ],
+            "popup": {
+                "title": "The Black Boot",
+                "description": "A dangerous inn near the [[River Bridge]], known for its cheap prices, brawls, and shady characters.",
+                "link": {
+                    "url": "Black Boot (Westgate)",
+                    "label": "Black Boot"
+                }
+            },
+            "id": "44"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                2588.5700851842,
+                1345.8575699594
+            ],
+            "popup": {
+                "title": "River Bridge",
+                "description": "The bridge over the [[River Thunn]] that connected the [[Shou Quarter]] to the rest of the city.",
+                "link": {
+                    "url": "River Bridge",
+                    "label": "River Bridge"
+                }
+            },
+            "id": "45"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                2432.6459379287,
+                729.91798759933
+            ],
+            "popup": {
+                "title": "Vhammos yards",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "46"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                2130.4907207387,
+                393.82847998465
+            ],
+            "popup": {
+                "title": "Rising Raven Inn",
+                "description": "An inn packed with traders and adventurers, that offered small private apartments.",
+                "link": {
+                    "url": "Rising Raven Inn",
+                    "label": "Rising Raven Inn"
+                }
+            },
+            "id": "47"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1700.4152191643,
+                395.82868341105
+            ],
+            "popup": {
+                "title": "Guldar yards",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "48"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1028.2972260063,
+                375.82664914708
+            ],
+            "popup": {
+                "title": "Ssemm yards",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "49"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                2786.6048510255,
+                1833.913715645
+            ],
+            "popup": {
+                "title": "The East Gate",
+                "description": "",
+                "link": {
+                    "url": "East Gate (Westgate)",
+                    "label": "East Gate (Westgate)"
+                }
+            },
+            "id": "50"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                2597.9087830552,
+                1797.468292349
+            ],
+            "popup": {
+                "title": "The Old Beard",
+                "description": "A tavern that catered mostly to retired sailors.",
+                "link": {
+                    "url": "The Old Beard",
+                    "label": "The Old Beard"
+                }
+            },
+            "id": "51"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                2102.4847508467,
+                1977.9169704673
+            ],
+            "popup": {
+                "title": "Westlight",
+                "description": "[[Westgate]]'s lighthouse, also known as the the '''Harbor Tower.'''",
+                "link": {
+                    "url": "Westlight",
+                    "label": "Westlight"
+                },
+                "image": "File:Westlight.png"
+            },
+            "id": "52"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1832.9983761036,
+                923.00555084149
+            ],
+            "popup": {
+                "title": "Shalush Myrkeer's Shop",
+                "description": "A general goods store and the largest shop in [[Westgate]].",
+                "link": {
+                    "url": "Shalush Myrkeer's Shop",
+                    "label": "Shalush Myrkeer's Shop"
+                }
+            },
+            "id": "53"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1821.5070683365466,
+                1228.9522993454304
+            ],
+            "popup": {
+                "title": "Black Eye",
+                "description": "A rowdy tavern and a [[festhall]] frequented by dockhands and prostitutes.",
+                "link": {
+                    "url": "Black Eye",
+                    "label": "Black Eye"
+                },
+                "image": "File:Black Eye Tavern.png"
+            },
+            "id": "54"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1533.9956696097,
+                1444.0060554634
+            ],
+            "popup": {
+                "title": "Urdo Company Sheds",
+                "description": "Warehouses that belonged to the [[Urdo]] merchant company.",
+                "link": {
+                    "url": "Urdo",
+                    "label": "Urdo Company Sheds"
+                }
+            },
+            "id": "55"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                404.28458388218,
+                1497.8693686904
+            ],
+            "popup": {
+                "title": "Thorsar yards",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "56"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2180.6364563357,
+                1051.8937798581
+            ],
+            "popup": {
+                "title": "Castle Athagdal",
+                "description": "Estate of the noble House [[Athagdal]].",
+                "link": {
+                    "url": "Castle Athagdal",
+                    "label": "Castle Athagdal"
+                }
+            },
+            "id": "57"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                782.3407711003,
+                1297.8876770662
+            ],
+            "popup": {
+                "title": "Castle Thalavar",
+                "description": "Estate of the noble House [[Thalavar]].",
+                "link": {
+                    "url": "Castle Thalavar",
+                    "label": "Castle Thalavar"
+                }
+            },
+            "id": "58"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2698.6771920688,
+                1101.8427198324
+            ],
+            "popup": {
+                "title": "Castle Malavhan",
+                "description": "The estate of the noble House [[Malavhan]].",
+                "link": {
+                    "url": "Castle Malavhan",
+                    "label": "Castle Malavhan"
+                }
+            },
+            "id": "59"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                2830.6873760021,
+                949.82725942627
+            ],
+            "popup": {
+                "title": "Malavhan yards",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "60"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1914.5033628627,
+                1385.9070025739
+            ],
+            "popup": {
+                "title": "Malavhan Company Sheds",
+                "description": "Warehouses that belonged to the [[Malavhan]] merchant company.",
+                "link": {
+                    "url": "Malavhan",
+                    "label": "Malavhan Company Sheds"
+                }
+            },
+            "id": "61"
+        },
+        {
+            "categoryId": "13",
+            "position": [
+                1602.3024351446,
+                1728.1704005063
+            ],
+            "popup": {
+                "title": "Cormaeril docks",
+                "description": "Formerly the '''Dhostar docks'''.",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "62"
+        },
+        {
+            "categoryId": "13",
+            "position": [
+                2448,
+                1524.0030286563
+            ],
+            "popup": {
+                "title": "Thorsar Docks",
+                "description": "",
+                "link": {
+                    "url": "Thorsar",
+                    "label": "Thorsar Docks"
+                }
+            },
+            "id": "63"
+        },
+        {
+            "categoryId": "13",
+            "position": [
+                1730.4261054378,
+                1371.8553322691
+            ],
+            "popup": {
+                "title": "Malavhan Docks",
+                "description": "",
+                "link": {
+                    "url": "Malavhan",
+                    "label": "Malavhan docks"
+                }
+            },
+            "id": "64"
+        },
+        {
+            "categoryId": "13",
+            "position": [
+                1534.4194186386,
+                1349.1625930768
+            ],
+            "popup": {
+                "title": "Urdo Docks",
+                "description": "",
+                "link": {
+                    "url": "Urdo",
+                    "label": "Urdo Docks"
+                }
+            },
+            "id": "65"
+        },
+        {
+            "categoryId": "13",
+            "position": [
+                1303.9018424597,
+                1549.981632577
+            ],
+            "popup": {
+                "title": "Thalavar Docks",
+                "description": "",
+                "link": {
+                    "url": "Thalavar",
+                    "label": "Thalavar Docks"
+                }
+            },
+            "id": "66"
+        },
+        {
+            "categoryId": "13",
+            "position": [
+                1491.9930117674,
+                1745.1423905412
+            ],
+            "popup": {
+                "title": "Guldar docks",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "67"
+        },
+        {
+            "categoryId": "13",
+            "position": [
+                1760.4313729895,
+                1737.8925592997
+            ],
+            "popup": {
+                "title": "The Watch Dock",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "68"
+        },
+        {
+            "categoryId": "13",
+            "position": [
+                2411.2341238461,
+                1790.4007927532
+            ],
+            "popup": {
+                "title": "Athagdal docks and shipyards",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "69"
+        },
+        {
+            "categoryId": "13",
+            "position": [
+                2474.8767962012,
+                1656.0462224685
+            ],
+            "popup": {
+                "title": "Vhammos docks",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "70"
+        },
+        {
+            "categoryId": "13",
+            "position": [
+                2043.5347700687,
+                1630.6003693508
+            ],
+            "popup": {
+                "title": "Ssemm Docks",
+                "description": "",
+                "link": {
+                    "url": "Ssemm",
+                    "label": "Ssemm Docks"
+                }
+            },
+            "id": "71"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                2733.6740505551,
+                1865.3512569862
+            ],
+            "popup": {
+                "title": "Whitecap Hall",
+                "description": "A temple dedicated to the Bitch Queen, [[Umberlee]].",
+                "link": {
+                    "url": "Whitecap Hall",
+                    "label": "Whitecap Hall"
+                }
+            },
+            "id": "72"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                1241.9956696097,
+                1556.0030277317
+            ],
+            "popup": {
+                "title": "Fortuneboon Hall",
+                "description": "A temple dedicated to [[Tymora]].",
+                "link": {
+                    "url": "Fortuneboon Hall",
+                    "label": "Fortuneboon Hall"
+                }
+            },
+            "id": "73"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                1204,
+                1484.0060554634
+            ],
+            "popup": {
+                "title": "The House of the Wheel",
+                "description": "A temple dedicated to [[Gond]].",
+                "link": {
+                    "url": "House of the Wheel",
+                    "label": "House of the Wheel"
+                }
+            },
+            "id": "74"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                935.99675220729,
+                1612.0070647074
+            ],
+            "popup": {
+                "title": "Morningstar Haven",
+                "description": "A temple dedicated to [[Lathander]].",
+                "link": {
+                    "url": "Morningstar Haven",
+                    "label": "Morningstar Haven"
+                }
+            },
+            "id": "75"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                2835.4958960218,
+                1425.5272708721
+            ],
+            "popup": {
+                "title": "City watch barracks",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "76"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                837.99675220729,
+                1642.0070647074
+            ],
+            "popup": {
+                "title": "City watch meeting rooms & barracks",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "77"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1204.9989174024,
+                504.00504621954
+            ],
+            "popup": {
+                "title": "Cassana's mansion",
+                "description": "A mansion that once belonged to the evil sorceress [[Cassana]], and later to Melman, a Guildmaster of the [[Night Masks]].",
+                "link": {
+                    "url": "Cassana's mansion",
+                    "label": "Cassana's mansion"
+                }
+            },
+            "id": "78"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1006,
+                748.00403697563
+            ],
+            "popup": {
+                "title": "Jamal's house",
+                "description": "The house that once belonged to [[Jamal]], a street performer, a social critic, and an ally to [[Alias]] and [[Mintassan]] the Magnificent.",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "79"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                907.99783480486,
+                1008.0040369756
+            ],
+            "popup": {
+                "title": "Rotten Root Tavern",
+                "description": "The establishment best known for its bad food and drink and its sign depicting an evil-looking treant.",
+                "link": {
+                    "url": "Rotten Root Tavern",
+                    "label": "Rotten Root Tavern"
+                }
+            },
+            "id": "80"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                688.7220048756974,
+                1517.4511524263312
+            ],
+            "popup": {
+                "title": "Big Edna's",
+                "description": "A tiny ramshackle bar that served fishermen and dock worker.",
+                "link": {
+                    "url": "Big Edna's",
+                    "label": "Big Edna's"
+                }
+            },
+            "id": "81"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1620.9972935061,
+                951.00353235368
+            ],
+            "popup": {
+                "title": "Mintassan's Mysteries",
+                "description": "A planar curio shop owned by [[Mintassan the Magnificent]] in a magically hidden and warded ''[[spelljammer]]'' ship, previously parked deeper into the block to the south.",
+                "link": {
+                    "url": "Mincassan's Mysteries",
+                    "label": "Mincassan's Mysteries"
+                }
+            },
+            "id": "82"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1566,
+                1168.0030277317
+            ],
+            "popup": {
+                "title": "The Track",
+                "description": "A heavily-guarded underground racing track and a tavern.",
+                "link": {
+                    "url": "The Track",
+                    "label": "The Track"
+                }
+            },
+            "id": "83"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1673.0146442873715,
+                762.2639646919409
+            ],
+            "popup": {
+                "title": "Blais House",
+                "description": "[[Mintassan]]'s inn that catered to planar guests, sealed off between the [[Spellplague]] and the [[Second Sundering]].",
+                "link": {
+                    "url": "Blais House",
+                    "label": "Blais House"
+                }
+            },
+            "id": "84"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1932,
+                1041.0035323537
+            ],
+            "popup": {
+                "title": "Dawn's Dress Shop",
+                "description": "An [[elf|elven]] seamstress' shop and the most fashionable store in [[Westgate]].",
+                "link": {
+                    "url": "Dawn's Dress Shop",
+                    "label": "Dawn's Dress Shop"
+                }
+            },
+            "id": "85"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                2678.5204871346,
+                1838.4826265875
+            ],
+            "popup": {
+                "title": "House of Winds",
+                "description": "The temple of [[Talos]] famous for the carved [[dragon]]s on its roof.",
+                "link": {
+                    "url": "House of Winds",
+                    "label": "House of Winds"
+                }
+            },
+            "id": "86"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                1174.4987976513,
+                1697.9480947061
+            ],
+            "popup": {
+                "title": "Painbliss Hall",
+                "description": "A temple dedicated to [[Loviatar]]. ",
+                "link": {
+                    "url": "Painbliss Hall",
+                    "label": "Painbliss Hall"
+                }
+            },
+            "id": "87"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                1010.4555903155764,
+                1573.3100903888308
+            ],
+            "popup": {
+                "title": "House of Ilmater",
+                "description": "A temple dedicated to the [[Crying God]]. It was also known as '''The House''', with its [[Spire of Suffering]] seen from several miles outside the city.",
+                "link": {
+                    "url": "House of Ilmater",
+                    "label": "House of Ilmater"
+                }
+            },
+            "id": "88"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                2283.9549032325485,
+                1452.4008967732218
+            ],
+            "popup": {
+                "title": "The Rosebud",
+                "description": "An outdoor [[ale]] garden favored by merchants and young nobles.",
+                "link": {
+                    "url": "The Rosebud",
+                    "label": "The Rosebud"
+                }
+            },
+            "id": "89"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                2566.566222313,
+                1299.8762851879
+            ],
+            "popup": {
+                "title": "Entrance to the Sewers of Westgate",
+                "description": "Once used by the [[Faceless]] leader of the [[Night Masks]]. Connected to the [[Undergate]] and catacombs of [[Westgate]].",
+                "link": {
+                    "url": "Westgate\/Sewers",
+                    "label": "Sewers of Westgate"
+                }
+            },
+            "id": "90"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                1038,
+                1346.005046219536
+            ],
+            "popup": {
+                "title": "The Hidden House",
+                "description": "A subterranean temple dedicated to [[Leira]], hidden deep under the streets of [[Westgate]].",
+                "link": {
+                    "url": "The Hidden House",
+                    "label": "The Hidden House"
+                }
+            },
+            "id": "91"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                754.34533631177,
+                1441.8726235128
+            ],
+            "popup": {
+                "title": "Place of Waiting Death",
+                "description": "A hidden subterranean temple of Talona, deep beneath the city of Westgate.",
+                "link": {
+                    "url": "Place of Waiting Death",
+                    "label": "Place of Waiting Death"
+                }
+            },
+            "id": "92"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                1812.5177608374,
+                1099.8683515585
+            ],
+            "popup": {
+                "title": "House of Steel",
+                "description": "An underground temple of [[Garagos]], that was once took it over by the [[vampire]] named [[Kirenkirsalai]].",
+                "link": {
+                    "url": "House of Steel",
+                    "label": "House of Steel"
+                }
+            },
+            "id": "93"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1842.720271772143,
+                1137.0312723640218
+            ],
+            "popup": {
+                "title": "Darkdance Manor",
+                "description": "An abandoned manor, once home to the noble [[House Darkdance]].",
+                "link": {
+                    "url": "Darkdance Manor",
+                    "label": "Darkdance Manor"
+                }
+            },
+            "id": "94"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1355.9978348049,
+                1466.0050462195
+            ],
+            "popup": {
+                "title": "Bent Mermaid Inn",
+                "description": "A shady tavern known for a figurehead of a bent-over [[mermaid]] out the front of the bar.",
+                "link": {
+                    "url": "Bent Mermaid Inn",
+                    "label": "Bent Mermaid Inn"
+                }
+            },
+            "id": "95"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1111.9989174024,
+                908.00403697563
+            ],
+            "popup": {
+                "title": "Chalaratha's Fragrances",
+                "description": "A perfume shop and factory.",
+                "link": {
+                    "url": "Chalaratha's Fragrances",
+                    "label": "Chalaratha's Fragrances"
+                }
+            },
+            "id": "96"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1588.1618305449858,
+                957.4247226562175
+            ],
+            "popup": {
+                "title": "Gondeth's Mageries",
+                "description": "A [[wizard]]'s [[scroll]] shop.",
+                "link": {
+                    "url": "Gondeth's Mageries",
+                    "label": "Gondeth's Mageries"
+                }
+            },
+            "id": "97"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1508,
+                839.00302773172
+            ],
+            "popup": {
+                "title": "Tersonm's",
+                "description": "[[Potion]] maker and a seller of rare [[spells]].",
+                "link": {
+                    "url": "Tersonm's",
+                    "label": "Tersonm's"
+                }
+            },
+            "id": "98"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1227.5373721398,
+                398.81036617259
+            ],
+            "popup": {
+                "title": "Rising Raven Annex",
+                "description": "An extension of the [[Rising Raven inn]].",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "99"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1185.1086682649,
+                380.42344827836
+            ],
+            "popup": {
+                "title": "Rising Raven Warehouse",
+                "description": "An extension of the [[Rising Raven]] inn. Also offered rooms.",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "100"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1731.2983870564,
+                118.90335668009
+            ],
+            "popup": {
+                "title": "Castle Beth",
+                "description": "Estate of the noble House [[Beth]].",
+                "link": {
+                    "url": "Castle Beth",
+                    "label": "Castle Beth"
+                }
+            },
+            "id": "101"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1414.4798344651,
+                31.846991786777
+            ],
+            "popup": {
+                "title": "Beth yards",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "102"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1136,
+                581.00201848781
+            ],
+            "popup": {
+                "title": "Imryth's tower",
+                "description": "The tower that once belonged to [[Audara Imryth|Audara \"Starshoulder\" Imryth]].",
+                "link": {
+                    "url": "Imryth's tower",
+                    "label": "Imryth's tower"
+                }
+            },
+            "id": "103"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1691.399420598222,
+                844.2919195256336
+            ],
+            "popup": {
+                "title": "Aurora's Emporium",
+                "description": "Famed [[Aurora's Emporium]] that sold exotic items from all over [[Faer\u00fbn]].",
+                "link": {
+                    "url": "Aurora's Emporium",
+                    "label": "Aurora's Emporium"
+                }
+            },
+            "id": "104"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                2877.2518424645,
+                1715.8457396657
+            ],
+            "popup": {
+                "title": "The Quivering Thumb",
+                "description": "Gladigladiatorial arena just outside the city\u2019s [[East End]].",
+                "link": {
+                    "url": "Quivering Thumb",
+                    "label": "Quivering Thumb"
+                }
+            },
+            "id": "105"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                2876.6210048507,
+                1671.9430090462
+            ],
+            "popup": {
+                "title": "Arena District",
+                "description": "The district built around the [[Quivering Thumb]].",
+                "link": {
+                    "url": "Arena District",
+                    "label": "Arena District"
+                }
+            },
+            "id": "106"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1336.5163561569,
+                1303.8809639951
+            ],
+            "popup": {
+                "title": "Magical Portal to the Undergate",
+                "description": "A broken lampost that served as a gate to the shady subterranean underbelly of [[Westgate]].",
+                "link": {
+                    "url": "Undergate",
+                    "label": "Undergate"
+                }
+            },
+            "id": "107"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                1067.9967522073,
+                1728.0060554634
+            ],
+            "popup": {
+                "title": "Shrine to Tyr",
+                "description": "Also known as '''Brother Eden's Shrine''', dedicated to [[Tyr]] Grimjaws.",
+                "link": {
+                    "url": "Brother Eden's Shrine",
+                    "label": "Brother Eden's Shrine"
+                }
+            },
+            "id": "108"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                924.38431619434,
+                1475.8659104417
+            ],
+            "popup": {
+                "title": "Statue of Durgar the Just",
+                "description": "The monument dedicated to the head of the city watch erected ''circa'' [[1368 DR]].",
+                "link": {
+                    "url": "Statue of Durgar the Just",
+                    "label": "Statue of Durgar the Just"
+                }
+            },
+            "id": "109"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                880.27018590753,
+                1481.9281589192
+            ],
+            "popup": {
+                "title": "City watch barracks",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "110"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1526.4812391456,
+                1115.843533538
+            ],
+            "popup": {
+                "title": "Lens Overlooking the Seven Hills",
+                "description": "[[Westgate Archeological Guild]]'s [[telescope]], activated for 5 [[gold]] [[coin|pieces]].",
+                "link": {
+                    "url": "Seven Hills",
+                    "label": "Lens Overlooking the Seven Hills"
+                }
+            },
+            "id": "111"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1812.522677219,
+                995.85045003553
+            ],
+            "popup": {
+                "title": "Statue of Alias of the Azure Bonds",
+                "description": "A magically protected monument to a famed hero of the [[House Wyvernspur]], [[Alias]].",
+                "link": {
+                    "url": "Statue of Alias the Sellsword",
+                    "label": "Statue of Alias of the Azure Bonds"
+                },
+                "image": "File:Alias vision.png"
+            },
+            "id": "112"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1960.5117909454,
+                1251.8886941982
+            ],
+            "popup": {
+                "title": "Thayan Enclave",
+                "description": "A merchant and political enclave of the [[Red Wizard]]s of [[Thay]].",
+                "link": {
+                    "url": "Thayan enclave (Westgate)",
+                    "label": "Thayan Enclave"
+                }
+            },
+            "id": "113"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                2010.4900183984,
+                1313.8832016854
+            ],
+            "popup": {
+                "title": "Statue of Kisonraathiisar",
+                "description": "The statue dedicated to the ancient [[wyrm]] whose lair became the city of [[Westgate]].",
+                "link": {
+                    "url": "Statue of Kisonraathiisar",
+                    "label": "Statue of Kisonraathiisar"
+                },
+                "image": "File:Kisonraathiisar.png"
+            },
+            "id": "114"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                2033.639102692511,
+                1349.1618794335648
+            ],
+            "popup": {
+                "title": "Okuzo's Imports",
+                "description": "A shop that dealt in rare and exotic imports from the Eastern nations.",
+                "link": {
+                    "url": "Okuzo's Imports",
+                    "label": "Okuzo's Imports"
+                }
+            },
+            "id": "115"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                2056.2665196904804,
+                1332.188462112245
+            ],
+            "popup": {
+                "title": "Sewer entrance",
+                "description": "",
+                "link": {
+                    "url": "Westgate\/Sewers",
+                    "label": "Sewers of Westgate"
+                }
+            },
+            "id": "116"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1937.471049427,
+                1555.63705954
+            ],
+            "popup": {
+                "title": "Harbormaster's Office",
+                "description": "The office of the Harbormaster of [[Westgate]] and a museum of the city's naval history.",
+                "link": {
+                    "url": "Harbormaster's Office",
+                    "label": "Harbormaster's Office"
+                }
+            },
+            "id": "117"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                2365.9792898501883,
+                1351.986024699047
+            ],
+            "popup": {
+                "title": "Statue of Verovan Lorndessar",
+                "description": "Statue of the last king of [[Westgate]]; the monument was beheaded in the late 14{{th}} century [[DR]].\n",
+                "link": {
+                    "url": "Statue of Verovan Lorndessar",
+                    "label": "Statue of Verovan Lorndessar"
+                }
+            },
+            "id": "118"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1279.9989174024,
+                1236.0030277317
+            ],
+            "popup": {
+                "title": "Brother Tobias Winery",
+                "description": "A favored local [[wine]]ry.",
+                "link": {
+                    "url": "Brother Tobias Winery",
+                    "label": "Brother Tobias Winery"
+                }
+            },
+            "id": "119"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1128,
+                1269.0035323536752
+            ],
+            "popup": {
+                "title": "Rumbolt Mansion",
+                "description": "Once the estate of the noble [[House Rumbolt]].",
+                "link": {
+                    "url": "Rumbolt Mansion",
+                    "label": "Rumbolt Mansion"
+                }
+            },
+            "id": "120"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                2200.5205701983,
+                1375.8634693249
+            ],
+            "popup": {
+                "title": "Sods and Sundries",
+                "description": "A shop of note.",
+                "link": {
+                    "url": "Sods and Sundries",
+                    "label": "Sods and Sundries"
+                }
+            },
+            "id": "121"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                1838,
+                958.00201848781
+            ],
+            "popup": {
+                "title": "Westblade Guild Headquarters",
+                "description": "A guildhall of note.",
+                "link": {
+                    "url": "Westblade Guild Headquarters",
+                    "label": "Westblade Guild Headquarters"
+                }
+            },
+            "id": "122"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                964.29757717637,
+                1703.9057820155
+            ],
+            "popup": {
+                "title": "Temple District",
+                "description": "",
+                "link": {
+                    "url": "Westgate\/Temple District",
+                    "label": "Temple District"
+                }
+            },
+            "id": "123"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                2525.1907388648,
+                1507.8245833204
+            ],
+            "popup": {
+                "title": "River Thunn",
+                "description": "The river that ran from the high lands of the [[Dragon Coast]] down into the harbor of [[Westgate]].",
+                "link": {
+                    "url": "River Thunn",
+                    "label": "River Thunn"
+                },
+                "image": "File:WestgateDragon428.png"
+            },
+            "id": "124"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                2297.1507054719,
+                1235.7969173304
+            ],
+            "popup": {
+                "title": "The Old City",
+                "description": "The central area of Westgatre.",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "125"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                2177.0790667688,
+                1659.8579452495
+            ],
+            "popup": {
+                "title": "Dock Ward",
+                "description": "The center of [[Westgate]]'s trade.",
+                "link": {
+                    "url": "Westgate\/Dock Ward",
+                    "label": "Dock Ward of Westgate"
+                },
+                "image": "File:Quelzarn 3e.jpg"
+            },
+            "id": "126"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                224.03792637223,
+                235.94182005046
+            ],
+            "popup": {
+                "title": "Hills of the Seven Lost Gods",
+                "description": "'''The Seven Hills''' just west of [[Westgate]]. Each was crowned with a ring of standing stones, each ring dedicated as a shrine.",
+                "link": {
+                    "url": "Hills of the Seven Lost Gods",
+                    "label": "Hills of the Seven Lost Gods"
+                },
+                "image": "File:Hills of the Seven Lost Gods.png"
+            },
+            "id": "127"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                164.02809360906,
+                191.94100634487
+            ],
+            "popup": {
+                "title": "Hill of Fangs",
+                "description": "The central hill of the [[Hills of the Seven Lost Gods]] dedicated to [[Moander]].",
+                "link": {
+                    "url": "Hill of Fangs",
+                    "label": "Hill of Fangs"
+                }
+            },
+            "id": "128"
+        }
+    ]
+}
+bibp3vppsyyp3mdzv02syo3wf342feq
+
+

@@ -1,0 +1,38 @@
+{
+    "template_data": {
+        "edition": "5e",
+        "edition_1": "3e",
+        "edition_2": "2e"
+    },
+    "document_data": {
+        "image": "",
+        "caption": "",
+        "name": "Foresight",
+        "deity": "",
+        "inventor": "[[Smolyn]]",
+        "type": "",
+        "school5e": "[[Divination]]",
+        "level5e": "{{spell table|edition=5e|[[Bard]]|9|[[Druid]]|9}}",
+        "type5e": "",
+        "refs5e": "",
+        "level3e": "{{spell table|edition=3e|[[Druid]]|9|[[Fate domain|Fate]]|9|[[Generosity domain|Generosity]]|9|[[Halfling domain|Halfling]]|9|[[Knowledge domain|Knowledge]]|9|[[Sorcerer]]|9|[[Time domain|Time]]|8|[[Wizard]]|9}}",
+        "descriptors3e": "",
+        "domains3e": "[[Fate domain|Fate]], [[Generosity domain|Generosity]], [[Halfling domain|Halfling]], [[Knowledge domain|Knowledge]], [[Time domain|Time]]",
+        "school3e": "[[Divination]]",
+        "refs3e": "{{Cite dragon/355/Seven Saintly Domains|28}}",
+        "reversible2e": "",
+        "school2e": "[[Divination]], [[Chronomancy]]<br/>[[Universal (province)]]<br/>[[Mentalism]]",
+        "spheres2e": "",
+        "level2e": "{{spell table|edition=2e|[[Arcanist]]|9|[[Chronomancer]]|8|[[Wizard]]|9}}",
+        "type2e": "",
+        "refs2e": "<ref name=Cp41\">",
+        "reversible1e": "",
+        "school1e": "",
+        "level1e": "",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Foresight''''' was a [[divination]] [[spell]] that granted the caster powerful warnings about the future.",
+        "Components": "The spell required [[verbal]], [[somatic]], and [[material component]]s. The material component was a [[hummingbird]]'s feather.",
+        "History": "The [[Netherese]] [[arcanist]] [[Smolyn]] was credited with the creation of this spell in {{Yearlink|-1964}}. It was originally called '''''Smolyn's foreseer'''''. \n\n''Foresight'' was an uncommon but somewhat widely accessible spell in the Realms ''circa'' [[1358 DR]]. Only the most powerful spellcasters could use this spell."
+    }
+}

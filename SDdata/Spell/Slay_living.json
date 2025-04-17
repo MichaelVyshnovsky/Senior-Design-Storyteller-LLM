@@ -1,0 +1,31 @@
+{
+    "template_data": {
+        "edition": "3e",
+        "edition_1": "2e",
+        "edition_2": "1e"
+    },
+    "document_data": {
+        "image": "Slay Living.png",
+        "name": "Slay Living",
+        "level3e": "{{spell table|edition=3e|[[Cleric]]|5|[[Death domain|Death]]|5}}",
+        "domains3e": "[[Death domain|Death]]",
+        "descriptors3e": "{{desc/death}}",
+        "school3e": "[[Necromancy]]",
+        "type3e": "",
+        "refs3e": "",
+        "reversible2e": "true",
+        "school2e": "[[Necromancy]]",
+        "spheres2e": "[[Necromantic sphere|Necromantic]]",
+        "level2e": "{{spell table|edition=2e|[[Cleric]]|5|[[Mystic]]|5|[[Necromantic sphere|Necromantic]]|5}}",
+        "type2e": "",
+        "refs2e": "",
+        "reversible1e": "true",
+        "school1e": "[[Necromancy]]",
+        "level1e": "{{spell table|edition=1e|[[Cleric]]|5}}",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Slay living''''' was a [[necromancy]] spell that could kill a single creature. The older versions of this spell were also reversible, known as ''[[raise dead]]''.",
+        "Effects": "The target had to be a living creature for this spell to be effective. The newer version of ''slay living'' required a successful melee touch attack in order to cast, but the older versions operated at a range of 90 ft (27.4 m). In this respect, they were very similar to ''[[finger of death]]''.\n\nIf the target was able to overcome the [[death magic]], they were not killed outright but were then subject to damage on the order of an ''[[inflict serious wounds]]'' spell, which still might have been fatal.",
+        "Components": "Only verbal and somatic components were required to cast this spell. The somatic component for the older versions was to point at the intended victim."
+    }
+}

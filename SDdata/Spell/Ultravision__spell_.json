@@ -1,0 +1,28 @@
+{
+    "template_data": {
+        "edition": "3e",
+        "edition_1": "1e"
+    },
+    "document_data": {
+        "image": "Ultravision.png",
+        "caption": "",
+        "name": "Ultravision",
+        "deity": "",
+        "inventor": "",
+        "type": "",
+        "school3e": "[[Transmutation]]",
+        "domains3e": "",
+        "descriptors3e": "",
+        "level3e": "{{spell table|edition=3e|[[Bard]]|2|[[Cleric]]|2|[[Druid]]|1|[[Ranger]]|1|[[Sorcerer]]|2|[[Wizard]]|2}}",
+        "type3e": "",
+        "refs3e": "",
+        "reversible1e": "",
+        "school1e": "[[Alteration]]",
+        "level1e": "{{spell table|edition=1e|[[Magic-user]]|4|[[Witch doctor]]|4}}",
+        "type1e": "",
+        "refs1e": "{{Cite dragon/141/Hey, Wanna Be a Kobold|43}}",
+        "mainbody": "'''''Ultravision''''' was a [[transmutation]] [[spell]] cast by [[bard]]s, [[cleric]]s, [[druid]]s, [[ranger]]s, [[sorcerer]]s, and [[wizard]]s.",
+        "Effects": "This spell gave the target the ability to see in darkness. This ability functioned both in natural darkness, as well as that created by the spell ''[[darkness]]''. The spell's duration depended on the power of the caster but could be calculated in hours.",
+        "Components": "The spell required [[verbal]] and [[somatic component]]s to cast."
+    }
+}

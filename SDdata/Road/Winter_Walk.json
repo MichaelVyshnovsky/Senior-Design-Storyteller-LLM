@@ -1,0 +1,34 @@
+{
+    "template_data": {
+        "300|ft|long": "yes"
+    },
+    "document_data": {
+        "image": "NWZhentilKeep.JPG",
+        "caption": "A map showing Winter Walk in western Zhentil Keep.",
+        "name": "Winter Walk",
+        "type": "Street",
+        "aliases": "",
+        "length": "{{SI|300|ft}}",
+        "width": "",
+        "pavement": "",
+        "location": "The [[Zhentil Keep/Common Quarter|Common Quarter]], [[Zhentil Keep]]",
+        "starts": "[[Nool Street]]",
+        "ends": "[[Dixon Street]]",
+        "built": "",
+        "refs": "",
+        "daggers": "",
+        "volorefs": "",
+        "usethe": "",
+        "inhabitants": "",
+        "locations": "yes",
+        "organizations": "",
+        "settlements": "",
+        "roads": "yes",
+        "bodies of water": "",
+        "events": "",
+        "mainbody": "'''Winter Walk''' was a small street located in the city of [[Zhentil Keep]] during the mid-14{{th}} century [[DR]].",
+        "Location": "Winter Walk was located in western Zhentil Keep in the [[Zhentil Keep/Common Quarter|Common Quarter]]. It originated on [[Nool Street]] in the west near the city's exterior wall, then passed east until it connected with [[Dixon Street]]. [[Silver Street]] intersected Winter Walk near its origin.",
+        "Description": "The road was quite small at {{SI|300|ft|long=yes}} in length.",
+        "Notable Locations": "* The [[Dwarven Cobblers]]"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "variant": "",
+        "name": "Immurk's distraction",
+        "deity": "",
+        "school": "",
+        "spheres": "",
+        "domains": "",
+        "inventor": "[[Seldzen]]",
+        "descriptors": "",
+        "keywords": "",
+        "type": "",
+        "keywords5e": "",
+        "level5e": "",
+        "type5e": "",
+        "keywords4e": "",
+        "level4e": "",
+        "type4e": "",
+        "school3e": "",
+        "domains3e": "",
+        "descriptors3e": "",
+        "level3e": "",
+        "type3e": "",
+        "reversible2e": "",
+        "school2e": "[[Enchantment]] (Charm)",
+        "spheres2e": "",
+        "level2e": "{{spell table|edition=2e|[[Wizard]]|2}}",
+        "type2e": "",
+        "refs2e": "",
+        "mainbody": "reversible1e  =\n| school1e      =\n| level1e       =\n| type1e        =\n| refs1e        =\n| rules         =\n| nocat         =\n}}\n'''''Immurk's distraction''''' was an [[arcane]] [[enchantment]] [[spell]] that prevented people finding concealed objects by causing them to be distracted. It was useful for hiding buried treasure chests and smuggled goods.",
+        "Effect": "When cast on a particular item that was then concealed, the spell clouded the mind of anyone within 50 feet (15 meters) searching for it and prevented them from finding it. If the item was hidden inside a container or beneath something else, then an affected person would not consider opening the container or looking underneath. If they were ordered to do so by someone unaffected by the spell, then they would still fail to find it. Only an item in plain sight would be discovered.",
+        "Components": "The spell required a mixture of [[sand]] and [[diamond]] dust (worth 500 [[gp]]) to be sprinkled over the affected item.",
+        "History": "The spell was developed by the mage [[Seldzen]] of the city of [[Procampur]] in the [[the Vast]], on behalf of [[Immurk]], the legendary [[pirate]] captain of the 12th century [[DR]]."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "template_data": {
+        "edition": "3e"
+    },
+    "document_data": {
+        "name": "Mass Cure Critical Wounds",
+        "school3e": "[[Conjuration]] (Healing)",
+        "domains3e": "[[Healing domain|Healing]]",
+        "level3e": "{{spell table|edition=3e|[[Cleric]]|8|[[Druid]]|9|[[Healing domain|Healing]]|8}}",
+        "type3e": "",
+        "refs3e": "",
+        "mainbody": "'''''Mass cure critical wounds''''' was a conjuration spell that applied an enhanced ''[[cure critical wounds]]'' to a small group of creatures.",
+        "Effects": "Like other ''cure'' spells, the caster channeled [[positive energy]] that healed the living or harmed the [[undead]]. No more than one creature per level of the caster could receive this spell and they all had to be within 30 ft (9.1 m) of each other, but the caster was not required to touch the recipients."
+    }
+}

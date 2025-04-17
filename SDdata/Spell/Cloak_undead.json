@@ -1,0 +1,22 @@
+{
+    "template_data": {
+        "edition": "2e",
+        "edition_1": "1e"
+    },
+    "document_data": {
+        "name": "Cloak Undead",
+        "school2e": "[[Necromancy]]",
+        "level2e": "{{spell table|edition=2e|[[Wizard]]|2}}",
+        "type2e": "",
+        "refs2e": "",
+        "school1e": "[[Divination]], [[Necromancy]]",
+        "reversible1e": "true",
+        "level1e": "{{spell table|edition=1e|[[Magic-user]]|1}}",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''Cloak undead''' was a [[necromancy]] or [[divination]] spell that made all undead within a certain radius invisible. The earliest version of this spell could be cast in reverse as ''[[detect undead]]''.",
+        "Effects": "The earliest version of this spell had a radius of 10 ft (3 m) per experience level of the caster and was centered on (and moved with) the caster. The later version of ''cloak undead'' had a fixed radius of 15 ft (4.6 m) but could be set on an object or willing creature and moved with the focus for the duration of the spell. This spell prevented ''[[detect undead]]'' but not ''[[detect invisible]]'' or any form of ''[[true seeing]]''. Undead that were cloaked from a cleric could not be turned unless the cleric could detect them somehow. Undead straying beyond the effective radius or attacking in any fashion immediately became visible. This spell did not allow undead to enter areas that were warded against undead.",
+        "Components": "The spell required only verbal and somatic components.",
+        "History": "This spell was generally known around [[Faerûn]], once it had been published in [[Volo's Guide to All Things Magical (in-universe)|Volo's Guide to All Things Magical]]."
+    }
+}

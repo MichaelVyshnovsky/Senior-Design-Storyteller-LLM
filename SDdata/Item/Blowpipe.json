@@ -1,0 +1,43 @@
+{
+    "template_data": {
+        "image": "Blowgun2e.png",
+        "name": "Blowpipe",
+        "othernames": "Blowgun",
+        "type": "Martial, Ranged",
+        "basicrefs": "",
+        "4|7|ft|long": "yes",
+        "2|in|long": "yes"
+    },
+    "document_data": {
+        "image": "Blowgun2e.png",
+        "name": "Blowpipe",
+        "othernames": "Blowgun",
+        "type": "Martial, Ranged",
+        "basicrefs": "",
+        "value1e": "2 [[yuan]]",
+        "refs1e": "",
+        "value2e": "5 [[gp]]",
+        "weight2e": "{{SI|2|lbs.|k}}",
+        "refs2e": "<ref>",
+        "value3e": "1 gp",
+        "weight3e": "{{SI|2|lbs.|k}}",
+        "refs3e": "",
+        "value4e": "5 gp",
+        "weight4e": "{{SI|2|lbs.|k}}",
+        "refs4e": "",
+        "value5e": "10 gp",
+        "weight5e": "{{SI|1|lbs.|k}}",
+        "refs5e": "",
+        "mainbody": "'''Blowpipes''', otherwise known as '''blowguns''', were a type of exotic ranged weapon.",
+        "Description": "Blowpipes were long hollow tubes, ranging from {{SIrange|4|7|ft|long=yes}} in length.",
+        "Usage": "Some tribes were known to use stands to brace their blowpipes, in order to prevent swaying.<ref>[[Gary Gygax]] (August 1982). “New Weapons from Another Great Mind”. In [[Kim Mohan]] ed. ''[[Dragon magazine 64|Dragon #64]]'' (TSR, Inc.), p. 6.\n\nBeyond their purpose as a weapon, some were known to use blowpipes as breathing tubes for swimming underwater.",
+        "Ammunition": "A wide variety of ammunition were known to be used in blowpipes. This included blowgun [[Dart|darts]], needles, and little pellets of hardened clay. Darts were the most commonly used form of ammunition, while needles were used to deliver [[poison]] and pellets were used in hunting small game.\n\nBlowgun darts were small arrows, with cotton or some other form of plant fiber used as fletching. This fletching made an efficient seal in the pipe, allowing for a greater build up of pressure from the wielder's breath.\n\nBlowgun needles were typically {{SI|2|in|long=yes}} in length and made of [[iron]]. They were known to be sold in groups of twenty in small wooden cases. Poisons typically used with these needles included [[greenblood oil]], [[bloodroot]], [[blue whinnis]], [[shadow essence]], and [[deathblade]].",
+        "Varieties": "* ''[[Netherpelter]]'', a type of [[magical item|magical]] blowpipe that was developed by [[arcanist]]s.\n* [[Tufenk]], a type of blowpipe unique to the land of [[Zakhara]] that was used to project [[liquid star]].{{cite book/Arabian Adventures|96}}",
+        "Notable Blowguns": "* ''[[Blowgun of Accuracy]]''\n* ''[[Blowgun of Distance]]''\n* ''[[Blowgun of Wild Emotions]]''{{Cite dragon/134/Bazaar of the Bizarre}}",
+        "Notable Users of Blowpipes": {
+            "Classes": "* [[Ninja]]s were often known to use blowguns, either as weapons or a distraction.\n* Blowguns were a preferred weapon for [[priest]]s among deities associated with [[Air domain|wind]].<ref>\n* Blowguns were a common weapon among the [[Eagle Knights (Maztica)|Eagle Knights]] and [[Jaguar Knights]] of [[Maztica]].{{Cite dragon/315/Maztica: The New (Fantasy) World|96}}\n* Some [[Spirit Warriors]] were known to use blowguns.\n* Some [[wu-jen]] were known to use blowpipes.",
+            "Individuals": "* [[Tee-a-nicknick]]\n* [[Onyx the Invincible]]\n* [[Vartain]]",
+            "Regions & Nations": "* The inhabitants of [[Malatra]] were often known to fight with blowpipes.{{Cite polyhedron/102/Heroes of Malatra|14}}"
+        }
+    }
+}

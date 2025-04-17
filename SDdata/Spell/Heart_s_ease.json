@@ -1,0 +1,16 @@
+{
+    "template_data": {
+        "name": "Heart's Ease",
+        "level": "{{spell table",
+        "edition": "3e"
+    },
+    "document_data": {
+        "name": "Heart's Ease",
+        "level": "{{spell table|edition=3e|[[Beloved of Lurue]]|3|[[Cleric]]|3|[[Pleasure domain|Pleasure]]|3}}",
+        "descriptors": "{{desc/mind-affecting}}",
+        "school": "[[Enchantment]] (Compulsion)",
+        "rules": "3.5",
+        "mainbody": "'''''Heart's ease''''' was an [[enchantment]] spell that soothed the mind and soul and healed mental damage.<ref>{{cite book/Book of Exalted Deeds|85, 87}}<ref>{{cite book/Book of Exalted Deeds|100}}",
+        "References": "{{refs}}\n[[Category:Enchantment spells]]\n[[Category:Compulsion spells]]\n[[Category:Cleric spells]]\njmc1esy877pj2xnn320ctpazoig0s10"
+    }
+}

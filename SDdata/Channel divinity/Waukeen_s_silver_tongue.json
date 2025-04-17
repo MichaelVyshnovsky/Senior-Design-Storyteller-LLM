@@ -1,0 +1,23 @@
+{
+    "template_data": {
+        "variant": "channel divinity",
+        "edition": "4e",
+        "variant_1": "channel divinity"
+    },
+    "document_data": {
+        "name": "Waukeen's Silver Tongue",
+        "deity": "[[Waukeen]]",
+        "inventor": "",
+        "type": "Encounter",
+        "keywords5e": "",
+        "level5e": "",
+        "type5e": "",
+        "refs5e": "",
+        "keywords4e": "{{desc/divine|variant=channel divinity}}",
+        "level4e": "{{spell table|edition=4e|variant=channel divinity|[[Avenger]]|1|[[Cleric]]|1|[[Invoker]]|1|[[Paladin]]|1}}",
+        "type4e": "Encounter",
+        "refs4e": "",
+        "mainbody": "'''''Waukeen's silver tongue''''' was a divine spell, or Channel Divinity, given to worshipers of [[Waukeen]] that granted them a second chance at a more favorable outcome in situations requiring diplomacy or when attempting to bluff or intimidate. Better or worse, the second outcome was final.",
+        "References": "{{refs}}\namhzsgozhnlag0rkitqlxrg2ox43uip"
+    }
+}

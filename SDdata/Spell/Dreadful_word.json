@@ -1,0 +1,15 @@
+{
+    "template_data": {
+        "edition": "4e"
+    },
+    "document_data": {
+        "type": "encounter",
+        "name": "Dreadful Word",
+        "school": "",
+        "keywords4e": "{{desc/arcane}}{{desc/fear}}{{desc/implement}}{{desc/psychic}}",
+        "level4e": "{{spell table|edition=4e|[[Warlock]]|1}} <br /> '''Formerly:''' Least invocation",
+        "type4e": "Encounter",
+        "mainbody": "'''''Dreadful word''''', also known less commonly as '''''frightful blast''''', is a relatively simple [[spell]] used by several [[warlock]]s, particularly those of the [[Warlock#Star Pact Warlock|star pact]]. When a warlock casts ''dreadful word'' they can use its deadly power to fill the mind of one creature within twenty-five feet of them with petrifying pain and terror. Creatures who fall victim to this attack suffer a damage to their morale, making them less likely ro resist similar attacks later on. The effectiveness of the spell is determined almost entirely by the wielder's charisma, though star pact warlocks of great intellect are even more effective casters of ''dreadful word''. However, ''dreadful world'' is too complex a spell for a warlock to cast more than once without a brief rest of at least a few minutes.\n\nBefore the [[Spellplague]], ''frightful blast'' was used by some warlocks as an altered manifestation of ''eldritch blast.'' At the time the spell, like all [[invocation]]s, could be cast at will.",
+        "References": "*\n[[Category:Least invocations]]\n[[Category:Warlock spells]]\nsxh6yks91gt0b39lsn7mp55yayrlmpr"
+    }
+}

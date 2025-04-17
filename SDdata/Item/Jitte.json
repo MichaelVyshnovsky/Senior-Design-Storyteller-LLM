@@ -1,0 +1,50 @@
+{
+    "template_data": {
+        "1|1.5|ft|c|long": "yes"
+    },
+    "document_data": {
+        "image": "Jitte1e.png",
+        "caption": "",
+        "name": "Jitte",
+        "othernames": "",
+        "nicknames": "",
+        "type": "Weapon",
+        "creator": "",
+        "location": "[[Kara-Tur]]",
+        "basicrefs": "",
+        "value1e": "10 [[yuan]]",
+        "weight1e": "",
+        "refs1e": "",
+        "school2e": "",
+        "level2e": "",
+        "value2e": "",
+        "weight2e": "",
+        "refs2e": "",
+        "school3e": "",
+        "casterlevel3e": "",
+        "itemlevel3e": "",
+        "value3e": "5 [[gp]]",
+        "weight3e": "{{SI|2|lb|k}}",
+        "refs3e": "",
+        "level4e": "",
+        "value4e": "",
+        "weight4e": "",
+        "refs4e": "",
+        "rarity5e": "",
+        "attunement5e": "",
+        "school5e": "",
+        "level5e": "",
+        "value5e": "",
+        "weight5e": "",
+        "refs5e": "",
+        "communication": "",
+        "languages": "",
+        "alignment": "",
+        "sentientrefs": "",
+        "mainbody": "A '''jitte''' ({{Pronounce|jit|teh|refs=}}) was a weapon unique to the continent of [[Kara-Tur]].",
+        "Description": "The jitte was a defensive weapon and lacked a sharp edge. It was a tapered [[iron]] bar between {{SIrange|1|1.5|ft|c|long=yes}} in length that incorporated a short hook near its handle. The jitte's main purpose revolved around blocking incoming attacks and seizing weapons. Additionally, it could be utilized for delivering impactful strikes.",
+        "Notable Users": {
+            "Classes": "* [[Monk]]s were known to utilize the jitte.\n* [[Shugenja]] were known to utilize the jitte."
+        }
+    }
+}

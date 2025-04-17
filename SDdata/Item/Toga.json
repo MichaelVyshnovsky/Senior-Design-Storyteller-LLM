@@ -1,0 +1,51 @@
+{
+    "template_data": {
+        "rca": "right",
+        "rca_1": "right"
+    },
+    "document_data": {
+        "caption": "",
+        "name": "Toga",
+        "othernames": "",
+        "nicknames": "",
+        "type": "Clothing",
+        "creator": "",
+        "location": "",
+        "weight1e": "",
+        "school2e": "",
+        "level2e": "",
+        "value2e": "{{Split table|rca=right|Coarse|8 [[cp]]|Linen|3 [[sp]]|Wool|1 cp}}",
+        "weight2e": "",
+        "refs2e": "",
+        "school3e": "",
+        "casterlevel3e": "",
+        "itemlevel3e": "",
+        "value3e": "{{Split table|rca=right|Peasant|8 cp|Silk|45 [[gp]]|Velvet|5 gp}}",
+        "weight3e": "{{SI|3|lbs.}}",
+        "refs3e": "",
+        "level4e": "",
+        "value4e": "",
+        "weight4e": "",
+        "refs4e": "",
+        "rarity5e": "",
+        "attunement5e": "",
+        "school5e": "",
+        "level5e": "",
+        "value5e": "",
+        "weight5e": "",
+        "refs5e": "",
+        "communication": "",
+        "languages": "",
+        "alignment": "",
+        "sentientrefs": "",
+        "mainbody": "'''Togas''' were a type of light, wraparound outerwear garment.",
+        "Description": "Togas were woven from a variety of materials, including [[linen]], [[wool]], [[velvet]], and [[silk]]. ''[[Aurora's Whole Realms Catalogue]]'' sold both linen and wool togas, as well as ones that were custom-made with concealed pockets for hiding things in, such as [[stiletto]]s.",
+        "History": "In the mid–14{{th}} century [[DR]], togas sold through ''Aurora's Whole Realms Catalogue''&mdash;which had been imported from the [[Old Empires]]&mdash;steadily became extremely popular among inhabitants of the [[Western Heartlands]].",
+        "Notable Users of Togas": {
+            "Classes": "* [[Chessentan]] [[warrior]]s often preferred to wear a short toga in place of armor, as doing so was less hot and allowed them a greater freedom of movement.",
+            "Nations, Regions, and Settlements": "* People in the nations known collectively as the Old Empires&mdash;[[Chessenta]], [[Mulhorand]], and [[Unther]]&mdash;were sometimes known to wear togas.\n* Togas were a common article of clothing among inhabitants of the [[Malatran Plateau]].{{Cite polyhedron/102/Heroes of Malatra|14}} Among the native [[Nubari]] tribe called the [[Rudra]], white togas were reserved for the most prestigious of people. All other members of the tribe could only wear togas if they were of a red or brown color.{{Cite polyhedron/102/Tribes of the Nubari|10}}\n* Throughout the city-states of the [[Vilhon Reach]], it was a common custom for [[priest]]s, regardless of their faith, to wear togas that were dyed blue. Similarly, [[wizard]]s in this region were known to often wear togas that had been dyed red.",
+            "Races & Sentient Creatures": "* [[Asura]]s typically wore loose togas.\n* Togas were a common article of clothing among [[avariel]].{{Cite dragon/233/On Wings of Eagles|16}}",
+            "Religions": "* Male [[priest]]s of [[Sehanine Moonbow]] often wore silvery-white togas.\n* Some of the [[Greater Titans]] dressed in togas.<ref><ref>{{Cite organized play/LC/No Time to Lose|19}}"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "template_data": {
+        "variant": "channel divinity",
+        "edition": "4e",
+        "variant_1": "channel divinity"
+    },
+    "document_data": {
+        "name": "Eyes of Selûne",
+        "deity": "[[Selûne]]",
+        "inventor": "",
+        "type": "Encounter",
+        "keywords5e": "",
+        "level5e": "",
+        "type5e": "",
+        "refs5e": "",
+        "keywords4e": "{{desc/divine|variant=channel divinity}}",
+        "level4e": "{{spell table|edition=4e|variant=channel divinity|[[Avenger]]|1|[[Cleric]]|1|[[Invoker]]|1|[[Paladin]]|1}}",
+        "type4e": "Encounter",
+        "refs4e": "",
+        "mainbody": "'''''Eyes of Selûne''''' was a divine spell, or Channel Divinity, given to worshipers of [[Selûne]] that granted a second chance when they failed to resist an attack.",
+        "References": "{{refs}}\nhr4j97i5lrfz20qlfaehuzyl7n0tnmv"
+    }
+}

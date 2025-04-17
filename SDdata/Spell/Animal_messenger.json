@@ -1,0 +1,43 @@
+{
+    "template_data": {
+        "edition": "5e",
+        "variant": "ritual",
+        "edition_1": "4e",
+        "variant_1": "ritual",
+        "edition_2": "3e",
+        "edition_3": "2e",
+        "nocat": "true",
+        "edition_4": "1e"
+    },
+    "document_data": {
+        "name": "Animal Messenger",
+        "school5e": "Enchantment",
+        "level5e": "{{spell table|edition=5e|variant=ritual|[[Druid]]|2|[[Ranger]]|2|[[Bard]]|2}}",
+        "type5e": "[[Ritual]]",
+        "refs5e": "",
+        "feature4e": "",
+        "keywords4e": "",
+        "level4e": "{{Spell table|edition=4e|variant=ritual|Exploration|1}}",
+        "type4e": "Ritual",
+        "category4e": "Exploration",
+        "skill4e": "Nature",
+        "refs4e": "",
+        "school3e": "[[Enchantment]] ([[Compulsion spells|Compulsion]])",
+        "domains3e": "",
+        "descriptors3e": "{{Desc/mind-affecting}}",
+        "level3e": "{{Spell table|edition=3e|[[Bard]]|2|[[Druid]]|2|[[Ranger]]|1|[[Sohei]]|2}}",
+        "refs3e": "",
+        "school2e": "[[Enchantment]]<br/>[[Charm]]",
+        "spheres2e": "[[Animal sphere|Animal]]",
+        "level2e": "{{spell table|edition=2e|nocat=true|[[Animal sphere|Animal]]|2|[[Druid]]|2|[[Mystic]]|2|[[Ranger]]|2|[[Shaman]]|2}}",
+        "type2e": "",
+        "refs2e": "",
+        "reversible1e": "",
+        "school1e": "[[Enchantment]]<br/>[[Charm]]",
+        "level1e": "{{spell table|edition=1e|[[Shugenja|Shukenja]]|2|[[Sohei]]|2}}",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Animal messenger''''', also known as '''''messenger''''', was an [[enchantment]] spell that recruited a tiny-sized creature to carry a message, following simple directions.",
+        "Components": "The spell required verbal and somatic components and a small morsel of food as a material component."
+    }
+}

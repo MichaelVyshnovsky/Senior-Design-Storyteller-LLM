@@ -1,0 +1,24 @@
+{
+    "template_data": {
+        "variant": "channel divinity",
+        "edition": "4e",
+        "variant_1": "channel divinity"
+    },
+    "document_data": {
+        "name": "Abjure Undead",
+        "deity": "",
+        "inventor": "",
+        "type": "Channel Divinity",
+        "keywords5e": "",
+        "level5e": "",
+        "type5e": "",
+        "refs5e": "",
+        "keywords4e": "{{desc/divine|variant=channel divinity}}{{desc/implement}}{{desc/radiant}}",
+        "level4e": "{{spell table|edition=4e|variant=channel divinity|[[Avenger]]|1}}",
+        "type4e": "Encounter",
+        "refs4e": "",
+        "mainbody": "'''''Abjure undead''''' was an ability of [[avenger]]s to ''[[channel divinity]]'' of a [[god]] they served.",
+        "Effects": "This ability allowed the avenger to fire a ray of [[radiant energy]] that damaged and mesmerized an [[undead]] target, compelling it to stagger forward into melee attack range. This ability greatly increased in power as the avenger gained experience.",
+        "Components": "Avengers did not need any [[implement]] or components to use this ability, although it was enhanced with the use of a [[holy symbol]]."
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "template_data": {
+        "variant": "channel divinity",
+        "edition": "4e",
+        "variant_1": "channel divinity"
+    },
+    "document_data": {
+        "name": "Torm's Justice",
+        "deity": "[[Torm]]",
+        "inventor": "",
+        "type": "Encounter",
+        "keywords5e": "",
+        "level5e": "",
+        "type5e": "",
+        "refs5e": "",
+        "keywords4e": "{{desc/divine|variant=channel divinity}}",
+        "level4e": "{{spell table|edition=4e|variant=channel divinity|[[Avenger]]|1|[[Cleric]]|1|[[Invoker]]|1|[[Paladin]]|1}}",
+        "type4e": "Encounter",
+        "refs4e": "",
+        "mainbody": "'''''Torm's justice''''' was a divine [[spell]] given to worshipers of [[Torm]] that filled the caster with divine wrath at the sight of an enemy's blood, granting increased battle proficiency for a short time."
+    }
+}

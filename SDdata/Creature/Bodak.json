@@ -1,0 +1,61 @@
+{
+    "template_data": {
+        "BO|dæk|refs": "{{Cite dragon/93/Ay pronunseeAYshun gyd",
+        "25|ft|long": "yes"
+    },
+    "document_data": {
+        "image": "<gallery>",
+        "caption2": "Images of bodaks.",
+        "name": "Bodak",
+        "size5e": "Medium",
+        "type5e": "[[Undead]]",
+        "subtype5e": "",
+        "alignment5e": "[[Chaotic evil]]",
+        "challenge5e": "6",
+        "refs5e": "",
+        "size4e": "",
+        "origin4e": "[[Shadow creature|Shadow]]",
+        "type4e": "[[Humanoid]]",
+        "subtype4e": "[[Undead]]",
+        "alignment4e": "[[Evil]]",
+        "refs4e": "",
+        "size3e": "Medium",
+        "type3e": "[[Undead]]",
+        "subtype3e": "",
+        "alignment3e": "Always [[chaotic evil]]",
+        "challenge3e": "8",
+        "refs3e": "",
+        "size2e": "Medium",
+        "alignment2e": "[[Chaotic evil]]",
+        "refs2e": "",
+        "size1e": "Medium",
+        "alignment1e": "[[Chaotic evil]]",
+        "refs1e": "",
+        "patron deity": "",
+        "vision": "[[Darkvision]]",
+        "lifespan": "",
+        "location": "[[Shadowfell|The Shadowfell]]<br />{{Former}} [[Plane of Shadow|The Plane of Shadow]]<br />The [[Abyss]]",
+        "language": "[[Abyssal language|Abyssal]], [[Common]]",
+        "subraces": "",
+        "climate": "",
+        "terrain": "",
+        "skincolor": "Gray",
+        "eyecolor": "Milky-white",
+        "based": "[[wikipedia:en:Bodach|Bodach]] (Irish and Scottish)",
+        "first": "''[[The Lost Caverns of Tsojcanth]]''",
+        "mainbody": "'''Bodaks''', ({{Pronounce|BO|dæk|refs={{Cite dragon/93/Ay pronunseeAYshun gyd|25}}|audio=Bodak.ogg}}) meaning '''the unfinished dead''' in the language of lesser [[tanar'ri]] [[demon]]s, were what was left of a [[humanoid]] that had been destroyed by the touch of pure evil, such as that of a [[nightwalker]]. [[Undead]] creatures devoid of personality or souls, bodaks were cruel and relentless hunters, either of their own volition or at the behest of some greater power, such as the nightwalker that created them.",
+        "Description": "Bodaks resembled their living form to a certain extent, being roughly the same size and shape, though some described them as looking sexless and muscular. Beyond that, there were a number of differences which were immediately obvious to the eye. A bodak's skin was a deathly pale white or gray, devoid of any hair at all. More eerie still was its face, which was twisted into an inhuman visage of sheer madness and horror with empty, milky-white eyes outstretched to the shape of vertical ovals.",
+        "Personality": "Although mostly devoid of any semblance of their past selves, bodaks occasionally experienced flashbacks of their life, an occurrence sometimes triggered within combat. In such cases, a bodak might take pause for a moment, stopping whatever it was doing. If an enemy triggered this flashback, the bodak was less likely to take effective action against the enemy for sometime thereafter.",
+        "Abilities": {
+            "Offensive Abilities": "Bodaks possessed a number of unusual abilities granted to them by their undead state. For instance, each bodak had the capacity to gaze into the soul of a nearby creature, gravely injuring or killing them if they were already weakened, an attack often known as a \"death gaze\".\n\nThose killed by a bodak's ''death gaze'' were likely to subsequently become bodaks themselves. Similarly, bodaks projected an aura of death around them, injuring and hindering the actions of any creature within roughly {{SI|25|ft|long=yes}} of them.",
+            "Undead Nature": "Like many undead creatures, bodaks had an inherent weakness against brilliant light, and therefore shunned [[sunlight]] whenever they were able to. They were, however, completely invulnerable to disease or poison and had a strong resistance against the effects of [[necromancy|necrotic]] power.\n\nBeyond that, they were immune to spell effects like ''[[charm]]'', ''[[hold person]]'', ''[[sleep]]'', and ''[[slow]]''. And they could only be harmed by weapons with an [[item enchantment|enchantment]] of ''+1'' or greater."
+        },
+        "Combat": "Bodaks generally fought in a defensive manner, giving their ''death gaze'' more time to work. They rarely ever fought with conventional weaponry, though were often seen wielding them. A sub-type of bodak, \"reavers,\" were the ones most likely to fight with them. They typically wielded [[greataxe]]s and could even be seen wearing [[plate mail]].",
+        "Society": {
+            "Diet": "Bodaks were a type of undead that did not require any form of sustenance.",
+            "Homelands": "Bodaks were rarely ever encountered in places outside of the [[Abyss]],",
+            "Relationships": "Bodaks typically collaborated with other undead or creatures connected to the Shadowfell.\n\nBodaks were a [[favored monster]] of the goddess of bad luck, [[Beshaba]].{{Cite web enhancement/Deity Do's and Don'ts|10}}"
+        },
+        "History": "In [[1372 DR]], bodaks were occasionally encountered by travelers in the [[Dragonjaw Mountains|Dragonjaw]] and [[Thesk Mountains]]."
+    }
+}

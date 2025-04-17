@@ -1,0 +1,53 @@
+{
+    "template_data": {
+        "|long": "yes",
+        "|long_1": "yes"
+    },
+    "document_data": {
+        "image": "Universal_Solvent.jpg",
+        "caption": "''A portion of universal solvent being applied.''",
+        "name": "''Universal Solvent''",
+        "othernames": "Ultimate Solution",
+        "nicknames": "",
+        "type": "Magical substance",
+        "creator": "",
+        "location": "",
+        "basicrefs": "",
+        "value1e": "7,000 [[gp]]",
+        "weight1e": "",
+        "refs1e": "",
+        "school2e": "",
+        "level2e": "",
+        "value2e": "7,000 gp",
+        "weight2e": "",
+        "refs2e": "",
+        "school3e": "[[Transmutation]]",
+        "casterlevel3e": "20",
+        "itemlevel3e": "",
+        "value3e": "50 gp",
+        "weight3e": "",
+        "refs3e": "",
+        "level4e": "",
+        "value4e": "",
+        "weight4e": "",
+        "refs4e": "",
+        "rarity5e": "",
+        "attunement5e": "",
+        "school5e": "",
+        "level5e": "",
+        "value5e": "",
+        "weight5e": "",
+        "refs5e": "",
+        "communication": "",
+        "languages": "",
+        "alignment": "",
+        "sentientrefs": "",
+        "mainbody": "'''''Universal solvent''''',\n\n{{Quote|A few drops could dissolve the webs of [[Lolth]] herself.|Anonymous.{{Cite MTG|CLB|342|[[Universal solvent|Universal Solvent]]|[[Joe Slucher]]}}}}",
+        "Powers": "This item appeared to have the properties of both ''[[oil of slipperiness]]'' and a ''[[potion of delusion]]'' if examined with magic. What a dose of ''universal solvent'' would actually do was to dissolve any adhesive or sticky material that it was applied to. This included cement and magical substances such as ''[[sovereign glue]]'', as well as the goo from a [[tanglefoot bag]] and the adhesive made by [[kuo-toa]].\n\nA single ounce of ''universal solvent'' would work on {{SI|1|cu ft||long=yes}} of adhesive material. A typical container held {{SI|27|fl oz|l}} of fluid. If distilled to one-third of its normal potency, one ounce would cause {{SI|1|cu ft||long=yes}} of organic and inorganic material to ''[[disintegrate]]''.",
+        "Creation": "Creating it required skill at crafting [[magical item]]s and the [[spell]] ''[[disintegrate]]''.",
+        "Notable Owners": {
+            "Individuals": "* [[Torm (adventurer)|Torm]], a member of the [[Knights of Myth Drannor]] who was a notorious hoarder of magic devices and trinkets, owned some ''ultimate solution'' and sometimes kept it on his person.",
+            "Religions": "* [[Goldeye]]s, [[specialty priest]]s of the [[Church of Waukeen]], had a chance of receiving a [[vial]] of ''universal solvent'' as one of the miscellaneous gifts they received upon admission to the clergy."
+        }
+    }
+}

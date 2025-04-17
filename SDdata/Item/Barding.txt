@@ -1,0 +1,123 @@
+{{Item
+| image         = Barding-Chain&Plate.png
+| caption       = Two horses, wearing what look to be chain and plate barding respectively.
+| name          = Barding
+| othernames    = 
+| nicknames     = 
+| type          = Armor
+| creator       = 
+| location      = 
+| basicrefs     = 
+| value1e       = {{Split table|caption=Value of Barding in [[Kara-Tur]]|captionstyle=font-family:serif;font-style:italic;|rca=right|Full Leather|2 [[ch'ien]]|Full Padded|2 ch'ien|Half-Padded|1 ch'ien|Half-Brigandine|5 ch'ien|Half-Chain|10 ch'ien|Half-Scale|8 ch'ien}}
+| weight1e      = 
+| refs1e        = 
+| school2e      = 
+| level2e       = 
+| value2e       = {{Split table|rca=right|Half-Brigandine|500 [[gp]]|Full Chain|500 gp|Full Leather|150 gp|Leather Scale|75 gp|Full Padded|150 gp|Half-Padded|100 gp|Full Plate|2000 gp|Full Scale|1000 gp|Half-Scale|500 gp}}<br />{{Split table|caption=Barding Material Cost Multiplier |captionstyle=font-family:serif;font-style:italic;|rca=right|[[Adamantite]]|x50|[[Bronze]]|x0.90|[[Copper]]|x0.90|[[Electrum]]|x2.5|[[Gold]]|x5|[[Iron]]|x1|[[Mithral]]|x100|[[Obsidian]]|x0.75|[[Platinum]]|x25|[[Silver]]|x1.5|[[Steel]]|x1.1|Wood|x0.5}}
+| weight2e      =  {{Split table|rca=right|Full Banded|{{SI|85|lbs.|k}}|Half-Banded|{{SI|60|lbs.|k}}|Full Brigandine|{{SI|70|lbs.|k}}|Half-Brigandine|{{SI|45|lbs.|k}}|Full Chain|{{SI|70|lbs.|k}}|Half-Chain|{{SI|45|lbs.|k}}|Elven Chain|{{SI|25|lbs.|k}}|Full Lamellar|{{SI|70|lbs.|k}}|Half Lamellar|{{SI|30|lbs.|k}}|Full Leather|{{SI|60|lbs.|k}}|Half-Leather|{{SI|30|lbs.|k}}|Leather Scale|{{SI|50|lbs.|k}}|Full Padded|{{SI|60|lbs.|k}}|Half-Padded|{{SI|25|lbs.|k}}|Full Plate|{{SI|85|lbs.|k}}|Half-Plate|{{SI|65|lbs.|k}}|Full Ring|{{SI|80|lbs.|k}}|Half-Ring|{{SI|55|lbs.|k}}|Full Scale|{{SI|75|lbs.|k}}|Half-Scale|{{SI|50|lbs.|k}}|Full Splint|{{SI|85|lbs.|k}}|Half-Splint|{{SI|60|lbs.|k}}|Full Wicker|{{SI|50|lbs.|k}}|Half-Wicker|{{SI|20|lbs.|k}}}}
+| refs2e        =  
+| school3e      = 
+| casterlevel3e = 
+| itemlevel3e   = 
+| value3e       = {{Split table|caption=Barding Sorted by Creature Size|captionstyle=font-family:serif;font-style:italic;|leftheader=Medium|rightheader=Large|Banded<br />500 gp|Banded<br />1,000 gp|Chain<br />200 gp|Chain<br />400 gp|Leather<br />20 gp|Leather<br />40 gp|Leather Scale<br />70 gp|Leather Scale<br />2 gp|Wicker<br />4 gp}}
+| weight3e      = {{Split table|caption=Barding Sorted by Creature Size|captionstyle=font-family:serif;font-style:italic;|leftheader=Medium|rightheader=Large|Banded<br />{{SI|35|lbs.|k}}|Banded<br />{{SI|70|lbs.|k}}|Chain<br />{{SI|40|lbs.|k}}|Chain<br />{{SI|80|lbs.|k}}|Leather<br />{{SI|15|lbs.|k}}|Leather<br />{{SI|30|lbs.|k}}|Leather Scale<br />{{SI|20|lbs.|k}}|Leather Scale<br />{{SI|40|lbs.|k}}|Plate<br />{{SI|50|lbs.|k}}|Padded<br />{{SI|10|lbs.|k}}|Padded<br />{{SI|20|lbs.|k}}|Plate<br />{{SI|100|lbs.|k}}|Scale<br />{{SI|30|lbs.|k}}|Scale<br />{{SI|60|lbs.|k}}|Splint<br />{{SI|45|lbs.|k}}|Splint<br />{{SI|90|lbs.|k}}|Studded L.<br />{{SI|20|lbs.|k}}|Studded L.<br />{{SI|40|lbs.|k}}|Wicker<br />{{SI|5|lbs.|k}}|Wicker<br />{{SI|10|lbs.|k}}}}
+|refs3e         = <ref group="note" name="value3e">An exact value for these bardings was not listed in the ''[[Player's Handbook v.3.5]]''. Rather, it stated that barding for medium creatures was twice that of their [[humanoid]] equivalent and that the value of barding for large ones was four times that.<ref group="note" name="weight3e">An exact weight for these bardings was not listed in the ''Player's Handbook v.3.5''. Rather, it stated that barding for medium creatures was the same weight as its humanoid equivalent and that the value of barding for large ones was twice that amount.
+| level4e       = 
+| value4e       =  {{Split table|rca=right|Light barding|75 [[gp]]|Heavy barding|150 gp}}
+| weight4e      =  {{Split table|rca=right|Light barding|{{SI|40|lbs.|k}}|Heavy barding|{{SI|60|lbs.|k}}}}
+| refs4e        =  
+| rarity5e      = 
+| attunement5e  = 
+| school5e      = 
+| level5e       = 
+| value5e       = {{Split table|Chain|300 [[gp]]|Leather|40 gp|Padded|20 gp|Plate|6,000 gp|Half-Plate|3,000 gp|Ring|120 gp|Scale|200 gp|Splint|800 gp|Studded Leather|180 gp}}
+| weight5e      = {{Split table|Chain|{{SI|110|lbs.|k}}|Leather|{{SI|20|lbs.|k}}|Padded|{{SI|16|lbs.|k}}|Plate|{{SI|130|lbs.|k}}|Half-Plate|{{SI|80|lbs.|k}}|Ring|{{SI|80|lbs.|k}}|Scale|{{SI|90|lbs.|k}}|Splint|{{SI|120|lbs.|k}}|Studded Leather|{{SI|26|lbs.|k}}}}
+| refs5e        = <ref group="note" name="price&weight5e">An exact price and weight for these bardings was not listed in the ''[[Player's Handbook 5th edition]]''. Rather, it stated that the value is twice that of playable armor and four times the weight.
+| communication = 
+| languages     = 
+| alignment     = 
+| sentientrefs  = 
+}}
+'''Barding''' was a general term for [[armor]] designed to be worn by [[mount]]s. It was most often designed for [[horse]]s, though people were known to make barding for plenty of other mountable creatures in the Realms, as well as some tauric races.
+
+==Description==
+Barding offered protection for mounts, though it came at many costs. Wearing barding typically inhibted a mount's speed and maneuverability as well as made them tire out more quickly. Because of this, it was typically used only on large and powerful mounts.
+Typically the most protective armors were some of the heaviest. When equipped with barding a mount needed to be given special attention, making sure that it didn't chafe them or make them sore.
+
+==Availability==
+Much like standard armor, barding was typically made by armorers. Though shieldsmiths were often capable of making adequate barding.{{Cite dragon/70/The Smith|7}} Many common men lacked barding for their horses as it could be very expensive.
+
+==History==
+Following the development of barding for horses, many in the Realms sought to breed stronger horses that would be capable of both wearing barding and carrying an armored rider. Over time this mount armor paralleled the development of armor for [[humanoid]]s and other races, centered around the conundrum of obtaining better flexibility and a lighter weight whilst not sacrificing protection.
+
+Scale barding first became available in [[Netheril]] in {{YearlinkConvert|1080|NY}}. In {{YearlinkConvert|1373|NY}}, chain barding became available in Netheril. And in {{YearlinkConvert|3205|NY}}, plate barding became available in Netheril.
+
+When King [[Azoun IV]] of [[Cormyr]] lead an alliance of nations throughout [[Faerûn]] against the [[Grand Army of the Tuigan]] in [[1360 DR]], the fighting men of his own nation had varying degrees of barding. The wealthier nobles generally had full plate barding for their horses, while nobles of lesser means had either banded or full scale mail. The standard Cormyrian troop had either chain or leather barding for their horse.
+
+In the late-15{{th}} century [[DR]], when [[corsair]]s from [[Luskan]] fought against explorers from [[Delzoun]] for control of [[Gauntlgrym]] they utilized barding on [[howler]] mounts.<ref>
+
+==Variations==
+Some types, known as '''half barding''' and '''partial barding''', only offered partial protection for a mount. The former in particular only covered the front and forward sides of an animal. These types of barding were not the same thing as simply removing some of a mount's '''full barding'''  &mdash; they were specially formed, fitted, and balanced for protection. Half barding was far more common than full in warmer or humid climates. In such regions, light full barding was most commonly used.
+
+Barding came in a wide variety of materials and types similar to those armor worn by humanoid races. These included the following:
+===Light Barding===
+* '''Leather Barding''': Equivalent to [[leather armor]], this was one of the most commonly used forms of barding. People often reinforced it with parts made of either steel bands, wooden planks, or short strips of thick hard wood.
+* '''Padded Barding''': Comparable to leather in its protection, this barding was made of thickly padded quilted cloth.
+* '''Wicker barding''': Comparable to [[wicker armor]], one of the cheapest forms of armor. They were constructed of tightly woven reeds. Sometimes clever armorsmiths could weave thorns into them.
+===Medium Barding===
+* '''Brigandine barding''': Equivalent to [[brigandine]] armor, this composite type of barding consisted of small bands of metal sandwiched between layers of leather. It was typically the most advanced type of barding a simple village armorer could forge.
+* '''Chain barding''': Equivalent to [[chain mail]], this was one of the most commonly used forms of medium barding. It was equipped in sections, with the main pieces either attached to the saddle or laid over the mount and buckled underneath. A heavy cloth or [[blanket]] was typically placed underneath in order to prevent rubbing and abrasions, which would more quickly fatigue a mount.
+* '''Elven chain barding''': Equivalent to [[elven chain mail]], this was an extremely rare type of barding that was generally unavailable to anyone other than [[elven]] nobility.
+* '''Ring barding''': Equivalent to [[ring mail]], this type of barding was composed of metal rings sewn into a heavy cloth or leather backing.
+* '''Scale barding''': Equivalent to [[scale mail]], this was an early form of medium barding that was superseded by chain barding in more advanced regions.
+* '''Studded leather barding''': Equivalent to [[studded leather]] and roughly equal in protection to ring barding, this early form of barding consisted of layers of soft leather reinforced with many small metal studs. Sometimes these studs were long and filed to a point.
+===Heavy Barding===
+[[File:Paladin and Warhorse-1e.png|thumb|273px|''A [[paladin]] rides upon a horse decked out in full splint barding.'']]
+* '''Banded barding''': Equivalent to [[banded mail]], this type of barding was similar to the chain variety, though it was reinforced with horizonal strips of metal.
+* '''Lamellar barding''': Equivalent to [[lamellar|lamellar armor]], a heavy type of scale mail that was unique to the land of [[Zakhara]].
+* '''Plate barding''': Equivalent to [[plate mail]], this type of barding was made from chain mail and small [[steel]] plates linked together and hinged with articulated joints. A thick padded or quilt cloth, equipped with metal studs, was typically placed across it.
+* '''Splint barding''': Equivalent to [[splint mail]], this type of barding was similar to the banded variety, though the metal strips that reinforced it were vertical instead of horizonal.
+
+==Notable Users of Barding==
+[[File:Valiant Endeavor.jpg|thumb|273px|''Knights of [[Order of the Gauntlet|the Gauntlet]] ride forth on horses in partial plate barding.'']]
+===Creatures===
+* [[Camel]]s were almost never equipped with barding as it reduced their carrying capacity, made them harder to control, and generally hindered their abilities far more than it did horses.
+* [[Elephant]]s were sometimes outfitted with leather or metal barding.
+* Unique barding existed for [[thunderherder]]s.
+* [[War dog]]s were occasionally outfitted with barding.
+* [[Worg]]s were occasionally outfitted with barding.
+===Groups===
+* The [[Zhentarim]] forces of the [[Citadel of the Raven]] and [[Zhentil Keep]] typically had plate barding for their horses.
+* Wandering [[rogue]]s, highwaymen, and occasionally [[adventurer]]s were all known to use half-brigandine barding on their mounts.
+===Individuals===
+[[File:Dalthyria.jpg|thumb|273px|''[[Dalthyria]] of the [[Fangshields]] shows off specialized centaur chain barding.'']]
+* [[Buck (mastiff)|Buck]], a [[mastiff]] belonging to the operators of [[Iron Bull Smithy]], was sometimes outfitted with chain mail barding and a steel cap.<ref>{{Cite polyhedron/103/The Living City: The Horse Businesses|13}}
+* [[Deng Tse Chin]]
+* [[Glawinn]]
+* [[Keinen]]
+* [[Randers]]
+* [[Savage]] and [[Carnage]], the [[canoloth]] pets of [[Inthracis]], were both outfitted with spiked plate barding.<ref>
+* [[Timoth Eyesbright]] would often wear barding.{{Cite dragon/246/Rogues Gallery: The Heroes of Selûne's Smile|72}}
+* [[Tusk]], the [[fiendish]] elephant pet of [[Kurgoth Hellspawn]], typically wore chain barding.
+
+===Races & Intelligent Creatures===
+[[File:Armanite - Carl Critchlow.jpg|thumb|273px|''An [[armanite]] charges into battle while wearing barding.'']]
+* [[Armanite]]s typically wore full plate barding that was constructed of demonic chitin.
+* [[Bariaur]]s wore scale barding whenever they went into combat.
+* [[Centaur]]s wore specialized barding that was a combination of humanoid armor and standard barding.
+* Some [[lamia]]s wore barding.<ref>{{Cite polyhedron/139/Elminster's Everwinking Eye: A Wayfarers Guide to the Forgotten Realms|16}}
+* [[Dwarves]] and [[gnome]]s generally were not known to use barding on mounts, though they occasionally made leather ones for their pack animals.
+* Elves and [[human]]s were the races that most often utilized barding for mounts.
+* Elves and [[halfling]]s occasionally used thick padded cloth and leather barding on their [[pony]] and light horse mounts respectively.
+* Many humanoid races were known to use studded leather barding.
+* Successful bands of [[goblin]]s and [[orc]]s would equip their mounts with half-scale barding.
+* On the planet of [[Oerth]], chain barding was commonly used by [[grey elf]] cavalry companies.
+
+===Regions, Nations, and Settlements===
+[[File:Blade Captain.jpg|thumb|273px|''A [[Blade Captain]] of the [[Blade Kingdoms]] rides on a horse garbed in full barding.'']]
+* Poor or less civilized cultures primarily used padded cloth barding.
+* The use of barding in [[Kara-Tur]] varied across the land, though generally it was lighter weight than those of [[Faerun]] and was used by important nobles, generals, and shock troops. Half-barding was more frequently used than full-barding. And the most commonly used types were brigandine, chain, leather, [[leather scale]], and padded. Plate barding was almost never used.
+* During the days of the Empire of Netheril the barding available to its inhabitants were chain, plate, and scale. Brigandine barding in particular, was known to have never been available to them.
+* Studded leather barding was commonly used in the regions of [[Amn]], [[Narfell]], [[Shaar]], the [[Hordelands]], and [[the Ride]].
+* In the land of [[Zakhara]], the types of barding most commonly used were lamellar, padded, and wicker. Camels were only ever decked out in padded barding. Full and half versions of these could be found offered in bazaars for both elephants and horses, as well as full chain barding for horses.
+

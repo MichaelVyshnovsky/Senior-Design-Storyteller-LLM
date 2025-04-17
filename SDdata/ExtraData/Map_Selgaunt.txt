@@ -1,0 +1,551 @@
+2900
+142262
+
+844567
+823748
+2023-02-10T16:27:53Z
+
+Artyom.pavlov
+24367202
+
+
+844567
+interactivemap
+text/plain
+{
+    "mapImage": "Selgaunt City Map.png",
+    "pageCategories": [
+        "Interactive_maps",
+        "Maps_of_Selgaunt",
+        "Maps_of_cities"
+    ],
+    "defaultSort": "",
+    "description": "Interactive map of [[Selgaunt]]. You can find the references and list of locations not on the map on the image file.",
+    "coordinateOrder": "xy",
+    "mapBounds": [
+        [
+            0,
+            0
+        ],
+        [
+            2160,
+            1276
+        ]
+    ],
+    "origin": "bottom-left",
+    "useMarkerClustering": false,
+    "categories": [
+        {
+            "id": "6",
+            "listId": 1,
+            "name": "Civic Buildings & Noble Estates",
+            "color": "#e600fa",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Sembia nobles icon.svg"
+        },
+        {
+            "id": "2",
+            "listId": 2,
+            "name": "Districts",
+            "color": "#f00",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:City icon.svg"
+        },
+        {
+            "id": "8",
+            "listId": 3,
+            "name": "Inns & Taverns",
+            "color": "#fa5d00",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Tankard icon.svg"
+        },
+        {
+            "id": "9",
+            "listId": 4,
+            "name": "Shops & Trading Coasters",
+            "color": "#007903",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Tymora coin icon.svg"
+        },
+        {
+            "id": "5",
+            "listId": 5,
+            "name": "Temples & Shrines",
+            "color": "#fac600",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Lathander temple icon.svg"
+        },
+        {
+            "id": "10",
+            "listId": 6,
+            "name": "Landmarks",
+            "color": "#021ebb",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Elminter's choice icon.svg"
+        },
+        {
+            "id": "3",
+            "listId": 7,
+            "name": "Guildhouses ",
+            "color": "#ab5a78",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Tools guilds icon.svg"
+        },
+        {
+            "id": "4",
+            "listId": 8,
+            "name": "Streets",
+            "color": "#2e2703",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Mountain road icon.svg"
+        },
+        {
+            "id": "7",
+            "listId": 9,
+            "name": "Gates",
+            "color": "#ffffff",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Gate icon.svg"
+        },
+        {
+            "id": "1",
+            "listId": 10,
+            "name": "Bodies of Water",
+            "color": "#00e8fa",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Bodies of water icon.svg"
+        }
+    ],
+    "markers": [
+        {
+            "categoryId": "1",
+            "position": [
+                1488.8025979265,
+                1143.9428056198
+            ],
+            "popup": {
+                "title": "River Arkhen",
+                "description": "Also known as the '''River Elzimmer''',  the river ran through the [[Arkhen Vale]] in the [[Dalelands]], down to [[Selgaunt Bay]] in [[Sembia]].",
+                "link": {
+                    "url": "River Arkhen",
+                    "label": "River Arkhen"
+                }
+            },
+            "id": "1"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1988.959192572,
+                565.83478620296
+            ],
+            "popup": {
+                "title": "Selgaunt Bay",
+                "description": "The bay of [[Selgaunt]] where the [[Sea of Fallen Stars]] touched the city and the [[River Arkhen]] drained into the sea.",
+                "link": {
+                    "url": "Selgaunt Bay ",
+                    "label": "Selgaunt Bay "
+                }
+            },
+            "id": "2"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                590.51087725642,
+                549.83315879178
+            ],
+            "popup": {
+                "title": "Oxblood Quarter",
+                "description": "The district two blocks away from Selgaunt's western gate. Home of [[Selgaunt]]'s stockyards, tanneries, and dye shops.",
+                "link": {
+                    "url": "Selgaunt\/Oxblood Quarter",
+                    "label": "Oxblood Quarter"
+                }
+            },
+            "id": "3"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1537.3918275129,
+                281.90183098211
+            ],
+            "popup": {
+                "title": "Warehouse District",
+                "description": "An unremarkable district used by merchants, businesses, and trading coasters.",
+                "link": {
+                    "url": "Selgaunt\/Warehouse District",
+                    "label": "Warehouse District"
+                }
+            },
+            "id": "4"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1528.9994587012,
+                178.50025231098
+            ],
+            "popup": {
+                "title": "Harper safehouse",
+                "description": "A hidden safehouse within a warehouse in use by [[Harpers]] as of the late 14{{th}} century [[DR]],",
+                "link": {
+                    "url": "Harpers",
+                    "label": "Harpers"
+                }
+            },
+            "id": "5"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                927.72655260323,
+                941.86479409863
+            ],
+            "popup": {
+                "title": "Temple Avenue",
+                "description": "Also known as the '''Avenue of the Temples''', the primary location of [[Selgaunt]]'s many temples and shrines.",
+                "link": {
+                    "url": "Temple Avenue",
+                    "label": "Temple Avenue"
+                }
+            },
+            "id": "6"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                962.37232919489,
+                883.17815381002
+            ],
+            "popup": {
+                "title": "Hallowed House of Higher Achievement",
+                "description": "[[Selgaunt]]'s temple dedicated to [[Deneir]], the Lord of All Glyphs and Images.",
+                "link": {
+                    "url": "Hallowed House of Higher Achievement",
+                    "label": "Hallowed House of Higher Achievement"
+                }
+            },
+            "id": "7"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                634.13087646421,
+                440.47288554193
+            ],
+            "popup": {
+                "title": "Ariness Street",
+                "description": "A gloomy and dimly illuminated street where the [[Six Coins trading coster]] stood, later taken over by the [[Night Knives]] thieves' guild. The street was dotted with caravan warehouses.",
+                "link": {
+                    "url": "Ariness Street",
+                    "label": "Ariness Street"
+                }
+            },
+            "id": "8"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                628.61926812098,
+                483.66585542327
+            ],
+            "popup": {
+                "title": "Night Knife Guildhouse",
+                "description": "Once the business office of the [[Six Coins trading coster]], but by the late 14{{th}} century [[DR]], it was hollowed out and taken over by the [[Night Knives]]. The thieves' guild itself was destroyed in \n[[Hammer]] [[1371 DR]].",
+                "link": {
+                    "url": "Night Knife Guildhouse",
+                    "label": "Night Knife Guildhouse"
+                }
+            },
+            "id": "9"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1289.4994863317,
+                680.93885458636
+            ],
+            "popup": {
+                "title": "Stormweather Towers",
+                "description": "The estate of the noble [[House Uskevren]] of [[Sembia]].",
+                "link": {
+                    "url": "Stormweather Towers",
+                    "label": "Stormweather Towers"
+                }
+            },
+            "id": "10"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1424.3962475231,
+                729.93844773357
+            ],
+            "popup": {
+                "title": "Sarn Street",
+                "description": "The street that hugged the [[Palace of the Hulorn]] and the [[Hunting Garden]]'s southern side and ran southwest. The street was home of many noble estates and tall-houses.",
+                "link": {
+                    "url": "Sarn Street",
+                    "label": "Sarn Street"
+                }
+            },
+            "id": "11"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1217.9991880518,
+                876.00100924391
+            ],
+            "popup": {
+                "title": "Rauncel's Ride",
+                "description": "A wide cart-street that ended on a T-junction with  [[Sarn Street]].",
+                "link": {
+                    "url": "Rauncel's Ride",
+                    "label": "Rauncel's Ride"
+                }
+            },
+            "id": "12"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1077.335630241,
+                994.98198098252
+            ],
+            "popup": {
+                "title": "Galgorgar's Ride",
+                "description": "The wide wagon street that stretched from the heart of the city, north towards the [[High Bridge]] and turned into [[Rauthauvyr's Road]] that led to the city of [[Ordulin]].",
+                "link": {
+                    "url": "Galgorgar's Ride",
+                    "label": "Galgorgar's Ride"
+                }
+            },
+            "id": "13"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1121.8231859503,
+                1205.9711505461
+            ],
+            "popup": {
+                "title": "High Bridge",
+                "description": "The bridge over [[River Arkhen]] on the northern side of Selgaunt that was built over, making it one of the smaller districts of the city.",
+                "link": {
+                    "url": "High Bridge",
+                    "label": "High Bridge"
+                },
+                "image": "File:High Bridge Selgaunt.png"
+            },
+            "id": "14"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1112.9883701239,
+                1159.6551211459
+            ],
+            "popup": {
+                "title": "Klaroun Gate",
+                "description": "The northern gate of the city that faced the [[High Bridge]].  The gate was guarded by its gatehouse and a selection of [[Scepters]], [[Selgaunt]]'s city guard.",
+                "link": {
+                    "url": "Klaroun Gate",
+                    "label": "Klaroun Gate"
+                }
+            },
+            "id": "15"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                1128.3179502004,
+                1188.9694702591
+            ],
+            "popup": {
+                "title": "Drum and Mirror",
+                "description": "A pleasant tavern on the [[High Bridge]]'s eastern side. Its most prominent feature was a verandah overlooking the [[Selgaunt Bay]].",
+                "link": {
+                    "url": "Drum and Mirror",
+                    "label": "Drum and Mirror"
+                }
+            },
+            "id": "16"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                1138.070631568,
+                1227.1678667576
+            ],
+            "popup": {
+                "title": "Fish market",
+                "description": "A fish market on the far eastern part of the [[High Bridge]].",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "17"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1417.0400757176,
+                1011.1662653128
+            ],
+            "popup": {
+                "title": "Palace of the Hulorn",
+                "description": "The seat of power in [[Selgaunt]], with the walled wild preserve \u2013 the [[Hunting Gardens of the Hulorn]] to its west.",
+                "link": {
+                    "url": "Palace of the Hulorn",
+                    "label": "Palace of the Hulorn"
+                }
+            },
+            "id": "18"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                1346.7243006038,
+                895.86835155846
+            ],
+            "popup": {
+                "title": "Hunting Gardens of the Hulorn",
+                "description": "A private plot of walled forest that belonged to Selgaunt's hereditary merchant-prince that held the title of the Hulorn. No commoners allowed!",
+                "link": {
+                    "url": "Hunting Gardens of the Hulorn",
+                    "label": "Hunting Gardens of the Hulorn"
+                }
+            },
+            "id": "19"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                804.68636872217,
+                225.56991777135
+            ],
+            "popup": {
+                "title": "The Black Stag",
+                "description": "A large inn and a tavern known for its gloomy atmosphere, comfort, and unsavory clientele.",
+                "link": {
+                    "url": "Black Stag",
+                    "label": "Black Stag"
+                }
+            },
+            "id": "20"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                1675.1359646309,
+                733.98005026608
+            ],
+            "popup": {
+                "title": "The Green Gauntlet",
+                "description": "A large inn that catered to adventurers, overlooking the scenic [[Selgaunt Bay]]. ",
+                "link": {
+                    "url": "Green Gauntlet",
+                    "label": "Green Gauntlet"
+                }
+            },
+            "id": "21"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                377.59272461737,
+                788.42013598534
+            ],
+            "popup": {
+                "title": "Outlook Inn",
+                "description": "A large inn just outside of [[Selgaunt]]'s west gate along the [[Way of the Manticore]].",
+                "link": {
+                    "url": "Outlook Inn",
+                    "label": "Outlook Inn"
+                }
+            },
+            "id": "22"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                183.84623208434,
+                811.76286666142
+            ],
+            "popup": {
+                "title": "Way of the Manticore",
+                "description": "A long road that connected the nations of [[Cormyr]] and [[Sembia]].",
+                "link": {
+                    "url": "Way of the Manticore",
+                    "label": "Way of the Manticore"
+                }
+            },
+            "id": "23"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1631.6471751858,
+                923.83661531745
+            ],
+            "popup": {
+                "title": "Dock District",
+                "description": "The district that specialized in marine businesses.",
+                "link": {
+                    "url": "Selgaunt\/Dock District",
+                    "label": "Dock District"
+                }
+            },
+            "id": "24"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1155.99936857,
+                921.99938972081
+            ],
+            "popup": {
+                "title": "Foreign District",
+                "description": "The district dominated by warehouses and taverns frequented by merchants and adventurers. Its cobblestone-paved street \u2013  [[Rauncel's Ride]] was regularly patrolled.",
+                "link": {
+                    "url": "Selgaunt\/Foreign District",
+                    "label": "Foreign District"
+                }
+            },
+            "id": "25"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                973.90237915609,
+                1074.7458374019
+            ],
+            "popup": {
+                "title": "Tormyn's Way",
+                "description": "A carved street that ran east, connecting [[Temple Avenue]] and [[Rauncel's Ride]].",
+                "link": {
+                    "url": "Tormyn's Way",
+                    "label": "Tormyn's Way"
+                }
+            },
+            "id": "26"
+        }
+    ]
+}
+1dcq0wcymp0q2vz7p9ifesn73ztfwdx
+
+

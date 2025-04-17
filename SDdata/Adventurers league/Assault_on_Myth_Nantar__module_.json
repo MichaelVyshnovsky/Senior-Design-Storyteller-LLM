@@ -1,0 +1,51 @@
+{
+    "template_data": {
+        "index": "{{P",
+        "title": "NPC Classes",
+        "index_1": "{{P"
+    },
+    "document_data": {
+        "image": "[[File:Assault-on-Myth-Nantar-cover.jpg|thumb|180px]]",
+        "caption": "",
+        "code": "DDEP-DRW01",
+        "title": "NPC Classes",
+        "design": "[[Amy Lynn Dzurra]], [[James Introcaso]]{{Cite adventurers league/Assault on Myth Nantar|1}}",
+        "editor": "",
+        "publisher": "[[Wizards of the Coast]]",
+        "cover_artist": "",
+        "inter_artist": "",
+        "pages": "120",
+        "debut": "",
+        "released": "2019",
+        "story arc": "''[[Adventurers League/Dreams of the Read Wizards|Dreams of the Red Wizards]]''<br>Sea of Fallen Stars",
+        "realm year": "",
+        "setting": "[[Myth Nantar]], [[Sea of Fallen Stars]]",
+        "game_edition": "5",
+        "play_time": "",
+        "players": "",
+        "levels": "",
+        "series": "[[Adventurers League]]",
+        "preceded_by": "''[[Blood in the Water]]''",
+        "followed_by": "''[[Saving Silverbeard]]''",
+        "source": "[https://rpggeek.com/rpgitem/280376/assault-myth-nantar rpggeek.com]",
+        "index": "{{P|[[abjurer]]|9,14,45,50}};{{P|[[archmage]]|20,25-26,35,53}};{{P|[[conjurer]]|6,16,41,116}};{{P|[[evoker]]|14,17,25,37,60}};{{P|[[kraken priest]]|15,38,66}};{{P|[[necromancer]]|17-18,23,33,35,43,69}}",
+        "ref": "{{P|[[giant lobster]]|95}};{{P|[[puffer fish]]|9}}",
+        "mainbody": "===Locations===\n;Buildings & Structures\n:[[Myth Nantar Council Chamber]]\n;Settlements\n:[[Myth Nantar]] • [[Kabel's Hill]] • [[Phlan]]\n;Region\n:[[Sea of Fallen Stars]]\n===Magic===\n;Items: {{P|''[[Apparatus of Kwalish]]''|5,29,31,94-95}} • {{P|''[[devastation orb]]s''|6,46-47,112,117}}\n;Spells: {{P|''[[unseen servant]]''|17}}\n===Organizations===\n;Spellcasting Groups\n:[[Red Wizards of Thay]]\n;Tribes\n:{{P|[[Cerulean Shores]]|9-10}} • {{P|[[Deep Coves]]|9-10}} • {{P|[[Poisoned Quill]]|9-10}}\n===Miscellaneous===\n;Languages:{{P|[[Aquan]]|9,44}} • {{P|[[Common]]|9,11-12,27}} • {{P|[[Draconic language|Draconic]]|11,44,51-52,57,66-67,75}}\n;Substances: {{P|[[smokepowder]]|17}}\n;Vessels: {{P|[[dreadnaught]]|17,20,38,82}} • {{P|[[galley]]|20,31,40,84}} • {{P|[[keelboat]]|9,11,13,15-16,22-23,41-42,85,105}} • {{P|[[longship]]|15,86}} • {{P|[[rowboat]]|9,20-22,88}}\n:;Ships\n::{{P|[[Devourer (ship)|''Devourer'']]|18-21}} • {{P|[[Lich (ship)|''Lich'']]|43}} • {{P|''[[Sea Gem]]''|46-47}} • {{P|''[[Star Runner]]''|40}} • {{P|[[Wight (ship)|''Wight'']]|31}}\n;Weapons: {{P|[[ballista]]|15-17,21-22,37-38,82,84-85,89,116}} • {{P|[[mangonel]]|16,82-84,89}}",
+        "Index": {
+            "Characters": ":{{P|[[Alasna]]|11-12}} • {{P|[[Aquil Lanodel]]|27}} • {{P|[[Asirae Shipwrecker]]|9-10}} • {{P|[[Dantaur]]|44,116}} • {{P|[[Delia Vayanna]]|27}} • {{P|[[Evinas Tellora]]|27-28}} • {{P|[[Felgarath Null]]|9}} • {{P|[[Feyveln Ollela]]|29}} • {{P|[[Frenyak]]|9-10}} • {{P|[[Grubgums]]|41-42}} • {{P|[[Koros]]|20-21}} • {{P|[[Lamora]]|20}} • {{P|[[Maggotsoul]]|41,96}} • {{P|[[Monada]]|9-10}} • {{P|[[Naltil Layawah]]|28}} • {{P|[[Noxitrollo]]|31}} • {{P|[[Oceanus (character)|Oceanus]]|8,37,40-41,44-47,115,117}} • {{P|[[Othokent]]|11-12}} • {{P|[[Ovnack]]|13-14}} • {{P|[[Rona Aila]]|41}} • {{P|[[Salty Ruby]]|47}} • {{P|[[Sauriv]]|11-12,75}} • {{P|[[Seyo Kaleel]]|27}} • {{P|[[Usina]]|11-12}} • {{P|[[Utrich]]|14}} • {{P|[[Veras Illath]]|28}} • {{P|[[Yowa]]|12}} • {{P|[[Zoyas]]|14}}\n::{{Refonly}}\n::{{P|[[Faeler Xilrys]]|27}}",
+            "Creatures": "{{Index\n|index = {{P|[[assassin vine]]|25,54}};{{P|[[barnacle]]|31,33,46}};{{P|[[beholder zombie]]|16,18,42,55}};{{P|[[deathlock]]|41,56}};{{P|[[dracolich]]|33-34,51}};{{P|[[dragon turtle]]|6,44,57,116}};[[drowned one]];[[elf]];{{P|[[flameskull]]|41,60,96}};{{P|[[flesh golem]]|17,61}};{{P|[[ghast]]|41-42,62}};{{P|[[ghost]]|47,63}};{{P|[[giant eel]]|13}};{{P|[[giant shark]]|30-31}};{{P|[[green dragon]]|31,52}};{{P|[[lizard queen]]|11-12,66}};{{P|[[lizardfolk]]|5,11-12,66-67,75}};{{P|[[locathah]]|5,13-14}};{{P|[[marid]]|45,68}};{{P|[[merfolk]]|5,9-10,30,68-69,93}};[[sahuagin]];[[sword wraith]];{{P|[[Turami]]|41}};{{P|[[tyrannosaurus rex]]|12,32,78}};[[water elemental]];{{P|[[water weird]]|45,80}};{{P|[[wight]]|15,41-42,80}};{{P|[[wraith]]|41-42,81}};[[zombie]] ({{P|[[ogre zombie]]|16,18,70}})\n|ref = {{P|[[giant lobster]]|95}};{{P|[[puffer fish]]|9}}\n}}\n{{Index\n|title = NPC Classes\n|index = {{P|[[abjurer]]|9,14,45,50}};{{P|[[archmage]]|20,25-26,35,53}};{{P|[[conjurer]]|6,16,41,116}};{{P|[[evoker]]|14,17,25,37,60}};{{P|[[kraken priest]]|15,38,66}};{{P|[[necromancer]]|17-18,23,33,35,43,69}}\n}}",
+            "Locations": ";Buildings & Structures\n:[[Myth Nantar Council Chamber]]\n;Settlements\n:[[Myth Nantar]] • [[Kabel's Hill]] • [[Phlan]]\n;Region\n:[[Sea of Fallen Stars]]",
+            "Magic": {
+                "Items": "{{P|''[[Apparatus of Kwalish]]''|5,29,31,94-95}} • {{P|''[[devastation orb]]s''|6,46-47,112,117}}",
+                "Spells": "{{P|''[[unseen servant]]''|17}}"
+            },
+            "Organizations": ";Spellcasting Groups\n:[[Red Wizards of Thay]]\n;Tribes\n:{{P|[[Cerulean Shores]]|9-10}} • {{P|[[Deep Coves]]|9-10}} • {{P|[[Poisoned Quill]]|9-10}}",
+            "Miscellaneous": {
+                "Languages": "{{P|[[Aquan]]|9,44}} • {{P|[[Common]]|9,11-12,27}} • {{P|[[Draconic language|Draconic]]|11,44,51-52,57,66-67,75}}",
+                "Substances": "{{P|[[smokepowder]]|17}}",
+                "Vessels": "{{P|[[dreadnaught]]|17,20,38,82}} • {{P|[[galley]]|20,31,40,84}} • {{P|[[keelboat]]|9,11,13,15-16,22-23,41-42,85,105}} • {{P|[[longship]]|15,86}} • {{P|[[rowboat]]|9,20-22,88}}\n:;Ships\n::{{P|[[Devourer (ship)|''Devourer'']]|18-21}} • {{P|[[Lich (ship)|''Lich'']]|43}} • {{P|''[[Sea Gem]]''|46-47}} • {{P|''[[Star Runner]]''|40}} • {{P|[[Wight (ship)|''Wight'']]|31}}",
+                "Weapons": "{{P|[[ballista]]|15-17,21-22,37-38,82,84-85,89,116}} • {{P|[[mangonel]]|16,82-84,89}}"
+            }
+        }
+    }
+}

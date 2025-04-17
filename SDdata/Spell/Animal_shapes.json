@@ -1,0 +1,24 @@
+{
+    "template_data": {
+        "edition": "5e",
+        "edition_1": "3e"
+    },
+    "document_data": {
+        "name": "Animal Shapes",
+        "level": "",
+        "school": "",
+        "rules": "",
+        "school5e": "Transmutation",
+        "level5e": "{{Spell table|edition=5e|[[Druid]]|8}}",
+        "type5e": "",
+        "refs5e": "",
+        "school3e": "[[Transmutation]]",
+        "domains3e": "[[Animal domain|Animal]]",
+        "descriptors3e": "",
+        "level3e": "{{spell table|edition=3e|[[Animal domain|Animal]]|7|[[Druid]]|8}}",
+        "type3e": "",
+        "refs3e": "",
+        "mainbody": "'''''Animal shapes''''' was a [[transmutation]] spell that caused willing creatures to ''[[polymorph]]'' into a chosen animal. Besides [[druid]]s, the spell could be cast by some [[cleric]]s of any of the many deities of the Realms with [[Animal domain|influence over animals]].",
+        "References": "{{refs}}\n{{Stub/Spell}}\n[[Category:Transmutation spells]]\n[[Category:Druid spells]]\neutydutoznkuuk7haekwifvv11knprb"
+    }
+}

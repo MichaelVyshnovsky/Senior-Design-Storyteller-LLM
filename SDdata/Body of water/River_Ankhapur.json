@@ -1,0 +1,35 @@
+{
+    "template_data": {
+        "200|mi|k|long": "yes",
+        "50|mi|k|long": "yes"
+    },
+    "document_data": {
+        "image": "Lake of Steam 3e.jpg",
+        "caption": "A map showing the River Ankhapur flowing out of the Ankhwood.",
+        "name": "River Ankhapur",
+        "aliases": "",
+        "type": "River",
+        "region": "The [[Lake of Steam]], [[South Faerûn]]",
+        "size": "{{SI|200|mi|k}} long",
+        "depth": "",
+        "river source": "The [[Ankhwood]]",
+        "river mouth": "The Lake of Steam",
+        "tributaries": "",
+        "tributary of": "",
+        "georefs": "",
+        "races": "",
+        "socrefs": "",
+        "usethe": "yes",
+        "useon": "yes",
+        "inhabitants": "",
+        "locations": "",
+        "organizations": "",
+        "settlements": "",
+        "mountains": "",
+        "events": "",
+        "food and drink": "",
+        "items": "",
+        "mainbody": "The '''River Ankhapur''' was a small waterway found near the [[Lake of Steam]].{{Cite interactive atlas}}",
+        "Geography": "The river originated near the center of the [[Ankhwood]] north of the eastern half of the Lake of Steam. It flowed southwest and west for {{SI|200|mi|k|long=yes}} before emptying into the sea approximately {{SI|50|mi|k|long=yes}} southeast of [[Ankhapur]]."
+    }
+}

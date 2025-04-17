@@ -1,0 +1,47 @@
+{
+    "template_data": {
+        "edition": "5e",
+        "edition_1": "3e",
+        "edition_2": "2e",
+        "edition_3": "1e"
+    },
+    "document_data": {
+        "image": "TSR_Worlds_-_Alter_Self.jpg",
+        "caption": "",
+        "name": "Alter Self",
+        "deity": "",
+        "inventor": "[[Quantoul]]",
+        "type": "",
+        "school5e": "[[Transmutation]]",
+        "keywords5e": "",
+        "level5e": "{{Spell table|edition=5e|[[Artificer]]|2|[[Sorcerer]]|2|[[Wizard]]|2}}",
+        "type5e": "",
+        "refs5e": "",
+        "keywords4e": "",
+        "level4e": "",
+        "type4e": "",
+        "school3e": "[[Transmutation]]",
+        "domains3e": "",
+        "descriptors3e": "",
+        "level3e": "{{Spell table|edition=3e|[[Assassin]]|2|[[Bard]]|2|[[Celebrant of Sharess]]|2|[[Sorcerer]]|2|[[Wizard]]|2|[[Wu jen]]|2}}",
+        "type3e": "",
+        "refs3e": "",
+        "reversible2e": "",
+        "school2e": "[[Alteration]]<br/>[[Universal (province)]]<br/>[[Variation]]",
+        "spheres2e": "",
+        "level2e": "{{Spell table|edition=2e|[[Arcanist]]|2|[[Wizard]]|2}}",
+        "type2e": "",
+        "refs2e": "<ref><ref>",
+        "school1e": "[[Alteration]], [[Illusion]]",
+        "level1e": "{{Spell table|edition=1e|[[Magic-user]]|2}}",
+        "refs1e": "{{Cite dragon/66/From the Sorcerer's Scroll|23}}",
+        "mainbody": "'''''Alter self''''', originally known as '''''Quantoul's alterer''''',",
+        "Effects": {
+            "''Aquatic Adaptation''": "The caster's body transformed, adding gills and finger webbing to allow breathing and movement in underwater environments.",
+            "''Change Appearance''": "The caster's general size and basic shape (''e.g.'', bipedal) remained the same, but all other aspects of his or her appearance were changeable. No racial skills or new abilities were granted.",
+            "''Natural Weapons''": "The caster could choose to sprout fangs, claws, horns, spines, pincers, or some other natural weapon, and gave him or her the skill to use it. The new feature was a magical weapon ''+1''.\nThis version of the spell lasted while the caster maintained concentration, for up to one hour. During that time, the caster could choose a new variation at will. A wizard could duck into an alley and ''change appearance'' to resemble a [[barbarian]], then jump in a river and use ''aquatic adaptation'' to swim away. While in combat, a change could be effected every six seconds but only movement and no attacks were possible while the change took place."
+        },
+        "Components": "Only [[Verbal component|verbal]] and [[somatic component|somatic]] components were required to cast this spell.",
+        "History": "This spell was invented by the [[Netherese]] [[archmage]] [[Quantoul]] in [[-2028 DR|&ndash;2028 DR]] (1831 NR, during Netheril's [[Golden Age of Netheril|Golden Age]]). It was a second level spell in the school of [[Variation]]."
+    }
+}

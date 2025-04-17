@@ -1,0 +1,26 @@
+{
+    "template_data": {
+        "edition": "5e",
+        "edition_1": "4e"
+    },
+    "document_data": {
+        "image": "<gallery>",
+        "caption2": "''Various depictions of Thunderwave.''",
+        "name": "Thunderwave",
+        "school5e": "[[Evocation]]",
+        "domains5e": "[[Tempest domain|Tempest]]",
+        "circles5e": "",
+        "oaths5e": "",
+        "patrons5e": "",
+        "traditions5e": "[[Four Elements tradition|Four Elements]]",
+        "level5e": "{{spell table|edition=5e|[[Bard]]|1|[[Druid]]|1|[[Four Elements tradition|Four Elements]]|2 [[ki]]|[[Sorcerer]]|1|[[Tempest domain|Tempest]]|1|[[Wizard]]|1}}",
+        "type5e": "",
+        "refs5e": "",
+        "type4e": "At-Will",
+        "level4e": "{{spell table|edition=4e|[[Wizard]]|1}}",
+        "keywords4e": "{{desc/arcane}}{{desc/implement}}{{desc/thunder}}",
+        "refs4e": "",
+        "mainbody": "'''''Thunderwave''''' was a [[spell]] of low complexity that was known by some [[wizard]]s.\n\n{{quote|''You're lucky you didn't shatter every bone in your arm. Noise can hit like a [[mace]], if properly focused.''|[[Burgell Whitehorn]] of [[Oeble]]}}",
+        "Description": "An [[evocation school|evocation]] spell, ''thunderwave'' created a blast of sonic energy that could cause bodily harm to any enemies within an area of {{SI|15|ft}} of the spell, in addition to pushing them backwards, away from the blast zone. The distance a creature caught in the blast was pushed depended upon the caster's degree of self-control and perception. The spell dissipated almost instantaneously."
+    }
+}

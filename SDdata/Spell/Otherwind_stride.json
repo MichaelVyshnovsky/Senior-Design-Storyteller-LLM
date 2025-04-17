@@ -1,0 +1,16 @@
+{
+    "template_data": {
+        "edition": "4e"
+    },
+    "document_data": {
+        "type": "encounter",
+        "name": "Otherwind Stride",
+        "school": "",
+        "keywords4e": "{{desc/arcane}}{{desc/implement}}{{desc/teleportation}}",
+        "level4e": "{{spell table|edition=4e|[[Warlock]]|3}}",
+        "type4e": "Encounter",
+        "refs4e": "",
+        "mainbody": "'''''Otherwind stride''''' is a [[spell]] of the [[conjuration|conjuration school]] used by some [[warlock]]s, particularly those of the [[Warlock#Fey Pact Warlock|fey pact]]. When cast ''otherwind stride'', he or she creates a maelstrom resembling in many ways of a [[fey crossroad]]. Any creatures caught in the effect, which is roughly five feet in diameter and must be cast near the warlock, are injured by its energy. If the warlock wishes, he or she may step into the chaos unharmed, teleporting themselves a distance of up to twenty-five feet, or more, if they specialize in fey pacts and are above average in intelligence. ''Otherwind stride'' is not overly complex and the ability to cast it can be regained with a rest of a few minutes or more.",
+        "References": "{{refs}}\n[[Category:Warlock spells]]\nmkpjdwqdkuv5xkl3omo2fmtcxstqpan"
+    }
+}

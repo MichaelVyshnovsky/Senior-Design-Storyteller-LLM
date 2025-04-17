@@ -1,0 +1,48 @@
+{
+    "template_data": {
+        "lca": "left",
+        "rca": "right",
+        "caption": "1370 DR",
+        "captionstyle": "font-weight:bold;font-size:90%;"
+    },
+    "document_data": {
+        "image": "Bounty of the goddess.png",
+        "caption": "",
+        "name": "Bounty of the Goddess",
+        "aliases": "",
+        "type": "Temple",
+        "architecture": "",
+        "floors": "",
+        "location": "[[Archenbridge]], [[Archendale]]",
+        "owner": "[[Thaliach Mindogar]]",
+        "staff": "{{Split table|lca=left|rca=right|caption=1370 DR|captionstyle=font-weight:bold;font-size:90%;|[[High Harvestmaster]]|1|[[Cleric]]s of Chauntea|4}}",
+        "occupants": "",
+        "services": "healing , selling vials of [[holy water]]",
+        "worship": "[[Chauntea]]",
+        "pipes": "",
+        "tankards": "",
+        "coins": "",
+        "daggers": "",
+        "quality": "",
+        "price": "",
+        "usethe": "yes",
+        "useon": "",
+        "inhabitants": "Inhabitants of the Bounty of the Goddess (Archenbridge)",
+        "locations": "",
+        "organizations": "",
+        "mainbody": "The '''Bounty of the Goddess''' was a temple of [[Chauntea]] located in the town of [[Archenbridge]], in the [[Dalelands]] during the mid–14{{th}} century [[DR]]. It was run by [[High Harvestmaster]] [[Thaliach Mindogar]], and staffed by several lesser [[cleric]]s.",
+        "Location": "The temple was located in the center of the city, on the River Way&mdash;the most exclusive neighborhood of Archenbridge.",
+        "Structure": {
+            "Statue of Chauntea": "In the front garden of the temple was a large, stone fountain in the shape of Chauntea. In this depiction, sculpted by the famous [[dwarven]] stonemason [[Feldyn Fullbellow]], the All-mother took the form of a barely clothed woman emerging from a blossoming flower extending one hand into the air. From her hand emerged an arc of water, which was blessed by her [[priest]]s three times per day."
+        },
+        "Services": "In addition to typical temple services, the Bounty of the Goddess sold vials of the blessed fountain water. A single vial cost 25 [[gp]], or 20 gp for visiting clergy or dedicated followers of [[Chauntea]].",
+        "History": "During the 14{{th}} century [[DR]] the worship of [[Chauntea]] was a large part of life for many of the [[Archenfolk]], even in the face of expanding commerce and mercantile enterprises. This was due in large part to the leadership of High Harvestmaster Mindogar: under his guidance, the church's identity transformed from placid and reliable to a local power with political and economic influence.\n\nBy the {{YearlinkName|1370}}, Chauntea had become the most-worshiped deity within Archenbridge.",
+        "Rumors & Legends": "Local tales told that if a priest of Chauntea was slain in the [[Arkhen Vale]], the fountain water would turn to blood. It was said this blood could cure disease, infections from [[fungi]] or [[:Category:Molds|molds]], [[mummy rot]], [[lycanthropy]], and [[wither]]ing, and that it could even make barren lands fertile. The clergy understandably discouraged people from spreading such rumors.",
+        "Inhabitants": {
+            "Notable Inhabitants": {
+                "Thaliach Mindogar": "The head priest ''circa'' [[1370 DR]].",
+                "Melann Brandish": "A cleric of the temple who left on a quest ''circa'' 1369 [[DR]], to try and lift a deadly curse which was plaguing her family."
+            }
+        }
+    }
+}

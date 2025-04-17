@@ -1,0 +1,32 @@
+{{Spell
+| name          = Blasphemy
+| level3e       = {{spell table|edition=3e|[[Cleric]]|7|[[Evil domain|Evil]]|7|[[Hatred domain|Hatred]]|7|[[Orc domain|Orc]]|7}}
+| descriptors3e = {{desc/evil}}{{desc/sonic}}
+| domains3e     = [[Hatred domain|Hatred]], [[Orc domain|Orc]]
+| school3e      = [[Evocation]]
+| type3e        = 
+| refs3e        = 
+}}
+'''''Blasphemy''''' was an [[evocation]] spell that could incapacitate or even kill non-evil creatures and banish those of extraplanar origin.
+
+==Effects==
+This spell compared the target's toughness or experience level with the experience level of the caster and had no effect on creatures that were superior to the caster, but the effects were increasingly severe and cumulative for those equal to or inferior. The only way to avoid these effects was to not hear the ''blasphemy'', either by virtue of already being [[deaf]], or some form of magical ''[[silence]]''.
+
+In addition to the effects described below, this spell could send extraplanar creatures back to their home [[plane]], as long as the ''blasphemy'' was spoken on the caster's home plane. This affected all weak-willed nonevil creatures, thus allowing it to banish those of a [[neutral]] alignment as well. This dismissal happened even if the creatures in the area of effect could not hear the ''blasphemy'', and any banished creatures were blocked from returning to the caster's home plane for at least 24 hours.
+
+The area of effect was a circle of 40 ft (12.2 m) radius centered on the caster. Upon completion of casting, all non-good creatures equal to or inferior to the caster suffered one or more of the following cumulatively:
+{|class="wikitable"
+! Relation to Caster !! Effect
+|-
+| Equal to || dazed for a minute
+|-
+| Strictly inferior || and weakened for a few minutes
+|-
+| Greatly inferior || and paralyzed for up to 10 minutes
+|-
+| Completely dominated || and killed (destroyed if [[undead]])
+|}
+
+==Components==
+This spell only required a [[verbal]] component to cast.
+

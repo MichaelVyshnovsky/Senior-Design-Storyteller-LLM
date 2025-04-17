@@ -1,0 +1,49 @@
+2900
+147798
+
+838091
+835058
+2023-01-12T13:17:43Z
+
+Torbion1.1
+49136539
+
+Adding categories
+838091
+interactivemap
+text/plain
+{
+    "mapImage": "Skyld.jpg",
+    "pageCategories": [
+        "Maps"
+    ],
+    "defaultSort": "",
+    "description": "A 14{{th}} century [[DR]] map of [[Skuld]], the City of Shadows.",
+    "coordinateOrder": "xy",
+    "mapBounds": [
+        [
+            0,
+            0
+        ],
+        [
+            1914,
+            1498
+        ]
+    ],
+    "origin": "bottom-left",
+    "useMarkerClustering": true,
+    "categories": [
+        {
+            "id": "1",
+            "listId": 1,
+            "name": "General",
+            "color": "#fa005a",
+            "symbol": "",
+            "symbolColor": ""
+        }
+    ],
+    "markers": []
+}
+rt5yhbemt2968dup2g15k2ntg1a9v75
+
+

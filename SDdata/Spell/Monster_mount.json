@@ -1,0 +1,17 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "name": "Monster Mount",
+        "school2e": "[[Enchantment]] (Charm)",
+        "spheres2e": "[[Travelers sphere|Travelers]]",
+        "level2e": "{{spell table|edition=2e|[[Mystic]]|6|[[Shaman]]|6|[[Travelers sphere|Travelers]]|6}}",
+        "type2e": "",
+        "refs2e": "",
+        "mainbody": "'''''Monster mount''''' was an [[enchantment]] spell that could charm creatures into being mounts or pack animals for a few hours.",
+        "Effects": "This spell worked on a limited number of live (not [[undead]]) creatures of low intelligence. If the creatures were not able to resist the charm, they became domesticated and obedient and could be used as basic mounts or pack animals for the duration of the spell. The creatures had to be of appropriate size to carry the intended burdens. Each ''monster mount'' creature had to stay within 10 yd (9.1 m) of the caster or another affected creature to maintain the spell, i.e., the mounts could form a group, train, or phalanx as long as no creature got too far away from the caster or another affected creature.\n\nCreatures charmed by this spell would only carry riders or burdens. They would not fight except to defend themselves and would not knowingly endanger themselves. Any hostile action by the caster or a rider toward an enchanted creature broke the enchantment for all creatures. When the spell expired or was broken, the creatures halted and took no further action for one minute; then their natural instincts returned and they acted accordingly.",
+        "Components": "This spell required only verbal and somatic components to cast.",
+        "References": "{{refs}}\n[[Category:Enchantment spells]]\n[[Category:Mystic spells]]\n[[Category:Shaman spells]]\n49np73rwj6xyhlnz6kgctjs4unxudtv"
+    }
+}

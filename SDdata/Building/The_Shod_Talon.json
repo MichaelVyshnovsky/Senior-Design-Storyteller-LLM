@@ -1,0 +1,51 @@
+{
+    "template_data": {
+        "15|ft|long": "yes",
+        "40|ft|long": "yes"
+    },
+    "document_data": {
+        "image": "SixStar Excerpt.png",
+        "caption": "A map of the Sixstar, with The Shod Talon labeled near the bottom as #208.",
+        "name": "The Shod Talon",
+        "aliases": "Shod Tallon",
+        "type": "Inn & Tavern",
+        "architecture": "Stucco",
+        "floors": "",
+        "location": "[[MacIntyre Path]], [[Sixstar]], [[Ravens Bluff/Uptown District|Uptown District]], [[Ravens Bluff]]",
+        "built": "",
+        "destroyed": "",
+        "owner": "[[Voron Orama]]",
+        "staff": "[[Gaolla Luathe]] (cook)<br/>[[Dumiriel]] (waitress)",
+        "occupants": "",
+        "services": "",
+        "worship": "",
+        "basicrefs": "",
+        "ownertable": "",
+        "stafftable": "",
+        "histrefs": "",
+        "pipes": "",
+        "tankards": "",
+        "coins": "",
+        "daggers": "",
+        "stars": "",
+        "coinstacks": "",
+        "skulls": "",
+        "quality": "",
+        "price": "",
+        "volorefs": "",
+        "usethe": "",
+        "useon": "",
+        "inhabitants": "",
+        "locations": "",
+        "organizations": "",
+        "mainbody": "'''The Shod Talon''' was a tavern and inn in the city of [[Ravens Bluff]] that catered to [[elves]] and [[half-elves]].",
+        "Location": "This tavern stood along [[MacIntyre Path]],{{Cite interactive atlas|4750 Raven's Bluff}} in the [[Sixstar]] neighborhood of the city's [[Ravens Bluff/Uptown District|Uptown District]].",
+        "Structure": "The Shod Talon was housed within an old [[stucco]] building with a [[slate]] roof, which had a {{SI|15|ft|long=yes}} by {{SI|40|ft|long=yes}} patio perched atop it. Outside the building was hung a sign depicting a [[roc]] with talons outstretched. Said talons on the sign were covered with [[steel]].",
+        "Interior": {
+            "Atmosphere": "This establishment was a lively place of chatter, drink, and dancing for all manner of elves and half-elves. [[Human]]s and [[halfling]]s that visited the tavern would find themselves tolerated, though not as comfortable as they would in other nearby establishments. However, the place was not nearly as prejudiced as the [[Ill Eagle Inn]].<ref>{{Cite organized play/LC/Monday's Child|9}}"
+        },
+        "Services": "The prices of goods on offer at the Shod Talon were higher than some other establishments within the area, but by far not the highest. And with the quality of the food and drink on offer, very few saw fit to complain about these prices.\n\n;Drinks\n: [[Ale]]: 4 [[sp]]\n: [[beer]]: 1 sp (for {{SI|1|pint}})\n: [[Wine]]: 12 sp to 1 [[gp]]\n;Eveningfeast\n: Meals: [[beef]] ribs: 1 gp • beef [[steak]]s: 2 gp • [[chicken]] [[egg]]s: 5 [[cp]] • [[mutton]]: 6 sp • [[roast chicken]]: 8 sp • [[roast turkey]]: 4 sp • vegetables: 5 cp • [[venison]]: 8 sp\n\nIn addition to food and drink, the Shod Talon offered lodgings in one of its ten rooms at a nightly cost of 1 to 5 gold pieces, usually offering this service to elves or anyone who couldn't or didn't wish to stay at one of the local inns for one reason or another.",
+        "History": "Sometime prior to the {{YearlinkName|1355}},{{Cite polyhedron/147/Pillars of Ravens Bluff|23}}''Gateway to Ravens Bluff'' (p. 7) states that Charles O'Kane has been Mayor for 14 years, which tracks with the later article \"Pillars of Ravens Bluff\" in ''Polyhedron'' #147. It also states he is 48 years old, which conflicts with the \"Pillars\" article and is assumed to be an error. Voron Orama came to the city of Ravens Bluff in search of a relative. and rebuilt it.It is not stated when exactly Voron Orama bought the Shod Talon. It is stated in ''Gateway to Ravens Bluff'' that Gaolla Luathe had been working for the past 30 years, but it's possible they could have been working there prior to Voron's purchase of the Shod Talon.\n\nThe Shod Talon was closed down for a time during the [[Three Women War]], but reopened after its conclusion.",
+        "Inhabitants": "The tavern was lived in and operated by the [[moon elf]] [[Voron Orama]]."
+    }
+}

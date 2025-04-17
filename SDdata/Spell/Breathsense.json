@@ -1,0 +1,23 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "variant": "",
+        "image": "",
+        "caption": "",
+        "name": "Breathsense",
+        "deity": "[[Qotal]]",
+        "domains": "",
+        "inventor": "",
+        "reversible2e": "",
+        "school2e": "[[Pluma]], [[Divination]]",
+        "spheres2e": "[[Pluma]]",
+        "level2e": "{{spell table|edition=2e|[[Cleric]]|2|[[Eagle Knight]]|2|[[Plumaweaver]]|2}}",
+        "type2e": "",
+        "refs2e": "",
+        "mainbody": "'''''Breathsense''''' was a spell unique to [[Maztica]].",
+        "Effects": "This spell allowed a caster to detect the presence of any nearby breathing creatures, large or small. As the caster moved, they were able to detect new creatures as they came into range of the spell. This spell also allowed the caster to determine the approximate size of the detected creatures.",
+        "Components": "This spell only required a [[Verbal component|verbal]] component."
+    }
+}

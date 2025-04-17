@@ -1,0 +1,26 @@
+{
+    "template_data": {
+        "index": "[[Agarta the Breaker]];[[Bonegnasher the Cursed]];[[Brunwell Godber]];[[Darstil Vurusk]];[[Durvastra]];[[Garmor the Grim]];[[Gregori the Broken]];[[Karissa the Knife]];[[Martildae]];[[Neese the Burrower]];[[Old Tarlow]];[[Ryndalla Cuttail]];[[Storna Harnwood]];[[Wyshbryn Saldar]]",
+        "index_1": "[[animated object]];[[cloud giant]];[[crocodile]];[[displacer beast]];[[elf]];[[human]];[[nothic]];[[orc]];[[otyugh]];[[panther]];[[shadow]];[[skeleton]];[[umbral gargoyle]];[[wererat]];[[zombie]]",
+        "index_2": "''[[Agarta's belt]];[[boots of the Battlemaster]];[[bracers of magic and method]];[[Breaker's bauble]];[[circlet of Shar]];[[cranium sphere]];[[Darstil's gloves]];[[echoes of night]];[[Karissa's goggles]];[[Night Brigade necklace]];[[packrat's rat pack]];[[poniard of pain]];[[rat talisman]];[[Selune's favor]];[[Selune's Light]];[[Storna's pendant]];[[the cold of night]];[[tunneler's toolkit]]''",
+        "index_3": "[[Battlemaster's Arenas]];[[Darstil's Tower]];[[Master Thief's Hideout]];[[Temple of Shar (Wheloon)",
+        "index_4": "[[Church of Shar]];[[Night Brigade]];[[Riverside Rats]]",
+        "index_5": "[[Selûne]];[[Shar]]",
+        "index_6": "''[[Song of Selûne]]''"
+    },
+    "document_data": {
+        "If you ask the Night Brigade, they say they bring stability to the prison. Keep things in line. Prevent the place from tearing itself apart.<br/>If you ask me, they're a bunch of brutes who have filled their pockets by crushing everyone weaker than them and then looting the corpses.\n|[[Old Tarlow]]\n}}\n'''Rats in a Cage'''\n\n'''The Wizard's Labyrinth'''\n\n'''The Knife's Edge'''\n\n'''The Darkness and the Light'''": "=Index==",
+        "index": "''[[Song of Selûne]]''",
+        "mainbody": "",
+        "Plot": "{{Quote\n|If you ask the Night Brigade, they say they bring stability to the prison. Keep things in line. Prevent the place from tearing itself apart.<br/>If you ask me, they're a bunch of brutes who have filled their pockets by crushing everyone weaker than them and then looting the corpses.\n|[[Old Tarlow]]\n}}\n'''Rats in a Cage'''\n\n'''The Wizard's Labyrinth'''\n\n'''The Knife's Edge'''\n\n'''The Darkness and the Light'''",
+        "Index": {
+            "Characters": "{{Index\n|index = [[Agarta the Breaker]];[[Bonegnasher the Cursed]];[[Brunwell Godber]];[[Darstil Vurusk]];[[Durvastra]];[[Garmor the Grim]];[[Gregori the Broken]];[[Karissa the Knife]];[[Martildae]];[[Neese the Burrower]];[[Old Tarlow]];[[Ryndalla Cuttail]];[[Storna Harnwood]];[[Wyshbryn Saldar]]\n}}",
+            "Creatures": "{{Index\n|index = [[animated object]];[[cloud giant]];[[crocodile]];[[displacer beast]];[[elf]];[[human]];[[nothic]];[[orc]];[[otyugh]];[[panther]];[[shadow]];[[skeleton]];[[umbral gargoyle]];[[wererat]];[[zombie]]\n}}",
+            "Items": "{{Index\n|index = ''[[Agarta's belt]];[[boots of the Battlemaster]];[[bracers of magic and method]];[[Breaker's bauble]];[[circlet of Shar]];[[cranium sphere]];[[Darstil's gloves]];[[echoes of night]];[[Karissa's goggles]];[[Night Brigade necklace]];[[packrat's rat pack]];[[poniard of pain]];[[rat talisman]];[[Selune's favor]];[[Selune's Light]];[[Storna's pendant]];[[the cold of night]];[[tunneler's toolkit]]''\n}}",
+            "Locations": "{{Index\n|index = [[Battlemaster's Arenas]];[[Darstil's Tower]];[[Master Thief's Hideout]];[[Temple of Shar (Wheloon)|Temple of Shar]];[[Wererat's Entrance]];[[Wheloon Prison]];[[Wheloon sewers]]\n}}",
+            "Organizations": "{{Index\n|index = [[Church of Shar]];[[Night Brigade]];[[Riverside Rats]]\n}}",
+            "Religion": "{{Index\n|index = [[Selûne]];[[Shar]]\n}}",
+            "Other": "{{Index\n|index = ''[[Song of Selûne]]''\n}}"
+        }
+    }
+}

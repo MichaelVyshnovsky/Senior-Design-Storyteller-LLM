@@ -1,0 +1,35 @@
+{
+    "template_data": {
+        "6|feet|long": "yes"
+    },
+    "document_data": {
+        "image": "",
+        "caption": "",
+        "name": "Tarsardar",
+        "othernames": "staff spirits, sword spirits",
+        "size2e": "Medium",
+        "alignment2e": "[[Lawful neutral]]",
+        "refs2e": "{{cite book/Secrets of the Magister|26-27}}",
+        "patron deity": "[[Mystra]] or [[Azuth]]",
+        "movement": "Flight",
+        "vision": "",
+        "activecycle": "Any",
+        "diet": "",
+        "lifespan": "",
+        "location": "",
+        "intelligence": "As in life",
+        "language": "",
+        "subraces": "",
+        "climate": "",
+        "terrain": "",
+        "genrefs": "",
+        "mainbody": "'''Tarsardar''' were spirits in service of [[Mystra]] that inhabited [[enchanted]] items.",
+        "Description": "Tarsardar were amorphous, but generally stood {{SI|6|feet|long=yes}} tall and had a face when at rest. They could whisper, gesture, and write.",
+        "Abilities": "Tarsardar could only be commanded by [[Azuth]] or [[Mystra]] using the ''[[Weave]]'' directly; they possessed the ability to merge with [[enchanted]] items, and control them perfectly after barely a minute of use. They could control them even sooner if they had foreknowledge of the object's abilities. Furthermore, all tarsardar were able to make their controlled object fly, float, and move around as if carried by hands. However, a ''[[dispel magic]]'' spell expelled a tarsardar from a targetted object, even if the spell was too weak to affect the object itself; once so expelled, a tarsardar needed three minutes to enter it again.\n\nThey could also communicate mentally with any creature they were touching.",
+        "Personality": "Tarsardar retained their intellect, memories, and character, but tended to grow rather cynical and sarcastic over time. They had stronger preferences for mortals than [[shadowstaff|shadowstaves]] did.",
+        "Combat": "Tarsardar displayed some abilities significant only in combat. They possessed the ability to strike out with \"energy burn\" attacks, which were boosted if the tarsadar had been injured grievously moments before: they leaked excess power, and were able to weaponize it for a burn that hurt their foe almost as much as they'd been hurt themselves.\n\nTarsardar also had immunity to all objects of the same type as the object they were currently possessing: no tarsardar could be struck by swords, for instance, while possessing a sword. They also gained immunity to one effect of the item they were inhabiting, whether produced by the item or by another source, and any similar ones; even a tarsardar in an object capable of launching ''[[fireball]]'' was also immune to ''[[meteor swarm]]''.\n\nFinally, they were immune to all [[psionics]], [[enchantment]], [[illusion]], death magic, all forms of ''[[hold monster]]'' and paralyzation, poison, petrification, ''[[polymorph|polymorphing]]'', cold, and electricity.",
+        "Society": "Tarsardar never fought each other. They obeyed Mystra, Azuth, and all of their chosen, but tended to ignore [[Magister]]s. When their masters were not present, they preferred to cleave to the letter, rather than intention, of their instructions; many tarsardar had been destroyed or transformed as punishment for their disobedience. They were generally charged with increasing the awe and interest in magic, by making magical items seem more interesting, and by making the hand of Mystra be visible everywhere.\n\nTarsardar could be the fate of a [[Magister]] who failed to create a new spell while in charge.{{cite book/Secrets of the Magister|15}}",
+        "History": "As of {{yearlink|1372}}, some tarsardar were amongst those that protected [[Storm Silverhand]] from farscrying.{{Cite web/Realmslore/Storm Silverhand's Quieter Days I: A Quiet Storm}}",
+        "Rumors & Legends": "It was believed tarsardar fed on magic."
+    }
+}

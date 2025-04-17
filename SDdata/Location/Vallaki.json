@@ -1,0 +1,43 @@
+{
+    "template_data": {
+        "vah|LAH|key|refs": "{{Cite dungeon/207/Fair Barovia",
+        "15|ft|long": "yes",
+        "12|ft|long": "yes"
+    },
+    "document_data": {
+        "title": "Vallaki",
+        "image": "Vallaki.jpg",
+        "caption": "",
+        "name": "Vallaki",
+        "size": "Town",
+        "capital": "",
+        "area": "[[Barovia]], [[Domains of Dread]]",
+        "ruler": "[[Vargas Vallakovich|Baron Vargas Vallakovich]]",
+        "government": "",
+        "population": "1,547",
+        "races": "[[Human]]s",
+        "religions": "",
+        "imports": "",
+        "exports": "",
+        "alignment": "[[Lawful neutral]]",
+        "inhabitants": "yes",
+        "locations": "yes",
+        "organizations": "",
+        "mainbody": "'''Vallaki''' ({{Pronounce|vah|LAH|key|refs={{Cite dungeon/207/Fair Barovia|44}}",
+        "Geography": "The town was located at the heart of the valley that is Barovia, beyond the view of [[Castle Ravenloft]],\n\nAlong Old Svalich Road, between Vallaki and the village [[Barovia (village)|Barovia]],",
+        "Description": "The town was surrounded by a {{SI|15|ft|long=yes}} tall wooden palisade of vertical logs held together by thick [[rope]]s and [[mortar]]. The top of each log was sharpened to a point and, {{SI|12|ft|long=yes}} above the ground, wooden scaffolding hugged the inside of the palisade.\n\nThree tall, sturdy [[iron]] gates were the only ways to enter the town. The north gate was known as \"Zarovich Gate,\" the west as \"Sunset Gate,\" and the east was known as either Morning or \"Mourning Gate\". Flanking the road outside these gates were a half-dozen [[pike (weapon)|pikes]] with [[wolf|wolves']] heads impaled upon them.",
+        "Defenses": "Vallaki's town watch consisted of thirty guardsmen and ten archers, but in the case of an emergency the burgomaster could rally fifty militamen to support the watch.",
+        "Government": "The town was governed by a burgomaster named [[Vargas Vallakovich|Baron Vargas Vallakovich]].\n\nThe burgomaster mandated that a festival be held at least once every week, despite most of its residents considering them to be pointless and likely to incur Strah's wrath. This was due to the burgomaster having deluded himself into believing that the only way for Vallaki to escape Barovia and return to the [[Prime Material plane]] was for him to make everyone happy and hopeful.\n\nThose who expressed ill about the festivals would be declared in league with Strahd and be arrested. They would then either be thrown into the stockades or taken to the burgomaster's mansion to have the perceived [[evil]] purged from them.",
+        "History": {
+            "15th Century Travelers": "Some time after Ezmerelda's arrival to Barovia, a man from the Prime Material world of [[Toril]] in the late-15{{th}} century [[DR]] named [[Volothamp Geddarm]] came to Barovia. At the suggestion from [[Arik Lorensk]] he visited Vallaki to meet a [[half-elf]] [[bard]] named [[Rictavio]], another newcomer to the Demiplane of Dread. Volo found his journey to the town to be ultimately uneventful and not worth committing to paper, but did observe in his personal notes that the town seemed more joyful than the rest of Barovia.{{Cite dragon+/6/Travel Talk: Volo's Visit to Barovia}}\n\nA group of [[adventurer]]s on Toril in the 15{{th}} century DR, known as the [[Heroes of Baldur's Gate]], were pursuing a pair of [[werewolves]] that had robbed a [[Temple of Kelemvor (Baldur's Gate)|temple]] of [[Kelemvor]] they were protecting of relics when suddenly one of them activated. An amulet, originating from Barovia, created a thick fog that began to fill the air. The fog quickly filled the room and the heroes, the Kelemvorite [[Nerys Kathon]], along with the two werewolves and their associate [[Sangin]], were all transported to the Demiplane of Dread.{{Cite comic/Shadows of the Vampire 1}}\n\nOn their second day in Barovia, the Heroes of Baldur's Gate traveled to Vallaki and disrupted the Parade of Purple that was decreed by the burgomaster. They were then assaulted by the recently-[[undead|risen]] Sangin, a pack of werewolves and three [[vampire]]s who served the master of Barovia. The heroes fought valiantly and, although Nerys was bitten by one of the lycanthropes, the battle turned in their favor. Just after the Barovian monstrosities turned on one another,{{Cite comic/Shadows of the Vampire 4|7-17}} Strahd himself appeared,{{Cite comic/Shadows of the Vampire 4|20}} to claim the locket that was hidden away on Toril.{{Cite comic/Shadows of the Vampire 5|2}} He briefly toyed with the heroes, before besting them in combat and reclaiming the relic he sought.{{Cite comic/Shadows of the Vampire 5|5-14}} \n\nThe otherworldly power within the amulet assaulted Strahd in the form of his brother, distracting him momentarily. Seizing the opportunity, the group's sorceress [[Delina]] grabbed the amulet and focused on escape. Despite the trauma they had collectively endured, the injured group banded together and a flash of white light engulfed them all,{{Cite comic/Shadows of the Vampire 5|15-19}} transporting them back to Toril in the [[Spine of the World]] mountains.{{Cite comic/Shadows of the Vampire 5|20-21}}"
+        },
+        "Notable Locations": {
+            "Aresek's Wares": "The largest general store in town and a rental storage facility.",
+            "Blinsky Toys": "A toyshop that was operated by [[Gadof Blinsky]].<ref>",
+            "Blue Water Inn": "The town's only inn and the temporary residence of Rictavio.",
+            "St. Andral's church": "A church dedicated to the [[Lathander|Morninglord]].<ref>",
+            "Thaani Neighborhood": "A neighborhood in the town that was lived in by the Thaani. It had a number of shops, but was best known for those that offered exotic wares. These included elaborate tapestries, intricate [[tattoo]]s, and sculpted crystal.{{Cite dungeon/207/Fair Barovia|52}}"
+        },
+        "Inhabitants": "The town was inhabited solely by [[human]]s, who weren't welcoming of [[Vistani]] and wouldn't willingly allow strangers into their homes. Some of these humans, known collectively as the Thaani, were migrants from the domain of [[Domains of Dread|Bluetspur]]. They were a [[psionic]]ally gifted people, due to being experimented upon by [[mindflayer]]s that ruled Bluetspur.\n\nSome of the houses in the town were infested with [[rat]]s, who were servants of Strahd, and some of the residents belonged to a cult that worshiped [[devil]]s."
+    }
+}

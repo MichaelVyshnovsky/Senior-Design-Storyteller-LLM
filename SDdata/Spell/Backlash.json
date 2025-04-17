@@ -1,0 +1,29 @@
+{
+    "template_data": {
+        "edition": "2e",
+        "edition_1": "1e"
+    },
+    "document_data": {
+        "image": "",
+        "caption": "",
+        "name": "Backlash",
+        "deity": "",
+        "inventor": "",
+        "type": "",
+        "reversible2e": "",
+        "school2e": "[[Necromancy]]",
+        "spheres2e": "",
+        "level2e": "{{spell table|edition=2e|[[Wizard]]|4}}",
+        "type2e": "",
+        "refs2e": "",
+        "reversible1e": "",
+        "school1e": "[[Enchantment]]",
+        "level1e": "{{spell table|edition=1e|[[Magic-user]]|4}}",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Backlash''''' was a single-target spell that affected ''only'' [[spellcaster]]s, such as [[wizards]] and [[clerics]]. It was similar to the ''[[death link]]'' spell, but not as potent. If placed upon non-spellcasters, the spell was entirely nullified.",
+        "Effects": "Upon casting the spell, a barely detectable dweomer was placed upon the target. However, there was no immediate effect. Instead, the dweomer would last until the target cast a spell that failed. ''Backlash'' could not be removed by standard measures, such as ''[[dispel magic]]''.\n\nWhen ''backlash'' magically detected a spell failure cast by the target, it was reversed on the target themselves. It also ignored any of the target's resistances or immunity to the effect of the reversed spell.\n\nInterestingly, the spell could be cast several times on a target. This wouldn't, however, cause a single spell failure to ''backlash'' several times. Instead, only the earliest ''backlash'' was triggered and the others waited their turn, in order of oldest to newest.",
+        "Components": "Only [[Verbal component|verbal]] and [[Somatic component|somatic]] components were required to cast this spell.",
+        "History": "This spell was used amongst the [[drow]], and it was said that some accomplished drow wizards had invented a higher-level version of the same spell. Rumors said this \"improved\" ''backlash'' would wait for a second spell failure—even up to five failures—before triggering."
+    }
+}

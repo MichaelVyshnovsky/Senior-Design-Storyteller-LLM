@@ -1,0 +1,24 @@
+{
+    "template_data": {
+        "variant": "channel divinity",
+        "variant_1": "channel divinity",
+        "edition": "4e",
+        "variant_2": "channel divinity"
+    },
+    "document_data": {
+        "name": "Outmaneuver",
+        "deity": "[[Torm]]",
+        "inventor": "",
+        "type": "Encounter",
+        "keywords5e": "",
+        "level5e": "",
+        "type5e": "",
+        "refs5e": "",
+        "keywords4e": "{{desc/divine|variant=channel divinity}}{{desc/teleportation|variant=channel divinity}}",
+        "level4e": "{{spell table|edition=4e|variant=channel divinity|[[Cleric]]|1|}}",
+        "type4e": "Encounter",
+        "refs4e": "",
+        "mainbody": "'''''Outmaneuver''''' was a divine spell, or Channel Divinity, granted to [[cleric]]s who worshiped [[Torm]] or any of the gods of the [[Torm domain]], that allowed the caster to teleport an ally to better position him or her in the battlefield.",
+        "References": "{{refs}}\n6rpolgoh4y6f4nb4tuexvqqv84cgi46"
+    }
+}

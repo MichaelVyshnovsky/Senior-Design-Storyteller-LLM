@@ -1,0 +1,16 @@
+{
+    "template_data": {
+        "edition": "4e"
+    },
+    "document_data": {
+        "type": "at-will",
+        "name": "Spiteful Glamor",
+        "school": "",
+        "keywords4e": "{{desc/arcane}}{{desc/implement}}{{desc/psychic}}",
+        "level4e": "{{spell table|edition=4e|[[Warlock]]|1}}",
+        "type4e": "At-Will",
+        "refs4e": "",
+        "mainbody": "'''''Spiteful glamor''''' is an [[invocation]] used by [[Warlock#Dark Pact Warlock|dark pact]] [[warlock]]s. ''Spiteful glamor'', when cast, tears into the mind of any creature of the warlock's choosing within fifty feet, causing them great pain. The spell is even deadlier when used against creatures who haven't yet been injured. With more experience, warlocks can increase the power of ''spiteful glamor'', which draws upon the warlock's strength of will and personality for much of its deadly power.",
+        "References": "{{refs}}\n[[Category:Warlock spells]]\n2lgx6ezvzromgr3txoac5wzihk182ta"
+    }
+}

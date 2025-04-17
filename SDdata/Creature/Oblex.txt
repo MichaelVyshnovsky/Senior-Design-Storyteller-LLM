@@ -1,0 +1,95 @@
+{{Creature
+| image        = Oblex_elder-5e.jpg
+| caption      = An elder oblex with a simulacrum.
+| name         = Oblex
+| othernames   = 
+| size5eR      = 
+| type5eR      = 
+| subtype5eR   = 
+| alignment5eR = 
+| challenge5eR = 
+| refs5eR      = 
+| size5e       = {{Size table|Spawn|Tiny|Adult|Medium|Elder|Huge}}
+| type5e       = [[Ooze]]
+| subtype5e    = 
+| alignment5e  = [[Lawful evil]]
+| challenge5e  = {{CR table|edition=5e|Spawn|{{Frac|1|4}}|Adult|5|Elder|10}}
+| refs5e       = 
+| patron deity = 
+| movement     = 
+| vision       = [[Blindsight]]
+| activecycle  = 
+| diet         = Mental energy
+| lifespan     = 
+| location     = 
+| intelligence = Spawn: {{Int|14}}; Adult: {{Int|19}}; Elder: {{Int|22}}; 
+| language     = Adult: [[Common]] and two others<br/>Elder:Common and six others
+| subraces     = 
+| climate      = 
+| terrain      = 
+| genrefs      = 
+| height       = 
+| length       = 
+| wingspan     = 
+| weight       = 
+| skincolor    = 
+| haircolor    = 
+| hairstyles   = 
+| feathers     = 
+| eyecolor     = 
+| build        = 
+| distinctions = Ooze, simulacra
+| appearrefs   = 
+| first        = ''[[Mordenkainen's Tome of Foes]]''
+| based        = 
+| histrefs     = <ref group="note">The oblex was created by guest designer [[Nolan Whale]] as part of the [[wikipedia:Make-A-Wish Foundation|Make-A-Wish]] program. More information can be found [https://www.youtube.com/watch?v=ULDbmpI0Wi8 here].
+}}
+'''Oblexes''' were extraordinarily intelligent [[ooze]]s created by [[mind flayer]]s that fed on other creatures' memories. They were capable of using those memories to create replicas of their victims, which they used to further hunt and feed.
+{{quote
+|An oblex wants memories, but not to serve any end of its own making. Oblexes are hungry for memories and personalities because they are empty without such nourishment. In this way they serve their creators, the illithids. An oblex in the range of an [[elder brain]]'s powers provides everything necessary for the mind flayers to find choice victims.|[[Mordenkainen]]
+}}
+
+==Description==
+As oblexes absorbed the memories of their victims, they could replicate credible copies of them. These impersonations, made of the same ooze as the oblex, were otherwise identical to the original victims, except for a faint smell of [[sulfur]]. They could move up to {{SI|120|ft|long=yes}} from the oblex, but could not entirely separate from its body. A replica remained attached to the oblex's main body by a thin, transparent tether made of slime, which could pass through extremely tight spaces as narrow as {{SI|1|in|c|long=yes}} wide.
+
+==Behavior==
+[[File:Oblex adult.jpg|thumb|left|350px|''An adult oblex producing a simulacrum.'']]
+With a desperate hunger for memories, oblexes were attracted to sharp minds. They tended to prefer the minds of intelligent individuals, such as [[spellcaster]]s. When finding a suitable individual, they proceeded to briefly engulf their target's body, draining a portion of its memories when pulling away. An affected victim became drained and confused, having difficulty recalling or using any abilities. At the same time, the oblex learned all of its victim's languages and abilities. An oblex spawn even adopted the distorted personalities of its victims, to the point of appearing mad.
+
+Cunning hunters, oblexes used their impersonation abilities to lure more victims into danger or to attract better sources of nourishment, and to infiltrate communities in search of new and better prey.
+
+==Combat==
+[[File:Oblex_spawn-5e.png|thumb|250px|''An oblex spawn.'']]
+Oblexes preferred luring their victims to an ambush before attacking, by using their impersonation abilities. Besides their memory-draining attack that could render a victim unconscious if hit multiple times, they were also capable of physically slamming an opponent using their pseudopods.
+
+==Abilities==
+Being amorphous oozes, all oblexes could slip through tiny gaps as small as {{SI|1|inch|c|long=yes}} wide and could extrude a pseudopod to strike with; an elder one could make two. They also had [[blindsight]] and could also not be [[blind]]ed, [[deaf]]ened, tired, or knocked over.
+
+Most notably, an adult or elder oblex could extrude large pieces of itself disguised as a being whose memories it had earlier stolen. Bar a slight smell of sulfur, this simulacrum looked, sounded, and even felt indistinguishable from the original. An adult could create up to five such simulucra and an elder up to thirteen, to a distance of {{SI|120|ft|long=yes}}, but all remained tethered by a strand of slime. This strand could fit through the aforementioned gap and could be cut, but not be otherwise damaged. The oblex the simulacra were one and the same creature for intents and purposes.
+
+To consume memories, the oblex must strike a target creature up to {{SI|5|ft|long=yes}} away. If they lacked the will to resist, they would be psychically injured and suffer a loss of memory until next they rested or received a ''[[heal]]'' or ''[[greater restoration]]''. With each strike, this became cumulatively worse at doing things until they fell unconscious for at least an hour, sometimes even dying. In turn, the oblex learned all its victim's languages and skills. [[Undead]], [[construct]]s, [[plant creature]]s, and other oozes were naturally immune to memory draining.
+
+As oblexes aged, they acquired more powerful abilities. Adult oblexes had the ability to cast mind-controlling [[spell]]s such as ''[[charm person]]'', ''[[detect thoughts]]'', ''[[hold person]]'', and ''[[color spray]]'', while elder oblexes, having lived long enough to learn multiple abilities, could in addition cast spells such as ''[[confusion]]'', ''[[dimension door]]'', ''[[dominate person]]'', ''[[fear]]'', ''[[hallucinatory terrain]]'', ''[[hold monster]]'', ''[[hypnotic pattern]]'', and ''[[telekinesis]]''.
+
+Oblexes had an aversion to fire; if burned, they were briefly weakened and less able to attack.
+
+==Ecology==
+The oblex reproduction cycle was intrinsically connected to its feeding habits. As an oblex fed, it slowly became saturated with its victims' accumulated memories and personalities. Eventually, a saturated oblex spawn had to split into smaller creatures and shed these personalities in order to avoid going insane. An older oblex could simply extrude a simulacrum instead.
+
+==History==
+{{fq
+| float  = 
+| width  = 350px
+| source = [[Mordenkainen]]
+| text   = Mind flayers unleash all manner of foul experiments upon the planes with little thought for the consequences. Here, though, I suspect another influence: [[Juiblex]].
+}}
+After conducting experiments on the various oozes found in the [[Underdark]], oblexes were designed by mind flayers with the purpose of assaulting minds and serving as advance scouts to search for prey to feed a colony. However, oblexes did not act on their master's orders. Rather, their actions were purely motivated by hunger. An oblex within the telepathic range of an [[elder brain]] would instinctively, and unwittingly, inform the colony of any sentient creatures just by its endless hunger for memories and attraction to intelligent individuals.
+
+In the late 15{{th}} century [[DR]], an elder oblex stood guard in a chamber of the [[Temple of Madness]] in [[Pandemonium]], while a group of mind flayers attempted to harness the power of a portal to the [[Far Realm]] to activate an artifact that could allow them to regain their mental control over the [[Gith (race)|gith]]. A group of [[Sha'sal Khou]] members from the [[Sword Coast]] was dispatched to thwart the illithids' plans.{{Cite adventurers league/Rrakkma|3,6,8}}
+
+Meanwhile, an adult oblex was kept within a pit trap in [[Stardock]], filling the bottom and waiting to absorb those who fell into it//<ref>{{Cite adventurers league/Stardock Under Siege|24,39}}
+
+In [[Cube 1717]], a battle station of [[Acheron]], an adult oblex was experimented on and transformed into a strangely pixelated creature, which later served the [[skull lord]] [[Vargo]]. The cube crashed into the [[Sea of Swords]] in the late 1400s DR. The oblex formed a partnership with a similarly altered [[balhannoth]].<ref>{{Cite dragon+/21/Six Faces of Death|3-4,24,35-36,45}}
+
+In the Undercity of [[Xorvintroth]], a group of four elder oblexes killed and absorbed the memories of four [[Thayan]] guards, [[Augofan]], [[Lonali]], [[Phastulla]], and [[Ugomech]], who served the [[Red Wizard]] [[Lamintala]] in their operations there. The oblexes produced simulacra of them in order to lure other explorers into their cave.<ref>{{Cite adventurers league/Fall the Cold Night|11,12,13,16-17,24}}
+

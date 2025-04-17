@@ -1,0 +1,16 @@
+{
+    "template_data": {
+        "edition": "3e"
+    },
+    "document_data": {
+        "name": "Detect Law",
+        "school3e": "[[Divination]]",
+        "domains3e": "",
+        "descriptors3e": "",
+        "level3e": "{{Spell table|edition=3e|[[Adept]]|1|[[Cleric]]|1|[[Sohei]]|1|[[Wu jen]]|1}}",
+        "type3e": "",
+        "refs3e": "",
+        "mainbody": "'''''Detect law''''' was a [[divination]] spell that provided information about objects or creatures with a [[Alignment|lawful]] aura.",
+        "Effects": "This spell functioned exactly like ''[[detect evil]]'' except it detected lawful auras from [[paladin]]s, lawful clerics, spells, magic items, etc."
+    }
+}

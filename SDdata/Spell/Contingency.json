@@ -1,0 +1,40 @@
+{
+    "template_data": {
+        "edition": "5e",
+        "edition_1": "3e",
+        "edition_2": "2e"
+    },
+    "document_data": {
+        "variant": "",
+        "image": "Contingency.png",
+        "caption": "",
+        "name": "Contingency",
+        "school": "[[Evocation]]",
+        "spheres": "",
+        "domains": "",
+        "inventor": "[[Lefeber]]",
+        "descriptors": "",
+        "keywords": "",
+        "level": "",
+        "type": "",
+        "school5e": "[[Evocation]]",
+        "level5e": "{{spell table|edition=5e|[[Wizard]]|6}}",
+        "type5e": "",
+        "refs5e": "",
+        "domains3e": "[[Patience domain|Patience]], [[Time domain|Time]]",
+        "level3e": "{{spell table|edition=3e|[[Patience domain|Patience]]|7|[[Time domain|Time]]|6|[[Sorcerer]]|6|[[Wizard]]|6}}",
+        "type3e": "",
+        "school3e": "[[Evocation]]",
+        "refs3e": "{{Cite dragon/355/Seven Saintly Domains|29}}",
+        "school2e": "[[Evocation]]<br/>[[Incantation]] ([[Metamagic]])<br/>[[Universal (province)]]<br/>[[Inventive]]",
+        "spheres2e": "",
+        "level2e": "{{spell table|edition=2e|[[Arcanist]]|6|[[Wizard]]|6}}",
+        "type2e": "",
+        "refs2e": "<ref><ref><ref>",
+        "mainbody": "'''''Contingency''''' was an [[evocation]] [[spell]] that allowed a caster to set a trigger for another stored spell.",
+        "Effect": "''Contingency'' stored a spell for a long time, ranging from days in older versions The spell would be triggered to start after set conditions, like the start of a battle or being under water. The spell could not contain very powerful spells, and older versions would have a spell based on the caster's ability. After the [[Second Sundering]], the spell changed to carry a spell slightly less powerful than the ''contingency'' spell.\n\nThe spell trigger had to be specific but general, like being underwater or falling more than a specific distance. If the trigger was too complicated, then it could fail. The spell would always trigger if conditions were met, whether the caster wanted it to or not.\n\nOnly one ''contingency'' spell could be active at any time, if cast again it would replace the old one.",
+        "Components": "The older version of the spell used 100 [[gold piece]]s worth of [[mercury|quicksilver]]; a small part of a spell-using creature like the eyelash of an [[ogre mage]], for example; and a statue of the caster carved from [[elephant]] ivory and decorated with [[gem]]s. The newer versions only needed the carved and bejeweled statuette of the caster, which had to be worth at least 1,500 gold pieces.",
+        "History": "The invention of this spell in {{Yearlink|-2135}} was attributed to the  [[Netheril|Netherese]] [[arcanist]] [[Lefeber]]. It was thus known in Netheril as '''''Lefeber's contingence'''''<ref>",
+        "Realmslore": "The [[wizard]] [[Parwyyd Hanifar]] employed a ''contingency'' with a ''[[fire shield]]'' spell to protect himself against sudden attack, even whilst distracted or deep in thought, such as when [[Onyx the Invincible]] rushed at him in the [[1357 DR|Year of the Prince, 1357 DR]] and was suddenly met with flames.{{Cite comic/The Ostus Legacy|11-12}}"
+    }
+}

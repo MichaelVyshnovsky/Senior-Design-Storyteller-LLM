@@ -1,0 +1,2134 @@
+2900
+158839
+
+995147
+995126
+2024-11-27T05:16:21Z
+
+SunderedShor
+45429029
+
+995147
+interactivemap
+text/plain
+{
+    "mapImage": "Ravens Bluff FRIA map.png",
+    "pageCategories": [
+        "Interactive_maps",
+        "Maps_of_Ravens_Bluff",
+        "Maps_of_cities"
+    ],
+    "defaultSort": "",
+    "description": "A 14{{th}} century [[DR]] map of [[Ravens Bluff]]. Index and references can be found [https:\/\/forgottenrealms.fandom.com\/wiki\/File:Ravens_Bluff_FRIA_map.png here].",
+    "coordinateOrder": "xy",
+    "mapBounds": [
+        [
+            0,
+            0
+        ],
+        [
+            6250,
+            9275
+        ]
+    ],
+    "origin": "bottom-left",
+    "useMarkerClustering": false,
+    "categories": [
+        {
+            "id": "13",
+            "listId": 1,
+            "name": "Neighborhoods",
+            "color": "#fa005a",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:City icon.svg"
+        },
+        {
+            "id": "7",
+            "listId": 2,
+            "name": "Businesses",
+            "color": "#9325f4",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Tymora coin icon.svg"
+        },
+        {
+            "id": "6",
+            "listId": 3,
+            "name": "Civic Buildings",
+            "color": "#00faa0",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Sembia nobles icon.svg"
+        },
+        {
+            "id": "2",
+            "listId": 4,
+            "name": "Embassies",
+            "color": "#a98307",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Purple dragons icon.svg"
+        },
+        {
+            "id": "5",
+            "listId": 5,
+            "name": "Fortifications",
+            "color": "#1438bd",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Keeps strongholds icon.svg"
+        },
+        {
+            "id": "8",
+            "listId": 6,
+            "name": "Inns & Taverns",
+            "color": "#edfa00",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Tankard icon.svg"
+        },
+        {
+            "id": "14",
+            "listId": 7,
+            "name": "Temples & Shrines",
+            "color": "#fa005a",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Lathander temple icon.svg"
+        },
+        {
+            "id": "15",
+            "listId": 8,
+            "name": "Guilds & Trade Houses",
+            "color": "#fa005a",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Tools guilds icon.svg"
+        },
+        {
+            "id": "3",
+            "listId": 9,
+            "name": "Landmarks",
+            "color": "#686768",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Elminter's choice icon.svg"
+        },
+        {
+            "id": "1",
+            "listId": 10,
+            "name": "Residences",
+            "color": "#d64fbc",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Hamlet icon.svg"
+        },
+        {
+            "id": "4",
+            "listId": 11,
+            "name": "Parks & Forests",
+            "color": "#00fa0a",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Forest icon.svg"
+        },
+        {
+            "id": "10",
+            "listId": 12,
+            "name": "Entertainment",
+            "color": "#fa005a",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Instruments icon.svg"
+        },
+        {
+            "id": "9",
+            "listId": 13,
+            "name": "Streets & Bridges",
+            "color": "#fa005a",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Mountain road icon.svg"
+        },
+        {
+            "id": "12",
+            "listId": 14,
+            "name": "Docks & Wharves",
+            "color": "#fa005a",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Ship icon.svg"
+        },
+        {
+            "id": "11",
+            "listId": 15,
+            "name": "Bodies of Water",
+            "color": "#fa005a",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Bodies of water icon.svg"
+        }
+    ],
+    "markers": [
+        {
+            "categoryId": "4",
+            "position": [
+                1030.9616869699864,
+                6438.914349484702
+            ],
+            "popup": {
+                "title": "Ring Park",
+                "description": "A small green space with a tiny circle of [[duskwood]] trees surrounded by [[Daren's Ring]] in the [[Ravens Bluff\/Foreign District|Foreign District]].",
+                "link": {
+                    "url": "Ring Park",
+                    "label": "Ring Park"
+                }
+            },
+            "id": "1"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1134.1992770232223,
+                6363.961030678928
+            ],
+            "popup": {
+                "title": "Tower of Hark the Herald",
+                "description": "A small, carved stone tower that served as the residence of [[Hark the Herald]].",
+                "link": {
+                    "url": "Hark the Herald",
+                    "label": "Hark the Herald"
+                }
+            },
+            "id": "2"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1041.5682886877844,
+                6212.640179505006
+            ],
+            "popup": {
+                "title": "Residence of Loki Spellsinger",
+                "description": "A large square tower, home to the [[wizard]] [[Loki Spellsinger]].",
+                "link": {
+                    "url": "Loki Spellsinger",
+                    "label": "Loki Spellsinger"
+                }
+            },
+            "id": "3"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                982.878425849301,
+                6214.054393067379
+            ],
+            "popup": {
+                "title": "Residence of Anna Geden",
+                "description": "A large, square tower, home to [[Anna Geden]]. Decorated with hanging baskets of plants and moss.",
+                "link": {
+                    "url": "Anna Geden",
+                    "label": "Anna Geden"
+                }
+            },
+            "id": "4"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1112.986073587626,
+                6130.620074746632
+            ],
+            "popup": {
+                "title": "Embassy of Zhentil Keep",
+                "description": "A many-pillared stone building with mock battlements and plenty of decorative gargoyles (that were rumored to be actual, living [[gargoyle]]s. The embassy of [[Zhentil Keep]] to Ravens Bluff.",
+                "link": {
+                    "url": "Embassy of Zhentil Keep (Ravens Bluff)",
+                    "label": "Embassy of Zhentil Keep"
+                }
+            },
+            "id": "5"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                972.9784379535018,
+                6137.689001628865
+            ],
+            "popup": {
+                "title": "Embassy of Amn",
+                "description": "A palatial manor that served as the embassy of [[Amn]] to Ravens Bluff. The exterior was adorned with shining plates of copper as well as a large number of lamps.",
+                "link": {
+                    "url": "Embassy of Amn (Ravens Bluff)",
+                    "label": "Embassy of Amn"
+                }
+            },
+            "id": "6"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1130.6637431172894,
+                5905.755836470044
+            ],
+            "popup": {
+                "title": "Residence of Talin Brewmaster",
+                "description": "A small, balconied tower that served as the home of [[Talin Brewmaster]].",
+                "link": {
+                    "url": "Talin Brewmaster",
+                    "label": "Talin Brewmaster"
+                }
+            },
+            "id": "7"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1083.2885746961663,
+                5700.695583569157
+            ],
+            "popup": {
+                "title": "Embassy of Procampur",
+                "description": "The embassy of [[Procampur]] to Ravens Bluff. Its wooded gardens were illuminated by green- and red-hued lamps when the weather permitted.\nThe embassy often hosted revels and so was oft-visited by citizens of Ravens Bluff.",
+                "link": {
+                    "url": "Embassy of Procampur",
+                    "label": "Embassy of Procampur"
+                }
+            },
+            "id": "8"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                928,
+                5781
+            ],
+            "popup": {
+                "title": "Residence of Kile the Ox",
+                "description": "A small, round tower wherein the [[elf|elven]] [[adventurer]] [[Kile|Kile the Ox]] resided.",
+                "link": {
+                    "url": "Kile",
+                    "label": "Kile the Ox"
+                }
+            },
+            "id": "9"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                877,
+                5857
+            ],
+            "popup": {
+                "title": "Cormyr House",
+                "description": "An impressive building with many windows and with walls adorned with sculpted shields. The embassy of [[Cormyr]] to Ravens Bluff.",
+                "link": {
+                    "url": "Cormyr House",
+                    "label": "Cormyr House"
+                }
+            },
+            "id": "10"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                852,
+                5965
+            ],
+            "popup": {
+                "title": "Residence of Gideon Sagson",
+                "description": "Home of the [[gnome]] [[illusionist]] [[Gideon Sagson]]. A small yet tasteful house often visited by [[raven]]s.",
+                "link": {
+                    "url": "Gideon Sagson",
+                    "label": "Gideon Sagson"
+                }
+            },
+            "id": "11"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                880.5,
+                6355.5
+            ],
+            "popup": {
+                "title": "Embassy of Thay",
+                "description": "A sizable, sinister building with wings three stories tall and a domed central hall. The embassy of [[Thay]] to Ravens Bluff. Seemingly unguarded but said to be warded with magics that immediately slay any intruders.",
+                "link": {
+                    "url": "Embassy of Thay (Ravens Bluff)",
+                    "label": "Embassy of Thay"
+                }
+            },
+            "id": "12"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1001.2622162417761,
+                6342.7521091025965
+            ],
+            "popup": {
+                "title": "Embassy of Impiltur",
+                "description": "Significantly more welcoming than the neighboring [[Embassy of Thay (Ravens Bluff)|Thayan embassy]]. Its gate was framed by stone statues of rearing [[horse]]s. The embassy of [[Impiltur]] to Ravens Bluff.",
+                "link": {
+                    "url": "Embassy of Impiltur (Ravens Bluff)",
+                    "label": "Embassy of Impiltur"
+                }
+            },
+            "id": "13"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                899,
+                6532
+            ],
+            "popup": {
+                "title": "Embassy of Tantras",
+                "description": "The embassy of [[Tantras]] to Ravens Bluff. Tecnically a mock castle, but functionally a fortress, in case the rivalry between the two cities became openly hostile.",
+                "link": {
+                    "url": "Embassy of Tantras (Ravens Bluff)",
+                    "label": "Embassy of Tantras"
+                }
+            },
+            "id": "14"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                975,
+                6612
+            ],
+            "popup": {
+                "title": "Watchful Defender",
+                "description": "A 12 {{SI|12|ft}} tall statue of a [[City Watch (Ravens Bluff)|City Watch]] officer. Its gaze ostensibly looked out to sea, but actually glared at the doors of the [[Embassy of Tantras (Ravens Bluff)|Tantran embassy]].\nThe Defender was dubbed \"Simon\" by local [[bard]]s.",
+                "link": {
+                    "url": "Watchful Defender",
+                    "label": "Watchful Defender"
+                }
+            },
+            "id": "15"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1015,
+                6758
+            ],
+            "popup": {
+                "title": "Waterdeep House",
+                "description": "A many-turreted building that served as [[Waterdeep]]'s embassy to Ravens Bluff. Visitors quickly grew tired of climbing its endless corkscrew stairs.",
+                "link": {
+                    "url": "Waterdeep House",
+                    "label": "Waterdeep House"
+                }
+            },
+            "id": "16"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1108,
+                6996
+            ],
+            "popup": {
+                "title": "Embassy of Sembia",
+                "description": "The embassy of [[Sembia]] to Ravens Bluff was housed in this imposing building.",
+                "link": {
+                    "url": "Embassy of Sembia (Ravens Bluff)",
+                    "label": "Embassy of Sembia"
+                }
+            },
+            "id": "17"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1004,
+                6949.5
+            ],
+            "popup": {
+                "title": "Residence of Elvira of Startree",
+                "description": "A mansion built from crimson stone and fashioned with ornamental spires. Once the home of the infamous Deputy Mayor [[Belanor Fenmarel]], but later became the residence of [[Elvira|Elvira of Startree]].",
+                "link": {
+                    "url": "Elvira",
+                    "label": "Elvira of Startree"
+                }
+            },
+            "id": "18"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1116.5216074935586,
+                6673.673800838635
+            ],
+            "popup": {
+                "title": "Residence of Daren of Sel\u00fbne",
+                "description": "A four-story building with round windows and a grand portico carved with images of the moon and stars. The compact yet imposing stone home of High Priest [[Daren of Sel\u00fbne]].",
+                "link": {
+                    "url": "Daren of Sel\u00fbne",
+                    "label": "Daren of Sel\u00fbne"
+                }
+            },
+            "id": "19"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1097.4287384831466,
+                6561.952356697582
+            ],
+            "popup": {
+                "title": "The Calaglara",
+                "description": "[[Calimshan]]'s embassy to Ravens Bluff.\nA mock castle sporting several conical towers topped with red-tiled roofs, with gold and copper trim all over, somewhat reminiscent of a child's toy or an ugly cake.",
+                "link": {
+                    "url": "Calaglara",
+                    "label": "The Calaglara"
+                }
+            },
+            "id": "20"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1035.5578810476989,
+                6533.313104773106
+            ],
+            "popup": {
+                "title": "Embassy of Turmish",
+                "description": "The embassy of [[Turmish]] to Ravens Bluff. A converted manor house with a rooftop garden filled with impressive statues, though the building itself was somewhat modest. Parties were often held here.",
+                "link": {
+                    "url": "Embassy of Turmish (Ravens Bluff)",
+                    "label": "Embassy of Turmish"
+                }
+            },
+            "id": "21"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1022.4764055957478,
+                6062.737110109512
+            ],
+            "popup": {
+                "title": "Embassy of Chessenta",
+                "description": "The grandest building in the Foreign District, built from pink-veined [[marble]] and sporting a high dome, the interior of which was painted with celestial scenes. [[Chessenta]] maintained their embassy to Ravens Bluff in this stately building.",
+                "link": {
+                    "url": "Embassy of Chessenta (Ravens Bluff)",
+                    "label": "Embassy of Chessenta"
+                }
+            },
+            "id": "22"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                980,
+                5973.5
+            ],
+            "popup": {
+                "title": "Residence of Rogan the Confused",
+                "description": "A square tower, home to [[Rogan|Rogan the Confused]].",
+                "link": {
+                    "url": "Rogan",
+                    "label": "Rogan the Confused"
+                }
+            },
+            "id": "23"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1057.8312516958877,
+                5908.587831810844
+            ],
+            "popup": {
+                "title": "Embassy of Mulmaster",
+                "description": "[[Mulmaster]]'s embassy was housed in this forbidding-looking building with high stone walls manned by guards both day and night.",
+                "link": {
+                    "url": "Embassy of Mulmaster (Ravens Bluff)",
+                    "label": "Embassy of Mulmaster"
+                }
+            },
+            "id": "24"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1046.5180361560904,
+                6294.664566122646
+            ],
+            "popup": {
+                "title": "Residence of Delila Rosebud",
+                "description": "Home of [[Delila Rosebud]], a [[gnome]] [[illusionist]]. The previous owner was a [[necromancer]], but Delila tore down his gloomy exterior decorations and replaced them with white pillars adorned with vines.",
+                "link": {
+                    "url": "Delila Rosebud",
+                    "label": "Delila Rosebud"
+                }
+            },
+            "id": "25"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                295.9986057008624,
+                5102.005046219536
+            ],
+            "popup": {
+                "title": "Sundaroon's Seatower",
+                "description": "A long, narrow castle that served as the base of the [[Ravens Bluff Navy]]. Heavily fortified with numerous siege engines to defend against pirates and other threats.",
+                "link": {
+                    "url": "Sundaroon's Seatower",
+                    "label": "Sundaroon's Seatower"
+                }
+            },
+            "id": "26"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                954,
+                5344
+            ],
+            "popup": {
+                "title": "Narwhal Manor",
+                "description": "The city's primary customs warehouse, and the office of its chief customs inspector. A two-story, fortress-like stone building.",
+                "link": {
+                    "url": "Narwhal Manor",
+                    "label": "Narwhal Manor"
+                }
+            },
+            "id": "27"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1029,
+                5243.5
+            ],
+            "popup": {
+                "title": "Safe Harbor Marine Guarantees",
+                "description": "An insurance business for maritime vessels. Sea charts could also be purchased here. This two-story stone building looked like the stump of a castle, and was flanked by a {{SI|60|ft}} tall tower.",
+                "link": {
+                    "url": "Safe Harbor Marine Guarantees",
+                    "label": "Safe Harbor Marine Guarantees"
+                }
+            },
+            "id": "28"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1050.7606768432095,
+                5316.028780960464
+            ],
+            "popup": {
+                "title": "Maukshoun's Rope, Cable, and Chain",
+                "description": "A business that sold [[rope]]s, [[cable]]s, and [[chain]]s&mdash;but not [[wire]]&mdash;owned by [[Maukshoun]].",
+                "link": {
+                    "url": "Maukshoun's Rope, Cable, and Chain",
+                    "label": "Maukshoun's Rope, Cable, and Chain"
+                }
+            },
+            "id": "29"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1137.0277041479683,
+                5326.635382678262
+            ],
+            "popup": {
+                "title": "Farspice Trading Company",
+                "description": "A trading company that dealt in [[spice]]s. The air around this building tended to induce sneezing.",
+                "link": {
+                    "url": "Farspice Trading Company",
+                    "label": "Farspice Trading Company"
+                }
+            },
+            "id": "30"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1110.8647532440662,
+                5465.2283117908255
+            ],
+            "popup": {
+                "title": "Rare and Fine Seashell Remedies",
+                "description": "A shop that sold remedies in the form of spicy [[alcohol]]ic [[cordial]]s.",
+                "link": {
+                    "url": "Rare and Fine Seashell Remedies",
+                    "label": "Rare and Fine Seashell Remedies"
+                }
+            },
+            "id": "31"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                1023.8906191581208,
+                5400.174487921663
+            ],
+            "popup": {
+                "title": "Flagon o' Flames",
+                "description": "A truly dreadful tavern filled with drunk sailors and loose individuals. Shady dealings occasionally took place here.",
+                "link": {
+                    "url": "Flagon o' Flames",
+                    "label": "Flagon o' Flames"
+                }
+            },
+            "id": "32"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1006.2129496284571,
+                5394.517633672171
+            ],
+            "popup": {
+                "title": "Mystic Star Charts",
+                "description": "Located in the cellar below the [[Flagon o' Flames]] tavern, this shop sold fenced magic items and spell components.",
+                "link": {
+                    "url": "Mystic Star Charts",
+                    "label": "Mystic Star Charts"
+                }
+            },
+            "id": "33"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                951.0586206959064,
+                5603.821240903389
+            ],
+            "popup": {
+                "title": "Haldivar's Mermaid",
+                "description": "A clothing rental business aimed at visiting sailors, owned by [[Haldivar]]. It was also a good place to rent costumes and disguises.",
+                "link": {
+                    "url": "Haldivar's Mermaid",
+                    "label": "Haldivar's Mermaid"
+                }
+            },
+            "id": "34"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                1007.6271631908302,
+                5551.848892486178
+            ],
+            "popup": {
+                "title": "The Silver Lady",
+                "description": "A quiet inn known as being slightly upscale, with beautiful interiors and expensive liquor. The innkeeper, [[Desiree Nadeaux]], only allowed sea captains inside.",
+                "link": {
+                    "url": "Silver Lady",
+                    "label": "The Silver Lady"
+                }
+            },
+            "id": "35"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                741,
+                5427
+            ],
+            "popup": {
+                "title": "Davy Jones' Lock-Up",
+                "description": "A secure storage facility for valuable items, owned by [[Reinhold William Rauschpautton]], better known as \"Davy Jones\".",
+                "link": {
+                    "url": "Davy Jones' Lock-Up",
+                    "label": "Davy Jones' Lock-Up"
+                }
+            },
+            "id": "36"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                753,
+                5684
+            ],
+            "popup": {
+                "title": "Stars in My Hand Safeholds",
+                "description": "A rental storage facility.",
+                "link": {
+                    "url": "Stars in My Hand Safeholds",
+                    "label": "Stars in My Hand Safeholds"
+                }
+            },
+            "id": "37"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                562.0006971495689,
+                6174.003027731722
+            ],
+            "popup": {
+                "title": "Chasipher's Wharf",
+                "description": "A shipbuilding wharf.",
+                "link": {
+                    "url": "Chasipher's Wharf",
+                    "label": "Chasipher's Wharf"
+                }
+            },
+            "id": "38"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                565.6854249492379,
+                6378.098884443394
+            ],
+            "popup": {
+                "title": "Coker Wharf Company",
+                "description": "These two wharves and the warehouse between them belonged to the Coker Wharf Company, which didn't have the best reputation.",
+                "link": {
+                    "url": "Coker Wharf Company",
+                    "label": "Coker Wharf Company"
+                }
+            },
+            "id": "39"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                739,
+                6668
+            ],
+            "popup": {
+                "title": "High Seas Shipbuilding",
+                "description": "Owned by the [[Sandor]] family, known as expert shipwrights for several generations. High Seas built some of the largest and fastest ships on the [[Dragon Reach]], primarily focusing on [[cog]]s and [[caravel]]s.",
+                "link": {
+                    "url": "High Seas Shipbuilding",
+                    "label": "High Seas Shipbuilding"
+                }
+            },
+            "id": "40"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                956,
+                4966
+            ],
+            "popup": {
+                "title": "Embrol Sludge's Eatery & Shell Shoppe",
+                "description": "A seafood restaurant slash jewelry shop. Both the food and the jewelry were of fine quality. Owned by [[Embrol Sludge]] and his family.",
+                "link": {
+                    "url": "Embrol Sludge's Eatery & Shell Shoppe",
+                    "label": "Embrol Sludge's Eatery & Shell Shoppe"
+                },
+                "image": "File:Embrol Sludge's Eatery & Shell Shoppe.png"
+            },
+            "id": "41"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                956,
+                4874
+            ],
+            "popup": {
+                "title": "Samara's Scrimshaw",
+                "description": "A busy workshop that produced [[scrimshaw]] for export to [[Sembia]], [[Turmish]], and the [[Vilhon Reach]]. Once a small, [[human]]-owned business, it grew significantly in scope after being taken over by [[gnome]]s.",
+                "link": {
+                    "url": "Samara's Scrimshaw",
+                    "label": "Samara's Scrimshaw"
+                }
+            },
+            "id": "42"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                898,
+                4793
+            ],
+            "popup": {
+                "title": "Fish Market",
+                "description": "Every four days, a large fish market was held here, organized by the [[Fishmongers Guild]].",
+                "link": {
+                    "url": "Fish Market (Ravens Bluff)",
+                    "label": "Fish Market"
+                }
+            },
+            "id": "43"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                784.8875411986926,
+                4580.639869456088
+            ],
+            "popup": {
+                "title": "Ornagar's Smoked Eels & More",
+                "description": "A business that sold smoked [[eel]]s. The eels were smoked on-site and were packed into glass jars, ready for transport throughout [[the Vast]] and beyond.",
+                "link": {
+                    "url": "Ornagar's Smoked Eels & More",
+                    "label": "Ornagar's Smoked Eels & More"
+                }
+            },
+            "id": "44"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                721.2484238510909,
+                4586.298864635212
+            ],
+            "popup": {
+                "title": "Ashakar's Accessories",
+                "description": "An expensive shop that sold unique, high-quality goods, such as items made by [[merfolk]] and suited for underwater use. The owner, [[Ashakar Piscelene]], was a [[triton]] [[wizard]].",
+                "link": {
+                    "url": "Ashakar's Accessories",
+                    "label": "Ashakar's Accessories"
+                }
+            },
+            "id": "45"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                717,
+                4491
+            ],
+            "popup": {
+                "title": "Flirin's Sea Morsels",
+                "description": "A very popular restaurant that exclusively served raw seafood ([[sushi]]) that was prepared in front of the guests. There was no set menu. Owned by [[Flirin]], an extremely beautiful [[selkie]] in [[human]] form.",
+                "link": {
+                    "url": "Flirin's Sea Morsels",
+                    "label": "Flirin's Sea Morsels"
+                }
+            },
+            "id": "46"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                810.3438782805958,
+                4381.23504351827
+            ],
+            "popup": {
+                "title": "Fresh Fish",
+                "description": "A shop that sold fresh [[fish]] and [[crab]]s for a reasonable price. The catch of the day was showcased in glass tanks.",
+                "link": {
+                    "url": "Fresh Fish",
+                    "label": "Fresh Fish"
+                }
+            },
+            "id": "47"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                886.7119036079307,
+                4331.738282478423
+            ],
+            "popup": {
+                "title": "Misti Morgan's Moonlight Pawnshop",
+                "description": "A pawnshop ran by [[Misti Morgan]], who was also rumored to fence stolen items. The shop was easily identifiable by its sign of a sitting black cat silhouetted against a full moon.",
+                "link": {
+                    "url": "Misti Morgan's Moonlight Pawnshop",
+                    "label": "Misti Morgan's Moonlight Pawnshop"
+                }
+            },
+            "id": "48"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                979.25,
+                4429.125
+            ],
+            "popup": {
+                "title": "Shark Fin Tavern",
+                "description": "A tavern in a converted warehouse operated by [[Paerl Finn]]. Good food and drinks could be found here, as well as a generally rowdy&mdash;yet friendly&mdash;atmosphere.",
+                "link": {
+                    "url": "Shark Fin Tavern",
+                    "label": "Shark Fin Tavern"
+                }
+            },
+            "id": "49"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                1045.1033296345297,
+                4307.695938274869
+            ],
+            "popup": {
+                "title": "Seaside Salvage Company",
+                "description": "A tavern that catered to fishermen, seaborne [[adventurer]]s, and so on, many of whom were of the shadier variety. Owned and operated by [[Brill Kilmer]].",
+                "link": {
+                    "url": "Seaside Salvage Company",
+                    "label": "Seaside Salvage Company"
+                }
+            },
+            "id": "50"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                876.8124086713188,
+                4127.735835176471
+            ],
+            "popup": {
+                "title": "Skully's Bar and Bait",
+                "description": "A ramshackle tavern slash bait shop known for its incredible odor, which somehow didn't keep the place from being incredibly busy. Pirates were known to frequent here.",
+                "link": {
+                    "url": "Skully's Bar and Bait",
+                    "label": "Skully's Bar and Bait"
+                }
+            },
+            "id": "51"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                868.3261413787052,
+                3928.6902717749326
+            ],
+            "popup": {
+                "title": "Ship's Wheel Tavern",
+                "description": "Considered the safest place to get a drink in the [[Ravens Bluff\/Silverscales|Silverscales]] neighborhood. Prices were above average, but the selection of drinks was good and the food was simple yet hearty.",
+                "link": {
+                    "url": "Ship's Wheel Tavern",
+                    "label": "Ship's Wheel Tavern"
+                }
+            },
+            "id": "52"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                643.4666779205706,
+                3638.775064202027
+            ],
+            "popup": {
+                "title": "Buftooroo's Dry Goods",
+                "description": "A shop that sold useful necessities.",
+                "link": {
+                    "url": "Buftooroo's Dry Goods",
+                    "label": "Buftooroo's Dry Goods"
+                }
+            },
+            "id": "53"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                637.5,
+                3771.5
+            ],
+            "popup": {
+                "title": "Residence of Quincy Blackmantle",
+                "description": "Home of [[Quincy Blackmantle]], a pirate-turned-admiral.",
+                "link": {
+                    "url": "Quincy Blackmantle",
+                    "label": "Quincy Blackmantle"
+                }
+            },
+            "id": "54"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                2242.940738086978,
+                4251.128823066366
+            ],
+            "popup": {
+                "title": "Black Dugal's Music Shoppe",
+                "description": "A music store inside an old, repurposed two-story stone building that specialized in mundane and [[enchanted]] [[musical instrument]]s.",
+                "link": {
+                    "url": "Black Dugal's Music Shoppe",
+                    "label": "Black Dugal's Music Shoppe"
+                },
+                "image": "File:Black Dugal's Music Shoppe.png"
+            },
+            "id": "55"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                943.2794601844793,
+                3522.8066975145907
+            ],
+            "popup": {
+                "title": "Fishleap Lane ",
+                "description": "A muddy street that began at [[The Front]] and ran alongside the shore through [[Bitterstone]] and ended in [[The Anvil]] in font of [[Vlard's Maintenance Yard]] overlooking [[Clearwater Harbor]].",
+                "link": {
+                    "url": "Fishleap Lane ",
+                    "label": "Fishleap Lane "
+                },
+                "image": "File:Fishleap Lane.png"
+            },
+            "id": "56"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                739.6336931211288,
+                3867.8762340200474
+            ],
+            "popup": {
+                "title": "Gulp Lane",
+                "description": "A street that connected the the dockfront and the boardwalk in the west with [[Wallwalk Lane]] in the east.",
+                "link": {
+                    "url": "Gulp Lane",
+                    "label": "Gulp Lane"
+                }
+            },
+            "id": "57"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                2544.0006971495686,
+                5607.996972268278
+            ],
+            "popup": {
+                "title": "Broadleaf Manor",
+                "description": "The expansive mansion of the famed adventurer, [[Elvira Broadleaf]] in the 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "Broadleaf Manor",
+                    "label": "Broadleaf Manor"
+                }
+            },
+            "id": "58"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                2746.727065943818,
+                5277.004885507493
+            ],
+            "popup": {
+                "title": "Fiddlers' Green",
+                "description": "A public park also known as the '''DeVillars Park'''.",
+                "link": {
+                    "url": "Fiddlers' Green",
+                    "label": "Fiddlers' Green"
+                }
+            },
+            "id": "59"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                2856.711395993652,
+                5829.394013247583
+            ],
+            "popup": {
+                "title": "Rhabie Promenade",
+                "description": "A major street that passed half of the city diagonally, extending from a five-point moot in [[Swordspoint]], extended southwest through [[Altarside]], and continued in [[Crow's End]], through [[the Anvil]], before wrapping around to the western wall of the [[Harbor District]] in [[Bitterstone]].",
+                "link": {
+                    "url": "Rhabie Promenade",
+                    "label": "Rhabie Promenade"
+                },
+                "image": "File:Rhabie Promenade.png"
+            },
+            "id": "60"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                2827.012911183817,
+                8443.56314461338
+            ],
+            "popup": {
+                "title": "Marigold's Menagerie",
+                "description": "A stationary extension of the [[Jack Mooney & Sons Circus]] that functioned as a sort of combined animal shelter and animal training center that offered tours, classes, and beast adoption.",
+                "link": {
+                    "url": "Marigold's Menagerie",
+                    "label": "Marigold's Menagerie"
+                },
+                "image": "File:Marigold's Menagerie floorplan.png"
+            },
+            "id": "61"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                2880.9989542756466,
+                8433
+            ],
+            "popup": {
+                "title": "A.V.O.W. shelter",
+                "description": "The Animal Victims of War shelter that was located next to and worked in conjunction with [[Marigold's Menagerie]]. A memorial shelter dedicated to the beasts that perished in the [[Three Women War]] in the late 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "A.V.O.W. shelter",
+                    "label": "A.V.O.W. shelter"
+                }
+            },
+            "id": "62"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1961.9986057008623,
+                2294.010092439072
+            ],
+            "popup": {
+                "title": "The Hand of Mercy ",
+                "description": "A children's hospital and orphanage run by [[cleric]]s of [[Ilmater]] that took on kids who lost their parents in the 14{{th}} century [[DR]] [[war of Ravens Bluff]].",
+                "link": {
+                    "url": "Hand of Mercy ",
+                    "label": "The Hand of Mercy "
+                },
+                "image": "File:DrowSignLanguage.png"
+            },
+            "id": "63"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1120.0591132362417,
+                5071.371975599552
+            ],
+            "popup": {
+                "title": "Market",
+                "description": "A clustered open-air market in front of the [[Gates of the Watchful Raven]] that sold fried [[fish]], [[fishcake]]s, [[apple turnover]]s, meat pies, popular among the harbor laborers.",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "64"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                3894.7421789387536,
+                2825.604406767129
+            ],
+            "popup": {
+                "title": "The Ravensbridge",
+                "description": "Also known as the '''Pirateshead Bridge''', a bridge across the [[Fire River]] that connected the [[Shadystreets]] and [[The Shutters]] neighborhoods of the [[Crow's End]] district of [[Ravens Bluff]].",
+                "link": {
+                    "url": "Ravensbridge",
+                    "label": "The Ravensbridge"
+                }
+            },
+            "id": "65"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                3162.2327932217504,
+                2873.661976732231
+            ],
+            "popup": {
+                "title": "Fire River",
+                "description": "A river that ran from the [[Earthspur Mountains]] to the [[Dragon Reach]].",
+                "link": {
+                    "url": "Fire River",
+                    "label": "Fire River"
+                },
+                "image": "File:CentralVast2eR.jpg"
+            },
+            "id": "66"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                2811.9986057008628,
+                2784.0080739512578
+            ],
+            "popup": {
+                "title": "Ambra's Boats Rental & Harbor Rescue",
+                "description": "A business that rescued and retrieved from across and from deep in the [[Fire River]] as well as offered rental \"harbor party\" boats, popular among [[Ravenaar]].",
+                "link": {
+                    "url": "Ambra's Small Boats Rental & Harbor Rescue\/Retrieval",
+                    "label": "Ambra's Small Boats Rental & Harbor Rescue\/Retrieval"
+                }
+            },
+            "id": "67"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                2722.0055771965503,
+                2817.988898317021
+            ],
+            "popup": {
+                "title": "Delmer's Ferry",
+                "description": "A ferry service across the [[Fire River]].",
+                "link": {
+                    "url": "Delmer's Ferry",
+                    "label": "Delmer's Ferry"
+                }
+            },
+            "id": "68"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                3836.9996514252157,
+                2707.00555084149
+            ],
+            "popup": {
+                "title": "Fish Tails",
+                "description": "A factory that produced fried [[fishcake]]s.",
+                "link": {
+                    "url": "Fish Tails",
+                    "label": "Fish Tails"
+                }
+            },
+            "id": "69"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                2534.2721826501493,
+                2716.709962464401
+            ],
+            "popup": {
+                "title": "Fruits & More",
+                "description": "A grocery that specialized in [[sugar]]s, [[jam]]s, fruit [[compote]]s, and berry-infused simple [[cordial]]s.",
+                "link": {
+                    "url": "Fruits & More",
+                    "label": "Fruits & More"
+                }
+            },
+            "id": "70"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                4003.638102119045,
+                2735.0983069913045
+            ],
+            "popup": {
+                "title": "The Last Jack",
+                "description": "A quiet inn and a tavern, safe due to common patronage of the [[City Watch of Ravens Bluff]].",
+                "link": {
+                    "url": "Last Jack",
+                    "label": "The Last Jack"
+                }
+            },
+            "id": "71"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                2561.1363248249872,
+                2780.346718198348
+            ],
+            "popup": {
+                "title": "Muldryn's Chainworks",
+                "description": "A [[chain]]-making forge, known for its durable and reliable product.",
+                "link": {
+                    "url": "Muldryn's Chainworks",
+                    "label": "Muldryn's Chainworks"
+                }
+            },
+            "id": "72"
+        },
+        {
+            "categoryId": "13",
+            "position": [
+                3122.580587964668,
+                2556.8924116248704
+            ],
+            "popup": {
+                "title": "The Shutters",
+                "description": "A sparsely-inhabited neighborhood of shuttered and well-garrisoned warehouses and muddy river shores.",
+                "link": {
+                    "url": "The Shutters",
+                    "label": "The Shutters"
+                },
+                "image": "File:The Shutters ravens bluff.png"
+            },
+            "id": "73"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                3959.9986057008628,
+                2531.998990756093
+            ],
+            "popup": {
+                "title": "Stonekeep Concourse",
+                "description": "A street that stretched from [[The Ravensbridge]] in [[The Shutters]] to [[Conant Court]] in the [[Pumpside]] neighborhood.",
+                "link": {
+                    "url": "Stonekeep Concourse",
+                    "label": "Stonekeep Concourse"
+                },
+                "image": "File:Stonekeep Concourse.png"
+            },
+            "id": "74"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                3661.9979085512937,
+                2450.0020184878144
+            ],
+            "popup": {
+                "title": "Hammerstone Street",
+                "description": "A street that formed the southeastern edge of [[The Shutters]] neighborhood, running between [[Mraedara's Street]] and [[Helhavryn's Walk]].",
+                "link": {
+                    "url": "Hammerstone Street",
+                    "label": "Hammerstone Street"
+                }
+            },
+            "id": "75"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                2568,
+                2456.004036975629
+            ],
+            "popup": {
+                "title": "Red Sails Way",
+                "description": "Also known as '''Brightbuckler Street''', a street that formed the southwestern edge of The Shutters neighborhood, running between [[Zeldazar Street]] and [[Hippocampus Street]].",
+                "link": {
+                    "url": "Red Sails Way",
+                    "label": "Red Sails Way"
+                }
+            },
+            "id": "76"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                3662,
+                2666.003027731722
+            ],
+            "popup": {
+                "title": "Karen Court",
+                "description": "A street that ran parallel to [[Hammestone Street]] and [[Red Sails Way]], across the entire length of the [[Shutters]].",
+                "link": {
+                    "url": "Karen Court",
+                    "label": "Karen Court"
+                }
+            },
+            "id": "77"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                4178.000697149569,
+                2535.9979815121856
+            ],
+            "popup": {
+                "title": "Mraedara's Street",
+                "description": "The easternmost street in [[The Shutters]] and the [[Pumpside]] neighborhoods.",
+                "link": {
+                    "url": "Mraedara's Street",
+                    "label": "Mraedara's Street"
+                }
+            },
+            "id": "78"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                3766.0738978542918,
+                2538.005046219536
+            ],
+            "popup": {
+                "title": "Burning Shield Lane",
+                "description": "A street that ran from [[Karen Court]] in the [[Shutters]] to [[Kalikoolan Lane]].",
+                "link": {
+                    "url": "Burning Shield Lane",
+                    "label": "Burning Shield Lane"
+                }
+            },
+            "id": "79"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                3550.069714956879,
+                2536
+            ],
+            "popup": {
+                "title": "Landleen Lane",
+                "description": "A street that ran from [[Karen Court]] in the [[Shutters]] to [[Kalikoolan Lane]].",
+                "link": {
+                    "url": "Landleen Lane",
+                    "label": "Landleen Lane"
+                }
+            },
+            "id": "80"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                3348.721488747268,
+                2537.170401508275
+            ],
+            "popup": {
+                "title": "Helhavryn's Walk",
+                "description": "A street that stretched from [[Karen Court]] to [[Stonekeep End]] in the [[Pumpside]] Neighborhood.",
+                "link": {
+                    "url": "Helhavryn's Walk",
+                    "label": "Helhavryn's Walk"
+                }
+            },
+            "id": "81"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                2892.56463009429,
+                2541.7688831452497
+            ],
+            "popup": {
+                "title": "Castles Way",
+                "description": "A street that ran from [[Karen Court]] in the north to the [[Way of Blake the Bold]] in  the south.",
+                "link": {
+                    "url": "Castles Way",
+                    "label": "Castles Way"
+                }
+            },
+            "id": "82"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                2676.5932132266103,
+                2549.173429239997
+            ],
+            "popup": {
+                "title": "Deepaxe Way",
+                "description": "A street that stretched from the [[Fire River]] in the north to the [[Way of Blake the Bold]] in the south.",
+                "link": {
+                    "url": "Deepaxe Way",
+                    "label": "Deepaxe Way"
+                }
+            },
+            "id": "83"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                2780.3448495438797,
+                1397.2487087703032
+            ],
+            "popup": {
+                "title": "Way of Blake the Bold",
+                "description": "The southernmost major street in [[Ravens Bluff]] in the late 14{{th}} century [[DR]], beginning in the east on the diagonal [[Samarglast Lane]] and the [[Rime Gate]] in the west.",
+                "link": {
+                    "url": "Way of Blake the Bold",
+                    "label": "Way of Blake the Bold"
+                }
+            },
+            "id": "84"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                4238.398539584672,
+                2595.0797460249973
+            ],
+            "popup": {
+                "title": "Fellowship of Exalted Adventurers",
+                "description": "A club of young adventurers located just in the woods by [[Mraedara's Street]], organized by the children of ages 8 to 13 in the late 14{{th}} century [[DR]].{{approx}}",
+                "link": {
+                    "url": "Fellowship of Exalted Adventurers",
+                    "label": "Fellowship of Exalted Adventurers"
+                }
+            },
+            "id": "85"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                3677.9993025770373,
+                6950.015138658608
+            ],
+            "popup": {
+                "title": "Stonekeep Concourse",
+                "description": "A street that stretched from [[The Ravensbridge]] in [[The Shutters]] to [[Conant Court]] in the [[Pumpside]] neighborhood.",
+                "link": {
+                    "url": "Stonekeep Concourse",
+                    "label": "Stonekeep Concourse"
+                },
+                "image": "File:Stonekeep Concourse.png"
+            },
+            "id": "86"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                3631.699935021602,
+                6887.224330616238
+            ],
+            "popup": {
+                "title": "Scladdles House",
+                "description": "The home of [[Remy LeBeau]], a [[hin]] [[adventurer]] in the 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "Scladdles House",
+                    "label": "Scladdles House"
+                }
+            },
+            "id": "87"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                3763.223275779819,
+                6098.0974446713135
+            ],
+            "popup": {
+                "title": "Myriad's Fencing School",
+                "description": "A swordsmanship school open to all, run by [[Myriad]], who lost his arm to a [[dragon]], and [[Dulanin Sternhelm]], a rare [[dwarf]] fencer.",
+                "link": {
+                    "url": "Myriad's Fencing School",
+                    "label": "Myriad's Fencing School"
+                }
+            },
+            "id": "88"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                3726.452490276853,
+                4912.982197543397
+            ],
+            "popup": {
+                "title": "Spath Investigations",
+                "description": "A private investigator business run by the retired adventurer named [[Tevlo Spath]] in the 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "Spath Investigations",
+                    "label": "Spath Investigations"
+                }
+            },
+            "id": "89"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                3637.3572824236007,
+                3087.2260657308348
+            ],
+            "popup": {
+                "title": "Lalobaer's Pumps & Piping",
+                "description": "A [[gnome|gnomish]] workshop responsible for the city's quality [[copper]] piping.",
+                "link": {
+                    "url": "Lalobaer's Pumps & Piping",
+                    "label": "Lalobaer's Pumps & Piping"
+                }
+            },
+            "id": "90"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                3742.009579191716,
+                2909.038011444667
+            ],
+            "popup": {
+                "title": "The Salty Dog",
+                "description": "A rough and tumble sailors' tavern facing the [[Ravensbridge]], beloved for its games of [[dart]]s, [[dagger]]s, [[cards]], and [[knucklebones]].",
+                "link": {
+                    "url": "The Salty Dog (Ravens Bluff)",
+                    "label": "The Salty Dog"
+                }
+            },
+            "id": "91"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                3982.426131371395,
+                2969.849908269921
+            ],
+            "popup": {
+                "title": "Spengeloar Masts & Spars",
+                "description": "The makers and sellers of the best masts in [[Ravens Bluff]].",
+                "link": {
+                    "url": "Spengeloar Masts & Spars",
+                    "label": "Spengeloar Masts & Spars"
+                }
+            },
+            "id": "92"
+        },
+        {
+            "categoryId": "13",
+            "position": [
+                3457.1675152870184,
+                2112.2042015871825
+            ],
+            "popup": {
+                "title": "Pumpside",
+                "description": "A neighborhood with a startling contrast of poverty and wealth that laid in the shadow of the [[House of War]]'s high walls.",
+                "link": {
+                    "url": "Pumpside",
+                    "label": "Pumpside"
+                },
+                "image": "File:Pumpside.png"
+            },
+            "id": "93"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                4123.846008151187,
+                2405.5765559534243
+            ],
+            "popup": {
+                "title": "Brothers Galgolar Pawnshop",
+                "description": "A humble pawnshop run by [[Jeffers Galgolar]] and [[Malachi Galgolar]] in the late 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "Brothers Galgolar Pawnshop",
+                    "label": "Brothers Galgolar Pawnshop"
+                },
+                "image": "File:Jeffers Galgolar.png"
+            },
+            "id": "94"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                3507.248894956517,
+                1534.4217151748082
+            ],
+            "popup": {
+                "title": "Cliff's Bard & Swill",
+                "description": "A late night drinking establishment and a festhall that became popular in the late 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "Cliff's Bard & Swill",
+                    "label": "Cliff's Bard & Swill"
+                }
+            },
+            "id": "95"
+        },
+        {
+            "categoryId": "14",
+            "position": [
+                3958.83849085888,
+                1791.35113822868
+            ],
+            "popup": {
+                "title": "House of War",
+                "description": "A large temple complex dedicated to [[Tempus]], a [[deity]] of battle.",
+                "link": {
+                    "url": "House of War",
+                    "label": "House of War"
+                }
+            },
+            "id": "96"
+        },
+        {
+            "categoryId": "15",
+            "position": [
+                3378.555460780565,
+                1750.7935356450491
+            ],
+            "popup": {
+                "title": "House of Whelk",
+                "description": "A busy Merchant House on [[Helhavryn's Walk]] and [[Samarglast Lane]], that produced [[fish paste]]s and fishing [[net]]s.",
+                "link": {
+                    "url": "House of Whelk",
+                    "label": "House of Whelk"
+                }
+            },
+            "id": "97"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                3165.009706014734,
+                1692.8093523013308
+            ],
+            "popup": {
+                "title": "Magestrand Manor",
+                "description": "The manse home to [[Oracle (Ravens Bluff)|Oracle]], a one time Minister of Divination of [[Ravens Bluff]].",
+                "link": {
+                    "url": "Magestrand Manor",
+                    "label": "Magestrand Manor"
+                }
+            },
+            "id": "98"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                3241.377484959134,
+                2408.4028421485386
+            ],
+            "popup": {
+                "title": "Ravens Bluff Sanitation Facility",
+                "description": "A facility that destroyed and recycled garbage in the city of [[Ravens Bluff]].",
+                "link": {
+                    "url": "Ravens Bluff Sanitation Facility",
+                    "label": "Ravens Bluff Sanitation Facility"
+                },
+                "image": "File:RBSanitationFacility.png"
+            },
+            "id": "99"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                3080.156645696095,
+                1974.2428467160514
+            ],
+            "popup": {
+                "title": "Burnhart's Outfitting",
+                "description": "A shop that dealt in traveling caravan gear and supplies, run by [[Frek Burnhart]] in the late 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "Burnhart's Outfitting",
+                    "label": "Burnhart's Outfitting"
+                }
+            },
+            "id": "100"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                3132.5182463069686,
+                2303.402527606933
+            ],
+            "popup": {
+                "title": "Zeldazar Street",
+                "description": "The street that formed the western border of the [[Pumpside]] neighborhood in the [[Southside District]] of [[Ravens Bluff]].",
+                "link": {
+                    "url": "Zeldazar Street",
+                    "label": "Zeldazar Street"
+                },
+                "image": "File:Pumpside.png"
+            },
+            "id": "101"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                3667.0552740809294,
+                2234.458855835912
+            ],
+            "popup": {
+                "title": "Drover's Run",
+                "description": "A long street that began at [[Mraedara's Street]] and reached the city walls.",
+                "link": {
+                    "url": "Drover's Run",
+                    "label": "Drover's Run"
+                }
+            },
+            "id": "102"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                3667.9998256442595,
+                2016.0045415975824
+            ],
+            "popup": {
+                "title": "Conant Court",
+                "description": "A major street that began at [[Mraedara's Street]] and ended by the [[Ministry of Art]].",
+                "link": {
+                    "url": "Conant Court",
+                    "label": "Conant Court"
+                }
+            },
+            "id": "103"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                3247,
+                1593.0030277317217
+            ],
+            "popup": {
+                "title": "Stonekeep End",
+                "description": "",
+                "link": {
+                    "url": "Stonekeep End",
+                    "label": "Stonekeep End"
+                }
+            },
+            "id": "104"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                3673.422440602898,
+                1806.659966861261
+            ],
+            "popup": {
+                "title": "Kalikoolan Lane",
+                "description": "A single block street between [[Landleen Lane]] and [[Burning Shield Lane]].",
+                "link": {
+                    "url": "Kalikoolan Lane",
+                    "label": "Kalikoolan Lane"
+                }
+            },
+            "id": "105"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                3009.9996512885186,
+                1487.0010092439072
+            ],
+            "popup": {
+                "title": "Samarglast Lane",
+                "description": "A long diagonal street that began on [[Way of Blake the Bold]] and ended at [[Stonekeep Concourse]].",
+                "link": {
+                    "url": "Samarglast Lane",
+                    "label": "Samarglast Lane"
+                }
+            },
+            "id": "106"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                2470.8668244984415,
+                8058.0768247181295
+            ],
+            "popup": {
+                "title": "The Shod Talon",
+                "description": "An inn & tavern in Sixstars that was owned by the one-armed [[moon elf]] [[Voron Orama]] in [[1372 DR]]. It catered primarily to [[elves]] and [[half-elves]], though wouldn't turn away clientele of other races.",
+                "link": {
+                    "url": "The Shod Talon",
+                    "label": "The Shod Talon"
+                }
+            },
+            "id": "107"
+        },
+        {
+            "categoryId": "13",
+            "position": [
+                2168.236902589977,
+                8632.190991806316
+            ],
+            "popup": {
+                "title": "Tent City",
+                "description": "A sprawling tent community outside of the [[North Gate]] of the city in the 14{{th}} century DR, considered by some to be an unofficial district of the city. It was host to a variety of merchants and vendors.",
+                "link": {
+                    "url": " Ravens Bluff\/Tent City",
+                    "label": "Tent City"
+                },
+                "image": "File:RB TentCity.png"
+            },
+            "id": "108"
+        },
+        {
+            "categoryId": "13",
+            "position": [
+                964.4086397987966,
+                7224.951499035084
+            ],
+            "popup": {
+                "title": "Crow's Foot",
+                "description": "A hamlet home to many families and merchants, it stood at the foot of Ravens Bluff, outside of its protective walls, along the road known as [[the Front]].",
+                "link": {
+                    "url": " Crow's Foot",
+                    "label": " Crow's Foot"
+                },
+                "image": "File:Crow's Foot-map.png"
+            },
+            "id": "109"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                1122.2058073146263,
+                7152.199987797192
+            ],
+            "popup": {
+                "title": " Raven's Eye",
+                "description": "Formerly known as the '''Red Sail Inn''', was a tavern & inn in the hamlet of [[Crow's Foot]], outside the protective walls of Ravens Bluff. It was host to a wide variety of criminal activity, including fencing, smuggling, and forgeries.",
+                "link": {
+                    "url": " Raven's Eye",
+                    "label": " Raven's Eye"
+                }
+            },
+            "id": "110"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1622.1367700977917,
+                6926.690615299647
+            ],
+            "popup": {
+                "title": "Of Style and Grace (magic shop)",
+                "description": "A magic shop in the 14{{th}} century [[DR]] that specialized in [[spell component]]s. Its name was a play-on words of its owner, [[Grace Stiles]]. In the image below, it's the building that resembles the [[wikipedia:Lincoln Memorial|Lincoln Memorial]]. {{approx}}",
+                "link": {
+                    "url": " Of Style and Grace (magic shop)",
+                    "label": " Of Style and Grace"
+                },
+                "image": "File:StyleAndGrace.png"
+            },
+            "id": "111"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                119.63667484189553,
+                6404.279285632822
+            ],
+            "popup": {
+                "title": "Sharkey's Bar & Grill",
+                "description": "A popular undersea restaurant that was located beneath the depths of the [[Ravens Bluff Harbor]] in the 14{{th}} century [[DR]].  The name derived from a combination of a nickname held by its owner, [[Slaythis J'harja]], and its unique underwater grill. {{approx}}",
+                "link": {
+                    "url": "Sharkey's Bar & Grill",
+                    "label": "Sharkey's Bar & Grill"
+                },
+                "image": "File:Sharkey'sInterior.png"
+            },
+            "id": "112"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                1728.606367796593,
+                3871.698084799122
+            ],
+            "popup": {
+                "title": "Flask Circle",
+                "description": "A a small shopping district, referred to by some as a '''boutique district'''. It was originally a hidden culdesac, but by late [[1370 DR]] it had opened up and gained direct ingresses from [[Black Tree Boulevard]] and [[Red Wyrm Ride]].",
+                "link": {
+                    "url": "Flask Circle",
+                    "label": "Flask Circle"
+                },
+                "image": "File:Crow's End Excerpt.png"
+            },
+            "id": "113"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1764.547101342885,
+                3788.1972197999994
+            ],
+            "popup": {
+                "title": "Winn's Ice House",
+                "description": "Previously housing an [[apothecary]] called [[Healthier Living]], sometime around [[1370 DR]] it switched ownership to the [[wizard]]  [[Darra Winn]], who used the building for an an icehouse business. She created and stored ice through the use of various [[spell]]s.",
+                "link": {
+                    "url": "Winn's Ice House",
+                    "label": "Winn's Ice House"
+                }
+            },
+            "id": "114"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1679.05822717535,
+                3882.620926877368
+            ],
+            "popup": {
+                "title": "Flora's Flower Shop",
+                "description": "Also known as '''Flora's Flowers''', was a flower business that was once the only means of entering the hidden shopping district of [[Flask Circle]]. By around [[1370 DR]] it was bought by the Ampners, torn down, and in its place built an apartment complex with a flower shop on the ground floor.",
+                "link": {
+                    "url": "Flora's Flower Shop",
+                    "label": "Flora's Flower Shop"
+                }
+            },
+            "id": "115"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                1770.5452470374742,
+                3908.644627853333
+            ],
+            "popup": {
+                "title": "The Cracked Tankard",
+                "description": "A shady low-dive tavern that was owned by the [[Ampner]] family, it was considered a staple of Anvil among the many sailors who frequented it.",
+                "link": {
+                    "url": "The Cracked Tankard",
+                    "label": "The Cracked Tankard"
+                }
+            },
+            "id": "116"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1708.4165522363362,
+                3861.632706067525
+            ],
+            "popup": {
+                "title": "Supreme Supplies",
+                "description": "An [[alchemy]] supplies shop in the [[Flask Circle]] market, in the late 14{{th}} century [[DR]], that was ran by the [[gnome]] [[Syrondario]]. It carried both alchemical supplies and ingredients, ranging from [[ammonia]] to [[centrifuge]]s. {{approx}}",
+                "link": {
+                    "url": "Supreme Supplies",
+                    "label": "Supreme Supplies"
+                }
+            },
+            "id": "117"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1492.9215320343071,
+                6244.513390941063
+            ],
+            "popup": {
+                "title": " Glar Maru's Golden Palace",
+                "description": "A prominent and multi-storied general goods emporium in the 14{{th}} century [[DR]] that was named for its owner, the [[wizard]] [[Glar Maru]]. It offered an expansive array of non-perishable goods and was guarded by trained [[spider]]s.",
+                "link": {
+                    "url": " Glar Maru's Golden Palace",
+                    "label": " Glar Maru's Golden Palace"
+                }
+            },
+            "id": "118"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                2553.66045117682,
+                6224.666980983893
+            ],
+            "popup": {
+                "title": "Kettle of Many Things",
+                "description": "A restaurant & tavern in the 14{{th}} century [[DR]] that shared a building with the magic shop [[Morigan's Complete Components]], which specialized in the sale of [[spell component]]s.",
+                "link": {
+                    "url": "Kettle of Many Things",
+                    "label": "Kettle of Many Things"
+                }
+            },
+            "id": "119"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                2556.464788491385,
+                6146.996390547178
+            ],
+            "popup": {
+                "title": " Iron Bull Smithy",
+                "description": "A smithy in the 14{{th}} century [[DR]] that specialized as a farrier, producing [[horseshoe]]s and shoeing [[horse]]s.",
+                "link": {
+                    "url": " Iron Bull Smithy",
+                    "label": " Iron Bull Smithy"
+                }
+            },
+            "id": "120"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                1990.8739790546495,
+                6188
+            ],
+            "popup": {
+                "title": "Skulls Street",
+                "description": "A long avenue that began on [[Westwall Way South]] in [[Gowntown]],  a block down from the entrance to the [[Ravens Bluff\/Foreign District|Foreign District]], and traveled north until ending at the eastern end of [[Lamorgyr's Ride]] in [[Tentowers]].",
+                "link": {
+                    "url": " Skulls Street (Ravens Bluff)",
+                    "label": " Skulls Street"
+                }
+            },
+            "id": "121"
+        }
+    ],
+    "markerProgress": false
+}
+jrxwfyhi6y6b74kyxvjso39t8ufiheb
+
+

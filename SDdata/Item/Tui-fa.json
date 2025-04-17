@@ -1,0 +1,50 @@
+{
+    "template_data": {
+        "2|3|ft|c|long": "yes"
+    },
+    "document_data": {
+        "image": "<gallery>",
+        "caption": "",
+        "name": "Tui-fa",
+        "othernames": "",
+        "nicknames": "",
+        "type": "Weapon",
+        "creator": "",
+        "location": "[[Kara-Tur]]",
+        "basicrefs": "",
+        "value1e": "5 [[yuan]]",
+        "weight1e": "",
+        "refs1e": "",
+        "school2e": "",
+        "level2e": "",
+        "value2e": "",
+        "weight2e": "",
+        "refs2e": "",
+        "school3e": "",
+        "casterlevel3e": "",
+        "itemlevel3e": "",
+        "value3e": "5 [[gp]]",
+        "weight3e": "{{SI|2|lb|k}}",
+        "refs3e": "",
+        "level4e": "",
+        "value4e": "",
+        "weight4e": "",
+        "refs4e": "",
+        "rarity5e": "",
+        "attunement5e": "",
+        "school5e": "",
+        "level5e": "",
+        "value5e": "",
+        "weight5e": "",
+        "refs5e": "",
+        "communication": "",
+        "languages": "",
+        "alignment": "",
+        "sentientrefs": "",
+        "mainbody": "The '''tui-fa''', also known as the '''tonfa''' ({{Pronounce|tohn|fah|refs=}}), was a weapon unique to the continent of [[Kara-Tur]].",
+        "Description": "A tui-fa was a hardwood rod with a small off-center handle protruding from its side. Spanning a length of approximately {{SIrange|2|3|ft|c|long=yes}}, it was originally a millstone handle but has since evolved into a martial arts implement. \n\nWith the tui-fa, a skilled practitioner could proficiently engage in blocking, weapon interception, weapon destruction, and effective offensive maneuvers. It was often used in regions where conventional weapons were prohibited or restricted.",
+        "Notable Users": {
+            "Classes": "* Both [[shugenja]] and [[wu jen]] were known to utilize the tui-fa."
+        }
+    }
+}

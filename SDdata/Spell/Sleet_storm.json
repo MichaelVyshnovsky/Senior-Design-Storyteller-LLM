@@ -1,0 +1,28 @@
+{
+    "template_data": {
+        "edition": "5e",
+        "edition_1": "3e"
+    },
+    "document_data": {
+        "image": "Sleet storm.png",
+        "caption": "",
+        "name": "Sleet Storm",
+        "deity": "",
+        "inventor": "",
+        "type": "",
+        "school5e": "[[Conjuration]]",
+        "domains5e": "[[Tempest domain|Tempest]]",
+        "circles5e": "[[Arctic circle|Arctic]]",
+        "level5e": "{{Spell table|edition=5e|[[Arctic circle|Arctic]]|3|[[Druid]]|3|[[Sorcerer]]|3|[[Tempest domain|Tempest]]|3|[[Wizard]]|3}}",
+        "type5e": "",
+        "refs5e": "",
+        "domains3e": "[[Storm domain|Storm]]",
+        "level3e": "{{spell table|edition=3e|[[Druid]]|4|[[Sorcerer]]|3|[[Wizard|Wizard]]|3|[[Storm domain|Storm]]|4}}",
+        "descriptors3e": "{{desc/cold}}",
+        "school3e": "[[Conjuration]] (Creation)",
+        "refs3e": "",
+        "mainbody": "'''''Sleet storm''''' was a [[conjuration]] [[spell]] that created a storm of sleet to rain down on foes, making it harder for them to see and move.",
+        "Effects": "Upon casting the spell, a great storm of sleet would be conjured. Rain and sleet would pour from the skies, blocking sight in every form, even [[darkvision]]. And torches or fires lit in the area would immediately be put out. The fallen sleet would cause the ground to become very icy, slowing creatures. If the creatures were unable to balance, they would not be able to move for a while, and could even fall over.",
+        "Components": "The spell required [[somatic]], [[verbal]], and [[material component]]s. The material components were a small amount of water and dust."
+    }
+}

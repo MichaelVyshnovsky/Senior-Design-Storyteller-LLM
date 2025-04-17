@@ -1,0 +1,76 @@
+{
+    "template_data": {
+        "5|inch|c|long": "yes",
+        "adj": "diameter"
+    },
+    "document_data": {
+        "image": "Drow Warlock - Wayne England.jpg",
+        "caption": "A drow with a \"rending claw\" grafted onto his right arm.",
+        "name": "Illithid Graft",
+        "othernames": "",
+        "nicknames": "",
+        "type": "[[Graft]]",
+        "material": "",
+        "creator": "",
+        "origin": "",
+        "location": "",
+        "basicrefs": "",
+        "value1e": "",
+        "weight1e": "",
+        "refs1e": "",
+        "school2e": "",
+        "level2e": "",
+        "value2e": "",
+        "weight2e": "",
+        "refs2e": "",
+        "school3e": "",
+        "casterlevel3e": "",
+        "itemlevel3e": "",
+        "value3e": "1,000&ndash;45,000 [[gp]]",
+        "weight3e": "",
+        "refs3e": "",
+        "level4e": "",
+        "value4e": "",
+        "weight4e": "",
+        "refs4e": "",
+        "rarity5e": "",
+        "attunement5e": "",
+        "school5e": "",
+        "level5e": "",
+        "value5e": "",
+        "weight5e": "",
+        "refs5e": "",
+        "communication": "",
+        "languages": "",
+        "alignment": "",
+        "sentientrefs": "",
+        "mainbody": "'''Illithid grafts''' referred to special flesh and body parts that were [[graft]]ed onto a living creature by illithids ([[mind flayer]]s).",
+        "Description": {
+            "Creation": "Attaching illithid parts to another creature required familiarity with medicine and specialized knowledge of how to graft flesh. The illithids of [[Faerûn]]'s [[Underdark]] were known to treat the macabre practice of grafting as an artform,\n\nIllithid grafting techniques were not related to [[ceremorphosis]]."
+        },
+        "History": "Some scholars believed that the illithids were the very first to develop techniques for grafting flesh to another creature, although others argued that they had more likely learned the secrets from a [[fiend of corruption]].\n\nIn the mid-to-late 14{{th}} century [[DR]], the [[Black Spear]] tribe of [[kobold]]s had struck a pact with the illithids of [[Ch'Chitl]] that included \"gifts\" of illithid grafts. By {{Yearlink|1372}}, the kobolds served as scouts in the environs around [[Waterdeep]], and their grafts were inching them closer and closer toward becoming thralls.{{Cite web enhancement/Environs of Waterdeep|9-10}}",
+        "Notable Illithid Grafts": {
+            "Arms": {
+                "Burrowing claw": "Both of the thrall's hands were replaced with [[iron]]-hard claws used for digging.",
+                "Extracting tentacle": "An arm or forelimb was replaced with a long, flexible tentacle able to pierce flesh and extract brains.",
+                "Grabbing tentacle": "An arm or forelimb was replaced with a long, flexible tentacle covered in suckers that could be used to grab enemies.",
+                "Raking tentacle": "An arm or forelimb was replaced with a long, flexible tentacle tipped with a sharp point of bone.",
+                "Rending claw": "The thrall's entire arm was replaced with an oversized, muscled limb with razor-sharp claws.",
+                "Weapon graft": "A weapon was grafted directly into the hand of a thrall."
+            },
+            "Head": {
+                "Brainmate": "A {{SIAdj|5|inch|c|long=yes|adj=diameter}} piece of gray matter grown by an [[elder brain]] that was implanted at the base of a thrall's skull or neck. This graft granted limited access to the elder brain's knowledge, and was the rare instance of a graft than an illithid might give itself.",
+                "Antennae graft": "A pair of tall antennae along with hundreds of short hairs were grafted to the thrall to grant it [[tremorsense]].",
+                "Darksight eyes": "Pupilless mind flayer eyes granted [[darkvision]]. These were reserved for favored thralls.",
+                "Goring horn": "The thrall's entire facial structure was lengthened to accommodate a sharp horn, giving them a bestial appearance.",
+                "Grasping mandibles": "The thrall's jaw and facial muscles were enlarged to accommodate a pair of [[umber hulk]]-style mandibles.",
+                "Mind blast relay": "A graft located deep in the thrall's brain that allowed illithids to detect their presence and to use them as the origin for their ''[[mind blast]]'' ability. The graft also conferred immunity to the effects of ''mind blasts''."
+            },
+            "Other": {
+                "Climbing legs": "Legs with sticky feet extended to the thrall's front, allowing it to climb walls.",
+                "Hauling back": "The thrall was transformed into a quadrupedal beast of burden with an oversized spine and back muscles.",
+                "Humanoid skin": "A thrall's skin was painfully removed and replaced with the flesh and features of another species of a similar build."
+            }
+        }
+    }
+}

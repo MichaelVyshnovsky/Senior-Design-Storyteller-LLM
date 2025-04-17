@@ -1,0 +1,21 @@
+{
+    "template_data": {
+        "edition": "2e",
+        "edition_1": "1e"
+    },
+    "document_data": {
+        "name": "Speak with Monsters",
+        "school2e": "[[Alteration]]",
+        "spheres2e": "[[All sphere|All]],<ref group=\"note\">This spell was moved from the [[Divination sphere]] to the [[All sphere]] by the [[Player's Option: Spells & Magic]]. See page 186.  [[Divination sphere|Divination]]",
+        "level2e": "{{spell table|edition=2e|[[All sphere|All]]|6|[[Cleric]]|6|[[Crusader]]|6|[[Divination sphere|Divination]]|6|[[Druid]]|6|[[Monk]]|6|[[Mystic]]|6|[[Shaman]]|6}}",
+        "type2e": "",
+        "refs2e": "",
+        "school1e": "[[Alteration]]",
+        "level1e": "{{spell table|edition=1e|[[Cleric]]|6|[[Shugenja|Shukenja]]|6}}",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Speak with monsters''''' was an [[alteration]] spell that allowed the caster to communicate with any creature that had some mode of communication.",
+        "Effects": "For two minutes per level of experience the caster could speak any creature's language through whatever medium (audio, tactile, pheromones, sign language, dance, empathy, telepathy, etc.) and be able to convey and understand intent, ideas, and concepts up to the complexity the creature was able to grasp. The caster could speak to only one type of creature at a time, but all creatures of the same type within 90 ft (27 m) could understand the caster, within the limitations of the communication medium (pheromones in a high wind might be tricky).",
+        "Components": "Only verbal and somatic components were required to cast this spell."
+    }
+}

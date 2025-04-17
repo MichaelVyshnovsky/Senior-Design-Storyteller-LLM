@@ -1,0 +1,1774 @@
+2900
+135384
+
+997642
+997640
+2024-12-12T00:51:02Z
+
+Artyom.pavlov
+24367202
+
+
+Reverted edits by [[Special:Contributions/68.44.71.189|68.44.71.189]] ([[User talk:68.44.71.189|talk]]) to last revision by [[User:BadCatMan|BadCatMan]]
+997642
+interactivemap
+text/plain
+{
+    "mapImage": "Sword Coast North (15th Century DR)-Background",
+    "pageCategories": [
+        "Interactive_maps",
+        "Maps_of_the_Sword_Coast_North",
+        "Maps_of_Northwest_Faer\u00fbn"
+    ],
+    "defaultSort": "",
+    "mapImageChangedAt": "2022-04-18 15:08:16",
+    "description": "",
+    "coordinateOrder": "xy",
+    "mapBounds": [
+        [
+            0,
+            0
+        ],
+        [
+            2153,
+            3000
+        ]
+    ],
+    "origin": "bottom-left",
+    "useMarkerClustering": false,
+    "categories": [
+        {
+            "id": "1",
+            "listId": 1,
+            "name": "Cities",
+            "color": "#f00",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "5",
+            "listId": 2,
+            "name": "Towns and villages",
+            "color": "#ff6a6a",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "2",
+            "listId": 3,
+            "name": "Ruins",
+            "color": "#656565",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "12",
+            "listId": 4,
+            "name": "Strongholds and keeps",
+            "color": "#fa5200",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "4",
+            "listId": 5,
+            "name": "Points of interest",
+            "color": "#ffffff",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "10",
+            "listId": 6,
+            "name": "Inns",
+            "color": "#feeeee",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "3",
+            "listId": 7,
+            "name": "Peaks",
+            "color": "#c39560",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "7",
+            "listId": 8,
+            "name": "Roads and trails",
+            "color": "#7f0000",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "6",
+            "listId": 9,
+            "name": "Rivers and streams",
+            "color": "#7eddff",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "8",
+            "listId": 10,
+            "name": "Forests and marshes",
+            "color": "#089600",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "9",
+            "listId": 11,
+            "name": "Hills and mountains",
+            "color": "#955000",
+            "symbol": "",
+            "symbolColor": ""
+        },
+        {
+            "id": "11",
+            "listId": 12,
+            "name": "References",
+            "color": "#000000",
+            "symbol": "",
+            "symbolColor": ""
+        }
+    ],
+    "markers": [
+        {
+            "categoryId": "1",
+            "position": [
+                490.40002441406,
+                1538.2042747012
+            ],
+            "popup": {
+                "title": "Neverwinter",
+                "description": "A recently-rebuilt city known as the \"Jewel of the North\"",
+                "link": {
+                    "url": "Neverwinter",
+                    "label": "Neverwinter"
+                }
+            },
+            "id": "1"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1230.4001464844,
+                693.59606455163
+            ],
+            "popup": {
+                "title": "Phandalin",
+                "description": "Mining town",
+                "link": {
+                    "url": "Phandalin",
+                    "label": "Phandalin"
+                }
+            },
+            "id": "2"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                905.60009765625,
+                420.80738232642
+            ],
+            "popup": {
+                "title": "Leilon",
+                "description": "A town being rebuilt by agents from [[Neverwinter]]",
+                "link": {
+                    "url": "Leilon",
+                    "label": "Leilon"
+                }
+            },
+            "id": "3"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                804.80004882812,
+                1425.6056588874
+            ],
+            "popup": {
+                "title": "Helm's Hold",
+                "description": "A fortified town held by the [[Order of the Gilded Eye]] which once held an asylum for victims of the [[Spellplague]]",
+                "link": {
+                    "url": "Helm's Hold",
+                    "label": "Helm's Hold"
+                }
+            },
+            "id": "4"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                316,
+                1885.9491480329
+            ],
+            "popup": {
+                "title": "Port Llast",
+                "description": "A port town",
+                "link": {
+                    "url": "Port Llast",
+                    "label": "Port Llast"
+                }
+            },
+            "id": "5"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1059.1999511719,
+                1931.2113177748
+            ],
+            "popup": {
+                "title": "New Sharandar",
+                "description": "An [[elf|elven]] settlement tied to a [[Feywild]] city",
+                "link": {
+                    "url": "New Sharandar",
+                    "label": "New Sharandar"
+                }
+            },
+            "id": "6"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                904.7998046875,
+                2284.807504469
+            ],
+            "popup": {
+                "title": "Gauntlgrym",
+                "description": "A newly reclaimed ancient [[Dwarf|dwarven]] city",
+                "link": {
+                    "url": "Gauntlgrym",
+                    "label": "Gauntlgrym"
+                }
+            },
+            "id": "7"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                750.39990234375,
+                2085.5961866942
+            ],
+            "popup": {
+                "title": "Mount Hotenow",
+                "description": "A volcano that warms the [[Neverwinter River]] and contains a powerful [[primordial]] entity known as [[Maegera]]",
+                "link": {
+                    "url": "Mount Hotenow",
+                    "label": "Mount Hotenow"
+                }
+            },
+            "id": "8"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1676,
+                824.60570469086
+            ],
+            "popup": {
+                "title": "Icespire Peak",
+                "description": "The tallest mountain in the [[Sword Mountains]]",
+                "link": {
+                    "url": "Icespire Peak",
+                    "label": "Icespire Peak"
+                }
+            },
+            "id": "9"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1788,
+                1407.805197492
+            ],
+            "popup": {
+                "title": "Conyberry",
+                "description": "A ruined town which was overrun by the [[Gray Wolf tribe]]",
+                "link": {
+                    "url": "Conyberry",
+                    "label": "Conyberry"
+                }
+            },
+            "id": "10"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1691.6000366211,
+                1425.0118860449
+            ],
+            "popup": {
+                "title": "Agatha's Grove",
+                "description": "Lair of a famous [[banshee]]",
+                "link": {
+                    "url": "Agatha's Grove",
+                    "label": "Agatha's Grove"
+                }
+            },
+            "id": "11"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1970.3999633789,
+                1170.7051321837
+            ],
+            "popup": {
+                "title": "Old Owl Well",
+                "description": "A watering hole and ruined watchtower",
+                "link": {
+                    "url": "Old Owl Well",
+                    "label": "Old Owl Well"
+                }
+            },
+            "id": "12"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1969.4000244141,
+                974.13918390869
+            ],
+            "popup": {
+                "title": "Wyvern Tor",
+                "description": "A tall crag",
+                "link": {
+                    "url": "Wyvern Tor",
+                    "label": "Wyvern Tor"
+                }
+            },
+            "id": "13"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1186.5999755859,
+                1181.5512243122
+            ],
+            "popup": {
+                "title": "Cragmaw Castle",
+                "description": "Ruined castle",
+                "link": {
+                    "url": "Cragmaw Castle",
+                    "label": "Cragmaw Castle"
+                }
+            },
+            "id": "14"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1459.4000854492,
+                710.97279034633
+            ],
+            "popup": {
+                "title": "Wave Echo Cave",
+                "description": "A cave containing ancient [[dwarf|dwarven]] mine concealing the [[Forge of Spells]]",
+                "link": {
+                    "url": "Wave Echo Cave",
+                    "label": "Wave Echo Cave"
+                }
+            },
+            "id": "15"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                927.20001220703,
+                874.55243887202
+            ],
+            "popup": {
+                "title": "Cragmaw Hideout",
+                "description": "Cave",
+                "link": {
+                    "url": "Cragmaw Hideout",
+                    "label": "Cragmaw Hideout"
+                }
+            },
+            "id": "16"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                891.20001220703,
+                1583.3990772092
+            ],
+            "popup": {
+                "title": "Thundertree",
+                "description": "A ruined town",
+                "link": {
+                    "url": "Thundertree",
+                    "label": "Thundertree"
+                }
+            },
+            "id": "17"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                703.19995117188,
+                1588.807504469
+            ],
+            "popup": {
+                "title": "Neverwinter River",
+                "description": "Volcanically heated river",
+                "link": {
+                    "url": "Neverwinter River",
+                    "label": "Neverwinter River"
+                }
+            },
+            "id": "18"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1117.200012207,
+                1667.2978736802
+            ],
+            "popup": {
+                "title": "Loggers' camp",
+                "description": "Logging operation run by [[Tibor Wester]]",
+                "link": {
+                    "url": "Tibor Wester's loggers' camp",
+                    "label": "Tibor Wester's loggers' camp"
+                }
+            },
+            "id": "19"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1566.200012207,
+                1669.2569637758
+            ],
+            "popup": {
+                "title": "Circle of Thunder",
+                "description": "Ring of standing stones used by the [[anchorites of Talos]]",
+                "link": {
+                    "url": "Circle of Thunder",
+                    "label": "Circle of Thunder"
+                }
+            },
+            "id": "20"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                1428.4000244141,
+                1588.4079573903
+            ],
+            "popup": {
+                "title": "Falcon's hunting lodge",
+                "description": "An inn and lodge owned by [[Gustaf Stellern]]",
+                "link": {
+                    "url": "Falcon's hunting lodge",
+                    "label": "Falcon's hunting lodge"
+                }
+            },
+            "id": "21"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1595.7999267578,
+                1517.0136239116
+            ],
+            "popup": {
+                "title": "Woodland Manse",
+                "description": "A ruined mansion",
+                "link": {
+                    "url": "Woodland Manse",
+                    "label": "Woodland Manse"
+                }
+            },
+            "id": "22"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1898.0000610352,
+                1417.7862836413
+            ],
+            "popup": {
+                "title": "Butterskull Ranch",
+                "description": "A dairy farm",
+                "link": {
+                    "url": "Butterskull Ranch",
+                    "label": "Butterskull Ranch"
+                }
+            },
+            "id": "23"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1797.5999755859,
+                1315.9952944391
+            ],
+            "popup": {
+                "title": "Shrine of Savras",
+                "description": "Temple to [[Savras]], the god of fate and [[divination]]",
+                "link": {
+                    "url": "Shrine of Savras (Conyberry)",
+                    "label": "Shrine of Savras (Conyberry)"
+                }
+            },
+            "id": "24"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                830.59997558594,
+                1262.4239111807
+            ],
+            "popup": {
+                "title": "Dragon Barrow",
+                "description": "The tomb of Lady [[Tanamere Alagondar]]",
+                "link": {
+                    "url": "Dragon Barrow",
+                    "label": "Dragon Barrow"
+                }
+            },
+            "id": "25"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                641,
+                662.90001103078
+            ],
+            "popup": {
+                "title": "Tower of Storms",
+                "description": "A dangerous lighthouse",
+                "link": {
+                    "url": "Tower of Storms",
+                    "label": "Tower of Storms"
+                }
+            },
+            "id": "26"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1466,
+                551.18947439934
+            ],
+            "popup": {
+                "title": "Gnomengarde",
+                "description": "A tiny [[gnome]] kingdom",
+                "link": {
+                    "url": "Gnomengarde",
+                    "label": "Gnomengarde"
+                }
+            },
+            "id": "27"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1295.6000366211,
+                433.1859223269
+            ],
+            "popup": {
+                "title": "Axeholm",
+                "description": "A ruined ancient [[dwarf|dwarven]] fortress",
+                "link": {
+                    "url": "Axeholm",
+                    "label": "Axeholm"
+                }
+            },
+            "id": "28"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1158.5999755859,
+                435.05271961024
+            ],
+            "popup": {
+                "title": "Dwarven excavation",
+                "description": "A buried ancient [[dwarf|dwarven]] temple to [[Abbathor]], the god of greed",
+                "link": {
+                    "url": "Temple of Abbathor",
+                    "label": "Temple of Abbathor"
+                }
+            },
+            "id": "29"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1289,
+                611.60571995868
+            ],
+            "popup": {
+                "title": "Umbrage Hill",
+                "description": "A hill with a windmill and home to [[Adabra Gwynn]], a maker of [[potion]]s",
+                "link": {
+                    "url": "Umbrage Hill",
+                    "label": "Umbrage Hill"
+                }
+            },
+            "id": "30"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1489.200012207,
+                851.80345199142
+            ],
+            "popup": {
+                "title": "Mountain's Toe",
+                "description": "A [[gold]] mine",
+                "link": {
+                    "url": "Mountain's Toe",
+                    "label": "Mountain's Toe"
+                }
+            },
+            "id": "31"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                1796.6000366211,
+                871.4684342288
+            ],
+            "popup": {
+                "title": "Icespire Hold",
+                "description": "Old fortress in the [[Sword Mountains]]",
+                "link": {
+                    "url": "Icespire Hold",
+                    "label": "Icespire Hold"
+                }
+            },
+            "id": "32"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1250,
+                2641.7667472428
+            ],
+            "popup": {
+                "title": "Morgur's Mound",
+                "description": "Ancestor mound of the [[Thunderbeast Tribe]] of the [[Uthgardt]]",
+                "link": {
+                    "url": "Morgur's Mound",
+                    "label": "Morgur's Mound"
+                }
+            },
+            "id": "33"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1446,
+                2127.4920536405
+            ],
+            "popup": {
+                "title": "Tower of Twilight",
+                "description": "A mysterious tower",
+                "link": {
+                    "url": "Tower of Twilight",
+                    "label": "Tower of Twilight"
+                }
+            },
+            "id": "34"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                1229.5998535156,
+                1355.2540647867
+            ],
+            "popup": {
+                "title": "Dread Ring",
+                "description": "A [[Red Wizards|Thayan]] ritual site and fortress",
+                "link": {
+                    "url": "Dread Ring (Neverwinter Wood)",
+                    "label": "Dread Ring"
+                }
+            },
+            "id": "35"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1630.8000488281,
+                1565.5914505976
+            ],
+            "popup": {
+                "title": "Xinlenal",
+                "description": "A fallen [[Netherese enclave]]",
+                "link": {
+                    "url": "Xinlenal",
+                    "label": "Xinlenal"
+                }
+            },
+            "id": "36"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                225.60003662109,
+                2303.5866534297
+            ],
+            "popup": {
+                "title": "Silent Sound Lighthouse",
+                "description": "Lighthouse and stronghold for [[Acquisitions Incorporated]]",
+                "link": {
+                    "url": "Silent Sound Lighthouse",
+                    "label": "Silent Sound Lighthouse"
+                }
+            },
+            "id": "37"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                851.59985351562,
+                807.50516951303
+            ],
+            "popup": {
+                "title": "Wayside Inn",
+                "description": "An inn maintained by [[Martisha Vinetalker]]",
+                "link": {
+                    "url": "Wayside Inn",
+                    "label": "Wayside Inn"
+                }
+            },
+            "id": "38"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                209.40002441406,
+                904
+            ],
+            "popup": {
+                "title": "Cities",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "39"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                208.60003662109,
+                840
+            ],
+            "popup": {
+                "title": "Towns and villages",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "40"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1358.3999023438,
+                1683.9905278068
+            ],
+            "popup": {
+                "title": "Edal's Creek",
+                "description": "Tributary of the [[Neverwinter River]]",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "41"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1065,
+                1848.7424747478
+            ],
+            "popup": {
+                "title": "The Gibdraw",
+                "description": "Tributary of the [[Neverwinter River]]",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "42"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1406.3999023438,
+                1772.0189443864
+            ],
+            "popup": {
+                "title": "Berun's River",
+                "description": "Tributary of the [[Neverwinter River]]",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "43"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1153,
+                2188.8300925347
+            ],
+            "popup": {
+                "title": "River Morgur",
+                "description": "Tributary of the [[Neverwinter River]]",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "44"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                207.79998779297,
+                774
+            ],
+            "popup": {
+                "title": "Ruins",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "45"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                208.39996337891,
+                710.8004613954
+            ],
+            "popup": {
+                "title": "Points of interest",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "46"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                208.40002441406,
+                646.80049193105
+            ],
+            "popup": {
+                "title": "Peaks",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "47"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                209.19995117188,
+                584
+            ],
+            "popup": {
+                "title": "Roads",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "48"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                209.39996337891,
+                517.19241919189
+            ],
+            "popup": {
+                "title": "Trails",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "49"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                209,
+                451.98815975852
+            ],
+            "popup": {
+                "title": "Rivers and streams",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "50"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                207.60003662109,
+                386.38720643207
+            ],
+            "popup": {
+                "title": "Forests",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "51"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                209,
+                322.59148113326
+            ],
+            "popup": {
+                "title": "Marshes",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "52"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                209.80004882812,
+                258.01420828978
+            ],
+            "popup": {
+                "title": "Hills",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "53"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                209.80004882812,
+                193.21605387138
+            ],
+            "popup": {
+                "title": "Mountains",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "54"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                1298.4001464844,
+                1966.4890630445
+            ],
+            "popup": {
+                "title": "Neverwinter Wood",
+                "description": "A dense and magical forest",
+                "link": {
+                    "url": "Neverwinter Wood",
+                    "label": "Neverwinter Wood"
+                }
+            },
+            "id": "55"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                1156,
+                142.46313665577
+            ],
+            "popup": {
+                "title": "Mere of Dead Men",
+                "description": "A marshland created by a magical catastrophe long ago",
+                "link": {
+                    "url": "Mere of Dead Men",
+                    "label": "Mere of Dead Men"
+                }
+            },
+            "id": "56"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                1920,
+                378.60285150525
+            ],
+            "popup": {
+                "title": "Kryptgarden Forest",
+                "description": "A mysterious and dangerous forest known to be home to [[Old Gnawbone]]",
+                "link": {
+                    "url": "Kryptgarden Forest",
+                    "label": "Kryptgarden Forest"
+                }
+            },
+            "id": "57"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                1956,
+                1811.4506127953
+            ],
+            "popup": {
+                "title": "Starmetal Hills",
+                "description": "Hills named for its local [[Meteorite|meteor]] showers",
+                "link": {
+                    "url": "Starmetal Hills",
+                    "label": "Starmetal Hills"
+                }
+            },
+            "id": "58"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                1128.8000488281,
+                2643.9716444917
+            ],
+            "popup": {
+                "title": "The Crags",
+                "description": "Hilly and mountainous region",
+                "link": {
+                    "url": "Crags",
+                    "label": "Crags"
+                }
+            },
+            "id": "59"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                1628,
+                705.68155857545
+            ],
+            "popup": {
+                "title": "Sword Mountains",
+                "description": "A mountain range",
+                "link": {
+                    "url": "Sword Mountains",
+                    "label": "Sword Mountains"
+                }
+            },
+            "id": "60"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                774.40014648438,
+                1135.2305064463
+            ],
+            "popup": {
+                "title": "The High Road",
+                "description": "Road south to [[Waterdeep]]",
+                "link": {
+                    "url": "High Road",
+                    "label": "High Road"
+                }
+            },
+            "id": "61"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                212,
+                2671.5619110652
+            ],
+            "popup": {
+                "title": "The High Road",
+                "description": "Road north to [[Luskan]]",
+                "link": {
+                    "url": "High Road",
+                    "label": "High Road"
+                }
+            },
+            "id": "62"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1460,
+                1158.9817392326
+            ],
+            "popup": {
+                "title": "Triboar Trail",
+                "description": "Road east to [[Triboar]] in the [[Dessarin Valley]]",
+                "link": {
+                    "url": "Triboar Trail",
+                    "label": "Triboar Trail"
+                }
+            },
+            "id": "63"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                499.79998779297,
+                1769
+            ],
+            "popup": {
+                "title": "Roth\u00e9 Valley",
+                "description": "A farming village",
+                "link": {
+                    "url": "Roth\u00e9 Valley Village",
+                    "label": "Roth\u00e9 Valley"
+                }
+            },
+            "id": "64"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                289.40002441406,
+                2151.7862683734
+            ],
+            "popup": {
+                "title": "Broken Crown Inn",
+                "description": "An inn popular with adventurers",
+                "link": {
+                    "url": "Broken Crown Inn",
+                    "label": "Broken Crown Inn"
+                }
+            },
+            "id": "65"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                224,
+                2214.8005224667
+            ],
+            "popup": {
+                "title": "Cragmire Keep",
+                "description": "A ruined castle, used as a base by the [[Blackdagger Bandits]]",
+                "link": {
+                    "url": "Cragmire Keep",
+                    "label": "Cragmire Keep"
+                }
+            },
+            "id": "66"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1536.3999023438,
+                1927.9532386801
+            ],
+            "popup": {
+                "title": "Vellosk",
+                "description": "[[Uthgardt]] settlement of the [[Gray Wolf tribe]]",
+                "link": {
+                    "url": "Vellosk",
+                    "label": "Vellosk"
+                }
+            },
+            "id": "67"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1081.4000244141,
+                587.00473609659
+            ],
+            "popup": {
+                "title": "Ebon Downs",
+                "description": "Burial grounds",
+                "link": {
+                    "url": "Ebon Downs",
+                    "label": "Ebon Downs"
+                }
+            },
+            "id": "68"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                992,
+                2563.8200283295
+            ],
+            "popup": {
+                "title": "Whispering Caverns",
+                "description": "A cave",
+                "link": {
+                    "url": "Whispering Caverns",
+                    "label": "Whispering Caverns"
+                }
+            },
+            "id": "69"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                412,
+                1575.1830233378
+            ],
+            "popup": {
+                "title": "Pirates' Skyhold",
+                "description": "A mobile [[earthmote]] frequently used as an outpost by priates",
+                "link": {
+                    "url": "Pirates' Skyhold",
+                    "label": "Pirates' Skyhold"
+                }
+            },
+            "id": "70"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                2152.7249908447,
+                0.049581011201425
+            ],
+            "popup": {
+                "title": "Map Info and References",
+                "description": "Locations are drawn from multiple sources. References and fair use information are available at the link below.",
+                "link": {
+                    "url": "File:Sword Coast North (15th Century DR)-Background",
+                    "label": "References and Image Info"
+                }
+            },
+            "id": "71"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1515,
+                644
+            ],
+            "popup": {
+                "title": "Dragonbone Vale",
+                "description": "A [[dragon]] graveyard",
+                "link": {
+                    "url": "Dragonbone Vale",
+                    "label": "Dragonbone Vale"
+                }
+            },
+            "id": "72"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1227,
+                370.73122651838
+            ],
+            "popup": {
+                "title": "Mount Ardabad",
+                "description": "Easternmost of the trio of peaks where the [[Sword Mountains]] meet the [[Mere of Dead Men]]",
+                "link": {
+                    "url": "Mount Ardabad",
+                    "label": "Mount Ardabad"
+                }
+            },
+            "id": "73"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1079,
+                395.67024927476
+            ],
+            "popup": {
+                "title": "Mount Pheldaer",
+                "description": "Westernmost of the trio of peaks where the [[Sword Mountains]] meet the [[Mere of Dead Men]]",
+                "link": {
+                    "url": "Mount Pheldaer",
+                    "label": "Mount Pheldaer"
+                }
+            },
+            "id": "74"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1150,
+                416.66788122646
+            ],
+            "popup": {
+                "title": "Mount Sternhelm",
+                "description": "Northernmost of the trio of peaks where the [[Sword Mountains]] meet the [[Mere of Dead Men]]",
+                "link": {
+                    "url": "Mount Sternhelm",
+                    "label": "Mount Sternhelm"
+                }
+            },
+            "id": "75"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1173.799987793,
+                385.63706606296
+            ],
+            "popup": {
+                "title": "Ieirithymbul",
+                "description": "A hidden [[gnome]] village",
+                "link": {
+                    "url": "Ieirithymbul",
+                    "label": "Ieirithymbul"
+                }
+            },
+            "id": "76"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1362,
+                436.79871589482
+            ],
+            "popup": {
+                "title": "Mount Galardrym",
+                "description": "Home of the cruel [[Forgebar]] dwarves",
+                "link": {
+                    "url": "Mount Galardrym",
+                    "label": "Mount Galardrym"
+                }
+            },
+            "id": "77"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                734.79992675781,
+                332.78394612862
+            ],
+            "popup": {
+                "title": "Highcliff",
+                "description": "A coastal town",
+                "link": {
+                    "url": "Highcliff",
+                    "label": "Highcliff"
+                }
+            },
+            "id": "78"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                776,
+                574.78519122406
+            ],
+            "popup": {
+                "title": "Highcliff Castle",
+                "description": "An ancient castle",
+                "link": {
+                    "url": "Highcliff Castle",
+                    "label": "Highcliff Castle"
+                }
+            },
+            "id": "79"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                1003.1999511719,
+                828.3008642762
+            ],
+            "popup": {
+                "title": "Crossroad Keep",
+                "description": "[[Neverwinter]]ian fortification",
+                "link": {
+                    "url": "Crossroad Keep",
+                    "label": "Crossroad Keep"
+                }
+            },
+            "id": "80"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                1136,
+                886.94858655649
+            ],
+            "popup": {
+                "title": "Night\u2019s Rest",
+                "description": "An inn",
+                "link": {
+                    "url": "Night\u2019s Rest Inn",
+                    "label": "Night\u2019s Rest Inn"
+                }
+            },
+            "id": "81"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                276.20001220703,
+                1949.2528502269
+            ],
+            "popup": {
+                "title": "Priory of the Depths",
+                "description": "A temple of [[Umberlee]], goddess of the sea",
+                "link": {
+                    "url": "Priory of the Depths",
+                    "label": "Priory of the Depths"
+                }
+            },
+            "id": "82"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1192,
+                1771.4908696163
+            ],
+            "popup": {
+                "title": "Red Leaf",
+                "description": "Small town",
+                "link": {
+                    "url": "Red Leaf",
+                    "label": "Red Leaf"
+                }
+            },
+            "id": "83"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                492,
+                1871.1923123171
+            ],
+            "popup": {
+                "title": "Gothaladreum",
+                "description": "A graveyard",
+                "link": {
+                    "url": "Gothaladreum",
+                    "label": "Gothaladreum"
+                }
+            },
+            "id": "84"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1496,
+                1699.3487867185
+            ],
+            "popup": {
+                "title": "Arvahn",
+                "description": "[[Illefarn]] ruins",
+                "link": {
+                    "url": "Arvahn",
+                    "label": "Arvahn"
+                }
+            },
+            "id": "85"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                608,
+                2015.3677311049
+            ],
+            "popup": {
+                "title": "Duskwood",
+                "description": "Magically darkened grove",
+                "link": {
+                    "url": "Duskwood (Neverwinter Wood)",
+                    "label": "Duskwood"
+                }
+            },
+            "id": "86"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                788,
+                1923.0077877639
+            ],
+            "popup": {
+                "title": "Ember",
+                "description": "A village destroyed over a century ago",
+                "link": {
+                    "url": "Ember",
+                    "label": "Ember"
+                }
+            },
+            "id": "87"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                249,
+                2172.8851496576
+            ],
+            "popup": {
+                "title": "Angelhead Mine",
+                "description": "Mines containing ancient ruins",
+                "link": {
+                    "url": "Angelhead Mine",
+                    "label": "Angelhead Mine"
+                }
+            },
+            "id": "88"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1128,
+                2775.5145500993
+            ],
+            "popup": {
+                "title": "Grimmantle Keep",
+                "description": "Remnant of an ancient frontier kingdom known as [[Grimmantle]]",
+                "link": {
+                    "url": "Grimmantle Keep",
+                    "label": "Grimmantle Keep"
+                }
+            },
+            "id": "89"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                276,
+                2459.3251062356
+            ],
+            "popup": {
+                "title": "Green Griffon Inn",
+                "description": "Inn featuring a monster-filled dungeon",
+                "link": {
+                    "url": "Green Griffon Inn",
+                    "label": "Green Griffon Inn"
+                }
+            },
+            "id": "90"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1404,
+                1418.7094136786
+            ],
+            "popup": {
+                "title": "Charwood",
+                "description": "Ruined settlement",
+                "link": {
+                    "url": "Charwood",
+                    "label": "Charwood"
+                }
+            },
+            "id": "91"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1712,
+                642.95095460479
+            ],
+            "popup": {
+                "title": "Southkrypt",
+                "description": "[[Dwarf|Dwarven]] ruin surrounded by a magnificent garden",
+                "link": {
+                    "url": "Southkrypt",
+                    "label": "Southkrypt"
+                }
+            },
+            "id": "92"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1284,
+                1816.0047360966
+            ],
+            "popup": {
+                "title": "Skymirror",
+                "description": "[[Druid|Druidic]] [[scrying]] pool",
+                "link": {
+                    "url": "Skymirror",
+                    "label": "Skymirror"
+                }
+            },
+            "id": "93"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1221.6000976562,
+                538.39409682745
+            ],
+            "popup": {
+                "title": "Place of the Unicorn",
+                "description": "Sacred grove of [[Lurue]] that only appears at night",
+                "link": {
+                    "url": "Place of the Unicorn",
+                    "label": "Place of the Unicorn"
+                }
+            },
+            "id": "94"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1064,
+                583.70458597505
+            ],
+            "popup": {
+                "title": "Grimhollow",
+                "description": "Ruined village of [[Kelemvorite]]s",
+                "link": {
+                    "url": "Grimhollow",
+                    "label": "Grimhollow"
+                }
+            },
+            "id": "95"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                652,
+                939.03620434345
+            ],
+            "popup": {
+                "title": "Thunder Cliff Caves",
+                "description": "Where the crashing surf sounds like thunder",
+                "link": {
+                    "url": "Thunder Cliff Caves",
+                    "label": "Thunder Cliff Caves"
+                }
+            },
+            "id": "96"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                692,
+                1359.1167179855
+            ],
+            "popup": {
+                "title": "Shrine of Swords",
+                "description": "A shrine to [[Tempus]], the god of war",
+                "link": {
+                    "url": "Shrine of Swords",
+                    "label": "Shrine of Swords"
+                }
+            },
+            "id": "97"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                815.40002441406,
+                1555.5985547425
+            ],
+            "popup": {
+                "title": "Floodblest",
+                "description": "Farming village",
+                "link": {
+                    "url": "Floodblest",
+                    "label": "Floodblest"
+                }
+            },
+            "id": "98"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                970.20001220703,
+                1671.122577035
+            ],
+            "popup": {
+                "title": "Nightsedge",
+                "description": "Settlement",
+                "link": {
+                    "url": "Nightsedge",
+                    "label": "Nightsedge"
+                }
+            },
+            "id": "99"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                832,
+                1056.1799716705
+            ],
+            "popup": {
+                "title": "Crossergate",
+                "description": "Settlement",
+                "link": {
+                    "url": "Crossergate",
+                    "label": "Crossergate"
+                }
+            },
+            "id": "100"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                721,
+                1263.7655632187
+            ],
+            "popup": {
+                "title": "Vilnask",
+                "description": "Settlement",
+                "link": {
+                    "url": "Vilnask",
+                    "label": "Vilnask"
+                }
+            },
+            "id": "101"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                531.74429945228,
+                1385.4420223902
+            ],
+            "popup": {
+                "title": "Stormwreck Isle",
+                "description": "A small volcanic island with historic ties to [[dragon]]s. Home to [[Dragon's Rest]] monastery.",
+                "link": {
+                    "url": "Stormwreck Isle",
+                    "label": "Stormwreck Isle"
+                }
+            },
+            "id": "102"
+        }
+    ]
+}
+n49n2lc2bgvsqs1pnzaa2mis8kb1qqv
+
+

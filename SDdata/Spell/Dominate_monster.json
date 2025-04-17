@@ -1,0 +1,31 @@
+{
+    "template_data": {
+        "edition": "5e",
+        "edition_1": "3e"
+    },
+    "document_data": {
+        "variant": "",
+        "image": "Dominate Monster.png",
+        "caption": "",
+        "name": "Dominate Monster",
+        "school": "[[Enchantment]]",
+        "spheres": "",
+        "domains": "",
+        "inventor": "",
+        "descriptors": "",
+        "keywords": "",
+        "level": "",
+        "type": "",
+        "school5e": "[[Enchantment]]",
+        "level5e": "{{spell table|edition=5e|[[Bard]]|8|[[Sorcerer]]|8|[[Warlock]]|8|[[Wizard]]|8}}",
+        "type5e": "",
+        "refs5e": "",
+        "level3e": "{{spell table|edition=3e|[[Charm domain|Charm]]|9|[[Sorcerer]]|9|[[Tyranny domain|Tyranny]]|9|[[Wizard]]|9}}",
+        "descriptor3e": "{{desc/mind-affecting}}",
+        "school3e": "[[Enchantment]] ([[Compulsion]])",
+        "refs3e": "",
+        "mainbody": "'''''Dominate monster''''' was a [[enchantment]] spell that allowed the caster to telepathically control any creature.",
+        "Effects": "This spell worked in the same manner as ''[[dominate person]]'', but it was not limited by creature type or size.\n\nBeguiling the monster the caster could give it general commands like \"attack\", \"move there\" and \"fetch that\" for an hour. The command would be followed to the creature's best ability, and the command was telepathic but could only reach its target if on the same plane. If the monster took damage it could attempt to resist the spell. The spell could be cast at a higher level to last for 8 hours.",
+        "Components": "This spell required [[verbal]] and [[somatic]] components in order to cast."
+    }
+}

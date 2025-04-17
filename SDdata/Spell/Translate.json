@@ -1,0 +1,43 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "image": "",
+        "caption": "",
+        "name": "Translate",
+        "deity": "",
+        "inventor": "",
+        "type": "",
+        "school5e": "",
+        "level5e": "",
+        "type5e": "",
+        "refs5e": "",
+        "feature4e": "",
+        "keywords4e": "",
+        "level4e": "",
+        "type4e": "",
+        "category4e": "",
+        "skill4e": "",
+        "refs4e": "",
+        "school3e": "",
+        "domains3e": "",
+        "descriptors3e": "",
+        "level3e": "",
+        "type3e": "",
+        "reversible2e": "",
+        "school2e": "[[Alteration]]",
+        "spheres2e": "[[Divination sphere|Divination]]",
+        "level2e": "{{spell table|edition=2e|[[Cleric]]|2}}",
+        "type2e": "",
+        "refs2e": "",
+        "reversible1e": "",
+        "school1e": "",
+        "level1e": "",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Translate''''' was a very rare [[spell]] used by [[cleric]]s.",
+        "Effects": "When cast, this spell allowed the caster to read written text in various languages, including [[thieves' cant]]. The spell was unable to translate encrypted messages, [[arcane]]-magic spells, spell scrolls or recipes for potions or magical powders. The spell could be used with the ''[[scribe]]'' spell if the translated text was to be written on another document.",
+        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required a [[material component]]."
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "template_data": {
+        "edition": "4e"
+    },
+    "document_data": {
+        "type": "encounter",
+        "name": "Your Delicious Weakness",
+        "school": "",
+        "keywords4e": "{{desc/arcane}}{{desc/implement}}{{desc/psychic}}",
+        "level4e": "{{spell table|edition=4e|[[Warlock]]|3}}",
+        "type4e": "Encounter",
+        "refs4e": "",
+        "mainbody": "'''''Your delicious weakness''''', is a [[spell]] used by some [[warlock]]s, particularly those who forge pacts with [[demon]]ic powers of the [[Abyss]]. When ''your delicious weakness'' is cast, the warlock strikes into the mind of a creature within fifty feet, uncovering their weaknesses and using those weaknesses against them. The spell is normally charged by a warlock's strength of personality but warlocks of the [[Warlock#Dark Pact Warlock|dark pact]] are able to enhance the deadliness of the spell through concentrating their intellect. ''Your delicious weakness'' can be cast with relative ease and reacquired after its casting through a rest of a few minutes or more.",
+        "References": "{{refs}}\n[[Category:Warlock spells]]\nha0qudxqx7fcsoiyfd5o1poclve7lc6"
+    }
+}

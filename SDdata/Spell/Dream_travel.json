@@ -1,0 +1,44 @@
+{
+    "template_data": {
+        "edition": "3e",
+        "variant": "psionic power",
+        "500|miles|long": "yes",
+        "1000|mile|long": "yes",
+        "5|mile|long": "yes"
+    },
+    "document_data": {
+        "image": "Dreamtravel.png",
+        "caption": "A psionicist envisions a three hour dream travel for him and four passengers.",
+        "name": "Dream travel",
+        "deity": "",
+        "inventor": "",
+        "feature4e": "",
+        "keywords4e": "",
+        "level4e": "",
+        "type4e": "",
+        "category4e": "",
+        "skill4e": "",
+        "refs4e": "",
+        "discipline3e": "[[Psychoportation]]",
+        "mantles3e": "",
+        "descriptors3e": "",
+        "level3e": "{{Spell table|edition=3e|variant=psionic power|[[Psion]]|7}}",
+        "type3e": "Standard power",
+        "refs3e": "",
+        "discipline2e": "[[Psychoportation]]",
+        "level2e": "Minor (Devotion)",
+        "type2e": "Standard power",
+        "wild2e": "Yes",
+        "refs2e": "<ref>",
+        "level1e": "",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Dream travel''''' was a [[psionic]] devotion of the [[psychoportation]] [[discipline]] that allowed the [[psionicist]] to physically transport their body to distant locations by passing through the [[Region of Dreams]].<ref group=\"note\">[[Manual of the Planes 3rd edition|''Manual of the Planes'' 3{{rd}} edition]] detailed an 8{{th}}-level [[wizard]]/[[sorcerer]] [[transmutation]] spell of the same name with almost identical descriptive text as the psionic power described in the ''[[Expanded Psionics Handbook]]''. However, there seems to be no references to this spell specifically existing in the Realms.",
+        "Effects": "This psionic power required psionicist to be asleep to utilize it. Once asleep, they would be mentally transported to the Region of Dreams though later developments found that it was possible to ''dream travel'' to other planes of existence, so long as there existed [[outsider|creatures]] within those places that dreamed.\n\nIt was possible for psionicists to take multiple passengers within them, depending upon the extent of their psionic powers, though it was slightly more difficult to take nonsapient creatures. This required the passengers to also be asleep and physically touching both the psionicist and each other.\n\n''Dream travel'' allowed for adventuring a fair distance throughout the curtain that was the Region of Dreams, participating in a mengaerie of dreams along the way to their destination.\n\nThe user and any passengers physically remained in the location they were asleep at during the duration of this journey. Later developments of the power instead physically transported the body into the Regions of Dreams.\n\nOlder iterations of ''dream travel'' limited the distance to within {{SI|500|miles|long=yes|k}} of where the psion slept Later developments of ''dream travel'' expanded the possible range between locations to {{SI|1000|mile|long=yes|k}}, with each {{SI|5|mile|long=yes|k}} requiring one minute of travel. Transference between planes of existence through use of ''dream travel'' always took around one to four hours of uninterrupted travel.",
+        "Displays": "''Dream travel'' exhibited only the standard visual [[display]].",
+        "Notable Users": {
+            "Creatures & Sentient Races": "* [[Baku]], a powerful psionic race originating from the [[Outlands]].\n* [[Cloud ray]]s, a gargantuan species of psionic beasts on the desert world of [[Athas]], exhibited this power despite having an animalistic intellect. They sometimes subconsciously activated ''dream travel'' while they slept or while in flight as they digested a meal.\n* [[Opinicus]], a strange breed of psionic creatures endemic to the land of [[Zakhara]].",
+            "Individuals": "* [[Lertis|Lertis the Seer]], a [[Banite]] high [[priest]] and psionic wild talent.<ref>"
+        }
+    }
+}

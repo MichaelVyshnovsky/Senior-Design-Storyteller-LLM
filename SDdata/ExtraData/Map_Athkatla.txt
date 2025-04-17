@@ -1,0 +1,2241 @@
+2900
+140650
+
+849746
+837056
+2023-03-05T17:45:24Z
+
+Artyom.pavlov
+24367202
+
+849746
+interactivemap
+text/plain
+{
+    "mapImage": "Athkatla MAP.png",
+    "pageCategories": [
+        "Interactive_maps",
+        "Maps_of_Athkatla",
+        "Maps_of_cities"
+    ],
+    "defaultSort": "",
+    "description": "An interactive map of [[Athkatla]].",
+    "coordinateOrder": "xy",
+    "mapBounds": [
+        [
+            0,
+            0
+        ],
+        [
+            1107,
+            1567
+        ]
+    ],
+    "origin": "bottom-left",
+    "useMarkerClustering": false,
+    "categories": [
+        {
+            "id": "1",
+            "listId": 1,
+            "name": "Districts",
+            "color": "#f00",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:City icon.svg"
+        },
+        {
+            "id": "2",
+            "listId": 2,
+            "name": "Streets & Gates",
+            "color": "#ffffff",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Gate icon.svg"
+        },
+        {
+            "id": "4",
+            "listId": 3,
+            "name": "Inns & Taverns",
+            "color": "#fa5d00",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Tankard icon.svg"
+        },
+        {
+            "id": "8",
+            "listId": 4,
+            "name": "Temples & Shrines",
+            "color": "#fac600",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Lathander temple icon.svg"
+        },
+        {
+            "id": "5",
+            "listId": 5,
+            "name": "Shops & Warehouses",
+            "color": "#007903",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Tymora coin icon.svg"
+        },
+        {
+            "id": "7",
+            "listId": 6,
+            "name": "Clubs",
+            "color": "#730000",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Instruments icon.svg"
+        },
+        {
+            "id": "6",
+            "listId": 7,
+            "name": "Estates & Homes",
+            "color": "#ff6a6a",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Hamlet icon.svg"
+        },
+        {
+            "id": "3",
+            "listId": 8,
+            "name": "Landmarks",
+            "color": "#021ebb",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Elminter's choice icon.svg"
+        },
+        {
+            "id": "9",
+            "listId": 9,
+            "name": "Bodies of Water",
+            "color": "#00e8fa",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Bodies of water icon.svg"
+        }
+    ],
+    "markers": [
+        {
+            "categoryId": "1",
+            "position": [
+                537.28636657044,
+                1207.6962136023
+            ],
+            "popup": {
+                "title": "Temple District",
+                "description": "The home to the city's wealthiest businesses and family estates.",
+                "link": {
+                    "url": "Athkatla\/Temple District",
+                    "label": "Temple District"
+                },
+                "image": "File:Athkatla Temple District.png"
+            },
+            "id": "1"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                544.84839070016,
+                1279.5208988629
+            ],
+            "popup": {
+                "title": "Street of Seven Altars",
+                "description": "The street with the name remnant of its seven temples that stood there before the 14th century DR.",
+                "link": {
+                    "url": "Street of Seven Altars",
+                    "label": "Street of Seven Altars"
+                }
+            },
+            "id": "2"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                495.68138571591,
+                1256.1750529337
+            ],
+            "popup": {
+                "title": "Godsmoot",
+                "description": "A wide street that kept its name from many temples that stood here before the 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "Godsmoot",
+                    "label": "Godsmoot"
+                }
+            },
+            "id": "3"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                531.70733650935,
+                1239.8804491209
+            ],
+            "popup": {
+                "title": "Oblade Street",
+                "description": "The street that ran south, perpendicular to [[Aundle's Walk]].",
+                "link": {
+                    "url": "Oblade Street",
+                    "label": "Oblade Street"
+                }
+            },
+            "id": "4"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                546.91746267325,
+                1261.0976082716
+            ],
+            "popup": {
+                "title": "Aundle's Walk",
+                "description": "A cramped city walk that ran east from the intersection of the [[Street of Seven Altars]] and [[Oblade Street]].",
+                "link": {
+                    "url": "Aundle's Walk",
+                    "label": "Aundle's Walk"
+                }
+            },
+            "id": "5"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                519.99955886356,
+                1268.7502797113
+            ],
+            "popup": {
+                "title": "The Crown Aflame",
+                "description": "A huge and rich theater inside a repurposed temple of [[Azuth]]. One of its performances was graced by the divine apparition of [[Sune]] in the 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "The Crown Aflame",
+                    "label": "The Crown Aflame"
+                }
+            },
+            "id": "6"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                535.24302638056,
+                1264.277323241
+            ],
+            "popup": {
+                "title": "The Harfin Draether",
+                "description": "An expensive and quality tavern, named after its founder, who died well before the 1370s [[DR]].",
+                "link": {
+                    "url": "Harfin Draether",
+                    "label": "Harfin Draether"
+                }
+            },
+            "id": "7"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                536.66082714449,
+                1254.3880052804
+            ],
+            "popup": {
+                "title": "The Pride of Athkatla",
+                "description": "A busy enclosed marketplace that accommodated local and visiting merchants.",
+                "link": {
+                    "url": "Pride of Athkatla",
+                    "label": "Pride of Athkatla"
+                }
+            },
+            "id": "8"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                524.32045807625,
+                1257.7660791524
+            ],
+            "popup": {
+                "title": "Seven Songs Importing",
+                "description": "A proprietor of exotic goods to order.",
+                "link": {
+                    "url": "Seven Songs Importing",
+                    "label": "Seven Songs Importing"
+                }
+            },
+            "id": "9"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                497.97800149937,
+                1250.8563399767
+            ],
+            "popup": {
+                "title": "Silkstone Fashions",
+                "description": "Tailor's shop and fashionable accessories' purveyor. ",
+                "link": {
+                    "url": "Silkstone Fashions",
+                    "label": "Silkstone Fashions"
+                }
+            },
+            "id": "10"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                511.23102880957,
+                1257.2217574298
+            ],
+            "popup": {
+                "title": "House of Marimmal Theer",
+                "description": "Home of actor and impressario [[Marimmal Theer]] in the late 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "Marimmal Theer",
+                    "label": "Marimmal Theer"
+                }
+            },
+            "id": "11"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                500.09752824215,
+                1274.1933990097
+            ],
+            "popup": {
+                "title": "Brundith Fine Furnishings",
+                "description": "An expensive furniture vendor that specialized in replicas and hidden containers.",
+                "link": {
+                    "url": "Brundith Fine Furnishings",
+                    "label": "Brundith Fine Furnishings"
+                }
+            },
+            "id": "12"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                505.75024941159,
+                1280.9098705606
+            ],
+            "popup": {
+                "title": "House of Thammas Thous",
+                "description": "The home of [[Thammas Thoul]], a collector, merchant, and an ex-slaver in there late 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "Thammas Thoul",
+                    "label": "Thammas Thoul"
+                }
+            },
+            "id": "13"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                512.28599624844,
+                1234.59599464
+            ],
+            "popup": {
+                "title": "Horse Armor and Weapon Merchant \u2013 Isker Lhavanas",
+                "description": "Once a temple of [[Azuth]] still rumored to maintain defensive wards. The home of weapon and horse armor merchant [[Isker Lhavanas]] in the late 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "Isker Lhavanas",
+                    "label": "Isker Lhavanas"
+                }
+            },
+            "id": "14"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                546.56554650335,
+                1251.0355979842
+            ],
+            "popup": {
+                "title": "Perfume Merchant \u2013 Klarynda Ballasdreia",
+                "description": "Home of [[perfume]] merchant [[Klarynda Ballasdreia]] in there late 14{{th}} century [[DR]], and the former shrine of [[Tymora]].",
+                "link": {
+                    "url": "Klarynda Ballasdreia",
+                    "label": "Klarynda Ballasdreia"
+                }
+            },
+            "id": "15"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                516.88460778807,
+                1282.6801727673
+            ],
+            "popup": {
+                "title": "The Society of the Lost Ingot",
+                "description": "A private club for wealthy merchant males born in [[Athkatla]] whose ships were lost at sea. Previously a temple to [[Ilmater]]. ",
+                "link": {
+                    "url": "The Society of the Lost Ingot",
+                    "label": "The Society of the Lost Ingot"
+                }
+            },
+            "id": "16"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                551.16135066785,
+                1265.002377374
+            ],
+            "popup": {
+                "title": "The Temple Bell",
+                "description": "A merchant of vestments, ''[[holy symbol]]s'', and other religious goods. Formerly the home of the [[Flamaerdown]] family.",
+                "link": {
+                    "url": "The Temple Bell",
+                    "label": "The Temple Bell"
+                }
+            },
+            "id": "17"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                509.81962262232,
+                1290.2809233662
+            ],
+            "popup": {
+                "title": "Sarlannus Street",
+                "description": "The street that ran south from [[Godsmoot]] and the [[The Crown Aflame|Crown Aflame]] theater.",
+                "link": {
+                    "url": "Sarlannus Street",
+                    "label": "Sarlannus Street"
+                }
+            },
+            "id": "18"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                503.63025477295,
+                1244.8421204658
+            ],
+            "popup": {
+                "title": "Meir Lane",
+                "description": "The street that ran from the north of the Temple District and ended on the [[Godsmoot]].",
+                "link": {
+                    "url": "Meir Lane",
+                    "label": "Meir Lane"
+                }
+            },
+            "id": "19"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                258.04102803563,
+                1125.9692668327
+            ],
+            "popup": {
+                "title": "Wave District",
+                "description": "The district of [[Athkatla]] that housed all things concerning seafaring and marine trade.",
+                "link": {
+                    "url": "Athkatla\/Wave District",
+                    "label": "Wave District"
+                },
+                "image": "File:Athkatla's Wave District.png"
+            },
+            "id": "20"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                196.56970073116,
+                1146.9614936637
+            ],
+            "popup": {
+                "title": "Moonhall",
+                "description": "The temple of [[Sel\u00fbne]], easily recognizable for its conical dome.",
+                "link": {
+                    "url": "Moonhall",
+                    "label": "Moonhall"
+                }
+            },
+            "id": "21"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                501.32872608302,
+                1070.5618243792
+            ],
+            "popup": {
+                "title": "Dome of the Rose",
+                "description": "The grand monastery and temple to [[Lathander]].",
+                "link": {
+                    "url": "Dome of the Rose",
+                    "label": "Dome of the Rose"
+                }
+            },
+            "id": "22"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                123.03034131506,
+                1118.6450135778
+            ],
+            "popup": {
+                "title": "Great Griffon",
+                "description": "The giant seven-ton bell used as a warning signal for ships sailing in stormy weather.{{approx}}",
+                "link": {
+                    "url": "Great Griffon",
+                    "label": "Great Griffon"
+                }
+            },
+            "id": "23"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                504.19661242487,
+                999.49083219327
+            ],
+            "popup": {
+                "title": "Gem District",
+                "description": "The excessively wealthiest area of the city.",
+                "link": {
+                    "url": "Athkatla\/Gem District",
+                    "label": "Gem District"
+                }
+            },
+            "id": "24"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                845.70251767424,
+                1124.3088442703
+            ],
+            "popup": {
+                "title": "Trades District",
+                "description": "The mercantile hub of [[Athkatla]].",
+                "link": {
+                    "url": "Athkatla\/Trades District",
+                    "label": "Trades District"
+                }
+            },
+            "id": "25"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                912.96096059807,
+                949.94852523089
+            ],
+            "popup": {
+                "title": "The Black Frog",
+                "description": "The most popular tavern in the Trades District in the late 14{{th}} century [[DR]].{{approx}}",
+                "link": {
+                    "url": "The Black Frog",
+                    "label": "The Black Frog"
+                }
+            },
+            "id": "26"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                871.77501037206,
+                967.97911450898
+            ],
+            "popup": {
+                "title": "Dunstul's Pump",
+                "description": "A popular meeting spot and a source of free clean drinkable water.",
+                "link": {
+                    "url": "Dunstul's Pump",
+                    "label": "Dunstul's Pump"
+                }
+            },
+            "id": "27"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                598.95219803406,
+                827.9488129203
+            ],
+            "popup": {
+                "title": "River District",
+                "description": "The poorest and the dirtiest area of the city, home of the old and down on their luck.",
+                "link": {
+                    "url": "Athkatla\/River District",
+                    "label": "River District"
+                }
+            },
+            "id": "28"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                768.99955886356,
+                803.9996948604
+            ],
+            "popup": {
+                "title": "The Bridge",
+                "description": "The only connection between the two parts of [[Athkatla]] on the southern and northern shores of the [[Alandor River]].",
+                "link": {
+                    "url": "The Bridge",
+                    "label": "The Bridge"
+                }
+            },
+            "id": "29"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                482.22873611458,
+                797.5306957261
+            ],
+            "popup": {
+                "title": "Alandor River",
+                "description": "The location of [[Athkatla]] that occupied its shores. Its waters were rich with [[silverwink minnow]]s, [[brownscale]]s, and [[Alandor eel]]s.",
+                "link": {
+                    "url": "Alandor River",
+                    "label": "Alandor River"
+                }
+            },
+            "id": "30"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                401.51188280438,
+                1438.2243879597
+            ],
+            "popup": {
+                "title": "Arbalest's House",
+                "description": "A monastery dedicated to [[Milil]], the Lord of All Songs.",
+                "link": {
+                    "url": "Arbalest's House",
+                    "label": "Arbalest's House"
+                }
+            },
+            "id": "31"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                158.37445419228,
+                1330.6680636456
+            ],
+            "popup": {
+                "title": "Goldspires",
+                "description": "A large temple complex and the center of the worship of [[Waukeen]], Lady of Trade in [[Faer\u00fbn]].",
+                "link": {
+                    "url": "Goldspires",
+                    "label": "Goldspires"
+                }
+            },
+            "id": "32"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                774.22671534759,
+                1047.179029717
+            ],
+            "popup": {
+                "title": "Adamantine Mug",
+                "description": "A surprisingly reasonably priced tavern and a club for [[Athkatla]]'s merchants.",
+                "link": {
+                    "url": "Adamantine Mug",
+                    "label": "Adamantine Mug"
+                }
+            },
+            "id": "33"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                752.99713261312,
+                865.9997965736
+            ],
+            "popup": {
+                "title": "Copper Coronet",
+                "description": "A large and dingy tavern that served smugglers, pirates and the \"blank-for-hire\".",
+                "link": {
+                    "url": "Copper Coronet",
+                    "label": "Copper Coronet"
+                }
+            },
+            "id": "34"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1008.8470456673,
+                813.81537986975
+            ],
+            "popup": {
+                "title": "Five Flagons",
+                "description": "A three-floored inn and an underground theater frequented by wealthy patrons.",
+                "link": {
+                    "url": "Five Flagons",
+                    "label": "Five Flagons"
+                }
+            },
+            "id": "35"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                964.33830977381,
+                692.89335961016
+            ],
+            "popup": {
+                "title": "Den of the Seven Vales",
+                "description": "The tavern that was formerly the festhall known as the \"Den of the Seven Veils.\"",
+                "link": {
+                    "url": "Den of the Seven Vales",
+                    "label": "Den of the Seven Vales"
+                }
+            },
+            "id": "36"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                645.56728160377,
+                689.36976477157
+            ],
+            "popup": {
+                "title": "Sea's Bounty",
+                "description": "A cramped two-floor tavern and an inn that served a variety of [[beer]]s and foods.",
+                "link": {
+                    "url": "Sea's Bounty",
+                    "label": "Sea's Bounty"
+                }
+            },
+            "id": "37"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                591.8405792481,
+                487.11701524425
+            ],
+            "popup": {
+                "title": "Silverale Hall",
+                "description": "A popular inn and festhall with the welcoming sign depicting a [[silver]] mug overflowing with [[ale]].",
+                "link": {
+                    "url": "Silverale Hall",
+                    "label": "Silverale Hall"
+                }
+            },
+            "id": "38"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                483.60988337733,
+                412.17664241511
+            ],
+            "popup": {
+                "title": "Delosar's Inn",
+                "description": "An old but well-kept inn and tavern.",
+                "link": {
+                    "url": "Delosar's Inn",
+                    "label": "Delosar's Inn"
+                }
+            },
+            "id": "39"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                445.48195276528,
+                663.9398845242
+            ],
+            "popup": {
+                "title": "Mithrest",
+                "description": "An exclusive inn for [[Athkatla]]n nobles.",
+                "link": {
+                    "url": "Mithrest",
+                    "label": "Mithrest"
+                }
+            },
+            "id": "40"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                500.61195111337,
+                498.43446369204
+            ],
+            "popup": {
+                "title": "Waukeen's Promenade",
+                "description": "A massive, open-air marketplace and a landmark that dwarfed [[Waterdeep]]'s market.",
+                "link": {
+                    "url": "Waukeen's Promenade",
+                    "label": "Waukeen's Promenade"
+                },
+                "image": "File:Waukeen's Promenade.jpg"
+            },
+            "id": "41"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                743.03353888833,
+                660.39521651254
+            ],
+            "popup": {
+                "title": "Bridge District",
+                "description": "A poorer and hectic district inhabited by laborers and dedicated to caravan trade.",
+                "link": {
+                    "url": "Athkatla\/Bridge District",
+                    "label": "Bridge District"
+                }
+            },
+            "id": "42"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                827.90881163176,
+                649.79350549702
+            ],
+            "popup": {
+                "title": "Bordryn's Bucket",
+                "description": "The most popular drinking hole of the Bridge District in the late 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "Bordryn's Bucket",
+                    "label": "Bordryn's Bucket"
+                }
+            },
+            "id": "43"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1031.3799477026,
+                656.12553311868
+            ],
+            "popup": {
+                "title": "Guards District",
+                "description": "Home of merchants, guards, adventurers, and businesses that catered to them.",
+                "link": {
+                    "url": "Athkatla\/Guards District",
+                    "label": "Guards District"
+                }
+            },
+            "id": "44"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                526.16698915734,
+                668.86532232528
+            ],
+            "popup": {
+                "title": "Center District",
+                "description": "The main mercantile district of Athkatla and the location of the famous [[Waukeen's Promenade]] massive open-air market.",
+                "link": {
+                    "url": "Athkatla\/Center District",
+                    "label": "Center District]"
+                }
+            },
+            "id": "45"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                330.92472587302,
+                391.0249435276
+            ],
+            "popup": {
+                "title": "Scepter District",
+                "description": "The district of the [[Council House]] and old aristocratic families.",
+                "link": {
+                    "url": "Athkatla\/Scepter District",
+                    "label": "Scepter District"
+                },
+                "image": "File:Scepter District.png"
+            },
+            "id": "46"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                287.08254578661,
+                408.35470555092
+            ],
+            "popup": {
+                "title": "Council House",
+                "description": "A fortress-like building, the base of operations for the Council of Six, the government of the nation of [[Amn]].",
+                "link": {
+                    "url": "Council House",
+                    "label": "Council House"
+                }
+            },
+            "id": "47"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                263.79543545409,
+                370.52301835455
+            ],
+            "popup": {
+                "title": "Cloakspell Tower",
+                "description": "A magically warded striking landmark that rose high above the Scepter District.",
+                "link": {
+                    "url": "Cloakspell Tower",
+                    "label": "Cloakspell Tower"
+                }
+            },
+            "id": "48"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                735.26129263531,
+                303.95232577898
+            ],
+            "popup": {
+                "title": "Grave District",
+                "description": "The city's cemetery filled with ornate mortuaries and tombs.",
+                "link": {
+                    "url": "Athkatla\/Grave District",
+                    "label": "Grave District"
+                },
+                "image": "File:Grave District of Athkatla.jpg"
+            },
+            "id": "49"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                373.38232911962,
+                1279.8445518854
+            ],
+            "popup": {
+                "title": "Alandamer's Gate",
+                "description": "",
+                "link": {
+                    "url": "Alandamer's Gate",
+                    "label": "Alandamer's Gate"
+                }
+            },
+            "id": "50"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                986.88025945482,
+                1088.8821361771
+            ],
+            "popup": {
+                "title": "Meirtyn Gate",
+                "description": "",
+                "link": {
+                    "url": "Meirtyn Gate",
+                    "label": "Meirtyn Gate"
+                }
+            },
+            "id": "51"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1057.5597445165,
+                752.28262240685
+            ],
+            "popup": {
+                "title": "Heroes' Gate",
+                "description": "",
+                "link": {
+                    "url": "Heroes' Gate",
+                    "label": "Heroes' Gate"
+                }
+            },
+            "id": "52"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                828.72977141177,
+                306.88391150241
+            ],
+            "popup": {
+                "title": "Sparandar Gate",
+                "description": "",
+                "link": {
+                    "url": "Sparandar Gate",
+                    "label": "Sparandar Gate"
+                }
+            },
+            "id": "53"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                356.48225936155,
+                295.56718227554
+            ],
+            "popup": {
+                "title": "Oloemandur Gate",
+                "description": "",
+                "link": {
+                    "url": "Oloemandur Gate",
+                    "label": "Oloemandur Gate"
+                }
+            },
+            "id": "54"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                585.43138994398,
+                330.76498963434
+            ],
+            "popup": {
+                "title": "Julkoon Gate",
+                "description": "",
+                "link": {
+                    "url": "Julkoon Gate",
+                    "label": "Julkoon Gate"
+                }
+            },
+            "id": "55"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                708.41369395126,
+                438.25615253274
+            ],
+            "popup": {
+                "title": "Cold Dolor Gate",
+                "description": "",
+                "link": {
+                    "url": "Cold Dolor Gate",
+                    "label": "Cold Dolor Gate"
+                }
+            },
+            "id": "56"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                166.99823273958,
+                746.61814441556
+            ],
+            "popup": {
+                "title": "Sea-Gates",
+                "description": "",
+                "link": {
+                    "url": "Sea-Gates",
+                    "label": "Sea-Gates"
+                }
+            },
+            "id": "57"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1033.4993981219,
+                970.05525661943
+            ],
+            "popup": {
+                "title": "Chain-Gate",
+                "description": "",
+                "link": {
+                    "url": "Chain-Gate",
+                    "label": "Chain-Gate"
+                }
+            },
+            "id": "58"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                221.90736604,
+                787.89174559411
+            ],
+            "popup": {
+                "title": "Merchant's Bay",
+                "description": "",
+                "link": {
+                    "url": "Merchant's Bay",
+                    "label": "Merchant's Bay"
+                }
+            },
+            "id": "60"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                739.95787264297,
+                876.46978328938
+            ],
+            "popup": {
+                "title": "Temple of Ilmater",
+                "description": "A humble temple dedicated to [[Ilmater]], the Crying God, that stood on stilt-supported elevation above the [[Copper Coronet]].",
+                "link": {
+                    "url": "Temple of Ilmater (Athkatla)",
+                    "label": "Temple of Ilmater"
+                }
+            },
+            "id": "61"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                649.99647090846,
+                1229.5019834074
+            ],
+            "popup": {
+                "title": "High Hall of the Radiant Heart",
+                "description": "The High Hall of the [[paladin]] order dedicated to [[Helm]]. It stood surrounded by scenic elevated walkways above a water reservoir and cascading canals.{{approx}}",
+                "link": {
+                    "url": "High Hall of the Radiant Heart",
+                    "label": "High Hall of the Radiant Heart"
+                }
+            },
+            "id": "62"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                635.00154397755,
+                1238.9996948604
+            ],
+            "popup": {
+                "title": "Temple of Helm",
+                "description": "The rich temple dedicated to [[Helm]], surrounded by scenic elevated walkways above a water reservoir and cascading canals.{{approx}}",
+                "link": {
+                    "url": "Temple of Helm (Athkatla)",
+                    "label": "Temple of Helm"
+                }
+            },
+            "id": "63"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                632.96801878115,
+                1223.4567131434
+            ],
+            "popup": {
+                "title": "Temple of Taols",
+                "description": "The rich temple dedicated to [[Taols]], surrounded by scenic elevated walkways above a water reservoir and cascading canals.{{approx}}",
+                "link": {
+                    "url": "Temple of Taols (Athkatla)",
+                    "label": "Temple of Taols"
+                }
+            },
+            "id": "64"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                641.67710172064,
+                1249.7878554876
+            ],
+            "popup": {
+                "title": "Pimlico Estate",
+                "description": "Home of [[Pimlico]], a rich collector of rare [[book]]s in the late 14{{th}} century [[DR]].{{approx}}",
+                "link": {
+                    "url": "Pimlico",
+                    "label": "Pimlico"
+                }
+            },
+            "id": "65"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                261.98399822133,
+                417.19321666634
+            ],
+            "popup": {
+                "title": "Temple of Waukeen",
+                "description": "A small but richly decorated temple of [[Waukeen]] that stood across the plaza from the [[Council House]].{{approx}}",
+                "link": {
+                    "url": "Temple of Waukeen (Athkatla)",
+                    "label": "Temple of Waukeen"
+                }
+            },
+            "id": "66"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                275.42121057786,
+                387.14211345311
+            ],
+            "popup": {
+                "title": "Deril Estate",
+                "description": "The estate of a wealthy and powerful [[conjurer]] [[Deril]], who was served by a powerful [[lich]] as his butler in the late 14{{th}} century [[DR]].{{approx}}",
+                "link": {
+                    "url": "Deril",
+                    "label": "Deril"
+                }
+            },
+            "id": "67"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                293.81113374311,
+                391.7394582843
+            ],
+            "popup": {
+                "title": "Delryn Estate",
+                "description": "The marge mansion of the noble [[Delryn]] family of [[Amn]]. The patriarch of the family was [[Cor Delryn]] in the late 14{{th}} century [[DR]].{{approx}}",
+                "link": {
+                    "url": "Delryn",
+                    "label": "Delryn"
+                }
+            },
+            "id": "68"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                285.31992568805,
+                377.24297812696
+            ],
+            "popup": {
+                "title": "Firecam Estate",
+                "description": "The estate of the [[Keldorn]] family, led by [[Keldorn Firecam]] in the late 14{{th}} century [[DR]].{{approx}}",
+                "link": {
+                    "url": "Firecam",
+                    "label": "Firecam"
+                }
+            },
+            "id": "69"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                306.89011375051,
+                389.26501608271
+            ],
+            "popup": {
+                "title": "Jysstev Estate",
+                "description": "The two-floor estate of the [[Jysstev]] family.{{approx}}",
+                "link": {
+                    "url": "Jysstev",
+                    "label": "Jysstev"
+                }
+            },
+            "id": "70"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                284.50661821987,
+                423.96454505965
+            ],
+            "popup": {
+                "title": "Roenall Estate",
+                "description": "The home of the noble [[Roenall]] family.{{approx}}",
+                "link": {
+                    "url": "Roenall",
+                    "label": "Roenall"
+                }
+            },
+            "id": "71"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                257.03191127375,
+                401.63550096048
+            ],
+            "popup": {
+                "title": "Prison",
+                "description": "The prison and gallows of [[Athkatla]].{{approx}}",
+                "link": {
+                    "url": "Prison (Athkatla)",
+                    "label": "Prison"
+                }
+            },
+            "id": "72"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                271.52915994092,
+                420.37508929854
+            ],
+            "popup": {
+                "title": "Vulova Estate",
+                "description": "A smaller mansion of the [[Vulova]] family, built next door to the [[Temple of Waukeen (Athkatla)|Temple of Waukeen]].{{approx}}",
+                "link": {
+                    "url": "Vulova",
+                    "label": "Vulova"
+                }
+            },
+            "id": "73"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                951.70926887353,
+                1091.055436971
+            ],
+            "popup": {
+                "title": "Crooked Crane Inn",
+                "description": "A cheap inn that offered stables and common rooms for rent.",
+                "link": {
+                    "url": "Crooked Crane Inn",
+                    "label": "Crooked Crane Inn"
+                }
+            },
+            "id": "74"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                487.87155182922,
+                493.49126113414
+            ],
+            "popup": {
+                "title": "Adventurer Mart",
+                "description": "Located in [[Waukeen's Promenade]], the shop catered to adventurers, selling exotic magical items in defiance of the [[Cowled Wizards]].",
+                "link": {
+                    "url": "Adventurer Mart",
+                    "label": "Adventurer Mart"
+                }
+            },
+            "id": "75"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                470.93436399252,
+                513.35966698562
+            ],
+            "popup": {
+                "title": "Enge's Shop",
+                "description": "Located in Waukeen's Promenade, the shop sold a variety of fruits. The shopkeep was titular [[Enge]] in the late 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "Enge's Shop",
+                    "label": "Enge's Shop"
+                }
+            },
+            "id": "76"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                470.93342986002,
+                502.69299916158
+            ],
+            "popup": {
+                "title": "Temple of Ilmater",
+                "description": "A small shrine dedicated to [[Ilmater]] within one of the shops of [[Waukeen's Promenade]].",
+                "link": {
+                    "url": "Temple of Ilmater (Waukeen's Promenade)",
+                    "label": "Temple of Ilmater"
+                }
+            },
+            "id": "77"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                199.05161296378,
+                942.01739295694
+            ],
+            "popup": {
+                "title": "Galvarey Estate",
+                "description": "A large bright noble estate, in reality, a fortified [[Harper]] hold, guarded by [[Spectral Harpist]] and numerous Harper agents.{{approx}}",
+                "link": {
+                    "url": "Galvarey Estate",
+                    "label": "Galvarey Estate"
+                }
+            },
+            "id": "78"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                195.00529363731,
+                981.0003051396
+            ],
+            "popup": {
+                "title": "Mae'Var's Guildhall",
+                "description": "A nondescript three-floor inn and tavern, a cover for a [[Sahdow Thieves]]' Guildhall ran by [[Mae'Var]] in the late 14{{th}} century [[DR]].{{approx}}",
+                "link": {
+                    "url": "Mae'Var's Guildhall",
+                    "label": "Mae'Var's Guildhall"
+                }
+            },
+            "id": "79"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                216.03794008053,
+                980.93885458636
+            ],
+            "popup": {
+                "title": "Temple of Oghma",
+                "description": "A small temple dedicated to the deity of knowledge, [[Oghma]], that offered its library to the temple's visitors.{{approx}}",
+                "link": {
+                    "url": "Temple of Oghma (Athkatla)",
+                    "label": "Temple of Oghma"
+                }
+            },
+            "id": "80"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                838.62801862611,
+                1216.2238794071
+            ],
+            "popup": {
+                "title": "North Side",
+                "description": "The North Side of the Trades District \u2013 the home of the wealthy with little social status.",
+                "link": {
+                    "url": "Athkatla\/Trades District\/North Side",
+                    "label": "North Side"
+                }
+            },
+            "id": "81"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                811.01654345634,
+                1228.922661862
+            ],
+            "popup": {
+                "title": "Path of Silk Flowers",
+                "description": "The street that ran along the district's northern wall, shaded with bright multicolor cloth awnings and lush gardens, decorated with flowers made out of silk.",
+                "link": {
+                    "url": "Path of Silk Flowers",
+                    "label": "Path of Silk Flowers"
+                }
+            },
+            "id": "82"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                839.99513233162,
+                1182.9259827142
+            ],
+            "popup": {
+                "title": "Avenue of Chimes",
+                "description": "A wide pedestrian street, illuminated with lanters and decorated with melodic wind chimes.",
+                "link": {
+                    "url": "Avenue of Chimes",
+                    "label": "Avenue of Chimes"
+                }
+            },
+            "id": "83"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                984.99319565089,
+                1001.9703808634
+            ],
+            "popup": {
+                "title": "The Atrium",
+                "description": "A busy open-air financial walled square, home of several moneychangers, banks, and the city notary.",
+                "link": {
+                    "url": "Athkatla\/Trades District\/The Atrium",
+                    "label": "The Atrium"
+                }
+            },
+            "id": "84"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                972.16296202179,
+                1008.9831806214
+            ],
+            "popup": {
+                "title": "Platinum Quill",
+                "description": "The company that organized and coordinated caravan shipments, with its offices within [[the Atrium]].",
+                "link": {
+                    "url": "Platinum Quill",
+                    "label": "Platinum Quill"
+                }
+            },
+            "id": "85"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                974.99138914654,
+                993.42445800621
+            ],
+            "popup": {
+                "title": "Gheldleg's Booth",
+                "description": "The moneychanger and merchant store, ran by [[Vemmemalius\nGheldleg]] in the late 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "Gheldleg's Booth",
+                    "label": "Gheldleg's Booth"
+                }
+            },
+            "id": "86"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                994.79599377002,
+                999.80553649488
+            ],
+            "popup": {
+                "title": "Roseshade's Table",
+                "description": "The store ran by a \"shuffler\" \u2013 a dealer of stolen contracts. In the late 14{{th}} century [[DR]], the shop was run by a [[Shadow Thieves]] member named [[Roseshade]].",
+                "link": {
+                    "url": "Roseshade's Table",
+                    "label": "Roseshade's Table"
+                }
+            },
+            "id": "87"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                799.75562448964,
+                1029.5031531092
+            ],
+            "popup": {
+                "title": "The Waft",
+                "description": "The area located at the foot of the hill where the Gem District stood above the Trades District.",
+                "link": {
+                    "url": "Athkatla\/Trades District\/The Waft",
+                    "label": "The Waft"
+                }
+            },
+            "id": "88"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                779.99955886356,
+                1092.0008137056
+            ],
+            "popup": {
+                "title": "Jazasari Arrasti's Pavilion",
+                "description": "A large tent filled with silk pillows and fanciful rugs that stood in front of the Arrasti Estate \u2013 home of merchant [[Jazasari Arrasti]].",
+                "link": {
+                    "url": "Jazasari Arrasti's Pavilion",
+                    "label": "Jazasari Arrasti's Pavilion"
+                }
+            },
+            "id": "89"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                799.50011028411,
+                1056.25
+            ],
+            "popup": {
+                "title": "Greater Galleon",
+                "description": "The office of a [[spice]] distributor and a spice auction house. The store was ran by [[Mossan Zahad]] in ther late 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "Greater Galleon",
+                    "label": "Greater Galleon"
+                }
+            },
+            "id": "90"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                781.50242625043,
+                1082.999491434
+            ],
+            "popup": {
+                "title": "Arrasti Perfumes",
+                "description": "A perfume merchant shop.",
+                "link": {
+                    "url": "Arrasti Perfumes",
+                    "label": "Arrasti Perfumes"
+                }
+            },
+            "id": "91"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                788.50264681866,
+                1086.4993897208
+            ],
+            "popup": {
+                "title": "Arrasti Cosmetics",
+                "description": "A cosmetics merchant shop.",
+                "link": {
+                    "url": "Arrasti Cosmetics",
+                    "label": "Arrasti Cosmetics"
+                }
+            },
+            "id": "92"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                794,
+                1066.5
+            ],
+            "popup": {
+                "title": "Bakery",
+                "description": "One of many bakeries in Athkatla.",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "93"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                800.96206343917,
+                1070.9587474073
+            ],
+            "popup": {
+                "title": "Coffee and Tea House",
+                "description": "A small establishment that serves [[tea]]s and [[coffee]]s.",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "94"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                780.49823545423,
+                1019.9998982868
+            ],
+            "popup": {
+                "title": "Ophal Estate",
+                "description": "The estate of the [[Ophal]] merchant family that dealt in [[salt]], [[pepper]], and [[herb]]s.",
+                "link": {
+                    "url": "Ophal",
+                    "label": "Ophal"
+                }
+            },
+            "id": "95"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                796.24977943178,
+                1061.25
+            ],
+            "popup": {
+                "title": "Incense and Candles Shop",
+                "description": "A small shop that sold various aromatics, [[incense]] and [[candle]]s.",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "96"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                804.23720762978,
+                1054.9785091415
+            ],
+            "popup": {
+                "title": "Cinnamon Merchant",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "97"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                807.50022056822,
+                1050.7502034264
+            ],
+            "popup": {
+                "title": "Sugar Merchant",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "98"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                809.73037001492,
+                1046.9789668509
+            ],
+            "popup": {
+                "title": "Nutmeg Merchant",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "99"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                812.4728706954,
+                1042.7287125679
+            ],
+            "popup": {
+                "title": "Cocoa Merchant",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "100"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                811.72419410473,
+                1026.7275174378
+            ],
+            "popup": {
+                "title": "Garlic Merchant",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "101"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                820.22739234394,
+                1045.4860867748
+            ],
+            "popup": {
+                "title": "Apothecary",
+                "description": "One of many apothecaries in [[Athkatla]].",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "102"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                819.72761291216,
+                1027.2272885831
+            ],
+            "popup": {
+                "title": "Mixed Seasoning Merchant",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "103"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                830.42941934243,
+                1049.4653587652
+            ],
+            "popup": {
+                "title": "Alchemist",
+                "description": "The only alchemist's shop in the Waft area of the Trades District.",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "104"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                663.60193493069,
+                997.71212750271
+            ],
+            "popup": {
+                "title": "Fallenstar Fine Gems",
+                "description": "One of a dozen gem and jewelry stores in the Gem District.",
+                "link": {
+                    "url": "Fallenstar Fine Gems",
+                    "label": "Fallenstar Fine Gems"
+                }
+            },
+            "id": "105"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                670.67861749281,
+                987.79767277089
+            ],
+            "popup": {
+                "title": "Blevynsoar House",
+                "description": "A shop that traded in jewelry and maps.",
+                "link": {
+                    "url": "Blevynsoar House",
+                    "label": "Blevynsoar House"
+                }
+            },
+            "id": "106"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                684.11395826593,
+                990.62739449329
+            ],
+            "popup": {
+                "title": "Redcloak Trading",
+                "description": "The establishment that sold buildings and land in [[Athkatla]].",
+                "link": {
+                    "url": "Redcloak Trading",
+                    "label": "Redcloak Trading"
+                }
+            },
+            "id": "107"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                676.70430973083,
+                970.47251376148
+            ],
+            "popup": {
+                "title": "Ladycloak Lane",
+                "description": "",
+                "link": {
+                    "url": "Ladycloak Lane",
+                    "label": "Ladycloak Lane"
+                }
+            },
+            "id": "108"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                737.845807476,
+                959.86688299192
+            ],
+            "popup": {
+                "title": "Coront Street",
+                "description": "",
+                "link": {
+                    "url": "Coront Street",
+                    "label": "Coront Street"
+                }
+            },
+            "id": "109"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                513.70948933047,
+                924.89617324665
+            ],
+            "popup": {
+                "title": "Coront Street",
+                "description": "",
+                "link": {
+                    "url": "Coront Street",
+                    "label": "Coront Street"
+                }
+            },
+            "id": "110"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                700.24955886356,
+                1008.0006102792
+            ],
+            "popup": {
+                "title": "Sarango's Jewelry",
+                "description": "A jewelry shop.",
+                "link": {
+                    "url": "Sarango's Jewelry",
+                    "label": "Sarango's Jewelry"
+                }
+            },
+            "id": "111"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                696.2520953981,
+                998.50048313769
+            ],
+            "popup": {
+                "title": "Sarbront's Walk",
+                "description": "",
+                "link": {
+                    "url": "Sarbront's Walk",
+                    "label": "Sarbront's Walk"
+                }
+            },
+            "id": "112"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                701.5,
+                984.9997965736
+            ],
+            "popup": {
+                "title": "House of Darastiir Thalongal",
+                "description": "Home of merchant and a fleet owner [[Darastiir Thalongal]] who dealt in smuggling mercenaries, slaves, and weaponry in the late 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "Darastiir Thalongal",
+                    "label": "Darastiir Thalongal"
+                }
+            },
+            "id": "113"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                703.23092143548,
+                974.72817857359
+            ],
+            "popup": {
+                "title": "Baerlbohun Towers",
+                "description": "The gaudy mansion landmark of the Gem District. A tasteless structure with large turrets of gilded and carved designs of clashing colors and styles.",
+                "link": {
+                    "url": "Baerlbohun Towers",
+                    "label": "Baerlbohun Towers"
+                }
+            },
+            "id": "114"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                710.25033085233,
+                990.50045770939
+            ],
+            "popup": {
+                "title": "House of Malareetha Narindryn",
+                "description": "The home of so-called \"Lady Stargowns\", [[Malareetha Narindryn]] \u2013 a socialite and filthy rich investor into Athkathlan business in the late 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "Malareetha Narindryn",
+                    "label": "Malareetha Narindryn"
+                }
+            },
+            "id": "115"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                715.47320154773,
+                999.23056883375
+            ],
+            "popup": {
+                "title": "Baerlbohun House",
+                "description": "The mansion of the [[Baerlbohun]] family, just as gaudy as the [[Baerlbohun Towers]].",
+                "link": {
+                    "url": "Baerlbohun",
+                    "label": "Baerlbohun"
+                }
+            },
+            "id": "116"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                717.2280540486,
+                963.72896685088
+            ],
+            "popup": {
+                "title": "Starnir's Pool of Jewels",
+                "description": "A rich jewelry store.",
+                "link": {
+                    "url": "Starnir's Pool of Jewels",
+                    "label": "Starnir's Pool of Jewels"
+                }
+            },
+            "id": "117"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                712.97992887848,
+                980.48067054695
+            ],
+            "popup": {
+                "title": "Falconfly Ride",
+                "description": "",
+                "link": {
+                    "url": "Falconfly Ride",
+                    "label": "Falconfly Ride"
+                }
+            },
+            "id": "118"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                562.14599191118,
+                1037.325899728
+            ],
+            "popup": {
+                "title": "Flamewater Fountain",
+                "description": "A popular meeting spot commonly visited by street perfume vendors.",
+                "link": {
+                    "url": "Flamewater Fountain",
+                    "label": "Flamewater Fountain"
+                }
+            },
+            "id": "119"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                572.75571293468,
+                1023.1833685327
+            ],
+            "popup": {
+                "title": "House of Jalasra Fourwynds",
+                "description": "Home of the retired adventurer and an information broker [[Jalasra Fourwynds]] who dabbled in investments in the late 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "Jalasra Fourwynds",
+                    "label": "Jalasra Fourwynds"
+                }
+            },
+            "id": "120"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                557.19031859165,
+                1016.0822317067
+            ],
+            "popup": {
+                "title": "Shadowgates House",
+                "description": "A private club for [[Athkatla]]n females of wealth and status.",
+                "link": {
+                    "url": "Shadowgates House",
+                    "label": "Shadowgates House"
+                }
+            },
+            "id": "121"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                576.59473620433,
+                996.98912593911
+            ],
+            "popup": {
+                "title": "Dancing Dolphins House",
+                "description": "A landmark \"open mansion\" that welcomed guests and tourists. The mansion was completed ''circa'' 1360s [[DR]] by [[Albaerlus Gudelmer]].",
+                "link": {
+                    "url": "Dancing Dolphins House",
+                    "label": "Dancing Dolphins House"
+                }
+            },
+            "id": "122"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                593.59228094711,
+                1028.1069307799
+            ],
+            "popup": {
+                "title": "Hallowturrets House",
+                "description": "One of the oldest vast mansions in the Gem District and home of the [[Hawkyns]] noble family. It was well-liked by the locals and illuminated by a plethora of lanterns.",
+                "link": {
+                    "url": "Hallowturrets House",
+                    "label": "Hallowturrets House"
+                }
+            },
+            "id": "123"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                604.90084259169,
+                1009.0116673495
+            ],
+            "popup": {
+                "title": "House of Velrack Worthgar",
+                "description": "Home of the wealthy retired sea captain and investor [[Velrack Worthgar]] in the late 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "Velrack Worthgar",
+                    "label": "Velrack Worthgar"
+                }
+            },
+            "id": "124"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                608.78821427008,
+                999.81834420687
+            ],
+            "popup": {
+                "title": "House of Tholondor Ivryn",
+                "description": "Home of the [[Sage]] of [[Athkatla]], [[Tholondor Ivryn]]. The expert in the mercantile history of [[Amn]], genealogy, and investments.",
+                "link": {
+                    "url": "Tholondor Ivryn",
+                    "label": "Tholondor Ivryn"
+                }
+            },
+            "id": "125"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                606.00011028411,
+                985.25055942259
+            ],
+            "popup": {
+                "title": "The Diamond Dragon",
+                "description": "The richest and most splendorous jewelry store in the Gem District. The exclusive store's lobby displayed a humanoid-sized lounging dragon carved out of a single [[diamond]].",
+                "link": {
+                    "url": "The Diamond Dragon",
+                    "label": "The Diamond Dragon"
+                }
+            },
+            "id": "126"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                607.02790246661,
+                972.22497460783
+            ],
+            "popup": {
+                "title": "Myrtel's Stargirt Wonders",
+                "description": "The three-storied store that dealt in beautiful enchanted items from [[Calimshan]].",
+                "link": {
+                    "url": "Myrtel's Stargirt Wonders",
+                    "label": "Myrtel's Stargirt Wonders"
+                }
+            },
+            "id": "127"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                623.96812847864,
+                981.23006026776
+            ],
+            "popup": {
+                "title": "House of Darsarl Rastable",
+                "description": "Home of [[Darsarl Rastable]], a duelist for hire and an investor.",
+                "link": {
+                    "url": "Darsarl Rastable",
+                    "label": "Darsarl Rastable"
+                }
+            },
+            "id": "128"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                623.99911772711,
+                1019.2507882773
+            ],
+            "popup": {
+                "title": "Crimmordown Turrets",
+                "description": "Or \"The Crim,\" home of the wealthy [[Crimmor (family)|Crimmor]] merchant family and an ancient castle.",
+                "link": {
+                    "url": "Crimmordown Turrets",
+                    "label": "Crimmordown Turrets"
+                }
+            },
+            "id": "129"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                587.93371107948,
+                974.01455661677
+            ],
+            "popup": {
+                "title": "Stormwind Street",
+                "description": "",
+                "link": {
+                    "url": "Stormwind Street",
+                    "label": "Stormwind Street"
+                }
+            },
+            "id": "130"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                550.48434560146,
+                1006.5370813037
+            ],
+            "popup": {
+                "title": "Alaith's Walk",
+                "description": "",
+                "link": {
+                    "url": "Alaith's Walk",
+                    "label": "Alaith's Walk"
+                }
+            },
+            "id": "131"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                606.67422429491,
+                1023.1557089087
+            ],
+            "popup": {
+                "title": "Four Fountains Lane",
+                "description": "",
+                "link": {
+                    "url": "Four Fountains Lane",
+                    "label": "Four Fountains Lane"
+                }
+            },
+            "id": "132"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                631.77386361719,
+                1002.6458363444
+            ],
+            "popup": {
+                "title": "Salgrast Lane",
+                "description": "",
+                "link": {
+                    "url": "Salgrast Lane",
+                    "label": "Salgrast Lane"
+                }
+            },
+            "id": "133"
+        }
+    ]
+}
+ns2ecw9wh4w221lcqpliwwgoykn2fcs
+
+

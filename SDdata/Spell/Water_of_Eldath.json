@@ -1,0 +1,49 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "image": "",
+        "caption": "",
+        "name": "Water of Eldath",
+        "deity": "[[Eldath]]",
+        "inventor": "",
+        "type": "",
+        "school5e": "",
+        "level5e": "",
+        "type5e": "",
+        "refs5e": "",
+        "feature4e": "",
+        "keywords4e": "",
+        "level4e": "",
+        "type4e": "",
+        "category4e": "",
+        "skill4e": "",
+        "refs4e": "",
+        "school3e": "",
+        "domains3e": "",
+        "descriptors3e": "",
+        "level3e": "",
+        "type3e": "",
+        "refs3e": "",
+        "reversible2e": "",
+        "school2e": "[[Alteration]]",
+        "spheres2e": "[[Elemental sphere|Elemental]], [[Elemental water sphere|Elemental Water]], [[Healing sphere|Healing]]",
+        "level2e": "{{Spell table|edition=2e|[[Cleric]]|5|[[Druid]]|5|[[Elemental sphere|Elemental]]|5|[[Elemental water sphere|Elemental Water]]|5|[[Healing sphere|Healing]]|5|[[Mystic]]|5}}",
+        "type2e": "",
+        "refs2e": "",
+        "reversible1e": "",
+        "school1e": "",
+        "level1e": "",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Water of Eldath''''' was a [[divine magic]] spell available to priests of [[Eldath]], the Goddess of Singing Waters. It created three flasks of a [[potion]] that had many curative and purification abilities.",
+        "Effects": {
+            "Used Externally": "When a flask was poured over a subject, it:\n* Killed mold and [[musk creeper]] spores, even monstrous kinds;\n* Killed [[rot grub]]s;\n* Purified water of all pollutants, [[oil]]s, [[disease]]s, parasites, and anything that caused an unpleasant taste or odor; and/or\n* Acted as ''[[neutralize poison]]'' on an object, creature, or victim.",
+            "Used internally": "If a flask was drunk by a creature, it:\n* Closed all wounds to prevent blood loss, including those made by weapons enchanted to prevent healing;\n* Acted as ''[[cure disease]]'';\n* Acted as ''[[remove curse]]'';\n* Cured [[mummy rot]]; and/or\n* Cured [[lycanthropy]]."
+        },
+        "Components": "In addition to [[verbal component|verbal]] and [[somatic component]]s, this spell required as [[material component]]s three drops of water blessed by Eldath herself, one of her servitors, or one of her high-ranking priests (known as an Exalted of Eldath). One drop was placed in each of the three flasks to be filled by the resulting potion.",
+        "History": "''Water of Eldath'' was included in the ''[[Crystrum of Tranquility]]'', a holy \"book\" of the [[church of Eldath]].<ref>",
+        "Notable Users": "* [[Zalaznar Crinios]], an Eldathyn [[druid]] of the [[Gulthmere Forest]]<ref>"
+    }
+}

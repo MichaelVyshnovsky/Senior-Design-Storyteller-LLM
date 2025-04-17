@@ -1,0 +1,17 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "name": "Ethereal Barrier",
+        "school2e": "[[Abjuration]]",
+        "spheres2e": "[[Astral sphere|Astral]], [[Wards sphere|Wards]]",
+        "level2e": "{{spell table|edition=2e|[[Astral sphere|Astral]]|2|[[Cleric]]|2|[[Crusader]]|2|[[Shaman]]|2|[[Wards sphere|Wards]]|2}}",
+        "type2e": "",
+        "refs2e": "",
+        "mainbody": "'''''Ethereal barrier''''' was an [[abjuration]] spell that prevented encroachment by creatures moving through the [[Ethereal Plane]].",
+        "Effects": "The wall(s) created by this spell were proof against creatures traveling through the [[Ethereal Plane]] by ''phasing'', ''[[dimension door]]'', ''[[shadow walk]]'', or any other method of travel through the Border Ethereal adjacent to the [[plane]] of the caster (usually the [[Prime Material Plane]]). To those on the same plane as the caster, ''ethereal barrier'' was undetectable. This spell did not prevent travel through the [[Astral Plane]] (''[[teleport]]'', ''[[gate]]'', etc.).\n\nThe area of effect was two 10 ft (3.1 m) squares per level of the caster, arranged any way the priest desired. Multiple priests could cooperatively cast this spell for a greater duration, combining their areas of coverage. It took ten minutes to erect an ''ethereal barrier''.",
+        "Components": "Besides verbal and somatic components, a compound of lead and rare earths was required. Estimated cost was 10 gp per square.",
+        "References": "{{refs}}\n[[Category:Abjuration spells]]\n[[Category:Cleric spells]]\n[[Category:Crusader spells]]\n[[Category:Shaman spells]]\nol17w1z5wlrl9o0v5pmx6j5jh5zvjjl"
+    }
+}

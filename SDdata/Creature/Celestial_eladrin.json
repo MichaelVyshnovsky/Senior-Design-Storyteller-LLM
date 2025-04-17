@@ -1,0 +1,62 @@
+{
+    "template_data": {
+        "eladrins|alt": "yes"
+    },
+    "document_data": {
+        "image": "<gallery>",
+        "caption2": "Various depictions of eladrin.",
+        "name": "Eladrin",
+        "size5e": "",
+        "type5e": "",
+        "subtype5e": "",
+        "alignment5e": "",
+        "challenge5e": "",
+        "refs5e": "",
+        "size3e": "",
+        "type3e": "[[Outsider]]",
+        "subtype3e": "[[Celestial eladrin|Eladrin]], [[:Category:Creatures with the chaotic subtype|Chaotic]], [[:Category:Creatures with the good subtype|Good]]",
+        "alignment3e": "Always [[chaotic good]]",
+        "challenge3e": "",
+        "refs3e": "",
+        "size2e": "",
+        "alignment2e": "[[Chaotic good]]",
+        "refs2e": "",
+        "patron deity": "",
+        "vision": "[[Darkvision]], [[low-light vision]]",
+        "activecycle": "",
+        "diet": "Omnivore",
+        "lifespan": "",
+        "location": "[[Arvandor]], [[Arborea]]",
+        "language": "",
+        "subraces": "[[Bralani]]<br/>[[Coure]]<br/>[[Firre]]<br/>[[Ghaele]]<br/>[[Noviere]]<br/>[[Shiere]]<br/>[[Shiradi]]<br/>[[Tulani]]",
+        "climate": "",
+        "terrain": "",
+        "height": "",
+        "length": "",
+        "wingspan": "",
+        "weight": "",
+        "skincolor": "",
+        "haircolor": "",
+        "hairstyles": "",
+        "feathers": "",
+        "eyecolor": "",
+        "build": "",
+        "distinctions": "[[Fey]] appearance",
+        "based": "",
+        "first": "[[wikipedia:Blood Wars (card game)|Blood Wars card game]]",
+        "They are a bit more free-spirited than most of us who dwell here within the [[House of the Triad|House]], flaunting our laws when such strictures do not suit them, but [[Tyr]] abides them because they are dedicated to defending this place.\n|[[Tauran]] the [[astral deva]].\n}}": "=Description==",
+        "mainbody": "lestial eladrin were wild fey beings of beauty and grace.{{Cite web/The one and only Ask the Realms designers thread 4/Eladrin definition}}\n\nEach eladrin type had two forms, a [[humanoid]] form and an energy form, which varied with the type of eladrin.\n\n===Abilities===\nAll eladrin were immune to harm from electricity. They were resistant to [[acid]], cold, and fire and could not be turned to stone by magical means. Most could see in darkness.\n\nEladrin had a wide range of [[spell]]-like abilities, which varied among their kinds, but all could communicate with almost any sentient creature using their innate magic.\n\nTypical of fey, some eladrin were sensitive to [[cold iron]].\n\n===Types===\nThere were at least eight known types of celestial eladrin. They are sometimes divided into into two categories: lesser eladrin (including the coure, bralani, noviere, and shiere) and greater eladrin (including the firre, ghaele, and tulani), listed here from weakest to most powerful:\n\n; Lesser:\n:; [[Coure]] : A [[Sprite (classification)|sprite-like]] eladrin with the alternate form of a ball of light.\n:; [[Bralani]] : An [[elf]]-like eladrin with the alternate form of a whirlwind of dust, snow, or sand.\n:; [[Noviere]] : An aquatic eladrin with the alternate form of a golden [[dolphin]] made from shimmering water.\n:; [[Shiere]] : An elf-like eladrin with the alternate form of a ball of light.\n\n; Greater:\n:; [[Firre]] : An elf-like eladrin with the alternate form of a pillar of fire.\n:; [[Ghaele]] : An elf-like eladrin with the alternate form of a globe of eldritch colors.\n:; [[Shiradi]] : A powerfully built eladrin with the alternate form of a cloud of light shards.\n:; [[Tulani]] : An elf-like eladrin with the alternate form of a scintillating sphere of rainbow-colored light.",
+        "Description": {
+            "Abilities": "All eladrin were immune to harm from electricity. They were resistant to [[acid]], cold, and fire and could not be turned to stone by magical means. Most could see in darkness.\n\nEladrin had a wide range of [[spell]]-like abilities, which varied among their kinds, but all could communicate with almost any sentient creature using their innate magic.\n\nTypical of fey, some eladrin were sensitive to [[cold iron]].",
+            "Types": {
+                "Lesser": ":; [[Coure]] : A [[Sprite (classification)|sprite-like]] eladrin with the alternate form of a ball of light.\n:; [[Bralani]] : An [[elf]]-like eladrin with the alternate form of a whirlwind of dust, snow, or sand.\n:; [[Noviere]] : An aquatic eladrin with the alternate form of a golden [[dolphin]] made from shimmering water.\n:; [[Shiere]] : An elf-like eladrin with the alternate form of a ball of light.",
+                "Greater": ":; [[Firre]] : An elf-like eladrin with the alternate form of a pillar of fire.\n:; [[Ghaele]] : An elf-like eladrin with the alternate form of a globe of eldritch colors.\n:; [[Shiradi]] : A powerfully built eladrin with the alternate form of a cloud of light shards.\n:; [[Tulani]] : An elf-like eladrin with the alternate form of a scintillating sphere of rainbow-colored light."
+            }
+        },
+        "Personality": "{{Quote|They're too full of moon-sparkle and [[unicorn]] giggles.|Witch queen [[Iggwilv]]'s opinion of the eladrin.{{Cite dungeon/149/Enemies of My Enemy|57-58}}}}\nEladrin were creatures of freedom and goodness. They took joy from their own existence and lived lives of celebration and art. Their wild natures left them somewhat unpredictable, yet they could always be trusted to avoid actual wickedness.\n\nEladrin were archenemies of all manner of [[fiend]]s, and would roam the multiverse looking for people to aid with acts of kindness",
+        "Combat": "An eladrin was a powerful foe who fought with cleverness and without fear.",
+        "Society": "[[File:Morwel RonSpencer.jpg|thumb|280px|right|''Queen Morwel and her consort Faerinaal.'']]\nIn Arborea, an eladrin was constantly on the move, seeking beauty and adventure from place to place. A ''[[portal]]'' linked the realms of Arvandor and the Gates of the Moon, so that the eladrin could travel freely back and forth amongst their kin.\n\nThe eladrin of Arvandor and the Gates of the Moon respected and often worked with the [[Seldarine]] but were not subservient to them. Her [[Court of Stars|court]] was found in the Gates of the Moon.",
+        "Ecology": "While the goddess [[Selûne]] sometimes transformed favored [[petitioner]]s into eladrin as a reward for their faithful service in their mortal lives, the majority of eladrin were ''not'' the reformed spirits of [[chaotic good]] elves; rather, most were born to eladrin parents. They enjoyed very long lives, but they were not truly immortal.",
+        "History": "[[File:Androlynne-3e.jpg|thumb|right|280px|''A [[foo lion]] and a group of eladrin prepare for battle on the [[Abyss]]al layer of [[Androlynne]].'']]\nThe eladrin were only distantly related to the elves. As far as they knew, they had been ruled by Queen Morwel for their entire existence.\n\nThe eladrin were responsible for driving the [[obyrith]]s from the [[Abyss]] in the ancient past. After the [[Queen of Chaos]] and her armies were defeated on the world of [[Oerth]] at the [[Field of Pesh]], her consort [[Miska the Wolf-Spider]] was trapped in an extra-dimensional prison. Queen Morwel took advantage of this weakening of the obyriths' power. An eladrin army, including legions of [[ghaele]]s, was led by Morwel, Faerinaal, and Gwynharwyf into the Abyss, and they nearly eliminated all obyriths from the multiverse, slaughtering them upon the [[Plain of Infinite Portals]]. Unfortunately, this power vacuum allowed the [[tanar'ri]] to come to power.\n\nBefore the obyriths lost the Abyss, however, [[Pale Night]], Mother of Demons, tricked [[Ascodel]], then the Royal Consort of Morwel, into a pact, the result of which condemned thousands of eladrin children to the 471{{st}} layer of the Abyss, [[Androlynne]]. Countless celestials responded and came to the eladrin children's aid&mdash;[[ki-rin]], [[foo creature]]s, [[hollyphant]]s, [[moon dog]]s, [[couatl]], and the eladrin themselves. The war to protect the bound eladrin children continued for millennia."
+    }
+}

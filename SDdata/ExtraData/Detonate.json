@@ -1,0 +1,43 @@
+{
+    "template_data": {
+        "60|yd|long": "yes",
+        "long": "yes",
+        "10|ft|long": "yes",
+        "long_1": "yes",
+        "10|in|c|long": "yes",
+        "adj": "thick"
+    },
+    "document_data": {
+        "image": "File:Detonate.jpg",
+        "caption": "It's one way of eliminating a bone of contention.",
+        "name": "Detonate",
+        "deity": "",
+        "inventor": "",
+        "feature4e": "",
+        "keywords4e": "",
+        "level4e": "",
+        "type4e": "",
+        "category4e": "",
+        "skill4e": "",
+        "refs4e": "",
+        "discipline3e": "",
+        "mantles3e": "",
+        "descriptors3e": "",
+        "level3e": "",
+        "type3e": "",
+        "refs3e": "",
+        "discipline2e": "[[Psychokinesis]]",
+        "level2e": "Major (Science)",
+        "type2e": "Standard power",
+        "wild2e": "Yes",
+        "refs2e": "",
+        "level1e": "",
+        "type1e": "",
+        "refs1e": "",
+        "mainbody": "'''''Detonate''''' was a [[psionic]] power of the [[psychokinesis]] [[discipline]] that caused an object to explode.",
+        "Effects": "The manifester accessed the latent psionic energy within a single item up to {{SI|60|yd|long=yes}} away, controlled and focused it, and finally released it with explosive force. It could target inanimate objects (including worn [[armor]] and carried [[weapon]]ry), [[:Category:Plants|plants]] and non-sentient [[plant creature]]s, [[golem]]s and animated matter, and mindless corporeal [[undead]] such as [[skeleton]]s and [[zombie]]s, but not [[animal]]s, free-willed undead, and all thinking creatures. [[Magical item]]s and animated materials such as golems could resist. According to the degree of success, the explosion damaged a portion of the object or creature, up to {{SI|8|cu ft|long=yes}}. This could weaken or destroy it outright, leaving chunks or only dust. Everything within {{SI|10|ft|long=yes}} was damaged or injured by the blast. ''Detonate'' could blow a hole in a wall, leaving an opening of {{SI|3|sq ft|long=yes}} in a {{SI|10|in|c|long=yes|adj=thick}} wall.",
+        "Prerequisite Powers": "Learning ''detonate'' could require knowledge of ''[[telekinesis (psionic)|telekinesis]]'' and ''[[molecular agitation]]''.",
+        "Users": "''Detonate'' could be used by [[amethyst dragon]]s and psionic [[mind flayer]]s.",
+        "Notable Users": "* [[K'yorl Odran]], a [[drow]] psionicist and the [[matron mother]] of [[House Oblodra]].<ref>\n* [[Vhondryl]], a psionicist in [[Skullport]] and head of the [[Hall of Mental Splendor]]{{Cite dragon/172/Seeing the Sights in Skullport|14}}"
+    }
+}

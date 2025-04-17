@@ -1,0 +1,16 @@
+{
+    "template_data": {
+        "edition": "2e"
+    },
+    "document_data": {
+        "name": "Impervious Sanctity of Mind",
+        "school2e": "[[Abjuration]]",
+        "spheres2e": "[[Protection sphere|Protection]], [[Thought sphere|Thought]]",
+        "level2e": "{{spell table|edition=2e|[[Cleric]]|7|[[Monk]]|7|[[Mystic]]|7|[[Protection sphere|Protection]]|7|[[Shaman]]|7|[[Thought sphere|Thought]]|7}}",
+        "type2e": "",
+        "refs2e": "",
+        "mainbody": "'''''Impervious sanctity of mind''''' was an [[abjuration]] spell that granted the caster complete immunity from mind-affecting spells, spell-like effects, and [[psionic]]s.",
+        "Effects": "This spell lasted for at least two hours (longer for higher level casters). When cast, it prevented all of the following effects: ''[[amnesia]]'', ''[[awe]]'', ''[[beguiling]]'', ''[[charm]]'', ''[[command]]'', ''[[confusion]]'', ''[[domination]]'', ''[[emotion]]'', ''[[empathy]]'', ''[[ESP]]'', ''[[fascination]]'', ''[[fear]]'', ''[[feeblemind]]'', ''[[hold person]]'', ''[[hypnotism]]'', ''[[insanity]]'', ''[[magic jar]]'', ''[[mind blast]]'', ''[[phantasmal killer]]'', ''[[possession]]'', ''[[rulership]]'', ''[[sleep]]'', ''[[soul trap]]ping'', ''[[suggestion]]'', ''[[telepathy]]'', and any form of psionic or telepathic attack or sending. The only exceptions to this protection were [[artifacts]], [[relic]]s, or extraordinarily powerful creatures.\n\nThis spell did not prevent detection or scrying.",
+        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required a [[ring]] made of lead that had been subjected to the [[dragon breath|breath]] of a [[red dragon]]."
+    }
+}

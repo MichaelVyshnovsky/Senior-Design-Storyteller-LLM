@@ -1,0 +1,16 @@
+{
+    "template_data": {
+        "edition": "4e"
+    },
+    "document_data": {
+        "type": "Encounter",
+        "name": "Poisonous Exhalation",
+        "keywords4e": "{{desc/arcane}}{{desc/implement}}{{desc/poison}}",
+        "school": "",
+        "level4e": "{{spell table|edition=4e|[[Sorcerer]]|3}}",
+        "type4e": "Encounter",
+        "refs4e": "",
+        "mainbody": "'''''Poisonous exhalation''''' was a [[spell]] of the [[conjuration|conjuration school]] used by [[sorcerer]]s, particularly [[Sorcerer#Dragon Sorcerer|dragon sorcerers]].",
+        "Description": "When it was cast, ''poisonous exhalation'' caused the sorcerer casting it to breathe out a billowing mist of poisonous gas that sapped the endurance of creatures caught within. Dragon sorcerers sapped their enemies further, to a degree dependent on their own physical strength. ''Poisonous exhalation'' was not particularly difficult to cast, requiring only a short rest from its user before it could be recast."
+    }
+}

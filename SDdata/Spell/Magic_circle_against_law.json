@@ -1,0 +1,17 @@
+{
+    "template_data": {
+        "edition": "3e"
+    },
+    "document_data": {
+        "name": "Magic Circle against Law",
+        "level3e": "{{spell table|edition=3e|[[Chaos domain|Chaos]]|3|[[Cleric]]|3|[[Sorcerer]]|3|[[Wizard]]|3}}",
+        "descriptors3e": "{{desc/chaotic}}",
+        "domains3e": "[[Chaos domain|Chaos]]",
+        "school3e": "[[Abjuration]]",
+        "type3e": "",
+        "refs3e": "",
+        "mainbody": "'''''Magic Circle against Law''''' was an [[abjuration]] spell that created a sphere of warding against mental and physical attacks from lawful creatures.",
+        "Effects": "This spell operated just like ''[[magic circle against evil]]'' except that it extended the area of effect for ''[[protection from law]]'' rather than ''[[protection from evil]]'', and it could trap a nonchaotic summoned creature.",
+        "Components": "See the description of the components at ''[[magic circle against evil]]''."
+    }
+}

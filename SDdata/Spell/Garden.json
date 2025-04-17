@@ -1,0 +1,47 @@
+{
+    "template_data": {
+        "100|ft|long": "yes"
+    },
+    "document_data": {
+        "image": "",
+        "caption": "",
+        "name": "Garden",
+        "other names": "",
+        "type": "Planet",
+        "size class": "A",
+        "shape class": "Cluster",
+        "type class": "[[Earth (element)|earth]]",
+        "class refs": "",
+        "cluster": "",
+        "satellites": "12 moons",
+        "satellite of": "[[The sun]]",
+        "distance": "{{SI|1200000000|mi|k}}",
+        "day length": "128 hours",
+        "year length": "1,022 months",
+        "demonym": "",
+        "population": "Pirates",
+        "usethe": "",
+        "usein": "",
+        "inhabitants": "yes",
+        "locations": "yes",
+        "organizations": "yes",
+        "mainbody": "'''Garden''' was the seventh planet orbiting [[the sun]] of [[Realmspace]]. Rarely seen from [[Toril]], it appeared like a tiny green sparkle. It was one of the [[Five Wanderers]], the five [[wikipedia:Superior Planet|superior]]  planets of the Torilian solar system. According to the planetary scholars of [[Shou Lung]], Garden was an example of a rare [[live world]].",
+        "Description": {
+            "Moons": {
+                "[[Grandchild]]": "A perfectly spherical white moon with a high albedo.",
+                "[[Yerthad]]": "A highly dangerous spherical moon with an [[acid]]ic atmosphere and covered with an ocean of acid.",
+                "[[Peaceon]]": "A flat-shaped moon, once used by [[elf|elves]] as a stopping point, but later abandoned.",
+                "[[Retinae]]": "An eye-shaped moon with a large crater that resembled a pupil. Fungus that grew within this crater could be used as a material component or ingredient in [[spell]]s and [[potion]]s that improved vision.",
+                "[[Glorianus]]": "A crescent-shaped moon entirely covered in soft green [[grass]] and inhabited by a single [[druid]] called [[Griffon Broadleaf]].",
+                "[[Fjord]]": "An airless, spherical mass of rock that had once been a mining colony.",
+                "[[Locci]]": "An airless rectangular moon, somewhat damaged by [[meteor]] impacts.",
+                "[[Dragon Rock (moon)|Dragon Rock]]": "A [[white dragon]]-shaped moon made of white [[jade]] with an atmosphere that smelled like pipe smoke. It had been created by an [[evil]] [[wizard]] in an attempt to learn Garden's secrets.",
+                "[[Knurl]]": "A spherical moon made of [[marble]]. Rivers of somewhat liquid marble oozed on its surface. The fluid could be molded into sculptures and hardened within a few days of being removed from the moon.",
+                "[[Sunson]]": "A spherical blue [[fire]] body, twice as hot as [[the sun]], which irradiated enough heat to warm up objects within a fair distance. Its light illuminated Garden during the night.",
+                "[[Templar]]": "A circular moon inhabited by 100 [[mage]]s who studied Garden and sold [[magic item]]s to finance their research.",
+                "[[Farworld]]": "A bustling trading post, despite its great distance from most inhabited planets."
+            }
+        },
+        "Inhabitants": "Garden was inhabited by a pirate cove led by [[Orion]] of [[Calimshan]], who took the pseudonym [[Clive the Fearsome]] after his predecessor retired. The group consisted of 100 pirates commanding 12 small spelljamming ships.\n\nThe [[Chainmen]], a [[human]] group of slavers, supposedly had a base somewhere in Garden."
+    }
+}

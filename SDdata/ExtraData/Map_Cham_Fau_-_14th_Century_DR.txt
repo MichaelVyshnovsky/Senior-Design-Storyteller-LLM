@@ -1,0 +1,992 @@
+2900
+140522
+
+823705
+823551
+2022-10-21T01:19:48Z
+
+Artyom.pavlov
+24367202
+
+823705
+interactivemap
+text/plain
+{
+    "mapImage": "Cham Fau Map 2e.jpg",
+    "pageCategories": [
+        "Interactive_maps",
+        "Maps_of_cities",
+        "Maps_of_Shou_Lung"
+    ],
+    "defaultSort": "",
+    "description": "",
+    "coordinateOrder": "xy",
+    "mapBounds": [
+        [
+            0,
+            0
+        ],
+        [
+            3456,
+            4372
+        ]
+    ],
+    "origin": "bottom-left",
+    "useMarkerClustering": false,
+    "categories": [
+        {
+            "id": "10",
+            "listId": 1,
+            "name": "Districts",
+            "color": "#f00",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:City icon.svg"
+        },
+        {
+            "id": "3",
+            "listId": 2,
+            "name": "Compounds & Fortresses ",
+            "color": "#ff6a6a",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Hamlet icon.svg"
+        },
+        {
+            "id": "6",
+            "listId": 3,
+            "name": "Inns & Taverns",
+            "color": "#fa5d00",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Tankard icon.svg"
+        },
+        {
+            "id": "8",
+            "listId": 4,
+            "name": "Temples & Shrines",
+            "color": "#fac600",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Lathander temple icon.svg"
+        },
+        {
+            "id": "7",
+            "listId": 5,
+            "name": "Shops",
+            "color": "#007903",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Tymora coin icon.svg"
+        },
+        {
+            "id": "9",
+            "listId": 6,
+            "name": "Schools",
+            "color": "#8c586b",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Books icon.svg"
+        },
+        {
+            "id": "4",
+            "listId": 7,
+            "name": "Farms",
+            "color": "#ced900",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Farms icon.svg"
+        },
+        {
+            "id": "5",
+            "listId": 8,
+            "name": "Warehouses",
+            "color": "#2e2703",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Mountain road icon.svg"
+        },
+        {
+            "id": "11",
+            "listId": 9,
+            "name": "Points of Interest",
+            "color": "#021ebb",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Elminter's choice icon.svg"
+        },
+        {
+            "id": "2",
+            "listId": 10,
+            "name": "Islands",
+            "color": "#050065",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Islands icon.svg"
+        },
+        {
+            "id": "12",
+            "listId": 11,
+            "name": "Bodies of Water",
+            "color": "#00e8fa",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Bodies of water icon.svg"
+        },
+        {
+            "id": "1",
+            "listId": 12,
+            "name": "Forests",
+            "color": "#00921c",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Forest icon.svg"
+        },
+        {
+            "id": "13",
+            "listId": 13,
+            "name": "Docks",
+            "color": "#fa005a",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Ship icon.svg"
+        }
+    ],
+    "markers": [
+        {
+            "categoryId": "1",
+            "position": [
+                3355.8735845216,
+                1362.9283653512
+            ],
+            "popup": {
+                "title": "Forest of Shen Hua",
+                "description": "The forbidden forest inhabited by the [[Men of the Woods]], protectors of the [[Hungste Valley]].",
+                "link": {
+                    "url": "Forest of Shen Hua",
+                    "label": "Forest of Shen Hua"
+                }
+            },
+            "id": "1"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                695.77776244592,
+                3812.7368915949
+            ],
+            "popup": {
+                "title": "Ting Shen Island",
+                "description": "The island owned by General [[Kung Pao Tsuo]] in the 14{{th}} century [[DR]] and the site of the famous annual martial arts [[Tournament at the Fortress of General Tsuo|Tournament]].",
+                "link": {
+                    "url": "Ting Shen Island",
+                    "label": "Ting Shen Island"
+                }
+            },
+            "id": "2"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                857.0088257256,
+                3841.0068899782
+            ],
+            "popup": {
+                "title": "The Fortress",
+                "description": "The compound of the [[Tsuo Clan]], owned by General [[Kung Pao Tsuo]] in the 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "Fortress (Cham Fau)",
+                    "label": "Fortress"
+                }
+            },
+            "id": "3"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                549.74445332105,
+                4101.0753974244
+            ],
+            "popup": {
+                "title": "Tam Clan farm",
+                "description": "The [[horse]]-breeder farm of the [[Tam Clan]] and the base of the [[Amada Tong]] secret crime cartel. Thr farm was ran by [[Mo Shi Tam]] in the 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "Tam Clan farm",
+                    "label": "Tam Clan farm"
+                }
+            },
+            "id": "4"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                1108.7342467555,
+                2647.4077887624
+            ],
+            "popup": {
+                "title": "Min Fang Island",
+                "description": "The island that belonged to Lord [[Kai Mai Lin]] in the 14{{th}} century [[DR]]. The island was filled with a variety of rare beasts and place of the Court nobility meetings.",
+                "link": {
+                    "url": "Min Fang Island",
+                    "label": "Min Fang Island"
+                }
+            },
+            "id": "5"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1416.789676964,
+                2955.7529772287
+            ],
+            "popup": {
+                "title": "Lin Estate",
+                "description": "The estate that belonged to Lord [[Kai Mai Lin]] in the 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "Lin Estate",
+                    "label": "Lin Estate"
+                }
+            },
+            "id": "6"
+        },
+        {
+            "categoryId": "13",
+            "position": [
+                1204.0216519514,
+                1756.0040369756
+            ],
+            "popup": {
+                "title": "Mok Clan docks",
+                "description": "The dock owned by [[Mok Clan]] where the ''[[Bright Flower of Heavenly Sunrise]]'' was moored. Two building to the west were the family's [[fish]] drying sheds.",
+                "link": {
+                    "url": "Mok Clan docks",
+                    "label": "Mok Clan docks"
+                }
+            },
+            "id": "7"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1288.0086607806,
+                1640.0010092439
+            ],
+            "popup": {
+                "title": "The Seven Sons Tavern",
+                "description": "A welcoming [[rice wine]] and [[plum brandy]] bar that served [[pot-stickers]] and ran by [[Lin Mei]] in the 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "Seven Sons Tavern",
+                    "label": "Seven Sons Tavern"
+                }
+            },
+            "id": "8"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1431.1825940974,
+                1759.2859534514
+            ],
+            "popup": {
+                "title": "Mok Clan compound",
+                "description": "The compound of the Mok Clan, ran by [[Mok Tien]] in the 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "Mok Clan",
+                    "label": "Mok Clan compound"
+                }
+            },
+            "id": "9"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1513.2046841788,
+                1465.1331006938
+            ],
+            "popup": {
+                "title": "The Lucky Dragon Inn",
+                "description": "The busiest and largest inn in town, famous for its fine meals. It catered to travelers and fishers.",
+                "link": {
+                    "url": "Lucky Dragon Inn",
+                    "label": "Lucky Dragon Inn"
+                }
+            },
+            "id": "10"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1832.8184802993,
+                1517.4511524263
+            ],
+            "popup": {
+                "title": "The Central Marketplace",
+                "description": "Open-air market willed with numerous stalls and surrounded by permanent shops of the Lower Town.",
+                "link": {
+                    "url": "Central Marketplace",
+                    "label": "The Central Marketplace"
+                }
+            },
+            "id": "11"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1743.725322406,
+                1547.152491809
+            ],
+            "popup": {
+                "title": "T'ung Shen's Strong Steeds of Noble Birth Stable",
+                "description": "Stables that sold [[horse]]s, rumored to sometimes be stolen from the [[Tam Clan]]'s farms.",
+                "link": {
+                    "url": "T'ung Shen's Strong Steeds of Noble Birth Stable",
+                    "label": "T'ung Shen's Strong Steeds of Noble Birth Stable"
+                }
+            },
+            "id": "12"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1788.980156402,
+                1602.308248028
+            ],
+            "popup": {
+                "title": "House of Apothecary",
+                "description": "The apothecary that belonged to Master [[San Mei]] in the 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "House of Apothecary",
+                    "label": "House of Apothecary"
+                }
+            },
+            "id": "13"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1750.376015245,
+                1459.8195292232
+            ],
+            "popup": {
+                "title": "Lo Fan's Magnificent House of Weapons",
+                "description": "A weapon shop that dealt in a wide variety of quality weapons.",
+                "link": {
+                    "url": "Lo Fan's Magnificent House of Weapons",
+                    "label": "Lo Fan's Magnificent House of Weapons"
+                }
+            },
+            "id": "14"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1616.4453362804,
+                1582.5085445115
+            ],
+            "popup": {
+                "title": "Shou Mai Ting Restaurant",
+                "description": "A quality and price-conscious eatery that served [[Northern Cuisine]] from [[Chukei]], famous for its many [[noodle]] dishes.",
+                "link": {
+                    "url": "Shou Mai Ting Restaurant",
+                    "label": "Shou Mai Ting Restaurant"
+                }
+            },
+            "id": "15"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1907.7725646171,
+                1531.5940016933
+            ],
+            "popup": {
+                "title": "House of Fo Wok, the Tailor",
+                "description": "Tailor shop ran by [[Fo Wok]], master of [[silk]]s and embroidery in the 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "House of Fo Wok",
+                    "label": "House of Fo Wok"
+                }
+            },
+            "id": "16"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1523.9967522073,
+                1714.0020184878
+            ],
+            "popup": {
+                "title": "House of Chih Liao, the Physician",
+                "description": "A physician's shop, ran by [[Chih Liao]], trained and sanctioned by the [[Court Physicians]] in the 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "House of Chih Liao",
+                    "label": "House of Chih Liao"
+                }
+            },
+            "id": "17"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                1985.5543105477,
+                1206.3305914931
+            ],
+            "popup": {
+                "title": "Temple of Kwan Ying, Mistress of Compassion",
+                "description": "A small temple ran by the [[monk]]s of the [[Grey Cat sect]] that often clashed with the monks of the [[White Tiger Monastery]].",
+                "link": {
+                    "url": "Temple of Kwan Ying",
+                    "label": "Temple of Kwan Ying"
+                }
+            },
+            "id": "18"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1882.3182515186,
+                1452.4008967732
+            ],
+            "popup": {
+                "title": "Mi Fa Teug's Ever Bountiful Emporium",
+                "description": "A store with a self-explanatory name that catered to travelers' needs.",
+                "link": {
+                    "url": "Mi Fa Teug's Ever Bountiful Emporium of Dried Goods and Traveler's Accessories",
+                    "label": "Mi Fa Teug's Ever Bountiful Emporium of Dried Goods and Traveler's Accessories"
+                }
+            },
+            "id": "19"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1697.0562748477,
+                1295.423904993
+            ],
+            "popup": {
+                "title": "The Garrison House of the Cham Fau Guard",
+                "description": "The garrison building that also served as the magistrate's office, jail and armory.",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "20"
+        },
+        {
+            "categoryId": "6",
+            "position": [
+                1547.1519337724,
+                1210.5710912506
+            ],
+            "popup": {
+                "title": "Wa Ko Inn",
+                "description": "A cheap inn frequented by individuals of ill repute and a meeting place of the [[Black Tiger]] secret society.",
+                "link": {
+                    "url": "Wa Ko Inn",
+                    "label": "Wa Ko Inn"
+                }
+            },
+            "id": "21"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                2186.3726364046,
+                1221.8833724632
+            ],
+            "popup": {
+                "title": "Shen Clan compound",
+                "description": "The home of the [[Shen Clan]] that controlled the [[rice]] trade in the city.",
+                "link": {
+                    "url": "Shen Clan compound",
+                    "label": "Shen Clan compound"
+                }
+            },
+            "id": "22"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                2115.661958286,
+                1030.965255186
+            ],
+            "popup": {
+                "title": "Warehouse of the Shen Clan",
+                "description": "[[Rice]] storage that belonged to the [[Shen Clan]] and used by the [[Yellow Hand Tong]] criminal organization.",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "23"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1879.4905899059,
+                1112.9889281605
+            ],
+            "popup": {
+                "title": "Warehouse of the Shen Clan",
+                "description": "[[Rice]] storage that belonged to the [[Shen Clan]]. Secretly, it was a [[Yellow Hand]] kung-fu dojo.",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "24"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1646.142290066,
+                1094.605579136
+            ],
+            "popup": {
+                "title": "Warehouse of the Feng Su Clan",
+                "description": "[[Feng Su Clan]]'s storage of grains and other trade goods. Some claimed contraband was hidden there.",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "25"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1680.0857120992,
+                859.84898235495
+            ],
+            "popup": {
+                "title": "Feng Su compound",
+                "description": "The home of the [[Feng Su Clan]], owners of a fleet of five large merchant ships.",
+                "link": {
+                    "url": "Feng Su compound",
+                    "label": "Feng Su compound"
+                }
+            },
+            "id": "26"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1982.7243523987,
+                1756.4575263266
+            ],
+            "popup": {
+                "title": "Shuii Clan compound",
+                "description": "The estate of the [[Shuii Clan]], owners of two large [[rice]] fields to the east.",
+                "link": {
+                    "url": "Shuii Clan compound",
+                    "label": "Shuii Clan compound"
+                }
+            },
+            "id": "27"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                636.39380653165,
+                1237.43543979
+            ],
+            "popup": {
+                "title": "Wang Ho School of Martial Arts",
+                "description": "The large martial art college ran by the famous [[Wang Clan]], masters of the [[Lightning Fist technique]].",
+                "link": {
+                    "url": "Wang Ho School of Martial Arts",
+                    "label": "Wang Ho School of Martial Arts"
+                }
+            },
+            "id": "28"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                456.67626696145,
+                635.60203484212
+            ],
+            "popup": {
+                "title": "White Tiger Monastery",
+                "description": "The monastery and temple dedicated to [[Nung Chang]], the deity of agriculture. The monks of the White Tiger studied the [[Tiger style]] of kung fu.",
+                "link": {
+                    "url": "White Tiger Monastery.",
+                    "label": "White Tiger Monastery."
+                }
+            },
+            "id": "29"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                944.72050156823,
+                227.62481859858
+            ],
+            "popup": {
+                "title": "The Magistrate's compound",
+                "description": "A huge triple-sectioned compound home of the city's magistrate \u2013 [[Li Sung Ming]] in the 14{{th}} century [[DR]].",
+                "link": {
+                    "url": "The Magistrate's compound",
+                    "label": "The Magistrate's compound"
+                }
+            },
+            "id": "30"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                1396.7736772126,
+                23.604069106084
+            ],
+            "popup": {
+                "title": "Fu Te",
+                "description": "The wealthy neighborhood of Cham Fau. Home to most families with significant wealth and bearers of important titles.",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "31"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                2455.0701512072,
+                212.13774350165
+            ],
+            "popup": {
+                "title": "Tai Jen Clan compound",
+                "description": "The home and a farm of the [[Tai Jen Clan]], family often visited by a [[kirin]] patron.",
+                "link": {
+                    "url": "Tai Jen Clan compound",
+                    "label": "Tai Jen Clan compound"
+                }
+            },
+            "id": "32"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                2964.1893301978,
+                319.61226509632
+            ],
+            "popup": {
+                "title": "Imperial Arcanium",
+                "description": "The compound owned by the advisor to the Magistrate, [[Zo Chung Kao]] in the 14{{th}} century [[DR]]. He offered educational services to a select number of aspirants learning ''the Art''. ",
+                "link": {
+                    "url": "Zo Chung Kao",
+                    "label": "Zo Chung Kao"
+                }
+            },
+            "id": "33"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                3255.5165585345,
+                480.84117492538
+            ],
+            "popup": {
+                "title": "House of T'an Chen",
+                "description": "In the 14{{th}} century [[DR]], the home belonged to scholar [[T'an Chen]], secretly an agent of the [[Ministry of Security]].",
+                "link": {
+                    "url": "T'an Chen",
+                    "label": "T'an Chen"
+                }
+            },
+            "id": "34"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                3187.637369589,
+                681.65807349594
+            ],
+            "popup": {
+                "title": "House of To Sheng Li",
+                "description": "Home of a [[korobokuru]] bodyguard [[To Sheng Li]].",
+                "link": {
+                    "url": "To Sheng Li",
+                    "label": "To Sheng Li"
+                }
+            },
+            "id": "35"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1960.7981474206,
+                183.61708839549
+            ],
+            "popup": {
+                "title": "Tz' Wei Grove",
+                "description": "A small grove surrounded by a [[rice]] field. At the center of it stood a shrine to [[Kwan Ying]].",
+                "link": {
+                    "url": "Tz' Wei Grove",
+                    "label": "Tz' Wei Grove"
+                }
+            },
+            "id": "36"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1122.8840375001,
+                1971.4165605209
+            ],
+            "popup": {
+                "title": "House of the Hermit",
+                "description": "Home of the mad hermit [[Lan To Te]] in the 14{{th}} century [[DR]]. Secretly, the hermit was [[White Chung]] [[shukenja]] and the spiritual guardian of the city.",
+                "link": {
+                    "url": "Lan To Te",
+                    "label": "Lan To Te"
+                }
+            },
+            "id": "37"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                339.41278599371,
+                1575.4396176293
+            ],
+            "popup": {
+                "title": "Tang Clan compound",
+                "description": "The home of the fisher Tang Clan, in reality \u2013 the base of the [[Shih Jen Pirates]].",
+                "link": {
+                    "url": "Tang Clan compound",
+                    "label": "Tang Clan compound"
+                }
+            },
+            "id": "38"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1762.1055056444,
+                4129.5050294159
+            ],
+            "popup": {
+                "title": "Yen Chow Clan compound",
+                "description": "The home of the [[Yen Chow Clan]], [[silk]] farmers.",
+                "link": {
+                    "url": "Yen Chow Clan compound",
+                    "label": "Yen Chow Clan compound"
+                }
+            },
+            "id": "39"
+        },
+        {
+            "categoryId": "13",
+            "position": [
+                1183.9989174024,
+                1574.0060554634
+            ],
+            "popup": {
+                "title": "Glorious Moon Flower Rising Fish Dock",
+                "description": "The public docks of Cham Fau under the control of [[The Most Farsighted Department of Public Constructions and Civil Works]].",
+                "link": {
+                    "url": "Glorious Moon Flower Rising Fish Dock",
+                    "label": "Glorious Moon Flower Rising Fish Dock"
+                }
+            },
+            "id": "40"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                2781.1218651965,
+                398.46698154653
+            ],
+            "popup": {
+                "title": "Mu Pei Cemetery",
+                "description": "The Upper Town's cemetery haunted by a legendary demon called [[Lover of Shin Mei]].",
+                "link": {
+                    "url": "Mu Pei Cemetery",
+                    "label": "Mu Pei Cemetery"
+                }
+            },
+            "id": "41"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                3016.9774387523,
+                43.615460984316
+            ],
+            "popup": {
+                "title": "Upper Town",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "42"
+        },
+        {
+            "categoryId": "10",
+            "position": [
+                2128.8729697874,
+                807.69316986797
+            ],
+            "popup": {
+                "title": "Lower Town",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "43"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                2064.8654404926,
+                3203.9100224072
+            ],
+            "popup": {
+                "title": "Twelve Serpent Deep",
+                "description": "The deepest part of the [[Hungtse River]]. Rumored to be a home of a massive sea creature, possibly a [[lung dragon]].",
+                "link": {
+                    "url": "Twelve Serpent Deep",
+                    "label": "Twelve Serpent Deep"
+                }
+            },
+            "id": "44"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                2108.8188529812,
+                2563.6012211365
+            ],
+            "popup": {
+                "title": "Hungtse River",
+                "description": "One of the largest rivers on [[Toril]].",
+                "link": {
+                    "url": "Hungtse River",
+                    "label": "Hungtse River"
+                }
+            },
+            "id": "45"
+        },
+        {
+            "categoryId": "12",
+            "position": [
+                1024.7430894525,
+                1195.5739619993
+            ],
+            "popup": {
+                "title": "Huang Bay",
+                "description": "",
+                "link": {
+                    "url": "Huang Bay",
+                    "label": "Huang Bay"
+                }
+            },
+            "id": "46"
+        },
+        {
+            "categoryId": "11",
+            "position": [
+                244.64050281128,
+                1039.6504503246
+            ],
+            "popup": {
+                "title": "Chin Shan Hill",
+                "description": "",
+                "link": {
+                    "url": "Chin Shan Hill",
+                    "label": "Chin Shan Hill"
+                }
+            },
+            "id": "47"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                2590.8392462675,
+                1844.1344853345
+            ],
+            "popup": {
+                "title": "Rice paddy",
+                "description": "",
+                "link": {
+                    "url": "Rice",
+                    "label": "Rice"
+                }
+            },
+            "id": "48"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                2505.9864325251,
+                1357.6450198782
+            ],
+            "popup": {
+                "title": "Rice paddy",
+                "description": "",
+                "link": {
+                    "url": "Rice",
+                    "label": "Rice"
+                }
+            },
+            "id": "49"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                2785.7327906962,
+                1009.73639919
+            ],
+            "popup": {
+                "title": "Rice paddy",
+                "description": "",
+                "link": {
+                    "url": "Rice",
+                    "label": "Rice"
+                }
+            },
+            "id": "50"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                2245.7711370485,
+                509.11688245431
+            ],
+            "popup": {
+                "title": "Rice paddy",
+                "description": "",
+                "link": {
+                    "url": "Rice",
+                    "label": "Rice"
+                }
+            },
+            "id": "51"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                1397.2429996246,
+                650.53823869162
+            ],
+            "popup": {
+                "title": "Rice paddy",
+                "description": "",
+                "link": {
+                    "url": "Rice",
+                    "label": "Rice"
+                }
+            },
+            "id": "52"
+        }
+    ]
+}
+fuy2addg98dv10t8yytuw95vqvp301a
+
+

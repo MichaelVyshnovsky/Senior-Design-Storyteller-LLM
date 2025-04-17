@@ -1,0 +1,14 @@
+{
+    "template_data": {
+        "name": "Mark of Justice",
+        "level3e": "{{spell table",
+        "edition": "3e"
+    },
+    "document_data": {
+        "name": "Mark of Justice",
+        "level3e": "{{spell table|edition=3e|[[Cleric]]|5|[[Fate domain|Fate]]|5|[[Retribution domain|Retribution]]|5}}",
+        "school3e": "[[Necromancy]]",
+        "refs3e": "<ref>",
+        "mainbody": "'''''Mark of justice''''' was a divine [[necromancy]] [[spell]] that placed a [[bestow curse|curse]] on someone if they committed a certain act, usually criminal."
+    }
+}

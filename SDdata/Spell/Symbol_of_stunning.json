@@ -1,0 +1,16 @@
+{
+    "template_data": {
+        "edition": "3e"
+    },
+    "document_data": {
+        "image": "Symbol of stunning.png",
+        "name": "Symbol of Stunning",
+        "school3e": "[[Enchantment]] ([[Compulsion spells|Compulsion]])",
+        "domains3e": "[[Temperance domain|Temperance]]",
+        "descriptors3e": "{{Desc/mind-affecting}}",
+        "level3e": "{{spell table|edition=3e|[[Cleric]]|7|[[Sorcerer]]|7|[[Temperance domain|Temperance]]|7|[[Wizard]]|7|[[Wu jen]]|7}}",
+        "type3e": "",
+        "refs3e": "{{Cite dragon/318/Oriental Adventures Update|41}}{{Cite dragon/355/Seven Saintly Domains|29-30}}",
+        "mainbody": "'''''Symbol of stunning''''' was an [[enchantment]] spell that could stun one or more creatures when triggered."
+    }
+}

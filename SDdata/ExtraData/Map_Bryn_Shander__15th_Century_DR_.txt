@@ -1,0 +1,557 @@
+2900
+136430
+
+940743
+940734
+2024-05-18T23:21:45Z
+
+BadCatMan
+3030475
+
+
+Protected "[[Map:Bryn Shander (15th Century DR)]]": High traffic page ([Edit=Allow only autoconfirmed users] (indefinite) [Move=Allow only autoconfirmed users] (indefinite))
+940734
+interactivemap
+text/plain
+{
+    "mapImage": "Map-brynshander.jpg",
+    "pageCategories": [
+        "Interactive_maps",
+        "Maps_of_Bryn_Shander",
+        "Maps_of_cities"
+    ],
+    "defaultSort": "",
+    "description": "A map of [[Bryn Shander]] ''circa'' [[1489 DR]].",
+    "coordinateOrder": "xy",
+    "mapBounds": [
+        [
+            0,
+            0
+        ],
+        [
+            1493,
+            1346
+        ]
+    ],
+    "origin": "bottom-left",
+    "useMarkerClustering": false,
+    "categories": [
+        {
+            "id": "1",
+            "listId": 1,
+            "name": "Inns, Festhalls and Taverns",
+            "color": "#fa5d00",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Tankard icon.svg"
+        },
+        {
+            "id": "2",
+            "listId": 2,
+            "name": "Shops and businesses",
+            "color": "#007903",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Tymora coin icon.svg"
+        },
+        {
+            "id": "3",
+            "listId": 3,
+            "name": "Landmarks",
+            "color": "#021ebb",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Elminter's choice icon.svg"
+        },
+        {
+            "id": "4",
+            "listId": 4,
+            "name": "Private residences",
+            "color": "#ff6a6a",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Hamlet icon.svg"
+        },
+        {
+            "id": "5",
+            "listId": 5,
+            "name": "Temples and shrines",
+            "color": "#fac600",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Lathander temple icon.svg"
+        },
+        {
+            "id": "8",
+            "listId": 6,
+            "name": "Districts",
+            "color": "#e0beff",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:City icon.svg"
+        },
+        {
+            "id": "7",
+            "listId": 7,
+            "name": "Roads and trails",
+            "color": "#2e2703",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Mountain road icon.svg"
+        },
+        {
+            "id": "9",
+            "listId": 8,
+            "name": "Gates",
+            "color": "#ffffff",
+            "symbol": "",
+            "symbolColor": "",
+            "icon": "File:Gate icon.svg"
+        },
+        {
+            "id": "13",
+            "listId": 9,
+            "name": "References",
+            "color": "#000000",
+            "symbol": "",
+            "symbolColor": ""
+        }
+    ],
+    "markers": [
+        {
+            "categoryId": "9",
+            "position": [
+                320,
+                243.34641867025
+            ],
+            "popup": {
+                "title": "Southwest Gate",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "1"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                680,
+                1219.8887017301
+            ],
+            "popup": {
+                "title": "North Gate",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "2"
+        },
+        {
+            "categoryId": "9",
+            "position": [
+                1336,
+                743.48494949558
+            ],
+            "popup": {
+                "title": "East Gate",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "3"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                684.79998779297,
+                1319.2279551842
+            ],
+            "popup": {
+                "title": "Road to Targos",
+                "description": "",
+                "link": {
+                    "url": "Targos",
+                    "label": "Targos"
+                }
+            },
+            "id": "4"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                1468.7998046875,
+                732.32691280745
+            ],
+            "popup": {
+                "title": "The Eastway",
+                "description": "Road to Easthaven",
+                "link": {
+                    "url": "Eastway",
+                    "label": "Eastway"
+                }
+            },
+            "id": "5"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                662.40002441406,
+                1170.3049320216
+            ],
+            "popup": {
+                "title": "The Northlook",
+                "description": "Expensive inn catering to adventurers and mercenaries",
+                "link": {
+                    "url": "Northlook (inn)",
+                    "label": "Northlook"
+                }
+            },
+            "id": "6"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                830.19995117188,
+                864.47670713001
+            ],
+            "popup": {
+                "title": "The Hooked Knucklehead",
+                "description": "Chilly inn catering to merchants and traders",
+                "link": {
+                    "url": "Hooked Knucklehead",
+                    "label": "Hooked Knucklehead"
+                }
+            },
+            "id": "7"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                758,
+                877.06339109539
+            ],
+            "popup": {
+                "title": "Blackiron Blades",
+                "description": "Small smithy and weapon shop",
+                "link": {
+                    "url": "Blackiron Blades",
+                    "label": "Blackiron Blades"
+                }
+            },
+            "id": "8"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                867.60003662109,
+                800.48551097201
+            ],
+            "popup": {
+                "title": "Rendaril's Emporium",
+                "description": "Largest trade house and store in the city",
+                "link": {
+                    "url": "Rendaril's Emporium",
+                    "label": "Rendaril's Emporium"
+                }
+            },
+            "id": "9"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                768,
+                788.83601265549
+            ],
+            "popup": {
+                "title": "Market Square",
+                "description": "A bustling marketplace located in the center of town which featured [[knucklehead trout]], [[scrimshaw]], [[vegetable]]s, [[reindeer]] meat, and handicrafts.",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "10"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                1135.200012207,
+                975.90826866417
+            ],
+            "popup": {
+                "title": "House of the Morninglord",
+                "description": "Temple of [[Amaunator]], god of the sun",
+                "link": {
+                    "url": "House of the Morninglord",
+                    "label": "House of the Morninglord"
+                }
+            },
+            "id": "11"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                1233.0000610352,
+                728
+            ],
+            "popup": {
+                "title": "Geldenstag's Rest",
+                "description": "Old and lackluster inn with a very nosy innkeeper",
+                "link": {
+                    "url": "Geldenstag's Rest",
+                    "label": "Geldenstag's Rest"
+                }
+            },
+            "id": "12"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                651,
+                744.76201114623
+            ],
+            "popup": {
+                "title": "Armory",
+                "description": "Storehouse for the weapons and armor of the city militia for which the keys were held only by the speaker and sheriff.",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "13"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                802.79998779297,
+                699.81296998807
+            ],
+            "popup": {
+                "title": "Town Hall",
+                "description": "Used for feasts and gatherings, and the cellar served as the sheriff's office and jail",
+                "link": {
+                    "url": "Town Hall (Bryn Shander)",
+                    "label": "Town Hall"
+                }
+            },
+            "id": "14"
+        },
+        {
+            "categoryId": "1",
+            "position": [
+                678,
+                672.2392339492
+            ],
+            "popup": {
+                "title": "Kelvin's Comfort",
+                "description": "Most popular tavern in the city featuring dwarven ale and its signature Firebeard's Firebrandy",
+                "link": {
+                    "url": "Kelvin's Comfort",
+                    "label": "Kelvin's Comfort"
+                }
+            },
+            "id": "15"
+        },
+        {
+            "categoryId": "2",
+            "position": [
+                265,
+                351.26589739427
+            ],
+            "popup": {
+                "title": "Stables",
+                "description": "Any mount can be lodged and fed for 1 [[silver piece]] per night",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "16"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                579.59997558594,
+                300.49981086872
+            ],
+            "popup": {
+                "title": "Council Hall",
+                "description": "Nondescript warehouse in which the speakers from each of the [[Ten Towns]] met to discuss matters relating to their communities",
+                "link": {
+                    "url": "Council Hall (Bryn Shander)",
+                    "label": "Council Hall"
+                }
+            },
+            "id": "17"
+        },
+        {
+            "categoryId": "5",
+            "position": [
+                524.40002441406,
+                547.27941443113
+            ],
+            "popup": {
+                "title": "House of the Triad",
+                "description": "Stone temple to Helm, Ilmater, and Tyr",
+                "link": {
+                    "url": "House of the Triad (temple)",
+                    "label": "House of the Triad"
+                }
+            },
+            "id": "18"
+        },
+        {
+            "categoryId": "4",
+            "position": [
+                771,
+                523.74306675986
+            ],
+            "popup": {
+                "title": "Speaker's Palace",
+                "description": "Stone home of the town's speaker. Formerly the home of the [[halfling]] [[Regis]].",
+                "link": {
+                    "url": "Speaker's Palace",
+                    "label": "Speaker's Palace"
+                }
+            },
+            "id": "19"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                312.20001220703,
+                148.30077266926
+            ],
+            "popup": {
+                "title": "Memorial",
+                "description": "A site commemorating the victory of [[Tiago Baenre]] over the [[balor]] [[Errtu]]",
+                "link": {
+                    "url": "Memorial (Bryn Shander)",
+                    "label": "Memorial"
+                }
+            },
+            "id": "20"
+        },
+        {
+            "categoryId": "7",
+            "position": [
+                136,
+                26.818343900202
+            ],
+            "popup": {
+                "title": "Caravan Trail",
+                "description": "The northern end of the Ten Trail leading south out of Icewind Dale",
+                "link": {
+                    "url": "Ten Trail",
+                    "label": "Ten Trail"
+                }
+            },
+            "id": "21"
+        },
+        {
+            "categoryId": "13",
+            "position": [
+                1492.625,
+                0.045812659662801
+            ],
+            "popup": {
+                "title": "References",
+                "description": "",
+                "link": {
+                    "url": "File:Map-brynshander.jpg",
+                    "label": "References and Image Info"
+                }
+            },
+            "id": "22"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                1011.3004460933,
+                951.66976701675
+            ],
+            "popup": {
+                "title": "Market",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "23"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                362.28943205005,
+                833.7196097144
+            ],
+            "popup": {
+                "title": "Market",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "24"
+        },
+        {
+            "categoryId": "3",
+            "position": [
+                947.68447209209,
+                270.99677882984
+            ],
+            "popup": {
+                "title": "Market",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "25"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                440.03030686886,
+                439.31573695844
+            ],
+            "popup": {
+                "title": "Caravan Section",
+                "description": "An area dedicated to visiting trade caravans, including taverns, spaces for parking wagons and extensive warehouses for storing goods.",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "26"
+        },
+        {
+            "categoryId": "8",
+            "position": [
+                495.17035553347,
+                1018.0045260311
+            ],
+            "popup": {
+                "title": "Poorer residences",
+                "description": "",
+                "link": {
+                    "url": "",
+                    "label": ""
+                }
+            },
+            "id": "27"
+        }
+    ]
+}
+qajb00coldrbfyeg1n2covg7tbnimnt
+
+
