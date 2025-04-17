@@ -97,7 +97,7 @@ class ChromaRAG():
 
     
 
-    def generate_character(self, prompt_dict, use_url):
+    def generate_character(self, prompt_dict, use_url = None):
         """Dictionary contains:
                 person_name
                 person_home
@@ -127,15 +127,15 @@ class ChromaRAG():
 
         
 
-        collection_results = self.collection.query(query_texts=[prompt], n_results = 3)
+        collection_results = self.collection.query(query_texts=[prompt], n_results = 1)
         
         context = context_to_string(collection_results["documents"][0], collection_results["ids"][0])
 
         context = "###Context\n\n" + context
-
+        
         template = open(self.template_path + "/" + "character" + ".template").read()
         #prompt = self.format_prompt(prompt, context, "character")
-
+        
         if use_url:
             client = ollama.Client(host=use_url)
         else:
@@ -153,7 +153,7 @@ class ChromaRAG():
 
 
 
-    def generate_location(self, prompt_dict):
+    def generate_location(self, prompt_dict, use_url=None):
         """Dictionary contains:
                 place_name
                 nearby
@@ -189,57 +189,52 @@ class ChromaRAG():
 
         context = "###Context\n\n" + context
         
-        prompt = self.format_prompt(prompt, context, "location")
+        #prompt = self.format_prompt(prompt, context, "location")
 
-        response = ollama.generate(self.model_name, prompt)['response'].split("</think>")
+        template = open(self.template_path + "/" + "location" + ".template").read()
+        
+        if use_url:
+            client = ollama.Client(host=use_url)
+        else:
+            client = ollama.Client()
+
+        response = client.chat(model=self.model_name, messages=[{'role':'system', 'content': template + context }, {'role':'user', 'content':prompt}])
+
+               
+        response = response['message']['content'].split("</think>")
 
         if len(response) > 1:
             return response[1]
         else:
             return response[0]
 
-    def generate_campaign(self):
-        """Generates a full DnD campaign using all wiki entries and a structured HTML template."""
-
-        wiki_dir = "data/wiki_entries/"
-        all_text = ""
-
-        # Step 1: Aggregate all plain text from HTML wiki files
-        for filename in os.listdir(wiki_dir):
-            if filename.endswith(".html"):
-                with open(os.path.join(wiki_dir, filename), "r", encoding="utf-8") as f:
-                    parser = html_ripper()
-                    parser.feed(f.read())
-                    all_text += parser.get_data().strip() + "\n\n"
-
-        # Step 2: Load the campaign template and inject the world content
-        with open(self.template_path + "/campaign.template", "r", encoding="utf-8") as f:
-            base_template = f.read()
-
-        filled_template = base_template.replace("{{ world }}", all_text.strip())
-
-        # Step 3: Query Chroma for context
-        collection_results = self.collection.query(query_texts=[filled_template], n_results=3)
-        context = context_to_string(collection_results["documents"][0], collection_results["ids"][0])
-        context = "###Context\n\n" + context
-
-        # Step 4: Format the prompt and send to the model
-        prompt = self.format_prompt(filled_template, context, "campaign")
-        response = ollama.generate(self.model_name, prompt)['response'].split("</think>")
-        sources = self.get_context_sources(filled_template)
-        print("Context sources used:", sources)
-
-        return response[1].strip() if len(response) > 1 else response[0].strip()
-    
-    def get_context_sources(self, prompt, n_results=3):
+    def generate_campaign(self, prompt_dict, use_url=None):
+        """Generates a full DnD campaign using all wiki entries and a structured HTML template.
+            
         """
-        Returns a list of filenames (IDs) from the Chroma collection that were used
-        to generate context for the given prompt.
-        """
-        results = self.collection.query(query_texts=[prompt], n_results=n_results)
-        return results["ids"][0]  # List of source filenames used
+        
+        prompt = "Create a story about:\n\n"+ prompt_dict["prompt"]
+        collection_results = self.collection.query(query_texts=[prompt], n_results = 5)
+        template = open(self.template_path + "/" + "campaign.template").read()
 
+        messages = [ {'role':'system', 'content': template}]
+        for context in context_to_list(collection_results["documents"][0], collection_results["ids"][0]):
+            messages.append({'role':'system', 'content':context})
+        messages.append({'role':'user', 'content':prompt})
 
+        if use_url:
+            client = ollama.Client(host=use_url)
+        else:
+            client = ollama.Client()
+
+        response = client.chat(model=self.model_name, messages=messages)
+        
+        response = response['message']['content'].split("</think>")
+
+        if len(response) > 1:
+            return response[1]
+        else:
+            return response[0]
 
 
     def format_prompt(self, in_prompt, context, template):
@@ -268,6 +263,13 @@ def context_to_string(documents, ids):
         res += "\"\"\"\n\n"
     return res
 
+def context_to_list(documents, ids):
+    res = []
+    for x in range(len(ids)):
+        res.append("###Context " + str(x) + ": " + ids[x] + "\n\n\n")
+        res.append(documents[x])
+    return res
+
 MODEL_NAME = "deepseek-r1:7b"
 TEMPLATE_PATH = "./templates"
 DOC_PATH = "./test_docs"
@@ -275,7 +277,7 @@ COLLECTION_NAME = "test_collection"
 
 if __name__ == "__main__":
    
-    RAG = ChromaRAG()
+    RAG = ChromaRAG("./data/wiki_entries")
 
     user_input = input("Enter prompt here: ")
 
@@ -289,9 +291,9 @@ if __name__ == "__main__":
                 "relationships" : "Allies with Hirroko",
                 "additional_info" : "Was created by Akreor"}
 
-            print(RAG.generate_character(test_char_dict))
+            print(RAG.generate_character(test_char_dict, None))
         else:
             print(RAG.query_notes(user_input))
 
         print("\n")
-        user_input = input("Enter prompt here: ") 
+        user_input = input("Enter prompt here: ")

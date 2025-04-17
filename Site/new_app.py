@@ -218,24 +218,78 @@ def town_creation():
     if request.method == 'POST':
         location_data = request.form.to_dict()
         use_gpu = location_data.get("ollama_source") == "gpu"
-        prompt = town_creation_prompt(location_data)
-        generated_location = ask_deepseek(prompt, use_gpu_server=use_gpu)
-        place_name = location_data.get("place_name", "Unnamed Location")
-        update_location_wiki(place_name, generated_location)
+        url = GPU_URL if use_gpu else None
+
+        # Generate raw location content
+        generated_location = Chroma.generate_location(location_data, url)
+
+        # Fill in {{Location Name}}
+        location_name = location_data.get("place_name", "Unnamed Location")
+        generated_location = generated_location.replace("{{Location Name}}", location_name)
+
+        # Convert **Title:** sections into HTML <p><strong>Title:</strong> ...</p>
+        formatted_location = format_location_output(generated_location)
+
+        # Save to file
+        filename = location_name.replace(" ", "_") + ".html"
+        update_location_wiki(location_name, formatted_location)
+
+        # Add to RAG
+        Chroma.add_note_to_RAG(f"./data/wiki_entries/{filename}")
+
         return redirect('/wiki')
-    
+
     return render_template('place_form.html', custom_style='css/creation.css')
 
-@app.route('/generate_story')
+
+def format_location_output(raw_text):
+    """Convert markdown-style bold headers into HTML paragraph blocks."""
+    # Break into sections based on **Title:**
+    parts = re.split(r"\*\*(.*?)\*\*:", raw_text)
+    
+    # Start building formatted HTML
+    formatted = ""
+    
+    # If the first part before any **Title:** is non-empty, add it
+    if parts[0].strip():
+        formatted += f"<p>{parts[0].strip()}</p>"
+
+    # Then pair each Title/Body into a <p><strong>Title:</strong> Body</p>
+    for i in range(1, len(parts)-1, 2):
+        title = parts[i].strip()
+        body = parts[i+1].strip()
+        formatted += f"<p><strong>{title}:</strong> {body}</p>\n"
+
+    return formatted.strip()
+
+
+
+@app.route('/generate_story', methods=['GET', 'POST'])
 def generate_story():
-    story = Chroma.generate_campaign()
+    if request.method == 'POST':
+        prompt_text = request.form.get('prompt', 'A mysterious event in a fantasy world')
+        use_gpu = request.form.get("ollama_source") == "gpu"
+        url = GPU_URL if use_gpu else None
 
-    # Extract title from <h2>Campaign Title: ...</h2>
-    match = re.search(r"<h2>Campaign Title:\s*(.*?)</h2>", story)
-    campaign_title = match.group(1).strip() if match else "Unnamed Campaign"
+        story = Chroma.generate_campaign({"prompt": prompt_text}, use_url=url)
 
-    update_campaign_wiki(campaign_title, story)
-    return redirect('/wiki')
+        # Extract actual title from the story body (e.g., **Title: NAME**)
+        # In /generate_story route:
+        title_match = re.search(r"[#]+\s*\*\*Title:\*\*\s*(?:\*{0,2})(.*?)(?:\*{0,2})\s*(?:#*|$)", story)
+        campaign_title = title_match.group(1).strip() if title_match else "Unnamed Campaign"
+
+
+        # Remove title line from content if found
+        if title_match:
+            story = story.replace(title_match.group(0), "").strip()
+
+        # Improve spacing between acts
+        story = re.sub(r"---\s*", "<br><br>", story)
+
+        update_campaign_wiki(campaign_title, story)
+        return redirect('/wiki')
+
+    return render_template("story_prompt.html")
 
 
 
@@ -246,7 +300,7 @@ def view_wiki():
     
     if not os.path.exists(index_path):
         with open(index_path, "w", encoding="utf-8") as f:
-            f.write("<html><head><title>Ollama Wiki</title></head><body><h1>Ollama Wiki</h1>\n<ul>\n</ul></body></html>")
+            f.write("<html><head><title>Wiki</title></head><body><h1>Wiki</h1>\n<ul>\n</ul></body></html>")
 
     with open(index_path, "r", encoding="utf-8") as f:
         wiki_index = f.read()
@@ -289,7 +343,7 @@ def view_wiki():
     return f"""
     <html>
     <head>
-        <title>Ollama Wiki</title>
+        <title>Wiki</title>
         {CSS_STYLE}
     </head>
     <body>
@@ -300,9 +354,7 @@ def view_wiki():
                 {wiki_index}
             </ul>
             <form action="/generate_story" method="get">
-            <button type="submit" style="margin-top: 20px; padding: 10px 20px; font-size: 16px; background-color: #007bff; color: white; border: none; border-radius: 5px;">
-                Generate Story
-            </button>
+            <button type="submit" style="...">Generate Story</button>
             </form>
         </div>
     </body>

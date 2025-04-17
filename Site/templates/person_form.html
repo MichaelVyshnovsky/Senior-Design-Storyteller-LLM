@@ -13,7 +13,7 @@
         <h1>Character Creation</h1>
         <p>Forge the destiny of a new adventurer</p>
 
-        <form action="/character_creation" method="POST">
+        <form id="character_form" action="/character_creation" method="POST">
             <label for="person_name">Character Name:</label>
             <input type="text" id="person_name" name="person_name" placeholder="Enter a legendary name">
             
@@ -39,13 +39,33 @@
             <option value="gpu">GPU Server</option>
             </select>
 
-
-            <button type="submit">Forge Character</button>
-        </form>    
+            <button id="submitBtn" type="submit">Forge Character</button>
+        </form>
+        <!--Gif and Loading Text, Initially Hidden-->
+        <div id="loader" style="display: none; margin-top: 20px;">
+            <img src="{{ url_for('static', filename='forge-anvil.gif') }}" alt="Loading..." width="100">
+            <p>Forging your character...</p>
+        </div>
+        <!--Gif and Text End-->    
 
         <a href="{{url_for('home')}}">
             <button>Return to Town</button>
         </a>
     </div>
+    <!--Script for Loading Functionality-->
+    <script>
+        const form = document.getElementById('character_form');
+        const loader = document.getElementById('loader');
+        const button = document.getElementById('submitBtn');
+    
+        form.addEventListener('submit', function (e) {
+            
+            loader.style.display = 'block';
+            
+            button.disabled = true;
+            
+        });
+    </script>
+    <!--Script End-->
 </body>
 </html>

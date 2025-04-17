@@ -1,25 +1,26 @@
-<think>
-{{ world }}
-</think>
+###Guidelines
 
-You are a fantasy storyteller designing a Dungeons & Dragons campaign based on the world described above (locations, characters, factions, etc.).
+- You are a fantasy storyteller tasked with designing a story given the provided context
+- Respond to the given prompt by writing a story using that prompt
+- Use as much of the context provided to have the story integrated into the world
+- Before generating new people, places, and concepts use those from the provided context if possible
+- Use the provided template without markdown syntax
+- Only return HTML. Do not include explanations outside the structured format.
+- Use as much provided context as possible
+- Format the response using clean, raw HTML. Do NOT use markdown (like **bold**, ### headers, etc.).
 
-DO NOT use markdown, numbers like "1.", or narrative prose for structure.  
-DO NOT merge section headers and content.  
-DO NOT skip or rename section headings.
 
-✅ USE VALID HTML ONLY. Use only these tags: <h2>, <h3>, <ul>, <li>, <p>, <strong>.  
-✅ Return nothing else — no commentary, no triple backticks.
+###Template 
+Respond using this clean and consistent structure: (No Bold)
 
-Follow this exact structure:
 
 <h2>Campaign Title: [Insert Title Here]</h2>
 
 <h3>1. Campaign Basics</h3>
 <ul>
-  <li><strong>Theme/Genre:</strong> Dark Fantasy, Steampunk, etc.</li>
-  <li><strong>Tone:</strong> Gritty, Hopeful, Mysterious, etc.</li>
-  <li><strong>Level Range:</strong> 1–10, 5–15, etc.</li>
+	<li><strong>Theme/Genre:</strong> Dark Fantasy, Steampunk, etc.</li>
+	<li><strong>Tone:</strong> Gritty, Hopeful, Mysterious, etc.</li>
+	<li><strong>Level Range:</strong> 1–10, 5–15, etc.</li>
 </ul>
 
 <h3>2. The Hook</h3>
@@ -27,39 +28,38 @@ Follow this exact structure:
 
 <h3>3. Main Threat</h3>
 <ul>
-  <li><strong>Villain/Force:</strong> Name and description of the main threat</li>
-  <li><strong>Goal:</strong> What does the threat want to do?</li>
-  <li><strong>Why It Matters:</strong> Why the threat affects the players or the world</li>
+	<li><strong>Villain/Force:</strong> Name and description of the main threat</li>
+	<li><strong>Goal:</strong> What does the threat want to do?</li>
+	<li><strong>Why It Matters:</strong> Why the threat affects the players or the world</li>
 </ul>
 
 <h3>4. World Snapshot</h3>
-<ul>
-  <li><strong>Setting Name:</strong> Name of the region or campaign world</li>
-  <li><strong>3 Key Locations:</strong>
-    <ul>
-      <li>[Location 1]</li>
-      <li>[Location 2]</li>
-      <li>[Location 3]</li>
-    </ul>
-  </li>
-  <li><strong>Factions:</strong>
-    <ul>
-      <li>[Faction 1] (Ally or Enemy)</li>
-      <li>[Faction 2] (Ally or Enemy)</li>
-      <li>[Faction 3] (optional)</li>
-    </ul>
-  </li>
-</ul>
-
+	<ul>
+		<li><strong>Setting Name:</strong> Name of the region or campaign world</li>
+		<li><strong>3 Key Locations:</strong>
+		<ul>
+			<li>[Location 1]</li>
+			<li>[Location 2]</li>
+			<li>[Location 3]</li>
+		</ul>
+	</li>
+		<li><strong>Factions:</strong>
+			<ul>
+				<li>[Faction 1] (Ally or Enemy)</li>
+				<li>[Faction 2] (Ally or Enemy)</li>
+				<li>[Faction 3] (optional)</li>
+<			/ul>
+	</ul>
 <h3>5. Player Connection</h3>
+
 <ul>
-  <li>[How are the players personally tied to the story?]</li>
-  <li>[What makes them care or be involved?]</li>
+	<li>[How are the players personally tied to the story?]</li>
+	<li>[What makes them care or be involved?]</li>
 </ul>
 
 <h3>6. Plot Arcs</h3>
 <ul>
-  <li><strong>Arc 1:</strong> Setup and low-level exploration</li>
-  <li><strong>Arc 2:</strong> Rising tension and key confrontations</li>
-  <li><strong>Arc 3:</strong> Final conflict and world-shaping decisions</li>
+	<li><strong>Arc 1:</strong> Setup and low-level exploration</li>
+	<li><strong>Arc 2:</strong> Rising tension and key confrontations</li>
+	<li><strong>Arc 3:</strong> Final conflict and world-shaping decisions</li>
 </ul>

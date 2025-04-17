@@ -1,0 +1,77 @@
+<!-- story_prompt.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Generate Campaign Story</title>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      background-color: #fdf6dd;
+      font-family: 'Cinzel', serif;
+      padding: 40px;
+    }
+    .form-box {
+      max-width: 600px;
+      margin: auto;
+      background-color: #fff8e6;
+      padding: 30px;
+      border: 2px solid #b79b74;
+      border-radius: 12px;
+    }
+    h1 {
+      text-align: center;
+      color: #4e342e;
+      margin-bottom: 20px;
+    }
+    label {
+      font-weight: bold;
+      color: #4e342e;
+      display: block;
+      margin-bottom: 8px;
+    }
+    textarea {
+      width: 100%;
+      height: 120px;
+      font-family: 'Cinzel', serif;
+      font-size: 14px;
+      padding: 10px;
+      border-radius: 8px;
+      border: 1px solid #c7b299;
+      background-color: #fefcf3;
+    }
+    button {
+      display: block;
+      margin: 20px auto 0;
+      background-color: #6f4e37;
+      color: white;
+      font-weight: bold;
+      padding: 10px 20px;
+      font-size: 16px;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #5c3d2b;
+    }
+  </style>
+</head>
+<body>
+  <div class="form-box">
+    <h1>Generate Campaign Story</h1>
+    <form action="/generate_story" method="POST">
+        <label for="prompt">Story Prompt:</label>
+        <textarea id="prompt" name="prompt" placeholder="Enter a theme, event, or idea for the campaign..."></textarea>
+      
+        <label for="ollama_source">Choose Ollama Server:</label>
+        <select id="ollama_source" name="ollama_source">
+          <option value="local">Local</option>
+          <option value="gpu">GPU Server</option>
+        </select>
+      
+        <button type="submit">Generate</button>
+      </form>
+  </div>
+</body>
+</html>

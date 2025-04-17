@@ -1,46 +1,41 @@
-###Guidelines
+<!-- INSTRUCTIONS -->
+You are a fantasy storyteller. Using the context provided, generate a location that integrates into the world. Use existing people, places, and events from the context when possible.
 
-- You are a fantasy storyteller tasked with designing a new location to fit in this world
-- Using the provided context make the location integrated into the world
-- Before generating new people, places, and concepts use those from the provided context if possible
-- Use the provided template without markdown syntax
-- Only return HTML. Do not include explanations or extra narration outside the structured format.
-+ Format the response using clean, raw HTML. Do NOT use markdown (like **bold**, ### headers, etc.).
+Respond only in HTML. Do not explain your answer, do not use markdown. Fill out the HTML structure exactly as shown below.
 
+Replace {{Location Name}} with the actual name of the place.
 
-
-###Template 
-Respond using this clean and consistent structure: (No Bold)
-
+<!-- TEMPLATE START -->
 <h2>Location Name: {{Location Name}}</h2>
 
 <h3>Overview</h3>
-<p>Provide a brief summary of the location’s significance, history, and general atmosphere.</p>
+<p>Describe the location’s atmosphere, importance, and history. What makes it unique or known?</p>
 
 <h3>Geography</h3>
 <ul>
-  <li>Describe the terrain, climate, and natural features.</li>
-  <li>Mention any notable flora or fauna if relevant.</li>
+  <li>Explain the terrain, climate, and any notable natural features.</li>
+  <li>Mention rare plants, animals, or magical anomalies if relevant.</li>
 </ul>
 
 <h3>Inhabitants</h3>
 <ul>
-  <li>List major groups, species, or factions that reside here.</li>
-  <li>Include any important figures or cultural aspects tied to the population.</li>
-  <li>Include people from provided context to this area if related</li>
+  <li>List the dominant species, cultures, or groups that live here.</li>
+  <li>Mention famous residents or cultural behaviors.</li>
+  <li>Reference any characters from the provided context who live or travel here.</li>
 </ul>
 
 <h3>Landmarks</h3>
 <ul>
-  <li>Describe key buildings, mystical sites, or landmarks.</li>
-  <li>Include gameplay-relevant or story-significant locations.</li>
+  <li>Describe important places, buildings, or mystical sites in this location.</li>
+  <li>Include ones relevant to gameplay, exploration, or lore.</li>
 </ul>
 
 <h3>Politics & Power</h3>
-<p>Explain who governs the location, the local power structure, and notable alliances or conflicts.</p>
+<p>Explain who rules or influences the area, how power is maintained, and any political tensions.</p>
 
 <h3>Role in the World</h3>
-<p>Detail how this location connects to broader world events, factions, or quests.</p>
+<p>Describe how this location connects to other towns, regions, quests, or factions.</p>
 
 <h3>Visual Style</h3>
-<p>Summarize the aesthetic elements—architecture, colors, environmental style—that define its look and feel.</p>
+<p>Summarize its visual aesthetics — architecture, color palette, and mood.</p>
+<!-- TEMPLATE END -->
