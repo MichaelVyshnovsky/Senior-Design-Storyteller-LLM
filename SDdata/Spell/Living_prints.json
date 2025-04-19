@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Living Prints",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Divination]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Harper scout]]|3|[[Ranger]]|3}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Living prints''''' was a [[spell]] used by [[harper]]s and [[ranger]]s while tracking.",
-        "Effects": "When cast, this spell allowed the caster to see a creature's trail as if it was fresh. This spell functioned on any tracks less than thirty days old. For the spell to be effective, the caster had to have detected the tracks naturally before casting.",
-        "Components": "This spell required only [[Verbal component|verbal]] and [[somatic component|somatic]] components."
+        "mainbody": "Living prints was a spell used by harpers and rangers while tracking.\nWhen cast, this spell allowed the caster to see a creatures trail as if it was fresh. This spell functioned on any tracks less than thirty days old. For the spell to be effective, the caster had to have detected the tracks naturally before casting.\nThis spell required only verbal and somatic components."
     }
 }

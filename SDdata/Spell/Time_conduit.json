@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Time Conduit",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]], [[Chronomancy]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Chronomancer]]|9|[[Wizard]]|9}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Time conduit''''' was an incredibly rare, powerful [[chronomancy]] [[spell]] that allowed the creation of a very short-lived portal [[time travel|backwards through time]].",
-        "Effects": "It caused items that were anachronisms in the destination time to be removed, only restored to existence on the bearer's return to his or her own time. Pages from [[spellbook]]s or [[scroll]]s that referred to spells not yet in existence became blank, only being restored if the bearer traveled forward in time again. It was possible for the caster to decide upon the destination time and culture, and this could potentially create the other end of the portal at any rough location the caster chose.\n\nThe spell caused those traveling through the portal to age by one year, even though their absence from their original time was always exactly thirty days. The portal would always take the time travelers to the first day of the destination year, and it would always return them on the last day of that visited year. Beings could not exist in two places at once on the timeline, so it was impossible to travel to the same destination time twice, and an attempt to do so would cause the spell to fail catastrophically.",
-        "Components": "In order to cast the spell, the caster must possess the scales of three [[dragon]]s of different alignments (one from each dragon is sufficient). He or she must also possess the dust from a dead [[time elemental]], and some soil or stones from the destination time. The caster must also have researched the destination time to gain a thorough knowledge."
+        "mainbody": "Time conduit was an incredibly rare, powerful chronomancy spell that allowed the creation of a very short-lived portal backwards through time.\nIt caused items that were anachronisms in the destination time to be removed, only restored to existence on the bearers return to his or her own time. Pages from spellbooks or scrolls that referred to spells not yet in existence became blank, only being restored if the bearer traveled forward in time again. It was possible for the caster to decide upon the destination time and culture, and this could potentially create the other end of the portal at any rough location the caster chose.\nThe spell caused those traveling through the portal to age by one year, even though their absence from their original time was always exactly thirty days. The portal would always take the time travelers to the first day of the destination year, and it would always return them on the last day of that visited year. Beings could not exist in two places at once on the timeline, so it was impossible to travel to the same destination time twice, and an attempt to do so would cause the spell to fail catastrophically.\nIn order to cast the spell, the caster must possess the scales of three dragons of different alignments (one from each dragon is sufficient). He or she must also possess the dust from a dead time elemental, and some soil or stones from the destination time. The caster must also have researched the destination time to gain a thorough knowledge."
     }
 }

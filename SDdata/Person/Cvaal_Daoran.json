@@ -1,24 +1,7 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Cvaal Daoran",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "First Captain, Hatemaster, Lord Protector",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Phlan]], [[Moonsea]]",
-        "formerhomes": "[[Citadel of the Raven]], [[Dragonspine Mountains]]",
-        "sex": "Male",
-        "race": "[[Human]]",
-        "ethnicity": "",
-        "occupation": "Ruler<br />{{Former}} Commander",
         "age": "",
-        "patron deity": "[[Bane]]",
+        "patron deity": "Bane",
         "languages": "",
         "basicrefs": "",
         "reckoning": "",
@@ -34,10 +17,10 @@
         "parents": "",
         "spouses": "",
         "siblings": "",
-        "children": "[[Talaric Daoran]]",
+        "children": "Talaric Daoran",
         "familyrefs": "",
-        "dynasty": "[[House Daoran]]",
-        "start of reign": "[[1380 DR]]",
+        "dynasty": "House Daoran",
+        "start of reign": "1380 DR",
         "end of reign": "",
         "predecessor": "",
         "successor": "Talaric Daoran",
@@ -48,8 +31,8 @@
         "alignment2e": "",
         "class2e": "",
         "refs2e": "",
-        "alignment3e": "[[Neutral evil]]",
-        "class3e": "{{class table|edition=3e|[[Fighter]]|5|[[Cleric]]|3}}",
+        "alignment3e": "Neutral evil",
+        "class3e": "",
         "refs3e": "",
         "alignment35": "",
         "refs35": "",
@@ -59,8 +42,6 @@
         "alignment5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Cvaal Daoran''' was a member of the [[Zhentarim]] and a leader of the [[Brothers of the Black Fist]] that went on to lead a hostile takeover of [[Phlan]] in the late 14{{th}} century [[DR]]. He emerged as the city-state's first lord protector, starting a dynasty that would last for over a hundred years.",
-        "Relationships": "During his tenure as the leader of the Brothers of the Black Fist, Cvaal's reported directly to [[Kandar Milinal]], Lord of the [[Citadel of the Raven]].\n\nCvaal was the founder of [[House Daoran]] the noble family of Phlan that ruled over the city for over a century. He was succeeded by his son  [[Talaric Daoran|Talaric]], and grandson [[Anivar Daoran|Anivar]], neither of whom lived to the family's original patriarch.{{Cite dungeon/170/Monument of the Ancients|65}}",
-        "History": "Cvaal was a member of the Zhentarim from before the [[Time of Troubles]] . After it, he became Hatemaster and captain of the Brothers of the Black Fist at the [[Citadel of the Raven]], devoting himself to the god [[Bane]],{{Cite dungeon/170/Monument of the Ancients|55}}\n\nAfter the return of Bane, Cvaal commanded a [[Zhentilar]] army against Phlan in the {{yearlinkName|1375}},{{Cite dungeon/170/Monument of the Ancients|52}} The Brothers of the Black Fist came to be known as the Knights of the Black Fist and defended the city from the aggressive expansion of the returned [[Netherese Empire]].\n\nIn the {{yearlinkName|1383}}, the [[Shadowbane War]] was raging across the [[Moonsea]] region. Lord Cvaal entered into an alliance with the [[dark fey]] of the [[Quivering Forest]], ensuring the protection of his people and their city in exchange for respecting the borders of their forest home.{{Cite dungeon/170/Monument of the Ancients|81}} As [[Fzoul Chembryl]] and the Zhentarim entered into a twisted agreement with the aberrant [[phaerimm]], spurning the [[Shadovar]] of Netheril, Lord Protector Cvaal single-handedly slew one of the [[Princes of Shade]].{{Cite web/Phlan during the Tyranny of Dragons}}."
+        "mainbody": "Cvaal Daoran was a member of the Zhentarim and a leader of the Brothers of the Black Fist that went on to lead a hostile takeover of Phlan in the late 14 century DR. He emerged as the city-states first lord protector, starting a dynasty that would last for over a hundred years.\nDuring his tenure as the leader of the Brothers of the Black Fist, Cvaals reported directly to Kandar Milinal, Lord of the Citadel of the Raven.\nCvaal was the founder of House Daoran the noble family of Phlan that ruled over the city for over a century. He was succeeded by his son  Talaric, and grandson Anivar, neither of whom lived to the familys original patriarch.\nCvaal was a member of the Zhentarim from before the Time of Troubles . After it, he became Hatemaster and captain of the Brothers of the Black Fist at the Citadel of the Raven, devoting himself to the god Bane,\nAfter the return of Bane, Cvaal commanded a Zhentilar army against Phlan in the , The Brothers of the Black Fist came to be known as the Knights of the Black Fist and defended the city from the aggressive expansion of the returned Netherese Empire.\nIn the , the Shadowbane War was raging across the Moonsea region. Lord Cvaal entered into an alliance with the dark fey of the Quivering Forest, ensuring the protection of his people and their city in exchange for respecting the borders of their forest home. As Fzoul Chembryl and the Zhentarim entered into a twisted agreement with the aberrant phaerimm, spurning the Shadovar of Netheril, Lord Protector Cvaal single-handedly slew one of the Princes of Shade.."
     }
 }

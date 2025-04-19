@@ -1,41 +1,6 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Teleport",
-        "deity": "",
-        "inventor": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "discipline3e": "",
-        "mantles3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "discipline2e": "[[Psychoportation]]",
-        "level2e": "Major (Science)",
-        "type2e": "Standard power",
-        "wild2e": "",
-        "refs2e": "",
-        "level1e": "",
-        "type1e": "",
-        "refs1e": "",
-        "adventures": "{{Duapp|43|Into The Silver Realm}}",
-        "organized play": "''[[Plane Speaking]]''",
-        "mainbody": "===References===\n{{Refs}}\n[[Category:Psychoportation powers]]\nogdq5f6u745dv1885p231thycn3ugf4",
-        "Effects": "The safe location needed to be a place the psionicist knew and was familiar with. This could work even with a place the psionicist had only seen with their mind by using other psionic powers. A psionicist was able to ''teleport'' even if gagged or restrained, so long as they were conscious. A slight audible popping noise occurred when the psionicist disappeared and reappeared during the ''teleportation''. The psionicist could choose to expend more psychic energy in order to ''teleport'' their equipment, or any companions they can grab, up to three times their body mass. Longer distances also required an expenditure of more psychic energy.",
-        "Notable Users": {
-            "Individuals": "* [[K'yorl Odran]], a [[drow]] psionicist and the [[matron mother]] of [[House Oblodra]].<ref>\n* [[Lugribossk]], [[proxy]] of the [[illithid]] god [[Ilsensine]].\n* [[Vhondryl]], a psionicist in [[Skullport]] and head of the [[Hall of Mental Splendor]]{{Cite dragon/172/Seeing the Sights in Skullport|12, 14, 88}}"
-        },
-        "Appendix": {
-            "Appearances": "{{Appearances\n| adventures = {{Duapp|43|Into The Silver Realm}}\n| organized play = ''[[Plane Speaking]]''\n}}",
-            "References": "{{Refs}}\n[[Category:Psychoportation powers]]\nogdq5f6u745dv1885p231thycn3ugf4"
-        }
+        "organized play": "Plane Speaking",
+        "mainbody": "CategoryPsychoportation powers\nogdq5f6u745dv1885p231thycn3ugf4"
     }
 }

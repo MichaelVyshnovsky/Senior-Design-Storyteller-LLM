@@ -1,20 +1,10 @@
 {
-    "template_data": {
-        "220|mi|k|long": "yes",
-        "220|mi|k|long_1": "yes"
-    },
     "document_data": {
-        "image": "AlimirMtns.JPG",
-        "caption": "A map showing the Narrows Trail cutting between the Alimir Mountains and Lake of Steam.",
-        "name": "Narrows Trail",
-        "type": "Trail",
-        "aliases": "",
-        "length": "{{SI|220|mi|k|long=yes}}",
         "width": "",
         "pavement": "",
-        "location": "The [[Alimir Mountains]], the [[Lake of Steam]]",
-        "starts": "[[Darkhope's Road]]",
-        "ends": "[[Tulmon]]",
+        "location": "The Alimir Mountains, the Lake of Steam",
+        "starts": "Darkhopes Road",
+        "ends": "Tulmon",
         "built": "",
         "refs": "",
         "daggers": "",
@@ -27,8 +17,6 @@
         "roads": "",
         "bodies of water": "",
         "events": "",
-        "mainbody": "The '''Narrows Trail''' was a small trail found along the slopes of the [[Alimir Mountains]] near the [[Lake of Steam]].{{Cite interactive atlas}}<ref name=EotSS.M\">",
-        "Geography": "The trail originated in the north, branching from [[Darkhope's Road]] northwest of [[Mintar]]. The Narrows Trail passed south, wedged between the eastern face of the Alimir Mountains and the western shore of the Lake of Steam. The trail covered approximately {{SI|220|mi|k|long=yes}} before ending at [[Tulmon]].<ref name=EotSS.M\"/>",
-        "Notable Locations": "In addition to Tulmon, the other notable city found along the Narrows Trail was [[Yeshpek]]. The [[Pevadaas Trail]] branched from the Narrows Trail's northern section.<ref name=EotSS.M\"/>"
+        "mainbody": "The Narrows Trail was a small trail found along the slopes of the Alimir Mountains near the Lake of Steam.\nThe trail originated in the north, branching from Darkhopes Road northwest of Mintar. The Narrows Trail passed south, wedged between the eastern face of the Alimir Mountains and the western shore of the Lake of Steam. The trail covered approximately  before ending at Tulmon.\nIn addition to Tulmon, the other notable city found along the Narrows Trail was Yeshpek. The Pevadaas Trail branched from the Narrows Trails northern section."
     }
 }

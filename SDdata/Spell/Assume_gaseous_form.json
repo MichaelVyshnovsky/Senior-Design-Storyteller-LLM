@@ -1,44 +1,12 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Assume Gaseous Form",
-        "deity": "[[Aerdrie Faenya]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Elemental air sphere|Elemental air]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|4}}",
         "type2e": "",
-        "refs2e": "{{Cite dragon/236/Arcane Lore: Demihuman Priest Spells|36-37}}",
+        "refs2e": "",
         "reversible1e": "",
         "school1e": "",
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Assume gaseous form''''' was a [[spell]] used by [[cleric]]s of [[Aerdrie Faenya]].",
-        "Effects": "When cast, this spell transformed the caster, and their possessions, into a gaseous state. The transformation took several minutes, during which the caster could not move or do anything else, as the spell required great concentration and focus from the caster. They were also completely vulnerable during the transformation and the spell could not be cast if the caster was interrupted. Once successfully cast, the caster was no longer required to maintain concentration on the spell.\n\nWhile they were in a gaseous state, the caster could move into places where mist could, and was protected from physical attacks. The caster could not speak and was vulnerable to wind currents and to fire. Once cast, the spell could not be reversed by the caster until it expired. ''[[Dispel magic]]'' could end the spell before it ran its course. However, such an act brought great pain and seizures to the caster. Healing magic such as ''[[cure light wounds]]'' could aid the caster while in this state.",
-        "Usage": "While traditionally a spell granted by the [[elf|elven]] [[goddess]] of the [[Seldarine]] Aerdrie Faenya, [[slayer genie]]s of [[Zakhara]] were known to cast this spell.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required [[material component]]s, the [[holy symbol]] of Aerdrie Faenya."
+        "mainbody": "Assume gaseous form was a spell used by clerics of Aerdrie Faenya.\nWhen cast, this spell transformed the caster, and their possessions, into a gaseous state. The transformation took several minutes, during which the caster could not move or do anything else, as the spell required great concentration and focus from the caster. They were also completely vulnerable during the transformation and the spell could not be cast if the caster was interrupted. Once successfully cast, the caster was no longer required to maintain concentration on the spell.\nWhile they were in a gaseous state, the caster could move into places where mist could, and was protected from physical attacks. The caster could not speak and was vulnerable to wind currents and to fire. Once cast, the spell could not be reversed by the caster until it expired. Dispel magic could end the spell before it ran its course. However, such an act brought great pain and seizures to the caster. Healing magic such as cure light wounds could aid the caster while in this state.\nWhile traditionally a spell granted by the elven goddess of the Seldarine Aerdrie Faenya, slayer genies of Zakhara were known to cast this spell.\nIn addition to verbal and somatic components, this spell required material components, the holy symbol of Aerdrie Faenya."
     }
 }

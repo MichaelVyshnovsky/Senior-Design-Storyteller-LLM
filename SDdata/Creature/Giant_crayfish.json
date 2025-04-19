@@ -1,34 +1,16 @@
 {
-    "template_data": {
-        "8|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Giantcrayfish.png",
-        "caption": "A giant crayfish in its giant shell.",
-        "name": "Giant Crayfish",
-        "size5e": "Large",
-        "type5e": "[[Beast]]",
-        "subtype5e": "",
-        "alignment5e": "[[Unaligned]]",
-        "challenge5e": "2",
-        "refs5e": "",
-        "size4e": "Large",
-        "origin4e": "[[Natural]]",
-        "type4e": "[[Beast]]",
-        "subtype4e": "",
-        "alignment4e": "[[Unaligned]]",
-        "refs4e": "{{Cite dungeon/212/The Village of Hommlet|60}}",
         "size3e": "Large",
-        "type3e": "[[Vermin]]",
-        "subtype3e": "[[Aquatic]]",
-        "alignment3e": "Always [[neutral]]",
+        "type3e": "Vermin",
+        "subtype3e": "Aquatic",
+        "alignment3e": "Always neutral",
         "challenge3e": "3",
-        "refs3e": "{{Cite dragon/321/Silicon Sorcery: The Temple of Elemental Evil|60}}",
+        "refs3e": "",
         "size2e": "Large",
-        "alignment2e": "[[Neutral]]",
+        "alignment2e": "Neutral",
         "refs2e": "",
         "size1e": "Large",
-        "alignment1e": "[[Neutral]]",
+        "alignment1e": "Neutral",
         "refs1e": "",
         "patron deity": "",
         "vision": "",
@@ -41,7 +23,7 @@
         "climate": "",
         "terrain": "Temperate or Freshwater rivers",
         "height": "",
-        "length": "{{SI|8|ft}} or more",
+        "length": "or more",
         "wingspan": "",
         "weight": "",
         "skincolor": "",
@@ -53,14 +35,7 @@
         "distinctions": "",
         "appearrefs": "",
         "based": "",
-        "first": "[[Monster Manual 1st edition]]",
-        "mainbody": "'''Giant crayfishes''' were a type of very large crustacean.These core sources &mdash; ''[[Monstrous Manual]]'' on page 50, ''[[Monstrous Compendium Volume Two]]'' on page 29, and the 1{{st}} edition [[Dungeon Masters Guide 1st edition|''Dungeon Masters Guide'']] on pages 180 & 224 &mdash; all state that [[crayfish]] and [[lobster]]s are the same thing. While crayfish are similar to lobsters and are even colloquially known as \"freshwater lobsters,\" they are distinct creatures.",
-        "Description": "These creatures were six-limbed, low-bodied crustaceans whose bodies typically measured {{SI|8|ft|long=yes}} or more in length. They were rather slow walkers, though very fast swimmers.",
-        "Combat": "Much like a [[giant crab]], giant crayfish typically hunted by hiding themselves, then rushing out to seize their prey.",
-        "Ecology": {
-            "Diet": "These creatures were an omnivorous species, though primarily subsisted upon [[fish]].",
-            "Habitats": "Giant crayfish were typically found to inhabit wide and deep rivers the [[Stump Bog]],{{Cite dragon/128/Welcome to Waterdeep|14}} and the [[Moonsea (lake)|Moonsea lake]].\n\nIn the region of [[Kara-tur]], they could be found on the [[Akari|Akari island]] and the river adjacent to the town of [[Kataburi]].\n\nBeyond the [[Prime Material plane]], giant crayfish were rumored to be found in [[Phlegethon]].",
-            "Relationships": "The meat of giant crayfish was considered a delicacy by many creatures, especially among [[nixie]]s. [[Dragon turtle]]s, [[giant gar]]s, [[giant otter]]s, [[giant pike]]s, [[giant snapping turtle]]s, [[Merrow (ogre)|merrow]]s, and [[storm giant]]s were all known to hunt and prey upon them."
-        }
+        "first": "Monster Manual 1st edition",
+        "mainbody": "Giant crayfishes were a type of very large crustacean.These core sources &mdash Monstrous Manual on page 50, Monstrous Compendium Volume Two on page 29, and the 1 edition Dungeon Masters Guide on pages 180 & 224 &mdash all state that crayfish and lobsters are the same thing. While crayfish are similar to lobsters and are even colloquially known as \"freshwater lobsters,\" they are distinct creatures.\nThese creatures were six-limbed, low-bodied crustaceans whose bodies typically measured  or more in length. They were rather slow walkers, though very fast swimmers.\nMuch like a giant crab, giant crayfish typically hunted by hiding themselves, then rushing out to seize their prey.\nThese creatures were an omnivorous species, though primarily subsisted upon fish.\nGiant crayfish were typically found to inhabit wide and deep rivers the Stump Bog, and the Moonsea lake.\nIn the region of Kara-tur, they could be found on the Akari island and the river adjacent to the town of Kataburi.\nBeyond the Prime Material plane, giant crayfish were rumored to be found in Phlegethon.\nThe meat of giant crayfish was considered a delicacy by many creatures, especially among nixies. Dragon turtles, giant gars, giant otters, giant pikes, giant snapping turtles, merrows, and storm giants were all known to hunt and prey upon them."
     }
 }

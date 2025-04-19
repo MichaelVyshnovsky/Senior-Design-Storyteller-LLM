@@ -1,19 +1,6 @@
 {
-    "template_data": {
-        "5.9|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Hammer of the Just.png",
-        "name": "''Hammer of the Just''",
-        "type": "[[Warhammer]]",
-        "location": "[[Baldur's Gate]], [[Western Heartlands]]",
-        "rarity5e": "Rare",
-        "level5e": "+2",
-        "value5e": "310 [[gp]]",
-        "weight5e": "{{SI|5.9|lb|k|long=yes}}",
         "refs5e": "",
-        "mainbody": "communication =\n| languages     =\n| alignment     =\n}}\nA '''''Hammer of the Just''''' was an [[enchanted]] [[warhammer]] of the [[Tyrran]] faith from the city of [[Baldur's Gate]] in the late 15{{th}} century [[DR]].",
-        "Powers": "A ''Hammer of the Just'' possessed a potent ''+2'' enchantment that enhanced its blows and guided the wielder's hand toward their targets. Every strike with these hammers resulted in additional radiant damage dealt to the targets. Their ''slay the wicked'' enchantment also dealt additional slashing damage to all [[undead]] or [[fiend]]ish targets. The wielder was also granted the ability to ''[[read thoughts]]'' once per day.",
-        "History": "Sometime in or before the late 15{{th}} century [[DR]], a ''Hammer of the Just'' ended up stored in the trapped and secured vault underneath the [[Stormshore Tabernacle]], a non-denominational shrine in [[Baldur's Gate]]. The item was still stored there in the {{YearlinkName|1492}}. If anyone was daring or foolish enough to rob the temple and steal the hammer, they were castigated by the divinities of the [[Realms]] sending [[deva]]s and [[cambion]]s to end their lives."
+        "mainbody": "| communication =\n| languages     =\n| alignment     =\nA Hammer of the Just was an enchanted warhammer of the Tyrran faith from the city of Baldurs Gate in the late 15 century DR.\nA Hammer of the Just possessed a potent +2 enchantment that enhanced its blows and guided the wielders hand toward their targets. Every strike with these hammers resulted in additional radiant damage dealt to the targets. Their slay the wicked enchantment also dealt additional slashing damage to all undead or fiendish targets. The wielder was also granted the ability to read thoughts once per day.\nSometime in or before the late 15 century DR, a Hammer of the Just ended up stored in the trapped and secured vault underneath the Stormshore Tabernacle, a non-denominational shrine in Baldurs Gate. The item was still stored there in the . If anyone was daring or foolish enough to rob the temple and steal the hammer, they were castigated by the divinities of the Realms sending devas and cambions to end their lives."
     }
 }

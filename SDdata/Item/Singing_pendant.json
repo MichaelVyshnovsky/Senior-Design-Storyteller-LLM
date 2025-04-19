@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "0.1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Singing pendant.jpg",
-        "caption": "",
-        "name": "''Singing Pendant''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Amulet]]",
-        "creator": "",
-        "location": "[[Rassatan]], [[Samarach]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|0.1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The '''''singing pendant''''' was a unique [[enchanted]] [[amulet]] that belonged to [[Redfeyer]] of [[Rassatan]] in the late 14{{th}} century [[DR]].",
-        "Powers": "The ''singing pendant'' was used by its owner to sing harmonies and be a backup singer in his performances. The item possessed a soft, soothing female voice. The pendant could be activated three times per day to release its soothing magics onto the listener.",
-        "History": "It was unknown where Redfeyer got his beloved ''singing pendant,'' but by the {{YearlinkName|1374}}, he used the item as his backup singer as he performed ballads of adventures in pubs and taverns of Rassatan. The necklace left Redfeyer's possession when it started singing during a spelunking expedition. The amulet's song alerted the cave's hungry wildlife, and Redfeyer was forced to flee, losing it in the process. The ''singing pendant'' was left alone in the cavern, sadly lamenting its loneliness. Redfeyer was attempting to find adventurers brave enough to retrieve the pendant for him from the dangerous caves. The sand singing echoing from the cave quickly gained reputation and given the name to the [[Singing Caverns]]."
+        "mainbody": "The singing pendant was a unique enchanted amulet that belonged to Redfeyer of Rassatan in the late 14 century DR.\nThe singing pendant was used by its owner to sing harmonies and be a backup singer in his performances. The item possessed a soft, soothing female voice. The pendant could be activated three times per day to release its soothing magics onto the listener.\nIt was unknown where Redfeyer got his beloved singing pendant, but by the , he used the item as his backup singer as he performed ballads of adventures in pubs and taverns of Rassatan. The necklace left Redfeyers possession when it started singing during a spelunking expedition. The amulets song alerted the caves hungry wildlife, and Redfeyer was forced to flee, losing it in the process. The singing pendant was left alone in the cavern, sadly lamenting its loneliness. Redfeyer was attempting to find adventurers brave enough to retrieve the pendant for him from the dangerous caves. The sand singing echoing from the cave quickly gained reputation and given the name to the Singing Caverns."
     }
 }

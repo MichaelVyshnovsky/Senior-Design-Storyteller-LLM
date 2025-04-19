@@ -1,37 +1,9 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Elf disguise",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "keywords5e": "",
-        "level5e": "",
-        "type5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "school3e": "[[Illusion]] (Glamer)",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Bard]]|1|[[Cleric]]|1|[[Sorcerer]]|1|[[Wizard]]|1}}",
         "type3e": "",
-        "refs3e": "{{Cite web/Obsul Ssussun, \"The Door to Light\"}}",
+        "refs3e": "",
         "reversible2e": "",
         "spheres2e": "",
-        "mainbody": "level2e       =\n| type2e        =\n| refs2e        =\n| reversible1e  =\n| school1e      =\n| level1e       =\n| type1e        =\n| rules         =\n| nocat         =\n}}\n'''''Elf disguise''''' was an [[illusion]] [[spell]] contained in the ''[[Obsul Ssussun]]''. It was also called ''golhydarthiir'', meaning \"surface-elf disguise\", but included also the option to disguise the caster as a [[drow]].",
-        "Description": "The spell worked like the ''[[disguise self]]'' spell but with several limitations.\n\nAs the name suggested, one could only disguise oneself as an elf and even then the disguise was limited to physical characteristics like skin, eye, and hair color, in other words to be effectively disguised one needed the physical build of an elf in the first place. Even if one did have the necessary stature, the combination of the characteristics had to be one found in one single elven subrace. For example, while it was possible for a drow to take the skin, eye, and hair color of a [[sun elf]], it was not possible for the drow to take the skin tone of a [[moon elf]] and the hair color of a sun elf with the eye color of a drow.\n\nUnlike the ''disguise self'' spell, the spell didn't have the option to make one appear taller or smaller. Thus, it was entirely possible to cause suspicion if a very small drow was disguised as an elf or a very tall elf was disguised as a drow.\n\nFor all these limitations, the spell had one huge advantage over the ''disguise self'' spell and that was a duration six times that of the ''disguise self'' spell.",
-        "Components": "''Elf disguise'' used verbal and somatic components. The divine version also required a [[divine focus]] like a holy symbol."
+        "mainbody": "| level2e       =\n| type2e        =\n| refs2e        =\n| reversible1e  =\n| school1e      =\n| level1e       =\n| type1e        =\n| rules         =\n| nocat         =\nElf disguise was an illusion spell contained in the Obsul Ssussun. It was also called golhydarthiir, meaning \"surface-elf disguise\", but included also the option to disguise the caster as a drow.\nThe spell worked like the disguise self spell but with several limitations.\nAs the name suggested, one could only disguise oneself as an elf and even then the disguise was limited to physical characteristics like skin, eye, and hair color, in other words to be effectively disguised one needed the physical build of an elf in the first place. Even if one did have the necessary stature, the combination of the characteristics had to be one found in one single elven subrace. For example, while it was possible for a drow to take the skin, eye, and hair color of a sun elf, it was not possible for the drow to take the skin tone of a moon elf and the hair color of a sun elf with the eye color of a drow.\nUnlike the disguise self spell, the spell didnt have the option to make one appear taller or smaller. Thus, it was entirely possible to cause suspicion if a very small drow was disguised as an elf or a very tall elf was disguised as a drow.\nFor all these limitations, the spell had one huge advantage over the disguise self spell and that was a duration six times that of the disguise self spell.\nElf disguise used verbal and somatic components. The divine version also required a divine focus like a holy symbol."
     }
 }

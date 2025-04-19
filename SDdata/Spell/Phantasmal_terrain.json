@@ -1,21 +1,8 @@
 {
-    "template_data": {
-        "edition": "4e",
-        "url": "http://wizards.com/download.asp?filename=364_Dragon.pdf",
-        "author": "[[Rodney Thompson]]",
-        "title": "Class Acts: Wizard",
-        "format": "PDF",
-        "work": "Dragon magazine 364",
-        "pages": "69"
-    },
     "document_data": {
-        "type": "daily",
-        "name": "Phantasmal Terrain",
-        "level4e": "{{spell table|edition=4e|[[Wizard]]|2}}",
-        "keywords4e": "{{desc/arcane}}{{desc/implement}}",
+        "keywords4e": "",
         "school": "",
         "type4e": "Daily",
-        "mainbody": "'''''Phantasmal terrain''''' is a [[spell]] of the [[illusion|illusion school]] [[illusion]] used by [[wizard]]ly initiates to hinder their enemies. When cast, ''phantasmal terrain'' creates the illusion of forbidding and difficult to cross terrain within an area of five feet in radius within 100 feet of the wizard. This effect can last for several minutes, slowing the movements of creatures within by as much as half, who become so distracted that they become vulnerable to far more mundane traps and hazards. ''Phantasmal terrain'' is taxing on the mind of its caster, however, and can only be cast once per day.",
-        "References": "*{{cite web|url=http://wizards.com/download.asp?filename=364_Dragon.pdf |author=[[Rodney Thompson]] |title=Class Acts: Wizard|format=PDF |work=Dragon magazine 364|pages=69}}\n[[Category:Wizard spells]]\nlmxolgwieyspk9pg8s9vblqqu0tpuwy"
+        "mainbody": "Phantasmal terrain is a spell of the illusion school illusion used by wizardly initiates to hinder their enemies. When cast, phantasmal terrain creates the illusion of forbidding and difficult to cross terrain within an area of five feet in radius within 100 feet of the wizard. This effect can last for several minutes, slowing the movements of creatures within by as much as half, who become so distracted that they become vulnerable to far more mundane traps and hazards. Phantasmal terrain is taxing on the mind of its caster, however, and can only be cast once per day.\n*\nCategoryWizard spells\nlmxolgwieyspk9pg8s9vblqqu0tpuwy"
     }
 }

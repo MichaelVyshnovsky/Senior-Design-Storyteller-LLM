@@ -1,16 +1,5 @@
 {
-    "template_data": {
-        "100|mi|k|long": "yes"
-    },
     "document_data": {
-        "image": "Moray.jpg",
-        "caption": "A map of Moray showing the Ossian Reefs off the western coast.",
-        "name": "Ossian Reefs",
-        "alt spelling": "",
-        "aliases": "",
-        "type": "Coral reef",
-        "region": "[[Moray]], the [[Moonshae Isles]]",
-        "size": "{{SI|100|mi|k}} long",
         "elevation": "",
         "depth": "",
         "capital": "",
@@ -29,7 +18,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "The '''Ossian Reefs''' were a coral reef formation found off the coast of the isle of [[Moray]] within the [[Moonshae Isles]].{{Cite dungeon/196/Backdrop: The Moonshae Isles}}",
-        "Geography": "The Ossian Reefs stretched along the entire western coast of Moray, from the [[Last Head]] cape in the south all the way to the rocky [[Trollclaw Range]] in the north near the [[Trackless Strait]]. The reefs were approximately {{SI|100|mi|k|long=yes}} long."
+        "mainbody": "The Ossian Reefs were a coral reef formation found off the coast of the isle of Moray within the Moonshae Isles.\nThe Ossian Reefs stretched along the entire western coast of Moray, from the Last Head cape in the south all the way to the rocky Trollclaw Range in the north near the Trackless Strait. The reefs were approximately  long."
     }
 }

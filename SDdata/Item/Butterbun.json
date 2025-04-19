@@ -1,46 +1,9 @@
 {
-    "template_data": {
-        "0.4|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Butterbun.png",
-        "caption": "",
-        "name": "Butterbun",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Bread]]",
-        "location": "[[Western Heartlands]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "",
-        "refs3e": "",
-        "level4e": "",
-        "value4e": "",
-        "weight4e": "",
-        "refs4e": "",
-        "rarity5e": "",
-        "attunement5e": "",
-        "school5e": "",
-        "level5e": "",
-        "value5e": "3 [[gp]]",
-        "weight5e": "{{SI|0.4|lb|k|long=yes}}",
         "refs5e": "",
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''Butterbuns''' were common baked goods from the [[Western Heartlands]].",
-        "Description": "Butterbuns were small baked [[bread]] rolls, sometimes sprinkled with [[sesame]] seeds. Butterbuns were baked in batches of one dozen at a time.",
-        "Availability": "Butterbuns were served at the [[Waukeen's Rest]] inn, a prominent layover spot between [[Elturel]] and [[Baldur's Gate]] in the 1490s [[DR]]."
+        "mainbody": "Butterbuns were common baked goods from the Western Heartlands.\nButterbuns were small baked bread rolls, sometimes sprinkled with sesame seeds. Butterbuns were baked in batches of one dozen at a time.\nButterbuns were served at the Waukeens Rest inn, a prominent layover spot between Elturel and Baldurs Gate in the 1490s DR."
     }
 }

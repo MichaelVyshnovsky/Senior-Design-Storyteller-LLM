@@ -1,21 +1,11 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "name": "Proof from Teleportation",
-        "inventor": "",
-        "school2e": "[[Abjuration]], [[Dimension]]",
-        "level2e": "{{Spell table|edition=2e|[[Wizard]]|3}}",
         "type2e": "",
-        "refs2e": "<ref>",
+        "refs2e": "",
         "school1e": "",
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Proof from teleportation''''', also called '''''proof against teleportation''''', was an [[abjuration]] spell that created a barrier to teleportation and dimensional travel.",
-        "Effects": "The area protected by this spell was a sphere of radius 10 yd (9.1 m) per level of the caster that ignored impediments such as walls, floors, roofs, or other surfaces. For the duration of the spell, [[Astral Plane|Astral]] travel by means of ''[[teleport]]'', ''[[teleport without error]]'', ''[[teleport dead]]'', and ''[[dimension door]]'' was prevented from passing through the barrier in either direction. Use of a ''[[gate]]'' spell or other ''portal''-generating magics were also prevented unless the spell resistance of the gating person was able to overcome the power of this spell each time a ''gate'' was attempted. ''Proof from Teleportation'' lasted a minimum of 10 hours (longer for more experienced casters) and could be dropped by the caster at any time, or by a successful ''[[dispel magic]]''. Only powerful magics such as ''[[limited wish]]'' could overcome the restrictions on teleportation.\n\nTravel by [[Ethereal Plane|Ethereal]] means, such as ''[[vanish]]'', ''[[armor of ethereality]]'', ''[[ethereal jaunt]]'', and the phasing ability of creatures like the [[phase spider]] were not prevented by this spell.",
-        "Components": "In addition to verbal and somatic components, this spell required {{SI|10|lbs|k}} of granular material such as [[sand]], salt, or sugar held in a 5 lb (2.3 kg) sack which was then dropped at the desired center of the spell effect.",
-        "History": "This spell was published in \"[[Volo's Guide to All Things Magical (in-universe)|Volo's Guide to All Things Magical]]\" and became generally known to the magical community."
+        "mainbody": "Proof from teleportation, also called proof against teleportation, was an abjuration spell that created a barrier to teleportation and dimensional travel.\nThe area protected by this spell was a sphere of radius 10 yd (9.1 m) per level of the caster that ignored impediments such as walls, floors, roofs, or other surfaces. For the duration of the spell, Astral travel by means of teleport, teleport without error, teleport dead, and dimension door was prevented from passing through the barrier in either direction. Use of a gate spell or other portal-generating magics were also prevented unless the spell resistance of the gating person was able to overcome the power of this spell each time a gate was attempted. Proof from Teleportation lasted a minimum of 10 hours (longer for more experienced casters) and could be dropped by the caster at any time, or by a successful dispel magic. Only powerful magics such as limited wish could overcome the restrictions on teleportation.\nTravel by Ethereal means, such as vanish, armor of ethereality, ethereal jaunt, and the phasing ability of creatures like the phase spider were not prevented by this spell.\nIn addition to verbal and somatic components, this spell required  of granular material such as sand, salt, or sugar held in a 5 lb (2.3 kg) sack which was then dropped at the desired center of the spell effect.\nThis spell was published in \"Volos Guide to All Things Magical\" and became generally known to the magical community."
     }
 }

@@ -1,34 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Sharpwings",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|2}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -36,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Sharpwings''''' was a [[spell]] used by [[dragon]]s.",
-        "Effects": "When cast, the spell modified the wings of the dragon, transforming the leading edge of each wing into a razor-sharp blade with the strength of steel. Although the blade edge could not be visually observed, anyone who touched the foremost ridge of the affected dragon's wing perceived the lethal nature of this magical enchantment.",
-        "Components": "This spell only required a [[verbal component]].",
-        "Usage": "The [[shadow dragon]] [[Aurgloroasa]] was known to use ''sharpwings''."
+        "mainbody": "Sharpwings was a spell used by dragons.\nWhen cast, the spell modified the wings of the dragon, transforming the leading edge of each wing into a razor-sharp blade with the strength of steel. Although the blade edge could not be visually observed, anyone who touched the foremost ridge of the affected dragons wing perceived the lethal nature of this magical enchantment.\nThis spell only required a verbal component.\nThe shadow dragon Aurgloroasa was known to use sharpwings."
     }
 }

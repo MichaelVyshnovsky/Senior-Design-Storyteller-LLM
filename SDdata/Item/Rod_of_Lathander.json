@@ -1,31 +1,8 @@
 {
-    "template_data": {
-        "2|ft|long": "yes",
-        "60|ft|long": "yes"
-    },
     "document_data": {
-        "image": "RodLathander.jpg",
-        "caption": "The Rod of Lathander.",
-        "name": "''Rod of Lathander''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Rod]]",
-        "creator": "",
-        "location": "Unknown",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "17{{th}}",
         "itemlevel3e": "",
         "value3e": "",
-        "weight3e": "{{SI|5|lb|k}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -42,10 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The '''''rod of Lathander''''' was a unique [[magic item]] that glowed with powerful ''[[daylight]]'' from sunrise to sunset.",
-        "Description": "The [[rod]] was {{SI|2|ft|long=yes}} long and had a tapered end that flattened into a serrated half-disc. The blades of the disc were embedded with [[rubies]], rose-colored [[diamond]]s, and [[corundum]]s. Removal of any of the [[gemstone]]s would cause them to crumble into dust and the rod's [[magic]] would cease to function until they were replaced with a similar stone worth at least 5,000 [[gp]].",
-        "Powers": "Creatures within {{SI|60|ft|long=yes}} of the shining ''rod of Lathander'' were protected by a ''[[Death ward (spell)|death ward]]'' effect.",
-        "History": "Commissioned by a [[paladin]] named, [[Dahaerlin|Dahaerlin of the Burning Brand]], the ''rod of Lathander'' was created within the [[Spires of the Morning]] in the {{YearlinkName|1024}}. The rod was wielded by Dahaerlin in the [[Shadow Plane]] while he rescued the lost villagers of [[Hespheira]]. Following Dahaerlin's death, the rod sat upon the altar of the Morninglord within the Spires of the Morning for over a century until the {{YearlinkName|1136}}, when it was needed again to rescue Hespheira from shadow creatures. The rod returned to its place of honor until the {{YearlinkName|1345}}, when it was stolen by [[thieves]].",
-        "Rumors & Legends": "Following its theft, a rumor persisted of a brightly illuminated cavern in [[Undermountain]] that led many of the Morninglord's faithful to believe it was the power of the ''rod of Lathander''. Several expeditions ensued but none met with success in retrieving the rod."
+        "mainbody": "The rod of Lathander was a unique magic item that glowed with powerful daylight from sunrise to sunset.\nThe rod was  long and had a tapered end that flattened into a serrated half-disc. The blades of the disc were embedded with rubies, rose-colored diamonds, and corundums. Removal of any of the gemstones would cause them to crumble into dust and the rods magic would cease to function until they were replaced with a similar stone worth at least 5,000 gp.\nCreatures within  of the shining rod of Lathander were protected by a death ward effect.\nCommissioned by a paladin named, Dahaerlin of the Burning Brand, the rod of Lathander was created within the Spires of the Morning in the . The rod was wielded by Dahaerlin in the Shadow Plane while he rescued the lost villagers of Hespheira. Following Dahaerlins death, the rod sat upon the altar of the Morninglord within the Spires of the Morning for over a century until the , when it was needed again to rescue Hespheira from shadow creatures. The rod returned to its place of honor until the , when it was stolen by thieves.\nFollowing its theft, a rumor persisted of a brightly illuminated cavern in Undermountain that led many of the Morninglords faithful to believe it was the power of the rod of Lathander. Several expeditions ensued but none met with success in retrieving the rod."
     }
 }

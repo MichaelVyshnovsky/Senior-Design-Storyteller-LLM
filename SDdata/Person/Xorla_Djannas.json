@@ -1,26 +1,13 @@
 {
-    "template_data": {
-        "edition": "1e",
-        "edition_1": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Xorla Djannas",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Waterdeep]]<br />{{former}} [[Tethyr]]",
         "formerhomes": "",
         "sex": "Female",
         "gender": "Feminine",
-        "race": "[[Tethyrian]]",
+        "race": "Tethyrian",
         "ethnicity": "",
         "occupation": "",
         "age": "",
-        "patron deity": "[[Leira]]</br>[[Cyric]]",
+        "patron deity": "LeiraCyric",
         "languages": "",
         "basicrefs": "",
         "reckoning": "",
@@ -44,8 +31,8 @@
         "predecessor": "",
         "successor": "",
         "successionrefs": "",
-        "alignment1e": "[[Chaotic neutral]]",
-        "class1e": "{{class table|edition=1e|[[Illusionist]]|2}}",
+        "alignment1e": "Chaotic neutral",
+        "class1e": "",
         "refs1e": "",
         "alignment2e": "",
         "class2e": "",
@@ -54,9 +41,9 @@
         "challenge3e": "",
         "class3e": "",
         "refs3e": "",
-        "alignment35": "[[Chaotic evil]]",
+        "alignment35": "Chaotic evil",
         "challenge35": "12",
-        "class35": "{{Class table|edition=3e|[[Arcane devotee]]|5|[[Illusionist]]|7}}",
+        "class35": "",
         "refs35": "",
         "alignment4e": "",
         "class4e": "",
@@ -65,7 +52,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Xorla Djannas''' was fervent champion of the deity [[Cyric]] who resided in [[Waterdeep]] in in the mid-to-late 14{{th}} century [[DR]].",
-        "History": "A native of the southern region of [[Tethyr]], Xorla moved to Waterdeep with her master [[Selphar Thynn]]. When Thynn died in a tavern brawl, Xorla was left alone in the city. It was not too long after this that she found her true calling. During the [[Time of Troubles]] in [[1358 DR]], she was witness to the ascension of Cyric into godhood. It was then that she devoted her life to the Dark Sun and became an agent of his church."
+        "mainbody": "Xorla Djannas was fervent champion of the deity Cyric who resided in Waterdeep in in the mid-to-late 14 century DR.\nA native of the southern region of Tethyr, Xorla moved to Waterdeep with her master Selphar Thynn. When Thynn died in a tavern brawl, Xorla was left alone in the city. It was not too long after this that she found her true calling. During the Time of Troubles in 1358 DR, she was witness to the ascension of Cyric into godhood. It was then that she devoted her life to the Dark Sun and became an agent of his church."
     }
 }

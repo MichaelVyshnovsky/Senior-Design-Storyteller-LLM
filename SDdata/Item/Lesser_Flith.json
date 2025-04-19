@@ -1,14 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Lesser Flith",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Star chart]]",
-        "creator": "",
-        "location": "",
-        "basicrefs": "{{cite book/Elminster in Myth Drannor|77|8}}",
         "value1e": "",
         "weight1e": "",
         "refs1e": "",
@@ -38,9 +29,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "A '''''lesser flith''''' was a form of enchanted starmap.",
-        "Description": "A ''lesser flith'' built by [[Delmuth Echorn]] occupied the upper half of a room with a domed ceiling. It was made of gemstones, presumably suspended in midair through magical or otherwise means.",
-        "Powers": "When stars were named in a ''lesser flith'', their representation glowed with light. Even if the gemstone corresponding to a star was missing, the point in space would glow; almost certainly.",
-        "History": "In {{yearlink|241}}, Delmuth Echorn had nearly finished a ''lesser flith'' before his death."
+        "mainbody": "A lesser flith was a form of enchanted starmap.\nA lesser flith built by Delmuth Echorn occupied the upper half of a room with a domed ceiling. It was made of gemstones, presumably suspended in midair through magical or otherwise means.\nWhen stars were named in a lesser flith, their representation glowed with light. Even if the gemstone corresponding to a star was missing, the point in space would glow almost certainly.\nIn , Delmuth Echorn had nearly finished a lesser flith before his death."
     }
 }

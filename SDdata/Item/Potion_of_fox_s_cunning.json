@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "0.1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Potion of fox's cunning.gif",
-        "caption": "",
-        "name": "''Potion of Fox's Cunning''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Potion]]",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "300 [[gp]]",
-        "weight3e": "{{SI|0.1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Potion of fox's cunning''''' were common magical concoctions that increased the imbiber's intelligence.",
-        "Powers": "''Potion of [[fox]]'s cunning'' greatly increased the drinker's intelligence, similarly to the effects of the ''[[fox's cunning]]'' spell.",
-        "History": "By [[1372 DR]] these potions could be found in wide use in many places across the [[Sword Coast]], such as [[Neverwinter]], [[Moonsea]], and as far as the [[Nelanther Isles]].",
-        "Notable Owners": "*[[Red Wizards]] of [[Thay]] often carried a ''potion of fox's cunning'' along with other magical items ''circa'' [[1373 DR]].."
+        "mainbody": "Potion of foxs cunning were common magical concoctions that increased the imbibers intelligence.\nPotion of foxs cunning greatly increased the drinkers intelligence, similarly to the effects of the foxs cunning spell.\nBy 1372 DR these potions could be found in wide use in many places across the Sword Coast, such as Neverwinter, Moonsea, and as far as the Nelanther Isles.\n*Red Wizards of Thay often carried a potion of foxs cunning along with other magical items circa 1373 DR.."
     }
 }

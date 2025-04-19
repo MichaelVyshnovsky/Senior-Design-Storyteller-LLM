@@ -1,29 +1,8 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes",
-        "15'|'\"|long": "yes"
-    },
     "document_data": {
-        "image": "Robe of energy.png",
-        "caption": "",
-        "name": "''Robe of Energy''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Robe]]",
-        "location": "[[Luskan]], [[Sword Coast North]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "9{{th}}",
         "itemlevel3e": "",
         "value3e": "",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -40,8 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Robes of energy''''' were [[enchanted]] magical garments infused with a simple ''[[magic missile]]'' spell usable by [[wizard]]s and [[sorcerer]]s only.",
-        "Powers": "''Robes of energy'' were permeated and infused with the sorcery of ''magic missiles''. This enchanted the robes to be able to discharge a powerful version of the ''magic missile'' spell once per day and gave the wearer immunity to the same spell. They also significantly enhanced their concentration required for spellcasting. Finally, the robes glowed with a red light, illuminating {{SI|15'|'\"|long=yes}} around it.",
-        "History": "''Robes of energy'' were originally invented by a female member of the [[Arcane Brotherhood]] of [[Luskan]]. She experimented with magical infusing and discovered an unexpectedly powerful enchantment in the process. The garments of her crafting became popular in the black markets and streets of Luskan sometime before [[1372 DR]]. Eventually, the Arcane Brotherhood discovered that she was selling the secrets of the [[Host Tower of the Arcane]] and their wrath was horrible. The creator of the ''robes of energy'' was roasted slowly over an open flame.\n\nBy 1372 DR, copies of these robes were present in several cities along the Sword Coast."
+        "mainbody": "Robes of energy were enchanted magical garments infused with a simple magic missile spell usable by wizards and sorcerers only.\nRobes of energy were permeated and infused with the sorcery of magic missiles. This enchanted the robes to be able to discharge a powerful version of the magic missile spell once per day and gave the wearer immunity to the same spell. They also significantly enhanced their concentration required for spellcasting. Finally, the robes glowed with a red light, illuminating  around it.\nRobes of energy were originally invented by a female member of the Arcane Brotherhood of Luskan. She experimented with magical infusing and discovered an unexpectedly powerful enchantment in the process. The garments of her crafting became popular in the black markets and streets of Luskan sometime before 1372 DR. Eventually, the Arcane Brotherhood discovered that she was selling the secrets of the Host Tower of the Arcane and their wrath was horrible. The creator of the robes of energy was roasted slowly over an open flame.\nBy 1372 DR, copies of these robes were present in several cities along the Sword Coast."
     }
 }

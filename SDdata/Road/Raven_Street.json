@@ -1,16 +1,10 @@
 {
     "document_data": {
-        "image": "NWZhentilKeep.JPG",
-        "caption": "A map showing Raven Street in central Zhentil Keep.",
-        "name": "Raven Street",
-        "type": "Street",
-        "aliases": "",
-        "length": "{{SI|1300|ft}}",
         "width": "",
         "pavement": "",
-        "location": "The [[Zhentil Keep/Inner Quarter|Inner Quarter]], [[Zhentil Keep]]",
-        "starts": "The wall of the [[Zhentil Keep/Common Quarter|Common Quarter]]",
-        "ends": "The wall of the [[Zhentil Keep/Harbor District|Harbor District]]",
+        "location": "The Inner Quarter, Zhentil Keep",
+        "starts": "The wall of the Common Quarter",
+        "ends": "The wall of the Harbor District",
         "built": "",
         "refs": "",
         "daggers": "",
@@ -23,7 +17,6 @@
         "roads": "yes",
         "bodies of water": "",
         "events": "",
-        "mainbody": "'''Raven Street''' was a road located in the city of [[Zhentil Keep]] during the mid-14{{th}} century [[DR]].",
-        "Location": "Located in the [[Zhentil Keep/Inner Quarter|Inner Quarter]] in central Zhentil Keep, Raven Street cut north to south to touch both the northern wall of the [[Zhentil Keep/Common Quarter|Common Quarter]] and southern wall of the [[Zhentil Keep/Harbor District|Harbor District]]. Along the way Raven Street crossed [[Elephstron Way]]."
+        "mainbody": "Raven Street was a road located in the city of Zhentil Keep during the mid-14 century DR.\nLocated in the Inner Quarter in central Zhentil Keep, Raven Street cut north to south to touch both the northern wall of the Common Quarter and southern wall of the Harbor District. Along the way Raven Street crossed Elephstron Way."
     }
 }

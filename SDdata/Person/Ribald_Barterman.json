@@ -1,22 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Ribald Barterman",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "Old Ribald",
-        "home": "[[Athkatla]], [[Amn]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "race": "[[Half-elf]]",
-        "ethnicity": "",
-        "occupation": "Shopkeep<br/>{{Former}} adventurer",
         "age": "",
         "patron deity": "",
         "languages": "",
@@ -36,12 +19,9 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Chaotic neutral]]",
-        "class2e": "{{Class table|edition=2e|[[Fighter]]|11|[[Wizard]]|12}}",
+        "alignment2e": "Chaotic neutral",
+        "class2e": "",
         "refs2e": "",
-        "mainbody": "'''Ribald Barterman''' was a retired adventurer turned shopkeeper in [[Athkatla]] in [[Amn]] in the 14{{th}} century [[DR]].\n\n{{quote|''One man's meat's another goon's murder, eh? Each to his own then. If ye change yer thinks, I'll be hereabouts.''|Ribald Barterman}}",
-        "Possessions": "Ribald Barterman wore a ''[[ring of regeneration]]''.",
-        "Relationships": "The [[dwarf|dwarven]] cobbler named [[Brelm]] was Ribald's good friend who could often be found in the [[Adventurer Mart]].",
-        "History": "Ribald was once an adventurer of renown, working with many parties and traveling through half of [[Faerûn]]. He lived through many adventures and would talk about killing a [[beholder]] or defeating an [[orc]] horde alone like he speaking of the weather. During his adventuring days, Ribald Barterman worked alongside [[Jaheira]] and the [[Harpers]] on several occasions.\n\nAt last, he returned to his home city and opened the Adventurer Mart within [[Waukeen's Promenade]]. He was always ready to give advice and information to young adventurers. Ribald employed a small army of scribes to keep up with the business's demand and keep his catalogues up to date. By the {{YearlinkName|1369}}, Ribald's shop had been open for thirty three years off of which were spent in the same location and bragged about knowing his customers by name. His pet [[wyvern]] named [[Lucy]] could be found fluttering about the Adventurer Mart."
+        "mainbody": "Ribald Barterman was a retired adventurer turned shopkeeper in Athkatla in Amn in the 14 century DR.\nRibald Barterman wore a ring of regeneration.\nThe dwarven cobbler named Brelm was Ribalds good friend who could often be found in the Adventurer Mart.\nRibald was once an adventurer of renown, working with many parties and traveling through half of Faerûn. He lived through many adventures and would talk about killing a beholder or defeating an orc horde alone like he speaking of the weather. During his adventuring days, Ribald Barterman worked alongside Jaheira and the Harpers on several occasions.\nAt last, he returned to his home city and opened the Adventurer Mart within Waukeens Promenade. He was always ready to give advice and information to young adventurers. Ribald employed a small army of scribes to keep up with the businesss demand and keep his catalogues up to date. By the , Ribalds shop had been open for thirty three years off of which were spent in the same location and bragged about knowing his customers by name. His pet wyvern named Lucy could be found fluttering about the Adventurer Mart."
     }
 }

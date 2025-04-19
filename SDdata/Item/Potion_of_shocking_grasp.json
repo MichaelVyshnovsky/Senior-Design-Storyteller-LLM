@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Potion of Shocking Grasp.png",
-        "caption": "",
-        "name": "''Potion of Shocking Grasp''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Potion]]",
-        "creator": "",
-        "location": "[[Targos]], [[Ten Towns]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Potions of shocking grasp''''' were concoctions that imbued the drinker with lightning magics.",
-        "Description": "''Potions of shocking grasp'' were bottled in a variety of containers, typically made of [[ceramic]]s, crystal, or [[glass]]. Each [[potion]] had enough liquid for a single dose.",
-        "Powers": "When consumed, a ''potion of shocking grasp'' energized the diners hands, charging them with magical electricity. The imbiber could land a powerful shocking burn onto a target of choice via single touch. Effects of the potion were similar to the ''[[shocking grasp]]'' [[spell]].",
-        "History": "As of the {{YearlinkName|1312}}, these potions could be found in the [[Ten Towns]] of [[Icewind Dale]], notably, brewed and sold by an eccentric tinkerer [[gnome]] [[Oswald Fiddlebender]]."
+        "mainbody": "Potions of shocking grasp were concoctions that imbued the drinker with lightning magics.\nPotions of shocking grasp were bottled in a variety of containers, typically made of ceramics, crystal, or glass. Each potion had enough liquid for a single dose.\nWhen consumed, a potion of shocking grasp energized the diners hands, charging them with magical electricity. The imbiber could land a powerful shocking burn onto a target of choice via single touch. Effects of the potion were similar to the shocking grasp spell.\nAs of the , these potions could be found in the Ten Towns of Icewind Dale, notably, brewed and sold by an eccentric tinkerer gnome Oswald Fiddlebender."
     }
 }

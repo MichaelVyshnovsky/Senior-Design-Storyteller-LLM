@@ -1,29 +1,6 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Fiery Vision",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Evocation]]",
-        "domains3e": "",
-        "descriptors3e": "{{desc/fire}}",
-        "level3e": "{{Spell table|edition=3e|[[Cleric]]|6}}",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -37,7 +14,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Fiery vision''''' was an [[arcane]] [[evocation]] spell that allowed the caster to emit two fiery rays from their eyes",
-        "References": "{{refs}}\n[[Category:Evocation spells]]\n[[Category:Fire spells]]\n[[Category:Cleric spells (3e)]]\n[[Category:6th-level cleric spells (3e)]]\n[[Category:Cleric spells]]\n9os62dhd9g08tk5agv6ms3p7ilbx65h"
+        "mainbody": "Fiery vision was an arcane evocation spell that allowed the caster to emit two fiery rays from their eyes\nCategoryEvocation spells\nCategoryFire spells\nCategoryCleric spells (3e)\nCategory6th-level cleric spells (3e)\nCategoryCleric spells\n9os62dhd9g08tk5agv6ms3p7ilbx65h"
     }
 }

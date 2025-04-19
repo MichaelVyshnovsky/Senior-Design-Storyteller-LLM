@@ -1,27 +1,22 @@
 {
-    "template_data": {
-        "edition": "5e"
-    },
     "document_data": {
-        "image": "Darklings-5e.jpg",
-        "caption": "A darkling (lower left) and a darkling elder (upper right).<ref group=\"note\">Note that while this art is reused from the 3{{rd}} edition [[dark one]]s, they are most assuredly different creatures.",
         "name": "Darkling",
         "othernames": "Dubh-sith",
-        "size5e": "{{Size table|Darkling|Small|Elder|Medium}}",
-        "type5e": "[[Fey]]",
+        "size5e": "",
+        "type5e": "Fey",
         "subtype5e": "",
-        "alignment5e": "[[Chaotic neutral]]",
-        "challenge5e": "{{CR table|edition=5e|Darkling|{{Frac|1|2}}|Elder|2}}",
+        "alignment5e": "Chaotic neutral",
+        "challenge5e": "|Elder|2",
         "refs5e": "",
         "patron deity": "",
         "movement": "",
-        "vision": "[[Blindsight]], [[darkvision]]",
+        "vision": "Blindsight, darkvision",
         "activecycle": "",
         "diet": "",
         "lifespan": "",
         "location": "",
-        "intelligence": "{{Int|10}}",
-        "language": "[[Elven language|Elvish]], [[Sylvan]]",
+        "intelligence": "",
+        "language": "Elvish, Sylvan",
         "climate": "",
         "terrain": "Forest, mountain, urban, Underdark",
         "genrefs": "",
@@ -37,12 +32,6 @@
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Darklings''' were a lineage of cursed [[fey]], forever doomed to absorb light and to suffer rapid aging from exposure to it.\n\nConfusingly, in the [[Forgotten Realms|Realms]], the term \"darkling\" was sometimes used to refer generically to creatures of the dark who were not actually darklings.\n{{TOC limit|3}}",
-        "Description": "Darklings typically wore full-body-covering clothing when exposure to light was a risk. Darkling elders were transformed into a taller, fairer form, likened to that of a grey-skinned [[elf]].",
-        "Personality": "Darklings were not evil, but they also are not inclined to follow laws, often working as thieves and assassins. They retained a fey fondness for art and nature, occasionally risking the light to glimpse a sunset, or the colors of a painting or jewel.",
-        "Abilities": "Darklings possessed both [[darkvision]] and, more pertinently, [[blindsight]]. Unlike many fey, they possessed no great magical abilities; darkling elders could cast ''[[darkness]]'' once between each rest. Unsurprisingly, they had poor vision while in bright light.\n\nHowever, when a darkling died, all the light it had absorbed over its lifetime was released in a sudden, explosive flash that burned its body and any possessions that were not metal or magical to ash; nearby creatures that could see the light risked being temporarily blinded. The death-flash of elders was more potent, being strong enough to actually damage as well as blind nearby creatures.\n\nLight was deadly to darklings; the curse upon them caused their body to absorb it, rapidly aging them in the process.",
-        "Combat": "Darklings typically used [[dagger]]s in their work as assassins or when they needed to fight, though the deadlier darkling elders favored [[shortsword]]s.",
-        "Society": "Darklings typically settled in isolated chambers and caverns beneath settlements of other peoples.\n\nParticularly wise and respected darklings could undergo a transform ritual, during which other elders inked glowing tattoos on the supplicant's body that channeled some of the supplicant's absorbed light away from their body. If successful, the supplicant was transfigured into a darkling elder; if unsuccessful, the supplicant died.",
-        "History": "It was told in legends that a [[Seelie Court|seelie]] fey, whose real name had been erased from history, betrayed the Summer Queen. In her wrath, she cursed him and his entire house. He became known in those stories as ''Dubh Catha'', or \"Dark Crow\".<ref group=\"note\">Note that while the meaning behind the name takes inspiration from our world's Irish language, there is a mistranslation: while ''dubh'' does mean \"dark\", ''catha'' means \"war/battle\", and not \"crow\". This confusion comes from the Irish goddess Babd, who is sometimes called \"Babd Catha\" (battle crow). His descendants, and those of his house, were then known as the ''dubh sith'', or \"darklings\"."
+        "mainbody": "Darklings were a lineage of cursed fey, forever doomed to absorb light and to suffer rapid aging from exposure to it.\nConfusingly, in the Realms, the term \"darkling\" was sometimes used to refer generically to creatures of the dark who were not actually darklings.\nDarklings typically wore full-body-covering clothing when exposure to light was a risk. Darkling elders were transformed into a taller, fairer form, likened to that of a grey-skinned elf.\nDarklings were not evil, but they also are not inclined to follow laws, often working as thieves and assassins. They retained a fey fondness for art and nature, occasionally risking the light to glimpse a sunset, or the colors of a painting or jewel.\nDarklings possessed both darkvision and, more pertinently, blindsight. Unlike many fey, they possessed no great magical abilities darkling elders could cast darkness once between each rest. Unsurprisingly, they had poor vision while in bright light.\nHowever, when a darkling died, all the light it had absorbed over its lifetime was released in a sudden, explosive flash that burned its body and any possessions that were not metal or magical to ash nearby creatures that could see the light risked being temporarily blinded. The death-flash of elders was more potent, being strong enough to actually damage as well as blind nearby creatures.\nLight was deadly to darklings the curse upon them caused their body to absorb it, rapidly aging them in the process.\nDarklings typically used daggers in their work as assassins or when they needed to fight, though the deadlier darkling elders favored shortswords.\nDarklings typically settled in isolated chambers and caverns beneath settlements of other peoples.\nParticularly wise and respected darklings could undergo a transform ritual, during which other elders inked glowing tattoos on the supplicants body that channeled some of the supplicants absorbed light away from their body. If successful, the supplicant was transfigured into a darkling elder if unsuccessful, the supplicant died.\nIt was told in legends that a seelie fey, whose real name had been erased from history, betrayed the Summer Queen. In her wrath, she cursed him and his entire house. He became known in those stories as Dubh Catha, or \"Dark Crow\".Note that while the meaning behind the name takes inspiration from our worlds Irish language, there is a mistranslation while dubh does mean \"dark\", catha means \"war/battle\", and not \"crow\". This confusion comes from the Irish goddess Babd, who is sometimes called \"Babd Catha\" (battle crow). His descendants, and those of his house, were then known as the dubh sith, or \"darklings\"."
     }
 }

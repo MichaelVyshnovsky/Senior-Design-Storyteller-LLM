@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "30|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Wandering hunter's armor.png",
-        "caption": "",
-        "name": "''Wandering Hunter's Armor''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Hide armor]]",
-        "creator": "",
-        "location": "[[Icewind Dale]], [[Northwest Faerûn]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "9,618 [[gp]]",
-        "weight3e": "{{SI|30|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Wandering hunter's armors''''' were a type of [[hide armor]] made by the inhabitants of the nomadic [[Wandering Village]] in [[Icewind Dale]].",
-        "Powers": "These sets of [[light armor]] were masterfully and painstakingly sewn together, and lined with great white [[wolves]]' fur that inhabited the [[Fell Wood]] in the [[Frozenfar]]. These armors were enchanted to protect the wearer from winter's cold.",
-        "History": "By the {{YearlinkName|1281}}, ''wandering hunter's armors'' were crafted for all young hunters of the Wandering Village. Friends and visitors to the village could purchase these boots from [[Tahvo]] the Huntmaster, along with other supplies."
+        "mainbody": "Wandering hunters armors were a type of hide armor made by the inhabitants of the nomadic Wandering Village in Icewind Dale.\nThese sets of light armor were masterfully and painstakingly sewn together, and lined with great white wolves fur that inhabited the Fell Wood in the Frozenfar. These armors were enchanted to protect the wearer from winters cold.\nBy the , wandering hunters armors were crafted for all young hunters of the Wandering Village. Friends and visitors to the village could purchase these boots from Tahvo the Huntmaster, along with other supplies."
     }
 }

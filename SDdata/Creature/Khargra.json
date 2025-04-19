@@ -1,18 +1,5 @@
 {
-    "template_data": {
-        "3|4|ft|long": "yes",
-        "3|ft|long": "yes",
-        "30|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption2": "Various depictions of khargras.",
-        "name": "Khargra",
-        "size5e": "Small",
-        "type5e": "[[Elemental]]",
-        "subtype5e": "",
-        "alignment5e": "[[Neutral]]",
-        "challenge5e": "{{Frac|1|8}}",
         "refs5e": "",
         "size4e": "",
         "origin4e": "",
@@ -27,19 +14,19 @@
         "challenge3e": "",
         "refs3e": "",
         "size2e": "Small",
-        "alignment2e": "[[Neutral]]",
+        "alignment2e": "Neutral",
         "refs2e": "",
         "size1e": "Small",
-        "alignment1e": "[[Neutral]]",
+        "alignment1e": "Neutral",
         "refs1e": "",
         "patron deity": "",
         "movement": "Flying",
-        "vision": "[[Darkvision]]",
+        "vision": "Darkvision",
         "activecycle": "",
         "diet": "Lithovore",
         "lifespan": "",
-        "location": "[[Elemental Plane of Earth]] <br /> [[Quasi-Elemental Plane of Minerals]]",
-        "language": "[[Terran]]",
+        "location": "Elemental Plane of Earth  Quasi-Elemental Plane of Minerals",
+        "language": "Terran",
         "subraces": "",
         "climate": "",
         "terrain": "",
@@ -56,21 +43,9 @@
         "build": "",
         "distinctions": "",
         "appearrefs": "",
-        "first": "[[Fiend Folio 1st edition]]",
+        "first": "Fiend Folio 1st edition",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Khargra''' were creatures native to the [[Elemental Plane of Earth]].",
-        "Description": "Khargra were roughly shaped like cylinders {{SIrange|3|4|ft|long=yes}} in length, tapering somewhat towards the rear, and covered in large metallic scales. The mouth was a foot in diameter, and was lined with sharp metal teeth with a curve, being able to shut like an aperture. Three metal fins, large and flexible, extended equidistantly from one another. Similarly, three conical sheaths containing arms were situated between the fins. Small eyes bulged out from either side of the top fin. The clawed arms, when fully extended, reached out to {{SI|3|ft|long=yes}} from the khargra's body.\n\nThey used their clawed arms to fasten themselves on to metallic objects.",
-        "Behavior": "These creatures typically only attacked others when driven by hunger and safer options were lacking. After securing whatever tasty metal a victim was carrying they would quickly flee.",
-        "Abilities": "The eyes of these creatures were capable of seeing within areas of [[darkvision|total darkness]], as well as through earth and stone. Khargra could also smell ferrous metals from up to {{SI|30|ft|long=yes}} away. In addition, their bodies could fly through nonmagical earth and stone as though it were water. They would leap from it in a similar fashion to [[fish]], flying up to {{SI|10|ft}} into the air. [[Dwarves]] and [[gnomes]], being more sensitive to earthen structure, were more likely to notice that a khargra was about to erupt. \n\nTheir bodies were capable of carrying up to {{SI|100|lbs.|k}} or more of digested material. They were unaffected by intensely cold or hot temperatures.\n\nThe [[spell]]s ''[[stone to flesh]]'', ''[[transmute metal to wood]]'', and ''[[heat metal]]'' were all very deadly to these creatures. Whenever ''[[Move earth]]'' was cast on them, a khargra would become stunned.",
-        "Combat": "Khargra were known to attempt to bite the ends off of metallic weaponry used against them.",
-        "History": "At some point prior to [[1370 DR]], a school of khargra swam through the [[portal|gate]] known as [[Entemoch's Boon]].",
-        "Rumors & Legends": "One very outlandish theory that had little backing claimed that these creatures were a larval form of [[xorn]] and [[xaren]]. Another theory proposed that khargra transformed into the minerals found on the [[Quasi-Elemental Plane of Minerals]], being part of a cosmic cycle that slowly transferred all high-grade ore.",
-        "Ecology": {
-            "Diet": "Khargra were a lithovorous species, capable of digesting most metals. They were content to feast upon simple ores, but considered refined and crafted metals to be very delectable. Such as those that made up [[armor]]s, weaponry, and some treasures. If such metal was reasonably close by, they would forgoe the simple ore they were dining on.\n\nWhenever they found a suitable vein of ore a khargra would settle down to feed. The material they ingested would be ground up in their bodies and, through their strange metabolic and digestive processes, get separated out and refined. Slaggy waste material was excreted, while the metals were slowly assimilated into their bodies.\n\nThe metals most preferred by khargras were [[copper]], [[iron]], and tin. [[Gold]] tasted bland and mushy to them, akin to a flavorless gruel. Organic matter and [[gem]]s tasted disgusting to them and whenever a khargra ate such foods they would remain lodged within their stomachs for a few days, until eventually getting coughed up.",
-            "Habitats": "Khargra were native to the Elemental Plane of Earth, though they occasionally ventured into the [[Prime Material plane]] in search of high-grade ores. though they were a more rare occurrence there compared to the Elemental Plane of Earth. Near the end of their lifespans a khargra always traveled to this plane, regarding it as some sort of final reward.\n\nSome claimed that these creatures could also be found on the [[Para-Elemental Plane of Magma]],",
-            "Languages": "These creatures were capable of speaking the language [[Terran]].",
-            "Relationships": "A number of [[azer]], dwarven, and [[duergar]] clans were known to have trained khargras over the course of years for the purpose for couriering messages, having them learn the direction to underground strongholds and outposts. They accomplished this by sprinkling iron dust upon scrolls or other organic items bearing a message, than sending the khargra to the destination. Once a destination was reached, they would cough up the item-bearing message.\n\n[[Dao]] considered these creatures to be pests due to their penchant for eating precious ores and thus would often try to kill them on sight. On the Elemental Plane of Earth they were known to be hunted by [[chaggrin]], [[pech]], and [[stone giant]]s.\n\nKhargra were a [[favored monster]] of the [[gnome pantheon|gnome deities]] [[Callarduran Smoothhands]], [[Flandal Steelskin]], and [[Urdlen]]. They also were a favored monster of the earth [[deity]] [[Grumbar]]."
-        }
+        "mainbody": "Khargra were creatures native to the Elemental Plane of Earth.\nKhargra were roughly shaped like cylinders  in length, tapering somewhat towards the rear, and covered in large metallic scales. The mouth was a foot in diameter, and was lined with sharp metal teeth with a curve, being able to shut like an aperture. Three metal fins, large and flexible, extended equidistantly from one another. Similarly, three conical sheaths containing arms were situated between the fins. Small eyes bulged out from either side of the top fin. The clawed arms, when fully extended, reached out to  from the khargras body.\nThey used their clawed arms to fasten themselves on to metallic objects.\nThese creatures typically only attacked others when driven by hunger and safer options were lacking. After securing whatever tasty metal a victim was carrying they would quickly flee.\nThe eyes of these creatures were capable of seeing within areas of total darkness, as well as through earth and stone. Khargra could also smell ferrous metals from up to  away. In addition, their bodies could fly through nonmagical earth and stone as though it were water. They would leap from it in a similar fashion to fish, flying up to  into the air. Dwarves and gnomes, being more sensitive to earthen structure, were more likely to notice that a khargra was about to erupt. \nTheir bodies were capable of carrying up to  or more of digested material. They were unaffected by intensely cold or hot temperatures.\nThe spells stone to flesh, transmute metal to wood, and heat metal were all very deadly to these creatures. Whenever Move earth was cast on them, a khargra would become stunned.\nKhargra were known to attempt to bite the ends off of metallic weaponry used against them.\nAt some point prior to 1370 DR, a school of khargra swam through the gate known as Entemochs Boon.\nOne very outlandish theory that had little backing claimed that these creatures were a larval form of xorn and xaren. Another theory proposed that khargra transformed into the minerals found on the Quasi-Elemental Plane of Minerals, being part of a cosmic cycle that slowly transferred all high-grade ore.\nMuch like fish, khargra traveled in small schools, though some individuals occasionally separated from their schools for periods of time. They hatched from eggs that were always laid on the Elemental Plane of Earth. \nKhargra were a lithovorous species, capable of digesting most metals. They were content to feast upon simple ores, but considered refined and crafted metals to be very delectable. Such as those that made up armors, weaponry, and some treasures. If such metal was reasonably close by, they would forgoe the simple ore they were dining on.\nWhenever they found a suitable vein of ore a khargra would settle down to feed. The material they ingested would be ground up in their bodies and, through their strange metabolic and digestive processes, get separated out and refined. Slaggy waste material was excreted, while the metals were slowly assimilated into their bodies.\nThe metals most preferred by khargras were copper, iron, and tin. Gold tasted bland and mushy to them, akin to a flavorless gruel. Organic matter and gems tasted disgusting to them and whenever a khargra ate such foods they would remain lodged within their stomachs for a few days, until eventually getting coughed up.\nKhargra were native to the Elemental Plane of Earth, though they occasionally ventured into the Prime Material plane in search of high-grade ores. though they were a more rare occurrence there compared to the Elemental Plane of Earth. Near the end of their lifespans a khargra always traveled to this plane, regarding it as some sort of final reward.\nSome claimed that these creatures could also be found on the Para-Elemental Plane of Magma,\nThese creatures were capable of speaking the language Terran.\nA number of azer, dwarven, and duergar clans were known to have trained khargras over the course of years for the purpose for couriering messages, having them learn the direction to underground strongholds and outposts. They accomplished this by sprinkling iron dust upon scrolls or other organic items bearing a message, than sending the khargra to the destination. Once a destination was reached, they would cough up the item-bearing message.\nDao considered these creatures to be pests due to their penchant for eating precious ores and thus would often try to kill them on sight. On the Elemental Plane of Earth they were known to be hunted by chaggrin, pech, and stone giants.\nKhargra were a favored monster of the gnome deities Callarduran Smoothhands, Flandal Steelskin, and Urdlen. They also were a favored monster of the earth deity Grumbar."
     }
 }

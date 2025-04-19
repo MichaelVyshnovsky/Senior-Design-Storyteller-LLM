@@ -1,42 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "1|mi|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Undead Familiar",
-        "deity": "",
-        "inventor": "[[Kyristan]]",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Necromancy]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|5}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -44,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Undead familiar''''' was a [[necromancy]] [[spell]] used by evil [[wizard]]s. This spell was found in ''[[Kyristan's Mysteries]]'' and was developed by the [[lich]] [[Kyristan]].",
-        "Effects": "This spell allowed a particularly vile spellcaster to create a [[familiar]] out of any corpse, including those of [[humans]] and [[demihumans]]. The corpse could be in any state of decay. The created [[zombie]] or [[skeleton]] functioned like others of its kind but possessed minimal intelligence, allowing it to better serve the spellcaster. The spellcaster was able to issue mental commands at a distance of up to {{SI|1|mi|long=yes}} thanks to an empathic link with the ''undead familiar''.\n\nIf separated from the spellcaster for any reason the ''undead familiar'' began to slowly deteriorate until it was destroyed. Spellcasters possessed a strong bond with their ''undead familiar'', so if the familiar perished there was a small chance the caster would die as well, or at least suffer a permanent weakening of their vitality.\n\n''Undead familiars'' could be turned normally, but if within sight of the caster they were turned as if they were [[wight]]s. These familiars could not be destroyed by turning.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, this spell required a corpse or skeleton and a [[silver]] ring placed on one of the familiar's fingers to cast."
+        "mainbody": "Undead familiar was a necromancy spell used by evil wizards. This spell was found in Kyristans Mysteries and was developed by the lich Kyristan.\nThis spell allowed a particularly vile spellcaster to create a familiar out of any corpse, including those of humans and demihumans. The corpse could be in any state of decay. The created zombie or skeleton functioned like others of its kind but possessed minimal intelligence, allowing it to better serve the spellcaster. The spellcaster was able to issue mental commands at a distance of up to  thanks to an empathic link with the undead familiar.\nIf separated from the spellcaster for any reason the undead familiar began to slowly deteriorate until it was destroyed. Spellcasters possessed a strong bond with their undead familiar, so if the familiar perished there was a small chance the caster would die as well, or at least suffer a permanent weakening of their vitality.\nUndead familiars could be turned normally, but if within sight of the caster they were turned as if they were wights. These familiars could not be destroyed by turning.\nIn addition to verbal and somatic components, this spell required a corpse or skeleton and a silver ring placed on one of the familiars fingers to cast."
     }
 }

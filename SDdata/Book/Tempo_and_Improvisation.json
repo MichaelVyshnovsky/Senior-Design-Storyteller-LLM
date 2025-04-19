@@ -1,26 +1,6 @@
 {
-    "template_data": {
-        "rca": "right"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Tempo and Improvisation",
-        "othernames": "Dwarven Tempo and Improvisation<br />Elven Tempo and Improvisation<br />Halfling Tempo and Improvisation",
-        "type": "Music<br />Reference book",
-        "author": "",
-        "date": "",
-        "publisher": "",
-        "released": "",
-        "discovered": "",
-        "location": "",
-        "origin": "",
-        "language": "",
-        "volumes": "3",
-        "pages": "",
-        "edition": "",
-        "value": "{{Split table|rca=right|As a set|200 [[gp]]|Individually|50 gp}}",
-        "basicrefs": "{{Cite dungeon/29/Ex Libris|38}}",
+        "basicrefs": "",
         "binding": "",
         "cover": "",
         "material": "",
@@ -54,7 +34,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Tempo and Improvisation''''' was a three volume series of reference [[book]]s that detailed the music of different [[demihuman]] races. The first volume focused on the music of [[Dwarves]], the second on [[Elves]], and the third on [[Halflings]].",
-        "History": "One copy of this tome laid within [[Bard Keep]], a temple of [[Oghma]] that stood within [[the North]] near [[Silverymoon]]."
+        "mainbody": "Tempo and Improvisation was a three volume series of reference books that detailed the music of different demihuman races. The first volume focused on the music of Dwarves, the second on Elves, and the third on Halflings.\nOne copy of this tome laid within Bard Keep, a temple of Oghma that stood within the North near Silverymoon."
     }
 }

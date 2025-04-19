@@ -1,36 +1,6 @@
 {
-    "template_data": {
-        "image": "",
-        "caption": "",
-        "name": "Ushien Stormbanner",
-        "alt_spelling": "",
-        "titles": "Lady",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Summit Hall]], [[Dessarin Valley]]",
-        "formerhomes": "",
-        "race": "[[Human]]",
-        "ethnicity": "[[Tethyrian]]",
-        "occupation": "Knight",
-        "age": "Sixty {{Small"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Ushien Stormbanner",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "Lady",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Summit Hall]], [[Dessarin Valley]]",
-        "formerhomes": "",
-        "sex": "Female",
-        "race": "[[Human]]",
-        "ethnicity": "[[Tethyrian]]",
-        "occupation": "Knight",
-        "age": "Sixty {{Small|(as of [[1491 DR]])}}",
-        "patron deity": "[[Tyr]]",
+        "patron deity": "Tyr",
         "languages": "",
         "reckoning": "",
         "dob": "",
@@ -47,8 +17,8 @@
         "children": "",
         "familyrefs": "",
         "alignment5e": "",
-        "class5e": "[[Knight (NPC)|Knight]]",
+        "class5e": "Knight",
         "refs5e": "",
-        "mainbody": "Lady '''Ushien Stormbanner''' was the knight overseer of [[Knights of Samular]]'s [[Summit Hall]] and an ally of the [[Order of the Gauntlet]] during the [[Elemental Evil]] crisis in [[1491 DR]]."
+        "mainbody": "Lady Ushien Stormbanner was the knight overseer of Knights of Samulars Summit Hall and an ally of the Order of the Gauntlet during the Elemental Evil crisis in 1491 DR."
     }
 }

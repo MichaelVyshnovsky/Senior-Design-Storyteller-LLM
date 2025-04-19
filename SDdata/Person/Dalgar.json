@@ -1,27 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Dalgar",
-        "alt_spelling": "",
-        "titles": "[[Wearer of Purple]]",
-        "aliases": "Blood of [[Iyrauroth]]",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Wyrmsmoke Keep]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "gender": "",
-        "race": "[[Draconic creature (template)|Draconic]] [[orc]]",
-        "ethnicity": "",
-        "occupation": "",
-        "age": "",
-        "patron deity": "",
-        "languages": "",
-        "basicrefs": "{{cite book/Dragons of Faerun|56}}",
         "reckoning": "",
         "dob": "",
         "dobnotes": "",
@@ -49,9 +27,9 @@
         "alignment2e": "",
         "class2e": "",
         "refs2e": "",
-        "alignment3e": "[[Chaotic evil]]",
+        "alignment3e": "Chaotic evil",
         "challenge3e": "",
-        "class3e": "{{Class table|edition=3e|[[Rogue]]|5|[[Assassin]]|2|[[Wearer of Purple]]|2}}",
+        "class3e": "",
         "refs3e": "",
         "alignment35": "",
         "challenge35": "",
@@ -64,6 +42,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Dalgar''', also known as '''Dalgar \"Blood of Iyrauroth\"''', was a leader of a [[Cult of the Dragon]] cell in [[Sembia]] based out of [[Wyrmsmoke Keep]], and a [[Wearer of Purple]] during the late 14{{th}} century [[DR]]."
+        "mainbody": "Dalgar, also known as Dalgar \"Blood of Iyrauroth\", was a leader of a Cult of the Dragon cell in Sembia based out of Wyrmsmoke Keep, and a Wearer of Purple during the late 14 century DR."
     }
 }

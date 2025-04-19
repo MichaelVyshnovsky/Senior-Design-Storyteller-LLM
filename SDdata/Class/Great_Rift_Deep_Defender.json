@@ -1,20 +1,7 @@
 {
-    "template_data": {
-        "image": "Gold dwarf - Ralph Horsley.jpg",
-        "caption": "A [[gold dwarf]] deep defender.",
-        "name": "Great Rift Deep Defender",
-        "region": "[[Great Rift]], [[south Faerûn]]",
-        "alignment": "{{Alignment grid"
-    },
     "document_data": {
-        "image": "Gold dwarf - Ralph Horsley.jpg",
-        "caption": "A [[gold dwarf]] deep defender.",
-        "name": "Great Rift Deep Defender",
-        "region": "[[Great Rift]], [[south Faerûn]]",
-        "alignment": "{{Alignment grid|on|off|off|on|off|off|on|off|off}}",
-        "used-by": "Primarily gold dwarf [[fighter]]s, [[cleric]]s, [[paladin]]s and [[ranger]]s",
+        "used-by": "Primarily gold dwarf fighters, clerics, paladins and rangers",
         "levels": "",
-        "mainbody": "'''Great Rift deep defenders''' were a force of [[gold dwarf|gold dwarves]] who defended the [[Great Rift]] from the enemies of their kin throughout the [[Underdark]]. They were stalwart defenders, and served as the main line of defense along the border of the [[Deep Realm]], the area underneath the Great Rift that connected it to the Underdark.",
-        "Abilities": "These elite dwarven fighters excelled at fighting in the tight, narrow corridors of the Underdark. Once they held ground in a narrow passageway, they were nearly unmovable."
+        "mainbody": "Great Rift deep defenders were a force of gold dwarves who defended the Great Rift from the enemies of their kin throughout the Underdark. They were stalwart defenders, and served as the main line of defense along the border of the Deep Realm, the area underneath the Great Rift that connected it to the Underdark.\nThese elite dwarven fighters excelled at fighting in the tight, narrow corridors of the Underdark. Once they held ground in a narrow passageway, they were nearly unmovable."
     }
 }

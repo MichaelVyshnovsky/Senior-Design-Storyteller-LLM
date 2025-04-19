@@ -1,25 +1,20 @@
 2900
 171058
-
 991444
 991441
-2024-11-08T17:02:05Z
-
+2024-11-08T170205Z
 Artyom.pavlov
 24367202
-
-
-Reverted edits by [[Special:Contributions/AZDE12773L|AZDE12773L]] ([[User talk:AZDE12773L|talk]]) to last revision by [[User:Weisguar|Weisguar]]
+Reverted edits by AZDE12773L (talk) to last revision by Weisguar
 991444
 interactivemap
 text/plain
-{
-    "mapImage": "Cazador's Dungeon (1492).png",
-    "pageCategories": [],
-    "defaultSort": "",
-    "description": "",
-    "coordinateOrder": "xy",
-    "mapBounds": [
+    "mapImage" "Cazadors Dungeon (1492).png",
+    "pageCategories" [],
+    "defaultSort" "",
+    "description" "",
+    "coordinateOrder" "xy",
+    "mapBounds" [
         [
             0,
             0
@@ -29,21 +24,16 @@ text/plain
             921
         ]
     ],
-    "origin": "bottom-left",
-    "useMarkerClustering": true,
-    "categories": [
-        {
-            "id": "1",
-            "listId": 1,
-            "name": "General",
-            "color": "#fa005a",
-            "symbol": "",
-            "symbolColor": ""
-        }
+    "origin" "bottom-left",
+    "useMarkerClustering" true,
+    "categories" [
+            "id" "1",
+            "listId" 1,
+            "name" "General",
+            "color" "#fa005a",
+            "symbol" "",
+            "symbolColor" ""
     ],
-    "markers": [],
-    "markerProgress": false
-}
+    "markers" [],
+    "markerProgress" false
 530etexcm7ktq4d52kvhzdmq1twl51x
-
-

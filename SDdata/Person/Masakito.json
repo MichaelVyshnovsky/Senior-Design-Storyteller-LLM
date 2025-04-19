@@ -1,27 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Night of the Seven Swords artwork.jpg",
-        "caption": "Masakito (left) battles Takako (right).",
-        "name": "Masakito",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Kara-Tur]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "gender": "",
-        "race": "[[Human]]",
-        "ethnicity": "",
-        "occupation": "Adventurer",
-        "age": "",
-        "patron deity": "",
-        "languages": "",
-        "basicrefs": "{{Cite card/AD&D Trading Cards/1991|115|Masakito}}",
         "reckoning": "",
         "dob": "",
         "dobnotes": "",
@@ -46,8 +24,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Lawful good]]",
-        "class2e": "{{class table|edition=2e|[[Fighter]]|11}}",
+        "alignment2e": "Lawful good",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
@@ -64,9 +42,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Masakito''' was a [[human]] [[fighter]] of [[Kara-Tur]] in the mid–14{{th}} century [[DR]].",
-        "Personality": "Having four older brothers, Masakito grew up feeling he had to prove himself and escape from out of their shadows. Thus, to win renown and fortune, he went on many missions and quests, no matter how dangerous or beyond his ability.",
-        "History": "He once fought with the ninja [[Takako (ninja)|Takako]].{{Cite card/AD&D Trading Cards/1991|115|Masakito}}<ref><ref group=\"note\">This is inferred from the art used for both characters' cards being reused from the cover of ''Night of the Seven Swords''.",
-        "Possessions": "Masakito wielded a [[katana]]."
+        "mainbody": "Masakito was a human fighter of Kara-Tur in the mid–14 century DR.\nHaving four older brothers, Masakito grew up feeling he had to prove himself and escape from out of their shadows. Thus, to win renown and fortune, he went on many missions and quests, no matter how dangerous or beyond his ability.\nHe once fought with the ninja Takako.This is inferred from the art used for both characters cards being reused from the cover of Night of the Seven Swords.\nMasakito wielded a katana."
     }
 }

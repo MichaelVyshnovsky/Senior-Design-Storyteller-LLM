@@ -1,20 +1,10 @@
 {
-    "template_data": {
-        "60|mi|k|long": "yes",
-        "60|mi|k|long_1": "yes"
-    },
     "document_data": {
-        "image": "AlimirMtns.JPG",
-        "caption": "A map showing the Dragon Turtle Trail off the southwest shore of the Lake of Steam.",
-        "name": "Dragon Turtle Trail",
-        "type": "Trail",
-        "aliases": "",
-        "length": "{{SI|60|mi|k|long=yes}}",
         "width": "",
         "pavement": "",
-        "location": "The [[Lake of Steam]]",
-        "starts": "[[Tulmon]]",
-        "ends": "[[Suldophor]]",
+        "location": "The Lake of Steam",
+        "starts": "Tulmon",
+        "ends": "Suldophor",
         "built": "",
         "refs": "",
         "daggers": "",
@@ -27,8 +17,6 @@
         "roads": "",
         "bodies of water": "",
         "events": "",
-        "mainbody": "The '''Dragon Turtle Trail''' was a small trail found near the [[Alimir Mountains]] and [[Lake of Steam]].{{Cite interactive atlas}}<ref name=EotSS.M\">",
-        "Geography": "The trail was found between the southeastern slopes of the Alimir Mountains and the southwestern shore of the Lake of Steam. It stretched for roughly {{SI|60|mi|k|long=yes}}, connecting the coastal cities of [[Tulmon]] in the north and [[Suldolphor]] in the south on [[Talagath's Gauntlet]].<ref name=EotSS.M\"/>",
-        "Notable Locations": "In addition to the two settlements, an unnamed trail branched southwest from the Dragon Turtle Trail from Tulmon.<ref name=EotSS.M\"/>"
+        "mainbody": "The Dragon Turtle Trail was a small trail found near the Alimir Mountains and Lake of Steam.\nThe trail was found between the southeastern slopes of the Alimir Mountains and the southwestern shore of the Lake of Steam. It stretched for roughly , connecting the coastal cities of Tulmon in the north and Suldolphor in the south on Talagaths Gauntlet.\nIn addition to the two settlements, an unnamed trail branched southwest from the Dragon Turtle Trail from Tulmon."
     }
 }

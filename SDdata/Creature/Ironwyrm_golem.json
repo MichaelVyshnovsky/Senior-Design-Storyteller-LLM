@@ -1,30 +1,14 @@
 {
-    "template_data": {
-        "7.5|feet|long": "yes",
-        "15|feet|long": "yes",
-        "3000|pounds|k|long": "yes",
-        "5000|pounds|k|long": "yes"
-    },
     "document_data": {
-        "image": "Golems-Draconomicon.jpg",
-        "caption": "Draconic golems. Ironwyrm on the left.",
-        "name": "Ironwyrm golem",
-        "othernames": "",
-        "size3e": "Large",
-        "type3e": "[[Construct]]",
-        "subtype3e": "",
-        "alignment3e": "always [[neutral]]",
-        "challenge3e": "17",
-        "refs3e": "{{cite book/Draconomicon|165-166}}",
         "patron deity": "",
         "movement": "",
-        "vision": "[[Darkvision]]",
-        "intelligence": "{{int|0}}",
+        "vision": "Darkvision",
+        "intelligence": "",
         "genrefs": "",
-        "height": "{{SI|7.5|feet|long=yes}}",
-        "length": "{{SI|15|feet|long=yes}}",
+        "height": "",
+        "length": "",
         "wingspan": "",
-        "weight": "{{SI|3000|pounds|k|long=yes}}",
+        "weight": "",
         "skincolor": "",
         "haircolor": "",
         "hairstyles": "",
@@ -36,11 +20,6 @@
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "An '''ironwyrm golem''' was a [[golem]] built into the shape of a [[dragon]], holding a furnace, with the lifeforce of an actual dragon instead of an [[elemental]].",
-        "Description": "An ironwyrm golem trailed smoke from its nostrils because of the furnace in their bodies.",
-        "Abilities": "Besides being able to attack with every part of its body, the drakestone golem had a [[breath weapon]], the ability to spew flames of incredible power, comparable to that of an ancient [[red dragon]]. It was unaffected by any [[magic]] or magic-based ability other than those of cold and fire: the first slowing it down and the latter broke any ongoing slowdown, while healing it.",
-        "Combat": "As a golem, they followed simple commands in battle. They however possessed enough awareness to know they could use their breath weapon on themselves both for healing and to break the effects of cold.",
-        "Construction": "The ironwyrm golem's body called for at least {{SI|5000|pounds|k|long=yes}} of steel parts, masterful craftsmanship in either weapons or armor, and required the spells ''[[geas/quest]]'', ''[[antimagic field]]'', ''[[animate objects]]'', ''[[incendiary cloud]]'', and ''[[limited wish]]'' in its creation. A mage who could create one would almost certainly be able to use spells of any power, too.",
-        "History": "One of [[Sammaster]]'s guardians at the [[Capstone of the Rage]] was an ironwyrm golem.{{cite book/The Ruin|318-320|13}}\n\nDuring the [[Time of Dragons]], one of the guardians of the [[gold dragon]] [[Orchtrien]]'s laboratories was an ironwyrm dragon.{{cite book/Realms of the Elves/Traitors|40-41}}"
+        "mainbody": "An ironwyrm golem was a golem built into the shape of a dragon, holding a furnace, with the lifeforce of an actual dragon instead of an elemental.\nAn ironwyrm golem trailed smoke from its nostrils because of the furnace in their bodies.\nBesides being able to attack with every part of its body, the drakestone golem had a breath weapon, the ability to spew flames of incredible power, comparable to that of an ancient red dragon. It was unaffected by any magic or magic-based ability other than those of cold and fire the first slowing it down and the latter broke any ongoing slowdown, while healing it.\nAs a golem, they followed simple commands in battle. They however possessed enough awareness to know they could use their breath weapon on themselves both for healing and to break the effects of cold.\nThe ironwyrm golems body called for at least  of steel parts, masterful craftsmanship in either weapons or armor, and required the spells geas/quest, antimagic field, animate objects, incendiary cloud, and limited wish in its creation. A mage who could create one would almost certainly be able to use spells of any power, too.\nOne of Sammasters guardians at the Capstone of the Rage was an ironwyrm golem.\nDuring the Time of Dragons, one of the guardians of the gold dragon Orchtriens laboratories was an ironwyrm dragon."
     }
 }

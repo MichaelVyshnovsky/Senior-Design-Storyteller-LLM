@@ -1,13 +1,5 @@
 {
     "document_data": {
-        "image": "OmanIsle.png",
-        "caption": "A map showing Oman's Isle on the Sea of Moonshae.",
-        "name": "Oman's Isle",
-        "alt spelling": "",
-        "aliases": "",
-        "type": "Island",
-        "region": "[[Oman]], the [[Moonshae Isles]]",
-        "size": "{{SI|7500|sq mi|k}} (approximately)",
         "elevation": "",
         "depth": "",
         "capital": "",
@@ -15,7 +7,7 @@
         "georefs": "",
         "demonym": "",
         "population": "",
-        "races": "[[Human]]s<br/>[[Fomorian]]s<br/>[[Cyclops]]",
+        "races": "HumansFomoriansCyclops",
         "languages": "",
         "religion": "",
         "alignment": "",
@@ -88,9 +80,6 @@
         "events": "yes",
         "food and drink": "",
         "items": "yes",
-        "mainbody": "'''Oman's Isle''' was part of the kingdom of [[Oman]] on the [[Sea of Moonshae]] within the [[Moonshae Isles]].{{Cite interactive atlas}}{{Cite dungeon/196/Backdrop: The Moonshae Isles}}",
-        "Geography": "Oman was a vaguely triangular island, with three major geographical features: the [[Old Stone Wood]] that lay along the east side of the island, the [[Grampalt Highlands]] that made up the southern part, and the [[Iron Bay]] that was located in the north.\n\nOman's Isle was largely bordered by the [[Sea of Moonshae]] to the north and east, while the [[Strait of Oman]] separated it from [[Gwynneth]] and the southern portion of Oman in the south.",
-        "Description": "There were several major settlements on the island, such as the [[Iron Keep]], [[Lillemaren]], [[Skien]], [[Trondhelm]], and [[Ramshorn]]. Other notable locations included the [[Cairn of Thelgaar Ironhand]], the [[Icepeak (Oman's Isle)|Icepeak]], and the [[Oman Moonwell]].",
-        "Inhabitants": "It was an idyllic island, populated by [[firbolg]]s and [[dwarves]]. The giant demigod [[Grond Peaksmasher]] also resided on the island until he was imprisoned in a glacier there."
+        "mainbody": "Omans Isle was part of the kingdom of Oman on the Sea of Moonshae within the Moonshae Isles.\nOman was a vaguely triangular island, with three major geographical features the Old Stone Wood that lay along the east side of the island, the Grampalt Highlands that made up the southern part, and the Iron Bay that was located in the north.\nOmans Isle was largely bordered by the Sea of Moonshae to the north and east, while the Strait of Oman separated it from Gwynneth and the southern portion of Oman in the south.\nThere were several major settlements on the island, such as the Iron Keep, Lillemaren, Skien, Trondhelm, and Ramshorn. Other notable locations included the Cairn of Thelgaar Ironhand, the Icepeak, and the Oman Moonwell.\nIt was an idyllic island, populated by firbolgs and dwarves. The giant demigod Grond Peaksmasher also resided on the island until he was imprisoned in a glacier there."
     }
 }

@@ -1,22 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Frost",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Weapon quality",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "[[Evocation]]",
-        "casterlevel3e": "8{{th}}",
         "itemlevel3e": "",
         "value3e": "+1",
         "weight3e": "",
@@ -35,10 +18,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''''Frost''''' was a [[weapon quality|quality]] that could be added to a magical weapon, making it dangerously cold.",
-        "Powers": "When commanded, a sheath of intense cold enveloped the weapon, causing it to inflict freezing injuries. A ranged weapon with this enhancement would pass it to its ammunition. The icy cold didn't hurt the weapon's wielder, and the effect could be ended with another command.",
-        "Uses": "[[Helmed horror]]s could enhance their blades with several magical qualities, including ''frost''.",
-        "Creation": "The creator must use either ''[[chill metal]]'' or ''[[ice storm]]'' when crafting the weapon to add this property.",
-        "Known ''Frost'' Weapons": "* ''[[Icingdeath]]'', [[Drizzt Do'Urden]]'s right-hand [[scimitar]].\n* ''[[Stealthwhisper]]'' and ''[[Shadowblade]]'', the twin weapons of the thief god [[Mask]].\n* ''[[Drowning Death]]'', the personal weapon of [[Umberlee]], the sea goddess."
+        "mainbody": "Frost was a quality that could be added to a magical weapon, making it dangerously cold.\nWhen commanded, a sheath of intense cold enveloped the weapon, causing it to inflict freezing injuries. A ranged weapon with this enhancement would pass it to its ammunition. The icy cold didnt hurt the weapons wielder, and the effect could be ended with another command.\nHelmed horrors could enhance their blades with several magical qualities, including frost.\nThe creator must use either chill metal or ice storm when crafting the weapon to add this property.\n* Icingdeath, Drizzt DoUrdens right-hand scimitar.\n* Stealthwhisper and Shadowblade, the twin weapons of the thief god Mask.\n* Drowning Death, the personal weapon of Umberlee, the sea goddess."
     }
 }

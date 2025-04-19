@@ -1,42 +1,25 @@
-{{Spell
-| image         = Create Water 5e.png
-| name          = Create or Destroy Water
-| school5e      = [[Transmutation]]
-| level5e       = {{spell table|edition=5e|[[Cleric]]|1|[[Druid]]|1}}
 | type5e        = 
 | refs5e        = 
-| level3e       = {{spell table|edition=3e|[[Adept]]|0|[[Cleric]]|0|[[Druid]]|0|[[Merchant prince]]|1|[[Paladin]]|1}}
-| descriptors3e = {{desc/water}}
-| school3e      = [[Conjuration]] (Creation)
-| refs3e        = <ref group="note" name="NotIn3">The ''destroy water'' version of this spell was apparently removed in 3{{rd}} and v.3.5.
-| school2e      = [[Alteration]]
-| spheres2e     = [[Elemental sphere|Elemental]] [[Elemental water sphere|Water]]
+| level3e       = 
+| descriptors3e = 
+| school3e      = Conjuration (Creation)
+| refs3e        = The destroy water version of this spell was apparently removed in 3 and v.3.5.
+| school2e      = Alteration
+| spheres2e     = Elemental Water
 | reversible2e  = true
-| level2e       = {{spell table|edition=2e|[[Cleric]]|1|[[Druid]]|1|[[Elemental sphere|Elemental]]|1|[[Elemental water sphere|Elemental Water]]|1|[[Wizard]]|2}}
+| level2e       = 
 | type2e        = 
 | refs2e        = 
-| school1e      = [[Alteration]]
+| school1e      = Alteration
 | reversible1e  = true
-| level1e       = {{spell table|edition=1e|[[Alchemist]]|2|[[Cleric]]|1|[[Druid]]|2}}
+| level1e       = 
 | type1e        = 
-| refs1e        = {{Cite dragon/49/Leomund's Tiny Hut: A recipe for the Alchemist|59}}<ref group="note">In 1st edition, druids could cast ''create water'' but not the reverse. This also applies to that edition's [[alchemist]].
-}}
-{{otheruses4|the divine spell|the [[Zakhara|Zakharan]] spell|Create water (Zakharan)}}
-'''''Create or destroy water''''', also known simply as '''''create water''''' or '''''destroy water''''', was a [[transmutation]]/[[alteration]] or [[conjuration]] spell that could create a quantity of drinkable water or remove a like quantity of standing water.
-
-==Effects==
+| refs1e        = In 1st edition, druids could cast create water but not the reverse. This also applies to that editions alchemist.
+Create or destroy water, also known simply as create water or destroy water, was a transmutation/alteration or conjuration spell that could create a quantity of drinkable water or remove a like quantity of standing water.
 This spell had two functions with opposite effects.
-
-''Create water'' conjured into being a quantity of potable water equivalent to rainwater. The earliest versions of this spell created up to 4 gal (15 L) of pure water per level of the caster within a distance of 10 ft (3 m) to 30 ft (9.1 m) and took one minute to cast.The [[Player's Handbook v.3.5]] does not explain how much water a 0th-level caster can create. The rare version used by [[wizard]]s brought forth 1 gal per level only.The [[Player's Handbook v.3.5]] states that water weighs about 8 lb/gal (0.96 kg/L) and that 1 ft<sup>3</sup> (28.3 L) of water weighs about 60 lb (27 kg). In [[Player's Handbook 2nd edition|2nd edition]], the figures given are 8{{frac|1|2}} lb/gal (1.0 kg/L) and 64 lb (29 kg).
-
-All versions of ''create water'' could also be cast into an area as rain. The earliest versions could disperse the water as droplets in a 27 ft<sup>3</sup> (1 yd<sup>3</sup> or 0.76 m<sup>3</sup>) cube and could extinguish normal fires. The next version worked in a volume three times larger than the volume of the water being summoned. After the Second Sundering, the basic version of this spell produced 10 gal (38 L) of water in a 30 ft (9.1 m) cube. The size of the cube could be increased by 5 ft (1.5 m) in each dimension by allotting additional spell levels.
-
-[[File:Destroy Water 5e.png|thumb|''A spell symbol of destroy water.'']]
-''Destroy water'' removed without trace (no fog, mist, steam, or vapor) a similar quantity of water from a nearby pool or receptacle.<ref group="note" name="NotIn3" /> After the Second Sundering, this version of the spell could be used to remove fog in a cube whose size was determined in the same manner as for ''create water''.
-
-==Components==
-All versions of this spell required verbal and somatic components to cast. The material component for ''create water'' was a drop of water, except for the cantrip/orison version with did not require any material component. For ''destroy water'', some versions required a pinch of dust while others used [[sand]].
-
-==History==
-It was recorded in ''[[Yornar's Trail Companion]]'', a holy text of the [[church of Mielikki]].<ref>
-
+Create water conjured into being a quantity of potable water equivalent to rainwater. The earliest versions of this spell created up to 4 gal (15 L) of pure water per level of the caster within a distance of 10 ft (3 m) to 30 ft (9.1 m) and took one minute to cast.The Players Handbook v.3.5 does not explain how much water a 0th-level caster can create. The rare version used by wizards brought forth 1 gal per level only.The Players Handbook v.3.5 states that water weighs about 8 lb/gal (0.96 kg/L) and that 1 ft3 (28.3 L) of water weighs about 60 lb (27 kg). In 2nd edition, the figures given are 8 lb/gal (1.0 kg/L) and 64 lb (29 kg).
+All versions of create water could also be cast into an area as rain. The earliest versions could disperse the water as droplets in a 27 ft3 (1 yd3 or 0.76 m3) cube and could extinguish normal fires. The next version worked in a volume three times larger than the volume of the water being summoned. After the Second Sundering, the basic version of this spell produced 10 gal (38 L) of water in a 30 ft (9.1 m) cube. The size of the cube could be increased by 5 ft (1.5 m) in each dimension by allotting additional spell levels.
+thumb|A spell symbol of destroy water.
+Destroy water removed without trace (no fog, mist, steam, or vapor) a similar quantity of water from a nearby pool or receptacle. After the Second Sundering, this version of the spell could be used to remove fog in a cube whose size was determined in the same manner as for create water.
+All versions of this spell required verbal and somatic components to cast. The material component for create water was a drop of water, except for the cantrip/orison version with did not require any material component. For destroy water, some versions required a pinch of dust while others used sand.
+It was recorded in Yornars Trail Companion, a holy text of the church of Mielikki.

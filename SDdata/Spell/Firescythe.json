@@ -1,14 +1,7 @@
 {
-    "template_data": {
-        "edition": "4e"
-    },
     "document_data": {
-        "name": "Firesythe",
-        "school": "",
-        "descriptors": "{{desc/arcane}}{{desc/fire}}",
-        "level": "{{spell table|edition=4e|[[Wizard]]|4}}{{Speculation}}",
+        "level": "",
         "rules": "4.0",
-        "mainbody": "'''Firescythe''' was a spell invented by [[Myrin Darkdance]] in either [[1479 DR]] or [[1480 DR]]. The spell was similar to a [[fireball]] spell but less powerful and did less damage.{{Cite digital book/Shadowbane|1485}}",
-        "References": "{{refs}}\n[[Category:Wizard spells]]\n0ll6qdvgzby2eqcgm18ea69htts7ffu"
+        "mainbody": "Firescythe was a spell invented by Myrin Darkdance in either 1479 DR or 1480 DR. The spell was similar to a fireball spell but less powerful and did less damage.\nCategoryWizard spells\n0ll6qdvgzby2eqcgm18ea69htts7ffu"
     }
 }

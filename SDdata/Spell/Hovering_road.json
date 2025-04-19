@@ -1,17 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "1|ft|long": "yes"
-    },
     "document_data": {
-        "name": "Hovering Road",
-        "school2e": "[[Conjuration]] (Summoning)",
-        "spheres2e": "[[Travelers sphere|Travelers]]",
-        "level2e": "{{spell table|edition=2e|[[Mystic]]|7|[[Shaman]]|7|[[Travelers sphere|Travelers]]|7}}",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''''Hovering road''''' was a [[conjuration]] spell that temporarily created a smooth stone road that hovered above any terrain.",
-        "Effects": "Similar to ''[[clear path]]'', this spell operated on the {{SI|10|ft}} by {{SI|10|ft}} area directly in front of the caster and extended outward as the caster moved forward. The road had to be anchored to a solid surface, but otherwise hovered above whatever was below. The road created was about {{SI|1|ft|long=yes}} thick and resembled black [[granite]] in appearance and texture, allowing travel at normal movement rates. The caster could direct the road to slope up or down and turn left or right, creating passage over rivers, treetops, chasms, swamps, etc.\n\nWhen the spell ended, the entire road evaporated into a black mist and anything being held up by the road dropped. The ''hovering road'' was fairly tough and could not be damaged by normal weapons, but if enough damage was done to any part of the road by magical weapons or magical force of some sort, the spell was negated. The road normally lasted for tens of minutes even if the caster was knocked unconscious or killed.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required a loop of [[gold]] [[wire]] and a chunk of black [[marble]] to cast."
+        "mainbody": "Hovering road was a conjuration spell that temporarily created a smooth stone road that hovered above any terrain.\nSimilar to clear path, this spell operated on the  by  area directly in front of the caster and extended outward as the caster moved forward. The road had to be anchored to a solid surface, but otherwise hovered above whatever was below. The road created was about  thick and resembled black granite in appearance and texture, allowing travel at normal movement rates. The caster could direct the road to slope up or down and turn left or right, creating passage over rivers, treetops, chasms, swamps, etc.\nWhen the spell ended, the entire road evaporated into a black mist and anything being held up by the road dropped. The hovering road was fairly tough and could not be damaged by normal weapons, but if enough damage was done to any part of the road by magical weapons or magical force of some sort, the spell was negated. The road normally lasted for tens of minutes even if the caster was knocked unconscious or killed.\nIn addition to verbal and somatic components, this spell required a loop of gold wire and a chunk of black marble to cast."
     }
 }

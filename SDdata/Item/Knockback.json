@@ -1,22 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Knockback''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Weapon quality]]",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "casterlevel3e": "11{{th}}",
         "itemlevel3e": "",
         "value3e": "+3",
         "weight3e": "",
@@ -36,7 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Knockback''' was a [[weapon quality|quality]] that could be applied to weapons. It increased the chance to knock back an opponent or stunned when struck with the weapon. A weapon, if having this quality, could completely knock an opponent over, leaving them vulnerable to further attacks.",
-        "Creation": "The spell ''[[repulsion]]'' was used in the creation of ''knockback'' weapons."
+        "mainbody": "Knockback was a quality that could be applied to weapons. It increased the chance to knock back an opponent or stunned when struck with the weapon. A weapon, if having this quality, could completely knock an opponent over, leaving them vulnerable to further attacks.\nThe spell repulsion was used in the creation of knockback weapons."
     }
 }

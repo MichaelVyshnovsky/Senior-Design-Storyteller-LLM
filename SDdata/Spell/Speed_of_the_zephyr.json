@@ -1,17 +1,6 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "variant": "utterance"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Speed of the zephyr",
-        "lexicon3e": "[[Lexicon of the Evolving Mind|Evolving Mind]]",
-        "level3e": "{{Spell table|edition=3e|variant=utterance|[[Truenamer]]|1}}",
-        "refs3e": "{{cite book/Tome of Magic 3.5|243}}",
-        "mainbody": "'''''Speed of the zephyr''''' was an [[utterance]] from the Lexicon of the Evolving Mind that used [[truespeak]] that granted agility and speed without match for a moment, or in its reversed form, reduced speed.",
-        "Usage": "In its straight form, it granted a great boost to speed and the ability to walk on liquids or through even the most obstructed terrain with no challenge, even up walls for the seconds it lasted. In its reversed form, it reduced speed somewhat, making their feet feel as though they stuck to the ground.",
-        "History": "The utterance was known to [[garbler]]s, in its reversed form, and [[loquasphinx]]es.{{cite book/Tome of Magic 3.5|267,269}}"
+        "refs3e": "",
+        "mainbody": "Speed of the zephyr was an utterance from the Lexicon of the Evolving Mind that used truespeak that granted agility and speed without match for a moment, or in its reversed form, reduced speed.\nIn its straight form, it granted a great boost to speed and the ability to walk on liquids or through even the most obstructed terrain with no challenge, even up walls for the seconds it lasted. In its reversed form, it reduced speed somewhat, making their feet feel as though they stuck to the ground.\nThe utterance was known to garblers, in its reversed form, and loquasphinxes."
     }
 }

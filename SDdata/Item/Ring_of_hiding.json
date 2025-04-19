@@ -1,29 +1,5 @@
 {
-    "template_data": {
-        "0.1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Wanderer's ring.png",
-        "caption": "",
-        "name": "''Ring of Hiding''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Enchanted]] [[ring]]",
-        "location": "[[Neverwinter]], [[Sword Coast North]]<br />[[Westgate]], [[Dragon Coast]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|0.1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -40,10 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Rings of hiding''''' were [[enchanted]] [[ring]]s that enhanced the wearer's [[rogue|roguish]] skills.",
-        "Description": "They were [[leather]] bands that were tanned to be of vaguely the same color as the wearer's finger so as to be unnoticed when worn.",
-        "Powers": "The ring's magic allowed the wearer to blend into the background with ease, avoid detection, and hide with increased proficiency.",
-        "History": "By the {{YearlinkName|1372}}, ''rings of hiding'' were a piece of common equipment worn by rogues, [[thief|thieves]], and individuals of similar professions. Their usefulness also made such rings an increasingly popular piece of equipment worn by the infamous [[Night Masks]] of [[Westgate]] if the [[City Watch (Westgate)|City Watch]] there was to be believed.",
-        "Notable Owners": "* [[Dela Nereth]], a member of the [[Bloodsailors]] gang of Neverwinter in 1372 DR."
+        "mainbody": "Rings of hiding were enchanted rings that enhanced the wearers roguish skills.\nThey were leather bands that were tanned to be of vaguely the same color as the wearers finger so as to be unnoticed when worn.\nThe rings magic allowed the wearer to blend into the background with ease, avoid detection, and hide with increased proficiency.\nBy the , rings of hiding were a piece of common equipment worn by rogues, thieves, and individuals of similar professions. Their usefulness also made such rings an increasingly popular piece of equipment worn by the infamous Night Masks of Westgate if the City Watch there was to be believed.\n* Dela Nereth, a member of the Bloodsailors gang of Neverwinter in 1372 DR."
     }
 }

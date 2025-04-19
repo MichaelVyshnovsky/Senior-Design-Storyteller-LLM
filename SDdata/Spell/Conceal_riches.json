@@ -1,42 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "long": "yes",
-        "20|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Conceal Riches",
-        "deity": "[[Abbathor]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Illusion]] ([[:Category:Phantasm spells|Phantasm]])",
-        "spheres2e": "[[Charm sphere|Charm]]",
-        "level2e": "{{Spell table|edition=2e|[[Charm sphere|Charm]]|4|[[Cleric]]|4}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -44,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Conceal riches''''' was a [[divine magic]] spell granted to [[priest]]s of [[Abbathor]] the Avaricious. It made expensive or valuable things appear worthless.",
-        "Effects": "This spell could be cast on a person or on an area of up to {{SI|8000|sq ft|long=yes}} (equivalent to a {{SIAdj|20|ft|long=yes}} cube). All items in the target area or being worn or carried by the person were disguised by a permanent illusion to appear old, dull, worthless, shabby, threadbare, rusty, ''etc.'' Priests of the Trove Lord primarily used this spell to hide their wealth and finery when traveling, or to make their domicile appear poor, to avoid bandits and burglars. They also cast ''conceal riches'' for others for a fee. The illusion was permanent until dismissed by the caster or ''[[dispel magic|dispelled]]''.",
-        "Components": "This spell required only [[Verbal component|verbal]] and [[somatic component]]s to cast."
+        "mainbody": "Conceal riches was a divine magic spell granted to priests of Abbathor the Avaricious. It made expensive or valuable things appear worthless.\nThis spell could be cast on a person or on an area of up to  (equivalent to a  cube). All items in the target area or being worn or carried by the person were disguised by a permanent illusion to appear old, dull, worthless, shabby, threadbare, rusty, etc. Priests of the Trove Lord primarily used this spell to hide their wealth and finery when traveling, or to make their domicile appear poor, to avoid bandits and burglars. They also cast conceal riches for others for a fee. The illusion was permanent until dismissed by the caster or dispelled.\nThis spell required only verbal and somatic components to cast."
     }
 }

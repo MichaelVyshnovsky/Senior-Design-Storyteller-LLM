@@ -1,24 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Spell Diver.png",
-        "caption": "",
-        "name": "''Spell Diver''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Short sword]]",
-        "creator": "",
-        "location": "[[Dragon's Eye]], [[Spine of the World]]<br/>[[Thesk]], [[Northeast Faerûn]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "+2",
-        "value2e": "6,450 [[gp]]",
-        "weight2e": "{{SI|1|lb|k|long=yes}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -41,9 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Spell Diver''''' was a unique [[enchanted]] [[short sword]] especially useful against spellcasters.",
-        "Description": "The sword's ricasso was stamped with the image of a [[kingfisher]].",
-        "Powers": "''Spell Diver'' possessed a ''+2'' enchantment and granted the wielder resistance to magic. Additionally, the sword's targets had a coin-toss of a chance to lose their ability to use magic for 12 seconds.",
-        "History": "Unlike many other magic items, ''Spell Diver'' did not have a long history veiled in mystery and grim happenstances. It belonged to [[Naradon]], a [[mercenary]] from [[Thesk]] who earned his fame for being able to quickly and efficiently dispatch magic-users even when faced with overwhelming odds. Naradon retired due to old age due to excessive use of [[potion of speed|''potions of speed'']], at the age of thirty-two. He died of old age four years later, and his only heir had no use for ''Spell Diver''. The magic sword was sold to an infamous [[cat burglar]]. By the {{YearlinkName|1281}}, ''Spell Diver'' was stored in the snaking chambers of [[marilith]] [[Yxunomei]], inside the [[Dragon's Eye]] caverns on the [[Spine of the World]]."
+        "mainbody": "Spell Diver was a unique enchanted short sword especially useful against spellcasters.\nThe swords ricasso was stamped with the image of a kingfisher.\nSpell Diver possessed a +2 enchantment and granted the wielder resistance to magic. Additionally, the swords targets had a coin-toss of a chance to lose their ability to use magic for 12 seconds.\nUnlike many other magic items, Spell Diver did not have a long history veiled in mystery and grim happenstances. It belonged to Naradon, a mercenary from Thesk who earned his fame for being able to quickly and efficiently dispatch magic-users even when faced with overwhelming odds. Naradon retired due to old age due to excessive use of potions of speed, at the age of thirty-two. He died of old age four years later, and his only heir had no use for Spell Diver. The magic sword was sold to an infamous cat burglar. By the , Spell Diver was stored in the snaking chambers of marilith Yxunomei, inside the Dragons Eye caverns on the Spine of the World."
     }
 }

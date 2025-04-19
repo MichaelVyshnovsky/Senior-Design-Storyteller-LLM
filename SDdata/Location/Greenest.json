@@ -1,20 +1,5 @@
 {
     "document_data": {
-        "image": "Greenest-map-5e.png",
-        "caption": "",
-        "name": "Greenest",
-        "aliases": "",
-        "type": "Settlement",
-        "size": "Hamlet",
-        "capital": "",
-        "area": "[[Greenfields (Western Heartlands)|Greenfields]], [[Western Heartlands]]",
-        "georefs": "",
-        "demonym": "",
-        "languages": "",
-        "races": "[[Dwarf|Dwarves]], [[Halflings]], [[Human]]s",
-        "religion": "[[Chauntea]]",
-        "currency": "",
-        "population1": "150{{Cite web/More of the Western Heartlands}}",
         "popyear1": "1372",
         "population2": "",
         "popyear2": "",
@@ -33,7 +18,7 @@
         "destroyed": "",
         "government": "",
         "rulertype": "Governor",
-        "ruler1": "[[Tarbaw Nighthill]]",
+        "ruler1": "Tarbaw Nighthill",
         "ruleryear1": "",
         "ruler2": "",
         "ruleryear2": "",
@@ -54,9 +39,6 @@
         "events": "yes",
         "food and drink": "yes",
         "items": "yes",
-        "mainbody": "'''Greenest''' was the only sizable town along the [[Uldoon Trail]] in the [[Greenfields (Western Heartlands)|Greenfields]] area of the [[Western Heartlands]].",
-        "History": "The town was founded by the [[halfling]] [[Dharva Scatterheart]], a rogue who saw herself as the queen of the Greenfields. She passed away without achieving such fame, but her town prospered and grew. In the year [[1489 DR]], Greenest was attacked by the blue dragon [[Lennithon]] and the Cult of the Dragon.",
-        "Notable Inhabitants": "* [[Cuth Swift]]\n* [[Eadyan Falconmoon]]\n* [[Escobert]]\n* [[Linan Swift]]\n* [[Markguth]]\n* [[Tarbaw Nighthill]]",
-        "Important Sites": "* Temple of [[Chauntea]]"
+        "mainbody": "Greenest was the only sizable town along the Uldoon Trail in the Greenfields area of the Western Heartlands.\nThe town was founded by the halfling Dharva Scatterheart, a rogue who saw herself as the queen of the Greenfields. She passed away without achieving such fame, but her town prospered and grew. In the year 1489 DR, Greenest was attacked by the blue dragon Lennithon and the Cult of the Dragon.\n* Cuth Swift\n* Eadyan Falconmoon\n* Escobert\n* Linan Swift\n* Markguth\n* Tarbaw Nighthill\n* Temple of Chauntea"
     }
 }

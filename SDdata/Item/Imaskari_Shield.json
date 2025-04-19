@@ -1,24 +1,5 @@
 {
     "document_data": {
-        "image": "[[File:Imaskari-Shield.gif|thumb]]",
-        "caption": "",
-        "name": "Imaskari Shield",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Shield]]",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "5,908 [[gp]]",
-        "weight3e": "{{SI|19.4|lb}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -34,7 +15,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''Imaskari Shields''' were [[tower shield]]s enchanted to grant minor spell resistance. They were not created by the [[Artificer (Imaskari)|Imaskari]]; instead, they were used to fight them.{{cite game/Neverwinter Nights}}",
-        "Powers": "Imaskari shields carried a minor enchantment of resistance against all magic, unlikely to block even half of the feeblest spells."
+        "mainbody": "Imaskari Shields were tower shields enchanted to grant minor spell resistance. They were not created by the Imaskari instead, they were used to fight them.\nImaskari shields carried a minor enchantment of resistance against all magic, unlikely to block even half of the feeblest spells."
     }
 }

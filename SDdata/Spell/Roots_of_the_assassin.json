@@ -1,42 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Roots of the Assassin",
-        "deity": "[[Moander]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Conjuration]]",
-        "spheres2e": "[[Plant sphere|Plant]], [[Summoning sphere|Summoning]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|6}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -44,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Roots of the assassin''''' was a powerful [[Divine magic|divine]] [[conjuration]] [[spell]] used by priests devoted to [[Moander]], enabling them to create dangerous roots.",
-        "Effects": "This spell created hundreds of vile black roots capable of springing from any surface and strangling whoever triggered the spell. The caster determined the specific trigger for the spell during its casting. The spell could not be triggered by [[undead]] or plant-based creatures.",
-        "Components": "In addition to [[verbal component|verbal]] and [[somatic component]]s, this spell required as [[material component]]s the priest's [[holy symbol]] and a rotting leaf or rotting piece of wood to cast."
+        "mainbody": "Roots of the assassin was a powerful divine conjuration spell used by priests devoted to Moander, enabling them to create dangerous roots.\nThis spell created hundreds of vile black roots capable of springing from any surface and strangling whoever triggered the spell. The caster determined the specific trigger for the spell during its casting. The spell could not be triggered by undead or plant-based creatures.\nIn addition to verbal and somatic components, this spell required as material components the priests holy symbol and a rotting leaf or rotting piece of wood to cast."
     }
 }

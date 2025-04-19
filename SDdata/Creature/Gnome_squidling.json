@@ -1,14 +1,5 @@
 {
     "document_data": {
-        "image": "Gnome_squidling-5e.jpg",
-        "caption": "",
-        "name": "Gnome Squidling",
-        "othernames": "",
-        "size5e": "Small",
-        "type5e": "[[Aberration]]",
-        "subtype5e": "",
-        "alignment5e": "[[Unaligned]]",
-        "challenge5e": "{{Frac|1|2}}",
         "refs5e": "",
         "size4e": "",
         "origin4e": "",
@@ -30,12 +21,12 @@
         "refs1e": "",
         "patron deity": "",
         "movement": "",
-        "vision": "[[Darkvision]]",
+        "vision": "Darkvision",
         "activecycle": "",
         "diet": "",
         "lifespan": "",
         "location": "",
-        "language": "Understood [[Deep Speech]] and [[Gnomish]], but couldn't speak; [[telepathy]]",
+        "language": "Understood Deep Speech and Gnomish, but couldnt speak telepathy",
         "subraces": "",
         "climate": "",
         "terrain": "",
@@ -52,14 +43,9 @@
         "build": "",
         "distinctions": "",
         "appearrefs": "",
-        "first": "''[[Icewind Dale: Rime of the Frostmaiden]]''",
+        "first": "Icewind Dale Rime of the Frostmaiden",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Gnome squidlings''' were creatures that resulted from unsuccessful attempts at performing a modified version of [[ceremorphosis]], in which an [[illithid]] tadpole was implanted into a [[gnome]].",
-        "Description": "Squidlings were small, deformed mind flayers with weak, malformed limbs and oversized facial tentacles. They constantly relied on their innate ability to ''[[levitate]]'', while using their tentacles to pull themselves forward in order to move.",
-        "Behavior": "Squidlings were driven by a blind hunger for brains,\n\nThey communicated by emitting muffled whimpers or by [[telepathy|telepathically]] transmitting single words that were accompanied by bursts of emotion. They required the constant attention and care of other creatures.",
-        "Combat": "Despite generally preferring to avoid combat, gnome squidlings were somewhat capable of defending themselves by emitting very weak [[mind blast]]s and by performing weak attacks with their tentacles. They tended to attack unconscious creatures in order to feed on their brains.",
-        "Ecology": "The normal process of ceremorphosis, if conducted on a gnome, invariably resulted in the death of both the host and the tadpole. The reason the process failed was unknown, but it was thought to be related with the different way that gnomish minds worked, or tied to their quasi-magical nature.\n\nHowever, by slightly modifying the ceremorphosis process, it was possible to produce a viable [[gnome ceremorph]] from a gnome host. If the process did not succeed, it resulted in a gnome squidling. Since they were usually killed on sight by mind flayers, squidlings were extremely rare creatures.\n\nLike ordinary mind flayers, gnome squidlings relied on a diet of brains to survive.",
-        "Notable Gnome Squidlings": "* [[Rin]], [[Rix]], and [[Zglarrd]], crew members of the [[nautiloid]] ''[[Id Ascendant]]''."
+        "mainbody": "Gnome squidlings were creatures that resulted from unsuccessful attempts at performing a modified version of ceremorphosis, in which an illithid tadpole was implanted into a gnome.\nSquidlings were small, deformed mind flayers with weak, malformed limbs and oversized facial tentacles. They constantly relied on their innate ability to levitate, while using their tentacles to pull themselves forward in order to move.\nSquidlings were driven by a blind hunger for brains,\nThey communicated by emitting muffled whimpers or by telepathically transmitting single words that were accompanied by bursts of emotion. They required the constant attention and care of other creatures.\nDespite generally preferring to avoid combat, gnome squidlings were somewhat capable of defending themselves by emitting very weak mind blasts and by performing weak attacks with their tentacles. They tended to attack unconscious creatures in order to feed on their brains.\nThe normal process of ceremorphosis, if conducted on a gnome, invariably resulted in the death of both the host and the tadpole. The reason the process failed was unknown, but it was thought to be related with the different way that gnomish minds worked, or tied to their quasi-magical nature.\nHowever, by slightly modifying the ceremorphosis process, it was possible to produce a viable gnome ceremorph from a gnome host. If the process did not succeed, it resulted in a gnome squidling. Since they were usually killed on sight by mind flayers, squidlings were extremely rare creatures.\nLike ordinary mind flayers, gnome squidlings relied on a diet of brains to survive.\n* Rin, Rix, and Zglarrd, crew members of the nautiloid Id Ascendant."
     }
 }

@@ -1,19 +1,11 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "edition_1": "1e"
-    },
     "document_data": {
-        "name": "Invisibility to Animals",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Animal sphere|Animal]]",
-        "level2e": "{{spell table|edition=2e|[[Animal sphere|Animal]]|1|[[Druid]]|1|[[Mystic]]|1|[[Ranger]]|1|[[Shaman]]|1}}",
         "type2e": "",
         "refs2e": "",
-        "school1e": "[[Alteration]]",
-        "level1e": "{{spell table|edition=1e|[[Druid]]|1}}",
+        "school1e": "Alteration",
+        "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''Invisibility to animals''' was an [[alteration]] spell that rendered the recipient completely undetectable by normal, non-magical animals.\n{{stub}}"
+        "mainbody": "Invisibility to animals was an alteration spell that rendered the recipient completely undetectable by normal, non-magical animals."
     }
 }

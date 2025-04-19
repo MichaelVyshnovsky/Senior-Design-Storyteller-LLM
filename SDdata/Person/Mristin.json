@@ -1,27 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Red wyrmlings - DunMag53.png",
-        "caption": "Mristin stands guard over three red dragon hatchlings.",
-        "name": "Mristin",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Moortown]], [[Vaasa]], [[Cold Lands]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "gender": "",
-        "race": "[[Human]]",
-        "ethnicity": "",
-        "occupation": "Guard",
-        "age": "",
-        "patron deity": "",
-        "languages": "",
-        "basicrefs": "{{Cite dungeon/53/Steelheart|63}}",
         "reckoning": "",
         "dob": "",
         "dobnotes": "",
@@ -46,8 +24,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Lawful evil]]",
-        "class2e": "{{Class table|edition=2e|[[Fighter]]|3}}",
+        "alignment2e": "Lawful evil",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
@@ -64,8 +42,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Mristin''' was a member of the [[Cult of the Dragon]] in the mid-to-late 14{{th}} century [[DR]]. He served as a guard at the Cult's [[Moortown]] outpost.",
-        "Possessions": "Mristin wore a [[whistle (item)|whistle]] around his neck that he could use to summon all of the Cult forces stationed in Moortown, including Cultists, [[dragon]]s, and [[trolls]]. He wielded a [[longsword]] and a [[composite shortbow]], and had a [[dagger]] and twenty [[arrows]] on-hand. He kept all of his [[money]] with him in a pouch.",
-        "History": "When two of the Cult's [[red dragon]] allies&mdash;[[Wyndfire]] and [[Snizzler]]&mdash;hatched a clutch of three wyrmlings early in the {{YearlinkName|1369}}, it fell to Mristin to watch over the hatchlings. His duty was to keep them safe by ensuring that they remained in their nursery in the ruined [[Temple of Tempus (Moortown)|temple of Tempus]] and to use his whistle to summon backup if they were ever threatened. The baby dragons were instructed by their parents to obey him, but would wander off if they caught an unusual scent. Even so, Mristin was able to shoo them back into their nursery."
+        "mainbody": "Mristin was a member of the Cult of the Dragon in the mid-to-late 14 century DR. He served as a guard at the Cults Moortown outpost.\nMristin wore a whistle around his neck that he could use to summon all of the Cult forces stationed in Moortown, including Cultists, dragons, and trolls. He wielded a longsword and a composite shortbow, and had a dagger and twenty arrows on-hand. He kept all of his money with him in a pouch.\nWhen two of the Cults red dragon allies&mdashWyndfire and Snizzler&mdashhatched a clutch of three wyrmlings early in the , it fell to Mristin to watch over the hatchlings. His duty was to keep them safe by ensuring that they remained in their nursery in the ruined temple of Tempus and to use his whistle to summon backup if they were ever threatened. The baby dragons were instructed by their parents to obey him, but would wander off if they caught an unusual scent. Even so, Mristin was able to shoo them back into their nursery."
     }
 }

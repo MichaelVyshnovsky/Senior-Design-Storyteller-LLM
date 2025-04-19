@@ -1,28 +1,8 @@
 {
-    "template_data": {
-        "30|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Grave touched mail.png",
-        "caption": "",
-        "name": "''Grave Touched Mail''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Chainmail]]",
-        "location": "[[Elmwood]], [[Moonsea]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "3{{rd}}",
         "itemlevel3e": "+2",
         "value3e": "",
-        "weight3e": "{{SI|30|lb|k|long=yes}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -38,8 +18,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''''Grave touched mail''''' was a set of [[chainmail]] [[armor]] imbued with [[necromantic]] [[enchantment]]s.",
-        "Powers": "This sturdy unpleasant-smelling set of magic armor possessed a ''+2'' enchantment and dramatically improved the wearer's fortitude. Additionally, ''grave touched mail'' allowed the wearer to cast the ''[[ghoul touch]]'' [[spell]] once per day.",
-        "History": "As of the {{YearlinkName|1373}}, a set of ''grave touched mail'' was worn by an unidentified corpse buried in a shallow grave just outside the town of [[Elmwood]] in the [[Moonsea]]. Whoever buried the body did not do a good job, and any observant traveler could notice the makeshift grave. Whether the item's enchantments were a result of the previous owner's grim fate or came from some enchanted who created the chainmail remained a mystery."
+        "mainbody": "Grave touched mail was a set of chainmail armor imbued with necromantic enchantments.\nThis sturdy unpleasant-smelling set of magic armor possessed a +2 enchantment and dramatically improved the wearers fortitude. Additionally, grave touched mail allowed the wearer to cast the ghoul touch spell once per day.\nAs of the , a set of grave touched mail was worn by an unidentified corpse buried in a shallow grave just outside the town of Elmwood in the Moonsea. Whoever buried the body did not do a good job, and any observant traveler could notice the makeshift grave. Whether the items enchantments were a result of the previous owners grim fate or came from some enchanted who created the chainmail remained a mystery."
     }
 }

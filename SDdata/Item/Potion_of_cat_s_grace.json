@@ -1,28 +1,8 @@
 {
-    "template_data": {
-        "0.1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Potionofcatsgrace.gif",
-        "caption": "",
-        "name": "''Potion of Cat's Grace''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Potion]]",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "5{{th}}",
         "itemlevel3e": "",
-        "value3e": "300 [[gp]]",
-        "weight3e": "{{SI|0.1|lb|k|long=yes}}",
+        "value3e": "300 gp",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,9 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Potions of cat's grace''''' were common magical concoctions that increased the imbiber's dexterity.",
-        "Powers": "''Potions of cat's grace'' greatly increased the drinker's dexterity, similarly to the effects of the ''[[cat's grace]]'' spell.",
-        "History": "''Circa'' [[1369 DR]], the ruins of [[Myth Drannor]] still held magical potions left behind by the remnants of the city. ''Potions of cat's grace'' in delicate crystal decanter were among them., and as far as the [[Nelanther Isles]].\n\n''Circa'' [[1373 DR]], ''potions of cat's grace'' were part of a standard equipment for the [[wizard]]s and agents of [[Thay]].",
-        "Notable Owners": "*[[Thraka]], a [[half-orc]] mercenary in [[Sildëyuir]] in 1372 DR.\n*[[Varzek]], a [[drow]] [[cleric]] of [[Vhaeraun]] who operated in [[Cormanthor]] ''circa'' 1373 DR."
+        "mainbody": "Potions of cats grace were common magical concoctions that increased the imbibers dexterity.\nPotions of cats grace greatly increased the drinkers dexterity, similarly to the effects of the cats grace spell.\nCirca 1369 DR, the ruins of Myth Drannor still held magical potions left behind by the remnants of the city. Potions of cats grace in delicate crystal decanter were among them., and as far as the Nelanther Isles.\nCirca 1373 DR, potions of cats grace were part of a standard equipment for the wizards and agents of Thay.\n*Thraka, a half-orc mercenary in Sildëyuir in 1372 DR.\n*Varzek, a drow cleric of Vhaeraun who operated in Cormanthor circa 1373 DR."
     }
 }

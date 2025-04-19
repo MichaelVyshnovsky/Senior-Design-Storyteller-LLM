@@ -1,17 +1,3 @@
-{{Spell
-| image         = Maze W&S.PNG
-| caption       = 
-| name          = Maze
-| deity         = 
-| inventor      = [[Valdick]]
-| type          = 
-| school5e      = [[Conjuration]]
-| domains5e     = 
-| circles5e     = 
-| oaths5e       = 
-| patrons5e     = 
-| traditions5e  = 
-| level5e       = {{Spell table|edition=5e|[[Wizard]]|8}}
 | type5e        = 
 | refs5e        = 
 | feature4e     = 
@@ -21,35 +7,25 @@
 | category4e    = 
 | skill4e       = 
 | refs4e        = 
-| school3e      = [[Conjuration]] (Teleportation)
-| domains3e     = [[Portal domain|Portal]]
-| descriptors3e = {{desc/force}}
-| level3e       = {{spell table|edition=3e|[[Portal domain|Portal]]|8|[[Sorcerer]]|8|[[Wizard]]|8}}
+| school3e      = Conjuration (Teleportation)
+| domains3e     = Portal
+| descriptors3e = 
+| level3e       = 
 | type3e        = 
-| refs3e        = <ref>
+| refs3e        = 
 | reversible2e  = 
-| school2e      = [[Conjuration/Summoning]]<br />[[Dimension]], [[Incantation]] (Disruptive), [[Shadow magic|Shadow]]<br />[[Universal (province)]]<br />[[Inventive]]
+| school2e      = Conjuration/SummoningDimension, Incantation (Disruptive), ShadowUniversal (province)Inventive
 | spheres2e     = 
-| level2e       = {{spell table|edition=2e|[[Arcanist]]|8|[[Wizard]]|8}}
+| level2e       = 
 | type2e        = 
-| refs2e        = <ref><ref>{{Cite dragon/229/The Dimensional Wizard}}<ref><ref><ref>
+| refs2e        = 
 | reversible1e  = 
 | school1e      = 
 | level1e       = 
 | type1e        = 
 | refs1e        = 
-}}
-
-'''''Maze''''', originally '''''Valdick's enigma'''''  was a [[conjuration]] spell that trapped the subject in an extradimensional maze.
-
-==Effects==
-The caster would conjure forth a labyrinth of force planes, and the target of the spell vanished into it. The subject could attempt to escape the trappings of the maze; the difficulty of this effort was inversely proportional to their level of intelligence. If the subject didn't attempt to escape, the maze disappeared after 10 minutes, forcing the subject to leave. On leaving the maze, the subject reappeared in the spot it had been in when the spell was cast. If this spot was filled with a solid object, the subject appeared nearby.
-
-Spells and abilities that moved a creature within a plane, such as ''[[teleport]]'' and ''[[dimension door]]'', did not help a creature escape a ''maze'' spell, although a ''[[plane shift]]'' spell allowed it to exit to whatever [[plane]] was designated in that spell. This spell had no effect on [[minotaur]]s.
-
-==Components==
-The spell required only [[Verbal component|verbal]] and [[Somatic component|somatic]] components.
-
-==History==
-The creation of this spell was attributed to [[Netherese arcanist]] [[Valdick]] in {{Yearlink|-1800}} under a different name.
-
+Maze, originally Valdicks enigma  was a conjuration spell that trapped the subject in an extradimensional maze.
+The caster would conjure forth a labyrinth of force planes, and the target of the spell vanished into it. The subject could attempt to escape the trappings of the maze the difficulty of this effort was inversely proportional to their level of intelligence. If the subject didnt attempt to escape, the maze disappeared after 10 minutes, forcing the subject to leave. On leaving the maze, the subject reappeared in the spot it had been in when the spell was cast. If this spot was filled with a solid object, the subject appeared nearby.
+Spells and abilities that moved a creature within a plane, such as teleport and dimension door, did not help a creature escape a maze spell, although a plane shift spell allowed it to exit to whatever plane was designated in that spell. This spell had no effect on minotaurs.
+The spell required only verbal and somatic components.
+The creation of this spell was attributed to Netherese arcanist Valdick in  under a different name.

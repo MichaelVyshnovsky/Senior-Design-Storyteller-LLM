@@ -1,14 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "edition_1": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Dolor",
-        "deity": "",
-        "inventor": "[[Iggwilv]]{{Cite dragon/336/Spellcraft: The Demonomicon of Iggwilv}}",
         "type": "",
         "domains5e": "",
         "circles5e": "",
@@ -25,19 +16,17 @@
         "category4e": "",
         "skill4e": "",
         "refs4e": "",
-        "school3e": "[[Evocation]]",
+        "school3e": "Evocation",
         "domains3e": "",
-        "descriptors3e": "{{desc/evil}}",
-        "level3e": "{{Spell table|edition=3e|[[Sorcerer]]|5|[[Wizard]]|5}}",
+        "descriptors3e": "",
+        "level3e": "",
         "refs3e": "",
         "reversible2e": "",
-        "school2e": "[[Evocation]]",
+        "school2e": "Evocation",
         "spheres2e": "",
-        "level2e": "{{Spell table|edition=2e|[[Wizard]]|5}}",
+        "level2e": "",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''''Dolor''''' was one of many [[spell]]s within the ''[[Demonomicon of Iggwilv]]'', designed to force obedience upon hostile creatures that originated from [[plane]]s foreign to the spellcaster.",
-        "Effects": "This spell drew on the power of a ''[[planar binding]]'' spell to imbue its caster's words with arcane power, making it easier for them to compel creatures they had trapped within a ''planar binding'' to do some sort of service for them. This made the target more susceptible to spells such as ''[[charm]]'' and ''[[command]]''. If the target's [[true name]] was uttered while speaking the spell's incantation, then any [[magic resistance]] they possessed would become negated for the duration of the spell.\n\n''Dolor'' caused great discomfort in captured creatures. Thus it carried the risk that the targeted creatures might try to corrupt the intent of a given command and eventually seek out revenge upon the caster. And if the targeted creature possessed a greater intellect than the spellcaster, they could potentially mentally assail their mind, ''charming'' or ''dominating''.",
-        "Components": "Casting this spell required both [[verbal]] and [[somatic]] components. Older versions of the spell required a [[material]] component in the form of the spell's incantation being inscribed upon a specially prepared book or [[scroll]]. The verbal component involved uttering as much information about the target as possible, such as their name, history, previous interactions, etc."
+        "mainbody": "Dolor was one of many spells within the Demonomicon of Iggwilv, designed to force obedience upon hostile creatures that originated from planes foreign to the spellcaster.\nThis spell drew on the power of a planar binding spell to imbue its casters words with arcane power, making it easier for them to compel creatures they had trapped within a planar binding to do some sort of service for them. This made the target more susceptible to spells such as charm and command. If the targets true name was uttered while speaking the spells incantation, then any magic resistance they possessed would become negated for the duration of the spell.\nDolor caused great discomfort in captured creatures. Thus it carried the risk that the targeted creatures might try to corrupt the intent of a given command and eventually seek out revenge upon the caster. And if the targeted creature possessed a greater intellect than the spellcaster, they could potentially mentally assail their mind, charming or dominating.\nCasting this spell required both verbal and somatic components. Older versions of the spell required a material component in the form of the spells incantation being inscribed upon a specially prepared book or scroll. The verbal component involved uttering as much information about the target as possible, such as their name, history, previous interactions, etc."
     }
 }

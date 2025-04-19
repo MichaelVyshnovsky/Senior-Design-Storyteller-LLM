@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Stormcloak",
-        "deity": "[[Umberlee]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Abjuration]], [[Evocation]]",
-        "spheres2e": "[[Elemental sphere|Elemental]] [[Elemental water sphere|Water]], [[Protection sphere|Protection]]",
-        "level2e": "{{Spell table|edition=2e|[[Cleric]]|4|[[Druid]]|4|[[Elemental sphere|Elemental]]|4|[[Elemental water sphere|Elemental Water]]|4|[[Mystic]]|4|[[Protection sphere|Protection]]|4|[[Shaman]]|4}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -37,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Stormcloak''''' was a [[divine magic]] spell available to priests of [[Umberlee]], the Sea Queen. It protected an individual from death by storm at sea when activated.",
-        "Effects": "To cast this spell, the priest had to touch the beneficiary. When cast upon a living being, this spell lasted for up to a year or until it was activated by speaking a secret word, whichever came first. To be effective, ''stormcloak'' had to be activated while the recipient was threatened by a storm in a sufficiently large body of water; perhaps about to be dashed upon some rocks, struck by lightning, battered by flying debris, or capsized and drowned. The recipient could be in a vessel, or above or below the water, as long as the secret word could be spoken. Once triggered, ''stormcloak'' guaranteed that the protected person would not die as a result of the storm. Events were ordered by whatever means necessary to ensure the safety of the individual regardless of how improbable and coincidental the sequence of events may have seemed.\n\nPriests of Umberlee were not allowed to cast this spell on themselves or each other.",
-        "Components": "In addition to verbal and somatic components, this spell required the use of the priest's [[holy symbol]].",
-        "Uses": "This spell was very popular among seafaring folk and gave some Umberlant priests a steady source of income."
+        "mainbody": "Stormcloak was a divine magic spell available to priests of Umberlee, the Sea Queen. It protected an individual from death by storm at sea when activated.\nTo cast this spell, the priest had to touch the beneficiary. When cast upon a living being, this spell lasted for up to a year or until it was activated by speaking a secret word, whichever came first. To be effective, stormcloak had to be activated while the recipient was threatened by a storm in a sufficiently large body of water perhaps about to be dashed upon some rocks, struck by lightning, battered by flying debris, or capsized and drowned. The recipient could be in a vessel, or above or below the water, as long as the secret word could be spoken. Once triggered, stormcloak guaranteed that the protected person would not die as a result of the storm. Events were ordered by whatever means necessary to ensure the safety of the individual regardless of how improbable and coincidental the sequence of events may have seemed.\nPriests of Umberlee were not allowed to cast this spell on themselves or each other.\nIn addition to verbal and somatic components, this spell required the use of the priests holy symbol.\nThis spell was very popular among seafaring folk and gave some Umberlant priests a steady source of income."
     }
 }

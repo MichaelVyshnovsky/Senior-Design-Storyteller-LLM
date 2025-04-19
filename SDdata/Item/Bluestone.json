@@ -1,14 +1,11 @@
 {
     "document_data": {
-        "image": "Bluestone-marble.jpg",
-        "caption": "Bluestone marble.",
-        "caption2": "{{SPdisclaimer}}",
         "name": "Bluestone",
         "othernames": "",
         "nicknames": "",
-        "type": "[[Ornamental stones]]{{Cite dragon/72/Gems Galore|15}}",
-        "location": "[[Storm Horns]], [[Thunder Peaks]], [[Galena Mountains]]",
-        "value1e": "10 [[gp]]",
+        "type": "Ornamental stones",
+        "location": "Storm Horns, Thunder Peaks, Galena Mountains",
+        "value1e": "10 gp",
         "weight1e": "",
         "refs1e": "",
         "school2e": "",
@@ -33,8 +30,6 @@
         "value5e": "",
         "weight5e": "",
         "refs5e": "",
-        "mainbody": "'''Bluestone''' was the Realms name for '''[[wikipedia:en:sodalite|sodalite]]''' or '''ditroite''', an [[Ornamental Stones|ornamental stone]] found primarily in geologically older mountain ranges such as the [[Galena Mountains]] near [[Vaasa]], and the [[Storm Horns]] and [[Thunder Peaks]] near [[Cormyr]].",
-        "Description": "As its name suggested, bluestone had a deep blue color but was usually shot through with hues of pink, yellow, cream, or white. This stone was often too soft and brittle to make faceted gems, so it was typically cut [[wikipedia:cabochon|cabochon]] and polished, or tumbled smooth. A typical stone had a base value of 10 gp.",
-        "Powers": "Bluestone powder could be used to make minor ''[[healing potion|healing]]'' or ''[[neutralize poison]]'' potions. Mixed with plain water that was illuminated by any form of magical radiance, the water turned into a potion that would either restore a minor amount of health, or ''neutralize poison''. It conferred both of these benefits if added to any standard magical healing potion."
+        "mainbody": "Bluestone was the Realms name for sodalite or ditroite, an ornamental stone found primarily in geologically older mountain ranges such as the Galena Mountains near Vaasa, and the Storm Horns and Thunder Peaks near Cormyr.\nAs its name suggested, bluestone had a deep blue color but was usually shot through with hues of pink, yellow, cream, or white. This stone was often too soft and brittle to make faceted gems, so it was typically cut cabochon and polished, or tumbled smooth. A typical stone had a base value of 10 gp.\nBluestone powder could be used to make minor healing or neutralize poison potions. Mixed with plain water that was illuminated by any form of magical radiance, the water turned into a potion that would either restore a minor amount of health, or neutralize poison. It conferred both of these benefits if added to any standard magical healing potion."
     }
 }

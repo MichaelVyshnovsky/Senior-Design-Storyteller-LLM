@@ -1,41 +1,17 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "edition_1": "2e",
-        "edition_2": "1e"
-    },
     "document_data": {
-        "image": "Symbol of Hopelessness.jpg",
-        "caption": "The symbol of hopelessness spell.",
-        "name": "Symbol",
-        "deity": "",
-        "inventor": "[[Hersent]]",
-        "type": "",
-        "school5e": "[[Abjuration]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "level5e": "{{spell table|edition=5e|[[Bard]]|7|[[Cleric]]|7|[[Wizard]]|7}}",
         "type5e": "",
         "refs5e": "",
-        "level2e": "{{spell table|edition=2e|[[Arcanist]]|8|[[Cleric]]|7|[[Crusader]]|7|[[Guardian sphere|Guardian]]|7|[[Monk]]|7|[[Wizard]]|8}}",
-        "spheres2e": "[[Guardian sphere|Guardian]]",
-        "school2e": "[[Conjuration]] (Summoning)<br/>[[Universal (province)]]<br/>[[Inventive]]",
+        "level2e": "",
+        "spheres2e": "Guardian",
+        "school2e": "Conjuration (Summoning)Universal (province)Inventive",
         "type2e": "",
-        "refs2e": "<ref><ref>",
+        "refs2e": "",
         "reversible1e": "",
-        "school1e": "[[Conjuration]] (Summoning)",
-        "level1e": "{{spell table|edition=1e|[[Cleric]]|7|[[Magic-user]]|8|[[Wu jen]]|8}}",
+        "school1e": "Conjuration (Summoning)",
+        "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Symbol''''' was a [[conjuration]] spell that was similar to ''[[glyph of warding]]'', creating a rune that had a variety of possible devastating effects when triggered.\n\n{{TOC limit|3}}",
-        "Effects": {
-            "Known Divine Symbols": "The following symbols were typical divine ''symbols'':",
-            "Known Arcane Symbols": "Known arcane ''symbols'' included:"
-        },
-        "Components": "One reason the strength, duration, and variety of effects varied widely between divine and arcane ''symbols'' was the material components used in casting the spell. Divine spellcasters needed bit of [[phosphorous]] and a drop of [[mercury]]. Arcane spellcasters had to have 5,000 gp worth each of powdered [[black opal]] and [[diamond]] dust. Both versions required verbal utterances and somatic gestures including the tracing of the rune or runes themselves.\n\nFor arcane spellcasters, the symbol itself integrated their personal [[signature rune]]s into symbol.",
-        "History": "The spell was attributed to [[Netherese arcanist]] [[Hersent]] in {{Yearlink|-1110}} and was originally called ''Hersent's symbol''."
+        "mainbody": "Symbol was a conjuration spell that was similar to glyph of warding, creating a rune that had a variety of possible devastating effects when triggered.\nThere was both a divine and an arcane version of this spell. Both versions had the caster tracing one or more glowing runes in the air or on any solid surface and choosing the triggered effect. Arcane symbols were triggered by proximity (passing over them, touching them, passing through a portal that had the runes inscribed on it) or by reading them, and were permanent until triggered.\nThe following symbols were typical divine symbols\nCreatures unable to exert enough willpower were forced to retreat or surrender. This effect lasted anywhere from a half hour to three hours.\nUnlucky viewers were racked with excruciating pain that made it difficult to attack or dodge. This effect lasted anywhere from 20 minutes to over three hours.\nPliable creatures were temporarily converted to the same alignment as the priest and regarded the priest as a friend. This effect lasted for 10 minutes to over three hours.\nKnown arcane symbols included\nCreatures who could not resist the spells magic were instantly slain. Physical toughness could also prevent certain death.\nExcitable creatures would immediately turn and argue among themselves. If they were of different alignment, it was an even bet they would come to blows. It was unknown if a solitary creature would stand and argue with itself.\nThose exposed to this symbol usually fled in panic, similar to an enhanced fear spell.\nAs with the divine version, if their will was overwhelmed by this symbol, those affected retreated, submitted, surrendered, or just stood there for a half hour to three hours.\nIf caught with their mental guard down, one or more creatures exposed to this symbol were driven insane, acting like a confusion spell had been cast upon them. The effect lasted until removed with heal, restoration, or a wish.\nSame effect as the divine version.\nAll who could not resist this symbol immediately collapsed into a deep catatonic state that lasted fifty minutes to almost three hours, despite all attempts to awaken them.\nOne or more without sufficient mental discipline were stunned and staggered about, dropping whatever they were holding. This effect lasted only for a few minutes.\nOne reason the strength, duration, and variety of effects varied widely between divine and arcane symbols was the material components used in casting the spell. Divine spellcasters needed bit of phosphorous and a drop of mercury. Arcane spellcasters had to have 5,000 gp worth each of powdered black opal and diamond dust. Both versions required verbal utterances and somatic gestures including the tracing of the rune or runes themselves.\nFor arcane spellcasters, the symbol itself integrated their personal signature runes into symbol.\nThe spell was attributed to Netherese arcanist Hersent in  and was originally called Hersents symbol."
     }
 }

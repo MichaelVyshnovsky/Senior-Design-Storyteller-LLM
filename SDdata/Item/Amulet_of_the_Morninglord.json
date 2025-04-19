@@ -1,29 +1,5 @@
 {
-    "template_data": {
-        "0.5|lb|k|long": "yes",
-        "15'|'\"|long": "yes"
-    },
     "document_data": {
-        "image": "Daggerford's medal of honor.jpg",
-        "caption": "",
-        "name": "''Amulet of the Morninglord''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Amulet]]",
-        "location": "[[Daggerford]], [[Delimbiyr Vale]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|0.5|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -40,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Amulets of the Morninglord''''' were [[enchanted]] [[amulet]]s, often reward as boons to individuals who performed special services for the [[Church of Lathander]].",
-        "Description": "There amulets were made out of pure [[gold]].",
-        "Powers": "''Amulets of the Morninglord'' were imbued with various beneficial magical enchantments. One amulet of note glowed with orange radiance at {{SI|15'|'\"|long=yes}} and allowed the wearer to cast the ''[[aid]]'' and ''[[bless]]'' spells once per day each.",
-        "History": "One such amulet was gifted to the [[Hero of Daggerford]] in [[1372 DR]] by Dawnbringer [[Liam Sunmist]] for stoping a vile [[necromancer]] [[Daxiong]] who raised victims of an epidemic in [[Gillian's Hill]] to perform dark experiments on them."
+        "mainbody": "Amulets of the Morninglord were enchanted amulets, often reward as boons to individuals who performed special services for the Church of Lathander.\nThere amulets were made out of pure gold.\nAmulets of the Morninglord were imbued with various beneficial magical enchantments. One amulet of note glowed with orange radiance at  and allowed the wearer to cast the aid and bless spells once per day each.\nOne such amulet was gifted to the Hero of Daggerford in 1372 DR by Dawnbringer Liam Sunmist for stoping a vile necromancer Daxiong who raised victims of an epidemic in Gillians Hill to perform dark experiments on them."
     }
 }

@@ -1,24 +1,5 @@
 {
-    "template_data": {
-        "2|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Spear white ash.png",
-        "caption": "",
-        "name": "''The Spear of White Ash''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Spear]]",
-        "creator": "",
-        "location": "[[Kuldahar]], [[Icewind Dale]]<br />[[Cloak Wood]], [[Sword Coast]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "+3",
-        "value2e": "",
-        "weight2e": "{{SI|2|lb|k|long=yes}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -41,9 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''The Spear of White Ash''''' was an enchanted [[Malar]]ite [[spear]] used in [[High Hunt]]s.",
-        "Description": "This crude enchanted [[polearm]] was a single piece of [[ash]] wood with a primitive but cruel-looking spearhead.",
-        "Powers": "''The Spear of White Ash'' possessed a ''+3'' enchantment and upon a successful strike it could deal increasingly severe additional damage to the target on each following hit.",
-        "History": "''The Spear of White Ash'' was created several hundreds of years before 1281 DR by devotees of Malar, the Lord of the Hunt, for the use in his holy High Hunts. The last known owner of the spear was Old Hunter [[Wellin]], who was said to have perished hunting [[dryad]]s of [[Cloak Wood]] to the south of [[Baldur's Gate]].\n\nEventually, by [[1281 DR]], the ''Giant Killer'' found its way into the stock of [[Conlan]], the proprietor of [[Kuldahar]]'s blacksmith shop."
+        "mainbody": "The Spear of White Ash was an enchanted Malarite spear used in High Hunts.\nThis crude enchanted polearm was a single piece of ash wood with a primitive but cruel-looking spearhead.\nThe Spear of White Ash possessed a +3 enchantment and upon a successful strike it could deal increasingly severe additional damage to the target on each following hit.\nThe Spear of White Ash was created several hundreds of years before 1281 DR by devotees of Malar, the Lord of the Hunt, for the use in his holy High Hunts. The last known owner of the spear was Old Hunter Wellin, who was said to have perished hunting dryads of Cloak Wood to the south of Baldurs Gate.\nEventually, by 1281 DR, the Giant Killer found its way into the stock of Conlan, the proprietor of Kuldahars blacksmith shop."
     }
 }

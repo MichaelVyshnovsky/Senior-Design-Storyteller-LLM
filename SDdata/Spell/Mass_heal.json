@@ -1,16 +1,9 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "name": "Mass Heal",
-        "level3e": "{{spell table|edition=3e|[[Charity domain|Charity]]|9|[[Cleric]]|9|[[Healing domain|Healing]]|9}}",
-        "domains3e": "[[Charity domain|Charity]], [[Healing domain|Healing]]",
-        "school3e": "[[Conjuration]] (Healing)",
+        "domains3e": "Charity, Healing",
+        "school3e": "Conjuration (Healing)",
         "type3e": "",
         "refs3e": "",
-        "mainbody": "'''''Mass heal''''' was a [[conjuration]] spell that applied an enhanced ''[[heal]]'' spell to a small group of creatures.",
-        "Effect": "This spell works the same as ''[[heal]]'', except it affects all creatures within range of the caster and within 30 ft. of each other.",
-        "References": "{{refs}}\n\n[[Category:Conjuration spells]]\n[[Category:Cleric spells]]\n82qq7e3fujb2dtfrhw5peg40qd4r7rc"
+        "mainbody": "Mass heal was a conjuration spell that applied an enhanced heal spell to a small group of creatures.\nThis spell works the same as heal, except it affects all creatures within range of the caster and within 30 ft. of each other.\nCategoryConjuration spells\nCategoryCleric spells\n82qq7e3fujb2dtfrhw5peg40qd4r7rc"
     }
 }

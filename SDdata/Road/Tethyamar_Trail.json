@@ -1,18 +1,5 @@
 {
     "document_data": {
-        "image": "Daggerdale_1368_DR.gif",
-        "caption": "Daggerdale, with the Tethyamar Trail shown.",
-        "name": "Tethyamar Trail",
-        "type": "",
-        "aliases": "Tethyamar Road",
-        "length": "",
-        "width": "",
-        "pavement": "",
-        "location": "[[Daggerdale]]",
-        "starts": "[[Northride]]",
-        "ends": "[[Dagger Falls]]",
-        "built": "",
-        "refs": "{{Cite dungeon/192/Backdrop: Daggerdale|2}}",
         "daggers": "",
         "usethe": "yes",
         "inhabitants": "",
@@ -20,22 +7,6 @@
         "settlements": "yes",
         "roads": "yes",
         "events": "",
-        "mainbody": "The '''Tethyamar Trail''' was a trade road that ran the length of [[Daggerdale]]. Locally, it was often referred to as '''the Daggerdale road'''.{{Cite dragon/294/Elminster's Guide to the Realms: The Leaning Tree|70}}",
-        "Geography": {
-            "Geographical features": {
-                "Dagger River": "A river that eventually fed into the larger [[River Ashaba]] in [[Shadowdale]].",
-                "Dagger Falls (waterfall)|Dagger Falls": "The waterfall on the [[River Tesh]]."
-            }
-        },
-        "Notable locations": {
-            "Inns and taverns": {
-                "Teshford Arms": "An inn just outside Dagger Falls."
-            },
-            "Settlements": {
-                "Anathar's Dell": "Just southwest of a red-topped crag halfway between the northern tip of the Spiderhaunt Woods and Serpentsbridge.",
-                "Dagger Falls": "Just before the trail crossed the River Tesh."
-            }
-        },
-        "History": "Before [[human]]s settled in Dagger Falls, the [[dwarves]] of [[Tethyamar]] used the Tethyamar Trail to ship metals between their southern and northern holdings.{{Cite dungeon/192/Backdrop: Daggerdale|5}}"
+        "mainbody": "The Tethyamar Trail was a trade road that ran the length of Daggerdale. Locally, it was often referred to as the Daggerdale road.\nThe Tethyamar Trail started a few miles east of the southern point of Spiderhaunt Wood at the North Ride. It traveled north through the rolling hills of Daggerdale all the way to the town of Dagger Falls, where it joined the Tesh Trail.    \nDagger River A river that eventually fed into the larger River Ashaba in Shadowdale.\nDagger Falls The waterfall on the River Tesh.\nTeshford Arms An inn just outside Dagger Falls.\nSerpentsbridge A stone bridge that spanned the Dagger River.\nAnathars Dell Just southwest of a red-topped crag halfway between the northern tip of the Spiderhaunt Woods and Serpentsbridge.    \nDagger Falls Just before the trail crossed the River Tesh.    \nBefore humans settled in Dagger Falls, the dwarves of Tethyamar used the Tethyamar Trail to ship metals between their southern and northern holdings."
     }
 }

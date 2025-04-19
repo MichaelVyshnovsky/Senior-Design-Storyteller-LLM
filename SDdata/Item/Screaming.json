@@ -1,22 +1,5 @@
 {
     "document_data": {
-        "image": "Screaming Bow-Chris Seaman.jpg",
-        "caption": "An [[elf]] fires a screaming [[bow]].",
-        "name": "Screaming",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Weapon quality]]",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "10{{th}}",
         "itemlevel3e": "",
         "value3e": "+1",
         "weight3e": "",
@@ -35,9 +18,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''''Screaming''''' was a [[weapon quality|quality]] that could be applied to magical weapons.",
-        "Description": "When active, the weapon made a low and irritating humming noise. It changed to a painful screaming when it struck a target.",
-        "Powers": "It inflicted [[sonic]] damage, even within the area of a ''[[silence]]'' spell. It had no special effect on creatures with enhanced hearing, but it was especially annoying to them.\n\nIf it was applied to ranged weapons, the effects applied to their ammunition.",
-        "Creation": "It required a ''[[shout]]'' or ''[[sound burst]]'' spell to enchant a ''screaming'' weapon."
+        "mainbody": "Screaming was a quality that could be applied to magical weapons.\nWhen active, the weapon made a low and irritating humming noise. It changed to a painful screaming when it struck a target.\nIt inflicted sonic damage, even within the area of a silence spell. It had no special effect on creatures with enhanced hearing, but it was especially annoying to them.\nIf it was applied to ranged weapons, the effects applied to their ammunition.\nIt required a shout or sound burst spell to enchant a screaming weapon."
     }
 }

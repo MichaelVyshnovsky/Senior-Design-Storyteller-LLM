@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "3|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Wyrm's Maw.png",
-        "caption": "",
-        "name": "''Wyrm's Maw''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Helmet]]",
-        "creator": "",
-        "location": "[[Cold Marshes]], [[Spine of the World]]<br/>[[Bremen]], [[Icewind Dale]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|3|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Wyrm's Maw''''' was a unique [[enchanted]] [[helmet]] crafted out of the remains of the great white wyrm named [[Frostmaw]] some years before the early 14{{th}} century [[DR]].",
-        "Description": "''Wyrm's Maw'' was created using hide, bone, heavy gray-white scales, skull, and jaws of Frostmaw. The helmet completely covered the face of the individual who wore in.",
-        "Powers": "Once per day, the wearer could unleash a deadly roaring blast cold.",
-        "History": "''Wyrm's Maw'' was created after Frostmaw, a great white wyrm, so fierce and huge it could rival a true [[white dragon]], was defeated and slain by the hero [[ranger]] named [[Kellem Longeyes]] of the [[Ten-Towns]]. The helmet was imbued with Frostmaw's deadly frigid breath. Many years after ''Wyrm's Maw's'' creation, Kellem Longeyes embarked on the one last hunt into the spires of the [[Spine of the World]] and never returned.\n\nIn the {{YearlinkName|1312}}, Kellem's helmet was recovered from a nest of two white dragons and their white wyrms in the [[River Caves]] just south of the Spine of the World, from whence the [[Black Raven River]] began its run south across the [[Cold Marshes]]."
+        "mainbody": "Wyrms Maw was a unique enchanted helmet crafted out of the remains of the great white wyrm named Frostmaw some years before the early 14 century DR.\nWyrms Maw was created using hide, bone, heavy gray-white scales, skull, and jaws of Frostmaw. The helmet completely covered the face of the individual who wore in.\nOnce per day, the wearer could unleash a deadly roaring blast cold.\nWyrms Maw was created after Frostmaw, a great white wyrm, so fierce and huge it could rival a true white dragon, was defeated and slain by the hero ranger named Kellem Longeyes of the Ten-Towns. The helmet was imbued with Frostmaws deadly frigid breath. Many years after Wyrms Maws creation, Kellem Longeyes embarked on the one last hunt into the spires of the Spine of the World and never returned.\nIn the , Kellems helmet was recovered from a nest of two white dragons and their white wyrms in the River Caves just south of the Spine of the World, from whence the Black Raven River began its run south across the Cold Marshes."
     }
 }

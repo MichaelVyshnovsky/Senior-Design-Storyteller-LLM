@@ -1,27 +1,23 @@
 2900
 138493
-
 817417
 804175
-2022-09-22T13:35:42Z
-
+2022-09-22T133542Z
 Moviesign
 4079189
-
 Adding categories
 817417
 interactivemap
 text/plain
-{
-    "mapImage": "Archenbridge map.jpg",
-    "pageCategories": [
+    "mapImage" "Archenbridge map.jpg",
+    "pageCategories" [
         "Interactive_maps",
         "Maps_of_Archenbridge",
         "Maps_of_cities"
     ],
-    "defaultSort": "",
-    "coordinateOrder": "xy",
-    "mapBounds": [
+    "defaultSort" "",
+    "coordinateOrder" "xy",
+    "mapBounds" [
         [
             0,
             0
@@ -31,717 +27,624 @@ text/plain
             1408
         ]
     ],
-    "origin": "bottom-left",
-    "useMarkerClustering": false,
-    "categories": [
-        {
-            "id": "1",
-            "listId": 1,
-            "name": "Inns, Festhalls and Taverns",
-            "color": "#FA005A",
-            "symbol": "",
-            "symbolColor": ""
-        },
-        {
-            "id": "2",
-            "listId": 2,
-            "name": "Shops",
-            "color": "#FFC500",
-            "symbol": "",
-            "symbolColor": ""
-        },
-        {
-            "id": "3",
-            "listId": 3,
-            "name": "Landmarks",
-            "color": "#ffffff",
-            "symbol": "",
-            "symbolColor": ""
-        },
-        {
-            "id": "4",
-            "listId": 4,
-            "name": "Private residences",
-            "color": "#66ff00",
-            "symbol": "",
-            "symbolColor": ""
-        },
-        {
-            "id": "5",
-            "listId": 5,
-            "name": "Temples and shrines",
-            "color": "#0089fa",
-            "symbol": "",
-            "symbolColor": ""
-        },
-        {
-            "id": "6",
-            "listId": 6,
-            "name": "Businesses",
-            "color": "#8eBc8e",
-            "symbol": "",
-            "symbolColor": ""
-        },
-        {
-            "id": "7",
-            "listId": 7,
-            "name": "Roads and trails",
-            "color": "#7f0000",
-            "symbol": "",
-            "symbolColor": ""
-        },
-        {
-            "id": "8",
-            "listId": 8,
-            "name": "Public Buildings",
-            "color": "#e0beff",
-            "symbol": "",
-            "symbolColor": ""
-        },
-        {
-            "id": "9",
-            "listId": 9,
-            "name": "Gates, docks and portals",
-            "color": "#cccccc",
-            "symbol": "",
-            "symbolColor": ""
-        },
-        {
-            "id": "10",
-            "listId": 10,
-            "name": "Parks and Gardens",
-            "color": "#007f00",
-            "symbol": "",
-            "symbolColor": ""
-        },
-        {
-            "id": "11",
-            "listId": 11,
-            "name": "Bodies of water",
-            "color": "#00e8ff",
-            "symbol": "",
-            "symbolColor": ""
-        },
-        {
-            "id": "12",
-            "listId": 12,
-            "name": "Events",
-            "color": "#ccff00",
-            "symbol": "",
-            "symbolColor": ""
-        }
+    "origin" "bottom-left",
+    "useMarkerClustering" false,
+    "categories" [
+            "id" "1",
+            "listId" 1,
+            "name" "Inns, Festhalls and Taverns",
+            "color" "#FA005A",
+            "symbol" "",
+            "symbolColor" ""
+        ,
+            "id" "2",
+            "listId" 2,
+            "name" "Shops",
+            "color" "#FFC500",
+            "symbol" "",
+            "symbolColor" ""
+        ,
+            "id" "3",
+            "listId" 3,
+            "name" "Landmarks",
+            "color" "#ffffff",
+            "symbol" "",
+            "symbolColor" ""
+        ,
+            "id" "4",
+            "listId" 4,
+            "name" "Private residences",
+            "color" "#66ff00",
+            "symbol" "",
+            "symbolColor" ""
+        ,
+            "id" "5",
+            "listId" 5,
+            "name" "Temples and shrines",
+            "color" "#0089fa",
+            "symbol" "",
+            "symbolColor" ""
+        ,
+            "id" "6",
+            "listId" 6,
+            "name" "Businesses",
+            "color" "#8eBc8e",
+            "symbol" "",
+            "symbolColor" ""
+        ,
+            "id" "7",
+            "listId" 7,
+            "name" "Roads and trails",
+            "color" "#7f0000",
+            "symbol" "",
+            "symbolColor" ""
+        ,
+            "id" "8",
+            "listId" 8,
+            "name" "Public Buildings",
+            "color" "#e0beff",
+            "symbol" "",
+            "symbolColor" ""
+        ,
+            "id" "9",
+            "listId" 9,
+            "name" "Gates, docks and portals",
+            "color" "#cccccc",
+            "symbol" "",
+            "symbolColor" ""
+        ,
+            "id" "10",
+            "listId" 10,
+            "name" "Parks and Gardens",
+            "color" "#007f00",
+            "symbol" "",
+            "symbolColor" ""
+        ,
+            "id" "11",
+            "listId" 11,
+            "name" "Bodies of water",
+            "color" "#00e8ff",
+            "symbol" "",
+            "symbolColor" ""
+        ,
+            "id" "12",
+            "listId" 12,
+            "name" "Events",
+            "color" "#ccff00",
+            "symbol" "",
+            "symbolColor" ""
     ],
-    "markers": [
-        {
-            "categoryId": "8",
-            "position": [
+    "markers" [
+            "categoryId" "8",
+            "position" [
                 270.11479041326,
                 172.53405460952
             ],
-            "popup": {
-                "title": "Fortress of Swordpoint",
-                "description": "",
-                "link": {
-                    "url": "Swordpoint",
-                    "label": "Swordpoint"
-                }
-            },
-            "id": "1"
-        },
-        {
-            "categoryId": "3",
-            "position": [
+            "popup" 
+                "title" "Fortress of Swordpoint",
+                "description" "",
+                "link" 
+                    "url" "Swordpoint",
+                    "label" "Swordpoint"
+            ,
+            "id" "1"
+        ,
+            "categoryId" "3",
+            "position" [
                 860,
                 908
             ],
-            "popup": {
-                "title": "Glen of Grave Hollow",
-                "description": "Contains a supposedly haunted barrow",
-                "link": {
-                    "url": "Grave Hollow",
-                    "label": "Grave Hollow"
-                }
-            },
-            "id": "2"
-        },
-        {
-            "categoryId": "6",
-            "position": [
+            "popup" 
+                "title" "Glen of Grave Hollow",
+                "description" "Contains a supposedly haunted barrow",
+                "link" 
+                    "url" "Grave Hollow",
+                    "label" "Grave Hollow"
+            ,
+            "id" "2"
+        ,
+            "categoryId" "6",
+            "position" [
                 371,
                 624
             ],
-            "popup": {
-                "title": "Stersen's Paddock",
-                "description": "Trade horses and horse supplies",
-                "link": {
-                    "url": "Stersen's Paddock",
-                    "label": "Stersen's Paddock"
-                }
-            },
-            "id": "3"
-        },
-        {
-            "categoryId": "3",
-            "position": [
+            "popup" 
+                "title" "Stersens Paddock",
+                "description" "Trade horses and horse supplies",
+                "link" 
+                    "url" "Stersens Paddock",
+                    "label" "Stersens Paddock"
+            ,
+            "id" "3"
+        ,
+            "categoryId" "3",
+            "position" [
                 327,
                 795
             ],
-            "popup": {
-                "title": "Market Field",
-                "description": "Hosts the local market during spring, summer and fall.",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "4"
-        },
-        {
-            "categoryId": "6",
-            "position": [
+            "popup" 
+                "title" "Market Field",
+                "description" "Hosts the local market during spring, summer and fall.",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "4"
+        ,
+            "categoryId" "6",
+            "position" [
                 432,
                 452
             ],
-            "popup": {
-                "title": "Sandan's Sawmill",
-                "description": "",
-                "link": {
-                    "url": "Sandan's Sawmill",
-                    "label": "Sandan's Sawmill"
-                }
-            },
-            "id": "5"
-        },
-        {
-            "categoryId": "1",
-            "position": [
+            "popup" 
+                "title" "Sandans Sawmill",
+                "description" "",
+                "link" 
+                    "url" "Sandans Sawmill",
+                    "label" "Sandans Sawmill"
+            ,
+            "id" "5"
+        ,
+            "categoryId" "1",
+            "position" [
                 545,
                 540
             ],
-            "popup": {
-                "title": "Old Stonebows Inn",
-                "description": "",
-                "link": {
-                    "url": "Old Stonebows Inn",
-                    "label": "Old Stonebows Inn"
-                }
-            },
-            "id": "6"
-        },
-        {
-            "categoryId": "1",
-            "position": [
+            "popup" 
+                "title" "Old Stonebows Inn",
+                "description" "",
+                "link" 
+                    "url" "Old Stonebows Inn",
+                    "label" "Old Stonebows Inn"
+            ,
+            "id" "6"
+        ,
+            "categoryId" "1",
+            "position" [
                 721,
                 470
             ],
-            "popup": {
-                "title": "The Black Horse",
-                "description": "",
-                "link": {
-                    "url": "The Black Horse",
-                    "label": "The Black Horse"
-                }
-            },
-            "id": "7"
-        },
-        {
-            "categoryId": "4",
-            "position": [
+            "popup" 
+                "title" "The Black Horse",
+                "description" "",
+                "link" 
+                    "url" "The Black Horse",
+                    "label" "The Black Horse"
+            ,
+            "id" "7"
+        ,
+            "categoryId" "4",
+            "position" [
                 984,
                 529
             ],
-            "popup": {
-                "title": "Orosul's Tower",
-                "description": "",
-                "link": {
-                    "url": "Orosul's Tower",
-                    "label": "Orosul's Tower"
-                }
-            },
-            "id": "8"
-        },
-        {
-            "categoryId": "6",
-            "position": [
+            "popup" 
+                "title" "Orosuls Tower",
+                "description" "",
+                "link" 
+                    "url" "Orosuls Tower",
+                    "label" "Orosuls Tower"
+            ,
+            "id" "8"
+        ,
+            "categoryId" "6",
+            "position" [
                 791,
                 692
             ],
-            "popup": {
-                "title": "Heward's Mill",
-                "description": "",
-                "link": {
-                    "url": "Heward's Mill",
-                    "label": "Heward's Mill"
-                }
-            },
-            "id": "9"
-        },
-        {
-            "categoryId": "2",
-            "position": [
+            "popup" 
+                "title" "Hewards Mill",
+                "description" "",
+                "link" 
+                    "url" "Hewards Mill",
+                    "label" "Hewards Mill"
+            ,
+            "id" "9"
+        ,
+            "categoryId" "2",
+            "position" [
                 624,
                 630
             ],
-            "popup": {
-                "title": "Elgath's Provisions",
-                "description": "",
-                "link": {
-                    "url": "Elgath's Provisions",
-                    "label": "Elgath's Provisions"
-                }
-            },
-            "id": "10"
-        },
-        {
-            "categoryId": "1",
-            "position": [
+            "popup" 
+                "title" "Elgaths Provisions",
+                "description" "",
+                "link" 
+                    "url" "Elgaths Provisions",
+                    "label" "Elgaths Provisions"
+            ,
+            "id" "10"
+        ,
+            "categoryId" "1",
+            "position" [
                 529,
                 650
             ],
-            "popup": {
-                "title": "The Drunken Lion",
-                "description": "",
-                "link": {
-                    "url": "Drunken Lion",
-                    "label": "Drunken Lion"
-                }
-            },
-            "id": "11"
-        },
-        {
-            "categoryId": "2",
-            "position": [
+            "popup" 
+                "title" "The Drunken Lion",
+                "description" "",
+                "link" 
+                    "url" "Drunken Lion",
+                    "label" "Drunken Lion"
+            ,
+            "id" "11"
+        ,
+            "categoryId" "2",
+            "position" [
                 685.89357775095,
                 759.43268299435
             ],
-            "popup": {
-                "title": "Jendalar's Fine Fruits",
-                "description": "",
-                "link": {
-                    "url": "Jendalar's Fine Fruits",
-                    "label": "Jendalar's Fine Fruits"
-                }
-            },
-            "id": "12"
-        },
-        {
-            "categoryId": "5",
-            "position": [
+            "popup" 
+                "title" "Jendalars Fine Fruits",
+                "description" "",
+                "link" 
+                    "url" "Jendalars Fine Fruits",
+                    "label" "Jendalars Fine Fruits"
+            ,
+            "id" "12"
+        ,
+            "categoryId" "5",
+            "position" [
                 504.87424176719,
                 845.69971029911
             ],
-            "popup": {
-                "title": "Glory of the Morning",
-                "description": "Temple of Lathander",
-                "link": {
-                    "url": "Glory of the Morning",
-                    "label": "Glory of the Morning"
-                }
-            },
-            "id": "13"
-        },
-        {
-            "categoryId": "5",
-            "position": [
+            "popup" 
+                "title" "Glory of the Morning",
+                "description" "Temple of Lathander",
+                "link" 
+                    "url" "Glory of the Morning",
+                    "label" "Glory of the Morning"
+            ,
+            "id" "13"
+        ,
+            "categoryId" "5",
+            "position" [
                 714.17784899841,
                 873.98398154657
             ],
-            "popup": {
-                "title": "Bounty of the Goddess",
-                "description": "Temple of Chauntea",
-                "link": {
-                    "url": "Bounty of the Goddess (Archenbridge)",
-                    "label": "Bounty of the Goddess"
-                }
-            },
-            "id": "14"
-        },
-        {
-            "categoryId": "6",
-            "position": [
+            "popup" 
+                "title" "Bounty of the Goddess",
+                "description" "Temple of Chauntea",
+                "link" 
+                    "url" "Bounty of the Goddess (Archenbridge)",
+                    "label" "Bounty of the Goddess"
+            ,
+            "id" "14"
+        ,
+            "categoryId" "6",
+            "position" [
                 626.49660813128,
                 883.88347648318
             ],
-            "popup": {
-                "title": "Mirksha, Mirksha and Mirksha",
-                "description": "",
-                "link": {
-                    "url": "Mirksha, Mirksha and Mirksha",
-                    "label": "Mirksha, Mirksha and Mirksha"
-                }
-            },
-            "id": "15"
-        },
-        {
-            "categoryId": "2",
-            "position": [
+            "popup" 
+                "title" "Mirksha, Mirksha and Mirksha",
+                "description" "",
+                "link" 
+                    "url" "Mirksha, Mirksha and Mirksha",
+                    "label" "Mirksha, Mirksha and Mirksha"
+            ,
+            "id" "15"
+        ,
+            "categoryId" "2",
+            "position" [
                 558.61435713737,
                 1086.1160159025
             ],
-            "popup": {
-                "title": "The Stone Crab Coster",
-                "description": "",
-                "link": {
-                    "url": "Stone Crab Coster",
-                    "label": "Stone Crab Coster"
-                }
-            },
-            "id": "16"
-        },
-        {
-            "categoryId": "2",
-            "position": [
+            "popup" 
+                "title" "The Stone Crab Coster",
+                "description" "",
+                "link" 
+                    "url" "Stone Crab Coster",
+                    "label" "Stone Crab Coster"
+            ,
+            "id" "16"
+        ,
+            "categoryId" "2",
+            "position" [
                 700.03571337468,
                 1118.6429278371
             ],
-            "popup": {
-                "title": " The Darkwater Brand",
-                "description": "",
-                "link": {
-                    "url": "Darkwater Brand (Archenbridge)",
-                    "label": " Darkwater Brand"
-                }
-            },
-            "id": "17"
-        },
-        {
-            "categoryId": "3",
-            "position": [
+            "popup" 
+                "title" " The Darkwater Brand",
+                "description" "",
+                "link" 
+                    "url" "Darkwater Brand (Archenbridge)",
+                    "label" " Darkwater Brand"
+            ,
+            "id" "17"
+        ,
+            "categoryId" "3",
+            "position" [
                 627,
                 512.5
             ],
-            "popup": {
-                "title": "Arkhen Bridge",
-                "description": "",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "18"
-        },
-        {
-            "categoryId": "11",
-            "position": [
+            "popup" 
+                "title" "Arkhen Bridge",
+                "description" "",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "18"
+        ,
+            "categoryId" "11",
+            "position" [
                 690,
                 668
             ],
-            "popup": {
-                "title": "River Arkhen",
-                "description": "",
-                "link": {
-                    "url": "River Arkhen",
-                    "label": "River Arkhen"
-                }
-            },
-            "id": "19"
-        },
-        {
-            "categoryId": "3",
-            "position": [
+            "popup" 
+                "title" "River Arkhen",
+                "description" "",
+                "link" 
+                    "url" "River Arkhen",
+                    "label" "River Arkhen"
+            ,
+            "id" "19"
+        ,
+            "categoryId" "3",
+            "position" [
                 131.5,
                 304
             ],
-            "popup": {
-                "title": "Arkhen Ford",
-                "description": "The only place to cross the river before the bridge was built.",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "20"
-        },
-        {
-            "categoryId": "7",
-            "position": [
+            "popup" 
+                "title" "Arkhen Ford",
+                "description" "The only place to cross the river before the bridge was built.",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "20"
+        ,
+            "categoryId" "7",
+            "position" [
                 850,
                 794.5
             ],
-            "popup": {
-                "title": "The River Way",
-                "description": "Owning a manor on this road was a powerful status symbol.",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "21"
-        },
-        {
-            "categoryId": "5",
-            "position": [
+            "popup" 
+                "title" "The River Way",
+                "description" "Owning a manor on this road was a powerful status symbol.",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "21"
+        ,
+            "categoryId" "5",
+            "position" [
                 281,
                 248
             ],
-            "popup": {
-                "title": "Shrine of Swords",
-                "description": "Shrine of Tempus",
-                "link": {
-                    "url": "Shrine of Swords (Archenbridge)",
-                    "label": "Shrine of Swords"
-                }
-            },
-            "id": "22"
-        },
-        {
-            "categoryId": "4",
-            "position": [
+            "popup" 
+                "title" "Shrine of Swords",
+                "description" "Shrine of Tempus",
+                "link" 
+                    "url" "Shrine of Swords (Archenbridge)",
+                    "label" "Shrine of Swords"
+            ,
+            "id" "22"
+        ,
+            "categoryId" "4",
+            "position" [
                 770.74639149334,
                 844.28549673674
             ],
-            "popup": {
-                "title": "Whiteturrets",
-                "description": "Rentable manor",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "23"
-        },
-        {
-            "categoryId": "2",
-            "position": [
+            "popup" 
+                "title" "Whiteturrets",
+                "description" "Rentable manor",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "23"
+        ,
+            "categoryId" "2",
+            "position" [
                 517.60216382855,
                 587.60573516602
             ],
-            "popup": {
-                "title": "The Old Dragon Down",
-                "description": "",
-                "link": {
-                    "url": "The Old Dragon Down",
-                    "label": "The Old Dragon Down"
-                }
-            },
-            "id": "24"
-        },
-        {
-            "categoryId": "1",
-            "position": [
+            "popup" 
+                "title" "The Old Dragon Down",
+                "description" "",
+                "link" 
+                    "url" "The Old Dragon Down",
+                    "label" "The Old Dragon Down"
+            ,
+            "id" "24"
+        ,
+            "categoryId" "1",
+            "position" [
                 729.73419818452,
                 1224.7089450151
             ],
-            "popup": {
-                "title": "The Bridge and Bow",
-                "description": "",
-                "link": {
-                    "url": "The Bridge and Bow",
-                    "label": "The Bridge and Bow"
-                }
-            },
-            "id": "25"
-        },
-        {
-            "categoryId": "7",
-            "position": [
+            "popup" 
+                "title" "The Bridge and Bow",
+                "description" "",
+                "link" 
+                    "url" "The Bridge and Bow",
+                    "label" "The Bridge and Bow"
+            ,
+            "id" "25"
+        ,
+            "categoryId" "7",
+            "position" [
                 592.55548263433,
                 717.71338290435
             ],
-            "popup": {
-                "title": "Fairwind Street",
-                "description": "",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "26"
-        },
-        {
-            "categoryId": "7",
-            "position": [
+            "popup" 
+                "title" "Fairwind Street",
+                "description" "",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "26"
+        ,
+            "categoryId" "7",
+            "position" [
                 646.2955980045,
                 1236.7297602953
             ],
-            "popup": {
-                "title": "Pelter's Street",
-                "description": "",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "27"
-        },
-        {
-            "categoryId": "7",
-            "position": [
+            "popup" 
+                "title" "Pelters Street",
+                "description" "",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "27"
+        ,
+            "categoryId" "7",
+            "position" [
                 48.083261120685,
                 311.12698372208
             ],
-            "popup": {
-                "title": "West Road",
-                "description": "",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "28"
-        },
-        {
-            "categoryId": "7",
-            "position": [
+            "popup" 
+                "title" "West Road",
+                "description" "",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "28"
+        ,
+            "categoryId" "7",
+            "position" [
                 572.04938597992,
                 358.50313806158
             ],
-            "popup": {
-                "title": "Forge Lane",
-                "description": "",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "29"
-        },
-        {
-            "categoryId": "7",
-            "position": [
+            "popup" 
+                "title" "Forge Lane",
+                "description" "",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "29"
+        ,
+            "categoryId" "7",
+            "position" [
                 777.11035252402,
                 604.5762979145
             ],
-            "popup": {
-                "title": "Watersluice Way",
-                "description": "",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "30"
-        },
-        {
-            "categoryId": "7",
-            "position": [
+            "popup" 
+                "title" "Watersluice Way",
+                "description" "",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "30"
+        ,
+            "categoryId" "7",
+            "position" [
                 608.81893860162,
                 766.50375080622
             ],
-            "popup": {
-                "title": "The Butcherbar",
-                "description": "",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "31"
-        },
-        {
-            "categoryId": "7",
-            "position": [
+            "popup" 
+                "title" "The Butcherbar",
+                "description" "",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "31"
+        ,
+            "categoryId" "7",
+            "position" [
                 862,
                 456
             ],
-            "popup": {
-                "title": "Ummer's Amble",
-                "description": "",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "32"
-        },
-        {
-            "categoryId": "3",
-            "position": [
+            "popup" 
+                "title" "Ummers Amble",
+                "description" "",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "32"
+        ,
+            "categoryId" "3",
+            "position" [
                 639,
                 967
             ],
-            "popup": {
-                "title": "Deepwell Court",
-                "description": "",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "33"
-        },
-        {
-            "categoryId": "6",
-            "position": [
+            "popup" 
+                "title" "Deepwell Court",
+                "description" "",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "33"
+        ,
+            "categoryId" "6",
+            "position" [
                 134,
                 537
             ],
-            "popup": {
-                "title": "Dorn's Rental Paddocks",
-                "description": "",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "34"
-        },
-        {
-            "categoryId": "7",
-            "position": [
+            "popup" 
+                "title" "Dorns Rental Paddocks",
+                "description" "",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "34"
+        ,
+            "categoryId" "7",
+            "position" [
                 586,
                 611
             ],
-            "popup": {
-                "title": "Urserpent Street",
-                "description": "",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "35"
-        },
-        {
-            "categoryId": "7",
-            "position": [
+            "popup" 
+                "title" "Urserpent Street",
+                "description" "",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "35"
+        ,
+            "categoryId" "7",
+            "position" [
                 889.5,
                 607
             ],
-            "popup": {
-                "title": "Drover's Lane",
-                "description": "",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "36"
-        },
-        {
-            "categoryId": "7",
-            "position": [
+            "popup" 
+                "title" "Drovers Lane",
+                "description" "",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "36"
+        ,
+            "categoryId" "7",
+            "position" [
                 953.17994103947,
                 417.90010768125
             ],
-            "popup": {
-                "title": "Spindral Street",
-                "description": "",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "37"
-        },
-        {
-            "categoryId": "3",
-            "position": [
+            "popup" 
+                "title" "Spindral Street",
+                "description" "",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "37"
+        ,
+            "categoryId" "3",
+            "position" [
                 368.40263299819,
                 197.98989873223
             ],
-            "popup": {
-                "title": "The Sword",
-                "description": "Name of the rocky outcropping on which [[Swordpoint]] was built.",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "38"
-        }
+            "popup" 
+                "title" "The Sword",
+                "description" "Name of the rocky outcropping on which Swordpoint was built.",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "38"
     ]
-}
 7vxjht8v4egaqrgdhth78602wnd01el
-
-

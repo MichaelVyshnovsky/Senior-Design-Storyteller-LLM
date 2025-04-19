@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "caption2": "",
-        "name": "Pineapple Tree",
-        "othernames": "Pineapple",
-        "nicknames": "",
-        "type": "Tree, fruit",
-        "location": "",
-        "useon": "",
-        "origin": "",
-        "usage": "",
-        "consumedby": "",
-        "poisonousto": "",
-        "genrefs": "",
-        "lifespan": "",
-        "height": "",
-        "trunkdiameter": "",
-        "leaftype": "",
-        "leafcolor": "",
-        "flowercolor": "",
-        "color": "",
-        "stemcolor": "",
-        "distinctions": "",
-        "first": "",
-        "mainbody": "'''Pineapples''' were a type of fruit, grown from trees of the same name, found in the Realms.",
-        "Availability": "Pineapples were known to grow in various places in the Realms:\n* In [[southeast Faerûn]], pineapples were cultivated in northeastern [[Dambrath]], northern [[Estagund]], the northslope foothills of the [[Toadsquat Mountains]],{{Cite web/theedverse/2021-07-18 - Pineapple Producers in the Realms}} and in [[Luiren]]. In Luiren they were particularly known to grow in the tropical fruit plantations that stood between the cities of [[Beluir]] and [[Chethel]].\n* Southeast Faerûn also sported wild pineapples throughout [[Veldorn]] and in the woodlands northeast of Veldorn.\n* In [[southwest Faerûn]], pineapples were cultivated in parts of the [[Chultan Peninsula]] and in [[Lapaliiya]]. In the Chultan Peninsula, they were particularly found in [[Tashalar]]",
-        "Notable Users of Pineapples": {
-            "Businesses": "* [[Aurora's Whole Realms Catalogue (in-universe)|''Aurora's Whole Realms Catalogue'']] sold dried pineapples in the catalogue's \"Exotic\" food section for 300 [[gold piece]]s per {{SI|1|lb|k|long=yes}}.<ref>",
-            "Regions & Settlements": "* A favorite dish among the people of [[Shou Lung]]'s [[Ch'ing Tung Province]] was hot and spicy stewed [[snake]] served with pineapple.<ref>"
-        }
+        "mainbody": "ineapples were a type of fruit, grown from trees of the same name, found in the Realms.\nPineapples were known to grow in various places in the Realms\n* In southeast Faerûn, pineapples were cultivated in northeastern Dambrath, northern Estagund, the northslope foothills of the Toadsquat Mountains, and in Luiren. In Luiren they were particularly known to grow in the tropical fruit plantations that stood between the cities of Beluir and Chethel.\n* Southeast Faerûn also sported wild pineapples throughout Veldorn and in the woodlands northeast of Veldorn.\n* In southwest Faerûn, pineapples were cultivated in parts of the Chultan Peninsula and in Lapaliiya. In the Chultan Peninsula, they were particularly found in Tashalar\n* Auroras Whole Realms Catalogue sold dried pineapples in the catalogues \"Exotic\" food section for 300 gold pieces per .\n* A favorite dish among the people of Shou Lungs Ching Tung Province was hot and spicy stewed snake served with pineapple."
     }
 }

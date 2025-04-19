@@ -1,29 +1,5 @@
 {
-    "template_data": {
-        "3|in|long": "yes",
-        "1|in|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Keoghtom's Ointment",
-        "othernames": "Restorative Ointment",
-        "nicknames": "",
-        "type": "Ointment, wondrous item",
-        "location": "",
-        "value1e": "10,000 [[gp]]",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "[[Conjuration]]",
-        "casterlevel3e": "5",
-        "itemlevel3e": "",
-        "value3e": "4,000 [[gp]]",
-        "weight3e": "{{Frac|1|2}} lb (230 g)",
         "refs3e": "",
         "level4e": "12",
         "value4e": "13,000 gp",
@@ -34,14 +10,11 @@
         "school5e": "",
         "level5e": "",
         "value5e": "",
-        "weight5e": "{{Frac|1|2}} lb (230 g)",
+        "weight5e": "lb (230 g)",
         "refs5e": "",
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''''Keoghtom's ointment''''' was an unguent used to clear [[poison]]s and disease, and heal wounds.",
-        "Description": "The salve was a magic item that was named after Keoghtom.<ref group=\"note\">Keoghtom is the hero-deity of [[Oerth]] who befriended [[Mordenkainen]] and traveled the [[Astral Sea]]. He mainly appeared in the [[Greyhawk]] campaign setting. The unguent [[jar]] was small, about {{SI|3|in|long=yes}} in diameter and {{SI|1|in|long=yes}} deep. One to three jars were commonly found together. It was a thick mixture that smelt faintly of aloe.",
-        "Powers": "When placed upon a poisoned wound, or swallowed, it detoxified poisons and diseases. If rubbed on the body, it healed moderate wounds.\n\n''Keoghtom's ointment'' could be used alongside [[everwater]] to create a magical solution that allowed for preservation of monster tissues as well as magic that was held inside. Such preserved items included [[beholder]] eyes that, when soaked in this solution, retained their magical gazes for indefinite amount of time.{{Cite dragon/164/Treasures that lead to adventures|81}}",
-        "Notable Owners": "* [[Jezz the Lame]]\n* [[Dragonbait]]{{Cite web enhancement/Saurials: More Lizardkin|4-5}}\n* [[Talantra Bowgentle]]{{Cite dragon/168/Harpers Bold|85}}\n* [[Scalecrusher]]{{Cite adventurers league/Drums in the Marsh|18}}\n* [[Haroistem]]{{Cite card/AD&D Trading Cards/1992|561|Haroistem}}\n* [[Martine]]"
+        "mainbody": "Keoghtoms ointment was an unguent used to clear poisons and disease, and heal wounds.\nThe salve was a magic item that was named after Keoghtom.Keoghtom is the hero-deity of Oerth who befriended Mordenkainen and traveled the Astral Sea. He mainly appeared in the Greyhawk campaign setting. The unguent jar was small, about  in diameter and  deep. One to three jars were commonly found together. It was a thick mixture that smelt faintly of aloe.\nWhen placed upon a poisoned wound, or swallowed, it detoxified poisons and diseases. If rubbed on the body, it healed moderate wounds.\nKeoghtoms ointment could be used alongside everwater to create a magical solution that allowed for preservation of monster tissues as well as magic that was held inside. Such preserved items included beholder eyes that, when soaked in this solution, retained their magical gazes for indefinite amount of time.\n* Jezz the Lame\n* Dragonbait\n* Talantra Bowgentle\n* Scalecrusher\n* Haroistem\n* Martine"
     }
 }

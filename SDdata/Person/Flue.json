@@ -1,24 +1,6 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "name": "Flue",
-        "home": "[[Eileanar]], [[Netheril]]",
-        "formerhomes": "",
-        "sex": "Female",
-        "gender": "",
-        "race": "[[Human]]",
-        "ethnicity": "",
-        "occupation": "Shipwright",
-        "basicrefs": "",
-        "death": "-339",
-        "deathnotes": "during [[Karsus's Folly]]",
-        "daterefs": "",
-        "alignment2e": "[[Neutral good]]",
-        "class2e": "{{class table|edition=2e|[[Fighter]]|15}}",
         "refs2e": "",
-        "mainbody": "alignment3e    =\n| challenge3e    =\n| class3e        =\n| refs3e         =\n| alignment35    =\n| challenge35    =\n| class35        =\n| refs35         =\n| alignment4e    =\n| class4e        =\n| refs4e         =\n| alignment5e    =\n| challenge5e    =\n| class5e        =\n| refs5e         =\n}}\n'''Flue''' was a [[Netherese]] shipwright who helped oversee [[Gallery Steamers]] in [[Eileanar]] until its destruction in {{yearlinkConvert|3520|NY}}.",
-        "Activities": "Flue served [[Stuckley]] as a high-ranking supervisor on the construction of [[flying ship]]s used in [[Netheril]]. She worked alongside [[Rousselet]], and had [[Apulee]], [[Fourcrow]], [[Gau]], and [[Bruck]] directly managing the work crews."
+        "mainbody": "| alignment3e    =\n| challenge3e    =\n| class3e        =\n| refs3e         =\n| alignment35    =\n| challenge35    =\n| class35        =\n| refs35         =\n| alignment4e    =\n| class4e        =\n| refs4e         =\n| alignment5e    =\n| challenge5e    =\n| class5e        =\n| refs5e         =\nFlue was a Netherese shipwright who helped oversee Gallery Steamers in Eileanar until its destruction in .\nFlue served Stuckley as a high-ranking supervisor on the construction of flying ships used in Netheril. She worked alongside Rousselet, and had Apulee, Fourcrow, Gau, and Bruck directly managing the work crews."
     }
 }

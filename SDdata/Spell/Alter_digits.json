@@ -1,23 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Alter Digits",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "reversible2e": "",
-        "school2e": "[[Necromancy]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|1}}",
         "type2e": "",
-        "refs2e": "{{cite book/Secrets of the Magister|101}}",
-        "mainbody": "'''''Alter digits''''' was a spell.",
-        "Effects": "For a minute or more, the caster could alter the target's fingers and toes in size, hue, shape, texture, or any combination thereof. They could also be made to exude sweat that was sticky or slippery. Number of digits would not be changed by this spell.",
-        "Components": "The spell called only for somatic and verbal components.",
-        "History": "[[Azuth]] made this spell available through [[Elminster]] sometime prior to {{yearlink|1370}}{{cite book/Secrets of the Magister|101}}"
+        "refs2e": "",
+        "mainbody": "Alter digits was a spell. \nFor a minute or more, the caster could alter the targets fingers and toes in size, hue, shape, texture, or any combination thereof. They could also be made to exude sweat that was sticky or slippery. Number of digits would not be changed by this spell.\nThe spell called only for somatic and verbal components.\nAzuth made this spell available through Elminster sometime prior to"
     }
 }

@@ -1,35 +1,6 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Puppeteer",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Enchantment]]",
-        "domains3e": "",
-        "descriptors3e": "{{Desc/compulsion}}",
-        "level3e": "{{spell table|edition=3e|[[Bard]]|3}}",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,8 +14,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Puppeteer''''' was an [[enchantment]] [[spell]] used by [[bard]]s.",
-        "Effects": "This spell allowed the caster to force the target to mimic their actions exactly, though the limbs of the target moved with a slight lack of grace. The caster was able to control the target so long as they were able to concentrate on the task. If control was lost it could be regained once the caster was able to focus again.",
-        "Components": "This spell required only [[Verbal component|verbal]] and [[somatic component|somatic]] components to cast."
+        "mainbody": "Puppeteer was an enchantment spell used by bards.\nThis spell allowed the caster to force the target to mimic their actions exactly, though the limbs of the target moved with a slight lack of grace. The caster was able to control the target so long as they were able to concentrate on the task. If control was lost it could be regained once the caster was able to focus again.\nThis spell required only verbal and somatic components to cast."
     }
 }

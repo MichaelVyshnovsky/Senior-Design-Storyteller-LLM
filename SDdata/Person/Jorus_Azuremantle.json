@@ -1,21 +1,6 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "edition_1": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Jorus Azuremantle",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "Lord Warder",
-        "aliases": "",
-        "home": "[[Silverymoon]], [[Luruar]], [[Northwest Faerûn]]",
-        "sex": "Male",
-        "race": "[[Half-elf]]",
-        "class2e": "{{class table|edition=2e|[[Wizard]]|12}}",
-        "class3e": "{{class table|edition=3e|[[Wizard]]|12}}",
+        "class3e": "",
         "refs2e": "",
         "refs3e": "",
         "reckoning": "DR",
@@ -27,12 +12,9 @@
         "destroyednotes": "",
         "age": "",
         "ageyear": "",
-        "alignment": "[[Lawful good]]",
+        "alignment": "Lawful good",
         "patron deity": "",
         "languages": "",
-        "mainbody": "'''Jorus Azuremantle''' was a [[Half-elf|half-elven]] [[wizard]] and the leader of the [[Spellguard]], assuming the title after [[Taern \"Thunderspell\" Hornblade]]. He was also a member of the [[Council of 12 Peers]].",
-        "Personality": "Noted as being both reserved and powerful",
-        "Relationships": "Jorus was [[Taern Hornblade]]'s nephew.",
-        "History": "In [[1369 DR]], when Taern \"Thunderspell\" Hornblade became the High Mage of [[Silverymoon]], Jorus was appointed as the new [[Lord Warder]] and leader of the Spellguard.\n\nBy [[1370 DR]], Jorus sat on the [[Council of 12 Peers]] to help [[Alustriel Silverhand]] form the [[League of the Silver Marches]]."
+        "mainbody": "Jorus Azuremantle was a half-elven wizard and the leader of the Spellguard, assuming the title after Taern \"Thunderspell\" Hornblade. He was also a member of the Council of 12 Peers.\nNoted as being both reserved and powerful\nJorus was Taern Hornblades nephew.\nIn 1369 DR, when Taern \"Thunderspell\" Hornblade became the High Mage of Silverymoon, Jorus was appointed as the new Lord Warder and leader of the Spellguard.\nBy 1370 DR, Jorus sat on the Council of 12 Peers to help Alustriel Silverhand form the League of the Silver Marches."
     }
 }

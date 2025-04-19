@@ -1,29 +1,5 @@
 {
-    "template_data": {
-        "30|ft|long": "yes"
-    },
     "document_data": {
-        "image": "<gallery>",
-        "caption": "",
-        "name": "Arctic Fox",
-        "othernames": "",
-        "size5e": "Tiny",
-        "type5e": "[[Beast]]",
-        "subtype5e": "",
-        "alignment5e": "[[Unaligned]]",
-        "challenge5e": "0",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "Small",
-        "type3e": "Animal",
-        "subtype3e": "",
-        "alignment3e": "Always [[neutral]]",
-        "challenge3e": "{{frac|1|4}}",
         "refs3e": "",
         "size2e": "",
         "alignment2e": "",
@@ -33,7 +9,7 @@
         "refs1e": "",
         "patron deity": "",
         "movement": "",
-        "vision": "[[Low-light vision]]",
+        "vision": "Low-light vision",
         "activecycle": "",
         "diet": "",
         "lifespan": "",
@@ -46,7 +22,7 @@
         "height": "",
         "length": "",
         "wingspan": "",
-        "weight": "{{SIrange|4|15|lb|k}}{{Cite dragon/84/A cast of strange familiars|14}}",
+        "weight": "",
         "skincolor": "",
         "haircolor": "White",
         "hairstyles": "",
@@ -58,11 +34,6 @@
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Arctic foxes''' were a small mammal related to the [[fox]].",
-        "Abilities": "Arctic foxes had a keen sense of smell. They were capable of detecting another creatures scent over a distance of up to {{SI|30|ft|long=yes}}. Its white fur provided blended in with the snow and ice of the tundra.",
-        "Behavior": "Arctic foxes, like their cousins, were cunning creatures.{{Cite dragon/280/A Little More Familiar|61}}",
-        "Combat": "When faced with a larger opponents, arctic foxes fled instead of standing their ground.",
-        "Ecology": "Arctic foxes lived alone or in mating pairs. They were found in cold plains and tundra. and the [[High Ice]].",
-        "Uses": "The pelt of the arctic fox was used as clothing by the [[frost folk]]."
+        "mainbody": "Arctic foxes were a small mammal related to the fox.\nArctic foxes had a keen sense of smell. They were capable of detecting another creatures scent over a distance of up to . Its white fur provided blended in with the snow and ice of the tundra.\nArctic foxes, like their cousins, were cunning creatures.\nWhen faced with a larger opponents, arctic foxes fled instead of standing their ground.\nArctic foxes lived alone or in mating pairs. They were found in cold plains and tundra. and the High Ice.\nThe pelt of the arctic fox was used as clothing by the frost folk."
     }
 }

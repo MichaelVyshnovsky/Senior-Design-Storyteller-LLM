@@ -1,27 +1,22 @@
 2900
 147802
-
 947637
 947636
-2024-06-27T20:00:27Z
-
+2024-06-27T200027Z
 Artyom.pavlov
 24367202
-
-
-Protected "[[Map:Luthcheq]]" ([Edit=Allow only autoconfirmed users] (indefinite) [Move=Allow only autoconfirmed users] (indefinite))
+Protected "MapLuthcheq" ([Edit=Allow only autoconfirmed users] (indefinite) [Move=Allow only autoconfirmed users] (indefinite))
 947636
 interactivemap
 text/plain
-{
-    "mapImage": "Luthcheq map.jpg",
-    "pageCategories": [
+    "mapImage" "Luthcheq map.jpg",
+    "pageCategories" [
         "Maps"
     ],
-    "defaultSort": "",
-    "description": "A 14{{th}} century [[DR]] map of [[Luthcheq]].",
-    "coordinateOrder": "xy",
-    "mapBounds": [
+    "defaultSort" "",
+    "description" "A 14 century DR map of Luthcheq.",
+    "coordinateOrder" "xy",
+    "mapBounds" [
         [
             0,
             0
@@ -31,20 +26,15 @@ text/plain
             1286
         ]
     ],
-    "origin": "bottom-left",
-    "useMarkerClustering": true,
-    "categories": [
-        {
-            "id": "1",
-            "listId": 1,
-            "name": "General",
-            "color": "#fa005a",
-            "symbol": "",
-            "symbolColor": ""
-        }
+    "origin" "bottom-left",
+    "useMarkerClustering" true,
+    "categories" [
+            "id" "1",
+            "listId" 1,
+            "name" "General",
+            "color" "#fa005a",
+            "symbol" "",
+            "symbolColor" ""
     ],
-    "markers": []
-}
+    "markers" []
 0ltr7nliujxvueuhqkc2t65m47bj1sj
-
-

@@ -1,19 +1,5 @@
 {
     "document_data": {
-        "image": "BaldSword.PNG",
-        "caption": "",
-        "name": "Sword of Balduran",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Magic]]al [[longsword]]",
-        "location": "[[Adventurer Mart]], [[Athkatla]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "+2",
-        "value2e": "21,000 [[gp]]",
-        "weight2e": "{{SI|3|lb|k}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -35,8 +21,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "The '''''Sword of Balduran''''' was the [[magic]]al [[longsword]] wielded by the legendary explorer [[Balduran]].",
-        "Powers": "This ''+2 longsword'' bestowed upon its wielder partial protection from magical [[spell]]s and abilities.",
-        "History": "Baldur's sword, along with his [[Shield of Balduran|shield]] and [[Plate of Balduran|armor]], were stolen from a museum in the city of [[Baldur's Gate]]. At some point it came into the inventory of [[Deidre]], a merchant from ''[[Aurora's Magic Emporium]]'', who did business from the [[Adventurer Mart]] located in [[Amn]]ian the city of [[Athkatla]]."
+        "mainbody": "The Sword of Balduran was the magical longsword wielded by the legendary explorer Balduran.\nThis +2 longsword bestowed upon its wielder partial protection from magical spells and abilities.\nBaldurs sword, along with his shield and armor, were stolen from a museum in the city of Baldurs Gate. At some point it came into the inventory of Deidre, a merchant from Auroras Magic Emporium, who did business from the Adventurer Mart located in Amnian the city of Athkatla."
     }
 }

@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "AzuthsAlterationMantle.JPG",
-        "caption": "",
-        "name": "Azuth's Alteration Mantle",
-        "deity": "[[Azuth]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Abjuration]], [[Alteration]]",
-        "spheres2e": "[[Protection sphere|Protection]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|6|[[Protection sphere|Protection]]|6}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Azuth's alteration mantle''''' was a variant of the spell, ''[[greater mantle of Mystra]]''.",
-        "Effects": "When cast, ''Azuth's mantle'' created an aura that protected a single individual from two specific spells or spell-like effects. It absorbed the effects of the spell, or [[magic]]al item discharge, then allowed the recipient of its effects to make a choice. The caster could use the absorbed magical energy to heal the mantle-bearer, or launch a different, specific spell towards another individual.\n\nThe spell from which the recipient was protected, along with the spell that was \"reflected\", were both chosen by caster during the casting of ''Azuth's mantle''. The latter of these spells had to be of equal or lesser power than the former.\n\n''Azuth's alteration mantle'' had to be cast on a willing recipient or individual that was taken by surprise.",
-        "History": "The specifications of this spell were contained within ''[[Vorthyn's Archivir]]''.",
-        "Components": "This spell required [[Verbal component|verbal]] and [[somatic component]]s in order to be cast."
+        "mainbody": "Azuths alteration mantle was a variant of the spell, greater mantle of Mystra.\nWhen cast, Azuths mantle created an aura that protected a single individual from two specific spells or spell-like effects. It absorbed the effects of the spell, or magical item discharge, then allowed the recipient of its effects to make a choice. The caster could use the absorbed magical energy to heal the mantle-bearer, or launch a different, specific spell towards another individual.\nThe spell from which the recipient was protected, along with the spell that was \"reflected\", were both chosen by caster during the casting of Azuths mantle. The latter of these spells had to be of equal or lesser power than the former.\nAzuths alteration mantle had to be cast on a willing recipient or individual that was taken by surprise.\nThe specifications of this spell were contained within Vorthyns Archivir.\nThis spell required verbal and somatic components in order to be cast."
     }
 }

@@ -1,39 +1,5 @@
 {
     "document_data": {
-        "image": "[[File:Halasters_lost_apprentice_cover.jpg|250px]]",
-        "title": "Undermountain: Halaster's Lost Apprentice",
-        "author": "[[Erik Scott de Bie]]",
-        "editor": "[[Chris Tulach]]<br/>[[Kim Mohan]]",
-        "cover_artist": "[[Francis Tsai]]",
-        "inter_artist": "[[Arnie Swekel]], [[Steve Prescott]], [[Jason Engle]], [[Eric L. Williams]], [[Amelia Stoner]], [[Vincent Dutrait]], [[Dave Allsop]], [[Chippy]], [[Michael Komarek]], [[Ron Lemen]], [[Jeremy Jarvis]], [[Gonzalo Flores]], [[Doug Kovacs]], [[Goran Josic]], [[Kieran Yanner]], [[Matt Cavotta]], [[Warren Mahy]], [[Izzy Medrano]]",
-        "publisher": "[[Wizards of the Coast]]",
-        "released": "Spring 2010",
-        "type": "Adventure",
-        "pages": "56",
-        "isbn10": "",
-        "isbn13": "",
-        "mainbody": "'''''Undermountain: Halaster's Lost Apprentice''' was an adventure module for the [[D&D Encounters]] program in Spring 2010, for the 4th edition of ''[[Dungeons & Dragons]]''.\n\n{{Quote|''A lost passageway on the upper level of the most infamous dungeon in [[Faerûn]] has recently been uncovered. When a patron hires a band of adventurers to brave the dangers of [[Undermountain]], a search is on to uncover secrets of an apprentice of the dungeon’s lost creator – [[Halaster]].''\n\n''Undermountain: Halaster’s Lost Apprentice is designed for five characters of 1st level and is the spring 2010 season of the [[D&D Encounters]] official play program.''}}",
-        "Index": {
-            "Characters": ":{{P|[[Durnan the Sixth]]|12}} • {{P|[[Fayne]]|5-7,9-12,14,18,38-40,42,46,48-49}} • {{P|[[Maerlyn|Maerlyn the Lost Apprentice]]|4,6-7,22-23,26,28,30,32-40}} • {{P|[[Xeres]]|5-9,12,38-40,42,44,46,48-50}}\n:;{{Refonly}}\n::{{P|[[Elminster]]|4}} • {{P|[[Halaster Blackcloak]]|4-6,12,22-23,26,30,34,38}} • {{P|[[Lilten Turncloak]]|4-5}} • {{P|[[Sarya Dlardrageth]]|5}}",
-            "Creatures": ":{{P|[[beholder]]|38,42-43}} • {{P|[[blazing skeleton]]|46-47}} • {{P|[[choker]]|40,48,51}} • {{P|[[clay scout]]|30-31}} • {{P|[[deathjump spider]]|48,50}} • {{P|[[dire rat]]|30-31}} • {{P|[[doppelganger]]|16}} • {{P|[[dwarf]]|4,10,14-15,38}} • {{P|[[eladrins]]|4,34-35,40,42}} • {{P|[[fell taint]]|6,27,32-33}} • {{P|[[fey'ri]]|5}} • {{P|[[fire beetle]]|19}} • {{P|[[gas spore]]|44-45}} • {{P|[[ghost]]|6,26,30,31,34,37}} • {{P|[[giant rat]]|26,30-31}} • {{P|[[goblin]]|19}} • {{P|[[green slime]]|44-45}} • {{P|[[guard drake]]|19,38,42-43}} • {{P|[[half-elf]]|10-11}} • {{P|[[halfling]]|11,14-15}} • {{P|[[human]]|4,14-16,26,35}} ({{P|[[Chondathan]]|12}}) • {{P|[[imp]]|22-24,26}} • {{P|[[iron defender]]|22-24}} • {{P|[[myconid]]|7,44-45}} • {{P|[[plaguechanged]]|34-35}} • {{P|[[rat]]|30-31}} • {{P|[[silverfin]]|16}} • {{P|[[skeleton]]|19,39,46-47}} • {{P|[[specter]]|6,26,28,32,36-38}} • {{P|[[stirge]]|19}} • {{P|[[stonefist defender]]|22-23,25}} • {{P|[[stormclaw scorpion]]|16-17}} • {{P|[[tiefling]]|10-11,14-15}} • {{P|[[tomb mote]]|46-47}} • {{P|[[witherling]]|46-47}} • {{P|[[wraith]]|28,36-37}} • {{P|[[zombie]]|28,36-37}}\n:;{{Refonly}}\n::{{P|[[helmed horror]]|18}} • {{P|[[otyugh]]|18}} • {{P|[[vampire]]|26}}",
-            "Locations": ":{{P|[[Downshadow]]|4-6,11,16,18-19}} • {{P|[[Faerûn]]|4-5,28,38}} • {{P|[[Undermountain]]|4-8,10-12,16,18-19,23-24,38,40,49}} • {{P|[[Waterdeep]]|4-5,11-12,30}} • {{P|[[Yawning Portal]]|6,10-12,14,16}}\n:;{{Refonly}}\n::{{P|[[Siluvanede]]|5}}",
-            "Magic": {
-                "Items": "{{P|''[[crown of the apprentice]]''|3,9,46,49}} • {{P|''[[mantle of the apprentice]]''|3,9,26,37}} • {{P|''[[staff of the apprentice]]''|3,9,32}}",
-                "Potions": "{{P|''[[potion of healing]]''|3,19,32,24,44}}",
-                "Rituals & Spells": "{{P|''[[dispel magic]]''|48}} • {{P|''[[magic mouth]]''|30}} • {{P|''[[purify water]]''|30}} • {{P|''[[wall of force]]''|27}}"
-            },
-            "Organizations": ":;{{Refonly}}\n::{{P|[[Chosen of Mystra]]|5}} • {{P|[[Clan Melairkyn]]|4,38}} • {{P|[[House Dlardrageth]]|5}} • {{P|[[Lords of Waterdeep]]|4}}",
-            "Religions": ":{{P|[[Mystra]]|35}}\n:;{{Refonly}}\n::{{P|[[Beshaba]]|5}} • {{P|[[Cyric]]|5}} • {{P|[[Erevan Ilesere]]|5}} • {{P|[[Helm]]|20}}",
-            "Miscellaneous": {
-                "Armor & Clothing": "{{P|[[chain mail]]|16,44}} • {{P|[[leather armor]]|15}} • {{P|[[plate armor]]|15}}",
-                "Classes": "{{P|[[hedge wizard]]|14-15}} • {{P|[[swordmage]]|5}} • {{P|[[warlock]]|5}}",
-                "Gems": "{{P|[[moonstone]]|32}}",
-                "Items": "{{P|[[beaker]]|39}} • {{P|[[candle]]|26,32,37,39}} • {{P|[[iron maiden]]|32}} • {{P|[[key]]|27,30}} • {{P|[[pulley]]|16}} • {{P|[[scroll]]|26,30,39}} • {{P|[[vial]]|39,44}}",
-                "Languages": "{{P|[[Elven language]]|11-12,35}} • {{P|[[Supernal]]|24}}",
-                "Plants": "{{P|[[fungus]]|39}} • {{P|[[moss]]|39}}",
-                "Professions": "{{P|[[bandit]]|14-15}}",
-                "Weapons": "{{P|[[broadsword]]|49}} • {{P|[[bullet]]|15}} • {{P|[[club]]|16}} • {{P|[[crossbow]]|16}} • {{P|[[dagger]]|11,15}} • {{P|[[halberd]]|16}} • {{P|[[longsword]]|43}} • {{P|[[mace]]|15}} • {{P|[[short sword]]|16,44}} • {{P|[[sling]]|15}} • {{P|[[warhammer]]|15}}\n:;{{Refonly}}\n::{{P|[[egg]]|34}} • {{P|[[ink]]|27}} • {{P|[[lanceboard]]|19}} • {{P|[[lock (item)|lock]]|26}} • {{P|[[scythe]]|18}} • {{P|[[soul]]|4,23}} • {{P|[[Spellplague]]|4-6,23,34,38}} • {{P|[[thieves' tools]]|21}} • {{P|[[wizard]]|5,10,12,27,34,39}}\n\n[[Category:D&D Encounters adventures]]\n[[Category:Undermountain adventures]]\n[[Category:4th edition adventures]]\n[[Category:Works by Erik Scott de Bie]]\n[[Category:Published in 2010]]\n[[Category:Adventures]]\n[[Category:4th edition sourcebooks]]\n[[Category:Sourcebooks]]\n[[Category:Books]]\ns9p1qdwjp0j22304etq8gzf9b5x21vp"
-            }
-        }
+        "mainbody": "ndermountain Halasters Lost Apprentice was an adventure module for the D&D Encounters program in Spring 2010, for the 4th edition of Dungeons & Dragons.\n •  •  • \n •  •  • \n •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  () •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  • \n •  • \n •  •  •  • \nItems  •  • \nPotions \nRituals & Spells  •  •  • \n •  •  • \n •  •  • \nArmor & Clothing  •  • \nClasses  •  • \nGems \nItems  •  •  •  •  •  • \nLanguages  • \nPlants  • \nProfessions \nWeapons  •  •  •  •  •  •  •  •  •  • \n •  •  •  •  •  •  •  • \nCategoryD&D Encounters adventures\nCategoryUndermountain adventures\nCategory4th edition adventures\nCategoryWorks by Erik Scott de Bie\nCategoryPublished in 2010\nCategoryAdventures\nCategory4th edition sourcebooks\nCategorySourcebooks\nCategoryBooks\ns9p1qdwjp0j22304etq8gzf9b5x21vp"
     }
 }

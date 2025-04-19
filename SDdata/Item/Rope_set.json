@@ -1,26 +1,6 @@
 {
-    "template_data": {
-        "600|ft|long": "yes",
-        "5|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "RopeSet.png",
-        "caption": "A complete rope set.",
-        "name": "Rope Set",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Tool",
-        "creator": "",
-        "location": "[[Toril]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "40 [[gold piece]]s",
-        "weight2e": "{{SI|5|lb|k}}",
-        "refs2e": "<ref name=\"AWRC-p17/>",
+        "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
         "itemlevel3e": "",
@@ -42,9 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "A '''rope set''' was a tool in the Realms used to climb surfaces.",
-        "Description": "Rope sets included a variety of grapples and [[pulley]]s with {{SI|600|ft|long=yes}} of [[elf|elven]]-made triple-stranded [[silk]] [[rope]]. A set weighed only {{SI|5|lb|k|long=yes}}.",
-        "History": "Rope sets were available for purchase through ''[[Aurora's Whole Realms Catalogue (in-universe)|Aurora's Whole Realms Catalogue]]'' for 40 [[gold piece]]s and included a [[satchel]].",
-        "Notable Users": "* Rope sets were favored by [[thieves]] or [[rogues]] to aid them in scaling walls."
+        "mainbody": "A rope set was a tool in the Realms used to climb surfaces.\nRope sets included a variety of grapples and pulleys with  of elven-made triple-stranded silk rope. A set weighed only .\nRope sets were available for purchase through Auroras Whole Realms Catalogue for 40 gold pieces and included a satchel.\n* Rope sets were favored by thieves or rogues to aid them in scaling walls."
     }
 }

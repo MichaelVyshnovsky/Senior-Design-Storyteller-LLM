@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Darsson's Eye in the Sky",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "[[Darsson Spellmaker]]",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]], [[Elemental air school|Air]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|4}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Darsson's eye in the sky''''' was a sort of mass-''[[levitate|levitation]]'' spell created by the famed [[wizard]] [[Darsson Spellmaker]].",
-        "Effects": "This spell allowed the caster to ''levitate'' all people and loose objects found within a 10 ft. (3 m) circle. Levitated people and objects would rise to a desired height, rotate one time, and then return to the ground. The maximum height depended on the skill of the caster to a maximum of 300 feet. To be affected by this spell the person or object needed to fit completely within the area of effect. However, the spell could be used to levitate a single target that was larger than the area of effect.\n\nThis spell was useful to allow a group of people to survey an area from an elevated position.",
-        "Components": "In addition to verbal and somatic components, this spell required the eye of any bird to cast."
+        "mainbody": "Darssons eye in the sky was a sort of mass-levitation spell created by the famed wizard Darsson Spellmaker.\nThis spell allowed the caster to levitate all people and loose objects found within a 10 ft. (3 m) circle. Levitated people and objects would rise to a desired height, rotate one time, and then return to the ground. The maximum height depended on the skill of the caster to a maximum of 300 feet. To be affected by this spell the person or object needed to fit completely within the area of effect. However, the spell could be used to levitate a single target that was larger than the area of effect.\nThis spell was useful to allow a group of people to survey an area from an elevated position.\nIn addition to verbal and somatic components, this spell required the eye of any bird to cast."
     }
 }

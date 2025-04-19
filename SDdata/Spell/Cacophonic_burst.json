@@ -1,38 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "20|ft|long": "yes",
-        "400|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Cacophonic Burst.jpg",
-        "caption": "",
-        "name": "Cacophonic Burst",
-        "othernames": "",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Evocation]]",
-        "domains3e": "",
-        "descriptors3e": "Sonic",
-        "level3e": "{{Spell table|edition=3e|[[Bard]]|5|[[Sorcerer]]|5|[[Wizard]]|5}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -46,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Cacophonic burst''''' was a powerful [[arcane]] [[evocation]] [[spell]] from the 5{{th}} circle of magic that dealt sonic damage. The spell could be used by arcane spellcasters: [[bard]]s, [[sorcerer]]s, and [[mage]]s.",
-        "Effects": "When the spell was cast, it created a bubble of {{SI|20|ft|long=yes}} in a radius filled with low, discordant noise. It dealt sonic damage to all things within the spell's radius of effect. It could be cast as far as {{SI|400|ft|long=yes}} away from the caster, and its power and distance increased with the spellcaster's magical prowess. Areas under the effects of a ''[[silence]]'' spell were unaffected by ''cacophonic bursts''.",
-        "Components": "The spell required only [[somatic]] and [[verbal component]]s."
+        "mainbody": "Cacophonic burst was a powerful arcane evocation spell from the 5 circle of magic that dealt sonic damage. The spell could be used by arcane spellcasters bards, sorcerers, and mages.\nWhen the spell was cast, it created a bubble of  in a radius filled with low, discordant noise. It dealt sonic damage to all things within the spells radius of effect. It could be cast as far as  away from the caster, and its power and distance increased with the spellcasters magical prowess. Areas under the effects of a silence spell were unaffected by cacophonic bursts.\nThe spell required only somatic and verbal components."
     }
 }

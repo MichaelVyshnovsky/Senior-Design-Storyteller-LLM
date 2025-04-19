@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Eldath's Tranquility",
-        "deity": "[[Eldath]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Enchantment/Charm]]",
-        "spheres2e": "[[Animal sphere|Animal]]",
-        "level2e": "{{Spell table|edition=2e|[[Animal sphere|Animal]]|2|[[Cleric]]|2}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -37,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Eldath's tranquility''''' was a [[divine magic]] [[spell]] available to worshipers of [[Eldath]], the Mother Guardian of Groves.",
-        "Effects": "When cast, the spell created an aura of peace and calm around the caster. When an animal encountered this aura, it saw the caster as friendly and nonthreatening. The spell was often used to calm an angry or frightened animal.",
-        "Components": "In addition to [[Somatic component|somatic]] and [[Verbal component|verbal]] components, this spell required [[material component]]s, the caster's holy symbol and a piece of food."
+        "mainbody": "Eldaths tranquility was a divine magic spell available to worshipers of Eldath, the Mother Guardian of Groves.\nWhen cast, the spell created an aura of peace and calm around the caster. When an animal encountered this aura, it saw the caster as friendly and nonthreatening. The spell was often used to calm an angry or frightened animal.\nIn addition to somatic and verbal components, this spell required material components, the casters holy symbol and a piece of food."
     }
 }

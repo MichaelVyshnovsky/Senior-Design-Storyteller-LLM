@@ -1,21 +1,11 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "name": "Nistlor Lothlyn",
-        "aliases": "Nistlor \"The Undying\"",
-        "home": "[[Nesmé]]",
-        "sex": "Male",
-        "race": "[[Human]]",
-        "class": "{{Class table|edition=2e|[[Wizard]]|10}}",
         "rules": "2nd",
-        "alignment": "[[Chaotic neutral]]",
+        "alignment": "Chaotic neutral",
         "dob": "",
         "age": "",
-        "source": "[[The North: Guide to the Savage Frontier|N:GSF]]",
+        "source": "NGSF",
         "page": "75",
-        "mainbody": "'''Nistlor \"The Undying\" Lothlyn''' was a smoothspoken [[wizard]] and proprietor of the [[House of the Wise Unicorn]] who turned to [[necromancy]] and even [[lichdom]]. Having already mastered the summoning of lesser [[undead]] he hoarded [[potion of longevity|potions of longevity]], purchasing them at every opportunity. Nistlor had three apprentices who helped run the Unicorn and assist with his acquiring of spell components."
+        "mainbody": "Nistlor \"The Undying\" Lothlyn was a smoothspoken wizard and proprietor of the House of the Wise Unicorn who turned to necromancy and even lichdom. Having already mastered the summoning of lesser undead he hoarded potions of longevity, purchasing them at every opportunity. Nistlor had three apprentices who helped run the Unicorn and assist with his acquiring of spell components."
     }
 }

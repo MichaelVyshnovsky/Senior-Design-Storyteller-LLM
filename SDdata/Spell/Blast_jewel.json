@@ -1,42 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "20|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Blast Jewel",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]<br/>[[Evocation]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|3}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -44,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Blast jewel''''' was a [[spell]] that could only be cast by [[dragon]]s.",
-        "Effects": "This spell allowed a dragon to enchant a [[gem]]. Once enchanted, the gem was thrown into a target area and exploded, saturating the area with razor-sharp shrapnel. Everything within a {{SI|20|ft|long=yes}} radius of the blast was vulnerable to the shrapnel. The dragon was also able to set off the explosion from afar, even a great distance. The blast could be contained if the gem was placed in a strong container such as a chest. If the gem detonated inside a  ''[[bag of holding]]'' or a ''[[portable hole]]'', the blast destroyed anything within. \n\nThe spell was often used by dragons to booby-trap their treasure hordes. They would cast this spell on several gems, and when they noticed one was missing, would activate the gem.",
-        "Casting": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, the spell required a [[material component]], a gemstone. The gem had to have a value of at least 500 [[gp]]. The gem could not be embedded in another item. \n\nDuring casting, the dragon used their claw to trace an invisible glyph into the gem. This glyph was only visible to the dragon. A ''[[detect magic]]'' spell would reveal the enchantment, and ''[[detect invisibility]]'' or ''[[true seeing]]'' would reveal the actual glyph."
+        "mainbody": "Blast jewel was a spell that could only be cast by dragons.\nThis spell allowed a dragon to enchant a gem. Once enchanted, the gem was thrown into a target area and exploded, saturating the area with razor-sharp shrapnel. Everything within a  radius of the blast was vulnerable to the shrapnel. The dragon was also able to set off the explosion from afar, even a great distance. The blast could be contained if the gem was placed in a strong container such as a chest. If the gem detonated inside a  bag of holding or a portable hole, the blast destroyed anything within. \nThe spell was often used by dragons to booby-trap their treasure hordes. They would cast this spell on several gems, and when they noticed one was missing, would activate the gem.\nIn addition to verbal and somatic components, the spell required a material component, a gemstone. The gem had to have a value of at least 500 gp. The gem could not be embedded in another item. \nDuring casting, the dragon used their claw to trace an invisible glyph into the gem. This glyph was only visible to the dragon. A detect magic spell would reveal the enchantment, and detect invisibility or true seeing would reveal the actual glyph."
     }
 }

@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Seeking Mote",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]]",
-        "spheres2e": "[[Sun sphere|Sun]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|1|[[Sun sphere|Sun]]|1}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Seeking mote''''' was an [[evocation]] [[spell]] that conjured a bolt of light that streaked towards a target.",
-        "Effects": "When this spell was cast, the ''mote'' appeared from the caster's body and streaked towards a targeted person or creature. If the ''mote'' wasn't destroyed or ''[[dispel magic|dispelled]]'' en route to its target, it struck them and inflicted damage.",
-        "History": "The specifications of ''seeking mote'' were inscribed upon one of the \"inner petals\" of the [[Chauntea]]n [[relic]], the ''[[Glarathra]]''.",
-        "Components": "This spell required [[Verbal component|verbal]], [[Somatic component|somatic]] and two [[material component]]s: a bit of dust and a speck of translucent [[gemstone]], both of which had to be exposed to direct sunlight."
+        "mainbody": "Seeking mote was an evocation spell that conjured a bolt of light that streaked towards a target.\nWhen this spell was cast, the mote appeared from the casters body and streaked towards a targeted person or creature. If the mote wasnt destroyed or dispelled en route to its target, it struck them and inflicted damage.\nThe specifications of seeking mote were inscribed upon one of the \"inner petals\" of the Chauntean relic, the Glarathra.\nThis spell required verbal, somatic and two material components a bit of dust and a speck of translucent gemstone, both of which had to be exposed to direct sunlight."
     }
 }

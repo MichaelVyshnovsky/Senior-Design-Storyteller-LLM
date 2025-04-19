@@ -1,33 +1,8 @@
 {
-    "template_data": {
-        "5|lb|long": "yes",
-        "300|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Lyre of building''",
-        "othernames": "''Building lyre''",
-        "nicknames": "",
-        "type": "Enchanted [[lyre]]<br/>Wondrous Item",
-        "material": "",
-        "creator": "",
-        "origin": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "30,000 [[gp]]",
-        "weight1e": "",
-        "refs1e": "<ref>",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "30,000 gp",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "Faint [[transmutation]]",
-        "casterlevel3e": "6{{th}}",
         "itemlevel3e": "",
         "value3e": "13,000 gp",
-        "weight3e": "{{SI|5|lb}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -51,10 +26,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "A '''''lyre of building''''' was a type of [[enchanted]] [[lyre]] that enabled to create structures at a rapid pace or undo any damage to a structure.",
-        "Description": "These lyres were indistinguishable in appearance from a ''[[cli lyre]]''. They typically weighed around {{SI|5|lb|long=yes}}.",
-        "Powers": "Due to the enchantments put upon them, a ''lyre of building'' was indistinguishable from a mundane lyre. They carried a faunt [[aura]] of [[transmutation]] and required attunement. There were both proper and improper chords on a ''lyre of building'' and activating its effects required strumming the correct ones.\n\nOnce per day, when the proper negatory chords on a ''lyre of building'' were strum, it would negate any damage from a ''[[horn of blasting]]'', ''[[disintegrate]]'' [[spell]], an [[earth elemental]] attack, a [[battering ram]] or similar [[siege weapon]] that was being inflicted upon an inanimate structure. This included such things as floors, walls, roofs, etc. This effect spanned an effective range of {{SI|300|ft|long=yes}} and would persist for up to 30 minutes.\n\nAdditionally, once per week, if the proper chords were strum a ''lyre of building'' could magically construct any manner of building or structure, including ditches, mines, tunnels, and to build or repair ships and [[spelljammer]]s.<ref> Within but thirty minutes of playing a ''lyre of building'' to this purpose, one could accomplish work equivalent to that of a hundred [[human]]s laboring over three days.\n\nAdditionally, the music of a ''lyre of building'' had the power to offset the entrancing call of a [[harpy]].<ref>{{Cite dragon/115/The Ecology of the Harpy: ...Songs of death|53}} If one of false chords a ''lyre of building'' were ever struck, there was a small chance that all of its effects would turn negated. They also could not function underwater, unless played in some form of air-filled sac, like that produced by the ''[[airy water]]'' spell.<ref> Like most magical instruments, it was believed that the effects of a ''lyre of building'' would double in effectiveness when employed in the hands of a proper [[bard]].<ref><ref>\n\nFollowing the [[Second Sundering]], a ''lyre of building'' could negate nearly any form of damage upon a structure within {{SI|300|ft}} of it. They also enabled their wielders to cast ''[[mending]]'' at any time and the power to cast once per dawn the spells ''[[fabricate]]'', ''[[move earth]]'', ''[[passwall]]'', and ''[[summon construct]]''.",
-        "Construction": "Creating a ''lyre of building'' required a mundane lyre and the spell ''fabricate''.",
-        "Notable Owners": "* [[Claw (kuo-toa)|Claw]], a [[half-fiend]] [[kuo-toa]].\n* [[Faber Castell]], who loaned their ''lyre of building'' to the city of [[Ravens Bluff]] to aid in reconstruction efforts after the brief rampage of the [[tarrasque]] known as [[Braven]].<ref>{{Cite organized play/LC/The Greater of Two Evils|26}}\n* [[Jerrok Haladrian]], a renowned bard.\n* [[Malathon]] and his forces employed a ''lyre of building'' when rebuilding [[Castle Krag]].<ref>\n* [[Storm Silverhand]].<ref>"
+        "mainbody": "A lyre of building was a type of enchanted lyre that enabled to create structures at a rapid pace or undo any damage to a structure.\nThese lyres were indistinguishable in appearance from a cli lyre. They typically weighed around .\nDue to the enchantments put upon them, a lyre of building was indistinguishable from a mundane lyre. They carried a faunt aura of transmutation and required attunement. There were both proper and improper chords on a lyre of building and activating its effects required strumming the correct ones.\nOnce per day, when the proper negatory chords on a lyre of building were strum, it would negate any damage from a horn of blasting, disintegrate spell, an earth elemental attack, a battering ram or similar siege weapon that was being inflicted upon an inanimate structure. This included such things as floors, walls, roofs, etc. This effect spanned an effective range of  and would persist for up to 30 minutes.\nAdditionally, once per week, if the proper chords were strum a lyre of building could magically construct any manner of building or structure, including ditches, mines, tunnels, and to build or repair ships and spelljammers. Within but thirty minutes of playing a lyre of building to this purpose, one could accomplish work equivalent to that of a hundred humans laboring over three days.\nAdditionally, the music of a lyre of building had the power to offset the entrancing call of a harpy. If one of false chords a lyre of building were ever struck, there was a small chance that all of its effects would turn negated. They also could not function underwater, unless played in some form of air-filled sac, like that produced by the airy water spell. Like most magical instruments, it was believed that the effects of a lyre of building would double in effectiveness when employed in the hands of a proper bard.\nFollowing the Second Sundering, a lyre of building could negate nearly any form of damage upon a structure within  of it. They also enabled their wielders to cast mending at any time and the power to cast once per dawn the spells fabricate, move earth, passwall, and summon construct.\nCreating a lyre of building required a mundane lyre and the spell fabricate.\n* Claw, a half-fiend kuo-toa.\n* Faber Castell, who loaned their lyre of building to the city of Ravens Bluff to aid in reconstruction efforts after the brief rampage of the tarrasque known as Braven.\n* Jerrok Haladrian, a renowned bard.\n* Malathon and his forces employed a lyre of building when rebuilding Castle Krag.\n* Storm Silverhand."
     }
 }

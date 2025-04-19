@@ -1,35 +1,13 @@
 {
-    "template_data": {
-        "rca": "right",
-        "rca_1": "right"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Piwafwi''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Cloak",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "Lesser: [[Illusion]]",
-        "casterlevel3e": "",
-        "itemlevel3e": "{{Split table|rca=right|Lesser|3|Greater|5}}",
-        "value3e": "{{Split table|rca=right|Lesser|2500 gp|Greater|6100 gp}}",
+        "value3e": "",
         "weight3e": "1 lb",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
         "weight4e": "",
         "refs4e": "",
-        "rarity5e": "{{Plain table|Lesser|Uncommon|Greater|Rare}}",
+        "rarity5e": "",
         "attunement5e": "Required",
         "school5e": "",
         "level5e": "",
@@ -39,10 +17,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "A '''''piwafwi''''' was a [[drow]] cloak that granted increased powers of stealth and hiding. It came in two varieties, lesser and greater.",
-        "Description": "A ''piwafwi'' was a dark-hued cloak.",
-        "Powers": "A ''lesser piwafwi'' was identical in ability to a ''[[cloak of elvenkind]]''.\n\nA ''greater piwafwi'' was a ''piwafwi'' with the added property of fire resistance. It was also known as a ''piwafwi of fire resistance''.\n\nSome drow ''piwafwi'' cloaks that found their way to the surface possessed enchantments that protected the wearer from piercing and slashing weapons, improved their protection against various [[poison]]s, and made them unaffected by spiderwebs and the ''[[web]]'' spell. Additionally, the cloak gave non-drow who wore it the ability to summon ''[[darkness]]'' once per day.",
-        "Creation": "The creator of a ''piwafwi'' had to be a drow and had to know the [[spell]]s ''[[endure elements]]'' and ''[[invisibility]]''.",
-        "Uses": "Many ''piwafwi'', especially those of drow nobles or [[wizard]]s, were known to have other magical enchantments on them that made them strong enough to be resistant to magical and melee attacks.<ref><ref>\n\nLike many other drow items, direct sunlight would destroy a ''piwafwi'', rendering it useless after two weeks of exposure. Even moonlight would fade it some. This was changed when [[Liriel Baenre]] inscribed a rune on the tree [[Yggdrasil's Child]], allowing drow objects and magic to survive on the surface.<ref>\n\nBy the late 1490s [[DR]], a ''piwafwi'' would lose its magic after merely one hour of continuous exposure to sunlight."
+        "mainbody": "A piwafwi was a drow cloak that granted increased powers of stealth and hiding. It came in two varieties, lesser and greater.\nA piwafwi was a dark-hued cloak.\nA lesser piwafwi was identical in ability to a cloak of elvenkind.\nA greater piwafwi was a piwafwi with the added property of fire resistance. It was also known as a piwafwi of fire resistance.\nSome drow piwafwi cloaks that found their way to the surface possessed enchantments that protected the wearer from piercing and slashing weapons, improved their protection against various poisons, and made them unaffected by spiderwebs and the web spell. Additionally, the cloak gave non-drow who wore it the ability to summon darkness once per day.\nThe creator of a piwafwi had to be a drow and had to know the spells endure elements and invisibility.\nMany piwafwi, especially those of drow nobles or wizards, were known to have other magical enchantments on them that made them strong enough to be resistant to magical and melee attacks.\nLike many other drow items, direct sunlight would destroy a piwafwi, rendering it useless after two weeks of exposure. Even moonlight would fade it some. This was changed when Liriel Baenre inscribed a rune on the tree Yggdrasils Child, allowing drow objects and magic to survive on the surface.\nBy the late 1490s DR, a piwafwi would lose its magic after merely one hour of continuous exposure to sunlight."
     }
 }

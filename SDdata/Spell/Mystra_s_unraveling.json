@@ -1,24 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "30|feet|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Mystra's Unraveling",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]], [[Enchantment]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|9}}",
         "type2e": "",
-        "refs2e": "{{Cite dragon/238/The Return of the Wizards Three|49}}",
-        "mainbody": "'''''Mystra's unraveling''''' was an [[arcane]] [[spell]] that unmade magic items and enchantments.",
-        "Effects": "The spell could be targeted against ongoing spells alone, or against spells and [[enchanted]] objects. In either case, it affected all targets within {{SI|30|feet|long=yes}} that weren't touching the caster. These were unfailingly broken immediately, with the caster learning of all the powers of items so destroyed. It also broke planar linkages, and caused objects held within extradimensional spaces to appear immediately. Against [[artifact]]s, it had no other effect but to reveal their powers.",
-        "Components": "The spell called only for [[verbal]] and [[somatic component]]s.",
-        "History": "This spell was used by [[Elminster]] against [[Delmuth Echorn]] in the {{yearlinkName|241}}. He destroyed a [[sword]] with it.{{cite book/Elminster in Myth Drannor|168-169|8}}"
+        "refs2e": "",
+        "mainbody": "Mystras unraveling was an arcane spell that unmade magic items and enchantments.\nThe spell could be targeted against ongoing spells alone, or against spells and enchanted objects. In either case, it affected all targets within  that werent touching the caster. These were unfailingly broken immediately, with the caster learning of all the powers of items so destroyed. It also broke planar linkages, and caused objects held within extradimensional spaces to appear immediately. Against artifacts, it had no other effect but to reveal their powers.\nThe spell called only for verbal and somatic components.\nThis spell was used by Elminster against Delmuth Echorn in the . He destroyed a sword with it."
     }
 }

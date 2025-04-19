@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Ghost Blade",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|2}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Ghost blade''''' was a [[wizard]] [[spell]] that transformed a wooden object.",
-        "Effects": "This spell temporarily transformed a wooden object into a sword. The wooden object in question needed to weigh less than roughly 35 pounds and have one side longer than the other. Common examples included a [[cudgel]] or [[club]], broomstick, etc. Any type of one-handed sword could be fashioned with this spell.\n\nThe caster could end the spell at any time before it expired. The sword reverted to its original wooden form when the spell ended even if the sword was broken during its use.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, this spell required the wooden item, a handful of [[iron]] filings, and a drop of water from a body of water once struck by lighting to cast."
+        "mainbody": "Ghost blade was a wizard spell that transformed a wooden object.\nThis spell temporarily transformed a wooden object into a sword. The wooden object in question needed to weigh less than roughly 35 pounds and have one side longer than the other. Common examples included a cudgel or club, broomstick, etc. Any type of one-handed sword could be fashioned with this spell.\nThe caster could end the spell at any time before it expired. The sword reverted to its original wooden form when the spell ended even if the sword was broken during its use.\nIn addition to verbal and somatic components, this spell required the wooden item, a handful of iron filings, and a drop of water from a body of water once struck by lighting to cast."
     }
 }

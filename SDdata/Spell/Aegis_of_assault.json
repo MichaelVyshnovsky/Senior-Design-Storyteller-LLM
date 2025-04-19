@@ -1,29 +1,6 @@
 {
-    "template_data": {
-        "edition": "4e",
-        "10|ft|long": "yes",
-        "50|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Aegis of Assault",
-        "deity": "",
-        "inventor": "",
-        "type": "at-will",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "Swordmage Feature",
-        "keywords4e": "{{Desc/arcane}}{{Desc/teleportation}}",
-        "level4e": "{{spell table|edition=4e|[[Swordmage]]|1}}",
+        "level4e": "",
         "type4e": "At-Will",
         "category4e": "",
         "skill4e": "",
@@ -42,7 +19,6 @@
         "school1e": "",
         "level1e": "",
         "refs1e": "",
-        "mainbody": "'''''Aegis of assault''''' was a [[spell]] known to [[swordmage]]s.",
-        "Effects": "''Aegis of assault'' allowed a swordmage to form an [[arcane]] bond with a creature up to {{SI|10|ft|long=yes}} away. If the creature attacked one of the swordmage's allies, the bond weakened their assault. If the creature was still successful, then the bond allowed the swordmage to [[teleportation|teleport]] a distance of up to {{SI|50|ft|long=yes}} in order to retaliate against the attacker."
+        "mainbody": "Aegis of assault was a spell known to swordmages.\nAegis of assault allowed a swordmage to form an arcane bond with a creature up to  away. If the creature attacked one of the swordmages allies, the bond weakened their assault. If the creature was still successful, then the bond allowed the swordmage to teleport a distance of up to  in order to retaliate against the attacker."
     }
 }

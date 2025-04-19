@@ -1,26 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Silver Stake Gas Bomb",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Bomb",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "",
-        "refs3e": "{{Cite web/The Search for the Circle of Vehlarr/Part Three}}",
         "level4e": "",
         "value4e": "",
         "weight4e": "",
@@ -35,9 +14,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "A '''Silver Stake gas bomb''' was a unique invention used by the [[Silver Stake]] to subdue and capture [[lycanthropes]].",
-        "History": "It was invented by the alchemist [[Dram Kallen]] of [[Baldur's Gate]].",
-        "Description": "The bombs looked like small, tightly sealed leather or cloth pouches that faintly radiated [[abjuration]] magic.",
-        "Effects": "The bombs were pressurized with a substance to which lycanthropes were allergic. These substances varied with the type of lycanthrope, but always contained a base substance, such as [[silver]] or [[copper]]. The active ingredients ranged from [[wolfsbane]] for [[werewolves]] to [[fennel]] for [[werejackal]]s. When the bomb was thrown against a hard surface, it exploded and scattered the contents over a radius of around {{SI|15|ft}}.\n\nThey could cause a severe reaction of coughing and sneezing in a lycanthrope for around a minute, after which the effects begin to subside, but usually remained for the next 24 hours."
+        "mainbody": "A Silver Stake gas bomb was a unique invention used by the Silver Stake to subdue and capture lycanthropes.\nIt was invented by the alchemist Dram Kallen of Baldurs Gate.\nThe bombs looked like small, tightly sealed leather or cloth pouches that faintly radiated abjuration magic.\nThe bombs were pressurized with a substance to which lycanthropes were allergic. These substances varied with the type of lycanthrope, but always contained a base substance, such as silver or copper. The active ingredients ranged from wolfsbane for werewolves to fennel for werejackals. When the bomb was thrown against a hard surface, it exploded and scattered the contents over a radius of around .\nThey could cause a severe reaction of coughing and sneezing in a lycanthrope for around a minute, after which the effects begin to subside, but usually remained for the next 24 hours."
     }
 }

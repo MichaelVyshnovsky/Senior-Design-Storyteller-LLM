@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Animate Skeletons",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Necromancy]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|2}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Animate skeletons''''' was a [[necromancy]] [[spell]] that created a number of [[skeletons]] from nearby available remains.",
-        "Effects": "Similar to the spell ''[[animate dead]]'', this spell reanimated the remains of a number of [[humanoid]]s, depending on the power of the caster. The skeletal [[undead]] obeyed simple verbal commands as given by the caster until they were [[turn undead|turned]] by a [[priest]], or otherwise destroyed. The [[magic]]al effect of ''animate skeletons'' could not be ''[[dispel magic|dispelled]]''.",
-        "Casting": "This spell required [[verbal]], [[somatic]] and [[material component]]s in order to be cast. The material component consisted of a mixture comprising a drop of blood and a pinch of bone powder (or bone shard) that was combined with a specific salve that cost at least 10 [[gp]]. Once the mixture was applied to remains,"
+        "mainbody": "Animate skeletons was a necromancy spell that created a number of skeletons from nearby available remains.\nSimilar to the spell animate dead, this spell reanimated the remains of a number of humanoids, depending on the power of the caster. The skeletal undead obeyed simple verbal commands as given by the caster until they were turned by a priest, or otherwise destroyed. The magical effect of animate skeletons could not be dispelled.\nThis spell required verbal, somatic and material components in order to be cast. The material component consisted of a mixture comprising a drop of blood and a pinch of bone powder (or bone shard) that was combined with a specific salve that cost at least 10 gp. Once the mixture was applied to remains,"
     }
 }

@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "ProtectionFromCold.JPG",
-        "caption": "",
-        "name": "Protection from Cold",
-        "othernames": "",
-        "deity": "[[Ulutiu]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]]",
-        "spheres2e": "[[Elemental water sphere|Elemental Water]], [[Elemental air sphere|Elemental Air]], [[Protection sphere|Protection]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|3}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -45,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Protection from cold''''' was a [[Divine magic|divine]] [[invocation]] [[spell]] used by specialty priests devoted to [[Ulutiu]], enabling them to protect themselves or others from harsh cold.",
-        "Effects": "If the caster used this spell on themselves then they were granted complete immunity from frigid environments and cold-based attacks from magic and creatures. The spell would absorb a certain amount of energy from such attacks before ending.\n\nIf used on another target the spell would grant immunity to freezing environments and lessen the harm from cold-based attacks.",
-        "Components": "In addition to [[verbal component|verbal component]]s and [[somatic component]]s, this spell required as [[material component]]s the priest's [[holy symbol]] and a small piece of ice to cast."
+        "mainbody": "Protection from cold was a divine invocation spell used by specialty priests devoted to Ulutiu, enabling them to protect themselves or others from harsh cold.\nIf the caster used this spell on themselves then they were granted complete immunity from frigid environments and cold-based attacks from magic and creatures. The spell would absorb a certain amount of energy from such attacks before ending.\nIf used on another target the spell would grant immunity to freezing environments and lessen the harm from cold-based attacks.\nIn addition to verbal components and somatic components, this spell required as material components the priests holy symbol and a small piece of ice to cast."
     }
 }

@@ -1,47 +1,5 @@
 {
-    "template_data": {
-        "30|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Talisman of Divining''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Talisman",
-        "location": "[[Kadar]], [[Cities of the Ancients]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "",
-        "refs3e": "",
-        "level4e": "",
-        "value4e": "",
-        "weight4e": "",
-        "refs4e": "",
-        "rarity5e": "",
-        "attunement5e": "",
-        "school5e": "",
-        "level5e": "",
-        "value5e": "",
-        "weight5e": "",
-        "refs5e": "",
-        "communication": "",
-        "languages": "",
-        "alignment": "",
-        "sentientrefs": "",
-        "mainbody": "A '''''talisman of divining''''' was a useful [[handglyph]] used by the [[Geomancer]]s of [[Kadar]] as a [[divination]] tool. These items were the only non-deadly handglyphs created by the geomancers.",
-        "Powers": "There was quite a variety in the forms of divination of these talismans could provide. Examples included the detection the following categories: magical and mundane traps, good and evil, [[undead]], gems, precious metals, poison, magic, invisibility, and secret doors. Regardless of the type, a talisman of divining offered detection within a {{SI|30|ft|long=yes}} radius. Physical barriers did not hinder the powers of detection. Strangely, the detection was blocked by liquid barriers of alcohol, salt water, iodine, or [[quicksilver]].\n\nMost ''talismans of divining'' had between 1—100 charges and could be recharged.",
-        "Description": "These items could be found in a variety of shapes and sizes."
+        "mainbody": "talisman of divining was a useful handglyph used by the Geomancers of Kadar as a divination tool. These items were the only non-deadly handglyphs created by the geomancers.\nThere was quite a variety in the forms of divination of these talismans could provide. Examples included the detection the following categories magical and mundane traps, good and evil, undead, gems, precious metals, poison, magic, invisibility, and secret doors. Regardless of the type, a talisman of divining offered detection within a  radius. Physical barriers did not hinder the powers of detection. Strangely, the detection was blocked by liquid barriers of alcohol, salt water, iodine, or quicksilver.\nMost talismans of divining had between 1—100 charges and could be recharged.\nThese items could be found in a variety of shapes and sizes."
     }
 }

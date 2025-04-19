@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "3|4|ft|long": "yes"
-    },
     "document_data": {
-        "image": "[[Image:Short bows.png|250px]]",
-        "caption": "Various composite shortbows.",
-        "name": "Shortbow",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Ranged weapon",
-        "location": "",
-        "value1e": "15 [[gp]]",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "30 gp",
-        "weight3e": "{{SI|2|lb|k}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -33,19 +10,11 @@
         "school5e": "",
         "level5e": "",
         "value5e": "25 gp",
-        "weight5e": "{{SI|2|lb|k}}",
+        "weight5e": "",
         "refs5e": "",
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "A '''shortbow''' was a two-handed ranged weapon of the [[bow]] family. The term was used in a general sense to refer to any bow that wasn't a [[longbow]].",
-        "Description": "Shortbows consisted of a flexible shaft of wood (or horn or bone), measuring about {{SIrange|3|4|ft|long=yes}} in length with the ends connected by strong cord or a gut string that is a little shorter than the shaft, causing the wood to bend and keep the string under tension. For a composite shortbow, the shaft was made from laminated materials (again, horn, wood or bone) and fashioned with a recurve, meaning the bow remained bow-shaped even when unstrung. A typical shortbow weighed around {{SI|2|lb|k}}.",
-        "Weaponology": "Unlike [[longbow]]s, shortbows may be used while mounted.\nComposite bows are stronger than normal bows and therefore can translate more of the archer's strength into range and damage. Bows require two hands to fire and a good amount of practice in order to hit a target. Therefore, the shortbow is considered a martial weapon.",
-        "History": "[[File:Maztican shortbow.png|thumb|350x350px|An [[obsidian]]-tipped [[Maztican]] [[arrow]]s and shortbow.'']]\nShortbows were one of the first types of bows to be developed on Toril, although they were not referred to by that term.\n\nThe [[Calishite]]s were one of the first [[human]] groups to develop the shortbow. During the 13{{th}} century before the [[Dalereckoning]], they acquired captured [[Elven bow|elven]] [[longbow]]s, and from these, they developed shorter versions that could be shot from [[chariot]]s or from [[horse]]back.",
-        "Notable shortbows": "{{Sectstub}}",
-        "Appendix": {
-            "External Links": "{{External link disclaimer}}\n* {{BG3|Shortbows}}\n*{{Wikipedia external link}}",
-            "References": "{{Refs}}\n[[Category:Bows]]\n[[Category:Bone items]]\n[[Category:Piercing weapons]]\n[[Category:Projectile weapons]]\n[[Category:Martial weapons]]\n[[Category:Ranged weapons]]\n[[Category:Two-handed weapons]]\n[[Category:Weapons]]\n[[Category:Wooden items]]\n[[Category:25-49 gold pieces]]\n[[Category:75-99 gold pieces]]\n3sjfvgx376dxiv5j758e1tmaigk4yj3"
-        }
+        "mainbody": "A shortbow was a two-handed ranged weapon of the bow family. The term was used in a general sense to refer to any bow that wasnt a longbow.\nShortbows consisted of a flexible shaft of wood (or horn or bone), measuring about  in length with the ends connected by strong cord or a gut string that is a little shorter than the shaft, causing the wood to bend and keep the string under tension. For a composite shortbow, the shaft was made from laminated materials (again, horn, wood or bone) and fashioned with a recurve, meaning the bow remained bow-shaped even when unstrung. A typical shortbow weighed around .\nUnlike longbows, shortbows may be used while mounted.\nComposite bows are stronger than normal bows and therefore can translate more of the archers strength into range and damage. Bows require two hands to fire and a good amount of practice in order to hit a target. Therefore, the shortbow is considered a martial weapon.\nthumb|350x350px|An obsidian-tipped Maztican arrows and shortbow.\nShortbows were one of the first types of bows to be developed on Toril, although they were not referred to by that term.\nThe Calishites were one of the first human groups to develop the shortbow. During the 13 century before the Dalereckoning, they acquired captured elven longbows, and from these, they developed shorter versions that could be shot from chariots or from horseback.\n* \n*\nCategoryBows\nCategoryBone items\nCategoryPiercing weapons\nCategoryProjectile weapons\nCategoryMartial weapons\nCategoryRanged weapons\nCategoryTwo-handed weapons\nCategoryWeapons\nCategoryWooden items\nCategory25-49 gold pieces\nCategory75-99 gold pieces\n3sjfvgx376dxiv5j758e1tmaigk4yj3"
     }
 }

@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "6|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Shield of the Watch.png",
-        "caption": "",
-        "name": "''Shield of the Watch''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Shield]]",
-        "location": "[[Neverwinter]], [[Sword Coast North]]<br/>[[Shaar]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+1",
-        "value3e": "",
-        "weight3e": "{{SI|6|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Shields of the Watch''''' were [[enchanted]] [[shield]]s from the land of [[Shaar]].",
-        "Powers": "These small shields carried a ''+1 enchantment'' and offered additional defense, effectively becoming a ''+2 shield'' when wielded against humans.",
-        "History": "''Shields of the Watch'' were created as a tribute to a [[wemic]] group called [[the Watch (Shaar)|the Watch]]. The group's true purpose was unknown; however, many claimed that the wemics were weapon and information dealers. [[Human]] nomads learned to trust the Watch. However, by the {{YearlinkName|1372}}, the Watch was gone, and the shields created in the wemic name found their from Shaar to the city of [[Neverwinter]]"
+        "mainbody": "Shields of the Watch were enchanted shields from the land of Shaar.\nThese small shields carried a +1 enchantment and offered additional defense, effectively becoming a +2 shield when wielded against humans.\nShields of the Watch were created as a tribute to a wemic group called the Watch. The groups true purpose was unknown however, many claimed that the wemics were weapon and information dealers. Human nomads learned to trust the Watch. However, by the , the Watch was gone, and the shields created in the wemic name found their from Shaar to the city of Neverwinter"
     }
 }

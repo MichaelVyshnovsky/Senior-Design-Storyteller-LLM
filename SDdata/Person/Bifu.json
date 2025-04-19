@@ -1,27 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Bifu",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Kukalatu Village]], [[Malatran Plateau]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "gender": "",
-        "race": "[[Human]]",
-        "ethnicity": "[[Nubari]] ([[Kukalatu]])",
-        "occupation": "[[Warrior]]",
-        "age": "",
-        "patron deity": "",
-        "languages": "[[Kukalatu language]], [[Malatran Common]]",
-        "basicrefs": "{{Cite organized play/LJ/Sharp Teeth, Mostly Tasty|4-5}}",
         "reckoning": "DR",
         "dob": "",
         "dobnotes": "",
@@ -46,8 +24,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Neutral good]]",
-        "class2e": "{{class table|edition=2e|[[Fighter]]|3}}",
+        "alignment2e": "Neutral good",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
@@ -64,9 +42,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Bifu''', whose name translated as \"Big Foot,\" was a [[warrior]] of the reformed cannibal [[Kukalatu]] tribe of the [[Malatran Plateau]] in the late 14{{th}} century [[DR]].",
-        "Description": "Bifu was a strong and nimble warrior who felt at home atop the jungle trees and swinging across its vines.",
-        "Possessions": "Bifu wore a set of [[bone armor]] and was armed with a [[spear]].",
-        "History": "In The Year of New Peoples of the Malatran calendar, a band of heroes of the Living Jungle was sent to the Kukalatu tribe by Chief [[Katar (Nubari)|Katar]] of the [[Koshiva]] to establish contact with the reformed cannibal and return with a special healing [[potion]] for the Chief's wife – [[Ootoo]]. A Kukulaturi hunting party was the first contact for the heroes who ran into them not far from the village. Warriors Bifu and [[eJahi]] were the ones to meet the group in the open, while others – [[Gihu]], [[Latu]], and a duo of [[saru]], [[Bubba]] and [[Vimu]], stayed hidden, in case the strangers brought trouble."
+        "mainbody": "Bifu, whose name translated as \"Big Foot,\" was a warrior of the reformed cannibal Kukalatu tribe of the Malatran Plateau in the late 14 century DR.\nBifu was a strong and nimble warrior who felt at home atop the jungle trees and swinging across its vines.\nBifu wore a set of bone armor and was armed with a spear.\nIn The Year of New Peoples of the Malatran calendar, a band of heroes of the Living Jungle was sent to the Kukalatu tribe by Chief Katar of the Koshiva to establish contact with the reformed cannibal and return with a special healing potion for the Chiefs wife – Ootoo. A Kukulaturi hunting party was the first contact for the heroes who ran into them not far from the village. Warriors Bifu and eJahi were the ones to meet the group in the open, while others – Gihu, Latu, and a duo of saru, Bubba and Vimu, stayed hidden, in case the strangers brought trouble."
     }
 }

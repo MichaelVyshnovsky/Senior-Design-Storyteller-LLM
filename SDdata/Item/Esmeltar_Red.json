@@ -1,47 +1,10 @@
 {
-    "template_data": {
-        "0.7|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Esmeltar Red.png",
-        "caption": "",
-        "name": "Esmeltar Red",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Wine]]",
-        "creator": "",
-        "location": "[[Baldur's Gate]], [[Western Heartlands]]<br/>[[Amn]], [[Lands of Intrigue]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "",
-        "refs3e": "",
-        "level4e": "",
-        "value4e": "",
-        "weight4e": "",
-        "refs4e": "",
-        "rarity5e": "Common",
-        "attunement5e": "",
-        "school5e": "",
-        "level5e": "",
-        "value5e": "3 [[gp]]",
-        "weight5e": "{{SI|0.7|lb|k|long=yes}}",
         "refs5e": "",
         "communication": "",
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Esmeltar Red''' was a variety of blended [[wine]], produced in [[Amn]]. It was exported as far as the [[Western Heartlands]], the [[Chionthar Valley]], and the city of [[Baldur's Gate]], as of the late 15{{th}} century [[DR]].",
-        "Description": "This blended red wine was considered to be made using some of the worst [[grape]]s in the [[Lands of Intrigue]]. It had an unmistakingly hollow flavor."
+        "mainbody": "Esmeltar Red was a variety of blended wine, produced in Amn. It was exported as far as the Western Heartlands, the Chionthar Valley, and the city of Baldurs Gate, as of the late 15 century DR.\nThis blended red wine was considered to be made using some of the worst grapes in the Lands of Intrigue. It had an unmistakingly hollow flavor."
     }
 }

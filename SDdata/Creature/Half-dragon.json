@@ -1,39 +1,5 @@
 {
-    "template_data": {
-        "caption": "''A half-[[Red dragon"
-    },
     "document_data": {
-        "image": "",
-        "caption": "''A half-[[Red dragon|red]] dragon.''",
-        "name": "Half-dragon",
-        "size5e": "Same as non-dragon parent",
-        "type5e": "[[Humanoid]]",
-        "subtype5e": "Same as non-dragon parent",
-        "alignment5e": "",
-        "challenge5e": "Same as non-dragon parent +2",
-        "refs5e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "Same as non-dragon parent",
-        "type3e": "[[Dragon]]",
-        "subtype3e": "",
-        "alignment3e": "",
-        "challenge3e": "Same as non-dragon parent +2",
-        "refs3e": "",
-        "size2e": "Medium",
-        "alignment2e": "[[Lawful good]]",
-        "refs2e": "<ref group=\"note\">These statistics refer only to half-bronze, half-gold and half-silver dragons.",
-        "alignment1e": "",
-        "refs1e": "",
-        "vision": "[[Low-light vision]], [[darkvision]]",
-        "location": "",
-        "language": "[[Common]], [[Draconic language|Draconic]]",
-        "mainbody": "A '''half-dragon''' was a cross between a [[dragon]] and another unrelated creature.",
-        "Abilities": "A half-dragon had the ability to use the breath weapon of its dragon half, though it was not as potent and could not be used as frequently. Half-dragons had [[low-light vision]] and [[darkvision]]. They also had tinted skin or scales that were of the same color as their dragon parent and helped protect from physical attacks.\n\nAll half-dragons were immune to sleep and paralysis effects. They also had an additional immunity based of which dragon type they were related to.",
-        "Subraces": "Blue half-dragon hobgoblins were the first generation result of mating between the dragons of [[Morueme]] and their [[hobgoblin]] allies.<ref>",
-        "Notable Half-dragons": "* [[Bonesplitter]], the monstrous spawn of the [[green dragon]] [[Claugiyliamatar]] and an [[ettin]].<ref>{{Cite dungeon/127/Vampires of Waterdeep: Dungeon of the Crypt|72}}\n* [[Langdedrosa Cyanwrath]]\n* [[Marjon]], the unpleasant son of the [[red dragon]] [[Pelendralaar]]. He was an agent of the [[Cult of the Dragon]] often receiving special missions from [[Shamoor]].\n* [[Narnra Shalace]], the daughter of [[Elminster]] and the [[song dragon]] [[Ammaratha Cyndusk]].\n* [[Nimor Imphraezl]], a [[zekyl|half–shadow dragon drow]] assassin of the [[Jaezred Chaulssin]].\n* [[Rezmir|Rezmir the Black]]\n* [[Sherincal]]\n* [[Zindar]]: A half–gold dragon in [[Chult]]."
+        "mainbody": "half-dragon was a cross between a dragon and another unrelated creature.\nA half-dragon had the ability to use the breath weapon of its dragon half, though it was not as potent and could not be used as frequently. Half-dragons had low-light vision and darkvision. They also had tinted skin or scales that were of the same color as their dragon parent and helped protect from physical attacks.\nAll half-dragons were immune to sleep and paralysis effects. They also had an additional immunity based of which dragon type they were related to.\nBlue half-dragon hobgoblins were the first generation result of mating between the dragons of Morueme and their hobgoblin allies.\n* Bonesplitter, the monstrous spawn of the green dragon Claugiyliamatar and an ettin.\n* Langdedrosa Cyanwrath\n* Marjon, the unpleasant son of the red dragon Pelendralaar. He was an agent of the Cult of the Dragon often receiving special missions from Shamoor.\n* Narnra Shalace, the daughter of Elminster and the song dragon Ammaratha Cyndusk.\n* Nimor Imphraezl, a half–shadow dragon drow assassin of the Jaezred Chaulssin.\n* Rezmir the Black\n* Sherincal\n* Zindar A half–gold dragon in Chult."
     }
 }

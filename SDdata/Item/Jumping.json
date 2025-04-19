@@ -1,22 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Jumping''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Weapon quality]]",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "5{{th}}",
         "itemlevel3e": "",
         "value3e": "+13,750 gp",
         "weight3e": "",
@@ -35,7 +18,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''''Jumping''''' was a [[weapon quality|quality]] that could be applied to weapons. When grasped, it acted like a ''[[ring of feather falling]]'', and once every twelve seconds, the wielder could gain the ability to make an extremely powerful jump, with no limit on distance.",
-        "Creation": "To forge a ''jumping'' weapon, a spellcaster must have ''[[jump]]'' and ''[[mage hand]]'' spells available."
+        "mainbody": "Jumping was a quality that could be applied to weapons. When grasped, it acted like a ring of feather falling, and once every twelve seconds, the wielder could gain the ability to make an extremely powerful jump, with no limit on distance.\nTo forge a jumping weapon, a spellcaster must have jump and mage hand spells available."
     }
 }

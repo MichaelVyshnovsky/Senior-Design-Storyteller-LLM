@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "0.2|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Potion of Clarity''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "",
-        "creator": "",
-        "location": "[[Voonlar]], [[Moonsea]]<br/>[[Helm's Hold]], [[Neverwinter]], [[Sword Coast]]<br/>[[Baldur's Gate]], [[Candlekeep]]<br/>[[Black Pits]], [[Ust Natha]], [[Underdark]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|0.2|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Potions of clarity''''' were magic [[potion]]s that cleared and fortified the imbiber's mind.",
-        "Description": "''Potions of clarity'' brewing process included pouring the piping-hot concoction over scorched pungent beans. The resulting potion had a strong smell and did not appear clear, contrary to its name.",
-        "Powers": "These foul-smelling potions immediately after consumption cleared the drinker's mind, flooding them with overwhelming feelings of calm and purpose. That feeling persisted as long at the potions' effects remained active, fortifying the mind's defenses against mind-affecting magic spells and monster abilities, similar to that of the ''[[clarity]]'' spell.",
-        "History": "''Circa'' [[1368 DR|Year of the Banner, 1368 DR]], a [[myconid]] potion brewer, the [[Concoctor]], was forced to serve the eccentric [[drow]] [[Baeloth Barrityl|Baeloth the Entertainer]] of the [[Black Pits]] in the [[Underdark]]. ''Potions of clarity'' were among concoctions the fungus-man was selling to the Black Pits' gladiators.\n\nThe same year, these potions were available for purchase from the [[Sorcerous Sundries]] of [[Baldur's Gate]], the [[Temple of Helm (Athkatla)|Temple of Helm]], [[Roger the Fence]], of [[Athkatla]], [[Amn]], [[Wallace]] of [[Trademeet]], and the bazars of [[Ust Natha]].\n\nIn the late 14{{th}} century [[DR]], ''potions of clarity'' were wide-spread throughout the [[Sword Coast]] and the [[Moonsea]] regions."
+        "mainbody": "Potions of clarity were magic potions that cleared and fortified the imbibers mind.\nPotions of clarity brewing process included pouring the piping-hot concoction over scorched pungent beans. The resulting potion had a strong smell and did not appear clear, contrary to its name.\nThese foul-smelling potions immediately after consumption cleared the drinkers mind, flooding them with overwhelming feelings of calm and purpose. That feeling persisted as long at the potions effects remained active, fortifying the minds defenses against mind-affecting magic spells and monster abilities, similar to that of the clarity spell. \nCirca Year of the Banner, 1368 DR, a myconid potion brewer, the Concoctor, was forced to serve the eccentric drow Baeloth the Entertainer of the Black Pits in the Underdark. Potions of clarity were among concoctions the fungus-man was selling to the Black Pits gladiators.\nThe same year, these potions were available for purchase from the Sorcerous Sundries of Baldurs Gate, the Temple of Helm, Roger the Fence, of Athkatla, Amn, Wallace of Trademeet, and the bazars of Ust Natha.\nIn the late 14 century DR, potions of clarity were wide-spread throughout the Sword Coast and the Moonsea regions."
     }
 }

@@ -1,56 +1,22 @@
 {
     "document_data": {
-        "image": "Raiders of the Twilight Marsh.png",
-        "caption": "",
-        "code": "DDEX1-12",
-        "title": "Raiders of the Twilight Marsh",
-        "design": "[[Robert Adducci]]",
-        "editor": "[[Claire Hoffman]], [[Chris Tulach]], [[Travis Woodall]]{{Cite adventurers league/Raiders of the Twilight Marsh|1}}",
-        "publisher": "[[Wizards of the Coast]]",
+        "publisher": "Wizards of the Coast",
         "cover_artist": "",
         "inter_artist": "",
         "pages": "33",
         "debut": "February 5, 2015 (Winter Fantasy)",
         "released": "March 1, 2015",
-        "story arc": "''[[Adventurers League/Tyranny of Dragons|Tyranny of Dragons]]''",
-        "realm year": "[[1489 DR]]{{Cite adventurers league/Tyranny in Phlan|7}}<ref>{{cite web/Phlan during the Tyranny of Dragons}}<ref>",
-        "setting": "[[Phlan]]",
+        "story arc": "Tyranny of Dragons",
+        "realm year": "1489 DR",
+        "setting": "Phlan",
         "game_edition": "5",
         "play_time": "",
         "players": "3–7",
-        "levels": "5{{th}} – 10{{th}}",
-        "series": "[[Adventurers League]]",
-        "preceded_by": "''[[Dark Pyramid of Sorcerer's Isle]]''",
-        "followed_by": "''[[Pool of Radiance Resurgent]]''",
-        "source": "[https://www.dmsguild.com/product/170471/DDEX112-Raiders-of-the-Twilight-Marsh-5e dmsguild.com]",
-        "mainbody": "'''''Raiders of the Twilight Marsh''''' is an adventure module set in the ''Forgotten Realms'' using the ''Dungeons & Dragons'' 5{{th}} edition ruleset. It is part of the ''[[Adventurers League/Tyranny of Dragons|Tyranny of Dragons]]'' series of adventures published for the [[Adventurers League|D&D Adventurers League]]. It focuses on [[Phlan]], and is an adventure designed for three to seven 5{{th}}- to 10{{th}}-level characters.\n\n{{Quote|''A [[black dragon]]'s treasure horde has been located in the [[Twilight Marsh]], and within it are secrets that hold interest to the factions. With the dragon marauding over the countryside, the horde is left unguarded. Now is the time to plunder its lair!''|}}",
-        "Index": {
-            "Characters": ":[[Bogclaw]] • [[Braden Yil]] • [[Deathwallow]] • [[Gilfron Milon]] • [[Graxxygak]] • [[Larga Bloodhand]] • [[Lureene Dundragon]] • [[Olisara Lightsong]] • [[Pusriver]] • [[Rhomsan Kal]] • [[Rolk]] • [[Rotface]] • [[Rurry]] • [[Scalesneer]] • [[Seranolla]] • [[Tevish Malacont]] • [[Throstulgrael]] • [[Whiptail]] • [[Yusten Karas]] • [[Zern Xerksti]]\n::{{Refonly}}\n::[[Seerat]] • [[Thalioss]] • [[Uliset Faelgren]] • [[Vorgansharax]]",
-            "Creatures": ":[[black dragon]] • [[dracolich]] • [[dwarf]] • [[drow]] • [[forest gnome]] • [[goblin]] • [[green hag]] • {{P|[[half-dragon]]|21,23,26}} • [[human]]  • [[kobold]] • [[lizardfolk]] • [[moon elf]] • [[orog]] • {{P|[[scorpion]]|19}} • [[shambling mound]] • {{P|[[snake]]|19}} • [[troll]] • [[will-o'-wisp]]",
-            "Locations": {
-                "Buildings & Structures": "[[Valjevo Castle]]\n:;Inns & Taverns: [[Crossing Inn]] • [[Velvet Doublet]]\n:;Ruins: [[Hall of the Black Bull]]",
-                "Islands": "[[Ringcurrent Islands]]",
-                "Region": "[[Moonsea]]",
-                "Roads": "[[Phlan Path]]",
-                "Settlements": "[[Phlan]]",
-                "Swamps": "[[Bloodroot Hollow]] • [[Twilight Marsh]]\n::{{Refonly}}\n::[[Melvaunt]] • [[Mulmaster]] • [[Thar]]"
-            },
-            "Magic": {
-                "Potions": "{{P|[[antitoxin]]|14}} • ''[[elixir of hate]]'' • ''[[potion of healing]]''",
-                "Spells": "''[[Arcane eye]]'' • ''[[Clairvoyance]]'' • ''[[Comprehend languages]]'' • ''[[Conjure animals]]'' • ''[[Cure wounds]]'' • ''[[Dancing lights]]'' • ''[[Detect magic]]'' • ''[[Detect thoughts]]'' • ''[[Dispel magic]]'' • ''[[Divination]]'' • ''[[Druidcraft]]'' • ''[[Entangle]]'' • ''[[Fog cloud]]'' • ''[[Glyph of warding]]'' • ''[[Greater restoration]]'' • ''[[Heat metal]]'' • ''[[Identify]]'' • ''[[Lesser restoration]]'' • ''[[Lay on hands]]'' • ''[[Legend lore]]'' • ''[[Locate object]]'' • ''[[Plant growth]]'' • ''[[Prayer of healing]]'' • ''[[Produce flame]]'' • ''[[Protection from energy]]'' • ''[[Protection from poison]]'' • ''[[Minor illusion]]'' • ''[[Raise dead]]'' • ''[[Remove curse]]'' • ''[[See invisibility]]'' • ''[[Speak with dead]]'' • ''[[Spike growth]]'' • ''[[Thorn whip]]'' • ''[[Tongues]]'' • ''[[Vicious mockery]]'' • ''[[Water walk]]''"
-            },
-            "Organizations": ":[[Bloodroot Coven]] • [[Pitted Scale Clan]]\n:;Player Factions:  [[Emerald Enclave]] • [[Harpers]] • [[Lords' Alliance]] • [[Order of the Gauntlet]] • [[Zhentarim]]\n::{{Refonly}}\n::[[Cult of the Black Bull]] • [[Cult of the Dragon]] • [[House Cadorna]]",
-            "Religions": "::{{Refonly}}\n::[[Semuanya]] • [[Tyr]]",
-            "Miscellaneous": {
-                "Armor & Clothing": "{{P|[[splint mail]]|22,24}}",
-                "Items": "{{P|[[brazier]]|19-21}} • {{P|[[candle]]|12}} • {{P|[[cauldron]]|19,21}} • {{P|[[map]]|7-9,15,22,24}} • {{P|[[net]]|16}} • {{P|[[shackles]]|19-20}} • {{P|[[vial]]|14,21-22}}",
-                "Languages": "{{P|[[Common]]|9,16-17,25-27,29}}",
-                "Materials": "{{P|[[alabaster]]|17}} • {{P|[[basalt]]|17}} • {{P|[[dragonhide]]|22}} • {{P|[[iron]]|8,21}} • {{P|[[paper]]|11,18}}",
-                "Substances": "{{P|[[acid]]|9,13,15-23,26,29}} • {{P|[[alchemist's fire]]|14}} • {{P|[[dung]]|17}} • {{P|[[oil]]|14}} • {{P|[[poison]]|4,13-14,17,19}}",
-                "Vegetation": "{{P|[[lily pad]]|15}} • {{P|[[sycamore]]|15}} • {{P|[[willow]]|15}}",
-                "Weapons": "{{P|[[firepot (ammunition)]]|16}} • {{P|[[stinkpot]]|16}}\n::{{Refonly}}\n::{{P|[[hinge]]|17,22}} • {{P|[[mildew]]|17}} • {{P|''[[Moonsea Cults]]''|6-7,15}} • {{P|[[tongs]]|7}}"
-            }
-        },
-        "Credits": "* '''D&D Organized Play:''' [[Chris Tulach]]\n* '''D&D R&R Player Experience:''' [[Greg Bilsland]]\n* '''D&D Adventurers League Wizards Team:''' [[Greg Bilsland]], [[Chris Lindsay]], [[Shelly Mazzanoble]], [[Chris Tulach]]\n* '''D&D Adventurers League Administrator(s):''' [[Claire Hoffman]], [[Robert Adducci]], [[Bill Benham]], [[Travis Woodall]], [[Greg Marks]], [[Alan Patrick]]"
+        "levels": "5 – 10",
+        "series": "Adventurers League",
+        "preceded_by": "Dark Pyramid of Sorcerers Isle",
+        "followed_by": "Pool of Radiance Resurgent",
+        "source": "[https//www.dmsguild.com/product/170471/DDEX112-Raiders-of-the-Twilight-Marsh-5e dmsguild.com]",
+        "mainbody": "Raiders of the Twilight Marsh is an adventure module set in the Forgotten Realms using the Dungeons & Dragons 5 edition ruleset. It is part of the Tyranny of Dragons series of adventures published for the D&D Adventurers League. It focuses on Phlan, and is an adventure designed for three to seven 5- to 10-level characters.\nBogclaw • Braden Yil • Deathwallow • Gilfron Milon • Graxxygak • Larga Bloodhand • Lureene Dundragon • Olisara Lightsong • Pusriver • Rhomsan Kal • Rolk • Rotface • Rurry • Scalesneer • Seranolla • Tevish Malacont • Throstulgrael • Whiptail • Yusten Karas • Zern Xerksti\nSeerat • Thalioss • Uliset Faelgren • Vorgansharax\nblack dragon • dracolich • dwarf • drow • forest gnome • goblin • green hag •  • human  • kobold • lizardfolk • moon elf • orog •  • shambling mound •  • troll • will-o-wisp\nBuildings & Structures Valjevo Castle\nInns & Taverns Crossing Inn • Velvet Doublet\nRuins Hall of the Black Bull\nIslands Ringcurrent Islands\nRegion Moonsea\nRoads Phlan Path\nSettlements Phlan\nSwamps Bloodroot Hollow • Twilight Marsh\nMelvaunt • Mulmaster • Thar\nPotions  • elixir of hate • potion of healing\nSpells Arcane eye • Clairvoyance • Comprehend languages • Conjure animals • Cure wounds • Dancing lights • Detect magic • Detect thoughts • Dispel magic • Divination • Druidcraft • Entangle • Fog cloud • Glyph of warding • Greater restoration • Heat metal • Identify • Lesser restoration • Lay on hands • Legend lore • Locate object • Plant growth • Prayer of healing • Produce flame • Protection from energy • Protection from poison • Minor illusion • Raise dead • Remove curse • See invisibility • Speak with dead • Spike growth • Thorn whip • Tongues • Vicious mockery • Water walk\nBloodroot Coven • Pitted Scale Clan\nPlayer Factions  Emerald Enclave • Harpers • Lords Alliance • Order of the Gauntlet • Zhentarim\nCult of the Black Bull • Cult of the Dragon • House Cadorna\nSemuanya • Tyr\nArmor & Clothing \nItems  •  •  •  •  •  • \nLanguages \nMaterials  •  •  •  • \nSubstances  •  •  •  • \nVegetation  •  • \nWeapons  • \n •  •  • \n* D&D Organized Play Chris Tulach\n* D&D R&R Player Experience Greg Bilsland\n* D&D Adventurers League Wizards Team Greg Bilsland, Chris Lindsay, Shelly Mazzanoble, Chris Tulach\n* D&D Adventurers League Administrator(s) Claire Hoffman, Robert Adducci, Bill Benham, Travis Woodall, Greg Marks, Alan Patrick"
     }
 }

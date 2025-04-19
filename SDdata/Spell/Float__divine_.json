@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Float",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Creation sphere|Creation]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|5|[[Creation sphere|Creation]]|5}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Float''''' was a [[divine]] [[alteration]] [[spell]] that allowed a [[cleric]] to levitate a large object through the air.",
-        "Effects": "When casting this spell, a cleric bestowed flight upon any object weighing up to 500 lbs (226.8 kg). By maintaining concentration upon the object they could maneuver it through the air at a relatively slow speed. Its duration lasted for a matter of minutes, depending on the skill and experience of the caster.",
-        "Components": "In addition to [[verbal]] and [[somatic component]]s this spell required a small bit of duck down."
+        "mainbody": "Float was a divine alteration spell that allowed a cleric to levitate a large object through the air.\nWhen casting this spell, a cleric bestowed flight upon any object weighing up to 500 lbs (226.8 kg). By maintaining concentration upon the object they could maneuver it through the air at a relatively slow speed. Its duration lasted for a matter of minutes, depending on the skill and experience of the caster.\nIn addition to verbal and somatic components this spell required a small bit of duck down."
     }
 }

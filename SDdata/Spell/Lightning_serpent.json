@@ -1,27 +1,6 @@
 {
-    "template_data": {
-        "edition": "4e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "'''Lightning Serpent'''",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "{{desc/arcane}}{{desc/implement}}{{desc/lightning}}",
-        "level4e": "{{spell table|edition=4e|[[Wizard]]|9}}",
+        "level4e": "",
         "type4e": "Daily",
         "category4e": "",
         "skill4e": "",
@@ -42,7 +21,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Lightning serpent''''' was a [[wizard]] [[spell]], during the period between the [[Spellplague]] and [[Second Sundering]], that unleashed a [[serpent]]-shaped bolt of lightning.",
-        "Effects": "When cast ''lightning serpent'' caused a bolt of lightning to crackle from the spellcaster's hand, that took take on a serpentine appearance as it flew towards the single target of choice. In addition to electrical damage, the target would become [[poison]]ed and their movements would become slowed down.\n\nThe spell's effectiveness could be enhanced by the use of [[implement]]s."
+        "mainbody": "Lightning serpent was a wizard spell, during the period between the Spellplague and Second Sundering, that unleashed a serpent-shaped bolt of lightning.\nWhen cast lightning serpent caused a bolt of lightning to crackle from the spellcasters hand, that took take on a serpentine appearance as it flew towards the single target of choice. In addition to electrical damage, the target would become poisoned and their movements would become slowed down.\nThe spells effectiveness could be enhanced by the use of implements."
     }
 }

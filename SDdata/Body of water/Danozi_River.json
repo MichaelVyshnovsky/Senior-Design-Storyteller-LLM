@@ -1,20 +1,10 @@
 {
-    "template_data": {
-        "130|mi|k|long": "yes"
-    },
     "document_data": {
-        "image": "DanoziRiver.JPG",
-        "caption": "A map showing the Danozi River flowing past Michaca.",
-        "name": "Danozi River",
-        "aliases": "Danozi Wash",
-        "type": "River",
-        "region": "The [[Pasocada Basin]], northern [[Maztica]]",
-        "size": "{{SI|130|mi|k}} long",
         "depth": "",
-        "river source": "[[Dunobo Springs]]",
+        "river source": "Dunobo Springs",
         "river mouth": "",
         "tributaries": "",
-        "tributary of": "The [[Pasocada River]]",
+        "tributary of": "The Pasocada River",
         "georefs": "",
         "races": "",
         "socrefs": "",
@@ -28,8 +18,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "The '''Danozi River''', which was also called the '''Danozi Wash''', was a prominent river found within the [[Pasocada Basin]] of northern [[Maztica]].{{Cite interactive atlas}}",
-        "Geography": "The Danozi originated from an unnamed cliff northeast of [[Michaca]] at the [[Dunobo Springs]]. It flowed southwest through the [[Sun Canyon]] past the City of Gold, then turned to flow southeast to eventually merge with the [[Pasocada River]] near [[Yapoza]]. This main section of the river was approximately {{SI|130|mi|k|long=yes}} long. The Danozi River was joined by a seasonal tributary originating in the east in the lands of the [[mountain lion tribe]]. This seasonal tributary joined the main river at Michaca.",
-        "Notable Locations": "Michaca, the renowned \"City of Gold\", was built along the Danozi River. The settlements of [[Ukolo]] and [[Shokogya]] were found along the banks of the seasonal tributary."
+        "mainbody": "The Danozi River, which was also called the Danozi Wash, was a prominent river found within the Pasocada Basin of northern Maztica.\nThe Danozi originated from an unnamed cliff northeast of Michaca at the Dunobo Springs. It flowed southwest through the Sun Canyon past the City of Gold, then turned to flow southeast to eventually merge with the Pasocada River near Yapoza. This main section of the river was approximately  long. The Danozi River was joined by a seasonal tributary originating in the east in the lands of the mountain lion tribe. This seasonal tributary joined the main river at Michaca.\nMichaca, the renowned \"City of Gold\", was built along the Danozi River. The settlements of Ukolo and Shokogya were found along the banks of the seasonal tributary."
     }
 }

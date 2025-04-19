@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Tyranteyes",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]], [[Evocation]], [[Necromancy]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|9}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Tyranteyes''''' was a [[wizard]] [[spell]] from the schools of [[alteration]], [[evocation]] and [[necromancy]].",
-        "Usage": "This spell allowed the caster to transform into a [[beholder]] for the duration of the spell or until they wished the transformation to end. The caster was transported to an extradimensional space for one minute while their beholder body formed. The caster could cast a single spell during this time, typically a defensive one.\n\nThe caster's regular body remained within the extradimensional space, but their beholder form reappeared in the same place where they stood when the spell was cast. If slain while in beholder form, the caster would remain dead unless a ''[[contingency]]'' was in effect to transport them back to their normal body.\n\nThe caster could perform all normal beholder functions while in that form. Any physical harm suffered as a beholder was not transferred to the caster's regular body so long as they exited the beholder body before it was killed.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, this spell required as a [[material component]] a piece of a once-living beholder to cast."
+        "mainbody": "Tyranteyes was a wizard spell from the schools of alteration, evocation and necromancy.\nThis spell allowed the caster to transform into a beholder for the duration of the spell or until they wished the transformation to end. The caster was transported to an extradimensional space for one minute while their beholder body formed. The caster could cast a single spell during this time, typically a defensive one.\nThe casters regular body remained within the extradimensional space, but their beholder form reappeared in the same place where they stood when the spell was cast. If slain while in beholder form, the caster would remain dead unless a contingency was in effect to transport them back to their normal body.\nThe caster could perform all normal beholder functions while in that form. Any physical harm suffered as a beholder was not transferred to the casters regular body so long as they exited the beholder body before it was killed.\nIn addition to verbal and somatic components, this spell required as a material component a piece of a once-living beholder to cast."
     }
 }

@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "0.5|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Cherry pie.png",
-        "caption": "",
-        "name": "Cherry Pie",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Food",
-        "creator": "",
-        "location": "[[Liam's Hold]], [[west Faerûn]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|0.5|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,8 +14,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Cherry pies''' were sweet baked dishes of [[cherries]] cooked in [[sugar]] and wrapped in pastry dough.",
-        "Description": "Cherry pies were cooked in soft buttery flaky pastry with a stuffing of delectable and succulent red and black cherries poached in [[elderflower wine]] and sugar.",
-        "Availability": "These cherry pies were a staple of [[Nell's Pie Shop]] of [[Liam's Hold]] ''circa'' [[1372 DR]].\n\n[[Turmish]] folk created [[Turmishite apple and bloodberry pie]]s that were especially tart versions of these sweet treats."
+        "mainbody": "Cherry pies were sweet baked dishes of cherries cooked in sugar and wrapped in pastry dough.\nCherry pies were cooked in soft buttery flaky pastry with a stuffing of delectable and succulent red and black cherries poached in elderflower wine and sugar.\nThese cherry pies were a staple of Nells Pie Shop of Liams Hold circa 1372 DR.\nTurmish folk created Turmishite apple and bloodberry pies that were especially tart versions of these sweet treats."
     }
 }

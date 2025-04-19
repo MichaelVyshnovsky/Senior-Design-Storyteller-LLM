@@ -1,39 +1,19 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "edition_1": "4e",
-        "edition_2": "3e",
-        "edition_3": "2e"
-    },
     "document_data": {
-        "image": "Eyebite 5e.png",
-        "caption": "",
-        "name": "Eyebite",
-        "deity": "",
-        "inventor": "[[Smolyn]]",
-        "type": "",
-        "school5e": "[[Necromancy]]",
-        "keywords5e": "",
-        "level5e": "{{spell table|edition=5e|[[Bard]]|6|[[Sorcerer]]|6|[[Warlock]]|6|[[Wizard]]|6}}",
         "type5e": "",
-        "keywords4e": "{{Desc/arcane}}{{desc/charm}}{{desc/implement}}{{desc/psychic}}",
-        "level4e": "{{spell table|edition=4e|[[Warlock]]|1}}",
+        "keywords4e": "",
+        "level4e": "",
         "type4e": "At-Will",
-        "refs4e": "<ref name=PHB4e-p132>",
-        "school3e": "[[Necromancy]]",
+        "school3e": "Necromancy",
         "domains3e": "",
-        "descriptors3e": "{{desc/evil}}",
-        "level3e": "{{spell table|edition=3e|[[Bard]]|6|[[Initiate of Gruumsh]]|6|[[Sorcerer]]|6|[[Wizard]]|6}}",
+        "descriptors3e": "",
+        "level3e": "",
         "type3e": "",
         "reversible2e": "",
-        "school2e": "[[Enchantment/Charm]],<br/>[[Illusion/Phantasm]]<br/>[[Universal (province)]]<br/>[[Mentalism]]",
+        "school2e": "Enchantment/Charm,Illusion/PhantasmUniversal (province)Mentalism",
         "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Arcanist]]|6|[[Wizard]]|6}}",
+        "level2e": "",
         "type2e": "",
-        "refs2e": "<ref><ref>",
-        "mainbody": "reversible1e  =\n| school1e      =\n| level1e       =\n| type1e        =\n| rules         =\n| nocat         =\n}}'''''Eyebite''''' was a [[spell]] that made the caster's gaze cause negative effects.",
-        "Effect": "The spell has changed many times over the years. Usually it was quite difficult to cast, only usable by spellcasters of great skill.\n\nThe oldest known version of the spell had the caster choose between the effects \"Charm\", \"Fear\", \"Sicken\" or \"Sleep\" when casting. When looking at a creature and speaking the command word it would affect the target.\nCharm would attempt to make the target obedient and loyal to the caster, Fear caused terror in the victim making it attempt to escape. Sicken would attempt to weaken the target to half of its ability and it would move half as fast. Sleep would attempt to cause the target to sleep.\n\nA later version would have assaulted a target, causing more ill effects on weaker targets and less so to stronger ones. \"Sickened\" would have effect any one whom the spell succeeded on and it caused the target to be less able in combat and with its abilities or skills. \"Panicked\" would have been applied to the moderate or weak, It caused the target to panic and would become shaken for at least 10 minutes and if it saw the caster during that time it would panic again. \"Comatose\" caused the target to sleep for at least 10 minutes; as this was not a ''sleep'' effect, it could have worked on[[elf| elves]].\n\nAfter the [[Spellplague]] it became a simple [[fey]] [[warlock]] spell that caused [[psychic]] damage to a target and made the caster disappear from the targets sight.<ref name=PHB4e-p132 />\n\nAfter the [[Second Sundering]] the spell changed again. This time the caster's eyes would have changed to a black void. If the caster could see a target within 60 feet, it could use its dread power on it, choosing between \"Asleep\", \"Panicked\" or \"Sickened\". \"Asleep\" simply attempted to make the target fall sleep, \"Panicked\" attempted to make the target always try to get as far away as possible from the caster as possible. \"Sickened\" tried to make the target disadvantaged in combat and in using its abilities.",
-        "Components": "The only components needed were [[verbal]] and [[somatic]].",
-        "History": "The spell was attributed to [[Netherese arcanist]] [[Smolyn]] in {{Yearlink|-1924}} and was originally called '''''Smolyn's eyebite'''''."
+        "mainbody": "| refs2e        =\n| reversible1e  =\n| school1e      =\n| level1e       =\n| type1e        =\n| rules         =\n| nocat         =\nEyebite was a spell that made the casters gaze cause negative effects.\nThe spell has changed many times over the years. Usually it was quite difficult to cast, only usable by spellcasters of great skill.\nThe oldest known version of the spell had the caster choose between the effects \"Charm\", \"Fear\", \"Sicken\" or \"Sleep\" when casting. When looking at a creature and speaking the command word it would affect the target.\nCharm would attempt to make the target obedient and loyal to the caster, Fear caused terror in the victim making it attempt to escape. Sicken would attempt to weaken the target to half of its ability and it would move half as fast. Sleep would attempt to cause the target to sleep.\nA later version would have assaulted a target, causing more ill effects on weaker targets and less so to stronger ones. \"Sickened\" would have effect any one whom the spell succeeded on and it caused the target to be less able in combat and with its abilities or skills. \"Panicked\" would have been applied to the moderate or weak, It caused the target to panic and would become shaken for at least 10 minutes and if it saw the caster during that time it would panic again. \"Comatose\" caused the target to sleep for at least 10 minutes as this was not a sleep effect, it could have worked on elves.\nAfter the Spellplague it became a simple fey warlock spell that caused psychic damage to a target and made the caster disappear from the targets sight.\nAfter the Second Sundering the spell changed again. This time the casters eyes would have changed to a black void. If the caster could see a target within 60 feet, it could use its dread power on it, choosing between \"Asleep\", \"Panicked\" or \"Sickened\". \"Asleep\" simply attempted to make the target fall sleep, \"Panicked\" attempted to make the target always try to get as far away as possible from the caster as possible. \"Sickened\" tried to make the target disadvantaged in combat and in using its abilities.\nThe only components needed were verbal and somatic.\nThe spell was attributed to Netherese arcanist Smolyn in  and was originally called Smolyns eyebite."
     }
 }

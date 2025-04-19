@@ -1,36 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "Conviction.jpg",
-        "caption": "",
-        "name": "Conviction",
-        "othernames": "",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Abjuration]]",
-        "domains3e": "",
-        "descriptors3e": "Pattern",
-        "level3e": "{{Spell table|edition=3e|[[Cleric]]|2}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -44,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Conviction''''' was a [[divine]] [[abjuration]] [[spell]] from the first circle of magic that busted a creature's physical, mental, and spiritual power. The spell could be used by [[cleric]]s.",
-        "Effects": "With a touch, the caster [[cleric]] empowered a target creature. Its morale boost made it harder to fall to panic, fear, and similar feelings in battle, and general empowerment made it harder to fall under the effects of spells, abilities, and physical dangers. The spell's power increased with the cleric's magical prowess and divine favor.",
-        "Components": "The spell required [[verbal component|verbal]], [[Somatic component|somatic]], and the [[material component]] of a small piece of [[parchment]] inscribed with the cleric's deity's holy scripture."
+        "mainbody": "Conviction was a divine abjuration spell from the first circle of magic that busted a creatures physical, mental, and spiritual power. The spell could be used by clerics.\nWith a touch, the caster cleric empowered a target creature. Its morale boost made it harder to fall to panic, fear, and similar feelings in battle, and general empowerment made it harder to fall under the effects of spells, abilities, and physical dangers. The spells power increased with the clerics magical prowess and divine favor.\nThe spell required verbal, somatic, and the material component of a small piece of parchment inscribed with the clerics deitys holy scripture."
     }
 }

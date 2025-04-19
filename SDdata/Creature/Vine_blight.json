@@ -1,14 +1,5 @@
 {
     "document_data": {
-        "image": "Vine Blight D&D 5e.png",
-        "caption": "",
-        "name": "Vine Blight",
-        "othernames": "",
-        "size5e": "Medium",
-        "type5e": "[[Plant creature]]",
-        "subtype5e": "",
-        "alignment5e": "[[Neutral evil]]",
-        "challenge5e": "{{Frac|1|2}}",
         "refs5e": "",
         "size4e": "",
         "origin4e": "",
@@ -29,13 +20,13 @@
         "alignment1e": "",
         "refs1e": "",
         "patron deity": "",
-        "vision": "[[Blindsight]] only",
+        "vision": "Blindsight only",
         "activecycle": "",
         "diet": "",
         "lifespan": "",
         "location": "",
-        "intelligence": "{{Int|5}}",
-        "language": "[[Common]]",
+        "intelligence": "",
+        "language": "Common",
         "climate": "",
         "terrain": "Forest",
         "genrefs": "",
@@ -49,11 +40,6 @@
         "distinctions": "",
         "based": "",
         "first": "",
-        "mainbody": "'''Vine blights''' were a type of [[blight]], a group of evil plant creatures with both movement and some intelligence.",
-        "Description": "Vines blights appeared as masses of vines.",
-        "Behavior": "Alone among the blights, vine blights could speak, and their connection to the spirit of the Gulthias tree that spawned them meant that they spoke in a broken version of the spirit's voice. They were known to taunt victims and bargain with more powerful foes.\n\nVine blights were known to have an almost [[vampire]]-like desire for fresh blood.",
-        "Abilities": "Vine blights were slow to move, but as long as they remained motionless they were indistinguishable from a mere tangle of vines. They could not see, though they had [[blindsight]]. Vine blights also possessed the ability to call vines and roots to burst out of the ground for {{SI|15|ft}} around them, entangling enemies in the area and hampering their movement.",
-        "Ecology": "Vine blights lived in forests under the influence of the [[Gulthias tree]] that spawned them.",
-        "Notable Vine Blights": "* A particularly bloodthirsty group of vine blights, known as the [[holdfast vines]], dwelt in [[Forestfall Fen]] in the late 15{{th}} century [[DR]]. Peculiarly, they did not appear to have been spawned from a Gulthias tree. The mightiest among the holdfast vines was known as [[Smothertree]]."
+        "mainbody": "Vine blights were a type of blight, a group of evil plant creatures with both movement and some intelligence.\nVines blights appeared as masses of vines.\nAlone among the blights, vine blights could speak, and their connection to the spirit of the Gulthias tree that spawned them meant that they spoke in a broken version of the spirits voice. They were known to taunt victims and bargain with more powerful foes.\nVine blights were known to have an almost vampire-like desire for fresh blood.\nVine blights were slow to move, but as long as they remained motionless they were indistinguishable from a mere tangle of vines. They could not see, though they had blindsight. Vine blights also possessed the ability to call vines and roots to burst out of the ground for  around them, entangling enemies in the area and hampering their movement.\nVine blights lived in forests under the influence of the Gulthias tree that spawned them.\n* A particularly bloodthirsty group of vine blights, known as the holdfast vines, dwelt in Forestfall Fen in the late 15 century DR. Peculiarly, they did not appear to have been spawned from a Gulthias tree. The mightiest among the holdfast vines was known as Smothertree."
     }
 }

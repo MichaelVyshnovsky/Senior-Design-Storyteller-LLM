@@ -1,23 +1,5 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "60|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Far Step",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Conjuration]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "{{spell table|edition=5e|[[Sorcerer]]|5|[[Warlock]]|5|[[Wizard]]|5}}",
         "type5e": "",
         "refs5e": "",
         "feature4e": "",
@@ -44,8 +26,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Far step''''' was a [[spell]] that allowed for short-distance teleportation.",
-        "Effects": "A caster used this spell to teleport to a point within sight. This location had to be unoccupied and not father than {{SI|60|ft|long=yes}} from the caster.",
-        "Components": "This spell required only a [[Verbal component|verbal]] component."
+        "mainbody": "Far step was a spell that allowed for short-distance teleportation. \nA caster used this spell to teleport to a point within sight. This location had to be unoccupied and not father than  from the caster. \nThis spell required only a verbal component."
     }
 }

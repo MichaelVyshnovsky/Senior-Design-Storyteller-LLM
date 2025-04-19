@@ -1,30 +1,6 @@
 {
-    "template_data": {
-        "edition": "4e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Tempest Breath",
-        "othernames": "",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "{{desc/acid}}{{Desc/arcane}}{{desc/implement}}",
-        "level4e": "{{spell table|edition=4e|[[Sorcerer]]|1}}",
+        "level4e": "",
         "type4e": "Encounter",
         "category4e": "",
         "skill4e": "",
@@ -45,8 +21,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''Tempest breath''' was an [[arcane]] [[spell]] used by some [[sorcerer]]s, particularly [[Sorcerer#Dragon Sorcerer|dragon sorcerers]], after the [[Spellplague]].",
-        "Effects": "When a sorcerer cast ''tempest breath'', they exhaled a thick mist of acidic vapors that burned and disoriented any creatures within a nearby zone 15 feet (4.6 meters) in diameter. Affected creatures were briefly unable to take advantage of their enemies' vulnerabilities. Dragon sorcerers who used ''tempest breath'' were also concealed from view for several seconds by the lingering, safe mist about them.",
-        "Components": "It required a magical [[implement]] to cast and required a few minutes of rest before reuse."
+        "mainbody": "Tempest breath was an arcane spell used by some sorcerers, particularly dragon sorcerers, after the Spellplague.\nWhen a sorcerer cast tempest breath, they exhaled a thick mist of acidic vapors that burned and disoriented any creatures within a nearby zone 15 feet (4.6 meters) in diameter. Affected creatures were briefly unable to take advantage of their enemies vulnerabilities. Dragon sorcerers who used tempest breath were also concealed from view for several seconds by the lingering, safe mist about them.\nIt required a magical implement to cast and required a few minutes of rest before reuse."
     }
 }

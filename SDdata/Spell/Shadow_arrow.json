@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Shadow Arrow",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Necromancy]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Assassin]]|4|[[Justice of weald and woe]]|4|[[Ranger]]|4}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Shadow arrow''''' was a [[necromancy]] [[spell]] that transformed a normal ''[[arrow]]'' into a missile of pure [[shadow]].",
-        "Effects": "Upon casting this spell, the ''arrow'' was consumed and transmogrified into a bolt of shadow that was shot forth from the caster. Rather than inflict a normal wound, the ''shadow arrow'' greatly weakened the person or creature it struck.",
-        "Casting": "In addition to a [[verbal component]], the casting of this spell required a single ''masterwork arrow''."
+        "mainbody": "Shadow arrow was a necromancy spell that transformed a normal arrow into a missile of pure shadow.\nUpon casting this spell, the arrow was consumed and transmogrified into a bolt of shadow that was shot forth from the caster. Rather than inflict a normal wound, the shadow arrow greatly weakened the person or creature it struck.\nIn addition to a verbal component, the casting of this spell required a single masterwork arrow."
     }
 }

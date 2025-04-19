@@ -1,18 +1,5 @@
 {
-    "template_data": {
-        "1|ounce|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Zedoary",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Plant",
-        "location": "",
-        "useon": "",
-        "origin": "",
-        "value": "{{Plain table|Raw zedoary|3 [[sp]]/oz|Zedoary spice|20 [[gp]]/oz}}",
         "usage": "Food, spice",
         "genrefs": "",
         "consumedby": "",
@@ -27,7 +14,6 @@
         "stemcolor": "",
         "distinctions": "",
         "first": "",
-        "mainbody": "'''Zedoary''' was a plant used as a [[spice]] and alchemical ingredient.",
-        "Availability": "[[Aurora's Whole Realms Catalogue (in-universe)|''Aurora's Whole Realms Catalogue'']] sold raw zedoary for 3 [[sp]] per {{SI|1|ounce|long=yes}} for alchemy, and processed zedoary cooking spices for 20 [[gp]] per ounce."
+        "mainbody": "Zedoary was a plant used as a spice and alchemical ingredient.\nAuroras Whole Realms Catalogue sold raw zedoary for 3 sp per  for alchemy, and processed zedoary cooking spices for 20 gp per ounce."
     }
 }

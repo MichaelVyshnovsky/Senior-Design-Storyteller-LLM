@@ -1,22 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "The Bitter Blade",
-        "aliases": "",
-        "type": "Inn",
-        "architecture": "",
-        "floors": "",
-        "location": "[[Phlan]], [[Moonsea North]], [[Moonsea]]",
-        "built": "",
-        "destroyed": "",
-        "owner": "",
-        "staff": "",
-        "occupants": "",
-        "services": "",
-        "worship": "",
-        "basicrefs": "",
-        "ownertable": "{{Split table| [[Alrem Lorath]]|[[1367 DR]]}}",
         "stafftable": "",
         "histrefs": "",
         "pipes": "",
@@ -34,14 +17,6 @@
         "inhabitants": "",
         "locations": "",
         "organizations": "",
-        "mainbody": "The '''Bitter Blade''' was an inn of bad reputation located in the city of [[Phlan]].",
-        "Location": "Located on the waterfront close to the docks, the rooms of the Bitter Blade were rented mostly to sailors and wayfarers.",
-        "Structure": "The inn was a rather large building, offering 20 rooms that could accommodate 4 to 6 guests each. From the outside, it looked like a well-run and respectable place.",
-        "Interior": {
-            "Atmosphere": "The bad reputation of the Bitter Blade was caused by several factors, among which was the dishonesty of the owner, who would often rent rooms to multiple parties, causing fights between the tenants, as well as the fact that it was the meeting place of the malcontents of the city."
-        },
-        "Services": "Guests at the inn could get food, drink, and a room for the cost of 6 [[gp]] per night.\n\nEvery other fortnight a \"secret\" meeting was organized by the owner, inviting the locals who were unhappy with the current government. During those meetings the attendees would usually speak about doing ''something'' against the current government&mdash;but it was mostly just talk.",
-        "Defenses": "The Bitter Blade was a pretty lawless place. The local watchmen barely intervened when trouble arose in the inn, being far too happy to see the local malcontents in trouble.",
-        "Rumors & Legends": "Due to being frequented mostly by travelers, the Bitter Blade was a good place to learn rumors about the city and the surrounding region.{{Cite dungeon/170/Monument of the Ancients|80}}"
+        "mainbody": "The Bitter Blade was an inn of bad reputation located in the city of Phlan.\nLocated on the waterfront close to the docks, the rooms of the Bitter Blade were rented mostly to sailors and wayfarers.\nThe inn was a rather large building, offering 20 rooms that could accommodate 4 to 6 guests each. From the outside, it looked like a well-run and respectable place.\nThe bad reputation of the Bitter Blade was caused by several factors, among which was the dishonesty of the owner, who would often rent rooms to multiple parties, causing fights between the tenants, as well as the fact that it was the meeting place of the malcontents of the city.\nGuests at the inn could get food, drink, and a room for the cost of 6 gp per night.\nEvery other fortnight a \"secret\" meeting was organized by the owner, inviting the locals who were unhappy with the current government. During those meetings the attendees would usually speak about doing something against the current government&mdashbut it was mostly just talk.\nThe Bitter Blade was a pretty lawless place. The local watchmen barely intervened when trouble arose in the inn, being far too happy to see the local malcontents in trouble.\nDue to being frequented mostly by travelers, the Bitter Blade was a good place to learn rumors about the city and the surrounding region."
     }
 }

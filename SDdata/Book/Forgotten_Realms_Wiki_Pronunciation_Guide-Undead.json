@@ -1,40 +1,7 @@
 {
-    "template_data": {
-        "BÆN|shee|refs": "{{Cite dragon/93/Ay pronunseeAYshun gyd",
-        "LAS|e|danz|refs": "{{Cite dragon/93/Ay pronunseeAYshun gyd",
-        "litch|refs": "{{Cite web/Dungeons & Dragons FAQ"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "code": "",
-        "title": "Pronunciation Guide:<br>Undead",
-        "author": "",
-        "editor": "",
-        "publisher": "",
-        "type": "",
-        "languages": "",
-        "reprinted": "",
-        "cover_artist": "",
-        "inter_artist": "",
-        "cartography": "",
-        "realm year": "",
-        "edition1": "<!-- leave blank if there is only one -->",
-        "binding1": "",
-        "released1": "",
-        "pages1": "",
-        "isbn10-1": "",
-        "isbn13-1": "",
-        "cite1": "",
-        "series": "[[Forgotten Realms Wiki:Pronunciation Guide]]",
-        "preceded_by": "[[Forgotten Realms Wiki:Pronunciation Guide-Races|Races]]",
-        "followed_by": "",
-        "source": "",
-        "-\n| style": "\"text-align: center;\" |[[Lich]]",
-        "style": "\"text-align: center;\" |{{Pronounce|litch|refs={{Cite web/Dungeons & Dragons FAQ}}}}",
-        "-\n|}": "=References==",
-        "mainbody": "refs}}\n5m089tbvge6pg4h9qoachhe7nkhlrw4",
-        "Undead": "{| class=\"wikitable\" style=\"text-align: center;\n! Name\n! Pronunciation\n|-\n| style=\"text-align: center;\" |[[Banshee]]\n| style=\"text-align: center;\" |{{Pronounce|BÆN|shee|refs={{Cite dragon/93/Ay pronunseeAYshun gyd|25}}}}\n|-\n| style=\"text-align: center;\" |[[Lacedon]]\n| style=\"text-align: center;\" |{{Pronounce|LAS|e|danz|refs={{Cite dragon/93/Ay pronunseeAYshun gyd|28}}}}\n|-\n| style=\"text-align: center;\" |[[Lich]]\n| style=\"text-align: center;\" |{{Pronounce|litch|refs={{Cite web/Dungeons & Dragons FAQ}}}}\n|-\n|}",
-        "References": "{{refs}}\n5m089tbvge6pg4h9qoachhe7nkhlrw4"
+        "-\n| style": "\"text-align center\" |Lich",
+        "style": "\"text-align center\" |",
+        "mainbody": "|-\n|\n5m089tbvge6pg4h9qoachhe7nkhlrw4"
     }
 }

@@ -1,21 +1,5 @@
 {
     "document_data": {
-        "image": "Spirit essence.png",
-        "caption": "",
-        "name": "''Spirit Essence''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Potion]]",
-        "creator": "",
-        "location": "[[Kuldahar]], [[Spine of the World]], [[Icewind Dale]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "{{SI|1|lb|k}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -38,7 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Spirit essence''''' was a potent ''[[heal]]ing'' [[potion]] encountered in [[north Faerûn]], [[Icewind Dale]], and the [[Spine of the World]].",
-        "Powers": "''Spirit essence'' concoctions were considered valuable by many. They were created in the far north of [[Faerûn]] by capturing and distilling spirits of [[troll]]s. The process of creation of these potions was so complex that only the most experienced and powerful [[necromancer]]s and [[enchanter]]s dared to attempt it. If brewed correctly, this potion healed even the most severe wounds, instantly regenerating bones and tissues."
+        "mainbody": "Spirit essence was a potent healing potion encountered in north Faerûn, Icewind Dale, and the Spine of the World.\nSpirit essence concoctions were considered valuable by many. They were created in the far north of Faerûn by capturing and distilling spirits of trolls. The process of creation of these potions was so complex that only the most experienced and powerful necromancers and enchanters dared to attempt it. If brewed correctly, this potion healed even the most severe wounds, instantly regenerating bones and tissues."
     }
 }

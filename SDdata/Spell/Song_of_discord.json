@@ -1,35 +1,6 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Song of Discord",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Enchantment]] (Compulsion)",
-        "domains3e": "[[Wrath domain|Wrath]]",
-        "descriptors3e": "{{Desc/mind-affecting}}",
-        "level3e": "{{Spell table|edition=3e|[[Bard]]|5|[[Wrath domain|Wrath]]|6}}",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,11 +14,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Song of discord''''' was an [[enchantment]] [[spell]] that caused the targets to fight each other.",
-        "Effects": "On casting ''song of discord'', creatures within a 20 ft (6 m) radius area of the caster's choice started to fight each other. There was a one in two chance every six seconds that a victim of this spell attacked the nearest creature. When this happened, the victim was compelled by the spell to use its most deadly course of action.",
-        "Components": "''Song of discord'' required only somatic and verbal components.",
-        "History": {
-            "References": "{{Refs}}\n[[Category:Enchantment spells]]\n[[Category:Compulsion spells]]\n[[Category:Bard spells]]\n67gnvgul5tz1eotwyqbjw4221npmfby"
-        }
+        "mainbody": "Song of discord was an enchantment spell that caused the targets to fight each other.\nOn casting song of discord, creatures within a 20 ft (6 m) radius area of the casters choice started to fight each other. There was a one in two chance every six seconds that a victim of this spell attacked the nearest creature. When this happened, the victim was compelled by the spell to use its most deadly course of action.\nSong of discord required only somatic and verbal components.\nCategoryEnchantment spells\nCategoryCompulsion spells\nCategoryBard spells\n67gnvgul5tz1eotwyqbjw4221npmfby"
     }
 }

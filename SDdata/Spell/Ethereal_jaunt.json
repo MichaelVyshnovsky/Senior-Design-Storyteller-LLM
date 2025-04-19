@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Ethereal Jaunt",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Cleric]]|7|[[Sorcerer]]|7|[[Wizard]]|7}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Ethereal jaunt''''' was a [[transmutation]] [[spell]] that turned the caster ethereal, via a trip to the [[Ethereal Plane]].",
-        "Effects": "The caster and all their possessions turned ethereal, becoming insubstantial and invisible in the [[Material Plane]]. They could pass through solid things and living creatures alike, and were thus immune to material attacks. They remained vulnerable to force-related spells and effects like ''[[magic missile]]'' and ''[[wall of force]]'', to [[abjuration]]s, and to certain other attacks and powers, which had effects extending from the Material Plane onto the Ethereal Plane, but the reverse was not true. The caster could not affect material creatures, and their spells could only affect other ethereal creatures, which they could not interact with physically.\n\nThe caster could only see and hear in the Material Plane to a distance of 60 feet (18 meters), but their vision was gray and ephemeral. They could also move in any direction, even vertically, but at half their normal speed.\n\nThe basic spell lasted 42 seconds, longer with more experience, unless dismissed earlier. At the end, the caster was returned to the Material Plane, becoming solid again. If this was within another object, they were shunted to the nearest clear space but took injury for the forced distance moved.",
-        "Components": "It required [[verbal component|verbal]] and [[somatic component]]s."
+        "mainbody": "Ethereal jaunt was a transmutation spell that turned the caster ethereal, via a trip to the Ethereal Plane.\nThe caster and all their possessions turned ethereal, becoming insubstantial and invisible in the Material Plane. They could pass through solid things and living creatures alike, and were thus immune to material attacks. They remained vulnerable to force-related spells and effects like magic missile and wall of force, to abjurations, and to certain other attacks and powers, which had effects extending from the Material Plane onto the Ethereal Plane, but the reverse was not true. The caster could not affect material creatures, and their spells could only affect other ethereal creatures, which they could not interact with physically.\nThe caster could only see and hear in the Material Plane to a distance of 60 feet (18 meters), but their vision was gray and ephemeral. They could also move in any direction, even vertically, but at half their normal speed.\nThe basic spell lasted 42 seconds, longer with more experience, unless dismissed earlier. At the end, the caster was returned to the Material Plane, becoming solid again. If this was within another object, they were shunted to the nearest clear space but took injury for the forced distance moved.\nIt required verbal and somatic components."
     }
 }

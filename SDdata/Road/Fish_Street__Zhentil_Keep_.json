@@ -1,16 +1,10 @@
 {
     "document_data": {
-        "image": "SWZhentil Keep1.jpg",
-        "caption": "A map showing Fish Street in southwest Zhentil Keep.",
-        "name": "Fish Street",
-        "type": "Road",
-        "aliases": "",
-        "length": "{{SI|300|ft}}",
         "width": "",
         "pavement": "",
-        "location": "The [[Zhentil Keep/Common Quarter|Common Quarter]], [[Zhentil Keep]]",
-        "starts": "[[Nool Street]]",
-        "ends": "[[Beggars' Way]]",
+        "location": "The Common Quarter, Zhentil Keep",
+        "starts": "Nool Street",
+        "ends": "Beggars Way",
         "built": "",
         "refs": "",
         "daggers": "",
@@ -24,8 +18,6 @@
         "roads": "yes",
         "bodies of water": "",
         "events": "",
-        "mainbody": "'''Fish Street''' was a small road located in the city of [[Zhentil Keep]] during the mid–14{{th}} century [[DR]].",
-        "Location": "Fish Street was located in Zhentil Keep's [[Zhentil Keep/Common Quarter|Common Quarter]] in the southwestern corner of the city. Fish Street connected [[Nool Street]] in the east with [[Beggars' Way]] in the west.",
-        "Notable Locations": "A [[Zhentarim]] warehouse was located along Fish Street."
+        "mainbody": "Fish Street was a small road located in the city of Zhentil Keep during the mid–14 century DR.\nFish Street was located in Zhentil Keeps Common Quarter in the southwestern corner of the city. Fish Street connected Nool Street in the east with Beggars Way in the west.\nA Zhentarim warehouse was located along Fish Street."
     }
 }

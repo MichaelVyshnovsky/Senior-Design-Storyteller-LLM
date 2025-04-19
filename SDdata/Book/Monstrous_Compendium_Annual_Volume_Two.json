@@ -1,44 +1,5 @@
 {
-    "template_data": {
-        "index": "{{P",
-        "index_1": "{{P",
-        "index_2": "{{P",
-        "index_3": "{{P",
-        "title": "Vegetation",
-        "index_4": "{{P"
-    },
     "document_data": {
-        "image": "Monstrous-Compendium-Annual-Volume-Two-Cover.jpg",
-        "caption": "",
-        "code": "TSR2158",
-        "title": "Vegetation",
-        "author": "[[Jon Pickens]] (Editor)",
-        "cover_artist": "[[Jeff Easley]]",
-        "inter_artist": "[[Walter Velez]], [[Arnie Swekel]], [[Dennis Miller]], [[Glen Michael Angus]], [[Ken Frank]]",
-        "typography": "[[Tracey Isler]]",
-        "publisher": "[[TSR, Inc.]]",
-        "released": "1995",
-        "type": "Accessory",
-        "binding": "Paperback",
-        "pages": "128 pages",
-        "game_edition": "2",
-        "isbn10": "0-7869-0199-3",
-        "isbn13": "9-780786-901999",
-        "series": "[[Monstrous Compendium|Monstrous Compendium Annual]]",
-        "preceded_by": "''[[Monstrous Compendium Annual Volume One]]''",
-        "followed_by": "''[[Monstrous Compendium Annual Volume Three]]''",
-        "source": "",
-        "index": "{{P|[[firethorn]]|96}}",
-        "mainbody": "",
-        "Description": "''Monstrous Compendium Annual Volume Two'' serves as a supplement to the AD&D game, providing an extensive collection of monsters that were previously published in various 1994 ''Advanced Dungeons & Dragons'' modules, as well as ''[[Dungeon magazine|Dungeon]]'' and ''[[Dragon (magazine)|Dragon]]''.\n\nThe structure of the ''Monstrous Compendium Annual Volume Two'' adheres to the format established by earlier ''[[Monstrous Compendium]]'' supplements. It features detailed entries for each monster, including physical descriptions, behaviors, combat tactics, and statistics necessary for gameplay. These entries are designed to be easily integrated into the existing binder system of the ''Monstrous Compendium'' series, allowing for a customizable and expansive monster reference library.\n\nIn addition to monster descriptions, the ''Monstrous Compendium Annual Volume Two'' provides lore and background information for each creature, offering insights into their habitats, societies, and roles within the AD&D world.",
-        "Index": {
-            "Characters": "{{Index\n|index = {{P|[[Trobriand]]|12-17}}\n}}",
-            "Creatures": "{{Index\n|index = {{P|[[addazahr]]|8}};{{P|[[allosaurus]]|35}};{{P|[[amiq rasol]]|9}};{{P|[[archelon ischyras]]|40}};{{P|[[avariel]]|50-51}};{{P|[[axebeak]]|97}};{{P|[[baluchitherium]]|97}};{{P|[[bi-nou]]|20-21}};{{P|[[bloodthorn]]|95}};{{P|[[boggle]]|22}};{{P|[[brine dragon]]|44}};{{P|[[brontosaurus]]|35}};{{P|[[caribou]]|84}};{{P|[[casura]]|60}};{{P|[[cath shee]]|25}};{{P|[[ceratosaurus]]|35}};{{P|[[compsognathus]]|35}};{{P|[[crypt cat]]|26}};{{P|[[curst]]|32}};{{P|[[darktentacles]]|33-34}};{{P|[[death mold]]|88}};{{P|[[deep mold]]|88}};{{P|[[dense pudding]]|99}};{{P|[[dimetrodon]]|37}};{{P|[[dinichthys]]|40}};{{P|[[dobie]]|23}};{{P|[[dracosphinx]]|104}};{{P|[[euparkeria]]|37}};{{P|[[flareater]]|57}};{{P|[[floating eye]]|52}};{{P|[[flumph]]|58}};{{P|[[froghemoth]]|59}};{{P|[[ghaunadan]]|92}};{{P|[[ghul-kin]]|63-64}};{{P|[[giant badger]]|83}};{{P|[[giant beaver]]|83}};{{P|[[giant boar]]|83}};{{P|[[giant goat]]|84}};{{P|[[giant otter]]|83}};{{P|[[giant porcupine]]|83}};{{P|[[giant Portuguese man-o-war]]|74}};{{P|[[giant ram]]|84}};{{P|[[giant sea turtle]]|108}};{{P|[[giant skunk]]|83}};{{P|[[giant snapping turtle]]|108}};{{P|[[giant stag]]|84}};{{P|[[giant weasel]]|83}};{{P|[[giant wolverine]]|83}};{{P|[[gorgosaurus]]|37}};{{P|[[gray pudding]]|99}};{{P|[[great ghul]]|62}};{{P|[[greater doppelganger]]|43}};{{P|[[greater leucrotta]]|78}};{{P|[[greater mimic]]|87}};{{P|[[gulguthydra]]|68}};{{P|[[half-dragon]]|45}};{{P|[[hakeashar]]|69}};{{P|[[herald serpent]]|102}};{{P|[[hippopotamus]]|84}};{{P|[[hyaenodon]]|83}};{{P|[[iguanadon]]|38}};{{P|[[iridescent plecos]]|55-56}};{{P|[[irish deer]]|97}};{{P|[[kalin]]|75}};{{P|[[ker]]|61}};{{P|[[kholiathra]]|76}};{{P|[[laerti]]|77}};{{P|[[lemon fish]]|55-56}};{{P|[[llama]]|84}};{{P|[[marl]]|85}};{{P|[[masher]]|52-53}};{{P|[[megatherium]]|97}};{{P|[[meenlock]]|86}};{{P|[[moon-horse]]|70}};{{P|[[monoclonius]]|38}};{{P|[[mosasaurus]]|40}};{{P|[[nature elemental]]|49}};{{P|[[nothosaurus]]|41}};{{P|[[nyth]]|91}};{{P|[[ox]]|84}};{{P|[[palimpsest]]|93}};{{P|[[peltast]]|94}};{{P|[[phororhacos]]|97-98}};{{P|[[plateosaurus]]|38}};{{P|[[plesiosaurus]]|41}};{{P|[[quickling]]|25}};{{P|[[raggamoffyn]]|100-101}};{{P|[[rhinoceros]]|84}};{{P|[[scaladar]]|12-13}};{{P|[[sea wyrm]]|46}};{{P|[[shadow lurker]]|80}};{{P|[[seelie|sprite, seelie faerie]]|105}};{{P|[[unseelie|sprite, unseelie faerie]]|106}};{{P|[[squealer]]|107}};{{P|[[stag]]|84}};{{P|[[stone pudding]]|99}};{{P|[[struthiomimus]]|39}};{{P|[[tanystropheus]]|39}};{{P|[[teak serpent]]|102}};{{P|[[temnodontosaurus]]|41}};{{P|[[teratosaurus]]|39}};{{P|[[titanothere]]|97-98}};{{P|[[trachodon]]|39}};{{P|[[twilight bloom]]|95}};{{P|[[umpleby]]|109}};{{P|[[verme]]|52,54}};{{P|[[vistani]]|72-73}};{{P|[[Vizier's turban]]|110-111}};{{P|[[wall-walker]]|112}};{{P|[[wattley]]|55}};{{P|[[webbird]]|113}};{{P|[[werepanther]]|81}};{{P|[[wereshark]]|82}};{{P|[[wild dwarf]]|47}};{{P|[[wooly rhinoceros]]|97-98}};{{P|[[wraith spider]]|114}};{{P|[[yak-man]]|115-116}};{{P|[[zebranaur]]|30}};{{P|[[zorbo]]|117}}\n}}",
-            "Locations": "{{Index\n|index = {{P|[[Arborea]]|76}};{{P|[[Athas]]|65}};{{P|[[Chult]]|47}};{{P|[[Demiplane of Shadow]]|67}};{{P|[[Elemental Plane of Earth]]|116}};{{P|[[Evermeet]]|25,70,76}};{{P|[[Negative Material plane]]|9,79}};{{P|[[Netheril]]|49}};{{P|[[Positive Energy plane]]|89}};{{P|[[Toril]]|25,47,49,70,76}}\n}}",
-            "Religions": "{{Index\n|index = {{P|[[Forgotten God]]|115-116}};{{P|[[Sehanine Moonbow]]|76}};{{P|[[Seldarine]]|25,76}}\n}}",
-            "Miscellaneous": "{{Index\n|title = Vegetation\n|index = {{P|[[firethorn]]|96}}\n}}"
-        },
-        "Gallery": "<gallery>\nMonstrous Compendium Annual Volume Two Back Cover.jpg|''Back Cover''\n</gallery>",
-        "Credits": "* '''Editor:''' Jon Pickens\n* '''Creative Director:''' Steve Winter\n* '''Cover Artist:''' Jeff Easley\n* '''Interior Artist:''' Walter Velez, Arnie Swekel, Dennis Miller, Glen Michael Angus, Ken Frank\n* '''Additional Art:''' Tom Baxa, Stephen A. Daniele, Mark Sopperland\n* '''Graphic Artits:''' Paul Hanchette, Don Danowski\n* '''Art Director:''' Stephen A. Daniele\n* '''Electronic Pre-press Coordinator:''' Dave Conant\n* '''Typography:''' Tracey I. Isler"
+        "mainbody": "he Monstrous Compendium Annual Volume Two is a 2-edition Advanced Dungeons & Dragons accessory.\nMonstrous Compendium Annual Volume Two serves as a supplement to the AD&D game, providing an extensive collection of monsters that were previously published in various 1994 Advanced Dungeons & Dragons modules, as well as Dungeon and Dragon.\nThe structure of the Monstrous Compendium Annual Volume Two adheres to the format established by earlier Monstrous Compendium supplements. It features detailed entries for each monster, including physical descriptions, behaviors, combat tactics, and statistics necessary for gameplay. These entries are designed to be easily integrated into the existing binder system of the Monstrous Compendium series, allowing for a customizable and expansive monster reference library.\nIn addition to monster descriptions, the Monstrous Compendium Annual Volume Two provides lore and background information for each creature, offering insights into their habitats, societies, and roles within the AD&D world.\nMonstrous Compendium Annual Volume Two Back Cover.jpg|Back Cover\n* Editor Jon Pickens\n* Creative Director Steve Winter\n* Cover Artist Jeff Easley\n* Interior Artist Walter Velez, Arnie Swekel, Dennis Miller, Glen Michael Angus, Ken Frank\n* Additional Art Tom Baxa, Stephen A. Daniele, Mark Sopperland\n* Graphic Artits Paul Hanchette, Don Danowski\n* Art Director Stephen A. Daniele\n* Electronic Pre-press Coordinator Dave Conant\n* Typography Tracey I. Isler"
     }
 }

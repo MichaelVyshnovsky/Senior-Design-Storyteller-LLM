@@ -1,47 +1,5 @@
 {
-    "template_data": {
-        "alt": "Three adventurers fighting a giant spider in the foreground. They are in several positions on a pile of sand; the closest one is on his side, the second closest wields the front of a broken spear, and the furthest one is close to a hole in the ceiling from which a column of light falls. The sky through the hole is yellow.",
-        "100|foot|long": "yes",
-        "70|foot|long": "yes",
-        "adj": "tall"
-    },
     "document_data": {
-        "image": "[[File:Giant spider fighting adventurers in pile of sand.png|alt=Three adventurers fighting a giant spider in the foreground. They are in several positions on a pile of sand; the closest one is on his side, the second closest wields the front of a broken spear, and the furthest one is close to a hole in the ceiling from which a column of light falls. The sky through the hole is yellow.|thumb]]",
-        "caption": "Giant spiders infested the Temple of Eilish.",
-        "name": "Temple of Eilish",
-        "aliases": "",
-        "type": "Ruined temple",
-        "architecture": "",
-        "floors": "",
-        "location": "[[Pazar]], [[Raurin]]",
-        "built": "",
-        "destroyed": "",
-        "owner": "",
-        "staff": "",
-        "occupants": "",
-        "services": "",
-        "worship": "",
-        "basicrefs": "",
-        "ownertable": "",
-        "stafftable": "",
-        "histrefs": "",
-        "pipes": "",
-        "tankards": "",
-        "coins": "",
-        "daggers": "",
-        "stars": "",
-        "coinstacks": "",
-        "skulls": "",
-        "quality": "",
-        "price": "",
-        "volorefs": "",
-        "usethe": "",
-        "useon": "",
-        "inhabitants": "",
-        "locations": "",
-        "organizations": "",
-        "mainbody": "The '''Temple of Eilish''' was one of the last surviving structures in [[Pazar]], a city in [[Raurin]]. The [[efreet]] [[Khalitharius]] was imprisoned there beneath the [[Star of Aga-Pelar]].{{cite book/Desert of Desolation|39}}",
-        "Overview": "The Temple of Eilish was beneath the Statue of [[Kalif Maniozimus]]; the temple had actually sunk into the ground after the drying of the Athis, owing to the abandonment of the spells that kept up the city of Pazar.{{cite book/Desert of Desolation|36}} People close enough to read the inscription of the statue were at risk of falling into its dome.{{cite book/Desert of Desolation|37}}\n\nThe dome beneath the statue was the only surviving structure of any note; the {{SIAdj|100|foot|long=yes}} tall structure had a {{SIAdj|70|foot|long=yes|adj=tall}} pile of sand in it. The place was crawling with [[giant spider|giant tarantulas]]. A magically obfuscated inscription warned against disturbing the Vanquished One, referring to Khalitharius. The area leading to Khalitharius's imprisonment chamber was magically password locked; the passwords were held in a scroll room.\n\nKhalitharius's imprisonment chamber was warded by three rows of two statues, each of which projected a magical barrier between the statues. The first barrier was destructive cold, the second barrier was a curtain of powerful electricity, and the third one was an extremely powerful flame shield. Passwords would bypass all of those barriers and were found in the same room. Behind all the barriers was the Star of Aga-Pelar, set above an altar of white [[marble]]; that altar was Khalitharius's prison.{{cite book/Desert of Desolation|38-39}}",
-        "History": "After binding Khalitharius in a lead box around the year {{yearlink|350}}, [[Martek]] had it taken to the Temple of Eilish, where it would be kept.\n\nIn {{yearlink|1356}}, adventurers sent by [[Aman Al-Raqib]] retrieved the Star of Aga-Pelar, releasing Khalitharius in the process."
+        "mainbody": "he Temple of Eilish was one of the last surviving structures in Pazar, a city in Raurin. The efreet Khalitharius was imprisoned there beneath the Star of Aga-Pelar.\nThe Temple of Eilish was beneath the Statue of Kalif Maniozimus the temple had actually sunk into the ground after the drying of the Athis, owing to the abandonment of the spells that kept up the city of Pazar. People close enough to read the inscription of the statue were at risk of falling into its dome.\nThe dome beneath the statue was the only surviving structure of any note the  tall structure had a  pile of sand in it. The place was crawling with giant tarantulas. A magically obfuscated inscription warned against disturbing the Vanquished One, referring to Khalitharius. The area leading to Khalithariuss imprisonment chamber was magically password locked the passwords were held in a scroll room.\nKhalithariuss imprisonment chamber was warded by three rows of two statues, each of which projected a magical barrier between the statues. The first barrier was destructive cold, the second barrier was a curtain of powerful electricity, and the third one was an extremely powerful flame shield. Passwords would bypass all of those barriers and were found in the same room. Behind all the barriers was the Star of Aga-Pelar, set above an altar of white marble that altar was Khalithariuss prison.\nAfter binding Khalitharius in a lead box around the year , Martek had it taken to the Temple of Eilish, where it would be kept.\nIn , adventurers sent by Aman Al-Raqib retrieved the Star of Aga-Pelar, releasing Khalitharius in the process."
     }
 }

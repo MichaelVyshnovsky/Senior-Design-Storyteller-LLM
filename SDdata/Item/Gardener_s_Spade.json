@@ -1,30 +1,8 @@
 {
-    "template_data": {
-        "4|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Gardener's Spade''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Staff]]",
-        "creator": "",
-        "location": "[[Wanderfen]], [[West Harbor]], [[Mere of Dead Men]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "10{{th}}",
         "itemlevel3e": "+1",
         "value3e": "",
-        "weight3e": "{{SI|4|lb|k|long=yes}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,9 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Gardener's Spade''''' was an [[enchanted]] [[Chauntean]] [[staff]] with a [[spade]] head attached to one end.",
-        "Description": "''Gardener's Spade'' was a weapon and a tool that had seen the passage of many years. Its [[willow]] [[tree]] [[wood]] was tinted with green, and the shovel head appeared fragile. Despite its flimsy appearance, the ''Gardener's Spade's'' magics made it virtually unbreakable.",
-        "Powers": "''Gardener's Spade'' was touched by the [[Earthmother]] herself. [[Chauntea]]'s ''[[bless]]ings'' gave the staff a ''+1'' enchantment and fortified the wielder's constitution. Additionally, ''Gardener's Spade'' could heal with a single casting of the ''[[cure moderate wounds]]'' once a day.",
-        "History": "''Gardener's Spade'' belonged to [[Goodwife Aruna]] of [[Wanderfen]], who became a refugee in the {{YearlinkName|1374}} shortly after the [[Shadow War]] scarred the [[Sword Coast North]]. She carried her Chauntean weapon to her new home in the village of [[West Harbor]] in the [[Mere of Dead Men]]. She offered the ''Spade'' to any adventurer driven enough to recover her lost shawl from the lair of twin [[black dragon]]s [[Voaraghamanthar]] and [[Waervaerendor]]."
+        "mainbody": "Gardeners Spade was an enchanted Chauntean staff with a spade head attached to one end.\nGardeners Spade was a weapon and a tool that had seen the passage of many years. Its willow tree wood was tinted with green, and the shovel head appeared fragile. Despite its flimsy appearance, the Gardeners Spades magics made it virtually unbreakable.\nGardeners Spade was touched by the Earthmother herself. Chaunteas blessings gave the staff a +1 enchantment and fortified the wielders constitution. Additionally, Gardeners Spade could heal with a single casting of the cure moderate wounds once a day.\nGardeners Spade belonged to Goodwife Aruna of Wanderfen, who became a refugee in the  shortly after the Shadow War scarred the Sword Coast North. She carried her Chauntean weapon to her new home in the village of West Harbor in the Mere of Dead Men. She offered the Spade to any adventurer driven enough to recover her lost shawl from the lair of twin black dragons Voaraghamanthar and Waervaerendor."
     }
 }

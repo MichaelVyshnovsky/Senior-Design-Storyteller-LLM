@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "204|lb|k|long": "yes",
-        "6'1|'\"|long": "yes",
-        "adj": "tall"
-    },
     "document_data": {
-        "image": "Ratha Rann.jpg",
-        "caption": "",
-        "name": "Ratha Rann",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "Ratha Rann the Eagle-Eyed",
-        "true name": "",
-        "home": "[[Nellie Thursday Home for Experienced Adventurers]], [[Toril]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "gender": "",
-        "race": "[[Human]]",
-        "ethnicity": "",
-        "occupation": "Adventurer",
-        "age": "",
-        "patron deity": "[[Mielikki]]",
-        "languages": "",
-        "basicrefs": "{{Cite card/AD&D Trading Cards/1993|251|Ratha Rann the Eagle-Eyed}}",
         "reckoning": "",
         "dob": "",
         "dobnotes": "",
@@ -49,9 +24,9 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Neutral good]]",
-        "class2e": "{{class table|edition=2e|[[Ranger]]|9}}",
-        "refs2e": "{{Cite polyhedron/72/Experience Preferred, Part One|17-18}}",
+        "alignment2e": "Neutral good",
+        "class2e": "",
+        "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
         "class3e": "",
@@ -67,10 +42,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Ratha Rann the Eagle-Eyed''' was one of the retired adventurers inhabiting [[Nellie Thursday Home for Experienced Adventurers]] sometime in the mid-to-late 14{{th}} century [[DR]].",
-        "Description": "Ratha was an aging man of {{SI|204|lb|k|long=yes}}. He had a {{SIAdj|6'1|'\"|long=yes|adj=tall}} frame and wore [[optic aid]]s to help his near-sighted brown eyes. He [[dye]]d his gray hair black. Ratha adopted a womanizing habit of chasing every skirt that crossed his eyes to recapture his lost youth. The adventurer [[Ada the Unbending]] was one of the targets of Ratha's affections.",
-        "Possessions": "The man's adventuring gear included an [[enchanted]] ''+2 [[chain mail]]'', a magic ''+1 [[shield]]'', a deadly ''+1 [[longsword]]'', a ''+2 [[longbow]]'', and enchanted ''+1 [[arrow]]s''. However, his most notable possession was a pair of the ''[[bifocals of the eagle]]''.",
-        "Abilities": "Ratha spoke several languages including the [[Common]], [[Luiric]], [[Elvish]], and [[Hill giant language]]s. He was trained in fighting with [[axe]]s, [[spear]]s, longswords, and [[knives]], and was a capable marksman with [[javelin]]s and longbows. As an adventurer, Rann was a proficient blind fighter, knew survival skills such as fire-building, and had a reliable direction sense and tracking. He also knew how to play a [[lyre]].\n\nAs a [[ranger]], Rann could cast some limited magics from the [[plant sphere|plant]] and [[animal sphere]]s.",
-        "History": "In the mid-to-late 14{{th}} century DR, Ratha Rann was 92 and had been retired for around 25 years, following some unexpected financial reverses. In his retirement years, Ratha Rann desperately tried to prove to everyone and himself that he was not yet old, showing it by courting every attractive female he met. One of his conquests was a woman who was 22 years younger than the retired adventurer, but when they planned to move in together, the age difference ended up being a public scandal and caused a breakup, leaving the man single ever since.\n\nHowever, Ada the Unbending mesmerized the aging adventurer and, to impress her, Ratha Rann embarked on an adventure that ended up dragging him across several worlds, including{{Cite polyhedron/72/Experience Preferred, Part One|11}} the jungles of [[Quorsit]];{{Cite polyhedron/73/Experience Preferred, Part Two|7}} and the [[demi-plane]] of [[Kansas]].{{Cite polyhedron/74/Experience Preferred, Part III|16}}"
+        "mainbody": "Ratha Rann the Eagle-Eyed was one of the retired adventurers inhabiting Nellie Thursday Home for Experienced Adventurers sometime in the mid-to-late 14 century DR.\nRatha was an aging man of . He had a  frame and wore optic aids to help his near-sighted brown eyes. He dyed his gray hair black. Ratha adopted a womanizing habit of chasing every skirt that crossed his eyes to recapture his lost youth. The adventurer Ada the Unbending was one of the targets of Rathas affections.\nThe mans adventuring gear included an enchanted +2 chain mail, a magic +1 shield, a deadly +1 longsword, a +2 longbow, and enchanted +1 arrows. However, his most notable possession was a pair of the bifocals of the eagle.\nRatha spoke several languages including the Common, Luiric, Elvish, and Hill giant languages. He was trained in fighting with axes, spears, longswords, and knives, and was a capable marksman with javelins and longbows. As an adventurer, Rann was a proficient blind fighter, knew survival skills such as fire-building, and had a reliable direction sense and tracking. He also knew how to play a lyre.\nAs a ranger, Rann could cast some limited magics from the plant and animal spheres.\nIn the mid-to-late 14 century DR, Ratha Rann was 92 and had been retired for around 25 years, following some unexpected financial reverses. In his retirement years, Ratha Rann desperately tried to prove to everyone and himself that he was not yet old, showing it by courting every attractive female he met. One of his conquests was a woman who was 22 years younger than the retired adventurer, but when they planned to move in together, the age difference ended up being a public scandal and caused a breakup, leaving the man single ever since.\nHowever, Ada the Unbending mesmerized the aging adventurer and, to impress her, Ratha Rann embarked on an adventure that ended up dragging him across several worlds, including the jungles of Quorsit and the demi-plane of Kansas."
     }
 }

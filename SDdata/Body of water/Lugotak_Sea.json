@@ -1,19 +1,5 @@
 {
-    "template_data": {
-        "10|12|ft|long": "yes",
-        "1|ft|c|long": "yes",
-        "1|ft|c|long_1": "yes",
-        "50|mi|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Lugotak Sea",
-        "aliases": "Secret Sea",
-        "type": "Sea",
-        "region": "[[Alpuk]], the [[Great Glacier]]",
-        "size": "",
-        "depth": "{{SIrange|3|12|ft}}",
         "river source": "",
         "river mouth": "",
         "tributaries": "",
@@ -31,9 +17,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "'''Lugotak Sea''' was a sea in the [[Alpuk]] region of the [[Great Glacier]].",
-        "Description": "The Lugotak Sea was very shallow. The deepest point of the lake was only {{SIrange|10|12|ft|long=yes}} in depth. The sea was constantly covered with a thin pack of ice. Covering the ice was a layer of wind-blown snow {{SI|1|ft|c|long=yes}} thick. The sea bed was covered with sharp spears of ice. Needle-shapped, the ice rose up from the sea bed to within {{SI|1|ft|c|long=yes}} of the surface.\n\nThis combination of factors made the Lugotak Sea one of the most deadly locations on the Great Glacier. Countless unfortunate souls have wandered onto the thin ice sheet, crashing through to be impaled on the sharp ice and drowning in the freezing water while bleeding out.",
-        "Geography": "The Lugotak Sea was located in the southwestern corner of Alpuk, {{SI|50|mi|k|long=yes}} from the [[Tuutsaas Chain]]. The sea lies in the path of the major pass of the Tuutsaas Chain. The [[Uppuk River]] flowed into the sea.",
-        "Flora & Fauna": "The Lugotak Sea was home to a species of aggressive [[seal]] who had sharp fangs"
+        "mainbody": "Lugotak Sea was a sea in the Alpuk region of the Great Glacier.\nThe Lugotak Sea was very shallow. The deepest point of the lake was only  in depth. The sea was constantly covered with a thin pack of ice. Covering the ice was a layer of wind-blown snow  thick. The sea bed was covered with sharp spears of ice. Needle-shapped, the ice rose up from the sea bed to within  of the surface.\nThis combination of factors made the Lugotak Sea one of the most deadly locations on the Great Glacier. Countless unfortunate souls have wandered onto the thin ice sheet, crashing through to be impaled on the sharp ice and drowning in the freezing water while bleeding out.\nThe Lugotak Sea was located in the southwestern corner of Alpuk,  from the Tuutsaas Chain. The sea lies in the path of the major pass of the Tuutsaas Chain. The Uppuk River flowed into the sea.\nThe Lugotak Sea was home to a species of aggressive seal who had sharp fangs"
     }
 }

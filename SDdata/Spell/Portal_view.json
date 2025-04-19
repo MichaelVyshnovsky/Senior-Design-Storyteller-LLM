@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Portal View",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Divination]] (Scrying)",
-        "domains3e": "[[Portal domain|Portal]]",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Bard]]|4|[[Portal domain|Portal]]|3|[[Sorcerer]]|3|[[Wizard]]|3}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,9 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Portal view''''' was a [[divination]] [[spell]] that allowed people to see through ''[[portal]]s''.",
-        "Effects": "[[File:Portal.JPG|250px|thumb|right|''A rare portal that gave off information about its destination.'']]\nAs a general rule, ''portals'' were invisible, and it was not possible to see what was on the other side of the ''portal''. Mundane methods like sticking one's head into a ''portal'' did not work; a person who tried such a thing was immediately sent to the other side. The ''portal view'' spell made such a view possible. It made one side, the side where the caster was located, transparent, thus allowing people to see where the ''portal'' led. This spell only allowed light to pass through from the destination; it did not allow one to send a spell through the ''portal''.",
-        "Components": "''Portal view'' required [[somatic]] and [[verbal component]]s, a focus&mdash;a [[divine focus]] when cast by a divine spellcaster, a glass eye when cast by an arcane spellcaster&mdash;and ten minutes to cast.",
-        "History": "By [[1372 DR]], a [[magic]]al [[staff]] called a ''[[staff of portals]]'' had been invented in the [[Underdark]] that could be used to cast the spell. It required the ''portal view'' spell to craft."
+        "mainbody": "Portal view was a divination spell that allowed people to see through portals.\n250px|thumb|right|A rare portal that gave off information about its destination.\nAs a general rule, portals were invisible, and it was not possible to see what was on the other side of the portal. Mundane methods like sticking ones head into a portal did not work a person who tried such a thing was immediately sent to the other side. The portal view spell made such a view possible. It made one side, the side where the caster was located, transparent, thus allowing people to see where the portal led. This spell only allowed light to pass through from the destination it did not allow one to send a spell through the portal.\nPortal view required somatic and verbal components, a focus&mdasha divine focus when cast by a divine spellcaster, a glass eye when cast by an arcane spellcaster&mdashand ten minutes to cast.\nBy 1372 DR, a magical staff called a staff of portals had been invented in the Underdark that could be used to cast the spell. It required the portal view spell to craft."
     }
 }

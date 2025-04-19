@@ -1,37 +1,8 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Heavenly Lightning Storm",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Evocation]]",
-        "domains3e": "[[Celestial domain|Celestial]]",
-        "descriptors3e": "{{desc/good}}",
-        "level3e": "{{spell table|edition=3e|[[Exalted arcanist]]|7|[[Celestial domain|Celestial]]|7}}",
+        "level3e": "",
         "type3e": "",
-        "refs3e": "{{cite book/Book of Exalted Deeds|62,86m100-101}}",
+        "refs3e": "",
         "reversible2e": "",
         "school2e": "",
         "spheres2e": "",
@@ -43,7 +14,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Heavenly lightning storm''''' was an [[evocation]] [[spell]] that shocked targets with divine lightning. It was a more powerful version of ''[[heavenly lightning]]''.",
-        "Effect": "Functioning like ''heavenly lightning'', this created a storm of arcs of radiant lightning at a more distant range and over a greater area, and target twice as many creatures. They were shocked with a unique celestial electricity."
+        "mainbody": "Heavenly lightning storm was an evocation spell that shocked targets with divine lightning. It was a more powerful version of heavenly lightning.\nFunctioning like heavenly lightning, this created a storm of arcs of radiant lightning at a more distant range and over a greater area, and target twice as many creatures. They were shocked with a unique celestial electricity."
     }
 }

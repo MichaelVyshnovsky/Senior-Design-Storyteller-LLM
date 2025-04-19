@@ -1,21 +1,7 @@
 {
-    "template_data": {
-        "edition": "4e",
-        "url": "http://wizards.com/download.asp?filename=366_Dragon.pdf",
-        "author": "[[Bruce R. Cordell]]",
-        "title": "Wish Upon a Star",
-        "format": "PDF",
-        "work": "Dragon magazine 366",
-        "pages": "21"
-    },
     "document_data": {
-        "type": "daily",
-        "name": "Fevered Certainty of Caiphon",
-        "school": "",
-        "keywords4e": "{{desc/arcane}}{{desc/implement}}",
-        "level4e": "{{spell table|edition=4e|[[Warlock]]|2}}",
+        "level4e": "",
         "type4e": "Daily",
-        "mainbody": "'''''Fevered certainty of Caiphon''''' is [[spell]] used by [[warlock]]s, most often those of the [[Warlock#Star pact warlock|star pact]]. When cast, ''fevered certainty of Caiphon'' bestows upon its caster with dark and forbidden knowledge, giving them an advantage over others in various mundane or heroic tasks alike. However, the knowledge is intoxicating and flushes the warlock with a small touch of the madness of the [[Far Realm]], which like the benefits gained, lasts only for a moment. The spell is difficult to cast and warlocks can only call upon [[Caiphon]]'s power in this way once per day.",
-        "References": "*{{cite web|url=http://wizards.com/download.asp?filename=366_Dragon.pdf |author=[[Bruce R. Cordell]]|title=Wish Upon a Star|format=PDF |work=Dragon magazine 366|pages=21}}\n[[Category:Warlock spells]]\nk26x6itm9kz5y3kd0dwuyuff2lzj4r2"
+        "mainbody": "Fevered certainty of Caiphon is spell used by warlocks, most often those of the star pact. When cast, fevered certainty of Caiphon bestows upon its caster with dark and forbidden knowledge, giving them an advantage over others in various mundane or heroic tasks alike. However, the knowledge is intoxicating and flushes the warlock with a small touch of the madness of the Far Realm, which like the benefits gained, lasts only for a moment. The spell is difficult to cast and warlocks can only call upon Caiphons power in this way once per day.\n*\nCategoryWarlock spells\nk26x6itm9kz5y3kd0dwuyuff2lzj4r2"
     }
 }

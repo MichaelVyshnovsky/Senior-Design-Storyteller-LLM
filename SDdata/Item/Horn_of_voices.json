@@ -1,24 +1,5 @@
 {
-    "template_data": {
-        "rca": "right",
-        "1|mi|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Horn of Voices''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Horn]]",
-        "creator": "",
-        "location": "[[Coliar]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "{{Split table|rca=right|On Coliar|1,250 [[gp]]|Elsewhere|5,250 gp}}",
         "weight2e": "",
         "refs2e": "",
         "school3e": "",
@@ -42,8 +23,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "A '''''horn of voices''''' was a [[magic item|magical]] [[horn]] that projected sound over a very large area.",
-        "Powers": "The ''horn'' projected any sound applied to it, such as its user's voice, so that it could be heard everywhere within a radius of {{SI|1|mi|k|long=yes}}. There was no need for the user to shout, and the projected sound had the same volume for both nearby and faraway listeners.\n\nThere was no command word to activate or deactivate a ''horn of voices'', so it also amplified nearby sounds even if not in use, basically making it impossible for anyone to approach an area withour being heard. This unwelcome side effect could be avoided by placing the ''horn'' in an airtight container.",
-        "History": "''Horns of voices'' were common to all cultures in [[Coliar]], which used the items to communicate over large areas.\n\nIt was possible to acquire ''horns of voices'' outside of Coliar, but they were considerably more expensive."
+        "mainbody": "A horn of voices was a magical horn that projected sound over a very large area.\nThe horn projected any sound applied to it, such as its users voice, so that it could be heard everywhere within a radius of . There was no need for the user to shout, and the projected sound had the same volume for both nearby and faraway listeners.\nThere was no command word to activate or deactivate a horn of voices, so it also amplified nearby sounds even if not in use, basically making it impossible for anyone to approach an area withour being heard. This unwelcome side effect could be avoided by placing the horn in an airtight container.\nHorns of voices were common to all cultures in Coliar, which used the items to communicate over large areas.\nIt was possible to acquire horns of voices outside of Coliar, but they were considerably more expensive."
     }
 }

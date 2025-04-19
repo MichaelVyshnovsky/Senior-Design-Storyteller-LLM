@@ -1,37 +1,17 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "variant": "ritual",
-        "edition_1": "4e",
-        "variant_1": "ritual",
-        "edition_2": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Gentle Repose",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Necromancy]]",
-        "domains5e": "[[Grave domain|Grave]]",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "level5e": "{{Spell table|edition=5e|variant=ritual|[[Cleric]]|2|[[Grave domain|Grave]]|2|[[Wizard]]|2}}",
-        "type5e": "[[Ritual]]",
+        "type5e": "Ritual",
         "refs5e": "",
         "keywords4e": "",
-        "level4e": "{{spell table|edition=4e|variant=ritual|Restoration|1}}",
+        "level4e": "",
         "type4e": "Ritual",
         "category4e": "Restoration",
         "skill4e": "Heal",
         "refs4e": "",
-        "school3e": "[[Necromancy]]",
-        "domains3e": "[[Repose domain|Repose]], [[Time domain|Time]]",
+        "school3e": "Necromancy",
+        "domains3e": "Repose, Time",
         "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Cleric]]|2|[[Repose domain|Repose]]|2|[[Sorcerer]]|3|[[Time domain|Time]]|2|[[Wizard]]|3}}",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -47,6 +27,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Gentle repose''''' was a restoration ritual that magically preserved a corpse."
+        "mainbody": "Gentle repose was a restoration ritual that magically preserved a corpse."
     }
 }

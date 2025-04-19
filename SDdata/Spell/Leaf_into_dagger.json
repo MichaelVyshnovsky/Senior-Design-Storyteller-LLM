@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Leaf into dagger.png",
-        "caption": "",
-        "name": "Leaf Into Dagger",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Combat sphere|Combat]], [[Plant sphere|Plant]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|1|[[Combat sphere|Combat]]|1|[[Plant sphere|Plant]]|1}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Leaf into dagger''''' was a [[divine]] [[alteration]] [[spell]] that transformed a single leaf into a [[dagger]] that could be wielded by the [[cleric]].",
-        "Effects": "When cast, this spell transformed a single leaf, taken from a plant of any species, into an unbreakable, non-metallic dagger. It was exceptionally sharp, didn't reflect light, and possessed a ''+2 [[Item enchantment|enchantment]]''.\n\nThe dagger immediately disappeared if it was intentionally let go by the casting cleric or if thrown as a projectile weapon.",
-        "History": "The specifications of ''leaf into dagger'' were inscribed upon one of the \"inner petals\" of the [[Chauntea]]n [[relic]], the ''[[Glarathra]]''.",
-        "Components": "This spell required [[Verbal component|verbal]] and [[somatic component]]s in order to be cast, along with a single leaf taken from any plant."
+        "mainbody": "Leaf into dagger was a divine alteration spell that transformed a single leaf into a dagger that could be wielded by the cleric.\nWhen cast, this spell transformed a single leaf, taken from a plant of any species, into an unbreakable, non-metallic dagger. It was exceptionally sharp, didnt reflect light, and possessed a +2 enchantment.\nThe dagger immediately disappeared if it was intentionally let go by the casting cleric or if thrown as a projectile weapon.\nThe specifications of leaf into dagger were inscribed upon one of the \"inner petals\" of the Chauntean relic, the Glarathra.\nThis spell required verbal and somatic components in order to be cast, along with a single leaf taken from any plant."
     }
 }

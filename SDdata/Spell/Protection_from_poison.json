@@ -1,24 +1,5 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "edition_1": "2e",
-        "edition_2": "1e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Protection from Poison",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Abjuration]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "{{Spell table|edition=5e|[[Artificer]]|2|[[Cleric]]|2|[[Druid]]|2|[[Paladin]]|2|[[Ranger]]|2}}",
         "type5e": "",
         "refs5e": "",
         "feature4e": "",
@@ -35,18 +16,16 @@
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
-        "school2e": "[[Abjuration]]",
+        "school2e": "Abjuration",
         "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|2}}",
+        "level2e": "",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
-        "school1e": "[[Abjuration]]",
-        "level1e": "{{spell table|edition=1e|[[Magic-user]]|2}}",
+        "school1e": "Abjuration",
+        "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Protection form poison''''' was an [[abjuration]] [[spell]] that conveyed to the caster complete immunity to a single type of [[poison]].",
-        "Effects": "Upon casting ''protection from poison'', If cast on another individual who was already suffering from poisoning, the spell eliminated the  poison. The caster had to physically touch the individual and know what poison was causing the damage.",
-        "Casting": "The spell required [[verbal]], [[somatic]] and material components in its casting,According to the ''Player's Handbook 5th edition'', the 5th edition version of this spell requires only a verbal and somatic component."
+        "mainbody": "Protection form poison was an abjuration spell that conveyed to the caster complete immunity to a single type of poison.\nUpon casting protection from poison, If cast on another individual who was already suffering from poisoning, the spell eliminated the  poison. The caster had to physically touch the individual and know what poison was causing the damage.\nThe spell required verbal, somatic and material components in its casting,According to the Players Handbook 5th edition, the 5th edition version of this spell requires only a verbal and somatic component."
     }
 }

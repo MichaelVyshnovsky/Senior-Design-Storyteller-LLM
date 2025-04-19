@@ -1,28 +1,6 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "[[File:Electric jolt.png|250px]]",
-        "caption": "''A spellcaster practices creating an ''electric jolt'' between his fingertips.''",
-        "name": "Electric jolt",
-        "deity": "",
-        "inventor": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Evocation]]",
-        "domains3e": "",
-        "descriptors3e": "{{Desc/electricity}}",
-        "level3e": "{{Spell table|edition=3e|[[Sorcerer]]|0|[[Wizard]]|0}}",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -36,8 +14,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Electric jolt''''' was a simple [[Arcane magic|arcane]] [[evocation]] [[cantrip]] used by spellcasters in the [[Forgotten Realms]] to create a small jolt of electricity from their fingertips.",
-        "Effects": "The jolt could be aimed at a target up to 25 feet away (or further, depending on the skill of the caster), but it did not produce a very powerful shock.",
-        "Components": "This spell required both [[Verbal component|verbal]] and [[somatic component]]s."
+        "mainbody": "Electric jolt was a simple arcane evocation cantrip used by spellcasters in the Forgotten Realms to create a small jolt of electricity from their fingertips.\nThe jolt could be aimed at a target up to 25 feet away (or further, depending on the skill of the caster), but it did not produce a very powerful shock.\nThis spell required both verbal and somatic components."
     }
 }

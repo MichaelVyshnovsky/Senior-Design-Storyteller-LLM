@@ -1,31 +1,8 @@
 {
     "document_data": {
-        "image": "Antelope.png",
-        "caption": "",
-        "name": "Antelope",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "",
-        "type3e": "",
-        "subtype3e": "",
-        "alignment3e": "",
-        "challenge3e": "",
-        "refs3e": "",
-        "size2e": "Medium",
-        "alignment2e": "[[Neutral]]{{Nil-alignment}}",
-        "refs2e": "{{Cite dragon/155/Sage Advice|86}}",
+        "refs2e": "",
         "size1e": "Medium",
-        "alignment1e": "[[Neutral]]",
+        "alignment1e": "Neutral",
         "refs1e": "",
         "patron deity": "",
         "vision": "",
@@ -51,16 +28,6 @@
         "distinctions": "",
         "based": "",
         "first": "",
-        "mainbody": "'''Antelopes''' were a species of a herd animal.",
-        "Behavior": "Antelopes would normally flee from danger, but attack if cornered.",
-        "Species": {
-            "Gazelle": "A species of antelope that were predominant in the region of [[Anauroch]], parts of [[Zakhara]], such as around the [[Oasis of the Golden Falcon]], and on the [[Malatran Plateau]] they could be found in the [[Rayana Savannah]] and the [[Yaku Plains]].{{Cite polyhedron/102/The Living Jungle|7}} In [[Kara-Tur]] they could be found in its steppelands.",
-            "Verrick": "A species of antelope that were striped like a [[zebra]] and indigenous to the [[Arnaden region]]."
-        },
-        "Ecology": {
-            "Habitats": "Antelopes were known to inhabit much of the region of [[Anauroch]], especially the [[Fallen Giant Rift]], [[the Sword]], and [[Saiyaddar]]. In [[West Faerûn]], they could be found in the hilly grasslands surrounding the [[city-state]] of [[Cursrah]]. \n\nBeyond [[Faerûn]], they inhabited the savannahs of [[Chult]], with some smaller species inhabiting the region's jungles. They could also be found on the lowest levels of the [[Katakoro Plateau]], on the [[Malatran Plateau]],{{Cite polyhedron/102/Tribes of the Nubari|11}} the [[Pasocada Basin]] of [[Maztica]], and in the Zakhara region's [[Crowded Sea]], on the island chain of [[Nada al-Hazan]].\n\nBeyond the [[Prime Material plane]], both antelopes and gazelles could be found on the plane of [[Olympus]].<ref>{{Cite polyhedron/72/Experience Preferred, Part One|13}}",
-            "Relationships": "Antelopes were one of the primary animals hunted by [[wemic]]s.{{Cite dragon/157/The Ecology of the Wemic|49}} They were also commonly the prey of [[cheetah]]s, [[leopard]]s, [[wild dog]]s, and [[jungle giant]]s.\n\n[[Hybsil]]s were often on good terms with antelopes.{{Cite_book/Monster_Manual_II_(1983)|77}}",
-            "Usages": "In Zakhara, it was quite common among the [[Al-Badia]]'s men to carry [[coffee]] around inside a decorative bag made from gazelle skin. Owning one was viewed as symbolic of a man's willingness to be a good host.<ref>{{Cite_book/Land_of_Fate/Cards}}"
-        }
+        "mainbody": "Antelopes were a species of a herd animal.\nAntelopes would normally flee from danger, but attack if cornered.\nGazelle A species of antelope that were predominant in the region of Anauroch, parts of Zakhara, such as around the Oasis of the Golden Falcon, and on the Malatran Plateau they could be found in the Rayana Savannah and the Yaku Plains. In Kara-Tur they could be found in its steppelands.\nVerrick A species of antelope that were striped like a zebra and indigenous to the Arnaden region.\nAntelopes were known to inhabit much of the region of Anauroch, especially the Fallen Giant Rift, the Sword, and Saiyaddar. In West Faerûn, they could be found in the hilly grasslands surrounding the city-state of Cursrah. \nBeyond Faerûn, they inhabited the savannahs of Chult, with some smaller species inhabiting the regions jungles. They could also be found on the lowest levels of the Katakoro Plateau, on the Malatran Plateau, the Pasocada Basin of Maztica, and in the Zakhara regions Crowded Sea, on the island chain of Nada al-Hazan.\nBeyond the Prime Material plane, both antelopes and gazelles could be found on the plane of Olympus.\nAntelopes were one of the primary animals hunted by wemics. They were also commonly the prey of cheetahs, leopards, wild dogs, and jungle giants.\nHybsils were often on good terms with antelopes.\nIn Zakhara, it was quite common among the Al-Badias men to carry coffee around inside a decorative bag made from gazelle skin. Owning one was viewed as symbolic of a mans willingness to be a good host."
     }
 }

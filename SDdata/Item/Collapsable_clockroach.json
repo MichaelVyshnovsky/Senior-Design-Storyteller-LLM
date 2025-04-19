@@ -1,29 +1,5 @@
 {
-    "template_data": {
-        "0.3|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Collapsable Clockroach''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Wondrous item",
-        "creator": "",
-        "location": "[[Samarach]], [[Chult]]<br/>[[Lantan]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|0.3|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -40,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Collapsable clockroaches''''' were portable devices that transformed into a [[clockroach]] under the control of the item's owner.",
-        "Description": "''Collapsable clockroaches'' came in the shape of a strange-looking box that, when a button was pressed, unfolded into a moving and chattering clockroach.",
-        "Powers": "''Collapsable clockroaches'' were somewhat different from the larger constructs. They were smaller and designed with an ingenuous folding pattern traceable all over their bodies. This design made them tougher than regular clockroaches but also limited the item's use. Each ''collapsable clockroaches'' could only be activated twenty-five times.",
-        "History": "In the {{YearlinkName|1374}}, ''collapsable clockroaches'' were used in the jungles of [[Samarach]] by [[Ahri]] \"Golemkin\" who worked at an illicit logging camp surrounding the ''[[Lantan-Samarach portal]]''."
+        "mainbody": "Collapsable clockroaches were portable devices that transformed into a clockroach under the control of the items owner.\nCollapsable clockroaches came in the shape of a strange-looking box that, when a button was pressed, unfolded into a moving and chattering clockroach.\nCollapsable clockroaches were somewhat different from the larger constructs. They were smaller and designed with an ingenuous folding pattern traceable all over their bodies. This design made them tougher than regular clockroaches but also limited the items use. Each collapsable clockroaches could only be activated twenty-five times.\nIn the , collapsable clockroaches were used in the jungles of Samarach by Ahri \"Golemkin\" who worked at an illicit logging camp surrounding the Lantan-Samarach portal."
     }
 }

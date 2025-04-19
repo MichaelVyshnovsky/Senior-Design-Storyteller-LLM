@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "10|feet|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Harsh Songblade''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Songblade]]",
-        "material": "",
-        "creator": "",
-        "origin": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "",
-        "refs3e": "",
-        "level4e": "3+",
-        "value4e": "{{plain table|Lvl 3|680 gp|Lvl 8|3,400 gp|Lvl 13|17,000 gp|Lvl 18|85,000 gp|Lvl 23|425,000 gp|Lvl 28|2,125,000 gp}}",
         "weight4e": "",
         "refs4e": "",
         "rarity5e": "",
@@ -43,9 +13,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "A '''''harsh songblade''''' was an [[enchanted]] [[sword]] meant to be wielded by a [[bard]].{{Cite organized play/LFR/Out of Hatred|38}}{{Cite organized play/LFR/The Hand of Darkness|36}}",
-        "Description": "Any heavy or light [[blade]] could be enchanted to become a ''harsh songblade''.",
-        "Powers": "Like other ''[[songblade]]s'', ''harsh songblades'' were magically sharp and strong weapons that could be used as [[implement]]s for bardic [[spell]]casting.\n\nA bard could use the blade to channel thundering [[magic]], causing it to unleash a wail that could daze the bard's foes, leaving anyone within {{SI|10|feet|long=yes}} senseless.",
-        "Notable Owners": "* [[Bragg]], a [[dragonborn]] [[wererat]] active in [[Tymanther]] in the late 15{{th}} century [[DR]].{{Cite organized play/LFR/The Hand of Darkness|29}}\n* The [[Benevolent Order of Magists and Protectors]] of [[Waterdeep]].{{Cite organized play/LFR/Out of Hatred|34}}"
+        "mainbody": "A harsh songblade was an enchanted sword meant to be wielded by a bard.\nAny heavy or light blade could be enchanted to become a harsh songblade.\nLike other songblades, harsh songblades were magically sharp and strong weapons that could be used as implements for bardic spellcasting.\nA bard could use the blade to channel thundering magic, causing it to unleash a wail that could daze the bards foes, leaving anyone within  senseless.\n* Bragg, a dragonborn wererat active in Tymanther in the late 15 century DR.\n* The Benevolent Order of Magists and Protectors of Waterdeep."
     }
 }

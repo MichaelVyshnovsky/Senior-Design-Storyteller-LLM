@@ -1,33 +1,21 @@
-{{Spell
-| image         = Remove Fear.png
-| name          = Remove Fear
-| level3e       = {{spell table|edition=3e|[[Bard]]|1|[[Celebrant of Sharess]]|1|[[Cleric]]|1|[[Temperance domain|Temperance]]|1}}
 | descriptors3e = 
-| domains3e     = [[Temperance domain|Temperance]]
-| school3e      = [[Abjuration]]
+| domains3e     = Temperance
+| school3e      = Abjuration
 | type3e        = 
-| refs3e        = {{Cite dragon/355/Seven Saintly Domains|29-30}}
-| school2e      = [[Abjuration]]
+| refs3e        = 
+| school2e      = Abjuration
 | reversible2e  = true
-| spheres2e     = [[Charm sphere|Charm]]
-| level2e       = {{spell table|edition=2e|[[Charm  sphere|Charm]]|1|[[Cleric]]|1|[[Mystic]]|1}}
+| spheres2e     = Charm
+| level2e       = 
 | type2e        = 
 | refs2e        = 
-| school1e      = [[Abjuration]]
+| school1e      = Abjuration
 | reversible1e  = true
-| level1e       = {{spell table|edition=1e|[[Cleric]]|1|[[Paladin]]|1}}
+| level1e       = 
 | type1e        = 
 | refs1e        = 
-}}
-'''''Remove fear''''' was an [[abjuration]] spell that increased the subject's courage and morale in the face of ''fear'' effects. The reverse of this spell, ''[[cause fear]]'', could make one or more creatures flee in panic.
-
-==Effects==
-The particulars of this spell changed over time: the earliest version required the caster to touch the intended recipient, whereas later versions had a range of 30 ft (9.1 m) or more and could affect additional creatures if the caster had of sufficient experience. In all cases, the courage reinforcement lasted 10 minutes or until countered. If the subject was already under the influence of a ''fear'' effect, then this spell either suppressed the fear for the duration of the spell or gave the recipient a strong chance to shake off the fear entirely. If cast on multiple creatures, they all had to be within 30 ft (9.1 m) of each other.
-
-When cast in reverse, ''cause fear'' assaulted the courage and wisdom of the target, likely forcing them to flee from the caster in panic for a short time. ''Cause fear'' dispelled ''remove fear'' and vice versa.
-
-The older version of this spell had no effect on the [[undead]].
-
-==Components==
+Remove fear was an abjuration spell that increased the subjects courage and morale in the face of fear effects. The reverse of this spell, cause fear, could make one or more creatures flee in panic.
+The particulars of this spell changed over time the earliest version required the caster to touch the intended recipient, whereas later versions had a range of 30 ft (9.1 m) or more and could affect additional creatures if the caster had of sufficient experience. In all cases, the courage reinforcement lasted 10 minutes or until countered. If the subject was already under the influence of a fear effect, then this spell either suppressed the fear for the duration of the spell or gave the recipient a strong chance to shake off the fear entirely. If cast on multiple creatures, they all had to be within 30 ft (9.1 m) of each other.
+When cast in reverse, cause fear assaulted the courage and wisdom of the target, likely forcing them to flee from the caster in panic for a short time. Cause fear dispelled remove fear and vice versa.
+The older version of this spell had no effect on the undead.
 Only verbal and somatic components were required to cast this spell.
-

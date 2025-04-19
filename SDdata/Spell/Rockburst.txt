@@ -1,31 +1,9 @@
-{{Spell
-| image         = 
-| caption       = 
-| name          = Rockburst
-| deity         = [[Clanggedin Silverbeard]]
-| inventor      = 
-| type          = 
-| school5e      = 
-| level5e       = 
-| type5e        = 
-| refs5e        = 
-| feature4e     = 
-| keywords4e    = 
-| level4e       = 
-| type4e        = 
-| category4e    = 
-| skill4e       = 
-| refs4e        = 
-| school3e      = [[Evocation]]
-| domains3e     = 
-| descriptors3e = 
-| level3e       = {{Spell table|edition=3e|[[Cleric]]|3|[[Druid]]|2|[[Sorcerer]]|3|[[Wizard]]|3}}
 | type3e        = 
 | refs3e        = 
 | reversible2e  = 
-| school2e      = [[Alteration]]
-| spheres2e     = [[Combat sphere|Combat]]
-| level2e       = {{spell table|edition=2e|[[Cleric]]|2|[[Combat sphere|Combat]]|2}}
+| school2e      = Alteration
+| spheres2e     = Combat
+| level2e       = 
 | type2e        = 
 | refs2e        = 
 | reversible1e  = 
@@ -33,17 +11,8 @@
 | level1e       = 
 | type1e        = 
 | refs1e        = 
-}}
-'''''Rockburst''''' was an [[evocation]] spell that cause a boulder or pile or rubble to explode.
-
-==Effects==
-This spell caused an amount of stone to explode, possibly damaging any creatures within {{SI|20|ft|long=yes}} of the center of the blast. Stone-made possessions of others and magic objects made of stone had a chance to resist the spell. Additionally, creatures that were made of stone were typically immune to ''rockburst''.
-
-For the early version of this spell, the amount of stone was at least {{SI|3|cu ft|long=yes}}, and more for casters with greater experience. For the later version of this spell, the amount was a minimum of {{SI|8|cu ft|long=yes}}.
-
-==Components==
-This spell only required [[verbal]] and [[somatic component]]s to cast.
-
-==Usage==
-[[Dwarven]] [[priest]]s of [[Clanggedin Silverbeard]] were typically known to have this spell bestowed upon them.
-
+Rockburst was an evocation spell that cause a boulder or pile or rubble to explode.
+This spell caused an amount of stone to explode, possibly damaging any creatures within  of the center of the blast. Stone-made possessions of others and magic objects made of stone had a chance to resist the spell. Additionally, creatures that were made of stone were typically immune to rockburst.
+For the early version of this spell, the amount of stone was at least , and more for casters with greater experience. For the later version of this spell, the amount was a minimum of .
+This spell only required verbal and somatic components to cast.
+Dwarven priests of Clanggedin Silverbeard were typically known to have this spell bestowed upon them.

@@ -1,329 +1,166 @@
-{{Location
-| image              = Map of Waterdeep's Sewers.png
-| caption            = Map of the sewers, circa [[1372 DR]]<ref group="note" name="map">''[[Waterdeep and the North]]'' (page 27), [[City of Splendors (boxed set)|''City of Splendors'' "Campaign Guide"]] (page 59), and ''[[City of Splendors: Waterdeep]]'' (page 121) all share a version of this same map and note that it is not to scale, with many features being distorted in size for the sake of clarity, such as the junction rooms and surface shafts.
-| name               = Sewers of Waterdeep
-| alt spelling       = 
-| aliases            = 
-| type               = [[Sewer system]]
-| region             = [[Waterdeep]], [[Sword Coast North]]
-| size               = 
-| elevation          = 
-| depth              = 
-| capital            = 
-| largest city       = 
-| georefs            = 
-| demonym            = 
-| population         = 
-| races              = 
-| languages          = 
-| religion           = 
-| alignment          = 
-| socrefs            = 
-| imports            = 
-| exports            = 
-| currency           = 
-| comrefs            = 
-| government         = 
-| rulertype          = 
-| ruler              = 
-| head of state      = 
-| leader1            = 
-| head of government = 
-| leader2            = 
-| executive          = 
-| legislature        = 
-| judiciary          = 
-| allegiances        = 
-| govrefs            = 
-| established        = 
-| start event        = 
-| start date         = 
-| event1             = 
-| date1              = 
-| event2             = 
-| date2              = 
-| event3             = 
-| date3              = 
-| event4             = 
-| date4              = 
-| disestablished     = 
-| end event          = 
-| end date           = 
-| predecessor        = 
-| successor          = 
-| population1        = 
-| popyear1           = 
-| population2        = 
-| popyear2           = 
-| population3        = 
-| popyear3           = 
-| population4        = 
-| popyear4           = 
-| population5        = 
-| popyear5           = 
-| poptable           = 
-| ruler1             = 
-| ruleryear1         = 
-| ruler2             = 
-| ruleryear2         = 
-| ruler3             = 
-| ruleryear3         = 
-| ruler4             = 
-| ruleryear4         = 
-| ruler5             = 
-| ruleryear5         = 
-| rulertable         = 
-| histrefs           = 
-| usethe             = yes
-| useon              = 
-| inhabitants        = 
-| locations          = 
-| organizations      = yes
-| settlements        = 
-| roads              = 
-| mountains          = 
-| bodies of water    = 
-| forests            = 
-| events             = 
-| food and drink     = 
-| items              = 
-}}
-The '''sewers of Waterdeep''' were a sanitation system of tunnels beneath the city that connected to most locations throughout [[Waterdeep]], including its dungeons.<ref name ="WatN-p26">
-
-{{Quote|It’s a trip neither pretty nor pleasant, but delve the sewers if you truly want to learn what goes on in Waterdeep.|''[[Down the Drain: A Life in the Guild of Cellarers and Plumbers]]'', [[1356 DR]]}}
-
-==Structure==
-The depth of these sewers varied across Waterdeep, One reason for this was [[Mount Waterdeep]] and the plateau the northern portion of the city was built upon. Another was that the varied sizes and areas in which the sewer network was constructed at were both deliberate design decisions, made in order to optimally account for the ocean tides.
-
-The tunnels of this sewer system did not match up with the routes of the city's streets above them by the 14{{th}} century [[DR]]. This was partially due to the ever changing layout of Waterdeep, but also because the sewer's layout was dictated in part by where Mount Waterdeep's springs rose and flowed down to the sea.
-
-The [[Waterdeep/Field Ward|Field Ward]],<ref> the harbor islands, and the heart of Mount Waterdeep were the only areas in the city that the sewers did not run beneath.
-===Functionality===
-Refuse, as well as air, were brought down into the sewers by numerous feeder pipes scattered throughout the city. These pipes measured less than {{SI|1|ft|long=yes}} in diameter.{{Cite dungeon/30/And a Dozen Eggs|9}}
-
-The sewer network operated on a system of tidal flushing,{{Cite web/theedverse/2022-01-01 - Waterdhavians and Chamberpots}} and were flushed out by those same tides.{{Cite web/theedverse/2019-10-05 - Sewers of Waterdeep}} The sewer also received water from its upper levels by means of street runoff of rain and the frequent coastal fog, These places were purposely difficult to access, as the sewer network's designers sought to hamper the movements of less desirable visitors from the sea and to prevent the sewers from being used by criminals as an underground highway.<ref name ="WatN-p12">
-
-Due to the great size of Waterdeep, there were concerns that the tidal flushing system could lead to the city's harbor becoming a cesspool. To ensure this didn't occur, [[Ahghairon]] and other [[mage]]s bound [[spell]]s into the city's wards and bound some [[elemental]]s. In conjunction with the deliberate design decisions made for the sewer's size and layout, these assisted the flows of water in carrying away sewage.
-
-Some of the more powerful spells that Ahghairon bound into the sewers involved ''[[mass teleport]]ing'' waste straight to the [[Rat Hills]]. These spells continued to be renewed over the years by members of the [[Watchful Order of Magists and Protectors]].{{Cite web/theedverse/2021-07-24 - Sewers of Waterdeep II}}
-
-Some areas of the sewers featured doors that would close upon water entering from certain passages, which ensured that flooding did not occur. Other areas had pressure plates that would close doors once water stopped flowing over them, thus preventing backwash.{{Cite document/Eye of the Beholder/Clue Book|28}}
-
-===Interior===
-[[File:Traversing Waterdeep's Sewers.png|thumb|150px|''With no lighting available in the sewers, [[Tertius Wands]] and [[Onyx the Invincible]] have to resort to holding a [[lantern]] as they follow their [[arrow of direction]].'']]
-====Construction====
+The sewers of Waterdeep were a sanitation system of tunnels beneath the city that connected to most locations throughout Waterdeep, including its dungeons.
+The depth of these sewers varied across Waterdeep, One reason for this was Mount Waterdeep and the plateau the northern portion of the city was built upon. Another was that the varied sizes and areas in which the sewer network was constructed at were both deliberate design decisions, made in order to optimally account for the ocean tides.
+The tunnels of this sewer system did not match up with the routes of the citys streets above them by the 14 century DR. This was partially due to the ever changing layout of Waterdeep, but also because the sewers layout was dictated in part by where Mount Waterdeeps springs rose and flowed down to the sea.
+The Field Ward, the harbor islands, and the heart of Mount Waterdeep were the only areas in the city that the sewers did not run beneath.
+Refuse, as well as air, were brought down into the sewers by numerous feeder pipes scattered throughout the city. These pipes measured less than  in diameter.
+The sewer network operated on a system of tidal flushing, and were flushed out by those same tides. The sewer also received water from its upper levels by means of street runoff of rain and the frequent coastal fog, These places were purposely difficult to access, as the sewer networks designers sought to hamper the movements of less desirable visitors from the sea and to prevent the sewers from being used by criminals as an underground highway.
+Due to the great size of Waterdeep, there were concerns that the tidal flushing system could lead to the citys harbor becoming a cesspool. To ensure this didnt occur, Ahghairon and other mages bound spells into the citys wards and bound some elementals. In conjunction with the deliberate design decisions made for the sewers size and layout, these assisted the flows of water in carrying away sewage.
+Some of the more powerful spells that Ahghairon bound into the sewers involved mass teleporting waste straight to the Rat Hills. These spells continued to be renewed over the years by members of the Watchful Order of Magists and Protectors.
+Some areas of the sewers featured doors that would close upon water entering from certain passages, which ensured that flooding did not occur. Other areas had pressure plates that would close doors once water stopped flowing over them, thus preventing backwash.
+thumb|150px|With no lighting available in the sewers, Tertius Wands and Onyx the Invincible have to resort to holding a lantern as they follow their arrow of direction.
 The ceilings, floors, and walls all throughout the sewer system were made of masonry, There was little to no lighting within the sewers and a terrible stench pervaded the entire network.
-
-Gratings in the sewers were all made of [[iron]] and were quite thick. Some were permanently set into the stone walls, while others could swing open on pivots. By the 14{{th}} century DR, many of these grates were suffering from rust.<ref name ="WatN-p27" />
-
-One of the two oldest parts of the sewers was a large semicircular channel, which ran around the inland side of the spur of Mount Waterdeep that jutted out into the [[Waterdeep/Castle Ward|Castle Ward]]. Waste from the [[Waterdeep/North Ward|North Ward]] and [[Waterdeep/Sea Ward|Sea Ward]] drained through this channel. The other oldest structure was two trunk sewers, which drained waste from the [[Waterdeep/Trades Ward|Trades Ward]] and [[Waterdeep/Southern Ward|Southern Ward]]. Both structures emptied out into Deepwater Harbor.
-
-====Passages====
-The passages of this sewer network had no names, thus directions tended to be given in terms of entry points and paces. Those who worked in the sewers were known to navigate passages by laying down boards as temporary bridges or by vaulting across ledges with {{SI|16|ft|long=yes}} catchpoles. The latter of which were carried in order to reach below the water and clear debris from gratings.<ref name ="WatN-p27" />
-
-[[File:WaterdeepSewerWalkways.png|thumb|273px|''Tertius and Onyx have a moment of rest on a passage ledge, having defeated a [[giant crocodile]].'']]
-Passages were denoted as being either one of two types based on their size, primary and secondary.<ref name ="WatN-p27"> '''Primary passages''' were easily navigable.<ref name ="WatN-p12" /> They measured {{SI|20|ft|long=yes}} across and had parallel, {{SI|3|ft|long=yes}} wide, walkway ledges that lacked rails.<ref name ="WatN-p27" /> '''Secondary passages''' were smaller, requiring [[human]]-sized creatures to crawl or swim their way through.<ref name ="WatN-p12" /> They measured {{SI|12|ft|long=yes}} and had a single {{SI|3|ft}} wide ledge on one of their sides, usually the more easterly or southerly side.<ref name ="WatN-p27" />
-
-Primary passages were far more common in the northern parts of the city's sewers, while secondary passages were prevalent in the areas beneath the Dock Ward.
-
-Besides these two types there were many older, smaller passages that had over time been put out of service and walled up by the 14{{th}} century DR.<ref name ="WatN-p26" />
-
-====Portals====
-Some areas of the sewers featured stone portals, a network built by an old [[dwarf|dwarven]] kingdom to quickly move about. These required special [[item enchantment|enchanted]] stone items to activate, which took a variety of forms. These included [[dagger]]s, [[gemstone]]s, [[holy symbol]]s, medallions, necklaces, [[orb]]s, [[ring]]s, and scepters.{{Cite document/Eye of the Beholder/Clue Book|69}}
-
-Some areas featured ''[[teleport]]ation'' pads that were constructed by the sewer network's designers. These would ''teleport'' people to the surface, acting as an emergency exit for sewer workers in the case of flooding or other hazards. When broken, they would only teleport people elsewhere within the sewers.{{Cite document/Eye of the Beholder/Clue Book|29}}
-====Interior Connections====
-The sewer network notably featured connections to the dungeon complex under [[Castle Waterdeep]],<ref name ="WatN-p26" /> Many such links were kept operable and secret by the many guilds and shady organizations that operated in the city.
-
-Connections with Undermountain in particular featured heavily in the city's tavern lore. 
-
-;[[Dungeon Level]]: This first level of Undermountain had a tight winding crawl space, the Grim Passage, that ended at a secret door high above the headless relic known as Grim Statue. This was entered by means of a hidden door in the sewer passage beneath Slide Alley. This sewer passage paralleled the docks north of [[Sail Street]], branched near [[Mirt's Mansion]], and linked up to a junction room (SF48). The Grim Passage itself wound and twisted through the [[rat]]-infested remnants of old, filled-in and forgotten cellars and disused privy chutes, until curving into a dead end where the hidden door above the statue laid. The drop down to the Grim Statue was roughly {{SI|20|ft|long=yes}}.
-;[[Fireplace Level]]: This complex of rooms within the Dungeon of the Crypt was connected to the midden of the [[Grinning Lion]] and a junction room in the sewers beneath it (SF31) by means of a secret staircase.
-;[[Lost Level]]: This sixth level of Undermountain was connected to the sewers by means of a ''[[portal]]'' that was visible only on the night of a full [[Selûne (moon)|moon]] in the month of [[Flamerule]].
-
-===Sewer Ecology===
-[[File:WaterdeepSewerGrate.png|thumb|273px|''A creature reaches up through a street's sewergrate.'']]
-There were a great deal of creatures that inhabited this sewer network, far more than could logically be expected to find enough food to survive. Many of these creatures entered the sewers by means of the Dungeon of the Crypt and Undermountain.<ref name ="WatN-p26" /> There were also a wide variety of [[fungi]] and [[ooze]]s that lived in the sewers, with there being a small chance of an ooze crawling its way up the privy pipes of the sewers.
-
-[[Adventurer]]s,{{Cite web/Candlekeep forum/Questions for Ed Greenwood (2006)/Oozes and Privys}} Such groups sometimes hired Cellarers to guide them through the sewers at the cost of 20 [[gold piece]]s a day, but such guides never carried weapons and would stick to only traveling the primary passages.
-
-Explorers of the sewers risked exposure to [[sewer plague]]s. The waters were generally tainted with [[blinding sickness]] and any open wounds ran the risk of being contaminated with [[filth fever]].
-
-[[File:Sewers inhabitants.png|thumb|''Some of the sewers' inhabitants and unwitting adventurers.''|335x335px]]
-;Around 1357 DR
-The creatures most commonly encountered within the sewer network around [[1357 DR]]<ref group="note">''Waterdeep and the North'' states on page 14 that the news provided in the ''[[Forgotten Realms Campaign Set]]'', "...is current [to this book] as of early Mirtul, in the [[Year of the Prince]]." included: [[huge centipede]]s, a colony of [[green slime]], a colony of [[yellow mold]], [[mite]]s, [[rat]]s and [[giant rat]]s, [[rot grub]]s, and [[scum creeper]]s.<ref name ="WatN-p27" />
-
-The creatures less commonly encountered in the sewers around this time were: [[boggle]]s, [[galltrit]]s, [[giant bat]]s, [[giant centipede]]s, [[giant tick]]s, [[huge spider]]s, [[jackalwere]]s, [[pedipalp|large pedipalps]], [[mongrelmen]], [[skeleton]]s, [[stirge]]s, [[wererat]]s,<ref name ="WatN-p27" /> [[kobold]]s, and [[kuo-toa]].
-
-And finally, the creatures only rarely encountered in the sewers around this time were: [[cambion]]s, [[giant bloodworm]]s, [[cave fisher]]s, [[crocodile]]s, [[executioner's hood]]s, [[giant slug]]s, [[gibbering mouther]]s, [[gorbel]]s, [[grell]]s, [[lurker above]]s, [[mimic]]s, [[neo-otyugh]]s and [[otyugh]]s, [[obliviax]]es, [[shadow]]s, [[shadow demon]]s, [[shambling mound]]s, [[slicer beetle]]s, [[stunjelly|stunjellies]], [[tentamort]]s, [[tunnel worm]]s, [[vargouille]]s, and [[xorn]]s.<ref name ="WatN-p27" />
-
-;Around 1368 DR
-The creatures most commonly encountered within the sewer network around [[1368 DR]] included: bats, crocodiles, [[giant leech]]s, otyughs, [[megalo-centipede]]s, mongrelmen, [[ochre jelly|ochre jellies]], [[osquip]]s, rats and giant rats, rot grubs, skeletons, [[slithering tracker]]s, stirges, stun jellies, tunnel worms, yellow molds, and [[zombie]]s.
-
-The creatures less commonly encountered in the sewers around this time were: [[broken one]]s, [[brown mold]] colonies, cavefishers, [[gremlin]]s, [[sewerm]]s, [[shrieker]]s, [[giant spider]]s, giant and huge centipedes, [[gray ooze]]s, green slimes, and [[russet mold]] colonies.
-
-And finally, the creatures only rarely encountered in the sewers around this time were: [[carrion crawler]]s, cave fishers, [[deepspawn]], common [[feyr]]s, giant slugs, gorbels, [[green hag]]s, grells, [[gulguthydra]]e, jackalweres, [[living wall]]s, lurkers, mimics, shambling mounds, and [[sinister]]s.
-
-;Around 1372 DR
-The creatures most commonly encountered within the sewer network around [[1372 DR]] included: bats, [[bloodbloater]]s, carrion crawlers, centipedes, [[choker]]s, [[eyeball]]s, common feyrs, [[flotsam ooze]]s, gray oozes, [[grick]]s, lurkers, [[meazel]]s, [[merfolk]], mimics, ochre jellies, osquips, rats, sewerms shadows, shriekers, [[skum]], [[spider]]s, [[splinterwaif]]s, stirges, [[twig blight]]s, [[violet fungus|violet fungi]], [[wasp]]s, wererats, green slimes, brown molds, and yellow molds.
-
-The creatures only rarely encountered in the sewers around this time were: [[aboleth]]s, [[beholder]]s, [[breathdrinker]]s, [[chuul]]s, [[crimson death]]s, [[curst]]s, crocodiles, [[darkmantle]]s, [[darktentacles]], deepspawn, [[drowned one]]s, [[ghaunadan]]s, gibbering mouthers, greater feyrs, [[greenvise]], grells, gulguthydrae, [[kelp angler]]s, [[leechwalker]]s, [[lifeleech otyugh]]s and normal otyughs, mongrelfolk, [[moonrat]]s, [[mudmaw]]s, [[ocularon]]s, [[plague ant]]s, [[plague spewer]]s, shambling mounds, sinisters, [[swamp strider]]s, [[wight]]s, [[will-o'-wisp]]s, [[wraith]]s, [[yellow musk creeper]]s and [[yellow musk zombie|zombies]], [[mageripper]]s,<ref> and [[rylkar]].
-
-===Surface Shafts & Junction Rooms===
-Some areas connected between primary passages, known as '''junction rooms''', were square in shape. They measured {{SI|10|ft}} by {{SI|10|ft|long=yes}}, were {{SI|20|ft|long=yes}} tall, and had a sitting ledge near their ceiling.
-
-Entrances into the sewer network were known as '''surface shafts'''. They measured {{SI|6|ft|long=yes}} in diameter, were typically spherical in shape, and had iron rungs set in the walls for use as [[ladder]]s. They were capped by covers made either wholly of metal or of metal-banded wood. These covers were known as "manholes" or "person access covers."<ref>{{Cite web/Candlekeep forum/Questions for Ed Greenwood (2006)/Wellhouses of Waterdeep}}
-
-The surface shafts and junction rooms of this sewer network (as labeled on the map above) could be found at the following locations:<ref name ="WatN-p28">
-;SF1: A surface shaft underneath trees in the interior of the block northwest of the shrine to [[Silvanus]] within the [[Shrines of Nature]].
-;SF2: A surface shaft in the northernmost corner of [[Sabbar's Alley]].
-;SF3: A surface shaft in the center of [[Shank Alley]].
-;SF4: A surface shaft south off the [[Street of Glances]] and just south of the tree in [[Sniff Alley]].
-;SF5: A surface shaft in the central stand of trees in the southern end of [[Heroes' Garden]], Halfway down this shaft was a secret entrance leading to the [[Catacombs of Yintros]].
-;SF6: A surface shaft under a lone tree in the alleyway west of [[Eltorchul Villa]], south of [[Ivory Street]] and north of [[Pharra's Alley]].
-;SF7: A surface shaft in the mouth of an alleyway opening north off [[Chasso’s Trot]], just west of [[Sul Street]].
-;SF8: A surface shaft in a cul-de-sac due south of [[Jhansczil Villa]].
-;SF9: A surface shaft underneath a tree, in an alleyway just south of [[Brossfeather Villa]].
-;SF10: A surface shaft just south of the [[Ilitul Villa]], at the northern end of a dead alley opening off [[Grimwald’s Way]].
-;SF11: A surface shaft just west off [[Mendever Street]], in the easternmost cul-de-sac that opens off the alleyway bounding [[Nesher Villa]].
-;SF12: A surface shaft in an alleyway just west of the gates of [[Manthar Villa]], off [[Delzorin Street]], between Sul Street and [[Shield Street]]. Opens into a junction room.
-;SF13: A surface shaft in the alleyway within the block surrounded by [[Copper Street]], [[Delzorin Street]], the [[High Road (Waterdeep)|High road]], and [[Vordil Street]].
-;SF14: A surface shaft in Trollskull Alley, southwestern corner, near the intersection of Delzorin Stret and [[Whaelgund Way]].<ref name ="WatN-p28" /> The ladder of this shaft was a {{SI|20|ft}} descent.<ref>
-;SF15: A surface shaft in a cul-de-sac north of [[Horn Street]], between [[Tower March]] and Whaelgund Way.
-;SF16: A surface shaft at the intersection of [[Sharra's Flight]] and the [[Street of Whispers]].
-;SF18: A surface shaft in a cul-de-sac opening northeast off of [[Toalar's Lane]].
-;SF19: A surface shaft at the intersection of [[Calamastyr Lane]] and [[Gothal Street]]. Opens into a junction room.
-;SF20: A surface shaft at the southwestern corner of [[Runer's Alley]].
-;SF21: A junction room without any surface entrance, located under the southern mouth of [[Cloaksweep Alley]].
-;SF22: A surface shaft in a copse of trees at the center of a block bounded by Copper Street, [[Hassantyr's Street]], the High Road, and [[Julthoon Street]].
-;SF23: A surface shaft at the western end of [[Marlar's Lane]].
-;SF24: A surface shaft at the base of a rocky cliff-face, just behind [[Blackstaff Tower]].
-;SF25: A surface shaft near the top of the rocky slope of Mount Waterdeep, at a point due southwest of [[Turnback Court]].
-;SF26: A surface shaft located in Turnback Court. Opened into a junction room.
-;SF27: A surface shaft located in the southwest corner of an alleyway that opened south off [[Cymbril's Walk]], at the intersection of [[Street of Silver]] and [[Warriors' Way]].
-;SF28: A surface shaft located in the southwest corner of a dead-end alley, in the block bounded by [[Lamp Street]], the [[Street of Bells]], Cymbril's Walk, and the [[Street of the Sword]]. Opened into a junction room.
-;SF29: A surface shaft located at a northwestern junction of alleyways, in the block bounded by the High Road, Lamp Street, [[Selduth Street]], and the Street of Bells.
-;SF30: A surface shaft located at the southeastern corner of an alleyway, opening off the High Road and to the west of [[Andamaar's Street]].
-;SF31: A junction room without any surface entrance, located beneath the [[Grinning Lion]]. Sometime between 1368 and 1372, the proprietor of the Grinning Lion installed a secret passage between this junction room and the [[Grinning Lion#Stairs of the Lion|stairs beneath his tavern's midden]].
-;SF32: A surface shaft located at the northwestern corner of an alleyway, opening off [[Golden Serpent Street]] and [[Nindabar Street]].
-;SF33: A surface shaft located at the halfway point of [[Belzound Street]].
-;SF34: A surface shaft located at the northern mouth of an alleyway that opened off of [[Sevenlamps Cut]].
-;SF35: A surface shaft located at the intersection of [[Lemontree Alley]] and [[Shadows Alley]].
-;SF36: A surface shaft located in an alleyway just north of the [[Pampered Traveler]] inn.
-;SF37: A surface shaft located in the wide alleyway between the High Road and the Street of Bells.
-;SF38: A surface shaft beneath the [[House of the Fine Carvers]], leading into a junction room.
-;SF39: A surface shaft located on [[Spindle Street]].
-;SF40: A surface shaft located on the lane that paralleled [[Irimar's Walk]].
-;SF41: A surface shaft located in an alleyway that opened west off of [[Wall Way]], just south of Andamaar's Street.
-;SF42: A surface shaft located in an alleyway that opened west off of Wall Way, just north of [[Ironpost Street]].
-;SF43: A surface shaft located within a copse of trees, in a dead-end alleyway just north of the [[Costumers' Hall]].
-;SF44: A surface shaft located at the mouth of a dead-end alleyway that opened east off of the [[Street of the Tusks]].
-;SF45: A junction room without any surface entrance, located beneath an alleyway that opened south off of [[Spendthrift Alley]].
-;SF46: A surface shaft located within the cellar of the [[Unicorn's Horn]].
-;SF47: A surface shaft located in the alleyway behind [[Olmhazan's Jewels]].
-;SF48: A surface shaft located at the end of a dead-end alleyway, which opened south off of Nelnuk's Walk.
-;SF49: A surface shaft located in the southwestern corner of a dead-end alleyway, which opened off of [[Shesstra's Street]].
-;SF50: A junction room without any surface entrance, located beneath the westernmost section of alleyways that opened off of [[Snail Street]].
-;SF51: A surface shaft located in a cul-de-sac that opened off of [[Belnimbra's Street]].
-;SF52: A surface shaft located in the westernmost dead-end of [[Quaff Alley]]. Opened into a junction room.
-;SF53: A surface shaft located on [[Soldier's Street]], just east of the [[Bell Tower (Waterdeep)|Bell Tower]].
-;SF54: A surface shaft located at the intersection of alleyways north of the [[Three Pearls Nightclub]].
-;SF55: A junction room without any surface shaft, located under the wide part of [[Candle Lane]].
-;SF56: A surface shaft at the westernmost end of a dead-end alley that opened south off of [[Simples Street]]. Opened into a junction room.
-;SF57: A surface shaft located at the intersection of [[Burdag Lane]] and [[Tsarnen Alley]].
-;SF58: A surface shaft located at the mouth of a dead-end alley, where it joined [[Quilley Alley]] between [[Nethpranter's Street]] and the [[Wide Way]].
-;SF59: A surface shaft located at the western end of a dead-end forked alley, which opened east off of [[Rivon Street]].
-;SF60: A surface shaft in a in a cul-de-sac opening, east off the northern end of [[Drovers' Street]].
-;SF61: A surface shaft located at the halfway point of [[Beacon Street]].
-;SF62: A junction room without any surface entrance, located under the intersection of [[Grocer's Lane]] and [[Snake Alley]].
-;SF63: A surface shaft in [[Rednose Alley]].
-;SF64: A surface shaft located in a cul-de-sac opening off the [[Rising Ride]], between [[Caravan Court]] and [[Juth Alley]].
-;SF65: A surface shaft located in the widest part of the alley that opened south off of [[Olaim's Cut]].
-;SF66: A surface shaft located in the wide alley north of Coach Street and west of the High Road.
-;SF67: A surface shaft located east of [[Carter's Way]] and south of [[Coachlamp Lane]].
-;SF68: A surface shaft located in the cellar of the [[Spouting Fish (Waterdeep)|Spouting Fish]] tavern.
-;SF69: A surface shaft located on the second alleyway north of [[Bellister's House]]. 
-;SF70: A locked surface shaft within the cellar of [[Piergeiron's Palace]]. It was guarded at all times by five [[City Guard (Waterdeep)|City Guard]] and an [[City Watch (Waterdeep)|armar]]. Whenever they saw or heard anything suspicious from the sewers, they would sound alarm on the wall.
-;SF72: The lair of [[Xanathar]], located directly beneath the [[Philosopher's Court]].
-;SF73: North entrance into the [[Citadel of the Bloody Hand]]. Connected the secondary passage west of SF53 with the once-secret northern entrance. There was a guard station here, once used to defend [[Castle Waterdeep]] from subterranean attacks.
-;SF74: Southern entrance into the Citadel of the Bloody Hand. Connected the secondary passages running north and west of SF48 with the once-secret southern entrance.
-;SF75: A collapsed section of sewer floor and flooded storage vault of a forgotten merchant, used as a lair by the Savants of the Dark Tide.
-
-Entrances into the sewers that were not labeled on the map included the following locations:
-;[[Dragon Tower]]: A wizard's tower in the Sea Ward that had a secret entrance to the sewers hidden in its first floor kitchen.<ref>
-;[[God Catcher]]: Sometime after [[1385 DR]] this sunken, former [[Walking Statues of Waterdeep|Walking Statue]] in the Castle Ward had its leg hollowed out to create an access point to the sewers (see "History" for more information).
-;[[Golden Hammer Inn|Golden Hammer]]: An inn with a trapdoor that opened into the sewers.
-;[[Jalanvaloss]]: This [[steel dragon]] had secret apartments in the [[House of Pride]] and [[Meiroth's Fine Silks]] that had entry stairs linking to the cellars, which linked to the sewers. They also had a secret cache somewhere within the city.<ref>
-;[[Lightning Targe]]: A newer adventuring club that had a rather mildewy tunnel connection to the sewers.<ref>{{Cite web/Candlekeep forum/Questions for Ed Greenwood (2014)/Lightning Targe}}
-;[[Safehaven Inn|Safehaven]]: An inn in the [[Waterdeep/Southern Ward|Southern Ward]], whose cellar contained a hidden ladder leading down to the sewers. This ladder was hidden behind a {{SI|5|ft}} tall door, which opened upon turning upward the spigot on the last [[wine]] casket.<ref>
-;[[Thirsty Sailor]]: A tavern in the Dock Ward that had some kind of entrance into the Smugglers' Run section of the sewers in its back alley.
-
-==Groups of Interest==
-[[File:City Watch (Sewers of Waterdeep).png|thumb|350px|''The City Watch track down criminals in the dark sewers with [[torch]]es in hand.'']]
-;[[Cellarers' & Plumbers' Guild]]: Most members of this guild learned the general layout of the sewers after two to five years.<ref name ="WatN-p38"> This is because their primary concerns were keeping the sewers of the city functional and safe, with guild members being engaged in constant small repair jobs in the sewers, such as on plumbing in old buildings.<ref name ="WatN-p38" /> They also possessed [[map]]s of the sewers, but they never sold them.
-;[[City Guard (Waterdeep)|City Guard]]: In the late-14{{th}} century DR, it became the duty of the City Guard to police the sewers.{{Cite web/Realmslore/The City Watch of Waterdeep, Part Two}}
-;[[City Watch (Waterdeep)|City Watch]]: Up until the late-14{{th}} century DR, it was the duty of the City Watch to police the sewers. After this authority switched over to the City Guard, watchmen rarely ever entered the sewers. Only doing so if pursuing a suspect or when they discovered sewer tunnels that connected with cellars. All Watch captains possessed keys to the sewer access points of their assigned ward.<ref>
-;[[Confluence]]: The lower status members of this secret society used secret passages within the sewers to enter [[Tespergates]], their organization's base of operations, by means of the villa's cellars.<ref>
-;Cult of the Rat: A [[beast cult]] that worshiped [[Sneel]], the [[lesser deity]] of rats, lived and operated in secrecy in the sewers throughout the 14{{th}} and 15{{th}} centuries.{{Cite web/theedverse/2021-07-20 - Sneel the God of Rats}} Many of its members were individuals who allowed themselves to be afflicted with the wererat form of [[lycanthropy]].{{Cite dungeon/30/And a Dozen Eggs|12-13}} They often had offerings to Sneel in their warrens, meant to try and earn his favor.
-;[[Dungsweepers' Guild]]: This guild normally did not work on the sewer system, but for security reasons the city reserved the right to contact the guildmaster and hire members to help in such work.<ref name ="WatN-p38" />
-;[[Guild of Watermen]]: Members of this guild knew various spots where the sewer system emptied into the harbor.<ref name ="WatN-p41">
-;[[Merfolk]]: Living within Deepwater Harbor, these people regularly patrolled the areas where the sewers emptied. They would use pole mounted catch-nets to scoop up and gather any debris they found into large tow-globes, which they then used to transport the debris far out to sea.<ref name ="WatN-p25" />
-;[[Plague Rats]]: This elite organization of [[thieves]] and [[assassin]]s operated mainly under the cover of darkness in this sewer network and the [[Waterdeep/Dock Ward|Dock Ward]].
-;[[Savants of the Dark Tide]]: This aboleth-led criminal organization had its base of operations within this sewer network and mainly operated within it.
-;[[Unseen]]: This secret society operated out of both the sewers and [[Rat Hills]] for decades, but following the [[Rat Hills Conflagration]] they began having their main meetings within secret rooms in the sewers. Their leader, [[Hlaavin]], also kept many safe houses within the sewers.<ref>
-;[[Xanathar's Thieves' Guild]]: This guild had safehouses scattered throughout the sewers, hidden by secret doors.<ref> Tunnels were often marked with the symbol of the guild in yellow [[chalk]], helping to guide members to the safehouses. Every few days these were erased, either by members of the guild or by the Dungsweepers' Guild.<ref> The guild also utilized some of the stone dwarven portals that were scattered around the sewers.
-
-==History==
-These sewers were built over the course of many generations, dating as far back as [[1162 DR]]. As far back as this date, there existed three levels to the sewer system.
-
-During the days of Ahghairon, a number of [[Underdark]] creatures tried to invade the sewers and Waterdeep proper by means of a ''portal'' within Undermountain, which he put an end to by means of the ''[[gatewarp]]'' spell.
-
-At some point a group of [[dwarves]] established a kingdom beneath the sewers, which eventually fell into ruin and became a mere legend on the surface. Their ruins were later discovered by the archeaologist [[Wently Kelso]].{{Cite document/Eye of the Beholder/Clue Book|30}}
-
-In [[1208 DR]], in the month of [[Kythorn]], some unauthorized construction was discovered on the second level of the sewers.
-
-After securing a stronghold in [[1262 DR]] (that would later be renamed the Citadel of the Bloody Handy), the [[Shadow Thieves]] constructed for it two links to the sewers of Waterdeep.
-
-In [[1280 DR]], in the month of [[Mirtul]], some trapped sewer gas was cleared from an area on the third sewer level. [[1281 DR|A year later]], on the month of Kythorn, a cistern area was added to the second level of the sewers. And in [[1292 DR]], on the month of [[Tarsakh]], flood control gates on the second level were repaired and additional ones were installed.
-
-In [[1298 DR]], the Shadow Thieves were driven out of the city and the [[Lords of Waterdeep]] had the citadel's two passages to the sewers garrisoned by the City Guard. From then on they were occasionally employed by high-ranking occupants of Castle Waterdeep when a discreet exit was desired.
-
-Some time in the late 1350's DR, on [[Mirtul 15]],<ref>{{Cite dungeon/30/And a Dozen Eggs|10}} twelve [[tanystropheus]] eggs ordered by [[Phalantar's Philtres & Components]] hatched and escaped into the sewers via a garbage chute. That night a crew of Cellarers were attacked by the young [[dinosaur]]s while laying a large, heavy length of pipe. One member was killed, while two others were badly mauled. Frustrated by this, the guild offered a reward of 200 gold pieces for their capture (dead or alive), while [[Phalantar Orivan]] himself offered 500 gp for live specimens and 100 gp for dead ones.<ref>{{Cite dungeon/30/And a Dozen Eggs|8-9}} By [[Uktar 30|the end of Uktar]], it was assumed that any tanystropheuses not recovered were dead from the winter weather.<ref>{{Cite dungeon/30/And a Dozen Eggs|15}}
-
+Gratings in the sewers were all made of iron and were quite thick. Some were permanently set into the stone walls, while others could swing open on pivots. By the 14 century DR, many of these grates were suffering from rust.
+One of the two oldest parts of the sewers was a large semicircular channel, which ran around the inland side of the spur of Mount Waterdeep that jutted out into the Castle Ward. Waste from the North Ward and Sea Ward drained through this channel. The other oldest structure was two trunk sewers, which drained waste from the Trades Ward and Southern Ward. Both structures emptied out into Deepwater Harbor.
+The passages of this sewer network had no names, thus directions tended to be given in terms of entry points and paces. Those who worked in the sewers were known to navigate passages by laying down boards as temporary bridges or by vaulting across ledges with  catchpoles. The latter of which were carried in order to reach below the water and clear debris from gratings.
+thumb|273px|Tertius and Onyx have a moment of rest on a passage ledge, having defeated a giant crocodile.
+Passages were denoted as being either one of two types based on their size, primary and secondary. Primary passages were easily navigable. They measured  across and had parallel,  wide, walkway ledges that lacked rails. Secondary passages were smaller, requiring human-sized creatures to crawl or swim their way through. They measured  and had a single  wide ledge on one of their sides, usually the more easterly or southerly side.
+Primary passages were far more common in the northern parts of the citys sewers, while secondary passages were prevalent in the areas beneath the Dock Ward.
+Besides these two types there were many older, smaller passages that had over time been put out of service and walled up by the 14 century DR.
+Some areas of the sewers featured stone portals, a network built by an old dwarven kingdom to quickly move about. These required special enchanted stone items to activate, which took a variety of forms. These included daggers, gemstones, holy symbols, medallions, necklaces, orbs, rings, and scepters.
+Some areas featured teleportation pads that were constructed by the sewer networks designers. These would teleport people to the surface, acting as an emergency exit for sewer workers in the case of flooding or other hazards. When broken, they would only teleport people elsewhere within the sewers.
+The sewer network notably featured connections to the dungeon complex under Castle Waterdeep, Many such links were kept operable and secret by the many guilds and shady organizations that operated in the city.
+Connections with Undermountain in particular featured heavily in the citys tavern lore. 
+Dungeon Level This first level of Undermountain had a tight winding crawl space, the Grim Passage, that ended at a secret door high above the headless relic known as Grim Statue. This was entered by means of a hidden door in the sewer passage beneath Slide Alley. This sewer passage paralleled the docks north of Sail Street, branched near Mirts Mansion, and linked up to a junction room (SF48). The Grim Passage itself wound and twisted through the rat-infested remnants of old, filled-in and forgotten cellars and disused privy chutes, until curving into a dead end where the hidden door above the statue laid. The drop down to the Grim Statue was roughly .
+Fireplace Level This complex of rooms within the Dungeon of the Crypt was connected to the midden of the Grinning Lion and a junction room in the sewers beneath it (SF31) by means of a secret staircase.
+Lost Level This sixth level of Undermountain was connected to the sewers by means of a portal that was visible only on the night of a full moon in the month of Flamerule.
+thumb|273px|A creature reaches up through a streets sewergrate.
+There were a great deal of creatures that inhabited this sewer network, far more than could logically be expected to find enough food to survive. Many of these creatures entered the sewers by means of the Dungeon of the Crypt and Undermountain. There were also a wide variety of fungi and oozes that lived in the sewers, with there being a small chance of an ooze crawling its way up the privy pipes of the sewers.
+Adventurers, Such groups sometimes hired Cellarers to guide them through the sewers at the cost of 20 gold pieces a day, but such guides never carried weapons and would stick to only traveling the primary passages.
+Explorers of the sewers risked exposure to sewer plagues. The waters were generally tainted with blinding sickness and any open wounds ran the risk of being contaminated with filth fever.
+thumb|Some of the sewers inhabitants and unwitting adventurers.|335x335px
+Around 1357 DR
+The creatures most commonly encountered within the sewer network around 1357 DRWaterdeep and the North states on page 14 that the news provided in the Forgotten Realms Campaign Set, "...is current [to this book] as of early Mirtul, in the Year of the Prince." included huge centipedes, a colony of green slime, a colony of yellow mold, mites, rats and giant rats, rot grubs, and scum creepers.
+The creatures less commonly encountered in the sewers around this time were boggles, galltrits, giant bats, giant centipedes, giant ticks, huge spiders, jackalweres, large pedipalps, mongrelmen, skeletons, stirges, wererats, kobolds, and kuo-toa.
+And finally, the creatures only rarely encountered in the sewers around this time were cambions, giant bloodworms, cave fishers, crocodiles, executioners hoods, giant slugs, gibbering mouthers, gorbels, grells, lurker aboves, mimics, neo-otyughs and otyughs, obliviaxes, shadows, shadow demons, shambling mounds, slicer beetles, stunjellies, tentamorts, tunnel worms, vargouilles, and xorns.
+Around 1368 DR
+The creatures most commonly encountered within the sewer network around 1368 DR included bats, crocodiles, giant leechs, otyughs, megalo-centipedes, mongrelmen, ochre jellies, osquips, rats and giant rats, rot grubs, skeletons, slithering trackers, stirges, stun jellies, tunnel worms, yellow molds, and zombies.
+The creatures less commonly encountered in the sewers around this time were broken ones, brown mold colonies, cavefishers, gremlins, sewerms, shriekers, giant spiders, giant and huge centipedes, gray oozes, green slimes, and russet mold colonies.
+And finally, the creatures only rarely encountered in the sewers around this time were carrion crawlers, cave fishers, deepspawn, common feyrs, giant slugs, gorbels, green hags, grells, gulguthydrae, jackalweres, living walls, lurkers, mimics, shambling mounds, and sinisters.
+Around 1372 DR
+The creatures most commonly encountered within the sewer network around 1372 DR included bats, bloodbloaters, carrion crawlers, centipedes, chokers, eyeballs, common feyrs, flotsam oozes, gray oozes, gricks, lurkers, meazels, merfolk, mimics, ochre jellies, osquips, rats, sewerms shadows, shriekers, skum, spiders, splinterwaifs, stirges, twig blights, violet fungi, wasps, wererats, green slimes, brown molds, and yellow molds.
+The creatures only rarely encountered in the sewers around this time were aboleths, beholders, breathdrinkers, chuuls, crimson deaths, cursts, crocodiles, darkmantles, darktentacles, deepspawn, drowned ones, ghaunadans, gibbering mouthers, greater feyrs, greenvise, grells, gulguthydrae, kelp anglers, leechwalkers, lifeleech otyughs and normal otyughs, mongrelfolk, moonrats, mudmaws, ocularons, plague ants, plague spewers, shambling mounds, sinisters, swamp striders, wights, will-o-wisps, wraiths, yellow musk creepers and zombies, magerippers, and rylkar.
+Some areas connected between primary passages, known as junction rooms, were square in shape. They measured  by , were  tall, and had a sitting ledge near their ceiling.
+Entrances into the sewer network were known as surface shafts. They measured  in diameter, were typically spherical in shape, and had iron rungs set in the walls for use as ladders. They were capped by covers made either wholly of metal or of metal-banded wood. These covers were known as "manholes" or "person access covers."
+The surface shafts and junction rooms of this sewer network (as labeled on the map above) could be found at the following locations
+SF1 A surface shaft underneath trees in the interior of the block northwest of the shrine to Silvanus within the Shrines of Nature.
+SF2 A surface shaft in the northernmost corner of Sabbars Alley.
+SF3 A surface shaft in the center of Shank Alley.
+SF4 A surface shaft south off the Street of Glances and just south of the tree in Sniff Alley.
+SF5 A surface shaft in the central stand of trees in the southern end of Heroes Garden, Halfway down this shaft was a secret entrance leading to the Catacombs of Yintros.
+SF6 A surface shaft under a lone tree in the alleyway west of Eltorchul Villa, south of Ivory Street and north of Pharras Alley.
+SF7 A surface shaft in the mouth of an alleyway opening north off Chasso’s Trot, just west of Sul Street.
+SF8 A surface shaft in a cul-de-sac due south of Jhansczil Villa.
+SF9 A surface shaft underneath a tree, in an alleyway just south of Brossfeather Villa.
+SF10 A surface shaft just south of the Ilitul Villa, at the northern end of a dead alley opening off Grimwald’s Way.
+SF11 A surface shaft just west off Mendever Street, in the easternmost cul-de-sac that opens off the alleyway bounding Nesher Villa.
+SF12 A surface shaft in an alleyway just west of the gates of Manthar Villa, off Delzorin Street, between Sul Street and Shield Street. Opens into a junction room.
+SF13 A surface shaft in the alleyway within the block surrounded by Copper Street, Delzorin Street, the High road, and Vordil Street.
+SF14 A surface shaft in Trollskull Alley, southwestern corner, near the intersection of Delzorin Stret and Whaelgund Way. The ladder of this shaft was a  descent.
+SF15 A surface shaft in a cul-de-sac north of Horn Street, between Tower March and Whaelgund Way.
+SF16 A surface shaft at the intersection of Sharras Flight and the Street of Whispers.
+SF18 A surface shaft in a cul-de-sac opening northeast off of Toalars Lane.
+SF19 A surface shaft at the intersection of Calamastyr Lane and Gothal Street. Opens into a junction room.
+SF20 A surface shaft at the southwestern corner of Runers Alley.
+SF21 A junction room without any surface entrance, located under the southern mouth of Cloaksweep Alley.
+SF22 A surface shaft in a copse of trees at the center of a block bounded by Copper Street, Hassantyrs Street, the High Road, and Julthoon Street.
+SF23 A surface shaft at the western end of Marlars Lane.
+SF24 A surface shaft at the base of a rocky cliff-face, just behind Blackstaff Tower.
+SF25 A surface shaft near the top of the rocky slope of Mount Waterdeep, at a point due southwest of Turnback Court.
+SF26 A surface shaft located in Turnback Court. Opened into a junction room.
+SF27 A surface shaft located in the southwest corner of an alleyway that opened south off Cymbrils Walk, at the intersection of Street of Silver and Warriors Way.
+SF28 A surface shaft located in the southwest corner of a dead-end alley, in the block bounded by Lamp Street, the Street of Bells, Cymbrils Walk, and the Street of the Sword. Opened into a junction room.
+SF29 A surface shaft located at a northwestern junction of alleyways, in the block bounded by the High Road, Lamp Street, Selduth Street, and the Street of Bells.
+SF30 A surface shaft located at the southeastern corner of an alleyway, opening off the High Road and to the west of Andamaars Street.
+SF31 A junction room without any surface entrance, located beneath the Grinning Lion. Sometime between 1368 and 1372, the proprietor of the Grinning Lion installed a secret passage between this junction room and the stairs beneath his taverns midden.
+SF32 A surface shaft located at the northwestern corner of an alleyway, opening off Golden Serpent Street and Nindabar Street.
+SF33 A surface shaft located at the halfway point of Belzound Street.
+SF34 A surface shaft located at the northern mouth of an alleyway that opened off of Sevenlamps Cut.
+SF35 A surface shaft located at the intersection of Lemontree Alley and Shadows Alley.
+SF36 A surface shaft located in an alleyway just north of the Pampered Traveler inn.
+SF37 A surface shaft located in the wide alleyway between the High Road and the Street of Bells.
+SF38 A surface shaft beneath the House of the Fine Carvers, leading into a junction room.
+SF39 A surface shaft located on Spindle Street.
+SF40 A surface shaft located on the lane that paralleled Irimars Walk.
+SF41 A surface shaft located in an alleyway that opened west off of Wall Way, just south of Andamaars Street.
+SF42 A surface shaft located in an alleyway that opened west off of Wall Way, just north of Ironpost Street.
+SF43 A surface shaft located within a copse of trees, in a dead-end alleyway just north of the Costumers Hall.
+SF44 A surface shaft located at the mouth of a dead-end alleyway that opened east off of the Street of the Tusks.
+SF45 A junction room without any surface entrance, located beneath an alleyway that opened south off of Spendthrift Alley.
+SF46 A surface shaft located within the cellar of the Unicorns Horn.
+SF47 A surface shaft located in the alleyway behind Olmhazans Jewels.
+SF48 A surface shaft located at the end of a dead-end alleyway, which opened south off of Nelnuks Walk.
+SF49 A surface shaft located in the southwestern corner of a dead-end alleyway, which opened off of Shesstras Street.
+SF50 A junction room without any surface entrance, located beneath the westernmost section of alleyways that opened off of Snail Street.
+SF51 A surface shaft located in a cul-de-sac that opened off of Belnimbras Street.
+SF52 A surface shaft located in the westernmost dead-end of Quaff Alley. Opened into a junction room.
+SF53 A surface shaft located on Soldiers Street, just east of the Bell Tower.
+SF54 A surface shaft located at the intersection of alleyways north of the Three Pearls Nightclub.
+SF55 A junction room without any surface shaft, located under the wide part of Candle Lane.
+SF56 A surface shaft at the westernmost end of a dead-end alley that opened south off of Simples Street. Opened into a junction room.
+SF57 A surface shaft located at the intersection of Burdag Lane and Tsarnen Alley.
+SF58 A surface shaft located at the mouth of a dead-end alley, where it joined Quilley Alley between Nethpranters Street and the Wide Way.
+SF59 A surface shaft located at the western end of a dead-end forked alley, which opened east off of Rivon Street.
+SF60 A surface shaft in a in a cul-de-sac opening, east off the northern end of Drovers Street.
+SF61 A surface shaft located at the halfway point of Beacon Street.
+SF62 A junction room without any surface entrance, located under the intersection of Grocers Lane and Snake Alley.
+SF63 A surface shaft in Rednose Alley.
+SF64 A surface shaft located in a cul-de-sac opening off the Rising Ride, between Caravan Court and Juth Alley.
+SF65 A surface shaft located in the widest part of the alley that opened south off of Olaims Cut.
+SF66 A surface shaft located in the wide alley north of Coach Street and west of the High Road.
+SF67 A surface shaft located east of Carters Way and south of Coachlamp Lane.
+SF68 A surface shaft located in the cellar of the Spouting Fish tavern.
+SF69 A surface shaft located on the second alleyway north of Bellisters House. 
+SF70 A locked surface shaft within the cellar of Piergeirons Palace. It was guarded at all times by five City Guard and an armar. Whenever they saw or heard anything suspicious from the sewers, they would sound alarm on the wall.
+SF72 The lair of Xanathar, located directly beneath the Philosophers Court.
+SF73 North entrance into the Citadel of the Bloody Hand. Connected the secondary passage west of SF53 with the once-secret northern entrance. There was a guard station here, once used to defend Castle Waterdeep from subterranean attacks.
+SF74 Southern entrance into the Citadel of the Bloody Hand. Connected the secondary passages running north and west of SF48 with the once-secret southern entrance.
+SF75 A collapsed section of sewer floor and flooded storage vault of a forgotten merchant, used as a lair by the Savants of the Dark Tide.
+Entrances into the sewers that were not labeled on the map included the following locations
+Dragon Tower A wizards tower in the Sea Ward that had a secret entrance to the sewers hidden in its first floor kitchen.
+God Catcher Sometime after 1385 DR this sunken, former Walking Statue in the Castle Ward had its leg hollowed out to create an access point to the sewers (see "History" for more information).
+Golden Hammer An inn with a trapdoor that opened into the sewers.
+Jalanvaloss This steel dragon had secret apartments in the House of Pride and Meiroths Fine Silks that had entry stairs linking to the cellars, which linked to the sewers. They also had a secret cache somewhere within the city.
+Lightning Targe A newer adventuring club that had a rather mildewy tunnel connection to the sewers.
+Safehaven An inn in the Southern Ward, whose cellar contained a hidden ladder leading down to the sewers. This ladder was hidden behind a  tall door, which opened upon turning upward the spigot on the last wine casket.
+Thirsty Sailor A tavern in the Dock Ward that had some kind of entrance into the Smugglers Run section of the sewers in its back alley.
+thumb|350px|The City Watch track down criminals in the dark sewers with torches in hand.
+Cellarers & Plumbers Guild Most members of this guild learned the general layout of the sewers after two to five years. This is because their primary concerns were keeping the sewers of the city functional and safe, with guild members being engaged in constant small repair jobs in the sewers, such as on plumbing in old buildings. They also possessed maps of the sewers, but they never sold them.
+City Guard In the late-14 century DR, it became the duty of the City Guard to police the sewers.
+City Watch Up until the late-14 century DR, it was the duty of the City Watch to police the sewers. After this authority switched over to the City Guard, watchmen rarely ever entered the sewers. Only doing so if pursuing a suspect or when they discovered sewer tunnels that connected with cellars. All Watch captains possessed keys to the sewer access points of their assigned ward.
+Confluence The lower status members of this secret society used secret passages within the sewers to enter Tespergates, their organizations base of operations, by means of the villas cellars.
+Cult of the Rat A beast cult that worshiped Sneel, the lesser deity of rats, lived and operated in secrecy in the sewers throughout the 14 and 15 centuries. Many of its members were individuals who allowed themselves to be afflicted with the wererat form of lycanthropy. They often had offerings to Sneel in their warrens, meant to try and earn his favor.
+Dungsweepers Guild This guild normally did not work on the sewer system, but for security reasons the city reserved the right to contact the guildmaster and hire members to help in such work.
+Guild of Watermen Members of this guild knew various spots where the sewer system emptied into the harbor.
+Merfolk Living within Deepwater Harbor, these people regularly patrolled the areas where the sewers emptied. They would use pole mounted catch-nets to scoop up and gather any debris they found into large tow-globes, which they then used to transport the debris far out to sea.
+Plague Rats This elite organization of thieves and assassins operated mainly under the cover of darkness in this sewer network and the Dock Ward.
+Savants of the Dark Tide This aboleth-led criminal organization had its base of operations within this sewer network and mainly operated within it.
+Unseen This secret society operated out of both the sewers and Rat Hills for decades, but following the Rat Hills Conflagration they began having their main meetings within secret rooms in the sewers. Their leader, Hlaavin, also kept many safe houses within the sewers.
+Xanathars Thieves Guild This guild had safehouses scattered throughout the sewers, hidden by secret doors. Tunnels were often marked with the symbol of the guild in yellow chalk, helping to guide members to the safehouses. Every few days these were erased, either by members of the guild or by the Dungsweepers Guild. The guild also utilized some of the stone dwarven portals that were scattered around the sewers.
+These sewers were built over the course of many generations, dating as far back as 1162 DR. As far back as this date, there existed three levels to the sewer system.
+During the days of Ahghairon, a number of Underdark creatures tried to invade the sewers and Waterdeep proper by means of a portal within Undermountain, which he put an end to by means of the gatewarp spell.
+At some point a group of dwarves established a kingdom beneath the sewers, which eventually fell into ruin and became a mere legend on the surface. Their ruins were later discovered by the archeaologist Wently Kelso.
+In 1208 DR, in the month of Kythorn, some unauthorized construction was discovered on the second level of the sewers.
+After securing a stronghold in 1262 DR (that would later be renamed the Citadel of the Bloody Handy), the Shadow Thieves constructed for it two links to the sewers of Waterdeep.
+In 1280 DR, in the month of Mirtul, some trapped sewer gas was cleared from an area on the third sewer level. A year later, on the month of Kythorn, a cistern area was added to the second level of the sewers. And in 1292 DR, on the month of Tarsakh, flood control gates on the second level were repaired and additional ones were installed.
+In 1298 DR, the Shadow Thieves were driven out of the city and the Lords of Waterdeep had the citadels two passages to the sewers garrisoned by the City Guard. From then on they were occasionally employed by high-ranking occupants of Castle Waterdeep when a discreet exit was desired.
+Some time in the late 1350s DR, on Mirtul 15, twelve tanystropheus eggs ordered by Phalantars Philtres & Components hatched and escaped into the sewers via a garbage chute. That night a crew of Cellarers were attacked by the young dinosaurs while laying a large, heavy length of pipe. One member was killed, while two others were badly mauled. Frustrated by this, the guild offered a reward of 200 gold pieces for their capture (dead or alive), while Phalantar Orivan himself offered 500 gp for live specimens and 100 gp for dead ones. By the end of Uktar, it was assumed that any tanystropheuses not recovered were dead from the winter weather.
 Around this decade, false and terribly inaccurate maps of the sewers were being sold by people trying to pass themselves off as Cellarers.
-
-In [[1355 DR]], in the months of [[Ches]] and Tarsakh, flood control blocks were proposed for some areas of the upper sewer level.
-
-In [[1357 DR]], a man from [[Luskan]] by the name of [[Neruudan]] set about making a smuggling ring in Waterdeep. To that end, he hired an evil mage to clear out the upper sewers. The mage put a giant crocodile in the sewers, with his [[quasit]] [[familiar]] riding upon its back and directing the beast, killing members of the Cellarers and Plumbers Guild until they began to refuse to do work. However, Neruudan was unaware of the sewers' use as a highway by locals and their wide selection of dangerous fauna, which eventually lead to the downfall of his plans.
-
-In [[1358 DR]], during the [[Time of Troubles]], the mortal [[avatar]] of [[Myrkul]] opened a ''portal'' between [[Hades]] and the [[Prime Material plane]]. Hoards of [[undead]] came rushing out through the sewers and up into the Dock Ward.<ref> The guardsman [[Ylarell]] tracked these undead and in the process was slain by Myrkul.<ref> Five Cellarers also became lost in the sewers during this time, having been transformed into cursts that continued to patrol the sewers for decades.
-
-In the wake of Myrkul's destruction a [[deathshrieker]] was created in the sewers beneath what later became known as [[Cynosure]]. It would stalk the sewers for over a decade.
-
-Also during this year, on [[Marpenoth 7]] an [[Heroes of Waterdeep|adventuring band]] received orders from the [[Lords of Waterdeep]] to travel into the city's sewers to put an end to the ongoing plans of [[Xanathar (original)|Xanathar]].{{Cite document/Eye of the Beholder/Clue Book|27}} which included several notes on the hazards and creatures they could expect to encounter.{{Cite document/Eye of the Beholder/Clue Book|2}} Secretly aided by another beholder,{{Cite dungeon/206/The Xanathar: Crime Lord of Waterdeep}}
-
-In [[Eleint]], [[1367 DR]], new creatures began to be encountered in the sewers by members of the Plumbers' Guild, such as sewerms. Some of these new creatures originated from the Rat Hills, such as gulguthydrae, having fled into the sewers following the Rat Hills Conflagration.<ref>
-
-In [[1369 DR]], during the event known as [[Halaster's Higharvestide]], a number of creatures crawled out from the sewers and terrorized the people of Waterdeep.<ref> Following this event, the guard station located near the northern entrance to the Citadel of the Bloody Hand became primarily concerned with guarding against the [[living spell]]s that still remained after Halaster's Higharvestide.
-
-That same year the city faced an attack by the forces of [[Iakhovas]]. In the wake of that repelled invasion a number of sea creatures escaped into the sewer system, with some of them, like the [[malenti]] [[Laaqueel]], having been led into the sewers through a surface shaft at Coin Alley by Iakhovas himself.
-
-Among the dozens of aboleths that fought in the army of Iakhovas there was one trio, hailing from the [[Swordsea Depths]], who had joined in this assault for the sole purpose of using the chaos to sneak their way into the city's sewer system. Within the sewers the would-be Savants of the Dark Tide established a lair, then over time gradually enslaved members of the Cellarers’ & Plumbers’ Guild and transformed rogues into skum servitors.
-
-Around 1372 DR, the [[doomsphere]] [[Xliiqil]] began stalking the sewers, trying to learn what happened to the [[Company of Crazed Venturers]] who had slayed it decades prior. Also around this time, eyeballs and lurking stranglers roamed the sewers on behalf of Xanathar. After the event known as the [[Silence of Lolth]] began in [[Eleasis 28]],<ref> some [[drow]] fled into the depths of the [[Lowerdark]] and displaced the rylkar, a rat-like species to known to only a few Underdark experts. Moving to higher subterannean depths, the rylkar began infesting sewers in Faerûn, including the Sewers of Waterdeep.
-
-In [[1385 DR]], the [[Spellplague]] hit Toril and caused all of the [[Walking Statues of Waterdeep]] to become animated and wreak havoc across the city. The [[Blackstaff]] at the time, [[Tsarra Chaadren]], turned the ground to mud underneath a statue known as the [[God Catcher]]. It sank partway into the ground, one of its legs penetrating a sewer line. Once the statues became immobile the God Catcher remained where it had sunken and was eventually converted into a tenement building, while its leg was hollowed out to create an access point to the sewer system.
-
-Around In the late 15{{th}} century DR, a number of dwarves attempting to dig larger homes for themselves in [[Undercliff]] inadvertently breach Waterdeep's sewers in the process.<ref>
-
-In {{Yearlink|1491}}, shortly after [[Mistshore]] was largely destroyed in a massive fire,<ref> Xanathar had some areas of the sewer network diverted in order to give his organization more space, which resulted in a large daily influx of sewage into Deepwater Harbor. Merfolk who lived nearby made attempts to clean the area, but were slaughtered by an undead [[eye of the deep]] under Xanathar's command. Eventually, [[Laeral Silverhand]] intervened &mdash; the meddlings of Xanathar were undone, the eye of the deep was slain, and harbor waters were revitalized.<ref>{{Cite web/theedverse/2020-05-08 - Waterdeep's 15th century Sewer Debacle}}
-
-In [[1492 DR]],{{WDH-time}} [[Jeryth Phaulkon]] sent ''[[awaken]]ed'' rats into the sewers to search for Xanathar's hidden lair, eventually discovering a secret spiral stairwell in the sewers beneath the [[Waterdeep/Castle Ward|Castle Ward]].<ref>
-
-==Rumors & Legends==
-* Some rumors claimed that the cellars of some of the City Watch's guardposts contained secret entrances to the sewers.
-* Some claimed that members of the Cellarers' & Plumbers' Guild could purposely cause the sewers to back up and overflow into certain buildings as an intimidation tactic.
-* The [[Cliffwatch Inn]]'s cellars were rumored to have secret passages to the sewers.
-* There were persistent rumors that [[Uluryk Malogh]] made an extensive map of the city's cellars and sewers, detailing all their various barriers, locks, and [[trap]]s.
-* Around the mid-14{{th}} century DR, there were rumors circulating that Xanathar's Thieves' Guild had trained guard rats roaming the sewers and that slavers dwelling within the uppermost rooms of Undermountain creeped out into the sewers at night to kidnap unsuspecting Waterdhavians.
-
+In 1355 DR, in the months of Ches and Tarsakh, flood control blocks were proposed for some areas of the upper sewer level.
+In 1357 DR, a man from Luskan by the name of Neruudan set about making a smuggling ring in Waterdeep. To that end, he hired an evil mage to clear out the upper sewers. The mage put a giant crocodile in the sewers, with his quasit familiar riding upon its back and directing the beast, killing members of the Cellarers and Plumbers Guild until they began to refuse to do work. However, Neruudan was unaware of the sewers use as a highway by locals and their wide selection of dangerous fauna, which eventually lead to the downfall of his plans.
+In 1358 DR, during the Time of Troubles, the mortal avatar of Myrkul opened a portal between Hades and the Prime Material plane. Hoards of undead came rushing out through the sewers and up into the Dock Ward. The guardsman Ylarell tracked these undead and in the process was slain by Myrkul. Five Cellarers also became lost in the sewers during this time, having been transformed into cursts that continued to patrol the sewers for decades.
+In the wake of Myrkuls destruction a deathshrieker was created in the sewers beneath what later became known as Cynosure. It would stalk the sewers for over a decade.
+Also during this year, on Marpenoth 7 an adventuring band received orders from the Lords of Waterdeep to travel into the citys sewers to put an end to the ongoing plans of Xanathar. which included several notes on the hazards and creatures they could expect to encounter. Secretly aided by another beholder,
+In Eleint, 1367 DR, new creatures began to be encountered in the sewers by members of the Plumbers Guild, such as sewerms. Some of these new creatures originated from the Rat Hills, such as gulguthydrae, having fled into the sewers following the Rat Hills Conflagration.
+In 1369 DR, during the event known as Halasters Higharvestide, a number of creatures crawled out from the sewers and terrorized the people of Waterdeep. Following this event, the guard station located near the northern entrance to the Citadel of the Bloody Hand became primarily concerned with guarding against the living spells that still remained after Halasters Higharvestide.
+That same year the city faced an attack by the forces of Iakhovas. In the wake of that repelled invasion a number of sea creatures escaped into the sewer system, with some of them, like the malenti Laaqueel, having been led into the sewers through a surface shaft at Coin Alley by Iakhovas himself.
+Among the dozens of aboleths that fought in the army of Iakhovas there was one trio, hailing from the Swordsea Depths, who had joined in this assault for the sole purpose of using the chaos to sneak their way into the citys sewer system. Within the sewers the would-be Savants of the Dark Tide established a lair, then over time gradually enslaved members of the Cellarers’ & Plumbers’ Guild and transformed rogues into skum servitors.
+Around 1372 DR, the doomsphere Xliiqil began stalking the sewers, trying to learn what happened to the Company of Crazed Venturers who had slayed it decades prior. Also around this time, eyeballs and lurking stranglers roamed the sewers on behalf of Xanathar. After the event known as the Silence of Lolth began in Eleasis 28, some drow fled into the depths of the Lowerdark and displaced the rylkar, a rat-like species to known to only a few Underdark experts. Moving to higher subterannean depths, the rylkar began infesting sewers in Faerûn, including the Sewers of Waterdeep.
+In 1385 DR, the Spellplague hit Toril and caused all of the Walking Statues of Waterdeep to become animated and wreak havoc across the city. The Blackstaff at the time, Tsarra Chaadren, turned the ground to mud underneath a statue known as the God Catcher. It sank partway into the ground, one of its legs penetrating a sewer line. Once the statues became immobile the God Catcher remained where it had sunken and was eventually converted into a tenement building, while its leg was hollowed out to create an access point to the sewer system.
+Around In the late 15 century DR, a number of dwarves attempting to dig larger homes for themselves in Undercliff inadvertently breach Waterdeeps sewers in the process.
+In , shortly after Mistshore was largely destroyed in a massive fire, Xanathar had some areas of the sewer network diverted in order to give his organization more space, which resulted in a large daily influx of sewage into Deepwater Harbor. Merfolk who lived nearby made attempts to clean the area, but were slaughtered by an undead eye of the deep under Xanathars command. Eventually, Laeral Silverhand intervened &mdash the meddlings of Xanathar were undone, the eye of the deep was slain, and harbor waters were revitalized.
+In 1492 DR, Jeryth Phaulkon sent awakened rats into the sewers to search for Xanathars hidden lair, eventually discovering a secret spiral stairwell in the sewers beneath the Castle Ward.
+* Some rumors claimed that the cellars of some of the City Watchs guardposts contained secret entrances to the sewers.
+* Some claimed that members of the Cellarers & Plumbers Guild could purposely cause the sewers to back up and overflow into certain buildings as an intimidation tactic.
+* The Cliffwatch Inns cellars were rumored to have secret passages to the sewers.
+* There were persistent rumors that Uluryk Malogh made an extensive map of the citys cellars and sewers, detailing all their various barriers, locks, and traps.
+* Around the mid-14 century DR, there were rumors circulating that Xanathars Thieves Guild had trained guard rats roaming the sewers and that slavers dwelling within the uppermost rooms of Undermountain creeped out into the sewers at night to kidnap unsuspecting Waterdhavians.

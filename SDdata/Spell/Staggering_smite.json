@@ -1,21 +1,5 @@
 {
-    "template_data": {
-        "edition": "5e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Staggering Smite",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Evocation]]",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "{{Spell table|edition=5e|[[Paladin]]|4}}",
         "type5e": "",
         "refs5e": "",
         "feature4e": "",
@@ -42,8 +26,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Staggering smite''''' was a [[spell]] used by [[paladin]]s.",
-        "Effects": "This spell was cast while the caster wielded a melee weapon. The weapon became temporarily enhanced and inflicted psychic damage to a target when used immediately after the spell was cast.",
-        "Components": "This spell required only a [[Verbal component|verbal]] component."
+        "mainbody": "Staggering smite was a spell used by paladins.\nThis spell was cast while the caster wielded a melee weapon. The weapon became temporarily enhanced and inflicted psychic damage to a target when used immediately after the spell was cast.\nThis spell required only a verbal component."
     }
 }

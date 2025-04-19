@@ -1,36 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "90|ft|long": "yes",
-        "4|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Geyser",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Elemental water sphere|Elemental water]]",
-        "level2e": "{{spell table|edition=2e|[[Druid]]|5}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -38,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Geyser''''' was a very rare [[spell]] used by [[druid]]s.",
-        "Effects": "When cast on a target, the spell created a geyser in the targeted location. The geyser erupted, shooting steam and scalding water to a height of {{SI|90|ft|long=yes}}. The column of water could be up to {{SI|4|ft|long=yes}} in diameter.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required [[material component]]s."
+        "mainbody": "Geyser was a very rare spell used by druids.\nWhen cast on a target, the spell created a geyser in the targeted location. The geyser erupted, shooting steam and scalding water to a height of . The column of water could be up to  in diameter.\nIn addition to verbal and somatic components, this spell required material components."
     }
 }

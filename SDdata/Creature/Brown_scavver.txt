@@ -1,31 +1,9 @@
-{{Creature
-| image        = Brown Scavver.webp
-| caption      = A Brown Scavver
-| name         = Brown Scavver
-| othernames   = 
-| size5e       = Large
-| type5e       = [[Monstrosity]]
-| subtype5e    = 
-| alignment5e  = [[Unaligned]]
-| challenge5e  = 4
-| refs5e       = 
-| size2e       = Large
-| alignment2e  = [[Neutral]]
-| refs2e       = 
-| patron deity = 
-| movement     = Flight
-| vision       = [[Darkvision]]
-| activecycle  = Any
-| diet         = Carnivorous
-| lifespan     = 
-| location     = 
-| intelligence = {{Int|1}}
 | language     = 
 | climate      = 
 | terrain      = Any space
 | genrefs      = 
 | height       = 
-| length       = {{SI|10|ft}}
+| length       = 
 | weight       = 
 | skincolor    = 
 | haircolor    = 
@@ -37,22 +15,10 @@
 | first        = 
 | based        = 
 | histrefs     = 
-}}
-'''Brown scavvers''' were a large but timid species of [[scavver]].
-
-==Description==
-Brown scavvers had the same form as other scavvers: a one-eyed, fish-like creature with a large mouth. Brown scavvers could be distinguished from other species by their size, being around {{SI|10|ft|long=yes}} long, and their coloring, which ranged from sun-dappled gold to a dark, rusty umber.
-
-==Behavior==
+Brown scavvers were a large but timid species of scavver.
+Brown scavvers had the same form as other scavvers a one-eyed, fish-like creature with a large mouth. Brown scavvers could be distinguished from other species by their size, being around  long, and their coloring, which ranged from sun-dappled gold to a dark, rusty umber.
 Brown scavvers were dumb creatures with no interest in fighting. If challenged, even over food, they left the area (but would return later).
-
-==Abilities==
-Brown scavvers were considered more dangerous than [[gray scavver]]s for two reason: brown scavvers were big enough to swallow most normal humanoids whole, and their gullets were full of poison, which they were known to be able to belch out in a cloud when attacked.
-
-==Ecology==
-Brown scavvers, like other scavvers, were native to [[wildspace]] and the [[phlogiston]]. They were purely scavengers, known to trail after asteroids, larger creatures, and ships in search of food.
-
-The flesh of brown scavvers was laced with their gullet poison; as a result, other creatures in wildspace did not feed upon brown scavvers. Gray scavvers were known to eat it if offered it, but would die from the poison.
-
-However, at least one company of [[Shou]] [[dragonship]]s claimed that brown scavver flesh was palatable if prepared properly and one of the captains claimed to have served it to the Emperor himself (cynics, however, said that the Emperor was attended by priests with ''[[detect poison|detect]]'', ''[[slow poison|slow]]'', and ''[[remove poison]]'' on hand, and the captain had been sent back out to space as a punishment).
-
+Brown scavvers were considered more dangerous than gray scavvers for two reason brown scavvers were big enough to swallow most normal humanoids whole, and their gullets were full of poison, which they were known to be able to belch out in a cloud when attacked.
+Brown scavvers, like other scavvers, were native to wildspace and the phlogiston. They were purely scavengers, known to trail after asteroids, larger creatures, and ships in search of food.
+The flesh of brown scavvers was laced with their gullet poison as a result, other creatures in wildspace did not feed upon brown scavvers. Gray scavvers were known to eat it if offered it, but would die from the poison.
+However, at least one company of Shou dragonships claimed that brown scavver flesh was palatable if prepared properly and one of the captains claimed to have served it to the Emperor himself (cynics, however, said that the Emperor was attended by priests with detect, slow, and remove poison on hand, and the captain had been sent back out to space as a punishment).

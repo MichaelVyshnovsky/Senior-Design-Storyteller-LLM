@@ -1,28 +1,8 @@
 {
-    "template_data": {
-        "0.1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Potion of camouflage.png",
-        "caption": "",
-        "name": "''Potion of Camouflage''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Potion]]",
-        "location": "[[Gillian's Hill]], [[Delimbiyr Vale]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "5{{th}}",
         "itemlevel3e": "",
         "value3e": "",
-        "weight3e": "{{SI|0.1|lb|k|long=yes}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,9 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Potions of camouflage''''' were rare [[potion]]s, especially sought after by [[rogue]]s, [[ranger]]s, and other persons who valued stealth and cunning.",
-        "Description": "''Potions of camouflage'' came in small clear vials. The liquid inside shimmered with blues and purples.",
-        "Powers": "Each potion had enough concoction for a single person and only one use. When consumed, the potion affected the imbiber's sling, making it change color to match the surrounding, making them extremely hard to spot. The effects of the potion were similar to that of the ''[[camouflage]]'' spell.",
-        "History": "In [[1372 DR]], a stray vial of a ''potion of camouflage'' could be dug up from one of the cluttered tables with goods available for sale at the antique and junk shop of [[Torleth's Treasures]] of [[Gillian's Hill]]."
+        "mainbody": "Potions of camouflage were rare potions, especially sought after by rogues, rangers, and other persons who valued stealth and cunning.\nPotions of camouflage came in small clear vials. The liquid inside shimmered with blues and purples.\nEach potion had enough concoction for a single person and only one use. When consumed, the potion affected the imbibers sling, making it change color to match the surrounding, making them extremely hard to spot. The effects of the potion were similar to that of the camouflage spell.\nIn 1372 DR, a stray vial of a potion of camouflage could be dug up from one of the cluttered tables with goods available for sale at the antique and junk shop of Torleths Treasures of Gillians Hill."
     }
 }

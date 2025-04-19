@@ -1,15 +1,8 @@
 {
     "document_data": {
-        "image": "LandYakMen.PNG",
-        "caption": "A map showing the River Ruin flowing through the Land of the Yak-Men.",
-        "name": "River Ruin",
-        "aliases": "",
-        "type": "River",
-        "region": "[[Land of the Yak-Men]], [[Zakhara]]",
-        "size": "{{SI|300|mi|k}} long",
         "depth": "",
-        "river source": "[[World Pillar Mountains]]",
-        "river mouth": "[[Pearl Bay]]",
+        "river source": "World Pillar Mountains",
+        "river mouth": "Pearl Bay",
         "tributaries": "",
         "tributary of": "",
         "georefs": "",
@@ -25,10 +18,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "The '''River Ruin''' was the largest river in the [[Land of the Yak-Men]] and northeast [[Zakhara]] in [[1367 DR]].{{AQ-time}}{{Cite dragon/241/Campaign Classics: The Roof of the World}}",
-        "Geography": "The River Ruin flowed out of the peaks of the [[World Pillar Mountains]] within the [[Ghost Leopard]] province of the [[Yikarian Empire]], cascading north and west into the [[Sun's Eye]] province before passing the [[Blackwash Fens]] and emptying into the [[Great Sea]] at [[Pearl Bay]]. The river stretched for approximately {{SI|300|mi|k}}.",
-        "Description": "Due to the harsh arid environment, the river only flowed for six months out of the year. However, heavy rainfall and spring runoff from the mountains filled the dry river bed with turbulent water during the rainy season.",
-        "Activities": "The yikarians used the river to transport goods from the mountains to the coast. During the dry season, caravans used the river bed as a road to move slaves and other cargo from the coast deep into the Yikarian Empire.",
-        "Notable Locations": "* Blackwash Fens"
+        "mainbody": "The River Ruin was the largest river in the Land of the Yak-Men and northeast Zakhara in 1367 DR.\nThe River Ruin flowed out of the peaks of the World Pillar Mountains within the Ghost Leopard province of the Yikarian Empire, cascading north and west into the Suns Eye province before passing the Blackwash Fens and emptying into the Great Sea at Pearl Bay. The river stretched for approximately .\nDue to the harsh arid environment, the river only flowed for six months out of the year. However, heavy rainfall and spring runoff from the mountains filled the dry river bed with turbulent water during the rainy season.\nThe yikarians used the river to transport goods from the mountains to the coast. During the dry season, caravans used the river bed as a road to move slaves and other cargo from the coast deep into the Yikarian Empire.\n* Blackwash Fens"
     }
 }

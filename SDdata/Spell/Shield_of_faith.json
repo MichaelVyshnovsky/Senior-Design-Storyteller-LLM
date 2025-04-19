@@ -1,35 +1,20 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "edition_1": "4e",
-        "variant": "prayer",
-        "edition_2": "3e"
-    },
     "document_data": {
-        "image": "Legends_of_Baldurs_gate_Frostgiants_Fury_-_Shield_of_Faith_-_p103.jpg",
-        "caption": "[[Nerys]] casts '''shield of faith''' to defend against the attack of a [[winter wolf]].",
-        "name": "Shield of Faith",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Abjuration]]",
-        "domains5e": "[[War domain|War]]",
-        "level5e": "{{Spell table|edition=5e|[[Cleric]]|1|[[Paladin]]|1|[[War domain|War]]|1}}",
         "type5e": "",
         "refs5e": "",
         "feature4e": "",
-        "keywords4e": "{{Desc/divine}}",
-        "level4e": "{{spell table|edition=4e|variant=prayer|[[Cleric]]|2}}",
+        "keywords4e": "",
+        "level4e": "",
         "type4e": "Utility",
         "category4e": "",
         "skill4e": "",
-        "refs4e": "<ref>",
-        "school3e": "[[Abjuration]]",
-        "domains3e": "[[Chastity domain|Chastity]], [[Retribution domain|Retribution]]",
+        "refs4e": "",
+        "school3e": "Abjuration",
+        "domains3e": "Chastity, Retribution",
         "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Chastity domain|Chastity]]|1|[[Cleric]]|1|[[Retribution domain|Retribution]]|1|[[Sohei]]|1}}",
+        "level3e": "",
         "type3e": "",
-        "refs3e": "{{Cite dragon/355/Seven Saintly Domains|26}}",
+        "refs3e": "",
         "reversible2e": "",
         "school2e": "",
         "spheres2e": "",
@@ -41,8 +26,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Shield of faith''''' was a [[divine]] [[abjuration]] spell that granted greater ability to deflect blows.",
-        "Effects": "Around a touched creature appeared a shimmering, magical field that caused physical attacks to be averted. The strength of this field increased with the power level of the caster.",
-        "Components": "As well as [[verbal]] and [[somatic component]]s, casting this spell required a small piece of parchment bearing a fragment of a holy text."
+        "mainbody": "Shield of faith was a divine abjuration spell that granted greater ability to deflect blows.\nAround a touched creature appeared a shimmering, magical field that caused physical attacks to be averted. The strength of this field increased with the power level of the caster.\nAs well as verbal and somatic components, casting this spell required a small piece of parchment bearing a fragment of a holy text."
     }
 }

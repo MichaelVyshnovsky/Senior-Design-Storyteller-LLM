@@ -1,13 +1,3 @@
-{{Creature
-| image        = Brigganock 5e.jpg
-| caption      = 
-| name         = Brigganock
-| othernames   = 
-| size5e       = Tiny
-| type5e       = [[Fey]]
-| subtype5e    = 
-| alignment5e  = Typically [[neutral good]]
-| challenge5e  = {{Frac|1|8}}
 | refs5e       = 
 | patron deity = 
 | movement     = Burrowing
@@ -15,9 +5,9 @@
 | activecycle  = 
 | diet         = Omnivorous
 | lifespan     = 
-| location     = [[Feywild]]
-| intelligence = {{Int|10}}
-| language     = [[Common]], [[Sylvan]]
+| location     = Feywild
+| intelligence = 
+| language     = Common, Sylvan
 | climate      = 
 | terrain      = Underground
 | genrefs      = 
@@ -33,25 +23,11 @@
 | first        = 
 | based        = 
 | histrefs     = 
-}}
-'''Brigganocks''' were a species of tiny [[fey]] whose spirits manifested outside of their bodies.
-{{TOC_limit|3}}
-==Description==
-Brigganocks were about the size of [[mice]]. They always had a bulb of pale light—their spirit—nearby their body.
-
-==Personality==
+Brigganocks were a species of tiny fey whose spirits manifested outside of their bodies.
+Brigganocks were about the size of mice. They always had a bulb of pale light—their spirit—nearby their body.
 Brigganocks were frantic but inoffensive creatures, and were generally benevolent towards others.
-
-==Abilities==
-Like other fey, brigganocks were difficult to charm and impossible to render asleep via [[magic]]. However, they lacked the typical [[low-light vision]] or [[darkvision]] because their surroundings were always lit by their spirit-light, which illuminated {{SI|10|ft|long=yes}} with bright light, and which they could move with a thought up to {{SI|30|ft|long=yes}} away for short periods of time. The brigganock could not dim nor hide their spirit-light, and it faded away when the brigganock died.
-
-Brigganocks had an unusual ability to accelerate time around themselves, allowing them to accomplish one hour's worth of work in a matter of seconds. However, this ability took a toll on them, requiring them to rest between each usage, and the whole of the activity had to happen within a {{SIAdj|10|ft|long=yes}} cube of space.
-
-Brigganocks could naturally cast ''[[minor illusion]]'' and ''[[spare the dying]]'' at will, and ''[[animal friendship]]'', ''[[faerie fire]]'', ''[[meld into stone]]'', and ''[[silence]]'' each once per day.
-
-==Combat==
-When they had to fight, brigganocks relied on their natural spellcasting ability and their [[pickaxe]]s.
-
-==Society==
-Brigganocks spent most of their time seeking out the wish-stones that formed underground in the [[Feywild]]. They refined these stones into gems that they used to decorate their buildings and items, or traded them to other fey for food or favors. Brigganocks only kept wish-stones formed from good intentions; they discarded those formed from malevolent wishes. Brigganocks preferred to eat [[lettuce]], [[cheese]], and other soft foods; they ate a considerable amount of food compared to their small size.
-
+Like other fey, brigganocks were difficult to charm and impossible to render asleep via magic. However, they lacked the typical low-light vision or darkvision because their surroundings were always lit by their spirit-light, which illuminated  with bright light, and which they could move with a thought up to  away for short periods of time. The brigganock could not dim nor hide their spirit-light, and it faded away when the brigganock died.
+Brigganocks had an unusual ability to accelerate time around themselves, allowing them to accomplish one hours worth of work in a matter of seconds. However, this ability took a toll on them, requiring them to rest between each usage, and the whole of the activity had to happen within a  cube of space.
+Brigganocks could naturally cast minor illusion and spare the dying at will, and animal friendship, faerie fire, meld into stone, and silence each once per day.
+When they had to fight, brigganocks relied on their natural spellcasting ability and their pickaxes.
+Brigganocks spent most of their time seeking out the wish-stones that formed underground in the Feywild. They refined these stones into gems that they used to decorate their buildings and items, or traded them to other fey for food or favors. Brigganocks only kept wish-stones formed from good intentions they discarded those formed from malevolent wishes. Brigganocks preferred to eat lettuce, cheese, and other soft foods they ate a considerable amount of food compared to their small size.

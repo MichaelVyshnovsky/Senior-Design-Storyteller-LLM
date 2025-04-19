@@ -1,38 +1,5 @@
 {
-    "template_data": {
-        "40|ft|adj": "wide",
-        "40|ft|adj_1": "wide",
-        "300|ft|long": "yes",
-        "240|ft|long": "yes",
-        "100|ft|long": "yes",
-        "90|ft|long": "yes"
-    },
     "document_data": {
-        "image": "AllFather.png",
-        "caption": "",
-        "name": "Eye of the All-Father",
-        "aliases": "",
-        "type": "Temple",
-        "architecture": "",
-        "floors": "",
-        "location": "[[Spine of the World]]",
-        "owner": "",
-        "staff": "",
-        "occupants": "",
-        "services": "",
-        "worship": "[[Annam All-Father]]",
-        "pipes": "",
-        "tankards": "",
-        "coins": "",
-        "daggers": "",
-        "quality": "",
-        "price": "",
-        "usethe": "",
-        "useon": "",
-        "inhabitants": "",
-        "locations": "",
-        "organizations": "",
-        "mainbody": "The '''Eye of the All-Father''' was a secret underground temple to [[Annam]] built in the time of ancient [[Ostoria]] in the [[Spine of the World]]. It could be accessed by passing through a mountain pass that began in the [[Valley of Khedrun]].",
-        "Description": "The complex was accessed by crossing over a {{SIAdj|40|ft|adj=wide}} causeway with sheer drops to the valley floor below. The causeway led to a domed entrance with six columns carved with likenesses of various giant races. Beyond the entryway there were no doors, but there was a {{SIAdj|40|ft|adj=wide}} corridor over {{SI|300|ft|long=yes}} long which led to a set of stairs to the main temple's massive doors.\n\nInside, the temple to Annam was a square, vaulted chamber some {{SI|240|ft|long=yes}} to a side. Six statues carved in the likenesses of six of Annam's sons, [[Grolantor]], [[Memnor]], [[Skoraeus Stonebones]], [[Stronmaus]], [[Surtr|Surtur]], and [[Thrym]], surrounded a seventh statue that was thought to be Annam himself. An archway in one wall led to the inner sanctum, called the Eye of Annam, but it could only be opened if one knew the secret to make the magical portal appear. Sets of double doors led off to a giant-sized dormitory to the north and a giant-sized feast hall to the south.\n\nOnce inside the Eye, one would have been in a hexagonal-shaped room over {{SI|100|ft|long=yes}} across with a ceiling peaking at {{SI|90|ft|long=yes}} high. Again, there were six statues of giants dedicated to the six major races of giantkind. Hidden beneath a layer of frost were several dwarvish runes etched into the floor. Standing inside the runes one could ask an oracle a few questions each day.\n\nOnly a handful of giants―among them [[Harshnag]] and [[Blagothkus]]―knew the location, as did a few ancient [[dragon]]s, including [[Claugiyliamatar]], [[Iymrith]], and [[Klauth]]."
+        "mainbody": "he Eye of the All-Father was a secret underground temple to Annam built in the time of ancient Ostoria in the Spine of the World. It could be accessed by passing through a mountain pass that began in the Valley of Khedrun.\nThe complex was accessed by crossing over a  causeway with sheer drops to the valley floor below. The causeway led to a domed entrance with six columns carved with likenesses of various giant races. Beyond the entryway there were no doors, but there was a  corridor over  long which led to a set of stairs to the main temples massive doors.\nInside, the temple to Annam was a square, vaulted chamber some  to a side. Six statues carved in the likenesses of six of Annams sons, Grolantor, Memnor, Skoraeus Stonebones, Stronmaus, Surtur, and Thrym, surrounded a seventh statue that was thought to be Annam himself. An archway in one wall led to the inner sanctum, called the Eye of Annam, but it could only be opened if one knew the secret to make the magical portal appear. Sets of double doors led off to a giant-sized dormitory to the north and a giant-sized feast hall to the south.\nOnce inside the Eye, one would have been in a hexagonal-shaped room over  across with a ceiling peaking at  high. Again, there were six statues of giants dedicated to the six major races of giantkind. Hidden beneath a layer of frost were several dwarvish runes etched into the floor. Standing inside the runes one could ask an oracle a few questions each day.\nOnly a handful of giants―among them Harshnag and Blagothkus―knew the location, as did a few ancient dragons, including Claugiyliamatar, Iymrith, and Klauth."
     }
 }

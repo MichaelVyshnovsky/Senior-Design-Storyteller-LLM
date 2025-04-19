@@ -1,40 +1,5 @@
 {
-    "template_data": {
-        "100|mi|k|long": "yes",
-        "100|mi|k|long_1": "yes",
-        "75|mi|k|long": "yes",
-        "30|mi|k|long": "yes"
-    },
     "document_data": {
-        "image": "WizardsReach.JPG",
-        "caption": "A map showing the Wizard's Reach east of the Corsair Domains",
-        "name": "Wizard's Reach",
-        "alt spelling": "",
-        "aliases": "",
-        "type": "Island",
-        "region": "The [[Great Sea]], [[northwest Zakhara]]",
-        "size": "",
-        "elevation": "",
-        "depth": "",
-        "capital": "",
-        "largest city": "",
-        "georefs": "",
-        "usethe": "yes",
-        "useon": "yes",
-        "inhabitants": "yes",
-        "locations": "yes",
-        "organizations": "yes",
-        "settlements": "",
-        "roads": "",
-        "mountains": "",
-        "bodies of water": "",
-        "forests": "",
-        "events": "",
-        "food and drink": "",
-        "items": "",
-        "mainbody": "The '''Wizard's Reach''' was a small island found in the [[Great Sea]] in [[northwest Zakhara]] in [[1367 DR]].",
-        "Geography": "The island was located off the coast of mainland [[Zakhara]], approximately {{SI|100|mi|k|long=yes}} due north of [[Qadib]] and {{SI|100|mi|k|long=yes}} due east of the [[Island of Gardens]] in the [[Corsair Domains]]. The island itself measured roughly {{SI|75|mi|k|long=yes}} in length and {{SI|30|mi|k|long=yes}} wide.",
-        "Description": "The southern half of the island was dominated by sandy dunes, while the north half was lightly forested. A [[wizard]]'s tower was found toward the center of the north half of the island at the end of a long and narrow natural bay.",
-        "Activities": "The official ownership of the island was disputed between the [[Corsair Council|corsairs]] of the Corsair Domains and the [[Free Cities of Zakhara]]."
+        "mainbody": "he Wizards Reach was a small island found in the Great Sea in northwest Zakhara in 1367 DR.\nThe island was located off the coast of mainland Zakhara, approximately  due north of Qadib and  due east of the Island of Gardens in the Corsair Domains. The island itself measured roughly  in length and  wide.\nThe southern half of the island was dominated by sandy dunes, while the north half was lightly forested. A wizards tower was found toward the center of the north half of the island at the end of a long and narrow natural bay.\nThe official ownership of the island was disputed between the corsairs of the Corsair Domains and the Free Cities of Zakhara."
     }
 }

@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "2|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Umoja's Harvester.jpg",
-        "caption": "",
-        "name": "''Umoja's Harvester''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Sickle]]",
-        "creator": "",
-        "location": "[[Samarach]], [[Chult]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+1",
-        "value3e": "",
-        "weight3e": "{{SI|2|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Umoja's Harvester''''' was an [[enchanted]] [[Ubtaoan]] [[sickle]] wielded by [[druid]] [[Umoja]] in the late 14{{th}} century [[DR]].",
-        "Description": "The ''Harvester'' appeared as a quite mundane metallic sickle.",
-        "Powers": "''Umoja's Harvester'' possessed several minor enchantments. When it was wielded in battle, it functioned as a ''+1'' magic weapon. Additionally, it imbued its owner with a small amount of health and stamina. Ubtaoan magics made the sickle only usable by only [[human]]s, only druids, and only individuals who revered powers of good.",
-        "History": "Umoja was a kind and gentle man who preferred to use the ''Harvester'' for the cultivation of the jungle's lands in a way that did not interfere with natural balance. However, he was a capable fighter, and when pushed into conflict, Umoja used the ''Harvester'' to reap lives instead of crops. By the {{yearlink|1374}}, Umoja carried his ''Harvester'' to the city of [[Samargol]], guided by the will of his deity."
+        "mainbody": "Umojas Harvester was an enchanted Ubtaoan sickle wielded by druid Umoja in the late 14 century DR.\nThe Harvester appeared as a quite mundane metallic sickle.\nUmojas Harvester possessed several minor enchantments. When it was wielded in battle, it functioned as a +1 magic weapon. Additionally, it imbued its owner with a small amount of health and stamina. Ubtaoan magics made the sickle only usable by only humans, only druids, and only individuals who revered powers of good.\nUmoja was a kind and gentle man who preferred to use the Harvester for the cultivation of the jungles lands in a way that did not interfere with natural balance. However, he was a capable fighter, and when pushed into conflict, Umoja used the Harvester to reap lives instead of crops. By the , Umoja carried his Harvester to the city of Samargol, guided by the will of his deity."
     }
 }

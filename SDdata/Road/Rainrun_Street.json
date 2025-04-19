@@ -1,16 +1,5 @@
 {
     "document_data": {
-        "image": "RainrunStreet.JPG",
-        "caption": "A map of Rainrun Street in the Castle Ward.",
-        "name": "Rainrun Street",
-        "type": "Street",
-        "aliases": "",
-        "length": "",
-        "width": "",
-        "pavement": "Dirt & gravel",
-        "location": "[[Castle Ward of Waterdeep|Castle Ward]], [[Waterdeep]]",
-        "starts": "[[Snail Street]]",
-        "ends": "[[Ward's Way]]<br />{{former}} [[Dretch Lane]]",
         "built": "",
         "refs": "",
         "daggers": "",
@@ -20,8 +9,6 @@
         "settlements": "",
         "events": "",
         "roads": "yes",
-        "mainbody": "'''Rainrun Street''' was a road paved in gravel and hard packed dirt",
-        "Geography": "This road ran west off of [[Snail Street]] and eventually terminated on [[Ward's Way]]. Along the way to that destination, it was intersected by [[Belnimbra's Street]] and [[Cook Street]].\n\nPrior to the mid-14{{th}} century [[DR]], this road continued on beyond Ward's Way and terminated on [[Dretch Lane]], however, a house was eventually constructed along Ward's Way that cut off the road's access.",
-        "Notable Locations": "* [[Yawning Portal]]\n* [[The Empty Keg]]\n* [[Mother Salinka's House of Pleasure]]"
+        "mainbody": "Rainrun Street was a road paved in gravel and hard packed dirt\nThis road ran west off of Snail Street and eventually terminated on Wards Way. Along the way to that destination, it was intersected by Belnimbras Street and Cook Street.\nPrior to the mid-14 century DR, this road continued on beyond Wards Way and terminated on Dretch Lane, however, a house was eventually constructed along Wards Way that cut off the roads access.\n* Yawning Portal\n* The Empty Keg\n* Mother Salinkas House of Pleasure"
     }
 }

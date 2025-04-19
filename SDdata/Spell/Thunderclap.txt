@@ -1,27 +1,12 @@
-{{Spell
-| image         = 
-| caption       = 
-| name          = Thunderclap
-| deity         = 
-| inventor      = 
-| type          = 
-| school5e      = [[Evocation]]
-| domains5e     = 
-| circles5e     = 
-| oaths5e       = 
-| patrons5e     = 
-| traditions5e  = 
-| archetypes5e  = 
-| level5e       = {{Spell table|edition=5e|[[Artificer]]|0|[[Bard]]|0|[[Druid]]|0|[[Sorcerer]]|0|[[Warlock]]|0|[[Wizard]]|0}}
-| type5e        = [[Cantrip]]
+| type5e        = Cantrip
 | refs5e        = 
 | feature4e     = 
-| keywords4e    = {{Desc/arcane}}{{Desc/implement}}{{Desc/thunder}}
-| level4e       = {{spell table|edition=4e|[[Wizard]]|23}}
+| keywords4e    = 
+| level4e       = 
 | type4e        = Encounter
 | category4e    = 
 | skill4e       = 
-| refs4e        = <ref>
+| refs4e        = 
 | school3e      = 
 | domains3e     = 
 | descriptors3e = 
@@ -29,22 +14,16 @@
 | type3e        = 
 | refs3e        = 
 | reversible2e  = 
-| school2e      = [[Evocation]]
+| school2e      = Evocation
 | spheres2e     = 
-| level2e       = {{Spell table|edition=2e|[[Druid]]|3}}
+| level2e       = 
 | type2e        = 
-| refs2e        = {{Cite dragon/142/Arcane Lore: Spells of the Wild Cult|64}}
+| refs2e        = 
 | reversible1e  = 
 | school1e      = 
 | level1e       = 
 | type1e        = 
 | refs1e        = 
-}}
-'''''Thunderclap''''' was an [[evocation]] [[cantrip]] that created a potent burst of sound.
-
-==Effects==
-The spell caused a thunderous sound to erupt from the caster, loud enough to be heard from as far as {{SI|100|ft|long=yes}}
-
-==Components==
-The spell only required [[somatic component]]s.
-
+Thunderclap was an evocation cantrip that created a potent burst of sound.
+The spell caused a thunderous sound to erupt from the caster, loud enough to be heard from as far as 
+The spell only required somatic components.

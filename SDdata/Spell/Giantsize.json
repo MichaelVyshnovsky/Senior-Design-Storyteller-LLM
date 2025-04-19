@@ -1,40 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Giantsize",
-        "deity": "[[Arvoreen]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Combat sphere|Combat]]",
-        "level2e": "{{Spell table|edition=2e|[[Cleric]]|5|[[Combat sphere|Combat]]|5|[[Crusader]]|5}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -42,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Giantsize''''' was a [[divine magic]] [[spell]] granted to priests of [[Arvoreen]], the Wary Sword. It temporarily increased the size and strength of one [[halfling]] to that of a [[hill giant]], along with everything they were wearing or carrying.",
-        "Effects": "This spell only worked on halflings, and could be cast on oneself or another halfling that could be touched. The target and all its clothing and carried items grew proportionately until the target was the size of a hill giant, so a [[short sword]] became a [[bastard sword]], for example. The spell granted the halfling the strength of a hill giant, but not the toughness of their hide. ''Giantsize'' lasted for at least nine minutes (longer for more experienced casters) and then the target and all its enlarged accoutrements shrank back to normal. If cast on oneself, the caster could cancel the spell at any time. To all observers, the target of ''giantsize'' appeared to be a hill giant and the change could not be detected by any means except ''[[true seeing]]''.",
-        "Components": "This spell required only [[Verbal component|verbal]], and [[somatic component]]s to cast, including touching the target halfling."
+        "mainbody": "Giantsize was a divine magic spell granted to priests of Arvoreen, the Wary Sword. It temporarily increased the size and strength of one halfling to that of a hill giant, along with everything they were wearing or carrying.\nThis spell only worked on halflings, and could be cast on oneself or another halfling that could be touched. The target and all its clothing and carried items grew proportionately until the target was the size of a hill giant, so a short sword became a bastard sword, for example. The spell granted the halfling the strength of a hill giant, but not the toughness of their hide. Giantsize lasted for at least nine minutes (longer for more experienced casters) and then the target and all its enlarged accoutrements shrank back to normal. If cast on oneself, the caster could cancel the spell at any time. To all observers, the target of giantsize appeared to be a hill giant and the change could not be detected by any means except true seeing.\nThis spell required only verbal, and somatic components to cast, including touching the target halfling."
     }
 }

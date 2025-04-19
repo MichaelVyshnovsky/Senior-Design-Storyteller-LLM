@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Grease Slick",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|3}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Grease slick''''' was a variant of the [[spell]] ''[[grease]]'' that allowed a [[spellcaster]] to launch a stream of the slippery substance a great distance away from their person.",
-        "Effects": "When this spell was cast, a [[mage]] could cover a 15-foot-wide (4.8 meters) area with slick grease up to 30 feet (9.1 meters) away from wherever they stood. Just like the effect of its base spell, ''grease slick'' caused anyone caught within its area of effect to possibly lose grip of any items they held or slip upon the ground. It lasted for a matter of seconds, depending on the skill and experience of the caster.",
-        "Components": "In addition to [[somatic component]], this spell required a small pinch of rendered pig fat."
+        "mainbody": "Grease slick was a variant of the spell grease that allowed a spellcaster to launch a stream of the slippery substance a great distance away from their person.\nWhen this spell was cast, a mage could cover a 15-foot-wide (4.8 meters) area with slick grease up to 30 feet (9.1 meters) away from wherever they stood. Just like the effect of its base spell, grease slick caused anyone caught within its area of effect to possibly lose grip of any items they held or slip upon the ground. It lasted for a matter of seconds, depending on the skill and experience of the caster.\nIn addition to somatic component, this spell required a small pinch of rendered pig fat."
     }
 }

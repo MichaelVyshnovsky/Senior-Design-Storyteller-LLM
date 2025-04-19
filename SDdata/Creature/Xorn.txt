@@ -1,44 +1,22 @@
-{{Creature
-| image        = <gallery>
-Xorn5e.jpg|5e
-Xorn4e.jpg|4e
-Xorn.jpg|3e
-Xorn2e.gif|2e
-Xorn1e.JPG|1e
-</gallery>
-| caption2     = Various depictions of xorns.
-| name         = Xorn
-| size5e       = Medium 
-| type5e       = [[Elemental]]
-| subtype5e    = 
-| alignment5e  = [[Neutral]]
-| challenge5e  = 5
-| refs5e       = <ref name = "MM5e-p304">
-| origin4e     = [[Elemental]]
-| type4e       = [[Magical beast]]
-| subtype4e    = [[Earth (subtype)|Earth]]
-| alignment4e  = [[Unaligned]]
-| refs4e       = 
-| size3e       = {{Size table|Minor|Small|Average|Medium|Elder|Large}}
-| type3e       = [[Outsider]]
-| subtype3e    = [[Earth (subtype)|Earth]]
-| alignment3e  = Usually [[Neutral]]
-| challenge3e  = {{CR table|edition=3e|Minor|3|Average|6|Elder|8}}
+| type3e       = Outsider
+| subtype3e    = Earth
+| alignment3e  = Usually Neutral
+| challenge3e  = 
 | refs3e       = 
 | size2e       = 
-| alignment2e  = [[Neutral]]
+| alignment2e  = Neutral
 | refs2e       = 
 | size1e       = Medium
-| alignment1e  = [[Neutral]]
+| alignment1e  = Neutral
 | refs1e       = 
 | patron deity = 
-| movement     = Burrowing<ref name = "MM5e-p304" />
-| vision       = All-around<br />[[Darkvision]]
+| movement     = Burrowing
+| vision       = All-aroundDarkvision
 | activecycle  = Any
 | diet         = Minerals
 | lifespan     = 
-| location     = [[Elemental Plane of Earth]]
-| language     = [[Common]]<br />[[Terran]]
+| location     = Elemental Plane of Earth
+| language     = CommonTerran
 | subraces     = Xaren
 | climate      = 
 | terrain      = Underground
@@ -53,55 +31,30 @@ Xorn1e.JPG|1e
 | feathers     = 
 | eyecolor     = 
 | build        = 
-| distinctions = Stonelike skin<br />Mouth on top of head<br />Symmetric body<br />Three arms<br />Three eyes<br />Three legs
+| distinctions = Stonelike skinMouth on top of headSymmetric bodyThree armsThree eyesThree legs
 | form1        = Minor
-| appearance1  = {{Appearance|height={{SI|3|ft}}|length={{SI|3|ft}}|weight={{SI|120|lb|k}}|skincolor=|eyecolor=|distinctions=}}
+| appearance1  = |length=|weight=|skincolor=|eyecolor=|distinctions=
 | form2        = Average
-| appearance2  = {{Appearance|height={{SI|5|ft}}|length={{SI|5|ft}}|weight={{SI|600|lb|k}}|skincolor=|eyecolor=|distinctions=}}
+| appearance2  = |length=|weight=|skincolor=|eyecolor=|distinctions=
 | form3        = Elder
-| appearance3  = {{Appearance|height={{SI|8|ft}}|length={{SI|8|ft}}|weight={{SI|9000|lb|k}}|skincolor=|eyecolor=|distinctions=}}
+| appearance3  = |length=|weight=|skincolor=|eyecolor=|distinctions=
 | appearrefs   = 
-| first        = [[Monster Manual 1st edition|''Monster Manual'', 1{{st}} ed.]]
+| first        = Monster Manual, 1 ed.
 | based        = 
 | histrefs     = 
-}}
-'''Xorns''' ({{Pronounce|zornz|refs={{Cite dragon/93/Ay pronunseeAYshun gyd|30}}|audio=Xorn.ogg}}, alternative plural form "xorn") were strange elemental creatures from the [[Elemental Plane of Earth]].
-{{Quote
-|Keep a few [[gem]]s in your pocket. A hungry xorn is a helpful xorn.
-|[[X the Mystic]]'s 6{{th}} [[Rules of Dungeon Survival|rule of dungeon survival]]<ref name = "MM5e-p304" />
-}}
-
-==Description==
-Xorns were very odd-looking creatures. They had radially symmetrical bodies with a large mouth at the top surrounded by three long arms interspersed with their three eyes. Their wide, pebbly, and rocky bodies rested upon three stumpy legs. They had talons at the end of their arms. Smaller xorns were about {{SI|3|ft|long=yes}} tall, but the oldest specimens could reach {{SI|8|ft|long=yes}} in height and width and weighed as much as {{SI|9000|lb|k|long=yes}}.
-
+Xorns (|audio=Xorn.ogg, alternative plural form "xorn") were strange elemental creatures from the Elemental Plane of Earth.
+ rule of dungeon survival
+Xorns were very odd-looking creatures. They had radially symmetrical bodies with a large mouth at the top surrounded by three long arms interspersed with their three eyes. Their wide, pebbly, and rocky bodies rested upon three stumpy legs. They had talons at the end of their arms. Smaller xorns were about  tall, but the oldest specimens could reach  in height and width and weighed as much as .
 Xorns were immune to the effects of fire and cold and were resistant to electricity.
-
-===Variations===
-A '''xaren''' ({{Pronounce|ZÆR|un|refs=}}) was a variation of xorn with more metallic-like skin. They were slightly smaller than regular xorns, and their diet consisted of a greater proportion of metal, especially enchanted metals, from which they drew strength.
-
-==Abilities==
+A xaren () was a variation of xorn with more metallic-like skin. They were slightly smaller than regular xorns, and their diet consisted of a greater proportion of metal, especially enchanted metals, from which they drew strength.
 Like many creatures from the Plane of Earth, xorns could travel through ground and stone as if it were water, leaving behind no tunnel at all. They always passed through the ground mouth-first.
-
-Xorns could sense the vibrations of other creatures in the earth and they could smell their food from {{SI|20|ft|long=yes}} away. A xaren could smell magical metal from twice that distance.
-
-They could speak [[Common]] and [[Terran]].
-
-==Personality==
-[[File:Plane of Earth.jpg|thumb|left|300px|''Adventurers followed by xorns in the Plane of Earth.'']]
-Xorns were scavengers, and they consumed rocks, minerals, and gems. In fact, they could not digest meat at all, so they did not eat creatures on the [[Prime Material Plane]]. They only attacked to defend themselves, although they could be more aggressive if hungry and hunting for their inorganic food. If in groups, they would often send one of their number to negotiate for food. It was extremely likely that they would attack if their requests for food were not granted.
-
-==Combat==
+Xorns could sense the vibrations of other creatures in the earth and they could smell their food from  away. A xaren could smell magical metal from twice that distance.
+They could speak Common and Terran.
+thumb|left|300px|Adventurers followed by xorns in the Plane of Earth.
+Xorns were scavengers, and they consumed rocks, minerals, and gems. In fact, they could not digest meat at all, so they did not eat creatures on the Prime Material Plane. They only attacked to defend themselves, although they could be more aggressive if hungry and hunting for their inorganic food. If in groups, they would often send one of their number to negotiate for food. It was extremely likely that they would attack if their requests for food were not granted.
 If they did resort to fighting, they often hid below the surface and erupted at their enemies, attacking with bites and talons. On the surface, they could swing their arms at all enemies around them. If they were focused on a single foe, they would rear up on two of their three feet so that they could attack with their bite in addition to their arms. If injured, a xorn would usually resort to guerrilla tactics, constantly merging into the ground for safety and then erupting again to resume attack.
-
-==Society==
-[[File:Xorn_AFR.jpg|thumb|right|300px|A xorn greedily consuming a [[minecart]] full of treasure in front of a [[dwarf]] miner.]]
+thumb|right|300px|A xorn greedily consuming a minecart full of treasure in front of a dwarf miner.
 On the Plane of Earth, where their food was plentiful, the xorns were peaceful creatures, living in nomadic clans. Xorns and xarens rarely cooperated.
-
-===Relationships===
-[[Grumbar]], the lord of elemental earth, naturally favored xorns. They were sacred to the [[gnome]] deities [[Callarduran Smoothhands]] and [[Flandal Steelskin]] and the [[Mulhorand]]i god [[Geb]] as well. These powers would sometimes send xorns to aid their followers.{{Cite web enhancement/Deity Do's and Don'ts|8,10-15}}
-
-The [[dao]] would often hunt xorn for sport or keep them as slaves. Xorn maintained good relations with the [[yak folk]] found on the planes.<ref>{{Cite dragon/241/Campaign Classics: The Roof of the World}}
-
-==Uses==
-The stony flesh of xorns was a required component in the creation of [[Dagger of defiance|''daggers of defiance'']].
-
+Grumbar, the lord of elemental earth, naturally favored xorns. They were sacred to the gnome deities Callarduran Smoothhands and Flandal Steelskin and the Mulhorandi god Geb as well. These powers would sometimes send xorns to aid their followers.
+The dao would often hunt xorn for sport or keep them as slaves. Xorn maintained good relations with the yak folk found on the planes.
+The stony flesh of xorns was a required component in the creation of daggers of defiance.

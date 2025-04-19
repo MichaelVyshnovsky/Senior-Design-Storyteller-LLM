@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Book of Leaves.png",
-        "caption": "",
-        "name": "''Book of Leaves''",
-        "othernames": "",
-        "type": "[[Book]]",
-        "author": "",
-        "date": "",
-        "publisher": "",
-        "released": "",
-        "discovered": "",
-        "location": "[[Targos]], [[Ten Towns]]",
-        "origin": "",
-        "language": "",
-        "volumes": "1",
-        "pages": "",
-        "edition": "",
-        "value": "",
-        "basicrefs": "",
-        "binding": "",
-        "cover": "",
-        "material": "",
-        "descrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "1,635 [[gp]]",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -54,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The '''''Book of Leaves''''' was an [[enchanted]] tome that first appeared in the early 14{{th}} century [[DR]] in the [[Ten Towns]] of [[Icewind Dale]].",
-        "Powers": "This obviously [[magic item]] was a [[book]] bound in tree bark with pages of pressed dried tree leaves. The book did not have bindings nor glue, instead being held together by magic. When the ''Book of Leaves'' was held by a [[druid]] whose feet touched the ground, tree bark rose from the earth and grew over the druid's body, giving them the defensive benefit of the ''[[barkskin]]'' [[spell]].",
-        "Notable Owners": "* [[Elytharra Dinnesmore]], an [[enchantress]] and wife of Speaker [[Ulbrec Dinnesmore]] of [[Targos]] in [[Icewind Dale]] ''circa'' the {{YearlinkName|1312}}."
+        "mainbody": "The Book of Leaves was an enchanted tome that first appeared in the early 14 century DR in the Ten Towns of Icewind Dale.\nThis obviously magic item was a book bound in tree bark with pages of pressed dried tree leaves. The book did not have bindings nor glue, instead being held together by magic. When the Book of Leaves was held by a druid whose feet touched the ground, tree bark rose from the earth and grew over the druids body, giving them the defensive benefit of the barkskin spell.\n* Elytharra Dinnesmore, an enchantress and wife of Speaker Ulbrec Dinnesmore of Targos in Icewind Dale circa the ."
     }
 }

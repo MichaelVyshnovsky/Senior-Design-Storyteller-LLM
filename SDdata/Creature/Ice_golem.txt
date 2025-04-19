@@ -1,52 +1,20 @@
-{{Creature
-| image        = <gallery>
-Ice golem 3e.png|3e
-Snow golem 1e.png|1e
-</gallery>
-| caption2     = Various depictions of ice golems.
-| name         = Ice Golem
-| othernames   = 
-| size5e       = 
-| type5e       = 
-| subtype5e    = 
-| alignment5e  = 
-| challenge5e  = 
-| refs5e       = 
-| size4e       = 
-| origin4e     = 
-| type4e       = 
-| subtype4e    = 
-| alignment4e  = 
-| refs4e       = 
-| size3e       = Large
-| type3e       = Construct
-| subtype3e    = 
-| alignment3e  = [[Neutral]]
-| challenge3e  = 9
-| refs3e       = 
-| size2e       = 
-| alignment2e  = 
-| refs2e       = 
-| size1e       = Large
-| alignment1e  = [[Neutral]]
-| refs1e       = {{Cite dragon/44/Dragon's Bestiary|90}}
 | patron deity = 
 | movement     = 
-| vision       = ''[[Darkvision]]'' ({{SI|60'|'"|long=yes}}), low-light vision.
+| vision       = Darkvision (), low-light vision.
 | activecycle  = 
 | diet         = 
 | lifespan     = 
-| location     = [[Rashemen]]<br />[[Icewind Dale]], [[Frozenfar]]<br />[[Watcher's Keep]], [[Tethyr]]
-| intelligence = {{Int|0}}
+| location     = RashemenIcewind Dale, FrozenfarWatchers Keep, Tethyr
+| intelligence = 
 | language     = 
 | subraces     = 
 | climate      = 
 | terrain      = 
 | genrefs      = 
-| height       = {{SI|9'|'"|long=yes}}
+| height       = 
 | length       = 
 | wingspan     = 
-| weight       = {{SI|2000|lb|k|long=yes}}
+| weight       = 
 | skincolor    = 
 | haircolor    = 
 | hairstyles   = 
@@ -58,41 +26,19 @@ Snow golem 1e.png|1e
 | first        = 
 | based        = 
 | histrefs     = 
-}}
-'''Ice golems''' were towering magical [[construct]]s crafted out of ice, and often resembling a [[humanoid]] [[warrior]].
-
-==Description==
-Ice golems were huge creatures carved out of glaciers or icebergs. The ice they were created from made them appear bluish-white in color, and the animation process left them covered in smoking glowing white arcane runes. The most common shape they were carved to resemble was that of an [[armor]]ed humanoid warrior that weighed around {{SI|2000|lb|k|long=yes}} and was approximately {{SI|9'|'"|long=yes}} tall.
-
-==Abilities==
-These golems, being creatures made entirely out of ice, were able to move across frozen icy surfaces as if under the ''[[spider climb]]'' spell's effects. Additionally, the ice golems were able to spray their opponents with ''ice shards'' every 12–30 seconds. These deadly projectiles dealt cold and piercing damage to everyone within {{SI|10'|'"|long=yes}} from the construct. The ''shards'' could also blind some incredibly unlucky targets.
-
-Like other constructs, ice golems were immune to ''[[poison]]s'', ''[[disease]]s'', ''[[sleep]]'', ''[[Paralyze|paralysis]]'', stunning, magics that caused ''death'', ''[[necromancy]]'' spells, and magic that affected one's mind. Their natural toughness also made them invulnerable to critical hits, ability, and energy drain. Constructs could not be healed via magic but could be repaired.
-
-Ice golems were immune to spells that were affected by ''[[spell resistance]]''. All ''fire-based'' spells affected ice golems normally, penetrating their ''magical immunity'', and ''cold'' magic healed them.
-
-Certain versions of ice golems were also immune to non-magical weapons, requiring enchantment of ''+2'' strength or its equivalent. Weapons with ''fire'' enchantment, of course, were the exception from the rule.
-
-==Behavior==
-Like many other [[golem]]s, ice golems possessed minimal intelligence, allowing them to follow only the simplest commands and tasks. They were unable to speak. There was a small chance of a newly created ice golem to go berserk, attacking its crafter.
-
-==Combat==
-[[File:Ice golem 1e.png|thumb|''An ice golem, animating to crush an intruder.'']]
-Ice golems did not utilize strategies, nor could they plot cunning [[trap]]s. Their limited intelligence made them simple and straightforward opponents. They attacked the nearest target unless commanded otherwise by their master. When close to their opponents, ice golems attempted to grab and crush them. These constructs utilized their ability to spray their opponents with razor-sharp ice shards. They were especially dangerous on ice or inside frozen caverns, owing to them being unaffected by slipping and sliding on frozen surfaces.
-
-==Ecology==
-Golems were unnatural creatures, created by capable [[wizard]]s but more often by [[cleric]]s or [[druid]]s. The price of creating one ice golem was at least 2,000 [[gp]], and that cost excluded the amount of time and skill it took to carve the creature, as well as the price of spell [[material component]]s required to animate the construct. The body of an ice golem was carved out of a solid piece of glacial ice. The runes on its body were part of the process, allowing the magical energies to permeate the creature's body and animate it. The runes were chiseled onto the golem's body and infused with a species of snow-like [[lichen]] and [[sapphire]] dust. The final part of the creation was casting the ''[[ice shape]]'', ''[[wall of ice]]'', ''[[animate snow]]'', and ''[[cone of cold]]'' spells. Some golem creation [[Manual of golems|manuals]] also included the ''[[Otiluke's freezing sphere]]'', ''[[wish]]'', ''[[polymorph any object]]'', as well as the use of a ''[[potion of fire resistance]]'' to animate these hulks. The finished golem was worth 60,000 gold pieces, and the total time required to create one was around two months.
-
-When exposed to warmer temperatures, ice golems needed to be replenished monthly, using spells like ''[[ice storm]]'' or magical items like ''[[Wand of cold|wands of cold]]''.
-
-===Uses===
+Ice golems were towering magical constructs crafted out of ice, and often resembling a humanoid warrior.
+Ice golems were huge creatures carved out of glaciers or icebergs. The ice they were created from made them appear bluish-white in color, and the animation process left them covered in smoking glowing white arcane runes. The most common shape they were carved to resemble was that of an armored humanoid warrior that weighed around  and was approximately  tall.
+These golems, being creatures made entirely out of ice, were able to move across frozen icy surfaces as if under the spider climb spells effects. Additionally, the ice golems were able to spray their opponents with ice shards every 12–30 seconds. These deadly projectiles dealt cold and piercing damage to everyone within  from the construct. The shards could also blind some incredibly unlucky targets.
+Like other constructs, ice golems were immune to poisons, diseases, sleep, paralysis, stunning, magics that caused death, necromancy spells, and magic that affected ones mind. Their natural toughness also made them invulnerable to critical hits, ability, and energy drain. Constructs could not be healed via magic but could be repaired.
+Ice golems were immune to spells that were affected by spell resistance. All fire-based spells affected ice golems normally, penetrating their magical immunity, and cold magic healed them.
+Certain versions of ice golems were also immune to non-magical weapons, requiring enchantment of +2 strength or its equivalent. Weapons with fire enchantment, of course, were the exception from the rule.
+Like many other golems, ice golems possessed minimal intelligence, allowing them to follow only the simplest commands and tasks. They were unable to speak. There was a small chance of a newly created ice golem to go berserk, attacking its crafter.
+thumb|An ice golem, animating to crush an intruder.
+Ice golems did not utilize strategies, nor could they plot cunning traps. Their limited intelligence made them simple and straightforward opponents. They attacked the nearest target unless commanded otherwise by their master. When close to their opponents, ice golems attempted to grab and crush them. These constructs utilized their ability to spray their opponents with razor-sharp ice shards. They were especially dangerous on ice or inside frozen caverns, owing to them being unaffected by slipping and sliding on frozen surfaces.
+Golems were unnatural creatures, created by capable wizards but more often by clerics or druids. The price of creating one ice golem was at least 2,000 gp, and that cost excluded the amount of time and skill it took to carve the creature, as well as the price of spell material components required to animate the construct. The body of an ice golem was carved out of a solid piece of glacial ice. The runes on its body were part of the process, allowing the magical energies to permeate the creatures body and animate it. The runes were chiseled onto the golems body and infused with a species of snow-like lichen and sapphire dust. The final part of the creation was casting the ice shape, wall of ice, animate snow, and cone of cold spells. Some golem creation manuals also included the Otilukes freezing sphere, wish, polymorph any object, as well as the use of a potion of fire resistance to animate these hulks. The finished golem was worth 60,000 gold pieces, and the total time required to create one was around two months.
+When exposed to warmer temperatures, ice golems needed to be replenished monthly, using spells like ice storm or magical items like wands of cold.
 Shards of destroyed ice golems could be used as immobilizing thrown weapons. If flung at a creature, they could encrust them in ice.
-
-==History==
-[[File:Ice golem BG2.gif|thumb|''A guardian of Watcher's Keep.'']]
-''Circa'' [[1311 DR]], multiple exceptionally strong ice golems could be found within a maze-like temple to [[Auril]] in [[Icewind Dale]], whose inhabitants were plotting the destruction of [[Kuldahar]] and [[Ten Towns]].
-
-Ice golems were common in the land of [[Rashemen]]. One documented encounter with them was in the {{YearlinkName|1361}}. A party of [[drow]] warriors encountered an {{SIAdj|8'|'"|long=yes|adj=tall}} ice golem that was transported to face them via frost magic. That construct was immune to non-magical weapons and was able to drain life force out of grappled opponents. A drow wizard named [[Nisstyre]] was able to defeat the fierce construct via the use of a ''[[fireball]]'' spell.
-
-In the {{YearlinkName|1369}}, ice golems were encountered as one of many guardians within [[Watcher's Keep]] in [[Tethyr]] that guarded the entity known as the [[Imprisoned One]].
-
+thumb|A guardian of Watchers Keep.
+Circa 1311 DR, multiple exceptionally strong ice golems could be found within a maze-like temple to Auril in Icewind Dale, whose inhabitants were plotting the destruction of Kuldahar and Ten Towns.
+Ice golems were common in the land of Rashemen. One documented encounter with them was in the . A party of drow warriors encountered an  ice golem that was transported to face them via frost magic. That construct was immune to non-magical weapons and was able to drain life force out of grappled opponents. A drow wizard named Nisstyre was able to defeat the fierce construct via the use of a fireball spell.
+In the , ice golems were encountered as one of many guardians within Watchers Keep in Tethyr that guarded the entity known as the Imprisoned One.

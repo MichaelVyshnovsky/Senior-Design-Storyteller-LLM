@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Feat",
-        "othernames": "",
-        "deity": "[[Tymora]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "All",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|4}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -45,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Feat''''' was a [[Divine magic|divine]] [[alteration]] [[spell]] used by priests devoted to [[Tymora]], enabling them to execute an extremely difficult task.",
-        "Effects": "The caster of this spell could use it on themselves or a single touched target, allowing them to perform a single incredible task. The spell's magic did not protect the target from physical harm, it merely ensured that the task at hand would be completed successfully. The ''feat'' would even be accomplished if the target died as a result of their actions, animating the target's lifeless body to complete the task. The ''feat'' in question needed to be attempted within one minute of casting the spell.",
-        "Components": "This spell required only [[verbal component|verbal]] and [[somatic component]]s to cast."
+        "mainbody": "Feat was a divine alteration spell used by priests devoted to Tymora, enabling them to execute an extremely difficult task.\nThe caster of this spell could use it on themselves or a single touched target, allowing them to perform a single incredible task. The spells magic did not protect the target from physical harm, it merely ensured that the task at hand would be completed successfully. The feat would even be accomplished if the target died as a result of their actions, animating the targets lifeless body to complete the task. The feat in question needed to be attempted within one minute of casting the spell.\nThis spell required only verbal and somatic components to cast."
     }
 }

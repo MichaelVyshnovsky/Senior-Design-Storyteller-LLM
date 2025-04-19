@@ -1,41 +1,12 @@
 {
-    "template_data": {
-        "caption": "Candleabra - sorted by Amount & Material",
-        "captionstyle": "font-family:serif;font-style:italic;",
-        "leftheader": "[[Gold]]",
-        "rightheader": "[[Silver]]",
-        "caption_1": "Candleabra - sorted by Amount & Material",
-        "captionstyle_1": "font-family:serif;font-style:italic;",
-        "leftheader_1": "Gold",
-        "rightheader_1": "Silver",
-        "caption_2": "Candleabra - sorted by Amount & Material",
-        "captionstyle_2": "font-family:serif;font-style:italic;",
-        "leftheader_2": "Gold",
-        "rightheader_2": "Silver"
-    },
     "document_data": {
-        "image": "Candelabra-3e.png",
-        "caption": "",
-        "name": "Candelabra",
-        "othernames": "Candleabra<br/>Candelabrum",
-        "nicknames": "",
-        "type": "Container<br/>Religious/decorative item",
-        "creator": "",
-        "location": "[[Toril]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "{{Split table|caption=Candleabra - sorted by Amount & Material|captionstyle=font-family:serif;font-style:italic;|leftheader=[[Gold]]|rightheader=[[Silver]]|Holds Six<br/>35 [[gp]]|Holds Six<br/>20 gp|Holds Twelve<br/>45 gp|Holds Twelve<br/>25 gp}}",
         "weight2e": "",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
         "itemlevel3e": "",
-        "value3e": "{{Split table|caption=Candleabra - sorted by Amount & Material|captionstyle=font-family:serif;font-style:italic;|leftheader=Gold|rightheader=Silver|Holds Four<br />25 gp|Holds Four<br />10 gp|Holds Eight<br />35 gp|Holds Eight<br />20 gp|Holds Sixteen<br />45 gp|Holds Sixteen<br />25 gp}}",
-        "weight3e": "{{Split table|caption=Candleabra - sorted by Amount & Material|captionstyle=font-family:serif;font-style:italic;|leftheader=Gold|rightheader=Silver|Holds Four<br />{{SI|1|lb}}|Holds Four<br />{{SI|0.5|lb}}|Holds Eight<br />{{SI|2|lb}}|Holds Eight<br />{{SI|1|lb}}|Holds Sixteen<br />{{SI|6|lb}}|Holds Sixteen<br />{{SI|3|lb}}}}",
+        "value3e": "",
+        "weight3e": "|Holds Four|Holds Eight|Holds Eight|Holds Sixteen|Holds Sixteen",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -52,13 +23,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Candelabra''', also known as '''Candelabrum''', were candleholders designed to hold multiple [[candle]]s. They could be found in many temples and other types of buildings across the Realms, serving both a decorative and religious function.",
-        "Description": "Candelabra varied greatly in size, shape, the material used in their construction, and in the number of candles they could hold. They often ranged from holding four to sixteen candles.",
-        "Availability": "* ''[[Aurora's Whole Realms Catalogue (in-universe)|Aurora's Whole Realms Catalogue]]'' sold candelabras under its \"Priest's Alcove\" section made of either [[gold]] or [[silver]]. Those that could hold six candles sold for 35 gp and 20 gp respectively, while those that could hold twelve candles sold for 45 and 25 gp respectively.\n* The [[Glow Shop]] in [[Ravens Bluff]] sold candleabras made of [[brass]] or [[iron]], but sometimes offered ones made of unusual or precious materials for a higher price.{{Cite polyhedron/48/The Living City: The Glow Shop|28}}\n* [[Hillmarch]], a small mining town in northern [[Cormyr]], produced a great quantity of high-quality brass candelabras.",
-        "Usages": "The spell ''[[Intensify summoning]]'' required a miniature, silver candelabra as a [[material component]].",
-        "Notable Users": {
-            "Businesses & Residences": "* The [[Cloak Tower]], a major [[wizard]] tower in [[Neverwinter]], lit many of its upper rooms with candelabras.\n* [[Darroch Castle]], the residence of [[Neifion]] in the [[Feywild]],<ref> kept its foyer lit with a multitude of candelabra holding candles that burned green flames.\n* The [[Peacock Resplendent]], a large inn in the city of [[Innarlith]], had hundreds of candelabra inside.\n* The [[Shadowdark House]], a [[magic]] shop in [[Daerlun]], was dimly lit in part by candelabras that floated, had a scaly clawed fist as their centerpiece, and were [[animated object]]s.{{Cite dragon/287/Elminster's Guide to the Realms: Shadowdark House|70}}",
-            "Religions": "* Temples of the [[Church of Ghaunadaur]] flanked their altars with candelabras fitted with black candles that burned lavender flames."
-        }
+        "mainbody": "Candelabra, also known as Candelabrum, were candleholders designed to hold multiple candles. They could be found in many temples and other types of buildings across the Realms, serving both a decorative and religious function.\nCandelabra varied greatly in size, shape, the material used in their construction, and in the number of candles they could hold. They often ranged from holding four to sixteen candles.\n* Auroras Whole Realms Catalogue sold candelabras under its \"Priests Alcove\" section made of either gold or silver. Those that could hold six candles sold for 35 gp and 20 gp respectively, while those that could hold twelve candles sold for 45 and 25 gp respectively.\n* The Glow Shop in Ravens Bluff sold candleabras made of brass or iron, but sometimes offered ones made of unusual or precious materials for a higher price.\n* Hillmarch, a small mining town in northern Cormyr, produced a great quantity of high-quality brass candelabras.\nThe spell Intensify summoning required a miniature, silver candelabra as a material component.\n* Candelabras were generally favored by various clerics and priests.\n* The Cloak Tower, a major wizard tower in Neverwinter, lit many of its upper rooms with candelabras.\n* Darroch Castle, the residence of Neifion in the Feywild, kept its foyer lit with a multitude of candelabra holding candles that burned green flames.\n* The Peacock Resplendent, a large inn in the city of Innarlith, had hundreds of candelabra inside.\n* The Shadowdark House, a magic shop in Daerlun, was dimly lit in part by candelabras that floated, had a scaly clawed fist as their centerpiece, and were animated objects.\n* Temples of the Church of Ghaunadaur flanked their altars with candelabras fitted with black candles that burned lavender flames."
     }
 }

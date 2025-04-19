@@ -1,13 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Ape",
-        "size5e": "Medium",
-        "type5e": "[[Beast]]",
-        "subtype5e": "",
-        "alignment5e": "[[Unaligned]]",
-        "challenge5e": "{{Frac|1|2}}",
         "refs5e": "",
         "size4e": "",
         "origin4e": "",
@@ -16,20 +8,20 @@
         "alignment4e": "",
         "refs4e": "",
         "size3e": "Large",
-        "type3e": "[[Animal]]",
+        "type3e": "Animal",
         "subtype3e": "",
-        "alignment3e": "Always [[Neutral]]",
+        "alignment3e": "Always Neutral",
         "challenge3e": "2",
         "refs3e": "",
         "size2e": "",
         "alignment2e": "",
         "refs2e": "",
         "size1e": "Medium",
-        "alignment1e": "[[Neutral]]",
+        "alignment1e": "Neutral",
         "refs1e": "",
         "patron deity": "",
         "movement": "Climbing",
-        "vision": "[[Low-light vision]]",
+        "vision": "Low-light vision",
         "activecycle": "",
         "diet": "Omnivore",
         "lifespan": "",
@@ -52,8 +44,6 @@
         "build": "",
         "distinctions": "",
         "based": "",
-        "mainbody": "first        =\n}}\n'''Apes''' were a type of animal found in tropical regions. They were usually quite shy, but would fight if threatened or cornered.",
-        "Habitat": "Many species of apes could be found in the jungles of [[Chult]].\n\nOne curious species of apes from Chult was a size of a [[human]] child with bright white and yellow fur. Their faces had a shaggy frill and blood-red fangs, which the apes exposed when trying to intimidate others. They had notably long arms and bristling spines on the backs.",
-        "Trivia": "An ape could be summoned by the ''[[conjure animals]]'' [[spell]].<ref>"
+        "mainbody": "| first        =\nApes were a type of animal found in tropical regions. They were usually quite shy, but would fight if threatened or cornered.\nMany species of apes could be found in the jungles of Chult.\nOne curious species of apes from Chult was a size of a human child with bright white and yellow fur. Their faces had a shaggy frill and blood-red fangs, which the apes exposed when trying to intimidate others. They had notably long arms and bristling spines on the backs.\nAn ape could be summoned by the conjure animals spell."
     }
 }

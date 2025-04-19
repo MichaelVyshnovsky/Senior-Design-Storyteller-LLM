@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Create shade",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]], [[Sand (school)|Sand]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|7}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Create shade''''' was a [[spell]] unique to [[Zakhara]], the Land of Fate.",
-        "Effects": "This spell created a patch of shaded ground. It was extremely useful when traversing the blistering deserts of Zakhara. The shaded area functioned just like normal shade, allowing creatures to cool themselves and consume less water.\n\nThis spell could only work when cast upon solid ground.",
-        "Components": "This spell did not require any physical components to cast."
+        "mainbody": "Create shade was a spell unique to Zakhara, the Land of Fate.\nThis spell created a patch of shaded ground. It was extremely useful when traversing the blistering deserts of Zakhara. The shaded area functioned just like normal shade, allowing creatures to cool themselves and consume less water.\nThis spell could only work when cast upon solid ground.\nThis spell did not require any physical components to cast."
     }
 }

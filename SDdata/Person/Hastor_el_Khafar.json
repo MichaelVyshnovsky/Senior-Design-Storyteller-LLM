@@ -1,21 +1,11 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "name": "Hastor el Khafar",
-        "home": "[[Memnon]], [[Calimshan]]",
-        "sex": "Male",
-        "race": "[[Half-elf]]",
-        "ethnicity": "[[Calishite]]",
-        "class": "{{Class table|edition=2e|[[Paladin]]|9}}",
         "rules": "2nd",
-        "alignment": "[[Lawful good]]",
+        "alignment": "Lawful good",
         "titles": "Shieldlord",
         "occupation": "Trainer",
-        "patron deity": "[[Tempus]]",
-        "language": "[[Alzhedo]]",
-        "mainbody": "Shieldlord '''Hastor el Khafar''' ran a fighting school at one of the shrines to [[Tempus]] in [[Memnon]].",
-        "Activites": "In [[1370 DR]], Hastor took on a [[sea elf]] student named [[Vyaalis]], whom he trained in secret, teaching him how to fight on land in exchange for the latter teaching him how to fight below the waves."
+        "patron deity": "Tempus",
+        "language": "Alzhedo",
+        "mainbody": "Shieldlord Hastor el Khafar ran a fighting school at one of the shrines to Tempus in Memnon.\nIn 1370 DR, Hastor took on a sea elf student named Vyaalis, whom he trained in secret, teaching him how to fight on land in exchange for the latter teaching him how to fight below the waves."
     }
 }

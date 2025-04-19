@@ -1,12 +1,10 @@
 {
     "document_data": {
-        "image": "Castings.png",
-        "caption": "A map of the Castings district in 1367 DR.{{AQ-time}}",
         "name": "Castings",
         "alt spelling": "",
         "aliases": "",
         "type": "Barracks",
-        "region": "[[City of Brass]], [[Elemental Plane of Fire]]",
+        "region": "City of Brass, Elemental Plane of Fire",
         "size": "",
         "elevation": "",
         "depth": "",
@@ -87,8 +85,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "The '''Castings''' was a district within the [[City of Brass]] on the [[Elemental Plane of Fire]].",
-        "Description": "Situated beneath [[Furnace (district)|the Furnace]], Castings served as the barracks for the [[efreet|efreeti]] army.",
-        "Inhabitants": "Castings was the home of the efreeti soldiers, including the [[Ring of the Unquenchable]]. Since fighting among the soldiers was a common event, regular citizens were not safe here."
+        "mainbody": "The Castings was a district within the City of Brass on the Elemental Plane of Fire.\nSituated beneath the Furnace, Castings served as the barracks for the efreeti army.\nCastings was the home of the efreeti soldiers, including the Ring of the Unquenchable. Since fighting among the soldiers was a common event, regular citizens were not safe here."
     }
 }

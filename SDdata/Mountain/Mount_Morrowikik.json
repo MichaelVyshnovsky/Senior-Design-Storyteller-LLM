@@ -1,15 +1,5 @@
 {
-    "template_data": {
-        "10000|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Mount Morrowikik",
-        "aliases": "",
-        "type": "Mountain",
-        "region": "[[Keryjek Ridge]], [[Great Glacier]]",
-        "elevation": "{{SI|10000|ft}}",
         "georefs": "",
         "races": "",
         "socrefs": "",
@@ -24,8 +14,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "'''Mount Morrowikik''' was a mountain located in the [[Keryjek Ridge]] of the [[Great Glacier]].",
-        "Geography": "Mount Morrowikik was a tall mountain, up to {{SI|10000|ft|long=yes}} in elevation. The mountain had a unique geological feature in that its peak was made of solid [[turquoise]].",
-        "Flora & Fauna": "The peak of Mount Morrowikik was home to hundreds of [[white pudding]]s. There were so many that from a distance they appeared as drifting snow over the deep blue of the turquoise peak. Legend held that some white puddings grew to be as large as icebergs."
+        "mainbody": "Mount Morrowikik was a mountain located in the Keryjek Ridge of the Great Glacier.\nMount Morrowikik was a tall mountain, up to  in elevation. The mountain had a unique geological feature in that its peak was made of solid turquoise.\nThe peak of Mount Morrowikik was home to hundreds of white puddings. There were so many that from a distance they appeared as drifting snow over the deep blue of the turquoise peak. Legend held that some white puddings grew to be as large as icebergs."
     }
 }

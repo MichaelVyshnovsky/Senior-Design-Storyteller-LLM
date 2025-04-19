@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "3|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Vestments of Faith''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Cloak]]",
-        "location": "[[Neverwinter]], [[Sword Coast]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|3|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Vestments of Faith''''' were enchanted [[cloak]]s gifted by [[Ilmater]] to his favorite followers.",
-        "Description": "These ''vestments'' were designed to be worn over normal clothing or armor.",
-        "Powers": "''Vestments of Faith'' could protect its wearer absorbing some of the punishment dealt. Ilmater's followers who were given the cape used it to ease physical suffering of their faithful souls.",
-        "History": "''Vestments of Faith'' appeared and went into circulation around the [[Sword Coast]] and the areas surrounding [[Neverwinter]] in the late 14{{th}} century DR."
+        "mainbody": "Vestments of Faith were enchanted cloaks gifted by Ilmater to his favorite followers.\nThese vestments were designed to be worn over normal clothing or armor.\nVestments of Faith could protect its wearer absorbing some of the punishment dealt. Ilmaters followers who were given the cape used it to ease physical suffering of their faithful souls.\nVestments of Faith appeared and went into circulation around the Sword Coast and the areas surrounding Neverwinter in the late 14 century DR."
     }
 }

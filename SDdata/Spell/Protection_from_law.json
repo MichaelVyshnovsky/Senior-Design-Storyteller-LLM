@@ -1,17 +1,8 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "name": "Protection from Law",
-        "school3e": "[[Abjuration]]",
-        "domains3e": "[[Chaos domain|Chaos]]",
-        "descriptors3e": "{{Desc/chaotic}}",
-        "level3e": "{{Spell table|edition=3e|[[Adept]]|1|[[Chaos domain|Chaos]]|1|[[Cleric]]|1|[[Sorcerer]]|1|[[Wizard]]|1|[[Wu jen]]|1}}",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
-        "mainbody": "'''''Protection from law''''' was an [[abjuration]] spell that created an aura around the target that shielded against mental and physical attacks by lawful creatures.",
-        "Effects": "This spell functioned exactly like ''[[protection from evil]]'' except the bonuses and benefits applied to attacks from lawful creatures.",
-        "Components": "In addition to verbal and somatic components, the caster had to draw a 3 ft (91 cm) circle around the recipient using powdered [[silver]]."
+        "mainbody": "Protection from law was an abjuration spell that created an aura around the target that shielded against mental and physical attacks by lawful creatures.\nThis spell functioned exactly like protection from evil except the bonuses and benefits applied to attacks from lawful creatures.\nIn addition to verbal and somatic components, the caster had to draw a 3 ft (91 cm) circle around the recipient using powdered silver."
     }
 }

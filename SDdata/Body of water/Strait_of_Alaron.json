@@ -1,16 +1,5 @@
 {
-    "template_data": {
-        "200|mi|k|long": "yes",
-        "25|mi|k|long": "yes"
-    },
     "document_data": {
-        "image": "Southern Moonshea Islands.jpg",
-        "caption": "A map showing the Strait of Alaron in the Moonshae Isles.",
-        "name": "Strait of Alaron",
-        "aliases": "",
-        "type": "Strait",
-        "region": "The [[Sea of Swords]], the [[Sea of Moonshae]]",
-        "size": "{{SI|5000|sq mi|k}} long",
         "depth": "",
         "river source": "",
         "river mouth": "",
@@ -29,8 +18,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "The '''Strait of Alaron''' was a large channel connecting the [[Sea of Moonshae]] with the [[Sea of Swords]] in the [[Moonshae Isles]].{{Cite interactive atlas}}{{Cite dungeon/196/Backdrop: Moonshae Isles}}",
-        "Geography": "The strait passed between the islands of [[Snowdown]] and [[Gwynneth]] in the southern Moonshae Isles. It continued north past the entire length of Gwynneth's eastern shores before passing by the southern end of [[Alaron]] to meet the Sea of Moonshae east of [[Oman's Isle]]. The Stait of Alaron was quite large, measuring over {{SI|200|mi|k|long=yes}} in length with an average width of {{SI|25|mi|k|long=yes}}.",
-        "Notable Locations": "Many settlements were located along the shores of the Strait of Alaron including:\n* [[Codfin]]\n* [[Grimstad]]\n* [[Grady]]\n* [[Llewellyn]]\n* [[Caervu]]\n* [[Kythyss]]\n* [[Dultann]]\n* [[Borth]]\n* [[Kingsbay (town)|Kingsbay]]\n* [[Horstall]]"
+        "mainbody": "The Strait of Alaron was a large channel connecting the Sea of Moonshae with the Sea of Swords in the Moonshae Isles.\nThe strait passed between the islands of Snowdown and Gwynneth in the southern Moonshae Isles. It continued north past the entire length of Gwynneths eastern shores before passing by the southern end of Alaron to meet the Sea of Moonshae east of Omans Isle. The Stait of Alaron was quite large, measuring over  in length with an average width of .\nMany settlements were located along the shores of the Strait of Alaron including\n* Codfin\n* Grimstad\n* Grady\n* Llewellyn\n* Caervu\n* Kythyss\n* Dultann\n* Borth\n* Kingsbay\n* Horstall"
     }
 }

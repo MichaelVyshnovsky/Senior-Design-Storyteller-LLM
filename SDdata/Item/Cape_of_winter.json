@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "3|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Cape of winter.jpg",
-        "caption": "",
-        "name": "''Cape of Winter''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Cloak]]",
-        "location": "[[Sword Coast]], [[Icewind Dale]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|3|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Capes of winter''''' were enchanted [[cloak]]s that were commonly used by worshipers of [[Auril]] and residents of the [[Frozenfar]] region.",
-        "Description": "''Capes of winter'' were snow-while and trimmed with white fur of arctic beasts.",
-        "Powers": "These capes were enchanted to give the wearer resistance to cold weather and cold magic, allowing them to survive even the harshest storms of the north. Additionally, these capes gave the wearer improved resistances to negative effects of magical and mundane nature.",
-        "History": "In late 14{{th}} century [[DR]] the ''capes of winter'' were commonly found among the possession of residents of far northern regions, [[frost giant]]s, and other [[humanoid]] worshipers of Auril."
+        "mainbody": "Capes of winter were enchanted cloaks that were commonly used by worshipers of Auril and residents of the Frozenfar region.\nCapes of winter were snow-while and trimmed with white fur of arctic beasts.\nThese capes were enchanted to give the wearer resistance to cold weather and cold magic, allowing them to survive even the harshest storms of the north. Additionally, these capes gave the wearer improved resistances to negative effects of magical and mundane nature.\nIn late 14 century DR the capes of winter were commonly found among the possession of residents of far northern regions, frost giants, and other humanoid worshipers of Auril."
     }
 }

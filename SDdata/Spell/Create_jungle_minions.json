@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "CreateJungleMinions.JPG",
-        "caption": "",
-        "name": "Create Jungle Minions",
-        "deity": "[[Ragarra]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Animal sphere|Animal]]",
-        "level2e": "{{Spell table|edition=2e|[[Animal sphere|Animal]]|5|[[Cleric]]|5}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -37,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Create jungle minions''''' was a [[divine magic]] spell available to [[priest]]s of the [[Zakhara]]n [[Zakharan pantheon|savage goddess]] [[Ragarra]], and some specialized [[kahin]]s. It transformed certain creatures into [[lesser segarran]]s.",
-        "Effects": "Depending on the power of the priest, this spell created three or more of the humanoid, crocodile-headed [[divine minion]]s of the godess Ragarra called lesser segarrans either from [[crocodile]]s or [[alligator]]s, or from [[demihuman]]s, [[human]]s or [[humanoid]]s.<ref> Even unwilling targets ran the risk of being affected by this spell. Unlike with the related ''[[conjure jungle minions]]'', this transformation was permanent, but like with the less-powerful spell, the caster could direct the actions of newly made segarrans, usually to attack their enemies, until they made a kill. The segarrans then consumed any slain victims and only afterwards followed the commands of the priest again. If no opponent was overwhelmed and devoured, the caster often was afflicted with a ''[[Bestow curse|curse]]'', showing Ragarra's disfavor.",
-        "Components": "In addition to verbal and somatic components, this spell required the priest to throw the dust of powdered alligator or crocodile claws towards the creatures to be transformed."
+        "mainbody": "Create jungle minions was a divine magic spell available to priests of the Zakharan savage goddess Ragarra, and some specialized kahins. It transformed certain creatures into lesser segarrans.\nDepending on the power of the priest, this spell created three or more of the humanoid, crocodile-headed divine minions of the godess Ragarra called lesser segarrans either from crocodiles or alligators, or from demihumans, humans or humanoids. Even unwilling targets ran the risk of being affected by this spell. Unlike with the related conjure jungle minions, this transformation was permanent, but like with the less-powerful spell, the caster could direct the actions of newly made segarrans, usually to attack their enemies, until they made a kill. The segarrans then consumed any slain victims and only afterwards followed the commands of the priest again. If no opponent was overwhelmed and devoured, the caster often was afflicted with a curse, showing Ragarras disfavor.\nIn addition to verbal and somatic components, this spell required the priest to throw the dust of powdered alligator or crocodile claws towards the creatures to be transformed."
     }
 }

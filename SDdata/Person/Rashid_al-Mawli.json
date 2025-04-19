@@ -1,20 +1,8 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Rashid al-Mawli",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Haunted Lands]], [[Interior Zakhara]]{{cite book/Assassin Mountain/Holy Slayer Sourcebook|28}}",
         "formerhomes": "",
         "sex": "Male",
-        "race": "[[Human]]",
+        "race": "Human",
         "ethnicity": "",
         "occupation": "",
         "age": "",
@@ -38,7 +26,7 @@
         "class1e": "",
         "refs1e": "",
         "alignment2e": "",
-        "class2e": "{{class table|edition=2e|[[Desert rider]]|13}}",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "class3e": "",
@@ -52,7 +40,6 @@
         "alignment5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Rashid al-Mawli''' was the leader of the [[House of Mawli]] in [[1367 DR]].{{AQ-time}}",
-        "Activities": "Rashid monitored and directed all raids performed by the House of Mawli. His enterprise included numerous tribes comprised of thieves loyal to his cause."
+        "mainbody": "Rashid al-Mawli was the leader of the House of Mawli in 1367 DR.\nRashid monitored and directed all raids performed by the House of Mawli. His enterprise included numerous tribes comprised of thieves loyal to his cause."
     }
 }

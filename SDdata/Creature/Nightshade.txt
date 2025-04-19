@@ -1,24 +1,7 @@
-{{Creature
-| image        = 
-| caption      = 
-| name         = Nightshade
-| size5e       = 
-| type5e       = 
-| subtype5e    = 
-| alignment5e  = 
-| challenge5e  = 
-| refs5e       = 
-| size4e       = 
-| origin4e     = 
-| type4e       = 
-| subtype4e    = 
-| alignment4e  = 
-| refs4e       = 
-| size3e       = {{Size table|Nightcrawler|Gargantuan|Nighthaunt|Medium|Nightwalker|Huge|Nightwing|Huge}}
-| type3e       = [[Undead]]
+| type3e       = Undead
 | subtype3e    = 
-| alignment3e  = Always [[chaotic evil]]
-| challenge3e  = {{CR table|Nightcrawler|18|Nighthaunt|12|Nightwalker|16|Nightwing|14}}
+| alignment3e  = Always chaotic evil
+| challenge3e  = 
 | refs3e       = 
 | size2e       = 
 | alignment2e  = 
@@ -27,13 +10,13 @@
 | alignment1e  = 
 | refs1e       = 
 | patron deity = 
-| vision       = [[Darkvision]]
+| vision       = Darkvision
 | activecycle  = 
 | diet         = 
 | lifespan     = 
-| location     = [[Plane of Shadow]]
-| language     = [[Telepathy]]
-| subraces     = [[Nightcrawler]]<br />[[Nighthaunt]]<br />[[Nightwalker]]<br />[[Nightwing]]
+| location     = Plane of Shadow
+| language     = Telepathy
+| subraces     = NightcrawlerNighthauntNightwalkerNightwing
 | climate      = 
 | terrain      = 
 | genrefs      = 
@@ -50,29 +33,14 @@
 | distinctions = 
 | based        = 
 | first        = 
-}}
-{{otheruses4|the undead creature|other uses|Nightshade (disambiguation)}}
-'''Nightshades''' were large [[undead]] creatures from the [[Plane of Shadow]].
-
-==Description==
+Nightshades were large undead creatures from the Plane of Shadow.
 Nightshades were all different in form, but they were often said to appear to be made of darkness. They were also said to smell like open graves.
-
-==Personality==
 Nightshades were composed as much of evil as of darkness.
-
-==Abilities==
-Nightshades varied greatly in abilities, but all of them radiated a {{SIAdj|20|ft}} aura of [[desecration]] so powerful as to be akin in strength to a shrine of an evil power; only ''[[dispel evil]]'' or a similar effect could get rid of it, although a consecrated or hallowed area would suppress the aura, but at the cost of being suppressed in turn.
-
-Nightshades were averse to natural sunlight, which weakened them upon contact. They understood all languages but communicated only by [[telepathy]].
-
-==Varieties==
-There were at least four known types of nightshades:
-
-*[[Nightcrawler]]s were massive, wormlike monsters.
-*[[Nighthaunt]]s were the smallest and weakest of nightshades, gargoyle-like creatures that were still formidable in their own right.
-*[[Nightwalker]]s were massive, vaguely humanoid horrors.
-*[[Nightwing]]s were bat-shaped entities that hunted on the wing.
-
-==Relationships==
-Some nightshades were known to act as [[favored monster|servants]] of the [[deities]] [[Urdlen]]<ref> and [[Shar]].<ref>{{Cite web enhancement/Deity Do's and Don'ts|14}}
-
+Nightshades varied greatly in abilities, but all of them radiated a  aura of desecration so powerful as to be akin in strength to a shrine of an evil power only dispel evil or a similar effect could get rid of it, although a consecrated or hallowed area would suppress the aura, but at the cost of being suppressed in turn.
+Nightshades were averse to natural sunlight, which weakened them upon contact. They understood all languages but communicated only by telepathy.
+There were at least four known types of nightshades
+*Nightcrawlers were massive, wormlike monsters.
+*Nighthaunts were the smallest and weakest of nightshades, gargoyle-like creatures that were still formidable in their own right.
+*Nightwalkers were massive, vaguely humanoid horrors.
+*Nightwings were bat-shaped entities that hunted on the wing.
+Some nightshades were known to act as servants of the deities Urdlen and Shar.

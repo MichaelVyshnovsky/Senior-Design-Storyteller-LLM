@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Robes of the shining hand.gif",
-        "caption": "",
-        "name": "''Robes of the Shining Hand''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Robe]]",
-        "location": "[[Vaasa]]<br />[[Neverwinter]], [[Sword Coast]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+1,+2,+3,+4,+5",
-        "value3e": "1004 [[gp]]",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Robes of the Shining Hand''''' were enchanted [[robe]]s created by the [[monk]]s of the [[Shining Hand]] monastic order. Originating in [[Vaasa]] they were in high demand across many nations ''circa'' late 14{{th}} century [[DR]].",
-        "Powers": "''Robes of the Shining Hand'' possessed a powerful enchantment that increased a monk's reflexes and senses to such degree, they could easily shift their body absorbing even most powerful blows, dramatically increasing the wearer's defense. These robes did have a negative effect, they wearer became extremely sensitive to sounds, making it hard to differentiate between a sound of snoring and a sound of a scattering [[mouse]].",
-        "History": "The order of the [[Shining Hand]] originated in [[Amn]] and encouraged the use of arcane magic, allowing [[wizards]] to join alongside monks. Fleeing Amn's persecution of spellcasters, some settled in [[Vaasa]] creating the Shining Hand Monastery there. That branch of the order gained reputation and fortune by creating the ''Robes of the Shining Hand'' that became a valuable commodity in many regions across the Realms. In late 14{{th}} century, the monastery was hard at work creating variations on the enchanted robes that could be found in many places and traders' inventories of the [[Sword Coast]]."
+        "mainbody": "Robes of the Shining Hand were enchanted robes created by the monks of the Shining Hand monastic order. Originating in Vaasa they were in high demand across many nations circa late 14 century DR.\nRobes of the Shining Hand possessed a powerful enchantment that increased a monks reflexes and senses to such degree, they could easily shift their body absorbing even most powerful blows, dramatically increasing the wearers defense. These robes did have a negative effect, they wearer became extremely sensitive to sounds, making it hard to differentiate between a sound of snoring and a sound of a scattering mouse.\nThe order of the Shining Hand originated in Amn and encouraged the use of arcane magic, allowing wizards to join alongside monks. Fleeing Amns persecution of spellcasters, some settled in Vaasa creating the Shining Hand Monastery there. That branch of the order gained reputation and fortune by creating the Robes of the Shining Hand that became a valuable commodity in many regions across the Realms. In late 14 century, the monastery was hard at work creating variations on the enchanted robes that could be found in many places and traders inventories of the Sword Coast."
     }
 }

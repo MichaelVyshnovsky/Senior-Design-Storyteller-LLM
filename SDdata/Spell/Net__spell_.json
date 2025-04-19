@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Net",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|2}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Net''''' was an [[evocation]] [[spell]] that created a heavy and adherent net that entangled any person or creature caught within. It was considered a lesser version of the spell ''[[web]]''.\n\nIt was designed specifically for the members of the [[City Watch (Waterdeep)|City Watch]] of [[Waterdeep]].",
-        "Effects": "When this spell was a cast, a heavy and sticky net, which somewhat resembled a [[spider]]'s web, appeared over a 10' (2.9 m) area. While it was possible for anyone caught within the area to dodge out of the way, if they failed to act quickly enough they were immobilized for a matter of moments.\n\nThis spell could be cast so that the ''net'' appeared in the air and dropped on top of people below, or used to ensnare aerial creatures. Compared to ''web'', it was much more useful in cities as it was less-likely to harm bystanders or other passersby.\n\nThe netting created by this spell was not flammable, however it could be cut away in order for someone to free themself. Because of this, a number of ''nets'' were often cast in conjunction with one another to douse small flames.",
-        "Components": "In addition to [[verbal]] and [[somatic component]]s, this spell required a small bit of spider web or rope."
+        "mainbody": "Net was an evocation spell that created a heavy and adherent net that entangled any person or creature caught within. It was considered a lesser version of the spell web.\nIt was designed specifically for the members of the City Watch of Waterdeep.\nWhen this spell was a cast, a heavy and sticky net, which somewhat resembled a spiders web, appeared over a 10 (2.9 m) area. While it was possible for anyone caught within the area to dodge out of the way, if they failed to act quickly enough they were immobilized for a matter of moments.\nThis spell could be cast so that the net appeared in the air and dropped on top of people below, or used to ensnare aerial creatures. Compared to web, it was much more useful in cities as it was less-likely to harm bystanders or other passersby.\nThe netting created by this spell was not flammable, however it could be cut away in order for someone to free themself. Because of this, a number of nets were often cast in conjunction with one another to douse small flames.\nIn addition to verbal and somatic components, this spell required a small bit of spider web or rope."
     }
 }

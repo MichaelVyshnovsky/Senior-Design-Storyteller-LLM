@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Brightsong",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Abjuration]], [[Alteration]], [[Enchantment]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|6}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Brightsong''''' was a [[wizard]] [[spell]] from the schools of [[abjuration]], [[alteration]], and [[enchantment]].",
-        "Effects": "''Brightsong'' was unleashed when the incantation was sung. This spell created a sphere of ''[[free action]]'' centered around the caster. The sphere would follow the caster if they moved about but did not work under water. In addition to the benefits of ''free action'', all locks, including magical ones, were opened and all knots were untied within the sphere.\n\nThere was a chance that any creature under a form of magical compulsion, such as a ''[[geas]]'', would be freed from the compulsion when entering the ''brightsong'' sphere.",
-        "Components": "This spell only required a [[Verbal component]] to cast."
+        "mainbody": "Brightsong was a wizard spell from the schools of abjuration, alteration, and enchantment.\nBrightsong was unleashed when the incantation was sung. This spell created a sphere of free action centered around the caster. The sphere would follow the caster if they moved about but did not work under water. In addition to the benefits of free action, all locks, including magical ones, were opened and all knots were untied within the sphere.\nThere was a chance that any creature under a form of magical compulsion, such as a geas, would be freed from the compulsion when entering the brightsong sphere.\nThis spell only required a Verbal component to cast."
     }
 }

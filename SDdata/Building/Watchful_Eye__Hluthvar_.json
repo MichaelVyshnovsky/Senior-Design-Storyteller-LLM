@@ -1,25 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Watchful Eye (Hluthvar)",
-        "type": "Inn",
-        "location": "[[Hluthvar]], [[Western Heartlands]]",
-        "owner": "",
-        "services": "Beer",
-        "worship": "",
-        "pipes": "2",
-        "tankards": "",
-        "coins": "3",
-        "daggers": "",
-        "inhabitants": "",
-        "locations": "",
-        "organizations": "",
-        "mainbody": "The '''Watchful Eye''' was the only inn in [[Hluthvar]] around [[1368 DR]].",
-        "Structure": {
-            "Interior": "The rooms were plain and the beds were very hard."
-        },
-        "Atmosphere": "The Watchful Eye of Hluthvar was a dour place that was at least quiet, almost unnerving, like [[Volothamp Geddarm]] stated in [[Volo's Guide to the Sword Coast]], \"calm before a vicious storm\".",
-        "Services": "The inn served served simple food and diluted beer."
+        "mainbody": "he Watchful Eye was the only inn in Hluthvar around 1368 DR.\nThe building had a roof, shutters, and not much else.\nThe rooms were plain and the beds were very hard.\nThe Watchful Eye of Hluthvar was a dour place that was at least quiet, almost unnerving, like Volothamp Geddarm stated in Volos Guide to the Sword Coast, \"calm before a vicious storm\".\nThe inn served served simple food and diluted beer."
     }
 }

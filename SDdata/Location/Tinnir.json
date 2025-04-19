@@ -1,24 +1,8 @@
 {
     "document_data": {
-        "image": "Tinnir.png",
-        "caption": "",
-        "name": "Tinnir",
-        "alt spelling": "",
-        "aliases": "",
-        "type": "Settlement",
-        "region": "",
-        "size": "Village",
-        "elevation": "",
-        "depth": "",
-        "capital": "",
-        "largest city": "",
-        "georefs": "",
-        "demonym": "",
-        "population": "",
-        "races": "{{Percentage table|[[Human]]s|99}}",
         "languages": "",
         "religion": "",
-        "alignment": "[[Neutral good]]",
+        "alignment": "Neutral good",
         "socrefs": "",
         "imports": "",
         "exports": "",
@@ -63,7 +47,7 @@
         "population5": "",
         "popyear5": "",
         "poptable": "",
-        "ruler1": "[[Vazsil Breshk]]",
+        "ruler1": "Vazsil Breshk",
         "ruleryear1": "1370",
         "ruler2": "",
         "ruleryear2": "",
@@ -88,10 +72,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "'''Tinnir''' was a secluded village found in the nation of [[Rashemen]].",
-        "Description": "While most of the village's structures were whitewashed and typical of those found in the region, there were some buildings that resembled those found in [[west Faerûn]].",
-        "Geography": "Tinnir was hidden away in a small forested valley on the southeastern shore of [[Lake Tirulag]], just beyond the site of the [[Golden Way]].",
-        "Trade": "Tinnir received some visitors from among the fisherman that made their catches in Lake Tirulag.",
-        "Notable Locations": "* [[Lakeside Inn]], a charming inn run by a [[cleric]] of [[Bhalla]] named [[Vrulla|Vrulla the White]]."
+        "mainbody": "Tinnir was a secluded village found in the nation of Rashemen.\nWhile most of the villages structures were whitewashed and typical of those found in the region, there were some buildings that resembled those found in west Faerûn.\nTinnir was hidden away in a small forested valley on the southeastern shore of Lake Tirulag, just beyond the site of the Golden Way.\nTinnir received some visitors from among the fisherman that made their catches in Lake Tirulag.\n* Lakeside Inn, a charming inn run by a cleric of Bhalla named Vrulla the White."
     }
 }

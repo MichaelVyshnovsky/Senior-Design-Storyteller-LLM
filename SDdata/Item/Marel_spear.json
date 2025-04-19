@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "3|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Marel spear.png",
-        "caption": "",
-        "name": "''Marel Spear''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Spear]]",
-        "location": "[[Moonsea (lake)|Moonsea]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+1",
-        "value3e": "",
-        "weight3e": "{{SI|3|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Marel spears''''' were mildly [[enchanted]] and [[poison]]ed [[spear]]s wielded by [[marel]] elves of the [[Moonsea (lake)|Moonsea]] lake.",
-        "Powers": "These spears bore a simple ''+1'' enchantment, however the main danger came from the poison applied to these [[polearm]]s. Once introduced into the target's bloodstream, the poison slowly stiffened their muscles, eventually leading to full immobilization. The aquatic poison was created specifically to be used underwater, stopping it from being washed off the weapons.",
-        "History": "In [[1373 DR]], marels were known to attack ships traveling across the Moonsea. One such ship was the ''[[Grim Voyager]]''. The marel raiders wielded these enchanted spears."
+        "mainbody": "Marel spears were mildly enchanted and poisoned spears wielded by marel elves of the Moonsea lake.\nThese spears bore a simple +1 enchantment, however the main danger came from the poison applied to these polearms. Once introduced into the targets bloodstream, the poison slowly stiffened their muscles, eventually leading to full immobilization. The aquatic poison was created specifically to be used underwater, stopping it from being washed off the weapons.\nIn 1373 DR, marels were known to attack ships traveling across the Moonsea. One such ship was the Grim Voyager. The marel raiders wielded these enchanted spears."
     }
 }

@@ -1,21 +1,9 @@
 {
-    "template_data": {
-        "rsa": "right",
-        "caption": "Per {{SI"
-    },
     "document_data": {
-        "image": "Wooden tabacco pipe.png",
-        "caption": "",
-        "name": "Tabacco",
-        "othernames": "Tobacco<br/>''Balaumo'' (in [[Chondathan language|Chondathan]])",
-        "nicknames": "",
-        "type": "",
-        "location": "[[Nexal]]<br />[[Malatra]]<br/>[[Malatran Plateau]]",
-        "basicrefs": "{{Cite organized play/LJ/A Gathering of Heroes Interactive}}",
         "useon": "",
         "origin": "",
-        "value": "{{Split table|rsa=right|caption=Per {{SI|1|lb}}|[[Faerûn]]|100 [[gp]]|[[Kara-Tur]]|1 [[tael]]}}",
-        "usage": "[[Cigar]]s, pipes",
+        "value": "|Faerûn|100 gp|Kara-Tur|1 tael",
+        "usage": "Cigars, pipes",
         "consumedby": "",
         "poisonousto": "",
         "lifespan": "",
@@ -31,10 +19,6 @@
         "appearrefs": "",
         "first": "",
         "based": "",
-        "mainbody": "'''Tabacco''', also known as '''tobacco''', was a type of [[pipeweed]] – a dark plant with a sweet scent indigenous to [[Nexal]]{{Cite polyhedron/129/Agriculture, Invention, and Society in Malatra|30}}{{Cite web/theedverse/2024-1-2 - Pipeweed}}",
-        "Description": "Tabacco leaves could be smoked in pipes, similarly to pipeweed of [[Faerûn]], but it was also possible to roll them in [[cigar]]s. In all applications, tabacco was said to be far superior in flavor to pipeweed.",
-        "Availability": "Sealed pots of tabacco leaves imported from Nexal were available for purchase through ''[[Aurora's Whole Realms Catalogue]]'' in the 1360s DR.\n\nImported ''balaumo'' was sold in cafes of [[Arrabar]] in the [[Vilhon Reach]] in the early 1370s DR. Namely, [[Efusio's Cafe]] offered a wide variety of fruit-infused tobacco blends, including [[cherry]], [[apricot]], [[apple]],\n\nSome flavors of tobacco enjoyed by [[wizard]]s in [[Magician's Row]] in [[Ravens Bluff]] in the late 1350s DR were Bittersage, Dragonfire, Golden Sea, Old Troll, and Saltweed.<ref>{{Cite polyhedron/58/The Living City: Of Wits and Wizards, A Logic Puzzle|27}}",
-        "Usages": "The spell ''[[witchweed (spell)|witchweed]]'' required the burning of tabacco as a [[material component]].",
-        "Notable Users": "''Circa'' [[1367 DR]], in [[Ghars]], [[Cormyr]], tobacco was smoked by Mayor [[Tobald]] and in a pipe by [[Benelaius]]. A tobacconist in town sold both tobacco and pipeweed."
+        "mainbody": "Tabacco, also known as tobacco, was a type of pipeweed – a dark plant with a sweet scent indigenous to Nexal\nTabacco leaves could be smoked in pipes, similarly to pipeweed of Faerûn, but it was also possible to roll them in cigars. In all applications, tabacco was said to be far superior in flavor to pipeweed.\nSealed pots of tabacco leaves imported from Nexal were available for purchase through Auroras Whole Realms Catalogue in the 1360s DR.\nImported balaumo was sold in cafes of Arrabar in the Vilhon Reach in the early 1370s DR. Namely, Efusios Cafe offered a wide variety of fruit-infused tobacco blends, including cherry, apricot, apple,\nSome flavors of tobacco enjoyed by wizards in Magicians Row in Ravens Bluff in the late 1350s DR were Bittersage, Dragonfire, Golden Sea, Old Troll, and Saltweed.\nThe spell witchweed required the burning of tabacco as a material component.\nCirca 1367 DR, in Ghars, Cormyr, tobacco was smoked by Mayor Tobald and in a pipe by Benelaius. A tobacconist in town sold both tobacco and pipeweed."
     }
 }

@@ -1,19 +1,4 @@
-{{Spell
-| image         = 
-| caption       = 
-| name          = Infestation
-| deity         = 
-| inventor      = 
-| type          = 
-| school5e      = [[Conjuration]]
-| domains5e     = 
-| circles5e     = 
-| oaths5e       = 
-| patrons5e     = 
-| traditions5e  = 
-| archetypes5e  = 
-| level5e       = {{spell table|edition=5e|[[Druid]]|0|[[Sorcerer]]|0|[[Warlock]]|0|[[Wizard]]|0}}
-| type5e        = [[Cantrip]]
+| type5e        = Cantrip
 | refs5e        = 
 | feature4e     = 
 | keywords4e    = 
@@ -39,12 +24,6 @@
 | level1e       = 
 | type1e        = 
 | refs1e        = 
-}}
-'''''Infestation''''' was a [[conjuration]] [[spell]] that poisoned a creature. 
-
-==Effects==
-When cast, the spell summoned a cloud of various parasitical insects around a target creature. For the spell to be effective, the target creature had to be within {{SI|30|ft|long=yes}} from the caster. As a result of of biting or burrowing, the target creature was poisoned. The potency and duration of the poison were determined by the caster's skill level.
-
-==Components==
-In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, the spell required a [[material component]]: a live flea. 
-
+Infestation was a conjuration spell that poisoned a creature. 
+When cast, the spell summoned a cloud of various parasitical insects around a target creature. For the spell to be effective, the target creature had to be within  from the caster. As a result of of biting or burrowing, the target creature was poisoned. The potency and duration of the poison were determined by the casters skill level.
+In addition to verbal and somatic components, the spell required a material component a live flea.

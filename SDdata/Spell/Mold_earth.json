@@ -1,25 +1,5 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "variant": "cantrip",
-        "5|ft|long": "yes",
-        "30|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Mold Earth",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Transmutation]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "{{Spell table|edition=5e|variant=cantrip|[[Druid]]|0|[[Sorcerer]]|0|[[Wizard]]|0}}",
         "type5e": "Cantrip",
         "refs5e": "",
         "feature4e": "",
@@ -46,9 +26,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Mold earth''''' was a [[transmutation]] [[cantrip]] that could move or temporarily shape a small volume of [[Earth (element)|earth]] or stone.",
-        "Effects": "The spell could be used for a variety of functions. It could instantly excavate and harmlessly move aside a volume of earth equivalent to a cube {{SI|5|ft|long=yes}} on a side every 6 seconds, out to a range of {{SI|30|ft|long=yes}}. It was also capable of manipulating earth and stone to form shapes or written messages that lasted for 1 hour. Finally, it could smooth out a rough patch of terrain or cause an otherwise smooth patch to become rough and irregular, also up to 1 hour. Only two of these temporary effects could be active simultaneously, but the caster could choose to end them early.",
-        "Components": "The spell required only [[somatic component]]s.",
-        "History": "The spell was popular among members of the [[Cult of the Black Earth]] in the late 15{{th}} century [[DR]]."
+        "mainbody": "Mold earth was a transmutation cantrip that could move or temporarily shape a small volume of earth or stone.\nThe spell could be used for a variety of functions. It could instantly excavate and harmlessly move aside a volume of earth equivalent to a cube  on a side every 6 seconds, out to a range of . It was also capable of manipulating earth and stone to form shapes or written messages that lasted for 1 hour. Finally, it could smooth out a rough patch of terrain or cause an otherwise smooth patch to become rough and irregular, also up to 1 hour. Only two of these temporary effects could be active simultaneously, but the caster could choose to end them early.\nThe spell required only somatic components.\nThe spell was popular among members of the Cult of the Black Earth in the late 15 century DR."
     }
 }

@@ -1,25 +1,11 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Chakram",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Weapon",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "10 [[sp]]",
-        "weight2e": "{{SI|0.5|lbs.|k}}",
-        "refs2e": "{{Cite dragon/268/The Armory Annex|43}}",
+        "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
         "itemlevel3e": "",
-        "value3e": "15 [[gp]]",
-        "weight3e": "{{SI|2|lbs.|k}}",
+        "value3e": "15 gp",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -33,9 +19,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "A '''chakram''' was a small, ring-shaped throwing disk.",
-        "Description": "Chakrams were flat metal{{Cite dragon/189/Rhino's Armor, Tiger's Claws|35}}) disks ranging from {{SI|5|in}} to {{SI|1|ft}} in radius with a sharpened rim and a rounded inner edge. They usually weighed between {{SIrange|0.5|2|lbs.}}. They were often covered in intricate engravings.",
-        "Weaponology": "Chakrams were typically either thrown in a manner similar to a discus or spun around one's index finger and then released. Warriors typically carried these in groups of a half dozen, either around their arms or a conical [[turban]].",
-        "Notable Users of Chakrams": "The chakram was the favored weapon of [[priest]]s of the goddess [[Shar]]. She was said to carry a magical chakram called the ''[[Disk of Night]]''."
+        "mainbody": "A chakram was a small, ring-shaped throwing disk.\nChakrams were flat metal) disks ranging from  to  in radius with a sharpened rim and a rounded inner edge. They usually weighed between . They were often covered in intricate engravings.\nChakrams were typically either thrown in a manner similar to a discus or spun around ones index finger and then released. Warriors typically carried these in groups of a half dozen, either around their arms or a conical turban.\nThe chakram was the favored weapon of priests of the goddess Shar. She was said to carry a magical chakram called the Disk of Night."
     }
 }

@@ -1,28 +1,7 @@
 {
     "document_data": {
-        "image": "Fleece.png",
-        "caption": "A basket full of fleece.",
-        "name": "Fleece",
-        "aliases": "",
-        "locations": "",
-        "discovered": "",
-        "date": "",
-        "creators": "",
-        "created": "",
-        "hisrefs": "",
-        "type": "Textile fiber",
-        "components": "",
-        "color": "",
-        "properties": "",
-        "markings": "",
-        "phyrefs": "",
-        "uses": "[[Material component]]",
-        "cost": "3 [[cp]] per {{SI|4|in²}}",
         "userefs": "",
         "items": "",
-        "mainbody": "'''Fleece''' was a type of textile fiber, obtained from sheering the coats of [[sheep]].",
-        "Usages": {
-            "Spell Components": "* Fleece was commonly known by [[arcane magic|arcane spellcasters]] to be a [[material component]] for [[illusion]] [[spell]]s that tricked the mind.{{Cite adventurers league/Stardock Under Siege|18}}\n* The [[divine magic|divine]] version of the spell ''[[emotion control]]'' required a bit of fleece to cast.\n* ''[[Major image]]'' required a bit of fleece as a [[spell focus]].\n* ''[[Minor illusion]]'' required a small piece of fleece to cast.\n* ''[[Permanent image]]'' required a small piece of fleece to cast.\n* ''[[Persistent image]]'' required a small piece of fleece to cast.\n* ''[[Phantasmal force]]'' required a bit of fleece to cast.\n* ''[[Programmed illusion]]'' required a bit of fleece to cast.\n* ''[[Silent image]]'' required a bit of fleece to cast.\n*''[[Solipsism]]'' required a bit of fleece to cast."
-        }
+        "mainbody": "Fleece was a type of textile fiber, obtained from sheering the coats of sheep.\n* Fleece was most commonly refined into the textile known as wool.\n* Fleece could be processed alonside natron to craft felt cloth.\n* Some incorporated fleece within boots made from the skin of bears or wolves.\n* Fleece was commonly known by arcane spellcasters to be a material component for illusion spells that tricked the mind.\n* The divine version of the spell emotion control required a bit of fleece to cast.\n* Major image required a bit of fleece as a spell focus.\n* Minor illusion required a small piece of fleece to cast.\n* Permanent image required a small piece of fleece to cast.\n* Persistent image required a small piece of fleece to cast.\n* Phantasmal force required a bit of fleece to cast.\n* Programmed illusion required a bit of fleece to cast.\n* Silent image required a bit of fleece to cast.\n*Solipsism required a bit of fleece to cast."
     }
 }

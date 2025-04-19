@@ -1,27 +1,5 @@
 {
     "document_data": {
-        "image": "SpiderPoles.JPG",
-        "caption": "A set of spider poles.",
-        "name": "Spider Poles",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Tools",
-        "creator": "",
-        "location": "[[Aurora's Emporium]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "Unknown",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "35 [[gp]]",
-        "weight3e": "{{SI|8|lb|k}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -38,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Spider poles''' were a set of collapsible metal poles that could be arranged into a ladder or articulated frame.",
-        "Uses": "Spider poles were extremely useful for climbing walls, though their intricate positioning required a degree of dexterity to assemble and disassemble correctly.",
-        "Prices": "Strangely enough, [[Aurora's Whole Realms Catalogue]] did not list a price for a set of spider poles."
+        "mainbody": "Spider poles were a set of collapsible metal poles that could be arranged into a ladder or articulated frame.\nSpider poles were extremely useful for climbing walls, though their intricate positioning required a degree of dexterity to assemble and disassemble correctly.\nStrangely enough, Auroras Whole Realms Catalogue did not list a price for a set of spider poles."
     }
 }

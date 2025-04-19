@@ -1,24 +1,8 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "edition_1": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Zalaznar Crinios",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "Grand Druid",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Gulthmere Forest]], [[Shining Plains]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "race": "[[Treant]]{{Cite dragon/362/Countdown to the Realms: Spellplague: The Wailing Years}}, [[Human]] (formerly)",
         "occupation": "",
         "age": "",
-        "patron deity": "[[Malar]], [[Eldath]] (formerly)",
+        "patron deity": "Malar, Eldath (formerly)",
         "languages": "",
         "reckoning": "DR",
         "dob": "",
@@ -30,14 +14,12 @@
         "destroyed": "",
         "destroyednotes": "",
         "class": "",
-        "class2e": "{{class table|edition=2e|[[Druid]]|15}}",
-        "alignment35": "[[Neutral evil]]",
-        "class35": "{{class table|edition=3e|[[Druid]]|12}}",
+        "class2e": "",
+        "alignment35": "Neutral evil",
+        "class35": "",
         "refs2e": "",
         "refs35": "",
         "alignment": "",
-        "mainbody": "'''Zalaznar Crinios''' was the ruler of [[Cedarsproke]] in the [[Gulthmere Forest]] in [[1370 DR]].",
-        "Activities": "Zalaznar was a totally independent leader, not affiliated with the [[Emerald Enclave]]. He sometimes disagreed with the Enclave's politics but remained neutral instead, showing dissent without weakening the religion.",
-        "History": "In [[1391 DR]] Zalaznar was transformed into a mighty [[treant]] for his service to nature, taking hold of the druid circle in [[Cedarspoke]]."
+        "mainbody": "Zalaznar Crinios was the ruler of Cedarsproke in the Gulthmere Forest in 1370 DR.\nZalaznar was a totally independent leader, not affiliated with the Emerald Enclave. He sometimes disagreed with the Enclaves politics but remained neutral instead, showing dissent without weakening the religion.\nIn 1391 DR Zalaznar was transformed into a mighty treant for his service to nature, taking hold of the druid circle in Cedarspoke."
     }
 }

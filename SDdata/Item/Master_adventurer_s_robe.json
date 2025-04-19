@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Master adventurer's robe.png",
-        "caption": "",
-        "name": "''Master Adventurer's Robe''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Robe]]",
-        "location": "[[Sword Coast]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+3",
-        "value3e": "",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Master adventurer's robes''''' were [[enchanted]] [[wizard]]ly [[robe]]s, famously created by then young and relatively unknown adventurer [[Vangerdahast Aeiulvana]].",
-        "Powers": "These robes were ensorcelled to provide magical protection to wizards and absorbed the damage that was dealt to their owners.",
-        "History": "Vangerdahast Aeiulvana was a famous royal magician to King [[Azoun Obarskyr IV]]. Before that, however, he was an accomplished spell-slinging adventurer. One of the deeds that brought him fame was creating the ''master adventurer's robes''. With wizards being extremely vulnerable in close combat, these sets of enchanted cloth granted them protection and time to weave a spell against the melee opponents.\n\nBy [[1372 DR]], ''master adventurer's robes'' could be found in possession of wizards from [[Cormyr]], the [[Sword Coast]], and [[Daggerford]] vicinity.",
-        "Notable Owners": "*[[Boonmoppet]]: a lonely [[imp]] [[familiar]] who inherited his master's wizardly paraphernalia that included a ''master adventurer's robe''."
+        "mainbody": "Master adventurers robes were enchanted wizardly robes, famously created by then young and relatively unknown adventurer Vangerdahast Aeiulvana.\nThese robes were ensorcelled to provide magical protection to wizards and absorbed the damage that was dealt to their owners.\nVangerdahast Aeiulvana was a famous royal magician to King Azoun Obarskyr IV. Before that, however, he was an accomplished spell-slinging adventurer. One of the deeds that brought him fame was creating the master adventurers robes. With wizards being extremely vulnerable in close combat, these sets of enchanted cloth granted them protection and time to weave a spell against the melee opponents.\nBy 1372 DR, master adventurers robes could be found in possession of wizards from Cormyr, the Sword Coast, and Daggerford vicinity.\n*Boonmoppet a lonely imp familiar who inherited his masters wizardly paraphernalia that included a master adventurers robe."
     }
 }

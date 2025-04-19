@@ -1,29 +1,7 @@
 {
-    "template_data": {
-        "lca": "left",
-        "rca": "right",
-        "caption": "''Circa'' [[1369 DR]]",
-        "captionstyle": "font-size:90%;"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "House of Auril's Breath",
-        "aliases": "The Cold House<br />Cold Comfort Tower",
-        "type": "Temple",
-        "architecture": "",
-        "floors": "",
-        "location": "[[Glister]], [[Thar]]",
-        "built": "",
-        "destroyed": "",
-        "owner": "[[Malakhar Rhenta]]",
-        "staff": "",
-        "occupants": "",
-        "services": "",
-        "worship": "[[Auril]]",
-        "basicrefs": "{{Cite polyhedron/81/The Everwinking Eye: As Cold As Bare Fingers|8}}",
         "ownertable": "",
-        "stafftable": "{{Split table|lca=left|rca=right|caption=''Circa'' [[1369 DR]]|captionstyle=font-size:90%;|High Hand of Ice (High Priest)|1|[[Priest]]esses|14}}",
+        "stafftable": "",
         "histrefs": "",
         "pipes": "",
         "tankards": "",
@@ -40,11 +18,6 @@
         "inhabitants": "yes",
         "locations": "",
         "organizations": "",
-        "mainbody": "The '''House of Auril's Breath''', otherwise commonly referred to by locals as '''The Cold House''', was a temple dedicated to [[Auril]] in the town of [[Glister]]. It was considered to be one of the goddess's largest and most influential temples.",
-        "Location": "This temple was located along the main road of Glister.",
-        "Structure": "The temple had a tall, slender spire atop its roof and its structure was supported by several vertical columns.",
-        "History": "In the 14{{th}} century [[DR]], there were known to be over 1600 Auril worshipers registered as members of the temple's congregation. Many of them were either fur trappers or miners, who would attend the temple's nightly Fire and Ice rituals.",
-        "Inhabitants": "The temple was home to fourteen senior [[priest]]esses, guided by the High Hand of Ice [[Malakhar Rhenta]]. Unlike some temples of Auril, the clergy here used formal titles instead of honorifics.",
-        "Rumors & Legends": "Some claimed that those who registered at the temple had to do so with their blood. A more popular rumor claimed that they were involved in covert political intrigue with the lands of [[Hillsfar]], [[Sembia]], [[the Vast]], and the organization [[Zhentarim]]. By extension, people claimed that priests of the temple often paid spies and agents, in the form of mercenaries and traveling merchants, with [[gem]]s.\n\nSome claimed that these alleged gems were mined from beneath the temple, while others claimed that they came from tunnels beneath the temple that stretched out far beyond the eastern and southern edges of Glister."
+        "mainbody": "The House of Aurils Breath, otherwise commonly referred to by locals as The Cold House, was a temple dedicated to Auril in the town of Glister. It was considered to be one of the goddesss largest and most influential temples.\nThis temple was located along the main road of Glister.\nThe temple had a tall, slender spire atop its roof and its structure was supported by several vertical columns.\nIn the 14 century DR, there were known to be over 1600 Auril worshipers registered as members of the temples congregation. Many of them were either fur trappers or miners, who would attend the temples nightly Fire and Ice rituals.\nThe temple was home to fourteen senior priestesses, guided by the High Hand of Ice Malakhar Rhenta. Unlike some temples of Auril, the clergy here used formal titles instead of honorifics.\nSome claimed that those who registered at the temple had to do so with their blood. A more popular rumor claimed that they were involved in covert political intrigue with the lands of Hillsfar, Sembia, the Vast, and the organization Zhentarim. By extension, people claimed that priests of the temple often paid spies and agents, in the form of mercenaries and traveling merchants, with gems.\nSome claimed that these alleged gems were mined from beneath the temple, while others claimed that they came from tunnels beneath the temple that stretched out far beyond the eastern and southern edges of Glister."
     }
 }

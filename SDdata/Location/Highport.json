@@ -1,16 +1,5 @@
 {
-    "template_data": {
-        "10|mi|k|long": "yes"
-    },
     "document_data": {
-        "image": "KorinnAtlas.JPG",
-        "caption": "A map showing Highport in the Korinn Archipelago.",
-        "name": "Highport",
-        "alt spelling": "",
-        "aliases": "",
-        "type": "Island",
-        "region": "The [[Korinn Archipelago]], the [[Moonshae Isles]]",
-        "size": "{{SI|15|mi|k}} long",
         "elevation": "",
         "depth": "",
         "capital": "",
@@ -36,7 +25,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "'''Highport''' was an island within the [[Korinn Archipelago]] in the [[Moonshae Isles]].{{Cite interactive atlas}}{{Cite dungeon/196/Backdrop: Moonshae Isles|11}}",
-        "Geography": "Highport was located just northeast of the island of [[Caftenor]]. Highport was also less than {{SI|10|mi|k|long=yes}} off the coast of the far northern tip of [[Gnarhelm]] on [[Alaron]]. A large unnamed mountain peak dominated much of the southern half of the island. A small forest was found in the northern half."
+        "mainbody": "Highport was an island within the Korinn Archipelago in the Moonshae Isles.\nHighport was located just northeast of the island of Caftenor. Highport was also less than  off the coast of the far northern tip of Gnarhelm on Alaron. A large unnamed mountain peak dominated much of the southern half of the island. A small forest was found in the northern half."
     }
 }

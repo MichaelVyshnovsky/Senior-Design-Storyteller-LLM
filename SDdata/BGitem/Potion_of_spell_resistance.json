@@ -1,28 +1,8 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Potion of Spell Resistance''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Potion]]",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "10{{th}}",
         "itemlevel3e": "",
         "value3e": "",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -38,8 +18,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''''Potions of spell resistance''''' were magic [[potion]]s that protected the imbiber from dangerous magics for a short period of time.",
-        "Description": "''Potions of spell resistance'' were bottled in crystal phials.",
-        "History": "In [[1369 DR]], ''potions of spell resistance'' could be found in several locations of ruined city of [[Myth Drannor]], in possession of members of the [[Cult of the Dragon]], old crypts of the [[Elven Dungeons]], and within the laid of a mad [[lich]] -- [[Thyaast Ammath]], a survivor of the [[Weeping War]]."
+        "mainbody": "Potions of spell resistance were magic potions that protected the imbiber from dangerous magics for a short period of time.\nPotions of spell resistance were bottled in crystal phials.\nIn 1369 DR, potions of spell resistance could be found in several locations of ruined city of Myth Drannor, in possession of members of the Cult of the Dragon, old crypts of the Elven Dungeons, and within the laid of a mad lich -- Thyaast Ammath, a survivor of the Weeping War."
     }
 }

@@ -1,36 +1,5 @@
 {
-    "template_data": {
-        "6|ft|adj": "long"
-    },
     "document_data": {
-        "image": "RiverReaching.png",
-        "caption": "Map of the area around the River Reaching ''circa'' 1372 DR.",
-        "name": "River Reaching",
-        "aliases": "Bodensee River",
-        "type": "River",
-        "region": "[[Western Heartlands]]",
-        "size": "",
-        "depth": "",
-        "river source": "[[Sunset Mountains]]",
-        "river mouth": "",
-        "tributaries": "",
-        "tributary of": "[[River Chionthar]]",
-        "georefs": "",
-        "races": "",
-        "socrefs": "",
-        "usethe": "yes",
-        "useon": "yes",
-        "inhabitants": "",
-        "locations": "yes",
-        "organizations": "",
-        "settlements": "yes",
-        "mountains": "yes",
-        "events": "",
-        "food and drink": "",
-        "items": "",
-        "mainbody": "The '''River Reaching''', known to the ancient [[Netherese]] as the '''Bodensee River''', was a river in the [[Western Heartlands]] of [[Faerûn]]",
-        "Geography": {
-            "Flora & Fauna": "The river was somewhat dangerous, due to being inhabited {{SIAdj|6|ft|adj=long}} eel-fish known as [[lamprey]]s. Such creatures fed on whatever was available to them, which included [[human]]s and [[cattle]] crossing the river. During springtime, they would come out of hibernation and search for food across the full length of the river. Thus, animals and humans rarely bathed or swam there.\n\nA unique species of river [[eel]] that inhabited this body of water were known as dreels. They subsisted upon algae and carrion, which kept the river's waters both clean and clear."
-        }
+        "mainbody": "he River Reaching, known to the ancient Netherese as the Bodensee River, was a river in the Western Heartlands of Faerûn\nThe River Reaching flowed from the northern Sunset Mountains, originating in Yellow Snake Pass, then passed by Mount Tiamat and cut through Skull Gorge on its way past the settlement of Hills Edge. It skirted the east edge of the Trielta Hills and then entered the Reaching Woods, finally emerging to pour into the River Chionthar near Scornubel.\nThe river was somewhat dangerous, due to being inhabited  eel-fish known as lampreys. Such creatures fed on whatever was available to them, which included humans and cattle crossing the river. During springtime, they would come out of hibernation and search for food across the full length of the river. Thus, animals and humans rarely bathed or swam there.\nA unique species of river eel that inhabited this body of water were known as dreels. They subsisted upon algae and carrion, which kept the rivers waters both clean and clear."
     }
 }

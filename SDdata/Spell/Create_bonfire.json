@@ -1,25 +1,5 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "variant": "cantrip",
-        "5|ft|long": "yes",
-        "60|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Create Bonfire",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Conjuration]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "{{Spell table|edition=5e|variant=cantrip|[[Artificer]]|0|[[Druid]]|0|[[Sorcerer]]|0|[[Warlock]]|0|[[Wizard]]|0}}",
         "type5e": "Cantrip",
         "refs5e": "",
         "feature4e": "",
@@ -46,8 +26,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Create bonfire''''' was a [[conjuration]] [[cantrip]] that caused an area on the ground to burst into magic [[fire]].",
-        "Effects": "The caster could cause a visible area no larger than a cube {{SI|5|ft|long=yes}} on a side, within a range of {{SI|60|ft|long=yes}}, to burst into flames for up to 1 minute, as long as the caster kept concentrating. Creatures caught in the flames were burned, taking damage that increased as the caster grew more powerful. Any unattended objects in the area were also ignited.",
-        "Components": "The spell required only [[Verbal component|verbal]] and [[somatic component]]s."
+        "mainbody": "Create bonfire was a conjuration cantrip that caused an area on the ground to burst into magic fire.\nThe caster could cause a visible area no larger than a cube  on a side, within a range of , to burst into flames for up to 1 minute, as long as the caster kept concentrating. Creatures caught in the flames were burned, taking damage that increased as the caster grew more powerful. Any unattended objects in the area were also ignited.\nThe spell required only verbal and somatic components."
     }
 }

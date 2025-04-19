@@ -1,40 +1,11 @@
 {
-    "template_data": {
-        "6|ft|long": "yes"
-    },
     "document_data": {
-        "image": "<gallery>",
-        "caption2": "Various depictions of crawling claws",
-        "name": "Crawling Claw",
-        "size5e": "Tiny",
-        "type5e": "[[Undead]]",
-        "subtype5e": "",
-        "alignment5e": "[[Neutral evil]]",
-        "challenge5e": "0",
-        "refs5e": "",
-        "size4e": "Tiny",
-        "origin4e": "Natural",
-        "type4e": "[[Animate]]",
-        "subtype4e": "[[Undead]]",
-        "alignment4e": "[[Unaligned]]",
-        "refs4e": "",
-        "size3e": "Tiny",
-        "type3e": "[[Construct]]",
-        "subtype3e": "Swarm",
-        "alignment3e": "Always [[neutral]]",
-        "challenge3e": "2",
-        "refs3e": "",
-        "size2e": "Tiny",
-        "alignment2e": "[[Neutral]]",
-        "refs2e": "",
-        "alignment1e": "[[Neutral]]",
-        "refs1e": "{{Cite dragon/32/Dragon's Bestiary|39}}",
         "patron deity": "",
-        "vision": "[[Blindsight]]",
+        "vision": "Blindsight",
         "lifespan": "",
         "location": "Underground, Any",
         "activcycle": "Any",
-        "language": "Understands [[Common]] but can't speak",
+        "language": "Understands Common but cant speak",
         "based": "",
         "subraces": "",
         "height": "",
@@ -46,19 +17,6 @@
         "eyecolor": "",
         "feathers": "",
         "first": "",
-        "Makes you wonder what can be done with all those other murderer parts, doesn't it? \n|Evangelita Lavian, necromancer\n}}": "=Description==",
-        "mainbody": "ing their fingers as legs, crawling claws could scuttle across the ground or maneuver on vertical surfaces. Crawling claws were always left hands and had to be made from the hands of small-to-medium-sized creatures. They were known to form into swarms known as \"applauses\" with no discernible front, back, or central body.",
-        "Description": "Using their fingers as legs, crawling claws could scuttle across the ground or maneuver on vertical surfaces. Crawling claws were always left hands and had to be made from the hands of small-to-medium-sized creatures. They were known to form into swarms known as \"applauses\" with no discernible front, back, or central body.",
-        "Behavior": "Crawling claws were highly lacking in intelligence, and could not perform complicated tasks by themselves. They lacked most of the memories of their past selves, leaving only an array of negative spiteful emotions to guide their actions. Without orders to follow, they would attempt to recreate the murders they'd committed in life, some of the few memories they still possessed. Crawling claws had no loyalty to anyone but their original maker.",
-        "Abilities": "Crawling claws were a strange mixture of undead and construct, owing to the nature of their creation. Their most curious trait was their immunity to [[turn undead|undead turning magic]], raising questions about whether they could be truly classified as undead creatures.\n\nDespite lacking sensory organs, they could still hear and understand commands as well as perceive the world around them. At the same time, they were immune to the effects of abilities that required actual sight.",
-        "Combat": "[[File:MonFaePG30.jpg|thumb|left|220px|Crawling claws swarm a victim.]]By themselves, crawling claws could only slash and pummel their opponents into submission. They were especially dangerous to those who had fallen over. However, crawling claws were most dangerous when allowed to amass into a group of hundreds, swarming targets one by one in order to kill them.\n\nCrawling claws could leap {{SI|6|ft|long=yes}} vertically into the air using disturbing spasms to provide propulsion.\n\nCrawling claws were remarkably durable, and could not be stopped with [[poison]] or by mind-affecting [[spell]]s.",
-        "Society": {
-            "Creation": "Straddling the line between [[undead]] and [[construct]], crawling claws were curiosities of [[arcane magic]], and there were more than one ways to create them. They could be animated as constructs via [[evil]] rituals such as ''[[create crawling claw]]'',\n\nUndead crawling claws were imbued with the [[spirit]] of the humanoid from which they were created, meaning that the ritual would fail if the hand's original owner was already undead or if their spirit had long since passed. If that humanoid still lived, the crawling claw could knit itself back onto their arm, indistinguishable from when it was removed. If the hand was subsequently removed again, the humanoid would enter a comatose state. The death of the hand would kill the humanoid but not vice versa.\n\nDespite being relatively unintelligent constructs, it was rumored that crawling claws possessed some method of breeding. They were reported to be able to hack off the hands of the recently deceased and somehow animate them with their curse.",
-            "Variants": {
-                "Flying fingers": "Flying fingers were crawling claws that had been specially enchanted with the power of flight and to turn back spells, much like a ''[[ring of spell turning]]''. [[Elminster Aumar]] knew how to create them and at some point gave a rather tame version of one of these as a pet to [[Ed Greenwood|Ed of the Greenwood]].{{Cite dragon/188/The Wizards Three: Sorcery from Three Worlds|29,34}}",
-                "Ierith's crawling claws": "Created by [[Ieirith Sprydurszace]], these crawling claws had human eyeballs on them through which the necromancer used spells to see out of.<ref>{{Cite web/Candlekeep forum/Questions for Ed Greenwood (2012)/Dulgund, Rallyhorn, and Sulmarin}}"
-            }
-        },
-        "History": "The first widespread example of crawling claws \"reproducing\" by tearing off the hands of fallen humanoids was reported by [[adventurer]]s in the [[Underdark]] beneath the [[Sword Coast]] and the [[Vilhon Reach]] in the mid-to-late 14{{th}} century [[DR]]."
+        "mainbody": "Crawling claws were the amputated and then reanimated hands of humanoids. They were employed by dark wizards and warlocks to perform watch duty or provide an extra set of hands.\nUsing their fingers as legs, crawling claws could scuttle across the ground or maneuver on vertical surfaces. Crawling claws were always left hands and had to be made from the hands of small-to-medium-sized creatures. They were known to form into swarms known as \"applauses\" with no discernible front, back, or central body.\nCrawling claws were highly lacking in intelligence, and could not perform complicated tasks by themselves. They lacked most of the memories of their past selves, leaving only an array of negative spiteful emotions to guide their actions. Without orders to follow, they would attempt to recreate the murders theyd committed in life, some of the few memories they still possessed. Crawling claws had no loyalty to anyone but their original maker.\nCrawling claws were a strange mixture of undead and construct, owing to the nature of their creation. Their most curious trait was their immunity to undead turning magic, raising questions about whether they could be truly classified as undead creatures.\nDespite lacking sensory organs, they could still hear and understand commands as well as perceive the world around them. At the same time, they were immune to the effects of abilities that required actual sight.\nthumb|left|220px|Crawling claws swarm a victim.By themselves, crawling claws could only slash and pummel their opponents into submission. They were especially dangerous to those who had fallen over. However, crawling claws were most dangerous when allowed to amass into a group of hundreds, swarming targets one by one in order to kill them.\nCrawling claws could leap  vertically into the air using disturbing spasms to provide propulsion.\nCrawling claws were remarkably durable, and could not be stopped with poison or by mind-affecting spells.\nCrawling claws were crafted by necromancers and those like them in order to fulfill certain menial tasks. They were useful compared to other undead because of their small size (making them easy to hide or smuggle) and relative availability as long as there was a humanoid at hand.\nCrawling claws were one of the many types of undead that served the demipower of necromancy known as Velsharoon.\nBeyond the Prime Material plane, crawling claws could be found in the Domains of Dread. In particular, they could be found in the domain of Hazlik, where they acted as guardians over his estate and other strongholds.\nStraddling the line between undead and construct, crawling claws were curiosities of arcane magic, and there were more than one ways to create them. They could be animated as constructs via evil rituals such as create crawling claw,\nUndead crawling claws were imbued with the spirit of the humanoid from which they were created, meaning that the ritual would fail if the hands original owner was already undead or if their spirit had long since passed. If that humanoid still lived, the crawling claw could knit itself back onto their arm, indistinguishable from when it was removed. If the hand was subsequently removed again, the humanoid would enter a comatose state. The death of the hand would kill the humanoid but not vice versa.\nDespite being relatively unintelligent constructs, it was rumored that crawling claws possessed some method of breeding. They were reported to be able to hack off the hands of the recently deceased and somehow animate them with their curse.\nFlying fingers Flying fingers were crawling claws that had been specially enchanted with the power of flight and to turn back spells, much like a ring of spell turning. Elminster Aumar knew how to create them and at some point gave a rather tame version of one of these as a pet to Ed of the Greenwood.\nIeriths crawling claws Created by Ieirith Sprydurszace, these crawling claws had human eyeballs on them through which the necromancer used spells to see out of.\nThe first widespread example of crawling claws \"reproducing\" by tearing off the hands of fallen humanoids was reported by adventurers in the Underdark beneath the Sword Coast and the Vilhon Reach in the mid-to-late 14 century DR."
     }
 }

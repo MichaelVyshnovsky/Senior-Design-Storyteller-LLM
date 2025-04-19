@@ -1,16 +1,10 @@
 {
     "document_data": {
-        "image": "SWZhentil Keep1.jpg",
-        "caption": "A map showing Canter Street in southwest Zhentil Keep.",
-        "name": "Canter Street",
-        "type": "Road",
-        "aliases": "",
-        "length": "{{SI|1200|ft}}",
         "width": "",
         "pavement": "",
-        "location": "The [[Zhentil Keep/Common Quarter|Common Quarter]], [[Zhentil Keep]]",
-        "starts": "Entrance to the [[Zhentil Keep/Harbor District|Harbor District]]",
-        "ends": "[[Beggars' Way]]",
+        "location": "The Common Quarter, Zhentil Keep",
+        "starts": "Entrance to the Harbor District",
+        "ends": "Beggars Way",
         "built": "",
         "refs": "",
         "daggers": "",
@@ -23,8 +17,6 @@
         "roads": "yes",
         "bodies of water": "",
         "events": "",
-        "mainbody": "'''Canter Street''' was a road located in the city of [[Zhentil Keep]] during the mid–14{{th}} century [[DR]].",
-        "Location": "Canter Street was located in the [[Zhentil Keep/Common Quarter|Common Quarter]] in the southwest corner of Zhentil Keep. The road originated at the entrance to the [[Zhentil Keep/Harbor District|Harbor District]] and passed west through the city to end at the intersection of [[Beggars' Way]] and [[Fish Street (Zhentil Keep)|Fish Street]]. Canter street was crossed by [[Brigand Way]] and [[Dixon Street]].",
-        "Notable Locations": "A [[Zhentilar]] guardpost was located along Canter Street at the entrance to the Harbor District."
+        "mainbody": "Canter Street was a road located in the city of Zhentil Keep during the mid–14 century DR.\nCanter Street was located in the Common Quarter in the southwest corner of Zhentil Keep. The road originated at the entrance to the Harbor District and passed west through the city to end at the intersection of Beggars Way and Fish Street. Canter street was crossed by Brigand Way and Dixon Street.\nA Zhentilar guardpost was located along Canter Street at the entrance to the Harbor District."
     }
 }

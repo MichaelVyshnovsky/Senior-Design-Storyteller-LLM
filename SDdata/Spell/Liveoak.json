@@ -1,22 +1,14 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "edition_1": "2e"
-    },
     "document_data": {
-        "name": "Liveoak",
-        "level3e": "{{spell table|edition=3e|[[Druid]]|6|[[Elf domain|Elf]]|7}}",
-        "domains3e": "[[Elf domain|Elf]]",
-        "school3e": "[[Transmutation]]",
+        "domains3e": "Elf",
+        "school3e": "Transmutation",
         "type3e": "",
         "refs3e": "",
-        "school2e": "[[Enchantment]]",
-        "spheres2e": "[[Plant sphere|Plant]]",
-        "level2e": "{{spell table|edition=2e|[[Druid]]|6|[[Plant sphere|Plant]]|6}}",
+        "school2e": "Enchantment",
+        "spheres2e": "Plant",
+        "level2e": "",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''''Liveoak''''' was a [[transmutation]] or [[enchantment]] spell that turned one nearby [[oak]] tree into a [[treant]] guardian.",
-        "Effects": "The tree to be transformed had to be alive and healthy and preferably of Huge size. The older enchantment version of this spell could be cast on smaller oaks and produced correspondingly smaller treants. The tree had to be growing in an area sacred to the caster like a grove of trees, near an ancestral spring, or even a forest under the druid's protection. Outside of such an area, the tree had to be within 300 ft (91 m) of something the caster needed guarded or protected. Only one ''liveoak'' spell could be active at a time&mdash;the caster could not recast this spell until the previous one expired.\n\nWhen ''liveoak'' was cast, very brief conditions and instructions were given to the tree that determined when the treant became active and what it was supposed to do. The higher the level of the caster, the more complex the instructions could be. The tree would then remain dormant but watchful for as many days as the caster had levels, or until the triggering conditions were met, whichever came first. A successful ''[[dispel magic]]'' could turn the treant back into a tree and it would take root where it stood. If the caster dismissed the treant, it would return to its original location and then revert back into a tree.\n\nThe enchantment version of this spell allowed the tree or treant to be healed by a ''[[plant growth]]'' spell, repairing damage roughly equivalent to a ''[[cure moderate wounds]]''. Used in this way, ''plant growth'' did not increase the size of the tree nor boost its health beyond its original condition at the time of casting ''liveoak''.",
-        "Components": "Only verbal and somatic components were required to cast the transmutation version of this spell. The enchantment version also called for the use of the caster's [[holy symbol]]."
+        "mainbody": "Liveoak was a transmutation or enchantment spell that turned one nearby oak tree into a treant guardian.\nThe tree to be transformed had to be alive and healthy and preferably of Huge size. The older enchantment version of this spell could be cast on smaller oaks and produced correspondingly smaller treants. The tree had to be growing in an area sacred to the caster like a grove of trees, near an ancestral spring, or even a forest under the druids protection. Outside of such an area, the tree had to be within 300 ft (91 m) of something the caster needed guarded or protected. Only one liveoak spell could be active at a time&mdashthe caster could not recast this spell until the previous one expired.\nWhen liveoak was cast, very brief conditions and instructions were given to the tree that determined when the treant became active and what it was supposed to do. The higher the level of the caster, the more complex the instructions could be. The tree would then remain dormant but watchful for as many days as the caster had levels, or until the triggering conditions were met, whichever came first. A successful dispel magic could turn the treant back into a tree and it would take root where it stood. If the caster dismissed the treant, it would return to its original location and then revert back into a tree.\nThe enchantment version of this spell allowed the tree or treant to be healed by a plant growth spell, repairing damage roughly equivalent to a cure moderate wounds. Used in this way, plant growth did not increase the size of the tree nor boost its health beyond its original condition at the time of casting liveoak.\nOnly verbal and somatic components were required to cast the transmutation version of this spell. The enchantment version also called for the use of the casters holy symbol."
     }
 }

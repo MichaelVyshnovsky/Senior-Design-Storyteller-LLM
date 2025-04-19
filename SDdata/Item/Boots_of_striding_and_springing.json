@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "0.5|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Boots of striding and springing 5e.png",
-        "caption": "",
-        "name": "''Boots of Striding and Springing''",
-        "othernames": "''Boots of Striding''",
-        "nicknames": "",
-        "type": "[[Magic]]al boots",
-        "location": "[[Neverwinter]], [[Daggerford]], [[Sword Coast]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+1,+2,+3,+4,+5",
-        "value3e": "",
-        "weight3e": "{{SI|0.5|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -32,16 +9,13 @@
         "attunement5e": "yes",
         "school5e": "",
         "level5e": "",
-        "value5e": "200 [[gp]]",
-        "weight5e": "{{SI|4.40|lb|k}}",
+        "value5e": "200 gp",
+        "weight5e": "",
         "refs5e": "",
         "communication": "",
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Boots of striding and springing''''' were a pair of [[magic]]al boots that allowed the wearer to potentially become faster, and jump further.",
-        "Description": "''Boots of striding and springing'' were blessed by [[Shaundakul]] as a part of their creation. There existed many varieties of these boots as each priest and crafter created fairly unique versions of these boots.\n\nThe wearer of some of the boots had their movement speed increased to {{SI|5|ft}} per second, unless it was higher, in which case it did not change their speed.\n\nThose who wore these boots would not feel burdened by carrying a large amount of weight, including heavy [[armor]]. As well as this, the wearer could jump triple their standard distance.\n\nSome ''boots of striding'' did not affect the wearer's speed, but made the travel much easier and pleasant by improving wearer's constitution and making them more resilient.",
-        "History": "In [[1491 DR]], [[Tharden Rockseeker]], a [[dwarf]] explorer, wore such boots whilst camped in the [[Wave Echo Cave]]. He, however, was killed by [[Nezznar]], and his brother was taken hostage.",
-        "Notable Owners": "* [[Durissa Thornion]], a [[Chondathan]] [[illusionist]]\n* [[Minthara]], one of the [[True Soul]]s of [[the Absolute]].\n* [[Tharden Rockseeker]], an explorer of the Wave Echo Cave who died in 1491 DR."
+        "mainbody": "Boots of striding and springing were a pair of magical boots that allowed the wearer to potentially become faster, and jump further.\nBoots of striding and springing were blessed by Shaundakul as a part of their creation. There existed many varieties of these boots as each priest and crafter created fairly unique versions of these boots.\nThe wearer of some of the boots had their movement speed increased to  per second, unless it was higher, in which case it did not change their speed.\nThose who wore these boots would not feel burdened by carrying a large amount of weight, including heavy armor. As well as this, the wearer could jump triple their standard distance.\nSome boots of striding did not affect the wearers speed, but made the travel much easier and pleasant by improving wearers constitution and making them more resilient.\nIn 1491 DR, Tharden Rockseeker, a dwarf explorer, wore such boots whilst camped in the Wave Echo Cave. He, however, was killed by Nezznar, and his brother was taken hostage.\n* Durissa Thornion, a Chondathan illusionist\n* Minthara, one of the True Souls of the Absolute.\n* Tharden Rockseeker, an explorer of the Wave Echo Cave who died in 1491 DR."
     }
 }

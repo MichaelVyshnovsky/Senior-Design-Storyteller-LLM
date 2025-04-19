@@ -1,41 +1,17 @@
 {
     "document_data": {
-        "image": "The Maelstrom's Eye.jpg",
-        "caption": "[[Teldin Moore]] and the half-[[kender]] [[Gaeadrelle Goldring|Gaye]] battle [[scro]] boarders on the deck of the [[Gnome|gnomish]] [[spelljammer]] ''[[Perilous Halibut]]''.",
-        "code": "TSR8032",
-        "title": "The Maelstrom's Eye",
-        "author": "[[Roger E. Moore]]",
-        "editor": "",
-        "publisher": "[[TSR, Inc.]]",
-        "type": "Novel",
-        "languages": "English",
-        "reprinted": "",
-        "cover_artist": "[[Kelly Freas]]",
-        "inter_artist": "",
-        "cartography": "",
-        "realm year": "[[1361 DR|1361]] or [[1362 DR]]{{The Maelstrom's Eye date}}",
-        "setting": "[[Rock of Bral]]<br />[[Spiral]]<br />[[Ironpiece]]<br />[[Herdspace]]",
-        "edition1": "<!-- leave blank if there is only one -->",
+        "setting": "Rock of BralSpiralIronpieceHerdspace",
+        "edition1": "",
         "binding1": "Mass Market Paperback",
         "released1": "May 1992",
         "pages1": "320",
         "isbn10-1": "1-56076-344-2",
         "isbn13-1": "978-1560763444",
         "cite1": "",
-        "series": "[[Cloakmaster Cycle]]",
-        "preceded_by": "''[[Into the Void]]''",
-        "followed_by": "''[[The Radiant Dragon]]''",
+        "series": "Cloakmaster Cycle",
+        "preceded_by": "Into the Void",
+        "followed_by": "The Radiant Dragon",
         "source": "",
-        "mainbody": "'''''The Maelstrom's Eye''''' by [[Roger E. Moore]] is book three in the [[Cloakmaster Cycle]], a six-book series for the [[Spelljammer: AD&D Adventures in Space|Spelljammer]] campaign setting. It begins on the [[Rock of Bral]].\n\n{{Quote|From an [[Elf|elven]] admiral at the [[Rock of Bral]], [[Teldin Moore]] learns more about [[Cloak of the First Pilot|his cloak's]] past and its potential powers&mdash;but he doesn't count on being caught up in the hurricane of the [[second Unhuman War]]. Vengeful [[humanoid]]s rampage through the Known [[crystal sphere|Spheres]], and they're on Teldin's trail even as he hunts for the ultimate spacefaring ship of all: the mighty [[Spelljammer (spelljammer)|''Spelljammer'']]!}}",
-        "Synopsis": "The ''[[Probe]]'', now captained by [[Teldin Moore]]'s friend [[Aelfred Silverhorn]], docks at the [[Rock of Bral]] so that Teldin can follow a lead given him by the [[wizard]] [[Vallus Leafbower]] regarding his [[Cloak of the First Pilot|magic cloak]]. Vallus had suggested he visit the [[elves]] of [[Evermeet]], but Teldin thought that visiting the [[Elven Embassy (Bral)|elven embassy]] of [[Bral]] would suffice. On his way, he passes through the [[Greater Market]] of Bral and runs into an exuberant young girl named [[Gaeadrelle Goldring|Gaye]], who convinces him to visit a tavern to try some chicken cooked by [[halfling]]s. After the meal, Teldin is shocked to learn that Gaye is a [[kender]] and finds a way to excuse himself and enter the [[Elven Forest (Bral)|Elven Forest]].",
-        "Index": {
-            "Characters": ": {{P|[[Teldin Moore]]|1-14}} • {{P|[[Aelfred Silverhorn]]|1-4,6,8,10}} • {{P|[[Gaeadrelle Goldring|Gaye]]|8-14}}\n::{{Refonly}}: {{P|[[Graffin the Gray]]|1}} • {{P|[[Large Luigi]]|2}} • {{P|[[Julia]]|4,6}} • {{P|Halev|5,8}} • {{P|[[Andru]]|6}} • {{P|[[Gomja]]|3}} • {{P|[[Vallus Leafbower]]|7}}",
-            "Locations": ": {{P|[[Rock of Bral]]|1-5,9-14}} • {{P|[[Greater Market]]|2-3,9,12}} • {{P|[[wildspace]]|4-5,7-8,10-11,13}} • {{P|[[Bral]]|6}} • {{P|[[Burrows]]|9-10}} • {{P|[[Giff-Town]]|10}} • {{P|[[Lesser Market]]|10}} • {{P|[[Dracon Enclave]]|11}} • {{P|[[High City]]|12}}\n::{{Refonly}}: {{P|[[Toril]]|3}} • {{P|[[Elven Embassy (Bral)|Elven Embassy]]|3}} • {{P|[[Elven Forest (Bral)|Elven Forest]]|3,14}} • {{P|[[Starhaven]]|3}} • {{P|[[Spiral]]|17-19}} • {{P|[[Krynn]]|5-6,10,12-14}} • {{P|[[Ansalon]]|7}} • {{P|Mount Nevermind|7}} • {{P|[[Kozakura]]|11}} • {{P|Estwilde|12}} • {{P|Kalaman|12}} • {{P|[[Arena of Frun]]|13}} • {{P|[[Festival grounds (Bral)|festival grounds]]|13-14}} • {{P|Kendermore|13}}",
-            "Creatures": ": {{P|[[beholder]]|1-2}} • {{P|[[grommam]]|2}} • {{P|[[cyclops]]|2}} • {{P|[[gullion]]|3}} • {{P|[[human]]|3-5,8}} • {{P|[[giff]]|3,7}} • {{P|[[halfling]]|3,9-10}} • {{P|[[wild elf]]|3}} • {{P|[[hadozee]]|3}} • {{P|[[aperusa]]|4,11}} • {{P|[[Shou]]|6}} • {{P|[[xixchil]]|6}} • {{P|[[dwarf]]|8,11}} • {{P|[[dohwar]]|8}} • {{P|[[spacesea giant]]|8}} • {{P|[[dracon]]|11}} • {{P|[[lizardfolk]]|11,13}} • {{P|[[elf]]|3-4,7,10-14}} • {{P|[[kender]]|13-14}}\n::{{Refonly}}: {{P|[[goblin]]|2-3}} • {{P|[[illithid]]|2,7}} • {{P|[[gnome]]|3,7,11,13}} • {{P|[[ghost]]|3}} • {{P|[[reigar]]|7-8}} • {{P|[[neogi]]|7,10}} • {{P|[[Arcane (race)|the Arcane]]|7}} • {{P|[[troglodyte]]|11}} • {{P|[[saurial]]|11}} • {{P|[[sithp'k]]|11}} • {{P|[[wasag]]|11}} • {{P|[[devil]]|13}}",
-            "Spells": "::{{Refonly}}: {{P|''[[disintegrate]]''|1}}",
-            "Organizations": "::{{Refonly}}: {{P|[[Elven Imperial Navy|elven Imperial Fleet]]|3,7}}",
-            "Vessels": "::{{Refonly}}: {{P|''Drunken Kraken''|3}} • {{P|''[[Probe]]''|4-5,7,9-10}} • {{P|[[hammership]]|4}} • {{P|[[spelljammer]]|7}} • {{P|[[gnomish sidewheeler]]|13}}",
-            "Miscellaneous": ": {{P|[[Cloak of the First Pilot]]|1,5-8,10}} • {{P|[[crystal sphere]]|2}} • {{P|[[air envelope]]|11}}\n::{{Refonly}}: {{P|[[dagger]]|2}} • {{P|[[sagecourse]]|4}} • {{P|[[wizard]]|7}} • {{P|[[spelljamming helm]]|7}} • {{P|Paladine|8,11,13}} • {{P|Dark Queen|9}} • {{P|Reorx|13}}"
-        }
+        "mainbody": "The Maelstroms Eye by Roger E. Moore is book three in the Cloakmaster Cycle, a six-book series for the Spelljammer campaign setting. It begins on the Rock of Bral.\nThe Probe, now captained by Teldin Moores friend Aelfred Silverhorn, docks at the Rock of Bral so that Teldin can follow a lead given him by the wizard Vallus Leafbower regarding his magic cloak. Vallus had suggested he visit the elves of Evermeet, but Teldin thought that visiting the elven embassy of Bral would suffice. On his way, he passes through the Greater Market of Bral and runs into an exuberant young girl named Gaye, who convinces him to visit a tavern to try some chicken cooked by halflings. After the meal, Teldin is shocked to learn that Gaye is a kender and finds a way to excuse himself and enter the Elven Forest.\n  •  • \n  •  •  •  •  •  • \n  •  •  •  •  •  •  •  • \n  •  •  •  •  •  •  •  •  •  •  •  •  • \n  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  • \n  •  •  •  •  •  •  •  •  •  •  • \n  •  •  •  • \n  •  • \n  •  •  •  •  •  •"
     }
 }

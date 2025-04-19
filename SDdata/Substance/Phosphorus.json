@@ -1,33 +1,7 @@
 {
-    "template_data": {
-        "1|ounce|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Phosphorus",
-        "aliases": "",
-        "locations": "",
-        "discovered": "",
-        "date": "",
-        "creators": "",
-        "created": "",
-        "hisrefs": "",
-        "type": "Elemental substance",
-        "components": "",
-        "color": "",
-        "properties": "Solid",
-        "markings": "",
-        "phyrefs": "",
-        "uses": "[[Material component]], explosives",
-        "cost": "1 [[gp]] per {{SI|3|oz}}",
         "userefs": "",
         "items": "",
-        "mainbody": "'''Phosphorus''' was an alchemical substance commonly used as a [[material component]] for [[spell]]s.{{Cite organized play/LC/In the Hall of the Mountain Mage|5}}",
-        "Properties": "In its pure form, phosphorus was a white, waxy-looking substance had to be kept submerged away from air.",
-        "Availability": "In {{yearlinkConvert|3520|NY}}, the [[Elemental Store]] of [[Karsus Enclave]] sold pure elemental powdered phosphorus for 3 [[gp]] per {{SI|1|ounce|long=yes}}.\n\n[[Aurora's Emporium]] sold phosphorus for 1 gp per {{SI|3|oz}}, intended for use by [[priest]]s and [[wizard]]s as reagents.",
-        "Usages": {
-            "Spell Components": "* ''[[Conjure elemental]]'' required phosphorus to conjure a [[fire elemental]].\n* ''[[Conjure nature elemental]]'' required phosphorus.\n* ''[[Corpselight]]'' required a speck of phosphorus.\n* Most versions of ''[[dancing lights]]'' required a pinch of phosphorus.\n* ''[[Daltim's flaming fist]]'' required a pinch of phosphorus.\n* ''[[Darsson's fiery cube]]'' required a flake of phosphorus.\n* ''[[Dathchaunt's deathbolt]]'' could use a pinch of phosphorus.{{cite book/Secrets of the Magister|100-101}}\n* ''[[Fire shield]]'' required phosphorus for the warm shield.\n* ''[[Fire shroud]]'' required a small bit of phosphorus.\n* ''[[Firestaff]]'' required a piece of phosphorus.\n* ''[[Flame shield]]'' required a bit of phosphorous.\n* ''[[Flamespin]]'' required a pinch of phosphorus.\n* ''[[Flamsterd's flamestrike]]'' required a piece of phosphorus.\n* ''[[Flashburst]]'' could use a pinch of phosphorus.\n* ''[[Ghost light]]'' required a piece of phosphorus.\n* ''[[Reveal stone]]'' required a small piece of phosphorus. \n* ''[[Stealweb]]'' required a piece of phosphorous.\n* The [[divine magic|divine]] version of ''[[symbol]]'' required a bit of phosphorus.\n* ''[[Symbol of pain]]'' required a bit of phosphorus.\n* ''[[Teleport fireball]]'' required a portion of phosphorous.\n* ''[[Tulrun's tracer]]'' required a pinch of phosphorus.\n* The [[arcane magic|arcane]] version of ''[[wall of fire]]'' required a small bit of phosphorus."
-        }
+        "mainbody": "Phosphorus was an alchemical substance commonly used as a material component for spells.\nIn its pure form, phosphorus was a white, waxy-looking substance had to be kept submerged away from air.\nIn , the Elemental Store of Karsus Enclave sold pure elemental powdered phosphorus for 3 gp per .\nAuroras Emporium sold phosphorus for 1 gp per , intended for use by priests and wizards as reagents.\nThe Netherese use phosphorus in the production of explosives.\n* Conjure elemental required phosphorus to conjure a fire elemental.\n* Conjure nature elemental required phosphorus.\n* Corpselight required a speck of phosphorus.\n* Most versions of dancing lights required a pinch of phosphorus.\n* Daltims flaming fist required a pinch of phosphorus.\n* Darssons fiery cube required a flake of phosphorus.\n* Dathchaunts deathbolt could use a pinch of phosphorus.\n* Fire shield required phosphorus for the warm shield.\n* Fire shroud required a small bit of phosphorus.\n* Firestaff required a piece of phosphorus.\n* Flame shield required a bit of phosphorous.\n* Flamespin required a pinch of phosphorus.\n* Flamsterds flamestrike required a piece of phosphorus.\n* Flashburst could use a pinch of phosphorus.\n* Ghost light required a piece of phosphorus.\n* Reveal stone required a small piece of phosphorus. \n* Stealweb required a piece of phosphorous.\n* The divine version of symbol required a bit of phosphorus.\n* Symbol of pain required a bit of phosphorus.\n* Teleport fireball required a portion of phosphorous.\n* Tulruns tracer required a pinch of phosphorus.\n* The arcane version of wall of fire required a small bit of phosphorus."
     }
 }

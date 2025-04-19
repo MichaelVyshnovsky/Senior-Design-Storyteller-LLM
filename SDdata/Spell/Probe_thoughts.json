@@ -1,13 +1,8 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "name": "Probe thoughts",
-        "level": "{{spell table|edition=3e|[[Mind domain|Mind]]|6|[[Sorcerer]]|6|[[Wizard]]|6}}",
-        "descriptors": "{{Desc/mind-affecting}}",
-        "school": "[[Divination]]",
+        "descriptors": "",
+        "school": "Divination",
         "rules": "3rd",
-        "mainbody": "'''Probe thoughts''' allows the caster to probe all the subject’s memories and knowledge, ranging from memories deep below the surface to those still easily called to mind."
+        "mainbody": "Probe thoughts allows the caster to probe all the subject’s memories and knowledge, ranging from memories deep below the surface to those still easily called to mind."
     }
 }

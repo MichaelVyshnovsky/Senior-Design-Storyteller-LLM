@@ -1,26 +1,13 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "edition_1": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Crown of Glory",
-        "deity": "",
-        "inventor": "",
-        "school3e": "[[Evocation]]",
-        "domains3e": "[[Glory domain|Glory]], [[Herald domain|Herald]], [[Glory prestige domain|Prestige Glory]]",
-        "descriptors3e": "{{desc/good}}",
-        "level3e": "{{spell table|edition=3e|[[Glory domain|Glory]]|8|[[Herald domain|Herald]]|8|[[Glory prestige domain|Prestige Glory]]|8}}",
+        "level3e": "",
         "type3e": "",
-        "refs3e": "{{cite book/Defenders of the Faith|79}}",
+        "refs3e": "",
         "reversible2e": "",
-        "school2e": "[[Evocation]], [[Enchantment]]",
-        "spheres2e": "[[Sun sphere|Sun]], [[Charm sphere|charm]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|7}}",
+        "school2e": "Evocation, Enchantment",
+        "spheres2e": "Sun, charm",
+        "level2e": "",
         "refs2e": "",
-        "mainbody": "'''''Crown of glory''''' was an [[evocation]] spell unique to divine spellcasters with the [[Glory domain]], [[Herald domain]],",
-        "References": "{{refs}}\n{{Stub/Spell}}\n[[Category:Evocation spells]]\n[[Category:Enchantment spells]]\n[[Category:Cleric spells]]\ndxmf7kcv2y3fpayjrogvolikx7z1b8n"
+        "mainbody": "Crown of glory was an evocation spell unique to divine spellcasters with the Glory domain, Herald domain,\nCategoryEvocation spells\nCategoryEnchantment spells\nCategoryCleric spells\ndxmf7kcv2y3fpayjrogvolikx7z1b8n"
     }
 }

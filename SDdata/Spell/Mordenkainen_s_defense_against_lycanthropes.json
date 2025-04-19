@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Mordenkainen's Defense Against Lycanthropes",
-        "deity": "",
-        "inventor": "[[Mordenkainen]]",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Abjuration]]",
-        "spheres2e": "",
-        "level2e": "{{Spell table|edition=2e|[[Wizard]]|3}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Mordenkainen's defense against lycanthropes''''' was a [[spell]] that improved the chances of surviving an attack by [[lycanthrope]]s.",
-        "Effects": "The spell prevented the caster or a targeted creature from contracting [[lycanthropy]]. This was only successful if attacked after the spell was cast, as the spell did not offer this protection on a creature who was attacked before casting.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, the spell required a [[material component]], a [[moonstone]] with a value of at least 30 [[gp]]. It was crushed during casting."
+        "mainbody": "Mordenkainens defense against lycanthropes was a spell that improved the chances of surviving an attack by lycanthropes.\nThe spell prevented the caster or a targeted creature from contracting lycanthropy. This was only successful if attacked after the spell was cast, as the spell did not offer this protection on a creature who was attacked before casting. \nIn addition to verbal and somatic components, the spell required a material component, a moonstone with a value of at least 30 gp. It was crushed during casting."
     }
 }

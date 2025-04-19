@@ -1,20 +1,10 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Thrun Samallahan",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "Spider{{Cite dragon/128/Welcome to Waterdeep|14}}",
         "nicknames": "",
-        "home": "[[Sleeping Dragon]], [[Rassalantar]]",
+        "home": "Sleeping Dragon, Rassalantar",
         "formerhomes": "",
         "sex": "Male",
-        "race": "[[Tethyrian]] [[human]]{{Cite web enhancement/Environs of Waterdeep|10}}",
+        "race": "Tethyrian human",
         "occupation": "Innkeeper",
         "patron deity": "",
         "languages": "",
@@ -28,11 +18,9 @@
         "destroyed": "",
         "destroyednotes": "",
         "class": "",
-        "class35": "{{class table|edition=3e|[[Commoner]]|5}}",
+        "class35": "",
         "refs35": "",
-        "alignment": "[[Chaotic Good]]",
-        "mainbody": "'''Thrun Samallahan''' was a [[human]] innkeeper of the [[Sleeping Dragon]].",
-        "Description": "He was short with a muscular build.",
-        "Relationships": "Thrun the Spider was a close friend of [[Durnan]]"
+        "alignment": "Chaotic Good",
+        "mainbody": "Thrun Samallahan was a human innkeeper of the Sleeping Dragon.\nHe was short with a muscular build.\nThrun the Spider was a close friend of Durnan"
     }
 }

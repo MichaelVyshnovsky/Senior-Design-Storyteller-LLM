@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "30|ft|long": "yes",
-        "40|ft|long": "yes",
-        "5|ft|long": "yes",
-        "author": "Creighton Broadhurst",
-        "date": "2009-07-29",
-        "publisher": "[[Wizards of the Coast]]",
-        "url": "http://www.wizards.com/dnd/files/Elder_Evils_4E.pdf",
-        "title": "Elder Evils Conversion Statistics",
-        "archiveurl": "https://web.archive.org/web/20100107172957/http://www.wizards.com/dnd/files/Elder_Evils_4E.pdf",
-        "archivedate": "2010-01-07",
-        "pages": "10",
-        "accessdate": "2024-03-06"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Mind Shard of Pandorym",
-        "home": "Unknown plane",
-        "gender": "NA",
-        "race": "[[Elder evil]]",
-        "basicrefs": "",
-        "alignment35": "[[Lawful evil]]",
-        "challenge35": "",
-        "refs35": "",
-        "size4e": "Huge",
-        "origin4e": "Immortal",
-        "type4e": "Animate",
-        "subtype4e": "",
-        "alignment4e": "[[Evil]]",
-        "refs4e": "<ref>{{Cite web |author=Creighton Broadhurst|date=2009-07-29|publisher=[[Wizards of the Coast]]|url=http://www.wizards.com/dnd/files/Elder_Evils_4E.pdf |title=Elder Evils Conversion Statistics |archiveurl=https://web.archive.org/web/20100107172957/http://www.wizards.com/dnd/files/Elder_Evils_4E.pdf|archivedate = 2010-01-07 |pages=10 |accessdate=2024-03-06}}",
         "size3e": "Huge",
         "type3e": "Outsider",
         "subtype3e": "Evil, incorporeal, psionic",
@@ -37,22 +7,16 @@
         "challenge3e": "25",
         "refs3e": "",
         "movement": "Flying",
-        "vision": "[[Blindsight]], [[darkvision]], [[low-light vision]], [[truesight]]",
+        "vision": "Blindsight, darkvision, low-light vision, truesight",
         "diet": "",
         "lifespan": "",
         "location": "",
-        "intelligence": "{{Int|35}}",
-        "language": "[[Telepathy]]",
+        "intelligence": "",
+        "language": "Telepathy",
         "genrefs": "",
         "first": "",
         "histrefs": "",
         "nocat": "true",
-        "mainbody": "While the crystal prison that held Pandorym's mind was hidden and difficult to damage, it was possible for a shard of Pandorym's mind to escape if it was damaged. Even such a shard was exceedingly dangerous, although only one could exist at a time and it did not last more than 24 hours.\n\nSuch a mind shard was possessed of powerful psionic powers. It was immune to divine divination magic and under an effect akin to ''[[nondetection]]'', had [[telepathy]] out to {{SI|1000|ft}}, and healed any damage taken swiftly, amongst other strange and deadly abilities.",
-        "Appearance": "Pandorym's body was a faintly glowing sphere, the hue of some underground fungi, caught inside an agate-like, immense geode. The body was not actually a physical form, but a conduit to \"the incomprehensible reality of its home\", which had an effect on objects and creatures similar to that of a ''[[sphere of annihilation]]''. It was some {{SI|30|ft|long=yes}} in diameter.\n\nIts mind, though invisible, generated a heralding cloud of pure darkness. While trapped, its mind was defined by its crystalline prison: the intensity of the crystal's purple glow waxed and waned in a rhythmic pattern, sometimes even seeming to pull light towards it instead of radiating it; at its darkest, a malevolent purple-red glow could be seen deep within. It was at those times that the alien mind was at its most focused and aware. Outside of the prison, but without its body, Pandorym's mind appeared as a sphere of emptiness both lightless and incorporeal, some {{SI|40|ft|long=yes}} in diameter, around which vaporous tendrils formed and dispersed at random. There was no discernable front, back, or sides; the sphere slowly rotated on a tilted axis and seemed to drift even when moving at top speed. Chilling breezes arose within {{SI|5|ft|long=yes}} of it, just strong enough to make candles flicker but not strong enough to extinguish them. When Pandorym spoke telepathically, a dim glow radiated from the center of its mind.",
-        "Abilities": {
-            "Mind Shard of Pandorym": "{{Creature\n| image        = \n| caption      = \n| name         = Mind Shard of Pandorym\n| size4e       = Huge\n| origin4e     = Immortal\n| type4e       = Animate\n| subtype4e    = \n| alignment4e  = [[Evil]]\n| refs4e       = <ref>{{Cite web |author=Creighton Broadhurst|date=2009-07-29|publisher=[[Wizards of the Coast]]|url=http://www.wizards.com/dnd/files/Elder_Evils_4E.pdf |title=Elder Evils Conversion Statistics |archiveurl=https://web.archive.org/web/20100107172957/http://www.wizards.com/dnd/files/Elder_Evils_4E.pdf|archivedate = 2010-01-07 |pages=10 |accessdate=2024-03-06}}\n| size3e       = Huge\n| type3e       = Outsider\n| subtype3e    = Evil, incorporeal, psionic\n| alignment3e  = Lawful evil\n| challenge3e  = 25\n| refs3e       = \n| movement     = Flying\n| vision       = [[Blindsight]], [[darkvision]], [[low-light vision]], [[truesight]]\n| diet         = \n| lifespan     = \n| location     = \n| intelligence = {{Int|35}}\n| language     = [[Telepathy]]\n| genrefs      = \n| first        = \n| histrefs     = \n| nocat        = true\n}}\nWhile the crystal prison that held Pandorym's mind was hidden and difficult to damage, it was possible for a shard of Pandorym's mind to escape if it was damaged. Even such a shard was exceedingly dangerous, although only one could exist at a time and it did not last more than 24 hours.\n\nSuch a mind shard was possessed of powerful psionic powers. It was immune to divine divination magic and under an effect akin to ''[[nondetection]]'', had [[telepathy]] out to {{SI|1000|ft}}, and healed any damage taken swiftly, amongst other strange and deadly abilities."
-        },
-        "History": "It was lured to [[Faerûn]] and imprisoned by the ancient [[Imaskari]] because they wanted it as a deterrent, a doomsday weapon to deter the vengeful deities of the [[Mulan]] from destroying [[Imaskar]] after their arrival in {{yearlink|-2489}}. Since Pandorym was very dangerous to the Imaskari themselves, they kept its body and mind separated. Both were stored in the [[Celestial Nadir]], a demiplane created by the Imaskari,  with its psyche kept in the Imperial Weapon Cache within the [[Palace of the Purple Emperor]], which was shifted to this plane. In the end, Pandorym was never used, and [[Re]], [[Enlil]], and the other deities destroyed the Imaskari Empire in {{yearlink|-2488}}.\n\nAfter millennia of imprisonment, Pandorym's psyche partly freed itself in [[1370]], and began using the people of [[Vaelan]] to free itself. When [[Datharathi]] miners from [[Vaelen]] discovered a gate to the Celestial Nadir and mined the local [[plangent crystal|crystal]] directly from there, the patriarch of the Datharathi, [[Shaddon Datharathi]], used the pure Celestial Nadir crystal to build superior [[plangent|prosthetics]]. Those not only improved the abilities of those who had them, but allowed him to possess and control those who took the crystal. He soon found out that Pandorym could control him too.{{cite book/Darkvision|152-155|16}}\n\nPandorym also shifted the Palace of the Purple Emperor back into the world, onto its original foundation in the [[Raurin]] Desert. It also sent monsters after [[Ususi Manaallin]], a [[Deep Imaskari]] [[wizard]].{{cite book/Darkvision|43|5}} It sought to acquire her ''[[keystone]]'' in order to fully free itself.{{cite book/Darkvision|220|23}}\n\nDuring its imprisonment, Pandorym had foreseen the moment of its release, but also the possibility that [[Ususi Manaallin]] would prevent that. To impede this possibility, Pandorym reached forward through time and accidentally forged two competing timelines: one in which Ususi would be born and dread Pandorym's darkness, and another in which [[Qari Manaallin]], an alternate Ususi, would be born with the ability to pierce any darkness. Both timelines existed together, and in the end, the blind Qari gave her darkvision to Ususi so that she could defeat Pandorym.\n\nIn [[1374]], Pandorym attacked [[Deep Imaskar]] to take vengeance on the last descendants of ancient Imaskar, but, on [[Tarsakh 19]], Ususi Manaallin, [[Iahn Qoyllor]], [[Warian Datharathi]], [[Kiril Duskmourn]], and [[Prince Monolith]] succeeded in keeping Pandorym's body and mind imprisoned in the Celestial Nadir and the Palace of the Purple Emperor. Unfortunately, the sealing of Pandorym caused the death of most of the [[Datharathi]] senior members.",
-        "Rumors": "By the {{yearlinkName|1479}} there was a rumor that an evil of elder days haunted the corridors beneath [[Adama's Tooth]], and that a cloud of darkness hung over the monolith forevermore since the curse that slew all but a few of the Datharathi scions.{{cite book/Forgotten Realms Campaign Guide|119}}"
+        "mainbody": "While the crystal prison that held Pandoryms mind was hidden and difficult to damage, it was possible for a shard of Pandoryms mind to escape if it was damaged. Even such a shard was exceedingly dangerous, although only one could exist at a time and it did not last more than 24 hours.\nSuch a mind shard was possessed of powerful psionic powers. It was immune to divine divination magic and under an effect akin to nondetection, had telepathy out to , and healed any damage taken swiftly, amongst other strange and deadly abilities.\nIt was lured to Faerûn and imprisoned by the ancient Imaskari because they wanted it as a deterrent, a doomsday weapon to deter the vengeful deities of the Mulan from destroying Imaskar after their arrival in . Since Pandorym was very dangerous to the Imaskari themselves, they kept its body and mind separated. Both were stored in the Celestial Nadir, a demiplane created by the Imaskari,  with its psyche kept in the Imperial Weapon Cache within the Palace of the Purple Emperor, which was shifted to this plane. In the end, Pandorym was never used, and Re, Enlil, and the other deities destroyed the Imaskari Empire in .\nAfter millennia of imprisonment, Pandoryms psyche partly freed itself in 1370, and began using the people of Vaelan to free itself. When Datharathi miners from Vaelen discovered a gate to the Celestial Nadir and mined the local crystal directly from there, the patriarch of the Datharathi, Shaddon Datharathi, used the pure Celestial Nadir crystal to build superior prosthetics. Those not only improved the abilities of those who had them, but allowed him to possess and control those who took the crystal. He soon found out that Pandorym could control him too.\nPandorym also shifted the Palace of the Purple Emperor back into the world, onto its original foundation in the Raurin Desert. It also sent monsters after Ususi Manaallin, a Deep Imaskari wizard. It sought to acquire her keystone in order to fully free itself.\nDuring its imprisonment, Pandorym had foreseen the moment of its release, but also the possibility that Ususi Manaallin would prevent that. To impede this possibility, Pandorym reached forward through time and accidentally forged two competing timelines one in which Ususi would be born and dread Pandoryms darkness, and another in which Qari Manaallin, an alternate Ususi, would be born with the ability to pierce any darkness. Both timelines existed together, and in the end, the blind Qari gave her darkvision to Ususi so that she could defeat Pandorym.\nIn 1374, Pandorym attacked Deep Imaskar to take vengeance on the last descendants of ancient Imaskar, but, on Tarsakh 19, Ususi Manaallin, Iahn Qoyllor, Warian Datharathi, Kiril Duskmourn, and Prince Monolith succeeded in keeping Pandoryms body and mind imprisoned in the Celestial Nadir and the Palace of the Purple Emperor. Unfortunately, the sealing of Pandorym caused the death of most of the Datharathi senior members.\nBy the  there was a rumor that an evil of elder days haunted the corridors beneath Adamas Tooth, and that a cloud of darkness hung over the monolith forevermore since the curse that slew all but a few of the Datharathi scions."
     }
 }

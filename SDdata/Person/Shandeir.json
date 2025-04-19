@@ -1,22 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "File:Shandeir.png",
-        "caption": "",
-        "name": "Shandeir",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Elturel]], [[Western Heartlands]]",
-        "formerhomes": "",
-        "sex": "Female",
-        "race": "[[Human]]",
-        "ethnicity": "",
-        "occupation": "[[Sage]]<br />{{Former}} Adventurer",
         "age": "",
         "patron deity": "",
         "languages": "",
@@ -45,8 +28,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Chaotic good]]",
-        "class2e": "{{class table|edition=2e|[[Wizard]]|16}}",
+        "alignment2e": "Chaotic good",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
@@ -63,9 +46,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Shandeir''' was a [[wizard]] and adventurer based in [[Elturel]] in the [[Western Heartlands]] in the mid–14{{th}} century [[DR]] and considered one of the more important personalities of the city. Her long life extended well over a century, into the late 15{{th}} century, during which she was regarded as a wise and knowledgeable [[sage]].\n\n{{Quote|Shandier was one of the greatest wizards alive. There are secrets in [[Tome of Zariel|this book long]] forgotten, and still, she was no match for [[Hoondarrh]].|[[Helene]], speaking to her [[Asmodeus|patron]].{{Cite comic/A Darkened Wish 4|2}}}}",
-        "Description": "She was spirited and known to have a sharp tongue and salty humor. She was notorious for her pranks and riding a friendly [[copper dragon]] to travel from place to place.",
-        "Possessions": "Later in life, Shandeir briefly came into possession of the ''[[Tome of Zariel]]''.",
-        "History": "[[File:Shandeir, others.png|thumb|right|250px|Shandeir and her traveling companions ''en route'' to [[Elturel]].]]\nSome time before the {{YearlinkName|1492}},<ref group=\"note\">These events take place during or before [[1492 DR]], when the truth about [[the Companion]] was revealed. Shandeir traveled aboard the ''[[Hesperornis]]'' back to [[Elturel]], along with her companions [[Falaster Fisk]], Great Reader [[Sylvira Savikas]], and [[Jaskir Dawn]]. She was enlisted to help decipher the text of the ''Tome of Zariel'' to aid High Overseer [[Thavius Kreeg]]. Aboard the ship Shandeir met and took a liking to the spirited young wizard [[Helene]].{{Cite comic/A Darkened Wish 2|9-11}}\n\nThe ship met an unfortunate fate when it landed at [[Mintarn]], just before the isle and its docks were attacked by the [[red dragon]] [[Hoondarrh]].{{Cite comic/A Darkened Wish 2|12-14}}{{Cite comic/A Darkened Wish 3|6-7}} Her tome was recovered be Helene, who used it to communicate with a mysterious being and bargain for greater power."
+        "mainbody": "Shandeir was a wizard and adventurer based in Elturel in the Western Heartlands in the mid–14 century DR and considered one of the more important personalities of the city. Her long life extended well over a century, into the late 15 century, during which she was regarded as a wise and knowledgeable sage.\nShe was spirited and known to have a sharp tongue and salty humor. She was notorious for her pranks and riding a friendly copper dragon to travel from place to place.\nLater in life, Shandeir briefly came into possession of the Tome of Zariel.\nthumb|right|250px|Shandeir and her traveling companions en route to Elturel.\nSome time before the ,These events take place during or before 1492 DR, when the truth about the Companion was revealed. Shandeir traveled aboard the Hesperornis back to Elturel, along with her companions Falaster Fisk, Great Reader Sylvira Savikas, and Jaskir Dawn. She was enlisted to help decipher the text of the Tome of Zariel to aid High Overseer Thavius Kreeg. Aboard the ship Shandeir met and took a liking to the spirited young wizard Helene.\nThe ship met an unfortunate fate when it landed at Mintarn, just before the isle and its docks were attacked by the red dragon Hoondarrh. Her tome was recovered be Helene, who used it to communicate with a mysterious being and bargain for greater power."
     }
 }

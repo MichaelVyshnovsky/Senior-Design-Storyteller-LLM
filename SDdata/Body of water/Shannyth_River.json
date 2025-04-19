@@ -1,19 +1,8 @@
 {
-    "template_data": {
-        "10|mi|k|long": "yes",
-        "25|mi|k|long": "yes"
-    },
     "document_data": {
-        "image": "Moray.jpg",
-        "caption": "A map showing the Shannyth River in Moray.",
-        "name": "Shannyth River",
-        "aliases": "",
-        "type": "River",
-        "region": "[[Moray]], the [[Moonshae Isles]]",
-        "size": "{{SI|50|mi|k}} long",
         "depth": "",
-        "river source": "The [[Orcskull Mountains]]",
-        "river mouth": "The [[Sea of Moonshae]]",
+        "river source": "The Orcskull Mountains",
+        "river mouth": "The Sea of Moonshae",
         "tributaries": "",
         "tributary of": "",
         "georefs": "",
@@ -29,8 +18,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "The '''Shannyth River''' was the only named river found on the isle of [[Moray]] within the [[Moonshae Isles]].{{Cite dungeon/196/Backdrop: The Moonshae Isles}}",
-        "Geography": "The Shannyth River originated near the center of the [[Orcskull Mountains]] in southern Moray. If flowed north for {{SI|10|mi|k|long=yes}} before reaching the [[Breasal Marsh]]. The river formed the western border of the marsh for {{SI|25|mi|k|long=yes}} before joining [[Lac Dynnegall]] on its southern shore. The river exited the lake on its north shore, joined an unnamed river from the [[Trollclaw Range]], and continued to flow northeast before reaching the coast of the [[Sea of Moonshae]] near [[Caer Moray]].",
-        "Notable Locations": "* [[Horst]]\n* [[Dynnegall]]\n* Caer Moray"
+        "mainbody": "The Shannyth River was the only named river found on the isle of Moray within the Moonshae Isles.\nThe Shannyth River originated near the center of the Orcskull Mountains in southern Moray. If flowed north for  before reaching the Breasal Marsh. The river formed the western border of the marsh for  before joining Lac Dynnegall on its southern shore. The river exited the lake on its north shore, joined an unnamed river from the Trollclaw Range, and continued to flow northeast before reaching the coast of the Sea of Moonshae near Caer Moray.\n* Horst\n* Dynnegall\n* Caer Moray"
     }
 }

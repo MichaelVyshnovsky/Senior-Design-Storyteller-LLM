@@ -1,22 +1,5 @@
 {
-    "template_data": {
-        "10|miles|k|long": "yes",
-        "100|yards|long": "yes"
-    },
     "document_data": {
-        "image": "Aglarond-UEp97-Lazzaretti-Kauth.png",
-        "caption": "A map showing Shyvar Pass in eastern Aglarond.",
-        "name": "Shyvar Pass",
-        "alt spelling": "",
-        "aliases": "",
-        "type": "Mountain pass",
-        "region": "[[Tannath Mountains]], [[Unapproachable East]]",
-        "size": "",
-        "elevation": "",
-        "depth": "",
-        "capital": "",
-        "largest city": "",
-        "georefs": "{{cite book/Spellbound/Campaign Guide|57}}",
         "demonym": "",
         "population": "",
         "races": "",
@@ -92,9 +75,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "'''Shyvar Pass''' was a mountain pass across the [[Tannath Mountains]] on their eastern side.",
-        "Geography": "The pass lay east of [[Tannath Mountains]], varying its width from {{SI|10|miles|k|long=yes}} at points to {{SI|100|yards|long=yes}} at others. It separated [[Umbergoth]] and the rest of the Tannath.{{cite book/Unapproachable East|98}}",
-        "Defenses": "The eastern reaches were guarded by the [[Umber Marshes]] and the [[River Umber]] itself, and to the south lay the [[Watchwall]] and [[Glarondar]], making attacks from [[Thay]] a risky proposition. Most [[Aglarondan]]s did not take the threat of invasion from Shyvar Pass seriously, but the pass was still regularly patrolled by horsemen.\nBy {{yearlink|1372}}, the pass was watched by watchtowers instead. They mostly greeted caravans rather than fight at the time.",
-        "History": "As of {{yearlink|1202}}, [[Thay]]an forces had attempted to take Aglarond through several routes, including the pass itself{{cite book/The Grand History of the Realms|124}} several times over the centuries.\nIn {{yearlink|1365}}, a Thayan force was spotted by Aglarondan griffonriders, while a second Thayan force marched towards Emmech along another route. The Aglarondan forces, after pushing back the force in Shyvar Pass, went around and attacked the second force at [[Emmech]].{{cite book/The Grand History of the Realms|147}}{{cite book/Unapproachable East|105}} The [[Chosen of Mystra]] [[Alvaerele Tasundrym]] and the [[Red Wizard]] [[Selemvarr]] had a brief fight in the Pass.{{cite book/The Grand History of the Realms|148}}"
+        "mainbody": "Shyvar Pass was a mountain pass across the Tannath Mountains on their eastern side.\nThe pass lay east of Tannath Mountains, varying its width from  at points to  at others. It separated Umbergoth and the rest of the Tannath.\nThe eastern reaches were guarded by the Umber Marshes and the River Umber itself, and to the south lay the Watchwall and Glarondar, making attacks from Thay a risky proposition. Most Aglarondans did not take the threat of invasion from Shyvar Pass seriously, but the pass was still regularly patrolled by horsemen.\nBy , the pass was watched by watchtowers instead. They mostly greeted caravans rather than fight at the time.\nAs of , Thayan forces had attempted to take Aglarond through several routes, including the pass itself several times over the centuries.\nIn , a Thayan force was spotted by Aglarondan griffonriders, while a second Thayan force marched towards Emmech along another route. The Aglarondan forces, after pushing back the force in Shyvar Pass, went around and attacked the second force at Emmech. The Chosen of Mystra Alvaerele Tasundrym and the Red Wizard Selemvarr had a brief fight in the Pass."
     }
 }

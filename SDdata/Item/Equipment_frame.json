@@ -1,25 +1,6 @@
 {
-    "template_data": {
-        "5|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "EquipmentFrame.png",
-        "caption": "An empty equipment frame.",
-        "name": "Equipment Frame",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Tool",
-        "creator": "",
-        "location": "[[Toril]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "10 [[gold piece]]s",
-        "weight2e": "{{SI|5|lb|k}}",
-        "refs2e": "<ref name=\"AWRC-p8/>",
+        "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
         "itemlevel3e": "",
@@ -41,8 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Equipment frames''' were tools sometimes used by [[ranger]]s or woodsmen throughout [[Faerûn]].",
-        "Description": "Equipment frames were made from [[steel]] and weighed {{SI|5|lb|k|long=yes}}. Hooks were strategically placed about the frame for hanging gear.",
-        "History": "These items were used to effectively store and carry gear, evenly distributing their collective weight on the wearer's hips instead of shoulders, allowing them to conserve energy.\n\nEquipment frames were available for purchase through ''[[Aurora's Whole Realms Catalogue (in-universe)|Aurora's Whole Realms Catalogue]]'' for 10 [[gold piece]]s, and a weatherproof canvas fly could be had for an additional 3 [[silver piece]]s."
+        "mainbody": "Equipment frames were tools sometimes used by rangers or woodsmen throughout Faerûn.\nEquipment frames were made from steel and weighed . Hooks were strategically placed about the frame for hanging gear.\nThese items were used to effectively store and carry gear, evenly distributing their collective weight on the wearers hips instead of shoulders, allowing them to conserve energy.\nEquipment frames were available for purchase through Auroras Whole Realms Catalogue for 10 gold pieces, and a weatherproof canvas fly could be had for an additional 3 silver pieces."
     }
 }

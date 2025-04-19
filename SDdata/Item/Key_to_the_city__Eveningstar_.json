@@ -1,27 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Key to the City",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Key",
-        "creator": "",
-        "location": "[[Eveningstar]], [[Cormyr]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "[[Conjuration]]",
-        "casterlevel3e": "1",
-        "itemlevel3e": "1",
-        "value3e": "3000 [[gp]]",
-        "weight3e": "{{SI|0.01|lb}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -38,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Keys to the city''''' were [[gold]]en ceremonial [[key]]s bestowed by the [[Purple Dragons]] upon those who aided [[Eveningstar]]. Recipients were also made honorary Purple Dragon [[Blade (rank)|Blade]]s.",
-        "Powers": "Although ''keys to the city'' didn't open any doors, they were imbued with the highly specialized ''[[muster at Eveningstar]]'' spell, which could teleport their holder to Eveningstar's Market Square.",
-        "History": "As of the {{yearlinkName|1479}}, ''keys to the city'' were distributed by [[Dint]], a Purple Dragon [[Battlemaster]] stationed at Eveningstar."
+        "mainbody": "Keys to the city were golden ceremonial keys bestowed by the Purple Dragons upon those who aided Eveningstar. Recipients were also made honorary Purple Dragon Blades.\nAlthough keys to the city didnt open any doors, they were imbued with the highly specialized muster at Eveningstar spell, which could teleport their holder to Eveningstars Market Square.\nAs of the , keys to the city were distributed by Dint, a Purple Dragon Battlemaster stationed at Eveningstar."
     }
 }

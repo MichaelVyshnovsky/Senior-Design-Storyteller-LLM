@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Blaenther's Bowls",
-        "deity": "",
-        "inventor": "[[Blaenther Oldryn]]",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Summoning sphere|Summoning]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|5|[[Mystic]]|5|[[Shaman]]|5|[[Summoning sphere|Summoning]]|5}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,10 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Blaenther's bowls''''' was an [[alteration]] [[spell]] that created a dimensional link between two surfaces and allowed the caster to transport items between them.",
-        "Effects": "When cast, a [[priest]] created a connection between two facets or surfaces that were smaller in surface area than their body. When an item that could wholly fit upon the surface was placed on it, was uni-directionally transported to the other surface. This could be repeated for a number of different items, from the same surface to the other for the duration of the spell.\n\nIt was required that the priest touch both surfaces before the spell was cast and that the two surfaces began within 60 feet (18.3 meters) of the other.",
-        "Usage": "This spell was often used by priests, as it was by its [[Waukeen]]ar creator, to collect coins from a donation bowl at a church or temple.",
-        "Components": "In addition to [[verbal]] and [[somatic component]]s, this spell required a bit of [[gold]] dust, a spiral of particularly thin [[wire]], and a bit of [[ivory]] or bone with arrowheads attached at each end.",
-        "Notable Uses": "This spell was used in the [[House of the Moon]] temple to [[Selûne]] in [[Waterdeep]] to link the [[silver]] offering bowls in its various chapels to a counterpart in the cimeliarch (treasury). These uses of ''Blaenther's bowls'' were permanent and specially modified so that items could be sent back, but this was a secret known only to a few senior priests."
+        "mainbody": "Blaenthers bowls was an alteration spell that created a dimensional link between two surfaces and allowed the caster to transport items between them.\nWhen cast, a priest created a connection between two facets or surfaces that were smaller in surface area than their body. When an item that could wholly fit upon the surface was placed on it, was uni-directionally transported to the other surface. This could be repeated for a number of different items, from the same surface to the other for the duration of the spell.\nIt was required that the priest touch both surfaces before the spell was cast and that the two surfaces began within 60 feet (18.3 meters) of the other.\nThis spell was often used by priests, as it was by its Waukeenar creator, to collect coins from a donation bowl at a church or temple.\nIn addition to verbal and somatic components, this spell required a bit of gold dust, a spiral of particularly thin wire, and a bit of ivory or bone with arrowheads attached at each end.\nThis spell was used in the House of the Moon temple to Selûne in Waterdeep to link the silver offering bowls in its various chapels to a counterpart in the cimeliarch (treasury). These uses of Blaenthers bowls were permanent and specially modified so that items could be sent back, but this was a secret known only to a few senior priests."
     }
 }

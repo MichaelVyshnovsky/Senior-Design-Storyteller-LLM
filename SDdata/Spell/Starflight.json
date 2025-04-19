@@ -1,42 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Starflight",
-        "deity": "[[Mystra]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Elemental air sphere|Elemental air]], [[Travelers sphere|Travelers]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|3}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -44,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Starflight''''' was a [[Divine magic|divine]] [[alteration]] [[spell]] used by priests devoted to [[Mystra]], enabling them to bestow the gift of magical flight to others.\n\nThis was a cooperative spell requiring at least two priests of Mystra casting simultaneously.",
-        "Effects": "This spell granted magical flight to followers of Mystra. The gift could be granted to more followers if additional priests were casting the spell at the same time or donating magical energy. The flight attained by this spell was quick and easily maneuverable with mental commands. The effects lasted as long as stars shown in the night sky but could end suddenly if sufficient fog or cloud cover was present.",
-        "Components": "This spell required only [[verbal component|verbal]] and [[somatic component]]s to cast."
+        "mainbody": "Starflight was a divine alteration spell used by priests devoted to Mystra, enabling them to bestow the gift of magical flight to others.\nThis was a cooperative spell requiring at least two priests of Mystra casting simultaneously.\nThis spell granted magical flight to followers of Mystra. The gift could be granted to more followers if additional priests were casting the spell at the same time or donating magical energy. The flight attained by this spell was quick and easily maneuverable with mental commands. The effects lasted as long as stars shown in the night sky but could end suddenly if sufficient fog or cloud cover was present.\nThis spell required only verbal and somatic components to cast."
     }
 }

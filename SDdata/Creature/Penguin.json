@@ -1,26 +1,5 @@
 {
     "document_data": {
-        "image": "Penguin NWN.png",
-        "caption": "",
-        "name": "Penguin",
-        "othernames": "",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "Tiny",
-        "type3e": "[[Animal]]",
-        "subtype3e": "",
-        "alignment3e": "Always [[neutral]]",
-        "challenge3e": "{{Frac|1|6}}",
         "refs3e": "",
         "size2e": "",
         "alignment2e": "",
@@ -55,9 +34,6 @@
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Penguins''' were aquatic flightless birds. They lived on the floes of the [[Sea of Moving Ice]] and in [[Alpuk]].",
-        "Abilities": "An average penguin could hold its breath for about 6 minutes.",
-        "Ecology": "The penguins of the Sea of Moving Ice were preyed upon by [[polar bear]]s and [[walrus]]es. Those in [[Alpuk]] were hunted by [[Iulutiun]]s, who ate them raw and considered them among their favorite birds as food.{{Cite dragon/116/By Tooth and Claw|64}}",
-        "Trivia": "* ''[[Rod of wonder|Rods of wonder]]'' had a small chance of turning their users into penguins.\n* Countess [[Zaranda Star]]'s bedspread in [[Morninggold Keep]] was embroidered with [[elk]]s and penguins."
+        "mainbody": "Penguins were aquatic flightless birds. They lived on the floes of the Sea of Moving Ice and in Alpuk.\nAn average penguin could hold its breath for about 6 minutes.\nThe penguins of the Sea of Moving Ice were preyed upon by polar bears and walruses. Those in Alpuk were hunted by Iulutiuns, who ate them raw and considered them among their favorite birds as food.\n* Rods of wonder had a small chance of turning their users into penguins.\n* Countess Zaranda Stars bedspread in Morninggold Keep was embroidered with elks and penguins."
     }
 }

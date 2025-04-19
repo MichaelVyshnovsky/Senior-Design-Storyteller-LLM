@@ -1,35 +1,6 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Greater Stone Shape",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "{{Desc/earth}}",
-        "level3e": "{{Spell table|edition=3e|[[Cleric]]|5|[[Druid]]|5|[[Sorcerer]]|7|[[Wizard]]|7}}",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,9 +14,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Greater stone shape''''' was a [[transmutation]] [[spell]] that worked like the ''[[stone shape]]'' spell.",
-        "Effects": "As mentioned above, ''greater stone shape'' worked like ''stone shape''. Both There was one difference, which was the scale of the amount of affected stone: ''greater stone shape'' affected about ten times the volume of stone.",
-        "Components": "''Greater stone shape'' worked like ''stone shape'' and required [[somatic]], [[verbal]], and [[material component]]s in the form of soft clay in at least roughly the form in which the caster wanted to form the stone into. The stone to be modified was touched by the caster while the verbal component was recited.",
-        "History": "A kind of [[magic]]al [[staff]] called a ''[[staff of stone]]'' was invented some time before [[1372 DR]] in the [[Underdark]]. It required among others the ''greater stone shape'' spell to craft it."
+        "mainbody": "Greater stone shape was a transmutation spell that worked like the stone shape spell.\nAs mentioned above, greater stone shape worked like stone shape. Both There was one difference, which was the scale of the amount of affected stone greater stone shape affected about ten times the volume of stone.\nGreater stone shape worked like stone shape and required somatic, verbal, and material components in the form of soft clay in at least roughly the form in which the caster wanted to form the stone into. The stone to be modified was touched by the caster while the verbal component was recited.\nA kind of magical staff called a staff of stone was invented some time before 1372 DR in the Underdark. It required among others the greater stone shape spell to craft it."
     }
 }

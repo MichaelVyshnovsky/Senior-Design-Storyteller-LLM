@@ -1,21 +1,5 @@
 {
     "document_data": {
-        "type": "Settlement",
-        "name": "Frostrill",
-        "image": "[[File:Druarwood.jpg|250px]]",
-        "caption": "''Map of Druarwood, including the location of Frostrill.''",
-        "aliases": "",
-        "capital": "",
-        "area": "[[Druarwood]], [[Silver Marches]]",
-        "size": "Thorp",
-        "ruler1": "[[Unimak Giantskull]]",
-        "ruleryear1": "1372",
-        "ruler3": "",
-        "ruleryear3": "",
-        "rulertype": "",
-        "government": "Druid-governed",
-        "languages": "",
-        "races": "{{Percentage table|[[Arctic dwarf|Arctic dwarves]]|100|}}",
         "reckoning": "",
         "population1": "44",
         "popyear1": "1372",
@@ -25,7 +9,7 @@
         "popyear3": "",
         "imports": "",
         "exports": "",
-        "alignment": "{{Alignment grid|off|off|off|off|off|on|off|off|off}}",
+        "alignment": "",
         "allegiance": "",
         "usethe": "",
         "useon": "",
@@ -33,10 +17,6 @@
         "locations": "yes",
         "organizations": "yes",
         "settlements": "",
-        "mainbody": "'''Frostrill''' was a small thorp located in the [[Druarwood]], north of the [[Moonwood]] and the [[Cold Wood]], in the [[Silver Marches]].",
-        "Inhabitants": {
-            "Notable inhabitants": "* [[Aniva Icefoot]]\n* [[Kolmak|Kolmak the Broken]]\n* [[Nunima Orc-eater]]"
-        },
-        "References": "{{refs}}\n{{Stub-geo}}\n[[Category:Thorps]]\n[[Category:Settlements]]\n[[Category:Arctic dwarven locations]]\n[[Category:Dwarven locations]]\n[[Category:Locations in the Druarwood]]\n[[Category:Locations in Luruar]]\n[[Category:Locations in Northwest Faerûn]]\n[[Category:Locations in Faerûn]]\n[[Category:Locations on Toril]]\n5wehaaf5dzx2z2towq6lmhq0von99jf"
+        "mainbody": "Frostrill was a small thorp located in the Druarwood, north of the Moonwood and the Cold Wood, in the Silver Marches.\nThe thorps inhabitants were exclusively arctic dwarves and were led by Unimak Giantskull around 1372 DR. The dwarves strenuously defended their hunting territory from numerous enemies. Arctic dwarves tamed a small number of dire wolverines, which were used for hunting. They kept themselves as much as possible away from the giants in the area and they had no scruples about attacking orcs with incredible violence. \n* Aniva Icefoot\n* Kolmak the Broken\n* Nunima Orc-eater\nCategoryThorps\nCategorySettlements\nCategoryArctic dwarven locations\nCategoryDwarven locations\nCategoryLocations in the Druarwood\nCategoryLocations in Luruar\nCategoryLocations in Northwest Faerûn\nCategoryLocations in Faerûn\nCategoryLocations on Toril\n5wehaaf5dzx2z2towq6lmhq0von99jf"
     }
 }

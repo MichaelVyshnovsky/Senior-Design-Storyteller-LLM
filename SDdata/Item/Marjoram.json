@@ -1,23 +1,5 @@
 {
-    "template_data": {
-        "1|ounce|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Marjoram",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Herb]]",
-        "creator": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "5 [[cp]] per {{SI|1|ounce}}",
         "weight2e": "",
         "refs2e": "",
         "school3e": "",
@@ -25,7 +7,7 @@
         "itemlevel3e": "",
         "value3e": "5 cp",
         "weight3e": "",
-        "refs3e": "<ref>",
+        "refs3e": "",
         "level4e": "",
         "value4e": "",
         "weight4e": "",
@@ -41,9 +23,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Marjoram''' was a common type of [[herb]] seasoning found in the Realms.",
-        "Availability": "* [[Aurora's Whole Realms Catalogue (in-universe)|''Aurora's Whole Realms Catalogue'']] sold majoram at a price of 5 [[copper piece]]s per {{SI|1|ounce|long=yes}} in its \"Aurora's Larder\" section.\n* Marjoram could be found for sale in the markets of [[Waterdeep]].",
-        "Notable Marjoram Products": "* Powdered marjoram was commonly used in the [[elf|elven]] dish [[Vaervren]] to season vegetables.{{Cite web/theedverse/2023-02-22 - Vaervren}}",
-        "Notable Users": "* [[The Painted Boat]], a restaurant in the [[Dragon Reach]] off the southern edge of the [[Ravens Bluff/Harbor District|Harbor District]] of [[Ravens Bluff]], commonly kept majoram stocked in the kitchen's drying rack.<ref>{{Cite polyhedron/79/The Living City: The Painted Boat Restaurant|15}}"
+        "mainbody": "Marjoram was a common type of herb seasoning found in the Realms.\n* Auroras Whole Realms Catalogue sold majoram at a price of 5 copper pieces per  in its \"Auroras Larder\" section.\n* Marjoram could be found for sale in the markets of Waterdeep.\n* Powdered marjoram was commonly used in the elven dish Vaervren to season vegetables.\n* The Painted Boat, a restaurant in the Dragon Reach off the southern edge of the Harbor District of Ravens Bluff, commonly kept majoram stocked in the kitchens drying rack."
     }
 }

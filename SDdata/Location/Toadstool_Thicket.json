@@ -1,16 +1,5 @@
 {
-    "template_data": {
-        "15|mi|k|long": "yes"
-    },
     "document_data": {
-        "image": "Sarifal.jpg",
-        "caption": "A map showing Toadstool Thicket south of Aspenheight.",
-        "name": "Toadstool Thicket",
-        "alt spelling": "",
-        "aliases": "",
-        "type": "Forest",
-        "region": "[[Gwynneth]], the [[Moonshae Isles]]",
-        "size": "{{SI|15|mi|k}} long",
         "elevation": "",
         "depth": "",
         "capital": "",
@@ -29,8 +18,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "'''Toadstool Thicket''' was a small forest located on the island of [[Gwynneth]] within the [[Moonshae Isles]].{{Cite interactive atlas}}{{Cite dungeon/196/Backdrop: The Moonshae Isles}}",
-        "Geography": "Toadstool Thicket sat in the shadow of the southern slopes of [[Aspenheight]] in western Gwynneth just west of the [[Aspenheight Gap]]. Two tributaries of an unnamed river cut through the forest on their way down from the mountain to the [[Strait of the Leviathan]]. Toadstool Thicket was approximately {{SI|15|mi|k|long=yes}} long.",
-        "Notable Locations": "A single [[Moonwell]] was found within the forest."
+        "mainbody": "Toadstool Thicket was a small forest located on the island of Gwynneth within the Moonshae Isles.\nToadstool Thicket sat in the shadow of the southern slopes of Aspenheight in western Gwynneth just west of the Aspenheight Gap. Two tributaries of an unnamed river cut through the forest on their way down from the mountain to the Strait of the Leviathan. Toadstool Thicket was approximately  long.\nA single Moonwell was found within the forest."
     }
 }

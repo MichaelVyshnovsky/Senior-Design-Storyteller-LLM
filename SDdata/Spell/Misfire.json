@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Misfire",
-        "othernames": "",
-        "deity": "[[Beshaba]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Necromancy]], [[Enchantment]]",
-        "spheres2e": "[[Combat sphere|Combat]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|4}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -45,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Misfire''''' was a [[Divine magic|divine]] [[spell]] used by priests devoted to [[Beshaba]].",
-        "Effects": "The victim of this spell was unable to hit any selected primary target of any ranged or missile attack. This spell lasted for several days unless it was nullified by a ''[[dispel magic]]'' or ''[[remove curse]]'' spell.",
-        "Components": "This spell required only [[somatic component]]s to cast."
+        "mainbody": "Misfire was a divine spell used by priests devoted to Beshaba.\nThe victim of this spell was unable to hit any selected primary target of any ranged or missile attack. This spell lasted for several days unless it was nullified by a dispel magic or remove curse spell.\nThis spell required only somatic components to cast."
     }
 }

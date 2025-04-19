@@ -1,21 +1,13 @@
 {
-    "template_data": {
-        "1|mile|k|long": "yes"
-    },
     "document_data": {
-        "image": "Kirgard.png",
-        "caption": "",
-        "name": "Kirgard",
-        "aliases": "Kirgard Manor",
-        "type": "Fort, {{Former}} Manor",
         "architecture": "",
         "floors": "3",
-        "location": "[[Firedrake Shores]], [[Tethyr]]<br/>{{Former}} [[Kirgrove]]",
+        "location": "Firedrake Shores, Tethyr Kirgrove",
         "built": "",
         "destroyed": "",
-        "owner": "Count [[Jordy Gallum]] and Countess-Consort [[Shaern Gallum]]",
+        "owner": "Count Jordy Gallum and Countess-Consort Shaern Gallum",
         "staff": "",
-        "occupants": "Garrison from [[Mosstone]] and [[Port Kir]]",
+        "occupants": "Garrison from Mosstone and Port Kir",
         "services": "",
         "worship": "",
         "basicrefs": "",
@@ -37,10 +29,6 @@
         "inhabitants": "",
         "locations": "",
         "organizations": "",
-        "mainbody": "'''Kirgard''' was a fort used by forces of [[Mosstone]] and [[Port Kir]] as well as the residence of the Count of [[County Greenshores]] in [[Tethyr]].",
-        "Location": "Kirgard was built almost exactly between Port Kir and Mosstone off the patch of the [[Trade Way]] called [[Druid's Drive]]. The fort stood atop a seashore cliff, only a short {{SI|1|mile|k|long=yes}} ride towards the [[Firedrake Bay]], to the west from Druid's Drive.",
-        "Structure": "The fort consisted of the main manor and several adjacent buildings. The manor was the home and seat of power of the ruler of the County Greenshores. In the late 14{{th}} century DR, Count [[Jordy Gallum]] and Countess-Consort [[Shaern Gallum]] were in charge of the region. The adjacent buildings were barracks where the garrison was stationed.",
-        "Interior": "The manor had at least three floors. Before the manor was completely restored and the Count took residence there, the garrison was stationed inside it, rather than in the adjacent buildings. As of the {{YearlinkName|1368}}, the garrison still occupied Kirgard manor. Soldiers slept on thin pallets, shoulder to shoulder in its limited space. Officers were given rooms on the third floor with more space and privacy, the rooms that once were taken by the manor's servants.",
-        "History": "Originally, Kirgard was the manor of the baron of [[Kirgrove]] until the {{YearlinkName|1347}}, the end of the reign of King [[Alemander IV]]. With the fall of the barony, Kirgard was ransacked and ruined during the period of time in Tethyr known as the [[Black Days]]. Following the [[Reclamation Wars]], the old barony became part of the County Greenshores, and Kirgard was rebuilt and transformed into a small fort that held garrisons from the towns of Mosstone and Port Kir."
+        "mainbody": "Kirgard was a fort used by forces of Mosstone and Port Kir as well as the residence of the Count of County Greenshores in Tethyr.\nKirgard was built almost exactly between Port Kir and Mosstone off the patch of the Trade Way called Druids Drive. The fort stood atop a seashore cliff, only a short  ride towards the Firedrake Bay, to the west from Druids Drive.\nThe fort consisted of the main manor and several adjacent buildings. The manor was the home and seat of power of the ruler of the County Greenshores. In the late 14 century DR, Count Jordy Gallum and Countess-Consort Shaern Gallum were in charge of the region. The adjacent buildings were barracks where the garrison was stationed.\nThe manor had at least three floors. Before the manor was completely restored and the Count took residence there, the garrison was stationed inside it, rather than in the adjacent buildings. As of the , the garrison still occupied Kirgard manor. Soldiers slept on thin pallets, shoulder to shoulder in its limited space. Officers were given rooms on the third floor with more space and privacy, the rooms that once were taken by the manors servants.\nOriginally, Kirgard was the manor of the baron of Kirgrove until the , the end of the reign of King Alemander IV. With the fall of the barony, Kirgard was ransacked and ruined during the period of time in Tethyr known as the Black Days. Following the Reclamation Wars, the old barony became part of the County Greenshores, and Kirgard was rebuilt and transformed into a small fort that held garrisons from the towns of Mosstone and Port Kir."
     }
 }

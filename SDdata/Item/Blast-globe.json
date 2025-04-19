@@ -1,38 +1,16 @@
 {
-    "template_data": {
-        "0.3|pounds|long": "yes",
-        "50|feet|long": "yes",
-        "120|feet|long": "yes",
-        "80|feet|long": "yes",
-        "200|feet|long": "yes",
-        "400|feet|long": "yes",
-        "30|feet|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Blast-globe''",
-        "othernames": "Blast globes",
-        "nicknames": "",
-        "type": "Orb",
-        "creator": "[[Zhentarim]]",
-        "location": "[[Zhentil Keep]]",
-        "basicrefs": "{{cite book/Secrets of the Magister|114-115}}",
         "school2e": "",
         "level2e": "",
-        "value2e": "10,000 [[gp]]",
+        "value2e": "10,000 gp",
         "weight2e": "",
-        "refs2e": "{{cite book/Secrets of the Magister|114-115}}",
-        "school3e": "Moderate [[evocation]]",
-        "casterlevel3e": "11{{th}}",
-        "itemlevel3e": "11{{th}}",
-        "value3e": "8,000 [[gp]]",
-        "weight3e": "{{SI|0.3|pounds|long=yes}}",
+        "refs2e": "",
+        "school3e": "Moderate evocation",
+        "casterlevel3e": "11",
+        "itemlevel3e": "11",
+        "value3e": "8,000 gp",
+        "weight3e": "",
         "refs3e": "",
-        "mainbody": "'''''Blast-globes''''', also known as '''''blast globes''''', were a favored magical weapon of the [[Zhentarim]]. Their destructive potential was awesome.",
-        "Description": "Each ''blast-globe'' resembled an irregular cluster of a dozen or so glassy spheres. Once activated, the spheres separated and began to hover and spin lazily around each other, glowing with a white, faint inner radiance; past one minute, they instead pulsed with bright, inner fire.\n\nThe version best known after {{yearlink|1372}} carried a slight inner fire even when not yet activated.",
-        "Powers": "''Blastglobes'' were not magically reinforced; their magic dissipated if even one sphere was cracked. They remained inert until activated with a command word; on activation, they took a minute to power up. If smashed during this minute, they unleashed a ''[[chain lightning]]'' effect. After the minute had elapsed, their full powers manifested, and they could be thrown or otherwise smashed. As soon as they made contact with a solid, they dealt out an absolutely devastating explosion to all within {{SI|50|feet|long=yes}}; the explosion extended all the way to {{SI|120|feet|long=yes}} with only mildly reduced force, and flinging all living creatures within the area up to {{SI|80|feet|long=yes}} away. As a small mercy, the roiling air around them cushioned any further damage on impact. Any unattended item within the area was about as likely to be blown to cinders as it was if it had been ''[[disintegrate]]d''; attended objects were still very, very likely to be crushed by the force of the explosion. People within {{SI|200|feet|long=yes}} were at risk of deafening for around five minutes, maybe eight at the most.\n\nThe version best known after {{yearlink|1372}} was more stable, without any risk of ''[[chain lightning]]'' during activation, and they could be directed to strike instead of hurled; they possessed a reach of {{SI|400|feet|long=yes}} on their own power. They were also much more mild in their destructive effects, dealing mostly fire damage as a powerful ''[[fireball]]'', and a small amount of sonic damage. Targets inside the area were also likely to get deafened for around seven minutes. They were also flung up to {{SI|30|feet|long=yes}} away from the epicenter. A key difference, however, was that the globe reformed at the user's hand; it would be ready to attack again the next day.",
-        "History": "''Blast-globes'' were initially devised by [[Isilger Mountrant]], who shared the secret with [[Alvagaerus Firthond]], who was in turn mind-reamed and slain by [[Sememmon]], who shared the secret with other high-ranking members of the [[Zhentarim]]. As of the early 1370s, fewer than 100 ''blast-globes'' were thought to exist; the secrets of their construction were left only with [[Manshoon]], Sememmon, and maybe other high-ranking members of the Zhentarim: many of the latter perished in the fighting between [[Shandril Shessair]] and the [[beholders]] of [[Zhentil Keep]]{{Cite web/Presenting...Seven Millennia of Realms Fiction}}",
-        "Construction": "Isilger Mountrant's original version employed a number of spells, including ''[[disintegrate]]'' and ''[[fireball]]''. The version most common after {{yearlink|1372}} employed instead ''[[fireball]]'' and ''[[shout]]'' only."
+        "mainbody": "Blast-globes, also known as blast globes, were a favored magical weapon of the Zhentarim. Their destructive potential was awesome.\nEach blast-globe resembled an irregular cluster of a dozen or so glassy spheres. Once activated, the spheres separated and began to hover and spin lazily around each other, glowing with a white, faint inner radiance past one minute, they instead pulsed with bright, inner fire.\nThe version best known after  carried a slight inner fire even when not yet activated.\nBlastglobes were not magically reinforced their magic dissipated if even one sphere was cracked. They remained inert until activated with a command word on activation, they took a minute to power up. If smashed during this minute, they unleashed a chain lightning effect. After the minute had elapsed, their full powers manifested, and they could be thrown or otherwise smashed. As soon as they made contact with a solid, they dealt out an absolutely devastating explosion to all within  the explosion extended all the way to  with only mildly reduced force, and flinging all living creatures within the area up to  away. As a small mercy, the roiling air around them cushioned any further damage on impact. Any unattended item within the area was about as likely to be blown to cinders as it was if it had been disintegrated attended objects were still very, very likely to be crushed by the force of the explosion. People within  were at risk of deafening for around five minutes, maybe eight at the most.\nThe version best known after  was more stable, without any risk of chain lightning during activation, and they could be directed to strike instead of hurled they possessed a reach of  on their own power. They were also much more mild in their destructive effects, dealing mostly fire damage as a powerful fireball, and a small amount of sonic damage. Targets inside the area were also likely to get deafened for around seven minutes. They were also flung up to  away from the epicenter. A key difference, however, was that the globe reformed at the users hand it would be ready to attack again the next day.\nBlast-globes were initially devised by Isilger Mountrant, who shared the secret with Alvagaerus Firthond, who was in turn mind-reamed and slain by Sememmon, who shared the secret with other high-ranking members of the Zhentarim. As of the early 1370s, fewer than 100 blast-globes were thought to exist the secrets of their construction were left only with Manshoon, Sememmon, and maybe other high-ranking members of the Zhentarim many of the latter perished in the fighting between Shandril Shessair and the beholders of Zhentil Keep\nIsilger Mountrants original version employed a number of spells, including disintegrate and fireball. The version most common after  employed instead fireball and shout only."
     }
 }

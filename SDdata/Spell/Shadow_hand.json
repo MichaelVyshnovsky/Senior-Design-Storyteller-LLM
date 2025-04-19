@@ -1,41 +1,17 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "edition_1": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Shadow Hand",
-        "inventor": "[[Jume]]",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Illusion]] ([[Shadow magic|Shadow]])",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Sorcerer]]|5|[[Wizard]]|5}}",
         "refs3e": "",
         "reversible2e": "",
-        "school2e": "[[Illusion/Phantasm]], [[Shadow magic|Shadow]]",
+        "school2e": "Illusion/Phantasm, Shadow",
         "spheres2e": "",
-        "level2e": "{{Spell table|edition=2e|[[Wizard]]|5}}",
+        "level2e": "",
         "type2e": "",
-        "refs2e": "<ref>",
+        "refs2e": "",
         "reversible1e": "",
         "school1e": "",
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Shadow hand''''' was an [[illusion]] [[spell]] that would conjure a translucent, billowy hand that obeyed the will of the caster.",
-        "Effects": "The shadowy hand had to stay within a number of yards of the caster, depending on their level. \n\n''Shadow hand'' was capable of providing cover, much like ''[[Bigby's interposing hand]]'', as well as capable of carrying materials, much like ''[[Tenser's floating disk]]''.\n\nIt had no effect on the [[undead]], [[golem]]s, [[construct]]s, creatures from the [[outer planes]], and primitive non-vertebrates (such as [[ooze]]s, [[slime]]s, and non-intelligent plants).",
-        "History": "This spell was created by the wizard named [[Jume]] several hundred years before the [[Time of Troubles]] and recorded in her personal [[spellbook]], the [[Arcanabula of Jume]]."
+        "mainbody": "Shadow hand was an illusion spell that would conjure a translucent, billowy hand that obeyed the will of the caster.\nThe shadowy hand had to stay within a number of yards of the caster, depending on their level. \nShadow hand was capable of providing cover, much like Bigbys interposing hand, as well as capable of carrying materials, much like Tensers floating disk.\nIt had no effect on the undead, golems, constructs, creatures from the outer planes, and primitive non-vertebrates (such as oozes, slimes, and non-intelligent plants).\nThis spell was created by the wizard named Jume several hundred years before the Time of Troubles and recorded in her personal spellbook, the Arcanabula of Jume."
     }
 }

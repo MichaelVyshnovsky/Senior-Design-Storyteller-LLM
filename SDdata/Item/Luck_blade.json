@@ -1,31 +1,9 @@
 {
-    "template_data": {
-        "rca": "right"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Luck Blade''",
-        "othernames": "''Luckblade''",
-        "nicknames": "",
-        "type": "[[Sword]]",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "[[Evocation]]",
-        "casterlevel3e": "17",
-        "itemlevel3e": "",
-        "value3e": "{{Split table|rca=right|0 ''[[wish]]es''|22,060 [[gp]]|1 ''wish''|62,360 gp|2 ''wishes''|102,660 gp|3 ''wishes''|142,960 gp}}",
         "weight3e": "",
         "refs3e": "",
-        "level4e": "3+ (Normal)<br />15+ (Greater)",
-        "value4e": "'''Normal:'''<br />{{Plain table|Lvl 3|680 [[gp]]|Lvl 8|3,400 [[gp]]|Lvl 13|17,000 [[gp]]|Lvl 18|85,000 [[gp]]|Lvl 23|425,000 [[gp]]|Lvl 28|2,125,000 [[gp]]}}'''Greater:'''<br />{{Plain table|Lvl 15|25,000 [[gp]]|Lvl 20|125,000 [[gp]]|Lvl 25|625,000 [[gp]]|Lvl 30|3,125,000 [[gp]]}}",
+        "level4e": "3+ (Normal)15+ (Greater)",
+        "value4e": "NormalGreater",
         "weight4e": "",
         "refs4e": "",
         "rarity5e": "Legendary",
@@ -39,9 +17,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "A '''''luck blade''''' (or '''''luckblade''''') was a powerful [[magic item|magical]] [[sword]] that increased its wearer's luck by granting a number of benefits.",
-        "Description": "Any type of sword could be enchanted to become a ''luck blade''. However, [[shortsword]]s were more common in the pre-[[Spellplague]] period.",
-        "Powers": "The wielder of a ''luck blade'' enjoyed a number of magical benefits. The blade itself was enchanted to improve its accuracy in combat and conferred an improved resistance to general detrimental effects and misfortunes, magical or otherwise.\n\nAdditionally, the blade granted its wielder with the power of good fortune, giving them the ability to turn one immediate bad turn of events into a good one, once per day. The sword regained this ability in the following dawn.\n\nFinally, a ''luck blade'' was granted with up to three uses of the ''[[wish]]'' [[spell]], each of which could also be cast only once a day. Once all the uses were expended, the sword could no longer provide new ''wishes'', but all its other enhancements remained.",
-        "Notable Owners": "*[[Artus Cimber]] had a ''luck blade'' in his possessions in the late 1480s [[DR]], during travels with [[Dragonbait]] in [[Chult]].{{Template:Cite game/Tales from Candlekeep: Tomb of Annihilation}}\n*[[Meredin Sandyfoot]], the [[hin]] guildmaster from the [[Rock of Bral]] in the 14{{th}} century DR.{{Cite card/AD&D Trading Cards/1993|82|Meredin's Short Sword +1 Luck Blade}}\n*[[Mirt]] the Moneylender owned a ''luck blade''. By the {{YearlinkName|1492}},{{Waterdeep-time}} it had no ''wishes'' remaining.\n*[[Dove Falconhand]] and her sister [[Storm Silverhand]], carried an enchanted ''+1 [[longsword]] [[luckblade]]'' each in the 14{{th}} century DR.{{Cite card/AD&D Trading Cards/1993|207|Storm Silverhand}}"
+        "mainbody": "A luck blade (or luckblade) was a powerful magical sword that increased its wearers luck by granting a number of benefits.\nAny type of sword could be enchanted to become a luck blade. However, shortswords were more common in the pre-Spellplague period.\nThe wielder of a luck blade enjoyed a number of magical benefits. The blade itself was enchanted to improve its accuracy in combat and conferred an improved resistance to general detrimental effects and misfortunes, magical or otherwise.\nAdditionally, the blade granted its wielder with the power of good fortune, giving them the ability to turn one immediate bad turn of events into a good one, once per day. The sword regained this ability in the following dawn.\nFinally, a luck blade was granted with up to three uses of the wish spell, each of which could also be cast only once a day. Once all the uses were expended, the sword could no longer provide new wishes, but all its other enhancements remained.\n*Artus Cimber had a luck blade in his possessions in the late 1480s DR, during travels with Dragonbait in Chult.\n*Meredin Sandyfoot, the hin guildmaster from the Rock of Bral in the 14 century DR.\n*Mirt the Moneylender owned a luck blade. By the , it had no wishes remaining.\n*Dove Falconhand and her sister Storm Silverhand, carried an enchanted +1 longsword luckblade each in the 14 century DR."
     }
 }

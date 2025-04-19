@@ -1,35 +1,7 @@
 {
-    "template_data": {
-        "12'|'\"|long": "yes"
-    },
     "document_data": {
-        "image": "Protein polymorph.png",
-        "caption": "",
-        "name": "Protein Polymorph",
-        "othernames": "",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "",
-        "type3e": "",
-        "subtype3e": "",
-        "alignment3e": "",
-        "challenge3e": "",
-        "refs3e": "",
-        "size2e": "Large",
-        "alignment2e": "[[Chaotic neutral]]",
-        "refs2e": "{{Cite book| author = | title = Dungeons of Despair| short_story = | date = | editor = Christopher Perkins| publisher = Wizards of the Coast LLC| ISBN = 0-7869-1444-0| pages = 64| chapter = }}",
         "size1e": "Large",
-        "alignment1e": "[[Chaotic neutral]]",
+        "alignment1e": "Chaotic neutral",
         "refs1e": "",
         "patron deity": "",
         "movement": "",
@@ -43,7 +15,7 @@
         "climate": "Temperate to sub-tropical",
         "terrain": "Any land",
         "genrefs": "",
-        "height": "{{SI|12'|'\"|long=yes}}",
+        "height": "",
         "length": "",
         "wingspan": "",
         "weight": "",
@@ -58,12 +30,6 @@
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Protein polymorphs''' were a rare, amorphous form of life that were each made up of a colony of cellular organisms.",
-        "Abilities": "These creatures were capable of assuming the form of almost any animate creature and inanimate object. A protein polymorph could even transform itself into several forms, such as a dozen [[kobold]]s, which were all connected via a near-invisible cord of protoplasm. However, they could not accurately copy facial expressions or replicate the sound of speech. Their forms would possess the equivalent strength of the creature or item they imitated, but would not possess their unique abilities.",
-        "Combat": "Protein polymorphs generally tried to bludgeon, enfold, and crush their prey.",
-        "History": "In the early 14{{th}} century [[DR]], a protein polymorph was terrorizing the [[pony]] fields of [[Tyrluk]].{{Cite dungeon/14/Masqueraider}}",
-        "Ecology": {
-            "Diet": "Protein polymorphs were carnivorous creatures, known to eat living beings regardless of their type and size."
-        }
+        "mainbody": "Protein polymorphs were a rare, amorphous form of life that were each made up of a colony of cellular organisms.\nThese creatures were capable of assuming the form of almost any animate creature and inanimate object. A protein polymorph could even transform itself into several forms, such as a dozen kobolds, which were all connected via a near-invisible cord of protoplasm. However, they could not accurately copy facial expressions or replicate the sound of speech. Their forms would possess the equivalent strength of the creature or item they imitated, but would not possess their unique abilities.\nProtein polymorphs generally tried to bludgeon, enfold, and crush their prey.\nIn the early 14 century DR, a protein polymorph was terrorizing the pony fields of Tyrluk.\nProtein polymorphs were carnivorous creatures, known to eat living beings regardless of their type and size."
     }
 }

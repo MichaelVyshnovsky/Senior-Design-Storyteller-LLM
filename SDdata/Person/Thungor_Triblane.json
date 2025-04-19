@@ -1,23 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Thungor Triblane",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Tilverton]], [[Cormyr]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "gender": "",
-        "race": "[[Gnome]]",
-        "ethnicity": "",
-        "occupation": "Innkeeper<br/>{{Former}} adventurer",
         "age": "",
         "patron deity": "",
         "languages": "",
@@ -46,8 +28,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Lawful neutral]]",
-        "class2e": "{{class table|edition=2e|[[Wizard]] ([[Illusionist]])|3}}",
+        "alignment2e": "Lawful neutral",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
@@ -64,10 +46,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Thungor Triblane''' was an [[gnome|gnomish]] [[illusionist]] [[Adventurer|ex-adventurer]] and the innkeeper of the [[Windlord's Rest]] in [[Tilverton]] in the 14{{th}} century [[DR]].",
-        "Personality": "Thungor was generally honest and forthright with others, but was willing to conspire a bit with [[Filani]] to extract maximum information and money from strangers. He could be a touch intimidated by people taller than him.",
-        "Activities": "Thungor managed the [[Windlord's Rest]], an inn of good quality in the town. He treated his guests like adopted children, giving them paternal advice, scoldings, pocket money, and other affectionate treats. Although some were driven away by this behavious, the majority of guests adored it, and made sure to return to the Windlord whenever possible.",
-        "Relationship": "Thungor was a good friend of the sage [[Filani]], who he had adventured with previously.",
-        "History": "Thungor adventured with the [[wizard]] Filani for a time, eventually retiring to Tilverton and setting up the Windlord's Rest inn by [[1358 DR]]. By the 1360s DR, his business proved too popular and he moved his premises to a larger location nearby, causing much confusion to returning customers who instead found the [[Jonstyl's Banner]]."
+        "mainbody": "Thungor Triblane was an gnomish illusionist ex-adventurer and the innkeeper of the Windlords Rest in Tilverton in the 14 century DR.\nThungor was generally honest and forthright with others, but was willing to conspire a bit with Filani to extract maximum information and money from strangers. He could be a touch intimidated by people taller than him.\nThungor managed the Windlords Rest, an inn of good quality in the town. He treated his guests like adopted children, giving them paternal advice, scoldings, pocket money, and other affectionate treats. Although some were driven away by this behavious, the majority of guests adored it, and made sure to return to the Windlord whenever possible.\nThungor was a good friend of the sage Filani, who he had adventured with previously.\nThungor adventured with the wizard Filani for a time, eventually retiring to Tilverton and setting up the Windlords Rest inn by 1358 DR. By the 1360s DR, his business proved too popular and he moved his premises to a larger location nearby, causing much confusion to returning customers who instead found the Jonstyls Banner."
     }
 }

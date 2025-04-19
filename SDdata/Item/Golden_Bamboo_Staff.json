@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "4|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Golden Bamboo Staff''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Staff]]",
-        "creator": "",
-        "location": "[[Akkaido]], [[Wa]]<br/>[[Westgate]], [[Dragon Coast]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+2",
-        "value3e": "59,067 [[gp]]",
-        "weight3e": "{{SI|4|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Golden Bamboo Staves''''' were [[enchanted]] [[staves]] used by Masters of the the [[Golden Fox Martial Arts School]] in the [[Wa]]an city of [[Akkaido]].",
-        "Powers": "These weapons possessed a ''+2'' enchantment and almost certainly caused their targets to become stunned for 18 seconds upon a successful strike.",
-        "History": "''Golden Bamboo Staves'' came from the island of [[Tsukishima]] in the eastern land of [[Kara-Tur]]. Each member of the Golden Fox Martial Arts School received one of these staves as they reached the status of a Master. Several years before the {{YearlinkName|1374}},  the Golden Fox clashed with the infamous criminal organization - the [[Yakuza]]. Subsequently, the Yakuza prevailed, and the martial arts academy was disbanded. To ensure their enemies did not reestablish the Golden Fox School, members of the Yakuza tracked down and destroyed seven ''Golden Bamboo Staves''. However, it was unknown how many weapons survived the conflict, but one of them left Wa and was exported to the [[Dragon Coast]] in 1374 DR. The staff was in the inventory of [[Okuzo's Imports]], a shop located in the [[Harbor Loop]] of [[Westgate]]."
+        "mainbody": "Golden Bamboo Staves were enchanted staves used by Masters of the the Golden Fox Martial Arts School in the Waan city of Akkaido.\nThese weapons possessed a +2 enchantment and almost certainly caused their targets to become stunned for 18 seconds upon a successful strike.\nGolden Bamboo Staves came from the island of Tsukishima in the eastern land of Kara-Tur. Each member of the Golden Fox Martial Arts School received one of these staves as they reached the status of a Master. Several years before the ,  the Golden Fox clashed with the infamous criminal organization - the Yakuza. Subsequently, the Yakuza prevailed, and the martial arts academy was disbanded. To ensure their enemies did not reestablish the Golden Fox School, members of the Yakuza tracked down and destroyed seven Golden Bamboo Staves. However, it was unknown how many weapons survived the conflict, but one of them left Wa and was exported to the Dragon Coast in 1374 DR. The staff was in the inventory of Okuzos Imports, a shop located in the Harbor Loop of Westgate."
     }
 }

@@ -1,23 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Huntsman's Call",
-        "deity": "[[Zaltec]]",
-        "domains": "",
-        "inventor": "",
-        "reversible2e": "",
-        "school2e": "[[Hishna]], [[Conjuration/Summoning|Summoning]]",
-        "spheres2e": "[[Hishna]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|1|[[Hishnashaper]]|1|[[Jaguar Knight]]|1}}",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''''Huntsman's call''''' was a spell unique to [[Maztica]]. The spell allowed a caster to summon game.",
-        "Effects": "The spell summoned birds and mammals to the location of the caster. The spell had a very large area of effect, 1,000 yards (914 meters). While the spell summoned animals to the caster, the animals natural caution remained and would flee at the first sign of a threat or the sight of humanoids.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, the spell required a [[material component]], a whistle carved from the claw of a [[jaguar]]."
+        "mainbody": "Huntsmans call was a spell unique to Maztica. The spell allowed a caster to summon game.\nThe spell summoned birds and mammals to the location of the caster. The spell had a very large area of effect, 1,000 yards (914 meters). While the spell summoned animals to the caster, the animals natural caution remained and would flee at the first sign of a threat or the sight of humanoids.\nIn addition to verbal and somatic components, the spell required a material component, a whistle carved from the claw of a jaguar."
     }
 }

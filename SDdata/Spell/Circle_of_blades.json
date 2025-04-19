@@ -1,36 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "3'|'\"|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Circle of Blades",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Evocation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Battleguard]]|6|[[Cleric]]|6|[[Paladin]]|6|[[Stormlord]]|6}}",
         "refs3e": "",
         "reversible2e": "",
         "school2e": "",
@@ -43,7 +12,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Circle of blades''''' was an [[evocation]] [[spell]] used by [[cleric]]s and [[paladin]]s of [[Helm]] and [[Tempus]].",
-        "Effects": "After being evoked, the ''circle of blades''' effects lasted for 12 seconds. The spell created a wall of moving and grinding razor-sharp blades that swirled {{SI|3'|'\"|long=yes}} around the caster. This deadly barrier could not be moved, securely trapping the caster within, while any creature who tried to move past or attack the caster received deadly shredding by the swirling blades."
+        "mainbody": "Circle of blades was an evocation spell used by clerics and paladins of Helm and Tempus.\nAfter being evoked, the circle of blades effects lasted for 12 seconds. The spell created a wall of moving and grinding razor-sharp blades that swirled  around the caster. This deadly barrier could not be moved, securely trapping the caster within, while any creature who tried to move past or attack the caster received deadly shredding by the swirling blades."
     }
 }

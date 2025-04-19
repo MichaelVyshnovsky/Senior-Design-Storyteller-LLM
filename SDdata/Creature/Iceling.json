@@ -1,33 +1,13 @@
 {
-    "template_data": {
-        "2": "21:53, August 30, 2020 (UTC)",
-        "50|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Iceling",
-        "othernames": "",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "Small",
-        "origin4e": "[[Fey]]",
-        "type4e": "[[Humanoid]]",
-        "subtype4e": "Cold",
-        "alignment4e": "[[Unaligned]]",
-        "refs4e": "{{Cite dungeon/162/Winter of the Witch|58-59}}",
         "patron deity": "",
         "movement": "",
-        "vision": "[[Low-light vision]]",
+        "vision": "Low-light vision",
         "activecycle": "",
         "diet": "",
         "lifespan": "",
-        "location": "[[Feywild]]",
-        "language": "[[Common]]",
+        "location": "Feywild",
+        "language": "Common",
         "climate": "Cold",
         "terrain": "",
         "genrefs": "",
@@ -42,14 +22,9 @@
         "build": "",
         "distinctions": "",
         "appearrefs": "",
-        "first": "[[Dungeon magazine 162|''Dungeon'' #162]]",
+        "first": "Dungeon #162",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Icelings''' were small [[winter fey|winter]] [[fey]] that lived in frozen regions of the [[Feywild]].",
-        "Description": "Icelings resembled [[quickling]]s, but were covered in ice and possessed a pair of wings that resembled thin ice.",
-        "Abilities": "Icelings were very fast, and were never affected by difficult terrain caused by ice or frozen ground. They could also teleport up to {{SI|50|ft|long=yes}}. They were immune to damage inflicted by the cold.\n\nIcelings possessed [[low-light vision]] and were known to speak the [[Common]] language.",
-        "Personality": "Icelings were mischievous but cruel, and their sense of humor was better described as dark and dangerous.",
-        "Combat": "Icelings preferred to rely on their speed in combat, using their claws in hit-and-run attacks.",
-        "Society": "Icelings commonly served more powerful winter fey as servants and spies.\n\nSome rumors claimed that all icelings served the [[archfey]] [[Koliada]], the Winter Witch, even those who ostensibly served other fey."
+        "mainbody": "Icelings were small winter fey that lived in frozen regions of the Feywild.\nIcelings resembled quicklings, but were covered in ice and possessed a pair of wings that resembled thin ice.\nIcelings were very fast, and were never affected by difficult terrain caused by ice or frozen ground. They could also teleport up to . They were immune to damage inflicted by the cold.\nIcelings possessed low-light vision and were known to speak the Common language.\nIcelings were mischievous but cruel, and their sense of humor was better described as dark and dangerous.\nIcelings preferred to rely on their speed in combat, using their claws in hit-and-run attacks.\nIcelings commonly served more powerful winter fey as servants and spies.\nSome rumors claimed that all icelings served the archfey Koliada, the Winter Witch, even those who ostensibly served other fey."
     }
 }

@@ -1,21 +1,5 @@
 {
     "document_data": {
-        "image": "[[File:Breath of Auril.png]]",
-        "caption": "",
-        "name": "''Breath of Auril''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[item enchantment|Enchanted]] [[dagger]]",
-        "creator": "",
-        "location": "[[Wyrm's Tooth]], [[Icewind Dale]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "+3",
-        "value2e": "15,000 [[gp]]",
-        "weight2e": "{{SI|1|lbs}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -38,7 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Breath of Auril''''' was a unique [[item enchantment|enchanted]] and [[cursed]] [[dagger]] owned by the [[Auril]] worshiper [[Kontik]] in the late-13{{th}} century [[DR]].",
-        "Powers": "Whoever wielded the ''Breath of Auril'' became slightly more intelligent, though less charismatic. They also became nearly invulnerable to damage brought on by cold, but were more vulnerable to harm by [[fire]]. Finally, whoever wielded this weapon was capable of casting the [[spell]] ''[[cone of cold]]'' twice per day.\n\nThis weapon also had a ''+3 enchantment.''"
+        "mainbody": "Breath of Auril was a unique enchanted and cursed dagger owned by the Auril worshiper Kontik in the late-13 century DR.\nWhoever wielded the Breath of Auril became slightly more intelligent, though less charismatic. They also became nearly invulnerable to damage brought on by cold, but were more vulnerable to harm by fire. Finally, whoever wielded this weapon was capable of casting the spell cone of cold twice per day.\nThis weapon also had a +3 enchantment."
     }
 }

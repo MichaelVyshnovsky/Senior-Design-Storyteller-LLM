@@ -1,23 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Ildur Arntar",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Nighthunt]], [[Delimbiyr Vale]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "gender": "Masculine",
-        "race": "[[Human]]",
-        "ethnicity": "",
-        "occupation": "Innkeeper, {{former}} [[adventurer]]",
         "age": "",
         "patron deity": "",
         "languages": "",
@@ -33,7 +15,7 @@
         "destroyednotes": "",
         "daterefs": "",
         "parents": "",
-        "spouses": "[[Shaltana]]",
+        "spouses": "Shaltana",
         "siblings": "Four daughters",
         "children": "",
         "familyrefs": "",
@@ -46,8 +28,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Neutral good]]",
-        "class2e": "{{class table|edition=2e|[[Fighter]]|16}}",
+        "alignment2e": "Neutral good",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
@@ -64,8 +46,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Ildur Arntar''' was a [[human]] [[fighter]] and innkeeper of the [[Nighthunt]] inn, which stood on the [[Dawn Pass Trail]] a day's ride east of [[Loudwater]] in the [[Delimbiyr Vale]], in the mid-to-late 14{{th}} century [[DR]].",
-        "History": "Ildur was once a [[ranger]] and [[adventurer]] until he lost his divine powers; he would never speak of how and why.\n\nBy the mid-1360s DR, he had settled down with his family as the proprietor of the Nighthunt. He was still there as of [[1370 DR]].",
-        "Relationships": "He and his wife, [[Shaltana]] had four daughters, two of whom were restless and keen to become sword-wielding adventurers themselves. He was also aided at the inn by six former adventuring companions. They were famous for their prowess in battle, at least in the area.\n\nIldur was both an ally of the [[Harpers]] and an enemy of the [[Zhentarim]]. In particular, he was a vocal critic of their grip on [[Llorkh]], so some feared the Zhents would target him for it."
+        "mainbody": "Ildur Arntar was a human fighter and innkeeper of the Nighthunt inn, which stood on the Dawn Pass Trail a days ride east of Loudwater in the Delimbiyr Vale, in the mid-to-late 14 century DR.\nIldur was once a ranger and adventurer until he lost his divine powers he would never speak of how and why.\nBy the mid-1360s DR, he had settled down with his family as the proprietor of the Nighthunt. He was still there as of 1370 DR.\nHe and his wife, Shaltana had four daughters, two of whom were restless and keen to become sword-wielding adventurers themselves. He was also aided at the inn by six former adventuring companions. They were famous for their prowess in battle, at least in the area.\nIldur was both an ally of the Harpers and an enemy of the Zhentarim. In particular, he was a vocal critic of their grip on Llorkh, so some feared the Zhents would target him for it."
     }
 }

@@ -1,27 +1,7 @@
 {
-    "template_data": {
-        "20|ft|adj": "long",
-        "200|ft|adj": "long"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Shrine of Fangs",
-        "alt spelling": "",
-        "aliases": "",
-        "type": "Shrine",
-        "region": "[[Snout of Omgar]], [[Chult]]",
-        "size": "",
-        "elevation": "",
-        "depth": "",
-        "capital": "",
-        "largest city": "",
-        "georefs": "",
-        "demonym": "",
-        "population": "",
-        "races": "''[[Awaken]]ed'' [[snake]]s<br />{{Former}} [[Yuan-ti]]",
         "languages": "",
-        "religion": "[[Merrshaulk]]",
+        "religion": "Merrshaulk",
         "alignment": "",
         "socrefs": "",
         "imports": "",
@@ -92,10 +72,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "The '''Shrine of Fangs''' was an ancient shrine to [[Merrshaulk]] found on the [[Snout of Omgar]].",
-        "Description": "The entrance to the shrine resembled the open maw of a [[cobra]], whose head had been carved into the side of a mountain. Two enormous fangs flanked the entryway, and its forked tongue formed {{SIAdj|20|ft|adj=long}} stone ramp that granted access within.\n\nThe cobra's mouth gave way to a {{SIAdj|200|ft|adj=long}} tunnel that spiraled down within the mountain. At the end was an ovular chamber that housed the temple proper. The walls of the Shrine of Fangs were frescoed with scenes of serpentine swarms, once adorned with numerous valuable [[gem]]stones. A sacrificial altar stood in the rear of the temple.",
-        "Geography": "The Shrine of Fangs was situated within a mountain in the central reaches of the Snout of Omgar.",
-        "History": "Long before the [[Second Sundering]], the shrine was inhabited by [[yuan-ti]] faithful of [[Merrshaulk]]. Many of their kind turned away from the [[evil]] god of snakes, and turned to the succor of [[Dendar]] the Night Serpent.",
-        "Inhabitants": "* [[Ssura]] and [[Y'zleth]], two ''[[awaken]]ed'' poisonous snakes that remained faithful to Merrshaulk."
+        "mainbody": "The Shrine of Fangs was an ancient shrine to Merrshaulk found on the Snout of Omgar.\nThe entrance to the shrine resembled the open maw of a cobra, whose head had been carved into the side of a mountain. Two enormous fangs flanked the entryway, and its forked tongue formed  stone ramp that granted access within.\nThe cobras mouth gave way to a  tunnel that spiraled down within the mountain. At the end was an ovular chamber that housed the temple proper. The walls of the Shrine of Fangs were frescoed with scenes of serpentine swarms, once adorned with numerous valuable gemstones. A sacrificial altar stood in the rear of the temple.\nThe Shrine of Fangs was situated within a mountain in the central reaches of the Snout of Omgar.\nLong before the Second Sundering, the shrine was inhabited by yuan-ti faithful of Merrshaulk. Many of their kind turned away from the evil god of snakes, and turned to the succor of Dendar the Night Serpent.\n* Ssura and Yzleth, two awakened poisonous snakes that remained faithful to Merrshaulk."
     }
 }

@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Featherfoot",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "True",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Ninja]]|2|}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''False tracks''''' was a common [[alteration]] spell used by [[ninja]]s to move stealthily. The spell was very rare outside [[Kara-Tur]].",
-        "Effects": "When cast, the spell allowed a ninja to move in silence. The ninja would not leave any footprints, and did not trigger traps that operated using a pressure or weight trigger. The spell required the ninja to move slowly; if they moved faster than walking pace, the spell was broken. The reverse of this spell was ''[[leadfoot]]''.",
-        "Components": "The spell required only a [[somatic component|somatic]] component, [[kuji-kiri]] hand gestures."
+        "mainbody": "False tracks was a common alteration spell used by ninjas to move stealthily. The spell was very rare outside Kara-Tur.\nWhen cast, the spell allowed a ninja to move in silence. The ninja would not leave any footprints, and did not trigger traps that operated using a pressure or weight trigger. The spell required the ninja to move slowly if they moved faster than walking pace, the spell was broken. The reverse of this spell was leadfoot. \nThe spell required only a somatic component, kuji-kiri hand gestures."
     }
 }

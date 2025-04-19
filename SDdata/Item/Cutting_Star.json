@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "3|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Cutting Star.gif",
-        "caption": "",
-        "name": "''Cutting Star''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Kukri]]",
-        "location": "[[Neverwinter]], [[Sword Coast]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+2",
-        "value3e": "",
-        "weight3e": "{{SI|3|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Cutting Stars''''' were enchanted [[kukri]] that originated from beyond the civilized regions of [[Toril]].",
-        "Powers": "These exotic blades possessed a ''+2'' enchantment and scorched their targets with magical fire. Additionally, ''Cutting Stars'' had a chance of blinding the opponents upon successful strike for eighteen seconds.",
-        "History": "Much information on the origins of these magic blades remained a mystery with them occasionally being brought by adventurers from beyond civilization. Oftentimes these travelers told stories of ancient ruined temples and cults that worshiped sun or stars. In the late 14{{th}} century [[DR]], several of ''Cutting Stars'' could be found along the [[Sword Coast]], and one in the city of [[Zhentil Keep]], [[Moonsea]]."
+        "mainbody": "Cutting Stars were enchanted kukri that originated from beyond the civilized regions of Toril.\nThese exotic blades possessed a +2 enchantment and scorched their targets with magical fire. Additionally, Cutting Stars had a chance of blinding the opponents upon successful strike for eighteen seconds.\nMuch information on the origins of these magic blades remained a mystery with them occasionally being brought by adventurers from beyond civilization. Oftentimes these travelers told stories of ancient ruined temples and cults that worshiped sun or stars. In the late 14 century DR, several of Cutting Stars could be found along the Sword Coast, and one in the city of Zhentil Keep, Moonsea."
     }
 }

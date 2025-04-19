@@ -1,21 +1,11 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Sharna.png",
-        "caption": "",
-        "name": "Sharna",
-        "sex": "Female{{Cite card/AD&D Trading Cards/1992|581|Sharna}}",
-        "race": "[[Human]]",
+        "race": "Human",
         "ethnicity": "",
         "occupation": "",
-        "alignment2e": "[[Lawful good]]",
-        "class2e": "{{class table|edition=2e|[[Paladin]]|13}}",
+        "alignment2e": "Lawful good",
+        "class2e": "",
         "refs2e": "",
-        "mainbody": "'''Sharna''' was a [[paladin]] of [[Helm]] who was uncommonly strong for her size.",
-        "Description": "Sharna was a petite woman with symmetrical facial features, blue eyes, and long, brown hair.",
-        "Possessions": "She used a pair of ''[[gauntlets of ogre power]]'' to boost her already considerable strength. Sharna also owned a suit of [[chain mail]], a shield, and a ''[[longsword of sharpness]]''.",
-        "Activities": "The dissonance between Sharna's size and strength worked in her favor, and she occasionally used it to shame \"tough guys\" into worshiping Helm.\n\nSharna had plans to travel to [[Maztica]] to aid in converting the local populace to the Helmite faith."
+        "mainbody": "Sharna was a paladin of Helm who was uncommonly strong for her size.\nSharna was a petite woman with symmetrical facial features, blue eyes, and long, brown hair.\nShe used a pair of gauntlets of ogre power to boost her already considerable strength. Sharna also owned a suit of chain mail, a shield, and a longsword of sharpness.\nThe dissonance between Sharnas size and strength worked in her favor, and she occasionally used it to shame \"tough guys\" into worshiping Helm.\nSharna had plans to travel to Maztica to aid in converting the local populace to the Helmite faith."
     }
 }

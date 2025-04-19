@@ -1,27 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "[[File:Tiralaylee Tai-Muran.jpg|thumb]]",
-        "caption": "",
-        "name": "Tiralaylee Tai-Muran",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Savage Frontier]], [[North Faerûn]]",
-        "formerhomes": "",
-        "sex": "Female",
-        "gender": "",
-        "race": "[[Elf]]",
-        "ethnicity": "",
-        "occupation": "",
-        "age": "",
-        "patron deity": "",
-        "languages": "",
-        "basicrefs": "{{Cite card/AD&D Trading Cards/1992|88|Tiralaylee Tai-Muran}}",
         "reckoning": "",
         "dob": "",
         "dobnotes": "",
@@ -46,8 +24,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Neutral good]]",
-        "class2e": "{{class table|edition=2e|[[Cleric]]|8}}",
+        "alignment2e": "Neutral good",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
@@ -64,9 +42,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Tiralaylee Tai-Muran''' was an [[elf|elven]] [[barbarian]] [[priestess]] active in the 14{{th}} century [[DR]].",
-        "Description": "Tiralaylee's personality was somewhat similar to that of her home, the [[Savage Frontier]]. She was restless, aggressive, and preferred to fight rather than negotiate.",
-        "Possessions": "Tiralaylee owned a suit of [[banded mail]], an enchanted ''+2'' [[spear]], a ''[[ring of human influence]]'', and a pair of ''[[boots of the north]]''.",
-        "History": "In the 14{{th}} century DR, Tiralaylee Tai-Muran often led raiding parties of her barbarian tribe and was known for her keep aggressive negotiating skills."
+        "mainbody": "Tiralaylee Tai-Muran was an elven barbarian priestess active in the 14 century DR.\nTiralaylees personality was somewhat similar to that of her home, the Savage Frontier. She was restless, aggressive, and preferred to fight rather than negotiate.\nTiralaylee owned a suit of banded mail, an enchanted +2 spear, a ring of human influence, and a pair of boots of the north.\nIn the 14 century DR, Tiralaylee Tai-Muran often led raiding parties of her barbarian tribe and was known for her keep aggressive negotiating skills."
     }
 }

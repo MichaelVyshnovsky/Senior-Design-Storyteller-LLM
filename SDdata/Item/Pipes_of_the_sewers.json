@@ -1,29 +1,8 @@
 {
-    "template_data": {
-        "3|lb|long": "yes",
-        "0.5|mi|long": "yes"
-    },
     "document_data": {
-        "image": "Pipes_of_the_sewers-5e.jpg",
-        "caption": "",
-        "name": "''Pipes of the Sewers''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Enchanted]] [[pan pipes]]<br/>Wondrous item",
-        "location": "",
-        "value1e": "8,500 [[gp]]",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "8,500 gp",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "Faint [[conjuration]]",
-        "casterlevel3e": "2{{nd}}",
         "itemlevel3e": "",
         "value3e": "1,150 gp",
-        "weight3e": "{{SI|3|lb|long=yes}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -40,8 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Pipes of the sewers''''' were [[magic item|magical]] [[pan pipes]] that had the power to influence the behavior of certain rodents.",
-        "Powers": "Even when not playing the ''pipes of the sewers'', their attuned wielder did not attract the hostility of [[rat]]s and [[giant rat]]s, who became completely indifferent to them, unless threatened. Upon playing the pipes, the user could summon rats within {{SI|0.5|mi|long=yes}} to form up to three swarms, which moved towards the music of the pipes as quickly as possible. The pipes themselves could not directly control the rats, but only summon them. They recovered their magic either partially or completely at every dawn.\n\nThe pipes could only be used by someone proficient with playing wind instruments.",
-        "Notable Owners": "Duke [[Thalamra Vanthampur]] owned a set of ''pipes of the sewers'', which she kept along with many of her possessions."
+        "mainbody": "Pipes of the sewers were magical pan pipes that had the power to influence the behavior of certain rodents.\nEven when not playing the pipes of the sewers, their attuned wielder did not attract the hostility of rats and giant rats, who became completely indifferent to them, unless threatened. Upon playing the pipes, the user could summon rats within  to form up to three swarms, which moved towards the music of the pipes as quickly as possible. The pipes themselves could not directly control the rats, but only summon them. They recovered their magic either partially or completely at every dawn.\nThe pipes could only be used by someone proficient with playing wind instruments.\nDuke Thalamra Vanthampur owned a set of pipes of the sewers, which she kept along with many of her possessions."
     }
 }

@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Stick",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Arachnomancer]]|0|[[Bard]]|0|[[Prime Underdark guide]]|1|[[Sorcerer]]|0|[[Wizard]]|0}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Stick''''' was a [[transmutation]] [[spell]] that caused one item to stick to another.",
-        "Effects": "The ''stick'' spell could only be cast on non-[[magic]]al items. This item had to weigh 5 pounds (2.27 kilograms) or less. The item then could be made to stick to another object, which needed to heavier than the one the spell was cast upon. \n\nThe force with which the two objects were glued to each other was not particularly strong. Any person could separate the objects, as could any wind stronger than 10 mph (10 kph). Spells such as ''[[mage hand]]'' or ''[[unseen servant]]'' were strong enough too.",
-        "Components": "''Stick'' required [[somatic]], [[verbal]], and [[material component]]s in the form of dried glue (a small amount was enough) to cast."
+        "mainbody": "Stick was a transmutation spell that caused one item to stick to another.\nThe stick spell could only be cast on non-magical items. This item had to weigh 5 pounds (2.27 kilograms) or less. The item then could be made to stick to another object, which needed to heavier than the one the spell was cast upon. \nThe force with which the two objects were glued to each other was not particularly strong. Any person could separate the objects, as could any wind stronger than 10 mph (10 kph). Spells such as mage hand or unseen servant were strong enough too.\nStick required somatic, verbal, and material components in the form of dried glue (a small amount was enough) to cast."
     }
 }

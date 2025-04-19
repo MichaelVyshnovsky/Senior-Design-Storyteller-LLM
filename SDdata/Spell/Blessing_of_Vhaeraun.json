@@ -1,23 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Blessing of Vhaeraun",
-        "deity": "",
-        "inventor": "",
-        "skill": "",
-        "reversible2e": "",
-        "school2e": "[[Conjuration]] (Summoning)",
-        "spheres2e": "",
-        "level2e": "{{Spell table|edition=2e|[[Cleric]]|2}}",
         "type2e": "",
-        "refs2e": "<ref name=DD-40>",
-        "mainbody": "'''''Blessing of Vhaeraun''''' was a spell used by priests of [[Vhaeraun]], the [[drow]] god of thievery, to augment their abilities.",
-        "Effects": "The caster's abilities were temporarily augmented, but only for a very short time and only for one use. This one use could be expended to increase the accuracy of a physical attack or the abilities as a thief of the caster or another person touched with the spell.",
-        "Components": "This spell required only verbal and somatic components to cast."
+        "refs2e": "",
+        "mainbody": "Blessing of Vhaeraun was a spell used by priests of Vhaeraun, the drow god of thievery, to augment their abilities.\nThe casters abilities were temporarily augmented, but only for a very short time and only for one use. This one use could be expended to increase the accuracy of a physical attack or the abilities as a thief of the caster or another person touched with the spell.\nThis spell required only verbal and somatic components to cast."
     }
 }

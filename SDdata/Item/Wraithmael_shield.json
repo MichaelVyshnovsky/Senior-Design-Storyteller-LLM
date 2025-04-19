@@ -1,27 +1,8 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Wraithmael Shield''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Shield]]",
-        "creator": "",
-        "location": "[[Elven Catacombs]], [[Myth Drannor]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "15{{th}}",
         "itemlevel3e": "+3",
         "value3e": "",
-        "weight3e": "{{SI|25|lb|k}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -38,9 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The '''''Wraithmael shield''''' was a powerful enchanted [[shield]], a part of a set of evil-looking magic armor along with the ''[[Wraithmael of Drenofiend]]''.",
-        "Description": "The ''Wraithmael shield'' was forged out of sinister dark metal as decorated with horns.",
-        "Powers": "This evil shield drastically improved its user's armor, constitution, and fortitude, as well as their will, in exchange for reduced wisdom. The shield's enchantment also allowed the wearer to cast the ''[[vampiric touch]]'' spell.",
-        "History": "In [[1369 DR]], both items of the ''Wraithmael'' set could be found in the deepest levels of the [[Elven Catacombs]], hidden there a long time before. Both items were guarded by powerful master [[shadow]]s and ancient traps."
+        "mainbody": "The Wraithmael shield was a powerful enchanted shield, a part of a set of evil-looking magic armor along with the Wraithmael of Drenofiend.\nThe Wraithmael shield was forged out of sinister dark metal as decorated with horns.\nThis evil shield drastically improved its users armor, constitution, and fortitude, as well as their will, in exchange for reduced wisdom. The shields enchantment also allowed the wearer to cast the vampiric touch spell.\nIn 1369 DR, both items of the Wraithmael set could be found in the deepest levels of the Elven Catacombs, hidden there a long time before. Both items were guarded by powerful master shadows and ancient traps."
     }
 }

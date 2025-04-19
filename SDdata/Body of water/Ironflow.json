@@ -1,18 +1,8 @@
 {
-    "template_data": {
-        "25|mi|k|long": "yes"
-    },
     "document_data": {
-        "image": "Gnarhelm.JPG",
-        "caption": "A map showing the Ironflow in western Gnarhelm.",
-        "name": "Ironflow",
-        "aliases": "",
-        "type": "River",
-        "region": "[[Gnarhelm]], [[Alaron]]",
-        "size": "{{SI|25|mi|k}} long",
         "depth": "",
-        "river source": "[[Hardangheight]]",
-        "river mouth": "The [[Sea of Moonshae]]",
+        "river source": "Hardangheight",
+        "river mouth": "The Sea of Moonshae",
         "tributaries": "",
         "tributary of": "",
         "georefs": "",
@@ -28,8 +18,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "The '''Ironflow''' was a small river located in western [[Gnarhelm]] on the island of [[Alaron]] within the [[Moonshae Isles]].{{Cite dungeon/196/Backdrop: The Moonshae Isles}}",
-        "Geography": "The Ironflow originated in the southern [[Hardangheight]], flowing south from the mountain range's southwestern slopes. The river widened to form the [[Hughloch]] near the coast of the [[Sea of Moonshae]]. The Ironflow was approximately {{SI|25|mi|k|long=yes}} long.",
-        "Notable Locations": "* [[Warlsbry]]"
+        "mainbody": "The Ironflow was a small river located in western Gnarhelm on the island of Alaron within the Moonshae Isles.\nThe Ironflow originated in the southern Hardangheight, flowing south from the mountain ranges southwestern slopes. The river widened to form the Hughloch near the coast of the Sea of Moonshae. The Ironflow was approximately  long.\n* Warlsbry"
     }
 }

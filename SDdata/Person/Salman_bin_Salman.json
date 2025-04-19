@@ -1,24 +1,12 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Salman bin Salman",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Ganam]], [[Haunted Lands]]{{cite book/Assassin Mountain/Holy Slayer Sourcebook|30-31}}",
         "formerhomes": "",
         "sex": "Male",
-        "race": "[[Human]]",
+        "race": "Human",
         "ethnicity": "",
         "occupation": "",
         "age": "",
-        "patron deity": "[[Hajama]]",
+        "patron deity": "Hajama",
         "languages": "",
         "reckoning": "",
         "dob": "",
@@ -37,8 +25,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Lawful neutral]]",
-        "class2e": "{{class table|edition=2e|[[Cleric]] ([[Moralist]])|3}}",
+        "alignment2e": "Lawful neutral",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "class3e": "",
@@ -52,8 +40,6 @@
         "alignment5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Salman bin Salman''' was a [[cleric]] of [[Hajama]] living in the small town of [[Ganam]] in [[1367 DR]].{{AQ-time}}",
-        "Activities": "Salman served as head priest for the entire village. He was also a source of protection for Ganam against the pranks of a [[deceiver genie]] named [[Ibrihim]].",
-        "Possessions": "Salman always carried a [[phylactery]] that was capable of warding off evil [[genie]]s."
+        "mainbody": "Salman bin Salman was a cleric of Hajama living in the small town of Ganam in 1367 DR.\nSalman served as head priest for the entire village. He was also a source of protection for Ganam against the pranks of a deceiver genie named Ibrihim.\nSalman always carried a phylactery that was capable of warding off evil genies."
     }
 }

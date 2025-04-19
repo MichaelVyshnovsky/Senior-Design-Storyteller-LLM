@@ -1,42 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "edition_1": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Dilation",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|4}}{{spell table|edition=2e|[[Wizard]]|6}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -44,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "The '''''dilation''''' group of [[spell]]s were [[alteration]] spells used by [[wizard]]s.",
-        "Effects": "''Dilation I'' and ''dilation II'' allowed the caster to increase the area of effect for the spell cast immediately after. If more than a minute passed before the second spell was cast then the ''dilation'' spell was wasted.\n\n''Dilation I'' increased the area of effect of basic spells by a quarter. ''Dilation II'' increased the area of effect of basic spells by half and intermediate spells by a quarter.",
-        "Components": "These spells only required [[Verbal component|verbal]] components to cast."
+        "mainbody": "The dilation group of spells were alteration spells used by wizards.\nDilation I and dilation II allowed the caster to increase the area of effect for the spell cast immediately after. If more than a minute passed before the second spell was cast then the dilation spell was wasted.\nDilation I increased the area of effect of basic spells by a quarter. Dilation II increased the area of effect of basic spells by half and intermediate spells by a quarter.\nThese spells only required verbal components to cast."
     }
 }

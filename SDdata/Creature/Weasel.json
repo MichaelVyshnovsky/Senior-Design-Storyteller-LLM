@@ -1,33 +1,14 @@
 {
     "document_data": {
-        "image": "<gallery>",
-        "caption2": "Various depictions of weasels.",
-        "name": "Weasel",
-        "size5e": "Tiny",
-        "type5e": "[[Beast]]",
-        "subtype5e": "",
-        "alignment5e": "[[Unaligned]]",
-        "challenge5e": "0",
-        "refs5e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "Tiny",
-        "type3e": "[[Animal]]",
-        "subtype3e": "",
-        "alignment3e": "Always [[neutral]]",
-        "challenge3e": "{{Frac|1|4}}",
         "refs3e": "",
-        "alignment2e": "[[Neutral]]",
+        "alignment2e": "Neutral",
         "refs2e": "",
         "size1e": "Small",
-        "alignment1e": "[[Neutral]]",
+        "alignment1e": "Neutral",
         "refs1e": "",
         "patron deity": "",
         "movement": "Climbing",
-        "vision": "[[Low-light vision]]",
+        "vision": "Low-light vision",
         "lifespan": "",
         "location": "Temperate hills",
         "language": "",
@@ -44,19 +25,8 @@
         "eyecolor": "",
         "feathers": "",
         "distinctions": "Scent",
-        "based": "[[wikipedia:en:Weasel|Weasel]]",
-        "first": "[[Monster Manual II 1st edition|''Monster Manual'' 1{{st}} edition]]",
-        "mainbody": "A '''weasel''' was a small furry mammal.",
-        "Description": "Like [[ferret]]s, these animals were small, slender-bodied predators.{{Cite dragon/137/Treasures of the Wilds|17}}",
-        "Behavior": "Weasels could be extremely aggressive but chose to attack smaller prey.",
-        "Sub-Species": {
-            "Giant weasel": "The over-sized cousins of the standard weasel."
-        },
-        "Ecology": {
-            "Habitats": "In the land of [[Kara-Tur]] wild weasels could be found in its temperate forests, plains, and swamps. As well as in its more arctic regions.",
-            "Relationships": "These animals could be trained and domesticated.{{Cite dragon/84/A cast of strange familiars|17}}\n\nWeasels were a [[favored animal]] of the [[deities]] [[Garagos]], [[Garl Glittergold]], and [[Thoth]].{{Cite web enhancement/Deity Do's and Don'ts|10-15}}"
-        },
-        "Notable weasels": "* [[Brakar (weasel)|Brakar]], the familiar of [[Chaid al Farid al Fuqani]].\n* [[Tamin]], the familiar of a sorceress [[Qara]], who traveled with [[Kalach-Cha]] circa [[1374 DR]].",
-        "Trivia": "* Some [[Ysgardian dwarves]] could assume the form of a weasel."
+        "based": "Weasel",
+        "first": "Monster Manual 1 edition",
+        "mainbody": "A weasel was a small furry mammal.\nLike ferrets, these animals were small, slender-bodied predators.\nWeasels could be extremely aggressive but chose to attack smaller prey.\nGiant weasel The over-sized cousins of the standard weasel.\nIn the land of Kara-Tur wild weasels could be found in its temperate forests, plains, and swamps. As well as in its more arctic regions.\nThese animals could be trained and domesticated.\nWeasels were a favored animal of the deities Garagos, Garl Glittergold, and Thoth.\n* Brakar, the familiar of Chaid al Farid al Fuqani.\n* Tamin, the familiar of a sorceress Qara, who traveled with Kalach-Cha circa 1374 DR.\n* Some Ysgardian dwarves could assume the form of a weasel."
     }
 }

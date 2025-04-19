@@ -1,16 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "name": "Efficacious Monster Ward",
-        "school2e": "[[Abjuration]]",
-        "spheres2e": "[[Wards sphere|Wards]]",
-        "level2e": "{{spell table|edition=2e|[[Crusader]]|3|[[Shaman]]|3|[[Wards sphere|Wards]]|3}}",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''''Efficacious monster ward''''' was an [[abjuration]] spell that could keep some undesirable creatures out of a large area<ref group=\"note\">The source states the area of effect in two different ways. In the spell summary it says \"10-foot cube/level\" but in the spell description it says \"a cubic area whose sides equal the caster's level times 10 feet\", and gives an example calculation. Using the second definition, a 10th level priest could ward a million cubic feet, a volume almost as big as the [http://answers.yahoo.com/question/index?qid=20070519114542AAxtdWo Washington Monument]. for a few minutes.The duration is given as one minute per level which seems very short compared to the weaker ''[[antivermin barrier]]'' which has a duration of one hour per level.",
-        "Effects": "This spell was a stronger version of ''[[antivermin barrier]]'' that operated exactly like that spell except that it prevented entry of creatures roughly twice the size and/or toughness.",
-        "Components": "This spell require a pinch of salt in addition to verbal and somatic components."
+        "mainbody": "Efficacious monster ward was an abjuration spell that could keep some undesirable creatures out of a large areaThe source states the area of effect in two different ways. In the spell summary it says \"10-foot cube/level\" but in the spell description it says \"a cubic area whose sides equal the casters level times 10 feet\", and gives an example calculation. Using the second definition, a 10th level priest could ward a million cubic feet, a volume almost as big as the [http//answers.yahoo.com/question/index?qid=20070519114542AAxtdWo Washington Monument]. for a few minutes.The duration is given as one minute per level which seems very short compared to the weaker antivermin barrier which has a duration of one hour per level.\nThis spell was a stronger version of antivermin barrier that operated exactly like that spell except that it prevented entry of creatures roughly twice the size and/or toughness.\nThis spell require a pinch of salt in addition to verbal and somatic components."
     }
 }

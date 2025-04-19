@@ -1,20 +1,12 @@
 {
     "document_data": {
-        "image": "AegerHide.png",
-        "caption": "",
-        "name": "''Aeger's Hide''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Hide armor]]",
-        "creator": "",
-        "location": "[[Athkatla]], [[Amn]]<br/>{{Former}}[[Sword Coast]]",
         "basicrefs": "",
         "value1e": "",
         "weight1e": "",
         "refs1e": "",
         "school2e": "",
         "level2e": "+2",
-        "value2e": "9,000 [[gp]]",
+        "value2e": "9,000 gp",
         "weight2e": "35 lbs (15.9 kg)",
         "refs2e": "",
         "school3e": "",
@@ -38,8 +30,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Aeger's Hide''''' was an [[Item enchantment|enchanted]] suit of [[hide armor|armor]] that was crafted from the hide of the fabled [[bear]] known as the [[Aeger]].",
-        "Powers": "The armor possessed a ''+2 enchantment''. The wearer was immune to mind-altering effects that sought to [[confusion|confuse or befuddle]] individuals.",
-        "History": "Several centuries before the mid-1300s [[DR]], the Aeger was slain by a group of nearly two hundred militiamen. The armor was crafted some time thereafter.\n\nAt some point ''Aeger's Hide'' made its way into the possession of the [[Adventurer Mart]] in the city of [[Athkatla]]."
+        "mainbody": "Aegers Hide was an enchanted suit of armor that was crafted from the hide of the fabled bear known as the Aeger.\nThe armor possessed a +2 enchantment. The wearer was immune to mind-altering effects that sought to confuse or befuddle individuals.\nSeveral centuries before the mid-1300s DR, the Aeger was slain by a group of nearly two hundred militiamen. The armor was crafted some time thereafter.\nAt some point Aegers Hide made its way into the possession of the Adventurer Mart in the city of Athkatla."
     }
 }

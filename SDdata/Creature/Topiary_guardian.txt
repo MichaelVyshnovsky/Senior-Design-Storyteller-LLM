@@ -1,49 +1,15 @@
-{{Creature
-| image        = Topiary_Guardian.jpg
-| caption      = "…a topiary full of hedge animals out front, what next?"
-| name         = Topiary Guardian
-| othernames   = 
-| size5e       = 
-| type5e       = 
-| subtype5e    = 
-| alignment5e  = 
-| challenge5e  = 
-| refs5e       = 
-| size4e       = 
-| origin4e     = 
-| type4e       = 
-| subtype4e    = 
-| alignment4e  = 
-| refs4e       = 
-| size3e       = 
-| type3e       = [[Plant creature]]
-| subtype3e    = 
-| alignment3e  = Always [[neutral]]
-| challenge3e  = +1
-| refs3e       = 
-| size2e       = 
-| alignment2e  = 
-| refs2e       = 
-| size1e       = 
-| alignment1e  = 
-| refs1e       = 
-| patron deity = 
-| movement     = 
-| vision       = [[Low-light vision]]
-| activecycle  = 
-| diet         = Autotrophic{{speculation}}
 | lifespan     = Indefinite
 | location     = 
-| intelligence = {{Int|0}}
+| intelligence = 
 | language     = 
 | subraces     = 
 | climate      = 
 | terrain      = Any
 | genrefs      = 
-| height       = Boar: {{SI|3|ft}} at shoulder
-| length       = Boar: {{SI|4|ft}}<br/>Lion: {{SI|8|ft}}<br/>Triceratops: {{SI|25|ft}}
+| height       = Boar  at shoulder
+| length       = Boar Lion Triceratops 
 | wingspan     = 
-| weight       = Boar: {{SI|100|lb|k}}<br/>Lion: {{SI|100|lb|k}}<br/>Triceratops: {{SI|5000|lb|k}}
+| weight       = Boar Lion Triceratops 
 | skincolor    = Green (leaves)
 | haircolor    = 
 | hairstyles   = 
@@ -55,50 +21,22 @@
 | first        = 
 | based        = 
 | histrefs     = 
-}}
-A '''topiary guardian''' was a plant that had been sculpted into the shape of a creature and then animated with [[arcane]] [[magic]] to serve as a guardian that was as much a [[construct]] as a [[plant creature]]. They were superb as sentries. While any creature was possible, three typical forms were known: a [[boar]], a [[lion]], and, for some reason, a [[triceratops]].
-
-==Creation==
-Making a topiary guardian was an involved process. First, one required a bush or shrub accurately cut into the shape of a creature; this took six weeks of careful work with skill in gardening or sculpture. Next, the topiary must be treated with oils and tinctures that were rare and expensive, costing 800 [[gp]] for a boar-sized topiary, 2,400 gp for a lion-sized topiary, and a 4,600 gp for a triceratops-sized topiary.
-
-After that, a ritual was performed to animate it. This was necessarily done outside, as the shrub required soil, sun, and water until the very end. While the topiary guardian was not itself a construct, the spellcaster needed to be versed in the crafting of constructs and to know the [[spell]]s ''[[awaken]]'', ''[[geas/quest]]'', and ''[[limited wish]]''. Finally, a spirit of the [[Elemental Plane of Earth]] was magically bound to the plant like a [[golem]] to animate it.
-
-In the [[Underdark]], topiary guardians were formed from clumps of living [[moss]]. Meanwhile, underwater, [[aquatic elf]] druids developed a way to turn kelp beds into topiary guardians.
-
-==Description==
-Like a traditional [[Wikipedia:topiary|topiary]], this was a bush or shrub that had been meticulously trimmed and sculpted into the form of an animal. Although they were the same dimensions as the creatures they resembled, they weighed much less—only a quarter—because they're made of small twigs and branches and a lot of air. They could make no sounds, but only rustle.
-
-==Abilities==
+A topiary guardian was a plant that had been sculpted into the shape of a creature and then animated with arcane magic to serve as a guardian that was as much a construct as a plant creature. They were superb as sentries. While any creature was possible, three typical forms were known a boar, a lion, and, for some reason, a triceratops.
+Making a topiary guardian was an involved process. First, one required a bush or shrub accurately cut into the shape of a creature this took six weeks of careful work with skill in gardening or sculpture. Next, the topiary must be treated with oils and tinctures that were rare and expensive, costing 800 gp for a boar-sized topiary, 2,400 gp for a lion-sized topiary, and a 4,600 gp for a triceratops-sized topiary.
+After that, a ritual was performed to animate it. This was necessarily done outside, as the shrub required soil, sun, and water until the very end. While the topiary guardian was not itself a construct, the spellcaster needed to be versed in the crafting of constructs and to know the spells awaken, geas/quest, and limited wish. Finally, a spirit of the Elemental Plane of Earth was magically bound to the plant like a golem to animate it.
+In the Underdark, topiary guardians were formed from clumps of living moss. Meanwhile, underwater, aquatic elf druids developed a way to turn kelp beds into topiary guardians.
+Like a traditional topiary, this was a bush or shrub that had been meticulously trimmed and sculpted into the form of an animal. Although they were the same dimensions as the creatures they resembled, they weighed much less—only a quarter—because theyre made of small twigs and branches and a lot of air. They could make no sounds, but only rustle.
 Being basically a bush, a topiary guardian was very difficult to damage with blunt or stabbing weapons. It could only be effectively damaged with slashing weapons, or perhaps a good pair of shears. It was of course also particularly vulnerable to fire.
-
-Being rooted to the ground, a topiary guardian had [[tremorsense]], letting it sense vibrations transmitted via the earth. They could detect any movement on the ground up to {{SI|90|ft|long=yes}} away.
-
+Being rooted to the ground, a topiary guardian had tremorsense, letting it sense vibrations transmitted via the earth. They could detect any movement on the ground up to  away.
 By standing completely still, a topiary guardian was almost distinguishable from regular topiaries. It took an amazingly keen eye to spot it for what it was. Even in motion, it could move very quietly, with no more than faint rustling.
-
 A topiary guardian moved as fast as its animal form could on land. However, whatever its animal form, it could not climb, burrow, or swim, let alone fly.
-
-==Combat==
-On first sensing a trespasser, a topiary guardian remained completely motionless until they approached within {{SIrange|30|40|ft|long=yes}}, whereupon they would charge and surprise them.
-
-A topiary guardian's attacks and tactics were similar to those used by the creature it resembled. For example, a boar topiary guardian could gore with wooden tusks and fight ferociously to the death, while a lion could pounce on an opponent and rake it with its thorny claws and a triceratops could gore with its wooden horns and trample with trunk-like feet.
-
+On first sensing a trespasser, a topiary guardian remained completely motionless until they approached within , whereupon they would charge and surprise them.
+A topiary guardians attacks and tactics were similar to those used by the creature it resembled. For example, a boar topiary guardian could gore with wooden tusks and fight ferociously to the death, while a lion could pounce on an opponent and rake it with its thorny claws and a triceratops could gore with its wooden horns and trample with trunk-like feet.
 However, a topiary guardian could, if instructed, attack to subdue and tire rather than injure and kill. It was effective either way.
-
-==Ecology==
-Topiary guardians were not natural plant creatures, but spirits of the Elemental Plane of Earth bound to living wood. Thus opinions of [[druid]]s varied from discomfort to rage at a crime against nature. However, their owners didn't care about the druids' or their shrubs' feelings, feeling the extra security outweighed such concerns.
-
+Topiary guardians were not natural plant creatures, but spirits of the Elemental Plane of Earth bound to living wood. Thus opinions of druids varied from discomfort to rage at a crime against nature. However, their owners didnt care about the druids or their shrubs feelings, feeling the extra security outweighed such concerns.
 There were stationed alone or in groups of two to eight called "gardens".
-
-==Behavior==
-A topiary guardian would follow any orders given by its creator if they were nearby (no more than {{SI|90|ft|long=yes}} away). Otherwise, they followed the last instructions they received as well as they could. The creator usually gave them basic instructions like "Attack any creature entering the garden at night". They could be told to subdue and pin trespassers so they could be arrested and questioned by guards, usually if placed at the home of an important person in government.
-
-==Uses==
+A topiary guardian would follow any orders given by its creator if they were nearby (no more than  away). Otherwise, they followed the last instructions they received as well as they could. The creator usually gave them basic instructions like "Attack any creature entering the garden at night". They could be told to subdue and pin trespassers so they could be arrested and questioned by guards, usually if placed at the home of an important person in government.
 Topiary guardians were used to serve as sentries in gardens and courtyards of the palaces of rich landowners, nobles, and monarchs. They were a decorative defense that would easily fit in with normal topiaries and hedges, animating only when a trespasser was detected.
-
-However, despite the concerns of druids, topiary guardians were in fact usually used to guard sites where druid circles gathered, in areas where nature and civilization met such as parks A topiary dragon was employed to guard the tomb of a druid in Waterdeep by the mid-to-late 15{{th}} century [[DR]].
-
-Similarly, topiary guardians stood guard at temples and shrines to nature [[deity|deities]] such as [[Silvanus]], [[Mielikki]], and [[Chauntea]].<ref group="note">''Monster Manual III'' contradicts itself on the attitudes of druids to topiary guardians, from disgust and horror on page 173 to using them themselves on page 175 under "Topiary Guardians in Faerûn". It may be that the former general information represents their use in other settings such as ''Eberron'' and that they may not be glorified garden ornaments at all in the Realms, while druids of the Realms either do not care or create their topiary guardians in a way that does not offend them. They would necessarily need different spells to the arcane, non-druidic ones presented in MMIII.
-
-==Notable Topiary Guardians==
-* A semi-sentient topiary dragon was the companion and mount of [[Briarsting]], a [[thorn (fey)|thorn]] who guarded a druid's tomb in Waterdeep.
-
+However, despite the concerns of druids, topiary guardians were in fact usually used to guard sites where druid circles gathered, in areas where nature and civilization met such as parks A topiary dragon was employed to guard the tomb of a druid in Waterdeep by the mid-to-late 15 century DR.
+Similarly, topiary guardians stood guard at temples and shrines to nature deities such as Silvanus, Mielikki, and Chauntea.Monster Manual III contradicts itself on the attitudes of druids to topiary guardians, from disgust and horror on page 173 to using them themselves on page 175 under "Topiary Guardians in Faerûn". It may be that the former general information represents their use in other settings such as Eberron and that they may not be glorified garden ornaments at all in the Realms, while druids of the Realms either do not care or create their topiary guardians in a way that does not offend them. They would necessarily need different spells to the arcane, non-druidic ones presented in MMIII.
+* A semi-sentient topiary dragon was the companion and mount of Briarsting, a thorn who guarded a druids tomb in Waterdeep.

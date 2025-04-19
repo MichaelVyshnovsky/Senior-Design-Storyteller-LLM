@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "90|ft|long": "yes",
-        "20|ft|long": "yes",
-        "35|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Waterwall-David Roach.png",
-        "caption": "",
-        "name": "Waterwall",
-        "deity": "[[Istishia]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]]",
-        "spheres2e": "[[Elemental sphere|Elemental]] [[Elemental water sphere|water]]",
-        "level2e": "{{Spell table|edition=2e|[[Cleric]]|4}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -45,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Waterwall''''' was a [[Divine magic|divine]] [[evocation]] [[spell]] granted to priests of [[Istishia]]. It created a wall of water that could engulf a creature or foil missile attacks.",
-        "Effects": "This spell created a wall of water within a range of {{SI|90|ft|long=yes}} from the caster. It was {{SI|20|ft|long=yes}} tall and a minimum of {{SI|35|ft|long=yes}} wide (wider for more advanced casters). The water appeared even if no water was available in the immediate area and lasted for at least seven minutes (longer for more experienced casters). If the spell was targeted to engulf a creature, it had a good chance to jump out of the way before the wall fully materialized.\n\nCreatures shorter than the ''waterwall'' that attempted to pass through it were paralyzed as if by a ''[[hold person]]'' or similar effect—they were unable to continue or retreat and were helpless against melee attacks from outside. The paralyzing effect could be countered with a ''[[ring of free action]]'' or other such magics. Creatures taller than the wall were ''[[slow]]ed'' to one-quarter speed. ''Waterwall'' spoiled the aim of all missiles that were fired through it. This included ''[[magic missile]]s'' and any other offensive spell that attempted to shoot through the wall. However, creatures trapped inside the watery prison could be successfully targeted.\n\n''Waterwall'' could be turned to ice instantly by using spells such as ''[[cone of cold]]'' or ''[[Otiluke's freezing sphere]]''. Trapped creatures suffered the full effects of the cold-based spell.",
-        "Components": "This spell required [[Verbal component|verbal]] and [[somatic component]]s as well as a vial of water and the priest's [[holy symbol]]."
+        "mainbody": "Waterwall was a divine evocation spell granted to priests of Istishia. It created a wall of water that could engulf a creature or foil missile attacks.\nThis spell created a wall of water within a range of  from the caster. It was  tall and a minimum of  wide (wider for more advanced casters). The water appeared even if no water was available in the immediate area and lasted for at least seven minutes (longer for more experienced casters). If the spell was targeted to engulf a creature, it had a good chance to jump out of the way before the wall fully materialized.\nCreatures shorter than the waterwall that attempted to pass through it were paralyzed as if by a hold person or similar effect—they were unable to continue or retreat and were helpless against melee attacks from outside. The paralyzing effect could be countered with a ring of free action or other such magics. Creatures taller than the wall were slowed to one-quarter speed. Waterwall spoiled the aim of all missiles that were fired through it. This included magic missiles and any other offensive spell that attempted to shoot through the wall. However, creatures trapped inside the watery prison could be successfully targeted.\nWaterwall could be turned to ice instantly by using spells such as cone of cold or Otilukes freezing sphere. Trapped creatures suffered the full effects of the cold-based spell.\nThis spell required verbal and somatic components as well as a vial of water and the priests holy symbol."
     }
 }

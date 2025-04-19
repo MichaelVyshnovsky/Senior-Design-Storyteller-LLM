@@ -1,44 +1,5 @@
 {
-    "template_data": {
-        "30|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption2": "Various depictions of blazing skeletons",
-        "name": "Blazing skeleton",
-        "othernames": "Blazing bones, Burning skeleton",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "Medium",
-        "origin4e": "[[:Category:Natural creatures|Natural]]",
-        "type4e": "[[Animate]]",
-        "subtype4e": "[[Undead]]",
-        "alignment4e": "[[Unaligned]]",
-        "refs4e": "",
-        "size3e": "Medium",
-        "type3e": "[[Undead]]",
-        "subtype3e": "",
-        "alignment3e": "Always [[chaotic evil]]",
-        "challenge3e": "3",
-        "refs3e": "",
-        "size2e": "Medium",
-        "alignment2e": "[[Chaotic evil]]",
-        "refs2e": "",
-        "size1e": "",
-        "alignment1e": "",
-        "refs1e": "",
-        "patron deity": "",
-        "movement": "",
-        "vision": "",
-        "activecycle": "Any",
-        "diet": "None",
-        "lifespan": "",
-        "location": "",
-        "intelligence": "{{Int|4}}, Insane",
         "language": "",
         "subraces": "",
         "climate": "",
@@ -59,17 +20,6 @@
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Blazing skeletons''', also known as '''blazing bones''', Some were the result of a ''[[contingency]]'', cast for a [[spell]] meant to prevent one's death, malfunctioning after the affected individual died from flames.",
-        "Description": "These skeletons were engulfed in an aura of ever-burning flames. Particularly around their shoulders, skull, and hands. Their bones were usually charred, their eyes glowed like the ends of hot [[fire poker]]s, and they had clawed hands.",
-        "Personality": "Blazing skeletons were constantly tormented by their flames. Because of this they were filled with a hatred for life and happiness. Thus, when left to their own devices, they sought to burn anything they came across and destroy the living, as doing so would momentarily lessen their pain.\n\nBlazing skeletons could never be directly controlled by their creators, but could be compelled to not attack them and to remain within a certain area of structure. They were often known for taunting or threatening their adversaries, which came out in a roar of crackling words.",
-        "Abilities": "Blazing skeletons were impervious to harm from fire-based [[spell]]s and abilities, with some even being augmented by flames. They were impervious to ''[[charm]]'', ''hold'', and ''[[sleep]]'', spells. They could be harmed to some extent by water, especially ''[[holy water]]'', though alcoholic liquids had no harmful effect on them.\n\nBlazing skeletons were capable of hurling head-sized balls of flame. Their flames cleanse [[disease]] causing germs and were especially harmful to \"cold\" [[undead]], such as [[ghoul]]s, [[lich]]es, [[vampire]]s, and [[wight]]s.\n\nThose who were [[priest]]s or [[wizard]]s in life who reanimated due to a ''contingency'' spell going awry had the unique ability to collapse their bodies and turn into a whirlwind of bones and flames. This was best described as acting like a ''[[fireball]]'', erupting from where they stood and expanding to a {{SI|30|ft|long=yes}} radius sphere.",
-        "Combat": "These skeletons preferred to fight their enemies from afar, hurling balls of flame, but if necessary they would fight with their clawed hands.",
-        "History": "In [[1367 DR]], these skeletons could be found guarding the armory of the [[Citadel of the Riders]].<ref>\n\nFollowing the [[Spellplague]], blazing skeletons could be found in [[Gauntlgrym]]<ref> and beneath the ruins of [[Cragmire Keep]], inside the [[Cragmire]] family's crypts. They could also be found within the [[Shadowfell]]'s reflection of [[Mount Hotenow]],<ref> following its [[Prime Material plane|Prime Material]] counterpart's eruption in [[1451 DR]]. They were also deployed in the [[mines of Tethyamar]] by the [[Banite]] [[Rezlus]] and his [[Zhentarim]] forces.",
-        "Ecology": {
-            "Habitats": "These skeletons could occasionally be found in [[Avernus]].<ref>",
-            "Relationships": "Blazing skeletons typically avoided associated with other undead if they could help it, even other blazing skeletons.\n\nThere were some cases of [[evil]] [[archmage]]s or [[priest|high priests]] deliberately creating blazing skeletons to act as guardians. In one case they were known to be used as a walking garbage-furnace by an archmage.",
-            "Usages": "The clawed hand of a blazing skeleton could be used as a form of [[undead graft]]. These granted the one they were grafted to a slight resistance to fire, a fiery fist, and the ability to throw small orbs of flame.<ref>"
-        },
-        "Trivia": "Blazing skeletons were one of the types of undead that could be linked to an area affected by the ''[[wardmist]]'' spell to act as guardians.<ref><ref>"
+        "mainbody": "Blazing skeletons, also known as blazing bones, Some were the result of a contingency, cast for a spell meant to prevent ones death, malfunctioning after the affected individual died from flames.\nThese skeletons were engulfed in an aura of ever-burning flames. Particularly around their shoulders, skull, and hands. Their bones were usually charred, their eyes glowed like the ends of hot fire pokers, and they had clawed hands.\nBlazing skeletons were constantly tormented by their flames. Because of this they were filled with a hatred for life and happiness. Thus, when left to their own devices, they sought to burn anything they came across and destroy the living, as doing so would momentarily lessen their pain.\nBlazing skeletons could never be directly controlled by their creators, but could be compelled to not attack them and to remain within a certain area of structure. They were often known for taunting or threatening their adversaries, which came out in a roar of crackling words.\nBlazing skeletons were impervious to harm from fire-based spells and abilities, with some even being augmented by flames. They were impervious to charm, hold, and sleep, spells. They could be harmed to some extent by water, especially holy water, though alcoholic liquids had no harmful effect on them.\nBlazing skeletons were capable of hurling head-sized balls of flame. Their flames cleanse disease causing germs and were especially harmful to \"cold\" undead, such as ghouls, liches, vampires, and wights.\nThose who were priests or wizards in life who reanimated due to a contingency spell going awry had the unique ability to collapse their bodies and turn into a whirlwind of bones and flames. This was best described as acting like a fireball, erupting from where they stood and expanding to a  radius sphere.\nThese skeletons preferred to fight their enemies from afar, hurling balls of flame, but if necessary they would fight with their clawed hands.\nIn 1367 DR, these skeletons could be found guarding the armory of the Citadel of the Riders.\nFollowing the Spellplague, blazing skeletons could be found in Gauntlgrym and beneath the ruins of Cragmire Keep, inside the Cragmire familys crypts. They could also be found within the Shadowfells reflection of Mount Hotenow, following its Prime Material counterparts eruption in 1451 DR. They were also deployed in the mines of Tethyamar by the Banite Rezlus and his Zhentarim forces.\nThese skeletons could occasionally be found in Avernus.\nBlazing skeletons typically avoided associated with other undead if they could help it, even other blazing skeletons.\nThere were some cases of evil archmages or high priests deliberately creating blazing skeletons to act as guardians. In one case they were known to be used as a walking garbage-furnace by an archmage.\nThe clawed hand of a blazing skeleton could be used as a form of undead graft. These granted the one they were grafted to a slight resistance to fire, a fiery fist, and the ability to throw small orbs of flame.\nBlazing skeletons were one of the types of undead that could be linked to an area affected by the wardmist spell to act as guardians."
     }
 }

@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Spectral steed.jpg",
-        "caption": "",
-        "name": "Bloodstone's Spectral Steed",
-        "deity": "",
-        "inventor": "[[Bloodstone (person)|Bloodstone]]",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Necromancy]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|6}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Bloodstone's spectral steed''''' was a [[necromancy]] [[spell]] used by [[wizard]]s. This spell was developed by [[Bloodstone (person)|Bloodstone]].",
-        "Effects": "This spell created a spectral creature resembling a [[vulture]], capable of flying the caster and their companions about. The caster needed to name all passengers at the time of casting.\n\nThe ''spectral steed'' uttered ghastly screeches while it flew. Natural creatures shunned the ''spectral steed'' and only monsters would dare attack it. The steed did not have any form of attack and would vanish if destroyed.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required a [[material component]] to cast. This took the form of a [[whistle]], which had to be carved out of a hollow bone from a vulture's wing, and it had to be blown when the spell was cast."
+        "mainbody": "Bloodstones spectral steed was a necromancy spell used by wizards. This spell was developed by Bloodstone.\nThis spell created a spectral creature resembling a vulture, capable of flying the caster and their companions about. The caster needed to name all passengers at the time of casting.\nThe spectral steed uttered ghastly screeches while it flew. Natural creatures shunned the spectral steed and only monsters would dare attack it. The steed did not have any form of attack and would vanish if destroyed.\nIn addition to verbal and somatic components, this spell required a material component to cast. This took the form of a whistle, which had to be carved out of a hollow bone from a vultures wing, and it had to be blown when the spell was cast."
     }
 }

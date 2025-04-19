@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Death bump",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Necromancy]], [[Universal (province)|Universal]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|5}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Death bump''''' was a [[spell]] unique to [[Zakhara]], the Land of Fate. This spell was used primarily by [[ghul lord]]s.",
-        "Effects": "This spell returned a target to life who had just experienced a killing blow. The spell accomplished this by transferring the pain from the killing blow from the target to a nearby person or creature. The recipient of the transferred damage could be a willing or unwilling target.\n\nIf the spell succeeded, the dead target returned to life with minimal health.",
-        "Components": "This spell did not require physical components to cast."
+        "mainbody": "Death bump was a spell unique to Zakhara, the Land of Fate. This spell was used primarily by ghul lords.\nThis spell returned a target to life who had just experienced a killing blow. The spell accomplished this by transferring the pain from the killing blow from the target to a nearby person or creature. The recipient of the transferred damage could be a willing or unwilling target.\nIf the spell succeeded, the dead target returned to life with minimal health.\nThis spell did not require physical components to cast."
     }
 }

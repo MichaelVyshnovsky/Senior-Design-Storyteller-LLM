@@ -1,27 +1,5 @@
 {
-    "template_data": {
-        "2|lb|k|long": "yes",
-        "2|lb|k|long_1": "yes"
-    },
     "document_data": {
-        "image": "Kinetic Spear.png",
-        "caption": "",
-        "name": "''Kinetic Spear''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Spear]]",
-        "material": "",
-        "creator": "[[Giddeon the Believer‎]]",
-        "origin": "[[Faerûn]], [[Toril]]",
-        "location": "[[Lonelywood]], [[Icewind Dale]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "+2",
-        "value2e": "12,050 [[gp]]",
-        "weight2e": "{{SI|2|lb|k|long=yes}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -44,8 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The '''''kinetic spear''''' was a unique [[enchanted]] [[polearm]] created by the philosopher [[wizard]] named [[Giddeon the Believer‎]] sometime in the late 10{{th}} or early 11{{th}} century [[DR]].",
-        "Powers": "Giddeon's ''kinetic spear'' was a light {{SI|2|lb|k|long=yes}} [[spear]] that possessed a strong ''+2'' enchantment that guided the wielder's arm and increased the weapon's damage. Additionally, the weapon was ensorcelled to tap into lines of latent natural magical power that permeated the world, channeling the magic through the shaft, exploding its tip with a violent crushing force, similarly to the effects of the ''[[lance of disruption]]'' [[spell]].",
-        "History": "The ''kinetic spear'' was the result of Giddeon's research into \"currents\" of natural magical energy that existed all throughout [[Toril]]. The weapon functioned as a \"focus device,\" allowing a non-mage wielder to harness its destructive power. Giddeon's ''kinetic spear'' was one of the very few items to survive a massive explosion of the mage's laboratory in the {{YearlinkName|1010}}. The weapon found its way into the frigid lands of [[Icewind Dale]] by the {{YearlinkName|1281}}. It belonged to a [[hin]] [[cleric]] [[Quinn Silverfinger]] of [[Waukeen]] who led [[The Golden Lodge]] shrine in [[Lonelywood]]."
+        "mainbody": "The kinetic spear was a unique enchanted polearm created by the philosopher wizard named Giddeon the Believer‎ sometime in the late 10 or early 11 century DR.\nGiddeons kinetic spear was a light  spear that possessed a strong +2 enchantment that guided the wielders arm and increased the weapons damage. Additionally, the weapon was ensorcelled to tap into lines of latent natural magical power that permeated the world, channeling the magic through the shaft, exploding its tip with a violent crushing force, similarly to the effects of the lance of disruption spell.\nThe kinetic spear was the result of Giddeons research into \"currents\" of natural magical energy that existed all throughout Toril. The weapon functioned as a \"focus device,\" allowing a non-mage wielder to harness its destructive power. Giddeons kinetic spear was one of the very few items to survive a massive explosion of the mages laboratory in the . The weapon found its way into the frigid lands of Icewind Dale by the . It belonged to a hin cleric Quinn Silverfinger of Waukeen who led The Golden Lodge shrine in Lonelywood."
     }
 }

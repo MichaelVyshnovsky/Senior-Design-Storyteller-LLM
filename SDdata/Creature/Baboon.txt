@@ -1,34 +1,13 @@
-{{Creature
-| image        = Baboon.png
-| caption      = A baboon.
-| name         = Baboon
-| size5e       = Small
-| type5e       = [[Beast]]
-| subtype5e    = 
-| alignment5e  = [[Unaligned]]
-| challenge5e  = 0
-| refs5e       = 
-| size4e       = 
-| origin4e     = 
-| type4e       = 
-| subtype4e    = 
-| alignment4e  = 
-| refs4e       = 
-| size3e       = Medium
-| type3e       = [[Animal]]
-| subtype3e    = 
-| alignment3e  = Always [[neutral]]
-| challenge3e  = {{Frac|1|2}}
 | refs3e       = 
 | size2e       = Small
-| alignment2e  = [[Neutral]]
+| alignment2e  = Neutral
 | refs2e       = 
 | size1e       = Small
-| alignment1e  = [[Neutral]]
+| alignment1e  = Neutral
 | refs1e       = 
 | patron deity = 
 | movement     = Climbing
-| vision       = [[Low-light vision]]
+| vision       = Low-light vision
 | activecycle  = Day
 | diet         = Herbivore
 | lifespan     = 
@@ -39,9 +18,9 @@
 | terrain      = Forests, mountains, plains
 | height       = 
 | genrefs      = 
-| length       = {{SIrange|2|4|ft}}
+| length       = 
 | wingspan     = 
-| weight       = {{SI|90|lbs}}
+| weight       = 
 | skincolor    = 
 | haircolor    = 
 | hairstyles   = 
@@ -49,26 +28,13 @@
 | eyecolor     = 
 | build        = 
 | distinctions = 
-| based        = [[wikipedia:Baboon|Baboon]]
-| first        = [[Monster Manual 1st edition|''Monster Manual'' 1{{st}} ed.]]
-}}
-'''Baboons''' were a species of herbivorous species of [[monkey]] that lived in groups.
-
-==Behavior==
+| based        = Baboon
+| first        = Monster Manual 1 ed.
+Baboons were a species of herbivorous species of monkey that lived in groups.
 Baboons were known for being very territorial and would attempt to drive off any invaders. However, they generally would flee if met with determined resistance by their invaders. Whenever they were threatened they would bark and howl.
-
-==Species==
-;[[Diuku]]: An intelligent species of baboon that inhabited the [[Kera Valley]] in [[Shou Lung]].<ref>
-
-==Ecology==
+Diuku An intelligent species of baboon that inhabited the Kera Valley in Shou Lung.
 These creatures lived in packs of ten to forty members, with two to eight large males acting as leaders.
-===Habitats===
 Baboons lived in forested, mountainous, or plains regions with a tropical or subtropical climate.
-
-They could be found all throughout the jungles of [[Chult]].<ref> In the [[Hordelands]], numerous tribes of them lived within the [[Howling Gap]] and their howls were thought by some to be the mountain pass's namesake.
-
-In [[east Zakhara]], baboons could be found in the [[Grey Jungle]]. And in the [[Crowded Sea]] of [[Zakhara]], they could be found in the island chain of [[Nada al-Hazan]] and the archipelago of [[Jazayir al-Sartan]].
-
-==Trivia==
-A baboon could be summoned by the ''[[conjure animals]]'' [[spell]].<ref>
-
+They could be found all throughout the jungles of Chult. In the Hordelands, numerous tribes of them lived within the Howling Gap and their howls were thought by some to be the mountain passs namesake.
+In east Zakhara, baboons could be found in the Grey Jungle. And in the Crowded Sea of Zakhara, they could be found in the island chain of Nada al-Hazan and the archipelago of Jazayir al-Sartan.
+A baboon could be summoned by the conjure animals spell.

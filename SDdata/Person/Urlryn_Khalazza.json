@@ -1,22 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "edition_1": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Urlryn Khalazza",
-        "alt_spelling": "",
-        "titles": "Master of Conjuration and Summoning",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Sshamath]], [[Gauth Grottoes]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "gender": "",
-        "race": "[[Dark elf]], {{former}} [[drow]]",
         "ethnicity": "",
         "occupation": "",
         "age": "",
@@ -47,16 +30,16 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Chaotic evil]]",
-        "class2e": "{{class table|edition=2e|[[Wizard]] ([[Conjurer]])|19}}",
+        "alignment2e": "Chaotic evil",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
         "class3e": "",
         "refs3e": "",
-        "alignment35": "[[Neutral evil]]",
+        "alignment35": "Neutral evil",
         "challenge35": "21",
-        "class35": "{{class table|edition=3e|[[Wizard]] ([[Conjurer]])|19}}",
+        "class35": "",
         "refs35": "",
         "alignment4e": "",
         "class4e": "",
@@ -65,7 +48,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Urlryn Khalazza''' was a [[drow]] [[conjurer]] and the head of the [[College of Conjuration]] and one of the members of the [[Conclave of Sshamath]] in the city of [[Sshamath]] in the late 14{{th}} century [[DR]].",
-        "History": "In the {{YearlinkName|1377}}, [[Q'arlynd Melarn]] told the priestess of [[Eilistraee]] [[Miverra]] that Urlryn had risen through the ranks by poisoning all his rivals. After speaking with Miverra, the Master of Divination [[Seldszar Elpragh]] informed Master Urlryn of his discoveries about problems with the ''[[faerzress]]'' and Urlryn said he'd received the same information from a cleric of [[Vhaeraun]] from [[Skullport]].\n\nIn the {{YearlinkName|1379}}, Urlryn agreed with Seldszar's proposal to the Conclave to elevate Q'arlynd as a new member, as the Master of the Ancient Arcana.\n\nLater he met with Masters [[Seldszar Elpragh]], [[Masoj Dhuunyl]] and [[Q'arlynd Melarn]] and they involved also Masoj in their plan to strip the [[faerzress]] from the [[drow]].\n\nTogether with Q'arlynd's apprentices and the Masters [[Seldszar Elpragh]] and [[Masoj Dhuunyl]] he helped Q'arlynd when he engineered (with the aid of Eilistraee) the ritual that transformed all drow not tainted by [[Wendonai]]'s blood into brown-skinned [[dark elves]]. Afterward they all relocated to [[Rhymanthiin]]."
+        "mainbody": "Urlryn Khalazza was a drow conjurer and the head of the College of Conjuration and one of the members of the Conclave of Sshamath in the city of Sshamath in the late 14 century DR.\nIn the , Qarlynd Melarn told the priestess of Eilistraee Miverra that Urlryn had risen through the ranks by poisoning all his rivals. After speaking with Miverra, the Master of Divination Seldszar Elpragh informed Master Urlryn of his discoveries about problems with the faerzress and Urlryn said hed received the same information from a cleric of Vhaeraun from Skullport.\nIn the , Urlryn agreed with Seldszars proposal to the Conclave to elevate Qarlynd as a new member, as the Master of the Ancient Arcana.\nLater he met with Masters Seldszar Elpragh, Masoj Dhuunyl and Qarlynd Melarn and they involved also Masoj in their plan to strip the faerzress from the drow.\nTogether with Qarlynds apprentices and the Masters Seldszar Elpragh and Masoj Dhuunyl he helped Qarlynd when he engineered (with the aid of Eilistraee) the ritual that transformed all drow not tainted by Wendonais blood into brown-skinned dark elves. Afterward they all relocated to Rhymanthiin."
     }
 }

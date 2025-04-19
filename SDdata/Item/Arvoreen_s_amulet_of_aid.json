@@ -1,29 +1,8 @@
 {
-    "template_data": {
-        "0.5|lb|k|long": "yes",
-        "0'3|'\"|long": "yes"
-    },
     "document_data": {
-        "image": "Arvoreen's amulet of aid.png",
-        "caption": "",
-        "name": "''Arvoreen's Amulet of Aid''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Amulet]]",
-        "location": "[[Liam's Hold]], [[Sword Coast]]<br/>[[West Harbor]], [[Mere of Dead Men]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "3{{rd}}",
         "itemlevel3e": "",
-        "value3e": "4,320 [[gp]]",
-        "weight3e": "{{SI|0.5|lb|k|long=yes}}",
+        "value3e": "4,320 gp",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -40,11 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Arvoreen's amulets of aid''''' were [[amulet]]s imbued with [[Arvoreen]]'s benevolent divine magics.",
-        "Description": "These amulets were [[gold]]en disks {{SI|0'3|'\"|long=yes}} in diameter with the ''[[holy symbol]]'' of Arvoreen the Defender inlaid in [[platinum]].",
-        "Powers": "''Arvoreen's amulets of aid'' held six charges of the ''[[aid]]'' spell. While more powerful exemplars also could cast the ''[[dimension door]]'' spell. Usage of each spell expended certain number of charges, ''aid'' - one, while ''dimension door'' - three. Due to the divine nature of these necklaces, they could only be used by creatures who did not venerate evil. If an evil being attempted to wear one of these amulets, they suffered a wave of weakness as if covered in [[negative energy]]. This weakness could not be alleviated by any means apart from discarding the amulet. If the wearer of ''Arvoreen's amulets of aid'' ever attacked a goodly halfling, the necklace immodestly crumbled into dust.",
-        "Creation": "''Arvoreen's amulets of aid'' could only be created by proficient hin wondrous item crafters. During the crafting process, the halfling needed to use ''aid'' and ''dimension door'' spells.",
-        "History": "These goodly magical items gained popularity in the late 14{{th}} century [[DR]] and could be found invidious cities across the [[Sword Coast]], not necessarily worn by [[halflings]].\n\nIn [[1372 DR]], one of these amulets belonged to a planar-traveling [[wizard]] and merchant of the magical trinkets named [[Vejoni H. Wyzz‎‎]] who pitched his pocket plane tent outside the town of [[Liam's Hold]].",
-        "Notable Owners": "*[[Daeghun Farlong]], an ex-adventurer and the father of [[Kalach-Cha]], the Knight-Commander of [[Crossroad Keep]]."
+        "mainbody": "Arvoreens amulets of aid were amulets imbued with Arvoreens benevolent divine magics.\nThese amulets were golden disks  in diameter with the holy symbol of Arvoreen the Defender inlaid in platinum.\nArvoreens amulets of aid held six charges of the aid spell. While more powerful exemplars also could cast the dimension door spell. Usage of each spell expended certain number of charges, aid - one, while dimension door - three. Due to the divine nature of these necklaces, they could only be used by creatures who did not venerate evil. If an evil being attempted to wear one of these amulets, they suffered a wave of weakness as if covered in negative energy. This weakness could not be alleviated by any means apart from discarding the amulet. If the wearer of Arvoreens amulets of aid ever attacked a goodly halfling, the necklace immodestly crumbled into dust.\nArvoreens amulets of aid could only be created by proficient hin wondrous item crafters. During the crafting process, the halfling needed to use aid and dimension door spells.\nThese goodly magical items gained popularity in the late 14 century DR and could be found invidious cities across the Sword Coast, not necessarily worn by halflings.\nIn 1372 DR, one of these amulets belonged to a planar-traveling wizard and merchant of the magical trinkets named Vejoni H. Wyzz‎‎ who pitched his pocket plane tent outside the town of Liams Hold.\n*Daeghun Farlong, an ex-adventurer and the father of Kalach-Cha, the Knight-Commander of Crossroad Keep."
     }
 }

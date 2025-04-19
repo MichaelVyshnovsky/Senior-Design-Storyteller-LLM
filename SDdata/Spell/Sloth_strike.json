@@ -1,16 +1,9 @@
 {
-    "template_data": {
-        "edition": "4e"
-    },
     "document_data": {
-        "type": "encounter",
-        "name": "Sloth Strike",
-        "keywords4e": "{{desc/arcane}}{{desc/cold}}{{desc/weapon}}",
         "school": "",
-        "level4e": "{{spell table|edition=4e|[[Swordmage]]|3}}",
+        "level4e": "",
         "type4e": "Encounter",
         "refs4e": "",
-        "mainbody": "'''''Sloth strike''''' is a [[transmutation]] [[spell]] used by several [[swordmage]]s of relatively low experience and power. When ''sloth strike'' is cast it infuses the flesh of a creature struck by a swordmage's weapon in melee with icy power, partially freezing their muscles and blood. In addition to causing the target great pain, this slows their movements for a brief moment. ''Sloth strike'' can be recharged after a short rest of a few minutes, at which point it can be cast again.",
-        "References": "{{refs}}\n[[Category:Transmutation spells]]\n[[Category:Swordmage spells]]\nef4f35aw2gkwx55icdms79kysihodut"
+        "mainbody": "Sloth strike is a transmutation spell used by several swordmages of relatively low experience and power. When sloth strike is cast it infuses the flesh of a creature struck by a swordmages weapon in melee with icy power, partially freezing their muscles and blood. In addition to causing the target great pain, this slows their movements for a brief moment. Sloth strike can be recharged after a short rest of a few minutes, at which point it can be cast again.\nCategoryTransmutation spells\nCategorySwordmage spells\nef4f35aw2gkwx55icdms79kysihodut"
     }
 }

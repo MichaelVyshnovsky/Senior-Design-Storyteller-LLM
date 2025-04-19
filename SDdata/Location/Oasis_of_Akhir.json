@@ -1,16 +1,5 @@
 {
-    "template_data": {
-        "400|yards|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Oasis of Akhir",
-        "alt spelling": "",
-        "aliases": "",
-        "type": "",
-        "region": "[[Raurin]], [[southeast Faerûn]]",
-        "size": "{{SI|400|yards|long=yes}}",
         "elevation": "",
         "depth": "",
         "capital": "",
@@ -91,7 +80,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "The '''Oasis of Akhir''' was a body of water in the [[Raurin]] in [[southeast Faerûn]].",
-        "Overview": "In the {{yearlinkName|1356}}, the [[efreeti]] Pasha [[Khalitharius]] burned everything around it to the ground shortly after being released. Some tracks around the oasis led straight towards the [[Oasis of the White Palm]]."
+        "mainbody": "The Oasis of Akhir was a body of water in the Raurin in southeast Faerûn. \nIn the , the efreeti Pasha Khalitharius burned everything around it to the ground shortly after being released. Some tracks around the oasis led straight towards the Oasis of the White Palm."
     }
 }

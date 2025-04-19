@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "0.3|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Relic of Semuanya''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Wondrous item",
-        "creator": "",
-        "location": "[[Mere of Dead Men]], [[Sword Coast North]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|0.3|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "A '''''relic of Semuanya''''' was a small [[enchanted]] trinket used by the [[Semuanya]]-worshiping [[lizardfolk]] of the [[Mere of Dead Men]] in the late 14{{th}} century [[DR]].",
-        "Description": "A ''relic of Semuanya'' was a small beast claw carved out of [[limestone]]. It radiated a minor magical aura.",
-        "Powers": "The trinket granted its owner a minor immunity to [[acid]] damage and improved their chances of resisting catching a [[disease]], or shaking its effects off faster.",
-        "History": "In the {{YearlinkName|1374}}, lizardfolk who served the duo of [[black dragon]]s, [[Voaraghamanthar]] and [[Waervaerendor]], carried a ''relic of Semuanya''. It could be recovered from the [[Dragon Caves]], the black dragon siblings' lair, once a shrine dedicated to [[Tyr]] Grimjaws at the heart of the Mere of Dead Men."
+        "mainbody": "A relic of Semuanya was a small enchanted trinket used by the Semuanya-worshiping lizardfolk of the Mere of Dead Men in the late 14 century DR.\nA relic of Semuanya was a small beast claw carved out of limestone. It radiated a minor magical aura.\nThe trinket granted its owner a minor immunity to acid damage and improved their chances of resisting catching a disease, or shaking its effects off faster.\nIn the , lizardfolk who served the duo of black dragons, Voaraghamanthar and Waervaerendor, carried a relic of Semuanya. It could be recovered from the Dragon Caves, the black dragon siblings lair, once a shrine dedicated to Tyr Grimjaws at the heart of the Mere of Dead Men."
     }
 }

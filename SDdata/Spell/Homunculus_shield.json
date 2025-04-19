@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Homunculus Shield",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]]<br/>[[Necromancy]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|8}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Homunculus shield''''' was an [[evocation]] and [[necromancy]] [[spell]] used by [[wizard]]s.",
-        "Effects": "This spell allowed the caster to separate a portion of their mind into a magical [[homunculus]]. Only the caster could see the homunculus, which looked like a tiny duplicate of the caster.\n\nThe caster could perform all of their normal actions while a ''homunculous shield'' was active. Perched atop the caster's head, the homunculus could cast ''[[teleport]]'', ''[[contingency]]'', and any intermediate or lower protective spells so long as they were spells currently memorized by the caster. Any spell cast by the homunculus was cast faster than if the spell were cast under normal conditions. The caster decided which spells the homunculus would cast and the spell was then wiped from the caster's memory as if they had cast it.\n\nThe homunculus' health was borrowed from the caster and they could only be harmed by magic. A wizard with an active ''homunculus shield'' was particularly vulnerable to the ''[[magic jar]]'' spell.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, this spell required a miniature sculptured bust of the spellcaster to cast."
+        "mainbody": "Homunculus shield was an evocation and necromancy spell used by wizards.\nThis spell allowed the caster to separate a portion of their mind into a magical homunculus. Only the caster could see the homunculus, which looked like a tiny duplicate of the caster.\nThe caster could perform all of their normal actions while a homunculous shield was active. Perched atop the casters head, the homunculus could cast teleport, contingency, and any intermediate or lower protective spells so long as they were spells currently memorized by the caster. Any spell cast by the homunculus was cast faster than if the spell were cast under normal conditions. The caster decided which spells the homunculus would cast and the spell was then wiped from the casters memory as if they had cast it.\nThe homunculus health was borrowed from the caster and they could only be harmed by magic. A wizard with an active homunculus shield was particularly vulnerable to the magic jar spell.\nIn addition to verbal and somatic components, this spell required a miniature sculptured bust of the spellcaster to cast."
     }
 }

@@ -1,19 +1,6 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Waterdhavian Cheese",
-        "othernames": "Bowshot Cheese",
-        "nicknames": "",
-        "type": "[[Cheese]]",
-        "location": "[[Waterdeep]], [[Sword Coast North]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "{{Plain table|Wheel|4 [[sp]]|Oval whey|35 [[gp]]}}",
-        "weight2e": "{{Plain table|Wheel|{{SI|1|lb}}|Oval whey|{{SI|100|lb|k}}}}",
+        "weight2e": "|Oval whey|",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -35,9 +22,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''Waterdhavian cheese''' was pale with holes and came from [[Waterdeep]],",
-        "Geography": "The [[cheese]] was available in most bars in the city and was also commonly eaten by the nobility.",
-        "Description": "It had a sharp and tangy bite.",
-        "Prices": "As of [[1368 DR]], a {{SIAdj|1|lb}} wheel was around four silver pieces, and a {{SIAdj|100|lb|k}} was available for around 35 [[gold piece]]s."
+        "mainbody": "Waterdhavian cheese was pale with holes and came from Waterdeep,\nThe cheese was available in most bars in the city and was also commonly eaten by the nobility. \nIt had a sharp and tangy bite.\nAs of 1368 DR, a  wheel was around four silver pieces, and a  was available for around 35 gold pieces."
     }
 }

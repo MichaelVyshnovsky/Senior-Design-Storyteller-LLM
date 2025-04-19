@@ -1,36 +1,5 @@
 {
-    "template_data": {
-        "length": "{{SI",
-        "8|ft|long": "yes",
-        "length_1": "{{SI",
-        "18|ft|long": "yes",
-        "18|ft|long_1": "yes",
-        "8|ft|long_1": "yes",
-        "1|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Ascallion.png",
-        "name": "Ascallion",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "",
-        "type3e": "",
-        "subtype3e": "",
-        "alignment3e": "",
-        "challenge3e": "",
-        "refs3e": "",
-        "alignment2e": "[[Neutral]]",
-        "size2e": "{{Size table|Young|Tiny|Adult Female|Huge|Adult Male|Large}}",
         "refs2e": "",
         "size1e": "",
         "alignment1e": "",
@@ -48,20 +17,12 @@
         "terrain": "Ocean",
         "genrefs": "",
         "form1": "Male",
-        "appearance1": "{{Appearance|height=|length={{SI|8|ft|long=yes}}|wingspan=|weight={{SI|940|lb|k}}|skincolor=charcoal grey to black|haircolor=|hairstyles=|feathers=|eyecolor=|build=|distinctions=}}",
+        "appearance1": "|wingspan=|weight=|skincolor=charcoal grey to black|haircolor=|hairstyles=|feathers=|eyecolor=|build=|distinctions=",
         "form2": "Female",
-        "appearance2": "{{Appearance|height=|length={{SI|18|ft|long=yes}}|wingspan=|weight={{SI|1400|lb|k}}|skincolor=dark gray or black|haircolor=|hairstyles=|feathers=|eyecolor=|build=|distinctions=}}",
+        "appearance2": "|wingspan=|weight=|skincolor=dark gray or black|haircolor=|hairstyles=|feathers=|eyecolor=|build=|distinctions=",
         "appearrefs": "",
         "based": "",
         "first": "",
-        "mainbody": "'''Ascallions''', also known as '''scallions''', were nomadic predatory fish that inhabited the warm and temperate oceans of [[Faerûn]].",
-        "Description": "Ascallions had a fearsome appearance, with prominent, sharp-edged, fang-like teeth. Adult female ascallions could grow up to {{SI|18|ft|long=yes}} long, while adult male ascallions grew to about {{SI|8|ft|long=yes}} in length. The female had a dark gray or black dorsal surface, and the male had a uniform color ranging from charcoal grey to black. Due to this coloring, male ascallions were also called '''\"shadows\"'''. Young ascallions were usually up to {{SI|1|ft|long=yes}} in length and light grey in appearance.",
-        "Biology": "Unlike other ocean predators, ascallions did not hunt by sensing vibrations in the water, instead relying only on their senses of sight and smell. This was a result of their centralized nervous system, which also limited their sense of touch and made them feel little to no pain. They were also immune to mental attacks and paralysis attacks.\n\nThe jaws of the female ascallion were incredibly powerful, with reports that they could easily pierce or splinter the hulls of small fishing boats.\n\nAscallions only rarely gave birth within their lifetime. When a female did she would raise and protect her young, having them live inside her mouth until they reached maturity. Once they did, the young would attack and eat their way out of their mother's mouth before dispersing.",
-        "Combat": "Female ascallions would hunt with their young. The young would be concealed in the mouth of the ascallion, and upon sighting prey, the female would open her mouth so the young could attack. The female would let the young kill the prey, and consume the remains after the young had their fill. The female would only assist if the prey proved to be too much of a challenge for the young.",
-        "Ecology": {
-            "Diet": "Ascallions were a carnivorous species. They particularly favored [[octopus]]es above all other prey and would abandon an attack if it sensed one nearby.",
-            "Habitats": "Ascallions could not live in fresh water, but were known to occasionally swim into coastal rivers for brief periods of time."
-        },
-        "Reputation": "Ascallions were considered a menace by many fishermen, and were generally feared and respected by aquatic and coastal communities."
+        "mainbody": "Ascallions, also known as scallions, were nomadic predatory fish that inhabited the warm and temperate oceans of Faerûn.\nAscallions had a fearsome appearance, with prominent, sharp-edged, fang-like teeth. Adult female ascallions could grow up to  long, while adult male ascallions grew to about  in length. The female had a dark gray or black dorsal surface, and the male had a uniform color ranging from charcoal grey to black. Due to this coloring, male ascallions were also called \"shadows\". Young ascallions were usually up to  in length and light grey in appearance.\nUnlike other ocean predators, ascallions did not hunt by sensing vibrations in the water, instead relying only on their senses of sight and smell. This was a result of their centralized nervous system, which also limited their sense of touch and made them feel little to no pain. They were also immune to mental attacks and paralysis attacks.\nThe jaws of the female ascallion were incredibly powerful, with reports that they could easily pierce or splinter the hulls of small fishing boats.\nAscallions only rarely gave birth within their lifetime. When a female did she would raise and protect her young, having them live inside her mouth until they reached maturity. Once they did, the young would attack and eat their way out of their mothers mouth before dispersing.\nFemale ascallions would hunt with their young. The young would be concealed in the mouth of the ascallion, and upon sighting prey, the female would open her mouth so the young could attack. The female would let the young kill the prey, and consume the remains after the young had their fill. The female would only assist if the prey proved to be too much of a challenge for the young.\nAscallions considered every other life-form in the water potential prey. Sharks were known to avoid areas occupied by ascallions.\nAscallions were a carnivorous species. They particularly favored octopuses above all other prey and would abandon an attack if it sensed one nearby.\nAscallions could not live in fresh water, but were known to occasionally swim into coastal rivers for brief periods of time.\nAscallions were considered a menace by many fishermen, and were generally feared and respected by aquatic and coastal communities."
     }
 }

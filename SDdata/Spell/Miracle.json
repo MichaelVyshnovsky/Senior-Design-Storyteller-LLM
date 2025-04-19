@@ -1,31 +1,7 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Miracle",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Evocation]]",
-        "domains3e": "[[Luck domain|Luck]], [[Zeal domain|Zeal]]",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Cleric]]|9|[[Luck domain|Luck]]|9|[[Zeal domain|Zeal]]|9}}",
         "type3e": "",
-        "refs3e": "{{Cite dragon/355/Seven Saintly Domains|30}}",
+        "refs3e": "",
         "reversible2e": "",
         "school2e": "",
         "spheres2e": "",
@@ -37,9 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Miracle''''' was an [[evocation]] spell that called upon a [[deity]] to intercede.",
-        "Effects": "At its most basic, the divine intercession took form of a weaker [[cleric]] [[spell]] than ''miracle'' was, an even weaker non-cleric spell, curing another person of a [[magic]]al ailment like being under a ''[[feeblemind]]'' or ''[[insanity]]'' spell, or something comparable to the aforementioned three.\n\nBy charging one's essence into the ''miracle'' spell, the deity interceded in a more dramatic fashion like sparing a community from a natural calamity or the like.\n\nThe souls of [[Heresy|heretic]]s were treated like the [[False]] by [[Kelemvor]]. A ''miracle''-spell was a means by which this soul could be brought to its proper destination, to be more precise, it was a means by which the deity with the claim on the soul was made to do something about it.",
-        "Components": "A ''miracle'' spell required [[somatic]] and [[verbal component]]s. Even when the aforementioned method of charging the spell with one's essence was not taken, when a spell that drained essence from somebody was duplicated, ''miracle'' drained the necessary essence from the caster.",
-        "History": "Being able to cast ''miracle'' and doing this in ways that could not be reproduced by witnesses made someone a more good religious leader in the eyes of people."
+        "mainbody": "Miracle was an evocation spell that called upon a deity to intercede.\nAt its most basic, the divine intercession took form of a weaker cleric spell than miracle was, an even weaker non-cleric spell, curing another person of a magical ailment like being under a feeblemind or insanity spell, or something comparable to the aforementioned three.\nBy charging ones essence into the miracle spell, the deity interceded in a more dramatic fashion like sparing a community from a natural calamity or the like.\nThe souls of heretics were treated like the False by Kelemvor. A miracle-spell was a means by which this soul could be brought to its proper destination, to be more precise, it was a means by which the deity with the claim on the soul was made to do something about it.\nA miracle spell required somatic and verbal components. Even when the aforementioned method of charging the spell with ones essence was not taken, when a spell that drained essence from somebody was duplicated, miracle drained the necessary essence from the caster.\nBeing able to cast miracle and doing this in ways that could not be reproduced by witnesses made someone a more good religious leader in the eyes of people."
     }
 }

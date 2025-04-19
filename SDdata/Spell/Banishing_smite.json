@@ -1,29 +1,7 @@
 {
-    "template_data": {
-        "edition": "5e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Banishing Smite",
-        "deity": "",
-        "school": "[[Abjuration]]",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "school5e": "[[Abjuration]]",
-        "patrons5e": "[[Hexblade patron|Hexblade]]",
-        "level5e": "{{spell table|edition=5e|[[Hexblade patron|Hexblade]]|5|[[Paladin]]|5}}",
         "type5e": "",
         "refs5e": "",
-        "mainbody": "'''''Banishing smite''''' was an [[abjuration]] spell for [[paladin]]s that made a weapon crackle with power and cause more damage.",
-        "Effects": "The spell caused the chosen weapon to crackle with power and cause serious damage. A struck target with less than certain level of vitality would be banished. A creature from another plane was sent to its native plane, while a creature on its home plane was sent to a harmless demiplane. While there, the target was incapacitated and when the spell ended the creature was sent back to their original location.",
-        "Components": "The spell had only a verbal component.",
-        "References": "{{refs}}\n[[Category:Abjuration spells]]\n[[Category:Paladin spells]]\nfrf8sllr65escnidjmaqdlg05rozknz"
+        "mainbody": "Banishing smite was an abjuration spell for paladins that made a weapon crackle with power and cause more damage.\nThe spell caused the chosen weapon to crackle with power and cause serious damage. A struck target with less than certain level of vitality would be banished. A creature from another plane was sent to its native plane, while a creature on its home plane was sent to a harmless demiplane. While there, the target was incapacitated and when the spell ended the creature was sent back to their original location.\nThe spell had only a verbal component.\nCategoryAbjuration spells\nCategoryPaladin spells\nfrf8sllr65escnidjmaqdlg05rozknz"
     }
 }

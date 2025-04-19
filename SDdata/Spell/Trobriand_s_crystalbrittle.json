@@ -1,38 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Trobriand's Crystalbrittle",
-        "othernames": "",
-        "deity": "",
-        "inventor": "[[Trobriand]]",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Sorcerer]]|3|[[Wizard]]|3}}",
         "refs3e": "",
         "reversible2e": "",
         "school2e": "",
@@ -45,9 +12,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Trobriand's crystalbrittle''''' was an [[arcane magic|arcane]] [[transmutation]] [[spell]] that weakened the physical durability of a target, making it easier to destroy.",
-        "Effects": "The [[magic]] of the spell worked automatically on any unattended objects, but objects in someone's possession had a chance of resisting the spell's effects. The caster's skill determined the size of the object that could be affected. ''Trobriand's crystalbrittle'' was permanent once cast.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required as a [[material component]] a glass needle worth at least 100 [[gp]] to cast.",
-        "History": "This spell was developed by [[Trobriand]] of [[Waterdeep]]."
+        "mainbody": "Trobriands crystalbrittle was an arcane transmutation spell that weakened the physical durability of a target, making it easier to destroy.\nThe magic of the spell worked automatically on any unattended objects, but objects in someones possession had a chance of resisting the spells effects. The casters skill determined the size of the object that could be affected. Trobriands crystalbrittle was permanent once cast.\nIn addition to verbal and somatic components, this spell required as a material component a glass needle worth at least 100 gp to cast.\nThis spell was developed by Trobriand of Waterdeep."
     }
 }

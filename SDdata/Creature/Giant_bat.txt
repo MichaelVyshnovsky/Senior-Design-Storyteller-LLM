@@ -1,39 +1,25 @@
-{{DEFAULTSORT:Bat, giant}}
-{{Creature
-| image        = <gallery>
-Giant_bat-5e.png|5e
-Dire bats.png|3e
-GiantBat ff 14.png|1e
-</gallery>
-| caption2     = Various depictions of dire bats.
-| name         = Giant bat
-| size5e       = Large
-| type5e       = [[Beast]]
-| subtype5e    = 
-| alignment5e  = [[Unaligned]]
-| challenge5e  = {{Frac|1|4}}
 | refs5e       = 
 | size4e       = Medium
 | origin4e     = Natural
 | type4e       = Beast
 | subtype4e    = 
 | alignment4e  = Unaligned
-| refs4e       = {{Cite dungeon/215/The Last Slave Lord|52}}
+| refs4e       = 
 | size3e       = Large
-| type3e       = [[Animal]]
+| type3e       = Animal
 | subtype3e    = 
-| alignment3e  = Always [[Neutral]]
+| alignment3e  = Always Neutral
 | challenge3e  = 2
 | refs3e       = 
 | size2e       = Medium
-| alignment2e  = [[Neutral]]
+| alignment2e  = Neutral
 | refs2e       = 
 | size1e       = Small
-| alignment1e  = [[Neutral]]
+| alignment1e  = Neutral
 | refs1e       = 
 | patron deity = 
 | movement     = Flying
-| vision       = [[Blindsight]]
+| vision       = Blindsight
 | activecycle  = 
 | diet         = 
 | lifespan     = 
@@ -44,7 +30,7 @@ GiantBat ff 14.png|1e
 | terrain      = Deserts
 | height       = 
 | length       = 
-| wingspan     = ~15' (~4.6 m)
+| wingspan     = ~15 (~4.6 m)
 | weight       = ~200 lbs. (~90 kg)
 | skincolor    = 
 | haircolor    = 
@@ -53,34 +39,17 @@ GiantBat ff 14.png|1e
 | eyecolor     = 
 | build        = 
 | distinctions = 
-| based        = [[wikipedia:en:Bat|Bat]]
-| first        = [[Fiend Folio 1st edition]]
-}}
-'''Giant bats''', also known as '''dire bats''', and sometimes '''large bats''', were giant [[bat]]s the size of horses.
-
-==Description==
-Dire bats averaged {{SI|200|pounds|k|long=yes}} and had leathery wings that stretched {{SI|15|feet|long=yes}} from end to end. Their bodies were covered in shaggy fur.
-
-==Behavior==
+| based        = Bat
+| first        = Fiend Folio 1st edition
+Giant bats, also known as dire bats, and sometimes large bats, were giant bats the size of horses.
+Dire bats averaged  and had leathery wings that stretched  from end to end. Their bodies were covered in shaggy fur.
 Dire bats hunted at night and rested during the day. They were stealthy and used echolocation to locate prey.
-
 These bats were easy to startle and tended to kill or drive away any other encountered creatures with their bite.
-
-==History==
-In the 15{{Th}} century [[DR]], giant bats were commonly known for being the steeds of the [[Lance Defenders]], the army of the [[dragonborn]] nation of [[Tymanther]].
-
-Around [[1374 DR]], one could find them stabled by the [[Zhentarim]] as mounts within the [[Temple in the Sky]].<ref>
-
-==Ecology==
-===Habitats===
-Dire bats flourished in the deepest regions of the [[Underdark]] and [[Undermountain]].
-
-Beyond the [[Prime Material plane]], giant bats could be found in the [[Domains of Dread]]. With some claiming that they and other bat species were more numerous there than in any other [[plane]] of existence.
-
-===Relationships===
-Dire bats were a [[favored animal]] of the [[orc]] god [[Shargaas]].{{Cite web enhancement/Deity Do's and Don'ts|14}}
-
-They were used as mounts by members of the [[Shadovar]] military and [[Zhentarim skymage]]s. [[Shield dwarf|Shield dwarves]] of [[Oghrann]] in the [[Upperdark]] also kept large populations of dire bats to use as mounts as well.
-[[File:Morgan Longbow giant bat.jpg|thumb|''[[Morgan Longbow]] being attacked by dire bats.'']]
-The [[drow]] kept dire bats both as objects of gambling and steeds. As the former, dire bats were used like chickens or dogs to fight each other, and the drow bet on the outcome. These fights happened either in the air or on the ground, in the latter case, the animals were specifically crippled. The latter use as steeds was dangerous for the rider and was done only in some drow cities. In that case commoners, which might well include children, were used, so that the damage to a community was negligible, if the rider died.{{Cite web/Drow Pets and Animal Companions}}
-
+In the 15 century DR, giant bats were commonly known for being the steeds of the Lance Defenders, the army of the dragonborn nation of Tymanther.
+Around 1374 DR, one could find them stabled by the Zhentarim as mounts within the Temple in the Sky.
+Dire bats flourished in the deepest regions of the Underdark and Undermountain.
+Beyond the Prime Material plane, giant bats could be found in the Domains of Dread. With some claiming that they and other bat species were more numerous there than in any other plane of existence.
+Dire bats were a favored animal of the orc god Shargaas.
+They were used as mounts by members of the Shadovar military and Zhentarim skymages. Shield dwarves of Oghrann in the Upperdark also kept large populations of dire bats to use as mounts as well.
+thumb|Morgan Longbow being attacked by dire bats.
+The drow kept dire bats both as objects of gambling and steeds. As the former, dire bats were used like chickens or dogs to fight each other, and the drow bet on the outcome. These fights happened either in the air or on the ground, in the latter case, the animals were specifically crippled. The latter use as steeds was dangerous for the rider and was done only in some drow cities. In that case commoners, which might well include children, were used, so that the damage to a community was negligible, if the rider died.

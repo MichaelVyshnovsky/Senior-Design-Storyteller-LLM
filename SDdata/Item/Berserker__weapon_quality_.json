@@ -1,23 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Berserker''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Weapon quality]]",
-        "location": "[[Rashemen]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "7{{th}}",
         "itemlevel3e": "+1 equivalent",
         "value3e": "",
         "weight3e": "",
@@ -36,7 +18,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''Berserker''' was a [[weapon quality|quality]] that increased the [[Item enchantment|enchantment level]] of a [[weapon]] wielded by someone in a rage. They proved quite useful to [[barbarian]]s and as expected [[Rashemaar berserkers|berserkers]].",
-        "Crafting": "Weapons with this quality were crafted by the ''[[vremyonni]]'' of Rashemen. The [[spell]]s involved crafting a ''berserker weapon'' were either ''[[divine power]]'', ''[[rage]]'', or ''[[emotion]]''."
+        "mainbody": "Berserker was a quality that increased the enchantment level of a weapon wielded by someone in a rage. They proved quite useful to barbarians and as expected berserkers.\nWeapons with this quality were crafted by the vremyonni of Rashemen. The spells involved crafting a berserker weapon were either divine power, rage, or emotion."
     }
 }

@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Shadowstrike",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]], [[Universal (province)|Universal]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|4}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Shadowstrike''''' was a [[spell]] unique to [[Zakhara]], the Land of Fate.",
-        "Effects": "Wizards used this spell to attack a target through the target's shadow. After casting the spell the caster would attack the target's shadow with a dagger. Successfully striking the shadow caused equal damage to the target. Shadows were usually easier to hit than the target since armor and magical items offering protection were always ignored. The shadow needed to be attacked immediately after casting the spell, otherwise the spell dissipated.\n\nA strong light source was needed in order to cast a shadow sufficient enough to attack.",
-        "Components": "This spell did not require physical components to cast."
+        "mainbody": "Shadowstrike was a spell unique to Zakhara, the Land of Fate.\nWizards used this spell to attack a target through the targets shadow. After casting the spell the caster would attack the targets shadow with a dagger. Successfully striking the shadow caused equal damage to the target. Shadows were usually easier to hit than the target since armor and magical items offering protection were always ignored. The shadow needed to be attacked immediately after casting the spell, otherwise the spell dissipated.\nA strong light source was needed in order to cast a shadow sufficient enough to attack.\nThis spell did not require physical components to cast."
     }
 }

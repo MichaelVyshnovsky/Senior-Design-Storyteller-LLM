@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "15|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Kumakawa.png",
-        "caption": "",
-        "name": "''Kumakawa''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Hide armor]]",
-        "location": "[[Sword Coast]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+3",
-        "value3e": "",
-        "weight3e": "{{SI|15|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Kumakawa''''' was a type of [[enchanted]] [[Light armor|light]] [[hide armor]] crafted out of a [[displacer beast]]'s hide.",
-        "Powers": "''Kumakawa'' armor possessed a ''+3'' enchantment to the wearer's defense. Additionally, the item's magics imbued the wearer with reflexes of a predator, increasing their evasion and dexterity.",
-        "History": "These sets of potent enchanted armors were named after their inventor, a famed [[artificer]] [[Kumakawa (person)|Kumakawa]], renowned for working with the most exotic skins and hides.",
-        "Notable Owners": "*[[Ammon Jerro]]: the [[warlock]] enemy of the [[King of Shadows]] and a reluctant ally of [[Kalach-Cha]] in [[1374 DR]].\n*[[Tusk (orc)|Tusk]]: an [[orc]] leader of [[elf]]-massacring [[Gutripper]] tribe from [[Thar]] and the brother of [[Grunt Steelstorm|Grunt \"Elf\" Steelstorm]], ally of the [[Hero of Daggerford]] in [[1373 DR]]."
+        "mainbody": "Kumakawa was a type of enchanted light hide armor crafted out of a displacer beasts hide.\nKumakawa armor possessed a +3 enchantment to the wearers defense. Additionally, the items magics imbued the wearer with reflexes of a predator, increasing their evasion and dexterity.\nThese sets of potent enchanted armors were named after their inventor, a famed artificer Kumakawa, renowned for working with the most exotic skins and hides.\n*Ammon Jerro the warlock enemy of the King of Shadows and a reluctant ally of Kalach-Cha in 1374 DR.\n*Tusk an orc leader of elf-massacring Gutripper tribe from Thar and the brother of Grunt \"Elf\" Steelstorm, ally of the Hero of Daggerford in 1373 DR."
     }
 }

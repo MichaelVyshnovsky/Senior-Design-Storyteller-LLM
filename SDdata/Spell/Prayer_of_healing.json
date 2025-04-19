@@ -1,22 +1,5 @@
 {
-    "template_data": {
-        "edition": "5e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Prayer of Healing",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Evocation]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "{{spell table|edition=5e|[[Cleric]]|2|}}",
         "type5e": "",
         "refs5e": "",
         "feature4e": "",
@@ -43,8 +26,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Prayer of healing''''' was a common [[spell]] used by [[cleric]]s.",
-        "Effects": "When cast, the spell healed up to six creatures in a 30 foot (9 meter) radius from the caster. [[Construct]]s and [[undead]] were immune to this spell.",
-        "Components": "This spell required only a [[Verbal component|verbal]] component."
+        "mainbody": "Prayer of healing was a common spell used by clerics.\nWhen cast, the spell healed up to six creatures in a 30 foot (9 meter) radius from the caster. Constructs and undead were immune to this spell.\nThis spell required only a verbal component."
     }
 }

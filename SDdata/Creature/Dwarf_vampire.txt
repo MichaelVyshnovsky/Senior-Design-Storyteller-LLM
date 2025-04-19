@@ -1,28 +1,6 @@
-{{Creature
-| image        = VampireDwarf.png
-| caption      = 
-| name         = Dwarf Vampire
-| othernames   = 
-| size5e       = 
-| type5e       = 
-| subtype5e    = 
-| alignment5e  = 
-| challenge5e  = 
-| refs5e       = 
-| size4e       = 
-| origin4e     = 
-| type4e       = 
-| subtype4e    = 
-| alignment4e  = 
-| refs4e       = 
-| size3e       = Medium
-| type3e       = [[Undead]]
-| subtype3e    = [[Augmented humanoid]]<br />[[Vampire]]
-| alignment3e  = Always [[evil]] (any)
-| challenge3e  = {{CR table|edition=3e|Fledling|+3|Mature|+3|Old|+4|Ancient|+4|Eminent|+5|Patriarch|+6}}
 | refs3e       = 
 | size2e       = Medium
-| alignment2e  = [[Neutral evil]]
+| alignment2e  = Neutral evil
 | refs2e       = 
 | size1e       = 
 | alignment1e  = 
@@ -31,11 +9,11 @@
 | movement     = 
 | vision       = 
 | activecycle  = Any
-| diet         = Blood<br/>Special
+| diet         = BloodSpecial
 | lifespan     = 
-| location     = [[Domains of Dread]]
+| location     = Domains of Dread
 | intelligence = Very
-| language     = Languages they knew in life, such as [[elven]]
+| language     = Languages they knew in life, such as elven
 | subraces     = 
 | climate      = 
 | terrain      = Underground
@@ -55,58 +33,25 @@
 | first        = 
 | based        = 
 | histrefs     = 
-}}
-'''Dwarven vampirism''' was a strain of [[vampirism]] originating from the [[Domains of Dread]] that only [[dwarves]] were susceptible to contracting. This strain of vampirism had some presence on [[Toril]].{{Cite organized play/LC/On Guard|3,9}}<ref group="note" name="strain">As the concept of [[demihuman]] strains of vampirism were created for and kept unique to the [[Ravenloft]] setting, it stands to reason that dwarven vampirism did not originate on Toril.
-
-==Description==
+Dwarven vampirism was a strain of vampirism originating from the Domains of Dread that only dwarves were susceptible to contracting. This strain of vampirism had some presence on Toril.As the concept of demihuman strains of vampirism were created for and kept unique to the Ravenloft setting, it stands to reason that dwarven vampirism did not originate on Toril.
 A dwarf vampire retained much of the appearance it had in life, though its hair became white or silvery in coloration. Their skin was cold to the touch and as hard as stone. Wherever they went, a faint trail of grave dust was left in their wake.
-
-==Personality==
-As dwarven culture generally disdained [[undead]] and viewed it as cheating warriors of a glorious end, those afflicted with dwarf vampirism harbored a hatred for themselves, or shame. This torment gradually led them to commit great acts of [[evil]] and suffering in order to ease the misery they felt over their state of being.
-
+As dwarven culture generally disdained undead and viewed it as cheating warriors of a glorious end, those afflicted with dwarf vampirism harbored a hatred for themselves, or shame. This torment gradually led them to commit great acts of evil and suffering in order to ease the misery they felt over their state of being.
 Dwarf vampires typically retained the strong sense of courage and vigor that were emblematic of dwarven people, making them deadly warriors with a love for battle. Many scholars also believed that they retained some vestiges of their love of dwarvenkind, thus explaining why they often mercifully killed their dwarf vampire minions after they had served their purpose.
-
-==Abilities==
-===Vampiric Powers===
-[[File:VampireDemihumans.png|thumb|273px|'''The demihuman vampires of Ravenloft:'''<br/>''An [[elf vampire]], a dwarf vampire, a [[halfling vampire]], and a [[gnome vampire]].'']]
-The strength and hardiness of a dwarf vampire was significantly enhanced from what they had in life, making them formidable combatants. Much like other vampires they could take the form of an [[animal]], though instead of a [[bat]] or [[wolf]] they ''[[shapechange]]d'' into various kinds of burrowing or subterranean creatures. The type of creature they shapechanged into depended upon the area they were in, though individual dwarf vampires also typically had favorite forms. Also like the standard strain of vampirism, they could summon groups of creatures to their aid. These were typically either packs of [[badger]]s, [[wolverine]]s, or [[thoqqua]]s. Any summoned animal would remain by their side for an hour before leaving.
-
-Weaponry could not harm a dwarf vampire unless it carried either a ''+2'' to ''4'' [[enchantment]], depending upon how many centuries old they were. Those over 200 years of age required a ''+3'' enchantment to harm, while those over 500 years of age required a ''+4'' enchantment. If an enchantment was not powerful enough to harm a dwarf vampire, it would harmlessly pass through their bodies as if they were incorporeal.
-
-In addition to the traditional vampiric immunities to [[disease]]s, [[poison]]s, toxins, as well as ''[[charm]]'', ''hold'', and ''[[sleep]]'' [[spell]]s, dwarf vampires were only half as harmed by spells relying upon cold or electricity. They also retained the dwarven resistance to [[magic]], though it was further enhanced by their vampiric connection to the [[Negative Energy plane]]. Consequently, their powerful resistance to magic made it impossible for dwarf vampires to wield [[magic item]]s.
-
-===Distinct Powers===
-In addition to blood, dwarf vampires sustained themselves by draining the vitality of other creatures. Dwarves slain by their vitality drain would arise three days later as a subservient dwarf vampire or [[vampire spawn]], depending upon how hardy they were in life and if certain conditions were met (see "Creation").
-
-Dwarf vampires lacked the vampiric power to ''[[charm person|charm people]]'', but they did have a special gaze that could instill a sense of supernatural fear and revulsion into the hearts of others. They also uniquely had the ability to phase and walk through stone at will as if it were air, which they often used to spring sneak attacks. This ability was similar to the spell ''[[meld into stone]]'', except dwarf vampires moved at a faster rate, could remain merged within stone indefinitely, and could even extend the aura of this ability so as to sink other creatures or objects into the ground with them. If ''[[dispel magic]]'' was cast on a dwarf vampire they would lose access to this ability for around two to eight minutes. And finally, dwarf vampires had a sort of [[tremorsense]], allowing them to sense the location of anything within {{SI|60|ft|long=yes}} of them so long as it was in contact with stone, and they could see in areas with even the dimmest light as if it were daylight.
-
-===Weaknesses===
-Some believed [[sunlight]] was not fatal to dwarf vampires as it was others, merely disabling their regenerative ability, whilst other sources claimed that their bodies suffered [[petrification]] when in sunlight. This could be undone through typical means of reversing petrification, such as the spell ''[[stone to flesh]]''. Because of this and finding sunlight to be far too bright, a dwarf vampire would go to great lengths to avoid it. They also lacked the typical vampiric weakness to [[holy water]], though water from a natural spring had a similar effect on them. [[Mirror]]s and [[holy symbol]]s did work to keep them at bay, although making contact with the latter did not cause them harm. Some, though not all, dwarf vampires were reported to be harmed by whatever metal it was that they craved most in life.<ref> [[Paladin]]s and [[priest]]s could turn them away just like any basic vampire, though as they got older and their connection to the Negative Energy plane strengthed it became more difficult to do so. Some of the most ancient and powerful of dwarf vampires were alleged to be completely immune to ''[[turn undead]]'' no matter the strength of the caster's faith.
-
-Methods for keeping dwarf vampires at bay included unbroken lines of powdered metal or metal shavings, which they were incapable of crossing over even when ''stonewalking'' or taking direct action to break, and non-stone structures, as they were incapable of entering any structure that was not constructed at least in part from earth or stone. However, they could circumvent lines of powdered metal could by commanding an animal or servant to do so.
-
-Whenever a dwarf vampire was brought to the brink of death their body would merge with the ground around it and attempt to flee to its [[coffin]]. If they took too long to reach the coffin, their body permanently merged with the stone, putting an end to their life. But the most surefire way to end a dwarf vampire's existence was to impale them through the heart with a natural stone formation, such as a stalactite or stalagmite. Their heart then had to be cut out, soaked in [[oil]] for three days, and set alight or they would otherwise come back to life once the stalactite or stalagmite was removed. Only once the heart was reduced to ash could the creature be considered fully slain.
-
-==Combat==
-It was quite common for dwarf vampires to wield the types of weaponry they had adored in life, such as [[battleaxe]]s or [[warhammer]]s, and for those who had been warriors in life to be kitted out in [[armor]]. They had a natural combat prowess against [[goblin]]s, [[hobgoblin]]s, [[ogre]]s, [[orc]]s, [[troll]]s, and other creatures typically viewed as the enemies of dwarves.
-
-==History==
-Sometime prior to the {{YearlinkName|207}},<ref><ref> the year [[Clan Ironstar]] fell apart due to overwhelming [[orc]] forces,<ref> a dwarf named [[Angor]] was passed-up for the position of Thane for one of the clan's kingdoms. Unwilling to accept this defeat, Angor and his wife [[Dannon]] went in search of powerful magics they could use to further his position. Whilst doing so Dannon discovered and was attacked by a dwarf vampire, becoming turned by it.<ref group="note" name="turned">Though the dwarf vampires described in the adventure do line up as being those of Ravenloft, it must be noted as an incongruity that Dannon was so quickly turned into one by her attacker.
-
-At failing to save his wife Angor flew into a fit of blind rage, killing both the vampire and his own hearth guard. He died in the process and lost favor with his patron, the dwarven [[deity]] of battle [[Clangeddin Silverbeard]]. Evil members of the [[Morndinsamman]] witnessed this and decided to raise Angor as a [[death knight]], which in turn angered Clangeddin, who in retaliation brought his hearth guard back to life as [[skeleton warrior]]s determined to end him once and for all. Finally, the dark gods gifted Angor a [[Helm of the Ironstar|magical helmet]] with which to  control the skeletons. From then on he traveled throughout the [[Underdark]] with his now dwarf vampire wife for centuries, plotting revenge against Clangeddin and the dwarves of the surface world.{{Cite organized play/LC/On Guard|11}}
-
-Sometime around the {{YearlinkName|1371}},<ref group="note" name="date">In other sources it is stated that the founding of Ravens Deep and the death of Lord Blacktree both occurred in the year 1371 DR. Since Ravens Deep exists in the adventure, yet Lord Blacktree is still alive, it’s safe to conclude that the year must be 1371 DR. a group of [[adventurer]]s were tasked by [[Charles Frederik LaVerne Blacktree IV|Lord Blacktree]] with guarding a tunnel intersection that led into [[Ravens Deep]], the outpost of Lord Blacktree's Underdark expedition to recover the [[artifact]] known as the ''[[Orb of Protection]]''.{{Cite organized play/LC/On Guard|4}} Whilst guarding this tunnel the adventurers were approached by a large group of worshipers of [[Malphagor]], an upstart god of undead.{{Cite organized play/LC/On Guard|9-10}}
-
-==Ecology==
-===Creation===
-Any dwarf or [[half-dwarf]] that died as a result of their vitality being drained by a dwarf vampire would arise as one themselves after a period of three days, but only if certain conditions were arranged by their killer. Firstly, the victim's body had to remain intact. Mutilation or outright destruction of the corpse would prevent their rising. Secondly, they had to be placed within a stone coffin or sarcophagus and entombed underground &ndash; entombment within an above ground crypt would not suffice.. Finally, dwarf vampire that had killed them had to visit the victim on the third night and sprinkle them with powdered metals. If all was done,The cited sources make no mention of half-dwarves, but since [[half-elves]] can be turned into [[elf vampire]]s it stands to reason that the same mechanics would apply. depending upon how hardy they were in life, the victim would arise as either a vampire spawn or a new dwarf vampire, subservient to their sire.
-
-Alternatively, dwarf vampires could occur on the world of Toril from the [[Blessing of Malphagor]], a unique [[curse]] that the [[demipower]] [[Malphagor]] would place upon any living creature who killed his high priests.{{Cite organized play/LC/A Shot in the Dark, Part I/Blessing of Malphagor}} Alternatively, high priests of Malphagor were capable of bestowing this "blessing" upon corpses.{{Cite organized play/LC/A Shot in the Dark, Part I|11}} Some dwarven clerics and [[fighter]]s that bore this curse would arise as a dwarf vampire one to four minutes after dying.
-
-==Society==
+thumb|273px|The demihuman vampires of RavenloftAn elf vampire, a dwarf vampire, a halfling vampire, and a gnome vampire.
+The strength and hardiness of a dwarf vampire was significantly enhanced from what they had in life, making them formidable combatants. Much like other vampires they could take the form of an animal, though instead of a bat or wolf they shapechanged into various kinds of burrowing or subterranean creatures. The type of creature they shapechanged into depended upon the area they were in, though individual dwarf vampires also typically had favorite forms. Also like the standard strain of vampirism, they could summon groups of creatures to their aid. These were typically either packs of badgers, wolverines, or thoqquas. Any summoned animal would remain by their side for an hour before leaving.
+Weaponry could not harm a dwarf vampire unless it carried either a +2 to 4 enchantment, depending upon how many centuries old they were. Those over 200 years of age required a +3 enchantment to harm, while those over 500 years of age required a +4 enchantment. If an enchantment was not powerful enough to harm a dwarf vampire, it would harmlessly pass through their bodies as if they were incorporeal.
+In addition to the traditional vampiric immunities to diseases, poisons, toxins, as well as charm, hold, and sleep spells, dwarf vampires were only half as harmed by spells relying upon cold or electricity. They also retained the dwarven resistance to magic, though it was further enhanced by their vampiric connection to the Negative Energy plane. Consequently, their powerful resistance to magic made it impossible for dwarf vampires to wield magic items.
+In addition to blood, dwarf vampires sustained themselves by draining the vitality of other creatures. Dwarves slain by their vitality drain would arise three days later as a subservient dwarf vampire or vampire spawn, depending upon how hardy they were in life and if certain conditions were met (see "Creation").
+Dwarf vampires lacked the vampiric power to charm people, but they did have a special gaze that could instill a sense of supernatural fear and revulsion into the hearts of others. They also uniquely had the ability to phase and walk through stone at will as if it were air, which they often used to spring sneak attacks. This ability was similar to the spell meld into stone, except dwarf vampires moved at a faster rate, could remain merged within stone indefinitely, and could even extend the aura of this ability so as to sink other creatures or objects into the ground with them. If dispel magic was cast on a dwarf vampire they would lose access to this ability for around two to eight minutes. And finally, dwarf vampires had a sort of tremorsense, allowing them to sense the location of anything within  of them so long as it was in contact with stone, and they could see in areas with even the dimmest light as if it were daylight.
+Some believed sunlight was not fatal to dwarf vampires as it was others, merely disabling their regenerative ability, whilst other sources claimed that their bodies suffered petrification when in sunlight. This could be undone through typical means of reversing petrification, such as the spell stone to flesh. Because of this and finding sunlight to be far too bright, a dwarf vampire would go to great lengths to avoid it. They also lacked the typical vampiric weakness to holy water, though water from a natural spring had a similar effect on them. Mirrors and holy symbols did work to keep them at bay, although making contact with the latter did not cause them harm. Some, though not all, dwarf vampires were reported to be harmed by whatever metal it was that they craved most in life. Paladins and priests could turn them away just like any basic vampire, though as they got older and their connection to the Negative Energy plane strengthed it became more difficult to do so. Some of the most ancient and powerful of dwarf vampires were alleged to be completely immune to turn undead no matter the strength of the casters faith.
+Methods for keeping dwarf vampires at bay included unbroken lines of powdered metal or metal shavings, which they were incapable of crossing over even when stonewalking or taking direct action to break, and non-stone structures, as they were incapable of entering any structure that was not constructed at least in part from earth or stone. However, they could circumvent lines of powdered metal could by commanding an animal or servant to do so.
+Whenever a dwarf vampire was brought to the brink of death their body would merge with the ground around it and attempt to flee to its coffin. If they took too long to reach the coffin, their body permanently merged with the stone, putting an end to their life. But the most surefire way to end a dwarf vampires existence was to impale them through the heart with a natural stone formation, such as a stalactite or stalagmite. Their heart then had to be cut out, soaked in oil for three days, and set alight or they would otherwise come back to life once the stalactite or stalagmite was removed. Only once the heart was reduced to ash could the creature be considered fully slain.
+It was quite common for dwarf vampires to wield the types of weaponry they had adored in life, such as battleaxes or warhammers, and for those who had been warriors in life to be kitted out in armor. They had a natural combat prowess against goblins, hobgoblins, ogres, orcs, trolls, and other creatures typically viewed as the enemies of dwarves.
+Sometime prior to the , the year Clan Ironstar fell apart due to overwhelming orc forces, a dwarf named Angor was passed-up for the position of Thane for one of the clans kingdoms. Unwilling to accept this defeat, Angor and his wife Dannon went in search of powerful magics they could use to further his position. Whilst doing so Dannon discovered and was attacked by a dwarf vampire, becoming turned by it.Though the dwarf vampires described in the adventure do line up as being those of Ravenloft, it must be noted as an incongruity that Dannon was so quickly turned into one by her attacker.
+At failing to save his wife Angor flew into a fit of blind rage, killing both the vampire and his own hearth guard. He died in the process and lost favor with his patron, the dwarven deity of battle Clangeddin Silverbeard. Evil members of the Morndinsamman witnessed this and decided to raise Angor as a death knight, which in turn angered Clangeddin, who in retaliation brought his hearth guard back to life as skeleton warriors determined to end him once and for all. Finally, the dark gods gifted Angor a magical helmet with which to  control the skeletons. From then on he traveled throughout the Underdark with his now dwarf vampire wife for centuries, plotting revenge against Clangeddin and the dwarves of the surface world.
+Sometime around the ,In other sources it is stated that the founding of Ravens Deep and the death of Lord Blacktree both occurred in the year 1371 DR. Since Ravens Deep exists in the adventure, yet Lord Blacktree is still alive, it’s safe to conclude that the year must be 1371 DR. a group of adventurers were tasked by Lord Blacktree with guarding a tunnel intersection that led into Ravens Deep, the outpost of Lord Blacktrees Underdark expedition to recover the artifact known as the Orb of Protection. Whilst guarding this tunnel the adventurers were approached by a large group of worshipers of Malphagor, an upstart god of undead.
+Any dwarf or half-dwarf that died as a result of their vitality being drained by a dwarf vampire would arise as one themselves after a period of three days, but only if certain conditions were arranged by their killer. Firstly, the victims body had to remain intact. Mutilation or outright destruction of the corpse would prevent their rising. Secondly, they had to be placed within a stone coffin or sarcophagus and entombed underground &ndash entombment within an above ground crypt would not suffice.. Finally, dwarf vampire that had killed them had to visit the victim on the third night and sprinkle them with powdered metals. If all was done,The cited sources make no mention of half-dwarves, but since half-elves can be turned into elf vampires it stands to reason that the same mechanics would apply. depending upon how hardy they were in life, the victim would arise as either a vampire spawn or a new dwarf vampire, subservient to their sire.
+Alternatively, dwarf vampires could occur on the world of Toril from the Blessing of Malphagor, a unique curse that the demipower Malphagor would place upon any living creature who killed his high priests. Alternatively, high priests of Malphagor were capable of bestowing this "blessing" upon corpses. Some dwarven clerics and fighters that bore this curse would arise as a dwarf vampire one to four minutes after dying.
 Dwarf vampires were solitary creatures, being the most introverted of all the racial strains of vampire found in the Domains of Dead. Rather than seeking power they tended to keep to themselves, shunning all contact with other dwarves and lairing within the deepest and darkest of underground reaches.
-
 They were generally reluctant to inflict other dwarves with this vampirism, only doing so whenever they felt that minions were necessary in order to carry out evil plans. Usually they would kill these minions a few months after their creation.
-===Languages===
-Dwarf vampires retained understanding of all the languages they spoke in life, such as [[Dwarvish]].
-
+Dwarf vampires retained understanding of all the languages they spoke in life, such as Dwarvish.

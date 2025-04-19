@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Unleash monolith",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Conjuration]], [[Sand (school)|Sand]], [[Wind (school)|Wind]], [[Sea (school)|Sea]], [[Flame (school)|Flame]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|8}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Unleash monolith''''' was a [[spell]] unique to [[Zakhara]], the Land of Fate.",
-        "Effects": "This was an [[elemental]] summoning spell that brought an elemental creature to the [[Prime Material Plane]]. The monolith was barely sentient and composed of one of the four elements depending on the components supplied. These monoliths were much stronger than regular elementals and were capable of destroying nearly anything in their path.\n\nIn order to open the interplanar gate to summon these creatures, the wizard needed to spend a full day carefully meditating and chanting. The wizard could not be interrupted by anything during this time, nor could they stop to eat, sleep, or drink. The stress of casting this spell sometimes overwhelmed wizards with weaker constitution, resulting in their collapse of even death.\n\nOnce summoned, an elemental monolith was uncontrollable. Spells that banished or controlled regular elementals had no effect on them. They sought to destroy as much of their surroundings as possible for the duration of the spell.",
-        "Components": "This spell required different components to cast depending on the type of monolith summoned.\n\n''Sand monoliths'' required huge amounts of sand or loose dust.\n\n''Flame monoliths'' required a large amount of fire. A burning building would suffice.\n\n''Wind monoliths'' required a large amount of moving air. A storm front or hurricane was a reliable source.\n\n''Sea monoliths'' required enough water to fill a small lake."
+        "mainbody": "Unleash monolith was a spell unique to Zakhara, the Land of Fate.\nThis was an elemental summoning spell that brought an elemental creature to the Prime Material Plane. The monolith was barely sentient and composed of one of the four elements depending on the components supplied. These monoliths were much stronger than regular elementals and were capable of destroying nearly anything in their path.\nIn order to open the interplanar gate to summon these creatures, the wizard needed to spend a full day carefully meditating and chanting. The wizard could not be interrupted by anything during this time, nor could they stop to eat, sleep, or drink. The stress of casting this spell sometimes overwhelmed wizards with weaker constitution, resulting in their collapse of even death.\nOnce summoned, an elemental monolith was uncontrollable. Spells that banished or controlled regular elementals had no effect on them. They sought to destroy as much of their surroundings as possible for the duration of the spell.\nThis spell required different components to cast depending on the type of monolith summoned.\nSand monoliths required huge amounts of sand or loose dust.\nFlame monoliths required a large amount of fire. A burning building would suffice.\nWind monoliths required a large amount of moving air. A storm front or hurricane was a reliable source.\nSea monoliths required enough water to fill a small lake."
     }
 }

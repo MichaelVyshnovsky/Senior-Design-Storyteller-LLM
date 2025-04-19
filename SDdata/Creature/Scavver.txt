@@ -1,12 +1,7 @@
-{{Creature
-| image        = Scavver.gif
-| caption      = A scavver.
-| name         = Scavver
-| size5e       = {{Size table|Brown|Large|Gray|Medium|Night|Huge|Void|Huge}}
-| type5e       = [[Monstrosity]]
+| type5e       = Monstrosity
 | subtype5e    = 
-| alignment5e  = [[Unaligned]]
-| challenge5e  = {{CR table|edition=5e|Brown|4|Gray|{{Frac|1|4}}|Night|5|Void|11}}
+| alignment5e  = Unaligned
+| challenge5e  = |Night|5|Void|11
 | refs5e       = 
 | size4e       = 
 | origin4e     = 
@@ -21,7 +16,7 @@
 | challenge3e  = 
 | refs3e       = 
 | size2e       = 
-| alignment2e  = [[Neutral]]
+| alignment2e  = Neutral
 | refs2e       = 
 | size1e       = 
 | alignment1e  = 
@@ -33,7 +28,7 @@
 | lifespan     = 
 | location     = 
 | language     = 
-| subraces     = [[Gray scavver]]<br />[[Brown scavver]]<br />[[Night scavver]]<br />[[Void scavver]]
+| subraces     = Gray scavverBrown scavverNight scavverVoid scavver
 | climate      = Any
 | terrain      = Any space
 | genrefs      = 
@@ -47,40 +42,21 @@
 | feathers     = 
 | eyecolor     = 
 | build        = 
-| distinctions = Fish-like<br />Single eye
+| distinctions = Fish-likeSingle eye
 | based        = 
 | first        = 
-}}
-'''Scavvers''' were one-eyed, [[shark]]-like creatures of [[wildspace]].
-
-==Description==
+Scavvers were one-eyed, shark-like creatures of wildspace.
 Scavvers had long, fish-like bodies, including gills and fins, but with a single large, glowing eye toward the front of their heads. They had a gaping maw filled with sharp teeth.
-
-===Varieties===
-There were many subspecies of scavver, with physical features, such as number of fins, varying among them. Nevertheless, they could be roughly divided into four major groupings:
-
-; [[Gray scavver]]s : The smallest of the scavvers, these creatures traveled in packs.
-; [[Brown scavver]]s : Larger than grays, browns were also venomous and could eject a small cloud of poison from their gullets.
-; [[Night scavver]]s : Omnivorous, black-colored scavvers that were braver than the two smaller varieties.
-; [[Void scavver]]s : The smartest, and most aggressive of the scavvers, these large, carnivorous, black scavvers were feared man-eaters.
-
-==Behavior==
-Most scavvers were&mdash;as their name suggests&mdash;scavengers. As natural [[spelljammer]]s, scavvers could magically propel themselves through [[wildspace]]. They followed behind large space objects, including asteroids, spelljamming vessels, or even larger spaceborne creatures, lazily resting in the [[gravity plane]], breathing from the [[air envelope]], and consuming any waste or refuse falling behind. They usually stayed behind whatever object they came upon unless driven off.
-
-Smaller scavvers were mostly just a nuisance, though their consumption of precious air could be a concern. Larger scavvers, however, were more likely to not wait for food to come to them and could be aggressive and deadly, with the ability to swallow [[human]]-sized creatures whole.
-
-==Combat==
+There were many subspecies of scavver, with physical features, such as number of fins, varying among them. Nevertheless, they could be roughly divided into four major groupings
+ Gray scavvers  The smallest of the scavvers, these creatures traveled in packs.
+ Brown scavvers  Larger than grays, browns were also venomous and could eject a small cloud of poison from their gullets.
+ Night scavvers  Omnivorous, black-colored scavvers that were braver than the two smaller varieties.
+ Void scavvers  The smartest, and most aggressive of the scavvers, these large, carnivorous, black scavvers were feared man-eaters.
+Most scavvers were&mdashas their name suggests&mdashscavengers. As natural spelljammers, scavvers could magically propel themselves through wildspace. They followed behind large space objects, including asteroids, spelljamming vessels, or even larger spaceborne creatures, lazily resting in the gravity plane, breathing from the air envelope, and consuming any waste or refuse falling behind. They usually stayed behind whatever object they came upon unless driven off.
+Smaller scavvers were mostly just a nuisance, though their consumption of precious air could be a concern. Larger scavvers, however, were more likely to not wait for food to come to them and could be aggressive and deadly, with the ability to swallow human-sized creatures whole.
 Different species of scavvers had different instinctive attack tendencies, but their primary weapon was their open mouth.
-
-==Ecology==
-The majority of scavver varieties were pack creatures. They would drift through populous regions of wildspace, such as in the navigational path between two celestial bodies, until their paths collided with a passing object, at which point they would trail behind it and scavenge. They tended to avoid large planets, as it was too difficult for them to "swim" against the planet's gravity.
-
-Scavvers needed to breathe air to survive, but they had the ability to completely shut down their basic bodily functions for exceptionally long periods of time. While in such a state of hibernation, a scavver's eye ceased its glowing, and it required no air or food.
-
-Scavvers had been detected in all known [[crystal sphere]]s, including [[Realmspace]], and even within the [[phlogiston]].
-
-==Reputation==
-Scavvers were a hated nuisance but also a source of food for spacefarers. Gray scavver meat was bland but nutritious, while night scavver meat was a delicious treat. There were even rumors that the [[Shou]] of [[Kara-Tur]] had determined a way to safely prepare poisonous brown scavver.
-
-Many large asteroid settlements had permanent "scavver crews", whose job it was to kill any scavvers found trailing the city. The [[Rock of Bral]] in the [[Tears of Selûne]] was an example of this. The scavver crews of the Rock were usually assigned as a punishment and were composed of those ship crews who had been found guilty of bringing the scavvers in behind their own vessels.
-
+The majority of scavver varieties were pack creatures. They would drift through populous regions of wildspace, such as in the navigational path between two celestial bodies, until their paths collided with a passing object, at which point they would trail behind it and scavenge. They tended to avoid large planets, as it was too difficult for them to "swim" against the planets gravity.
+Scavvers needed to breathe air to survive, but they had the ability to completely shut down their basic bodily functions for exceptionally long periods of time. While in such a state of hibernation, a scavvers eye ceased its glowing, and it required no air or food.
+Scavvers had been detected in all known crystal spheres, including Realmspace, and even within the phlogiston.
+Scavvers were a hated nuisance but also a source of food for spacefarers. Gray scavver meat was bland but nutritious, while night scavver meat was a delicious treat. There were even rumors that the Shou of Kara-Tur had determined a way to safely prepare poisonous brown scavver.
+Many large asteroid settlements had permanent "scavver crews", whose job it was to kill any scavvers found trailing the city. The Rock of Bral in the Tears of Selûne was an example of this. The scavver crews of the Rock were usually assigned as a punishment and were composed of those ship crews who had been found guilty of bringing the scavvers in behind their own vessels.

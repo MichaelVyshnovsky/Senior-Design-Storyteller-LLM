@@ -1,23 +1,5 @@
 {
-    "template_data": {
-        "rca": "right"
-    },
     "document_data": {
-        "image": "Marionette-1e.png",
-        "caption": "A man puppeteers a marionette of a [[warrior]].",
-        "name": "Marionette",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Puppet]]",
-        "creator": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "{{Split table|rca=right|Dragon|15 [[gp]]|Humanoid|7 gp}}",
         "weight2e": "",
         "refs2e": "",
         "school3e": "",
@@ -41,9 +23,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Marionettes''' were a variety of [[puppet]] that could be found in both the Realms and [[Barovia]], that differed from others in that they were controlled by strings.\n{{quote|Who is this maestro, this puppet master, pulling the strings of so many marionettes?|[[Drizzt Do'Urden]]}}",
-        "Availability": "* In the Domain of Barovia, the toysmith [[Gadof Blinsky]] of [[Vallaki]] sold a wide variety of marionettes, modeled after jesters,<ref> kings and queens, princes and princesses, executioners, tax collectors, dunces, [[vampire]]s, and vampire hunters.<ref>",
-        "Notable Marionettes": "* [[Carrionette]]s, a variety of malicious [[construct]]s, were sometimes created from marionettes.",
-        "History": "On [[Toril]], marionettes could be found as far back as the [[Netheril|Empire of Netheril]], where those skilled in using them could be found as members of the [[League of Noted Singers and Performers]]. A notable puppeteer of marionettes during this time was the [[archwizard]] [[Halavar]], who created a [[magical item]] with engravings of marionettes that allowed him to effortlessly reproduce the ones he owned.\n\nIn the mid–14{{th}} century [[DR]], one could make special orders for marionettes from the [[Stringpullers guild]] of [[Saerloon]].\n\nDuring this same time, [[Aurora's Whole Realms Catalogue (in-universe)|''Aurora's Whole Realms Catalogue'']] sold a wide variety of marionettes, which they marketed as a tool for [[bard]]s. The marionettes that they sold resembled variously bards, crones, cutpurses, farmers, herdsmen, kings and queens, [[mage]]s, maidens, merchants, mothers, noblemen, [[orc]]s, peasants, [[priest]]s, princes and princesses, [[skeleton]]s, slaves, and soldiers. They also sold [[dragon]] marionettes, made of [[silk]] from [[Shou Lung]], that required three hands to operate. By the late 15{{th}} century DR, these dragon marionettes were also produced in the [[Faerûn]]ian state of [[Nathlan]].\n\nWhen the [[warmage]] [[Aoth Fezim]] was affected by the [[Spellplague]], he saw an illusory image of [[Bareris Anskuld]] dangling a marionette that resembled himself, twitching its strings to make it dance."
+        "mainbody": "Marionettes were a variety of puppet that could be found in both the Realms and Barovia, that differed from others in that they were controlled by strings.\n* In the Domain of Barovia, the toysmith Gadof Blinsky of Vallaki sold a wide variety of marionettes, modeled after jesters, kings and queens, princes and princesses, executioners, tax collectors, dunces, vampires, and vampire hunters.\n* Carrionettes, a variety of malicious constructs, were sometimes created from marionettes.\nOn Toril, marionettes could be found as far back as the Empire of Netheril, where those skilled in using them could be found as members of the League of Noted Singers and Performers. A notable puppeteer of marionettes during this time was the archwizard Halavar, who created a magical item with engravings of marionettes that allowed him to effortlessly reproduce the ones he owned.\nIn the mid–14 century DR, one could make special orders for marionettes from the Stringpullers guild of Saerloon.\nDuring this same time, Auroras Whole Realms Catalogue sold a wide variety of marionettes, which they marketed as a tool for bards. The marionettes that they sold resembled variously bards, crones, cutpurses, farmers, herdsmen, kings and queens, mages, maidens, merchants, mothers, noblemen, orcs, peasants, priests, princes and princesses, skeletons, slaves, and soldiers. They also sold dragon marionettes, made of silk from Shou Lung, that required three hands to operate. By the late 15 century DR, these dragon marionettes were also produced in the Faerûnian state of Nathlan.\nWhen the warmage Aoth Fezim was affected by the Spellplague, he saw an illusory image of Bareris Anskuld dangling a marionette that resembled himself, twitching its strings to make it dance."
     }
 }

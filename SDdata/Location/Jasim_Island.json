@@ -1,19 +1,5 @@
 {
-    "template_data": {
-        "k|long": "yes",
-        "15|mi|k|long": "yes",
-        "45|mi|k|long": "yes",
-        "15|mi|k|long_1": "yes"
-    },
     "document_data": {
-        "image": "Hitan.JPG",
-        "caption": "A map showing Jasim Island off the coast of the Cities of the Pantheon.",
-        "name": "Jasim Island",
-        "alt spelling": "",
-        "aliases": "",
-        "type": "Island",
-        "region": "[[Al-Faraq Islands]], [[Crowded Sea]]",
-        "size": "{{SI|675|sq mi|k|long=yes}}",
         "elevation": "",
         "depth": "",
         "capital": "",
@@ -55,7 +41,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "'''Jasim Island''' was an island within the [[Golden Gulf]] and [[Crowded Sea]] of [[interior Zakhara]].{{Cite interactive atlas|B2bSWIc}}",
-        "Geography": "Jasim Island was located west of the southwest corner of the [[Cities of the Pantheon]] region of Zakhara. It was the northernmost island in [[Al-Faraq Islands]]. The island sat roughly {{SI|15|mi|k|long=yes}} west of the mainland near [[Fanus]]. The interior of the island was elevated above the perimeter, and the entire western coast was covered with coral reefs. Jasim Island was approximately {{SI|45|mi|k|long=yes}} long and {{SI|15|mi|k|long=yes}} wide. The island was uninhabited as of [[1367 DR]]{{AQ-time}}."
+        "mainbody": "Jasim Island was an island within the Golden Gulf and Crowded Sea of interior Zakhara.\nJasim Island was located west of the southwest corner of the Cities of the Pantheon region of Zakhara. It was the northernmost island in Al-Faraq Islands. The island sat roughly  west of the mainland near Fanus. The interior of the island was elevated above the perimeter, and the entire western coast was covered with coral reefs. Jasim Island was approximately  long and  wide. The island was uninhabited as of 1367 DR."
     }
 }

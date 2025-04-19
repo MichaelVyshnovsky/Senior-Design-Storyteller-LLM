@@ -1,39 +1,18 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "edition_1": "2e",
-        "edition_2": "1e"
-    },
     "document_data": {
-        "variant": "",
-        "name": "Restoration",
-        "inventor": "[[Volhm]]",
-        "type": "",
-        "keywords5e": "",
-        "level5e": "",
-        "type5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "school3e": "[[Conjuration]] ([[Healing spells|Healing]])",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Adept]]|4|[[Cleric]]|4|[[Paladin]]|4|[[Sohei]]|4}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "true",
-        "school2e": "[[Evocation]], [[Necromancy]]<br/>[[Dimension]], [[Shadow magic|Shadow]]<br/>[[Universal (province)]]<br/>[[Inventive]], [[Variation]]",
-        "spheres2e": "[[Necromantic sphere|Necromantic]]",
-        "level2e": "{{spell table|edition=2e|[[Arcanist]]|9|[[Cleric]]|7|[[Mystic]]|7|[[Necromantic sphere|Necromantic]]|7|[[Wizard]]|9}}",
+        "school2e": "Evocation, NecromancyDimension, ShadowUniversal (province)Inventive, Variation",
+        "spheres2e": "Necromantic",
+        "level2e": "",
         "type2e": "",
-        "refs2e": "<ref>{{Cite dragon/229/The Dimensional Wizard}}<ref><ref>",
+        "refs2e": "",
         "reversible1e": "true",
-        "school1e": "[[Necromancy]]",
-        "level1e": "{{spell table|edition=1e|[[Cleric]]|7|[[Magic-user]]|9}}",
+        "school1e": "Necromancy",
+        "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Restoration''''' was a [[conjuration]] or [[necromancy]] spell that could restore a lost life energy level to a creature, remove fatigue, and remove temporary ability handicaps. The older necromantic versions of this spell could restore a lost level, cure insanity and were reversible, resulting in the spell '''''[[energy drain]]''''' which siphoned off one life energy level from a creature.",
-        "Effects": "The caster had to successfully touch the target of this spell. In order to restore a life energy level, the caster had to apply this spell no later than a number of days equal to his or her own level or else the loss was permanent. The necromantic versions of this spell cured all forms of insanity and negated spells like ''[[feeblemind]]'' that lowered intelligence, whereas the conjuration version returned all lost strength, constitution, dexterity, intelligence, wisdom, or charisma (only one of these characteristics per casting of ''restoration'') and removed all fatigue and exhaustion, but did not cure insanity. (See ''[[greater restoration]]''.) \n\nFor the necromantic versions, upon ''restoration'' of an energy level, both the caster and the recipient were aged two years.\n\nNo version of this spell could restore constitution loss due to death and subsequent ''[[raise dead]]'' or ''[[Resurrection (spell)|resurrection]]''.\n\nWhen cast in reverse, ''energy drain'' sucked one life energy level from the target after a successful touch attack, similar to that of a [[wight]], [[specter]], or [[vampire]].",
-        "Components": "The necromantic versions of this spell required only verbal and somatic components (and cost the caster two years of life). The conjuration version did not age the caster, but did require at least 100 gp of [[diamond]] dust to be sprinkled over the target. The [[Arcane magic|arcane]] version of this spell required a piece of a [[wight]]'s skin as a materiel component."
+        "mainbody": "Restoration was a conjuration or necromancy spell that could restore a lost life energy level to a creature, remove fatigue, and remove temporary ability handicaps. The older necromantic versions of this spell could restore a lost level, cure insanity and were reversible, resulting in the spell energy drain which siphoned off one life energy level from a creature.\nThe caster had to successfully touch the target of this spell. In order to restore a life energy level, the caster had to apply this spell no later than a number of days equal to his or her own level or else the loss was permanent. The necromantic versions of this spell cured all forms of insanity and negated spells like feeblemind that lowered intelligence, whereas the conjuration version returned all lost strength, constitution, dexterity, intelligence, wisdom, or charisma (only one of these characteristics per casting of restoration) and removed all fatigue and exhaustion, but did not cure insanity. (See greater restoration.) \nFor the necromantic versions, upon restoration of an energy level, both the caster and the recipient were aged two years.\nNo version of this spell could restore constitution loss due to death and subsequent raise dead or resurrection.\nWhen cast in reverse, energy drain sucked one life energy level from the target after a successful touch attack, similar to that of a wight, specter, or vampire.\nThe necromantic versions of this spell required only verbal and somatic components (and cost the caster two years of life). The conjuration version did not age the caster, but did require at least 100 gp of diamond dust to be sprinkled over the target. The arcane version of this spell required a piece of a wights skin as a materiel component."
     }
 }

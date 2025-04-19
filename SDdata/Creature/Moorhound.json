@@ -1,32 +1,5 @@
 {
-    "template_data": {
-        "5|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Moorhound",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "Medium",
-        "type3e": "[[Animal]]",
-        "subtype3e": "",
-        "alignment3e": "Always [[neutral]]",
-        "challenge3e": "1",
-        "refs3e": "",
-        "size2e": "Medium",
-        "alignment2e": "[[Neutral]]",
-        "refs2e": "{{Cite organized play/LC/Dragon's Knowledge|25}}",
         "size1e": "",
         "alignment1e": "",
         "refs1e": "",
@@ -36,14 +9,14 @@
         "diet": "",
         "intelligence": "Animal",
         "lifespan": "",
-        "location": "[[Moonshae Isles]]",
+        "location": "Moonshae Isles",
         "language": "",
         "subraces": "",
         "climate": "",
         "terrain": "",
         "genrefs": "",
         "height": "",
-        "length": "{{SI|5|ft}}",
+        "length": "",
         "wingspan": "",
         "weight": "",
         "skincolor": "",
@@ -55,17 +28,6 @@
         "distinctions": "",
         "appearrefs": "",
         "first": "",
-        "novels": "''[[Darkwalker on Moonshae]]'';''[[Prophet of Moonshae]]''",
-        "organized play": "''[[Dragon's Knowledge]]'';''[[The Good, the Undead, and the Ugly]]''",
-        "mainbody": "===References===\n{{Refs}}\n[[Category:Dogs]]\n[[Category:Animals]]\n[[Category:Canines]]\no49zf8p5uti58k15v9edow95obrsocw",
-        "Description": "On average, this breed's back was up to the height of a [[human]] man's waist and their bodies were {{SI|5|ft|long=yes}} long.",
-        "Ecology": {
-            "Habitats": "In the years following [[1385 DR]], packs of wild moorhounds became prevalent across [[Corwell]], the pastoral heartland of [[Gwynneth]] Isle.{{Cite dragon/376/Realmslore: Sarifal|64}}"
-        },
-        "Notable moorhounds": "*[[Angus]]\n* [[Canthus]], a moorhound belonging to [[Tristan Kendrick]].\n* [[Warlock (moorhound)|Warlock]], a moorhound belonging to [[Angus Blackstone]].",
-        "Index": {
-            "Appearances": "{{Appearances\n| novels = ''[[Darkwalker on Moonshae]]'';''[[Prophet of Moonshae]]''\n| organized play = ''[[Dragon's Knowledge]]'';''[[The Good, the Undead, and the Ugly]]''\n}}",
-            "References": "{{Refs}}\n[[Category:Dogs]]\n[[Category:Animals]]\n[[Category:Canines]]\no49zf8p5uti58k15v9edow95obrsocw"
-        }
+        "mainbody": "A moorhound was a huge, shaggy breed of dog with long legs and powerful muscles. \nOn average, this breeds back was up to the height of a human mans waist and their bodies were  long.\nIn the years following 1385 DR, packs of wild moorhounds became prevalent across Corwell, the pastoral heartland of Gwynneth Isle.\n*Angus\n* Canthus, a moorhound belonging to Tristan Kendrick.\n* Warlock, a moorhound belonging to Angus Blackstone.\nCategoryDogs\nCategoryAnimals\nCategoryCanines\no49zf8p5uti58k15v9edow95obrsocw"
     }
 }

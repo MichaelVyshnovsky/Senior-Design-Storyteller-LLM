@@ -1,22 +1,5 @@
 {
     "document_data": {
-        "image": "Needles-ME.png",
-        "caption": "A pin and a needle.",
-        "name": "Needle",
-        "othernames": "Pin",
-        "nicknames": "",
-        "type": "Tool",
-        "material": "Metal, bone, horn",
-        "creator": "",
-        "origin": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "{{Plain table|Needles (10)|4 [[cp]]|Needle case|1 [[sp]]|Pins (10)|3 cp}}",
         "weight2e": "",
         "refs2e": "",
         "school3e": "",
@@ -40,10 +23,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Needles''' and '''pins''' were small tools used for tailoring and medical purposes.",
-        "Availability": "''[[Aurora's Whole Realms Catalogue (in-universe)|Aurora's Whole Realms Catalogue]]'' sold sewing needles (4 [[cp]] per 10) and pins (3 cp per 10), alongside other tailoring supplies.\n\nIt also sold extensive medical kits that included many tools, including various curved and straight needles for sewing up flesh.",
-        "Usage": {
-            "Magic": "* ''[[Avoidance]]'' required a magnetized needle to cast.\n* ''[[Deeppockets]]'' required a small golden sewing needle."
-        }
+        "mainbody": "Needles and pins were small tools used for tailoring and medical purposes.\nAuroras Whole Realms Catalogue sold sewing needles (4 cp per 10) and pins (3 cp per 10), alongside other tailoring supplies.\nIt also sold extensive medical kits that included many tools, including various curved and straight needles for sewing up flesh.\nGarment needles came in a variety of sizes and purposes, including sewing, crocheting, and knitting. Pins and needles were often stored in aptly-named pincushions.\nBefore a needle and thread could be passed through a tough material like leather or wood, a hole would be prepared with a tool such as an awl or a delicate drill.\nSimilar medical needles were used to sew flesh instead of fabric.\n* Avoidance required a magnetized needle to cast.\n* Deeppockets required a small golden sewing needle."
     }
 }

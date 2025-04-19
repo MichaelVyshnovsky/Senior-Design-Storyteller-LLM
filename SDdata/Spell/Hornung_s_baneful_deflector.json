@@ -1,42 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "15|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Hornung's Baneful Deflector.jpg",
-        "caption": "",
-        "name": "Hornung's Baneful Deflector",
-        "deity": "",
-        "inventor": "[[Hornung]]",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Wild magic]]<br />[[Evocation]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|2}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -44,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Hornung's baneful deflector''''' was a [[wild magic]] [[evocation]] [[spell]] used by [[wild mage]]s. This spell was developed by [[Hornung]], a mage originally from [[Toril]].{{Cite card/AD&D Trading Cards/1993 rare set|22|[[Hornung|Hornung the Anarch]]}}",
-        "Effects": "This spell partially surrounded the caster in a shimmering hemisphere of transparent force that moved with the caster. The hemisphere served to protect the caster against magical and non-magical missile attacks targeted specifically at them, but it did not protect against explosions from nearby missile attacks.\n\nWhen a missile struck the ''baneful defelctor'' it would deflect and randomly strike a different living target within {{SI|15|ft|long=yes}}. The original target was a possible target for this random deflection. If the original target was struck by the deflection then the spell would instantly fail.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, this spell required a small prism to cast. The prism was shattered during the casting."
+        "mainbody": "Hornungs baneful deflector was a wild magic evocation spell used by wild mages. This spell was developed by Hornung, a mage originally from Toril.\nThis spell partially surrounded the caster in a shimmering hemisphere of transparent force that moved with the caster. The hemisphere served to protect the caster against magical and non-magical missile attacks targeted specifically at them, but it did not protect against explosions from nearby missile attacks.\nWhen a missile struck the baneful defelctor it would deflect and randomly strike a different living target within . The original target was a possible target for this random deflection. If the original target was struck by the deflection then the spell would instantly fail.\nIn addition to verbal and somatic components, this spell required a small prism to cast. The prism was shattered during the casting."
     }
 }

@@ -1,16 +1,5 @@
 {
-    "template_data": {
-        "KAI|tur|ay|refs": "==Geography==",
-        "Kiture]].": "=History=="
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Kiture",
-        "alt spelling": "",
-        "aliases": "",
-        "type": "Settlement",
-        "region": "[[Kurrimal]], [[Pythan Trench]], [[Alamber Sea]]<br />{{Former}} [[Aleaxtis]]",
         "size": "Town",
         "elevation": "",
         "depth": "",
@@ -19,9 +8,9 @@
         "georefs": "",
         "demonym": "",
         "population": "",
-        "races": "[[Sahuagin]]",
+        "races": "Sahuagin",
         "languages": "",
-        "religion": "[[Sekolah]]",
+        "religion": "Sekolah",
         "alignment": "",
         "socrefs": "",
         "imports": "",
@@ -30,11 +19,11 @@
         "comrefs": "",
         "government": "Monarchy",
         "rulertype": "Prince",
-        "ruler": "[[Kiture (character)|Kiture]]",
+        "ruler": "Kiture",
         "head of state": "",
         "leader1": "",
         "head of government": "King",
-        "leader2": "[[T'Kalah]]",
+        "leader2": "TKalah",
         "executive": "",
         "legislature": "",
         "judiciary": "",
@@ -44,9 +33,9 @@
         "start event": "",
         "start date": "",
         "event1": "Founding",
-        "date1": "''Circa'' [[350 DR]]",
+        "date1": "Circa 350 DR",
         "event2": "Renamed Kiture",
-        "date2": "[[1370 DR]]",
+        "date2": "1370 DR",
         "event3": "",
         "date3": "",
         "event4": "",
@@ -92,10 +81,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "'''Kiture''' ({{Pronounce|KAI|tur|ay|refs=",
-        "Geography": "This town was located within the [[Alamber Sea]], at the top edge of the [[Pythan Trench]]. Out of Kurrimal's nine towns, it was the closest to the [[Sharksbane Wall]] and [[Serôs]].",
-        "Government": "Like all nine of the towns of Kurrimal, this town was governed by a prince of the same name, [[Kiture (character)|Kiture]].",
-        "History": "Kiture was founded ''circa'' {{YearlinkConvert|420|TS}}, though under a different name. In the {{YearlinkName|1370}}, when the kingdom of Kurrimal was founded as the successor of Aleaxtis,<ref> this town's name was changed to that of the prince put in charge of governing it.",
-        "Inhabitants": "Compared to other towns, Kiture had an unusually high rate of [[malenti]] births. Most malenti spawned in this town were quickly put to death, while some managed to survive to become [[priest]]esses of [[Sekolah]], spies, or [[warrior]]s. However, due to Kitture's brutal elimination of malenti newborns, it was not uncommon for malenti in any three of these groups to go rogue and take up life in Serôs."
+        "mainbody": "Kiture (, though under a different name. In the , when the kingdom of Kurrimal was founded as the successor of Aleaxtis, this towns name was changed to that of the prince put in charge of governing it.\nCompared to other towns, Kiture had an unusually high rate of malenti births. Most malenti spawned in this town were quickly put to death, while some managed to survive to become priestesses of Sekolah, spies, or warriors. However, due to Kittures brutal elimination of malenti newborns, it was not uncommon for malenti in any three of these groups to go rogue and take up life in Serôs."
     }
 }

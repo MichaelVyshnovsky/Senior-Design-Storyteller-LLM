@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Lightning lance.png",
-        "caption": "",
-        "name": "Lightning Lance",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]]",
-        "spheres2e": "[[Combat sphere|Combat]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|4}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Lightning lance''''' was an [[evocation]] [[spell]] that created a bolt of corporeal lightning that could be wielded or thrown as a weapon or discharged at will.",
-        "Effects": "When the spell was cast, a 4-foot-long (1.2 meters) shaft of lightning appeared in the caster's hand. If they wished, the [[cleric]] could discharge the ''lance'' upon an object or surface, throw it in a manner similar to a ''[[javelin]]'', or wield it as a [[polearm]].\n\nIf the ''lightning lance'' was thrown, it flew through the air and damaged any person or creature it struck, similar to a ''[[lightning bolt]]''. When wielded as a melee weapon, the ''lance'' functioned as if it possessed a ''+1 [[Item enchantment|enchantment]]''.",
-        "History": "The specifications of this spell were inscribed upon the [[Talassan]] [[relic]], the ''[[Chanting Chain]]''.",
-        "Components": "This spell required [[Verbal component|verbal]] and [[somatic component]]s in order to be cast."
+        "mainbody": "Lightning lance was an evocation spell that created a bolt of corporeal lightning that could be wielded or thrown as a weapon or discharged at will.\nWhen the spell was cast, a 4-foot-long (1.2 meters) shaft of lightning appeared in the casters hand. If they wished, the cleric could discharge the lance upon an object or surface, throw it in a manner similar to a javelin, or wield it as a polearm.\nIf the lightning lance was thrown, it flew through the air and damaged any person or creature it struck, similar to a lightning bolt. When wielded as a melee weapon, the lance functioned as if it possessed a +1 enchantment.\nThe specifications of this spell were inscribed upon the Talassan relic, the Chanting Chain.\nThis spell required verbal and somatic components in order to be cast."
     }
 }

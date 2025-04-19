@@ -1,32 +1,5 @@
 {
-    "template_data": {
-        "0.3|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Branch of Giving''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Wondrous item",
-        "material": "",
-        "creator": "",
-        "origin": "",
-        "location": "[[Undermountain]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|0.3|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -43,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "A '''''Branch of Giving''''' was an [[enchanted]] unwilting sapling usable by [[druid]]s and [[ranger]]s.",
-        "Powers": "Nature's magic was channeled through a ''Branch of Giving'', keeping it green and alive without having to be planted into the earth. A druid or a ranger could will the sapling to grow two flameberries or two iceberries once per day each. To no surprise, flameberries harnessed magical power of fire and iceberries – of cold. These berries could be fed to an [[animal companion]] to grant them special abilities temporarily. Berries of ice granted them powers and resistances of winter and berries of flame – powers and resistances of fiery nature.",
-        "History": "In the {{YearlinkName|1372}}, some of the ''Branches of Giving'' could be found within the endless halls of [[Undermountain]] – the mega-dungeon underneath the City of Splendor, [[Waterdeep]]."
+        "mainbody": "A Branch of Giving was an enchanted unwilting sapling usable by druids and rangers.\nNatures magic was channeled through a Branch of Giving, keeping it green and alive without having to be planted into the earth. A druid or a ranger could will the sapling to grow two flameberries or two iceberries once per day each. To no surprise, flameberries harnessed magical power of fire and iceberries – of cold. These berries could be fed to an animal companion to grant them special abilities temporarily. Berries of ice granted them powers and resistances of winter and berries of flame – powers and resistances of fiery nature.\nIn the , some of the Branches of Giving could be found within the endless halls of Undermountain – the mega-dungeon underneath the City of Splendor, Waterdeep."
     }
 }

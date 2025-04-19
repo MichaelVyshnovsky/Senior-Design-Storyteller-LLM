@@ -1,22 +1,8 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "Clarity.png",
-        "caption": "",
-        "name": "Clarity",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school3e": "[[Necromancy]]",
-        "domains3e": "",
-        "descriptors3e": "{{Desc/mind-affecting}}",
-        "level3e": "{{spell table|edition=3e|[[Bard]]|2|[[Cleric]]|3|[[Sorcerer]]|3|[[Wizard]]|3}}",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
-        "mainbody": "'''''Clarity''''' was a [[necromancy]] [[spell]] cast by [[Bard|bards]], [[Cleric|clerics]], [[Sorcerer|sorcerers]], and [[Wizard|wizards]].",
-        "Effects": "This spell removed most effects hampering the target's mind. For each such effect removed the target was subjected to a minor amount of [[negative energy]]. It then provided full protection against all mind-affecting spells for the duration of the spell, ranging from little under a minute to a few minutes depending on the caster's power.",
-        "Components": "The spell required only a  [[Somatic component|somatic]] component to cast."
+        "mainbody": "Clarity was a necromancy spell cast by bards, clerics, sorcerers, and wizards.\nThis spell removed most effects hampering the targets mind. For each such effect removed the target was subjected to a minor amount of negative energy. It then provided full protection against all mind-affecting spells for the duration of the spell, ranging from little under a minute to a few minutes depending on the casters power.\nThe spell required only a  somatic component to cast."
     }
 }

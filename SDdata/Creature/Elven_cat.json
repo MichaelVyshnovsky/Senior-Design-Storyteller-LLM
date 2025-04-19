@@ -1,18 +1,7 @@
 {
-    "template_data": {
-        "1|feet|long": "yes",
-        "20|feet|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Elven cat",
-        "othernames": "Elfin cat",
-        "size2e": "Tiny",
-        "alignment2e": "[[Neutral]]",
-        "refs2e": "{{cite book/Monstrous Manual|38}}",
         "size1e": "Small",
-        "alignment1e": "[[Neutral]]",
+        "alignment1e": "Neutral",
         "refs1e": "",
         "patron deity": "",
         "movement": "",
@@ -20,14 +9,14 @@
         "activecycle": "Any",
         "diet": "Carnivore",
         "lifespan": "",
-        "location": "[[Myth Drannor]], [[Myth Glaurach]]",
-        "intelligence": "{{Int|2}} to {{Int|7}}",
+        "location": "Myth Drannor, Myth Glaurach",
+        "intelligence": "to",
         "language": "",
         "subraces": "",
         "climate": "",
         "terrain": "",
         "genrefs": "",
-        "height": "{{SI|1|feet|long=yes}}",
+        "height": "",
         "length": "",
         "wingspan": "",
         "weight": "",
@@ -42,13 +31,6 @@
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "An '''elven cat''' or '''elfin cat''' was a feline from a race bred by [[elves]], infused with magic through generations of close contact with their sorcery.",
-        "Description": "Most elven cats had dark-striped fur of gray brown. They were sometimes mistaken for [[lynx]]es or wild cats.",
-        "Behavior": "Elven cats were very intelligent, with many of them conversant in rudimentary [[elven language]] alongside their own. Some had instead attached themselves to families of [[halfling]]s or [[gnome]]s and spoke these languages instead, or even the tongue of [[brownie]]s or other sylvan languages.\n\nThey also enjoyed swimming, unlike many other small cats.",
-        "Abilities": "An elven cat could leap up to {{SI|20|feet|long=yes}}, and it always acted as if under ''[[pass without trace]]''. They possessed a number of [[spell]]s, including a limited form of ''[[detect thoughts]]'', and ''[[enlarge]]'' or ''[[trip]]'' once daily. They could also cast ''[[reduce]]'' or ''[[tree shape]]'' twice daily. These cats were far more stealthy than normal cats.",
-        "Combat": "Elven cats employed their spells in combat, and were far more effective about their claws and teeth than regular cats.",
-        "Ecology": "Elven cats wandered the encircling wood of [[Myth Drannor]], between [[Shadowdale]] and [[Mistledale]]. They were companions to some elves, and formed part of the composition of some small armies.{{cite dragon/115/Elven Armies and Dwarves-at-Arms|58}}\n\nWhiskers from elven cats were used as the [[material component]] of the ''[[cat's grace]]'' spell, then uncommon, in {{yearlink|1367}}.{{cite book/Wizard's Spell Compendium Volume One|124}} They could be summoned by the spell ''[[summon cats]]''{{cite book/Wizard's Spell Compendium Volume Four|891}} and by ''[[find minion]]''.{{Cite dragon/228/Greater Familiars of Faerûn|81}}",
-        "History": "Such cats descended from wild cats, changed by close contact with elven magic over generations. It was suspected some of that magic was intentional;{{cite web/Mintiper's Chapbook/Part 5}}\n\nElven cats served some members of the [[Seldarine pantheon]], including [[Corellon Larethian]],{{cite book/Demihuman Deities|101}} [[Erevan Ilesere]],{{cite book/Demihuman Deities|109}} [[Hanali Celanil]],{{cite book/Demihuman Deities|115}} [[Rilifane Ratathil]],{{cite book/Demihuman Deities|122}} and [[Solonor Thelondira]].{{cite book/Demihuman Deities|133}} [[Sharess]] could show her pleasure through manifestations of elven cats. The [[Cat Lord]] was followed by some cats in the [[Beastlands]].{{cite book/Planes of Conflict/Liber Benevolentiae|24}}",
-        "Notable Elven Cats": "General [[Briandon Lamachia Obespieri]] of [[Raven's Bluff]] owned an elven cat.{{cite polyhedron/104/Poised for War|18}}"
+        "mainbody": "An elven cat or elfin cat was a feline from a race bred by elves, infused with magic through generations of close contact with their sorcery.\nMost elven cats had dark-striped fur of gray brown. They were sometimes mistaken for lynxes or wild cats.\nElven cats were very intelligent, with many of them conversant in rudimentary elven language alongside their own. Some had instead attached themselves to families of halflings or gnomes and spoke these languages instead, or even the tongue of brownies or other sylvan languages.\nThey also enjoyed swimming, unlike many other small cats.\nAn elven cat could leap up to , and it always acted as if under pass without trace. They possessed a number of spells, including a limited form of detect thoughts, and enlarge or trip once daily. They could also cast reduce or tree shape twice daily. These cats were far more stealthy than normal cats.\nElven cats employed their spells in combat, and were far more effective about their claws and teeth than regular cats.\nElven cats wandered the encircling wood of Myth Drannor, between Shadowdale and Mistledale. They were companions to some elves, and formed part of the composition of some small armies.\nWhiskers from elven cats were used as the material component of the cats grace spell, then uncommon, in . They could be summoned by the spell summon cats and by find minion.\nSuch cats descended from wild cats, changed by close contact with elven magic over generations. It was suspected some of that magic was intentional\nElven cats served some members of the Seldarine pantheon, including Corellon Larethian, Erevan Ilesere, Hanali Celanil, Rilifane Ratathil, and Solonor Thelondira. Sharess could show her pleasure through manifestations of elven cats. The Cat Lord was followed by some cats in the Beastlands.\nGeneral Briandon Lamachia Obespieri of Ravens Bluff owned an elven cat."
     }
 }

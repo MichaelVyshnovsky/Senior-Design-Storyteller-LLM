@@ -1,29 +1,9 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Solania",
-        "othernames": "Electrum Heaven<br />Crystal Heaven<br />''Khynnduum''",
-        "symbol": "MountCelestia.png",
-        "demonym": "",
-        "natives": "[[Dwarves]]",
-        "languages": "",
-        "fork-material": "",
-        "fork-note": "",
-        "fork-chord": "",
-        "fork-audio": "",
-        "basicrefs": "",
-        "type-GW": "Layer",
-        "shape-size-GW": "Infinite",
-        "gravity-GW": "Normal",
-        "time-GW": "Normal",
-        "morphic-GW": "Divinely",
-        "element-energy-GW": "",
-        "alignment-GW": "{{Alignment grid|on|off|off|off|off|off|off|off|off}}",
         "magical-GW": "Normal",
         "layers-GW": "",
         "layer-number-GW": "4",
-        "location-GW": "[[Mount Celestia]]",
+        "location-GW": "Mount Celestia",
         "refs-GW": "",
         "type-WA": "",
         "shape-size-WA": "",
@@ -56,13 +36,6 @@
         "settlements": "",
         "usethe": "",
         "useon": "",
-        "mainbody": "'''Solania''', also known as the '''Electrum Heaven''', was the fourth layer of [[Mount Celestia]].",
-        "Geography": "The layer had a sky that glowed like burnished silver. Its valleys were enveloped in mist, fog, and strange scents. The peaks were home to numerous holy shrines, including [[monasteries]] and magnificent [[cathedral]]s controlled by [[demigod]]s. Many of the slopes were rich in precious ores and minerals and were mined by populations of dwarves that resided there.",
-        "Government": "[[File:Pistis Sophia.jpg|thumb|right|250px|''Pistis Sophia, ruler of Solania.'']]\nThe ruler of Solania was [[Pistis Sophia]], the Ascetic. Her symbol was the [[eagle]]. She was a patron of ascetics, [[monk]]s, and mystics.",
-        "Notable Locations": {
-            "[[Erackinor]]": "Located on the slopes of Solania, where the dwarven deity [[Moradin]] made his domain, with his wife [[Berronar Truesilver]]. It was the location of the giant [[Soul Forges]], which Moradin was said to use to temper the spirits of his people.",
-            "[[Uroboros]]": "Also known as the Gates of Wisdom, the airborne realm of [[Jazirian]] of the [[couatl]], floated above the mountainside of Solania.",
-            "[[First Monastery of the Planes-Militant]]": "Located on a high plateau above the clouds, this monastery was rumored to be the source of power for all [[paladin]]s."
-        }
+        "mainbody": "Solania, also known as the Electrum Heaven, was the fourth layer of Mount Celestia.\nThe layer had a sky that glowed like burnished silver. Its valleys were enveloped in mist, fog, and strange scents. The peaks were home to numerous holy shrines, including monasteries and magnificent cathedrals controlled by demigods. Many of the slopes were rich in precious ores and minerals and were mined by populations of dwarves that resided there.\nthumb|right|250px|Pistis Sophia, ruler of Solania.\nThe ruler of Solania was Pistis Sophia, the Ascetic. Her symbol was the eagle. She was a patron of ascetics, monks, and mystics.\n Erackinor  Located on the slopes of Solania, where the dwarven deity Moradin made his domain, with his wife Berronar Truesilver. It was the location of the giant Soul Forges, which Moradin was said to use to temper the spirits of his people.\n Uroboros  Also known as the Gates of Wisdom, the airborne realm of Jazirian of the couatl, floated above the mountainside of Solania.\n First Monastery of the Planes-Militant  Located on a high plateau above the clouds, this monastery was rumored to be the source of power for all paladins."
     }
 }

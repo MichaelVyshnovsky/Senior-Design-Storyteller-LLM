@@ -1,36 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "20|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Calm Winds",
-        "deity": "[[Akadi]], [[Aerdrie Faenya]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]]",
-        "spheres2e": "[[Elemental sphere|Elemental]] [[Elemental air sphere|Air]]",
-        "level2e": "{{Spell table|edition=2e|[[Cleric]]|4|[[Druid]]|4|[[Elemental sphere|Elemental]]|4|[[Elemental air sphere|Elemental Air]]|4|[[Monk]]|4|[[Shaman]]|4}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -38,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Calm winds''''' was a [[divine magic]] spell given to priests of [[Akadi]], the Queen of Air, and [[Aerdrie Faenya]], the Winged Mother. It created a sphere of still air around the caster.",
-        "Effects": "While this spell was in effect, the volume of air around the caster out to a radius of {{SI|20|ft|long=yes}} remained completely calm. This spell lasted about seventeen minutes (longer for more experienced casters) and moved with the caster as long as he or she maintained concentration and did not move faster than half their normal pace. All wind-based creatures and denizens of the [[Elemental Plane of Air]] fled the affected area as fast as possible and would not seek to enter. Spells such as ''[[dust devil]]'' and ''[[gust of wind]]'' ceased to function at the skin of the sphere but would reassert their influence upon leaving the globe.",
-        "Components": "Only a [[verbal]] chant and the priest's [[holy symbol]] were necessary to cast this spell."
+        "mainbody": "Calm winds was a divine magic spell given to priests of Akadi, the Queen of Air, and Aerdrie Faenya, the Winged Mother. It created a sphere of still air around the caster.\nWhile this spell was in effect, the volume of air around the caster out to a radius of  remained completely calm. This spell lasted about seventeen minutes (longer for more experienced casters) and moved with the caster as long as he or she maintained concentration and did not move faster than half their normal pace. All wind-based creatures and denizens of the Elemental Plane of Air fled the affected area as fast as possible and would not seek to enter. Spells such as dust devil and gust of wind ceased to function at the skin of the sphere but would reassert their influence upon leaving the globe.\nOnly a verbal chant and the priests holy symbol were necessary to cast this spell."
     }
 }

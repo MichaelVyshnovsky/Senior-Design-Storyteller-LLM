@@ -1,31 +1,7 @@
 {
-    "template_data": {
-        "5|miles|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Goggles of Astral Seeing''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Goggles]]",
-        "material": "",
-        "creator": "",
-        "origin": "",
-        "location": "[[Crosswinds Keep]], [[Astral Plane]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "[[Divination]]",
-        "casterlevel3e": "5{{th}}",
         "itemlevel3e": "",
-        "value3e": "29,000 [[gp]]",
+        "value3e": "29,000 gp",
         "weight3e": "",
         "refs3e": "",
         "level4e": "",
@@ -50,9 +26,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Goggles of astral seeing''''' [[enchanted]] [[goggles]] that extended the wearer's vision within the [[Astral Plane]].{{Cite web/Astral Encounters/Crosswinds Keep and Environs}}",
-        "Description": "The lenses of the goggles were made of [[amber]].",
-        "Powers": "These goggles allowed a user in the Astral Plane to see as far as {{SI|5|miles|k|long=yes}} through the astral fog,Per the source, they allow the viewer to \"see as if under the effects of ''invisibility'' or ''improved invisibility''\". However, those spells do not have an effect on the subject's visual acuity in 3{{rd}} edition, so this is assumed to be in error. The spell ''[[see invisibility]]'' is presumed to be intended instead.",
-        "History": "Such goggles were in use at [[Crosswinds Keep]] in the [[Astral Plane]] as of {{yearlink|1372}}."
+        "mainbody": "Goggles of astral seeing enchanted goggles that extended the wearers vision within the Astral Plane.\nThe lenses of the goggles were made of amber.\nThese goggles allowed a user in the Astral Plane to see as far as  through the astral fog,Per the source, they allow the viewer to \"see as if under the effects of invisibility or improved invisibility\". However, those spells do not have an effect on the subjects visual acuity in 3 edition, so this is assumed to be in error. The spell see invisibility is presumed to be intended instead.\nSuch goggles were in use at Crosswinds Keep in the Astral Plane as of ."
     }
 }

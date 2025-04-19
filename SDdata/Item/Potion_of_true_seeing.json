@@ -1,28 +1,8 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Potion of True Seeing''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Potion]]",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "20{{th}}",
         "itemlevel3e": "",
         "value3e": "",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,9 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Potions of true seeing''''' were enchanted [[potion]]s that granted the imbiber with temporary gift of ''[[true sight]]''.",
-        "Description": "These potions were often bottled in [[glass]] [[decanter]]s, decorated with filigree.",
-        "Powers": "Consumption of a ''potion of true seeing'' was similar to a powerful [[wizard]] casting the spell of ''true seeing'' on the imbiber. While the potion's effects were active, the drinker could freely see in normal and magical ''[[darkness]]'', see through ''[[illusion]]s'' and ''[[invisibility]]'', not be deterred by ''[[mirror image]]'' spell, and could see things and creatures displaced from the [[Prime Material plane]] to the [[Ethereal plane]].",
-        "History": "''Circa'' [[1369 DR]], several of these potions could be recovered from the ruins of grand city of [[Myth Drannor]]. These potions were used by the [[Cult of the Dragon]] who occupied the ruins in 1369 DR, as well as their [[drow]] allies from the noble [[House Freth]]."
+        "mainbody": "Potions of true seeing were enchanted potions that granted the imbiber with temporary gift of true sight.\nThese potions were often bottled in glass decanters, decorated with filigree.\nConsumption of a potion of true seeing was similar to a powerful wizard casting the spell of true seeing on the imbiber. While the potions effects were active, the drinker could freely see in normal and magical darkness, see through illusions and invisibility, not be deterred by mirror image spell, and could see things and creatures displaced from the Prime Material plane to the Ethereal plane.\nCirca 1369 DR, several of these potions could be recovered from the ruins of grand city of Myth Drannor. These potions were used by the Cult of the Dragon who occupied the ruins in 1369 DR, as well as their drow allies from the noble House Freth."
     }
 }

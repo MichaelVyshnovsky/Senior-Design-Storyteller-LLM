@@ -1,51 +1,5 @@
 {
-    "template_data": {
-        "320|feet|long": "yes"
-    },
     "document_data": {
-        "image": "Harengon.png",
-        "caption": "",
-        "name": "Harengon",
-        "othernames": "",
-        "size5e": "Medium, small",
-        "type5e": "[[Humanoid]]",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "patron deity": "",
-        "movement": "",
-        "vision": "",
-        "activecycle": "",
-        "diet": "",
-        "lifespan": "",
-        "location": "[[Feywild]]",
-        "intelligence": "",
-        "language": "[[Common]], [[Sylvan]]",
-        "climate": "",
-        "terrain": "",
-        "genrefs": "",
-        "height": "",
-        "length": "",
-        "wingspan": "",
-        "weight": "",
-        "skincolor": "",
-        "haircolor": "",
-        "hairstyles": "",
-        "feathers": "",
-        "eyecolor": "",
-        "build": "",
-        "distinctions": "",
-        "appearrefs": "",
-        "first": "",
-        "based": "",
-        "histrefs": "",
-        "mainbody": "'''Harengons''' were a [[humanoid]] race resembling rabbits that originated from the [[Feywild]].",
-        "Description": "Harengons were bipedal [[rabbit]]-like creatures with extended feet and prolonged ears. They had a variety of fur colorations. Harengons had keen senses and powerful legs. The harengons' main characteristic was their energized personalities and tightly wound up musculature ready to spring into action at any given moment.",
-        "Abilities": "Harengons were creatures native to the [[Feywild]] and were blessed with [[fey]] luck, keen senses, and precise footwork. Their powerful legs could propel them into impressive jumps, akin to a rabbit's hop.\n\nWith training, harengons were peerless snipers with the [[light crossbow]], able to hit targets that were {{SI|320|feet|long=yes}} away and behind cover.",
-        "Society": {
-            "Language": "Harengons spoke [[Sylvan]] and [[Common]] languages."
-        },
-        "Notable Harengons": "* [[Clipper]], the adventurer who was cursed to wander from one realm to another, never to find a home.{{Cite comic/Dungeons & Dragons Annual 2022}}"
+        "mainbody": "arengons were a humanoid race resembling rabbits that originated from the Feywild.\nHarengons were bipedal rabbit-like creatures with extended feet and prolonged ears. They had a variety of fur colorations. Harengons had keen senses and powerful legs. The harengons main characteristic was their energized personalities and tightly wound up musculature ready to spring into action at any given moment.\nHarengons were creatures native to the Feywild and were blessed with fey luck, keen senses, and precise footwork. Their powerful legs could propel them into impressive jumps, akin to a rabbits hop.\nWith training, harengons were peerless snipers with the light crossbow, able to hit targets that were  away and behind cover.\nthumb|300px|A harengon enjoys the company of a tortle at the Hearth in Candlekeep.\nHarengons were free-spirited travelers, and spread far and wide and across many worlds of the Material Plane from their native Feywild. They rarely stayed in one place for long, and preferred to journey by foot.\nA harengons world view and even personality were shaped by the company they kept. Those who travelled with heroes became brave and ambitious, those who travelled with brigands became mean and antagonistic, and those who travelled alone while leaving new friends in their wake became freedom-loving and peaceful. Those harengons who turned to banditry often travelled in small groups, preferring to ambush or extort traveling parties with fewer members than their own, and quickly fled when a fight turned against them.\nHarengons spoke Sylvan and Common languages.\n* Clipper, the adventurer who was cursed to wander from one realm to another, never to find a home."
     }
 }

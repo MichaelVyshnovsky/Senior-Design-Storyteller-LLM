@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Storms' Swordfire",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "[[Storm Silverhand]]",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]], [[Evocation]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|3}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Storm's swordfire''''' was an offensive [[wizard]] [[spell]] created by [[Storm Silverhand]].",
-        "Effects": "This spell caused single-bladed weapons to ignite with fire when touched by the caster. The flames did not damage or mar the weapon in any way during the spell's duration. The magical flames raced up and down the blade.\n\nThe magical flames burned anything struck with the blade and were particularly dangerous to [[undead]]. The caster could make the flames disappear at any time during the spell's duration, but could not make them reappear.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, this spell required as [[material component]]s a weapon, a lump of [[saltpeter]] the size of the caster's mouth, and either a [[lodestone]] or a magnetic piece of metal to cast. The lodestone and saltpeter were consumed when the spell was cast."
+        "mainbody": "Storms swordfire was an offensive wizard spell created by Storm Silverhand.\nThis spell caused single-bladed weapons to ignite with fire when touched by the caster. The flames did not damage or mar the weapon in any way during the spells duration. The magical flames raced up and down the blade.\nThe magical flames burned anything struck with the blade and were particularly dangerous to undead. The caster could make the flames disappear at any time during the spells duration, but could not make them reappear.\nIn addition to verbal and somatic components, this spell required as material components a weapon, a lump of saltpeter the size of the casters mouth, and either a lodestone or a magnetic piece of metal to cast. The lodestone and saltpeter were consumed when the spell was cast."
     }
 }

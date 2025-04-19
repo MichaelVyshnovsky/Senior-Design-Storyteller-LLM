@@ -1,50 +1,7 @@
 {
-    "template_data": {
-        "1|lb|long": "yes",
-        "40|yard|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Molecular agitation",
-        "deity": "",
-        "inventor": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "discipline3e": "",
-        "mantles3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "discipline2e": "[[Psychokinesis]]",
-        "level2e": "Minor (Devotion)",
-        "type2e": "Standard Power",
-        "wild2e": "Yes",
-        "refs2e": "<ref>",
-        "level1e": "Minor (Devotion)",
-        "type1e": "Discipline",
-        "refs1e": "",
-        "adventures": "{{Duapp|43|Into The Silver Realm}}",
-        "adventure refs": "{{Duapp|19|House of Cards}}",
-        "card games": "''[[Spellfire: Master the Magic]]''",
-        "mainbody": "===References===\n{{Refs}}\n[[Category:Psychokinesis powers]]\n5nb3irhc3mlzgfzw7qlsrgxadd46cp1",
-        "Effects": "This power could be used to target one item, weighing no more than {{SI|1|lb|long=yes}}, within {{SI|40|yard|long=yes}} of the psion. Early instances of this power found that all effects occurred after a period of ten minutes. Later documentation found that ''molecular agitation's'' were actually evident as early as one minute, but that their severity increased the longer the power was active for.\n\nFor the first minute of active use: readily flammable material would ignite and burn brightly, such as [[paper]], [[parchment]], straw, dry [[grass]], etc. Skin would become red and tender. And wood would darken.\n\nAfter two minutes of active use: wood would begin to smoke and smolder, metal would become hot to the touch (an effect some described as being similar to the spell ''[[heat metal]]''), skin would begin to blister, hair would begin to smolder, and [[paint]] would shrivel.\n\nAfter three minutes of active use: wood would properly become aflame, metal would be scorching, skin would be burning away, water would be boiling, and [[lead]] would melt.\n\nAfter four minutes, ''molecular agitation'' would cause even [[steel]] to grow soft, and after five minutes of active use steel would melt.",
-        "Significance": "This power was one of the prerequisites for learning the psychokinesis discipline ''[[detonate]]''.",
-        "Known Users": {
-            "Individuals": "* [[K'yorl Odran]], a [[drow]] psionicist and the [[matron mother]] of [[House Oblodra]].<ref>",
-            "Races & Sentient Creatures": "* [[Amethyst dragon]]s, a species of [[gem dragon]].\n* [[Aratha]], a psionic species of giant [[beetle]]s.\n* Some [[duergar]] exhibited this power.<ref>\n* [[Beljuril dragon]]s, another species of the innately psionic gem dragons.{{Cite dragon/265/Earthstokers|42-43}}\n* [[Shedu|Greater shedu]].<ref><ref><ref>\n* [[Lythlyx]].{{cite book/Monstrous Compendium Annual Volume One|Lythlyx}}\n* [[Phoenix]]es.<ref>\n* [[Planetar]]s.<ref>",
-            "Religions": "* Thonots, psionic equivalents of [[shaman]]s within [[quaggoth]] society, possessed ''molecular agitation'' as one of their psionic powers."
-        },
-        "Appendix": {
-            "Notes": "{{Notes}}",
-            "Appearances": "{{Appearances\n| adventures = {{Duapp|43|Into The Silver Realm}}\n| adventure refs = {{Duapp|19|House of Cards}}\n| card games = ''[[Spellfire: Master the Magic]]''\n}}",
-            "References": "{{Refs}}\n[[Category:Psychokinesis powers]]\n5nb3irhc3mlzgfzw7qlsrgxadd46cp1"
-        }
+        "adventure refs": "",
+        "card games": "Spellfire Master the Magic",
+        "mainbody": "CategoryPsychokinesis powers\n5nb3irhc3mlzgfzw7qlsrgxadd46cp1"
     }
 }

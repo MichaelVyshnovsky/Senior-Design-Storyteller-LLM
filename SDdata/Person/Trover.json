@@ -1,21 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Trover",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "the Stout",
-        "home": "[[Daggerdale]], [[Dalelands]]",
-        "formerhomes": "",
-        "race": "[[Human]]",
-        "alignment2e": "[[Lawful evil]]",
-        "class2e": "{{class table|edition=2e|[[Fighter]]|2}}",
         "refs2e": "",
         "sex": "Male",
         "age": "",
@@ -28,8 +12,6 @@
         "deathnotes": "",
         "destroyed": "",
         "destroyednotes": "",
-        "mainbody": "rules          =\n}}\n'''Trover the Stout''' was a mercenary in [[Zhent]]-occupied [[Daggerdale]] in [[1367 DR]].",
-        "History": "In 1367 DR, Trover and [[Larkell Greenspring]] escorted Constable [[Tren Noemfor|Tren]]'s envoy [[Marrakt]] to meet a just-arrived-in-town adventuring party.",
-        "Personality": "Trover was a seasoned veteran, not easily intimidated by others."
+        "mainbody": "| rules          =\nTrover the Stout was a mercenary in Zhent-occupied Daggerdale in 1367 DR.\nIn 1367 DR, Trover and Larkell Greenspring escorted Constable Trens envoy Marrakt to meet a just-arrived-in-town adventuring party.\nTrover was a seasoned veteran, not easily intimidated by others."
     }
 }

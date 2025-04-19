@@ -1,49 +1,5 @@
 {
-    "template_data": {
-        "5|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Murdock's insect ward''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Aromatic [[oil]]<br/>[[Insect repellent]]",
-        "creator": "[[Murdock]]",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "",
-        "refs3e": "",
-        "level4e": "",
-        "value4e": "",
-        "weight4e": "",
-        "refs4e": "",
-        "rarity5e": "",
-        "attunement5e": "",
-        "school5e": "",
-        "level5e": "",
-        "value5e": "",
-        "weight5e": "",
-        "refs5e": "",
-        "communication": "",
-        "languages": "",
-        "alignment": "",
-        "sentientrefs": "",
-        "mainbody": "'''''Murdock's insect ward''''' was a type of [[magic item|magical]], aromatic [[oil]] with an [[insect repellent]] effect that was invented by [[Murdock]].",
-        "Powers": "Any mundane or monstrous insectoid creature that tried to come within {{SI|5|ft|long=yes}} of the wearer would be repelled by the fragrance. Though insectoid creatures with a level of intelligence that was {{Int|5}} or greater were capable of potentially resisting the effect. \n\nThe magical effect of an application of this aroma remained potent for around two to four hours, after which time it would evaporate from the wearer.",
-        "Availability": "* The [[Dancing Maiden]] in [[Westgate]], run by the [[mage]] [[Chalaratha]], was said to create ''Murdock's insect ward'' upon request for a hefty commission.",
-        "Notable Owners": {
-            "Religions": "* [[Goldeye]]s, the [[specialty priest]]s of [[Waukeen]], had a chance of receiving a ''Murdock's insect ward'' as one of the magic items they were given upon their admission to the clergy."
-        }
+        "mainbody": "urdocks insect ward was a type of magical, aromatic oil with an insect repellent effect that was invented by Murdock.\nAny mundane or monstrous insectoid creature that tried to come within  of the wearer would be repelled by the fragrance. Though insectoid creatures with a level of intelligence that was  or greater were capable of potentially resisting the effect. \nThe magical effect of an application of this aroma remained potent for around two to four hours, after which time it would evaporate from the wearer.\n* The Dancing Maiden in Westgate, run by the mage Chalaratha, was said to create Murdocks insect ward upon request for a hefty commission.\n* Goldeyes, the specialty priests of Waukeen, had a chance of receiving a Murdocks insect ward as one of the magic items they were given upon their admission to the clergy."
     }
 }

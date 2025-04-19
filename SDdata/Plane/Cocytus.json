@@ -1,29 +1,16 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Cocytus",
-        "othernames": "Layer of Lamentation",
-        "symbol": "PandemoniumLogo.png",
-        "demonym": "",
-        "natives": "[[Bugbear]]s, [[demon]]s, [[howler]]s, [[lycanthrope]]s",
-        "languages": "",
-        "fork-material": "[[Iron]]",
-        "fork-note": "C-sharp",
-        "fork-chord": "major",
-        "fork-audio": "C-sharp major.ogg",
-        "basicrefs": "{{Cite dragon/120/Plane Speaking|42-43}}",
         "type-GW": "Layer",
         "shape-size-GW": "Infinite tunnels",
-        "gravity-GW": "Objective directional: towards the tunnel walls",
+        "gravity-GW": "Objective directional towards the tunnel walls",
         "time-GW": "Normal",
         "morphic-GW": "Divinely",
         "element-energy-GW": "None",
-        "alignment-GW": "{{Alignment grid|off|off|off|off|off|on|off|off|on}}",
+        "alignment-GW": "",
         "magical-GW": "Normal",
         "layers-GW": "",
         "layer-number-GW": "2",
-        "location-GW": "[[Pandemonium]]",
+        "location-GW": "Pandemonium",
         "refs-GW": "",
         "type-WA": "",
         "shape-size-WA": "",
@@ -54,15 +41,9 @@
         "locations": "yes",
         "organizations": "",
         "settlements": "",
-        "based": "[[wikipedia:en:Cocytus|Cocytus]] (Greek)",
+        "based": "Cocytus (Greek)",
         "usethe": "",
         "useon": "",
-        "mainbody": "'''Cocytus''' was the second layer of [[Pandemonium]]. It contained the [[divine realm]]s of [[Cyric]], [[Garagos]], and [[Hruggek]] according to the [[Great Wheel cosmology]].",
-        "Geography": {
-            "Geographical Features": "Like in other layers of Pandemonium, prolonged exposure to the incessant winds of Cocytus could quickly sap an individual's physical disposition and sanity. Without shelter, an exposed creature could develop symptoms of madness within hours."
-        },
-        "Rumors & Legends": "It was rumored that the tunnels of Cocytus were chiseled by an ancient forgotten [[deity]] who lost its followers and succumbed to madness before dying and being left to rot in the [[Astral Plane]]. Treasures left behind by this entity were rumored to still exist scattered through the layer.",
-        "Notable Locations": "* [[Battle Garde]], realm of [[Garagos]].\n* [[Harmonica]], a cave system that channeled the winds into a much more intense cacophony. It was rumored to contain the secret of planewalking with no need for spell or device.\n* [[Howler's Crag]], a tall spire at the center of the layer, built upon the grave of a [[phoenix]]. The top of the stone pile contained one of the few [[portal]]s out of Pandemonium, and from there a creature could shout a message that would always reach its intended recipient anywhere in the Great Wheel.\n* The [[Howling Gate]], an always-open ''portal'' that led to the [[Quasi-Elemental Plane of Vacuum]].\n* [[Hruggekolohk]], realm of [[Hruggek]].\n* The [[Laughing Mug]], an underground inn excavated near Howler's Crag. It was run by [[Fat Worold]], an insane and malnourished [[human]] who always talked in questions.\n* The [[Shattered Castle]], realm of [[Cyric]].",
-        "Inhabitants": "The vicinity of Howler's Crag was inhabited by a large number of [[demon]]s who preyed on visitors to the spire."
+        "mainbody": "Cocytus was the second layer of Pandemonium. It contained the divine realms of Cyric, Garagos, and Hruggek according to the Great Wheel cosmology.\nThe tunnels of Cocytus were slightly narrower and more winding than those of the first layer, Pandesmos, making the winds more intense throughout the layer. The tunnels did not appear natural, but rather seemed to have been manually chiseled. Like all other layers of the plane, Cocytus had no light sources and was completely dark.\nThe loud winds in the tunnels of Cocytus carried shrill sounds of sorrow and wailing. This peculiar sound earned the layer the nickname \"layer of lamentation\". As in the other layers, the deafening winds only allowed conversation via shouting, and any intelligible sound, including sound-based spells, only carried over a distance of 10 ft (3 m).\nLike in other layers of Pandemonium, prolonged exposure to the incessant winds of Cocytus could quickly sap an individuals physical disposition and sanity. Without shelter, an exposed creature could develop symptoms of madness within hours.\nIt was rumored that the tunnels of Cocytus were chiseled by an ancient forgotten deity who lost its followers and succumbed to madness before dying and being left to rot in the Astral Plane. Treasures left behind by this entity were rumored to still exist scattered through the layer.\n* Battle Garde, realm of Garagos.\n* Harmonica, a cave system that channeled the winds into a much more intense cacophony. It was rumored to contain the secret of planewalking with no need for spell or device.\n* Howlers Crag, a tall spire at the center of the layer, built upon the grave of a phoenix. The top of the stone pile contained one of the few portals out of Pandemonium, and from there a creature could shout a message that would always reach its intended recipient anywhere in the Great Wheel.\n* The Howling Gate, an always-open portal that led to the Quasi-Elemental Plane of Vacuum.\n* Hruggekolohk, realm of Hruggek.\n* The Laughing Mug, an underground inn excavated near Howlers Crag. It was run by Fat Worold, an insane and malnourished human who always talked in questions.\n* The Shattered Castle, realm of Cyric.\nThe vicinity of Howlers Crag was inhabited by a large number of demons who preyed on visitors to the spire."
     }
 }

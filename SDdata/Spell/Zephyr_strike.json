@@ -1,22 +1,5 @@
 {
-    "template_data": {
-        "edition": "5e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Zephyr Strike",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Transmutation]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "{{Spell table|edition=5e|[[Ranger]]|1}}",
         "type5e": "",
         "refs5e": "",
         "feature4e": "",
@@ -43,8 +26,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Zephyr strike''''' was a [[transmutation]] [[spell]] used by [[ranger]]s that conferred the caster with a brief burst of speed and attack accuracy.",
-        "Effects": "Upon casting this particularly swift spell, the caster could concentrate on a single subsequent attack performed within 1 minute. That attack was granted a magically enhanced accuracy and the caster gained a sudden burst of speed, moving like the wind for a few seconds.",
-        "Components": "The spell required only [[verbal component]]s."
+        "mainbody": "Zephyr strike was a transmutation spell used by rangers that conferred the caster with a brief burst of speed and attack accuracy.\nUpon casting this particularly swift spell, the caster could concentrate on a single subsequent attack performed within 1 minute. That attack was granted a magically enhanced accuracy and the caster gained a sudden burst of speed, moving like the wind for a few seconds.\nThe spell required only verbal components."
     }
 }

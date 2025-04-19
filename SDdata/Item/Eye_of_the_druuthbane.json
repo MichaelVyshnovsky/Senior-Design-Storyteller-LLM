@@ -1,33 +1,8 @@
 {
-    "template_data": {
-        "3|lb|k|long": "yes",
-        "60|ft|long": "yes",
-        "60|ft|long_1": "yes",
-        "60|ft|long_2": "yes"
-    },
     "document_data": {
-        "image": "Eye of the druuthbane.jpg",
-        "caption": "",
-        "name": "''Eye of the Druuthbane''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Magical item]]",
-        "creator": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "7{{th}}",
         "itemlevel3e": "",
-        "value3e": "18,000 [[gp]]",
-        "weight3e": "{{SI|3|lb|k}}",
+        "value3e": "18,000 gp",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -44,10 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "An '''''eye of the druuthbane''''' was a [[magical item]] designed to expose and thwart a [[druuth]]—a band of [[doppelganger]]s in the service of a [[mind flayer]].",
-        "Description": "It was a yellow [[crystal]] about as big as a [[human]] fist. It weighed {{SI|3|lb|k|long=yes}}.",
-        "Powers": "An ''eye of the druuthbane'' had a variety of powers dedicating to foiling the powers of doppelgangers and illithids. First, if a doppelganger was within {{SI|60|ft|long=yes}}, it glowed red; if an illithid was within {{SI|60|ft|long=yes}}, it glowed blue; and if both were {{SI|60|ft|long=yes}}, it glowed violet.\n\nSecond, when grasped in one's hand, it bolstered the bearer's mental defenses and force of will.\n\nThird, it could be used once a day to fire a red beam at a creature that, if it was a doppelganger, would be forced to return to its true form for up to half a minute if it couldn't resist.",
-        "History": "The first ''eye of the druuthbane'' was fashioned by a [[wizard]] who battled a powerful druuth.\n\nAfter that time, it was copied and spread far and wide to oppose other druuth.",
-        "Creation": "Creating an ''eye of the druuthbane'' required the spells ''[[resistance]]'', ''[[detect thoughts]]'', and ''[[polymorph other]]''. One was valued at 18,000 [[gp]]."
+        "mainbody": "An eye of the druuthbane was a magical item designed to expose and thwart a druuth—a band of doppelgangers in the service of a mind flayer.\nIt was a yellow crystal about as big as a human fist. It weighed .\nAn eye of the druuthbane had a variety of powers dedicating to foiling the powers of doppelgangers and illithids. First, if a doppelganger was within , it glowed red if an illithid was within , it glowed blue and if both were , it glowed violet.\nSecond, when grasped in ones hand, it bolstered the bearers mental defenses and force of will.\nThird, it could be used once a day to fire a red beam at a creature that, if it was a doppelganger, would be forced to return to its true form for up to half a minute if it couldnt resist.\nThe first eye of the druuthbane was fashioned by a wizard who battled a powerful druuth.\nAfter that time, it was copied and spread far and wide to oppose other druuth.\nCreating an eye of the druuthbane required the spells resistance, detect thoughts, and polymorph other. One was valued at 18,000 gp."
     }
 }

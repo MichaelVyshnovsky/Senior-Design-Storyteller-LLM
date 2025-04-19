@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "3|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Skin of the manticore.png",
-        "caption": "",
-        "name": "''Skin of the Manticore''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Cloak]]",
-        "location": "[[Moonsea]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+1",
-        "value3e": "",
-        "weight3e": "{{SI|3|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The '''''Skin of the Manticore''''' was a unique enchanted [[cloak]] from the [[Moonsea]] region that could only be used by [[druid]]s and [[ranger]]s.",
-        "Description": "The ''Skin of the Manticore'' was just that, a skin of the fearsome monstrosity known as a [[manticore]], sewn into the shape of a cloak and promptly enchanted. Manticores' tail spikes were their most deadly weapon and the ''Skin'' had the beast's tail attached to it after the creature was skinned.",
-        "Powers": "The ''Skin'' possessed a common ''+1'' enchantment, and it slightly improved the wearer's fortitude. However, the most notable power of this magic cloak was the ability to control the ''Skin's'' spiked tail four times a day, in combat or otherwise. The deadly tail carried the beast's paralytic venom.",
-        "History": "An [[elf|elven]] ranger [[Daegasus]] managed to slay a fearsome manticore by himself sometime long before [[1374 DR]]. The ranger took the monstrosity's hide to a [[wizard]], and together, they developed this unique magic cloak. The unnamed wizard was able to enchant the cloak so its wearer could control the manticore's tail. The ''Skin of the Manticore'' remained with Daegasus until his death and then swiftly disappeared.\n\nYears later, ''circa'' 1374 DR, the cloak resurfaced during the [[Order of the Crippled Fang]] crisis in the Moonsea region."
+        "mainbody": "The Skin of the Manticore was a unique enchanted cloak from the Moonsea region that could only be used by druids and rangers.\nThe Skin of the Manticore was just that, a skin of the fearsome monstrosity known as a manticore, sewn into the shape of a cloak and promptly enchanted. Manticores tail spikes were their most deadly weapon and the Skin had the beasts tail attached to it after the creature was skinned.\nThe Skin possessed a common +1 enchantment, and it slightly improved the wearers fortitude. However, the most notable power of this magic cloak was the ability to control the Skins spiked tail four times a day, in combat or otherwise. The deadly tail carried the beasts paralytic venom.\nAn elven ranger Daegasus managed to slay a fearsome manticore by himself sometime long before 1374 DR. The ranger took the monstrositys hide to a wizard, and together, they developed this unique magic cloak. The unnamed wizard was able to enchant the cloak so its wearer could control the manticores tail. The Skin of the Manticore remained with Daegasus until his death and then swiftly disappeared.\nYears later, circa 1374 DR, the cloak resurfaced during the Order of the Crippled Fang crisis in the Moonsea region."
     }
 }

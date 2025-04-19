@@ -1,177 +1,98 @@
-The '''Crown Wars''' were a series of elven wars spanning a period of 3,000 years. The great elven civilizations participated in five primary conflicts, leading to the decline of elven power in [[Faerûn]]. Some of the Crown Wars overlap each other.
-[[File:Elven Realms before the Crown Wars.png|thumb|220x220px|Elven Realms before the Crown Wars]]
-The [[Crown Wars]] are considered, amongst most elves, to be possibly the most shameful series of events in elven history. While any elf could find more information about this period of time, an elf will not willingly share information about this period of time with a non-elf. [[Sun elf]] communities, especially, will be reluctant to even discuss the existence of the Crown Wars and will discourage any research of this period of time.
-
-==Timeline==
-<timeline>
-ImageSize  = width:650 height:75
-PlotArea   = width:610 height:50 left:20 bottom:20
-
-Period      = from:-12000 till:-9000
-TimeAxis    = orientation:horizontal
-ScaleMajor = increment:250 start:-12000
-
+The Crown Wars were a series of elven wars spanning a period of 3,000 years. The great elven civilizations participated in five primary conflicts, leading to the decline of elven power in Faerûn. Some of the Crown Wars overlap each other.
+thumb|220x220px|Elven Realms before the Crown Wars
+The Crown Wars are considered, amongst most elves, to be possibly the most shameful series of events in elven history. While any elf could find more information about this period of time, an elf will not willingly share information about this period of time with a non-elf. Sun elf communities, especially, will be reluctant to even discuss the existence of the Crown Wars and will discourage any research of this period of time.
+ImageSize  = width650 height75
+PlotArea   = width610 height50 left20 bottom20
+Period      = from-12000 till-9000
+TimeAxis    = orientationhorizontal
+ScaleMajor = increment250 start-12000
 PlotData=
-  align:center width:30 color:red
-  from:-12000 till:-11800 text:First Crown War
+  aligncenter width30 colorred
+  from-12000 till-11800 textFirst Crown War
 PlotData=
-  align:center width:30 color:red
-  from:-11700 till:-11000 text:Second Crown War
+  aligncenter width30 colorred
+  from-11700 till-11000 textSecond Crown War
 PlotData=
-  align:center width:30 color:red
-  from:-10900 till:-10500 text:Third Crown War
+  aligncenter width30 colorred
+  from-10900 till-10500 textThird Crown War
 PlotData=
-  align:center width:30 color:red
-  from:-10450 till:-9600 text:Fourth Crown War
+  aligncenter width30 colorred
+  from-10450 till-9600 textFourth Crown War
 PlotData=
-  align:center width:30 color:red
-  from:-9200 till:-9000 text:Fifth Crown War
-</timeline>
-
-==First Crown War==
-[[File:First Crown War.png|thumb|220x220px|First Crown War]]
-
-'''{{Yearlink|-12000}}'''
-* '''The Crown Wars Begin/Rise Of The Vyshaantar Empire.''' After centuries of fruitless diplomacy, the impatient, grasping rulers of [[Aryvandaar]] attack [[Miyeritar]] and begins putting political pressure on [[Shantel Othreier]] to join them or suffer the same fate.
-* The first dwarven settlements appear in the great mountain range known as the Yehimal, which lies at the juncture of the three great continents of Faerûn, [[Kara-Tur]], and [[Zakhara]]. From there, the earliest dwarves migrated into all three lands.
-* From the great migration, one isolated branch of dwarves settle amid the isolated peaks of the [[Novularond]], eventually becoming known as the [[arctic dwarf|arctic dwarves]].
-* The first great kingdom of the dwarves of Faerûn is centred in the great cavern of [[Bhaerynden]], deep beneath the Shaar.
-
-'''{{Yearlink|-11800}}'''
-* Miyeritar militarily occupied and annexed by Aryvandaar, though a number of clans and strongholds resist and continue to fight. Many elves of [[Illefarn]], despite its officially-neutral stance, provide secret safe-havens for Miyeritaran refugees.
-
-==Second Crown War==
-[[File:Second Crown War.png|thumb|220x220px|Second Crown War]]
-''' c.{{Yearlink|-11700}}'''
-* Dragons set the southern expanse of Shantel Othreier aflame, separating the soon-to-be-called [[Wyrmwood]] from its greater body. [[Tethir (hero)|Tethir]], (soon to be called "the Dragonslayer"), kin of [[Keltormir (elf)|Keltormir]], single-handedly slays two ancient red wyrms of [[the Ridge]] and saves many elves of both his own [[Keltormir]] (allied with the northern elves) and Shantel Othreier. Tethir's stand earned the elves the respect of the dragons, who had previously dismissed them as ignorant, two-footed cattle. Over time, humanity slowly builds in the clearings created by the dragon fires.
-* '''The Second Crown War.''' [[Ilythiir]] rises up and viciously strikes out at any who support the gold elves of the north, in answer to the aggressions of Aryvandaar. Its nearest neighbor of [[Orishaar]], as a major trade partner with Aryvandaar, falls swiftly in a brutal surprise attack.
-
-'''{{Yearlink|-11600}}'''
-* The [[Ilythiiri]] destroy [[Syòrpiir]] by fire, separating them from their allied neighbors and burning their homes to the ground.
-
-'''{{Yearlink|-11500}}'''
-* [[Thearnytaar]] and [[Eiellûr]] band together and declare war on Ilythiir, decrying their use of fire and wanton destruction far more than the power plays of the northern elves. They fight a holding action, preventing the Ilythiiri from advancing north.
-* [[Lolth]] sends the [[balor]] lord [[Wendonai]] to seduce a high Ilythiiri clan into her service, and the church of Lolth begins to rise in prominence.
-
-'''{{Yearlink|-11450}}'''
-* '''The Sable Wars.''' Thearnytaar and Eiellûr, with minimal allies from Keltormir and Shantel Othreier, invade Ilythiir, intent on destroying or reforming the dark elves before more realms fall. More than half their forces are decimated by the corrupt magics of the dark elves.
-
-'''{{Yearlink|-11400}}'''
+  aligncenter width30 colorred
+  from-9200 till-9000 textFifth Crown War
+thumb|220x220px|First Crown War
+* The Crown Wars Begin/Rise Of The Vyshaantar Empire. After centuries of fruitless diplomacy, the impatient, grasping rulers of Aryvandaar attack Miyeritar and begins putting political pressure on Shantel Othreier to join them or suffer the same fate.
+* The first dwarven settlements appear in the great mountain range known as the Yehimal, which lies at the juncture of the three great continents of Faerûn, Kara-Tur, and Zakhara. From there, the earliest dwarves migrated into all three lands.
+* From the great migration, one isolated branch of dwarves settle amid the isolated peaks of the Novularond, eventually becoming known as the arctic dwarves.
+* The first great kingdom of the dwarves of Faerûn is centred in the great cavern of Bhaerynden, deep beneath the Shaar.
+* Miyeritar militarily occupied and annexed by Aryvandaar, though a number of clans and strongholds resist and continue to fight. Many elves of Illefarn, despite its officially-neutral stance, provide secret safe-havens for Miyeritaran refugees.
+thumb|220x220px|Second Crown War
+ c.
+* Dragons set the southern expanse of Shantel Othreier aflame, separating the soon-to-be-called Wyrmwood from its greater body. Tethir, (soon to be called "the Dragonslayer"), kin of Keltormir, single-handedly slays two ancient red wyrms of the Ridge and saves many elves of both his own Keltormir (allied with the northern elves) and Shantel Othreier. Tethirs stand earned the elves the respect of the dragons, who had previously dismissed them as ignorant, two-footed cattle. Over time, humanity slowly builds in the clearings created by the dragon fires.
+* The Second Crown War. Ilythiir rises up and viciously strikes out at any who support the gold elves of the north, in answer to the aggressions of Aryvandaar. Its nearest neighbor of Orishaar, as a major trade partner with Aryvandaar, falls swiftly in a brutal surprise attack.
+* The Ilythiiri destroy Syòrpiir by fire, separating them from their allied neighbors and burning their homes to the ground.
+* Thearnytaar and Eiellûr band together and declare war on Ilythiir, decrying their use of fire and wanton destruction far more than the power plays of the northern elves. They fight a holding action, preventing the Ilythiiri from advancing north.
+* Lolth sends the balor lord Wendonai to seduce a high Ilythiiri clan into her service, and the church of Lolth begins to rise in prominence.
+* The Sable Wars. Thearnytaar and Eiellûr, with minimal allies from Keltormir and Shantel Othreier, invade Ilythiir, intent on destroying or reforming the dark elves before more realms fall. More than half their forces are decimated by the corrupt magics of the dark elves.
 * Fall of Eiellûr as the Ilythiiri once again use fire to destroy their realm around them and isolate them from aid. They were also helped by traitor green elves, who thought their appeasement actions could help restore peace.
-* The Crown Wars see a sudden influx of elves entering [[Serôs]], forcing the elves out into the sea and away from the coastal waters. This ignites the first major conflicts with merfolk and sahuagin. ''[Sea of Fallen Stars]''
-* The betrayers of Eiellûr are rewarded by the Ilythiiri with a tract of jungle overlooking the River Talar, which will become known as the Misty Vale. The survivors become known as the [[Or'Tel'Quessir]].
-
-'''{{Yearlink|-11300}}'''
-* '''End Of The First Crown War.''' Miyeritar conquered by Aryvandaar.
-
-'''{{Yearlink|-11200}}'''
+* The Crown Wars see a sudden influx of elves entering Serôs, forcing the elves out into the sea and away from the coastal waters. This ignites the first major conflicts with merfolk and sahuagin. [Sea of Fallen Stars]
+* The betrayers of Eiellûr are rewarded by the Ilythiiri with a tract of jungle overlooking the River Talar, which will become known as the Misty Vale. The survivors become known as the OrTelQuessir.
+* End Of The First Crown War. Miyeritar conquered by Aryvandaar.
 * Thearnytaar falls to the savage and now-unrepentant dark elves, who use enslaved monsters and undead to occupy the thorn-and-bramble choked woods. Ilythiir now directly skirmishes with the major realm of Keltormir along its eastern and southern expanses.
-* With another major migration to Serôs following the fall of Thearnytaar, the sea elves expand militarily beyond the [[Selmal Basin]] and establish the kingdoms and regions of [[Coranthys]], [[Tor Meraliir]], [[Ullythan Reef]] and [[Ryeniir]].
-
-'''{{Yearlink|-11003}}'''
-* '''Rise Of The Aryselmalyr Empire.''' [[Coryselmal]], the grandest of the sea elf cities of [[Selmalyr]], an elven nation of the [[Selmal Basin]], becomes the capitol of the [[Aryselmalyr]] Empire over all the elf kingdoms in Serôs. The Aryselmalyr Calendar marks Year 1.
-
-'''c. {{Yearlink|-11000}}'''
-* Dwarves from the great stronghold of Bhaerynden, under the leadership of [[Taark Shanat]] the Crusader and his eight sons, begin to establish the first holds of [[Deep Shanatar]] in the southern Underdark, below what will be the [[Lake of Steam]] and the [[Almraiven Mountains]]. These will eventually become known as [[shield dwarves]].
-
-==Third Crown War==
-[[File:Third Crown War.png|thumb|220x220px|Third Crown War]]
-'''{{Yearlink|-10900}}'''
-* The fallen solar [[Malkizid]] becomes the secret patron of the Vyshan lords.
-* '''The Third Crown War.''' Accords finally fail between Shantel Othreier and Aryvandaar, now known as the [[Vyshaantar Empire]], who immediately go to war.
-
-'''{{Yearlink|-10800}}'''
-* '''The Cloaker Wars.''' The followers of Shanat come under attack by the mysterious inhabitants of [[Rringlor Noroth]], who rose from the depths of a great chasm in a battle for control of the caverns of [[Alatorin]]. The Stout Folk eventually prevail, after Taark slew four [[blue dragon]]s who claimed the [[Rift of Dhalnadar]] as their demesne.
-* '''Rise of Shanatar.''' The [[Wyrmskull Throne]] is formed, and Taark Shanat renames the wyrm's lair [[Brightaxe Hall]] and founds the kingdom of [[Alatorin]]. [[Shield dwarves]] mark the founding of Alatorin as the beginning of the First Great Age of [[Shanatar]].
-
-'''{{Yearlink|-10700}}'''
-* '''The Battle Of The God's Theatre.''' The God's Theatre (modern day [[Tunlands]]) on eastern Shantel Othreier is the site of one of the largest and costliest of all the Crown Wars' battles. Nearly 70,000 elves died at the hands of elven or orcish enemies, as an orc horde 100,000 strong fell upon the already-embattled elves. Aryvandaar won the day, and occupied the northern half of Shantel Othreier.
-
-
-'''c. {{Yearlink|-10700}}'''
-* The [[illithid]] city of [[Oryndoll]] is founded by refugees from [[Glyth]].
-
-'''{{Yearlink|-10600}}'''
-* Shantel Othreier conquered by the Vyshaantar Empire of Aryvandaar after the mysterious death of [[Coronal]] [[Ynloeth]]. Guerrilla fighting and rebel mages arise in parts of Miyeritar and the newly conquered territories. Only [[Ardeep Forest|Ardeep]], a vassal realm of Shantel Othreier, does not fall to the Vyshaan.
-
-'''{{Yearlink|-10500}}'''
-* '''[[Dark Disaster|The Dark Disaster]].''' Miyeritar is engulfed in killing storms, which reduce this entire forest and realm into barren wastelands in three months. While no proof could ever be found, many believe the [[High Mages]] of Aryvandaar inflicted the Dark Disaster on Miyeritar.
-* Due to the Dark Disaster, the larger part of the followers of [[Eilistraee]]--a major patroness of Miyeritar--die in the cataclysm, a blow from which the goddess and her church won't recover for millennia.
-* The elven realm of Ardeep is finally conquered by Aryvandaar. In the hundred years it takes the Vyshaan to bring this land under their hegemony, they slay two of its rulers, [[Ilitharath]] and his grandson [[Tarosspur]].[[Dragon Magazine 270]]: The Ardeep
+* With another major migration to Serôs following the fall of Thearnytaar, the sea elves expand militarily beyond the Selmal Basin and establish the kingdoms and regions of Coranthys, Tor Meraliir, Ullythan Reef and Ryeniir.
+* Rise Of The Aryselmalyr Empire. Coryselmal, the grandest of the sea elf cities of Selmalyr, an elven nation of the Selmal Basin, becomes the capitol of the Aryselmalyr Empire over all the elf kingdoms in Serôs. The Aryselmalyr Calendar marks Year 1.
+c. 
+* Dwarves from the great stronghold of Bhaerynden, under the leadership of Taark Shanat the Crusader and his eight sons, begin to establish the first holds of Deep Shanatar in the southern Underdark, below what will be the Lake of Steam and the Almraiven Mountains. These will eventually become known as shield dwarves.
+thumb|220x220px|Third Crown War
+* The fallen solar Malkizid becomes the secret patron of the Vyshan lords.
+* The Third Crown War. Accords finally fail between Shantel Othreier and Aryvandaar, now known as the Vyshaantar Empire, who immediately go to war.
+* The Cloaker Wars. The followers of Shanat come under attack by the mysterious inhabitants of Rringlor Noroth, who rose from the depths of a great chasm in a battle for control of the caverns of Alatorin. The Stout Folk eventually prevail, after Taark slew four blue dragons who claimed the Rift of Dhalnadar as their demesne.
+* Rise of Shanatar. The Wyrmskull Throne is formed, and Taark Shanat renames the wyrms lair Brightaxe Hall and founds the kingdom of Alatorin. Shield dwarves mark the founding of Alatorin as the beginning of the First Great Age of Shanatar.
+* The Battle Of The Gods Theatre. The Gods Theatre (modern day Tunlands) on eastern Shantel Othreier is the site of one of the largest and costliest of all the Crown Wars battles. Nearly 70,000 elves died at the hands of elven or orcish enemies, as an orc horde 100,000 strong fell upon the already-embattled elves. Aryvandaar won the day, and occupied the northern half of Shantel Othreier.
+c. 
+* The illithid city of Oryndoll is founded by refugees from Glyth.
+* Shantel Othreier conquered by the Vyshaantar Empire of Aryvandaar after the mysterious death of Coronal Ynloeth. Guerrilla fighting and rebel mages arise in parts of Miyeritar and the newly conquered territories. Only Ardeep, a vassal realm of Shantel Othreier, does not fall to the Vyshaan.
+* The Dark Disaster. Miyeritar is engulfed in killing storms, which reduce this entire forest and realm into barren wastelands in three months. While no proof could ever be found, many believe the High Mages of Aryvandaar inflicted the Dark Disaster on Miyeritar.
+* Due to the Dark Disaster, the larger part of the followers of Eilistraee--a major patroness of Miyeritar--die in the cataclysm, a blow from which the goddess and her church wont recover for millennia.
+* The elven realm of Ardeep is finally conquered by Aryvandaar. In the hundred years it takes the Vyshaan to bring this land under their hegemony, they slay two of its rulers, Ilitharath and his grandson Tarosspur.Dragon Magazine 270 The Ardeep
 * Shock over the Dark Disaster established an uneasy four decades of peace, as nearly every elf of Faerûn shrank back in awe and horror from what havoc the Crown Wars wrought.
-* The eight sons of Taark Shanat set off to found their own kingdoms in the caverns to the north (beneath modern-day Tethyr and [[Amn]]). Each son claimed one of the children of [[Moradin]] as his patron deity and so each of the subkingdoms they established became tightly linked with the church of that particular god or goddess.
-
-==Fourth Crown War==
-[[File:Fourth Crown War before the Descent.png|thumb|220x220px|Fourth Crown War before the Descent]]
-'''c. {{Yearlink|-10450}}'''
-* '''Start Of The Fourth Crown War.''' Ilythiir's seething counter-attack to avenge Miyeritar sees their open use of the corrupt powers of Lolth, [[Ghaunadaur]] and other dark, evil gods for the first time.
-
-'''{{Yearlink|-10300}}'''
+* The eight sons of Taark Shanat set off to found their own kingdoms in the caverns to the north (beneath modern-day Tethyr and Amn). Each son claimed one of the children of Moradin as his patron deity and so each of the subkingdoms they established became tightly linked with the church of that particular god or goddess.
+thumb|220x220px|Fourth Crown War before the Descent
+c. 
+* Start Of The Fourth Crown War. Ilythiirs seething counter-attack to avenge Miyeritar sees their open use of the corrupt powers of Lolth, Ghaunadaur and other dark, evil gods for the first time.
 * The elves of Keltormir, opposed on both sides by the Vyshaan of Aryvandaar and the dark elven clan Hune of Ilythiir, strategically withdraw from eastern Keltormir, holding their lines at Highlands’ Edge.
-
-'''{{Yearlink|-10270}}'''
-* '''The Stone And Claw Campaigns.''' The withdrawal of Keltormir's forces to close and defend its own borders pitted forces of Aryvandaar and Ilythiir against each other. They soon closed ranks and fought incessantly for two centuries. Battles raged across the giant-infested mountains and wemic-claimed plains north of Keltormir.
-
-'''{{Yearlink|-10110}}'''
-* In opposition to the corrupt dark elves of Ilythiir and their continued destruction of the forested elven homelands by fire (an elven enemy of long-standing), over 1,000 priests and High Mages of Illefarn and other free areas spend decades in fervent prayer for salvation by [[Corellon Larethian]] and the [[Seldarine]].
-
-'''{{Yearlink|-10100}}'''
+* The Stone And Claw Campaigns. The withdrawal of Keltormirs forces to close and defend its own borders pitted forces of Aryvandaar and Ilythiir against each other. They soon closed ranks and fought incessantly for two centuries. Battles raged across the giant-infested mountains and wemic-claimed plains north of Keltormir.
+* In opposition to the corrupt dark elves of Ilythiir and their continued destruction of the forested elven homelands by fire (an elven enemy of long-standing), over 1,000 priests and High Mages of Illefarn and other free areas spend decades in fervent prayer for salvation by Corellon Larethian and the Seldarine.
 * Through enslaved dragons and other powers, the dark elves of Ilythiir engulf all of Shantel Othreier in flames, destroying over 70% of its trees over the course of 50 years.
-
-'''{{Yearlink|-10000}}'''
-* '''Descent Of The Drow.''' Corellon's magic, as directed through his priests and High Mages, transforms the dark elves, now only found in the form of the corrupt Ilythiiri, into the [[drow]]. Whether by magic or by weakness that banish them from the sunlit lands, all drow retreat within two months’ passing into the [[Underdark]].
-* Elves are summoned by the Seldarine to the site that becomes [[Elven Court]] one month after the Descent of the Drow, to settle differences and restore the peace among the elves.
-
-'''{{Yearlink|-9900}}'''
-* Aryvandaar's covert persecution of High Mages and priests begins, as they attempt to destroy or control any who might somehow force their descent as they did the drow.
-* While not destroyed utterly, Illefarn & its colony in the [[Llewyrrwood]] is annexed by Aryvandaar as its nobility of priests and High Mages died under the persecution of the increasingly-crazed Coronal [[Giilvas Vyshaan]]. Many elves of both lands flee to the remnants of Shantel Othreier.
-
-'''{{Yearlink|-9872}}'''
-* Garrison towers built among the [[Sharkstooth Mountains]], with the help of [[Vodos|Vodos the Great Builder]].
-
-'''{{Yearlink|-9845}}'''
-* Construction begins on the [[Sharksbane Wall]], uniting the existing tower garrisons, by the clergy of [[Deep Sashelas]], [[Trishina]] and [[Eadro]].
-
-'''{{Yearlink|-9839}}'''
-* '''Start Of The First Serôs War.''' The burgeoning empire of elves allies with the merfolk against sahuagin of eastern Serôs.
-
-'''{{Yearlink|-9833}}'''
-* '''End Of The First Serôs War.''' This war destroys the major sahuagin kingdom in "Sekolah’s Trench" (the [[Trench of Lopok]]). Wars and skirmishes continue across centuries to slow or stop the building of the Sharksbane Wall.
-
-'''{{Yearlink|-9800}}'''
-* The Vyshantaar Empire’s forces occupy all elven realms (save Keltormir) from the High Forest of Aryvandaar to the sweltering southern forests of Ilythiir. They begin the colonisation and settlement of [[Evermeet]].
-* A large force of Llewyrr elves escape the oppressive mainland and resettle in isolation and safety among the mountains of the [[Moonshae]] Islands. Their new land becomes [[Synnoria]], after the elfqueen who led the [[Llewyrr]] to this island sanctuary.
-* The [[Yuirwood]] is settled by small numbers of [[Sy'Tel'Quessir]] in the aftermath of the Crown Wars.
-
-'''c. {{Yearlink|-9600}}'''
-* The rise of the first drow civilizations in the Underdark beneath [[South Faerûn|southern Faerûn]] and their constant harassment of the Vyshantaar forces over the next five centuries help prevent Aryvandaar annexing Keltormir or any other lands.
-* [[Guallidurth]], ancient city of the drow, is founded under the lands later known as [[Calimshan]].
-
-==Fifth Crown War==
-[[File:Fifth Crown War.png|thumb|220x220px|Fifth Crown War]]
-;{{Yearlink|-9200}}
-: '''The Fifth Crown War Begins.'''
+* Descent Of The Drow. Corellons magic, as directed through his priests and High Mages, transforms the dark elves, now only found in the form of the corrupt Ilythiiri, into the drow. Whether by magic or by weakness that banish them from the sunlit lands, all drow retreat within two months’ passing into the Underdark.
+* Elves are summoned by the Seldarine to the site that becomes Elven Court one month after the Descent of the Drow, to settle differences and restore the peace among the elves.
+* Aryvandaars covert persecution of High Mages and priests begins, as they attempt to destroy or control any who might somehow force their descent as they did the drow.
+* While not destroyed utterly, Illefarn & its colony in the Llewyrrwood is annexed by Aryvandaar as its nobility of priests and High Mages died under the persecution of the increasingly-crazed Coronal Giilvas Vyshaan. Many elves of both lands flee to the remnants of Shantel Othreier.
+* Garrison towers built among the Sharkstooth Mountains, with the help of Vodos the Great Builder.
+* Construction begins on the Sharksbane Wall, uniting the existing tower garrisons, by the clergy of Deep Sashelas, Trishina and Eadro.
+* Start Of The First Serôs War. The burgeoning empire of elves allies with the merfolk against sahuagin of eastern Serôs.
+* End Of The First Serôs War. This war destroys the major sahuagin kingdom in "Sekolah’s Trench" (the Trench of Lopok). Wars and skirmishes continue across centuries to slow or stop the building of the Sharksbane Wall.
+* The Vyshantaar Empire’s forces occupy all elven realms (save Keltormir) from the High Forest of Aryvandaar to the sweltering southern forests of Ilythiir. They begin the colonisation and settlement of Evermeet.
+* A large force of Llewyrr elves escape the oppressive mainland and resettle in isolation and safety among the mountains of the Moonshae Islands. Their new land becomes Synnoria, after the elfqueen who led the Llewyrr to this island sanctuary.
+* The Yuirwood is settled by small numbers of SyTelQuessir in the aftermath of the Crown Wars.
+c. 
+* The rise of the first drow civilizations in the Underdark beneath southern Faerûn and their constant harassment of the Vyshantaar forces over the next five centuries help prevent Aryvandaar annexing Keltormir or any other lands.
+* Guallidurth, ancient city of the drow, is founded under the lands later known as Calimshan.
+thumb|220x220px|Fifth Crown War
+ The Fifth Crown War Begins.
 * The First Proclamation of Elven Court leads to the revolt of the nobles of Aryvandaar and the last Crown War begins. The Elven Court, the Seldarine priesthoods, and the long-hidden High Mages restore pockets of resistance and freedom across the entire Vyshantaar Empire, fragmenting the armies and nobles to limit their coordination.
-* The solar [[Malkizid]] abandons [[House Vyshaan]] and retreats to the lower planes.
-
-;{{Yearlink|-9000}}
-: '''The Fifth Crown War Ends.'''
-* The Vyshaan are utterly defeated and Aryvandaar is dissolved. Much of the [[High Forest]] is abandoned for an age, leaving the forest open so the gods might restore its peace. The madness of the Vyshaan clan compelled even their most fervent followers to abandon them before all the elves lay dead at their hands. While the final fate of the Vyshaan elves is not recorded, most [[Tel'Quessir]] believe them dead and executed at the hands of Elven Court. Still, some rebellious elves across the centuries whisper tales of the four sons of Vyshaan who escaped to the west and to the stars to quietly marshal their strength and await such a time as they could return in glory to Faerûn.
-
-==Aftermath==
+* The solar Malkizid abandons House Vyshaan and retreats to the lower planes.
+ The Fifth Crown War Ends.
+* The Vyshaan are utterly defeated and Aryvandaar is dissolved. Much of the High Forest is abandoned for an age, leaving the forest open so the gods might restore its peace. The madness of the Vyshaan clan compelled even their most fervent followers to abandon them before all the elves lay dead at their hands. While the final fate of the Vyshaan elves is not recorded, most TelQuessir believe them dead and executed at the hands of Elven Court. Still, some rebellious elves across the centuries whisper tales of the four sons of Vyshaan who escaped to the west and to the stars to quietly marshal their strength and await such a time as they could return in glory to Faerûn.
 * Illefarn emerges intact from the Crown Wars and joins with the vassal realm of Ardeep now that Shantel Othreier is no more.
-* '''The Wandering Years of Elven Colonization Begin.''' Many elves begin migrating back to Elven Court in its eastern forest. Keltormir emerges intact from the Crown War.
+* The Wandering Years of Elven Colonization Begin. Many elves begin migrating back to Elven Court in its eastern forest. Keltormir emerges intact from the Crown War.
 * The end of the Crown Wars brings the last of the great elven migrations into Serôs.
-* The Imperial Elven Navy man-o-war Green Monarch under [[Mariona Leafbower|Captain Mariona Leafbower]] loses a battle with [[Q'nidar]] and is forced to make a crash landing on Evermeet. Captain Leafbower lends her expertise to Evermeet's navy in the construction of the [[Ruathimaer]] ("Starwings") which become the defensive fleet of Evermeet.
-* The drow overwhelm the dwarves of Bhaerynden and take the rift-city for their own, founding the kingdom of [[Telantiwar]].
-* One of the largest groups of dwarves to flee the fall of Bhaerynden, abandon their subterranean homes and make their way overland to the [[Chult|Chultan peninsula]] before splintering into small tribal groups. Members of this isolated branch eventually become known as wild dwarves.
+* The Imperial Elven Navy man-o-war Green Monarch under Captain Mariona Leafbower loses a battle with Qnidar and is forced to make a crash landing on Evermeet. Captain Leafbower lends her expertise to Evermeets navy in the construction of the Ruathimaer ("Starwings") which become the defensive fleet of Evermeet.
+* The drow overwhelm the dwarves of Bhaerynden and take the rift-city for their own, founding the kingdom of Telantiwar.
+* One of the largest groups of dwarves to flee the fall of Bhaerynden, abandon their subterranean homes and make their way overland to the Chultan peninsula before splintering into small tribal groups. Members of this isolated branch eventually become known as wild dwarves.
 * Skirmishes break out between the eight northern realms of Shanatar as each fight to extend their borders at the expense of their neighbors. Over time, the skirmishes evolve into open warfare, pitting thousands of dwarves against one another.
-
-==References==
-{{Refs}}
-[[de:Kronenkriege]]
-[[Category:Conflicts]]
-[[Category:History]]
+deKronenkriege
+CategoryConflicts
+CategoryHistory
 pizln5o8911qjamctrtxh6t1ztn0qcc
-
-

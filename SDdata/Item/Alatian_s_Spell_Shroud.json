@@ -1,29 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes",
-        "10'|'\"|long": "yes"
-    },
     "document_data": {
-        "image": "Alatian's Spell Shroud.png",
-        "caption": "",
-        "name": "''Alatian's Spell Shroud''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Robe]]",
-        "location": "[[Daggerford]], [[Sword Coast]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+1",
-        "value3e": "",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -40,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Alatian's Spell Shroud''''' was an eerily-glowing piece of [[enchanted]] clothing that belonged to [[Alatian]], a servant and an apprentice of a [[lich]] named [[Estera]].",
-        "Powers": "This set of magical clothing possessed a ''+1'' enchantment to the wearer's defense and it emitted dim blue lights that illuminated {{SI|10'|'\"|long=yes}} around it. When the wearer of ''Alatian's Spell Shroud'' was struck, the item unleashed a burst of ''[[dispelling]]'' magic on the attacker. The wearer also received access to the ''[[spell sequencer]]'' spell stored within the robe. This spell was accessible once per day.",
-        "History": "Sometime before [[1372 DR]], these magical robes were gifted to Alatian by his undead master. The lich's apprentice was often sent on accusation mission of various items from the land the living by Estera. During these expeditions, those who witnessed Alatian creeping through graveyards late at night, assumed that the eery glow radiating from the ''Spell Shroud'' was a restless [[ghost]]. The ''Shroud'' remained in Alatian's possession until he himself ascended into lichdom.\n\n''Alatian's Spell Shroud'' eventually ended up in possession of [[Boonmoppet]]'s master. The [[wizard]], and later a lich, was killed before [[1372 DR]], leaving his tower and his magical goods in the hands of the lonely [[imp]] familiar."
+        "mainbody": "Alatians Spell Shroud was an eerily-glowing piece of enchanted clothing that belonged to Alatian, a servant and an apprentice of a lich named Estera.\nThis set of magical clothing possessed a +1 enchantment to the wearers defense and it emitted dim blue lights that illuminated  around it. When the wearer of Alatians Spell Shroud was struck, the item unleashed a burst of dispelling magic on the attacker. The wearer also received access to the spell sequencer spell stored within the robe. This spell was accessible once per day.\nSometime before 1372 DR, these magical robes were gifted to Alatian by his undead master. The lichs apprentice was often sent on accusation mission of various items from the land the living by Estera. During these expeditions, those who witnessed Alatian creeping through graveyards late at night, assumed that the eery glow radiating from the Spell Shroud was a restless ghost. The Shroud remained in Alatians possession until he himself ascended into lichdom.\nAlatians Spell Shroud eventually ended up in possession of Boonmoppets master. The wizard, and later a lich, was killed before 1372 DR, leaving his tower and his magical goods in the hands of the lonely imp familiar."
     }
 }

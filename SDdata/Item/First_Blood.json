@@ -1,32 +1,5 @@
 {
-    "template_data": {
-        "6|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''First Blood''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Bastard sword]]",
-        "material": "[[Steel]]",
-        "creator": "",
-        "origin": "[[Wheloon Prison]], [[Cormyr]]",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+4,+5,+7,+8",
-        "value3e": "",
-        "weight3e": "{{SI|6|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -43,10 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "It is not who hits hardest but who hits first. However, there is much to be said for hitting first AND hardest.\n}}": "=Description==",
-        "mainbody": "e blade was heavily chipped, while the hilt was well ornamented.",
-        "Description": "The blade was heavily chipped, while the hilt was well ornamented.",
-        "Powers": "''First Blood'' was enhanced to quickly inflict terrible and lethal blows.",
-        "History": "The sword was found by [[Cormyr]]ean forces after defeating the [[Shadar-kai (Netherese)|shadar-kai]] [[Karleth]] in the [[merchant's townhouse (Wheloon)|merchant's townhouse]] during the [[Shadovar invasion of Wheloon]]."
+        "mainbody": "First Blood was a bastard sword found in Wheloon Prison in the mid-1480s DR.\nThe blade was heavily chipped, while the hilt was well ornamented.\nFirst Blood was enhanced to quickly inflict terrible and lethal blows.\nThe sword was found by Cormyrean forces after defeating the shadar-kai Karleth in the merchants townhouse during the Shadovar invasion of Wheloon."
     }
 }

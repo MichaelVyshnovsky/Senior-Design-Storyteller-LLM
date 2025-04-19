@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "title": "Items",
-        "index": "{{P",
-        "title_1": "Potions",
-        "index_1": "{{P",
-        "title_2": "Spells",
-        "index_2": "{{P",
-        "title_3": "Languages",
-        "index_3": "{{P"
-    },
     "document_data": {
-        "image": "PlanewalkersHandbookCover.jpg",
-        "caption": "Cover of ''The Planewalker's Handbook''.",
-        "code": "TSR2620",
-        "title": "Languages",
-        "author": "[[Monte Cook]]",
-        "editor": "[[Michele Carter]]",
-        "cover_artist": "[[Robh Ruppel]]",
-        "inter_artist": "[[Tony DiTerlizzi]]<br/>Color Plates: [[Alan Pollack]], [[Tony DiTerlizzi]], [[Sam Rakeland]], [[Ned Dameron]]",
-        "cartography": "[[David C. Sutherland III]]",
-        "typography": "[[Angelika Lokotz]]",
-        "publisher": "[[TSR, Inc.]]",
-        "released": "1996",
-        "game_edition": "2",
-        "type": "Accessory",
-        "binding": "Paperback",
-        "pages": "160",
-        "isbn10": "0-7869-0460-7",
-        "isbn13": "978-0786904600",
-        "source": "",
-        "index": "{{P|[[Dwarvish]]|101}};{{P|[[Elvish]]|101}};{{P|[[Gith language]]|101}};{{P|[[Hag language]]|101}};{{P|[[Lizardfolk language]]|101}};{{P|[[Modron language]]|101}};{{P|[[Orcish]]|101}};{{P|[[Sylph language]]|101}}",
-        "mainbody": "",
-        "Description": "''The Planewalker's Handbook'' was published by TSR, Inc. in 1996 and was designed to expand upon the game's existing rules and lore by providing players and Dungeon Masters with more detailed information about the many planes of existence that exist within the game's multiverse.\n\nThe book is divided into several chapters, each of which explores a different aspect of planar travel and adventure. These chapters cover topics such as the cosmology of the multiverse, the various planes of existence and their inhabitants, magical portals and planar gateways, planar magic, and the equipment and tools necessary for successful planar travel.\n\nIn addition to providing new rules and mechanics for planar travel and adventure, ''The Planewalker's Handbook'' also introduces new character classes, spells, magical items, and other content specifically tailored to the multiverse of the game. The book also includes a variety of adventure hooks and plot seeds that can be used by Dungeon Masters to create planar adventures for their players.\n\nOverall, ''The Planewalker's Handbook'' is a comprehensive guide to the multiverse of the ''Advanced Dungeons & Dragons'' game, providing players and Dungeon Masters with a wealth of new content and mechanics to explore and use in their campaigns.",
-        "Contents": "* Introduction\n* A Planewalker's Guide to the Planes\n* Traveling the Multiverse\n* Getting There or Just Getting By: Planewalker Tips\n* The Factions\n* Races and Archetypes\n* Planar Kits and Proficiencies\n* Magic on the Planes\n* Planewalking Equipment\n* Planescape Campaigning\n* Planar Glossary\n* Cant Dictionary for the Clueless\n* Index",
-        "Index": {
-            "Magic": "{{Index\n|title = Items\n|index = {{P|''[[air spores]]''|136}};{{P|''[[cubic gate]]''|39,136}};{{P|''[[planar compass]]''|138-139}}\n}}\n{{Index\n|title = Potions\n|index = {{P|''[[oil of elemental invulnerability]]''|136}}\n}}\n{{Index\n|title = Spells\n|index = {{P|''[[acidic blast]]''|114}};{{P|''[[breathe earth]]''|46,117}};{{P|''[[cubehopper]]''|115,119}};{{P|''[[gate seal]]''|115}};{{P|''[[stabilize chaos]]''|115}}\n}}",
-            "Miscellaneous": "{{Index\n|title = Languages\n|index = {{P|[[Dwarvish]]|101}};{{P|[[Elvish]]|101}};{{P|[[Gith language]]|101}};{{P|[[Hag language]]|101}};{{P|[[Lizardfolk language]]|101}};{{P|[[Modron language]]|101}};{{P|[[Orcish]]|101}};{{P|[[Sylph language]]|101}}\n}}"
-        },
-        "Gallery": "<gallery>\nThe Planewalker's Handbook Back Cover.jpg|''Back Cover''\n</gallery>",
-        "Credits": "* '''Designer:''' Monte Cook\n* '''Editor and Developer:''' Micnele Carter\n* '''Creative Direction:''' Andria Hayday\n* '''Cover Artist:''' Robh Ruppel\n* '''Interior Artist:''' DiTerlizzi\n* '''Cartography:''' Dave Sutherland\n* '''Color Plates:''' Alan Pollack, DiTerlizzi, Sam Rakeland, Ned Dameron\n* '''Art Direction:''' Bob Galica\n* '''Electronic Prepress Coordinator:''' Dave Conant\n* '''Typography:''' Angelika Lokotz\n* '''Border Art:''' Robert Repp\n* '''Graphic Design:''' Dawn Murin\n* '''Proofreader and Helping Hand:''' Ray Vallese"
+        "mainbody": "he Planewalkers Handbook is a 2-edition Advanced Dungeons & Dragons accessory. It is part of the Planescape campaign setting.\nThe Planewalkers Handbook was published by TSR, Inc. in 1996 and was designed to expand upon the games existing rules and lore by providing players and Dungeon Masters with more detailed information about the many planes of existence that exist within the games multiverse.\nThe book is divided into several chapters, each of which explores a different aspect of planar travel and adventure. These chapters cover topics such as the cosmology of the multiverse, the various planes of existence and their inhabitants, magical portals and planar gateways, planar magic, and the equipment and tools necessary for successful planar travel.\nIn addition to providing new rules and mechanics for planar travel and adventure, The Planewalkers Handbook also introduces new character classes, spells, magical items, and other content specifically tailored to the multiverse of the game. The book also includes a variety of adventure hooks and plot seeds that can be used by Dungeon Masters to create planar adventures for their players.\nOverall, The Planewalkers Handbook is a comprehensive guide to the multiverse of the Advanced Dungeons & Dragons game, providing players and Dungeon Masters with a wealth of new content and mechanics to explore and use in their campaigns.\n* Introduction\n* A Planewalkers Guide to the Planes\n* Traveling the Multiverse\n* Getting There or Just Getting By Planewalker Tips\n* The Factions\n* Races and Archetypes\n* Planar Kits and Proficiencies\n* Magic on the Planes\n* Planewalking Equipment\n* Planescape Campaigning\n* Planar Glossary\n* Cant Dictionary for the Clueless\n* Index\nThe Planewalkers Handbook Back Cover.jpg|Back Cover\n* Designer Monte Cook\n* Editor and Developer Micnele Carter\n* Creative Direction Andria Hayday\n* Cover Artist Robh Ruppel\n* Interior Artist DiTerlizzi\n* Cartography Dave Sutherland\n* Color Plates Alan Pollack, DiTerlizzi, Sam Rakeland, Ned Dameron\n* Art Direction Bob Galica\n* Electronic Prepress Coordinator Dave Conant\n* Typography Angelika Lokotz\n* Border Art Robert Repp\n* Graphic Design Dawn Murin\n* Proofreader and Helping Hand Ray Vallese"
     }
 }

@@ -1,12 +1,5 @@
 {
     "document_data": {
-        "type": "Settlement",
-        "name": "Hammergate",
-        "image": "",
-        "caption": "",
-        "aliases": "",
-        "capital": "",
-        "area": "[[East Rift]], [[South Faerûn]]{{Cite digital book/The Gilded Rune/Kindle|767}}",
         "size": "Town",
         "ruler1": "",
         "ruleryear1": "",
@@ -21,7 +14,7 @@
         "rulertype": "",
         "government": "",
         "languages": "",
-        "races": "[[Dwarves]], [[humans]]",
+        "races": "Dwarves, humans",
         "religion": "",
         "reckoning": "DR",
         "population1": "",
@@ -33,15 +26,13 @@
         "imports": "",
         "exports": "",
         "alignment": "",
-        "allegiance": "[[Eartheart]]",
+        "allegiance": "Eartheart",
         "usethe": "",
         "useon": "",
         "inhabitants": "yes",
         "locations": "yes",
         "organizations": "yes",
         "settlements": "",
-        "mainbody": "'''Hammergate''' was a town just outside the walls of [[Eartheart]] and was home to many [[human]]s.",
-        "Relationships": "The town functioned as the foreign quarter of Eartheart.",
-        "References": "{{refs}}\n{{geo-stub}}\n[[Category:Towns]]\n[[Category:Settlements]]\n[[Category:Dwarven locations]]\n[[Category:Locations in East Rift]]\n[[Category:Locations in South Faerûn]]\n[[Category:Locations in Faerûn]]\n[[Category:Locations on Toril]]\n5ny0sj7bctk0l5b0ddihh5613esscka"
+        "mainbody": "Hammergate was a town just outside the walls of Eartheart and was home to many humans.\nThe town functioned as the foreign quarter of Eartheart.\nCategoryTowns\nCategorySettlements\nCategoryDwarven locations\nCategoryLocations in East Rift\nCategoryLocations in South Faerûn\nCategoryLocations in Faerûn\nCategoryLocations on Toril\n5ny0sj7bctk0l5b0ddihh5613esscka"
     }
 }

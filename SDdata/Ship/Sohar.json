@@ -1,37 +1,12 @@
 {
-    "template_data": {
-        "90|ft|long": "yes",
-        "25|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Sohar.png",
-        "caption": "",
-        "name": "Sohar",
-        "aliases": "",
-        "type": "Sailing ship",
-        "size": "",
-        "location": "",
-        "captain": "",
-        "notable crew": "",
-        "flag": "",
-        "built by": "",
-        "used by": "[[Calishite]] merchants",
-        "basicrefs": "",
-        "value": "",
-        "tonnage": "",
-        "crew": "",
-        "passengers": "",
-        "armament": "",
-        "cargo": "{{SI|100|ton|k}}",
-        "keel length": "{{SI|90|ft}}",
-        "beam width": "{{SI|25|ft}}",
+        "keel length": "",
+        "beam width": "",
         "usethe": "",
         "useon": "",
         "inhabitants": "",
         "source": "",
         "page": "",
-        "mainbody": "'''Sohars''' were a type of ship commonly used by [[Calishite]]s to ship goods.",
-        "Description": "On average, from bow to stern these ships measured {{SI|90|ft|long=yes}} in length, had a beam (width) of {{SI|25|ft|long=yes}}, and required a depth of at least {{SI|4|ft}} in order to float.\n\nSohars sported three masts but the average number of crew one could find on a sohar would be around eight individuals. The bare minimum of individuals needed to sail a sohar were four.",
-        "History": "''Circa'' [[1344 DR]], a sohar being sailed by Calishite merchants sunk in the [[Sea of Fallen Stars]], leaving a shipwreck.{{Cite digital book/Rising Tide|?|1}}\n\nBy [[1371 DR]], sohars were becoming a more common sight in the Inner Sea."
+        "mainbody": "Sohars were a type of ship commonly used by Calishites to ship goods.\nOn average, from bow to stern these ships measured  in length, had a beam (width) of , and required a depth of at least  in order to float.\nSohars sported three masts but the average number of crew one could find on a sohar would be around eight individuals. The bare minimum of individuals needed to sail a sohar were four.\nCirca 1344 DR, a sohar being sailed by Calishite merchants sunk in the Sea of Fallen Stars, leaving a shipwreck.\nBy 1371 DR, sohars were becoming a more common sight in the Inner Sea."
     }
 }

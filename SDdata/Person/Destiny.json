@@ -1,20 +1,6 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Destiny",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "",
-        "formerhomes": "",
-        "sex": "Female{{Cite web/Perilous Gateways/One-Way Portals in Amn:The Dusty Rat}}",
-        "race": "[[Human]]",
+        "race": "Human",
         "ethnicity": "",
         "occupation": "",
         "age": "",
@@ -46,9 +32,9 @@
         "alignment2e": "",
         "class2e": "",
         "refs2e": "",
-        "alignment3e": "[[Neutral evil]]",
+        "alignment3e": "Neutral evil",
         "challenge3e": "7",
-        "class3e": "{{Class table|edition=3e|[[Cleric]]|7}}",
+        "class3e": "",
         "refs3e": "",
         "alignment35": "",
         "challenge35": "",
@@ -61,12 +47,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Destiny''' was a [[cleric]] of Fharlanghn who lived in [[Amn]].",
-        "Personality": "Destiny was an unscrupulous woman who did not care about whether people died in her money-making schemes.",
-        "Abilities": "Destiny was a cleric of Fharlanghn, She had access to the [[Luck domain|Luck]] and [[Travel domain|Travel]] [[domain]]s. She regularly prepared ''[[animate dead]]'', ''[[augury]]'', ''[[bless]]'', ''[[blindness/deafness]]'', ''[[cause fear]]'', ''[[create water]]'', ''[[cure light wounds]]'', ''[[cure minor wounds]]'', ''[[cure moderate wounds]]'', ''[[cure serious wounds]]'', ''[[detect magic]]'', ''[[detect poison]]'', ''[[dimension door]]'', ''[[expeditious retreat]]'', ''[[fly]]'', ''[[hold person]]'', ''[[light]]'', ''[[locate object]]'', ''[[read magic]]'', ''[[sanctuary]]'', ''[[silence]]'', and ''[[summon monster IV]]''. Out of these [[spell]]s, she made regular use of the ''[[animate dead]]'' spell to create [[undead]] to drag unwanted people through the ''[[Dusty Rat portal]]''.",
-        "Possessions": "Destiny owned several [[magic item]]s. Namely, she owned a ''+1 [[full plate|full plate armor]]'', ''+1 [[steel]] [[large shield]]'', ''+1 [[heavy mace]]'', and a ''[[cloak of resistance]] +1''.",
-        "Activities": "Destiny was a member of a trio with [[Baldy Spryth]] and [[Scales]] that ran the ''Dusty Rat portal'' scam. They spread a rumor that the Dusty Rat bar had a ''[[portal]]'' that went to another dimension. They charged a fee for its usage and collected all the equipment of people who used it, which was left behind due to the creature-only nature of the ''Dusty Rat portal''. She used ''animate dead'' to create undead, which were used by Baldy to send unwanted people through the ''portal''.",
-        "Relationships": "As mentioned above, Destiny was part of the trio that ran the aforementioned scam. None of them saw a moral problem with it.",
-        "History": "Destiny came into contact with Baldy and Scales some time in the 14{{th}} century [[DR]]. By that point, Baldy was already quite successful by means of his scam with the ''portal''."
+        "mainbody": "Destiny was a cleric of Fharlanghn who lived in Amn.\nDestiny was an unscrupulous woman who did not care about whether people died in her money-making schemes. \nDestiny was a cleric of Fharlanghn, She had access to the Luck and Travel domains. She regularly prepared animate dead, augury, bless, blindness/deafness, cause fear, create water, cure light wounds, cure minor wounds, cure moderate wounds, cure serious wounds, detect magic, detect poison, dimension door, expeditious retreat, fly, hold person, light, locate object, read magic, sanctuary, silence, and summon monster IV. Out of these spells, she made regular use of the animate dead spell to create undead to drag unwanted people through the Dusty Rat portal.\nDestiny owned several magic items. Namely, she owned a +1 full plate armor, +1 steel large shield, +1 heavy mace, and a cloak of resistance +1.\nDestiny was a member of a trio with Baldy Spryth and Scales that ran the Dusty Rat portal scam. They spread a rumor that the Dusty Rat bar had a portal that went to another dimension. They charged a fee for its usage and collected all the equipment of people who used it, which was left behind due to the creature-only nature of the Dusty Rat portal. She used animate dead to create undead, which were used by Baldy to send unwanted people through the portal.\nAs mentioned above, Destiny was part of the trio that ran the aforementioned scam. None of them saw a moral problem with it.\nDestiny came into contact with Baldy and Scales some time in the 14 century DR. By that point, Baldy was already quite successful by means of his scam with the portal."
     }
 }

@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "5|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Azure Rod.png",
-        "caption": "",
-        "name": "''Azure Rod''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Mace]]",
-        "creator": "",
-        "location": "[[Ice Lakes]], [[northwest Faerûn]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+2",
-        "value3e": "",
-        "weight3e": "{{SI|5|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Azure Rods''''' were rare [[enchanted]] [[lapis lazuli]] [[mace]]s that were deadly to evil creatures.",
-        "Description": "''Azure Rods'' were made out of a sturdy metallic alloy of silvery-white color, and the mace's head was carved out of a gently glowing lapis lazuli. The entirety of the weapon was decorated with intricate winding designs. However, they did not indicate the weapon's maker or significance.",
-        "Powers": "The mace's magical nature was very apparent. It glowed with the magical, slowly drawn power of Goodness itself. When wielded in combat, the weapon's magic dealt additional damage to creatures of evil and malicious nature. The same magic of good invigorated the weapon's owner. Despite ''Azure Rods''<nowiki>'</nowiki> magic, the mace could be wielded by any creature, be they good or evil.",
-        "History": "''Azure Rods''<nowiki>'</nowiki> history was a mystery. They were created sometime before the early 14{{th}} century [[DR]]. One such weapon found its way into the hands of [[Hadbruki]], a [[shaman]] leader of the [[Uthgardt]] [[Black Raven tribe]], who used the [[Cold Marshes]] area of the [[Ice Lakes]] as their hunting ground."
+        "mainbody": "Azure Rods were rare enchanted lapis lazuli maces that were deadly to evil creatures.\nAzure Rods were made out of a sturdy metallic alloy of silvery-white color, and the maces head was carved out of a gently glowing lapis lazuli. The entirety of the weapon was decorated with intricate winding designs. However, they did not indicate the weapons maker or significance.\nThe maces magical nature was very apparent. It glowed with the magical, slowly drawn power of Goodness itself. When wielded in combat, the weapons magic dealt additional damage to creatures of evil and malicious nature. The same magic of good invigorated the weapons owner. Despite Azure Rods magic, the mace could be wielded by any creature, be they good or evil.\nAzure Rods history was a mystery. They were created sometime before the early 14 century DR. One such weapon found its way into the hands of Hadbruki, a shaman leader of the Uthgardt Black Raven tribe, who used the Cold Marshes area of the Ice Lakes as their hunting ground."
     }
 }

@@ -1,34 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Merciful Touch",
-        "deity": "[[Sharindlar]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Healing sphere|Healing]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|3}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -36,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Merciful touch''''' was a [[spell]] used by [[cleric]]s of [[Sharindlar]].",
-        "Effects": "A caster used this spell to not only heal injuries, but to alleviate pain and suffering. So if the spell was unable to cure a disease or completely heal an injury, it would ease the symptoms or pain from said conditions for up to a full day. ''Merciful touch'' also negated the effects of certain spells such as ''[[irritation]]''.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required a [[material component]], the holy symbol of Sharindlar."
+        "mainbody": "Merciful touch was a spell used by clerics of Sharindlar.\nA caster used this spell to not only heal injuries, but to alleviate pain and suffering. So if the spell was unable to cure a disease or completely heal an injury, it would ease the symptoms or pain from said conditions for up to a full day. Merciful touch also negated the effects of certain spells such as irritation. \nIn addition to verbal and somatic components, this spell required a material component, the holy symbol of Sharindlar."
     }
 }

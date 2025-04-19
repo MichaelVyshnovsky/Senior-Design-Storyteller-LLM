@@ -1,15 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "name": "Animate Flame",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Elemental sphere|Elemental]] [[Elemental fire sphere|Fire]]",
-        "level2e": "{{spell table|edition=2e|[[Druid]]|5|[[Elemental sphere|Elemental]]|5|[[Elemental fire sphere|Elemental Fire]]|5}}",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''Animate flame''' was an [[alteration]] spell that caused natural flames to move at the command of the caster, leaving their fuel behind, possibly with devastating effect. With luck, experienced priests could control even magical fires.\n{{Stub/Spell}}",
-        "References": "{{refs}}\n[[Category:Alteration spells]]\n[[Category:Druid spells]]\nbcb2o34vdbiukydjgx8qfdv5r0vokjy"
+        "mainbody": "Animate flame was an alteration spell that caused natural flames to move at the command of the caster, leaving their fuel behind, possibly with devastating effect. With luck, experienced priests could control even magical fires.\nCategoryAlteration spells\nCategoryDruid spells\nbcb2o34vdbiukydjgx8qfdv5r0vokjy"
     }
 }

@@ -1,24 +1,5 @@
 {
-    "template_data": {
-        "8|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Strong Arm.png",
-        "caption": "",
-        "name": "''Strong Arm''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Longbow]]",
-        "creator": "",
-        "location": "[[Athkatla]], [[Amn]]<br/>[[Cloak Wood]], [[Sword Coast North]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "+2",
-        "value2e": "5,500 [[gp]]",
-        "weight2e": "{{SI|8|lb|k|long=yes}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -41,8 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The '''''Strong Arm''''' was a unique massive [[enchanted]] composite [[longbow]] that once belonged to the [[ranger]] named [[Bearpaw]] some years before the late 14{{th}} century [[DR]].",
-        "Powers": "The ''Strong Arm'' possessed a potent ''+2'' enchantment that guided the [[arrow]]s towards their targets. Only people of exceptional strength could pull its [[bowstring]].",
-        "History": "This longbow was said to be a gift from a strangely benevolent [[ogre]] of the [[Cloak Wood]] to the ranger named Bearpaw. The reasons for gifting it were unrecorded, but Bearpaw was the sort of person who earned friendship and respect wherever he went. Few were strong enough to draw its powerful bowstring so, after the ranger's death, his family, unable to use the weapon, sold it to a merchant heading south. In the {{YearlinkName|1369}}, the ''Strong Arm'' ended up being sold at the [[Adventurer Mart]] in [[Athkatla]]'s grand [[Waukeen's Promenade]]."
+        "mainbody": "The Strong Arm was a unique massive enchanted composite longbow that once belonged to the ranger named Bearpaw some years before the late 14 century DR.\nThe Strong Arm possessed a potent +2 enchantment that guided the arrows towards their targets. Only people of exceptional strength could pull its bowstring.\nThis longbow was said to be a gift from a strangely benevolent ogre of the Cloak Wood to the ranger named Bearpaw. The reasons for gifting it were unrecorded, but Bearpaw was the sort of person who earned friendship and respect wherever he went. Few were strong enough to draw its powerful bowstring so, after the rangers death, his family, unable to use the weapon, sold it to a merchant heading south. In the , the Strong Arm ended up being sold at the Adventurer Mart in Athkatlas grand Waukeens Promenade."
     }
 }

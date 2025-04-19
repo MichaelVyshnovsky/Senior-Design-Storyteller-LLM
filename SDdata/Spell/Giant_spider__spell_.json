@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Giant Spider",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Animal sphere|Animal]]",
-        "level2e": "{{Spell table|edition=2e|[[Animal sphere|Animal]]|3|[[Cleric]]|3}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Giant spider''''' was [[spell]] that made [[spider]]s big.",
-        "Effects": "''Giant spider'' made spiders larger. It only applied to spiders; other but similar creatures like insects or other creatures ''[[polymorph]]ed'' into spiders were not affected by the spell. If the spell was attempted to be applied to the latter, then the creatures regained their original forms and the caster was stunned for a minute.\n\nDepending on the caster's skill, more spiders could be enlarged, but always at the cost of increased casting time. The spiders needed to be relatively unharmed to be affected by this spell.\n\nThe spiders were increased to the size of a [[giant spider]] and gained a poisonous bite even if they did not have at their original size. Their poison was not lethal but could stun those bitten by them. They could not make their own webs but had no problems moving through webs, including those created by the spells ''[[web]]'' or ''[[spellweb]]''.",
-        "Components": "''Giant spider'' required somatic and verbal components. It also required material components in the form of a holy symbol and the living spiders to be transformed.",
-        "History": "The spell was associated with the [[drow]]."
+        "mainbody": "Giant spider was spell that made spiders big.\nGiant spider made spiders larger. It only applied to spiders other but similar creatures like insects or other creatures polymorphed into spiders were not affected by the spell. If the spell was attempted to be applied to the latter, then the creatures regained their original forms and the caster was stunned for a minute.\nDepending on the casters skill, more spiders could be enlarged, but always at the cost of increased casting time. The spiders needed to be relatively unharmed to be affected by this spell.\nThe spiders were increased to the size of a giant spider and gained a poisonous bite even if they did not have at their original size. Their poison was not lethal but could stun those bitten by them. They could not make their own webs but had no problems moving through webs, including those created by the spells web or spellweb.\nGiant spider required somatic and verbal components. It also required material components in the form of a holy symbol and the living spiders to be transformed.\nThe spell was associated with the drow."
     }
 }

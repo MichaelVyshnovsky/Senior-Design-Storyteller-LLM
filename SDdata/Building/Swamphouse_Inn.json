@@ -1,29 +1,5 @@
 {
-    "template_data": {
-        "80|feet|long": "yes",
-        "60|feet|long": "yes",
-        "10|foot|long": "yes",
-        "long": "yes",
-        "long_1": "yes",
-        "long_2": "yes"
-    },
     "document_data": {
-        "image": "Swamphouse-DunMag53.png",
-        "caption": "The floorplan of the Swamphouse Inn.",
-        "name": "Swamphouse Inn",
-        "aliases": "",
-        "type": "Inn",
-        "architecture": "Brick",
-        "floors": "2",
-        "location": "[[Moortown]], [[Vaasa]], [[Cold Lands]]",
-        "built": "",
-        "destroyed": "",
-        "owner": "",
-        "staff": "",
-        "occupants": "",
-        "services": "",
-        "worship": "",
-        "basicrefs": "{{Cite dungeon/53/Steelheart|63}}",
         "ownertable": "",
         "stafftable": "",
         "histrefs": "",
@@ -42,10 +18,6 @@
         "inhabitants": "yes",
         "locations": "",
         "organizations": "",
-        "mainbody": "The '''Swamphouse Inn''' was an [[inn]] and [[tavern]] located in [[Moortown]], [[Vaasa]]. As of the mid-to-late 14{{th}} century [[DR]], it was one of the only intact buildings in the ruined town.",
-        "Location": "[[File:Moortown-DunMag53.png|thumb|320px|''A sketch of Moortown ''circa'' 1369 DR with the Inn labelled as 3.'']]\nThe inn was located on the southern side of town not far from the [[temple of Tempus (Moortown)|temple of Tempus]] and the stables.{{Cite dungeon/53/Steelheart|62}}",
-        "Structure": "The inn's footprint was {{SI|80|feet|long=yes}} by {{SI|60|feet|long=yes}}.{{Cite dungeon/53/Steelheart|64}}",
-        "Interior": "The front door opened into the ground floor, which was dominated by an unremarkable dining room and bar. There was a separate kitchen in the northeast corner with a large fireplace, and a backdoor provided an exit from this kitchen to the east side of the inn.\n\nStairs on the north side of the dining room led up to the second floor, which had seven bedrooms along a single {{SIAdj|10|foot|long=yes}} wide hallway. Four of these rooms were smaller&mdash;approximately {{SI|400|sq. ft|long=yes}} each&mdash;and sat along the eastern side of the hall. These rooms had bare floors, simple beds, and some small furnishings. The remaining three rooms on the western side were larger&mdash;between {{SI|600|sq. ft|long=yes}} and {{SI|900|sq. ft|long=yes}}.",
-        "History": "As the Swamphouse Inn was still mostly intact after Moortown was abandoned in the 14{{th}} century DR, it was claimed as a headquarters by a garrison from the [[Cult of the Dragon]] led by [[Marlaxit-Tharg]]. The cultists used the rooms as a barracks and the bar for storage, as well as to hide the possessions of their captives while they indoctrinated them. Soon, the cultists had broken down all of the Inn's furniture into firewood.\n\nIn the {{YearlinkName|1368}}, the Cult captured a woman named [[Sarahla]] during a raid, and forced her to be their cook. In [[Flamerule]] of the {{YearlinkName|1369}}, much of the Moortown garrison emptied out to travel to a meeting with the [[Zhentarim]] in the [[Moonsea]] region, leaving only Marlaxit, Sarahla, and the front door guard&mdash;[[Argrath]]&mdash;at the Inn."
+        "mainbody": "The Swamphouse Inn was an inn and tavern located in Moortown, Vaasa. As of the mid-to-late 14 century DR, it was one of the only intact buildings in the ruined town.\nthumb|320px|A sketch of Moortown circa 1369 DR with the Inn labelled as 3.\nThe inn was located on the southern side of town not far from the temple of Tempus and the stables.\nThe inns footprint was  by .\nThe front door opened into the ground floor, which was dominated by an unremarkable dining room and bar. There was a separate kitchen in the northeast corner with a large fireplace, and a backdoor provided an exit from this kitchen to the east side of the inn.\nStairs on the north side of the dining room led up to the second floor, which had seven bedrooms along a single  wide hallway. Four of these rooms were smaller&mdashapproximately  each&mdashand sat along the eastern side of the hall. These rooms had bare floors, simple beds, and some small furnishings. The remaining three rooms on the western side were larger&mdashbetween  and .\nAs the Swamphouse Inn was still mostly intact after Moortown was abandoned in the 14 century DR, it was claimed as a headquarters by a garrison from the Cult of the Dragon led by Marlaxit-Tharg. The cultists used the rooms as a barracks and the bar for storage, as well as to hide the possessions of their captives while they indoctrinated them. Soon, the cultists had broken down all of the Inns furniture into firewood.\nIn the , the Cult captured a woman named Sarahla during a raid, and forced her to be their cook. In Flamerule of the , much of the Moortown garrison emptied out to travel to a meeting with the Zhentarim in the Moonsea region, leaving only Marlaxit, Sarahla, and the front door guard&mdashArgrath&mdashat the Inn."
     }
 }

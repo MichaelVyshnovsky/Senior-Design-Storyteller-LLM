@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "Doublestrike Arrow.jpg",
-        "caption": "An [[arrow]] enchanted with ''doublestrike arrow'' punches through two people.",
-        "name": "Doublestrike Arrow",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Justice of weald and woe]]|4|[[Ranger]]|4}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Doublestrike arrow''''' was a [[transmutation]] [[spell]] that was cast on either an [[arrow]] or [[bolt]].",
-        "Effects": "''Doublestrike arrow'' enchanted one arrow or bolt with the ability to hit two targets, who were within 30 feet (9 meters) of each other. The person who shot the enchanted projectile needed to aim at one target within six seconds of the casting for the spell's [[magic]] dissipated afterwards. The two targets were chosen on shooting the projectile and, after hitting or missing the target, the projectile flew towards the second target. The likelihood of hitting each target depended on the ranged combat skills of the one who shot the arrow. What could not be done with this spell was using the same arrow to hurt the first target a second time.\n\nNo matter whether the projectile hit or missed, the magic caused the destruction of the projectile after shooting it.",
-        "Components": "''Doublestrike arrow'' required [[somatic]], [[verbal]], and [[material component]]s. The material component was the projectile to be enchanted."
+        "mainbody": "Doublestrike arrow was a transmutation spell that was cast on either an arrow or bolt.\nDoublestrike arrow enchanted one arrow or bolt with the ability to hit two targets, who were within 30 feet (9 meters) of each other. The person who shot the enchanted projectile needed to aim at one target within six seconds of the casting for the spells magic dissipated afterwards. The two targets were chosen on shooting the projectile and, after hitting or missing the target, the projectile flew towards the second target. The likelihood of hitting each target depended on the ranged combat skills of the one who shot the arrow. What could not be done with this spell was using the same arrow to hurt the first target a second time.\nNo matter whether the projectile hit or missed, the magic caused the destruction of the projectile after shooting it.\nDoublestrike arrow required somatic, verbal, and material components. The material component was the projectile to be enchanted."
     }
 }

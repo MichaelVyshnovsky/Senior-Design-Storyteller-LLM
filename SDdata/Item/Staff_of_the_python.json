@@ -1,36 +1,12 @@
 {
-    "template_data": {
-        "4|ft|long": "yes",
-        "10|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Staff_of_the_python-5e.jpg",
-        "caption": "",
-        "name": "''Staff of the Python''",
-        "othernames": "''Python rod''",
-        "nicknames": "",
-        "type": "[[Staff]]",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "[[Transmutation]]",
-        "casterlevel3e": "10",
-        "itemlevel3e": "",
-        "value3e": "13,000 [[gp]]",
-        "weight3e": "{{SI|10|lb|k}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
         "weight4e": "",
         "refs4e": "",
         "rarity5e": "Uncommon",
-        "attunement5e": "Required ([[cleric]]s, [[druid]]s, and [[warlock]]s only)",
+        "attunement5e": "Required (clerics, druids, and warlocks only)",
         "school5e": "",
         "level5e": "",
         "value5e": "",
@@ -40,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "A '''''staff of the python''''' was a [[magic item|magical]] [[staff]] that could transform into a [[snake]] under its wielder's mental command.",
-        "Description": "A typical ''staff of the python'' measured {{SI|4|ft|long=yes}} in length and weighed around {{SI|10|lb|k|long=yes}}. It could be used as a magical [[quarterstaff]].",
-        "Powers": "The staff accepted a command word that transformed it into a [[giant constrictor snake]]. Speaking the same command word again reverted the snake back into staff form. An injured snake returned to full health once restored to the staff.\n\nThe snake accepted telepathic commands from the staff's wielder. If the snake was killed before it had a chance to be reverted to staff form, it did so, after which the staff was destroyed. However, some variants of the staff were not destroyed, but the snake could not be summoned for three days.",
-        "Notable ''Staves of the Python''": "The spirit of the [[Chult]]an [[Primal spirit#The Nine Trickster Gods of Omu|trickster god]] [[Moa]] inhabited a ''staff of the python''."
+        "mainbody": "A staff of the python was a magical staff that could transform into a snake under its wielders mental command.\nA typical staff of the python measured  in length and weighed around . It could be used as a magical quarterstaff.\nThe staff accepted a command word that transformed it into a giant constrictor snake. Speaking the same command word again reverted the snake back into staff form. An injured snake returned to full health once restored to the staff.\nThe snake accepted telepathic commands from the staffs wielder. If the snake was killed before it had a chance to be reverted to staff form, it did so, after which the staff was destroyed. However, some variants of the staff were not destroyed, but the snake could not be summoned for three days.\nThe spirit of the Chultan trickster god Moa inhabited a staff of the python."
     }
 }

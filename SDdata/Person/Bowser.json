@@ -1,27 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Bowser",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Ravens Bluff]], [[the Vast]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "gender": "Masculine",
-        "race": "[[Dwarf]]",
-        "ethnicity": "",
-        "occupation": "Brewer, merchant",
-        "age": "",
-        "patron deity": "",
-        "languages": "",
-        "basicrefs": "{{Cite organized play/LC/Lord of the Grapes|18-19}}{{Cite organized play/LC/The Dark Maiden's Price|6}}",
         "reckoning": "",
         "dob": "",
         "dobnotes": "",
@@ -46,8 +24,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Lawful good]]",
-        "class2e": "{{class table|edition=2e|[[Fighter]]|4|[[Thief]]|5}}",
+        "alignment2e": "Lawful good",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
@@ -64,9 +42,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Bowser''' was a passionate [[dwarf|dwarvish]] \"alesmith\" from the city of [[Ravens Bluff]] in mid-to-late 14{{th}} century [[DR]], who sought to create perfect [[ale]].",
-        "Description": "Bowser was a highly intelligent man who could talk about his alecraft all day, every day. He was {{SI|3'9\"|ft-in}}.",
-        "Possessions": "Apart from his brewing work, Bowser was a capable [[thief]] and a [[fighter]], who wielded a [[battle axe]] in battle.\n\nBy [[1370 DR]], Bowser developed twelve varieties of ale:{{Cite organized play/LC/The Dark Maiden's Price|21}}",
-        "History": "In the {{YearlinkName|1371}}, Bowser attended the year-end celebration festival in the town of [[Mossbridges]] in [[the Vast]]. The alesmith took his first attempt at winemaking – [[Dark Maiden Wine]], to the wine-tasting and grading competition. Even though the completion rules dictated Bowser could only bring one variety of wine, they said nothing about ale, so the dwarf brought all twelve types of ales of his making."
+        "mainbody": "Bowser was a passionate dwarvish \"alesmith\" from the city of Ravens Bluff in mid-to-late 14 century DR, who sought to create perfect ale.\nBowser was a highly intelligent man who could talk about his alecraft all day, every day. He was .\nApart from his brewing work, Bowser was a capable thief and a fighter, who wielded a battle axe in battle.\nBy 1370 DR, Bowser developed twelve varieties of ale\nIn the , Bowser attended the year-end celebration festival in the town of Mossbridges in the Vast. The alesmith took his first attempt at winemaking – Dark Maiden Wine, to the wine-tasting and grading competition. Even though the completion rules dictated Bowser could only bring one variety of wine, they said nothing about ale, so the dwarf brought all twelve types of ales of his making."
     }
 }

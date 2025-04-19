@@ -1,25 +1,5 @@
 {
-    "template_data": {
-        "5|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Rake-ME.png",
-        "caption": "",
-        "name": "Rake",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Tool",
-        "material": "",
-        "creator": "",
-        "origin": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "{{Plain table|[[Chult]]an [[bamboo]] rake|3 [[gp]]|Twig rake| 2 [[sp]]}}",
         "weight2e": "",
         "refs2e": "",
         "school3e": "",
@@ -43,9 +23,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "Every autumn, rakes give farmers a [[giant]]'s hand for harvest.\n|''[[Aurora]], while selling rakes''\n}}": "=Description==",
-        "mainbody": "kes were often made entirely out of wood, but more expensive or magically-imbued ones were usually fitted with metal heads. The handle was usually 3–5 feet (0.9–1.5 meters) long, and there were anywhere between two and twenty stiff or flexible prongs. The rake used its many-pronged head to sweep and scoop up loose materials, such as [[hay]].",
-        "Description": "Rakes were often made entirely out of wood, but more expensive or magically-imbued ones were usually fitted with metal heads. The handle was usually 3–5 feet (0.9–1.5 meters) long, and there were anywhere between two and twenty stiff or flexible prongs. The rake used its many-pronged head to sweep and scoop up loose materials, such as [[hay]].",
-        "Availability": "''[[Aurora's Whole Realms Catalogue (in-universe)|Aurora's Whole Realms Catalogue]]'' offered typical rakes with heads made from twigs for 2 [[sp]], and exclusive ones with expensive [[Chult]]an [[bamboo]] heads, which were long and strong enough to gather up to {{SI|5|lb|k|long=yes}} of material at a time."
+        "mainbody": "A rake was a common farming implement found in Faerûn.\nRakes were often made entirely out of wood, but more expensive or magically-imbued ones were usually fitted with metal heads. The handle was usually 3–5 feet (0.9–1.5 meters) long, and there were anywhere between two and twenty stiff or flexible prongs. The rake used its many-pronged head to sweep and scoop up loose materials, such as hay.\nAuroras Whole Realms Catalogue offered typical rakes with heads made from twigs for 2 sp, and exclusive ones with expensive Chultan bamboo heads, which were long and strong enough to gather up to  of material at a time."
     }
 }

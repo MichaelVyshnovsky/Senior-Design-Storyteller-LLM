@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Chant of Fangs",
-        "deity": "[[Malar]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]], [[necromancy]]",
-        "spheres2e": "[[Combat sphere|Combat]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|3}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Chant of fangs''''' was an [[evocation]]/[[necromancy]] [[spell]] that conjured a maw of spectral fangs that attacked any person or creature the [[cleric]] wished.",
-        "Effects": "When cast, ''chant of fangs'' created two rows of [[magic]]al, floating fangs that resembled an open jaw. They pursued and attacked any target the caster wished, independent of their actions. The bite of the ''fangs'' stole life energy rather than inflicted physical damage.\n\nThe ''fangs'' could be destroyed by magical means, such as ''[[dispel magic]]'', but not by mundane means.",
-        "Components": "This spell required [[Somatic component|somatic]] and [[verbal component]]s, along with the tooth of a wild, predatory mammal. Per its name, the verbal component consisted of loud chanting.",
-        "History": "This specifications of ''chant of fangs'' were inscribed within the [[Malar]]ite [[relic]], the ''[[Book of Fangs and Talons]]''."
+        "mainbody": "Chant of fangs was an evocation/necromancy spell that conjured a maw of spectral fangs that attacked any person or creature the cleric wished.\nWhen cast, chant of fangs created two rows of magical, floating fangs that resembled an open jaw. They pursued and attacked any target the caster wished, independent of their actions. The bite of the fangs stole life energy rather than inflicted physical damage.\nThe fangs could be destroyed by magical means, such as dispel magic, but not by mundane means.\nThis spell required somatic and verbal components, along with the tooth of a wild, predatory mammal. Per its name, the verbal component consisted of loud chanting.\nThis specifications of chant of fangs were inscribed within the Malarite relic, the Book of Fangs and Talons."
     }
 }

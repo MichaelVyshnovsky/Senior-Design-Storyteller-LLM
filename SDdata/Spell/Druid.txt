@@ -1,53 +1,3 @@
-{{Class
-|image            = <gallery>
-Druid PHB5e2024.png|250px|5Re
-Druid PHB5e.jpg|250px|5e
-4e druid.jpg|4e
-Druid - phb 3.5.jpg|3e
-Druid 2e-excerpts-PHB.jpg|2e
-Druid 1e.png|1e
-</gallery>
-| caption2        = Various depictions of druids.
-| name            = Druid
-| othernames      = 
-| abbr            = Drd, D
-| symbol          = Drd symbol.png
-| affiliation     = 
-| region          = 
-| type5e          = Base Class
-| subclass-of5e   = 
-| subclasses5e    = [[Arctic circle|Arctic]]<br />[[Coast circle|Coast]]<br />[[Desert circle|Desert]]<br />[[Forest circle|Forest]]<br />[[Grassland circle|Grassland]]<br />[[Mountain circle|Mountain]]<br />[[Swamp circle|Swamp]]<br />[[Underdark circle|Underdark]]<br />[[Circle of Dreams|Dreams]]<br />[[Circle of the Moon|Moon]]<br />[[Circle of the Shepherd|Shepherd]]<br />[[Circle of Stars|Stars]]
-| subclasstype5e  = Druid Circles
-| weapons5e       = [[Club]]s<br />[[Dagger]]s<br />[[Dart]]s<br />[[Javelin]]s<br />[[Mace]]s<br />[[Quarterstaff]]s<br />[[Scimitar]]s<br />[[Sickle]]s<br />[[Sling]]s<br />[[Spear]]s
-| armor5e         = [[Light armor]] (not metal)<br />[[Medium armor]] (not metal)
-| tools5e         = [[Herbalism kit]]s
-| languages5e     = [[Druidic language|Druidic]]
-| magictype5e     = [[Divine magic|Divine]]
-| spellprep5e     = Prepared
-| divinefocus5e   = [[Druidic focus]]
-| race5e          = 
-| multiclassreq5e = 
-| otherprereqs5e  = 
-| refs5e          = 
-| type4e          = Base Class
-| role4e          = Controller
-| power4e         = [[Primal magic|Primal]]
-| paragon-of4e    = 
-| paragons4e      = Blood moon stalker<br />Guardian of the Living Gate<br />Keeper of the Hidden Flame<br />Sky hunter
-| weapons4e       = [[Simple weapons|Simple]] [[melee weapons]]<br />[[Simple weapons|Simple]] [[ranged weapons]]
-| armor4e         = [[Cloth armor]]<br />[[Leather armor]]<br />[[Hide armor]]
-| implements4e    = [[Staff]]s<br />[[Totem]]s
-| refs4e          = 
-| type3e          = Base Class
-| variant-of3e    = 
-| variants3e      = 
-| weapons3e       = [[Club]]s<br />[[Dagger]]s<br />[[Dart]]s<br />[[Quarterstaff]]s<br />[[Scimitar]]s<br />[[Sickle]]s<br />[[Shortspear]]<br />[[Sling]]s<br />[[Spear]]s
-| armor3e         = [[Light armor]] (not metal)<br />[[Medium armor]] (not metal)<br />Wooden [[shield]]s
-| languages3e     = [[Druidic language|Druidic]]
-| magictype3e     = [[Divine magic|Divine]]
-| spellprep3e     = Prepared
-| divinefocus3e   = [[Mistletoe]] or [[holly]]
-| alignment3e     = {{Alignment grid|off|on|off|on|on|on|off|on|off}}
 | race3e          = 
 | sex3e           = 
 | deity3e         = 
@@ -65,68 +15,37 @@ Druid 1e.png|1e
 | otherprereqs2e  = 
 | refs2e          = 
 | type1e          = Subclass
-| subclass-of1e   = [[Cleric]]
+| subclass-of1e   = Cleric
 | subclasses1e    = 
-| alignment1e     = {{Alignment grid|off|off|off|off|on|off|off|off|off}}
+| alignment1e     = 
 | race1e          = 
 | refs1e          = 
 | spelllist       = yes
-}}
-<gallery  widths=270px type=slideshow position=right''>
-Image:Druid BGIII.png|''5e symbol of the druid.''
-</gallery>
-
-'''Druids''' were [[primal spellcaster]]s of considerable power and versatility, who gained their power through being at one with nature or through a connection to a powerful [[deity]]{{cite book/Player's Handbook 5th edition|64}} or [[nature spirit]].{{cite book/Player's Handbook 2|82}} Guardians of the wilderness, druids saw themselves less as masters of the natural order and more as an extension of its will.{{cite book/Player's Handbook 5th edition|64}}
-
-{{quote
-|Some dismiss them with a sneer as “flower lovers”, but I warn such scoffers that few herbs or plant medicines would aid us today were it not for the lore and work of the druid circles of Faerûn.
-|[[Beldrith Tarlelntar]], Sage of the Old Ways
-}}
-
-{{TOC limit|3}}
-==Culture==
-Known for their mysterious nature, druids called the wilderness their home, emulating the ways of wild beasts and other creatures of nature. Believing that nature's health depended on a precarious balance, druids believed that the four elements of the natural world - air, earth, fire, and water - must be prevented from ever gaining advantage over one another, lest the world become dominated by the forces of the [[elemental plane]]s. Likewise, druids believed nature exists outside of civilized conceptions of good, evil,{{cite book/Player's Handbook 5th edition|64-65}} order or chaos, instead seeking only to maintain a natural state of being which most of the civilized world cannot or will not understand. But though druids may have accepted cruelty in nature, they abhorred that which was alien to it, violently opposing the existence of [[aberration]]s and [[undead]], both of whom were affronts to the natural order.{{cite book/Player's Handbook 5th edition|65}}
-
-Powerful sentries of the natural world, druids were often seen by outsiders as primal controllers of the wilderness. However, although druids drew great power from nature, druids, nigh universally, did not see themselves as masters of the wild but rather its servants, much as a [[cleric]] might serve a [[god]] or a [[knight]] his liege.{{cite book/Player's Handbook 5th edition|64}} To a druid, claims of power over the wild was something that only those lacking a proper understanding of nature could profess. The primal power that druids drew upon came to them not through control, but through a spiritual unity with the forces of nature. This distinction was, however, lost on most.
-
-[[File:Druid Class AFR.jpg|thumb|left|200px|A druid's symbol.]]
-Druids were not the only caretakers of the wilderness, though they were perhaps the best known. Comparable to [[wizard]]s, druids were nature's lorekeepers, possessing an enormous degree of knowledge about the inhabitants, locations, and phenomena of [[Toril]]'s wildernesses. However, while wizards frequently sought this knowledge for knowledge's own sake (or power's), druids acted in behalf of that which they studied. Venerating the natural world in a belief system sometimes known as the [[Old Faith]], druids valued the pristine wilderness, accepting its cruelty and ugliness along with its wonder and beauty.{{cite book/Player's Handbook 5th edition|64-65}} As such, while druids rarely acted selfishly, they were nonetheless as likely to be good or evil.
-
-Druids shared a brotherhood of sorts with all other druids, though it was often a loose association rather than a tightly bound network. Ignoring the artificial boundaries of kings and princes, druids respected and protected all the lands of the world, working with druids from far-away lands as readily as with those whom they know personally.{{cite book/Player's Handbook 5th edition|68}} Communication within this society was aided by the use of a secret language common to all druidic circles, known as [[Druidic language|Druidic]].{{cite book/Player's Handbook 5th edition|66}} Induction into these societies often required knowledge of secret rites and passing dangerous tests, but, once accepted as members, druids were rarely cast out and were allowed to more or less carry on their work in their own way. Many of these societies were religious in nature and tied to a church of some sort, but not all were, and most druids preferred a degree of distance between civilized churches and the Old Faith.{{cite book/Player's Handbook 2|82-83}} Of the gods worshiped throughout [[Faerûn]], druids found themselves most frequently drawn to [[Auril]], [[Chauntea]], [[Eldath]], [[Malar]], [[Mielikki]], [[Silvanus]], [[Talos]], and [[Umberlee]], known to many as the [[First Circle]], the first druids.{{cite book/Player's Handbook 5th edition|69}}
-
-Druids were most often [[elf|elves]], [[gnome]]s, or [[human]]s. A few druids also came from other racial backgrounds, such as [[gnoll]]s, [[ghostwise halfling]]s, [[lightfoot halfling]]s, or [[wild dwarf|wild dwarves]], though, generally, druids were uncommon among other races and cultures. Druids as a whole rejected civilization, and as a result sometimes found it difficult to get along with those who embodied its values most distinctively, such as [[paladin]]s, [[rogue]]s, or [[arcane spellcaster]]s. Druids instead preferred the company of individuals with like minds, such as [[barbarian]]s, [[ranger]]s, [[shaman]]s, or [[warden]]s.
-
-===Regions===
-Throughout Faerûn, druids were most commonly found in regions where pristine wilderness remained undisturbed, such as [[Aglarond]], [[Chult]], the [[Great Dale]], the [[High Forest]], the [[Moonshaes]], the [[Northwest Faerûn|North]], the [[Vast]], the [[Vilhon Reach]], or the [[Western Heartlands]]. Before its devastation during the [[Spellplague]], the [[Chondalwood]] was another center of druidic activity. While druids were more stereotypically associated with lush forests or jungles, druids could also be found in the care of mountains, deserts, lakes, and the swamps of the world.
-
-[[Cormyr]]ean druids referred to the clerics of all the woodgods, such as Mielikki or Silvanus, as "treecloaks".
-
-There were no druids in the lands of [[Kara-Tur]] and [[Zakhara]].{{Cite dragon/209/Branching Out All Over}}
-
-==Abilities==
-[[File:Druid bg3.jpg|thumb|''A druid summoning her loyal [[wolf]].''|330x330px]]
-Druids were capable in a number of diverse skills related to the care of the natural world, such as the ability to perceive changes in the environment or interact peaceably with wild beasts. When it came to martial ability, all druids were proficient to some degree in the use of light or medium armor and shields as well as [[club]]s, [[dagger]]s, [[dart]]s, [[javelin]]s, [[mace]]s, [[quarterstaff]]s, [[scimitar]]s, [[sickle]]s, [[sling]]s, and [[spear]]s, with the notable exception that druids would not use armor or shields forged from metal.{{cite book/Player's Handbook 5th edition|65-66}} Druids were also able [[herbalism|herbalist]]s, adept in the creation of various potions and remedies.{{cite book/Player's Handbook 5th edition|65, 154}}
-
-In addition to their more mundane abilities, druids were also adept in the casting of [[spell]]s born of primal magic,{{cite book/Player's Handbook 5th edition|66}} sometimes known as "evocations."{{cite book/Player's Handbook 2|83}} Druids were also capable of enhancing these spells through a number of magical aids, such as sacred plants like [[ash]], [[mistletoe]], or [[yucca]],{{cite book/Player's Handbook 5th edition|66}} as well as through constructed implements like [[staff]]s or [[totem]]s.{{cite book/Player's Handbook 2|83}} Like clerics or wizards, druids also knew how to cast [[ritual]]s. Additionally, with sufficient experience, the intimate connection between druids and the primal magic they wielded grew so strong as to slow their aging, down to a rate of approximately one tenth that of regular members of their species.{{cite book/Player's Handbook 5th edition|66-67}} 
-
-Among the more formidable abilities known to druids was a form of shapeshifting known as ''[[wild shape]]''. This ability allowed druids to shapeshift into any [[beast]],{{cite book/Player's Handbook 5th edition|66}} including some [[plant creature|plant]]s, as well as several [[fey]], or an indistinct being of feathers, fur, or claws similar to the [[Primal Beast]] spoken of in many druidic legends.{{cite book/Player's Handbook 2|83-84}} The ability to ''wild shape'' came with certain limitations, however. Neophyte druids, were, for example, incapable of assuming a beast capable of extensive swimming, and only with a great deal of training could druids master the form of flying creatures. With practice however, the ability could become quite versatile and experienced druids could learn to cast spells in their beast form. The most experienced druids, known as [[archdruid]]s, were even capable of shapeshifting at will.{{cite book/Player's Handbook 5th edition|66-67}} Others learned how to extend their shapeshifting abilities into taking the form of any individual person.
-
-Other druids had less common abilities. Some druids had, in addition to their ''wild shape'' evocations, [[animal companion]]s that filled some of the functions provided by wild shaping. A few druids were innate experts in the fields of botany and [[zoology]], identifying various species with perfect accuracy by instinct. As a result, druids were naturally keen to deception by wildlife and fey. Likewise, druids held a natural sense for the safety of drinking water and many were immune to the effects of organic poisons. Several druids were also masters at moving through the wilderness at fast speeds, ignoring the hampering effects of natural hazards such as thorns or briars. With enough training, these druids did not even leave a hint of their movement through the wild.
-
-==Druid Circles==
-{{Main|Druid circle}}
+ImageDruid BGIII.png|5e symbol of the druid.
+Druids were primal spellcasters of considerable power and versatility, who gained their power through being at one with nature or through a connection to a powerful deity or nature spirit. Guardians of the wilderness, druids saw themselves less as masters of the natural order and more as an extension of its will.
+Known for their mysterious nature, druids called the wilderness their home, emulating the ways of wild beasts and other creatures of nature. Believing that natures health depended on a precarious balance, druids believed that the four elements of the natural world - air, earth, fire, and water - must be prevented from ever gaining advantage over one another, lest the world become dominated by the forces of the elemental planes. Likewise, druids believed nature exists outside of civilized conceptions of good, evil, order or chaos, instead seeking only to maintain a natural state of being which most of the civilized world cannot or will not understand. But though druids may have accepted cruelty in nature, they abhorred that which was alien to it, violently opposing the existence of aberrations and undead, both of whom were affronts to the natural order.
+Powerful sentries of the natural world, druids were often seen by outsiders as primal controllers of the wilderness. However, although druids drew great power from nature, druids, nigh universally, did not see themselves as masters of the wild but rather its servants, much as a cleric might serve a god or a knight his liege. To a druid, claims of power over the wild was something that only those lacking a proper understanding of nature could profess. The primal power that druids drew upon came to them not through control, but through a spiritual unity with the forces of nature. This distinction was, however, lost on most.
+thumb|left|200px|A druids symbol.
+Druids were not the only caretakers of the wilderness, though they were perhaps the best known. Comparable to wizards, druids were natures lorekeepers, possessing an enormous degree of knowledge about the inhabitants, locations, and phenomena of Torils wildernesses. However, while wizards frequently sought this knowledge for knowledges own sake (or powers), druids acted in behalf of that which they studied. Venerating the natural world in a belief system sometimes known as the Old Faith, druids valued the pristine wilderness, accepting its cruelty and ugliness along with its wonder and beauty. As such, while druids rarely acted selfishly, they were nonetheless as likely to be good or evil.
+Druids shared a brotherhood of sorts with all other druids, though it was often a loose association rather than a tightly bound network. Ignoring the artificial boundaries of kings and princes, druids respected and protected all the lands of the world, working with druids from far-away lands as readily as with those whom they know personally. Communication within this society was aided by the use of a secret language common to all druidic circles, known as Druidic. Induction into these societies often required knowledge of secret rites and passing dangerous tests, but, once accepted as members, druids were rarely cast out and were allowed to more or less carry on their work in their own way. Many of these societies were religious in nature and tied to a church of some sort, but not all were, and most druids preferred a degree of distance between civilized churches and the Old Faith. Of the gods worshiped throughout Faerûn, druids found themselves most frequently drawn to Auril, Chauntea, Eldath, Malar, Mielikki, Silvanus, Talos, and Umberlee, known to many as the First Circle, the first druids.
+Druids were most often elves, gnomes, or humans. A few druids also came from other racial backgrounds, such as gnolls, ghostwise halflings, lightfoot halflings, or wild dwarves, though, generally, druids were uncommon among other races and cultures. Druids as a whole rejected civilization, and as a result sometimes found it difficult to get along with those who embodied its values most distinctively, such as paladins, rogues, or arcane spellcasters. Druids instead preferred the company of individuals with like minds, such as barbarians, rangers, shamans, or wardens.
+Throughout Faerûn, druids were most commonly found in regions where pristine wilderness remained undisturbed, such as Aglarond, Chult, the Great Dale, the High Forest, the Moonshaes, the North, the Vast, the Vilhon Reach, or the Western Heartlands. Before its devastation during the Spellplague, the Chondalwood was another center of druidic activity. While druids were more stereotypically associated with lush forests or jungles, druids could also be found in the care of mountains, deserts, lakes, and the swamps of the world.
+Cormyrean druids referred to the clerics of all the woodgods, such as Mielikki or Silvanus, as "treecloaks".
+There were no druids in the lands of Kara-Tur and Zakhara.
+thumb|A druid summoning her loyal 330x330px
+Druids were capable in a number of diverse skills related to the care of the natural world, such as the ability to perceive changes in the environment or interact peaceably with wild beasts. When it came to martial ability, all druids were proficient to some degree in the use of light or medium armor and shields as well as clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, and spears, with the notable exception that druids would not use armor or shields forged from metal. Druids were also able herbalists, adept in the creation of various potions and remedies.
+In addition to their more mundane abilities, druids were also adept in the casting of spells born of primal magic, sometimes known as "evocations." Druids were also capable of enhancing these spells through a number of magical aids, such as sacred plants like ash, mistletoe, or yucca, as well as through constructed implements like staffs or totems. Like clerics or wizards, druids also knew how to cast rituals. Additionally, with sufficient experience, the intimate connection between druids and the primal magic they wielded grew so strong as to slow their aging, down to a rate of approximately one tenth that of regular members of their species. 
+Among the more formidable abilities known to druids was a form of shapeshifting known as wild shape. This ability allowed druids to shapeshift into any beast, including some plants, as well as several fey, or an indistinct being of feathers, fur, or claws similar to the Primal Beast spoken of in many druidic legends. The ability to wild shape came with certain limitations, however. Neophyte druids, were, for example, incapable of assuming a beast capable of extensive swimming, and only with a great deal of training could druids master the form of flying creatures. With practice however, the ability could become quite versatile and experienced druids could learn to cast spells in their beast form. The most experienced druids, known as archdruids, were even capable of shapeshifting at will. Others learned how to extend their shapeshifting abilities into taking the form of any individual person.
+Other druids had less common abilities. Some druids had, in addition to their wild shape evocations, animal companions that filled some of the functions provided by wild shaping. A few druids were innate experts in the fields of botany and zoology, identifying various species with perfect accuracy by instinct. As a result, druids were naturally keen to deception by wildlife and fey. Likewise, druids held a natural sense for the safety of drinking water and many were immune to the effects of organic poisons. Several druids were also masters at moving through the wilderness at fast speeds, ignoring the hampering effects of natural hazards such as thorns or briars. With enough training, these druids did not even leave a hint of their movement through the wild.
 In addition to the loose fellowship shared by all druids, druids were divided into more localized organizations known as circles, many of which shared certain common beliefs and abilities.
-
-==Notable Druids==
-* [[Arundel]], the 13{{th}} century [[DR]] human archdruid of [[Kuldahar]].
-* [[Cernd]], a [[shapeshifter]] during the mid–14{{th}} century DR that traveled throughout the [[Lands of Intrigue]].
-* [[Christine Dragonsbane]], Queen of [[Damara]], married to [[Gareth Dragonsbane]], and the matriarch of the [[Dragonsbane]] dynasty.<ref>
-* [[Elanee]], a [[wood elf]] druid from the [[Mere of Dead Men]] that traveled alongside the [[Kalach-Cha]] in the late 14{{th}} century DR.<ref name=NWN2">
-* [[Faldorn]], the [[Uthgardt]] human leader of the [[Shadow Druids]].
-* [[Iselore]], the [[half-elf]] archdruid of Kuldahar that succeeded Arundel.
-* [[Jaheira]], a half-elf [[Circle of the Land]] druid and an agent of the [[Harpers]] that played a role in the events leading up to the [[Bhaalspawn crisis]].
-* [[Pikel Bouldershoulder]], the green-bearded [[dwarf|dwarven]] druid of the [[Snowflake Mountains]] that kept a pet [[squirrel]] named [[Percival]].
-* [[Robyn Moonsinger]], the [[Ffolk]] human Queen and Great Druid of the [[Moonshae Isles]] in the mid-to-late 14{{th}} century DR.
-* [[Newander]], a rather shy druid that venerated the Oak Father [[Silvanus]].
-* [[Halsin]], the wood elf archdruid of the [[Emerald Grove]] that faced infiltration of the Shadow Druids in the late 15{{th}} century DR
-
+* Arundel, the 13 century DR human archdruid of Kuldahar.
+* Cernd, a shapeshifter during the mid–14 century DR that traveled throughout the Lands of Intrigue.
+* Christine Dragonsbane, Queen of Damara, married to Gareth Dragonsbane, and the matriarch of the Dragonsbane dynasty.
+* Elanee, a wood elf druid from the Mere of Dead Men that traveled alongside the Kalach-Cha in the late 14 century DR.
+* Faldorn, the Uthgardt human leader of the Shadow Druids.
+* Iselore, the half-elf archdruid of Kuldahar that succeeded Arundel.
+* Jaheira, a half-elf Circle of the Land druid and an agent of the Harpers that played a role in the events leading up to the Bhaalspawn crisis.
+* Pikel Bouldershoulder, the green-bearded dwarven druid of the Snowflake Mountains that kept a pet squirrel named Percival.
+* Robyn Moonsinger, the Ffolk human Queen and Great Druid of the Moonshae Isles in the mid-to-late 14 century DR.
+* Newander, a rather shy druid that venerated the Oak Father Silvanus.
+* Halsin, the wood elf archdruid of the Emerald Grove that faced infiltration of the Shadow Druids in the late 15 century DR

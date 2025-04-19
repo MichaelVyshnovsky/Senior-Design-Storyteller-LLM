@@ -1,28 +1,6 @@
 {
-    "template_data": {
-        "edition": "4e",
-        "50|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Flames of Phlegethos",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "{{desc/fire}}{{desc/implement}}",
-        "level4e": "{{spell table|edition=4e|[[Warlock]]|1}}{{desc/arcane}}",
+        "level4e": "",
         "type4e": "Daily",
         "category4e": "",
         "skill4e": "",
@@ -41,7 +19,6 @@
         "school1e": "",
         "level1e": "",
         "refs1e": "",
-        "mainbody": "'''''Flames of Phlegethos''''' was a [[spell]] used by [[warlock]]s of the late 15{{th}} century [[DR]], particularly those who forged infernal pacts.",
-        "Abilities": "The warlock summoned from the plane of [[Phlegethos]] streams of liquid fire, with which they doused a target within {{SI|50|ft|long=yes}}, burning their flesh and anything flammable. Even if the creature survived the initial onslaught, the flames continued to burn until put it out."
+        "mainbody": "Flames of Phlegethos was a spell used by warlocks of the late 15 century DR, particularly those who forged infernal pacts.\nThe warlock summoned from the plane of Phlegethos streams of liquid fire, with which they doused a target within , burning their flesh and anything flammable. Even if the creature survived the initial onslaught, the flames continued to burn until put it out."
     }
 }

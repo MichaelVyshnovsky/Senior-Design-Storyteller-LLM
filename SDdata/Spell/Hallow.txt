@@ -1,18 +1,3 @@
-{{Spell
-| image         = 
-| caption       = 
-| name          = Hallow
-| deity         = 
-| inventor      = 
-| type          = 
-| school5e      = [[Evocation]]
-| domains5e     = 
-| circles5e     = 
-| oaths5e       = 
-| patrons5e     = [[Fiend patron]]
-| traditions5e  = 
-| archetypes5e  = 
-| level5e       = {{spell table|edition=5e|[[Cleric]]|5|[[Warlock]] ([[Fiend patron|Fiend]])|5}}
 | type5e        = 
 | refs5e        = 
 | feature4e     = 
@@ -22,10 +7,10 @@
 | category4e    = 
 | skill4e       = 
 | refs4e        = 
-| school3e      = [[Evocation]]
+| school3e      = Evocation
 | domains3e     = 
-| descriptors3e = {{desc/good}}
-| level3e       = {{spell table|edition=3e|[[Cleric]]|5|[[Druid]]|5}}
+| descriptors3e = 
+| level3e       = 
 | type3e        = 
 | refs3e        = 
 | reversible2e  = 
@@ -39,20 +24,10 @@
 | level1e       = 
 | type1e        = 
 | refs1e        = 
-}}
-'''''Hallow''''' was a divine [[evocation]] [[spell]] for [[cleric]]s, until following the [[Second Sundering]] when it began to encompass the same effects, being granted to some [[warlock]]s with [[Fiend patron]]s.
-
-==Effects==
-From the point touched by the caster, the ''hallow'' spell covered an area 40 feet (12.2 meters) in radius, enabling it to encompass a building, structure, or other location. Only one ''hallow'' could be placed on the area, but it was permanent. It countered ''unhallow'', but could not dispel it. ''Hallow'' had four distinct effects within that area.
-
-First, the ''hallowed'' area was warded by a ''[[magic circle against evil]]''.
-
-Second, all efforts by a cleric in the ''hallowed'' area to turn [[undead]] through force of charisma were bolstered by the sacred power of the place. In turn, efforts to command undead in the same manner were hampered. This benefit did not arise for a druid casting ''hallow''.
-
-Third, any corpse interred in the ''hallowed'' area could not be raised as undead.
-
-Fourth, one other spell could be attached to the ''hallowed'' area. It operated over the entire area, regardless of how the spell functioned normally, and lasted a full year before expiring. The caster could specify whether it applied to all creatures in the area, only those who shared their faith or alignment, or only those of a rival faith or alignment. Spells that could be attached included ''[[aid]]'', ''[[bane]]'', ''[[bless]]'', ''[[cause fear]]'', ''[[darkness]]'', ''[[daylight]]'', ''[[death ward]]'', ''[[deeper darkness]]'', ''[[detect evil]]'', ''[[detect magic]]'', ''[[dimensional anchor]]'', ''[[discern lies]]'', ''[[dispel magic]]'', ''[[endure elements]]'', ''[[freedom of movement]]'', ''[[invisibility purge]]'', ''[[protection from energy]]'', ''[[remove fear]]'', ''[[resist energy]]'', ''[[silence]]'', ''[[tongues]]'', and ''[[zone of truth]]''. This spell could only be changed or renewed by casting ''hallow'' again.
-
-==Components==
-It required a [[divine focus]], [[verbal]] and [[somatic]] components, and [[material component]]s comprising [[herb]]s, [[incense]], and [[oil]]s. These had be worth at least 1000 [[gold piece]]s, with thousands more according to the power of the spell included. The spell took a full 24 hours to cast.
-
+Hallow was a divine evocation spell for clerics, until following the Second Sundering when it began to encompass the same effects, being granted to some warlocks with Fiend patrons.
+From the point touched by the caster, the hallow spell covered an area 40 feet (12.2 meters) in radius, enabling it to encompass a building, structure, or other location. Only one hallow could be placed on the area, but it was permanent. It countered unhallow, but could not dispel it. Hallow had four distinct effects within that area.
+First, the hallowed area was warded by a magic circle against evil.
+Second, all efforts by a cleric in the hallowed area to turn undead through force of charisma were bolstered by the sacred power of the place. In turn, efforts to command undead in the same manner were hampered. This benefit did not arise for a druid casting hallow.
+Third, any corpse interred in the hallowed area could not be raised as undead.
+Fourth, one other spell could be attached to the hallowed area. It operated over the entire area, regardless of how the spell functioned normally, and lasted a full year before expiring. The caster could specify whether it applied to all creatures in the area, only those who shared their faith or alignment, or only those of a rival faith or alignment. Spells that could be attached included aid, bane, bless, cause fear, darkness, daylight, death ward, deeper darkness, detect evil, detect magic, dimensional anchor, discern lies, dispel magic, endure elements, freedom of movement, invisibility purge, protection from energy, remove fear, resist energy, silence, tongues, and zone of truth. This spell could only be changed or renewed by casting hallow again.
+It required a divine focus, verbal and somatic components, and material components comprising herbs, incense, and oils. These had be worth at least 1000 gold pieces, with thousands more according to the power of the spell included. The spell took a full 24 hours to cast.

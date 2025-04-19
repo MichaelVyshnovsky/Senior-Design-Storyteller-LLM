@@ -1,26 +1,5 @@
 {
-    "template_data": {
-        "25|lb|k|long": "yes",
-        "20|lb|k|long": "yes",
-        "5|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "CordingMallet.png",
-        "caption": "A cording mallet.",
-        "name": "Cording Mallet",
-        "othernames": "Splitting maul",
-        "nicknames": "",
-        "type": "Tool",
-        "creator": "",
-        "location": "[[Toril]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "10 [[gold piece]]s",
-        "weight2e": "{{SI|25|lb|k|long=yes}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -43,8 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Cording mallets''', or '''splitting mauls''',{{Cite dragon/301/Elminster's Guide to the Realms: Tatha's Broomworks|77}} were [[axe]]-like [[maul]]s{{Cite dragon/97/Sticks, stones, and bones|14}} sometimes used by [[ranger]]s or woodsmen throughout the wilds of [[Faerûn]].",
-        "Availability": "''[[Aurora's Whole Realms Catalogue (in-universe)|Aurora's Whole Realms Catalogue]]'' offered a cording mallet for 10 [[gold piece]]s. It had a solid [[steel]] head weighing a hefty {{SI|20|lb|k|long=yes}} that was attached to a steel handle that weighed an additional {{SI|5|lb|k|long=yes}}.",
-        "Usage": "Cording mallets were used specifically for splitting logs or chopped wood. Though cumbersome and a bit unwieldy, cording mallets could also be used as weapons."
+        "mainbody": "Cording mallets, or splitting mauls, were axe-like mauls sometimes used by rangers or woodsmen throughout the wilds of Faerûn.\nAuroras Whole Realms Catalogue offered a cording mallet for 10 gold pieces. It had a solid steel head weighing a hefty  that was attached to a steel handle that weighed an additional .\nCording mallets were used specifically for splitting logs or chopped wood. Though cumbersome and a bit unwieldy, cording mallets could also be used as weapons."
     }
 }

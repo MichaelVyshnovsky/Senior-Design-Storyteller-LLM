@@ -1,22 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Michallon",
-        "alt_spelling": "",
-        "titles": "Chief Constable",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Eileanar]], [[Netheril]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "gender": "",
-        "race": "[[Human]]",
-        "ethnicity": "[[Netherese]]{{Neth-race}}",
         "occupation": "Chief Constable",
         "age": "",
         "patron deity": "",
@@ -28,7 +11,7 @@
         "turned": "",
         "turnednotes": "",
         "death": "-339",
-        "deathnotes": "during [[Karsus's Folly]]",
+        "deathnotes": "during Karsuss Folly",
         "destroyed": "",
         "destroyednotes": "",
         "daterefs": "",
@@ -46,8 +29,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Chaotic evil]]",
-        "class2e": "{{class table|edition=2e|[[Arcanist]]|17}}",
+        "alignment2e": "Chaotic evil",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
@@ -64,7 +47,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Michallon''' was a corrupt [[Netherese]] [[arcanist]] who served as the Chief Constable at [[Constabulary Branch Two]] in [[Eileanar]] before its destruction in {{yearlinkConvert|3520|NY}}.",
-        "Activities": "Michallon led the constables of the branch and liaised with [[Karsus]] and his assistants. He was aided by his equally unscrupulous Underchiefs [[Bengel]], [[Ezeddeen]], [[Hacklander]], and [[Bias]], who managed the other constables directly. Michallon used his deadly spells and contacts in the criminal world to gain a position of power that straddled law and crime, using his constabulary to quash any criminal elements that threatened his dark allies. His Underchiefs kept loyalty out of a mixture of fear and greed, and together they engendered a sense of awe and respect among the junior constables, who thought that their commanders were truly upstanding and heroic people, Michallon most of all."
+        "mainbody": "Michallon was a corrupt Netherese arcanist who served as the Chief Constable at Constabulary Branch Two in Eileanar before its destruction in .\nMichallon led the constables of the branch and liaised with Karsus and his assistants. He was aided by his equally unscrupulous Underchiefs Bengel, Ezeddeen, Hacklander, and Bias, who managed the other constables directly. Michallon used his deadly spells and contacts in the criminal world to gain a position of power that straddled law and crime, using his constabulary to quash any criminal elements that threatened his dark allies. His Underchiefs kept loyalty out of a mixture of fear and greed, and together they engendered a sense of awe and respect among the junior constables, who thought that their commanders were truly upstanding and heroic people, Michallon most of all."
     }
 }

@@ -1,28 +1,6 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "variant": "cantrip",
-        "120|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Fire Bolt 5e.png",
-        "caption": "",
-        "name": "Fire bolt",
-        "othernames": "",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Evocation]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "{{spell table|edition=5e|variant=cantrip|[[Artificer]]|0|[[Sorcerer]]|0|[[Wizard]]|0}}",
-        "type5e": "[[Cantrip]]",
+        "type5e": "Cantrip",
         "refs5e": "",
         "feature4e": "",
         "keywords4e": "",
@@ -47,8 +25,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Fire bolt''''' was an [[evocation]] [[spell]] that cast a mote of flame at a target.",
-        "Effect": "The spell could target any creature or object within a range of {{SI|120|ft|long=yes}}. It was very simple to cast and caused little damage, but it increased in power with the caster's experience.",
-        "Components": "The spell required only [[Verbal component|verbal]] and [[somatic component]]s."
+        "mainbody": "Fire bolt was an evocation spell that cast a mote of flame at a target.\nThe spell could target any creature or object within a range of . It was very simple to cast and caused little damage, but it increased in power with the casters experience.\nThe spell required only verbal and somatic components."
     }
 }

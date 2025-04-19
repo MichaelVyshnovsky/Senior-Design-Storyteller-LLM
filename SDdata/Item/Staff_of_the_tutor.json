@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "4|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Staff of the tutor.png",
-        "caption": "",
-        "name": "''Staff of the Tutor''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Staff]]",
-        "location": "[[Zhentil Keep]], [[Moonsea]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+1",
-        "value3e": "",
-        "weight3e": "{{SI|4|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Staves of the tutor''''' were [[enchanted]] [[wizard]]s' [[staves]] used by nefarious organizations across the Realms as well as an occasional arcane teacher when faced with especially unruly student.",
-        "Powers": "These teachers' staves were enhanced with a ''+1'' enchantment that also increased the wielder's charisma and intelligence. Additionally, if a ''staff of the tutor'' was used to strike someone, it flashed with blue glow that casted the ''[[Blindness or deafness|blindness and deafness]]'' spells on the target. A typical staff held fifty charges of that spell.",
-        "History": "In the late 14{{th}} century, these staves could be found in the hands of nefarious organizations that employed wizards, such as the notorious [[Zhentarim]]. But they also were sometimes used by wizards who taught the ''Art'' to disobedient youths.",
-        "Notable Owners": "*[[Zalazar Oram]]: an evil wizard from the [[Moonsea]] region also known as \" the Hellspell\" in [[1373 DR]]."
+        "mainbody": "Staves of the tutor were enchanted wizards staves used by nefarious organizations across the Realms as well as an occasional arcane teacher when faced with especially unruly student.\nThese teachers staves were enhanced with a +1 enchantment that also increased the wielders charisma and intelligence. Additionally, if a staff of the tutor was used to strike someone, it flashed with blue glow that casted the blindness and deafness spells on the target. A typical staff held fifty charges of that spell.\nIn the late 14 century, these staves could be found in the hands of nefarious organizations that employed wizards, such as the notorious Zhentarim. But they also were sometimes used by wizards who taught the Art to disobedient youths.\n*Zalazar Oram an evil wizard from the Moonsea region also known as \" the Hellspell\" in 1373 DR."
     }
 }

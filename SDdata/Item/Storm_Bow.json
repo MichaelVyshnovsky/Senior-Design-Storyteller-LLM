@@ -1,24 +1,5 @@
 {
-    "template_data": {
-        "3|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Storm bow.png",
-        "caption": "",
-        "name": "''Storm Bow''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Shortbow]]",
-        "creator": "",
-        "location": "[[Lonelywood]], [[Ten Towns]], [[Icewind Dale]]<br />[[Moonshae Isles]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "+2",
-        "value2e": "",
-        "weight2e": "{{SI|3|lb|k|long=yes}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -41,9 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The '''''Storm Bow''''' was a holy weapon created and used by the members of the [[Church of Talos]].",
-        "Description": "This [[shortbow]] was crafted out of numerous composite layers of wood.",
-        "Powers": "Imbued with the power of [[Talos]], the ''Storm Bow'' was ensorcelled with a ''+2'' enchantment that aided the bow in seeking its prey and a ''+3'' enchantment to its damage.Additionally, the ''Storm Bow'' allowed the wielder to wrap themselves in the ''[[storm shell]]'' spell that granted them resistance to ''fire'', ''cold'', and ''electricity''. The ''shell'' could be activated once per day.",
-        "History": "Created to be wielded by the warriors in service of Talos, the ''Storm Bow'' spent decades in the hands of the Church of Talos. The enchanted bow killed countless enemies of the Talassan faith. The bow remained with the church until a Storm Knight [[Kalassan Breverd]] used against [[ranger]]s and [[druid]]s of the [[Moonshae Isles]]. With Kalassan's demise, the bow was lost to the worshipers of Talos.\n\nEventually, by [[1281 DR]], the ''Storm Bow'' found its way to the [[Ten Towns]] of [[Icewind Dale]] and into the hands of [[Emmerich Hawk]], the bower and fletcher of [[Lonelywood]]."
+        "mainbody": "The Storm Bow was a holy weapon created and used by the members of the Church of Talos.\nThis shortbow was crafted out of numerous composite layers of wood.\nImbued with the power of Talos, the Storm Bow was ensorcelled with a +2 enchantment that aided the bow in seeking its prey and a +3 enchantment to its damage.Additionally, the Storm Bow allowed the wielder to wrap themselves in the storm shell spell that granted them resistance to fire, cold, and electricity. The shell could be activated once per day.\nCreated to be wielded by the warriors in service of Talos, the Storm Bow spent decades in the hands of the Church of Talos. The enchanted bow killed countless enemies of the Talassan faith. The bow remained with the church until a Storm Knight Kalassan Breverd used against rangers and druids of the Moonshae Isles. With Kalassans demise, the bow was lost to the worshipers of Talos.\nEventually, by 1281 DR, the Storm Bow found its way to the Ten Towns of Icewind Dale and into the hands of Emmerich Hawk, the bower and fletcher of Lonelywood."
     }
 }

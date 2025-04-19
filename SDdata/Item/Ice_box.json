@@ -1,23 +1,5 @@
 {
-    "template_data": {
-        "300|lb|k|long": "yes",
-        "1|mi|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Ice Box''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Quasimagical item]]",
-        "location": "[[Netheril]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "225 [[gp]]",
-        "weight2e": "{{SI|300|lb|k}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -37,8 +19,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "An '''''ice box''''' was a [[quasimagical item]] invented in [[Netheril]] to allow people to preserve food by keeping it cool.",
-        "Description": "An ''ice box'' was roughly the shape of a coffin and was constructed from a material with about the same thickness and strength as hardened clay. One weighed about {{SI|300|lb|k|long=yes}}. During the height of the [[Netherese Empire]], they typically sold for 225 [[gp|gold pieces]].",
-        "Abilities": "As a quasimagical item, an ''ice box'' only functioned if within {{SI|1|mi|k|long=yes}} of a ''[[mythallar]]''. If within a ''mythallar's'' range of effect, an ''ice box'' maintained a magical conduit to the [[Paraelemental Plane of Ice]], which provided a constant source of cold to keep food frozen."
+        "mainbody": "An ice box was a quasimagical item invented in Netheril to allow people to preserve food by keeping it cool.\nAn ice box was roughly the shape of a coffin and was constructed from a material with about the same thickness and strength as hardened clay. One weighed about . During the height of the Netherese Empire, they typically sold for 225 gold pieces.\nAs a quasimagical item, an ice box only functioned if within  of a mythallar. If within a mythallars range of effect, an ice box maintained a magical conduit to the Paraelemental Plane of Ice, which provided a constant source of cold to keep food frozen."
     }
 }

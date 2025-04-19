@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "10|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "[[File:Bloody longblade.png|thumb]]",
-        "caption": "",
-        "name": "''Bloody Longblade''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Bastard sword]]",
-        "location": "[[Daggerford]], [[Waterdeep]], [[Sword Coast North]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+2",
-        "value3e": "",
-        "weight3e": "{{SI|10|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The '''''Bloody Longblade''''' was an enchanted and vicious [[bastard sword]] that once belonged to [[Hadrian Colton]], a rare item procurer from [[Waterdeep]].",
-        "Powers": "The ''Bloody Longblade'' was a ''+2 [[Wounding (weapon quality)|wounding]]'' weapon.",
-        "History": "The ''Bloody Longblade'' was gifted to Hadrian Colton by his nobleman father as a symbolic gesture—a bastard sword for a bastard son of a serving wench. The sword was left unused for years until Hadrian Colton realized he needed to improve his sword-fighting skill to enhance his procurement career. Sword-wielding guards and their unwilling owners guarded well the many items he was targeting. Despite the ''Bloody Longblade'' being a hurtful and offensive gift, Hadrian learned to wield the deadly blade, making his career long and fruitful.\n\nBy [[1372 DR]], the ''Bloody Longblade'' found its way to [[Daggerford]] where it was in the stock of [[Stran]], the local black market trader staying at the [[Black Stone Inn]]."
+        "mainbody": "The Bloody Longblade was an enchanted and vicious bastard sword that once belonged to Hadrian Colton, a rare item procurer from Waterdeep.\nThis bastard sword had a wide paddle-like shape and was hard to handle in combat without loathing to wield this exotic weapon first.\nThe Bloody Longblade was a +2 wounding weapon.\nThe Bloody Longblade was gifted to Hadrian Colton by his nobleman father as a symbolic gesture—a bastard sword for a bastard son of a serving wench. The sword was left unused for years until Hadrian Colton realized he needed to improve his sword-fighting skill to enhance his procurement career. Sword-wielding guards and their unwilling owners guarded well the many items he was targeting. Despite the Bloody Longblade being a hurtful and offensive gift, Hadrian learned to wield the deadly blade, making his career long and fruitful.\nBy 1372 DR, the Bloody Longblade found its way to Daggerford where it was in the stock of Stran, the local black market trader staying at the Black Stone Inn."
     }
 }

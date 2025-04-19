@@ -1,36 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "Glass doppelganger.jpg",
-        "caption": "",
-        "name": "Glass Doppelganger",
-        "othernames": "",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Illusion]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Sorcerer]]|5|[[Wizard]]|5}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -44,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Glass doppelganger''''' was an [[illusion]] [[spell]] from the 5{{th}} circle of magic that created a living glass simulacrum. This [[arcane]] spell was known to [[sorcerer]]s and [[mage]]s.",
-        "Effects": "With a touch, the spellcaster summoned forth a creature comprised of living glass. It was an exact copy of the target creature, apart from being made out of brittle glass. The created being possessed resistance to fire, cold, electricity, [[acid]], and elements, as well as piercing and slashing weapons, but was vulnerable to bludgeoning weapons and sonic spells and effects. The created ''glass doppelganger'' was friendly to the caster but possessed its own will, was not under the caster's control, and had no spells memorized. The spell's duration increased as the spellcaster's magical prowess grew.",
-        "Components": "The spell required [[Somatic component|somatic]] and [[verbal component|verbal]] components."
+        "mainbody": "Glass doppelganger was an illusion spell from the 5 circle of magic that created a living glass simulacrum. This arcane spell was known to sorcerers and mages.\nWith a touch, the spellcaster summoned forth a creature comprised of living glass. It was an exact copy of the target creature, apart from being made out of brittle glass. The created being possessed resistance to fire, cold, electricity, acid, and elements, as well as piercing and slashing weapons, but was vulnerable to bludgeoning weapons and sonic spells and effects. The created glass doppelganger was friendly to the caster but possessed its own will, was not under the casters control, and had no spells memorized. The spells duration increased as the spellcasters magical prowess grew.\nThe spell required somatic and verbal components."
     }
 }

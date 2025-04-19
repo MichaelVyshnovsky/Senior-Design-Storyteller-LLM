@@ -1,40 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Protection From Deathbane",
-        "deity": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Necromancy]]",
-        "spheres2e": "",
-        "level2e": "{{Spell table|edition=2e|[[Wizard]]|2}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -42,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Protection from deathbane''''' was a [[spell]] used by [[necromancer]]s.",
-        "Effects": "When cast, this spell allowed a caster to protect an [[undead]] creature from spells that were specifically created to harm undead creatures.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, the spell required a [[material component]], ash. During casting, the caster formed a circle of the ash around the target undead creature.",
-        "History": "This spell was known to be used by wizards of the [[Cult of the Dragon]]."
+        "mainbody": "Protection from deathbane was a spell used by necromancers.\nWhen cast, this spell allowed a caster to protect an undead creature from spells that were specifically created to harm undead creatures.\nIn addition to verbal and somatic components, the spell required a material component, ash. During casting, the caster formed a circle of the ash around the target undead creature.\nThis spell was known to be used by wizards of the Cult of the Dragon."
     }
 }

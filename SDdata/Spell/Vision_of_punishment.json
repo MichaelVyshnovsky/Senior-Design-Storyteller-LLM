@@ -1,29 +1,6 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Vision of Punishment",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Divination]]",
-        "domains3e": "",
-        "descriptors3e": "{{desc/mind-affecting}}",
-        "level3e": "{{spell table|edition=3e|[[Sanctified]]|1}}",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -37,8 +14,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Vision of punishment''''' was a type of [[sanctified]] [[spell]].",
-        "Effects": "When cast upon an evil-aligned creature, this spell showed the targeted creature what awaited them in the afterlife. The vision of the tortuous and wretched fate that awaits their soul causes the targeted creature to become overwhelmed with intense nausea.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, this spell required both a [[divine focus]] and a sacrifice of the caster's strength."
+        "mainbody": "Vision of punishment was a type of sanctified spell.\nWhen cast upon an evil-aligned creature, this spell showed the targeted creature what awaited them in the afterlife. The vision of the tortuous and wretched fate that awaits their soul causes the targeted creature to become overwhelmed with intense nausea.\nIn addition to verbal and somatic components, this spell required both a divine focus and a sacrifice of the casters strength."
     }
 }

@@ -1,38 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Morintar",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "Lady, Joydancer",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Gildenglade]], [[Turmish]]",
-        "formerhomes": "",
-        "sex": "Female",
-        "race": "[[Elf]]",
-        "occupation": "",
-        "age": "",
-        "patron deity": "[[Lliira]]",
-        "languages": "",
-        "reckoning": "DR",
-        "dob": "",
-        "dobnotes": "",
-        "turned": "",
-        "turnednotes": "",
-        "death": "",
-        "deathnotes": "",
-        "destroyed": "",
-        "destroyednotes": "",
-        "class": "",
-        "class2e": "{{class table|edition=2e|[[Cleric]]|12}}",
         "refs2e": "",
-        "alignment": "[[Chaotic good]]",
-        "mainbody": "Lady '''Morintar''' was the leading priestess of [[Lliira]] in the [[Vilhon Reach]] in [[1370 DR]].",
-        "History": "Morintar gained prominence when, just after the [[Time of Troubles]], she managed to convert a number of wealthy merchants."
+        "alignment": "Chaotic good",
+        "mainbody": "Lady Morintar was the leading priestess of Lliira in the Vilhon Reach in 1370 DR.\nMorintar gained prominence when, just after the Time of Troubles, she managed to convert a number of wealthy merchants."
     }
 }

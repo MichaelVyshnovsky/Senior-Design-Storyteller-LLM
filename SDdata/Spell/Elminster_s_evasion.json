@@ -1,36 +1,11 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "edition_1": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Elminster's Evasion",
-        "deity": "",
-        "inventor": "[[Elminster Aumar]]",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Evocation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Sorcerer]]|9|[[Wizard]]|9}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
-        "school2e": "[[Evocation]]",
+        "school2e": "Evocation",
         "spheres2e": "",
-        "level2e": "{{Spell table|edition=2e|[[Wizard]]|9}}",
+        "level2e": "",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -38,9 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Elminster's evasion''''' was an [[arcane]] [[evocation]] spell that transported the mind, soul, and body of the caster to a chosen location in the event of any of six predetermined trigger conditions. Upon arrival, one or two other stored spells were allowed to take effect.",
-        "Effects": "There were at least two versions of this spell that differed mainly in the preparation and casting but had very similar effects.\n\n''Elminster's evasion'' was a powerful modification of the ''[[contingency]]'' spell intended to save the caster from disastrous events as specified by up to six conditions woven into the spell at casting time. The conditions could be specific or general, but they had to be unambiguous. They could be as benign as speaking a cryptic word, or as dire as death. Once triggered, the mind, body, and soul of the caster were all transported to the chosen location and reunited if necessary, thus foiling spells such as ''[[magic jar]]'' and ''[[trap the soul]]''. However, if the caster was dead upon arrival, his or her soul then proceeded to the [[afterlife]] from that location. The destination could be on any [[plane of existence|plane]] or [[demiplane]] that the caster had previously visited. Clothing and other items attached to the body were also transported as long as they weighed no more than 50 lb (23 kg) each.\n\nAfter ''evasion'' deposited the caster at the chosen location, up to two arcane spells that had been stored within the ''evasion'' were released as if they had been cast at that moment.",
-        "Components": "This complex spell required much preparation and included the casting of other spells, each possibly with their own verbal, somatic, and material components. Thus, the casting time of ''Elminster's evasion'' was at least 10 minutes and could be longer depending on the spells being stored within for eventual release. The oldest known version required a [[Jewels|jewel]] valued at 5,000 gp or more and a pint (about half a liter) of the caster's blood. This version caused the caster to lose a small portion of their health, which was not restored until the ''evasion'' was triggered.\n\nA newer version required the casting of ''[[teleport without error]]''<ref group=\"note\">Because [[teleport]]ation transported creatures and items through the [[Astral plane]], spells and magic items that blocked Astral travel could also block ''Elminster's evasion''. in addition to the contingency spells (and all of their components) and some quicksilver, an eyelash of a spell-casting creature such as an [[ogre mage]] or [[ki-rin]], and some of the caster's fresh blood. On top of that, the caster had to have an arcane focus in the form of an [[ivory]] figurine encrusted with at least 1,500 gp worth of [[gem]]s, which had to be carried on his or her person for the ''evasion'' to work.",
-        "History": "[[Elminster]] originally invented the spell in order to teleport him into [[Elminster's Hideout]] in the planet [[Coliar]] in case of need. He permanently had the spell in effect on himself.\n\nThis spell was found in a book that was known as \"[[Elminster's traveling spellbook]]\" although the Old Sage was not known to have claimed responsibility for the book or its peculiar habits. ''Elminster's evasion'' was later published in \"[[Volo's Guide to All Things Magical (in-universe)|Volo's Guide to All Things Magical]]\" and became generally known to the magical community although it was rare to find it."
+        "mainbody": "Elminsters evasion was an arcane evocation spell that transported the mind, soul, and body of the caster to a chosen location in the event of any of six predetermined trigger conditions. Upon arrival, one or two other stored spells were allowed to take effect.\nThere were at least two versions of this spell that differed mainly in the preparation and casting but had very similar effects.\nElminsters evasion was a powerful modification of the contingency spell intended to save the caster from disastrous events as specified by up to six conditions woven into the spell at casting time. The conditions could be specific or general, but they had to be unambiguous. They could be as benign as speaking a cryptic word, or as dire as death. Once triggered, the mind, body, and soul of the caster were all transported to the chosen location and reunited if necessary, thus foiling spells such as magic jar and trap the soul. However, if the caster was dead upon arrival, his or her soul then proceeded to the afterlife from that location. The destination could be on any plane or demiplane that the caster had previously visited. Clothing and other items attached to the body were also transported as long as they weighed no more than 50 lb (23 kg) each.\nAfter evasion deposited the caster at the chosen location, up to two arcane spells that had been stored within the evasion were released as if they had been cast at that moment.\nThis complex spell required much preparation and included the casting of other spells, each possibly with their own verbal, somatic, and material components. Thus, the casting time of Elminsters evasion was at least 10 minutes and could be longer depending on the spells being stored within for eventual release. The oldest known version required a jewel valued at 5,000 gp or more and a pint (about half a liter) of the casters blood. This version caused the caster to lose a small portion of their health, which was not restored until the evasion was triggered.\nA newer version required the casting of teleport without errorBecause teleportation transported creatures and items through the Astral plane, spells and magic items that blocked Astral travel could also block Elminsters evasion. in addition to the contingency spells (and all of their components) and some quicksilver, an eyelash of a spell-casting creature such as an ogre mage or ki-rin, and some of the casters fresh blood. On top of that, the caster had to have an arcane focus in the form of an ivory figurine encrusted with at least 1,500 gp worth of gems, which had to be carried on his or her person for the evasion to work.\nElminster originally invented the spell in order to teleport him into Elminsters Hideout in the planet Coliar in case of need. He permanently had the spell in effect on himself.\nThis spell was found in a book that was known as \"Elminsters traveling spellbook\" although the Old Sage was not known to have claimed responsibility for the book or its peculiar habits. Elminsters evasion was later published in \"Volos Guide to All Things Magical\" and became generally known to the magical community although it was rare to find it."
     }
 }

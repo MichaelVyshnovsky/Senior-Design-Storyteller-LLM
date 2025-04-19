@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "3|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Cloak of fortification.gif",
-        "caption": "",
-        "name": "''Cloak of Fortification''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Cloak]]",
-        "location": "[[Neverwinter]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+1,+2,+3",
-        "value3e": "",
-        "weight3e": "{{SI|3|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Cloaks of fortification''''' was a magic [[cloak]] that provided defense with both, armor and resistance.",
-        "Powers": "''Cloaks of fortification'' were created with various enchantment levels but all increased the wearer's defense in combat and against effects of mundane and magical nature.",
-        "History": "''Cloaks of fortification'' were created after one of the high priestesses of [[Selûne]] was assassinated by members of the [[Mask]]'s faith. The [[Church of Selûne]] invested time and money into developing this method of protection. Eventually, the word of the cloaks' powers spread and attracted the attention of thieves and rogues who wanted them for themselves. This, in turn, aggravated the cases of violence against Selûnites.\n\nBy the late 14{{th}} century [[DR]], ''cloaks of fortification'' found their way into the masses and could be found or purchased from merchants and some temples offered them as boons.",
-        "Notable Users": "*[[Xatuum]]: the [[undead]] High Priest of [[Bhaal]] from the [[Stronghold (Liam's Hold)|Stronghold]] of [[Liam's Hold]]."
+        "mainbody": "Cloaks of fortification was a magic cloak that provided defense with both, armor and resistance.\nCloaks of fortification were created with various enchantment levels but all increased the wearers defense in combat and against effects of mundane and magical nature.\nCloaks of fortification were created after one of the high priestesses of Selûne was assassinated by members of the Masks faith. The Church of Selûne invested time and money into developing this method of protection. Eventually, the word of the cloaks powers spread and attracted the attention of thieves and rogues who wanted them for themselves. This, in turn, aggravated the cases of violence against Selûnites.\nBy the late 14 century DR, cloaks of fortification found their way into the masses and could be found or purchased from merchants and some temples offered them as boons.\n*Xatuum the undead High Priest of Bhaal from the Stronghold of Liams Hold."
     }
 }

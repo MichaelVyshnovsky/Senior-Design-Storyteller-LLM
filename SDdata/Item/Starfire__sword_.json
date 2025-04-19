@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "3|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Starfire (sword).png",
-        "caption": "",
-        "name": "''Starfire''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Short sword]]",
-        "creator": "",
-        "location": "[[Delimbiyr Vale]]<br/>[[Underdark]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+1",
-        "value3e": "",
-        "weight3e": "{{SI|3|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Starfire''''' was a unique [[enchanted]] [[star metal]] [[short sword]] created by an unnamed evil [[derro]] and brought nothing but bad luck to all of its owners.",
-        "Powers": "This short sword possessed a ''+1'' enchantment and scorched its targets with magical fire. Additionally, each landed hit flashed with the ''[[flare]]'' spell.",
-        "History": "''Starfire'' originated from the depths of the [[Underdark]] where it was forged by an unknown evil derro from a meteorite chunk. Over the years, the weapon drifted from one unlucky owner to the next. After the derro, ''Starfire'' was claimed by a group of marauding [[mountain dwarves]] who were discovered and killed by a band of [[troglodyte]]s thanks to the sword's magical flashing glow. The next owner was an industrious [[halfling]] who stole ''Starfire'' from the troglodyte war band and took it to the surface world, only to lose the short sword to robbers.\n\nIn [[1372 DR]], yet another owner of ''Starfire'' met their demise. The sword was found in the lair of a vicious beast, the [[Mighty Rat of Cunning Demeanor]] in the [[Lonely Warrens]] after its owner was ripped apart by a swarm of vicious rats and brain eater by MRCD itself."
+        "mainbody": "Starfire was a unique enchanted star metal short sword created by an unnamed evil derro and brought nothing but bad luck to all of its owners.\nThis short sword possessed a +1 enchantment and scorched its targets with magical fire. Additionally, each landed hit flashed with the flare spell.\nStarfire originated from the depths of the Underdark where it was forged by an unknown evil derro from a meteorite chunk. Over the years, the weapon drifted from one unlucky owner to the next. After the derro, Starfire was claimed by a group of marauding mountain dwarves who were discovered and killed by a band of troglodytes thanks to the swords magical flashing glow. The next owner was an industrious halfling who stole Starfire from the troglodyte war band and took it to the surface world, only to lose the short sword to robbers.\nIn 1372 DR, yet another owner of Starfire met their demise. The sword was found in the lair of a vicious beast, the Mighty Rat of Cunning Demeanor in the Lonely Warrens after its owner was ripped apart by a swarm of vicious rats and brain eater by MRCD itself."
     }
 }

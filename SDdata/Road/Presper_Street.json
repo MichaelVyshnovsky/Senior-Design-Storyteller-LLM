@@ -1,32 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Presper Street",
-        "type": "Road",
-        "aliases": "",
-        "length": "",
-        "width": "",
-        "pavement": "",
-        "location": "[[Waterdeep/Dock Ward|Dock Ward]], [[Waterdeep]]",
-        "starts": "[[Ship Street (Waterdeep)|Ship Street]]",
-        "ends": "[[Snail Street]]",
-        "built": "",
-        "refs": "",
-        "daggers": "",
-        "volorefs": "",
-        "usethe": "",
-        "inhabitants": "",
-        "locations": "yes",
-        "settlements": "",
-        "roads": "yes",
-        "events": "",
-        "mainbody": "'''Presper Street''' was a winding street in the [[Waterdeep/Dock Ward|Dock Ward]] of [[Waterdeep]].",
-        "Location": "This road ran from east to west, stretching from [[Ship Street (Waterdeep)|Ship Street]] to an intersection with [[Snail Street]] and [[Shrimp Alley]], formerly known as Shrimp Street. At its midpoint, the street acted as the northern terminus of the [[Street of Six Casks]].",
-        "Notable Locations": {
-            "The [[Bloody Fist]]": "a dive bar.",
-            "Lanternmaker Zorth Ulmaril|Lanternmaking shop": "A [[lantern]] shop that was owned by [[Zorth Ulmaril]].",
-            "Warm Beds": "an inn."
-        }
+        "mainbody": "resper Street was a winding street in the Dock Ward of Waterdeep.\nThis road ran from east to west, stretching from Ship Street to an intersection with Snail Street and Shrimp Alley, formerly known as Shrimp Street. At its midpoint, the street acted as the northern terminus of the Street of Six Casks.\nThe Bloody Fist a dive bar.\nLanternmaking shop A lantern shop that was owned by Zorth Ulmaril.\nWarm Beds an inn."
     }
 }

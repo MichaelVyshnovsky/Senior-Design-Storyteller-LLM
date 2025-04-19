@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Wings of Air",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Druid]]|2|[[Sorcerer]]|2|[[Wizard]]|2}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Wings of Air''''' was an [[arcane]] [[transmutation]] [[spell]] used by [[dragons]] and other creatures with wings.",
-        "Effects": "The spell improved the aerial maneauverability of the touched creature for a matter of minutes, provided it used its wings to fly.",
-        "Components": "The spell had only a [[verbal component]]."
+        "mainbody": "Wings of Air was an arcane transmutation spell used by dragons and other creatures with wings.\nThe spell improved the aerial maneauverability of the touched creature for a matter of minutes, provided it used its wings to fly.\nThe spell had only a verbal component."
     }
 }

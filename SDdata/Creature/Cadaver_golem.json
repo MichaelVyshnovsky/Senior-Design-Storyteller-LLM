@@ -1,43 +1,10 @@
 {
-    "template_data": {
-        "8|ft|long": "yes",
-        "500|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "CadaverGolem.jpg",
-        "caption": "",
-        "name": "Cadaver Golem",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "Large",
-        "origin4e": "[[Natural creature|Natural]]",
-        "type4e": "[[Animate]]",
-        "subtype4e": "",
-        "alignment4e": "[[Evil]]",
-        "refs4e": "",
-        "size3e": "Large",
-        "type3e": "[[Construct]]",
-        "subtype3e": "",
-        "alignment3e": "Always [[neutral]] or [[chaotic]], usually [[evil]]",
-        "challenge3e": "8",
-        "refs3e": "",
-        "size2e": "",
-        "alignment2e": "",
-        "refs2e": "",
-        "size1e": "",
-        "alignment1e": "",
-        "refs1e": "",
-        "distinctions": "",
-        "intelligence": "{{Int|12}}",
         "lifespan": "",
         "location": "",
         "subraces": "",
-        "language": "[[Common]]",
-        "vision": "[[Darkvision]]<br/>[[Low-light vision]]",
+        "language": "Common",
+        "vision": "DarkvisionLow-light vision",
         "genrefs": "",
         "height": "",
         "length": "",
@@ -48,15 +15,6 @@
         "feathers": "",
         "eyecolor": "",
         "first": "",
-        "mainbody": "A '''cadaver golem''' was a macabre form of [[golem]] similar to and easily mistaken for a [[flesh golem]], being likewise assembled from the body parts of various [[humanoid]]s, and were often created as a result of a flesh golem's creation going awry.",
-        "Description": "These golems were massive in stature, usually standing around {{SI|8|ft|long=yes}} and weighing around {{SI|500|lb|k|long=yes}}. They dressed themselves in whatever clothing they could find or steal that managed to fit their large frames.",
-        "Personality": "These golems were far more intelligent than flesh golems, possessing an actual sentience and [[soul]] that was maintained from one of the humanoid components that made up their body. Unlike most other forms of golems, this gave them a sense of free-will and cunning. Once created a cadaver golem's identity was mystically bound to its body and couldn't be replaced by removing its brain or switching it out for another.\n\nUsually being of an [[evil]] bent, if not [[chaotic evil]] or [[neutral evil]], these golems were homicidal and difficult to control. They would not hesitate to attack and destroy anything or any person that either threatened their existence or their goals. It was not uncommon for them to leave or outright kill their masters and go off into the wider world.",
-        "Abilities": "These golems could see in areas of both [[low-light vision|low-light]] and [[darkvision|total darkness]]. Like other golems they possessed magic immunity. The trait that most distinguished cadavers from flesh golems was their ability to \"assimilate flesh\", replacing any part of their body, including their limbs and organs, with a similar part from the body of a nearby injured or deceased humanoid. This not only healed a cadaver golem of injuries, but could grant them extraordinary or supernatural abilities.",
-        "Combat": "Cadaver golems were likely to attack any creature that got in their way. They typically fought with either their fists or a large [[bastard sword]]. Tactically, they tried to focus attacks towards injured foes so as to more easily put them in a position to assimilate their flesh.",
-        "Society": {
-            "Creation": "Purposely creating one of these golems required at least six mundane humanoid corpses, all of which had to not be in a significant state of decomposition.",
-            "Languages": "These golems usually were capable of speaking [[Common]], but could also know a variety of other languages depending upon the area in which they were created or the humanoids that made up its body. They were also more than capable of learning how to speak other languages overtime."
-        },
-        "History": "In the late 15{{th}} century [[DR]], a group of [[adventurer]]s infiltrating the [[Well of Dragons]] encountered a cadaver golem among undead that had been stationed inside by the [[Cult of the Dragon]] to act as guards.<ref>{{Cite organized play/LFR/Where Dragons Die|13-14}}"
+        "mainbody": "A cadaver golem was a macabre form of golem similar to and easily mistaken for a flesh golem, being likewise assembled from the body parts of various humanoids, and were often created as a result of a flesh golems creation going awry.\nThese golems were massive in stature, usually standing around  and weighing around . They dressed themselves in whatever clothing they could find or steal that managed to fit their large frames.\nThese golems were far more intelligent than flesh golems, possessing an actual sentience and soul that was maintained from one of the humanoid components that made up their body. Unlike most other forms of golems, this gave them a sense of free-will and cunning. Once created a cadaver golems identity was mystically bound to its body and couldnt be replaced by removing its brain or switching it out for another.\nUsually being of an evil bent, if not chaotic evil or neutral evil, these golems were homicidal and difficult to control. They would not hesitate to attack and destroy anything or any person that either threatened their existence or their goals. It was not uncommon for them to leave or outright kill their masters and go off into the wider world.\nThese golems could see in areas of both low-light and total darkness. Like other golems they possessed magic immunity. The trait that most distinguished cadavers from flesh golems was their ability to \"assimilate flesh\", replacing any part of their body, including their limbs and organs, with a similar part from the body of a nearby injured or deceased humanoid. This not only healed a cadaver golem of injuries, but could grant them extraordinary or supernatural abilities.\nCadaver golems were likely to attack any creature that got in their way. They typically fought with either their fists or a large bastard sword. Tactically, they tried to focus attacks towards injured foes so as to more easily put them in a position to assimilate their flesh.\nCadaver golems were near constantly in search of humanoids to kill that boasted talents they wished to possess. While sometimes solitary creatures, they could also be found in groups of up to two or four.\nSome were known to serve the demilich Acererak and the occasional brain in a jar.\nPurposely creating one of these golems required at least six mundane humanoid corpses, all of which had to not be in a significant state of decomposition.\nThese golems usually were capable of speaking Common, but could also know a variety of other languages depending upon the area in which they were created or the humanoids that made up its body. They were also more than capable of learning how to speak other languages overtime.\nIn the late 15 century DR, a group of adventurers infiltrating the Well of Dragons encountered a cadaver golem among undead that had been stationed inside by the Cult of the Dragon to act as guards."
     }
 }

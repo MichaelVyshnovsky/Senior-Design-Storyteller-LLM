@@ -1,29 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Shuffle",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Conjuration]] (teleportation)",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Druid]]|6|[[Sorcerer]]|6|[[Wizard]]|6}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -37,7 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Shuffle ''''' was a spell that allowed the caster to temporarily bestow the ability of limited [[teleport]]ation to a few creatures for a short amount of time. The targets of this spell could, with some effort, instantly appear to an area they could see, or were intimately familiar with, within 50 feet of their location.",
-        "References": "{{refs}}\n\n[[Category:Conjuration spells]]\n[[Category:Teleportation spells]]\n[[Category:Druid spells]]\n[[Category:Sorcerer spells]]\n[[Category:Wizard spells]]\ncs75ihqm3fmhacmjt7f7nposbp3gy26"
+        "mainbody": "Shuffle  was a spell that allowed the caster to temporarily bestow the ability of limited teleportation to a few creatures for a short amount of time. The targets of this spell could, with some effort, instantly appear to an area they could see, or were intimately familiar with, within 50 feet of their location.\nCategoryConjuration spells\nCategoryTeleportation spells\nCategoryDruid spells\nCategorySorcerer spells\nCategoryWizard spells\ncs75ihqm3fmhacmjt7f7nposbp3gy26"
     }
 }

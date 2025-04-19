@@ -1,42 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Harjad",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Huzuz]], [[Cities of the Heart]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "race": "[[Half-elf]]",
-        "ethnicity": "",
-        "occupation": "''[[Midani dictionary|Saka]]''",
-        "age": "",
-        "patron deity": "",
-        "languages": "",
-        "reckoning": "DR",
-        "dob": "",
-        "dobnotes": "",
-        "turned": "",
-        "turnednotes": "",
-        "death": "",
-        "deathnotes": "",
-        "destroyed": "",
-        "destroyednotes": "",
-        "alignment": "",
-        "class": "",
-        "rules": "",
-        "alignment1e": "",
-        "class1e": "",
-        "refs1e": "",
-        "alignment2e": "[[Chaotic neutral]]",
-        "class2e": "{{Class table|edition=2e|[[Matrud]]|1}}",
         "refs2e": "",
         "alignment3e": "",
         "class3e": "",
@@ -50,8 +13,6 @@
         "alignment5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Harjad''' was an [[Half-elf|half-elven]] ''[[Midani dictionary|saka]]'', or water-bearer, inhabiting [[Huzuz]], the City of Delights, in [[1367 DR]].{{AQ-time}}",
-        "Personality": "Harjad was a crafty and clever [[matrud]].",
-        "Activities": "He spent his time begging coins from generous travelers who visited the numerous caravanserai throughout Huzuz. Harjad claimed that the water he supplied from a leather sack was obtained directly from the fountains of the [[Golden Mosque]] at great personal risk to himself. The water was in fact tepid river water."
+        "mainbody": "Harjad was an half-elven saka, or water-bearer, inhabiting Huzuz, the City of Delights, in 1367 DR.\nHarjad was a crafty and clever matrud.\nHe spent his time begging coins from generous travelers who visited the numerous caravanserai throughout Huzuz. Harjad claimed that the water he supplied from a leather sack was obtained directly from the fountains of the Golden Mosque at great personal risk to himself. The water was in fact tepid river water."
     }
 }

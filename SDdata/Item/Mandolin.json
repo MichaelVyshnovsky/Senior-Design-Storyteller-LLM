@@ -1,15 +1,5 @@
 {
     "document_data": {
-        "image": "Mandolin-2e.jpg",
-        "caption": "A mandolin from [[Aurora's Emporium]].",
-        "name": "Mandolin",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Musical instrument",
-        "location": "[[Calimshan]]",
-        "value1e": "28 [[gp]]",
-        "weight1e": "",
-        "refs1e": "<ref>{{Cite dragon/117/Dungeoneer's Shopping Guide|22}}",
         "school2e": "",
         "level2e": "",
         "value2e": "40 gp",
@@ -35,11 +25,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''Mandolins''' were small pear-shaped string instruments.",
-        "Description": "When played as accompanying instruments, mandolins provided a delicate fluttering sound. They were also performed as solo instruments.\n\nMandolins produced in [[Calimshan]] were available for purchase through ''[[Aurora's Whole Realms Catalogue]]''.",
-        "Notable mandolins": {
-            "[[Canaith mandolin]]": "One of the seven [[Instrument of the Bards|Instruments of the Bards]]. Magical mandolins that had healing powers and provided protection from lightning, among other magical powers."
-        },
-        "Notable Users": "* [[Adagio Jones]], a member of the [[bard]]ic group [[Adagio Jones and The Goodwinds]], had a mandolin that he played for ballads and songs that involved the group's string ensemble.<ref>{{Cite polyhedron/54/The New Rogues Gallery: Adagio Jones and The Goodwinds|8}}"
+        "mainbody": "Mandolins were small pear-shaped string instruments.\nWhen played as accompanying instruments, mandolins provided a delicate fluttering sound. They were also performed as solo instruments.\nMandolins produced in Calimshan were available for purchase through Auroras Whole Realms Catalogue.\n Canaith mandolin  One of the seven Instruments of the Bards. Magical mandolins that had healing powers and provided protection from lightning, among other magical powers.\n* Adagio Jones, a member of the bardic group Adagio Jones and The Goodwinds, had a mandolin that he played for ballads and songs that involved the groups string ensemble."
     }
 }

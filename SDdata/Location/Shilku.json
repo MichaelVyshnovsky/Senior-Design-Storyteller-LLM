@@ -1,17 +1,12 @@
 {
     "document_data": {
-        "image": "ValleyLostHonorIA.JPG",
-        "caption": "A map showing Shilku in western Chult.",
-        "name": "Shilku",
-        "aliases": "",
-        "type": "Ruins<br />{{Former}} Town",
         "size": "",
         "capital": "",
-        "area": "[[Chult]], [[Chultan Peninsula]]",
+        "area": "Chult, Chultan Peninsula",
         "georefs": "",
         "demonym": "",
         "languages": "",
-        "races": "[[Mephit]]s<br />[[Firenewt]]s<br />[[Salamander]]s",
+        "races": "MephitsFirenewtsSalamanders",
         "religion": "",
         "currency": "",
         "population1": "",
@@ -26,7 +21,7 @@
         "allegiances": "",
         "socrefs": "",
         "founded": "",
-        "destroyed": "15{{th}} century [[DR]]",
+        "destroyed": "15 century DR",
         "histrefs": "",
         "government": "",
         "rulertype": "",
@@ -51,9 +46,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "'''Shilku''' was a ruined coastal town in [[Chult]], located in the [[Shilku Bay|bay]] south of the [[Kobold Mountains]]. It was less than 50 miles (80 km) from [[Wyrmheart Mine]] in the north and about 100 miles (160 km) from the [[Valley of Lost Honor]].<ref name=\"ToA-p39\" ><ref name=\"ToA-p82\" >",
-        "Description": "In the years following its decimation, many of Skilku's buildings were encased in volcanic rock.",
-        "History": "Some time before the end of the 15{{th}} century [[DR]], the town was decimated by activity from the nearby volcanoes. In a unique turn of events, the town was actually entirely preserved by the volcanic activity.",
-        "Inhabitants": "After its destruction, Shilku no longer housed any [[human]] inhabitants. It was since overrun by fire-loving creatures such as [[mephit]]s, [[firenewt]]s, and [[salamander]]s, among others."
+        "mainbody": "Shilku was a ruined coastal town in Chult, located in the bay south of the Kobold Mountains. It was less than 50 miles (80 km) from Wyrmheart Mine in the north and about 100 miles (160 km) from the Valley of Lost Honor.\nIn the years following its decimation, many of Skilkus buildings were encased in volcanic rock.\nSome time before the end of the 15 century DR, the town was decimated by activity from the nearby volcanoes. In a unique turn of events, the town was actually entirely preserved by the volcanic activity.\nAfter its destruction, Shilku no longer housed any human inhabitants. It was since overrun by fire-loving creatures such as mephits, firenewts, and salamanders, among others."
     }
 }

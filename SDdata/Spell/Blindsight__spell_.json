@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Blindsight",
-        "deity": "",
-        "inventor": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Cleric]]|3|[[Druid]]|2|[[Initiate of Ghaunadaur]]|2|[[Sorcerer]]|2|[[Wizard]]|2}}",
         "refs3e": "",
         "reversible2e": "",
         "school2e": "",
@@ -33,9 +10,6 @@
         "school1e": "",
         "level1e": "",
         "refs1e": "",
-        "mainbody": "'''''Blindsight''''' was a [[transmutation]] [[spell]] that could grant the caster the [[blindsight|ability to sense the shape of objects without vision]]. The spell was utilized by both [[Divine magic|divine]] and [[Arcane magic|arcane]] casters.",
-        "Effects": "After casting of the spell, anyone touched by the caster was granted an extraordinary capability of sensing vibrations so well as to be able to fight and move as deftly as a creature with vision. and lasted for two or more minutes, depending on the power of the caster.\n\nSince it did not require vision, a creature granted blindsight could easily detect invisible creatures or creatures hiding in total darkness, but it did not allow one to sense the presence of [[Etherealness|ethereal]] beings. It allowed one to also sense the true location of creatures under the effects of ''[[blur]]'' or ''[[displacement]]'' spells, but it did not allow someone to perceive color or read. A creature under the effects of this spell was not prone to gaze attacks or blinding flashes of light&mdash;unless it still had normal vision. Deafening attacks did not weaken the spell, as it relied on felt vibrations, not hearing, but it could not function in a vacuum.",
-        "Components": "''Blindsight'' required only [[verbal component|verbal]] and [[somatic component]]s.",
-        "History": "[[church of Ghaunadaur|Ghaunadauran]] [[cleric]]s, who were initiated in the secrets of their faith, could more easily cast ''blindsight'' than other clerics."
+        "mainbody": "Blindsight was a transmutation spell that could grant the caster the ability to sense the shape of objects without vision. The spell was utilized by both divine and arcane casters.\nAfter casting of the spell, anyone touched by the caster was granted an extraordinary capability of sensing vibrations so well as to be able to fight and move as deftly as a creature with vision. and lasted for two or more minutes, depending on the power of the caster.\nSince it did not require vision, a creature granted blindsight could easily detect invisible creatures or creatures hiding in total darkness, but it did not allow one to sense the presence of ethereal beings. It allowed one to also sense the true location of creatures under the effects of blur or displacement spells, but it did not allow someone to perceive color or read. A creature under the effects of this spell was not prone to gaze attacks or blinding flashes of light&mdashunless it still had normal vision. Deafening attacks did not weaken the spell, as it relied on felt vibrations, not hearing, but it could not function in a vacuum.\nBlindsight required only verbal and somatic components.\nGhaunadauran clerics, who were initiated in the secrets of their faith, could more easily cast blindsight than other clerics."
     }
 }

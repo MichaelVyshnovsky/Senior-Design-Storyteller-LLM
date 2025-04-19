@@ -1,24 +1,5 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "variant": "channel divinity",
-        "30|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Path to the Grave",
-        "deity": "[[Dumathoin]], [[Kelemvor]], [[Osiris]], [[Naralis Analor]], [[Sehanine Moonbow]], [[Vandria Gilmadrith]], [[Segojan Earthcaller]], [[Urogalan]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "[[Grave domain|Grave]]",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "{{Spell table|edition=5e|variant=channel divinity|[[Cleric]]|2|[[Grave domain|Grave]]|2}}",
         "type5e": "Channel divinity",
         "refs5e": "",
         "feature4e": "",
@@ -44,8 +25,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Path to the grave''''' was a ''[[channel divinity]]'' power granted to [[cleric]]s of the [[Grave domain]].",
-        "Effects": "The cleric [[curse]]d a target creature within a range of {{SI|30|ft|long=yes}}, rendering its life force more susceptible to being extinguished. For a few seconds, the cursed target became extremely vulnerable to damage from a single subsequent attack.",
-        "Components": "Only the cleric's [[holy symbol]] was required to invoke this curse."
+        "mainbody": "Path to the grave was a channel divinity power granted to clerics of the Grave domain.\nThe cleric cursed a target creature within a range of , rendering its life force more susceptible to being extinguished. For a few seconds, the cursed target became extremely vulnerable to damage from a single subsequent attack.\nOnly the clerics holy symbol was required to invoke this curse."
     }
 }

@@ -1,31 +1,10 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "edition_1": "5e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Awaken",
-        "deity": "",
-        "school": "[[Transmutation]]",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "school5e": "[[Transmutation]]",
-        "level5e": "{{spell table|edition=5e|[[Druid]]|5|[[Bard]]|5}}",
         "type5e": "",
         "refs5e": "",
-        "school3e": "[[Transmutation]]",
-        "level3e": "{{spell table|edition=5e|[[Druid]]|5}}",
+        "school3e": "Transmutation",
+        "level3e": "",
         "refs3e": "",
-        "mainbody": "'''''Awaken''''' was a [[transmutation]] [[spell]] that awakened intelligence and ability in a creature or plant of little or no intelligence.",
-        "Effects": "After eight hours of casting and touching a creature of little or no intelligence, the creature would gain average intelligence (compared to [[humanoids]]) and learn the language of the caster. Plants also gained the ability to move their \"limbs\". The creature was effectively [[charm]]ed by the caster for thirty days; after that, the creature could chose to stay or turn hostile to the caster.",
-        "Components": "An [[agate]] worth at least 1,000 [[gp]]."
+        "mainbody": "Awaken was a transmutation spell that awakened intelligence and ability in a creature or plant of little or no intelligence.\nAfter eight hours of casting and touching a creature of little or no intelligence, the creature would gain average intelligence (compared to humanoids) and learn the language of the caster. Plants also gained the ability to move their \"limbs\". The creature was effectively charmed by the caster for thirty days after that, the creature could chose to stay or turn hostile to the caster.\nAn agate worth at least 1,000 gp."
     }
 }

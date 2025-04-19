@@ -1,24 +1,9 @@
 {
-    "template_data": {
-        "3000|feet|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Lookout Tree",
-        "alt spelling": "",
-        "aliases": "",
-        "type": "Enchanted elven Tree",
-        "region": "[[Tangled Trees]], the [[Dalelands]]",
-        "size": "",
-        "elevation": "At least {{SI|3000|feet|long=yes}} tall",
         "depth": "",
         "capital": "",
         "largest city": "",
         "georefs": "",
-        "mainbody": "The '''Lookout Tree''' was an [[elven]] tree in the [[Dalelands]] in the mid–8{{th}} century [[DR]].",
-        "Description": "It was a [[shadowtop]] tree, with a near-endless spiral staircase. Up top, the leaves were large enough to act as cushions; for those who were guests of such elves as [[Starsunder]], the leaves would mold themselves into chairs if needed.",
-        "Defenses": "Those who did not walk up the stairs would startle the tree on contact, and it would defend itself.",
-        "History": "In the {{yearlinkName|767}}, during the Chaos of [[the Art]], a mage from [[Galadorna]], [[Umbregard]], visited [[Tangletrees]] looking for answers regarding [[Elminster Aumar]], one of the [[Chosen of Mystra]]. He was met by Starsunder, who brought him to the Lookout Tree to converse."
+        "mainbody": "The Lookout Tree was an elven tree in the Dalelands in the mid–8 century DR.\nIt was a shadowtop tree, with a near-endless spiral staircase. Up top, the leaves were large enough to act as cushions for those who were guests of such elves as Starsunder, the leaves would mold themselves into chairs if needed.\nThose who did not walk up the stairs would startle the tree on contact, and it would defend itself.\nIn the , during the Chaos of the Art, a mage from Galadorna, Umbregard, visited Tangletrees looking for answers regarding Elminster Aumar, one of the Chosen of Mystra. He was met by Starsunder, who brought him to the Lookout Tree to converse."
     }
 }

@@ -1,13 +1,3 @@
-{{Creature
-| image        = 
-| caption      = 
-| name         = Thornslinger
-| othernames   = 
-| size5e       = Large
-| type5e       = [[Plant creature|Plant]]
-| subtype5e    = 
-| alignment5e  = [[Unaligned]]
-| challenge5e  = {{frac|1|4}}
 | refs5e       = 
 | size4e       = 
 | origin4e     = 
@@ -22,14 +12,14 @@
 | challenge3e  = 
 | refs3e       = 
 | size2e       = Medium
-| alignment2e  = [[Neutral]]
+| alignment2e  = Neutral
 | refs2e       = 
 | size1e       = 
 | alignment1e  = 
 | refs1e       = 
 | patron deity = 
 | movement     = 
-| vision       = [[Blindsight]]
+| vision       = Blindsight
 | activecycle  = Any
 | diet         = Carnivore
 | lifespan     = 
@@ -54,45 +44,16 @@
 | first        = 
 | based        = 
 | histrefs     = 
-}}
-'''Thornslingers''' were a species of carnivorous plant that could be found in the Realms.
-
-==Description==
-A kind of small tree,The text refers to both sap and dew; this is presumably honeydew, a substance secreted by insects feeding on sap. From their branches, they grew thorns a full foot (30 centimeters) in length in close clusters.
-
-==Behavior==
+Thornslingers were a species of carnivorous plant that could be found in the Realms.
+A kind of small tree,The text refers to both sap and dew this is presumably honeydew, a substance secreted by insects feeding on sap. From their branches, they grew thorns a full foot (30 centimeters) in length in close clusters.
 These plants possessed no form of sentience.
-
-==Biology==
 Thornslingers were not particularly flammable plants and fires on them extinguished after several minutes.
-
-==Combat==
-Thornslingers were so named because they had a near-inexhaustible amount of thorns that they hurled in a spread pattern at living creatures. These thorns could typically reach targets as far away as {{SI|30|ft|long=yes}}. They launched so many that they were almost impossible to avoid; a victim could be strike by at least one, and up to eight. This was a defense mechanism. a loud shout could set off its thorns. One was observed to shiver before twitching a limb, flicking a dozen or so thorns powerful enough at least to pierce rusted armor and break old bones and bury their full length into flesh.
-
-However, creatures that could get close and touched the plant became stuck to its adhesive, if they could not pull away. The thornslinger secreted digestive [[acid]]s to consume the victim.
-
-==Ecology==
-===Habitats===
+Thornslingers were so named because they had a near-inexhaustible amount of thorns that they hurled in a spread pattern at living creatures. These thorns could typically reach targets as far away as . They launched so many that they were almost impossible to avoid a victim could be strike by at least one, and up to eight. This was a defense mechanism. a loud shout could set off its thorns. One was observed to shiver before twitching a limb, flicking a dozen or so thorns powerful enough at least to pierce rusted armor and break old bones and bury their full length into flesh.
+However, creatures that could get close and touched the plant became stuck to its adhesive, if they could not pull away. The thornslinger secreted digestive acids to consume the victim.
 Thornslingers were very adaptable plants, able to thrive in a variety of terrain and climates. However, as their thorns were their only protection, they were typically encountered in remote or secluded places, such as pits or caves. They also were known to grow upon stone or brick walls.
-
-In [[Faerun]], they could be found growing in parts of [[Cormanthor]], the [[Dalelands]], [[Cormyr]], and [[Sembia]], such as in the [[Vast Swamp]],
-
-In [[west Faerûn]], thornslingers could be found in the central moors of [[High Moor]], near the [[Misty Forest]], and near the [[Serpent Hills]]. In [[south Faerûn]], they grew in the [[Thornwood]].
-
-Outside of the [[Prime Material plane]], thornslingers were quite common in the savannahs of [[Yeenoghu]]'s realm in the [[Abyss]].
-
-===Relationships===
-Thornslingers were a [[favored plant]] of the [[deity]] [[Sheela Peryroyl]].
-
-==History==
-{{fq
-| text   = One of the limbs twitched violently, like a hand flicking off some unwanted liquid. But instead of liquid, a dozen foot-long thorns came flying toward the soldiers. Most of them whizzed by, one coming within inches of the second man. But one thorn, with a wet, ugly sound, sank its entire length into the body of Grodoveth.
-| source = Jasper's account of a thornslinger
-| float  = 
-| width  = 
-| styles = 
-}}
-In the eastern stretches of [[Battledale]], [[vegepygmy|vegepygmies]] cultivated thornslingers as companions. As the plants reproduced at an unsustainable rate, the mold men buried the excess seeds in a nearby tract of shallow swampland. Some time in the 12{{th}} century [[DR]], a small [[human]] village known as [[Lowdner]] annexed this swampland despite protests from the mold men. Lowdner's farmers filled the swampland with fresh earth to toil, which activated the dormant seedlings. Over the course of a few months the thornslingers grew across Lowdner, in their [[corn]] fields and along the stone walls of farm houses. With the plants replenishing their numbers faster than the farmers could remove them, Lowdner gradually fell apart.
-
-A thornslinger growing in the northwestern fringe of the Vast Swamp near [[Ghars]], Cormyr, was a local hazard in the mid–14{{th}} century [[DR]]. Guided by [[Darvik]], Captain [[Flim]], a pair of [[Purple Dragons]], [[Jasper (servant)]], and [[Lindavar]] walked quietly by it on the way to [[Fastred]]'s tomb on [[Eleint 18]], the {{YearlinkName|1367}}. On the way back with [[Grodoveth]]'s body, one of the soldiers slipped and swore, loud enough to trigger the thornslinger, but the body received the thorn instead and he escaped. Darvik warned them to remove the thorn before the body dissolved. On [[Eleint 20]], [[Benelaius]] and Jasper passed it again, and later used it to destroy the [[skeleton]] of Fastred pursuing them.
-
+In Faerun, they could be found growing in parts of Cormanthor, the Dalelands, Cormyr, and Sembia, such as in the Vast Swamp,
+In west Faerûn, thornslingers could be found in the central moors of High Moor, near the Misty Forest, and near the Serpent Hills. In south Faerûn, they grew in the Thornwood.
+Outside of the Prime Material plane, thornslingers were quite common in the savannahs of Yeenoghus realm in the Abyss.
+Thornslingers were a favored plant of the deity Sheela Peryroyl.
+In the eastern stretches of Battledale, vegepygmies cultivated thornslingers as companions. As the plants reproduced at an unsustainable rate, the mold men buried the excess seeds in a nearby tract of shallow swampland. Some time in the 12 century DR, a small human village known as Lowdner annexed this swampland despite protests from the mold men. Lowdners farmers filled the swampland with fresh earth to toil, which activated the dormant seedlings. Over the course of a few months the thornslingers grew across Lowdner, in their corn fields and along the stone walls of farm houses. With the plants replenishing their numbers faster than the farmers could remove them, Lowdner gradually fell apart.
+A thornslinger growing in the northwestern fringe of the Vast Swamp near Ghars, Cormyr, was a local hazard in the mid–14 century DR. Guided by Darvik, Captain Flim, a pair of Purple Dragons, Jasper (servant), and Lindavar walked quietly by it on the way to Fastreds tomb on Eleint 18, the . On the way back with Grodoveths body, one of the soldiers slipped and swore, loud enough to trigger the thornslinger, but the body received the thorn instead and he escaped. Darvik warned them to remove the thorn before the body dissolved. On Eleint 20, Benelaius and Jasper passed it again, and later used it to destroy the skeleton of Fastred pursuing them.

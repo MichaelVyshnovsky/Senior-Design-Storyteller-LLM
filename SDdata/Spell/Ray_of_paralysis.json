@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Ray of Paralysis",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Necromancy]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|3}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Ray of paralysis''''' was a [[necromancy]] [[spell]] that materialized a narrow beam of energy that caused ''[[paralyze|paralysis]]'' within a single target creature or person.",
-        "Effects": "The ray emanated from the caster, appearing as a green beam of light the width of an [[arrow]] shaft that shot forth in a straight path towards the spell's target. If the target dodged the ''ray of paralysis'',",
-        "Casting": "The casting of this spell required [[verbal]] and [[somatic component]]s.",
-        "History": "This spell was known to be used by wizards of the [[Cult of the Dragon]]."
+        "mainbody": "Ray of paralysis was a necromancy spell that materialized a narrow beam of energy that caused paralysis within a single target creature or person.\nThe ray emanated from the caster, appearing as a green beam of light the width of an arrow shaft that shot forth in a straight path towards the spells target. If the target dodged the ray of paralysis,\nThe casting of this spell required verbal and somatic components.\nThis spell was known to be used by wizards of the Cult of the Dragon."
     }
 }

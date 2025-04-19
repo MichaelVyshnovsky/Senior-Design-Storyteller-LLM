@@ -1,19 +1,5 @@
 {
     "document_data": {
-        "image": "AmuletSpellWarding.png",
-        "caption": "",
-        "name": "''Amulet of Spell Warding''",
-        "othernames": "''Amulet of Spell Protection''",
-        "nicknames": "",
-        "type": "[[Magic]]al [[amulet]]",
-        "location": "[[Faerûn]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "1800 [[gp]]",
-        "weight2e": "{{SI|3|lb|k}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -35,8 +21,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "An '''''amulet of spell warding''''' was a type of [[Item enchantment|enchanted]] [[amulet]] that protected the wearer from [[magic]]al [[spell]]s and spell-like abilities. They were favored among [[mage]]s who planned on participating in mage duels.",
-        "Powers": "These amulets offered an individual significant protection from magic, in all of its forms. Fortunately for [[spellcaster]]s, they did not interfere with how they practiced [[the Art]], or in the case of [[priest]]s, how they accessed [[the Power]].",
-        "Notable Owners": "*[[Kryll]]: an evil [[necromancer]] who plagued areat to the east from [[Nashkel]] mines in [[1368 DR]].\n*[[Xithiss]]: a [[mind flayer]] trader under [[Baeloth Barrityl]]'s control from the [[Black Pits]] of [[Underdark]]."
+        "mainbody": "An amulet of spell warding was a type of enchanted amulet that protected the wearer from magical spells and spell-like abilities. They were favored among mages who planned on participating in mage duels.\nThese amulets offered an individual significant protection from magic, in all of its forms. Fortunately for spellcasters, they did not interfere with how they practiced the Art, or in the case of priests, how they accessed the Power.\n*Kryll an evil necromancer who plagued areat to the east from Nashkel mines in 1368 DR.\n*Xithiss a mind flayer trader under Baeloth Barrityls control from the Black Pits of Underdark."
     }
 }

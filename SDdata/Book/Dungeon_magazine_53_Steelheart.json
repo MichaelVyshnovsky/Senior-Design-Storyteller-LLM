@@ -1,65 +1,11 @@
 {
-    "template_data": {
-        "title": "Items",
-        "index": "{{P",
-        "title_1": "Potions",
-        "index_1": "{{P",
-        "title_2": "Spells",
-        "index_2": "{{P",
-        "title_3": "Others",
-        "index_3": "{{P"
-    },
     "document_data": {
-        "image": "Dungeon_magazine_53.jpg",
-        "caption": "",
-        "title": "Others",
-        "author": "[[Paul Culotta]]",
-        "inter_artist": "[[David Kooharian]]",
-        "cartography": "",
-        "included_in": "[[Dungeon magazine 53|''Dungeon'' #53]]",
-        "editor": "[[Wolfgang Baur]]",
-        "publisher": "[[Wizards of the Coast]]",
-        "released": "May 1995",
-        "type": "Adventure",
-        "pages": "54&ndash;71",
-        "reprinted": "",
-        "realm year": "Mid-summer {{Yearlink|1369}}\"Steelheart\" references the recent destruction of [[Zhentil Keep]] (p. 55), which took place at the end of {{Yearlink|1368}} (''[[Ruins of Zhentil Keep]]'', p. 76). Since the adventure is said to take place mid-summer (p. 58), it is fairly clear the adventure is set in {{Yearlink|1369}}. The adventure contains a dating error, claiming Steelheart's parents fought in the [[Bloodstone Wars]] in {{Yearlink|1347}}, prior to her being hatched. At the same time, Steelheart is stated to be 27 years old. This would date the adventure to {{Yearlink|1374}}, which in turn would render a lot of the references to current events anachronistic, such as the repeated references to the [[Zhentarim]]'s allegiance to [[Cyric]]&mdash;the Cyricist faction was purged in {{Yearlink|1370}} (''[[Cloak & Dagger]]'', p. 16). This wiki chalks this discrepancy up to a mistake by the author.",
         "setting": "",
         "game_edition": "2",
         "series": "",
         "preceded_by": "",
         "followed_by": "",
-        "index": "{{P|[[holy symbol]]|66}}",
-        "ref": "{{P|''[[ESP]]''|67}};{{P|''[[invisibility]]''|70}};{{P|''[[lightning bolt]]''|62}};{{P|''[[message]]''|70}};{{P|''[[phantasmal force]]''|70}}",
-        "mainbody": "===Organizations===\n:{{P|[[Cult of the Dragon]]|55-56,58-71}} • {{P|[[Ring-nose]]|57,59,65}} • {{P|[[Zhentarim]]|55-56,58,62,65-71}}\n:;{{Refonly}}\n::{{P|[[Harpers]]|55}}\n\n===Religions===\n:{{P|[[Cyric]]|55,58,66,70}} • {{P|[[Mielikki]]|57}}\n:;{{Refonly}}\n::{{P|[[Tempus]]|63}} • {{P|[[Tiamat]]|70}}\n\n===Miscellaneous===\n;Armor & Clothing: {{P|[[belt]]|56}} • {{P|[[leather armor]]|57}} • {{P|[[plate mail]]|66}} • {{P|[[robe]]|56,66}} • {{P|[[scale mail]]|64,67}}\n;Art & Literature: {{P|[[tattoo]]|67}}\n;Classes: {{P|[[cleric]]|55,62,66,70}} • {{P|[[druid]]|57,59}} • {{P|[[shaman]]|60}} • {{P|[[wizard]]|55-56,58-59,64,70}}\n;Food & Drinks: {{P|[[bread]]|56}} • {{P|[[coffee]]|56}} • {{P|[[goose]]|56}} • {{P|[[plum pudding]]|56}} • {{P|[[potato]]|56}} • {{P|[[wine]]|56}}\n;Items: {{P|[[backpack]]|65,67}} • {{P|[[manacles]]|59}} • {{P|[[map]]|61}} • {{P|[[scroll tube|map tube]]|61}} • {{P|[[mug]]|56}} • {{P|[[quill]]|65}} • {{P|[[quiver]]|67}} • {{P|[[signal whistle]]|64,69}} • {{P|[[spellbook]]|64-65,67}}\n;Materials: {{P|[[brass]]|66}} • {{P|[[lead]]|57}} • {{P|[[linen]]|58}} • {{P|[[platinum]]|66}} • {{P|[[silver]]|59,66}} • {{P|[[steel]]|67}}\n;Substances: {{P|[[ink]]|65}} • {{P|[[quicksand]]|57-58}}\n;Vegetation: {{P|[[fungi]]|60}}\n;Vessels: {{P|[[galley]]|70}} • {{P|[[longboat]]|70}}\n;Weapons: {{P|[[arrow]]|58-59,63}} ({{P|[[flight arrow]]|67}} • {{P|[[sheaf arrow]]|63-65,67,69}}) • {{P|[[ballista]]|66,70}} • {{P|[[bullet]]|57}} • {{P|[[catapult]]|70}} • {{P|[[club]]|59,65}} • {{P|[[cutlass]]|66}} • {{P|[[dagger]]|56,58-59,63-64,66-67,69}} • {{P|[[khopesh]]|67}} • {{P|[[lance]]|59}} • {{P|[[longbow]]|65-66}} • {{P|[[long sword]]|60,61,63-64,66-67,69}} • {{P|[[pike (weapon)|pike]]|57,59-60}} • {{P|[[scimitar]]|57}} • {{P|[[short bow]]|57,59-60,64,67,69}} • {{P|[[short sword]]|57-58,60}} • {{P|[[sling]]|57}} • {{P|[[spear]]|59,66}}\n:;{{Refonly}}\n::{{P|[[battering ram]]|58}} • {{P|[[Bloodstone Wars]]|55}}",
-        "Synopsis": "{{Sectstub}}",
-        "Index": {
-            "Characters": ":{{P|[[Argrath]]|64}} • {{P|[[Briemulk]]|66}} • {{P|[[Cyricson Moltar]]|66}} • {{P|[[Evelyn Doeskin]]|57}} • {{P|[[Flameshoot]]|59-65,68}} • {{P|[[Forge (steel dragon)|Forge]] (Jarl Brekstel)|55-56,61-62,67-68}} • {{P|[[Frostnax]]|61}} • {{P|[[Glimmerfang]] (Ingrid Brekstel)|55-56,60-62,67-68}} • {{P|[[Glurgle]]|67}} • {{P|[[Grognar]]|61}} • {{P|[[Malunko Segrerd]]|59-60}} • {{P|[[Marlaxit-Tharg]]|59,64-65,68-69}} • {{P|[[Melithua]]|66}} • {{P|[[Menzel]]|56,58,69}} • [[Mristin]] • {{P|[[Probolar]]|67}} • {{P|[[Sarahla]]|64}} • {{P|[[Smolitung]]|66}} • {{P|[[Snizzler]]|63,65,67}} • {{P|[[Snunkweed]]|67}} • {{P|[[Razylymingeir|Steelheart]] (Katelyn Brekstel)|54-59,61-64,68-71}} • {{P|[[Tartas]]|59}} • {{P|[[Thusk Tharmuil]]|56,58-59,69,71}} • {{P|[[Unguentane Fierolo]]|67}} • {{P|[[Wyndfire]]|63,65,67}} • {{P|[[Zzygarn]]|59-60}}\n:;{{Refonly}}\n::{{P|[[Elminster]]|71}} • {{P|[[Zhengyi]]|55,57}}",
-            "Creatures": ":{{P|[[aerial servant]]|66}} • {{P|[[behir]]|57}} • {{P|[[black dragon]]|56,59-60,65,67-68,70}} • {{P|[[boar]]|57}} • {{P|[[cat]]|56}} • {{P|[[crow]]|60}} • {{P|[[dire wolf]]|54,57}} • {{P|[[dwarf]]|57}} • {{P|[[ghast]]|61}} • {{P|[[giant boring beetle]]|61}} • {{P|[[giant leech]]|57}} • {{P|[[giant rat]]|62}} • {{P|[[giant sundew]]|57}} • {{P|[[giant tick]]|57}} • {{P|[[giant wasp]]|57}} • {{P|[[green dragon]]|56,70}} • {{P|[[hairy spider]]|62}} • [[half-elf]] • {{P|[[half-orc]]|59-60,65}} • [[human]] • {{P|[[mosquito]]|57,59}} • {{P|[[ogre]]|55-59,65,67}} • {{P|[[orc]]|55,57-60,64-65,68}} • {{P|[[red dragon]]|55-56,59-63,66-68,70}} • {{P|[[snake]]|57}} • {{P|[[steel dragon]]|55,58,61-62,67,69,71}} • {{P|[[swamp deer]]|57}} • {{P|[[troll]]|57,62,64,68}} • {{P|[[vulture]]|60}} • {{P|[[white dragon]]|56,60-61}} • {{P|[[wight]]|57}}\n:;{{Refonly}}\n::{{P|[[dracolich]]|55}} • {{P|[[drow]]|71}} • {{P|[[mouse]]|54,56}} • {{P|[[tiger]]|68}}",
-            "Locations": {
-                "Bodies of Water": "{{P|[[Moonsea (lake)|Moonsea]]|55,69-70}}",
-                "Buildings & Sites": "{{P|[[Castle Perilous]]|55,65,71}} • {{P|[[Swamphouse Inn]]|63-64}}",
-                "Countries": "{{P|[[Thar]]|55-56,59,62,65-67,70}} • {{P|[[Vaasa]]|55,57-59,62}}",
-                "Mountains": "{{P|[[Galena Mountains]]|56,59}}",
-                "Regions": "{{P|[[Cold Lands]]|55}}",
-                "Roads": "{{P|[[Dead Man's Walk]]|58-59,61}}",
-                "Settlements": "{{P|[[Darmshall]]|55-56,58,71}} • {{P|[[Glister]]|56,58,68-69,71}} • {{P|[[Moortown]]|55-56,59-64,68-69}} • {{P|[[Sulasspryn]]|55,65-66,69-71}}\n:;{{Refonly}}\n::{{P|[[Abyss]]|70}} • {{P|[[Bloodstone Mines]]|62}} • {{P|[[Mulmaster]]|64}} • {{P|[[Polischuck]]|55}} • {{P|[[Zhentil Keep]]|55,66-67}}"
-            },
-            "Magic": "{{Index\n|title = Items\n|index = {{P|''[[bracers of defense]]''|67}};{{P|''[[carpet of flying]]''|65,68-69}};{{P|''[[deathkiss|deathkiss mace]]''|66}};{{P|''[[Keoghtom's ointment]]''|63}};{{P|''[[luck blade]]''|61}};{{P|''[[ring of dragons]]''|67,70}};{{P|''[[ring of infravision]]''|61}};{{P|''[[ring of protection]]''|65,67}};{{P|''[[rod of resurrection]]''|63}};{{P|[[cure critical wounds|''scroll of cure critical wounds'']]|63}};{{P|''[[cure disease|scroll of cure disease]]''|63}};{{P|[[rope trick|''scroll of rope trick'']]|65}};{{P|''[[wand of fire]]''|67}};{{P|''[[wand of flame extinguishing]]''|66}};{{P|''[[wand of magic missiles]]''|57}}\n|ref = {{P|''[[crystal ball]]''|56}}\n}}\n{{Index\n|title = Potions\n|index = {{P|''[[potion of extra-healing]]''|71}};{{P|''[[potion of healing]]''|58,61-63,71}}\n}}\n{{Index\n|title = Spells\n|index = {{P|''[[affect normal fires]]''|63,67}};{{P|''[[audible glamer]]''|65}};{{P|''[[barkskin]]''|57,66}};{{P|''[[Bigby's interposing hand]]''|67}};{{P|''[[blade barrier]]''|66}};{{P|''[[bless]]''|66}};{{P|''[[blindness]]''|67}};{{P|''[[burning hands]]''|67}};{{P|''[[cause blindness]]''|66}};{{P|''[[charm person]]''|60,63,67}};{{P|''[[charm person or mammal]]''|57,66}};{{P|''[[chill metal]]''|66}};''[[cloudkill]]'';{{P|''[[color spray]]''|67}};{{P|''[[control temperature, 10' radius]]''|66}};{{P|''[[cure light wounds]]''|57}};{{P|''[[cure serious wounds]]''|66}};{{P|''[[darkness]]''|60}};''[[detect good]]'';{{P|''[[detect magic]]''|61,66}};{{P|''[[dispel magic]]''|66}};{{P|''[[dust devil]]''|66}};{{P|''[[entangle]]''|57}};{{P|''[[faerie fire]]''|57,66}};{{P|''[[featherfall]]''|64-65}};{{P|''[[fireball]]''|62,67}};{{P|''[[fire shield]]''|67}};{{P|''[[flame blade]]''|66}};{{P|''[[flaming sphere]]''|65,67}};{{P|''[[goodberry]]''|57}};{{P|''[[heat metal]]''|63,67}};{{P|''[[hold person]]''|67}};{{P|''[[hypnotism]]''|63,65}};{{P|''[[invisibility to animals]]''|57}};{{P|''[[levitate]]''|65}};{{P|''[[light]]''|66}};{{P|''[[locate object]]''|67}};{{P|''[[magic missile]]''|64-65,67}};{{P|''[[magical vestment]]''|66}};{{P|''[[massmorph]]''|67}};{{P|''[[minor globe of invulnerability]]''|67}};{{P|''[[mirror image]]''|65,67}};{{P|''[[misdirection]]''|65}};{{P|''[[monster summoning III]]''|67}};{{P|''[[monster summoning IV]]''|67}};{{P|''[[polymorph self]]''|58}};{{P|''[[prismatic spray]]''|67}};{{P|''[[protection from evil]]''|66}};{{P|''[[protection from fire]]''|66}};{{P|''[[protection from good]]''|67}};{{P|''[[protection from lightning]]''|66}};{{P|''[[protection from normal missiles]]''|67}};{{P|''[[pyrotechnics]]''|63,67}};{{P|''[[quest]]''|66}};{{P|''[[rainbow]]''|66}};{{P|''[[shocking grasp]]''|65}};{{P|''[[shout]]''|62,67}};{{P|''[[silence, 15' radius]]''|59-60,66}};{{P|''[[sleep]]''|67}};{{P|''[[speak with animals]]''|57}};{{P|''[[stinking cloud]]''|64-65,70}};{{P|''[[summon insects]]''|57}};{{P|''[[telekinesis]]''|67}};{{P|''[[Tenser's transformation]]''|67}};{{P|''[[ventriloquism]]''|65,70}};{{P|''[[wall of fire]]''|67}};{{P|''[[web]]''|63,67}};{{P|''[[wish]]''|61}}\n|ref = {{P|''[[ESP]]''|67}};{{P|''[[invisibility]]''|70}};{{P|''[[lightning bolt]]''|62}};{{P|''[[message]]''|70}};{{P|''[[phantasmal force]]''|70}}\n}}\n{{Index\n|title = Others\n|index = {{P|[[holy symbol]]|66}}\n}}",
-            "Organizations": ":{{P|[[Cult of the Dragon]]|55-56,58-71}} • {{P|[[Ring-nose]]|57,59,65}} • {{P|[[Zhentarim]]|55-56,58,62,65-71}}\n:;{{Refonly}}\n::{{P|[[Harpers]]|55}}",
-            "Religions": ":{{P|[[Cyric]]|55,58,66,70}} • {{P|[[Mielikki]]|57}}\n:;{{Refonly}}\n::{{P|[[Tempus]]|63}} • {{P|[[Tiamat]]|70}}",
-            "Miscellaneous": {
-                "Armor & Clothing": "{{P|[[belt]]|56}} • {{P|[[leather armor]]|57}} • {{P|[[plate mail]]|66}} • {{P|[[robe]]|56,66}} • {{P|[[scale mail]]|64,67}}",
-                "Art & Literature": "{{P|[[tattoo]]|67}}",
-                "Classes": "{{P|[[cleric]]|55,62,66,70}} • {{P|[[druid]]|57,59}} • {{P|[[shaman]]|60}} • {{P|[[wizard]]|55-56,58-59,64,70}}",
-                "Food & Drinks": "{{P|[[bread]]|56}} • {{P|[[coffee]]|56}} • {{P|[[goose]]|56}} • {{P|[[plum pudding]]|56}} • {{P|[[potato]]|56}} • {{P|[[wine]]|56}}",
-                "Items": "{{P|[[backpack]]|65,67}} • {{P|[[manacles]]|59}} • {{P|[[map]]|61}} • {{P|[[scroll tube|map tube]]|61}} • {{P|[[mug]]|56}} • {{P|[[quill]]|65}} • {{P|[[quiver]]|67}} • {{P|[[signal whistle]]|64,69}} • {{P|[[spellbook]]|64-65,67}}",
-                "Materials": "{{P|[[brass]]|66}} • {{P|[[lead]]|57}} • {{P|[[linen]]|58}} • {{P|[[platinum]]|66}} • {{P|[[silver]]|59,66}} • {{P|[[steel]]|67}}",
-                "Substances": "{{P|[[ink]]|65}} • {{P|[[quicksand]]|57-58}}",
-                "Vegetation": "{{P|[[fungi]]|60}}",
-                "Vessels": "{{P|[[galley]]|70}} • {{P|[[longboat]]|70}}",
-                "Weapons": "{{P|[[arrow]]|58-59,63}} ({{P|[[flight arrow]]|67}} • {{P|[[sheaf arrow]]|63-65,67,69}}) • {{P|[[ballista]]|66,70}} • {{P|[[bullet]]|57}} • {{P|[[catapult]]|70}} • {{P|[[club]]|59,65}} • {{P|[[cutlass]]|66}} • {{P|[[dagger]]|56,58-59,63-64,66-67,69}} • {{P|[[khopesh]]|67}} • {{P|[[lance]]|59}} • {{P|[[longbow]]|65-66}} • {{P|[[long sword]]|60,61,63-64,66-67,69}} • {{P|[[pike (weapon)|pike]]|57,59-60}} • {{P|[[scimitar]]|57}} • {{P|[[short bow]]|57,59-60,64,67,69}} • {{P|[[short sword]]|57-58,60}} • {{P|[[sling]]|57}} • {{P|[[spear]]|59,66}}\n:;{{Refonly}}\n::{{P|[[battering ram]]|58}} • {{P|[[Bloodstone Wars]]|55}}"
-            }
-        }
+        "ref": "",
+        "mainbody": "•  • \n • \n • \nArmor & Clothing  •  •  •  • \nArt & Literature \nClasses  •  •  • \nFood & Drinks  •  •  •  •  • \nItems  •  •  •  •  •  •  •  • \nMaterials  •  •  •  •  • \nSubstances  • \nVegetation \nVessels  • \nWeapons  ( • ) •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  • \n •"
     }
 }

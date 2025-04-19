@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Watery Form",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "",
-        "level2e": "{{Spell table|edition=2e|[[Wizard]]|3}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -37,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Watery form''''' was an [[arcane]] [[alteration]] spell that transformed the caster and anything being worn into a quantity of water.",
-        "Effects": "For 50 minutes (or longer, for higher level casters), the caster of ''watery form'' became essentially a sentient, mobile, puddle of water. While in this form, the caster could see, hear, breathe, and move at his or her normal speed, either on land, on a ship, or in water. Movement included climbing or swimming to any depth, but all strenuous movement was just as physically taxing in this form as in the caster's normal form. The caster also had the same strength as normal. The caster's \"body\" could not be absorbed by a sponge or separated into smaller quantities of water, but weapons and magic could injure or effect the caster normally.\n\nFor the duration of this spell, ''watery form'' provided camouflage that was undetectable by normal means in a body of water or in places where water was expected, such as wet spots on the deck of a ship, but climbing a [[rope]] was likely to draw attention.",
-        "Components": "Only verbal and somatic components were required to cast this spell.",
-        "History": "This spell was associated with the pirates roaming the [[Sea of Fallen Stars]]."
+        "mainbody": "Watery form was an arcane alteration spell that transformed the caster and anything being worn into a quantity of water.\nFor 50 minutes (or longer, for higher level casters), the caster of watery form became essentially a sentient, mobile, puddle of water. While in this form, the caster could see, hear, breathe, and move at his or her normal speed, either on land, on a ship, or in water. Movement included climbing or swimming to any depth, but all strenuous movement was just as physically taxing in this form as in the casters normal form. The caster also had the same strength as normal. The casters \"body\" could not be absorbed by a sponge or separated into smaller quantities of water, but weapons and magic could injure or effect the caster normally.\nFor the duration of this spell, watery form provided camouflage that was undetectable by normal means in a body of water or in places where water was expected, such as wet spots on the deck of a ship, but climbing a rope was likely to draw attention.\nOnly verbal and somatic components were required to cast this spell.\nThis spell was associated with the pirates roaming the Sea of Fallen Stars."
     }
 }

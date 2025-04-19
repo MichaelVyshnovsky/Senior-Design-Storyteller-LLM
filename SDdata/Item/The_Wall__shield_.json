@@ -1,22 +1,5 @@
 {
-    "template_data": {
-        "45|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Shield of dawn.gif",
-        "caption": "",
-        "name": "The Wall",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Tower shield]]",
-        "location": "[[Thar]], [[north Faerûn]]<br/>[[Luskan]], [[Sword Coast North]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "+5",
-        "value2e": "",
-        "weight2e": "{{SI|45|lb|k|long=yes}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -38,8 +21,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''''The Wall''''' was the holy relic of [[Helm]] and, arguably, one of the most powerful [[enchanted]] [[tower shield]]s in the Realms.",
-        "Powers": "This shield possessed a powerful ''+5'' enchantment and made its wielder immune to acid, cold, electricity, and fire.",
-        "History": "''The Wall'' once belonged to the great hero [[Karius]] of [[Luskan]]. He, according to legends, stood alone, unmoving in the face of an invading army of [[orc]]s. Karius and his tower shield stood in the beach of the city's northern wall as the invaders were trying o trike him down. Other legends told stories of valiant heroes standing against [[dragon]]s while being defended by ''the Wall.''\n\nIn [[1373 DR]], ''the Wall'' was in possession of the [[Zhentarim]] squad stationed in [[Iyrauroth]]'s swamp in [[Thar]]."
+        "mainbody": "The Wall was the holy relic of Helm and, arguably, one of the most powerful enchanted tower shields in the Realms.\nThis shield possessed a powerful +5 enchantment and made its wielder immune to acid, cold, electricity, and fire.\nThe Wall once belonged to the great hero Karius of Luskan. He, according to legends, stood alone, unmoving in the face of an invading army of orcs. Karius and his tower shield stood in the beach of the citys northern wall as the invaders were trying o trike him down. Other legends told stories of valiant heroes standing against dragons while being defended by the Wall.\nIn 1373 DR, the Wall was in possession of the Zhentarim squad stationed in Iyrauroths swamp in Thar."
     }
 }

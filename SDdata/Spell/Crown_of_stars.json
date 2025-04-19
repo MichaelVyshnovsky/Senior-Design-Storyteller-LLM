@@ -1,27 +1,10 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "edition_1": "4e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Crown of Stars",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Evocation]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "level5e": "{{Spell table|edition=5e|[[Sorcerer]]|7|[[Warlock]]|7|[[Wizard]]|7}}",
         "type5e": "",
         "refs5e": "",
         "feature4e": "",
-        "keywords4e": "{{desc/arcane}}{{desc/implement}}{{desc/radiant}}",
-        "level4e": "{{spell table|edition=4e|[[Warlock]]|1}}",
+        "keywords4e": "",
+        "level4e": "",
         "type4e": "Daily",
         "category4e": "",
         "skill4e": "",
@@ -43,7 +26,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Crown of stars''''' is a [[spell]] used most frequently by [[warlock]]s of the [[Warlock#Star Pact Warlock|star pact]], though other warlocks may learn its power. ''Crown of stars'', when cast, [[conjuration|conjures]] a circle of small, star-like orbs that circle the head of the caster. At the warlock's command, the glowing spheres fire a beam of burning, radiant energy powered largely by the warlock's charisma at a target within fifty feet or, with a little more concentration on the warlock's part, two targets. If one of the creatures is badly injured it is even possible that the attack may momentarily blind them. After this moment, however, the ''crown of stars'' fades away and cannot be regained for at least another day.",
-        "Components": "The spell required [[Verbal component|verbal]] and [[Somatic component|somatic]] components."
+        "mainbody": "Crown of stars is a spell used most frequently by warlocks of the star pact, though other warlocks may learn its power. Crown of stars, when cast, conjures a circle of small, star-like orbs that circle the head of the caster. At the warlocks command, the glowing spheres fire a beam of burning, radiant energy powered largely by the warlocks charisma at a target within fifty feet or, with a little more concentration on the warlocks part, two targets. If one of the creatures is badly injured it is even possible that the attack may momentarily blind them. After this moment, however, the crown of stars fades away and cannot be regained for at least another day.\nThe spell required verbal and somatic components."
     }
 }

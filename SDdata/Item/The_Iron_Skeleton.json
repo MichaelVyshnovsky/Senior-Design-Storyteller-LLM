@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "50|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "The Iron Skeleton.png",
-        "caption": "",
-        "name": "''The Iron Skeleton''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Plate mail]]",
-        "location": "[[Undermountain]], [[Underdark]]<br/>[[Mulmaster]], [[Moonsea]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+6",
-        "value3e": "",
-        "weight3e": "{{SI|50|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''The Iron Skeleton''''' was a powerful unique [[enchanted]] set of [[plate armor]].",
-        "Description": "This heavy armor of silver and black looked eerily unsettling to most. The armor slithered over the body and reshaped itself into a unique-looking new set of plates for each wearer. It protected the wearer from darkness and helped them to meld into shadows.",
-        "Powers": "This set of heavy armor carried a powerful ''+6'' enchantment, granted the wearer the boon of ''[[darkvision]]'' and made them immune to all effect of ''[[illusion]]'' magic. Additionally, ''the Iron Skeleton'' increased the wearer's dexterity and nimbleness.",
-        "History": "In was unknown who was the mad smith who created this set of armor after being possessed by some darkness. By the late 14{{th}} century [[DR]], ''the Iron Skeleton'' cropped up several times throughout history, including in the dreaded depths of the [[Underdark]] and in the city of [[Mulmaster]] during the [[Order of the Crippled Fang]] crisis of [[1373 DR]]."
+        "mainbody": "The Iron Skeleton was a powerful unique enchanted set of plate armor.\nThis heavy armor of silver and black looked eerily unsettling to most. The armor slithered over the body and reshaped itself into a unique-looking new set of plates for each wearer. It protected the wearer from darkness and helped them to meld into shadows.\nThis set of heavy armor carried a powerful +6 enchantment, granted the wearer the boon of darkvision and made them immune to all effect of illusion magic. Additionally, the Iron Skeleton increased the wearers dexterity and nimbleness.\nIn was unknown who was the mad smith who created this set of armor after being possessed by some darkness. By the late 14 century DR, the Iron Skeleton cropped up several times throughout history, including in the dreaded depths of the Underdark and in the city of Mulmaster during the Order of the Crippled Fang crisis of 1373 DR."
     }
 }

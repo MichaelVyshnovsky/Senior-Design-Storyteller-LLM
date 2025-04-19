@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "Dazzle-2e.png",
-        "caption": "",
-        "name": "Dazzle",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|2}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,7 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "{{Otheruses4|the spell|the creature|al-jahar}}\n'''''Dazzle''''' was an [[evocation]] [[spell]] that created a blinding burst of light to appear in front of the caster. It was a common spell among the  [[Red Wizards of Thay]] but rare outside of [[Thay]].<ref>",
-        "Effects": "Any creature caught within the 12' (3.7 m) area of effect created by this spell was partially blinded for a matter of moments. As a result, they were less capable in combat and had difficulty performing skilled tasks. Those who could shake off the spell's effects overcame the blindness much more rapidly."
+        "mainbody": "Dazzle was an evocation spell that created a blinding burst of light to appear in front of the caster. It was a common spell among the  Red Wizards of Thay but rare outside of Thay.\nAny creature caught within the 12 (3.7 m) area of effect created by this spell was partially blinded for a matter of moments. As a result, they were less capable in combat and had difficulty performing skilled tasks. Those who could shake off the spells effects overcame the blindness much more rapidly."
     }
 }

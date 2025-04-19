@@ -1,25 +1,3 @@
-{{Creature
-| image        = 
-| caption      = 
-| name         = Porpoise
-| othernames   = 
-| size5e       = 
-| type5e       = 
-| subtype5e    = 
-| alignment5e  = 
-| challenge5e  = 
-| refs5e       = 
-| size4e       = 
-| origin4e     = 
-| type4e       = 
-| subtype4e    = 
-| alignment4e  = 
-| refs4e       = 
-| size3e       = Medium
-| type3e       = [[Animal]]
-| subtype3e    = [[Aquatic]]
-| alignment3e  = 
-| challenge3e  = {{Frac|1|2}}
 | refs3e       = 
 | size2e       = 
 | alignment2e  = 
@@ -29,7 +7,7 @@
 | refs1e       = 
 | patron deity = 
 | movement     = 
-| vision       = [[Blindsight]]
+| vision       = Blindsight
 | activecycle  = 
 | diet         = 
 | lifespan     = 
@@ -40,9 +18,9 @@
 | terrain      = Aquatic
 | genrefs      = 
 | height       = 
-| length       = {{SIrange|4|6|ft}}
+| length       = 
 | wingspan     = 
-| weight       = {{SIrange|110|160|lb|k}}
+| weight       = 
 | skincolor    = 
 | haircolor    = 
 | hairstyles   = 
@@ -54,21 +32,9 @@
 | first        = 
 | based        = 
 | histrefs     = 
-}}
-'''Porpoises''' were a species of aquatic mammal.
-
-==Description==
-The length of a porpoise ranged from {{SIrange|4|6|ft|long=yes}} and they usually weighed between {{SIrange|110|160|lb|k|long=yes}}.
-
-==Behavior==
+Porpoises were a species of aquatic mammal.
+The length of a porpoise ranged from  and they usually weighed between .
 Porpoises were known for being friendly and playful. They were also helpful.
-
-==Abilities==
-Porpoises were capable of holding their breath for a significant amount of time. Porpoises used sonar to see, using high-pitched sound waves that many creatures could not detect to see objects and other creatures to a distance of {{SI|120|ft|long=yes}}.
-
-==Habitat==
+Porpoises were capable of holding their breath for a significant amount of time. Porpoises used sonar to see, using high-pitched sound waves that many creatures could not detect to see objects and other creatures to a distance of .
 Porpoises were found in temperate climates and warm oceans.
-
-==Uses==
-Porpoises were a common companion animal to [[druid]]s and [[ranger]]s who lived in aquatic environments.
-
+Porpoises were a common companion animal to druids and rangers who lived in aquatic environments.

@@ -1,42 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Fireward",
-        "deity": "[[Silvanus]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Abjuration]]",
-        "spheres2e": "[[Elemental fire sphere|Elemental fire]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|5}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -44,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Fireward''''' was a [[Divine magic|divine]] [[abjuration]] [[spell]] used by priests devoted to [[Silvanus]], enabling them to render an area fireproof.",
-        "Effects": "This spell allowed the caster to render a spherical area fireproof while also extinguishing any current fires. The magic worked by consuming fires as soon as they started. The sphere was centered on the caster but remained stationary once cast. A ''fireward'' protected against all kinds of normal and magical fire including the breath of a [[red dragon]]. The sphere also prevented smoke from entering within.",
-        "Components": "In addition to [[verbal]] and [[somatic component]]s, this spell required as [[material component]]s a pinch of [[sand]] and drop of water to cast."
+        "mainbody": "Fireward was a divine abjuration spell used by priests devoted to Silvanus, enabling them to render an area fireproof.\nThis spell allowed the caster to render a spherical area fireproof while also extinguishing any current fires. The magic worked by consuming fires as soon as they started. The sphere was centered on the caster but remained stationary once cast. A fireward protected against all kinds of normal and magical fire including the breath of a red dragon. The sphere also prevented smoke from entering within.\nIn addition to verbal and somatic components, this spell required as material components a pinch of sand and drop of water to cast."
     }
 }

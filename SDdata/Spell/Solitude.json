@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "10|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Solitude",
-        "deity": "[[Fenmarel Mestarine]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "reversible2e": "",
-        "school2e": "[[Enchantment]]",
-        "spheres2e": "[[Wards sphere|Wards]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|4}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -37,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Solitude''''' was a [[spell]] used by [[cleric]]s of [[Fenmarel Mestarine]].",
-        "Effects": "This spell was used by casters to create a zone of solitude. While within this zone, which had a radius of {{SI|10|ft|long=yes}}, the chances the caster was disturbed by a non-sentient creature was significantly reduced. This zone increased in size as the caster's skill level increased. If the caster left the perimeter, the spell expired. The spell also ended if a sentient creature entered the zone of solitude.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required a [[material component]]: a handful of soil that was sprinkled to mark the perimeter of the spell's area of effect."
+        "mainbody": "Solitude was a spell used by clerics of Fenmarel Mestarine.\nThis spell was used by casters to create a zone of solitude. While within this zone, which had a radius of , the chances the caster was disturbed by a non-sentient creature was significantly reduced. This zone increased in size as the casters skill level increased. If the caster left the perimeter, the spell expired. The spell also ended if a sentient creature entered the zone of solitude.\nIn addition to verbal and somatic components, this spell required a material component a handful of soil that was sprinkled to mark the perimeter of the spells area of effect."
     }
 }

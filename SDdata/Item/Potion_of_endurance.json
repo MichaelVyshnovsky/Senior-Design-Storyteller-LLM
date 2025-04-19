@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "0.1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "[[File:Potion of endurance.gif]]",
-        "caption": "",
-        "name": "''Potion of Endurance''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Potion]]",
-        "creator": "",
-        "location": "[[Neverwinter]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|0.1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Potion of endurance''''' were magic concoctions that increased the drinker's stamina.",
-        "Powers": "''Potion of endurance'' could be created with a variety of different recipes but all of them had the same effect when consumed. The [[potion]] enhanced the imbiber's stamina and overall health but it possessed no healing magic.",
-        "History": "''Potion of endurance'' were widely available for purchase from traders and [[wizard]]s of the [[Sword Coast]] in the 14{{th}} century [[DR]].\n\n''Circa'' [[1373 DR]], ''potions of endurance'' were a part [[Zhentil Keep]] garrison's standard equipment and could be found in the satchels of simple guardsmen, cavalry, and skymages. During the same period of time ''potions of endurance'' could be found in the wizard stronghold of [[Telkoun's Tower]]."
+        "mainbody": "Potion of endurance were magic concoctions that increased the drinkers stamina.\nPotion of endurance could be created with a variety of different recipes but all of them had the same effect when consumed. The potion enhanced the imbibers stamina and overall health but it possessed no healing magic.\nPotion of endurance were widely available for purchase from traders and wizards of the Sword Coast in the 14 century DR.\nCirca 1373 DR, potions of endurance were a part Zhentil Keep garrisons standard equipment and could be found in the satchels of simple guardsmen, cavalry, and skymages. During the same period of time potions of endurance could be found in the wizard stronghold of Telkouns Tower."
     }
 }

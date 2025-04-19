@@ -1,25 +1,5 @@
 {
-    "template_data": {
-        "400|ft|long": "yes",
-        "350|ft|long": "yes",
-        "50|ft|long": "yes",
-        "10|ft|long": "yes",
-        "1|mile|k|long": "yes"
-    },
     "document_data": {
-        "image": "Lake Weng Map.png",
-        "caption": "",
-        "name": "Citadel Amnur",
-        "alt spelling": "",
-        "aliases": "Citadel of Amnur, Amnur Citadel",
-        "type": "Fortress",
-        "region": "[[Cloud Peaks]], [[Amn]]",
-        "size": "",
-        "elevation": "",
-        "depth": "",
-        "capital": "",
-        "largest city": "",
-        "georefs": "{{Cite interactive atlas|Amn}}",
         "demonym": "",
         "population": "",
         "races": "",
@@ -43,7 +23,7 @@
         "judiciary": "",
         "allegiances": "",
         "govrefs": "",
-        "established": "[[500 DR]]",
+        "established": "500 DR",
         "start event": "",
         "start date": "",
         "event1": "",
@@ -95,9 +75,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "'''Citadel Amnur''' was a famed fortress in the [[Cloud Peaks]] of [[Amn]] that was paired with the nearby [[Citadel Rashturl]].",
-        "Geography": "Citadel Amnur was deep in the Cloud Peaks north of [[Lake Weng]], near the source of the [[Amnurflow]] river and strategically close to [[The Neck (Cloud Peaks)|the Neck]] pass. Citadel Rashturl lay to the southeast, and [[Scarsiir's Crag]] lay across the valley to the west. The closest settlements were the villages on Lake Weng that included [[Edive]], [[Ideepton]], [[Shatar]], and [[Minsor Vale]].",
-        "Defenses": "The fortress was accessed by a narrow pass blocked by a barbican gatehouse. The walls were {{SI|400|ft|long=yes}} high, with the first {{SI|350|ft|long=yes}} made up of the carved mountainside it sat on, and the walls proper an additional {{SI|50|ft|long=yes}} of masonry set up to {{SI|10|ft|long=yes}} thick with a wide walkway on top for the garrison to use. About 700 [[Council Army]] soldiers and 20 officers were assigned to the fortress, with room for another 1,500 if necessary.",
-        "History": "Citadel Amnur was first built in the year [[500 DR]], and was immediately put into use. The fortress was named after the legendary general Prince [[Amnur Torlath]] who was credited with protecting Amn during the fall of the [[Shoon Imperium]].\n\nCitadels Amnur and Rashturl were rebuilt in identical designs shortly before [[1350 DR]] to head off the threat of [[devil]]s and [[orc]]s from [[Dragonspear Castle]]. Citadel Amnur came under the command of [[Endrick Hardlm]], an inexperienced and indecisive man who caused the morale and discipline of the Citadel to suffer greatly.\n\nIn the autumn of the {{YearlinkName|1369}}, an [[Dragon aging|ancient]] [[red dragon]] who had secretly laired just to the north suddenly attacked the Citadel, though it preferred to toy with the soldiers while waiting for Commander Hardlm to show rather than simply razing the fortress. After the dragon ate a few brave [[crossbow]]men and seven [[horse]]s, Hardlm finally managed to muster the courage to face the dragon, surrendered, and was promptly eaten. Before the red dragon could proceed further, the [[blue dragon]] [[Araugauthos]] arrived and engaged in brief but savage combat. The red wyrm's wings were shredded, it fell into a chasm about {{SI|1|mile|k|long=yes}} away, and was impaled on [[spear]]-like rocks at the base. [[Araugauthos]] returned and introduced herself to the newly-senior Captain [[Arilan Krimmevol]], and interrogated them over twenty days on [[Faerûn]]'s history that she had missed while imprisoned in [[Undermountain]]. To everyone's relief she concluded this without eating anyone, took the treasure from the red wyrm's nearby lair, and departed.\n\nCaptain Krimmevol later explored the lair with his soldiers, and was rewarded with a ''[[portable hole]]'' filled with twelve ''+1 [[shortsword]]s'' and twelve [[dwarf|dwarven]] ''+1 [[shield]]s''. With his new command, Krimmevol set about reforming the troops under his command and turned them into a proper elite fighting force that rivalled that of Citadel Rashturl."
+        "mainbody": "Citadel Amnur was a famed fortress in the Cloud Peaks of Amn that was paired with the nearby Citadel Rashturl.\nCitadel Amnur was deep in the Cloud Peaks north of Lake Weng, near the source of the Amnurflow river and strategically close to the Neck pass. Citadel Rashturl lay to the southeast, and Scarsiirs Crag lay across the valley to the west. The closest settlements were the villages on Lake Weng that included Edive, Ideepton, Shatar, and Minsor Vale.\nThe fortress was accessed by a narrow pass blocked by a barbican gatehouse. The walls were  high, with the first  made up of the carved mountainside it sat on, and the walls proper an additional  of masonry set up to  thick with a wide walkway on top for the garrison to use. About 700 Council Army soldiers and 20 officers were assigned to the fortress, with room for another 1,500 if necessary. \nCitadel Amnur was first built in the year 500 DR, and was immediately put into use. The fortress was named after the legendary general Prince Amnur Torlath who was credited with protecting Amn during the fall of the Shoon Imperium.\nCitadels Amnur and Rashturl were rebuilt in identical designs shortly before 1350 DR to head off the threat of devils and orcs from Dragonspear Castle. Citadel Amnur came under the command of Endrick Hardlm, an inexperienced and indecisive man who caused the morale and discipline of the Citadel to suffer greatly.\nIn the autumn of the , an ancient red dragon who had secretly laired just to the north suddenly attacked the Citadel, though it preferred to toy with the soldiers while waiting for Commander Hardlm to show rather than simply razing the fortress. After the dragon ate a few brave crossbowmen and seven horses, Hardlm finally managed to muster the courage to face the dragon, surrendered, and was promptly eaten. Before the red dragon could proceed further, the blue dragon Araugauthos arrived and engaged in brief but savage combat. The red wyrms wings were shredded, it fell into a chasm about  away, and was impaled on spear-like rocks at the base. Araugauthos returned and introduced herself to the newly-senior Captain Arilan Krimmevol, and interrogated them over twenty days on Faerûns history that she had missed while imprisoned in Undermountain. To everyones relief she concluded this without eating anyone, took the treasure from the red wyrms nearby lair, and departed.\nCaptain Krimmevol later explored the lair with his soldiers, and was rewarded with a portable hole filled with twelve +1 shortswords and twelve dwarven +1 shields. With his new command, Krimmevol set about reforming the troops under his command and turned them into a proper elite fighting force that rivalled that of Citadel Rashturl."
     }
 }

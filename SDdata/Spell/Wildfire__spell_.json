@@ -1,42 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "10|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Wildfire",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Invocation]]<br/>[[Wild magic]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|9}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -44,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Wildfire''''' was a [[wild magic]] [[invocation]] [[spell]] used by [[wild mage]]s.",
-        "Effects": "This powerful spell allowed the caster to channel raw magical energy and shape it as they desired. In some ways it was similar to a ''[[wish]]'' spell.\n\n''Wildfire'' could replicate the effects of all but the most powerful spells provided the caster had a general knowledge of the spell. The desired spell did not need to be one known or memorized by the caster. ''Wildfire'' could also create [[magic item]]s provided the items effects were not similar to effects from any spell.\n\nThe caster could create an item out of nothing. The created item possessed a greenish glow, was practically weightless, and incredibly strong. These items were also immune to cold, electricity, fire and all magical attacks with the exception of a ''wish'' or ''[[dispel magic]]''. The spell could only create an object smaller than a {{SI|10|ft|long=yes}} sphere. As items created by ''wildfire'' were done so with wild magic, they were inherently unstable, slowly deteriorating over the course of several hours until nothing remained.",
-        "Components": "This spell required only [[Verbal component|verbal]] components to cast."
+        "mainbody": "Wildfire was a wild magic invocation spell used by wild mages.\nThis powerful spell allowed the caster to channel raw magical energy and shape it as they desired. In some ways it was similar to a wish spell.\nWildfire could replicate the effects of all but the most powerful spells provided the caster had a general knowledge of the spell. The desired spell did not need to be one known or memorized by the caster. Wildfire could also create magic items provided the items effects were not similar to effects from any spell.\nThe caster could create an item out of nothing. The created item possessed a greenish glow, was practically weightless, and incredibly strong. These items were also immune to cold, electricity, fire and all magical attacks with the exception of a wish or dispel magic. The spell could only create an object smaller than a  sphere. As items created by wildfire were done so with wild magic, they were inherently unstable, slowly deteriorating over the course of several hours until nothing remained.\nThis spell required only verbal components to cast."
     }
 }

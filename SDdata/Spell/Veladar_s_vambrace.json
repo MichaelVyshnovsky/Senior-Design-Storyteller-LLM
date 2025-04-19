@@ -1,17 +1,6 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Veladar's Vambrace",
-        "school2e": "[[Alteration]]",
-        "inventor": "[[Veladar]]",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|5}}",
         "type2e": "",
-        "mainbody": "'''''Veladar's vambrace''''' was an [[alteration]] spell that repaired, preserved, and strengthened inorganic materials.",
-        "Effects": "One item no bigger than the caster's body could be enchanted by this spell. The caster had to touch the object while casting. When the spell took effect, all minor flaws, fractures, weaknesses, and blemishes were eliminated, making the object look like new. Fragile materials were strengthened and tough materials were made tougher, giving the object much greater resistance to acid, cold, crushing blows, disintegration, falls, non-magical fire, and rot. Organic substances like glue could be present in the object, but if they made up more than ten percent of the total volume, the spell failed.",
-        "Components": "Verbal and somatic components were required to cast this spell as well as a [[diamond]] of at least 2,000 gp value, a piece of [[ironwood]] at least as big as the diamond, a similar-sized shard of chitin from a [[beholder]], [[ankheg]], or [[bulette]], and a drop of [[giant slug]] spittle."
+        "mainbody": "Veladars vambrace was an alteration spell that repaired, preserved, and strengthened inorganic materials.\nOne item no bigger than the casters body could be enchanted by this spell. The caster had to touch the object while casting. When the spell took effect, all minor flaws, fractures, weaknesses, and blemishes were eliminated, making the object look like new. Fragile materials were strengthened and tough materials were made tougher, giving the object much greater resistance to acid, cold, crushing blows, disintegration, falls, non-magical fire, and rot. Organic substances like glue could be present in the object, but if they made up more than ten percent of the total volume, the spell failed.\nVerbal and somatic components were required to cast this spell as well as a diamond of at least 2,000 gp value, a piece of ironwood at least as big as the diamond, a similar-sized shard of chitin from a beholder, ankheg, or bulette, and a drop of giant slug spittle."
     }
 }

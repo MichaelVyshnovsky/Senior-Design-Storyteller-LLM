@@ -1,25 +1,5 @@
 {
-    "template_data": {
-        "30|lb|k|long": "yes",
-        "30|lb|k|long_1": "yes"
-    },
     "document_data": {
-        "image": "Chesley Crusher.jpg",
-        "caption": "",
-        "name": "''The Chesley Crusher''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Halberd]]",
-        "creator": "",
-        "location": "[[Waterdeep]], [[Sword Coast]], [[Western Heartlands]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "+2",
-        "value2e": "",
-        "weight2e": "{{SI|30|lb|k|long=yes}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -42,9 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The '''''Chesley Crusher''''' was an unusually heavy enchanted [[halberd]] made entirely out of [[iron]] that originated from the city of [[Waterdeep]].",
-        "Description": "The ''Chesley Crusher'' was a very heavy halberd, hard to handle because of its {{SIAdj|30|lb|k|long=yes}} weight. The weapon had a hefty iron haft and was slow to swing. However, the weight of the ''Chesley Crusher'' guaranteed devastating damage when it connected with its target, opening skulls and crushing limbs.",
-        "Powers": "The ''Chesley Crusher'' possessed a ''+2'' [[item enchantment|enchantment]], with the damage done by the weapon being comparable to a devastating ''+6'' enchantment. The halberd dealt slashing and piercing damage. Only creatures who possessed exceptional strength could hope to handle the ''Chesley Crusher''.",
-        "History": "The ''Chesley Crusher's'' first appearance in history was in the hands of the infamous [[Chesley|Ensign Chesley]] of Waterdeep's first exploratory fleet, several generations before [[1368 DR]]. After Chesley, the halberd changed many owners through the years. In 1368 DR, the ''Chesley Crusher'' ended up in the paws of [[Ingot]], a [[gnoll]] who could be found in the [[Dryad Falls]], outside a gnoll stronghold to the south of [[Baldur's Gate]] and west of [[Nashkel]]."
+        "mainbody": "The Chesley Crusher was an unusually heavy enchanted halberd made entirely out of iron that originated from the city of Waterdeep.\nThe Chesley Crusher was a very heavy halberd, hard to handle because of its  weight. The weapon had a hefty iron haft and was slow to swing. However, the weight of the Chesley Crusher guaranteed devastating damage when it connected with its target, opening skulls and crushing limbs.\nThe Chesley Crusher possessed a +2 enchantment, with the damage done by the weapon being comparable to a devastating +6 enchantment. The halberd dealt slashing and piercing damage. Only creatures who possessed exceptional strength could hope to handle the Chesley Crusher.\nThe Chesley Crushers first appearance in history was in the hands of the infamous Ensign Chesley of Waterdeeps first exploratory fleet, several generations before 1368 DR. After Chesley, the halberd changed many owners through the years. In 1368 DR, the Chesley Crusher ended up in the paws of Ingot, a gnoll who could be found in the Dryad Falls, outside a gnoll stronghold to the south of Baldurs Gate and west of Nashkel."
     }
 }

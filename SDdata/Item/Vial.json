@@ -1,24 +1,7 @@
 {
-    "template_data": {
-        "rca": "right",
-        "c|long": "yes"
-    },
     "document_data": {
-        "image": "Glass_containers-2e.jpg",
-        "caption": "From top to bottom: [[glass tubing]], a vial, a [[flask]], and a [[beaker]].",
-        "name": "Vial",
-        "othernames": "Phial",
-        "nicknames": "",
-        "type": "Container",
-        "location": "[[Urmlaspyr]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "{{Split table|rca=right|Standard|1 [[sp]]|Clay|1 sp|Glass|3 sp|Metal|1 [[gp]]}}",
         "weight2e": "",
-        "refs2e": "{{Cite dragon/130/Better Living Through Alchemy|37}}",
+        "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
         "itemlevel3e": "",
@@ -33,15 +16,12 @@
         "attunement5e": "",
         "school5e": "",
         "level5e": "",
-        "value5e": "1 [[gp]]",
+        "value5e": "1 gp",
         "weight5e": "",
         "refs5e": "",
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''Vials''', or '''phials''', were small glass containers that were used to hold liquids and powders. They could be used in laboratories to conduct experiments or to transport these substances.",
-        "Description": "A typical vial could hold up to {{SI|4|fl oz|c|long=yes}} of liquid. Outside of the laboratory, vials were most commonly used to store and transport [[acid]]s, [[antitoxin]]s, [[perfume]]s, [[poison]]s, and [[potion]]s.",
-        "Availability": "A variety of vials were available for sale through ''[[Aurora's Whole Realms Catalogue]]'', along with matching corks and other laboratory glass containers produced in [[Urmlaspyr]] by the [[glass-blowers guild]].",
-        "Notable Uses": "* Vials were essential in laboratories, and were also integral components of [[herbalism kit]]s and [[poisoner's kit]]s.\n* Some [[healer's kit|healer's bags]] included several ceramic vials for the purpose of having clean water readily available.\n* Travelers typically kept their [[spices]] inside of little glass vials, which were encased in whittled wooden 'shielding shells' to guard against breakage.{{Cite web/theedverse/2020-07-13 - Spices When Traveling}}"
+        "mainbody": "Vials, or phials, were small glass containers that were used to hold liquids and powders. They could be used in laboratories to conduct experiments or to transport these substances.\nA typical vial could hold up to  of liquid. Outside of the laboratory, vials were most commonly used to store and transport acids, antitoxins, perfumes, poisons, and potions.\nA variety of vials were available for sale through Auroras Whole Realms Catalogue, along with matching corks and other laboratory glass containers produced in Urmlaspyr by the glass-blowers guild.\n* Vials were essential in laboratories, and were also integral components of herbalism kits and poisoners kits.\n* Some healers bags included several ceramic vials for the purpose of having clean water readily available.\n* Travelers typically kept their spices inside of little glass vials, which were encased in whittled wooden shielding shells to guard against breakage."
     }
 }

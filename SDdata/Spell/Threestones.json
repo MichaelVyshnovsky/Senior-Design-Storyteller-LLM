@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Threestones",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|2}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Threestones''''' was an offensive [[wizard]] [[spell]].",
-        "Effects": "This spell first transformed three smaller stones into fist-sized stones that the caster could hurl straight forward at a target to a rough area of the caster's choosing—head, legs, back, etc. The stones were consumed as part of the spell.\n\nThe stones would always strike their intended target unless the target was able to take cover or otherwise interpose a barrier in the stones' path.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, this spell required three small stones to cast."
+        "mainbody": "Threestones was an offensive wizard spell.\nThis spell first transformed three smaller stones into fist-sized stones that the caster could hurl straight forward at a target to a rough area of the casters choosing—head, legs, back, etc. The stones were consumed as part of the spell.\nThe stones would always strike their intended target unless the target was able to take cover or otherwise interpose a barrier in the stones path.\nIn addition to verbal and somatic components, this spell required three small stones to cast."
     }
 }

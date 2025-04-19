@@ -1,25 +1,12 @@
 {
-    "template_data": {
-        "edition": "5e"
-    },
     "document_data": {
-        "image": "Sword_Coast_Legends_-_Companion_-_Hommet_Shaw.png",
-        "caption": "",
-        "name": "Hommet Shaw",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "home": "",
-        "formerhomes": "[[Longsaddle]], [[Savage Frontier]]{{Cite web/Hommet Shaw}}",
         "sex": "Male",
-        "race": "[[Human]]",
+        "race": "Human",
         "ethnicity": "",
         "occupation": "",
         "age": "",
         "patron deity": "",
-        "languages": "[[Common]], [[Dwarvish]], [[Elven language|Elvish]], [[Infernal language|Infernal]]{{Cite dragon+/2/Exploring Sword Coast Legends/Character Sheets}}",
+        "languages": "Common, Dwarvish, Elvish, Infernal",
         "reckoning": "",
         "dob": "",
         "dobnotes": "",
@@ -34,11 +21,9 @@
         "siblings": "",
         "children": "",
         "familyrefs": "",
-        "alignment5e": "[[Neutral]]",
-        "class5e": "{{class table|edition=5e|[[Wizard]] ([[Necromancer]])|3}}",
+        "alignment5e": "Neutral",
+        "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Hommet Shaw''' was a [[human]] [[necromancer]] from [[Longsaddle]].",
-        "Personality": "Hommet was a young, talented, and eager necromancer, but he was not a very detail-oriented person. Despite the reputation of most necromancers, he sought a mentor who wasn't evil or insane.",
-        "History": "Hommet was from the eccentric Harpell family.\n\nHe was born to a young pair of farmers in a small village near Longsaddle. He was a scrawny child, and no use around the farm. As such, his parents sent him off to live with his Uncle [[Kipper Harpell]]. He managed to get exiled for some reason.\n\nAt some point before [[1487 DR]], he travelled to [[Luskan]], where he at various times got mugged, kidnapped and blackmailed.\n\nHe trained under the mage [[Maferil]], but was sento to [[Neverwinter]] sometime before the wizard's death around [[1487 DR]]. He returned to Luskan after hearing of Maferil's murder.[[En:n-Space|n-Space]] (October 2015). Designed by Dan Tudge, et al. ''[[Sword Coast Legends]]''. [[En:Digital Extremes|Digital Extremes]]. He wanted to join an adventuring party in order to prove himself but also make some allies in the process. During the journey to Luskan, his caravan was ambushed, and, to save his own life, he played dead and was dragged to the bandits' hideout, where he later encountered the [[Champion of the Burning Dawn]]."
+        "mainbody": "Hommet Shaw was a human necromancer from Longsaddle.\nHommet was a young, talented, and eager necromancer, but he was not a very detail-oriented person. Despite the reputation of most necromancers, he sought a mentor who wasnt evil or insane.\nHommet was from the eccentric Harpell family.\nHe was born to a young pair of farmers in a small village near Longsaddle. He was a scrawny child, and no use around the farm. As such, his parents sent him off to live with his Uncle Kipper Harpell. He managed to get exiled for some reason.\nAt some point before 1487 DR, he travelled to Luskan, where he at various times got mugged, kidnapped and blackmailed.\nHe trained under the mage Maferil, but was sento to Neverwinter sometime before the wizards death around 1487 DR. He returned to Luskan after hearing of Maferils murder.n-Space (October 2015). Designed by Dan Tudge, et al. Sword Coast Legends. Digital Extremes. He wanted to join an adventuring party in order to prove himself but also make some allies in the process. During the journey to Luskan, his caravan was ambushed, and, to save his own life, he played dead and was dragged to the bandits hideout, where he later encountered the Champion of the Burning Dawn."
     }
 }

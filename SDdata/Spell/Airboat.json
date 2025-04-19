@@ -1,42 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "90|mi|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Airboat",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]<br/>[[Enchantment]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|8}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -44,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Airboat''''' was an [[alteration]] and [[enchantment]] [[spell]] used by [[wizard]]s.",
-        "Effects": "With this spell the caster selected a cloud overhead to come toward them, changing in shape to resemble a vessel of the caster's choosing. Though an ''airboat'' still resembled a cloud, it was solid enough to support the caster and many more individuals. An ''airboat's'' maximum speed was {{SI|90|mi|long=yes}} per hour. The caster used mental commands to control the speed and direction of the ''airboat'', preventing them from casting other spells.",
-        "Components": "This spell required only [[Verbal component|verbal]] and [[somatic component|somatic]] components to cast. This spell only functioned if cast under a cloudy sky."
+        "mainbody": "Airboat was an alteration and enchantment spell used by wizards.\nWith this spell the caster selected a cloud overhead to come toward them, changing in shape to resemble a vessel of the casters choosing. Though an airboat still resembled a cloud, it was solid enough to support the caster and many more individuals. An airboats maximum speed was  per hour. The caster used mental commands to control the speed and direction of the airboat, preventing them from casting other spells.\nThis spell required only verbal and somatic components to cast. This spell only functioned if cast under a cloudy sky."
     }
 }

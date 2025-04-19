@@ -1,34 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Renewed Youth",
-        "deity": "[[Labelas Enoreth]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "reversible2e": "yes",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Healing sphere|Healing]]<br>[[Time sphere|Time]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|3}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -36,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Renewed youth''''' was a [[spell]] used by [[cleric]]s of [[Labelas Enoreth]].",
-        "Effects": "When cast, this spell restored the caster or a targeted creature to their peak physical condition of their prime. The spell was only effective on a recipient who was middle-aged or older. By means of this spell, the negative effects of aging were temporarily reversed. It also occasionally increased the recipients pain tolerance.\n\n'''''Weight of years''''' was the reverse of this spell. This spell temporarily increased the age of a targeted creature. For the spell to be cast successfully, the caster had to touch the targeted creature. ''Weight of years'' could not kill the recipient of old age. \n\nBoth spells were useless against [[dragon]]s and creatures from another [[plane]] or that were conjured.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required [[material component]]s, the holy symbol of Labelas Enoreth and a fresh flower. The reverse required the holy symbol and an air dried flower or fruit that was crushed."
+        "mainbody": "Renewed youth was a spell used by clerics of Labelas Enoreth.\nWhen cast, this spell restored the caster or a targeted creature to their peak physical condition of their prime. The spell was only effective on a recipient who was middle-aged or older. By means of this spell, the negative effects of aging were temporarily reversed. It also occasionally increased the recipients pain tolerance.\nWeight of years was the reverse of this spell. This spell temporarily increased the age of a targeted creature. For the spell to be cast successfully, the caster had to touch the targeted creature. Weight of years could not kill the recipient of old age. \nBoth spells were useless against dragons and creatures from another plane or that were conjured. \nIn addition to verbal and somatic components, this spell required material components, the holy symbol of Labelas Enoreth and a fresh flower. The reverse required the holy symbol and an air dried flower or fruit that was crushed."
     }
 }

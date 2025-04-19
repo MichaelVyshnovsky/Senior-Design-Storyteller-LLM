@@ -1,40 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Whisperleaf",
-        "deity": "[[Baervan Wildwanderer]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Plant sphere|Plant]]",
-        "level2e": "{{Spell table|edition=2e|[[Cleric]]|2|[[Druid]]|2|[[Mystic]]|2|[[Plant sphere|Plant]]|2|[[Ranger]]|2|[[Shaman]]|2}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -42,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Whisperleaf''''' was a [[divine magic]] [[spell]] granted to priests of [[Baervan Wildwanderer]], the Masked Leaf. It turned a living [[oak]] limb into a magic [[spear]].",
-        "Effects": "This spell could only be cast on a live oak branch that was still attached to the tree. The caster touched the branch as the spell was cast and it detached from the tree, becoming a ''+1 spear'' (more experienced casters could create more powerful magical spears). Only the caster could wield the weapon and it reverted back to a normal (detached) branch when the spell expired. ''Whisperleaf'' lasted a minimum of ten minutes (even longer for more experienced casters).",
-        "Components": "This spell required [[Verbal component|verbal]], [[Somatic component|somatic]], and [[material component]]s. The priest used their [[holy symbol]] and had to touch a living oak branch."
+        "mainbody": "Whisperleaf was a divine magic spell granted to priests of Baervan Wildwanderer, the Masked Leaf. It turned a living oak limb into a magic spear.\nThis spell could only be cast on a live oak branch that was still attached to the tree. The caster touched the branch as the spell was cast and it detached from the tree, becoming a +1 spear (more experienced casters could create more powerful magical spears). Only the caster could wield the weapon and it reverted back to a normal (detached) branch when the spell expired. Whisperleaf lasted a minimum of ten minutes (even longer for more experienced casters).\nThis spell required verbal, somatic, and material components. The priest used their holy symbol and had to touch a living oak branch."
     }
 }

@@ -1,17 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "name": "Probability Control",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Numbers sphere|Numbers]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|4|[[Numbers sphere|Numbers]]|4}}",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''''Probability control''''' was a common [[alteration]] spell used by [[cleric]]s.",
-        "Effects": "This spell allowed the caster to manipulate the probability, both negatively and positively, of an action by a small margin. The caster was able to cast this spell on themself or another individual. Once cast, the spell did not require further concentration from the caster. The spell remained in effect until the specified action was attempted. This remained true even if the caster was killed after casting the spell.\n\nFor most actions, the spell had to be cast immediately before the desired action was to occur. The caster determined whether the modified probability was negative or positive, and the spell did not require the caster to divulge this information to an individual before casting the spell upon them.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, this spell required as [[material component]]s a six-sided [[die]] and a small amount of thick paste made from [[milk]] and sugar shaped into a cube the same size as the die. Both were consumed during the casting of the spell.",
-        "History": "This spell could be found in the ''[[Tome of Torment]]''. It was also a common spell used by [[goldeye]]s, special priests of [[Waukeen]] and [[doommaster]]s, particularly wicked specialty priests devoted to [[Beshaba]]."
+        "mainbody": "Probability control was a common alteration spell used by clerics.\nThis spell allowed the caster to manipulate the probability, both negatively and positively, of an action by a small margin. The caster was able to cast this spell on themself or another individual. Once cast, the spell did not require further concentration from the caster. The spell remained in effect until the specified action was attempted. This remained true even if the caster was killed after casting the spell.\nFor most actions, the spell had to be cast immediately before the desired action was to occur. The caster determined whether the modified probability was negative or positive, and the spell did not require the caster to divulge this information to an individual before casting the spell upon them.\nIn addition to verbal and somatic components, this spell required as material components a six-sided die and a small amount of thick paste made from milk and sugar shaped into a cube the same size as the die. Both were consumed during the casting of the spell.\nThis spell could be found in the Tome of Torment. It was also a common spell used by goldeyes, special priests of Waukeen and doommasters, particularly wicked specialty priests devoted to Beshaba."
     }
 }

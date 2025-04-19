@@ -1,34 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "AugmentArtistry.JPG",
-        "caption": "",
-        "name": "Augment Artistry",
-        "deity": "[[Corellon Larethian]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Creation sphere|Creation]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|1}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -36,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Augment artistry''''' was a [[spell]] used by [[cleric]]s of [[Corellon Larethian]].",
-        "Effects": "When cast, this spell temporarily enhanced the artistic skill of a targeted creature. Any skill that was generally considered artistic, such as painting, dancing, [[gem]] cutting, ''etc.'', was enhanced by this spell.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required as [[material component]]s a [[holy symbol]] of Corellon Larethian and a [[scroll]] that contained a poem."
+        "mainbody": "Augment artistry was a spell used by clerics of Corellon Larethian.\nWhen cast, this spell temporarily enhanced the artistic skill of a targeted creature. Any skill that was generally considered artistic, such as painting, dancing, gem cutting, etc., was enhanced by this spell.\nIn addition to verbal and somatic components, this spell required as material components a holy symbol of Corellon Larethian and a scroll that contained a poem."
     }
 }

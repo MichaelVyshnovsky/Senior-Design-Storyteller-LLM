@@ -1,46 +1,9 @@
 {
-    "template_data": {
-        "0.5|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Baldurian seafood stew.png",
-        "caption": "",
-        "name": "Baldurian Seafood Stew",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Stew]]",
-        "location": "[[Baldur's Gate]], [[Western Heartlands]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "",
-        "refs3e": "",
-        "level4e": "",
-        "value4e": "",
-        "weight4e": "",
-        "refs4e": "",
-        "rarity5e": "",
-        "attunement5e": "",
-        "school5e": "",
-        "level5e": "",
-        "value5e": "20 [[gp]]",
-        "weight5e": "{{SI|0.5|lb|k|long=yes}}",
         "refs5e": "",
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''Baldurian seafood stew''' was a signature dish from the harbors of [[Baldur's Gate]].",
-        "Description": "A hearty and versatile [[stew]], these dishes exuded fragrance of [[garlic]], fried [[tomato]] paste, and usually consisted of a wide variety of day's catch seafood. Common versions were filled with [[clam]]s, [[prawn]]s, [[fish]], and [[peas]].",
-        "Availability": "Created by the busy bustling inhabitants of Baldur's Gate's harbors, this recipe became a staple on the city by the late-14{{th}} century [[DR]], and even served in the [[Western Heartlands]]."
+        "mainbody": "Baldurian seafood stew was a signature dish from the harbors of Baldurs Gate.\nA hearty and versatile stew, these dishes exuded fragrance of garlic, fried tomato paste, and usually consisted of a wide variety of days catch seafood. Common versions were filled with clams, prawns, fish, and peas.\nCreated by the busy bustling inhabitants of Baldurs Gates harbors, this recipe became a staple on the city by the late-14 century DR, and even served in the Western Heartlands."
     }
 }

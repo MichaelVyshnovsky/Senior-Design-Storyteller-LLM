@@ -1,44 +1,12 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "edition_1": "1e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "[[File:SpectralGuard.png|250px]]",
-        "caption": "''A spectral guard attacks.''",
-        "name": "Spectral Guard",
-        "inventor": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]]",
-        "spheres2e": "",
-        "level2e": "{{Spell table|edition=2e|[[Wizard]]|7}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
-        "school1e": "[[Evocation]], [[Necromantic]]",
-        "level1e": "{{Spell table|edition=1e|[[Magic-user]]|6}}",
+        "school1e": "Evocation, Necromantic",
+        "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Spectral guard''''' was an [[arcane]] [[evocation]] and [[necromancy]] spell that set a silent, invisible protector at a location, activated by specific conditions.",
-        "Effects": "This spell could be cast on any visible location within 60 yd (55 m) of the caster. The area in which the triggering conditions were active could be no larger than a sphere of radius 20 ft (6.1 m). Triggering conditions included entering the protected area, unlocking a particular door or chest, touching particular objects, ''etc.'', and could be tailored to a race, creature type, a specific creature, or \"any creature that is not the caster.\" The ''spectral guard'' waited, invisibly and indefinitely, watching or patrolling the area until the trigger conditions were met. When activated, the ''guard'' took on the [[wraith]]like form of a [[humanoid]] upper torso with a head and arms, wielding a weapon. The age, race, gender, build, and facial features could be set by the caster to a level of detail fine enough to resemble a specific person the caster was familiar with, if desired. Instead of legs, the lower portion of the ''guard'' tapered away to nothingness.\n\nWhen triggered, the ''spectral guard'' appeared and attacked the triggering entity (or entities) with the same skill as the caster's melee skill, doing damage according to the type of weapon being wielded. The guardian had the same health as the caster at the time ''spectral guard'' was cast, and was difficult to hit. The ''guard'' was also a formidable opponent:\n* it attacked twice per minute;\n* it was able to pursue its target beyond its origin with no range limit;\n* it flew as fast as a running [[human]] with the maneuverability of a [[sylph]];\n* it unerringly detected living creatures within 50 ft (15 m) of itself;\n* it could pass through walls and other barriers;\n* it could strike [[gaseous form|gaseous]] or [[Ethereal plane|ethereal]] creatures;\n* it was not fooled by [[illusion]]s;\n* it could not be [[cause blindness|blinded]], [[charm]]ed, repelled, or [[Turn undead|turned]]; and\n* it could strike creatures that were only vulnerable to magical weapons.\nThe newer version of this spell was relentless until it was dispelled, either by physical damage or by a successful ''[[dispel magic]]''. The older version was immune to ''dispel magic'' but only fought for a number of minutes equal to the caster's level at the time of creation. The caster of ''spectral guard'' could dispel it at will, but the spell was expended.\n\nOnly living creatures could trigger the ''spectral guard''; it completely ignored [[undead]] creatures.\n\nOnly one ''spectral guard'' could be placed in a 20 ft (6.1 m) sphere. Any attempt to place a second ''guard'' within this radius caused the second spell to fizzle.\n\nVictims felt a chill whenever the weapon held by the ''spectral guard'' passed through them, whether or not it did any damage on the attack.",
-        "Components": "In addition to verbal and somatic components, this spell required a human bone, a non-magical weapon, and an eye. For the newer version of this spell, it was the eye of a [[beholder]] (fresh, dried, or preserved). For the older version it was the eye of any creature, plus a drop of blood. All material components were consumed in the casting.",
-        "History": "This spell was recorded by the mage [[Snilloc]] in his tome ''[[The Collected Wisdom of Snilloc]]'', though it was not attributed to him. Eventually, the tome was stolen and this spell was copied and appeared throughout the Realms,<ref> including in the pamphlet ''[[Volo's Guide to All Things Magical (in Universe)|Volo's Guide to All Things Magical]]'',<ref> though it was uncommon to find it in treasure troves."
+        "mainbody": "Spectral guard was an arcane evocation and necromancy spell that set a silent, invisible protector at a location, activated by specific conditions.\nThis spell could be cast on any visible location within 60 yd (55 m) of the caster. The area in which the triggering conditions were active could be no larger than a sphere of radius 20 ft (6.1 m). Triggering conditions included entering the protected area, unlocking a particular door or chest, touching particular objects, etc., and could be tailored to a race, creature type, a specific creature, or \"any creature that is not the caster.\" The spectral guard waited, invisibly and indefinitely, watching or patrolling the area until the trigger conditions were met. When activated, the guard took on the wraithlike form of a humanoid upper torso with a head and arms, wielding a weapon. The age, race, gender, build, and facial features could be set by the caster to a level of detail fine enough to resemble a specific person the caster was familiar with, if desired. Instead of legs, the lower portion of the guard tapered away to nothingness.\nWhen triggered, the spectral guard appeared and attacked the triggering entity (or entities) with the same skill as the casters melee skill, doing damage according to the type of weapon being wielded. The guardian had the same health as the caster at the time spectral guard was cast, and was difficult to hit. The guard was also a formidable opponent\n* it attacked twice per minute\n* it was able to pursue its target beyond its origin with no range limit\n* it flew as fast as a running human with the maneuverability of a sylph\n* it unerringly detected living creatures within 50 ft (15 m) of itself\n* it could pass through walls and other barriers\n* it could strike gaseous or ethereal creatures\n* it was not fooled by illusions\n* it could not be blinded, charmed, repelled, or turned and\n* it could strike creatures that were only vulnerable to magical weapons.\nThe newer version of this spell was relentless until it was dispelled, either by physical damage or by a successful dispel magic. The older version was immune to dispel magic but only fought for a number of minutes equal to the casters level at the time of creation. The caster of spectral guard could dispel it at will, but the spell was expended.\nOnly living creatures could trigger the spectral guard it completely ignored undead creatures.\nOnly one spectral guard could be placed in a 20 ft (6.1 m) sphere. Any attempt to place a second guard within this radius caused the second spell to fizzle.\nVictims felt a chill whenever the weapon held by the spectral guard passed through them, whether or not it did any damage on the attack.\nIn addition to verbal and somatic components, this spell required a human bone, a non-magical weapon, and an eye. For the newer version of this spell, it was the eye of a beholder (fresh, dried, or preserved). For the older version it was the eye of any creature, plus a drop of blood. All material components were consumed in the casting.\nThis spell was recorded by the mage Snilloc in his tome The Collected Wisdom of Snilloc, though it was not attributed to him. Eventually, the tome was stolen and this spell was copied and appeared throughout the Realms, including in the pamphlet Volos Guide to All Things Magical, though it was uncommon to find it in treasure troves."
     }
 }

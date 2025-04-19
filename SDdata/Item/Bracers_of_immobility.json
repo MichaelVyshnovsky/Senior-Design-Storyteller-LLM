@@ -1,30 +1,8 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Bracers of Immobility''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Bracers]]",
-        "creator": "",
-        "location": "[[Myth Drannor]], [[Cormanthor]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "6{{th}}",
         "itemlevel3e": "",
-        "value3e": "4,000 [[gp]]",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
+        "value3e": "4,000 gp",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,9 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Bracers of immobility''''' were ''[[curse]]d'' [[bracers]] that rendered the wearer slow and vulnerable to attacks.",
-        "Powers": "When worn, these magic bracers increased the wearer's magical and mundane resistances while reducing their speed enough to render even the most capable fighter vulnerable in battle. Like other ''cursed'' items, ''bracers of immobility'' could only be removed via a ''[[remove curse]]'' [[spell]].",
-        "Creation": "A skilled crafter of wondrous items could create a pair of ''bracers of immobility'' with the use of ''[[bestow curse]]'', ''[[mage armor]]'', and ''[[resistance]]'' [[spell]]s.",
-        "History": "In [[1368 DR]], a band of adventurers infiltrated [[Lyssic's Crypt]]. One of them, a [[human]] male [[wizard]] wore a pair of ''bracers of immobility''. The would-be graverobbers perished in the dangerous crypt and the magic ''bracers'' remained within the crypt until [[1369 DR]]."
+        "mainbody": "Bracers of immobility were cursed bracers that rendered the wearer slow and vulnerable to attacks.\nWhen worn, these magic bracers increased the wearers magical and mundane resistances while reducing their speed enough to render even the most capable fighter vulnerable in battle. Like other cursed items, bracers of immobility could only be removed via a remove curse spell.\nA skilled crafter of wondrous items could create a pair of bracers of immobility with the use of bestow curse, mage armor, and resistance spells.\nIn 1368 DR, a band of adventurers infiltrated Lyssics Crypt. One of them, a human male wizard wore a pair of bracers of immobility. The would-be graverobbers perished in the dangerous crypt and the magic bracers remained within the crypt until 1369 DR."
     }
 }

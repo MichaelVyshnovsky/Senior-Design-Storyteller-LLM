@@ -1,125 +1,38 @@
-{{Creature
-| image        = Slyth.jpg
-| caption      = ''A slyth.''
-| name         = Slyth
-| size5e       = 
-| type5e       = 
-| subtype5e    = 
-| alignment5e  = 
-| challenge5e  = 
-| refs5e       = 
-| size4e       = 
-| origin4e     = 
-| type4e       = 
-| subtype4e    = 
-| alignment4e  = 
-| refs4e       = 
-| size3e       = Medium
-| type3e       = [[Humanoid]]
-| subtype3e    = [[Shapechanger]]
-| alignment3e  = [[Neutral]]
-| challenge3e  = 
-| refs3e       = 
-| size2e       = 
-| alignment2e  = 
-| refs2e       = 
-| size1e       = 
-| alignment1e  = 
-| refs1e       = 
-| patron deity = 
-| vision       = 
-| activecycle  = 
-| diet         = 
-| lifespan     = 
-| location     = [[Prime Material Plane]]
-| language     = [[Common]], [[Undercommon]]
-| subraces     = 
-| climate      = 
-| terrain      = [[Underdark]]
-| height       = 
-| length       = 
-| wingspan     = 
-| weight       =
-| skincolor    = Brown
-| haircolor    = 
-| feathers     = 
-| eyecolor     = 
-| distinctions = 
-| form1        = Male
-| appearance1  = {{Appearance|height={{SIrange|5'4"|6'10"|ft-in}}|length=|wingspan=|weight={{SIrange|137|147|lb|k}}|skincolor=|haircolor=|hairstyles=|feathers=|eyecolor=|build=|distinctions=}}
+|length=|wingspan=|weight=|skincolor=|haircolor=|hairstyles=|feathers=|eyecolor=|build=|distinctions=
 | form2        = Female
-| appearance2  = {{Appearance|height={{SIrange|4'8"|6'2"|ft-in}}|length=|wingspan=|weight={{SIrange|102|112|lb|k}}|skincolor=|haircolor=|hairstyles=|feathers=|eyecolor=|build=|distinctions=}}
+| appearance2  = |length=|wingspan=|weight=|skincolor=|haircolor=|hairstyles=|feathers=|eyecolor=|build=|distinctions=
 | appearrefs   = 
 | first        = 
 | based        = 
 | histrefs     = 
-}}
-'''Slyths''' were a race of [[humanoid]] [[shapechanger]]s of the [[Underdark]] who cared deeply for its environment and worked to ensure it was not defiled. Though not a populous race, the [[ooze]]-like denizens of the underground had a strong influence in the Night Below and made their presence felt in many ways over the course of their long lives.
-
-==Description==
-In their true forms, slyths were amorphous creatures somewhere between liquids and solids in consistency, resembling puddles of mud, syrup, or oil. They also possessed humanoid forms, appearing as bald [[human]]s of varied skin tones, with brown tones being the most common. Compared to humans they were slightly taller than the norm among that race, and had softer, more rounded features.
-
-==Personality==
-Slyths were at peace with nature and wise in its ways, perceiving themselves as the custodians and caretakers of the Underdark and considering it their duty to help others in harmoniously engaging with the world. They demonstrated an utmost propensity towards [[neutral]] [[alignment]]s to the point that there was no known member to not be neutral in some way. 
-
-==Abilities==
-Slyths were reasonaby agile, though not particularly strong, and possessed a plethora of abilities. They resisted [[sonic]]-effects, could breathe underwater,
-
-The most notably ability of the slyths was their amorphous form, a boneless, nearly fluid shape they could adopt. When using amorphous form they could pass through narrow openings as small as {{SI|2|in|long=yes}} in diamter, swim as quickly as they moved on land, could not be flanked or struck with critical lethality, and were immune to effects that would stun. This shape-changing ability made them immune to [[poison]]s and [[polymorph]]ing powers even when not using it. Regaining shape took about as long as it did to drop it, only a few seconds, although required greater focus.
-
-Amorphous form also came with several drawbacks, such as the fact that they could not attack normally when using it. It could only be held for a limited time, with more experienced slyths able to hold it longer, the standard time being ten minutes and maximal capacity being several hours, but even they had to stay in their humanoid shape for as long as they were amorphous before turning back. All items worn or carried temporarily fused with the slyth, with any [[armor]], worn or natural, becoming useless for the duration. [[Magic item]]s no longer worked, supernatural powers were temporarily lost, and unless somehow able to bypass such restrictions, [[spell]]s with [[verbal]], [[somatic]], [[material]], or focus components were unusable.
-
-==Combat==
-Slyth had an almost unique capacity for caution matched only by the [[svirfneblin]], with many relying more on forethought than physical force.  When feuds and raids between other groups broke out into open conflict they refused to take sides, retreating to faraway niches difficult if not impossible to find without their amorphous bodies.
-
-[[Flutter blade]]s were considered weapons of the slyth, and while still requiring martial training to use, were not considered especially exotic weapons to them.
-
-==Society==
-It was uncommon for slyths to gather in great numbers, quiet lives in small familial bands being much more to their liking. The tendency of their families to settle in an area and become its keepers meant they usually trained to become [[druid]]s or [[ranger]]s, the former being particularly favored. but even slyth [[commoner]]s and [[warrior]]s devoted themselves to the study of animal care and the environment in general.
-
+Slyths were a race of humanoid shapechangers of the Underdark who cared deeply for its environment and worked to ensure it was not defiled. Though not a populous race, the ooze-like denizens of the underground had a strong influence in the Night Below and made their presence felt in many ways over the course of their long lives.
+In their true forms, slyths were amorphous creatures somewhere between liquids and solids in consistency, resembling puddles of mud, syrup, or oil. They also possessed humanoid forms, appearing as bald humans of varied skin tones, with brown tones being the most common. Compared to humans they were slightly taller than the norm among that race, and had softer, more rounded features.
+Slyths were at peace with nature and wise in its ways, perceiving themselves as the custodians and caretakers of the Underdark and considering it their duty to help others in harmoniously engaging with the world. They demonstrated an utmost propensity towards neutral alignments to the point that there was no known member to not be neutral in some way. 
+Slyths were reasonaby agile, though not particularly strong, and possessed a plethora of abilities. They resisted sonic-effects, could breathe underwater,
+The most notably ability of the slyths was their amorphous form, a boneless, nearly fluid shape they could adopt. When using amorphous form they could pass through narrow openings as small as  in diamter, swim as quickly as they moved on land, could not be flanked or struck with critical lethality, and were immune to effects that would stun. This shape-changing ability made them immune to poisons and polymorphing powers even when not using it. Regaining shape took about as long as it did to drop it, only a few seconds, although required greater focus.
+Amorphous form also came with several drawbacks, such as the fact that they could not attack normally when using it. It could only be held for a limited time, with more experienced slyths able to hold it longer, the standard time being ten minutes and maximal capacity being several hours, but even they had to stay in their humanoid shape for as long as they were amorphous before turning back. All items worn or carried temporarily fused with the slyth, with any armor, worn or natural, becoming useless for the duration. Magic items no longer worked, supernatural powers were temporarily lost, and unless somehow able to bypass such restrictions, spells with verbal, somatic, material, or focus components were unusable.
+Slyth had an almost unique capacity for caution matched only by the svirfneblin, with many relying more on forethought than physical force.  When feuds and raids between other groups broke out into open conflict they refused to take sides, retreating to faraway niches difficult if not impossible to find without their amorphous bodies.
+Flutter blades were considered weapons of the slyth, and while still requiring martial training to use, were not considered especially exotic weapons to them.
+It was uncommon for slyths to gather in great numbers, quiet lives in small familial bands being much more to their liking. The tendency of their families to settle in an area and become its keepers meant they usually trained to become druids or rangers, the former being particularly favored. but even slyth commoners and warriors devoted themselves to the study of animal care and the environment in general.
 Eventually trained slyths left their communities to find regions with greater need of them, sometimes exploring the world for many years before finding a suitable place.
-
-===Relations===
 Few intelligent beings, even other Underdark races, understood the stranger abilities of the slyth. Even so, they got along well with almost all humanoids and maintained amicable relationships with most races. They were welcome almost anywhere, acting as advisors regarding animal husbandry, agriculture and foraging in peaceful communities and arbiters in conflict-threatened regions.
-
-Slyths got along especially well with the [[deep orc]]s and [[deep gnome]]s despite the former's war-like ways and the latter's deep suspicion of all other races. The svirfneblin remained most accepting of them and the [[gloaming]]s since both rarely threatened them. Like the svirfneblin, the slyth also built small shrines to the [[gloura]]s with offerings of food, drink, and other tokens of appreciation, often (in the absence of a skilled healer in their own community) leaving the sick and dying there in the hopes the deep [[fey]] would heal them. 
-
-Slyths were angered by both the [[aboleth]]s and [[illithid]]s, their relation with the latter being bad enough that they went out of their way to avoid mind flayer settlements.
-
-===Language===
-Slyths generally spoke both [[Common]] and [[Undercommon]], and most spoke at least one other humanoid (including [[monstrous humanoid]]s) or [[Primordial language|elemental]] [[language]]. Often these were the [[Aquan]] or [[Terran]] elemental tongues or the [[Gnome language|Gnome]], [[Dwarvish]], or [[drow]] dialect of [[Elven]] languages. Many powerful slyths also supplemented this linguistic skill with pieces of magical equipment, such as a ''[[Helm of comprehending languages & reading magic]]'' or a [[potion]] of ''[[tongues]]''.
-
+Slyths got along especially well with the deep orcs and deep gnomes despite the formers war-like ways and the latters deep suspicion of all other races. The svirfneblin remained most accepting of them and the gloamings since both rarely threatened them. Like the svirfneblin, the slyth also built small shrines to the glouras with offerings of food, drink, and other tokens of appreciation, often (in the absence of a skilled healer in their own community) leaving the sick and dying there in the hopes the deep fey would heal them. 
+Slyths were angered by both the aboleths and illithids, their relation with the latter being bad enough that they went out of their way to avoid mind flayer settlements.
+Slyths generally spoke both Common and Undercommon, and most spoke at least one other humanoid (including monstrous humanoids) or elemental language. Often these were the Aquan or Terran elemental tongues or the Gnome, Dwarvish, or drow dialect of Elven languages. Many powerful slyths also supplemented this linguistic skill with pieces of magical equipment, such as a Helm of comprehending languages & reading magic or a potion of tongues.
 Slyth names reflected their interest in nature, the first names often onomatopoeically resembling natural Underdark sounds and their surnames typically being compound words unifying two aspects of the natural world.
-
-* Example masculine names: Drypp, Garock, Glythum, Ploawp, Rumble.
-* Example feminine names: Ffflla, Mrrwa, Ploosh, Scritch, Shooh.
-* Example surnames: Deepflight, Glowstone, Mushroomlake, Rockridge, Rockriver, Silentcave, Swiftlight.
-
-===Religion===
-Slyths were a deeply spiritual race, which usually manifested in the worship of a [[deity]]. Both [[Chauntea]] and [[Shar]] for example were popular among certain slyth, those who leant towards [[good]] or [[evil]] respectively.
-
-==Ecology==
-===Homelands===
-Slyth lived throughout the Underdark, although their population was only large enough to warrant permanent settlements in the [[Lowerdark]]. 
-
-===Biology===
+* Example masculine names Drypp, Garock, Glythum, Ploawp, Rumble.
+* Example feminine names Ffflla, Mrrwa, Ploosh, Scritch, Shooh.
+* Example surnames Deepflight, Glowstone, Mushroomlake, Rockridge, Rockriver, Silentcave, Swiftlight.
+Slyths were a deeply spiritual race, which usually manifested in the worship of a deity. Both Chauntea and Shar for example were popular among certain slyth, those who leant towards good or evil respectively.
+Slyth lived throughout the Underdark, although their population was only large enough to warrant permanent settlements in the Lowerdark. 
 Slyths were considered adults at thirty years old, middle-aged at sixty, old by ninety, and had a normal maximal lifespan of a hundred and sixty.
-
-==History==
-In [[630 DR]], there existed a group of slyth druids discouraged by the wasteful and wantonly destructive habits of many Underdark denizens. The small group aspired to create a quiet place where they could both study the subtle balance of nature and instruct others on how to nurture it within the Underdark, and for this reason founded the city of Fluvenilstra in the Lowerdark beneath the [[Shaar]]. For the first two hundred years the city was essentially just a monastery, but over time the number of students grew with the Garden City's reputation for rare and flowering plants.
-
-Centuries later, in [[1370 DR]], the city was attacked, pillaged, and razed by a lost and starving horde of [[derro]], who later left to find their way back home. From this the rebuilding slyths learned the value of strong defenses, and so contacted a stand of [[myconid]]s, bred plant creatures (including plant versions of various Underdark creatures), and trained rangers, druids, and fungus [[expert]]s to create a force capable of repelling future invasions. The slyths would overflow from the Garden City and actively encouraged their students to leave and spread their ways across the Underdark.
-
-==Myths and Legends==
-The origins of the slyth were a mystery and the subject of much theorizing. Some believed they were a sort of mud [[genasi]], descendants of human pairings with [[water elemental|water]] and [[earth elemental]]s, while others believed they were the result of experiments by aboleths on humans and derro. One ancient myth held the first slyth was shaped from a [[gelatinous cube]] into humanoid shape by a deity before having life breathed into it. Different variants of the legend existed, some purporting Chauntea created the slyths to tend to the depths of the earth while others said that Shar did the deed.
-
+In 630 DR, there existed a group of slyth druids discouraged by the wasteful and wantonly destructive habits of many Underdark denizens. The small group aspired to create a quiet place where they could both study the subtle balance of nature and instruct others on how to nurture it within the Underdark, and for this reason founded the city of Fluvenilstra in the Lowerdark beneath the Shaar. For the first two hundred years the city was essentially just a monastery, but over time the number of students grew with the Garden Citys reputation for rare and flowering plants.
+Centuries later, in 1370 DR, the city was attacked, pillaged, and razed by a lost and starving horde of derro, who later left to find their way back home. From this the rebuilding slyths learned the value of strong defenses, and so contacted a stand of myconids, bred plant creatures (including plant versions of various Underdark creatures), and trained rangers, druids, and fungus experts to create a force capable of repelling future invasions. The slyths would overflow from the Garden City and actively encouraged their students to leave and spread their ways across the Underdark.
+The origins of the slyth were a mystery and the subject of much theorizing. Some believed they were a sort of mud genasi, descendants of human pairings with water and earth elementals, while others believed they were the result of experiments by aboleths on humans and derro. One ancient myth held the first slyth was shaped from a gelatinous cube into humanoid shape by a deity before having life breathed into it. Different variants of the legend existed, some purporting Chauntea created the slyths to tend to the depths of the earth while others said that Shar did the deed.
 There were also many rumors regarding the neutral disposition of the slyths. Some speculated it was the result of environment, breeding, or perhaps the slyths being living extensions of nature. Darker rumors theorized that children inclined to non-neutral alignments were abandoned and so most if not all died.
-
-==Notable Slyths==
-*[[Durloo Glossop]], keeper of the [[Fluvenilstra#Great Garden|Great Garden]] just outside Fluvenilstra, where plants were grown from soil imported from above on a light schedule replicating that of the surface world.
-*[[Flowrider Plyp Shurlush]], leader of the [[Circle of the Depths]], a druidic hierarchy dedicated to [[Silvanus]], mostly made up of slyths and the governing body of Fluvenilstra.
-*[[Glythum]], a legendary slyth sorcerer and magical theorist said to have used his magic and shapechanging ability to create many fascinating items, such as universal keys.
-*[[Grrl Deepdelver]], a druid and [[diviner]] who wandered the lowest reaches of the Lowerdark seeking the truth behind an ancient prophecy.{{Cite web enhancement/Underdark Dungeons|4}}
-*[[Lirrup Biltendar]], [[bard]] and default guest liason of the Flowrider's court. She was responsible for bringing anyone from within the city requested by guests, as they were not allowed to move throughout the city on their own.
-*[[Vfush Sweetwaterlake]], a good-aligned and independent slyth ranger with a [[giant cockroach]] [[Animal companion|companion]]. She was the self-appointed protector, warden, and cataloguer of the various vermin of the Lowerdark.
-
+*Durloo Glossop, keeper of the Great Garden just outside Fluvenilstra, where plants were grown from soil imported from above on a light schedule replicating that of the surface world.
+*Flowrider Plyp Shurlush, leader of the Circle of the Depths, a druidic hierarchy dedicated to Silvanus, mostly made up of slyths and the governing body of Fluvenilstra.
+*Glythum, a legendary slyth sorcerer and magical theorist said to have used his magic and shapechanging ability to create many fascinating items, such as universal keys.
+*Grrl Deepdelver, a druid and diviner who wandered the lowest reaches of the Lowerdark seeking the truth behind an ancient prophecy.
+*Lirrup Biltendar, bard and default guest liason of the Flowriders court. She was responsible for bringing anyone from within the city requested by guests, as they were not allowed to move throughout the city on their own.
+*Vfush Sweetwaterlake, a good-aligned and independent slyth ranger with a giant cockroach companion. She was the self-appointed protector, warden, and cataloguer of the various vermin of the Lowerdark.

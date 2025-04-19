@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Safeguarding",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Abjuration]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|5}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Safeguarding''''' was an [[abjuration]] [[spell]] used by [[wizard]]s.",
-        "Effects": "The spell protected both the caster and anyone standing near them from harm caused by rebounding spell effects from spells cast by the caster. ''Safeguarding'' protected from these rebounding effects from all but the most powerful of spells. However, it did not offer protection from spells rebounded by ''[[spell turning]]'', nor did it protect from spells cast by anyone but the caster. This spell was extremely useful if the caster desired to cast a harmful spell in a tight area. The protective aura remained centered on the caster even if they moved about. ''Safeguarding'' would protect against area of effect spells provided they were centered outside of the ''safeguarding's'' range.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, this spell required a piece of preserved skin from a creature that possessed natural resistance to magic to cast."
+        "mainbody": "Safeguarding was an abjuration spell used by wizards.\nThe spell protected both the caster and anyone standing near them from harm caused by rebounding spell effects from spells cast by the caster. Safeguarding protected from these rebounding effects from all but the most powerful of spells. However, it did not offer protection from spells rebounded by spell turning, nor did it protect from spells cast by anyone but the caster. This spell was extremely useful if the caster desired to cast a harmful spell in a tight area. The protective aura remained centered on the caster even if they moved about. Safeguarding would protect against area of effect spells provided they were centered outside of the safeguardings range.\nIn addition to verbal and somatic components, this spell required a piece of preserved skin from a creature that possessed natural resistance to magic to cast."
     }
 }

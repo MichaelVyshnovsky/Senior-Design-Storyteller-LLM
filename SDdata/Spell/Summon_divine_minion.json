@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Summon Minion",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Conjuration/Summoning]]",
-        "spheres2e": "[[All sphere|All]]<br/>[[Summoning sphere|Summoning]]",
-        "level2e": "{{Spell table|edition=2e|[[All sphere|All]]|5|[[Cleric]]|5|[[Summoning sphere|Summoning]]|5}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -37,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Summon divine minion''''', known as simply '''''summon minion''''' prior to the [[Time of Troubles]], was a [[divine magic|divine]] [[southern magic]] [[spell]] available to [[priest]]s of the [[Mulhorandi pantheon]].",
-        "Effects": "This spell allowed the caster to summon a single [[divine minion]]. The divine minion obeyed the commands of the caster, including sacrificing its own life, as long as the commands did not violate the edits of the minion's [[deity]].",
-        "Components": "In addition to [[Somatic component|somatic]] and [[Verbal component|verbal]] components, this spell required [[material component]]s. These took the form of a large [[gem]] with a value of at least 1,000 [[gold piece]]s and the caster's [[holy symbol]]. The gem was consumed by the spell during casting as a sacrifice to the deity of the requested divine minion.",
-        "Notable Users": "* The [[avatar]]s of every Mulhorandi deity could cast ''summon minion'' twice per day.\n* The [[incarnation]]s of every Mulhorandi deity could cast ''summon minion'' once per day.\n* The [[pharaoh]]s of Mulhorand, all being incarnations of [[Horus-Re]], were capable of casting ''summon minion''."
+        "mainbody": "Summon divine minion, known as simply summon minion prior to the Time of Troubles, was a divine southern magic spell available to priests of the Mulhorandi pantheon.\nThis spell allowed the caster to summon a single divine minion. The divine minion obeyed the commands of the caster, including sacrificing its own life, as long as the commands did not violate the edits of the minions deity. \nIn addition to somatic and verbal components, this spell required material components. These took the form of a large gem with a value of at least 1,000 gold pieces and the casters holy symbol. The gem was consumed by the spell during casting as a sacrifice to the deity of the requested divine minion.\n* The avatars of every Mulhorandi deity could cast summon minion twice per day.\n* The incarnations of every Mulhorandi deity could cast summon minion once per day.\n* The pharaohs of Mulhorand, all being incarnations of Horus-Re, were capable of casting summon minion."
     }
 }

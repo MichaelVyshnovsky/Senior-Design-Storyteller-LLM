@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Blastcloak",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Abjuration]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|5|}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Blastcloak''''' was a [[spell]] that was first developed by the [[phaerimm]]s.",
-        "Effects": "This spell was identical to ''[[backblast]]'' but more powerful. When cast, this spell surrounded the caster or target creature with an invisible aura. If the individual was targeted by a fire-based spell, that spell was automatically thrown back to the source. Distance was not a limiting factor with this spell, so if the targeted creature was struck by a time-delayed fire-based spell, such as ''[[delayed blast fireball]]'', the fireball was sent back to the person who cast it, even if they had left the area. ''[[Dispel magic]]'' was able to cancel this spell. This spell only protected a single creature at a time.",
-        "Components": "This spell required only a [[Verbal component|verbal]] component.",
-        "History": "This spell was originally created by the phaerimms of [[Myth Drannor]]."
+        "mainbody": "Blastcloak was a spell that was first developed by the phaerimms.\nThis spell was identical to backblast but more powerful. When cast, this spell surrounded the caster or target creature with an invisible aura. If the individual was targeted by a fire-based spell, that spell was automatically thrown back to the source. Distance was not a limiting factor with this spell, so if the targeted creature was struck by a time-delayed fire-based spell, such as delayed blast fireball, the fireball was sent back to the person who cast it, even if they had left the area. Dispel magic was able to cancel this spell. This spell only protected a single creature at a time.\nThis spell required only a verbal component.\nThis spell was originally created by the phaerimms of Myth Drannor."
     }
 }

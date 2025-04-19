@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "IWD2 white book.png",
-        "caption": "",
-        "name": "''Legends of Icewind Dale''",
-        "othernames": "",
-        "type": "[[Book]]",
-        "author": "",
-        "date": "Before [[1312 DR]]",
-        "publisher": "",
-        "released": "",
-        "discovered": "",
-        "location": "[[Targos]], [[Ten Towns]]",
-        "origin": "",
-        "language": "",
-        "volumes": "1",
-        "pages": "",
-        "edition": "",
-        "value": "",
-        "basicrefs": "",
-        "binding": "",
-        "cover": "",
-        "material": "",
-        "descrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -54,7 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The '''''Legends of Icewind Dale''''' was a [[book]] dedicated to the early 14{{th}} century [[DR]] stories and legends of the [[Ten Towns]] of [[Icewind Dale]].",
-        "Contents": "Penned sometime between the {{YearlinkName|1281}} and the {{YearlinkName|1312}}, the ''Legends of Icewind Dale'' recorded stories and facts about the Heroes of Icewind Dale who defeated the vile creature [[Belhifet]] from the [[Nine Hells]].\n\nThe tome opened with the stories of the Heroes' origins – the humblest beginnings in the fishing town of [[Easthaven]]. These southern adventurers met at the [[Winter's Cradle Tavern]], where they became some of the first to join an expedition helmed by [[Hrothgar]] to investigate rumors of brewing trouble in the remote [[tree]]-town of [[Kuldahar]], where an ancient massive [[oak]] towered hundreds of feet above the village, sheltering it from cold with its magic.\n\nThe next part of the book lamented Hrothgar's death in an ambush as the caravan traversed the [[Kuldahar Pass]]. The resulting avalanche left only the southern heroes alive. They were thrown into pressing against a raiding band of [[goblinoid]]s as they struggled to reach the safety of Kuldahar. There, the Heroes learned that the ancient tree was threatened by an unknown evil that surely would swallow the entire region if not stopped.\n\nNext, the tome talks about the adventures' journey through the crypts of the [[Vale of Shadows]], filled with restless [[undead]], through the ancient decaying [[elf|elven]] fortress of the [[Severed Hand]], and the lava-filled caverns of [[Dragon's Eye]] up on the [[Spine of the World]]. Despite many stories and rumors, accounts of the adventurers' deeds were likely lost to time. And the author claimed that subsequently, the Heroes stopped the evil and saved Kuldahar and the [[Ten-Towns]].\n\nLastly, the Heroes were credited with the discovery of the tomb location of [[Kresselack]] the Black Wolf, an infamous Northern warlord of antiquity, the discovery of the Severe Hand's location, and several other ruins and remote monasteries along the Spine of the World."
+        "mainbody": "The Legends of Icewind Dale was a book dedicated to the early 14 century DR stories and legends of the Ten Towns of Icewind Dale.\nPenned sometime between the  and the , the Legends of Icewind Dale recorded stories and facts about the Heroes of Icewind Dale who defeated the vile creature Belhifet from the Nine Hells.\nThe tome opened with the stories of the Heroes origins – the humblest beginnings in the fishing town of Easthaven. These southern adventurers met at the Winters Cradle Tavern, where they became some of the first to join an expedition helmed by Hrothgar to investigate rumors of brewing trouble in the remote tree-town of Kuldahar, where an ancient massive oak towered hundreds of feet above the village, sheltering it from cold with its magic.\nThe next part of the book lamented Hrothgars death in an ambush as the caravan traversed the Kuldahar Pass. The resulting avalanche left only the southern heroes alive. They were thrown into pressing against a raiding band of goblinoids as they struggled to reach the safety of Kuldahar. There, the Heroes learned that the ancient tree was threatened by an unknown evil that surely would swallow the entire region if not stopped.\nNext, the tome talks about the adventures journey through the crypts of the Vale of Shadows, filled with restless undead, through the ancient decaying elven fortress of the Severed Hand, and the lava-filled caverns of Dragons Eye up on the Spine of the World. Despite many stories and rumors, accounts of the adventurers deeds were likely lost to time. And the author claimed that subsequently, the Heroes stopped the evil and saved Kuldahar and the Ten-Towns.\nLastly, the Heroes were credited with the discovery of the tomb location of Kresselack the Black Wolf, an infamous Northern warlord of antiquity, the discovery of the Severe Hands location, and several other ruins and remote monasteries along the Spine of the World."
     }
 }

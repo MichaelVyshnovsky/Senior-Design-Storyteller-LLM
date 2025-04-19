@@ -1,28 +1,8 @@
 {
-    "template_data": {
-        "0.5|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Dragon's blood.gif",
-        "caption": "",
-        "name": "''Phoenix Extract''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Potion]]",
-        "location": "[[Liam's Hold]], [[West Faerûn]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "7{{th}}",
         "itemlevel3e": "",
         "value3e": "",
-        "weight3e": "{{SI|0.5|lb|k|long=yes}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,9 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Phoenix extract''''' was a type of [[potion]] believed to be made out of [[phoenix]] blood.",
-        "Description": "This blood-red concoction was rumored to be distilled out of the blood of a phoenix. Even if this was false, the concoction was still highly valuable and sought-after for its potency and powers.",
-        "Powers": "Even a smallest sip of this elixir protected the drinker from extreme temperatures. When the entire potion was consumed, the imbiber became enveloped in magical protective ''[[elemental shield]]'' that guarded them from both, fire and ice.",
-        "History": "In [[1372 DR]], several vials of ''phoenix extract'' were sold by a [[half-orc]]ish merchant of [[Liam's Hold]] - [[Lashar‎‎]]."
+        "mainbody": "Phoenix extract was a type of potion believed to be made out of phoenix blood.\nThis blood-red concoction was rumored to be distilled out of the blood of a phoenix. Even if this was false, the concoction was still highly valuable and sought-after for its potency and powers.\nEven a smallest sip of this elixir protected the drinker from extreme temperatures. When the entire potion was consumed, the imbiber became enveloped in magical protective elemental shield that guarded them from both, fire and ice.\nIn 1372 DR, several vials of phoenix extract were sold by a half-orcish merchant of Liams Hold - Lashar‎‎."
     }
 }

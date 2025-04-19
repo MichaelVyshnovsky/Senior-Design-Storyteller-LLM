@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Heatwave",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]], [[Evocation]], [[Flame (school)|Flame]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|4}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Heatwave''''' was a [[Flame (province)|flame]] spell that combined the schools of [[alteration]] and [[evocation]]. It was used by members of the [[Brotherhood of the True Flame]] in [[Zakhara]].{{Cite dragon/268/Secrets of the Brotherhood of the True Flame}}",
-        "Effects": "''Heatwave'' created an intense blast of heat that radiated outward from the caster for 20 feet (6 m). Anything caught in the area of effect suffered painful burns until they were able to move away from the heat. The caster was immune to this heat.\n\nAdditionally, the heat warped the air within the area of effect, granting everything caught within the area, including the caster, the effects of a ''[[cloak of displacement]]''. This effect could be negated by those using a ''[[true seeing]]'' spell.\n\nA ''heatwave'' could melt ice or snow, or evaporate water, at a rate of 10 cubic feet per minute. This included ice or water created by other spells such as ''[[wall of ice]]''. Casting ''heatwave'' before a ''wall of ice'' spell was cast halved the production of the ''wall of ice''. If ''heatwave'' and ''[[ice storm]]'' were cast they would cancel each other out.",
-        "Components": "In addition to verbal and somatic components, ''heatwave'' required a small folding fan and a drop of mercury to cast. The mercury was consumed during the casting, but the folding fan was reusable."
+        "mainbody": "Heatwave was a flame spell that combined the schools of alteration and evocation. It was used by members of the Brotherhood of the True Flame in Zakhara.\nHeatwave created an intense blast of heat that radiated outward from the caster for 20 feet (6 m). Anything caught in the area of effect suffered painful burns until they were able to move away from the heat. The caster was immune to this heat.\nAdditionally, the heat warped the air within the area of effect, granting everything caught within the area, including the caster, the effects of a cloak of displacement. This effect could be negated by those using a true seeing spell.\nA heatwave could melt ice or snow, or evaporate water, at a rate of 10 cubic feet per minute. This included ice or water created by other spells such as wall of ice. Casting heatwave before a wall of ice spell was cast halved the production of the wall of ice. If heatwave and ice storm were cast they would cancel each other out.\nIn addition to verbal and somatic components, heatwave required a small folding fan and a drop of mercury to cast. The mercury was consumed during the casting, but the folding fan was reusable."
     }
 }

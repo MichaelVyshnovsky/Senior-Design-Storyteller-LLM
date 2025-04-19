@@ -1,34 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Protection From Aging",
-        "deity": "[[Labelas Enoreth]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "reversible2e": "",
-        "school2e": "[[Abjuration]]",
-        "spheres2e": "[[Protection sphere|Protection]]<br>[[Time sphere|Time]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|2}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -36,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Protection from aging''''' was a [[spell]] used by [[cleric]]s of [[Labelas Enoreth]].",
-        "Effects": "When cast, this spell protected the caster or a targeted creature from unnatural aging. This included the effects of time-based spells and the effect of seeing a [[ghost]].",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required [[material component]]s, the holy symbol of Labelas Enoreth and a black [[sapphire]] with a value of at least 50 [[gp]], crushed into a powder."
+        "mainbody": "Protection from aging was a spell used by clerics of Labelas Enoreth.\nWhen cast, this spell protected the caster or a targeted creature from unnatural aging. This included the effects of time-based spells and the effect of seeing a ghost.\nIn addition to verbal and somatic components, this spell required material components, the holy symbol of Labelas Enoreth and a black sapphire with a value of at least 50 gp, crushed into a powder."
     }
 }

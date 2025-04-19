@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Sunscorch",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]], [[Flame (school)|Flame]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|3}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Sunscorch''''' was a [[spell]] unique to [[Zakhara]], the Land of Fate.",
-        "Effects": "This spell caused an intense blast of heat to emanate from the caster's hand. This beam of heat curved around obstacles to unerringly strike the intended target. The heat from this spell caused more damage if the target was wearing or carrying any metal. Only living flesh was affected by this spell.\n\nThis spell could not be cast underwater.",
-        "Components": "This spell did not require [[material component]]s to cast."
+        "mainbody": "Sunscorch was a spell unique to Zakhara, the Land of Fate.\nThis spell caused an intense blast of heat to emanate from the casters hand. This beam of heat curved around obstacles to unerringly strike the intended target. The heat from this spell caused more damage if the target was wearing or carrying any metal. Only living flesh was affected by this spell.\nThis spell could not be cast underwater.\nThis spell did not require material components to cast."
     }
 }

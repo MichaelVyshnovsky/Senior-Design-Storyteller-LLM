@@ -1,14 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "name": "Blessed Warmth",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Sun sphere|Sun]]",
-        "level2e": "{{spell table|edition=2e|[[Druid]]|4|[[Sun sphere|Sun]]|4}}",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''''Blessed warmth''''' was an [[alteration]] spell that caused a shaft of light to shine down from the sky on the caster and close-by allies, giving them immunity to natural cold and a better chance to resist magical cold."
+        "mainbody": "Blessed warmth was an alteration spell that caused a shaft of light to shine down from the sky on the caster and close-by allies, giving them immunity to natural cold and a better chance to resist magical cold."
     }
 }

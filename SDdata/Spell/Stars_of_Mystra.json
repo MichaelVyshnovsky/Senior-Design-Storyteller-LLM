@@ -1,29 +1,6 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Stars of Mystra",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Evocation]]",
-        "domains3e": "",
-        "descriptors3e": "{{desc/force}}{{desc/good}}",
-        "level3e": "{{spell table|edition=3e|[[Cleric]]|4}}",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -37,8 +14,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Stars of Mystra''''' was an [[evocation]] [[spell]].",
-        "Effects": "When cast, this spell created a number of sparkling stars that orbited the head of the caster, similar to [[ioun stone]]s. The number of stars was determined by the caster's skill level, to a maximum of five stars at once. The stars were used as a ranged weapon, with the caster launching a star, one at a time, at a target. When used against an evil-aligned caster, they lost any prepared spells. If used against an evil-aligned creature with innate magical abilities, the stars randomly negated one of its abilities. The spell had no effect on mundane creatures or individuals who were not spellcasters.",
-        "Components": "This spell required [[Verbal component|verbal]] and [[somatic component|somatic]] components."
+        "mainbody": "Stars of Mystra was an evocation spell.\nWhen cast, this spell created a number of sparkling stars that orbited the head of the caster, similar to ioun stones. The number of stars was determined by the casters skill level, to a maximum of five stars at once. The stars were used as a ranged weapon, with the caster launching a star, one at a time, at a target. When used against an evil-aligned caster, they lost any prepared spells. If used against an evil-aligned creature with innate magical abilities, the stars randomly negated one of its abilities. The spell had no effect on mundane creatures or individuals who were not spellcasters.\nThis spell required verbal and somatic components."
     }
 }

@@ -1,22 +1,5 @@
 {
-    "template_data": {
-        "edition": "5e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Guardian of Nature",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Transmutation]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "{{spell table|edition=5e|[[Druid]]|4|[[Ranger]]|4}}",
         "type5e": "",
         "refs5e": "",
         "feature4e": "",
@@ -43,8 +26,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Guardian of nature''''' was a [[spell]] that transformed the caster into a powerful form.",
-        "Effects": "A caster used this spell to request assistance from a [[nature spirit]]. If successful, the caster was transformed into one of two forms. \n\n'''Great Tree''': The caster's skin became rough like bark and leaves grew from their hair. This transformation gave the caster additional strength and adeptness. The ground around the caster become difficult to travel for other creatures.\n\n'''Primal Strength''': If this form was chosen, the caster's body was covered in a fine fur and their face transformed into an animal-like visage. This transformation gave the caster additional speed and strength, increased [[darkvision]], and made the caster more deadly in a melee attack.",
-        "Components": "This spell required only a [[Verbal component|verbal]] component."
+        "mainbody": "Guardian of nature was a spell that transformed the caster into a powerful form.\nA caster used this spell to request assistance from a nature spirit. If successful, the caster was transformed into one of two forms. \nGreat Tree The casters skin became rough like bark and leaves grew from their hair. This transformation gave the caster additional strength and adeptness. The ground around the caster become difficult to travel for other creatures.\nPrimal Strength If this form was chosen, the casters body was covered in a fine fur and their face transformed into an animal-like visage. This transformation gave the caster additional speed and strength, increased darkvision, and made the caster more deadly in a melee attack.\nThis spell required only a verbal component."
     }
 }

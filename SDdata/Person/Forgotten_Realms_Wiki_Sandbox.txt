@@ -1,141 +1,101 @@
-Okay, here's our sandbox. Have fun practising your wiki skills!
-<imagemap>
-File:Cosmology.jpg|frame|alt=Blah|The World Tree View, Prior To The [[Spellplague]].
-rect 191 344 221 358 [[Toril]]
-rect 5 345 89 414 [[Fugue Plane]]
-rect 164 395 242 413 [[Prime Material Plane|Material Plane]]
-rect 328 345 403 405 [[Cynosure]]
-
+Okay, heres our sandbox. Have fun practising your wiki skills!
+FileCosmology.jpg|frame|alt=Blah|The World Tree View, Prior To The Spellplague.
+rect 191 344 221 358 Toril
+rect 5 345 89 414 Fugue Plane
+rect 164 395 242 413 Material Plane
+rect 328 345 403 405 Cynosure
 # Celestial Planes
-rect 16 313 99 331 [[Celestial Plane|Celestial Planes]]
-rect 37 50 87 56 [[Gates of the Moon]]
-rect 55 83 86 91 [[Brightwater]]
-rect 54 113 89 121 [[Golden Hills]]
-rect 55 154 110 163 [[House of Knowledge]]
-rect 32 184 72 192 [[Dweomerheart]]
-rect 70 197 121 204 [[House of the Triad]]
-rect 55 231 89 238 [[Greenfields|Green Fields]]
-circle 78 277 5 [[Arvandor]]
-circle 53 298 5 [[Dwarfhome]]
-
+rect 16 313 99 331 Celestial Planes
+rect 37 50 87 56 Gates of the Moon
+rect 55 83 86 91 Brightwater
+rect 54 113 89 121 Golden Hills
+rect 55 154 110 163 House of Knowledge
+rect 32 184 72 192 Dweomerheart
+rect 70 197 121 204 House of the Triad
+rect 55 231 89 238 Green Fields
+circle 78 277 5 Arvandor
+circle 53 298 5 Dwarfhome
 # Elemental Planes
-rect 161 474 250 493 [[Elemental Plane|Elemental Planes]]
-circle 59 493 5 [[Elemental Plane of Air]]
-circle 127 513 5 [[Elemental Plane of Water]]
-circle 287 513 5 [[Elemental Plane of Fire]]
-circle 352 485 5 [[Elemental Plane of Earth]]
-
+rect 161 474 250 493 Elemental Planes
+circle 59 493 5 Elemental Plane of Air
+circle 127 513 5 Elemental Plane of Water
+circle 287 513 5 Elemental Plane of Fire
+circle 352 485 5 Elemental Plane of Earth
 # Energy Planes
-circle 324 447 5 [[Negative Energy Plane]]
-circle 88 449 5 [[Positive Energy Plane]]
-
+circle 324 447 5 Negative Energy Plane
+circle 88 449 5 Positive Energy Plane
 # Fiendish Planes
-rect 311 310 394 331 [[Fiendish Plane|Fiendish Planes]]
-circle 345 60 5 [[Abyss|The Abyss]]
-circle 312 69 5 [[Blood Rift]]
-circle 356 81 5 [[Nine Hells|The Nine Hells]]
-circle 333 118 5 [[Banehold|Barrens of Doom and Despair]]
-circle 359 138 5 [[Clangor]]
-circle 315 152 5 [[Supreme Throne|The Supreme Throne]]
-circle 331 179 5 [[Fury's Heart]]
-circle 359 195 5 [[Hammergrim]]
-circle 359 222 5 [[Nishrek]]
-circle 312 222 5 [[Demonweb Pits]]
-circle 352 260 5 [[Deep Caverns]]
-circle 353 296 5 [[Fated Deaths|The Fated Deaths]]
-
+rect 311 310 394 331 Fiendish Planes
+circle 345 60 5 The Abyss
+circle 312 69 5 Blood Rift
+circle 356 81 5 The Nine Hells
+circle 333 118 5 Barrens of Doom and Despair
+circle 359 138 5 Clangor
+circle 315 152 5 The Supreme Throne
+circle 331 179 5 Furys Heart
+circle 359 195 5 Hammergrim
+circle 359 222 5 Nishrek
+circle 312 222 5 Demonweb Pits
+circle 352 260 5 Deep Caverns
+circle 353 296 5 The Fated Deaths
 # Neutral Planes
-circle 200 110 5 [[Dragon Eyrie]]
-circle 177 145 5 [[Heliopolis]]
-circle 221 165 5 [[House of Nature]]
-circle 193 195 5 [[Warrior's Rest]]
-circle 217 218 5 [[Jotunheim]]
-
+circle 200 110 5 Dragon Eyrie
+circle 177 145 5 Heliopolis
+circle 221 165 5 House of Nature
+circle 193 195 5 Warriors Rest
+circle 217 218 5 Jotunheim
 # Transitive Planes
-circle 174 382 5 [[Ethereal Plane]]
-circle 236 382 5 [[Plane of Shadow]]
-
-</imagemap>
-<imagemap>	 
-Image:Cosmology-3e_small.png|thumb|right|406px|alt=Blah|An&nbsp;Alternative&nbsp;View&nbsp;Of&nbsp;The&nbsp;Planes
-circle 222 24 11 [[Cynosure]]	 
-circle 335 72 11 [[Far Realm]]	 
-rect 169 194 192 204 [[Prime Material Plane|Toril]]	 
-rect 286 215 314 225 [[Astral Sea|Astral Plane]]	 
-circle 90 293 11 [[Feywild|Faerie]]	 
-circle 220 317 11 [[Fugue Plane]]	 
-	 
+circle 174 382 5 Ethereal Plane
+circle 236 382 5 Plane of Shadow
+ImageCosmology-3e_small.png|thumb|right|406px|alt=Blah|An&nbspAlternative&nbspView&nbspOf&nbspThe&nbspPlanes
+circle 222 24 11 Cynosure	 
+circle 335 72 11 Far Realm	 
+rect 169 194 192 204 Toril	 
+rect 286 215 314 225 Astral Plane	 
+circle 90 293 11 Faerie	 
+circle 220 317 11 Fugue Plane	 
 # Celestial Planes	 
-rect 174 101 244 111 [[Dweomerheart]]	 
-rect 133 86 188 96 [[Dwarfhome]]	 
-rect 94 100 138 123 [[House of the Triad]]	 
-rect 42 93 87 115 [[Gates of the Moon]]	 
-rect 2 125 55 150 [[House of Knowledge]]	 
-rect 9 165 44 187 [[Golden Hills]]	 
-rect 2 197 32 220 [[Green Fields]]	 
-rect 6 237 60 248 [[Brightwater]]	 
-rect 60 253 105 263 [[Arvandor]]	 
-	 
+rect 174 101 244 111 Dweomerheart	 
+rect 133 86 188 96 Dwarfhome	 
+rect 94 100 138 123 House of the Triad	 
+rect 42 93 87 115 Gates of the Moon	 
+rect 2 125 55 150 House of Knowledge	 
+rect 9 165 44 187 Golden Hills	 
+rect 2 197 32 220 Green Fields	 
+rect 6 237 60 248 Brightwater	 
+rect 60 253 105 263 Arvandor	 
 # Elemental Planes	 
-rect 208 137 224 148 [[Elemental Plane of Air]]	 
-rect 118 174 138 185 [[Elemental Plane of Fire]]	 
-rect 318 188 288 178 [[Elemental Plane of Water]]	 
-rect 205 219 231 229 [[Elemental Plane of Earth]]	 
-	 
+rect 208 137 224 148 Elemental Plane of Air	 
+rect 118 174 138 185 Elemental Plane of Fire	 
+rect 318 188 288 178 Elemental Plane of Water	 
+rect 205 219 231 229 Elemental Plane of Earth	 
 # Energy Planes	 
-circle 222 77 20 [[Positive Energy Plane]]	 
-circle 222 275 20 [[Negative Energy Plane]]	 
-	 
+circle 222 77 20 Positive Energy Plane	 
+circle 222 275 20 Negative Energy Plane	 
 # Fiendish Planes	 
-rect 264 93 294 116 [[Fury's Heart]]	 
-rect 305 98 367 109 [[Hammergrim]]	 
-rect 347 117 395 126 [[Nine Hells]]	 
-rect 378 133 459 158 [[Banehold|Barrens of Doom and Despair]]	 
-rect 405 171 448 193 [[Supreme Throne|The Supreme Throne]]	 
-rect 401 206 437 215 [[Nishrek]]	 
-rect 385 229 460 238 [[Demonweb Pits]]	 
-rect 353 252 402 263 [[Abyss|The Abyss]]	 
-	 
+rect 264 93 294 116 Furys Heart	 
+rect 305 98 367 109 Hammergrim	 
+rect 347 117 395 126 Nine Hells	 
+rect 378 133 459 158 Barrens of Doom and Despair	 
+rect 405 171 448 193 The Supreme Throne	 
+rect 401 206 437 215 Nishrek	 
+rect 385 229 460 238 Demonweb Pits	 
+rect 353 252 402 263 The Abyss	 
 # Neutral Planes	 
-rect 125 272 166 294 [[Warrior's Rest]]	 
-rect 300 267 335 291 [[Dragon Eyrie]]	 
-rect 166 288 210 310 [[House of Nature]]	 
-rect 246 290 291 301 [[Heliopolis]]	 
-	 
+rect 125 272 166 294 Warriors Rest	 
+rect 300 267 335 291 Dragon Eyrie	 
+rect 166 288 210 310 House of Nature	 
+rect 246 290 291 301 Heliopolis	 
 # Transitive Planes	 
-rect 154 155 193 164 [[Plane of Shadow|Shadow]]	 
-rect 252 153 291 162 [[Ethereal Plane]]	 
-		 
-</imagemap><blockquote>Hello World<br>
-</blockquote>{{Person
-| image        = [[Image:Catti-brie - Todd Lockwood.jpg|250px]]
-| name         = Catti-brie
-| home         = [[Iruladoon]]<br />[[Mithral Hall]]<br />[[Icewind Dale]] (originally)
-| gender       = Female
-| race         = [[Human]]
-| dob          = 1339
-| dobnotes     = 
-| death        = 1385
-| deathnotes   = 
-| class        = {{class table|[[Fighter]]{{cite web |url= http://ww2.wizards.com/Books/Wizards/?doc=fr_lonedrowstats|title= The Lone Drow: Companions of the Hall|accessdate=2010-10-18 |format= |author= [[Thomas M. Costa]]|archiveurl=http://web.archive.org/web/20080424060219/http://ww2.wizards.com/Books/Wizards/?doc=fr_lonedrowstats|archivedate=2008-04-24}}|7}}
+rect 154 155 193 164 Shadow	 
+rect 252 153 291 162 Ethereal Plane	 
+Hello World
+|7
 | rules        = 3.5
-| alignment    = [[Chaotic good]]
-| patron deity = [[Dumathoin]]
+| alignment    = Chaotic good
+| patron deity = Dumathoin
 | nocat        = true
-}}
-
-
-}
-
-
-{{Refs}}
-
-[[Category:Forgotten Realms Wiki]]
-
-<DPL>
+CategoryForgotten Realms Wiki
     category = Wizards
     category = Inhabitants of the Sword Coast
-</DPL>
 0xk5xgmbaqcvy28fk2qwmkdikz85pbs
-
-

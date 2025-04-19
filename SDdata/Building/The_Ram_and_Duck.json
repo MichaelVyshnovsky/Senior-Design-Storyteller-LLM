@@ -1,32 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "The Ram and Duck",
-        "aliases": "",
-        "type": "Inn",
-        "architecture": "",
-        "floors": "",
-        "location": "[[Suzail]], [[Cormyr]]",
-        "owner": "",
-        "staff": "",
-        "occupants": "",
-        "services": "",
-        "worship": "",
-        "pipes": "",
-        "tankards": "",
-        "coins": "",
-        "daggers": "",
-        "quality": "",
-        "price": "",
-        "usethe": "",
-        "useon": "",
-        "inhabitants": "",
-        "locations": "",
-        "organizations": "",
-        "mainbody": "'''The Ram and Duck''' was a rough inn in [[Suzail]], [[Cormyr]].",
-        "Structure": {
-            "Interior": "It had exposed timbers. Most of its furniture was old enough to have been broken and repaired several times. A line of pegs held up the inn's [[mug]]s, but none of them matched one another. The wooden floorboards were loose. The inn's shutters were wooden slats set with the bottoms of broken bottles."
-        }
+        "mainbody": "he Ram and Duck was a rough inn in Suzail, Cormyr.\nIt had exposed timbers. Most of its furniture was old enough to have been broken and repaired several times. A line of pegs held up the inns mugs, but none of them matched one another. The wooden floorboards were loose. The inns shutters were wooden slats set with the bottoms of broken bottles."
     }
 }

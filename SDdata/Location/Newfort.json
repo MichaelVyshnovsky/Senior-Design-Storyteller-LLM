@@ -1,22 +1,8 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Newfort",
-        "alt spelling": "",
-        "aliases": "",
-        "type": "Settlement",
-        "region": "[[Sundabar Vale]], [[Silver Marches]]",
-        "size": "Hamlet",
-        "elevation": "",
-        "depth": "",
-        "georefs": "",
-        "demonym": "",
-        "population": "",
-        "races": "{{Template:Percentage table|[[Human]]s|94|[[Half-orc]]s|4|[[Half-elves]]|2}}",
         "languages": "",
         "religion": "",
-        "alignment": "[[Lawful neutral]]",
+        "alignment": "Lawful neutral",
         "socrefs": "",
         "imports": "",
         "exports": "",
@@ -34,7 +20,7 @@
         "judiciary": "",
         "allegiances": "",
         "govrefs": "",
-        "established": "[[1371 DR]]",
+        "established": "1371 DR",
         "start event": "",
         "start date": "",
         "event1": "",
@@ -61,7 +47,7 @@
         "population5": "",
         "popyear5": "",
         "poptable": "",
-        "ruler1": "[[Trevis Uhl]]",
+        "ruler1": "Trevis Uhl",
         "ruleryear1": "1372",
         "ruler2": "",
         "ruleryear2": "",
@@ -86,16 +72,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "[[File:Newfort Map.jpg|thumb]]\n'''Newfort''' was a small hamlet built atop a hill found in the [[Sundabar Vale]], within the [[Old Delzoun]] region of the [[Silver Marches]].",
-        "Description": "The small hamlet comprised about two score wood cottages built around a small stream, built atop a small hill encircled by a wooden palisade.",
-        "Geography": "Newfort was located approximately {{SI|15|mi|k}} east of [[Sundabar]], {{SI|3|mi|k}} south of the [[Fork Road]], in the foothills of the the [[Rauvin Mountains]].",
-        "History": "Newfort was founded in the {{YearlinkName|1371}}, by two retired members of the [[Zhentarim]] named [[Trevis Uhl]] and [[Gyreth Ilgarn]]. Trevis took it upon himself to serve as the town's first mayor while Gyreth served as its constable.\n\nIn the {{YearlinkName|1374}}, Newfort and the settlements of [[Jalanthar]] and [[Quaevarr]] were all terrorized by the [[barlgura]] [[Scauuont]], all within the span of a single week.\n\nBy the time of the [[War of the Silver Marches]] in the late 15{{th}} century [[DR]], Newfort had become a way station welcoming any travelers to stay the night in safety.",
-        "Notable Locations": "* [[Hero's Reward]], a cozy tavern that stayed in the town for over a century.\n* [[Narm's Exchange]], a trading post owned by the [[Half-orc]] [[Deliyra Narm]].\n* Shrine of [[Tempus]], the [[Tempuran]] shrine erected by the bull-headed, ex-[[Zhent]] priest [[Nargroth]].\n* Stauvin's Mill, a successful millhouse run by [[Stauvin Stonebrace]], the landowner atop whose land Newfort was originally built.",
-        "Inhabitants": {
-            "Notable Inhabitants": {
-                "14{{th}} Century": "* [[Trevis Uhl]], Newfort's first mayor.\n* [[Stauvin Stonebrace]], a man considered to be the richest in all of Newfort.",
-                "15{{th}} Century": "* [[Delf Dereldar]], [[half-elf]] tavern owner.\n* [[Jorok Narm]], [[half-orc]] constable."
-            }
-        }
+        "mainbody": "thumb\nNewfort was a small hamlet built atop a hill found in the Sundabar Vale, within the Old Delzoun region of the Silver Marches.\nThe small hamlet comprised about two score wood cottages built around a small stream, built atop a small hill encircled by a wooden palisade.\nNewfort was located approximately  east of Sundabar,  south of the Fork Road, in the foothills of the the Rauvin Mountains.\nNewfort was founded in the , by two retired members of the Zhentarim named Trevis Uhl and Gyreth Ilgarn. Trevis took it upon himself to serve as the towns first mayor while Gyreth served as its constable.\nIn the , Newfort and the settlements of Jalanthar and Quaevarr were all terrorized by the barlgura Scauuont, all within the span of a single week.\nBy the time of the War of the Silver Marches in the late 15 century DR, Newfort had become a way station welcoming any travelers to stay the night in safety.\n* Heros Reward, a cozy tavern that stayed in the town for over a century.\n* Narms Exchange, a trading post owned by the Half-orc Deliyra Narm.\n* Shrine of Tempus, the Tempuran shrine erected by the bull-headed, ex-Zhent priest Nargroth.\n* Stauvins Mill, a successful millhouse run by Stauvin Stonebrace, the landowner atop whose land Newfort was originally built.\nBecause Newforts founders both had a strong affiliation with the Zhent armies of the Moonsea, it attracted many people that fled the region following the rise to power of the Zhentarim.\n14 Century\n* Trevis Uhl, Newforts first mayor.\n* Stauvin Stonebrace, a man considered to be the richest in all of Newfort.\n15 Century\n* Delf Dereldar, half-elf tavern owner.\n* Jorok Narm, half-orc constable."
     }
 }

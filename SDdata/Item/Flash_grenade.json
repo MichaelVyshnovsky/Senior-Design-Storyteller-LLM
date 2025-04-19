@@ -1,27 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Flash grenade",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Explosive",
-        "creator": "[[Deep gnome]]s",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "60 [[gp]]",
-        "weight3e": "{{frac|1|10}} lbs",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -38,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Flash grenades''' were a type of non-lethal explosive developed by [[deep gnome]]s that disoriented and blinded foes.",
-        "Description": "These explosives were about the size of a [[chicken]] [[egg]] and were fragile.",
-        "Powers": "In order to be set off, a flash grenade had to thrown onto a fire source. Once set off, these grenades exploded out into a brilliant flare of light. creatures with eyes sensitive to strong lights, such as the [[drow]] and many denizens of the [[Underdark]], were especially affected by this flash."
+        "mainbody": "Flash grenades were a type of non-lethal explosive developed by deep gnomes that disoriented and blinded foes.\nThese explosives were about the size of a chicken egg and were fragile.\nIn order to be set off, a flash grenade had to thrown onto a fire source. Once set off, these grenades exploded out into a brilliant flare of light. creatures with eyes sensitive to strong lights, such as the drow and many denizens of the Underdark, were especially affected by this flash."
     }
 }

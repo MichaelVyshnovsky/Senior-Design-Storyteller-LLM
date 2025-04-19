@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "l|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Hydrogen",
-        "aliases": "",
-        "locations": "",
-        "discovered": "",
-        "date": "",
-        "creators": "",
-        "created": "",
-        "hisrefs": "",
-        "type": "Elemental substance",
-        "components": "",
-        "color": "",
-        "properties": "Gas",
-        "markings": "",
-        "phyrefs": "",
-        "uses": "Conveyances",
-        "cost": "",
-        "userefs": "",
-        "items": "",
-        "mainbody": "'''Hydrogen''' was an elemental gas found in the [[Realms]].",
-        "Availability": "In {{yearlinkConvert|3520|NY}}, the [[Elemental Store]] of [[Karsus Enclave]] sold pure elemental hydrogen gas for 1 [[sp]] per {{SI|1|cubic foot|l|long=yes}}.",
-        "Usages": "* Hydrogen was used in esoteric modes of transportation."
+        "mainbody": "ydrogen was an elemental gas found in the Realms.\nIn , the Elemental Store of Karsus Enclave sold pure elemental hydrogen gas for 1 sp per .\n* Hydrogen was used in esoteric modes of transportation."
     }
 }

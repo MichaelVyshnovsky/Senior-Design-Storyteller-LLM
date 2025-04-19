@@ -1,20 +1,8 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Rashad al-Din",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Liham]], [[Zakhara]]{{cite book/Assassin Mountain/Holy Slayer Sourcebook|16-17}}",
         "formerhomes": "",
         "sex": "Male",
-        "race": "[[Human]]",
+        "race": "Human",
         "ethnicity": "",
         "occupation": "",
         "age": "",
@@ -37,8 +25,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Lawful evil]]",
-        "class2e": "{{class table|edition=2e|[[Thief]] ([[Holy slayer]])|7}}",
+        "alignment2e": "Lawful evil",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "class3e": "",
@@ -52,8 +40,6 @@
         "alignment5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Rashad al-Din''' was a [[holy slayer]] who lived in [[Liham]] in [[1367 DR]].{{AQ-time}}",
-        "Activities": "Rashad was a member of the holy slayer faction known as the [[Loyalists]].",
-        "Possessions": "Rashad owned a [[ring of invisibility]]."
+        "mainbody": "Rashad al-Din was a holy slayer who lived in Liham in 1367 DR.\nRashad was a member of the holy slayer faction known as the Loyalists.\nRashad owned a ring of invisibility."
     }
 }

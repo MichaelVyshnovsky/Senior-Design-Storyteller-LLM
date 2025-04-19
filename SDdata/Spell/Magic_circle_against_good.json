@@ -1,32 +1,21 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "edition_1": "2e",
-        "edition_2": "1e"
-    },
     "document_data": {
-        "name": "Magic Circle against Good",
-        "inventor": "[[M'dhal]]",
-        "level3e": "{{spell table|edition=3e|[[Assassin]]|3|[[Cleric]]|3|[[Demonologist]]|2|[[Evil domain|Evil]]|3|[[Sorcerer]]|3|[[Wizard]]|3}}",
-        "descriptors3e": "{{desc/evil}}",
-        "domains3e": "[[Evil domain|Evil]]",
-        "school3e": "[[Abjuration]]",
+        "descriptors3e": "",
+        "domains3e": "Evil",
+        "school3e": "Abjuration",
         "type3e": "",
         "refs3e": "",
-        "school2e": "[[Abjuration]]<br/>[[Universal (province)]]<br/>[[Mentalism]]",
+        "school2e": "AbjurationUniversal (province)Mentalism",
         "reversible2e": "true",
-        "spheres2e": "[[Protection sphere|Protection]]",
-        "level2e": "{{spell table|edition=2e|[[Arcanist]]|3|[[Cleric]]|4|[[Mystic]]|4|[[Paladin]]|4|[[Protection sphere|Protection]]|4|[[Shaman]]|4|[[Wizard]]|3}}",
+        "spheres2e": "Protection",
+        "level2e": "",
         "type2e": "",
-        "refs2e": "<ref><ref>",
-        "school1e": "[[Abjuration]]",
+        "refs2e": "",
+        "school1e": "Abjuration",
         "reversible1e": "true",
-        "level1e": "{{spell table|edition=1e|[[Cleric]]|4|[[Magic-user]]|3|[[Paladin]]|4}}",
+        "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Magic circle against good''''', also known as '''''protection from good, 10' radius''''', was an [[abjuration]] spell that created a sphere of warding against mental and physical attacks from good creatures. The older version of this spell was reversible, called '''''[[protection from evil, 10' radius]]''''', and had identical effects on evil creatures.",
-        "Effects": "This spell operated just like ''[[magic circle against evil]]'' except that it extended the area of effect for ''[[protection from good]]'' rather than ''[[protection from evil]]'', and it could trap a nonevil summoned creature.",
-        "Components": "See the description of the components at ''[[magic circle against evil]]''.",
-        "History": "The [[Arcane magic|arcane version]] of ''protection from good, 10' radius'' was developed by [[Netheril|Netherese]] [[arcanist]] [[M'dhal]] in  [[-1040 DR|2819 NY (−1040 DR)]]. The non-reversed form was known as ''M'dahl's dispel evil II'' at that time."
+        "mainbody": "Magic circle against good, also known as protection from good, 10 radius, was an abjuration spell that created a sphere of warding against mental and physical attacks from good creatures. The older version of this spell was reversible, called protection from evil, 10 radius, and had identical effects on evil creatures.\nThis spell operated just like magic circle against evil except that it extended the area of effect for protection from good rather than protection from evil, and it could trap a nonevil summoned creature.\nSee the description of the components at magic circle against evil.\nThe arcane version of protection from good, 10 radius was developed by Netherese arcanist Mdhal in  2819 NY (−1040 DR). The non-reversed form was known as Mdahls dispel evil II at that time."
     }
 }

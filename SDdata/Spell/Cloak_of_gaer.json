@@ -1,34 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Cloak of Gaer",
-        "deity": "[[Lolth]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "reversible2e": "",
-        "school2e": "[[Necromancy]]",
-        "spheres2e": "[[Healing sphere|Healing]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|7}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -36,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Cloak of gaer''''' was a powerful [[spell]] used by [[cleric]]s of [[Lolth]].",
-        "Effects": "''Cloak of gaer'' provided the caster or a targeted creature with significant healing powers. When cast, the targeted creature was enveloped by a faint aura. The spell was very powerful, capable of even regenerating severed or missing extremities. Not only did ''cloak of gaer'' heal, it also provided protection against every type of poison, parasite and disease as well as the effects of charm or insanity-based spells. It also protected against external mental influences, curses and geas.\n\nOnce cast, the spell rejuvenated the cast or targeted creature. They became more alert and felt no pain. If exhausted they felt fully awake and if they were inebriated, full sobriety was restored.\n\nThe spell healed any damage the caster or targeted creature received. If cast after major trauma, the spell fully healed any injuries. However, the individual had to survive the intense shock to the system.\n\nThe spell was so powerful it could even restore life to a very recently decease individual. ''[[Dispel magic]]'' had no effect on the spell.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required [[material component]]s: four drops of the caster's blood, four drops of dew and four drops of [[holy water]]."
+        "mainbody": "Cloak of gaer was a powerful spell used by clerics of Lolth.\nCloak of gaer provided the caster or a targeted creature with significant healing powers. When cast, the targeted creature was enveloped by a faint aura. The spell was very powerful, capable of even regenerating severed or missing extremities. Not only did cloak of gaer heal, it also provided protection against every type of poison, parasite and disease as well as the effects of charm or insanity-based spells. It also protected against external mental influences, curses and geas.\nOnce cast, the spell rejuvenated the cast or targeted creature. They became more alert and felt no pain. If exhausted they felt fully awake and if they were inebriated, full sobriety was restored.\nThe spell healed any damage the caster or targeted creature received. If cast after major trauma, the spell fully healed any injuries. However, the individual had to survive the intense shock to the system.\nThe spell was so powerful it could even restore life to a very recently decease individual. Dispel magic had no effect on the spell.\nIn addition to verbal and somatic components, this spell required material components four drops of the casters blood, four drops of dew and four drops of holy water."
     }
 }

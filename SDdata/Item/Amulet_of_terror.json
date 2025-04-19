@@ -1,47 +1,5 @@
 {
-    "template_data": {
-        "30|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Amulet of Terror''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Amulet",
-        "location": "[[Kadar]], [[Cities of the Ancients]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "",
-        "refs3e": "",
-        "level4e": "",
-        "value4e": "",
-        "weight4e": "",
-        "refs4e": "",
-        "rarity5e": "",
-        "attunement5e": "",
-        "school5e": "",
-        "level5e": "",
-        "value5e": "",
-        "weight5e": "",
-        "refs5e": "",
-        "communication": "",
-        "languages": "",
-        "alignment": "",
-        "sentientrefs": "",
-        "mainbody": "An '''''amulet of terror''''' was a [[handglyph]] used by the [[Geomancer]]s of [[Kadar]].",
-        "Powers": "This amulet cloaked the wielder in a purple aura of awful power. Anyone within a {{SI|30|ft|long=yes}} radius of the wielder would be frozen in terror and unable to perform any other actions for several minutes.\n\nMost ''amulets of terror'' had between 20—50 charges.",
-        "Description": "These items could be found in a variety of shapes and sizes."
+        "mainbody": "n amulet of terror was a handglyph used by the Geomancers of Kadar.\nThis amulet cloaked the wielder in a purple aura of awful power. Anyone within a  radius of the wielder would be frozen in terror and unable to perform any other actions for several minutes.\nMost amulets of terror had between 20—50 charges.\nThese items could be found in a variety of shapes and sizes."
     }
 }

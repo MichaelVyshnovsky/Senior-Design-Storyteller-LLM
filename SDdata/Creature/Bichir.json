@@ -1,31 +1,5 @@
 {
     "document_data": {
-        "image": "<gallery>",
-        "name": "Bichir",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "",
-        "type3e": "",
-        "subtype3e": "",
-        "alignment3e": "",
-        "challenge3e": "",
-        "refs3e": "",
-        "alignment2e": "[[Unaligned|Nil]]",
-        "size2e": "Large",
-        "refs2e": "",
-        "size1e": "Large",
-        "alignment1e": "[[Neutral]]",
-        "refs1e": "{{Cite dragon/89/Creature Catalogue|4}}",
         "patron deity": "",
         "vision": "",
         "activecycle": "Day",
@@ -39,10 +13,10 @@
         "terrain": "Swamp",
         "genrefs": "",
         "height": "",
-        "length": "{{SIrange|9|12|ft}}",
+        "length": "",
         "wingspan": "",
         "weight": "",
-        "skincolor": "Tan, brown, cream; mottled black and white on head",
+        "skincolor": "Tan, brown, cream mottled black and white on head",
         "haircolor": "",
         "feathers": "",
         "eyecolor": "Black",
@@ -51,11 +25,6 @@
         "based": "",
         "first": "",
         "histrefs": "",
-        "mainbody": "A '''bichir''', also called a '''giant lungfish''' or '''marsh lizard''', was a large fish found in many swamps. It was a giant cousin of the common [[Wikipedia:lungfish|lungfish]].",
-        "Description": "Bichir were very large and had long, thick bodies. They had large jaws filled with razor-sharp teeth. Their scales were smooth and colored to allow camouflage with the murky water of swamps. Their eyes were black, set in a broad and flat head. They had fins that ran along their backs, ending in a broad tail.",
-        "Combat": "The bichir could hunt on land as well as in the water. On land its movement was slow; the fish used its body to slither and fins to aid in movement. It would use its sense of smell to track prey. The bichir would strike with sudden forward movement, attacking its prey with its powerful teeth. It never swallowed prey whole, preferring to drag it back to the water and consume it in pieces. In water, the bichir's sense of sight was superior and was able to spot prey from a distance of eighty yards. On land its vision abilities were reduced and it could only see about twenty yards. It would hunt amphibians, large animals, fish, and insects, but the bichir's favorite prey was [[lizardfolk]]. \n\nThe bichir had the ability to cast an ''[[entangle]]'' spell on its prey, with a range of sixty yards. It could only use it up to six times in a twenty-four hour period. This spell was also the primary defensive measure of the bichir while on land.\n\nDespite having a natural resistance to [[magic]] attacks, the bichir feared magic and magic users, and would flee any creature with magical abilities or artefacts.",
-        "Ecology": {
-            "Habitats": "In [[Northwest Faerûn]], some bichirs were known to dwell within the [[Mere of Dead Men]].{{Cite dragon/258/Voaraghamanthar, \"the Black Death\"|53}}"
-        }
+        "mainbody": "A bichir, also called a giant lungfish or marsh lizard, was a large fish found in many swamps. It was a giant cousin of the common lungfish.\nBichir were very large and had long, thick bodies. They had large jaws filled with razor-sharp teeth. Their scales were smooth and colored to allow camouflage with the murky water of swamps. Their eyes were black, set in a broad and flat head. They had fins that ran along their backs, ending in a broad tail.\nThe bichir could hunt on land as well as in the water. On land its movement was slow the fish used its body to slither and fins to aid in movement. It would use its sense of smell to track prey. The bichir would strike with sudden forward movement, attacking its prey with its powerful teeth. It never swallowed prey whole, preferring to drag it back to the water and consume it in pieces. In water, the bichirs sense of sight was superior and was able to spot prey from a distance of eighty yards. On land its vision abilities were reduced and it could only see about twenty yards. It would hunt amphibians, large animals, fish, and insects, but the bichirs favorite prey was lizardfolk. \nThe bichir had the ability to cast an entangle spell on its prey, with a range of sixty yards. It could only use it up to six times in a twenty-four hour period. This spell was also the primary defensive measure of the bichir while on land.\nDespite having a natural resistance to magic attacks, the bichir feared magic and magic users, and would flee any creature with magical abilities or artefacts.\nThe bichir lived in schools but hunted alone. Similar to a lungfish, it had lungs and swim bladders, and must keep its scales moist while hunting on land, thus they never ventured far from water. Mating only occurred when the swamp it resided in became flooded, usually in the spring. They would travel until they found a mate, sometimes over great distances. Gestation lasted about six months and one to three young were born at a time. The young had limited mobility on land. The young could use its innate ability to cast the entangle spell but only three times in a day, and was born with the full magical resistance that adults had. The bichir had no language but would use a panting-like noise to signal each other and to attract mates.\nIn Northwest Faerûn, some bichirs were known to dwell within the Mere of Dead Men."
     }
 }

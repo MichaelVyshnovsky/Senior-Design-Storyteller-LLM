@@ -1,18 +1,5 @@
 {
-    "template_data": {
-        "k|long": "yes",
-        "40|mi|k|long": "yes",
-        "20|mi|k|long": "yes"
-    },
     "document_data": {
-        "image": "Safaq.JPG",
-        "caption": "A map showing Durrar Island south of the Pearl Banks.",
-        "name": "Durrar Island",
-        "alt spelling": "",
-        "aliases": "",
-        "type": "Island",
-        "region": "[[Crowded Sea]], [[West Zakhara]]",
-        "size": "{{SI|800|sq mi|k|long=yes}}",
         "elevation": "",
         "depth": "",
         "capital": "",
@@ -54,7 +41,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "'''Durrar Island''' was a small island in the [[Crowded Sea]] within [[west Zakhara]].{{Cite interactive atlas|B2bSWIc}}",
-        "Geography": "The island was located due south of the [[Pearl Banks]] and the city of [[Safaq]] on the mainland of the [[Pearl Cities]] region. Durrar Island was wider than it was long, measuring roughly {{SI|40|mi|k|long=yes}} wide and {{SI|20|mi|k|long=yes}} long. The entire island was surrounded by coral reefs and two small unamed islands sat off its northeast corner. There were no settlements on Durrar Island as of [[1367 DR]].{{AQ-time}}"
+        "mainbody": "Durrar Island was a small island in the Crowded Sea within west Zakhara.\nThe island was located due south of the Pearl Banks and the city of Safaq on the mainland of the Pearl Cities region. Durrar Island was wider than it was long, measuring roughly  wide and  long. The entire island was surrounded by coral reefs and two small unamed islands sat off its northeast corner. There were no settlements on Durrar Island as of 1367 DR."
     }
 }

@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "15'|'\"|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Executioner's Eyes",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Divination]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Demarche]]|9|[[Lorekeeper]]|9|[[Sorcerer]]|9|[[Wizard]]|9}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -38,7 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Executioner's eyes''''' was a powerful [[spell]] from the [[divination]] school of magic, used by [[arcane]] spellcasters, [[Demarche]]s of [[Mask]], and [[Lorekeeper]]s of [[Oghma]].",
-        "Effects": "When cast, the spell dramatically boosted the targets' vision, giving them insight into the opponents' every vulnerability and every weakness. Creatures affected by the spell were given a boon of improved aim, the damage they could deal, and increased chances of landing especially crippling and devastating blows. The spell affected every friendly creature within the {{SIAdj|15'|'\"|long=yes}} radius area and lasted for 60 seconds."
+        "mainbody": "Executioners eyes was a powerful spell from the divination school of magic, used by arcane spellcasters, Demarches of Mask, and Lorekeepers of Oghma.\nWhen cast, the spell dramatically boosted the targets vision, giving them insight into the opponents every vulnerability and every weakness. Creatures affected by the spell were given a boon of improved aim, the damage they could deal, and increased chances of landing especially crippling and devastating blows. The spell affected every friendly creature within the  radius area and lasted for 60 seconds."
     }
 }

@@ -1,18 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Lowroad",
-        "type": "Tunnel",
-        "aliases": "",
-        "length": "",
-        "width": "",
-        "pavement": "",
-        "location": "",
-        "usethewithloc": "",
-        "starts": "[[Delzoun]]",
-        "ends": "[[Netheril]]",
-        "built": "{{Yearlink|-3416}}",
         "refs": "",
         "daggers": "",
         "usethe": "yes",
@@ -20,10 +7,6 @@
         "locations": "yes",
         "settlements": "yes",
         "events": "",
-        "mainbody": "'''Lowroad''' was a series of natural and carved tunnels that served as a trade route from the [[Citadel Felbarr]] of [[Delzoun]], to the lands of [[Netheril]] via the port city of [[Ascore]].",
-        "Description": "Besides Citadel Felbarr and Ascore, this route connected to the dwarven mining village of [[Glen]] and the kingdom of [[Rimmitor]].",
-        "History": "The underground passageway was completed in the year {{Yearlink|-3416}}. During the [[Age of the Proud People]], the Lowroad had numerous [[dwarven]] outposts, each of which were able to close off the subterranean passageways during emergencies.\n\nWhen the [[Netheril|Empire of Netheril]] fell in {{Yearlink|-339}}, the dwarves of Ascore sealed off the eastward portion of the Lowroad, fearful of the destruction caused by the [[Netherese]] [[arcanist]]s. All of the dwarven merchants and Netherese commoners were caught in this trapped off portion were killed, and many returned as [[undead]] spirits.",
-        "Notable Locations": "The exact location and names of private family strongholds were kept very secret among the Dwarves. Some of the known strongholds that could be found along the route were named Adaern, Fell’s Axe, Muranthor, and Uldel’s Leap.",
-        "Reputation": "In the [[Present Age]], the Lowroad was known to nearly all dwarves and [[gnome]]s throughout the [[Western Heartlands]], though only a few fierce individualist traders knew the correct route. Among [[human]]s, only a few well-connected traveling merchants knew what and where the Lowroad truly was. Most humans believed, due to a popular ballad, that the \"Lowroad\" was a near-bottomless clear tunnel that dying dwarves would traverse in a sort of [[pilgrim]]age to die before [[Dwarven pantheon|their gods]], ending up in a vast cavern of dwarven skeletons.{{Cite web/Candlekeep forum/Questions for Ed Greenwood (2004)/Low Road}}"
+        "mainbody": "Lowroad was a series of natural and carved tunnels that served as a trade route from the Citadel Felbarr of Delzoun, to the lands of Netheril via the port city of Ascore.\nBesides Citadel Felbarr and Ascore, this route connected to the dwarven mining village of Glen and the kingdom of Rimmitor.\nThe underground passageway was completed in the year . During the Age of the Proud People, the Lowroad had numerous dwarven outposts, each of which were able to close off the subterranean passageways during emergencies.\nWhen the Empire of Netheril fell in , the dwarves of Ascore sealed off the eastward portion of the Lowroad, fearful of the destruction caused by the Netherese arcanists. All of the dwarven merchants and Netherese commoners were caught in this trapped off portion were killed, and many returned as undead spirits.\nThe exact location and names of private family strongholds were kept very secret among the Dwarves. Some of the known strongholds that could be found along the route were named Adaern, Fell’s Axe, Muranthor, and Uldel’s Leap.\nIn the Present Age, the Lowroad was known to nearly all dwarves and gnomes throughout the Western Heartlands, though only a few fierce individualist traders knew the correct route. Among humans, only a few well-connected traveling merchants knew what and where the Lowroad truly was. Most humans believed, due to a popular ballad, that the \"Lowroad\" was a near-bottomless clear tunnel that dying dwarves would traverse in a sort of pilgrimage to die before their gods, ending up in a vast cavern of dwarven skeletons."
     }
 }

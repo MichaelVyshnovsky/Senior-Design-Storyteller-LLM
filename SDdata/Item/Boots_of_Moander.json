@@ -1,24 +1,5 @@
 {
-    "template_data": {
-        "4|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Boots of Moander.png",
-        "caption": "",
-        "name": "''Boots of Moander''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Boots]]",
-        "creator": "",
-        "location": "[[Temple of the Forgotten God]], [[Spine of the World]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "{{SI|4|lb|k|long=yes}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -41,9 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Boots of Moander''''' were [[enchanted]] [[boots]] worn by the cultists of [[Moander]], the god of rot and decay.",
-        "Description": "This magic footwear was made out of a patchwork of red and black [[leather]].",
-        "Powers": "These boots possessed a simple enchantment that rendered the wearer immune to the ''[[entangle]]'' spell and similar magical effects.",
-        "History": "Originally created by the cultists of Moander, several of these boots were in existence. Sometime before [[1281 DR]], a pair of these boots was used by the dark god's servants against deities of nature but eventually fell into the hands of [[Aldarra]] of [[Chauntea]] who passed them on to a friend of hers, a [[ranger]] named [[Liberton Twelvetrees]].\n\nIn 1281 DR, these boots ended up in the [[Temple of the Forgotten God]] on the [[Spine of the World]], a cult of [[druid]]s who stole the ''[[Heartstone Gem]]'' of [[Kuldahar]], claiming it as their holy relic."
+        "mainbody": "Boots of Moander were enchanted boots worn by the cultists of Moander, the god of rot and decay.\nThis magic footwear was made out of a patchwork of red and black leather.\nThese boots possessed a simple enchantment that rendered the wearer immune to the entangle spell and similar magical effects.\nOriginally created by the cultists of Moander, several of these boots were in existence. Sometime before 1281 DR, a pair of these boots was used by the dark gods servants against deities of nature but eventually fell into the hands of Aldarra of Chauntea who passed them on to a friend of hers, a ranger named Liberton Twelvetrees.\nIn 1281 DR, these boots ended up in the Temple of the Forgotten God on the Spine of the World, a cult of druids who stole the Heartstone Gem of Kuldahar, claiming it as their holy relic."
     }
 }

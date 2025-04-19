@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Water blast",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]], [[Sea (school)|Sea]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|5}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Water blast''''' was a [[spell]] unique to [[Zakhara]], the Land of Fate.",
-        "Effects": "This spell turned a regular bottle, or vial, of water into a deadly weapon. The caster opened the bottle and aimed the opening at a target, striking one target at a time as a ''[[magic missile]]'' would.\n\nThe water would always strike the target's face unless otherwise prevented from doing so. In addition to causing physical damage, the water blast blinded a target unless they did not have eyes.\n\nA bottle of holy water used this way caused additional damage to the [[undead]].",
-        "Components": "This spell required a bottle of water to cast."
+        "mainbody": "Water blast was a spell unique to Zakhara, the Land of Fate.\nThis spell turned a regular bottle, or vial, of water into a deadly weapon. The caster opened the bottle and aimed the opening at a target, striking one target at a time as a magic missile would.\nThe water would always strike the targets face unless otherwise prevented from doing so. In addition to causing physical damage, the water blast blinded a target unless they did not have eyes.\nA bottle of holy water used this way caused additional damage to the undead.\nThis spell required a bottle of water to cast."
     }
 }

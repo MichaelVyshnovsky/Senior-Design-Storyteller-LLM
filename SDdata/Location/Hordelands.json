@@ -1,29 +1,6 @@
 {
     "document_data": {
-        "type": "Region",
-        "name": "Hordelands",
-        "image": "Beacon Cairn.jpg",
-        "caption": "Part of the vast Hordelands.",
-        "aliases": "The Endless Wastes, Taan",
-        "demonym": "Taangan",
-        "capital": "''None''",
-        "area": "",
-        "size": "",
-        "ruler1": "[[Yamun Khahan]]",
-        "ruleryear1": "1360",
-        "ruler2": "",
-        "ruleryear2": "",
-        "ruler3": "",
-        "ruleryear3": "",
-        "ruler4": "",
-        "ruleryear4": "",
-        "ruler5": "",
-        "ruleryear5": "",
-        "rulertype": "",
-        "government": "Tribal",
-        "languages": "",
-        "races": "{{Percentage table|[[Humans]] ([[Tuigan]]s)|85|[[Gnoll]]s|8|[[Centaur]]s|5|[[Dwarves]]|1|Other|1|}}<br/>[[Lythari]] ([[Vil Adanrath]])",
-        "religion": "[[Grumbar|Etugen]], [[Akadi|Teylas]], local spirits, aspects of",
+        "religion": "Etugen, Teylas, local spirits, aspects of",
         "reckoning": "DR",
         "population1": "133,488",
         "popyear1": "1372",
@@ -31,8 +8,8 @@
         "popyear2": "",
         "population3": "",
         "popyear3": "",
-        "imports": "[[Coffee]], [[metal]]s, [[paper]], [[rice]], [[sugar]], [[tea]]",
-        "exports": "[[Gem]]s, [[leather]], [[livestock]], [[wool]]",
+        "imports": "Coffee, metals, paper, rice, sugar, tea",
+        "exports": "Gems, leather, livestock, wool",
         "alignment": "",
         "allegiance": "",
         "usethe": "yes",
@@ -48,16 +25,6 @@
         "events": "yes",
         "food and drink": "yes",
         "items": "yes",
-        "mainbody": "The '''Hordelands''', also known as '''The Endless Wastes'''",
-        "People": "The Endless Wastes were occupied by many tribes who controlled loosely defined geographical locations throughout the region. Common belief stated that all of the people of the Endless Wastes were the same, but this was not true. Each tribe had their own cultural differences, separating them from the others with vivid clarity to one who cared to look closely enough. Listed below are the tribes of the Endless Wastes:\n* [[Commani]]\n* [[Dalat]]\n* [[Fankiang]]\n* [[Gur]]\n* [[Guychiang]]\n* [[Igidugin]]\n* [[Kashghun]]\n* [[Khassidi]]\n* [[Naican]]\n* [[Oigur]]\n* [[Pazruki]]\n* [[T'aghur]]\n* [[Tuigan]]\n* [[Tsu-tsu]]\n* [[Zamogedi]]",
-        "Geography": "It was bordered on the north by [[Yal Tengri]], on the west by [[Narfell]], [[Rashemen]] and [[Thay]], on the south by [[Murghôm]], [[Semphar]] and the massive [[Yehimal]] mountains and on the east by the empire of [[Shou Lung]].\n\nThe Endless Wastes was largely a steppe landscape, too variable in temperature, and too infertile for farming, to make cities viable outside the small lakes and oases that dotted the landscape.\n\nWhile mostly consisting of steppes, the landscape also had a diverse geography consisting of mountains, sub-arctic forests, cold deserts, glaciers, tundra, and seas, some pleasant and livable, others worse than the steppe itself. Most of this diverse landscape was overlooked by outsiders, who only saw the emptiness of the region.",
-        "Trade": "The [[Golden Way]] passed through the Hordelands. In this region the Golden Way was not a road but merely a series of marker stones, each visible from the last. The Golden Way led from water hole to water hole and was extremely valuable in this region, for it was often the only marked route to water.",
-        "Notable locations": {
-            "Settlements": {
-                "Almorel": "One of the major trading cities of the Hordelands located on the [[Lake of Mists]] and was founded fifteen hundred years ago by [[Raumathar]].",
-                "Quaraband": "[[Yamun Khahan]]'s capital from the time of his rise to [[Khahan]] until the [[Crusade]].",
-                "Winterkeep": "A city of [[Raumathar]] located on the south shore of [[Yal Tengri]].  Originally a nobleman's estate, it later became the winter palace of the royal family and fell into ruins after the collapse of the empire.  By [[1357 DR]], it was only rubble."
-            }
-        }
+        "mainbody": "The Hordelands, also known as The Endless Wastes\nThe Endless Wastes were occupied by many tribes who controlled loosely defined geographical locations throughout the region. Common belief stated that all of the people of the Endless Wastes were the same, but this was not true. Each tribe had their own cultural differences, separating them from the others with vivid clarity to one who cared to look closely enough. Listed below are the tribes of the Endless Wastes\n* Commani\n* Dalat\n* Fankiang\n* Gur\n* Guychiang\n* Igidugin\n* Kashghun\n* Khassidi\n* Naican\n* Oigur\n* Pazruki\n* Taghur\n* Tuigan\n* Tsu-tsu\n* Zamogedi\nIt was bordered on the north by Yal Tengri, on the west by Narfell, Rashemen and Thay, on the south by Murghôm, Semphar and the massive Yehimal mountains and on the east by the empire of Shou Lung.\nThe Endless Wastes was largely a steppe landscape, too variable in temperature, and too infertile for farming, to make cities viable outside the small lakes and oases that dotted the landscape.\nWhile mostly consisting of steppes, the landscape also had a diverse geography consisting of mountains, sub-arctic forests, cold deserts, glaciers, tundra, and seas, some pleasant and livable, others worse than the steppe itself. Most of this diverse landscape was overlooked by outsiders, who only saw the emptiness of the region.\nThe Golden Way passed through the Hordelands. In this region the Golden Way was not a road but merely a series of marker stones, each visible from the last. The Golden Way led from water hole to water hole and was extremely valuable in this region, for it was often the only marked route to water.\nAlmorel One of the major trading cities of the Hordelands located on the Lake of Mists and was founded fifteen hundred years ago by Raumathar.\nQuaraband Yamun Khahans capital from the time of his rise to Khahan until the Crusade.\nWinterkeep A city of Raumathar located on the south shore of Yal Tengri.  Originally a noblemans estate, it later became the winter palace of the royal family and fell into ruins after the collapse of the empire.  By 1357 DR, it was only rubble."
     }
 }

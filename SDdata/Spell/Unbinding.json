@@ -1,34 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Unbinding",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "reversible2e": "",
-        "school2e": "[[Abjuration]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|9}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -36,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Unbinding''''' was a powerful [[spell]] that could negate the effects of other spells.",
-        "Effects": "When cast, a sphere of magical force materialized around the caster and moved with them. This sphere had a mobile nature and possessed the ability to unravel and nullify various forms of magical bindings, with a few exceptions. All spells that created seals or enclosures were instantly dispelled by the magical effect of this sphere.\n\nThis spell had the power to negate ''[[charm]]'' spells, hold spells of all types, ''[[Arcane lock|wizard lock]]s'', and similar closures. It could dismantle physical or magical barriers, guards and wards, ''[[temporal stasis]]'', ''[[slow]]'', ''[[time stop]]'', and other similar enchantments. It also terminated the effects of ''[[statue]]'' and shattered a ''[[magic jar]]'', permanently destroying it and extinguishing the life force within. Even a creature imprisoned beneath the caster's feet was liberated as if a freedom spell had been cast. Additionally, all spells that maintain magical effects, including other spells, released their effects.\n\nHowever, protective spells such as ''[[protection from evil]]'', ''[[shield (spell)|shield]]'', ''[[minor globe of invulnerability]]'', ''[[globe of invulnerability]]'', and similar enchantments remain unaffected by this spell. ''[[Petrification|Petrified]]'' creatures were not revealed or restored, and individuals bound to servitude, including familiars, [[invisible stalker]]s, [[genie]]s, and elementals, were not freed. An ''[[Antimagic field|antimagic shell]]'' remained impervious to the effects of this spell, and the sphere could not penetrate it. Protective circles and similar runic constructions that served as confinements were only affected if they held a creature captive. In such cases, the bindings were erased, or if physically impossible, they became ineffective except as mere decorations.\n\n''[[Curse]]s'', ''[[quest]]s'', and ''[[Geas/Quest|gea]]s'' spells were nullified by this spell only if the caster was as strong or stronger than the original caster. How the spell reacted with artifacts and relics varied.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required [[material component]]s, a [[lodestone]] and a pinch of [[saltpeter]]."
+        "mainbody": "Unbinding was a powerful spell that could negate the effects of other spells.\nWhen cast, a sphere of magical force materialized around the caster and moved with them. This sphere had a mobile nature and possessed the ability to unravel and nullify various forms of magical bindings, with a few exceptions. All spells that created seals or enclosures were instantly dispelled by the magical effect of this sphere.\nThis spell had the power to negate charm spells, hold spells of all types, wizard locks, and similar closures. It could dismantle physical or magical barriers, guards and wards, temporal stasis, slow, time stop, and other similar enchantments. It also terminated the effects of statue and shattered a magic jar, permanently destroying it and extinguishing the life force within. Even a creature imprisoned beneath the casters feet was liberated as if a freedom spell had been cast. Additionally, all spells that maintain magical effects, including other spells, released their effects.\nHowever, protective spells such as protection from evil, shield, minor globe of invulnerability, globe of invulnerability, and similar enchantments remain unaffected by this spell. Petrified creatures were not revealed or restored, and individuals bound to servitude, including familiars, invisible stalkers, genies, and elementals, were not freed. An antimagic shell remained impervious to the effects of this spell, and the sphere could not penetrate it. Protective circles and similar runic constructions that served as confinements were only affected if they held a creature captive. In such cases, the bindings were erased, or if physically impossible, they became ineffective except as mere decorations.\nCurses, quests, and geas spells were nullified by this spell only if the caster was as strong or stronger than the original caster. How the spell reacted with artifacts and relics varied.\nIn addition to verbal and somatic components, this spell required material components, a lodestone and a pinch of saltpeter."
     }
 }

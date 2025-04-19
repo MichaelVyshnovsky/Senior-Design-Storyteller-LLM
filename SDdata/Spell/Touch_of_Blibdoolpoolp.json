@@ -1,14 +1,6 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "name": "Touch of Blibdoolpoolp",
-        "school": "[[Transmutation]]",
-        "descriptors": "",
-        "level": "{{spell table|edition=3e|[[Cleric]]|3|[[Druid]]|3}}",
         "rules": "3.5",
-        "mainbody": "'''Touch of Blibdoolpoolp''' was a [[cleric]] and [[druid]] spell in the [[transmutation]] school granted to the faithful of the [[kuo-toa]]n deity [[Blibdoolpoolp]].",
-        "Powers": "The hand of the caster of this spell would turn into a large claw, resembling that of a [[lobster]].{{Cite dragon/342/Spellcraft: Alien Blessings|76}}"
+        "mainbody": "Touch of Blibdoolpoolp was a cleric and druid spell in the transmutation school granted to the faithful of the kuo-toan deity Blibdoolpoolp.\nThe hand of the caster of this spell would turn into a large claw, resembling that of a lobster."
     }
 }

@@ -1,32 +1,6 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Horizikaul's Cough",
-        "deity": "",
-        "inventor": "[[Horizikaul]]",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Evocation]]",
-        "domains3e": "",
-        "descriptors3e": "{{Desc/sonic}}",
-        "level3e": "{{spell table|edition=3e|[[Sorcerer]]|0|[[Wizard]]|0}}",
+        "level3e": "",
         "refs3e": "",
         "reversible2e": "",
         "school2e": "",
@@ -37,9 +11,6 @@
         "school1e": "",
         "level1e": "",
         "refs1e": "",
-        "mainbody": "'''''Horizikaul's cough''''' was a simple [[cantrip]] from the [[evocation]] school that created a short, loud noise.",
-        "Effects": "By completing this spell, the caster could cause a quick, loud sound to originate nearby a target person or object within close range. This sound could cause minor injury or even brief deafness.",
-        "Components": "To cast this spell required [[verbal component|verbal]] and [[somatic component]]s.",
-        "History": "This was one of several sonic spells attributed to the mage [[Horizikaul]]."
+        "mainbody": "Horizikauls cough was a simple cantrip from the evocation school that created a short, loud noise.\nBy completing this spell, the caster could cause a quick, loud sound to originate nearby a target person or object within close range. This sound could cause minor injury or even brief deafness.\nTo cast this spell required verbal and somatic components.\nThis was one of several sonic spells attributed to the mage Horizikaul."
     }
 }

@@ -1,43 +1,16 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "edition_1": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Illusory Wall",
-        "deity": "",
-        "inventor": "[[Toscudlo]]",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Illusion]] (Figment)",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Sorcerer]]|4|[[Wizard]]|4}}",
         "refs3e": "",
         "reversible2e": "",
-        "school2e": "[[Illusion/Phantasm]]<br/>[[Universal (province)]]<br/>[[Mentalism]]",
+        "school2e": "Illusion/PhantasmUniversal (province)Mentalism",
         "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Arcanist]]|4|[[Wizard]]|4}}",
-        "refs2e": "<ref><ref>",
+        "level2e": "",
+        "refs2e": "",
         "reversible1e": "",
         "school1e": "",
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Illusory wall''''' or '''''illusionary wall''''' (originally, '''''Toscudlo's illusionary wall''''') was a mid-power [[illusionist]] [[spell]], that created the false figment of a wall for persons to hide behind.",
-        "Effects": "This spell allowed the caster to create a visual illusion of a wall or similar surface, such as a ceiling or floor. The illusion was visually perfect, but solid objects passed through it effortlessly. The surface could be placed anywhere within close range and it could have dimensions up to one inch in width by ten feet in length by ten feet in height. Once created, the illusion was permanent unless [[Dispel magic|dispelled]].",
-        "Components": "Only [[verbal component|verbal]] and [[somatic component]]s were required to cast this spell.",
-        "History": "The spell was invented by the [[Netherese arcanist]] [[Toscudlo]]  in {{Yearlink|-1550}}."
+        "mainbody": "Illusory wall or illusionary wall (originally, Toscudlos illusionary wall) was a mid-power illusionist spell, that created the false figment of a wall for persons to hide behind.\nThis spell allowed the caster to create a visual illusion of a wall or similar surface, such as a ceiling or floor. The illusion was visually perfect, but solid objects passed through it effortlessly. The surface could be placed anywhere within close range and it could have dimensions up to one inch in width by ten feet in length by ten feet in height. Once created, the illusion was permanent unless dispelled.\nOnly verbal and somatic components were required to cast this spell.\nThe spell was invented by the Netherese arcanist Toscudlo  in ."
     }
 }

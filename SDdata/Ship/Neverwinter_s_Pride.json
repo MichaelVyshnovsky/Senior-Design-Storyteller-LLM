@@ -1,40 +1,5 @@
 {
-    "template_data": {
-        "80|feet|long": "yes",
-        "25|feet|long": "yes",
-        "20|foot|long": "yes",
-        "10|foot|long": "yes",
-        "adj": "high"
-    },
     "document_data": {
-        "image": "Talon of Umberlee - TYLER JACOBSON.png",
-        "caption": "''Neverwinter's Pride'' comes under assault from a kraken.",
-        "name": "Neverwinter's Pride",
-        "propername": "yes",
-        "aliases": "",
-        "type": "[[Caravel]]",
-        "size": "",
-        "location": "[[Neverwinter]], [[Sword Coast North]]",
-        "captain": "",
-        "notable crew": "",
-        "flag": "",
-        "built by": "",
-        "used by": "[[Dagult Neverember]]",
-        "value": "",
-        "basicrefs": "",
-        "tonnage": "",
-        "crew": "",
-        "passengers": "",
-        "armament": "",
-        "cargo": "",
-        "keel length": "",
-        "beam width": "",
-        "configrefs": "",
-        "usethe": "",
-        "useon": "",
-        "inhabitants": "",
-        "mainbody": "'''''Neverwinter's Pride''''' was a [[caravel]] owned by Lord [[Dagult Neverember]] as of the late 15{{th}} century [[DR]], and was one of his most prized [[ship]]s. Even so, he was known to lend it to [[adventurer]]s for the purpose of competing missions of critical importance to [[Neverwinter]], however he expected it to be well taken care of.",
-        "Description": "The ship was about {{SI|80|feet|long=yes}} long and {{SI|25|feet|long=yes}} wide. It had two {{SIAdj|20|foot|long=yes}} masts, each topped with a small crow's nest reachable via [[rope ladder]]. Two [[ballista]]e were mounted on the rear of the ship.\n\nThe space below deck had {{SIAdj|10|foot|long=yes|adj=high}} ceilings and contained furniture, [[rowboat]]s, and supplies.",
-        "History": "In the {{YearlinkName|1479}},{{4e-time}} Lord Neverember loaned ''Neverwinter's Pride'' to a group of adventurers tasked with retrieving the ''[[Talon of Umberlee]]'' from the [[Tidescourge]] pirates based at [[Port Llast]]. To protect the ship, the adventurers were instructed to hide it in a nearby cove while they assaulted the pirates' floating lair of [[Murdershoal]] by rowboat. Unbeknownst to the adventurers, the ship was targeted by a group of [[Umberlee]]-worshiping [[sahuagin]] led by Baron [[Saarkrith]], who attacked the ship alongside a [[kraken]] that wrapped its tentacles around the vessel."
+        "mainbody": "everwinters Pride was a caravel owned by Lord Dagult Neverember as of the late 15 century DR, and was one of his most prized ships. Even so, he was known to lend it to adventurers for the purpose of competing missions of critical importance to Neverwinter, however he expected it to be well taken care of.\nThe ship was about  long and  wide. It had two  masts, each topped with a small crows nest reachable via rope ladder. Two ballistae were mounted on the rear of the ship.\nThe space below deck had  ceilings and contained furniture, rowboats, and supplies.\nIn the , Lord Neverember loaned Neverwinters Pride to a group of adventurers tasked with retrieving the Talon of Umberlee from the Tidescourge pirates based at Port Llast. To protect the ship, the adventurers were instructed to hide it in a nearby cove while they assaulted the pirates floating lair of Murdershoal by rowboat. Unbeknownst to the adventurers, the ship was targeted by a group of Umberlee-worshiping sahuagin led by Baron Saarkrith, who attacked the ship alongside a kraken that wrapped its tentacles around the vessel."
     }
 }

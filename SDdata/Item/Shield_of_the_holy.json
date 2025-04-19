@@ -1,33 +1,5 @@
 {
-    "template_data": {
-        "7|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Shield of the holy.gif",
-        "caption": "",
-        "name": "''Shield of the Holy''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Shield]]",
-        "location": "[[Beorunna's Well]], [[Sword Coast]]<br/>[[Voonlar]], [[Moonsea]]<br/>[[Zakhara]]",
-        "school": "",
-        "level": "",
-        "value": "",
-        "weight": "",
-        "rules": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+2",
-        "value3e": "",
-        "weight3e": "{{SI|7|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,9 +13,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''''Shields of the holy''''' were magical [[shield]]s that could be found in [[Zakhara]], the Land of Fate.{{cite book/Land of Fate/Fortunes and Fates|45}}{{Cite dragon/179/Wonders of the Land of Fate}}",
-        "Description": "These items looked like medium-sized shields bearing the image of one of the eight [[Zakharan pantheon|enlightened]] gods of Zakhara.",
-        "Powers": "If a priest or cleric of the god depicted on the shield's image used the shield, then the shield amplified their ability to turn or command [[undead]]. The shield also granted additional protection.\n\nThe shield only granted additional protection if carried by anyone other than a cleric or priest of the god depicted on the shield's face.",
-        "History": "Outside of Zakhara, ''shields of the holy'' were used by the clergy of [[Lathander]] the Morninglord. The First appearance of these shields in the hands of priests of Lathanderites was in the Year of Smoldering Spells, [[1020 DR]]. The ''shields of the holy'' started materializing on the altars of several temples of Lathander across [[Faerûn]]. Since then, these shields were used in numerous holy crusades against the undead enemies of the deity. With time, these shields were lost in battle, some were stollen, and by the late 14{{th}} century [[DR]] were more wide spread, found in many places across the [[Sword Coast North]] and the [[Moonsea]] region."
+        "mainbody": "Shields of the holy were magical shields that could be found in Zakhara, the Land of Fate.\nThese items looked like medium-sized shields bearing the image of one of the eight enlightened gods of Zakhara.\nIf a priest or cleric of the god depicted on the shields image used the shield, then the shield amplified their ability to turn or command undead. The shield also granted additional protection.\nThe shield only granted additional protection if carried by anyone other than a cleric or priest of the god depicted on the shields face.\nOutside of Zakhara, shields of the holy were used by the clergy of Lathander the Morninglord. The First appearance of these shields in the hands of priests of Lathanderites was in the Year of Smoldering Spells, 1020 DR. The shields of the holy started materializing on the altars of several temples of Lathander across Faerûn. Since then, these shields were used in numerous holy crusades against the undead enemies of the deity. With time, these shields were lost in battle, some were stollen, and by the late 14 century DR were more wide spread, found in many places across the Sword Coast North and the Moonsea region."
     }
 }

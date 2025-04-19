@@ -1,42 +1,13 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "edition_1": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Analyze Opponent",
-        "deity": "[[Red Knight]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Divination]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Cleric]]|3}}",
         "type3e": "",
-        "refs3e": "{{Cite dragon/317/Faiths of Faerun: Holy Strategists of the Red Knight|83}}",
+        "refs3e": "",
         "reversible2e": "",
-        "school2e": "[[Divination]]",
-        "spheres2e": "[[Divination sphere|Divination]]",
-        "level2e": "{{Spell table|edition=2e|[[Cleric]]|1|[[Crusader]]|1|[[Divination sphere|Divination]]|1|[[Monk]]|1|[[Mystic]]|1|[[Paladin]]|1}}",
+        "school2e": "Divination",
+        "spheres2e": "Divination",
+        "level2e": "",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''''Analyze opponent''''' was a [[divine magic]] [[divination]] spell available to priests, holy strategists, and holy warriors of the [[Red Knight]], the Lady of Strategy. It let the caster gauge the strengths and weaknesses of one or more creatures for tactical intelligence.",
-        "Effects": "Beginning Red Knightists casting this spell could learn one strength or weakness about one creature. Higher level casters were able to learn up to four or five strengths and weaknesses about a single creature or about each member of a group of creatures. The caster learned the most powerful advantages and disadvantages first. So, for example, the ability to cast ''[[finger of death]]'' at will would be revealed before a natural resistance to sonic energy.\n\nThe targets of ''analyze opponent'' had a chance to resist the magic of this spell and, if successful, the caster learned nothing.",
-        "Components": "This spell had a somatic component and utilized the caster's [[holy symbol]] or  [[divine focus]].",
-        "Rumors and legends": "There was a legend about one of the first priests of [[Tempus]] who earned or won the Lady of Strategy's favor. He was granted ''analyze opponent'' and used it on a [[rakshasa]]. From this spell he learned of the rakshasa's weakness against ''[[bless weapon|blessed]]''  [[crossbow]] bolts, an important fact that was disseminated throughout the Realms.",
-        "References": "{{refs}}\n[[Category:Divination spells]]\n[[Category:Red Knightist spells]]\n[[Category:Cleric spells]]\n[[Category:Crusader spells]]\n[[Category:Monk spells]]\n[[Category:Mystic spells]]\n[[Category:Paladin spells]]\njya69hri38u2beolbfaxf6qawvv6o8x"
+        "mainbody": "Analyze opponent was a divine magic divination spell available to priests, holy strategists, and holy warriors of the Red Knight, the Lady of Strategy. It let the caster gauge the strengths and weaknesses of one or more creatures for tactical intelligence.\nBeginning Red Knightists casting this spell could learn one strength or weakness about one creature. Higher level casters were able to learn up to four or five strengths and weaknesses about a single creature or about each member of a group of creatures. The caster learned the most powerful advantages and disadvantages first. So, for example, the ability to cast finger of death at will would be revealed before a natural resistance to sonic energy.\nThe targets of analyze opponent had a chance to resist the magic of this spell and, if successful, the caster learned nothing.\nThis spell had a somatic component and utilized the casters holy symbol or  divine focus.\nThere was a legend about one of the first priests of Tempus who earned or won the Lady of Strategys favor. He was granted analyze opponent and used it on a rakshasa. From this spell he learned of the rakshasas weakness against blessed  crossbow bolts, an important fact that was disseminated throughout the Realms.\nCategoryDivination spells\nCategoryRed Knightist spells\nCategoryCleric spells\nCategoryCrusader spells\nCategoryMonk spells\nCategoryMystic spells\nCategoryPaladin spells\njya69hri38u2beolbfaxf6qawvv6o8x"
     }
 }

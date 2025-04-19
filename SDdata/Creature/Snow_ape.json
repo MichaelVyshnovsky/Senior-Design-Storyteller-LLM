@@ -1,33 +1,5 @@
 {
     "document_data": {
-        "image": "Snow ape.png",
-        "caption": "",
-        "name": "Snow Ape",
-        "othernames": "",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "Large",
-        "type3e": "[[Animal]]",
-        "subtype3e": "",
-        "alignment3e": "Always [[neutral]]",
-        "challenge3e": "3",
-        "refs3e": "",
-        "size2e": "",
-        "alignment2e": "",
-        "refs2e": "",
-        "size1e": "",
-        "alignment1e": "Chaotic",
-        "refs1e": "{{Cite book| author = David Cook| title = Blizzard Pass| short_story = | date = 1983| editor = | publisher = TSR, Inc.| ISBN = Q-88038-004-7| pages = 31| chapter = }}",
         "patron deity": "",
         "movement": "",
         "vision": "",
@@ -55,14 +27,7 @@
         "first": "",
         "based": "",
         "histrefs": "",
-        "intelligence": "{{Int|4}}",
-        "mainbody": "'''Snow apes''' were a species of white-furred ape that lived in arctic regions.",
-        "Description": "Snow apes were squat but strong beasts that somewhat resembled [[baboon]]s with shaggy white coats of fur.",
-        "Behaviour": "These apes possessed limited intelligence, allowing them to craft and use simple tools, such as [[club]]s, or sharp weapons made of bone. They were not sophisticated enough to wield more complex arms, such as [[bow]]s.\n\nSnow apes' mouths could not produce speech of any intelligible kind; instead, they communicated via sophisticated sign language and marks in the snow, stacked rocks, and balls of snow.",
-        "Combat": "They relentlessly clobbered opponents with their hands and weapons in combat, trying to get into close combat. When within grasp, snow apes attempted to lock the targets in bone-crushing hugs. Once a target was grappled, it was almost impossible to force a snow ape to release its deathly hold.\n\nLike many other arctic creatures, snow apes relied on camouflage to lay in ambush for their prey. They were intelligent enough not to attack prey that was bigger and stronger than themselves nor big parties of armed [[humanoids]].",
-        "Ecology": {
-            "Habitats": "Snow apes were reclusive species that tried to stay away from other intelligent beings In the land of [[Kara-Tur]], snow apes could be found in the mountains of [[Tabot]].\n\nOutside of the [[Prime Material plane]], snow apes could be found on the plane of [[Asgard]]."
-        },
-        "Trivia": "The [[verbeeg]] [[runecaster]] [[Basil (verbeeg)|Basil]] was capable of using his [[rune magic]] to transform himself into a snow ape."
+        "intelligence": "",
+        "mainbody": "Snow apes were a species of white-furred ape that lived in arctic regions.\nSnow apes were squat but strong beasts that somewhat resembled baboons with shaggy white coats of fur.\nThese apes possessed limited intelligence, allowing them to craft and use simple tools, such as clubs, or sharp weapons made of bone. They were not sophisticated enough to wield more complex arms, such as bows.\nSnow apes mouths could not produce speech of any intelligible kind instead, they communicated via sophisticated sign language and marks in the snow, stacked rocks, and balls of snow.\nThey relentlessly clobbered opponents with their hands and weapons in combat, trying to get into close combat. When within grasp, snow apes attempted to lock the targets in bone-crushing hugs. Once a target was grappled, it was almost impossible to force a snow ape to release its deathly hold.\nLike many other arctic creatures, snow apes relied on camouflage to lay in ambush for their prey. They were intelligent enough not to attack prey that was bigger and stronger than themselves nor big parties of armed humanoids.\nSnow apes were known for their cruelty. They were omnivorous species and gladly consumed giant insects as well as unwitting adventurers. \nSnow apes were reclusive species that tried to stay away from other intelligent beings In the land of Kara-Tur, snow apes could be found in the mountains of Tabot.\nOutside of the Prime Material plane, snow apes could be found on the plane of Asgard.\nThe verbeeg runecaster Basil was capable of using his rune magic to transform himself into a snow ape."
     }
 }

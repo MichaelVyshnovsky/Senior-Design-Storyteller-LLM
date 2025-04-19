@@ -1,15 +1,7 @@
 {
-    "template_data": {
-        "name": "Ebon Ray of Doom",
-        "level": "{{spell table",
-        "edition": "3e"
-    },
     "document_data": {
-        "name": "Ebon Ray of Doom",
-        "level": "{{spell table|edition=3e|[[Assassin]]|3|[[Sorcerer]]|4|[[Wizard]]|4}}",
-        "school": "[[Necromancy]]",
+        "school": "Necromancy",
         "rules": "3rd",
-        "mainbody": "When '''''ebon ray of doom''''' was cast, a ray of black energy leaped from the caster's hand to the target. The victim's ability to heal was immensely reduced by the spell.<ref>",
-        "References": "{{refs}}\n[[Category:Necromancy spells]]\n[[Category:Sorcerer spells]]\n[[Category:Wizard spells]]\ng0qubvu6ee0k7s3jtfsqu08nv47j3u4"
+        "mainbody": "When ebon ray of doom was cast, a ray of black energy leaped from the casters hand to the target. The victims ability to heal was immensely reduced by the spell.\nCategoryNecromancy spells\nCategorySorcerer spells\nCategoryWizard spells\ng0qubvu6ee0k7s3jtfsqu08nv47j3u4"
     }
 }

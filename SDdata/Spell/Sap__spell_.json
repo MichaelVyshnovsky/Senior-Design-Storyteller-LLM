@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "10|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Sap",
-        "deity": "[[Rillifane Rallathil]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "reversible2e": "",
-        "school2e": "[[Conjuration]]",
-        "spheres2e": "[[Plant sphere|Plant]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|1}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -37,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Sap''''' was a [[spell]] used by [[cleric]]s of [[Rillifane Rallathil]].",
-        "Effects": "When cast, this spell covered an area, {{SI|10|ft|long=yes}} per side, with tree sap. Any creature within the area of effect was subsequently covered in the sticky sap and their movement slowed considerably. The sap was thick enough to prevent physical attacks and the casting of spells that required movement. An individual could free themselves with a ''[[free action]]'' spell or similar effect. Pouring Copious amounts of [[wine]] onto an individual could also work.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required [[material component]]s, the holy symbol of Rillifane Rallathil and a small amount of sap from a tree."
+        "mainbody": "Sap was a spell used by clerics of Rillifane Rallathil.\nWhen cast, this spell covered an area,  per side, with tree sap. Any creature within the area of effect was subsequently covered in the sticky sap and their movement slowed considerably. The sap was thick enough to prevent physical attacks and the casting of spells that required movement. An individual could free themselves with a free action spell or similar effect. Pouring Copious amounts of wine onto an individual could also work.\nIn addition to verbal and somatic components, this spell required material components, the holy symbol of Rillifane Rallathil and a small amount of sap from a tree."
     }
 }

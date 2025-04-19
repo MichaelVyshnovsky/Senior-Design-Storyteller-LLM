@@ -1,42 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "60|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Detect Predator",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Divination]]",
-        "spheres2e": "[[Divination sphere|Divination]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|1|}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -44,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Detect predator''''' was a common [[spell]] used by [[cleric]]s in [[Serôs]].",
-        "Effects": "When cast, this spell allowed the caster to detect the presence of any aquatic predatory creature. It was able to detect both animals and sentient creatures. The detection range was {{SI|60|ft|long=yes}} in all directions. The spell did not reveal the species of predator in the area.",
-        "Components": "In addition to a [[verbal]] a component, the spell required a [[material component]] in the form of the caster's [[holy symbol]]."
+        "mainbody": "Detect predator was a common spell used by clerics in Serôs.\nWhen cast, this spell allowed the caster to detect the presence of any aquatic predatory creature. It was able to detect both animals and sentient creatures. The detection range was  in all directions. The spell did not reveal the species of predator in the area.\nIn addition to a verbal a component, the spell required a material component in the form of the casters holy symbol."
     }
 }

@@ -1,21 +1,5 @@
 {
     "document_data": {
-        "image": "Bone-moth.jpg",
-        "caption": "",
-        "name": "Bone-moth",
-        "othernames": "",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "Medium",
-        "origin4e": "[[Natural]]",
-        "type4e": "[[Beast]]",
-        "subtype4e": "[[Swarm]]",
-        "alignment4e": "[[Unaligned]]",
-        "refs4e": "{{Cite web/Nightmare Creatures of the Restless Shore}}",
         "size3e": "",
         "type3e": "",
         "subtype3e": "",
@@ -34,15 +18,15 @@
         "activecycle": "",
         "diet": "",
         "lifespan": "",
-        "location": "[[Akanûl]]",
+        "location": "Akanûl",
         "language": "",
         "subraces": "",
         "climate": "",
         "terrain": "",
         "genrefs": "",
         "height": "",
-        "length": "{{SI|6|in}}",
-        "wingspan": "Nearly {{SI|1|ft}}",
+        "length": "",
+        "wingspan": "Nearly",
         "weight": "",
         "skincolor": "",
         "haircolor": "",
@@ -55,6 +39,6 @@
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Bone-moths''' were large predatory moths that roamed in swarms. They were named for their tendency to strip their prey down to the bone."
+        "mainbody": "Bone-moths were large predatory moths that roamed in swarms. They were named for their tendency to strip their prey down to the bone."
     }
 }

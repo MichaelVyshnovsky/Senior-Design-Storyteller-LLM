@@ -1,39 +1,7 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "20|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Blood to water.jpg",
-        "caption": "",
-        "name": "Blood to Water",
-        "othernames": "",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Necromancy]]",
-        "domains3e": "[[Water domain]]",
-        "descriptors3e": "Water",
-        "level3e": "{{Spell table|edition=3e|[[Cleric]]|7}}",
         "type3e": "",
-        "refs3e": "{{Cite dragon/314/Channeling the Elements|45}}",
+        "refs3e": "",
         "reversible2e": "",
         "school2e": "",
         "spheres2e": "",
@@ -45,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Blood to water''''' was a powerful [[divine]] [[necromancy]] [[spell]] from the 7{{th}} circle of magic that transformed the target's blood into water. The spell could be used by [[cleric]]s who venerated deities of the [[water domain]].",
-        "Effects": "When the spell was cast, all targeted creatures suffered excruciating pain and grave damage to their constitution as divine magic transformed the blood in their veins into water. Creatures who managed to shrug off the magics still suffered harm and pain and were affected by nausea afterward.\n\nThe spell could affect up to three living creatures as far as {{SI|20|ft|long=yes}} apart from each other. Some versions of the spell affected all creatures within a colossal area in front of the caster. The harm dealt to the targets, as well as damage to their constitution, could be split between all three targets, or concentrated on one or two creatures instead, increasing the spell's damage output. The damage potential and the spell's range grew with the spellcaster's magical power. Creatures of fire and water natures were unaffected by ''blood to water''.",
-        "Components": "The spell required only a [[Somatic component|somatic]] and [[verbal component]]s."
+        "mainbody": "Blood to water was a powerful divine necromancy spell from the 7 circle of magic that transformed the targets blood into water. The spell could be used by clerics who venerated deities of the water domain.\nWhen the spell was cast, all targeted creatures suffered excruciating pain and grave damage to their constitution as divine magic transformed the blood in their veins into water. Creatures who managed to shrug off the magics still suffered harm and pain and were affected by nausea afterward.\nThe spell could affect up to three living creatures as far as  apart from each other. Some versions of the spell affected all creatures within a colossal area in front of the caster. The harm dealt to the targets, as well as damage to their constitution, could be split between all three targets, or concentrated on one or two creatures instead, increasing the spells damage output. The damage potential and the spells range grew with the spellcasters magical power. Creatures of fire and water natures were unaffected by blood to water.\nThe spell required only a somatic and verbal components."
     }
 }

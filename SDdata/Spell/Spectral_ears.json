@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Spectral Ears",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Necromancy]], [[alteration]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|1}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Spectral ears''''' was an [[alteration]]/[[necromancy]] [[spell]] that allowed the caster to gain an auditory link with an [[undead]] creature within a specified distance.",
-        "Effects": "Upon casting the spell, the caster could hear any any sounds surrounding a target [[skeleton]] or [[zombie]], as if they were standing in its place. It also allowed them to command that creature, with verbal orders up to four words in length.\n\nIf the creature left the range of ''spectral ears'', a distance of {{SI|30|ft}} or more, the connection was immediately lost. If the caster targeted an [[undead]] creature that was under the control of another being, any commands were completely disregarded.",
-        "Casting": "This spell required [[verbal]] and [[somatic]] casting components, as well as the [[material component]] of a mummified ear.",
-        "History": "This spell was known to be used by wizards of the [[Cult of the Dragon]]."
+        "mainbody": "Spectral ears was an alteration/necromancy spell that allowed the caster to gain an auditory link with an undead creature within a specified distance.\nUpon casting the spell, the caster could hear any any sounds surrounding a target skeleton or zombie, as if they were standing in its place. It also allowed them to command that creature, with verbal orders up to four words in length.\nIf the creature left the range of spectral ears, a distance of  or more, the connection was immediately lost. If the caster targeted an undead creature that was under the control of another being, any commands were completely disregarded.\nThis spell required verbal and somatic casting components, as well as the material component of a mummified ear.\nThis spell was known to be used by wizards of the Cult of the Dragon."
     }
 }

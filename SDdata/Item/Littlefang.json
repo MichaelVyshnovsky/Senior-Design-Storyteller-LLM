@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "2|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Littlefang''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Short sword]]",
-        "creator": "",
-        "location": "[[Mere of Dead Men]], [[Sword Coast North]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+2",
-        "value3e": "",
-        "weight3e": "{{SI|2|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Littlefang''''' was an [[enchanted]] [[short sword]] that fed on blood and restored the owner's vitality.",
-        "Description": "''Littlefang'' appeared to have a metallic sheen, but the heft of the blade was carved out of an unknown beast's tooth. The sword was sheathed in a metal hilt, and its blade had fine holes. When wielded in battle, the blade emitted visible dark energy and made its greedy bloodthirsty essence felt.",
-        "Powers": "The blade's fine holes soaked up all blood that touched ''Littlefang''. The weapon used the consumed blood to heal its wielder, similarly to the effects of ''vampiric regeneration''. ''Littlefang'' itself was enhanced with a ''+2'' enchantment and had a chance of dealing devastating damage with a lucky strike.",
-        "History": "By the {{yearlink|1374}}, ''Littlefang'' found home in the treasure hoard of two [[black dragon]]s of the [[Mere of Dead Men]] – [[Voaraghamanthar]] and [[Waervaerendor]] who became obsessed with [[Harbor Mead]] and attempted to take over its production in the hamlet of [[West Harbor]]."
+        "mainbody": "Littlefang was an enchanted short sword that fed on blood and restored the owners vitality.\nLittlefang appeared to have a metallic sheen, but the heft of the blade was carved out of an unknown beasts tooth. The sword was sheathed in a metal hilt, and its blade had fine holes. When wielded in battle, the blade emitted visible dark energy and made its greedy bloodthirsty essence felt.\nThe blades fine holes soaked up all blood that touched Littlefang. The weapon used the consumed blood to heal its wielder, similarly to the effects of vampiric regeneration. Littlefang itself was enhanced with a +2 enchantment and had a chance of dealing devastating damage with a lucky strike.\nBy the , Littlefang found home in the treasure hoard of two black dragons of the Mere of Dead Men – Voaraghamanthar and Waervaerendor who became obsessed with Harbor Mead and attempted to take over its production in the hamlet of West Harbor."
     }
 }

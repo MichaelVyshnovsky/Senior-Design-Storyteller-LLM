@@ -1,28 +1,8 @@
 {
-    "template_data": {
-        "35|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Mail of Fennibal \"Thunder\" Bale''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Heavy armor]]",
-        "location": "[[Westgate]], [[Dragon Coast]]<br/>[[Ingdal's Arm]], [[Aglarond]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "2{{nd}}",
         "itemlevel3e": "+1",
-        "value3e": "5,730 [[gp]]",
-        "weight3e": "{{SI|35|lb|k|long=yes}}",
+        "value3e": "5,730 gp",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,8 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The '''''Mail of Fennibal \"Thunder\" Bale''''' was a unique set of [[enchanted]] armor once worn by the hero of the [[Battle of Ingdal's Arm]].",
-        "Powers": "''Mail of Fennibal \"Thunder\" Bale'' was an [[iron]] set of [[heavy armor]]. It possessed a humble ''+1'' defensive enchantment. However, what made it distinct was the magic that created a ''[[sound burst]]'' every time the wearer of the mail was hit.",
-        "History": "This enchanted armor belonged to [[Fennibal Bale]], a hero who lost his life in the {{YearlinkName|1065}} during the Battle of Ingdal's Arm. The one-man wrecking crew wore the armor when he charged directly into the [[human]] infantry on the other side of the conflict. He single-handedly knocked them back, eventually allowing his allies to win the battle.\n\nAs of the {{YearlinkName|1374}}, ''Mail of Fennibal \"Thunder\" Bale'' was in the hands of one of the exotic and magic gear vendors doing business in [[Westgate]]'s [[Market Triangle]]."
+        "mainbody": "The Mail of Fennibal \"Thunder\" Bale was a unique set of enchanted armor once worn by the hero of the Battle of Ingdals Arm.\nMail of Fennibal \"Thunder\" Bale was an iron set of heavy armor. It possessed a humble +1 defensive enchantment. However, what made it distinct was the magic that created a sound burst every time the wearer of the mail was hit.\nThis enchanted armor belonged to Fennibal Bale, a hero who lost his life in the  during the Battle of Ingdals Arm. The one-man wrecking crew wore the armor when he charged directly into the human infantry on the other side of the conflict. He single-handedly knocked them back, eventually allowing his allies to win the battle.\nAs of the , Mail of Fennibal \"Thunder\" Bale was in the hands of one of the exotic and magic gear vendors doing business in Westgates Market Triangle."
     }
 }

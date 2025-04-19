@@ -1,18 +1,6 @@
 {
     "document_data": {
-        "image": "High Forest 2e canon.png",
-        "caption": "The camp lay close to the Grandfather Tree.",
-        "name": "Ghostand",
-        "aliases": "",
-        "type": "Hamlet",
-        "size": "",
-        "capital": "",
-        "area": "[[High Forest]], [[northwest Faerûn]]",
-        "georefs": "",
-        "demonym": "",
-        "languages": "",
-        "races": "{{Percentage table|[[Human]]|86|[[Wood elf]]|9|[[Half-elves]]|4|Others|1|}}",
-        "religion": "[[Uthgar]]",
+        "religion": "Uthgar",
         "currency": "",
         "population1": "224",
         "popyear1": "1372",
@@ -22,12 +10,12 @@
         "popyear3": "",
         "imports": "",
         "exports": "",
-        "alignment": "{{Alignment grid|off|on|off|off|off|off|off|off|off}}",
+        "alignment": "",
         "allegiances": "",
         "socrefs": "",
         "government": "",
         "rulertype": "",
-        "ruler1": "[[Gunther Longtooth]]",
+        "ruler1": "Gunther Longtooth",
         "ruleryear1": "1372",
         "ruler2": "",
         "ruleryear2": "",
@@ -48,9 +36,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "'''Ghostand''' was the small home village of the [[Tree Ghost]] tribe of [[Uthgardt]] barbarians.{{Cite web/Mintiper's Chapbook/Part 8}}",
-        "Geography": "This village was located in the [[High Forest]], close to the [[Grandfather Tree]]. Constructed in a similar manner to the various [[wild elf]] cities in the High Forest, the village stood high above the forest floor atop a stand of towering [[oak]] trees.",
-        "History": "This village was founded sometime in the {{YearlinkName|1368}}, after the Tree Ghost tribe had finally rediscovered the Grandfather Tree after six decades of searching for it. Their efforts to establish the village received aid from wild elves that lived in the region as well as backing by [[Alustriel]], the ruler of [[Silverymoon]].\n\nBy the late 14{{th}} century [[DR]], the village emerged as a trading center for the inhabitants of the surrounding forest.",
-        "Inhabitants": "By the late 14{{th}} century DR, the village was home to over 350 Uthgardt barbarians."
+        "mainbody": "Ghostand was the small home village of the Tree Ghost tribe of Uthgardt barbarians.\nThis village was located in the High Forest, close to the Grandfather Tree. Constructed in a similar manner to the various wild elf cities in the High Forest, the village stood high above the forest floor atop a stand of towering oak trees.\nThis village was founded sometime in the , after the Tree Ghost tribe had finally rediscovered the Grandfather Tree after six decades of searching for it. Their efforts to establish the village received aid from wild elves that lived in the region as well as backing by Alustriel, the ruler of Silverymoon.\nBy the late 14 century DR, the village emerged as a trading center for the inhabitants of the surrounding forest.\nBy the late 14 century DR, the village was home to over 350 Uthgardt barbarians.\n* Chieftain Gunther Longtooth\n* Shaman of the tribe Hala Spiritwalk\n* Advisor to the Chieftain Faeniele Eshele\n* Leader of the ceremonial guards Thangulmor the Dead Hunter"
     }
 }

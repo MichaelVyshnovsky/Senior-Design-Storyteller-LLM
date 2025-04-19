@@ -1,16 +1,8 @@
 {
-    "template_data": {
-        "edition": "4e"
-    },
     "document_data": {
-        "image": "[[File:Arena_of_War_-_Spell_-_Dragonfrost.jpg]]",
-        "caption": "The [[Arena of War (game)|AoW:G]] spell card.",
-        "type": "at-will",
-        "name": "Dragonfrost",
-        "keywords4e": "{{desc/arcane}}{{desc/cold}}{{desc/implement}}",
-        "level4e": "{{spell table|edition=4e|[[Sorcerer]]|1}}",
+        "level4e": "",
         "type4e": "At-Will",
         "refs4e": "",
-        "mainbody": "'''''Dragonfrost''''' is a [[spell]] similar to ''[[ray of frost]]'' used by [[sorcerer]]s, particularly [[Sorcerer#Dragon Sorcerer|dragon sorcerers]]. When it is cast, ''dragonfrost'' slams an icy gust into a creature of the sorcerer's choice within fifty feet, pushing them back up to five feet and causing them injury from its frigid power, which is fueled by the sorcerer's charisma like virtually all sorcerer spells. ''Dragonfrost'' is instantly recastable and its power grows as the sorcerer using it does."
+        "mainbody": "Dragonfrost is a spell similar to ray of frost used by sorcerers, particularly dragon sorcerers. When it is cast, dragonfrost slams an icy gust into a creature of the sorcerers choice within fifty feet, pushing them back up to five feet and causing them injury from its frigid power, which is fueled by the sorcerers charisma like virtually all sorcerer spells. Dragonfrost is instantly recastable and its power grows as the sorcerer using it does."
     }
 }

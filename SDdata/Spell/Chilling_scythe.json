@@ -1,33 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "20|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Chilling Scythe",
-        "deity": "[[Kelemvor]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "type3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]]<br/>[[Necromancy]]",
-        "spheres2e": "[[Combat sphere|Combat]]<br/>[[Necromantic sphere|Necromantic]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|2|}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -35,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Chilling scythe''''' was a [[divine magic]] spell available to priests of [[Kelemvor]].",
-        "Effects": "When cast, a massive scythe appeared in the hands of the caster. Despite its size, it was weightless and could be wielded by any living creature.\n\nAs a weapon, a ''chilling scythe'' caused piercing and slashing damage, as well as draining some of the life force of the target.\n\nIf used against any [[undead]], the damage was devastating. Even the mere touch of the scythe inflicted massive harm to an undead target and sent it flying into air, landing up to {{SI|20|ft|long=yes}} away.",
-        "History": "This spell was inscribed within the [[Kelemvor]]ite [[relic]] the ''[[Testament of Vraer]]''.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component]]s, this spell required a [[material component]], namely a piece of bone."
+        "mainbody": "Chilling scythe was a divine magic spell available to priests of Kelemvor.\nWhen cast, a massive scythe appeared in the hands of the caster. Despite its size, it was weightless and could be wielded by any living creature.\nAs a weapon, a chilling scythe caused piercing and slashing damage, as well as draining some of the life force of the target.\nIf used against any undead, the damage was devastating. Even the mere touch of the scythe inflicted massive harm to an undead target and sent it flying into air, landing up to  away.\nThis spell was inscribed within the Kelemvorite relic the Testament of Vraer.\nIn addition to verbal and somatic components, this spell required a material component, namely a piece of bone."
     }
 }

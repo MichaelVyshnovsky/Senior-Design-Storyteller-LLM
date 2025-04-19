@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Potion of Absorption.png",
-        "caption": "",
-        "name": "''Potion of Absorption''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Potion]]",
-        "creator": "",
-        "location": "[[Icewind Dale]], [[Northwest Faerûn]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "1,200 [[gp]]",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "A '''''potion of absorption''''' was a magical liquid that offered protection against specific forms of attack when consumed.",
-        "Powers": "These [[potion]]s completely protected the imbiber for six minutes from whatever form of attack they pictured in their mind when drinking the potion. For example, someone concentrating on blunt attacks would be immune to physical harm from strikes from blunt weapons for six minutes after consuming this potion.\n\nA typical ''potion of absorption'' had enough magical fluid for four doses.",
-        "Notable Owners": "[[Lindin]], an arrogant [[fighter]] from [[Waterdeep]], carried a ''potion of absorption''."
+        "mainbody": "A potion of absorption was a magical liquid that offered protection against specific forms of attack when consumed.\nThese potions completely protected the imbiber for six minutes from whatever form of attack they pictured in their mind when drinking the potion. For example, someone concentrating on blunt attacks would be immune to physical harm from strikes from blunt weapons for six minutes after consuming this potion.\nA typical potion of absorption had enough magical fluid for four doses.\nLindin, an arrogant fighter from Waterdeep, carried a potion of absorption."
     }
 }

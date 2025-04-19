@@ -1,24 +1,5 @@
 {
     "document_data": {
-        "image": "Halfling_Outrider_by_John_and_Laura_Lakey.jpg",
-        "caption": "Halfling outrider and his steed riding out.",
-        "name": "Halfling Outrider",
-        "region": "Halfling communities",
-        "alignment": "",
-        "used-by": "[[Halfling]] [[fighter]]s, [[ranger]]s, [[rogue]]s, [[druid]]s",
-        "levels": "10",
-        "mainbody": "The '''halfling outrider''' was a champion of defense and scouting of [[halfling]] communities.",
-        "Culture": "The outrider worked as an elite scout and rider for their community and they were naturally skilled in those areas. Seeing an outrider in the battlefield or at rest was a good sign that a halfling community was nearby but some also took to a life of adventuring and the road.",
-        "Requirements": "The halfling outriders were from skilled halfling stock and they came from many walks of life. Amongst them were [[fighter]]s, [[ranger]]s, [[rogue]]s, and [[druid]]s. All outriders had skills in [[mount]]ed combat, mounted archery, riding, and scouting skills like listening and spotting.",
-        "Abilities": {
-            "Defensive riding": "The outrider could assume a defensive riding style to outmaneuver enemy attacks. When riding defensively, they could not attack or perform any other actions.",
-            "Deflect attack": "The rider could use a one-handed weapon or shield to deflect an attack against her mount.",
-            "Leap from the saddle": "If the mount was not moving too fast, the rider could quickly dismount on the move. If the rider dismounted near an enemy, the rider might also charge the enemy in the same move.",
-            "Unbroken Charge": "The rider skillfully charged over rough terrain as though it was normal ground.",
-            "Stand on mount": "The outrider skillfully stood on their mount unhindered. While in this position, the rider could fire their missiles without any penalties due to riding.",
-            "Evasion": "The outrider could evade area attacks, as could a mount they were riding.",
-            "Full mounted attack": "The rider attacked an opponent with the full force of their mount while moving, but not when running or charging.",
-            "Quick Turn": "A skilled rider could attempt to change direction in mid-run or charge, but if they failed their continued another 10 feet in the same direction."
-        }
+        "mainbody": "he halfling outrider was a champion of defense and scouting of halfling communities.\nThe outrider worked as an elite scout and rider for their community and they were naturally skilled in those areas. Seeing an outrider in the battlefield or at rest was a good sign that a halfling community was nearby but some also took to a life of adventuring and the road.\nThe halfling outriders were from skilled halfling stock and they came from many walks of life. Amongst them were fighters, rangers, rogues, and druids. All outriders had skills in mounted combat, mounted archery, riding, and scouting skills like listening and spotting.\nDefensive riding The outrider could assume a defensive riding style to outmaneuver enemy attacks. When riding defensively, they could not attack or perform any other actions.\nDeflect attack The rider could use a one-handed weapon or shield to deflect an attack against her mount.\nLeap from the saddle If the mount was not moving too fast, the rider could quickly dismount on the move. If the rider dismounted near an enemy, the rider might also charge the enemy in the same move. \nUnbroken Charge The rider skillfully charged over rough terrain as though it was normal ground.\nStand on mount The outrider skillfully stood on their mount unhindered. While in this position, the rider could fire their missiles without any penalties due to riding.\nEvasion The outrider could evade area attacks, as could a mount they were riding.\nFull mounted attack The rider attacked an opponent with the full force of their mount while moving, but not when running or charging.\nQuick Turn A skilled rider could attempt to change direction in mid-run or charge, but if they failed their continued another 10 feet in the same direction."
     }
 }

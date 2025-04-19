@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Gemfire",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|1}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,10 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Gemfire''''' was an [[alteration]] [[spell]] that caused all of the [[gem]]s and rock crystals within a certain area to explode.{{Cite dragon/255/Wyrms of the North: Thalagyrt}}",
-        "Effects": "The area effect of ''gemfire'' was a circle centered upon the caster, that extended out in a radius of 20' (6.1 m). Any natural, non-[[Item enchantment|enchanted]] gems stones or [[rock crystal]] within this area burst into dust, which then proceeded to catch fire. Any person or creature caught within the blast could be significantly damaged.",
-        "Variants": "A more powerful version of this spell, known as ''[[Gharradin's slow gemfire]]'' had been developed.",
-        "Components": "This spell only required [[verbal component]]s in order to be cast.",
-        "History": "Like many [[arcane]] spells from throughout the realms, ''gemfire'' traced its origins to the ancient [[Netheril]]."
+        "mainbody": "Gemfire was an alteration spell that caused all of the gems and rock crystals within a certain area to explode.\nThe area effect of gemfire was a circle centered upon the caster, that extended out in a radius of 20 (6.1 m). Any natural, non-enchanted gems stones or rock crystal within this area burst into dust, which then proceeded to catch fire. Any person or creature caught within the blast could be significantly damaged.\nA more powerful version of this spell, known as Gharradins slow gemfire had been developed.\nThis spell only required verbal components in order to be cast.\nLike many arcane spells from throughout the realms, gemfire traced its origins to the ancient Netheril."
     }
 }

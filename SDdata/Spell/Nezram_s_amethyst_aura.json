@@ -1,17 +1,7 @@
 {
-    "template_data": {
-        "name": "Nezram's Amethyst Aura",
-        "level": "{{spell table",
-        "edition": "3e"
-    },
     "document_data": {
-        "name": "Nezram's Amethyst Aura",
-        "level": "{{spell table|edition=3e|[[Sorcerer]]|3|[[Wizard]]|3}}",
-        "school": "[[Abjuration]]",
+        "school": "Abjuration",
         "rules": "3.5",
-        "mainbody": "'''Nezram's amethyst aura''' was an [[abjuration]] spell shielding the subject from [[poison]] and [[disease]]. It was presumably developed by [[Nezram]].",
-        "Effect": "The subject of ''Nezram's amethyst aura'' was encompassed by a bright violet light that blocked all poisons and diseases from penetrating, whether by a weapon or a creature's touch or bite. It did not however cure such things already affecting the target.",
-        "Components": "The spell required a pinch of [[amethyst]] dust.",
-        "References": "{{refs}}\n[[Category:Abjuration spells]]\n[[Category:Nezram's spells]]\n[[Category:Sorcerer spells]]\n[[Category:Wizard spells]]\nsiwty4xxu6etqi5ndvydkpekg4umano"
+        "mainbody": "Nezrams amethyst aura was an abjuration spell shielding the subject from poison and disease. It was presumably developed by Nezram.\nThe subject of Nezrams amethyst aura was encompassed by a bright violet light that blocked all poisons and diseases from penetrating, whether by a weapon or a creatures touch or bite. It did not however cure such things already affecting the target.\nThe spell required a pinch of amethyst dust.\nCategoryAbjuration spells\nCategoryNezrams spells\nCategorySorcerer spells\nCategoryWizard spells\nsiwty4xxu6etqi5ndvydkpekg4umano"
     }
 }

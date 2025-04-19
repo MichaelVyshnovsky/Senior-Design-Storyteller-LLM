@@ -1,23 +1,7 @@
 {
-    "template_data": {
-        "image": "[[Image:Warlord.jpg",
-        "caption": "A [[dwarf",
-        "name": "Warlord",
-        "powers": "[[Warrior",
-        "region": "",
-        "alignment": "{{Alignment grid"
-    },
     "document_data": {
-        "image": "[[Image:Warlord.jpg|200px]]",
-        "caption": "A [[dwarf|dwarven]] warlord",
-        "name": "Warlord",
-        "powers": "[[Warrior|Martial]]",
-        "region": "",
-        "alignment": "{{Alignment grid|on|on|on|on|on|on|on|on|on}}",
         "used-by": "",
         "levels": "",
-        "mainbody": "'''Warlords''' were trained warriors who exceled at leading others into combat. Trained in tactics and generally charismatic, warlords directed allies in battle and used words of encouragement to keep them fighting when injured or demoralized. With the proper skill, warlords could direct flanking maneuvers, feints, and other clever tactics in order to overcome the power of their foes.",
-        "Abilities": "The power of a warlord came from their physical training and learning in the art of war. The exact training of a warlord varied from individual to individual and some chose to focus their skills on leadership while others primarily studied as tacticians. Some warlords led from the rear, directing their army through various subordinate commanders, while others preferred to lead from the thick of the fighting, inspiring their troops with their presence and martial prowess. Warlords of all kinds were trained in light and some heavy armors, as well as the use of most melee weapons. Warlords who were particularly adept with armor could become [[knight commander]]s while warlords well-versed in the art of swordfighting could become [[sword marshal]]s.\n\nAll skilled warlords were able leaders, or at the very least tactical counsels, and were able to lend their tactical expertise to their allies, resulting in quicker reactions and coordinated attacks. Likewise, warlords were taught how to maintain the morale of their allies, giving the fallen an encouraging shout in order to get them back in the fight.",
-        "Notable Warlords": "* [[Bharash (warlord)|Bharash]], a [[dragonborn]] warlord in service to [[Bane]].{{Cite organized play/LFR/Tyranny's Bleak Depths|21}}"
+        "mainbody": "Warlords were trained warriors who exceled at leading others into combat. Trained in tactics and generally charismatic, warlords directed allies in battle and used words of encouragement to keep them fighting when injured or demoralized. With the proper skill, warlords could direct flanking maneuvers, feints, and other clever tactics in order to overcome the power of their foes.\nThe power of a warlord came from their physical training and learning in the art of war. The exact training of a warlord varied from individual to individual and some chose to focus their skills on leadership while others primarily studied as tacticians. Some warlords led from the rear, directing their army through various subordinate commanders, while others preferred to lead from the thick of the fighting, inspiring their troops with their presence and martial prowess. Warlords of all kinds were trained in light and some heavy armors, as well as the use of most melee weapons. Warlords who were particularly adept with armor could become knight commanders while warlords well-versed in the art of swordfighting could become sword marshals.\nAll skilled warlords were able leaders, or at the very least tactical counsels, and were able to lend their tactical expertise to their allies, resulting in quicker reactions and coordinated attacks. Likewise, warlords were taught how to maintain the morale of their allies, giving the fallen an encouraging shout in order to get them back in the fight.\n* Bharash, a dragonborn warlord in service to Bane."
     }
 }

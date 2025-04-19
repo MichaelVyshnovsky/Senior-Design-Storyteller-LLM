@@ -1,34 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "Isaac's Lesser Missile Storm.png",
-        "caption": "",
-        "name": "Isaac's Lesser Missile Storm",
-        "deity": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Evocation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Sorcerer]]|4|[[Wizard]]|4}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -42,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Isaac's lesser missile storm''''' was a [[spell]] used by [[sorcerer]]s and [[wizard]]s.",
-        "Effects": "When cast, this spell created up to ten missiles of energy. The caster was able to direct these missiles to multiple targets. Several missiles could strike a target at a time. The number of energy missiles created was determined by the caster's skill level.",
-        "Components": "This spell required only [[Verbal component|verbal]] and [[somatic component|somatic]] components."
+        "mainbody": "Isaacs lesser missile storm was a spell used by sorcerers and wizards.\nWhen cast, this spell created up to ten missiles of energy. The caster was able to direct these missiles to multiple targets. Several missiles could strike a target at a time. The number of energy missiles created was determined by the casters skill level.\nThis spell required only verbal and somatic components."
     }
 }

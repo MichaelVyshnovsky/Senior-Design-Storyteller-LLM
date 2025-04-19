@@ -1,23 +1,5 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "30|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Steel Wind Strike",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Conjuration]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "{{Spell table|edition=5e|[[Ranger]]|5|[[Wizard]]|5}}",
         "type5e": "",
         "refs5e": "",
         "feature4e": "",
@@ -44,8 +26,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Steel wind strike''''' was a [[conjuration]] [[spell]] that caused a weapon and its wielder to meld with the wind and strike multiple opponents within seconds.",
-        "Effects": "The spell infused the caster's weapon with magic. The caster and the weapon then disappeared, striking up to five different opponents within a range of {{SI|30|ft|long=yes}} for considerable damage. The caster and the weapon then reappeared next to one of the opponents that were attacked.",
-        "Components": "The spell required only [[somatic component]]s and a melee [[weapon]] worth at least 1 [[sp]] as a [[material component]]."
+        "mainbody": "Steel wind strike was a conjuration spell that caused a weapon and its wielder to meld with the wind and strike multiple opponents within seconds.\nThe spell infused the casters weapon with magic. The caster and the weapon then disappeared, striking up to five different opponents within a range of  for considerable damage. The caster and the weapon then reappeared next to one of the opponents that were attacked.\nThe spell required only somatic components and a melee weapon worth at least 1 sp as a material component."
     }
 }

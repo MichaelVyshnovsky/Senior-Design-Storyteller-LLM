@@ -1,35 +1,6 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Corrosive Grasp",
-        "deity": "[[Ghaunadaur]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Conjuration]] (Creation)",
-        "domains3e": "",
-        "descriptors3e": "{{Desc/acid}}",
-        "level3e": "{{Spell table|edition=3e|[[Initiate of Ghaunadaur]]|1|[[Sorcerer]]|1|[[Wizard]]|1}}",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,9 +14,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Corrosive grasp''''' was a [[conjuration]] [[spell]] that produced [[acid]] on the caster's hand.",
-        "Effects": "As mentioned above, ''corrosive grasp'' produced glistening acid on the caster's hand. This acid smoked, but was harmless to the caster and his or her belongings, but dangerous to any other person and object. This acid could be weaponized by touching something or someone with the acid-coated hand. It could be put to especially devastating effect when successfully wrestling with the target.\n\nThe acid remained on the hand for a time that increased with the caster's skill.",
-        "Components": "''Corrosive grasp'' required [[somatic]] and [[verbal component]]s.",
-        "History": "The [[church of Ghaunadaur]] managed to convert ''corrosive touch'' into a spell that could be cast by their [[cleric]]s who were introduced to [[Ghaunadaur]]'s secrets."
+        "mainbody": "Corrosive grasp was a conjuration spell that produced acid on the casters hand.\nAs mentioned above, corrosive grasp produced glistening acid on the casters hand. This acid smoked, but was harmless to the caster and his or her belongings, but dangerous to any other person and object. This acid could be weaponized by touching something or someone with the acid-coated hand. It could be put to especially devastating effect when successfully wrestling with the target.\nThe acid remained on the hand for a time that increased with the casters skill.\nCorrosive grasp required somatic and verbal components.\nThe church of Ghaunadaur managed to convert corrosive touch into a spell that could be cast by their clerics who were introduced to Ghaunadaurs secrets."
     }
 }

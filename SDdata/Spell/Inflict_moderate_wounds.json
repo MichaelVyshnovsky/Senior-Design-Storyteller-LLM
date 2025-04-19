@@ -1,23 +1,15 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "edition_1": "2e"
-    },
     "document_data": {
-        "name": "Inflict Moderate Wounds",
-        "image": "Inflict moderate wounds.png",
-        "level3e": "{{spell table|edition=3e|[[Cleric]]|2}}",
         "descriptors3e": "",
-        "school3e": "[[Necromancy]]",
+        "school3e": "Necromancy",
         "type3e": "",
         "refs3e": "",
-        "school2e": "[[Necromancy]]",
+        "school2e": "Necromancy",
         "reversible2e": "true",
-        "spheres2e": "[[Healing sphere|Healing]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|2|[[Crusader]]|2|[[Druid]]|2|[[Healing sphere|Healing]]|2|[[Monk]]|2|[[Mystic]]|2|[[Paladin]]|2|[[Shaman]]|2}}",
+        "spheres2e": "Healing",
+        "level2e": "",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''''Inflict moderate wounds''''', also known as '''''cause moderate wounds''''' was a [[necromancy]] spell that harmed the living and healed the [[undead]].",
-        "Effects": "On a successful touch, this spell revitalized undead creatures or had a withering effect on the living. This spell was about twice as powerful as ''[[inflict light wounds]]'' but otherwise operated in the same manner.\n\nThe older version of this spell was not as potent as the newer version but could knock back foes with possibly critical results on a successful attack. Plus, it was reversible (called ''[[cure moderate wounds]]'') for use in healing the living."
+        "mainbody": "Inflict moderate wounds, also known as cause moderate wounds was a necromancy spell that harmed the living and healed the undead.\nOn a successful touch, this spell revitalized undead creatures or had a withering effect on the living. This spell was about twice as powerful as inflict light wounds but otherwise operated in the same manner.\nThe older version of this spell was not as potent as the newer version but could knock back foes with possibly critical results on a successful attack. Plus, it was reversible (called cure moderate wounds) for use in healing the living."
     }
 }

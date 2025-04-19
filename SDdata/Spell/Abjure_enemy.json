@@ -1,19 +1,5 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "variant": "channel divinity"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Abjure Enemy",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "{{Spell table|edition=5e|variant=channel divinity|[[Vengeance oath]]|3}}",
         "patrons5e": "",
         "traditions5e": "",
         "level5e": "",
@@ -42,8 +28,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Abjure enemy''''' was a ''[[channel divinity]]'' power granted to [[paladin]]s who had sworn an [[Oath of Vengeance]].",
-        "Effects": "This power allowed the paladin to paralyze an enemy with fear for one minute, grounding them in place until attacked or injured. Even the very strong-willed could not completely resist this power, finding their movements to be sluggish even if they were not frozen. The ability was especially potent against the [[undead]] and [[fiend]]s, although it did not function against foes who were immune to mind-influencing [[magic]]s.",
-        "Components": "To use this ability, a paladin had to see their foe and present their [[holy symbol]] while uttering a prayer to denounce the target."
+        "mainbody": "Abjure enemy was a channel divinity power granted to paladins who had sworn an Oath of Vengeance.\nThis power allowed the paladin to paralyze an enemy with fear for one minute, grounding them in place until attacked or injured. Even the very strong-willed could not completely resist this power, finding their movements to be sluggish even if they were not frozen. The ability was especially potent against the undead and fiends, although it did not function against foes who were immune to mind-influencing magics.\nTo use this ability, a paladin had to see their foe and present their holy symbol while uttering a prayer to denounce the target."
     }
 }

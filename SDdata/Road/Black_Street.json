@@ -1,16 +1,10 @@
 {
     "document_data": {
-        "image": "NEZhentilKeep.JPG",
-        "caption": "A map showing Black Street in east Zhentil Keep.",
-        "name": "Black Street",
-        "type": "Road",
-        "aliases": "",
-        "length": "{{SI|1000|ft}}",
         "width": "",
         "pavement": "",
-        "location": "The [[Zhentil Keep/Common Quarter|Common Quarter]], [[Zhentil Keep]]",
-        "starts": "The [[Street of Swords (Zhentil Keep)|Street of Swords]]",
-        "ends": "[[Ale Street]]",
+        "location": "The Common Quarter, Zhentil Keep",
+        "starts": "The Street of Swords",
+        "ends": "Ale Street",
         "built": "",
         "refs": "",
         "daggers": "",
@@ -23,8 +17,6 @@
         "roads": "yes",
         "bodies of water": "",
         "events": "",
-        "mainbody": "'''Black Street''' was a road located in the city of [[Zhentil Keep]] during the mid–14{{th}} century [[DR]].",
-        "Location": "Black Street was located within the [[Zhentil Keep/Common Quarter|Common Quarter]] in eastern Zhentil Keep. The road ran north to south in between the [[Street of Swords (Zhentil Keep)|Street of Swords]] to the north and [[Ale Street]] to the south. Along the way Black Street was intersected by [[Dusk Street]], [[Traders' Way (Zhentil Keep)|Traders' Way]], and [[Realm Street]].",
-        "Notable Locations": "A barracks for the [[Zhentilar]] was located on Black Street."
+        "mainbody": "Black Street was a road located in the city of Zhentil Keep during the mid–14 century DR.\nBlack Street was located within the Common Quarter in eastern Zhentil Keep. The road ran north to south in between the Street of Swords to the north and Ale Street to the south. Along the way Black Street was intersected by Dusk Street, Traders Way, and Realm Street.\nA barracks for the Zhentilar was located on Black Street."
     }
 }

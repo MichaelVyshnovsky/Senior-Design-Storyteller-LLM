@@ -1,27 +1,5 @@
 {
     "document_data": {
-        "image": "Windswept armor.jpg",
-        "caption": "",
-        "name": "''Windswept Armor''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Plate mail]]",
-        "creator": "",
-        "location": "[[Dwarven Dungeons]], [[Myth Drannor]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+2",
-        "value3e": "",
-        "weight3e": "{{SI|50|lb|k}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -38,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Windswept armor''''' was an ancient [[dwarf|dwarven]] set of enchanted heavy armor.",
-        "Powers": "''Windswept armor'' was a set of perforated [[plate mail]] armor with a magical ''+2'' enchantment that improved to ''+4'' when confronting [[gargoyle]]s, commonly found in the ruins of [[Myth Drannor]].\n\nLike other sets of heavy armor, ''windswept armor'', when worn by an arcane spellcaster, resulted in a 40% chance of spell casting failure.",
-        "History": "In [[1369 DR]], an ancient set of dwarven ''windswept armor'' could be found on the [[Halls of Light]] level of [[Dwarven Dungeons]] of Myth Drannor, in possession of a group of [[Lizardfolk]]."
+        "mainbody": "Windswept armor was an ancient dwarven set of enchanted heavy armor.\nWindswept armor was a set of perforated plate mail armor with a magical +2 enchantment that improved to +4 when confronting gargoyles, commonly found in the ruins of Myth Drannor.\nLike other sets of heavy armor, windswept armor, when worn by an arcane spellcaster, resulted in a 40% chance of spell casting failure.\nIn 1369 DR, an ancient set of dwarven windswept armor could be found on the Halls of Light level of Dwarven Dungeons of Myth Drannor, in possession of a group of Lizardfolk."
     }
 }

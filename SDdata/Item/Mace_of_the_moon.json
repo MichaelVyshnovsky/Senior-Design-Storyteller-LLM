@@ -1,28 +1,8 @@
 {
-    "template_data": {
-        "6|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Mace of the moon.png",
-        "caption": "",
-        "name": "''Mace of the Moon''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Mace]]",
-        "location": "[[Thentia]], [[Elmwood]], [[Moonsea]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "3{{rd}}",
         "itemlevel3e": "+3",
         "value3e": "",
-        "weight3e": "{{SI|6|lb|k|long=yes}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,8 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Maces of the moon''''' were [[enchanted]] [[mace]]s wielded by the clergy of [[Selûne]] against the [[Church of Selûne|church's]] [[undead]] enemies.",
-        "Powers": "These bludgeons were ''[[bless]]ed'' by High Priestesses of Selûne under the full moon's glow. The divine moonlight was stored within maces' sharp flanges, creating a powerful ''+3'' enchantment. Every time a ''mace of the moon'' struck an undead creature, it discharged [[radiant]] energy, damaging the targets. Additionally, the wielder of the mace was granted the ability to cast the ''[[lesser restoration]]'' [[spell]] once per day.",
-        "History": "As of the {{YearlinkName|1373}}, ''maces of the moon'' could be found in [[Thentia]] and [[Elmwood]] temples of Selûne—the [[House of the Moon (Thentia)|House of the Moon]] and  the[[Temple of the Half Moon]]."
+        "mainbody": "Maces of the moon were enchanted maces wielded by the clergy of Selûne against the churchs undead enemies.\nThese bludgeons were blessed by High Priestesses of Selûne under the full moons glow. The divine moonlight was stored within maces sharp flanges, creating a powerful +3 enchantment. Every time a mace of the moon struck an undead creature, it discharged radiant energy, damaging the targets. Additionally, the wielder of the mace was granted the ability to cast the lesser restoration spell once per day.\nAs of the , maces of the moon could be found in Thentia and Elmwood temples of Selûne—the House of the Moon and  theTemple of the Half Moon."
     }
 }

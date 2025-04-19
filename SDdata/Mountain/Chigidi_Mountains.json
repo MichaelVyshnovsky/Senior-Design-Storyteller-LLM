@@ -1,16 +1,5 @@
 {
-    "template_data": {
-        "7000|10000|ft|long": "yes",
-        "15000|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Plain of Horses KT.jpg",
-        "caption": "A map of the Plain of Horses showing the Chigidi Mountains.",
-        "name": "Chigidi Mountains",
-        "aliases": "",
-        "type": "Mountain range",
-        "region": "",
-        "elevation": "{{SIrange|7000|15000|ft|}}",
         "georefs": "",
         "races": "",
         "socrefs": "",
@@ -25,11 +14,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "The '''Chigidi Mountains''' were a mountain range in the [[Plain of Horses]] region.",
-        "Geography": "Standing in the north and east, the range occupied almost half of the land counted as the Plain of Horses, making it something of a misnomer. In the northern arm, the peaks stood {{SIrange|7000|10000|ft|long=yes}} tall, but in the main eastern section they surpassed {{SI|15000|ft|long=yes}}. Dominating the surrounding lands, they formed a natural barrier between the Plain of Horses and the [[Ama Basin]] in the north and [[Shou Lung]] in the east, protecting the Plain of Horses from invasion or raids from either side.\n\nThe [[Anai River]] had its headwaters in the northern Chigidi and [[Chigiogi Mountains]]. Once branch meandered southward through the northern Chigidi Mountains, while another flowed northward into the Ama Basin.",
-        "Description": {
-            "Geographical Features": "Two known peaks were [[Mount Juqan]] and [[Mount Or-Ghash]], which was a sacred site to local [[lama]]s."
-        },
-        "Notable Locations": "Several Plainsmen cities were established in the Chigidi Mountains: [[Alamaqu]], a tent city of the [[T'aghur]] tribe lying in a valley in the central eastern mountains; [[Li-Raz]], the great city of the [[Fankiang]] tribe near the south-western edge; and [[Jugicha]], the home of the [[Tsu-tsu]] tribe in the southwestern tip."
+        "mainbody": "The Chigidi Mountains were a mountain range in the Plain of Horses region.\nStanding in the north and east, the range occupied almost half of the land counted as the Plain of Horses, making it something of a misnomer. In the northern arm, the peaks stood  tall, but in the main eastern section they surpassed . Dominating the surrounding lands, they formed a natural barrier between the Plain of Horses and the Ama Basin in the north and Shou Lung in the east, protecting the Plain of Horses from invasion or raids from either side.\nThe Anai River had its headwaters in the northern Chigidi and Chigiogi Mountains. Once branch meandered southward through the northern Chigidi Mountains, while another flowed northward into the Ama Basin.\nThe range was rugged and rocky and the northern peaks were capped in ice and snow throughout the year. At these heights, the temperature was so low that ones breath froze one ones face even in the summer months. Moreover, the soil was infertile, forbidding any agriculture apart from the mountain flanks facing the forested taiga in the south.\nTwo known peaks were Mount Juqan and Mount Or-Ghash, which was a sacred site to local lamas.\nSeveral Plainsmen cities were established in the Chigidi Mountains Alamaqu, a tent city of the Taghur tribe lying in a valley in the central eastern mountains Li-Raz, the great city of the Fankiang tribe near the south-western edge and Jugicha, the home of the Tsu-tsu tribe in the southwestern tip."
     }
 }

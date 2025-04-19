@@ -1,42 +1,5 @@
 {
-    "template_data": {
-        "20|ft|long": "yes",
-        "5|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption2": "Various depictions of assassin vines",
-        "name": "Assassin vine",
-        "size5e": "Large",
-        "type5e": "[[Plant creature|Plant]]",
-        "subtype5e": "",
-        "alignment5e": "[[Unaligned]]",
-        "challenge5e": "3",
-        "refs5e": "<ref name=ToA5e-p213>",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "type3e": "Large [[Plant creature|plant]]",
-        "subtype3e": "",
-        "alignment3e": "Always [[Neutral]]",
-        "challenge3e": "3",
-        "refs3e": "",
-        "alignment2e": "",
-        "refs2e": "",
-        "alignment1e": "",
-        "refs1e": "",
-        "patron deity": "",
-        "vision": "[[Blindsight]]<ref name=ToA5e-p213 />",
-        "diet": "Autotrophic",
-        "lifespan": "",
-        "location": "Temperate forests",
-        "intelligence": "None",
-        "language": "",
-        "subraces": "Subterranean assassin vines",
-        "height": "",
-        "length": "{{SI|20|ft}}",
         "wingspan": "",
         "weight": "",
         "skincolor": "",
@@ -46,12 +9,6 @@
         "distinctions": "Hand-shaped leaves, grape-like fruit",
         "based": "",
         "first": "",
-        "mainbody": "An '''assassin vine''' was a type of carnivorous [[Plant creature|plant]] found in varieties both above and below the surface.",
-        "Description": "A single specimen usually consisted of a {{SI|20|ft|long=yes}} main branch as thick as a [[human]]'s forearm. Smaller vines up to {{SI|5|ft|long=yes}} extended from the main branch and bore clusters of [[grape]]-like berries. The bark was stringy. The leaves of an assassin vine were distinct in their asymmetric five-pointed shapes, which resembled a hand.\n\nThe plants were tougher than usual and were resistant to burning or freezing. Electricity did not harm them at all.\n\nAssassin vines could move along the ground but very slowly.",
-        "Variants": "A related plant was also found in the [[Underdark]]. These varieties had thinner stems and gray leaves with brown, silver, or white veins. Since they could not make energy from the sun, they required a source of thermal energy and would usually generate enough offal to also support colonies of subterranean fungi in a symbiotic relationship.",
-        "Ecology": {
-            "Habitats": "The [[Ardeep Forest]] east of [[Waterdeep]] contained a population of assassin vines.{{Cite web enhancement/Environs of Waterdeep|4}} They were also present in large numbers in the [[Flooded Forest]] between [[the Vast]] and the [[Moonsea]]. And they potentially grew in the [[Vast Swamp]]. \n\nIn the [[Shining South]] they could be found in the [[Forest of Amtar]], [[Halruaa]], [[Luiren]], the [[Lluirwood]], the [[Great Swamp of Rethild]], and the [[Toadsquat Mountains]]. They occasionally grew in [[Chondalwood]].\n\nBeyond the [[Prime Material plane]], assassin vines could be found in [[Plane of Shadow]] in the Vast Swamp's counterpart, the [[Shadow Swamp]].\n\n[[Myconid]]s in the [[Lowerdark]] city of [[Fluvenilstra]] kept a defense of subterranean assassin vines, in addition to other plant creatures.",
-            "Usages": "The fruit of an assassin vine was tough and bitter, but it could be turned into [[assassin vine wine|a strong wine]]."
-        }
+        "mainbody": "An assassin vine was a type of carnivorous plant found in varieties both above and below the surface.\nA single specimen usually consisted of a  main branch as thick as a humans forearm. Smaller vines up to  extended from the main branch and bore clusters of grape-like berries. The bark was stringy. The leaves of an assassin vine were distinct in their asymmetric five-pointed shapes, which resembled a hand.\nThe plants were tougher than usual and were resistant to burning or freezing. Electricity did not harm them at all.\nAssassin vines could move along the ground but very slowly.\nA related plant was also found in the Underdark. These varieties had thinner stems and gray leaves with brown, silver, or white veins. Since they could not make energy from the sun, they required a source of thermal energy and would usually generate enough offal to also support colonies of subterranean fungi in a symbiotic relationship.\nAssassin vines would absorb nutrients from decaying matter into their roots. Being carnivorous plants, they would lie in wait until they sensed motion and would snap out and entangle prey, strangling it to death.\nThe vines produced fruit in late summer.\nThe Ardeep Forest east of Waterdeep contained a population of assassin vines. They were also present in large numbers in the Flooded Forest between the Vast and the Moonsea. And they potentially grew in the Vast Swamp. \nIn the Shining South they could be found in the Forest of Amtar, Halruaa, Luiren, the Lluirwood, the Great Swamp of Rethild, and the Toadsquat Mountains. They occasionally grew in Chondalwood.\nBeyond the Prime Material plane, assassin vines could be found in Plane of Shadow in the Vast Swamps counterpart, the Shadow Swamp.\nMyconids in the Lowerdark city of Fluvenilstra kept a defense of subterranean assassin vines, in addition to other plant creatures.\nThe fruit of an assassin vine was tough and bitter, but it could be turned into a strong wine."
     }
 }

@@ -1,14 +1,7 @@
 {
-    "template_data": {
-        "edition": "4e"
-    },
     "document_data": {
-        "type": "encounter",
-        "name": "Chill Stirke",
-        "level4e": "{{spell table|edition=4e|[[Wizard]]|1}}",
-        "keywords4e": "{{desc/arcane}}{{desc/cold}}{{desc/implement}}",
+        "keywords4e": "",
         "type4e": "Encounter",
-        "mainbody": "'''''Chill strike''''' is a [[wizard]] [[spell]] of relatively low complexity. When cast, ''chill strike'' creates a bolt of icy cold energy that is purplish in color. The bolt then flies towards its target, which must be somewhere within a range of fifty feet, dazing them if they are animated. The spell is easy to master, but drains its caster's energy to a point that, in order to cast it again, the wizard must relieve themselves and rest for a few minutes.",
-        "References": "*{{cite book/Player's Handbook 4th edition|159}}\n[[Category:Wizard spells]]\naf9mwg44vrejc122z7lomq7twstl2go"
+        "mainbody": "Chill strike is a wizard spell of relatively low complexity. When cast, chill strike creates a bolt of icy cold energy that is purplish in color. The bolt then flies towards its target, which must be somewhere within a range of fifty feet, dazing them if they are animated. The spell is easy to master, but drains its casters energy to a point that, in order to cast it again, the wizard must relieve themselves and rest for a few minutes.\n*\nCategoryWizard spells\naf9mwg44vrejc122z7lomq7twstl2go"
     }
 }

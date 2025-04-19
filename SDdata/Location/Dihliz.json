@@ -1,14 +1,5 @@
 {
     "document_data": {
-        "type": "Settlement",
-        "name": "Dihliz",
-        "image": "Dihliz.JPG",
-        "caption": "A map of Dihliz, the \"Gateway City.\"",
-        "aliases": "\"The Gateway City\"",
-        "capital": "",
-        "area": "[[Cities of the Ancients]], [[Zakhara]]",
-        "size": "Metropolis",
-        "ruler1": "[[Hassana Alim al-Gaib|Emira Hassana Alim al-Gaib]]{{AQ-time}}",
         "ruleryear1": "1367",
         "ruler2": "",
         "ruleryear2": "",
@@ -18,13 +9,13 @@
         "ruleryear4": "",
         "ruler5": "",
         "ruleryear5": "",
-        "rulertype": "[[wikipedia:emira|Emira]]",
-        "government": "[[wikipedia:monarchy|Monarchy]]",
+        "rulertype": "Emira",
+        "government": "Monarchy",
         "languages": "",
         "races": "",
-        "religion": "[[Kor]], [[Gods of the Pantheon|Pantheon]], [[Selan]], [[Zann]]",
+        "religion": "Kor, Pantheon, Selan, Zann",
         "reckoning": "DR",
-        "population1": "80,000{{AQ-time}}",
+        "population1": "80,000",
         "popyear1": "1367",
         "population2": "",
         "popyear2": "",
@@ -40,10 +31,6 @@
         "locations": "yes",
         "organizations": "yes",
         "settlements": "",
-        "mainbody": "'''Dihliz''', also called the \"'''Gateway City'''\", was the only major city found within the [[Cities of the Ancients]] in [[Zakhara]] that was not built upon the ruins of other cities.",
-        "Geography": "Dihliz was located on the edges of [[Zakhara]]n civilization about {{SI|50|mi|k}} north from the mouth of the [[Nogaro River]] in the [[Cities of the Ancients]].",
-        "Activity": "Dihliz served as a starting point for expeditions to the ruins and jungles of the lost kingdoms of [[Nog]] and [[Kadar]], gaining it the title of the \"'''Gateway City'''\". Between the distant influences of the [[Khalil al-Assad al-Zahir|Grand Caliph]] in [[Huzuz]] and the [[Alad bin Alaq bin Alonka|Padishah]] of [[Afyal]], corruption grew rampant, compromising the existing regulations about the export of treasures and antiquities. Aside from plunder (and corruption), the main products of Dihliz were rice and serving as a trading point to and around the [[Cities of the Pantheon|Pantheon cities]].",
-        "History": "Dihliz was established during the mid 13{{th}} century [[DR]] by the Padishah of Afyal with the goal of regulating the flow of magical artifacts recovered from the surrounding ruins as well as to provide a base for trading with the Pantheon cities.\n\nNew city rulers were appointed by the Grand Caliph with increasing frequency over the last century as corruption became more evident.",
-        "Defenses": "Walls protected the north side of Dihliz that faced the jungle, though they were low and relatively thin and put in place more for show than actual protection. The wide canals surrounding the city offered far more protection against any attacking force."
+        "mainbody": "Dihliz, also called the \"Gateway City\", was the only major city found within the Cities of the Ancients in Zakhara that was not built upon the ruins of other cities.\nDihliz was located on the edges of Zakharan civilization about  north from the mouth of the Nogaro River in the Cities of the Ancients.\nDihliz served as a starting point for expeditions to the ruins and jungles of the lost kingdoms of Nog and Kadar, gaining it the title of the \"Gateway City\". Between the distant influences of the Grand Caliph in Huzuz and the Padishah of Afyal, corruption grew rampant, compromising the existing regulations about the export of treasures and antiquities. Aside from plunder (and corruption), the main products of Dihliz were rice and serving as a trading point to and around the Pantheon cities.\nDihliz was established during the mid 13 century DR by the Padishah of Afyal with the goal of regulating the flow of magical artifacts recovered from the surrounding ruins as well as to provide a base for trading with the Pantheon cities.\nNew city rulers were appointed by the Grand Caliph with increasing frequency over the last century as corruption became more evident.\nWalls protected the north side of Dihliz that faced the jungle, though they were low and relatively thin and put in place more for show than actual protection. The wide canals surrounding the city offered far more protection against any attacking force."
     }
 }

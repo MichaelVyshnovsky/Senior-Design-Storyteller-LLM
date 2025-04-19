@@ -1,35 +1,7 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "name": "Protection from lycanthropy",
-        "deity": "",
-        "inventor": "[[Avan Vatsisen]]",
-        "type": "",
-        "domains5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school4e": "",
-        "domains4e": "",
-        "descriptors4e": "",
-        "school3e": "[[Abjuration]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Sorcerer]]|3|[[Wizard]]|3}}",
         "type3e": "",
-        "refs3e": "{{Cite web/The Search for the Circle of Vehlarr - Part 5}}",
+        "refs3e": "",
         "school2e": "",
         "reversible2e": "",
         "spheres2e": "",
@@ -41,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''Protection from lycanthropy''' is a [[sorcerer]]/[[wizard]] spell that grants the target a greater chance to resist contracting [[lycanthropy]] when struck by a lycanthrope.",
-        "Effects": "If already infected, the target has a chance to resist a shapechange. The spell's material component is lycanthrope blood and the chance of this protection increases if the blood is from the same type of lycanthrope as the attacker, and increases yet further if the blood is from the attacker itself.",
-        "History": "This spell was created by [[Avan Vatsisen]] and it is likely that nobody else will have access to it.."
+        "mainbody": "Protection from lycanthropy is a sorcerer/wizard spell that grants the target a greater chance to resist contracting lycanthropy when struck by a lycanthrope. \nIf already infected, the target has a chance to resist a shapechange. The spells material component is lycanthrope blood and the chance of this protection increases if the blood is from the same type of lycanthrope as the attacker, and increases yet further if the blood is from the attacker itself.\nThis spell was created by Avan Vatsisen and it is likely that nobody else will have access to it.."
     }
 }

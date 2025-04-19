@@ -1,27 +1,7 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "variant": "ritual"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Detect poison and disease",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "school5e": "[[Divination]]",
-        "level5e": "{{spell table|edition=5e|variant=ritual|[[Cleric]]|1|[[Druid]]|1|[[Paladin]]|1|[[Ranger]]|1}}",
-        "type5e": "[[Ritual]]",
+        "type5e": "Ritual",
         "refs5e": "",
-        "mainbody": "'''''Detect poison and disease''''' was a [[divination]] [[spell]] that detected diseases, poisons, or poisonous creatures.",
-        "Effect": "Upon casting this spell, the caster could sense disease, poisons, and poisonous creatures within a 30 ft (9.1 m) radius and know their location and type (''e.g.'', rabies, [[yellow mold]], or [[snake]]). This ability lasted while the caster concentrated on the detection, or for 10 minutes, whichever was less.\n\nThis spell could successfully detect poison or disease through barriers, but could not penetrate 3 ft (91 cm) of wood or dirt, 1 ft (30 cm) of stone, 1 in (2.5 cm) of regular metals, or a thin layer of lead.\n\n''Detect poison and disease'' could also be cast as a [[ritual]].",
-        "Components": "In addition to verbal and somatic components, this spell required a [[yew]] leaf to cast."
+        "mainbody": "Detect poison and disease was a divination spell that detected diseases, poisons, or poisonous creatures.\nUpon casting this spell, the caster could sense disease, poisons, and poisonous creatures within a 30 ft (9.1 m) radius and know their location and type (e.g., rabies, yellow mold, or snake). This ability lasted while the caster concentrated on the detection, or for 10 minutes, whichever was less.\nThis spell could successfully detect poison or disease through barriers, but could not penetrate 3 ft (91 cm) of wood or dirt, 1 ft (30 cm) of stone, 1 in (2.5 cm) of regular metals, or a thin layer of lead.\nDetect poison and disease could also be cast as a ritual.\nIn addition to verbal and somatic components, this spell required a yew leaf to cast."
     }
 }

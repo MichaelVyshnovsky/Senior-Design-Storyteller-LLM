@@ -1,32 +1,16 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "edition_1": "3e",
-        "edition_2": "2e"
-    },
     "document_data": {
-        "image": "Freedom of movement 5e.png",
-        "caption": "",
-        "name": "Freedom of Movement",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Abjuration]]",
-        "domains5e": "[[War domain|War]]",
-        "circles5e": "[[Arctic circle|Arctic]], [[Coast circle|Coast]], [[Forest circle|Forest]], [[Grassland circle|Grassland]], [[Swamp circle|Swamp]]",
-        "oaths5e": "[[Devotion oath|Devotion]]",
-        "level5e": "{{Spell table|edition=5e|[[Arctic circle|Arctic]]|4|[[Artificer]]|4|[[Bard]]|4|[[Cleric]]|4|[[Coast circle|Coast]]|4|[[Devotion oath|Devotion]]|4|[[Druid]]|4|[[Forest circle|Forest]]|4|[[Grassland circle|Grassland]]|4|[[Ranger]]|4|[[Swamp circle|Swamp]]|4|[[War domain|War]]|4}}",
         "type5e": "",
         "refs5e": "",
-        "level3e": "{{spell table|edition=3e|[[Assassin]]|4|[[Bard]]|4|[[Beloved of Lurue]]|4|[[Blackguard]]|4|[[Champion of Gwynharwyf]]|4|[[Cleric]]|4|[[Druid]]|4|[[Halfling domain|Halfling]]|4|[[Luck domain|Luck]]|4|[[Ocean domain|Ocean]]|4|[[Paladin]]|4|[[Ranger]]|4|[[Sohei]]|4|[[Time domain|Time]]|4}}",
-        "domains3e": "[[Halfling domain|Halfling]], [[Luck domain|Luck]], [[Ocean domain|Ocean]], [[Time domain|Time]]",
-        "school3e": "[[Abjuration]]",
+        "level3e": "",
+        "domains3e": "Halfling, Luck, Ocean, Time",
+        "school3e": "Abjuration",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
-        "school2e": "[[Abjuration]], [[Enchantment]]",
-        "spheres2e": "[[Charm sphere|Charm]]",
-        "level2e": "{{Spell table|edition=2e|[[Charm sphere|Charm]]|4|[[Cleric]]|4|[[Mystic]]|4}}",
+        "school2e": "Abjuration, Enchantment",
+        "spheres2e": "Charm",
+        "level2e": "",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -34,8 +18,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Freedom of movement''''', also called '''''Free action''''',  was a [[divine magic|divine]] [[abjuration]] and [[enchantment]] spell that allowed an individual to move normally while under water or against magic that impeded movement.",
-        "Effects": "The caster was required to touch the target of this spell and it lasted for over an hour, with even longer duration for more experienced casters. The recipient of ''free action'' was able to move and fight normally (as if on dry land) while under water using melee weapons held in the hands. Ranged weapons were subject to movement reduction immediately upon being hurled or fired. Note that this spell did not confer any ability to breathe while submerged. This spell was also proof against ''[[web]]'', ''[[slow]]'', ''[[hold person]]'', ''[[paralyze]]'', ''[[iron bands of Bilarro]]'', and other magical hindrances to movement.",
-        "Components": "In addition to verbal and somatic components, the caster was required to touch the recipient of this spell. The material component was a leather thong tied around an arm, leg, or similar appendage of the recipient. The leather thong turned to dust when the spell expired.\n\nOn the [[Malatran Plateau]], both [[arcane]] and [[divine]] magics were harnessed using ''[[spell fetish]]es''. ''Freedom of movement divine spell fetish'' was a smooth black rock from a riverbed, polished by flowing waters.{{Cite organized play/LJ/An Army of One Thousand|16}}"
+        "mainbody": "Freedom of movement, also called Free action,  was a divine abjuration and enchantment spell that allowed an individual to move normally while under water or against magic that impeded movement.\nThe caster was required to touch the target of this spell and it lasted for over an hour, with even longer duration for more experienced casters. The recipient of free action was able to move and fight normally (as if on dry land) while under water using melee weapons held in the hands. Ranged weapons were subject to movement reduction immediately upon being hurled or fired. Note that this spell did not confer any ability to breathe while submerged. This spell was also proof against web, slow, hold person, paralyze, iron bands of Bilarro, and other magical hindrances to movement.\nIn addition to verbal and somatic components, the caster was required to touch the recipient of this spell. The material component was a leather thong tied around an arm, leg, or similar appendage of the recipient. The leather thong turned to dust when the spell expired.\nOn the Malatran Plateau, both arcane and divine magics were harnessed using spell fetishes. Freedom of movement divine spell fetish was a smooth black rock from a riverbed, polished by flowing waters."
     }
 }

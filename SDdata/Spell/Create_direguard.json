@@ -1,39 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Create Direguard",
-        "deity": "[[Cyric]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Necromancy]]",
-        "spheres2e": "[[Necromantic sphere|Necromantic]]",
-        "level2e": "{{Spell table|edition=2e|[[Cleric]]|7|[[Necromantic sphere|Necromantic]]|7}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -41,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Create direguard''''' was a [[divine magic]] spell available to [[cleric]]s of [[Cyric]], Prince of Madness. It animated a [[direguard]] out of an intact skeleton. but this spell was specific to Cyric and a jealously guarded secret.",
-        "Effects": "This spell took one minute to cast and the cleric had to touch the skeleton that was to be animated. Upon completion, flames of red ignited in the skeleton's eye sockets and the direguard rose ready to attack, wearing armor that was shadowy black but with the bones visible through it.",
-        "Components": "In addition to [[verbal component|verbal]] and [[somatic component]]s, this spell required an intact skeleton of approximately [[human]] size or smaller, and 20 drops of blood from a true [[dragon]].",
-        "History": "This spell was an improved version of the ''[[create baneguard]]'' spell used by priests of [[Bane]], the Black Hand. although the caster who wanted to create a direguard had to be more experienced than a caster that could just learn ''create baneguard''."
+        "mainbody": "Create direguard was a divine magic spell available to clerics of Cyric, Prince of Madness. It animated a direguard out of an intact skeleton. but this spell was specific to Cyric and a jealously guarded secret.\nThis spell took one minute to cast and the cleric had to touch the skeleton that was to be animated. Upon completion, flames of red ignited in the skeletons eye sockets and the direguard rose ready to attack, wearing armor that was shadowy black but with the bones visible through it.\nIn addition to verbal and somatic components, this spell required an intact skeleton of approximately human size or smaller, and 20 drops of blood from a true dragon.\nThis spell was an improved version of the create baneguard spell used by priests of Bane, the Black Hand. although the caster who wanted to create a direguard had to be more experienced than a caster that could just learn create baneguard."
     }
 }

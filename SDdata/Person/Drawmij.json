@@ -1,27 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "DrawmijADDTCG.png",
-        "caption": "",
-        "name": "Drawmij",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Oerth]], [[Greyspace]]",
-        "formerhomes": "",
-        "sex": "",
-        "gender": "Male",
-        "race": "[[Human]]",
-        "ethnicity": "",
-        "occupation": "",
-        "age": "",
-        "patron deity": "",
-        "languages": "",
-        "basicrefs": "{{Cite card/AD&D Trading Cards}}",
         "reckoning": "",
         "dob": "",
         "dobnotes": "",
@@ -46,8 +24,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Neutral]]",
-        "class2e": "{{Class table|edition=2e|[[Wizard]]|16}}",
+        "alignment2e": "Neutral",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
@@ -64,8 +42,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Drawmij'''<ref group=\"note\">The creator of Drawmij can be found by reading his name backwards. was a great mage from [[Oerth]] He was known by a few inhabitants of the [[Realms]], and his spells were used throughout.",
-        "Description": "The Oerthly wizard's known spells in the Realms were ''[[Drawmij's instant summons]]'' and ''[[Drawmij's marvelous shield]]''.",
-        "History": "In the 14{{th}} century [[DR]], [[Khelben Arunsun]] thought of the \"great Drawmij of Oerth\" when imagining a spell that was made to penetrate [[magic]] fog. In the same century, Drawmij visited [[Raven's Bluff]], where he told stories to the public."
+        "mainbody": "DrawmijThe creator of Drawmij can be found by reading his name backwards. was a great mage from Oerth He was known by a few inhabitants of the Realms, and his spells were used throughout.\nThe Oerthly wizards known spells in the Realms were Drawmijs instant summons and Drawmijs marvelous shield.\nIn the 14 century DR, Khelben Arunsun thought of the \"great Drawmij of Oerth\" when imagining a spell that was made to penetrate magic fog. In the same century, Drawmij visited Ravens Bluff, where he told stories to the public."
     }
 }

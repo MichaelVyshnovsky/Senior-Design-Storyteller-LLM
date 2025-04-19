@@ -1,22 +1,5 @@
 {
-    "template_data": {
-        "16|lbs|k|long": "yes"
-    },
     "document_data": {
-        "image": "Efreeti-5e.png",
-        "caption": "An efreeti wielding a great scimitar with ease.",
-        "name": "Great Scimitar",
-        "othernames": "",
-        "nicknames": "Headsman Sword",
-        "type": "Sword",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "40–90 [[dinar]]s",
-        "weight2e": "{{SI|16|lbs|k|long=yes}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -38,10 +21,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''Great scimitars'''  were larger two-handed versions of the common [[scimitar]]. These deadly [[sword]]s were found primarily in [[Zakhara]], the Land of Fate, where it was often referred to as the \"headsman's sword\" since it was used by executioners.",
-        "Description": "A great scimitar was a truly massive sword, weighing on average a pound more than the mighty [[greatsword]]. The weapon's mass required two hands to wield properly unless the wielder possessed unnatural strength. The great scimitar's huge blade was curved and designed to cut through enemies.\n\nA great scimitar could be purchased for 40–90 [[dinar]]s.",
-        "History": "These weapons were favored by [[harim servant genie]]s who carried one in each massive hand.",
-        "Notable Great Scimitars": "* ''[[Firefiend]]''{{Cite dragon/268/Secrets of the Brotherhood of the True Flame}}\n* ''[[Widowmaker]]''\n* ''[[Final Arbiter]]''\n* ''[[Storm of Justice]]''",
-        "Notable Users of Great Scimitars": "* [[Hasan ibn al-Din]]\n* [[Saleem ibn Ahogar]]{{cite book/City of Delights/Golden Huzuz|47-48}} \n* [[Head Taker]]\n* [[Ardasir al-Darah]]\n* Sheikh [[Kaldhun bin Hanif]]"
+        "mainbody": "Great scimitars  were larger two-handed versions of the common scimitar. These deadly swords were found primarily in Zakhara, the Land of Fate, where it was often referred to as the \"headsmans sword\" since it was used by executioners.\nA great scimitar was a truly massive sword, weighing on average a pound more than the mighty greatsword. The weapons mass required two hands to wield properly unless the wielder possessed unnatural strength. The great scimitars huge blade was curved and designed to cut through enemies.\nA great scimitar could be purchased for 40–90 dinars.\nThese weapons were favored by harim servant genies who carried one in each massive hand.\n* Firefiend\n* Widowmaker\n* Final Arbiter\n* Storm of Justice\n* Hasan ibn al-Din\n* Saleem ibn Ahogar \n* Head Taker\n* Ardasir al-Darah\n* Sheikh Kaldhun bin Hanif"
     }
 }

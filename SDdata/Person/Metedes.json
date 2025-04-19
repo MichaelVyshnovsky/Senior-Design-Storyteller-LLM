@@ -1,27 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Metedes",
-        "alt_spelling": "",
-        "titles": "[[Watcher]] of [[Helm]]",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Waterdeep]], [[Sword Coast North]]",
-        "formerhomes": "",
-        "sex": "",
-        "gender": "",
-        "race": "",
-        "ethnicity": "",
-        "occupation": "[[Priest]]",
-        "age": "",
-        "patron deity": "[[Helm]]",
-        "languages": "",
-        "basicrefs": "{{Cite dungeon/69/Slave Vats of the Yuan-ti|12}}",
         "reckoning": "",
         "dob": "",
         "dobnotes": "",
@@ -47,7 +25,7 @@
         "class1e": "",
         "refs1e": "",
         "alignment2e": "",
-        "class2e": "{{class table|edition=2e|[[Cleric]]|9}}",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
@@ -64,7 +42,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Metedes''' was a [[priest]] of [[Helm]] and member of Sir [[Justin Melenikus]]'s watchers at [[Iniarv's Tower]] in the mid-to-late 14{{th}} century [[DR]].",
-        "History": "Metedes and his fellow watchers were from the city of [[Waterdeep]]. Their services and ventures into the [[Mere of Dead Men]] were encouraged via writs that could be changed for [[coin]] back in the City of Splendors."
+        "mainbody": "Metedes was a priest of Helm and member of Sir Justin Melenikuss watchers at Iniarvs Tower in the mid-to-late 14 century DR.\nMetedes and his fellow watchers were from the city of Waterdeep. Their services and ventures into the Mere of Dead Men were encouraged via writs that could be changed for coin back in the City of Splendors."
     }
 }

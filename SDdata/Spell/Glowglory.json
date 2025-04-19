@@ -1,40 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Glowglory",
-        "deity": "[[Marthammor Duin]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]], [[Evocation]]",
-        "spheres2e": "[[Combat sphere]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|3|[[Combat sphere|Combat]]|3}}",
         "type2e": "Touch",
         "refs2e": "",
         "reversible1e": "",
@@ -42,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Glowglory''''' was a [[spell]] unique to [[dwarven]] [[cleric]]s.",
-        "Effects": "When this spell was cast upon a normal stone it caused the affected item to radiate a ''continual light'' and emit a mild degree of heat. This latter effect was known to be useful in staving off the affects of exposure in cold climates.\n\nWhen cast upon a ''[[glowstone]]'', this spell caused a bright beam of radiant force to be unleashed from it. This beam could be directed by the caster as either a continuous or pulsating stream. It was capable of cutting through all manner of wood, stone, and even flesh.  Though this beam could be used offensively as a weapon, it was often used to quarry or create passages within solid stone.\n\nThe effects of glowglory would cease upon the caster dying, falling unconscious, or casting another spell.",
-        "Components": "A cleric needed either a ''glowstone'' or a regular stone to cast the spell upon. They also required a pinch of either [[gold]]-dust or [[gem]]-dust."
+        "mainbody": "Glowglory was a spell unique to dwarven clerics.\nWhen this spell was cast upon a normal stone it caused the affected item to radiate a continual light and emit a mild degree of heat. This latter effect was known to be useful in staving off the affects of exposure in cold climates.\nWhen cast upon a glowstone, this spell caused a bright beam of radiant force to be unleashed from it. This beam could be directed by the caster as either a continuous or pulsating stream. It was capable of cutting through all manner of wood, stone, and even flesh.  Though this beam could be used offensively as a weapon, it was often used to quarry or create passages within solid stone.\nThe effects of glowglory would cease upon the caster dying, falling unconscious, or casting another spell.\nA cleric needed either a glowstone or a regular stone to cast the spell upon. They also required a pinch of either gold-dust or gem-dust."
     }
 }

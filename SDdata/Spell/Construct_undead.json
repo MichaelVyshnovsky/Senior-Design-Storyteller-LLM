@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Construct undead",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Necromancy]], [[Universal (province)|Universal]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|6}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Construct undead''''' was a [[spell]] unique to [[Zakhara]], the Land of Fate. This spell was used by [[ghul lord]]s.",
-        "Effects": "Ghul lords used this spell to construct [[undead]] servants from spare body parts, both human and inhuman.\n\nOnce the caster determined the type of servant needed, the spell could be cast. These servants could only perform basic tasks that did not require thought. Physical labor tasks were common selections.\n\nThese undead servants made for poor combatants, being physically weaker than the weakest zombie or skeleton.\n\nThis spell lasted for many days depending on the power of the caster.",
-        "Components": "This spell required a corpse or skeleton to cast."
+        "mainbody": "Construct undead was a spell unique to Zakhara, the Land of Fate. This spell was used by ghul lords.\nGhul lords used this spell to construct undead servants from spare body parts, both human and inhuman.\nOnce the caster determined the type of servant needed, the spell could be cast. These servants could only perform basic tasks that did not require thought. Physical labor tasks were common selections.\nThese undead servants made for poor combatants, being physically weaker than the weakest zombie or skeleton.\nThis spell lasted for many days depending on the power of the caster.\nThis spell required a corpse or skeleton to cast."
     }
 }

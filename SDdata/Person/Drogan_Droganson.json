@@ -1,25 +1,7 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "Drogan Droganson.png",
-        "caption": "",
-        "name": "Drogan Droganson",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Hilltop]], [[Silver Marches]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "gender": "Masculine",
-        "race": "[[Dwarf]]",
-        "ethnicity": "",
-        "occupation": "Teacher, {{former}} adventurer",
         "age": "",
-        "patron deity": "[[Mystra]]",
+        "patron deity": "Mystra",
         "languages": "",
         "basicrefs": "",
         "reckoning": "",
@@ -49,9 +31,9 @@
         "alignment2e": "",
         "class2e": "",
         "refs2e": "",
-        "alignment3e": "[[Neutral good]]",
+        "alignment3e": "Neutral good",
         "challenge3e": "16",
-        "class3e": "{{class table|edition=3e|[[Cleric]]|8|[[Wizard]]|8}}",
+        "class3e": "",
         "refs3e": "",
         "alignment35": "",
         "challenge35": "",
@@ -64,10 +46,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Drogan Droganson''' was a renowned [[dwarf]] [[wizard]], [[cleric]] of [[Mystra]], and secret member of the [[Harpers]] who opened a school for adventurers in [[Hilltop]] in the [[Silver Marches]], after retiring from the his own adventuring life.",
-        "Description": "The dwarf had a braided white beard, balding hair and half-moon [[spectacle]]s.",
-        "Personality": "Drogan spoke very little of his past life, though he was known for his adventuring lifestyle and displayed many qualities associated with the northern [[shield dwarf|shield dwarves]]. He ultimately sacrificed himself for his new apprentice, which showed his deep loyalty to the Harper's cause and his students.\n\nAs well as being a member of the Harpers and a renowned wizard and cleric, he also had a passion for sharing his knowledge with new hopeful adventurers, resulting in him mentoring students in Hilltop after his retirement.",
-        "Possessions": "Drogan was entrusted by the Harpers with protecting four important magical artifacts: [[Belpheron]]'s mummified hand, a [[dragon]]'s tooth, a mask that once belonged to a high priest of [[Mask]], and a tower statue that was found in a desert tomb.\n\nDrogan's home had many [[magical item]]s as well, including an [[alchemy]] station called 'The Grinder' and a large laboratory that his [[faerie dragon]] [[familiar]], [[Riisi]], protected from intruders.",
-        "History": "Drogan decided to settle down in Hilltop after a life of adventuring and opened a school for aspiring adventurers out of his home. His students included [[Drogan Droganson's pupil]], [[Xanos Messarmos]], [[Mischa Waymeet]] and [[Dorna Trapspringer]].\n\nIn the [[1372 DR|Year of Wild Magic, 1372 DR]], a [[kobold]] attack on Drogan's home resulted in him being poisoned with a [[dagger]] coated with an exotic [[poison]]. Fortunately, [[Ayala Windspear]], a fellow Harper agent, had been tracking the kobolds since they had left their usual territory and arrived on the scene soon after. Though the poison was resistant to the usual means of healing, she was able to nurse him back to health over time, possibly aided by his senior apprentice gathering a mixture of [[tressym]] tongue, [[charcoal]], and [[helmthorn]] berries from the local herbalist.\n\nOnce stable, he revealed that the artifacts he had been protecting were stolen in this attack and dispatched his student to recover them. First, Drogan sent his apprentices to travel across the [[Anauroch]] desert in order to find an acquaintance, the archaeologist [[Garrick Halassar]], who might be able to identify a magical crystal found within the tower statue. Later, Garrick contacted Drogan and set up a ''[[teleport]]'' to bring the dwarf to his apprentices' side.\n\nDrogan again met with his apprentice deep within some ruins, to help them reactivate a ''[[portal]]'' through which a [[Heurodis|mysterious woman]] leading a group of demonic creatures was seen entering. Unfortunately, he realized too late that their quarry had hidden a lethal magic trap within the ''portal'' that would kill the next person who activated it, and collapse the ruins around them. Drogan sacrificed himself to protect his apprentice and hold open the ''portal'' long enough for them to escape."
+        "mainbody": "Drogan Droganson was a renowned dwarf wizard, cleric of Mystra, and secret member of the Harpers who opened a school for adventurers in Hilltop in the Silver Marches, after retiring from the his own adventuring life.\nThe dwarf had a braided white beard, balding hair and half-moon spectacles.\nDrogan spoke very little of his past life, though he was known for his adventuring lifestyle and displayed many qualities associated with the northern shield dwarves. He ultimately sacrificed himself for his new apprentice, which showed his deep loyalty to the Harpers cause and his students.\nAs well as being a member of the Harpers and a renowned wizard and cleric, he also had a passion for sharing his knowledge with new hopeful adventurers, resulting in him mentoring students in Hilltop after his retirement.\nDrogan was entrusted by the Harpers with protecting four important magical artifacts Belpherons mummified hand, a dragons tooth, a mask that once belonged to a high priest of Mask, and a tower statue that was found in a desert tomb.\nDrogans home had many magical items as well, including an alchemy station called The Grinder and a large laboratory that his faerie dragon familiar, Riisi, protected from intruders.\nDrogan decided to settle down in Hilltop after a life of adventuring and opened a school for aspiring adventurers out of his home. His students included Drogan Drogansons pupil, Xanos Messarmos, Mischa Waymeet and Dorna Trapspringer.\nIn the Year of Wild Magic, 1372 DR, a kobold attack on Drogans home resulted in him being poisoned with a dagger coated with an exotic poison. Fortunately, Ayala Windspear, a fellow Harper agent, had been tracking the kobolds since they had left their usual territory and arrived on the scene soon after. Though the poison was resistant to the usual means of healing, she was able to nurse him back to health over time, possibly aided by his senior apprentice gathering a mixture of tressym tongue, charcoal, and helmthorn berries from the local herbalist.\nOnce stable, he revealed that the artifacts he had been protecting were stolen in this attack and dispatched his student to recover them. First, Drogan sent his apprentices to travel across the Anauroch desert in order to find an acquaintance, the archaeologist Garrick Halassar, who might be able to identify a magical crystal found within the tower statue. Later, Garrick contacted Drogan and set up a teleport to bring the dwarf to his apprentices side.\nDrogan again met with his apprentice deep within some ruins, to help them reactivate a portal through which a mysterious woman leading a group of demonic creatures was seen entering. Unfortunately, he realized too late that their quarry had hidden a lethal magic trap within the portal that would kill the next person who activated it, and collapse the ruins around them. Drogan sacrificed himself to protect his apprentice and hold open the portal long enough for them to escape."
     }
 }

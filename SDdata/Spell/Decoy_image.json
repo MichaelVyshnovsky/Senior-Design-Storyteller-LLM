@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Decoy Image",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Illusion]] (Figment)",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Ranger]]|3}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Decoy image''''' was a [[spell]] used by [[ranger]]s.",
-        "Effects": "When cast, this spell projected a decoy illusion of the caster and their allies. The illusion is realistic and mimics the movements and speech of the caster and their allies. The illusion could be seen up to {{SI|50|ft}} from the group.",
-        "Components": "This spell required only [[Verbal component|verbal]] and [[somatic component|somatic]] components."
+        "mainbody": "Decoy image was a spell used by rangers.\nWhen cast, this spell projected a decoy illusion of the caster and their allies. The illusion is realistic and mimics the movements and speech of the caster and their allies. The illusion could be seen up to  from the group.\nThis spell required only verbal and somatic components."
     }
 }

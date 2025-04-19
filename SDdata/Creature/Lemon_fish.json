@@ -1,34 +1,6 @@
 {
-    "template_data": {
-        "2|6|ft|long": "yes",
-        "2|ft|long": "yes"
-    },
     "document_data": {
-        "image": "UndermountainFish.png",
-        "caption": "(From Left to Right) [[wattley]], [[iridescent plecos]], and lemon fish in the waters of [[Undermountain]].",
-        "name": "Lemon Fish",
-        "othernames": "",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "",
-        "type3e": "",
-        "subtype3e": "",
-        "alignment3e": "",
-        "challenge3e": "",
-        "refs3e": "",
-        "size2e": "Small to Medium",
-        "alignment2e": "[[Neutral]]{{Nil-alignment}}",
-        "refs2e": "{{Cite dragon/155/Sage Advice|86}}",
+        "refs2e": "",
         "size1e": "",
         "alignment1e": "",
         "refs1e": "",
@@ -46,7 +18,7 @@
         "terrain": "Underground pools and streams",
         "genrefs": "",
         "height": "",
-        "length": "{{SIrange|2|6|ft}}",
+        "length": "",
         "wingspan": "",
         "weight": "",
         "skincolor": "Bright yellow",
@@ -60,17 +32,6 @@
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Lemon fishes''' were a species of [[fish]] unique to subterranean pools and streams.",
-        "Description": "The average length of an adult lemon fish varied widely, ranging anything from {{SIrange|2|6|ft|long=yes}} in length, thus unlike many fish species a specimen's size was not indicative of its age. Their tails were covered with yellow and black barbs as well as had a \nthin, spike up to {{SI|2|ft|long=yes}} in length, that extending beyond them. Their eyes were black saucers that would close when they moving in on prey and they had two rows of teeth within their mouth.\n\nThe lemon was covered in bright yellow scales, from which its comparison to [[lemon]]s was derived, though some viewing them from above described the fishes as resembling [[gold piece]]s. Their dorsal fins were tipped with black scales and resembled that of a [[shark]] whenever the lemon fish broke the surface of the water.",
-        "Behavior": "When not hungry, lemon fishes were a rather docile and largely harmless species. When hungry though, they were more than willing to attack creatures larger than themselves.",
-        "Biology": {
-            "Reproduction": "Four times per year a lemon fish would lay bundles of a hundred to six-hundred eggs. On average only ten of every hundred lemon fish would survive to reach adulthood. Their eggs were also quite edible."
-        },
-        "Combat": "Lemon fishes fought by biting with their dual rows of teeth and lashing out with their barbed tails.",
-        "Ecology": {
-            "Diet": "The lemon fish was a carnivorous species and enjoyed the taste of flesh. They were known to prey upon schools of [[wattley]]s, another uniquely subterranean species of fish.",
-            "Habitats": "The lemon fish was only found in subterranean bodies of fresh water where luminous [[lichen]] or other sources provided an environment that approximated natural lighting. They were especially prominent in the underground caverns of [[Undermountain]], where the [[River Sargauth]] and the streams of [[Wyllowwood]] flowed down.",
-            "Usage": "The organs of a lemon fish were highly prized by both [[duergar]] and [[drow]]. Their eggs also fetched prices of up to 400 [[gp]] per {{SI|1|lbs.|k}}, which was equivalent to six-hundred eggs."
-        }
+        "mainbody": "Lemon fishes were a species of fish unique to subterranean pools and streams.\nThe average length of an adult lemon fish varied widely, ranging anything from  in length, thus unlike many fish species a specimens size was not indicative of its age. Their tails were covered with yellow and black barbs as well as had a \nthin, spike up to  in length, that extending beyond them. Their eyes were black saucers that would close when they moving in on prey and they had two rows of teeth within their mouth.\nThe lemon was covered in bright yellow scales, from which its comparison to lemons was derived, though some viewing them from above described the fishes as resembling gold pieces. Their dorsal fins were tipped with black scales and resembled that of a shark whenever the lemon fish broke the surface of the water.\nWhen not hungry, lemon fishes were a rather docile and largely harmless species. When hungry though, they were more than willing to attack creatures larger than themselves.\nWhenever their bodies were punctured, lemon fishes instinctively released filmy, poisonous liquid that would quickly expand into a sphere that was always twice the diameter of that specimens length. Those caught within this sphere often became paralyzed, allowing the injured lemon fish to flee and others to attack the stunned creature.\nIn addition to this defensive mechanism, the tail barbs of the lemon fish also contained some form of poison. After death, these fish lost their toxicity. Those who had tried to feast on them noted that their flesh was tough and generally inedible, though their organs were tasty.\nFour times per year a lemon fish would lay bundles of a hundred to six-hundred eggs. On average only ten of every hundred lemon fish would survive to reach adulthood. Their eggs were also quite edible.\nLemon fishes fought by biting with their dual rows of teeth and lashing out with their barbed tails.\nThese fishes were largely solitarily creatures and were almost never seen in groups larger than three. The largest specimens of this species typically hunted alone.\nThe lemon fish was a carnivorous species and enjoyed the taste of flesh. They were known to prey upon schools of wattleys, another uniquely subterranean species of fish.\nThe lemon fish was only found in subterranean bodies of fresh water where luminous lichen or other sources provided an environment that approximated natural lighting. They were especially prominent in the underground caverns of Undermountain, where the River Sargauth and the streams of Wyllowwood flowed down.\nThe organs of a lemon fish were highly prized by both duergar and drow. Their eggs also fetched prices of up to 400 gp per , which was equivalent to six-hundred eggs."
     }
 }

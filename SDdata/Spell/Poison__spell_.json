@@ -1,29 +1,20 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "edition_1": "2e",
-        "edition_2": "1e"
-    },
     "document_data": {
-        "image": "Poison (spell).png",
-        "name": "Poison",
-        "level3e": "{{spell table|edition=3e|[[Assassin]]|4|[[Blackguard]]|4|[[Cleric]]|4|[[Druid]]|3|[[Scalykind Domain|Scalykind]]|4|[[Slime domain|Slime]]|3}}",
-        "domains3e": "[[Scalykind domain|Scalykind]], [[Slime domain|Slime]]",
-        "school3e": "[[Necromancy]]",
+        "domains3e": "Scalykind, Slime",
+        "school3e": "Necromancy",
         "type3e": "",
-        "refs3e": "{{Cite web/Excerpt: Blackguard}}",
-        "school2e": "[[Necromancy]]",
+        "refs3e": "",
+        "school2e": "Necromancy",
         "reversible2e": "true",
-        "spheres2e": "[[Healing sphere|Healing]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|4|[[Crusader]]|4|[[Druid]]|4|[[Healing sphere|Healing]]|4|[[Mystic]]|4|[[Paladin]]|4}}",
+        "spheres2e": "Healing",
+        "level2e": "",
         "type2e": "",
         "refs2e": "",
-        "school1e": "[[Alteration]]",
-        "level1e": "{{spell table|edition=1e|[[Cleric]]|4}}",
+        "school1e": "Alteration",
+        "level1e": "",
         "reversible1e": "true",
         "refs1e": "",
         "type1e": "",
-        "mainbody": "'''''Poison''''' was a [[necromancy]] or [[alteration]] spell that inflicted a debilitating and possibly fatal poison into a living target creature. The reverse of this spell was known as '''''[[neutralize poison]]'''''.",
-        "Effect": "The caster had to successfully touch the target of this spell. The newer version of this spell did temporary but possibly devastating harm to the constitution of the victim immediately upon casting the spell and over the next minute. The older versions of this spell delivered a deadly poison into the victim that was immediately incapacitating and fatal within 10 minutes, barring magical intervention."
+        "mainbody": "Poison was a necromancy or alteration spell that inflicted a debilitating and possibly fatal poison into a living target creature. The reverse of this spell was known as neutralize poison.\nThe caster had to successfully touch the target of this spell. The newer version of this spell did temporary but possibly devastating harm to the constitution of the victim immediately upon casting the spell and over the next minute. The older versions of this spell delivered a deadly poison into the victim that was immediately incapacitating and fatal within 10 minutes, barring magical intervention."
     }
 }

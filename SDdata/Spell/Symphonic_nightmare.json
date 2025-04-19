@@ -1,35 +1,6 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Symphonic Nightmare",
-        "deity": "",
-        "inventor": "[[Tvash-Prull]]",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Enchantment]] (compulsion)",
-        "domains3e": "",
-        "descriptors3e": "{{Desc/mind-affecting}}",
-        "level3e": "{{spell table|edition=3e|[[Bard]]|6}}",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,8 +14,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Symphonic nightmare''''' was an [[enchantment]] [[spell]] that replaced the dreams of an individual with a cacophony of music that sounded as if it was played by an entirely disjointed orchestra.",
-        "Effects": "Whenever the affected individual went to sleep or entered a sleep-like trance they were no longer capable of dreaming. Their sleep was haunted by discordant music and they were unable to get a full night's rest. In addition, they were immune to the effects of other dream-inducing spells such as ''[[dream]]'' or ''[[nightmare]]'', or similar effects such as those caused by the inherent abilities of [[night hag]]s.\n\nThe effects of ''symphonic nightmare'' endured for well over a week, depending on the skill and experience of the caster.",
-        "History": "Tvash-Prull developed spells for bards. In his one and only [[Tvash-Prull's symphony|symphony]] he magically embedded this and other spells in the sheet music for it to be discovered by bardic spellcasters who had the ability to detect and decipher the spells.{{Cite dragon/328/Tvash-Prull's Symphony|71}}"
+        "mainbody": "Symphonic nightmare was an enchantment spell that replaced the dreams of an individual with a cacophony of music that sounded as if it was played by an entirely disjointed orchestra.\nWhenever the affected individual went to sleep or entered a sleep-like trance they were no longer capable of dreaming. Their sleep was haunted by discordant music and they were unable to get a full nights rest. In addition, they were immune to the effects of other dream-inducing spells such as dream or nightmare, or similar effects such as those caused by the inherent abilities of night hags.\nThe effects of symphonic nightmare endured for well over a week, depending on the skill and experience of the caster.\nTvash-Prull developed spells for bards. In his one and only symphony he magically embedded this and other spells in the sheet music for it to be discovered by bardic spellcasters who had the ability to detect and decipher the spells."
     }
 }

@@ -1,35 +1,6 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Apocalypse from the Sky",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Conjuration]] (Creation)",
-        "domains3e": "",
-        "descriptors3e": "{{desc/evil}}",
-        "level3e": "{{Spell table|edition=3e|Corrupt|9}}",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,9 +14,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Apocalypse from the sky''''' was a [[corrupt spell]] that could only be used for mass destruction.",
-        "Effects": "The spell caused massive amounts of [[acid]], [[fire]], or concussive force, at the caster's choice, to rain down within a certain radius around the caster. This radius encompassed ten miles (16 kilometers) at a minimum and increased in ten-mile increments with the caster's skill.\n\nThe amount of destruction this spell caused could result in the extinction of an entire population.\n\nThe caster was not safe from this spell.",
-        "Components": "This spell required somatic, verbal, and material components and incurred a corruption cost. The material component was an [[artifact]].{{Cite web/Book of Vile Darkness FAQ|2}} When this spell was cast, one dedicated to the cosmic force of good was usually used to fuel the spell, which was considered an act of perversion. The spell's corruption cost was unique, as just preparing it was dangerous to the caster's sanity. Actually casting it drove the caster insane while also wracking his or her body.\n\nCasting the spell took an entire day.",
-        "History": "{{Canon|adap}}\n[[Caira Xasten]] once tried to eradicate [[Waterdeep]] in order to draw [[Atropus]] to [[Toril]] to end the world. The artifact she intended to fuel the ''apocalypse from the sky'' spell were ''[[angel tears]]''."
+        "mainbody": "Apocalypse from the sky was a corrupt spell that could only be used for mass destruction.\nThe spell caused massive amounts of acid, fire, or concussive force, at the casters choice, to rain down within a certain radius around the caster. This radius encompassed ten miles (16 kilometers) at a minimum and increased in ten-mile increments with the casters skill.\nThe amount of destruction this spell caused could result in the extinction of an entire population.\nThe caster was not safe from this spell.\nThis spell required somatic, verbal, and material components and incurred a corruption cost. The material component was an artifact. When this spell was cast, one dedicated to the cosmic force of good was usually used to fuel the spell, which was considered an act of perversion. The spells corruption cost was unique, as just preparing it was dangerous to the casters sanity. Actually casting it drove the caster insane while also wracking his or her body.\nCasting the spell took an entire day.\nCaira Xasten once tried to eradicate Waterdeep in order to draw Atropus to Toril to end the world. The artifact she intended to fuel the apocalypse from the sky spell were angel tears."
     }
 }

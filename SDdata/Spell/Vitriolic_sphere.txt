@@ -1,37 +1,22 @@
-{{Spell
-| image         = Vitriolic sphere.png
-| caption       = 
-| name          = Vitriolic Sphere
-| deity         = 
-| inventor      = 
-| type          = 
-| school5e      = [[Evocation]]
-| domains5e     = 
-| circles5e     = 
-| oaths5e       = 
-| patrons5e     = 
-| traditions5e  = 
-| archetypes5e  = 
-| level5e       = {{Spell table|edition=5e|[[Sorcerer]]|4|[[Wizard]]|4}}
 | type5e        = 
 | refs5e        = 
 | feature4e     = 
-| keywords4e    = {{Desc/acid}}{{Desc/arcane}}{{Desc/evocation}}{{Desc/implement}}
-| level4e       = {{Spell table|edition=4e|[[Wizard]]|15}}
+| keywords4e    = 
+| level4e       = 
 | type4e        = Daily
 | category4e    = 
 | skill4e       = 
 | refs4e        = 
-| school3e      = [[Conjuration]]
-| domains3e     = [[Creation domain|Creation]]
-| descriptors3e = {{Desc/acid}}
+| school3e      = Conjuration
+| domains3e     = Creation
+| descriptors3e = 
 | level3e       = 
-| type3e        = {{Spell table|edition=3e|[[Sorcerer]]|5|[[Wizard]]|5|[[Wu Jen]]|5}}
+| type3e        = 
 | refs3e        = 
 | reversible2e  = 
-| school2e      = [[Conjuration/Summoning]]<br />[[Alchemy]], [[Elemental water school|Water]]
+| school2e      = Conjuration/SummoningAlchemy, Water
 | spheres2e     = 
-| level2e       = {{Spell table|edition=2e|[[Wizard]]|4}}
+| level2e       = 
 | type2e        = 
 | refs2e        = 
 | reversible1e  = 
@@ -39,14 +24,7 @@
 | level1e       = 
 | type1e        = 
 | refs1e        = 
-}}
-'''''Vitriolic sphere''''' was an [[evocation]] spell that created an explosion of [[acid]].
-
-==Effects==
-The spell created a shimmering [[emerald]]-green sphere of acid about {{SI|1|ft|long=yes}} in diameter that then flew directly to a point within a range of {{SI|150|ft|long=yes}} of the caster. Upon arriving at its target, the sphere exploded and covered everyone within {{SI|20|ft|long=yes}} in potent acid, which remained active for several seconds following the explosion.
-
-Older versions of this spell, belonging to the [[conjuration]] school, had a longer range, reaching up to {{SI|150|yd|long=yes}} and producing acid that lasted for up to 5 minutes.
-
-==Components==
-The spell required [[Verbal component|verbal]], [[Somatic component|somatic]], and [[material component]]s. The material required was either a drop of bile from a [[giant slug]] or a small glass vile filled with [[aqua regia]].
-
+Vitriolic sphere was an evocation spell that created an explosion of acid.
+The spell created a shimmering emerald-green sphere of acid about  in diameter that then flew directly to a point within a range of  of the caster. Upon arriving at its target, the sphere exploded and covered everyone within  in potent acid, which remained active for several seconds following the explosion.
+Older versions of this spell, belonging to the conjuration school, had a longer range, reaching up to  and producing acid that lasted for up to 5 minutes.
+The spell required verbal, somatic, and material components. The material required was either a drop of bile from a giant slug or a small glass vile filled with aqua regia.

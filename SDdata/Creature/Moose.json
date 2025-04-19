@@ -1,14 +1,6 @@
 {
     "document_data": {
-        "image": "White moose 5e.jpg",
-        "caption": "",
-        "name": "Moose",
-        "size5e": "Large",
-        "type5e": "[[Beast]]",
-        "subtype5e": "",
-        "alignment5e": "[[Unaligned]]",
-        "challenge5e": "{{frac|1|2}}",
-        "refs5e": "<ref group=\"note\" name=\"stats\">''[[Icewind Dale: Rime of the Frostmaiden]]'' states that one should use the statblock of a [[giant goat]] to represent a moose.",
+        "refs5e": "Icewind Dale Rime of the Frostmaiden states that one should use the statblock of a giant goat to represent a moose.",
         "size4e": "",
         "origin4e": "",
         "type4e": "",
@@ -16,11 +8,11 @@
         "alignment4e": "",
         "refs4e": "",
         "size3e": "Large",
-        "type3e": "[[Animal]]",
+        "type3e": "Animal",
         "subtype3e": "",
-        "alignment3e": "Always [[neutral]]",
+        "alignment3e": "Always neutral",
         "challenge3e": "1",
-        "refs3e": "{{Cite dragon/327/Animal Allies|87}}",
+        "refs3e": "",
         "size2e": "",
         "alignment2e": "",
         "refs2e": "",
@@ -50,10 +42,6 @@
         "distinctions": "",
         "first": "",
         "based": "",
-        "mainbody": "A '''moose''' was a large [[animal]] that was found in many places across [[Faerûn]].",
-        "Ecology": {
-            "Habitats": "Moose roamed the northern lands, such as the [[Savage Frontier]]. Beyond Faerûn, they could be found in the sub-arctic forests of [[Kara-Tur]].",
-            "Usages": "Moose were often hunted for their meat by a variety of races, from [[elves]] to [[storm giant]]s. Omnivorous elves often ate moose meat, which they marinated in many [[herb]]s to rid the seasonal taste. [[Giant]]s also cooked and consumed moose meat, as well as [[human]]s."
-        }
+        "mainbody": "A moose was a large animal that was found in many places across Faerûn.\nMoose roamed the northern lands, such as the Savage Frontier. Beyond Faerûn, they could be found in the sub-arctic forests of Kara-Tur.\nMoose were often hunted for their meat by a variety of races, from elves to storm giants. Omnivorous elves often ate moose meat, which they marinated in many herbs to rid the seasonal taste. Giants also cooked and consumed moose meat, as well as humans."
     }
 }

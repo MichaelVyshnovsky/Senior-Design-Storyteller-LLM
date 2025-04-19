@@ -1,24 +1,8 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "Imbrar II.png",
-        "caption": "The young king in [[1374 DR]].",
-        "name": "Imbrar II",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "King",
-        "aliases": "\"Sarshel of Laviguer\"",
-        "nicknames": "",
-        "home": "[[Lyrabar]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "race": "[[Human]]",
-        "ethnicity": "[[Damaran]]{{Cite dragon/346/Impiltur: The Forgotten Kingdom|64}}",
         "occupation": "",
         "age": "",
-        "patron deity": "[[The Triad]]",
+        "patron deity": "The Triad",
         "languages": "",
         "reckoning": "DR",
         "dob": "1358",
@@ -29,13 +13,13 @@
         "destroyednotes": "",
         "parents": "Ilmara",
         "spouses": "",
-        "siblings": "[[Imphras V]]",
+        "siblings": "Imphras V",
         "children": "",
         "familyrefs": "",
-        "dynasty": "[[Heltharn Dynasty]]",
-        "start of reign": "[[1374 DR]]",
-        "end of reign": "[[1385 DR]]",
-        "predecessor": "[[Sambryl]]",
+        "dynasty": "Heltharn Dynasty",
+        "start of reign": "1374 DR",
+        "end of reign": "1385 DR",
+        "predecessor": "Sambryl",
         "successor": "",
         "successionrefs": "",
         "alignment1e": "",
@@ -48,7 +32,7 @@
         "class3e": "",
         "refs3e": "",
         "alignment35": "",
-        "class35": "{{Class table|edition=3e|[[Paladin]]|7|[[Triadic knight]]|1}}",
+        "class35": "",
         "refs35": "",
         "alignment4e": "",
         "class4e": "",
@@ -56,8 +40,6 @@
         "alignment5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Imbrar II''' was the last king of [[Impiltur]].",
-        "Relationships": "He was the second nephew of [[Soarimbrar the Younger]] (who was a descendant of [[Imphras II]]'s fourth son), through his older sister.",
-        "History": "Before his coronation, the teenage Imbrar would travel under the alias of ''\"Sarshel of Laviguer\"''. During this time his identity was kept hidden and his life protected by the [[Knights of Imphras II]].\n\nAfter reaching age 16, he was crowned on [[Marpenoth 24]], the {{YearlinkName|1374}}. He took the throne from the aged Queen-Regent [[Sambryl]], who herself gained power when Imbrar's uncle was killed just before his coronation."
+        "mainbody": "Imbrar II was the last king of Impiltur.\nHe was the second nephew of Soarimbrar the Younger (who was a descendant of Imphras IIs fourth son), through his older sister.\nBefore his coronation, the teenage Imbrar would travel under the alias of \"Sarshel of Laviguer\". During this time his identity was kept hidden and his life protected by the Knights of Imphras II.\nAfter reaching age 16, he was crowned on Marpenoth 24, the . He took the throne from the aged Queen-Regent Sambryl, who herself gained power when Imbrars uncle was killed just before his coronation."
     }
 }

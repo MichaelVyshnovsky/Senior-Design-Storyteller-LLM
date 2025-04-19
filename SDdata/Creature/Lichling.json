@@ -1,36 +1,6 @@
 {
-    "template_data": {
-        "6|in|long": "yes",
-        "80|ft|long": "yes",
-        "6|in|long_1": "yes",
-        "80|ft|long_1": "yes",
-        "100|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Lichling-2e.png",
-        "caption": "",
-        "name": "Lichling",
-        "othernames": "",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "",
-        "type3e": "",
-        "subtype3e": "",
-        "alignment3e": "",
-        "challenge3e": "",
-        "refs3e": "",
-        "size2e": "{{Size table|Young|Tiny|Mature|Gargantuan}}",
-        "alignment2e": "[[Chaotic evil]]",
+        "alignment2e": "Chaotic evil",
         "refs2e": "",
         "size1e": "",
         "alignment1e": "",
@@ -62,16 +32,6 @@
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Lichlings''' were insect-like creatures spawned from certain [[demilich]]es using complex magical procedures.",
-        "Description": "Lichlings had an appearance similar to that of a [[cockroach]] with a pair of insect-like wings; two pairs of [[human]]-like arms; a pair of human-like legs; and a human skull sporting razor-sharp fangs. Their body was chitinous and greasy. They began life as {{SI|6|in|long=yes}} in length, but could grow to be as large as {{SI|80|ft|long=yes}} when mature, which took between 100 and 1000 years.",
-        "Ecology": {
-            "Creation": "In order to create lichlings, a demilich had to transform its body into a gigantic husk, large enough for a typical human to walk inside easily. The interior of the husk was kept at a cold temperature of about {{SI|45|F}} through the use of magical freezing gas. \n\nAs part of the original body transformation, the organs were repurposed. The kidney was able to generate an extremely hot, black liquid used to promote the development of lichlings during their incubation period; the intestine created nourishment for lichlings once they were spawned; the stomach was able to extract fear from [[undead]] [[spirit]]s in order to feed maturing lichlings; the heart could extract magical energies from the spirit of a [[spellcaster]] in order to stimulate the production of new lichlings; and the brain spawned the lichlings from its own cells.\n\nWith enough victims to feed its creations, a single husk could create hundreds of thousands of lichlings. A husk had enormous regenerative capabilities, and was able to repair any damages automatically in a matter of seconds. The only way to destroy it was to destroy the demilich who created it.",
-            "Uses": "The decomposing corpses of dead lichlings was a pretty good fertilizer, which could transform barren soils into fertile lands."
-        },
-        "Society": "The incubation period of lichlings was between ten and forty years, after which time youngs left the husk who spawned them. The lichlings had an unwavering loyalty to their creator. If this demilich was destroyed, they might be taken into the service of another powerful entity like a [[wizard]].\n\nLichlings traveled in hordes of up to 100, never making a permanent home. They fed on the fear and trauma of their victims, somehow converting this into physical nourishment, and did not require food. Although this nourishment could be gained by directly attacking victims, lichlings could also assimilate this fear and trauma by proximity to events such as large battles.\n\nA lichling could take between a hundred and a thousand years to fully mature. In this time, it grew from a {{SI|6|in|long=yes}} creature to up to {{SI|80|ft|long=yes}} in length. A mature lichling could spew sharp fragments of bone up to {{SI|100|ft|long=yes}}.\n\nComatose lichlings would sometime travel great distances hidden in bags of [[flour]].",
-        "Combat": {
-            "Weaknesses": "Wheat had a strange effect on lichlings, on which it had an addictive and intoxicating effect. Lichlings who consumed enough wheat would fall into a comatose state, that could keep them unconscious for years. A lichling in this condition would only wake up once it sensed fear in close proximity."
-        },
-        "History": "Between the 11{{th}} and 13{{th}} centuries [[DR]] the demilich [[Icelia]] built a husk under [[Veilstone Peaks]], in the northwest part of [[Cormyr]]. In the 14{{th}} century DR, young lichlings started roaming the area and King [[Azoun Obarskyr IV]] sent adventurers to handle the issue."
+        "mainbody": "Lichlings were insect-like creatures spawned from certain demiliches using complex magical procedures.\nLichlings had an appearance similar to that of a cockroach with a pair of insect-like wings two pairs of human-like arms a pair of human-like legs and a human skull sporting razor-sharp fangs. Their body was chitinous and greasy. They began life as  in length, but could grow to be as large as  when mature, which took between 100 and 1000 years.\nIn order to create lichlings, a demilich had to transform its body into a gigantic husk, large enough for a typical human to walk inside easily. The interior of the husk was kept at a cold temperature of about  through the use of magical freezing gas. \nAs part of the original body transformation, the organs were repurposed. The kidney was able to generate an extremely hot, black liquid used to promote the development of lichlings during their incubation period the intestine created nourishment for lichlings once they were spawned the stomach was able to extract fear from undead spirits in order to feed maturing lichlings the heart could extract magical energies from the spirit of a spellcaster in order to stimulate the production of new lichlings and the brain spawned the lichlings from its own cells.\nWith enough victims to feed its creations, a single husk could create hundreds of thousands of lichlings. A husk had enormous regenerative capabilities, and was able to repair any damages automatically in a matter of seconds. The only way to destroy it was to destroy the demilich who created it.\nThe decomposing corpses of dead lichlings was a pretty good fertilizer, which could transform barren soils into fertile lands.\nThe incubation period of lichlings was between ten and forty years, after which time youngs left the husk who spawned them. The lichlings had an unwavering loyalty to their creator. If this demilich was destroyed, they might be taken into the service of another powerful entity like a wizard.\nLichlings traveled in hordes of up to 100, never making a permanent home. They fed on the fear and trauma of their victims, somehow converting this into physical nourishment, and did not require food. Although this nourishment could be gained by directly attacking victims, lichlings could also assimilate this fear and trauma by proximity to events such as large battles.\nA lichling could take between a hundred and a thousand years to fully mature. In this time, it grew from a  creature to up to  in length. A mature lichling could spew sharp fragments of bone up to .\nComatose lichlings would sometime travel great distances hidden in bags of flour.\nA lichling would attack the nearest creature, usually going for exposed flesh such as the neck. Once it sank its teeth into flesh, it would not normally let go, even after it had been killed. The fangs produced an anti-coagulant that could continue to affect the victim after the lichlings death. If it was not removed carefully, further flesh could be ripped away with the lichling, causing yet more damage.\nA lichling could not be harmed with normal weapons and was immune to many things like charm and sleep.\nWheat had a strange effect on lichlings, on which it had an addictive and intoxicating effect. Lichlings who consumed enough wheat would fall into a comatose state, that could keep them unconscious for years. A lichling in this condition would only wake up once it sensed fear in close proximity.\nBetween the 11 and 13 centuries DR the demilich Icelia built a husk under Veilstone Peaks, in the northwest part of Cormyr. In the 14 century DR, young lichlings started roaming the area and King Azoun Obarskyr IV sent adventurers to handle the issue."
     }
 }

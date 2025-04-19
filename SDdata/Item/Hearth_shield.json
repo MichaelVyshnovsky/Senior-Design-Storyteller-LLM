@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "6|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Hearth Shield.png",
-        "caption": "",
-        "name": "''Hearth Shield''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Shield]]",
-        "location": "[[Western Heartlands]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+3",
-        "value3e": "",
-        "weight3e": "{{SI|6|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Hearth shields''''' were [[enchanted]] [[shield]]s created by the [[dwarves]] of the [[Western Heartlands]].",
-        "Powers": "These dwarven shields possessed potent ''+3'' enchantments and shielded the wielder from magical and mundane heat, making even the deadliest blasts of steam as pleasant as a cozy hearth.",
-        "History": "By the late 14{{th}} century, ''hearth shields'' were famous for their protective qualities. Some of these shields found their way into places where adventurers perished, such as the dangerous depths of [[Undermountain]] in the {{YearlinkName|1372}}."
+        "mainbody": "Hearth shields were enchanted shields created by the dwarves of the Western Heartlands.\nThese dwarven shields possessed potent +3 enchantments and shielded the wielder from magical and mundane heat, making even the deadliest blasts of steam as pleasant as a cozy hearth.\nBy the late 14 century, hearth shields were famous for their protective qualities. Some of these shields found their way into places where adventurers perished, such as the dangerous depths of Undermountain in the ."
     }
 }

@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "30|yd|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Alert allies",
-        "deity": "[[Gorm Gulthyn]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "reversible2e": "",
-        "school2e": "[[Divination]]<br>[[Alteration]]",
-        "spheres2e": "[[Thought sphere|Thought]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|2}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -37,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Alert allies''''' was a [[spell]] used by [[cleric]]s of [[Gorm Gulthyn]].",
-        "Effects": "This spell allowed the caster to send a short mental message instantaneously to an ally. This spell did not allow for two-way communication, and the only message the caster could transmit was \"alert\". The recipient had to be both alive and awake, and a sentient being. They also had to be within {{SI|30|yd|long=yes}} of the caster.\n\nThe spell could be cast on several individuals, and lasted eight hours or until the alert was transmitted, whichever came first.",
-        "Components": "This spell required [[verbal]] and [[somatic]] components. The somatic component of the spell was the caster physical contact with the recipient during casting."
+        "mainbody": "Alert allies was a spell used by clerics of Gorm Gulthyn.\nThis spell allowed the caster to send a short mental message instantaneously to an ally. This spell did not allow for two-way communication, and the only message the caster could transmit was \"alert\". The recipient had to be both alive and awake, and a sentient being. They also had to be within  of the caster.\nThe spell could be cast on several individuals, and lasted eight hours or until the alert was transmitted, whichever came first.\nThis spell required verbal and somatic components. The somatic component of the spell was the caster physical contact with the recipient during casting."
     }
 }

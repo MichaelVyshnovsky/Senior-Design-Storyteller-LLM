@@ -1,33 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Free Action",
-        "inventor": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Enchantment]] (Charm)",
-        "spheres2e": "[[Charm sphere|Charm]]",
-        "level2e": "{{Spell table|edition=2e|[[Charm sphere|Charm]]|6|[[Cleric]]|6|[[Mystic]]|6}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -35,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Command monster''''' was a [[divine magic|divine]] [[enchantment]] spell, similar to ''[[command]]'', that forced one creature to obey a one-word order.",
-        "Effects": "This spell was similar to the beginning level ''command'' spell but it did not require the caster to know a language understood by the target, was harder to resist, and it had greater range (60 yd/55 m) and duration.\n\n''Command monster'' translated the command into whatever language or method of communication the target creature understood, as long as the creature had a modicum of intelligence (enough to understand the command). Only creatures with greater life experience than the caster or exceptionally high intelligence had a chance to resist this spell. The command had to be clear, concise, and unequivocal for the creature to understand and not misinterpret. The target obeyed the command to the best of its ability for a minimum of five minutes and even longer for more experienced casters. If the command put the life of the target creature in jeopardy, then it got a chance to resist the spell even if it normally would not be able to do so. Commands of \"sleep\" or \"die\" caused the target to fall unconscious for the duration of the spell.\n\n[[Undead]] creatures were unaffected by this spell.",
-        "Components": "There were no somatic or material components to this spell, only verbal, including the command word."
+        "mainbody": "Command monster was a divine enchantment spell, similar to command, that forced one creature to obey a one-word order.\nThis spell was similar to the beginning level command spell but it did not require the caster to know a language understood by the target, was harder to resist, and it had greater range (60 yd/55 m) and duration.\nCommand monster translated the command into whatever language or method of communication the target creature understood, as long as the creature had a modicum of intelligence (enough to understand the command). Only creatures with greater life experience than the caster or exceptionally high intelligence had a chance to resist this spell. The command had to be clear, concise, and unequivocal for the creature to understand and not misinterpret. The target obeyed the command to the best of its ability for a minimum of five minutes and even longer for more experienced casters. If the command put the life of the target creature in jeopardy, then it got a chance to resist the spell even if it normally would not be able to do so. Commands of \"sleep\" or \"die\" caused the target to fall unconscious for the duration of the spell.\nUndead creatures were unaffected by this spell.\nThere were no somatic or material components to this spell, only verbal, including the command word."
     }
 }

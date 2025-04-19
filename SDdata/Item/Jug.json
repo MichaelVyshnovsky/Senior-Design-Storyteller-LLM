@@ -1,22 +1,5 @@
 {
     "document_data": {
-        "image": "Decorated Ceramic Jug-BG3.png",
-        "caption": "A well-decorated [[ceramic]] jug.",
-        "name": "Jug",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Container",
-        "material": "[[Ceramic]], [[glass]], metal, wood, crystal",
-        "creator": "",
-        "origin": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "{{Plain table|Jug, wood|4 [[cp]]|Pitcher, [[porcelain]]|6 [[sp]]|Pitcher, [[stoneware]]|4 sp|Pitcher, wood|3 sp}}",
         "weight2e": "",
         "refs2e": "",
         "school3e": "",
@@ -40,10 +23,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "A '''jug''' was a kind of liquid storage container, resembling an enormous [[bottle]] or [[flask]].",
-        "Description": "A typical jug held {{SI|1|gal|L}} of liquid,\n\nPitchers were usually open-topped and designed specifically for pouring, with a molded spout and sturdy handle. Decanters resembled large, decorative bottles, intended for pouring fine drinks such as [[wine]] or [[sparkling water]]. They would have a handle to ensure that body heat from holding it did not warm the beverage within.",
-        "Availability": "[[File:Ceramic wine.png|thumb|200px|''A jug of wine.'']]\n''[[Aurora's Whole Realms Catalogue (in-universe)|Aurora's Whole Realms Catalogue]]'' offered wooden jugs for sale, valued at 4 [[cp]] each, as well as pitchers at 6 [[sp]] ([[porcelain]]), 4 sp ([[stoneware]]), and 3 sp (wood).",
-        "Notable Jugs & Similar": "* ''[[Alchemy jug]]'', a useful item that produced a variety of substances on command.\n* ''[[Decanter of endless lamp oil]]'', which produced [[lamp oil]].\n* ''[[Decanter of endless water]]'', which produced fresh or salt water.",
-        "Trivia": "* In the [[Roll of Years]], the year [[933 DR]] bore the name \"Year of the Five Jugs\".<ref>"
+        "mainbody": "A jug was a kind of liquid storage container, resembling an enormous bottle or flask.\nA typical jug held  of liquid,\nPitchers were usually open-topped and designed specifically for pouring, with a molded spout and sturdy handle. Decanters resembled large, decorative bottles, intended for pouring fine drinks such as wine or sparkling water. They would have a handle to ensure that body heat from holding it did not warm the beverage within.\nthumb|200px|A jug of wine.\nAuroras Whole Realms Catalogue offered wooden jugs for sale, valued at 4 cp each, as well as pitchers at 6 sp (porcelain), 4 sp (stoneware), and 3 sp (wood).\n* Alchemy jug, a useful item that produced a variety of substances on command.\n* Decanter of endless lamp oil, which produced lamp oil.\n* Decanter of endless water, which produced fresh or salt water.\n* In the Roll of Years, the year 933 DR bore the name \"Year of the Five Jugs\"."
     }
 }

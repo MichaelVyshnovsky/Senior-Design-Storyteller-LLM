@@ -1,27 +1,5 @@
 {
-    "template_data": {
-        "rca": "right",
-        "2|in|long": "yes",
-        "4|in|long": "yes",
-        "12|in|long": "yes",
-        "8|in|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Leather Ball",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Toy",
-        "creator": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "{{Split table|rca=right|{{SI|2|in}} ball|1 [[sp]]|{{SI|4|in}} ball|2 sp|{{SI|8|in}} ball|8 sp|{{SI|12|in}} ball|2 [[gp]]}}",
         "weight2e": "",
         "refs2e": "",
         "school3e": "",
@@ -45,8 +23,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "A '''leather ball''' was a sphere made out of strong, sturdy cowhide for the purposes of play (such as [[handball]]) or for use as a type of [[jugglable]] among [[bard]]s and jugglers.",
-        "Availability": "* [[Anaster's Leatherworks]], a leather goods business in the city of [[Ordulin]].\n* ''[[Aurora's Whole Realms Catalogue (in-universe)|Aurora's Whole Realms Catalogue]]'' had an exclusive licensing deal with Anaster's Leatherworks to distribute their balls beyond the borders of [[Sembia]]. The catalogue advertised these as being among the most durable of balls on the market, made from soft and supple leathers. The balls on offer came in three sizes: {{SIAdj|2|in|long=yes}} balls perfect for juggling at 1 [[silver piece]], {{SIAdj|4|in|long=yes}} handballs for 2 silver pieces, and a cloth-wrapped {{SIAdj|12|in|long=yes}} ball for 2 [[gold piece]]s. Additionally, in its \"Bard's Emporium\" section, the catalogue offered jugglable leather balls in sets of three for 5 silver pieces.\n* The [[Toysmiths]], a toyshop in Ravens Bluff that was owned and operated by the [[gnome]] brothers [[Gunder Gaewilder|Gunder]] and [[Relvan Gaewilder]],<ref>{{Cite organized play/LC/Tears of Selûne|7}} sold leather balls. They sold the same-sized balls as ''Aurora's'' and at the same prices, though additionally offered {{SIAdj|8|in|long=yes}} balls at a price of 8 silver pieces.{{Cite organized play/LC/Tears of Selûne|23}}",
-        "Notable Users": "* The [[Iulutiun]]s of the [[Great Glacier]] were known to make leather balls from [[caribou]] skin."
+        "mainbody": "A leather ball was a sphere made out of strong, sturdy cowhide for the purposes of play (such as handball) or for use as a type of jugglable among bards and jugglers.\n* Anasters Leatherworks, a leather goods business in the city of Ordulin.\n* Auroras Whole Realms Catalogue had an exclusive licensing deal with Anasters Leatherworks to distribute their balls beyond the borders of Sembia. The catalogue advertised these as being among the most durable of balls on the market, made from soft and supple leathers. The balls on offer came in three sizes  balls perfect for juggling at 1 silver piece,  handballs for 2 silver pieces, and a cloth-wrapped  ball for 2 gold pieces. Additionally, in its \"Bards Emporium\" section, the catalogue offered jugglable leather balls in sets of three for 5 silver pieces.\n* The Toysmiths, a toyshop in Ravens Bluff that was owned and operated by the gnome brothers Gunder and Relvan Gaewilder, sold leather balls. They sold the same-sized balls as Auroras and at the same prices, though additionally offered  balls at a price of 8 silver pieces.\n* The Iulutiuns of the Great Glacier were known to make leather balls from caribou skin."
     }
 }

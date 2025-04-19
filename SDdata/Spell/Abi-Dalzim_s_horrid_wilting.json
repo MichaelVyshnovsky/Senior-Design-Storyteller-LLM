@@ -1,25 +1,7 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "edition_1": "3e",
-        "edition_2": "2e"
-    },
     "document_data": {
-        "image": "Abi-Dalzim's horrid wilting.png",
-        "caption": "",
-        "name": "Abi-Dalzim's Horrid Wilting",
-        "deity": "",
-        "inventor": "[[Abi-Dalzim]]",
-        "type": "",
-        "school5e": "[[Necromancy]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "level5e": "{{Spell table|edition=5e|[[Sorcerer]]|8|[[Wizard]]|8}}",
         "type5e": "",
-        "refs5e": "{{Cite document/Elemental Evil Player's Companion|13-15}}",
+        "refs5e": "",
         "feature4e": "",
         "keywords4e": "",
         "level4e": "",
@@ -27,16 +9,16 @@
         "category4e": "",
         "skill4e": "",
         "refs4e": "",
-        "school3e": "[[Necromancy]]",
-        "domains3e": "[[Blightbringer domain|Blightbringer]], [[Suffering domain|Suffering]],<br />[[Water domain|Water]], [[Watery death domain|Watery Death]]",
+        "school3e": "Necromancy",
+        "domains3e": "Blightbringer, Suffering,Water, Watery Death",
         "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Blightbringer domain|Blightbringer]]|8|[[Sorcerer]]|8|[[Suffering domain|Suffering]]|9|[[Water domain|Water]]|8|[[Watery death domain|Watery Death]]|8|[[Wizard]]|8}}",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
-        "school2e": "[[Alteration]], [[Necromancy]], [[Elemental water school|Water]], [[Sand (province)|Sand]]",
+        "school2e": "Alteration, Necromancy, Water, Sand",
         "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|8}}",
+        "level2e": "",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -44,8 +26,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Abi-Dalzim's horrid wilting''''', also known as '''''horrid wilting''''',<ref> was a [[necromancy]] spell that damaged a creature via dehydration.",
-        "Effect": "''Horrid wilting'' caused moisture to evaporate from bodies of living creatures, causing injury. This was particularly harmful to [[water elemental]]s and [[plant creature]]s.",
-        "Components": "The spell required [[verbal]], [[somatic]], and [[material component]]s. The material required was a piece of [[sponge]],"
+        "mainbody": "Abi-Dalzims horrid wilting, also known as horrid wilting, was a necromancy spell that damaged a creature via dehydration.\nHorrid wilting caused moisture to evaporate from bodies of living creatures, causing injury. This was particularly harmful to water elementals and plant creatures.\nThe spell required verbal, somatic, and material components. The material required was a piece of sponge,"
     }
 }

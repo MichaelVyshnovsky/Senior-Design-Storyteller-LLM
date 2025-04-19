@@ -1,24 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Flying",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Weapon quality]]",
-        "creator": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "[[Transmutation]]",
-        "casterlevel3e": "9{{th}}",
         "itemlevel3e": "",
         "value3e": "+1 equivalent",
         "weight3e": "",
@@ -38,7 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Flying''''' was a [[weapon quality|quality]] that could be applied to melee weapons. The weapon could be commanded to follow very simple orders, though it was not intelligent, and it could fly like an [[animated object]]. ''Flying'' weapons could also be used to guard a location, just like an animated [[skeleton]] could.",
-        "Creation": "Forging a ''flying'' weapon required at least one of three spells: ''[[animate objects]]'', ''[[fly]]'', or ''[[telekinesis]]''."
+        "mainbody": "Flying was a quality that could be applied to melee weapons. The weapon could be commanded to follow very simple orders, though it was not intelligent, and it could fly like an animated object. Flying weapons could also be used to guard a location, just like an animated skeleton could.\nForging a flying weapon required at least one of three spells animate objects, fly, or telekinesis."
     }
 }

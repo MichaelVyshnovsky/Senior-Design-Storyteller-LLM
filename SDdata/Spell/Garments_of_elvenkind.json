@@ -1,43 +1,12 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Garments of Elvenkind",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "reversible2e": "",
-        "school2e": "[[Enchantment/Charm]]",
-        "spheres2e": "[[All sphere|All]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|6}}",
         "type2e": "",
-        "refs2e": "{{Cite dragon/236/Arcane Lore: Demihuman Priest Spells|37}}",
+        "refs2e": "",
         "reversible1e": "",
         "school1e": "",
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Garments of elvenkind''''' was a [[spell]] used by [[elf|elven]] [[cleric]]s.",
-        "Effects": "This spell allowed the caster to enchant a pair of [[boots]], a [[cloak]], and a pair of [[bracers]]. Once enchanted, the cloak acted as a ''[[cloak of elvenkind]]'', the boots as ''[[boots of elvenkind]]'', and the bracers as ''[[bracers of archery]]''. The enchanted clothing could be used by any creature but they must use all three items, otherwise the spell failed. The spell was vulnerable to ''[[dispel magic]]''. Once the spell expired, the items returned to their normal state.",
-        "Components": "In addition to [[verbal]] and [[somatic component]]s, this spell required several [[material component]]s. Along with the caster's [[holy symbol]], the spell required three drops from a ''[[potion of invisibility]]'', three small items that were once enchanted with a ''[[silence]]'' dweomer, and three enchanted [[arrow]]s. Every material component except the holy symbol was consumed by the spell."
+        "mainbody": "Garments of elvenkind was a spell used by elven clerics.\nThis spell allowed the caster to enchant a pair of boots, a cloak, and a pair of bracers. Once enchanted, the cloak acted as a cloak of elvenkind, the boots as boots of elvenkind, and the bracers as bracers of archery. The enchanted clothing could be used by any creature but they must use all three items, otherwise the spell failed. The spell was vulnerable to dispel magic. Once the spell expired, the items returned to their normal state.\nIn addition to verbal and somatic components, this spell required several material components. Along with the casters holy symbol, the spell required three drops from a potion of invisibility, three small items that were once enchanted with a silence dweomer, and three enchanted arrows. Every material component except the holy symbol was consumed by the spell."
     }
 }

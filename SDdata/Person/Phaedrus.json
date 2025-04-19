@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "2|ft|long": "yes",
-        "20|yard|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Phaedrus",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "",
-        "formerhomes": "",
-        "sex": "Male",
-        "gender": "",
-        "race": "[[Hollyphant]]",
-        "ethnicity": "",
-        "occupation": "Messenger",
-        "age": "",
-        "patron deity": "[[Lathander]]<br />[[Seker]]",
-        "languages": "",
-        "basicrefs": "{{Cite dragon/263/Heaven's Trump: Celestial Messages & Divine Intervention|56}}",
         "reckoning": "",
         "dob": "",
         "dobnotes": "",
@@ -47,7 +24,7 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Neutral good]]",
+        "alignment2e": "Neutral good",
         "class2e": "",
         "refs2e": "",
         "alignment3e": "",
@@ -65,10 +42,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Phaedrus''' was a [[hollyphant]] messenger who served both [[Lathander]] and [[Seker]].",
-        "Description": "As was typical of hollyphants,<ref name=BG-DiA-p237\"> Phaedrus appeared as a winged, golden-furred [[elephant]] measuring {{SI|2|ft|long=yes}} in length. His feathery wings were white, his tusks had a [[silver]]-like gleam, and his [[diamond]]-esque eyes refracted light in a full rainbow of colors. Owing to a previous encounter with a [[death knight]], his left ear featured a large nick.",
-        "Personality": "Although cheerful by [[human]] standards, Phaedrus was serious and aggressive compared to other hollyphants. He was insightful and his humor had a sardonic streak.\n\nPhaedrus had a vendetta against the [[undead]] ever since his confrontation with a death knight. This vendetta was the driving factor behind his service to Lathander and Seker.",
-        "Abilities": "As a hollyphant, Phaedrus had both [[magic]]al and [[psionics|psionic]] abilties. He constantly ''[[detect evil|detected evil]]'' within a radius of {{SI|20|yard|long=yes}}, and had powers equivalent to the spells ''[[banishment]]'', ''[[bless]]'', ''[[cure serious wounds]]'', ''[[flame strike]]'', ''[[heal]]'', ''[[light]]'', ''[[protection from evil]]'', ''[[raise dead]]'', and ''[[teleport without error]]''. He also had access to the sciences ''[[aura sight]]'', ''[[mindlink]]'', and ''[[precognition]]'', as well as the devotions ''[[danger sense]]'', ''[[identity penetration]]'', ''[[invisibility (psionic)|invisibility]]'', ''[[know direction (psionic)|know direction]]'', ''[[know location]]'', and ''[[post-hypnotic suggestion]]''.\n\nPhaedrus could also make the hollyphant's hallmark trumpet-calls, which would manifest as either a concussive blast powerful enough to damage buildings, an eardrum-shattering sound that [[deaf]]ens those caught in its wake, or a shower of \"sun-sparkles\" composed of [[positive energy]].",
-        "Activities": "In his capacity as a divine messenger, Phaedrus would typically send [[adventurer]]s on quests that contributed to the larger struggle against the undead. Typical missions included destroying artifacts of undeath, defeating powerful undead beings, and infiltrating and breaking up undead-oriented organizations such as [[necromancer]] cabals and cults to gods of undeath. In order to facilitate these quests, Phaedrus would sometimes lead his agents to magical items useful against the undead, such as ''[[amulet versus undead|amulets versus undead]]'', ''[[wand of illumination|wands of illumination]]'', ''[[sun blade]]s'' and ''[[mace of disruption|maces of disruption]]''.\n\nPhaedrus also granted empowering boons to the faithful [[cleric]]s and [[paladin]]s of Lathander and Seker, and he warned against the use of ''[[animate dead]]'' lest they incur the displeasure of these deities."
+        "mainbody": "Phaedrus was a hollyphant messenger who served both Lathander and Seker.\nAs was typical of hollyphants, Phaedrus appeared as a winged, golden-furred elephant measuring  in length. His feathery wings were white, his tusks had a silver-like gleam, and his diamond-esque eyes refracted light in a full rainbow of colors. Owing to a previous encounter with a death knight, his left ear featured a large nick.\nAlthough cheerful by human standards, Phaedrus was serious and aggressive compared to other hollyphants. He was insightful and his humor had a sardonic streak.\nPhaedrus had a vendetta against the undead ever since his confrontation with a death knight. This vendetta was the driving factor behind his service to Lathander and Seker.\nAs a hollyphant, Phaedrus had both magical and psionic abilties. He constantly detected evil within a radius of , and had powers equivalent to the spells banishment, bless, cure serious wounds, flame strike, heal, light, protection from evil, raise dead, and teleport without error. He also had access to the sciences aura sight, mindlink, and precognition, as well as the devotions danger sense, identity penetration, invisibility, know direction, know location, and post-hypnotic suggestion.\nPhaedrus could also make the hollyphants hallmark trumpet-calls, which would manifest as either a concussive blast powerful enough to damage buildings, an eardrum-shattering sound that deafens those caught in its wake, or a shower of \"sun-sparkles\" composed of positive energy.\nIn his capacity as a divine messenger, Phaedrus would typically send adventurers on quests that contributed to the larger struggle against the undead. Typical missions included destroying artifacts of undeath, defeating powerful undead beings, and infiltrating and breaking up undead-oriented organizations such as necromancer cabals and cults to gods of undeath. In order to facilitate these quests, Phaedrus would sometimes lead his agents to magical items useful against the undead, such as amulets versus undead, wands of illumination, sun blades and maces of disruption.\nPhaedrus also granted empowering boons to the faithful clerics and paladins of Lathander and Seker, and he warned against the use of animate dead lest they incur the displeasure of these deities."
     }
 }

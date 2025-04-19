@@ -1,27 +1,6 @@
 {
-    "template_data": {
-        "60|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Yuan-ti_pit_master-5e.jpg",
-        "caption": "",
-        "name": "Yuan-ti pit master",
-        "othernames": "",
-        "size5e": "Medium",
-        "type5e": "[[Monstrosity]]",
-        "subtype5e": "[[Shapechanger]], [[yuan-ti]]",
-        "alignment5e": "[[Neutral evil]]",
-        "challenge5e": "5",
-        "refs5e": "",
-        "patron deity": "[[Merrshaulk]]",
-        "movement": "",
-        "vision": "[[Darkvision]]",
-        "activecycle": "",
-        "diet": "",
-        "lifespan": "",
-        "location": "",
-        "intelligence": "{{Int|14}}",
-        "language": "[[Abyssal language|Abyssal]], [[Common]], [[Draconic language|Draconic]]",
+        "language": "Abyssal, Common, Draconic",
         "subraces": "",
         "climate": "",
         "terrain": "",
@@ -34,16 +13,11 @@
         "hairstyles": "",
         "eyecolor": "",
         "build": "",
-        "distinctions": "Humanoid body<br/>Snakes in place of arms",
+        "distinctions": "Humanoid bodySnakes in place of arms",
         "appearrefs": "",
-        "first": "''[[Volo's Guide to Monsters]]''",
+        "first": "Volos Guide to Monsters",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Yuan-ti pit masters''' were cautious [[yuan-ti malison]] priests of the deity [[Merrshaulk]].",
-        "Description": "Yuan-ti pit masters were mostly humanoid in form, but had many snake-body-like tentacles in place of arms.",
-        "Personality": "Pit masters were traditionalists who always preferred a slow, cautious approach in any matter and opposed any reckless behavior. They felt that they were the most capable of achieving the goals of the yuan-ti.",
-        "Abilities": "{{Quote|I've met a few [[yuan-ti pureblood|purebloods]] and [[yuan-ti broodguard|broodguards]] in my day, but had I met a yuan-ti pit master, I'm quite sure I'd not be here to tell the tale!|[[Volothamp Geddarm|Volos']] notes in ''[[Volo's Guide to Monsters (in-universe)|Volo's Guide to Monsters]]''.}}\nLike other yuan-ti, pit masters were immune to poison and resistant to spells and other magical effects. They could turn into a snake and back at will. Pit masters could also innately cast the spells ''[[animal friendship]]'' at will and ''[[suggestion]]'' thrice each day.\n\nAs priests of Merrshaulk, yuan-ti pit masters knew the cantrips ''[[eldritch blast]]'', ''[[friends]]'', ''[[guidance]]'', ''[[mage hand]]'', ''[[message]]'', and ''[[poison spray]]'', and the spells ''[[command]]'', ''[[counterspell]]'', ''[[hellish rebuke]]'', ''[[invisibility]]'', ''[[misty step]]'', ''[[unseen servant]]'', and ''[[vampiric touch]]''. They could only cast two spells each day, however.\n\nAdditionally, once each day a pit master could cause five creatures within {{SI|60|ft|long=yes}} of it that it could see to collapse into a magical sleep for 10 minutes.",
-        "Combat": "Pit masters did not use weapons or armor, instead relying on their naturally venomous fangs to deal with enemies.",
-        "Society": "Yuan-ti pit masters were priests of the ancient yuan-ti god Merrshaulk, and they sacrificed humanoids to him in order to rouse him from his slumber. They were also heavily involved in the long-term plans of the yuan-ti to take over humanoid governments and also in the efforts to protect their own cities from discovery and attack."
+        "mainbody": "Yuan-ti pit masters were cautious yuan-ti malison priests of the deity Merrshaulk.\nYuan-ti pit masters were mostly humanoid in form, but had many snake-body-like tentacles in place of arms.\nPit masters were traditionalists who always preferred a slow, cautious approach in any matter and opposed any reckless behavior. They felt that they were the most capable of achieving the goals of the yuan-ti.\nLike other yuan-ti, pit masters were immune to poison and resistant to spells and other magical effects. They could turn into a snake and back at will. Pit masters could also innately cast the spells animal friendship at will and suggestion thrice each day.\nAs priests of Merrshaulk, yuan-ti pit masters knew the cantrips eldritch blast, friends, guidance, mage hand, message, and poison spray, and the spells command, counterspell, hellish rebuke, invisibility, misty step, unseen servant, and vampiric touch. They could only cast two spells each day, however.\nAdditionally, once each day a pit master could cause five creatures within  of it that it could see to collapse into a magical sleep for 10 minutes.\nPit masters did not use weapons or armor, instead relying on their naturally venomous fangs to deal with enemies.\nYuan-ti pit masters were priests of the ancient yuan-ti god Merrshaulk, and they sacrificed humanoids to him in order to rouse him from his slumber. They were also heavily involved in the long-term plans of the yuan-ti to take over humanoid governments and also in the efforts to protect their own cities from discovery and attack."
     }
 }

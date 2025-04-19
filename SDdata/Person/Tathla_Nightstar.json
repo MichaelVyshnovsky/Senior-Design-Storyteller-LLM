@@ -1,23 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Tathla Nightstar",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "Flamehair",
-        "true name": "",
-        "home": "[[Purple Palace]], [[Waterdeep/Dock Ward|Dock Ward]], [[Waterdeep]]",
-        "formerhomes": "[[Calimport]], [[Calimshan]]",
-        "sex": "Female",
-        "gender": "",
-        "race": "[[Human]]",
-        "ethnicity": "",
-        "occupation": "[[Courtesan (prostitute)|Courtesan]]<br/>Festhall owner<br/>Investor<br/>{{former}} [[Adventurer]]",
         "age": "",
         "patron deity": "",
         "languages": "",
@@ -46,8 +28,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Chaotic good]]",
-        "class2e": "{{class table|edition=2e|[[Fighter]]|4|[[Thief]]|5}}",
+        "alignment2e": "Chaotic good",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
@@ -64,8 +46,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Tathla \"Flamehair\" Nightstar''' was a famous [[Courtesan (prostitute)|courtesan]] of [[Calimport]] and later proprietor of the [[Purple Palace]] [[festhall]] in the [[Waterdeep/Dock Ward|Dock Ward]] of [[Waterdeep]] in the mid-to-late 1360s [[DR]].",
-        "History": "She became famous as a courtesan in Calimport in [[Calimshan]] in the mid-1330s [[DR]]. At one point, she was also an [[adventurer]], but later retired from that life.\n\nBy the mid-1360s DR, Flamehair Nightstar was owner of the Purple Palace and was considered one of the shrewdest investors in the city at the time. She was also a friend to goodhearted adventurers.",
-        "Description": "Even thirty years later, Tathla was considered a great beauty. She was nicknamed \"Flamehair\" for her blood-red hair, which was so long it enveloped her like a cloak and trailed over the ground behind her."
+        "mainbody": "Tathla \"Flamehair\" Nightstar was a famous courtesan of Calimport and later proprietor of the Purple Palace festhall in the Dock Ward of Waterdeep in the mid-to-late 1360s DR.\nShe became famous as a courtesan in Calimport in Calimshan in the mid-1330s DR. At one point, she was also an adventurer, but later retired from that life.\nBy the mid-1360s DR, Flamehair Nightstar was owner of the Purple Palace and was considered one of the shrewdest investors in the city at the time. She was also a friend to goodhearted adventurers.\nEven thirty years later, Tathla was considered a great beauty. She was nicknamed \"Flamehair\" for her blood-red hair, which was so long it enveloped her like a cloak and trailed over the ground behind her."
     }
 }

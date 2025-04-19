@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "1|ft|long": "yes",
-        "5|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Summon Lycanthrope.jpg",
-        "caption": "",
-        "name": "Summon Lycanthrope",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Conjuration]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|4}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -45,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Summon lycanthrope''''' was a [[conjuration]] [[spell]] used by [[wizard]]s.",
-        "Effects": "This spell summoned the closest [[lycanthrope]] to the caster, causing them to appear instantly before the caster. This spell only functioned on the night of a full moon and the nights immediately before and after. The caster and lycanthrope needed to be on the same [[plane of existence]].\n\nTo avoid being attacked by the lycanthrope, the caster needed to prepare a special warding circle. The warding circle served as a temporary prison to hold the lycanthrope, though they were sometimes still able to escape the circle if the wizard was not skilled enough to hold them. Any break in the circle allowed the lycanthrope to break free. The creature would be held within the circle for as long as the caster desired, but would revert to [[human]] form when the full moon set, at which point they were free to leave the circle.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required a drop of animal blood, a strand of human hair, and a [[moonstone]] worth at least 150 [[gold piece]]s to cast.\n\nThe objects needed to prepare the warding circled included special pigments that cost 100 gp per {{SI|1|ft|long=yes}} in diameter of the circle. The bare minimum diameter for a circle was {{SI|5|ft|long=yes}}."
+        "mainbody": "Summon lycanthrope was a conjuration spell used by wizards.\nThis spell summoned the closest lycanthrope to the caster, causing them to appear instantly before the caster. This spell only functioned on the night of a full moon and the nights immediately before and after. The caster and lycanthrope needed to be on the same plane of existence.\nTo avoid being attacked by the lycanthrope, the caster needed to prepare a special warding circle. The warding circle served as a temporary prison to hold the lycanthrope, though they were sometimes still able to escape the circle if the wizard was not skilled enough to hold them. Any break in the circle allowed the lycanthrope to break free. The creature would be held within the circle for as long as the caster desired, but would revert to human form when the full moon set, at which point they were free to leave the circle.\nIn addition to verbal and somatic components, this spell required a drop of animal blood, a strand of human hair, and a moonstone worth at least 150 gold pieces to cast.\nThe objects needed to prepare the warding circled included special pigments that cost 100 gp per  in diameter of the circle. The bare minimum diameter for a circle was ."
     }
 }

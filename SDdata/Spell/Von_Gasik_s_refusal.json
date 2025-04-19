@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Von Gasik's Refusal",
-        "deity": "",
-        "inventor": "[[Von Gasik]]",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Abjuration]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|5}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Von Gasik's refusal''''' was an [[abjuration]] [[spell]] used by [[wizard]]s. This spell was developed by [[Von Gasik]].",
-        "Effects": "This useful spell prevented unauthorized wizards, and other spellcasters to include [[ranger]], [[paladin]]s, etc, from entering a doorway, window, or any such point on entry. The invisible barrier would utterly block any spellcaster not named by the caster. Those named by the caster, as well as all non-spellcasters, could pass through the barrier freely.\n\nThe size of the area to be warded with this spell was directly related to the expertise of the caster. The caster could also choose to ward a single larger area, or several smaller areas with a single casting provided all areas were within eyesight of the caster during the casting. ''Von Gasik's refusal'' would last for many hours unless dismissed by the caster, successfully ''[[dispel magic|dispelled]]'' by another wizard, or negated by a ''[[disintegrate]]'' spell, ''[[rod of cancellation]]'', or ''[[sphere of annihilation]]''. The barriers were immune to all forms of natural physical damage, but spells could be cast through both sides of the barrier. Clever wizards who wished to pass the barrier could do so via a ''[[teleport]]'', ''[[dimension door]]'', and similar spells.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, this spell required a pinch of dust from a wizard's tomb to cast."
+        "mainbody": "Von Gasiks refusal was an abjuration spell used by wizards. This spell was developed by Von Gasik.\nThis useful spell prevented unauthorized wizards, and other spellcasters to include ranger, paladins, etc, from entering a doorway, window, or any such point on entry. The invisible barrier would utterly block any spellcaster not named by the caster. Those named by the caster, as well as all non-spellcasters, could pass through the barrier freely.\nThe size of the area to be warded with this spell was directly related to the expertise of the caster. The caster could also choose to ward a single larger area, or several smaller areas with a single casting provided all areas were within eyesight of the caster during the casting. Von Gasiks refusal would last for many hours unless dismissed by the caster, successfully dispelled by another wizard, or negated by a disintegrate spell, rod of cancellation, or sphere of annihilation. The barriers were immune to all forms of natural physical damage, but spells could be cast through both sides of the barrier. Clever wizards who wished to pass the barrier could do so via a teleport, dimension door, and similar spells.\nIn addition to verbal and somatic components, this spell required a pinch of dust from a wizards tomb to cast."
     }
 }

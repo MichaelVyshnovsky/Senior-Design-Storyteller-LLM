@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "100|yd|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Doomhound",
-        "deity": "[[Urogalan]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "reversible2e": "",
-        "school2e": "[[Phantasm]]<br>[[Necromancy]]",
-        "spheres2e": "[[Necromantic sphere|Necromantic]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|2}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -37,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Doomhound''''' was a [[spell]] used by [[cleric]]s of [[Urogalan]].",
-        "Effects": "When cast, this spell created a [[mastiff]] of shadow that was only visible to the caster and a targeted creature. When the targeted creature first saw the ''doomhound'', they were overcome with ''[[fear]]''. The ''doomhound'' slowly stalked the targeted creature but always remained {{SI|100|yd|long=yes}} from them. This created an extreme sense of dread and doom in the targeted creature. This spell had no effect on creatures with a natural or magical immunity to ''fear''. The caster could only send a single ''doomhound'' at a time. The ''doomhound'' was immune to both magical and physical attacks. The spell persisted until the death of the targeted creature or if either a ''[[limited wish]]'', ''[[remove curse]]'', or ''[[wish]]'' spell were cast on the affected individual.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required [[material component]]s, the holy symbol of Urogalan."
+        "mainbody": "Doomhound was a spell used by clerics of Urogalan.\nWhen cast, this spell created a mastiff of shadow that was only visible to the caster and a targeted creature. When the targeted creature first saw the doomhound, they were overcome with fear. The doomhound slowly stalked the targeted creature but always remained  from them. This created an extreme sense of dread and doom in the targeted creature. This spell had no effect on creatures with a natural or magical immunity to fear. The caster could only send a single doomhound at a time. The doomhound was immune to both magical and physical attacks. The spell persisted until the death of the targeted creature or if either a limited wish, remove curse, or wish spell were cast on the affected individual.\nIn addition to verbal and somatic components, this spell required material components, the holy symbol of Urogalan."
     }
 }

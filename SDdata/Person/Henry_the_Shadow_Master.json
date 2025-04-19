@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "5'6|'\"|long": "yes",
-        "5'3|'\"|long": "yes",
-        "98|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Henry the Shadow Master.jpg",
-        "caption": "",
-        "name": "Henry",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "Henry the Shadow Master",
-        "true name": "",
-        "home": "[[Nellie Thursday Home for Experienced Adventurers]], [[Toril]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "gender": "",
-        "race": "[[Human]]",
-        "ethnicity": "",
-        "occupation": "Adventurer",
-        "age": "",
-        "patron deity": "",
-        "languages": "[[Common]], [[Elvish]], [[Dwarvish]], [[Gnomish]], [[Luiric]], [[Orcish]], and [[Pixie language|Pixie]]",
-        "basicrefs": "{{Cite card/AD&D Trading Cards/1993|89|Henry the Shadow Master}}{{Cite polyhedron/72/Experience Preferred, Part One|17-18}}",
         "reckoning": "",
         "dob": "",
         "dobnotes": "",
@@ -36,7 +11,7 @@
         "destroyednotes": "",
         "daterefs": "",
         "parents": "",
-        "spouses": "[[Matilda the White Lady]]",
+        "spouses": "Matilda the White Lady",
         "siblings": "",
         "children": "",
         "familyrefs": "",
@@ -49,8 +24,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Neutral good]]",
-        "class2e": "{{class table|edition=2e|[[Illusionist]]|10}}",
+        "alignment2e": "Neutral good",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
@@ -67,11 +42,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Henry the Shadow Master''' was the [[illusionist]] husband of [[Matilda the White Lady]] and one of the retired adventurers inhabiting the [[Nellie Thursday Home for Experienced Adventurers]] sometime in the mid-to-late 14{{th}} century [[DR]].",
-        "Description": "Henry was a short man compared to his wife, reaching only {{SI|5'6|'\"|long=yes}} but stooped down to {{SI|5'3|'\"|long=yes}} and weighing {{SI|98|lb|k|long=yes}}. He had gray hair and black eyes.",
-        "Personality": "Unlike his boisterous and domineering wife, Henry was a quiet and reserved man who liked to let Matilda take charge and make decisions.",
-        "Possessions": "Henry defended himself with [[magic item]]s, such as ''[[cloak of protection]]'' and ''[[bracers of defense]]''. He was armed with a ''[[wand of paralyzation]]''.{{Cite card/AD&D Trading Cards/1993|78|Henry's Carpetbag of Holding}} Other items of note in his possession included ''[[orthopedic shoes of dexterity]]'' and a ''[[sling of seeking]]''.",
-        "Abilities": "Henry was fluent in several languages: [[Common]], [[Luiric]], [[Elvish]], [[Dwarvish]], [[Gnomish]], [[Orcish]], and the [[pixie language]]. As a mage, he was proficient in handling [[sling]]s and [[dagger]]s. He was also knowledgeable in the arts of healing and [[herb]]alism and was a capable horseback rider. His smoking habit led Henry to learn [[tobacco]] curing and smoking in his fanciful [[ivory]] [[dolphin]]-shaped [[pipe]].",
-        "History": "In his younger days, Henry worked with a [[hin]] rogue named [[Sagrais Bigelow]], who emptied pockets while the mage performed [[spell]]s and tricks as a distraction.\n\nHenry the Shadow Master and Matilda the White Lady, his wife of forty years, retired to the Nellie Thursday Home for Experienced Adventurers together.{{Cite card/AD&D Trading Cards/1993|83|Matilda the White Lady}} However, the wizard enjoyed a good pipe too much and just ensorcelled himself with ''[[Henry's hide-a-smell]]'' to be unsmellable and continued to inhale [[pipeweed]] smoke in secret from his beloved wife. The spouses enjoyed their thirty years at Nellie Thursday in its elegant lodgings, and Matilda found its training area helpful in maintaining her physique.\n\nAt the age of eighty-eight winters, Henry, accompanied by his wife and several other geriatric adventurers, embarked on a quest to find [[Wemic the Wise]]'s old missing roommate. The quest ended up dragging them across several worlds, including{{Cite polyhedron/72/Experience Preferred, Part One|11}} the jungles of [[Quorsit]];{{Cite polyhedron/73/Experience Preferred, Part Two|7}} and the [[demi-plane]] of [[Kansas]], where he faced [[Simon (illusionist)|Simon the Illusionist]] in a duel and survived.{{Cite polyhedron/74/Experience Preferred, Part III|16}}"
+        "mainbody": "Henry the Shadow Master was the illusionist husband of Matilda the White Lady and one of the retired adventurers inhabiting the Nellie Thursday Home for Experienced Adventurers sometime in the mid-to-late 14 century DR.\nHenry was a short man compared to his wife, reaching only  but stooped down to  and weighing . He had gray hair and black eyes.\nUnlike his boisterous and domineering wife, Henry was a quiet and reserved man who liked to let Matilda take charge and make decisions.\nHenry defended himself with magic items, such as cloak of protection and bracers of defense. He was armed with a wand of paralyzation. Other items of note in his possession included orthopedic shoes of dexterity and a sling of seeking.\nHenry was fluent in several languages Common, Luiric, Elvish, Dwarvish, Gnomish, Orcish, and the pixie language. As a mage, he was proficient in handling slings and daggers. He was also knowledgeable in the arts of healing and herbalism and was a capable horseback rider. His smoking habit led Henry to learn tobacco curing and smoking in his fanciful ivory dolphin-shaped pipe.\nIn his younger days, Henry worked with a hin rogue named Sagrais Bigelow, who emptied pockets while the mage performed spells and tricks as a distraction.\nHenry the Shadow Master and Matilda the White Lady, his wife of forty years, retired to the Nellie Thursday Home for Experienced Adventurers together. However, the wizard enjoyed a good pipe too much and just ensorcelled himself with Henrys hide-a-smell to be unsmellable and continued to inhale pipeweed smoke in secret from his beloved wife. The spouses enjoyed their thirty years at Nellie Thursday in its elegant lodgings, and Matilda found its training area helpful in maintaining her physique.\nAt the age of eighty-eight winters, Henry, accompanied by his wife and several other geriatric adventurers, embarked on a quest to find Wemic the Wises old missing roommate. The quest ended up dragging them across several worlds, including the jungles of Quorsit and the demi-plane of Kansas, where he faced Simon the Illusionist in a duel and survived."
     }
 }

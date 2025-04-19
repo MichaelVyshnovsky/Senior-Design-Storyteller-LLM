@@ -1,20 +1,8 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Anwar al-Sifr.png",
-        "caption": "",
-        "name": "Anwar al-Sifr",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "Cipher",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Liham]], [[Zakhara]]{{cite book/Assassin Mountain/Holy Slayer Sourcebook|22}}{{Cite card/AD&D Trading Cards/1993|41|Anwar al-Sifr}}",
         "formerhomes": "",
         "sex": "Male",
-        "race": "[[Elf]]",
+        "race": "Elf",
         "ethnicity": "",
         "occupation": "",
         "age": "",
@@ -37,8 +25,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Lawful evil]]",
-        "class2e": "{{class table|edition=2e|[[Thief]] ([[Holy slayer]])|9}}",
+        "alignment2e": "Lawful evil",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "class3e": "",
@@ -52,11 +40,6 @@
         "alignment5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Anwar al-Sifr''' was the Cipher of [[Liham]] in [[1367 DR]], as well as the leader of its local chapter of the [[Everlasting|Brotherhood of the Everlasting]].{{AQ-time}}",
-        "Description": "A dark-skinned man, Anwar carried a stern expression on his face. He garbed himself in black and grey, and wore a red [[keffiyeh]] on his head, fastened with a black [[agal]].",
-        "Personality": "Deeply fanatical and violent, Anwar haunted the dark alleys of Liham. He preferred to stay emotionally detached to everyone, even his closest underlings.",
-        "Possessions": "Anwar owned a ''[[potion of flying]]'', as well as a ''[[ring of feather falling]]''. In combat, he wore a magical set of [[leather armor]] and wielded a mundane [[scimitar]].",
-        "Relationships": "The [[goblin]] [[barber]] [[Bani Matruj al-Haddar]] actively tried to avoid Anwar.{{Cite card/AD&D Trading Cards/1993|40|Bani Matruj al-Haddar}}",
-        "Activities": "Anwar al-Sifr was secretly a [[holy slayer]] who protected interests of the Brotherhood of the Everlasting in Liham, sometimes through the use of well-planned attacks where he would plant messages before making his escape. He would sometimes organize attacks on the [[mamluk]]s of [[Qudra]] purely out of spite."
+        "mainbody": "Anwar al-Sifr was the Cipher of Liham in 1367 DR, as well as the leader of its local chapter of the Brotherhood of the Everlasting.\nA dark-skinned man, Anwar carried a stern expression on his face. He garbed himself in black and grey, and wore a red keffiyeh on his head, fastened with a black agal.\nDeeply fanatical and violent, Anwar haunted the dark alleys of Liham. He preferred to stay emotionally detached to everyone, even his closest underlings.\nAnwar owned a potion of flying, as well as a ring of feather falling. In combat, he wore a magical set of leather armor and wielded a mundane scimitar.\nThe goblin barber Bani Matruj al-Haddar actively tried to avoid Anwar.\nAnwar al-Sifr was secretly a holy slayer who protected interests of the Brotherhood of the Everlasting in Liham, sometimes through the use of well-planned attacks where he would plant messages before making his escape. He would sometimes organize attacks on the mamluks of Qudra purely out of spite."
     }
 }

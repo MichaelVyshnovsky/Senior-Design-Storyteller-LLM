@@ -1,24 +1,5 @@
 {
-    "template_data": {
-        "url": "http://www.wizards.com/files/156_Thunderspire_FR.pdf",
-        "author": "[[Greg Bilsland]]",
-        "title": "Thunderspire Labyrinth Forgotten Realms Conversion",
-        "accessdate": "2017-01-31",
-        "format": "PDF",
-        "work": "Dungeon magazine 156",
-        "pages": "29"
-    },
     "document_data": {
-        "image": "Northdark.png",
-        "caption": "Map showing location. Click to enlarge.",
-        "name": "Labyrinth",
-        "aliases": "",
-        "type": "",
-        "size": "",
-        "capital": "",
-        "area": "[[Upperdark|Upper]] and [[Middledark|Middle]] [[Northdark]]",
-        "languages": "",
-        "races": "[[Baphitaur]]s, [[minotaur]]s; <br/>'''Formerly:''' [[Dwarf|Dwarves]]{{Cite web/Perilous Gateways/The Shadow Path}}",
         "religion": "",
         "population1": "",
         "popyear1": "",
@@ -48,15 +29,6 @@
         "locations": "yes",
         "organizations": "yes",
         "settlements": "",
-        "mainbody": "The '''Labyrinth''' was an ancient maze of tunnels in the [[Northdark]].",
-        "Geography": "The Labyrinth covered a large area of the [[Upperdark]] and [[Middledark]] beneath the [[Dessarin River]] and beyond. It connected the northern region of the [[Underdark]] to elsewhere in the south.\n\nThe Labyrinth was located some 100 miles south and west of the [[Darklake]] and [[Gracklstugh]].",
-        "Description": "The Labyrinth was a network of lava tubes tunnels made of cold black basalt. There were some paths and bridges. \nDepending on who was describing it, the tunnels either spanned 100 miles north to south and more than 50 miles east to west, There were a number of rifts that cut through the Labyrinth, so many tunnels emptied into massive chasms or dead-ended. Some staircases have been carved into stone to overcome these chasms.\n\nAlthough there were a few well-documented paths used by merchants and travelers from [[Menzoberranzan]] and [[Gracklstugh]], travelers who wandered off the known paths were bound to get hopelessly lost and starve to death or be killed by the [[minotaur]]s that inhabited the tunnels. As well as minotaurs, a fallen angel, known as [[Baatral]], inhabited the labyrinth.\n\nA number of portals were located in the Labyrinth. One led to the wilderness near [[Ched Nasad]], another to [[Oryndoll]].",
-        "History": "It was commonly believed that [[minotaur]]s had created the tunnels, but in fact the tunnels were originally built by a cult of demon-worshiping [[dwarf|dwarves]] of [[Ammarindar (kingdom)|Ammarindar]] ca. {{Yearlink|-2200}}. The dwarves worshiped [[Baphomet]] and allied themselves with [[minotaur]]s and bull-headed [[demon]]s. They also had at least one portal constructed in the Labyrinth, which led to their home in Ammarindar.\n\nA few centuries after the dwarves disappeared, the region was settled by [[baphitaur]]s, which were created by the [[Netherese]] wizards of [[Andalbruin]] through the experimental merging of [[human]]s, minotaurs, and demons.{{cite web |url=http://www.wizards.com/files/156_Thunderspire_FR.pdf |author=[[Greg Bilsland]] |title=Thunderspire Labyrinth Forgotten Realms Conversion |accessdate=2017-01-31|format=PDF |work=Dungeon magazine 156 |pages=29}}\n\nThe quieter parts of the Labyrinth often served as the homes of exiles and loners. Of particular note was [[House Jaelre]], who resided here after their exile from Menzoberranzan for a time before they moved on to [[Minauthkeep]] (the [[Elven Court]]) in [[Cormanthor]].",
-        "Notable locations": {
-            "[[Pit of Howling Grief]]": "The Pit of Howling Grief was a rift in the ground filled with endless sounds of moaning and wailing. Next to the chasm was a slab of black rock that served as an altar to the demon lord [[Baphomet]].",
-            "[[House Jaelre]]": "When House Jaelre dwelt here, they had a palace, which was abandoned by [[1372 DR]].",
-            "[[Gallery of Angels]]": "A chamber housing seven fallen, petrified angels.<ref>",
-            "[[Adamantine Tower]]": "An abandoned ''[[Daern's instant fortress]]'' haunted by [[demon]]s."
-        }
+        "mainbody": "The Labyrinth was an ancient maze of tunnels in the Northdark.\nThe Labyrinth covered a large area of the Upperdark and Middledark beneath the Dessarin River and beyond. It connected the northern region of the Underdark to elsewhere in the south.\nThe Labyrinth was located some 100 miles south and west of the Darklake and Gracklstugh.\nThe Labyrinth was a network of lava tubes tunnels made of cold black basalt. There were some paths and bridges. \nDepending on who was describing it, the tunnels either spanned 100 miles north to south and more than 50 miles east to west, There were a number of rifts that cut through the Labyrinth, so many tunnels emptied into massive chasms or dead-ended. Some staircases have been carved into stone to overcome these chasms.\nAlthough there were a few well-documented paths used by merchants and travelers from Menzoberranzan and Gracklstugh, travelers who wandered off the known paths were bound to get hopelessly lost and starve to death or be killed by the minotaurs that inhabited the tunnels. As well as minotaurs, a fallen angel, known as Baatral, inhabited the labyrinth.\nA number of portals were located in the Labyrinth. One led to the wilderness near Ched Nasad, another to Oryndoll.\nIt was commonly believed that minotaurs had created the tunnels, but in fact the tunnels were originally built by a cult of demon-worshiping dwarves of Ammarindar ca. . The dwarves worshiped Baphomet and allied themselves with minotaurs and bull-headed demons. They also had at least one portal constructed in the Labyrinth, which led to their home in Ammarindar.\nA few centuries after the dwarves disappeared, the region was settled by baphitaurs, which were created by the Netherese wizards of Andalbruin through the experimental merging of humans, minotaurs, and demons.\nThe quieter parts of the Labyrinth often served as the homes of exiles and loners. Of particular note was House Jaelre, who resided here after their exile from Menzoberranzan for a time before they moved on to Minauthkeep (the Elven Court) in Cormanthor.\n Pit of Howling Grief  The Pit of Howling Grief was a rift in the ground filled with endless sounds of moaning and wailing. Next to the chasm was a slab of black rock that served as an altar to the demon lord Baphomet.\n House Jaelre  When House Jaelre dwelt here, they had a palace, which was abandoned by 1372 DR.\n Gallery of Angels  A chamber housing seven fallen, petrified angels.\n Adamantine Tower  An abandoned Daerns instant fortress haunted by demons."
     }
 }

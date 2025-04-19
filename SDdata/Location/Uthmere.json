@@ -1,24 +1,6 @@
 {
     "document_data": {
-        "image": "Uthmere.jpg",
-        "caption": "",
-        "type": "Village <br/> Small City (formerly)",
-        "name": "Uthmere",
-        "aliases": "",
-        "capital": "",
-        "area": "[[Great Dale]], [[Northeast Faerûn]]",
-        "georefs": "",
-        "demonym": "",
-        "size": "",
-        "ruler1": "[[Lord Uthlain]]",
-        "ruleryear1": "1372",
-        "ruler2": "",
-        "ruleryear2": "",
-        "rulertype": "",
-        "government": "",
-        "languages": "",
-        "races": "{{Percentage table|[[Human]]|82|[[Half-elf]]|7|[[Elf]]|4|[[Halfling]]|3|[[Dwarf]]|2|[[Gnome]]|1|[[Half-orc]]|1}}",
-        "religion": "[[Mask]], [[Tyr]]",
+        "religion": "Mask, Tyr",
         "reckoning": "DR",
         "population1": "400",
         "popyear1": "1479",
@@ -26,7 +8,7 @@
         "popyear2": "1372",
         "imports": "",
         "exports": "",
-        "alignment": "{{alignment grid|off|on|off|off|off|off|off|off|on}}",
+        "alignment": "",
         "allegiance": "",
         "usethe": "",
         "useon": "",
@@ -34,14 +16,6 @@
         "locations": "yes",
         "organizations": "yes",
         "settlements": "",
-        "mainbody": "Formerly a port town, the walled village of '''Uthmere''' was left high and dry when the [[Sea of Fallen Stars]] receded following the [[Spellplague]].  As of [[1479 DR]] the village functioned primarily as a trading post.",
-        "Notable locations": {
-            "Official buildings": "[[Lord's Palace]]",
-            "Inns": "[[Captain's Loft]]",
-            "Taverns": "[[Bloody Hook]]",
-            "Temples & Shrines": "[[Hall of Brilliant Justice]] • [[Hidden House of the Master's Shadow]]",
-            "Roads & Streets": "[[Great Road]]"
-        },
-        "References": "{{refs}}\n[[FR:Uthmere]]\n[[Category:Villages]]\n[[Category:Settlements]]\n[[Category:Locations on Even's Gulf]]\n[[Category:Locations on the Easting Reach]]\n[[Category:Locations on the Sea of Fallen Stars]]\n[[Category:Locations in the Great Dale]]\n[[Category:Locations in the Unapproachable East]]\n[[Category:Locations in Northeast Faerûn]]\n[[Category:Locations in Faerûn]]\n[[Category:Locations on Toril]]\n[[Category:Locations]]\n[[Category:Ports]]\ngky60cm0efjupikmxp4fkw1z1wwo8zx"
+        "mainbody": "Formerly a port town, the walled village of Uthmere was left high and dry when the Sea of Fallen Stars receded following the Spellplague.  As of 1479 DR the village functioned primarily as a trading post.\n* The Hall of the Just - Former temple of Tyr which was converted to serve as the city hall.\nOfficial buildings Lords Palace\nInns Captains Loft\nTaverns Bloody Hook\nTemples & Shrines Hall of Brilliant Justice • Hidden House of the Masters Shadow\nRoads & Streets Great Road\nFRUthmere\nCategoryVillages\nCategorySettlements\nCategoryLocations on Evens Gulf\nCategoryLocations on the Easting Reach\nCategoryLocations on the Sea of Fallen Stars\nCategoryLocations in the Great Dale\nCategoryLocations in the Unapproachable East\nCategoryLocations in Northeast Faerûn\nCategoryLocations in Faerûn\nCategoryLocations on Toril\nCategoryLocations\nCategoryPorts\ngky60cm0efjupikmxp4fkw1z1wwo8zx"
     }
 }

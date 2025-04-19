@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "50|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Raegen's armor.png",
-        "caption": "",
-        "name": "''Raegen's Armor''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Heavy armor",
-        "location": "[[Daggerford]]<br />[[Hluthvar]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|50|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Raegen's armor''''' was a set of heavy armor worn by mercenary adventurer [[Raegen Brunegar]] ''circa'' ''[[1372 DR]]''.",
-        "Description": "''Raegen's armor'' bore design common among [[Helm]] worshipers of the stronghold [[Hluthvar]] near [[Darkhold]]. It decorated with the holy symbol of Helm on the blue woolen tunic that was draped over a set of heavy armor.",
-        "Powers": "''Raegen's armor'' provided her with improved morale, protecting her for the effects of ''[[fear]]'' and improved concentration and discipline.",
-        "History": "Raegen Brunegar famously wore her Helmite armor while adventuring with the hero of [[Daggerford]] in 1372 DR, aiding in stopping [[Zhentarim]]'s plans of taking over the city, stopping a powerful [[fiend]] [[Gorgomorz]] from laying waste to the city, and rescuing the Duke and Duchess of Daggerford."
+        "mainbody": "Raegens armor was a set of heavy armor worn by mercenary adventurer Raegen Brunegar circa 1372 DR.\nRaegens armor bore design common among Helm worshipers of the stronghold Hluthvar near Darkhold. It decorated with the holy symbol of Helm on the blue woolen tunic that was draped over a set of heavy armor.\nRaegens armor provided her with improved morale, protecting her for the effects of fear and improved concentration and discipline.\nRaegen Brunegar famously wore her Helmite armor while adventuring with the hero of Daggerford in 1372 DR, aiding in stopping Zhentarims plans of taking over the city, stopping a powerful fiend Gorgomorz from laying waste to the city, and rescuing the Duke and Duchess of Daggerford."
     }
 }

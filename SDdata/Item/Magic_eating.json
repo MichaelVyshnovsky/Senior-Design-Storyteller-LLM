@@ -1,22 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Magic Eating''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Armor quality]]",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "16{{th}}",
         "itemlevel3e": "",
         "value3e": "+3",
         "weight3e": "",
@@ -35,9 +18,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''Magic eating''' was a [[armor quality|special quality]] that could be applied to [[armor]] that offered the wearer protection from magic.",
-        "Description": "Armors [[item enchantment|enchanted]] with the ''magic eating'' property were often crafted with spiraling decorations and the depiction of many-fanged mouths.",
-        "Powers": "''Magic eating'' armor offered moderate degree of spell resistance, and could absorb the energy from spells cast directly at the wearer. It even bolstered their lifeforce for a short while.",
-        "Creation": "Armor with this property were crafted using the spells ''[[Simbul's synostodweomer]]'' and ''[[spell resistance]]''."
+        "mainbody": "Magic eating was a special quality that could be applied to armor that offered the wearer protection from magic.\nArmors enchanted with the magic eating property were often crafted with spiraling decorations and the depiction of many-fanged mouths.\nMagic eating armor offered moderate degree of spell resistance, and could absorb the energy from spells cast directly at the wearer. It even bolstered their lifeforce for a short while.\nArmor with this property were crafted using the spells Simbuls synostodweomer and spell resistance."
     }
 }

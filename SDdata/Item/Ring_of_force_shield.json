@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "0.1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Ring of force shield.png",
-        "caption": "",
-        "name": "''Ring of Force Shield''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Ring]]",
-        "location": "[[Longsaddle]], [[Savage Frontier]]<br/>[[Western Heartlands]]<br/>[[Grodd]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+2",
-        "value3e": "8,500 [[gp]]",
-        "weight3e": "{{SI|0.1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,10 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Rings of force shield''''' were [[enchanted]] [[ring]]s that granted their wearers magical defensive [[shield]]s.",
-        "Description": "These rings were simple bands of [[iron]].",
-        "Powers": "''Rings of force shield'' granted their wearers the ability to conjure a large shield of an invisible force at will. When activated, these magical walls of force could be wielded like mundane shields without any of the downsides of hauling a heavy piece of metal around.",
-        "History": "Originally, these rings were created by the eccentric [[Harpell]] [[wizard]]s of [[Longsaddle]]. By the late 14{{th}} century [[DR]], ''rings of force shield'' could be found in many places along the [[Sword Coast]]. In [[1372 DR]], one of these items belonged to a group of [[Zhentarim]] agents who operated from under the secret subbasement of the [[Black Stone Inn]] in [[Daggerford]].",
-        "Notable Owners": "*[[Damian Krale]]: a worshiper of [[Shar]] who was trying to unite the many Sharan cells of the [[Western Heartlands]] '' circa'' [[1374 DR]].\n*[[Viansola]]: The sister of [[Lorelei Alavara]], [[elf|elven]] [[warrior]] with a grudge against [[Cormyr]] who was trapped in [[Grodd]] ''circa'' [[1371 DR]]."
+        "mainbody": "Rings of force shield were enchanted rings that granted their wearers magical defensive shields.\nThese rings were simple bands of iron.\nRings of force shield granted their wearers the ability to conjure a large shield of an invisible force at will. When activated, these magical walls of force could be wielded like mundane shields without any of the downsides of hauling a heavy piece of metal around.\nOriginally, these rings were created by the eccentric Harpell wizards of Longsaddle. By the late 14 century DR, rings of force shield could be found in many places along the Sword Coast. In 1372 DR, one of these items belonged to a group of Zhentarim agents who operated from under the secret subbasement of the Black Stone Inn in Daggerford.\n*Damian Krale a worshiper of Shar who was trying to unite the many Sharan cells of the Western Heartlands  circa 1374 DR.\n*Viansola The sister of Lorelei Alavara, elven warrior with a grudge against Cormyr who was trapped in Grodd circa 1371 DR."
     }
 }

@@ -1,24 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Fatzon Axemaiden.png",
-        "caption": "",
-        "name": "Fatzon Axemaiden",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Dwarven Valley]], [[Kelvin's Cairn]]",
-        "formerhomes": "",
-        "sex": "Female",
-        "gender": "",
-        "race": "[[Dwarf]]",
-        "ethnicity": "",
-        "occupation": "",
-        "age": "Adventurer<br/>{{Former}} [[Hearth Guard]]",
         "patron deity": "",
         "languages": "",
         "basicrefs": "",
@@ -46,8 +27,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Neutral good]]",
-        "class2e": "{{class table|edition=2e|[[Fighter]]|3}}",
+        "alignment2e": "Neutral good",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
@@ -64,7 +45,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Fatzon Axemaiden''' was a [[dwarf|dwarven]] [[fighter]] and once, a member of the [[Hearth Guard]], active in the 14{{th}} century [[DR]].",
-        "History": "Fatzon was a fierce warrior as strong if not stranger than any male dwarf. She hailed from the [[Dwarven Valley]] of the [[Kelvin's Cairn]] in frigid [[Icewind Dale]]. By the age of sixty-four, Fatzon left the valley in self-imposed exile. She was trained as a Hearth Guard, one of the dwarven defenders, and at some point in Axemaiden's past, she failed her sworn duty to defend the family holding. Each slain monster or opponent brought Axemaiden one step closer to avenging the deaths of her family.\n\nSometime in the 14{{th}} century DR, Fatzon Axemaiden was among ambitious adventurers who were interested in being sent to a mysterious dungeon by an unnamed [[sorceress]] to retrieve the equally mysterious magical ''orb'' from its depths."
+        "mainbody": "Fatzon Axemaiden was a dwarven fighter and once, a member of the Hearth Guard, active in the 14 century DR.\nFatzon was a fierce warrior as strong if not stranger than any male dwarf. She hailed from the Dwarven Valley of the Kelvins Cairn in frigid Icewind Dale. By the age of sixty-four, Fatzon left the valley in self-imposed exile. She was trained as a Hearth Guard, one of the dwarven defenders, and at some point in Axemaidens past, she failed her sworn duty to defend the family holding. Each slain monster or opponent brought Axemaiden one step closer to avenging the deaths of her family.\nSometime in the 14 century DR, Fatzon Axemaiden was among ambitious adventurers who were interested in being sent to a mysterious dungeon by an unnamed sorceress to retrieve the equally mysterious magical orb from its depths."
     }
 }

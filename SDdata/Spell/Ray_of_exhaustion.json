@@ -1,37 +1,7 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Ray of Exhaustion",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "[[Humility domain|Humility]]",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Humility domain|Humility]]|4|[[Sorcerer]]|3|[[Wizard]]|3}}",
         "type3e": "",
-        "refs3e": "{{Cite dragon/355/Seven Saintly Domains|28}}",
+        "refs3e": "",
         "reversible2e": "",
         "school2e": "",
         "spheres2e": "",
@@ -43,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Ray of exhaustion''''' was a [[transmutation]] spell that caused a target creature to become extremely fatigued.",
-        "Effects": "When invoked, the caster produced a black beam from the tip of a finger that was pointed at a target creature. If the ''ray'' successfully hit the target and the target did not resist, the victim immediately felt exhausted&mdash;severely weakened, with a tremendous loss of manual dexterity and agility, and only able to move at half speed&mdash;for the duration of the spell. This spell lasted a minimum of five minutes for beginning casters and even longer for those with more experience. Likewise, the range for beginning casters was about 35 ft (almost 11 m) and farther for those with more expertise.\n\nIf the target was already exhausted, this spell had no effect. If the target resisted the spell, they became merely fatigued&mdash;unable to run and still impaired, but not as severly&mdash;until the spell expired. If the target was already fatigued, they became exhausted whether they resisted the spell or not.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component]]s, this spell required a drop of sweat as the [[material component]]."
+        "mainbody": "Ray of exhaustion was a transmutation spell that caused a target creature to become extremely fatigued.\nWhen invoked, the caster produced a black beam from the tip of a finger that was pointed at a target creature. If the ray successfully hit the target and the target did not resist, the victim immediately felt exhausted&mdashseverely weakened, with a tremendous loss of manual dexterity and agility, and only able to move at half speed&mdashfor the duration of the spell. This spell lasted a minimum of five minutes for beginning casters and even longer for those with more experience. Likewise, the range for beginning casters was about 35 ft (almost 11 m) and farther for those with more expertise.\nIf the target was already exhausted, this spell had no effect. If the target resisted the spell, they became merely fatigued&mdashunable to run and still impaired, but not as severly&mdashuntil the spell expired. If the target was already fatigued, they became exhausted whether they resisted the spell or not.\nIn addition to verbal and somatic components, this spell required a drop of sweat as the material component."
     }
 }

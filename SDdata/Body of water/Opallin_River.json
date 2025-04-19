@@ -1,17 +1,7 @@
 {
-    "template_data": {
-        "15|mi|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Opallin River",
-        "aliases": "",
-        "type": "River",
-        "region": "The [[Pasocada Basin]], northern [[Maztica]]",
-        "size": "{{SI|150|mi|k}} long",
         "depth": "",
-        "river source": "[[Pasocada River]]",
+        "river source": "Pasocada River",
         "river mouth": "",
         "tributaries": "",
         "tributary of": "",
@@ -28,8 +18,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "The '''Opallin River''' was a prominent river found within the [[Pasocada Basin]] of northern [[Maztica]].{{Cite interactive atlas}}",
-        "Geography": "The Opallin River branched from the larger [[Pasocada River]] where the [[Azuposi]] pueblo of [[Opallinoc]] was founded. The river flowed south then southeast for approximately {{SI|15|mi|k|long=yes}}. The river branched at [[Kinopal]] with the western branch terminating in the land of the [[Dog People]] while the eastern branch terminated within the lands of the [[Rockjaw clan]].",
-        "Notable Locations": "Settlements found along the shores of the Opallin River included Opallinoc, Kinopal, [[Keshtin Pueblo]], [[Mitzlato]], and [[Kin Elbhaz]]."
+        "mainbody": "The Opallin River was a prominent river found within the Pasocada Basin of northern Maztica.\nThe Opallin River branched from the larger Pasocada River where the Azuposi pueblo of Opallinoc was founded. The river flowed south then southeast for approximately . The river branched at Kinopal with the western branch terminating in the land of the Dog People while the eastern branch terminated within the lands of the Rockjaw clan.\nSettlements found along the shores of the Opallin River included Opallinoc, Kinopal, Keshtin Pueblo, Mitzlato, and Kin Elbhaz."
     }
 }

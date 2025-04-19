@@ -1,31 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes",
-        "1'3|'\"|long": "yes"
-    },
     "document_data": {
-        "image": "Cat's Grace Wand.png",
-        "caption": "",
-        "name": "''Wand of Cat's Grace''",
-        "othernames": "''Cat's Grace Wand''",
-        "nicknames": "",
-        "type": "[[Wand]]",
-        "creator": "",
-        "location": "[[Wandering Village]], [[Icewind Dale]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "2,970 [[gp]]",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -42,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Cat's grace wands''''' were [[enchanted]] [[wand]]s that held multiple charges of beneficial spells unleashed upon command.",
-        "Description": "''Cat's grace wands'' were {{SI|1'3|'\"|long=yes}} items of angular design. They were usually made using bone, [[ivory]], or [[wood]]. The total number of charges varied from wand to wand.",
-        "Powers": "Each of these mages' accessories held several charges of the ''[[cat's grace]]'' spell. The magics held within the wand could be discharged at will using a command word. Upon expenditure of a wand's last charge, it disintegrated.",
-        "Notable Owners": "*[[Nym (Icewind Dale)|Nym]], a [[drow]] proprietor of rare and magical goods who traveled [[Icewind Dale]] and [[Dorn's Deep]] in the late 13{{th}} and early 14{{th}} centuries [[DR]]."
+        "mainbody": "Cats grace wands were enchanted wands that held multiple charges of beneficial spells unleashed upon command.\nCats grace wands were  items of angular design. They were usually made using bone, ivory, or wood. The total number of charges varied from wand to wand.\nEach of these mages accessories held several charges of the cats grace spell. The magics held within the wand could be discharged at will using a command word. Upon expenditure of a wands last charge, it disintegrated.\n*Nym, a drow proprietor of rare and magical goods who traveled Icewind Dale and Dorns Deep in the late 13 and early 14 centuries DR."
     }
 }

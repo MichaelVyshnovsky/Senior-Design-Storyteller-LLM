@@ -1,15 +1,9 @@
 {
     "document_data": {
-        "image": "HarborZhentilKeep.jpg",
-        "caption": "A map showing Ocean Way in south Zhentil Keep.",
-        "name": "Ocean Way",
-        "type": "Road",
-        "aliases": "",
-        "length": "{{SI|300|ft}}",
         "width": "",
         "pavement": "",
-        "location": "The [[Zhentil Keep/Harbor District|Harbor District]], [[Zhentil Keep]]",
-        "starts": "[[Border Street]]",
+        "location": "The Harbor District, Zhentil Keep",
+        "starts": "Border Street",
         "ends": "",
         "built": "",
         "refs": "",
@@ -23,7 +17,6 @@
         "roads": "yes",
         "bodies of water": "",
         "events": "",
-        "mainbody": "'''Ocean Way''' was a road located in the city of [[Zhentil Keep]] during the mid–14{{th}} century [[DR]].",
-        "Location": "Ocean Way was located in the [[Zhentil Keep/Harbor District|Harbor District]] of south Zhentil Keep. The road was located on the eastern side of the Harbor District. It originated on [[Border Street]] and passed northeast to terminate along the waterfront of the docks. [[Sullen Street]] connected with Ocean Way."
+        "mainbody": "Ocean Way was a road located in the city of Zhentil Keep during the mid–14 century DR.\nOcean Way was located in the Harbor District of south Zhentil Keep. The road was located on the eastern side of the Harbor District. It originated on Border Street and passed northeast to terminate along the waterfront of the docks. Sullen Street connected with Ocean Way."
     }
 }

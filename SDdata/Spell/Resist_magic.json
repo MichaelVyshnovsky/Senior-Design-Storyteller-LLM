@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Resist Magic",
-        "deity": "[[Thoth]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Abjuration]]",
-        "spheres2e": "[[Guardian sphere|Guardian]]",
-        "level2e": "{{Spell table|edition=2e|[[Cleric]]|5|[[Guardian sphere|Guardian]]|5}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -37,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Resist magic''''' was a southern magic [[divine magic|divine]] spell available to worshipers of [[Thoth]].",
-        "Effects": "When cast, this spell imbued the caster with a measure of magical resistance. The strength of the magical resistance was determined by the caster's skill level. The caster could only use this spell on themselves.",
-        "Components": "This spell required only [[Somatic component|somatic]] and [[Verbal component|verbal]] components."
+        "mainbody": "Resist magic was a southern magic divine spell available to worshipers of Thoth.\nWhen cast, this spell imbued the caster with a measure of magical resistance. The strength of the magical resistance was determined by the casters skill level. The caster could only use this spell on themselves.\nThis spell required only somatic and verbal components."
     }
 }

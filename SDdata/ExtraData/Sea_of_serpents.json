@@ -1,19 +1,8 @@
 {
-    "template_data": {
-        "variant": "evocation",
-        "variant_1": "evocation",
-        "variant_2": "evocation",
-        "edition": "4e",
-        "variant_3": "evocation"
-    },
     "document_data": {
-        "type": "daily",
-        "name": "Sea of Serpents",
-        "keywords4e": "{{desc/implement|variant=evocation}}{{desc/primal|variant=evocation}}{{desc/zone|variant=evocation}}",
-        "level4e": "{{spell table|edition=4e|variant=evocation|[[Shaman]]|29}}",
+        "level4e": "",
         "type4e": "Daily",
         "refs4e": "",
-        "mainbody": "'''Sea of serpents''' was a powerful [[shaman]]ic spell that summoned spirit serpents to attack a shaman's enemies.  The spell also allowed the shaman's allies to attack more rapidly.{{Cite digital book/Venom in Her Veins/Kindle|2128}}",
-        "References": "{{refs}}\n\n{{stub}}\n2hhgxapkbfw8c0zynm8asphb71shvpb"
+        "mainbody": "Sea of serpents was a powerful shamanic spell that summoned spirit serpents to attack a shamans enemies.  The spell also allowed the shamans allies to attack more rapidly.\n2hhgxapkbfw8c0zynm8asphb71shvpb"
     }
 }

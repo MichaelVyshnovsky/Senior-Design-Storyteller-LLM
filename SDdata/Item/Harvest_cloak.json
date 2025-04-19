@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "2|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Harvest Cloak''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Cloak]]",
-        "location": "[[West Harbor]], [[Mere of Dead Men]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|2|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Harvest cloaks''''' were [[enchanted]] [[cloak]]s, the prize awarded annually to the winning team of [[West Harbor]]'s [[Harvest Fair]] competition.",
-        "Description": "''Harvest cloaks'' were masterfully crafted, simple but beautiful green cloaks.",
-        "Powers": "These clothing items were imbued with a simple charisma boosting [[enchantment]] that accentuated ''Harvest cloaks''' beauty, drew the eye, and complimented any outfit paired with them.",
-        "History": "In [[1374 DR]], a ''Harvest cloak'' and the ''[[Harvest Cup]]'' were awarded the competition's winners, [[Amie Fern]], [[Bevil Starling]], and [[Kalach-Cha]]. Following a devastating attack on the town of West Harbor, Kalach-Cha took the ''Harvest cloak'' out of the [[Mere of Dead Men]] and headed to [[Neverwinter]]."
+        "mainbody": "Harvest cloaks were enchanted cloaks, the prize awarded annually to the winning team of West Harbors Harvest Fair competition.\nHarvest cloaks were masterfully crafted, simple but beautiful green cloaks.\nThese clothing items were imbued with a simple charisma boosting enchantment that accentuated Harvest cloaks beauty, drew the eye, and complimented any outfit paired with them.\nIn 1374 DR, a Harvest cloak and the Harvest Cup were awarded the competitions winners, Amie Fern, Bevil Starling, and Kalach-Cha. Following a devastating attack on the town of West Harbor, Kalach-Cha took the Harvest cloak out of the Mere of Dead Men and headed to Neverwinter."
     }
 }

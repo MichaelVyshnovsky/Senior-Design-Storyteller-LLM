@@ -1,18 +1,8 @@
 {
-    "template_data": {
-        "70|mi|k|long": "yes"
-    },
     "document_data": {
-        "image": "PearlCitiesCard.PNG",
-        "caption": "A map showing Al-Fatir River flowing east to Jumlat.",
-        "name": "Al-Fatir River",
-        "aliases": "The Tepid River",
-        "type": "River",
-        "region": "[[Pearl Cities]], [[Zakhara|west Zakhara]]",
-        "size": "{{SI|70|mi|k}} long",
         "depth": "",
-        "river source": "[[Al-Yabki Mountains]]",
-        "river mouth": "[[Golden Gulf]]",
+        "river source": "Al-Yabki Mountains",
+        "river mouth": "Golden Gulf",
         "tributaries": "",
         "tributary of": "",
         "georefs": "",
@@ -28,8 +18,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "'''Al-Fatir River''', also called the '''Tepid River''', was a slow-flowing river found in the [[Pearl Cities]] region of [[Zakhara|west Zakhara]] in [[1367 DR]].{{AQ-time}}",
-        "Geography": "Originating in [[Al-Yabki Mountains]] north of [[Gogal Pass]], the Tepid River flowed eastward from the mountain range to the city of [[Jumlat]] on the coast of the [[Golden Gulf]]. The Tepid River measured {{SI|70|mi|k|long=yes}} in length.",
-        "Notable Locations": "*Jumlat"
+        "mainbody": "Al-Fatir River, also called the Tepid River, was a slow-flowing river found in the Pearl Cities region of west Zakhara in 1367 DR.\nOriginating in Al-Yabki Mountains north of Gogal Pass, the Tepid River flowed eastward from the mountain range to the city of Jumlat on the coast of the Golden Gulf. The Tepid River measured  in length.\n*Jumlat"
     }
 }

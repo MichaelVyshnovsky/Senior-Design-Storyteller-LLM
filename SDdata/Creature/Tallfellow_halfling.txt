@@ -1,31 +1,9 @@
-{{Creature
-| image        = 
-| caption      = 
-| name         = Tallfellow halfling
-| othernames   = 
-| size5e       = Small
-| type5e       = [[Humanoid]]
-| subtype5e    = [[Halfling]]
-| alignment5e  = Usually [[lawful good]]
-| challenge5e  = 
-| refs5e       = 
-| size4e       = 
-| origin4e     = 
-| type4e       = 
-| subtype4e    = 
-| alignment4e  = 
-| refs4e       = 
-| size3e       = Small
-| type3e       = [[Humanoid]]
-| subtype3e    = [[Halfling]]
-| alignment3e  = Usually [[neutral]]
-| challenge3e  = {{frac|1|2}}
 | refs3e       = 
 | size2e       = Small
-| alignment2e  = [[Lawful good]]
+| alignment2e  = Lawful good
 | refs2e       = 
 | size1e       = Small
-| alignment1e  = [[Lawful good]]
+| alignment1e  = Lawful good
 | refs1e       = 
 | patron deity = 
 | movement     = 
@@ -33,8 +11,8 @@
 | activecycle  = Day
 | diet         = Omnivore
 | lifespan     = 180 years
-| location     = [[Oerth]]<br />[[Toril]]
-| language     = [[Common]], [[halfling language|Halfling]]
+| location     = OerthToril
+| language     = Common, Halfling
 | subraces     = 
 | climate      = Temperate
 | terrain      = Forests, hills
@@ -54,39 +32,18 @@
 | first        = 
 | based        = 
 | histrefs     = 
-}}
-'''Tallfellows''' were a subtype of [[lightfoot halfling]]s native to both [[Toril]] and the planet of [[Oerth]],<ref group="note">In early ''[[Dungeons & Dragons]]'' settings the tallfellows were just one of the three standard subraces of halfling and thus were mentioned in ''Forgotten Realms'' sources on rare occasions. The [[Player's Handbook 5th edition|''Player's Handbook'' of 5{{th}} edition]] retconned them as being the ''Greyhawk'' setting's equivalent to the lightfoot. However, because they were considered distinct from hairfeet (the precursor to lightfoots) for the first three editions, they are treated here as a distinct race. that stood out from other halfings due to their height and what some described as an [[elf|elven]]-like appearance.
-
-==Description==
-The builds of tallfellows was rather rare among halfling races, as well as other lightfoots. They had light bones, slimmer bodies, as well as fairer complexions and hair. They also typically were taller, growing to heights of {{SI|4|ft}}. Their feet were covered in sparse, fine hairs.
-
-Some described the appearance of tallfellows as being very [[elven]]-like, with some sages having speculated that they had traces of elven ancestry. In addition, tallfellows were more perceptive than other lightfoots, in a similar manner to elves, though less athletic. They also had shorter lifespans, averaging 180 years.
-
-Tallfellows tended to wear their hair long, sometimes with small, brightly colored caps They developed several vibrant shades of green through the use of unique [[dye]]s.
-
-==Combat==
-The tactics and weaponry of tallfellows were largely similar to those of other lightfoots. However, they were also known to fight with [[spear]]s, and small [[lance]]s. With these weapons they favored taking porcupine-like formations.
-
-Tallfellows also tended to take up the life of a [[fighter]], [[rogue]], They often served in armies as light lancers or horseback archers,
-
-==Society==
-Much like their kin, tallfellows tended to be entertainers (musicians) or craftsmen, engaging in jobs such as carving and pipesmithing. But they were particularly renowned for being skilled carpenters. Other tallfellows were known to work as [[cheese]]-makers, dairy farmers, hunters, loggers, scouts, shepherds, and stablemen. They tended to be better skilled at farming than [[stout halfling]]s.
-===Diet===
-Much like other halflings, tallfellows were an omnivorous people. They loved [[bread]]s, fruits, vegetables, and the occasional [[pheasant]]. often gathering berries, nuts, roots, and wild grain more deftly than other races.
-===Lairs===
-Tallfellows typically lived above-ground in spacious, wooden houses with many windows.{{Cite dragon/59/The halfling point of view|50-51}} Like many halflings, they tended to keep their windows open in order to allow for fresh air. Tallfellow homes were often constructed in such a way to take advantage of areas where gentle breezes were common. They also typically had cellars for storage that they would relax in during hot summer days.
-===Homelands===
-Tallfellows commonly inhabited temperate forests or hills. On [[Toril]] they were known to be found in Calimshan, [[Cormanthor]], [[High Forest]], [[Silverymoon]], [[Waterdeep]], and a fertile stretch of land in southern [[Damara]] known as the [[Halfling Downs]].
-
-===Languages===
-In addition to knowing [[Common]] and the [[Halfling language]], it was very common for tallfellows to know [[Elvish]]. Many tallfellows also knew how to speak the languages of [[fey]] and fey-related creatures, including [[brownie]]s, [[pixie]]s, [[satyr]]s, [[sprite]]s, [[centaur]]s, and [[dryad]]s.
-===Religions===
-Tallfellows typically worshiped the [[Halfling pantheon|halfling deities]] [[Arvoreen]], Others were known to sometimes pay homage to individual [[deities]] of the [[Seldarine]] pantheon, such as those who lived in or near elven woods &mdash; they paid homage to [[Rillifane Rallathil]].
-===Relationships===
-Tallfellows particularly had very friendly relationships with [[elves]] on Oerth and elsewhere, Some tallfellows could even be found living in elven communities, or in villages close to them that engaged in active trade, On the few occasions that tallfellows met [[kender]], they adopted them as honorary cousins of halflings.
-
-==History==
-In the {{YearlinkName|1371}}, sages studying the halfling diaspora in [[Calimshan]] speculated that tallfellows had traces of elven ancestry. In evidence of their theory, they cited old elven records from [[Wealdath|Wealdath.]] These told of runaway halfling slaves from the [[Calim Empire]] who took refuge in the [[Darthiir Wood]] and merged with the elven communities there-in for several generations before eventually leaving to found their own.
-
+Tallfellows were a subtype of lightfoot halflings native to both Toril and the planet of Oerth,In early Dungeons & Dragons settings the tallfellows were just one of the three standard subraces of halfling and thus were mentioned in Forgotten Realms sources on rare occasions. The Players Handbook of 5 edition retconned them as being the Greyhawk settings equivalent to the lightfoot. However, because they were considered distinct from hairfeet (the precursor to lightfoots) for the first three editions, they are treated here as a distinct race. that stood out from other halfings due to their height and what some described as an elven-like appearance.
+The builds of tallfellows was rather rare among halfling races, as well as other lightfoots. They had light bones, slimmer bodies, as well as fairer complexions and hair. They also typically were taller, growing to heights of . Their feet were covered in sparse, fine hairs.
+Some described the appearance of tallfellows as being very elven-like, with some sages having speculated that they had traces of elven ancestry. In addition, tallfellows were more perceptive than other lightfoots, in a similar manner to elves, though less athletic. They also had shorter lifespans, averaging 180 years.
+Tallfellows tended to wear their hair long, sometimes with small, brightly colored caps They developed several vibrant shades of green through the use of unique dyes.
+The tactics and weaponry of tallfellows were largely similar to those of other lightfoots. However, they were also known to fight with spears, and small lances. With these weapons they favored taking porcupine-like formations.
+Tallfellows also tended to take up the life of a fighter, rogue, They often served in armies as light lancers or horseback archers,
+Much like their kin, tallfellows tended to be entertainers (musicians) or craftsmen, engaging in jobs such as carving and pipesmithing. But they were particularly renowned for being skilled carpenters. Other tallfellows were known to work as cheese-makers, dairy farmers, hunters, loggers, scouts, shepherds, and stablemen. They tended to be better skilled at farming than stout halflings.
+Much like other halflings, tallfellows were an omnivorous people. They loved breads, fruits, vegetables, and the occasional pheasant. often gathering berries, nuts, roots, and wild grain more deftly than other races.
+Tallfellows typically lived above-ground in spacious, wooden houses with many windows. Like many halflings, they tended to keep their windows open in order to allow for fresh air. Tallfellow homes were often constructed in such a way to take advantage of areas where gentle breezes were common. They also typically had cellars for storage that they would relax in during hot summer days.
+Tallfellows commonly inhabited temperate forests or hills. On Toril they were known to be found in Calimshan, Cormanthor, High Forest, Silverymoon, Waterdeep, and a fertile stretch of land in southern Damara known as the Halfling Downs.
+In addition to knowing Common and the Halfling language, it was very common for tallfellows to know Elvish. Many tallfellows also knew how to speak the languages of fey and fey-related creatures, including brownies, pixies, satyrs, sprites, centaurs, and dryads.
+Tallfellows typically worshiped the halfling deities Arvoreen, Others were known to sometimes pay homage to individual deities of the Seldarine pantheon, such as those who lived in or near elven woods &mdash they paid homage to Rillifane Rallathil.
+Tallfellows particularly had very friendly relationships with elves on Oerth and elsewhere, Some tallfellows could even be found living in elven communities, or in villages close to them that engaged in active trade, On the few occasions that tallfellows met kender, they adopted them as honorary cousins of halflings.
+In the , sages studying the halfling diaspora in Calimshan speculated that tallfellows had traces of elven ancestry. In evidence of their theory, they cited old elven records from Wealdath. These told of runaway halfling slaves from the Calim Empire who took refuge in the Darthiir Wood and merged with the elven communities there-in for several generations before eventually leaving to found their own.
 By 1371 DR, tallfellows made up 15% of the overall halfling population on Toril.
-

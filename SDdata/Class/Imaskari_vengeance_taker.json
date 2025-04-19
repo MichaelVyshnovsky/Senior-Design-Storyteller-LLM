@@ -1,23 +1,9 @@
 {
-    "template_data": {
-        "image": "Imaskari vengeance taker.jpg",
-        "caption": "",
-        "name": "Imaskari Vengeance Taker",
-        "region": "The [[Underdark]]",
-        "alignment": "{{Alignment grid"
-    },
     "document_data": {
-        "image": "Imaskari vengeance taker.jpg",
-        "caption": "",
-        "name": "Imaskari Vengeance Taker",
-        "region": "The [[Underdark]]",
-        "alignment": "{{Alignment grid|on|off|ff|on|off|off|on|off|off}}",
-        "used-by": "[[Deep Imaskari]]",
+        "used-by": "Deep Imaskari",
         "levels": "",
         "source": "",
         "classname": "Imaskari vengeance takers",
-        "mainbody": "An '''Imaskari vengeance taker''' was a special type of [[deep Imaskari]], a race of humans that lived in the [[Underdark]].",
-        "Description": "Devoted to law, justice, and revenge, the vengeance takers used a combination of techniques involving [[magic]] and investigative skills to track down targets. Few beings were as cold and emotionless as these men and women, all of whom were able to challenge [[assassin]]s in terms of downright deadliness and mercilessness.\n\nThis secret society was officially called the Lodge of the Retributive Masters, though very, very few know of its existence. It used contacts that breached many races and many outlooks in order to keep eyes and ears available for its vengeance takers. These contacts were considered under the Lodge's protection, meaning that any attacks against these contacts, regardless of their own alignment, would send the Lodge into a cold rage of vengeance.",
-        "Abilities": "Imaskari vengeance takers could observe their targets and understand how their thoughts worked. They had an easier time manipulating and controlling the reactions of their target. They were also able to cast [[scrying]] [[spell]]s, and look upon a target from a long distance away. No target was able to flee Imaskari vengeance takers without very drastic measures, due to their skill at magical investigation.\n\nThese lawful devotees were able to discover weak holes in their targets' defenses. They were able to execute brutal stealth attacks after finding a weak spot, which sometimes killed opponents instantly."
+        "mainbody": "An Imaskari vengeance taker was a special type of deep Imaskari, a race of humans that lived in the Underdark.\nDevoted to law, justice, and revenge, the vengeance takers used a combination of techniques involving magic and investigative skills to track down targets. Few beings were as cold and emotionless as these men and women, all of whom were able to challenge assassins in terms of downright deadliness and mercilessness.\nThis secret society was officially called the Lodge of the Retributive Masters, though very, very few know of its existence. It used contacts that breached many races and many outlooks in order to keep eyes and ears available for its vengeance takers. These contacts were considered under the Lodges protection, meaning that any attacks against these contacts, regardless of their own alignment, would send the Lodge into a cold rage of vengeance.\nImaskari vengeance takers could observe their targets and understand how their thoughts worked. They had an easier time manipulating and controlling the reactions of their target. They were also able to cast scrying spells, and look upon a target from a long distance away. No target was able to flee Imaskari vengeance takers without very drastic measures, due to their skill at magical investigation.\nThese lawful devotees were able to discover weak holes in their targets defenses. They were able to execute brutal stealth attacks after finding a weak spot, which sometimes killed opponents instantly."
     }
 }

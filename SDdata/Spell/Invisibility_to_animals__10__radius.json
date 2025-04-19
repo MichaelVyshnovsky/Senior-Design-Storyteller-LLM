@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "20|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Invisibility to Animals, 10' radius",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Animal sphere|Animal]]",
-        "level2e": "{{spell table|edition=2e|[[Druid]]|3}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -37,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Invisibility to animals, 10' radius''''' was a very rare [[spell]] used by [[druid]]s.",
-        "Effects": "When cast, this spell caused all creatures within a {{SI|20|ft|long=yes}} sphere to become completely invisible to animals, including giant animals. The invisible creatures were capable of walking past animals undetected, even able to pass through an animal. If one of the invisible creatures initiates an attack, the spell was broken for them only. The spell had no effect on animals with any magical abilities.",
-        "Components": "In addition to a [[somatic]] component, this spell required a [[material component]], holly."
+        "mainbody": "Invisibility to animals, 10 radius was a very rare spell used by druids.\nWhen cast, this spell caused all creatures within a  sphere to become completely invisible to animals, including giant animals. The invisible creatures were capable of walking past animals undetected, even able to pass through an animal. If one of the invisible creatures initiates an attack, the spell was broken for them only. The spell had no effect on animals with any magical abilities.\nIn addition to a somatic component, this spell required a material component, holly."
     }
 }

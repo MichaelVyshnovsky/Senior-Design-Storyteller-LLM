@@ -1,24 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Goad of Misfortune",
-        "deity": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]]",
-        "spheres2e": "[[Combat sphere|Combat]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|6}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -26,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Goad of misfortune''''' was an [[evocation]] [[spell]] that created a metal bullhook in the hands of the caster.",
-        "Effects": "When this spell was cast, it created a 4-foot-long (1.2 meters), non-bladed [[elephant]] goad. When wielded as a weapon by the casting [[cleric]], the goad was particularly damaging when used to deliberately attack items. Additionally, it allowed the wielder to ''[[dimension door]]'' when they struck a person or creature, up to three times in rapid succession.\n\nThere was another version of the spell that created a ''goad of misfortune'' that remained suspended in midair. This ''goad'' struck any person or creature that wandered nearby, without the added ''dimension door'' or item-destroying properties.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component]]s, this spell required an [[iron]] bar that was consumed during casting.",
-        "History": "The specifications of this spell were found in the [[Beshaba]]n [[relic]], ''[[the Black Book]]''."
+        "mainbody": "Goad of misfortune was an evocation spell that created a metal bullhook in the hands of the caster.\nWhen this spell was cast, it created a 4-foot-long (1.2 meters), non-bladed elephant goad. When wielded as a weapon by the casting cleric, the goad was particularly damaging when used to deliberately attack items. Additionally, it allowed the wielder to dimension door when they struck a person or creature, up to three times in rapid succession.\nThere was another version of the spell that created a goad of misfortune that remained suspended in midair. This goad struck any person or creature that wandered nearby, without the added dimension door or item-destroying properties.\nIn addition to verbal and somatic components, this spell required an iron bar that was consumed during casting.\nThe specifications of this spell were found in the Beshaban relic, the Black Book."
     }
 }

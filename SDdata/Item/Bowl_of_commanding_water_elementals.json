@@ -1,31 +1,5 @@
 {
-    "template_data": {
-        "1|ft|long": "yes",
-        "0.5|ft|long": "yes",
-        "3|gallon|long": "yes",
-        "3|lb|long": "yes"
-    },
     "document_data": {
-        "image": "Bowl of commanding water elementals 5e.png",
-        "caption": "",
-        "name": "''Bowl of Commanding Water Elementals''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Wondrous item",
-        "location": "",
-        "value1e": "25,000 [[gp]]",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "25,000 [[gp]]",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "Strong [[conjuration]]",
-        "casterlevel3e": "13",
-        "itemlevel3e": "",
-        "value3e": "100,000 [[gp]]",
-        "weight3e": "{{SI|3|lb}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -36,11 +10,8 @@
         "school5e": "",
         "level5e": "",
         "value5e": "",
-        "weight5e": "{{SI|3|lb}}",
+        "weight5e": "",
         "refs5e": "",
-        "mainbody": "A '''''bowl of commanding water elementals''''' was a [[magic]]al bowl that could summon a [[water elemental]].",
-        "Description": "A ''bowl'' was typically {{SI|1|ft|long=yes}} in diameter, {{SI|0.5|ft|long=yes}} deep, and capable of holding {{SI|3|gallon|long=yes}} of liquid. It generally weighed around {{SI|3|lb|long=yes}}, and was usually crafted from semi-precious stones such as [[lapis lazuli]], [[malachite]], [[jade]], [[azurite]], [[peridot]], or [[turquoise]].\n\nIf viewed through a ''[[detect magic]]'' spell, a ''bowl of commanding water elementals'' gave off a strong [[conjuration]] aura.\n\nSome ''bowls of commanding water elementals'' were inscribed with prayers to [[Istishia]].",
-        "Powers": "When filled with water, the ''bowl'' could be activated with a command word to summon a water elemental, identical in function to the ''[[conjure elemental]]'' [[spell]]. This ability could only be used once per day.\n\nIf salt water were used to fill the ''bowl'', the resulting water elemental was larger.",
-        "Notable Owners": "* The [[Flaming Fist]] kept a a ''bowl of commanding water elementals'' in the storerooms of [[Fort Beluarian]], their stronghold in [[Chult]].\n* A ''bowl of commanding water elementals'' could be found in an underground ruin in the [[High Forest]].\n* [[Ahri Golemkin|Ahri \"Golemkin\"]], a [[gnome|gnomish]] tinker in [[Samarach]], had a ''bowl of commanding water elementals'' for sale."
+        "mainbody": "A bowl of commanding water elementals was a magical bowl that could summon a water elemental.\nA bowl was typically  in diameter,  deep, and capable of holding  of liquid. It generally weighed around , and was usually crafted from semi-precious stones such as lapis lazuli, malachite, jade, azurite, peridot, or turquoise.\nIf viewed through a detect magic spell, a bowl of commanding water elementals gave off a strong conjuration aura.\nSome bowls of commanding water elementals were inscribed with prayers to Istishia.\nWhen filled with water, the bowl could be activated with a command word to summon a water elemental, identical in function to the conjure elemental spell. This ability could only be used once per day.\nIf salt water were used to fill the bowl, the resulting water elemental was larger.\n* The Flaming Fist kept a a bowl of commanding water elementals in the storerooms of Fort Beluarian, their stronghold in Chult.\n* A bowl of commanding water elementals could be found in an underground ruin in the High Forest.\n* Ahri \"Golemkin\", a gnomish tinker in Samarach, had a bowl of commanding water elementals for sale."
     }
 }

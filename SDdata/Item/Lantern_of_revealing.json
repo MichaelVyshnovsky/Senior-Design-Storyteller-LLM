@@ -1,35 +1,8 @@
 {
-    "template_data": {
-        "0.5|lb|k|long": "yes",
-        "2|lb|k|long": "yes",
-        "25'|'\"|long": "yes",
-        "30'|'\"|long": "yes",
-        "30'|'\"|long_1": "yes",
-        "5'|'\"|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Lantern of Revealing''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Wondrous item",
-        "creator": "",
-        "location": "[[Gillian's Hill]], [[Delimbiyr Vale]]<br/>[[Cimbar]], [[Chessenta]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "''[[Evocation]]''",
-        "casterlevel3e": "5{{th}}",
         "itemlevel3e": "",
-        "value3e": "30,000 [[gp]]",
-        "weight3e": "{{SI|0.5|lb|k|long=yes}} - {{SI|2|lb|k|long=yes}}",
+        "value3e": "30,000 gp",
+        "weight3e": "-",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -46,10 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Lanterns of revealing''''' were [[enchanted]] [[hooded lantern]]s that allowed the user to ''[[Dispel magic|dispel]]'' ''[[invisibility]]''.",
-        "Description": "''Lanterns of revealing'' were regular hooded lanterns in appearance.",
-        "Powers": "With a spoken command word, these lanterns were lit with magics that ''[[Invisibility purge|purged invisibility]]'' off of all things and creatures that were illuminated. ''Lanterns of revealing'' required [[oil]] to burn and could sustain its flames up to six hours fro one pint of it. These lanterns illuminated {{SI|25'|'\"|long=yes}} - {{SI|30'|'\"|long=yes}} radius and created dim light for {{SI|30'|'\"|long=yes}} more. With lowered lantern hood, its light only reached {{SI|5'|'\"|long=yes}}.",
-        "Creation": "''Lanterns of revealing'' could be created by experienced wondrous item crafters and the use of ''invisibility purge'' spell.",
-        "Notable Owners": "*[[Torleth Mindulspeer]]: the antique and curio dealer from [[Gillian's Hill]] kept one of the ''lanterns of revealing'', along with a ''[[necklace of fireballs]]'', and the original [[Greatshout as a Young Man]], in his trapped vault under [[Torleth's Treasures]] ''circa'' [[1372 DR]].\n*[[Tchazzar]]: the Chosen of [[Tiamat]] had a ''lantern of revealing'' in his horde along with many more precious and rare magical items ''circa'' [[1374 DR]]."
+        "mainbody": "Lanterns of revealing were enchanted hooded lanterns that allowed the user to dispel invisibility.\nLanterns of revealing were regular hooded lanterns in appearance.\nWith a spoken command word, these lanterns were lit with magics that purged invisibility off of all things and creatures that were illuminated. Lanterns of revealing required oil to burn and could sustain its flames up to six hours fro one pint of it. These lanterns illuminated  -  radius and created dim light for  more. With lowered lantern hood, its light only reached .\nLanterns of revealing could be created by experienced wondrous item crafters and the use of invisibility purge spell.\n*Torleth Mindulspeer the antique and curio dealer from Gillians Hill kept one of the lanterns of revealing, along with a necklace of fireballs, and the original Greatshout as a Young Man, in his trapped vault under Torleths Treasures circa 1372 DR.\n*Tchazzar the Chosen of Tiamat had a lantern of revealing in his horde along with many more precious and rare magical items circa 1374 DR."
     }
 }

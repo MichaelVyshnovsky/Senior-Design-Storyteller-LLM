@@ -1,24 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Wand of trap detection.png",
-        "caption": "",
-        "name": "''Wand of Trap Detection''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Wand]]",
-        "creator": "",
-        "location": "[[Kuldahar Pass]], [[Icewind Dale]]<br/>[[Myth Drannor]], [[Cormanthor]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "{{SI|1|lb|k|long=yes}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -41,9 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Wands of trap detection''''' were magic [[wand]]s that could aid individuals lacking skills of a [[rogue]].",
-        "Description": "''Wands of trap detection'' were usually slender and ebon in appearance.",
-        "Powers": "Once activated, a ''wand of trap detection'' allowed the user to see all [[trap]]s within the caster's eyesight. Each wand could be used only once a day.",
-        "History": "The most famous ''wand of trap detection'' once belonged to a [[half-elven]] [[wizard]]-[[rogue]] [[Illep the Watchful]] from [[Myth Drannor]]. He used the wand in his numerous burglaries to see snares and deadly springblades. Illep's illicit career was cut short by an unruly warrior [[Brammel]] who was offended by the half-elf's dandified appearance. In ensued tavern brawl, Illep died of an [[axe]] wound. Brammel was arrested, and the foppish thieve's belongings, with the ''wand of trap detection'', were sent to his relatives in [[Myth Drannor]]. Bandits attacked the caravan that was transporting Illep's belongings, and the ''wand'' became lost to history.\n\nThe ''wand'' resurfaced again in [[1281 DR]], just outside [[Kuldahar]] in [[Icewind Dale]], at a ruined mill in the [[Kuldahar Pass]], ransacked by marauding [[goblin]]s."
+        "mainbody": "Wands of trap detection were magic wands that could aid individuals lacking skills of a rogue.\nWands of trap detection were usually slender and ebon in appearance.\nOnce activated, a wand of trap detection allowed the user to see all traps within the casters eyesight. Each wand could be used only once a day.\nThe most famous wand of trap detection once belonged to a half-elven wizard-rogue Illep the Watchful from Myth Drannor. He used the wand in his numerous burglaries to see snares and deadly springblades. Illeps illicit career was cut short by an unruly warrior Brammel who was offended by the half-elfs dandified appearance. In ensued tavern brawl, Illep died of an axe wound. Brammel was arrested, and the foppish thieves belongings, with the wand of trap detection, were sent to his relatives in Myth Drannor. Bandits attacked the caravan that was transporting Illeps belongings, and the wand became lost to history.\nThe wand resurfaced again in 1281 DR, just outside Kuldahar in Icewind Dale, at a ruined mill in the Kuldahar Pass, ransacked by marauding goblins."
     }
 }

@@ -1,29 +1,10 @@
 {
-    "template_data": {
-        "image": "[[Image:Archivist.jpg",
-        "caption": "A human archivist",
-        "name": "Archivist",
-        "region": "",
-        "alignment": "{{Alignment grid"
-    },
     "document_data": {
-        "image": "[[Image:Archivist.jpg|250px|Anslemo Durod, Archivist]]",
-        "caption": "A human archivist",
-        "name": "Archivist",
-        "region": "",
-        "alignment": "{{Alignment grid|on|on|on|on|on|on|on|on|on}}",
         "used-by": "",
         "levels": "",
-        "source": "''[[Heroes of Horror]]''",
+        "source": "Heroes of Horror",
         "page": "82",
         "rules": "3.5",
-        "mainbody": "'''Archivists''' were powerful [[divine]] spellcasters. However, their method of spellcasting was more akin to that of [[wizard]]s than [[cleric]]s. These skilled casters were professional at collecting and archiving divine lore.{{Cite web/Class Chronicles: Archivists and Dread Necromancers}}",
-        "Abilities": "Archivists could cast [[spell]]s from [[prayerbook]]s. These spells could come from any source of divine lore, such as holy tablets, ancient steles, [[magic]]al scriptures, divine [[scroll]]s, or another archivist's prayer book.\n\nBy drawing on their great knowledge of monsters, archivists could strengthen their allies and weaken particular types of monsters that they faced. Such knowledge became greater as the archivist became more experienced. Due to their great mental discipline, archivists became resistant to [[enchantment]] spells.",
-        "Alignment": "Archivists were not tied to any specific alignment in the same way that clerics were. In general, they followed whatever morals they chose, but most were of similar alignment to their patron deity. Because of their scholarly approach, they tended to favor lawful alignments.",
-        "Orders of Archivists in Faerûn": {
-            "Benign Order of the Third Eye": "This secretive order dedicated to [[Savras]] was founded during the Feast of the Moon in [[1371 DR]], after a vision was sent by Savras himself. He spoke of accumulating knowledge and magic for an upcoming battle with [[Cyric]]. The order attempted to accumulate knowledge from all sources, and (though they were not supposed to) some overstepped the boundaries of sacred places in their attempts to do so.",
-            "The Brotherhood of the Secret Quill": "These were record keepers of [[Oghma]]n temples. They made extra copies of texts to keep in the [[Vault of the Bound]], a large extradimensional library with restricted entry.",
-            "Order of Ibis": "Servants of the deity [[Thoth]], this order was founded during an excavation by clerics and wizards. A vision appeared, telling them to keep the Mulhorandi interests first. They became archivists, and attempted to control trade and knowledge throughout the region. They were based at the [[Arcanum of Magic|university]] of [[Gheldaneth]] in [[Mulhorand]].\n\nThere were also significant numbers of archivists in the churches of [[Mystra]] and [[Azuth]]."
-        }
+        "mainbody": "Archivists were powerful divine spellcasters. However, their method of spellcasting was more akin to that of wizards than clerics. These skilled casters were professional at collecting and archiving divine lore.\nArchivists could cast spells from prayerbooks. These spells could come from any source of divine lore, such as holy tablets, ancient steles, magical scriptures, divine scrolls, or another archivists prayer book.\nBy drawing on their great knowledge of monsters, archivists could strengthen their allies and weaken particular types of monsters that they faced. Such knowledge became greater as the archivist became more experienced. Due to their great mental discipline, archivists became resistant to enchantment spells.\nArchivists were not tied to any specific alignment in the same way that clerics were. In general, they followed whatever morals they chose, but most were of similar alignment to their patron deity. Because of their scholarly approach, they tended to favor lawful alignments.\nBenign Order of the Third Eye This secretive order dedicated to Savras was founded during the Feast of the Moon in 1371 DR, after a vision was sent by Savras himself. He spoke of accumulating knowledge and magic for an upcoming battle with Cyric. The order attempted to accumulate knowledge from all sources, and (though they were not supposed to) some overstepped the boundaries of sacred places in their attempts to do so.\nThe Brotherhood of the Secret Quill These were record keepers of Oghman temples. They made extra copies of texts to keep in the Vault of the Bound, a large extradimensional library with restricted entry.\nOrder of Ibis Servants of the deity Thoth, this order was founded during an excavation by clerics and wizards. A vision appeared, telling them to keep the Mulhorandi interests first. They became archivists, and attempted to control trade and knowledge throughout the region. They were based at the university of Gheldaneth in Mulhorand.\nThere were also significant numbers of archivists in the churches of Mystra and Azuth."
     }
 }

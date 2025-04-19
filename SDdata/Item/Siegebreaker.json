@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "9|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Siegebreaker.png",
-        "caption": "",
-        "name": "''Siegebreaker''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Heavy crossbow]]",
-        "location": "[[Hillsfar]], [[Moonsea]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+4",
-        "value3e": "",
-        "weight3e": "{{SI|9|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Siegebreakers''''' were powerful [[enchanted]] [[heavy crossbow]]s from [[Hillsfar]] in the [[Moonsea]] region.",
-        "Powers": "''Siegebreakers'' were not just more powerful than regular crossbows, they were also truly massive in size. These weapons generated enough damage to break through a brick wall and pulverize flesh and bone. ''Siegebreakers'' were empowered with ''4'' enchantments and dealt additional bludgeoning damage to their targets as well as dealing even more devastating damage with a lucky well-aimed shot.",
-        "History": "''Siegebreakers'' weapons were available in the city of Hillsfar in the late 14{{th}} century [[DR]]."
+        "mainbody": "Siegebreakers were powerful enchanted heavy crossbows from Hillsfar in the Moonsea region.\nSiegebreakers were not just more powerful than regular crossbows, they were also truly massive in size. These weapons generated enough damage to break through a brick wall and pulverize flesh and bone. Siegebreakers were empowered with 4 enchantments and dealt additional bludgeoning damage to their targets as well as dealing even more devastating damage with a lucky well-aimed shot.\nSiegebreakers weapons were available in the city of Hillsfar in the late 14 century DR."
     }
 }

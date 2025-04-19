@@ -1,45 +1,5 @@
 {
-    "template_data": {
-        "title": "Characters",
-        "index": "{{P",
-        "title_1": "Creatures",
-        "index_1": "{{P",
-        "title_2": "Locations",
-        "index_2": "{{P",
-        "title_3": "Spells",
-        "index_3": "{{P",
-        "title_4": "Magic Items",
-        "index_4": "{{P",
-        "title_5": "Weapons",
-        "index_5": "{{P",
-        "title_6": "Armor",
-        "index_6": "{{P",
-        "title_7": "Materials",
-        "index_7": "{{P"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "title": "Under Mount Dread",
-        "author": "[[Richard Baker]]<br />[[David Cook]]<br />[[Kevin Melka]]<br />[[Bruce Nesmith]]",
-        "inter_artist": "",
-        "cartography": "",
-        "included_in": "[[Introduction to Advanced Dungeons & Dragons]]",
-        "publisher": "[[TSR]]",
-        "released": "1995",
-        "type": "Adventure",
-        "languages": "English",
-        "pages": "52-62",
-        "reprinted": "",
-        "realm year": "",
-        "setting": "",
-        "game_edition": "2",
-        "series": "",
-        "preceded_by": "",
-        "followed_by": "",
-        "index": "{{P|''[[ioun stone]]''|56}};{{P|''[[sword of wounding|long sword of wounding]]''|62}};{{P|''[[portable hole]]''|62}};{{P|''[[potion of flying]]''|62}};{{P|''[[potion of speed]]''|62}};{{P|''[[ring of invisibility]]''|50}};{{P|''[[spell scroll]]''|61}}",
-        "mainbody": "{{Index|title=Weapons|index={{P|[[arrow]]|56,61}};{{P|[[battle axe]]|54,56,61}};{{P|[[dagger]]|56}};{{P|[[dart]]|62}};{{P|[[hand axe]]|61}};{{P|[[long sword]]|58}};{{P|[[short bow]]|56,61}};{{P|[[short sword]]|58,62}}}}\n{{Index|title=Armor|index={{P|[[chain mail]]|61-62}};{{P|[[leather armor]]|54,56,58}};{{P|[[shield]]|61}}}}\n{{Index|title=Materials|index={{P|[[paper]]|61}}}}",
-        "Synopsis": "The players must attack or drive off the monsters at a dungeon once held by the evil mage [[Azazabus]].",
-        "Index": "{{IndexLink|Click here for page index}}\n{{Index|title=Characters|index={{P|[[Axerock]]|61-62}};{{P|[[Kordak]]|56}};{{P|[[Tinker]]|54}}|ref={{P|[[Azazabus]]|53}}}}\n{{Index|title=Creatures|index={{P|[[black bear]]|57}};{{P|[[bugbear]]|54}};{{P|[[carrion crawler]]|55}};{{P|[[red dragon]]|62}};{{P|[[drow]]|62}};{{P|[[duergar]]|61}};{{P|[[ghoul]]|62}};{{P|[[gnoll]]|60-61}};{{P|[[gnome]]|54,58}};{{P|[[gray ooze]]|58}};{{P|[[lammasu]]|61}};{{P|[[orc]]|56}};{{P|[[piercer]]|58}};{{P|[[skeleton]]|55}};{{P|[[snake]]|57}};{{P|[[giant snake]]|58}};{{P|[[giant spider|giant trap door spider]]|56}};{{P|[[giant wasp]]|61}};{{P|[[worg]]|61}};{{P|[[zombie]]|56}};{{P|[[Juju zombie|zombie (ju-ju)]]|55}}}}\n{{Index|title=Locations|index={{P|[[Mount Dread]]|53-62}}}}\n{{Index|title=Spells|index={{P|''[[charm person]]''|56}};{{P|''[[detect invisibility]]''|61}};{{P|''[[hold person]]''|61}};{{P|''[[invisibility]]''|56}};{{P|''[[magic missile]]''|56}};{{P|''[[shield]]''|56}};{{P|''[[stinking cloud]]''|56}}}}\n{{Index|title=Magic Items\n|index={{P|''[[ioun stone]]''|56}};{{P|''[[sword of wounding|long sword of wounding]]''|62}};{{P|''[[portable hole]]''|62}};{{P|''[[potion of flying]]''|62}};{{P|''[[potion of speed]]''|62}};{{P|''[[ring of invisibility]]''|50}};{{P|''[[spell scroll]]''|61}}\n}}\n{{Index|title=Weapons|index={{P|[[arrow]]|56,61}};{{P|[[battle axe]]|54,56,61}};{{P|[[dagger]]|56}};{{P|[[dart]]|62}};{{P|[[hand axe]]|61}};{{P|[[long sword]]|58}};{{P|[[short bow]]|56,61}};{{P|[[short sword]]|58,62}}}}\n{{Index|title=Armor|index={{P|[[chain mail]]|61-62}};{{P|[[leather armor]]|54,56,58}};{{P|[[shield]]|61}}}}\n{{Index|title=Materials|index={{P|[[paper]]|61}}}}"
+        "mainbody": "Under Mount Dread\" is an adventure module for beginner players set in the Dalelands, where they must slay monsters.\nThe players must attack or drive off the monsters at a dungeon once held by the evil mage Azazabus.\n|ref="
     }
 }

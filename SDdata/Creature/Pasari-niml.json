@@ -1,32 +1,6 @@
 {
-    "template_data": {
-        "6|8|inches|long": "yes",
-        "4|6|inches|long": "yes"
-    },
     "document_data": {
-        "image": "PasariNiml.PNG",
-        "caption": "",
-        "name": "Pasari-niml",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "",
-        "type3e": "",
-        "subtype3e": "",
-        "alignment3e": "",
-        "challenge3e": "",
-        "refs3e": "",
-        "size2e": "{{Size table|Calipha|Tiny to Small|Noble|Tiny|Warrior|Tiny}}",
-        "alignment2e": "[[Lawful evil]]",
+        "alignment2e": "Lawful evil",
         "refs2e": "",
         "size1e": "",
         "alignment1e": "",
@@ -36,14 +10,14 @@
         "activecycle": "",
         "diet": "Carnivore",
         "lifespan": "",
-        "location": "[[Zakhara]]",
+        "location": "Zakhara",
         "language": "",
         "subraces": "",
         "climate": "Any",
         "terrain": "Any",
         "genrefs": "",
         "height": "",
-        "length": "{{SIrange|4|6|in}}",
+        "length": "",
         "wingspan": "",
         "weight": "",
         "skincolor": "",
@@ -56,15 +30,6 @@
         "appearrefs": "",
         "based": "",
         "first": "",
-        "mainbody": "'''Pasari-niml''',<ref group=\"note\">The alternate spelling \"Pasari-nimal\" was also used on the Monstrous Compendium page. or '''mants''', were vicious insect-like creatures found in [[Zakhara]], the Land of Fate.",
-        "Description": "[[File:Pasari-niml (colored).png|thumb|273px|''A colorized rear-view of a pasari-niml.'']]\nThese creatures appeared to be large ants with faces that were roughly [[demihuman]] in appearance, yet with twisted features exemplifying their malevolence. The facial skin was usually wrinkled and brown. They were capable of using tools with their front legs.\n\nOn average nobles measured {{SIrange|6|8|inches|long=yes}} in length, while warriors measured {{SIrange|4|6|inches|long=yes}} in length.",
-        "Abilities": "These creatures were immune to all [[spell]]s from the ''[[charm]]'' and ''[[enchantment]]'' [[school of magic|schools of magic]].",
-        "Combat": "The sight of a pack of pasari-niml was enough to shock many creatures into immobility or flight. Pasari-niml attempted to swarm opponents or burrow beneath them to create a pitfall. Their strong teeth were even able to work holes into armor and expose the soft flesh beneath. Noble pasari-niml communicated well with their warriors during attacks to create a coordinated effort.\n\nWarriors typically carried [[dart]]s and [[knives]] to use against opponents.",
-        "Society": {
-            "Diet": "Owing to the need to feed their calipha, these creatures preyed upon anything they could catch. The calipha consumed some of the food herself, but regurgitated the rest to feed her workers and nobles. If the calipha died, the remaining pasari-niml perished within days.",
-            "Languages": "Pasari-niml communicated through [[telepathy]] if they were within a mile of their calipha. This telepathy was generated and received by their antennae.",
-            "Religion": "The calipha was actively worshiped by the members of her colony. The pasari-niml honored her by carving her face wherever they were able.",
-            "Caliphas": "Caliphas were the rulers of pasari-niml colonies. They were worshiped by the members of their colony. Their sole purpose was to eat and reproduce. A calipha's face and head was that of a beautiful woman with feathery antennae. Sadly, this glimpse of beauty was marred by their bulbous worm-like body. Caliphas were mostly immobile and could not use tools. They were much larger than regular mants, growing roughly one foot per year."
-        }
+        "mainbody": "Pasari-niml,The alternate spelling \"Pasari-nimal\" was also used on the Monstrous Compendium page. or mants, were vicious insect-like creatures found in Zakhara, the Land of Fate.\nthumb|273px|A colorized rear-view of a pasari-niml.\nThese creatures appeared to be large ants with faces that were roughly demihuman in appearance, yet with twisted features exemplifying their malevolence. The facial skin was usually wrinkled and brown. They were capable of using tools with their front legs.\nOn average nobles measured  in length, while warriors measured  in length.\nThese creatures were immune to all spells from the charm and enchantment schools of magic.\nThe sight of a pack of pasari-niml was enough to shock many creatures into immobility or flight. Pasari-niml attempted to swarm opponents or burrow beneath them to create a pitfall. Their strong teeth were even able to work holes into armor and expose the soft flesh beneath. Noble pasari-niml communicated well with their warriors during attacks to create a coordinated effort.\nWarriors typically carried darts and knives to use against opponents.\nPasari-niml lived in large colonies containing warriors, nobles, and a single calipha. Colonies were made underground or within the walls of buildings. They preferred to hunt at night. The colony grew as the calipha laid eggs, which took three weeks to hatch. If a new calipha hatched, she would be carried to a new location miles away to begin a separate colony.\nPasari-niml often carried around awls and pry bars.\nOwing to the need to feed their calipha, these creatures preyed upon anything they could catch. The calipha consumed some of the food herself, but regurgitated the rest to feed her workers and nobles. If the calipha died, the remaining pasari-niml perished within days.\nPasari-niml communicated through telepathy if they were within a mile of their calipha. This telepathy was generated and received by their antennae.\nThe calipha was actively worshiped by the members of her colony. The pasari-niml honored her by carving her face wherever they were able.\nCaliphas were the rulers of pasari-niml colonies. They were worshiped by the members of their colony. Their sole purpose was to eat and reproduce. A caliphas face and head was that of a beautiful woman with feathery antennae. Sadly, this glimpse of beauty was marred by their bulbous worm-like body. Caliphas were mostly immobile and could not use tools. They were much larger than regular mants, growing roughly one foot per year."
     }
 }

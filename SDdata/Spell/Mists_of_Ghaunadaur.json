@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Mists of Ghaunadaur",
-        "deity": "[[Ghaunadaur]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Conjuration/Summoning]]",
-        "spheres2e": "[[Elemental air sphere|Elemental Air]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|3|}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -37,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Mists of Ghaunadaur''''' was a spell used by [[cleric]]s of [[Ghaunadaur]].",
-        "Effects": "When cast, the caster was cloaked in a flowing violet mist. The mist effectively rendered the caster invisible. The mist protected the caster from attacks that required sight, and made them invisible to not only natural vision but also [[infravision]] and any abilities that detected heat. The ''[[true seeing]]'' spell was capable of penetrating the mist.",
-        "Components": "This spell required [[Verbal component|verbal]] and [[somatic component|somatic]] components."
+        "mainbody": "Mists of Ghaunadaur was a spell used by clerics of Ghaunadaur.\nWhen cast, the caster was cloaked in a flowing violet mist. The mist effectively rendered the caster invisible. The mist protected the caster from attacks that required sight, and made them invisible to not only natural vision but also infravision and any abilities that detected heat. The true seeing spell was capable of penetrating the mist.\nThis spell required verbal and somatic components."
     }
 }

@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Hornung's Random Dispatcher",
-        "deity": "",
-        "inventor": "[[Hornung]]",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Wild magic]]<br />[[Abjuration]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|8}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Hornung's random dispatcher''''' was a [[wild magic]] [[abjuration]] [[spell]] used by [[wild mage]]s. This spell was developed by [[Hornung]], a mage originally from [[Toril]].{{Cite card/AD&D Trading Cards/1993 rare set|22|[[Hornung|Hornung the Anarch]]}}",
-        "Effects": "When the caster uttered a few words this spell would instantly hurl a target creature to a random plane of existence and leave them there. If the current plane that the target was on was the random plane selected then the target would be teleported far away from the caster but remain on the plane. The caster did not have any control on the plane selected for the target.",
-        "Components": "This spell required only [[Verbal component|verbal]] components to cast."
+        "mainbody": "Hornungs random dispatcher was a wild magic abjuration spell used by wild mages. This spell was developed by Hornung, a mage originally from Toril.\nWhen the caster uttered a few words this spell would instantly hurl a target creature to a random plane of existence and leave them there. If the current plane that the target was on was the random plane selected then the target would be teleported far away from the caster but remain on the plane. The caster did not have any control on the plane selected for the target.\nThis spell required only verbal components to cast."
     }
 }

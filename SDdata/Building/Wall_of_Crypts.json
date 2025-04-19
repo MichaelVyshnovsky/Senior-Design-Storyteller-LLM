@@ -1,45 +1,5 @@
 {
-    "template_data": {
-        "30|feet|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Wall of Crypts",
-        "aliases": "",
-        "type": "Fortified wall",
-        "architecture": "",
-        "floors": "",
-        "location": "[[Surcross]], [[Thay]]",
-        "built": "",
-        "destroyed": "",
-        "owner": "",
-        "staff": "",
-        "occupants": "",
-        "services": "",
-        "worship": "",
-        "basicrefs": "",
-        "ownertable": "",
-        "stafftable": "",
-        "histrefs": "",
-        "pipes": "",
-        "tankards": "",
-        "coins": "",
-        "daggers": "",
-        "stars": "",
-        "coinstacks": "",
-        "skulls": "",
-        "quality": "",
-        "price": "",
-        "volorefs": "",
-        "usethe": "yes",
-        "useon": "",
-        "inhabitants": "",
-        "locations": "",
-        "organizations": "",
-        "mainbody": "The '''Wall of Crypts''' was the defensive wall of [[Surcross]] in [[Thay]] as of the late 15{{th}} century [[DR]].",
-        "Structure": "The wall was {{SI|30|feet|long=yes}} thick, at least twice as tall, and surrounded the city. It was made of heavy stone and appeared solid from the outside.",
-        "Interior": "The wall contained hundreds of crypts located behind [[bronze]] doors bolted to the stone. Within these crypts were corpses that served as an emergency reserve force of [[zombie]]s to be deployed if the wall was ever breached. Any Thayan officer could speak the [[command word]] and cause the corpses to rise and immediately begin marching towards the greatest concentration of enemy forces.",
-        "History": "As of [[1479 DR]], only a relatively small proportion of the Thayan [[undead]] forces in Surcross were housed within the Wall of Crypts, even as the city came under siege by the [[Netherese enclave]] [[Kolthunral]]. The remainder served as soldiers and laborers."
+        "mainbody": "he Wall of Crypts was the defensive wall of Surcross in Thay as of the late 15 century DR.\nThe wall was  thick, at least twice as tall, and surrounded the city. It was made of heavy stone and appeared solid from the outside.\nThe wall contained hundreds of crypts located behind bronze doors bolted to the stone. Within these crypts were corpses that served as an emergency reserve force of zombies to be deployed if the wall was ever breached. Any Thayan officer could speak the command word and cause the corpses to rise and immediately begin marching towards the greatest concentration of enemy forces.\nAs of 1479 DR, only a relatively small proportion of the Thayan undead forces in Surcross were housed within the Wall of Crypts, even as the city came under siege by the Netherese enclave Kolthunral. The remainder served as soldiers and laborers."
     }
 }

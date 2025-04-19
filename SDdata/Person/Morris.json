@@ -1,29 +1,8 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "5'11|'\"|long": "yes",
-        "adj": "tall",
-        "160|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Milissa and Morris swimming lessons.png",
-        "caption": "Milissa and Morris teaching their humanoid students.",
-        "name": "Morris",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Ravens Bluff]], [[the Vast]]",
-        "formerhomes": "[[Procampur]]",
-        "sex": "Male",
-        "gender": "",
-        "race": "[[Human]]",
-        "ethnicity": "",
-        "occupation": "Swimming instructor, [[ranger]]<br/>{{Former}} [[adventurer]]",
         "age": "",
         "patron deity": "",
-        "languages": "[[Common]], [[Elvish]], [[Gnomish]], [[Dwarvish]]",
+        "languages": "Common, Elvish, Gnomish, Dwarvish",
         "basicrefs": "",
         "reckoning": "",
         "dob": "",
@@ -49,9 +28,9 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Neutral good]]",
-        "class2e": "{{class table|edition=2e|[[Ranger]]|3}}",
-        "refs2e": "{{Cite polyhedron/72/The Living City: Swimming Lessons|6-7}}",
+        "alignment2e": "Neutral good",
+        "class2e": "",
+        "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
         "class3e": "",
@@ -67,10 +46,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Morris''' was a [[ranger]] who worked as a swimming instructor in the city of [[Ravens Bluff]] in [[the Vast]] in the late 14{{th}} century [[DR]].",
-        "Description": "In the late 14{{th}} century DR, Morris was in his early twenties. Morris was a handsome {{SIAdj|5'11|'\"|long=yes|adj=tall}} man who weighed {{SI|160|lb|k|long=yes}}. He had green eyes, brown hair, and tan skin.",
-        "Personality": "Morris was an expressive man with almost theatrical expressions. He was brave and appreciated the scars he'd gained during his adventuring days as they were great conversation pieces and attracted the ladies. Despite adventuring, Morris was a peace-loving man at heart.",
-        "Abilities": "Morris spoke [[Common]], [[Elvish]], [[Gnomish]], and [[Dwarvish]] languages. He was trained in wielding [[stiletto]]s, [[sabre]]s, [[bolas]], [[net]]s, and [[lasso]]s. As a ranger, he was a competent tracker and swimmer. Morris also was knowledgeable in the fields of etiquette and ancient history.\n\nWhen he was in battle, Morris wielded weapons in both hands and wore a set of [[chain armor]].",
-        "History": "Morris hailed from a rich family who lived in [[Procampur]]. He chose an adventuring life early on to satisfy his craving for excitement. As an [[adventurer]], he embarked on several oceanic voyages. But, eventually, Morris grew disillusioned with the profession and all the bloodshed that came with the territory. One day, Morris's ship docked in Ravens Bluff, and that was where he met [[Milissa]] of [[Eldath]]. The two quickly found common ground and a sense of kinship, bonding over the young priestess's philosophy of peace. He decided to stay in the City of Ravens and joined Milissa as a teacher in her swimming school. Together they hosted swimming courses part-time at Ravens Bluff's docks, hoping to save enough coin to build a Temple to Eldath, not far from the harbors.\n\nUnder Milissa's influence, Morris adapted a defensive fighting style that fit his peaceful demeanor."
+        "mainbody": "Morris was a ranger who worked as a swimming instructor in the city of Ravens Bluff in the Vast in the late 14 century DR.\nIn the late 14 century DR, Morris was in his early twenties. Morris was a handsome  man who weighed . He had green eyes, brown hair, and tan skin.\nMorris was an expressive man with almost theatrical expressions. He was brave and appreciated the scars hed gained during his adventuring days as they were great conversation pieces and attracted the ladies. Despite adventuring, Morris was a peace-loving man at heart.\nMorris spoke Common, Elvish, Gnomish, and Dwarvish languages. He was trained in wielding stilettos, sabres, bolas, nets, and lassos. As a ranger, he was a competent tracker and swimmer. Morris also was knowledgeable in the fields of etiquette and ancient history.\nWhen he was in battle, Morris wielded weapons in both hands and wore a set of chain armor.\nMorris hailed from a rich family who lived in Procampur. He chose an adventuring life early on to satisfy his craving for excitement. As an adventurer, he embarked on several oceanic voyages. But, eventually, Morris grew disillusioned with the profession and all the bloodshed that came with the territory. One day, Morriss ship docked in Ravens Bluff, and that was where he met Milissa of Eldath. The two quickly found common ground and a sense of kinship, bonding over the young priestesss philosophy of peace. He decided to stay in the City of Ravens and joined Milissa as a teacher in her swimming school. Together they hosted swimming courses part-time at Ravens Bluffs docks, hoping to save enough coin to build a Temple to Eldath, not far from the harbors.\nUnder Milissas influence, Morris adapted a defensive fighting style that fit his peaceful demeanor."
     }
 }

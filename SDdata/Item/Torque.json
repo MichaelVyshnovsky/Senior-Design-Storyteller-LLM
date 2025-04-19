@@ -1,26 +1,5 @@
 {
     "document_data": {
-        "image": "Torc.png",
-        "caption": "A [[ram]]'s-headed torque sold by [[Aurora's Emporium]].",
-        "name": "Torque",
-        "othernames": "Torc",
-        "nicknames": "",
-        "type": "Jewelry",
-        "creator": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "50 [[gp]]",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "{{Numeric table|[[Copper]]|5 [[sp]] or more|[[Silver]]|5 gp or more|[[Gold]]|50 gp or more|[[Platinum]]|500 gp or more|}}",
         "weight3e": "",
         "refs3e": "",
         "level4e": "",
@@ -38,16 +17,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "A '''torque''' ({{Variant|torc}}) was a style of jewelry worn about the neck.",
-        "Description": "Unlike a [[necklace]], a torque was crafted as a single piece, which was attached around the wearer's neck by bending the metal.\n\nTorques could be made from a variety of materials. A simple [[copper]] torque might sell for 5 [[silver piece]]s, but the addition of [[gemstone]]s or extra details in the design would raise the price higher. The base prices for [[silver]], [[gold]], or [[platinum]] torques in most economies were 5, 50, and 500 [[gold piece]]s, respectively. [[Aurora's Emporium]] sold silver torques in style of the [[Moonshae Isles]] for 50 gold pieces. These were crafted with two [[ram]]'s heads, each with [[emerald]] eyes.",
-        "Notable Torques": {
-            "[[Cerunnos|''Cerunnos' Torc'']]": "This torque was believed to give the wearer dominion over mundane beasts. It had meaning to [[Cerunnos]], symbolizing his former place among the [[fey]] nobility.{{Cite dragon/428/Court of Stars: The Wild Hunt|15}}",
-            "''[[Torque of faith]]''": "These torques were sacred to [[Tymora]] and were crafted from gold coins.{{Cite dungeon/75/Into the Nest of Vipers|66}}",
-            "''[[Torque of the Goddess]]''": "These torques were from the [[Moonshae Isles]] and were sacred to [[Chauntea]]. They protected wearers from [[lycanthrope]]s.",
-            "''[[Torque of the titans]]''": "These thick, golden torques granted exceptional strength to the wearer.",
-            "''[[Wizard's Torc]]''": "A unique torque that acted as a [[key (item)|key]], opening a passage between the [[Circle of Ualair]] in the [[Speculum Grounds]] to the Elven Catacombs under [[Castle Cormanthor]]."
-        },
-        "History": "In [[Zazesspur]] during the [[Tethyrian Interregnum|Interregnum]], members of the cult of the [[All Friends]], who worshiped [[Ao|Ao the Universal]], wore simple torques of [[gold]].",
-        "Rumors & Legends": "In the late 14{{th}} century [[DR]], the temple of [[Lathander]] in [[Daggerdale]] was burned by the [[Zhentarim]], and a magic torque that glowed and dispelled [[Darkness|magical darkness]] went missing. [[Divination]] [[spell]]s revealed that the torque had somehow found itself in [[Eagle's Eyrie]], in a place holy to [[Clan Brightblade]]."
+        "mainbody": "A torque () was a style of jewelry worn about the neck.\nUnlike a necklace, a torque was crafted as a single piece, which was attached around the wearers neck by bending the metal.\nTorques could be made from a variety of materials. A simple copper torque might sell for 5 silver pieces, but the addition of gemstones or extra details in the design would raise the price higher. The base prices for silver, gold, or platinum torques in most economies were 5, 50, and 500 gold pieces, respectively. Auroras Emporium sold silver torques in style of the Moonshae Isles for 50 gold pieces. These were crafted with two rams heads, each with emerald eyes.\nthumb|right|200px|A torque of the Goddess from the Moonshae Isles.\nA few magical torques were known to have existed in the Realms\n Cerunnos Torc This torque was believed to give the wearer dominion over mundane beasts. It had meaning to Cerunnos, symbolizing his former place among the fey nobility.\n Torque of faith These torques were sacred to Tymora and were crafted from gold coins.\n Torque of the Goddess  These torques were from the Moonshae Isles and were sacred to Chauntea. They protected wearers from lycanthropes.\n Torque of the titans  These thick, golden torques granted exceptional strength to the wearer.\n Wizards Torc  A unique torque that acted as a key, opening a passage between the Circle of Ualair in the Speculum Grounds to the Elven Catacombs under Castle Cormanthor.\nIn Zazesspur during the Interregnum, members of the cult of the All Friends, who worshiped Ao the Universal, wore simple torques of gold.\nIn the late 14 century DR, the temple of Lathander in Daggerdale was burned by the Zhentarim, and a magic torque that glowed and dispelled magical darkness went missing. Divination spells revealed that the torque had somehow found itself in Eagles Eyrie, in a place holy to Clan Brightblade."
     }
 }

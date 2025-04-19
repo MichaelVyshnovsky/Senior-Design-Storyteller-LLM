@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Death smoke",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]], [[Wind (school)|Wind]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|5}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Death smoke''''' was a [[spell]] used by wizards in [[Anauroch]] and [[Zakhara]], the Land of Fate.",
-        "Effects": "This spell created a cloud of dark noxious gas that could not be blown or burned away. Creatures that needed to breathe suffered physical damage while they remained within the cloud. ''Death smoke'' was heavier than air so flowed down stairs and crevasses with ease.",
-        "Components": "This spell required a crushed insect or arachnid and a pinch of [[sand]] to cast."
+        "mainbody": "Death smoke was a spell used by wizards in Anauroch and Zakhara, the Land of Fate.\nThis spell created a cloud of dark noxious gas that could not be blown or burned away. Creatures that needed to breathe suffered physical damage while they remained within the cloud. Death smoke was heavier than air so flowed down stairs and crevasses with ease.\nThis spell required a crushed insect or arachnid and a pinch of sand to cast."
     }
 }

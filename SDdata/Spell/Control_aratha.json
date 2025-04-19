@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Control Aratha",
-        "deity": "[[Lathander]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Enchantment/Charm]]",
-        "spheres2e": "[[Animal sphere|Animal]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|4|[[Animal sphere|Animal]]|4}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Control aratha''''' was a [[spell]] that was uniquely used by [[cleric]]s of the [[Dawnspire]], a temple of [[Lathander]] in [[Myth Drannor]].",
-        "Effects": "This spell allowed the caster to control an [[aratha]], a species of giant beetle found in Myth Drannor. The beetles were used as guardians for the temple. The beetle's movements were also controlled if needed. These movements were limited by the beetle's natural abilities. The caster had to remain within {{SI|100|yd}} of the beetle while the spell was in effect. This distance grew as the caster increased their skill level. The caster was unable to use the beetle as a means of transportation.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, the spell required a [[material component]]: a piece of an aratha, such as chitin. The material component was consumed during casting."
+        "mainbody": "Control aratha was a spell that was uniquely used by clerics of the Dawnspire, a temple of Lathander in Myth Drannor.\nThis spell allowed the caster to control an aratha, a species of giant beetle found in Myth Drannor. The beetles were used as guardians for the temple. The beetles movements were also controlled if needed. These movements were limited by the beetles natural abilities. The caster had to remain within  of the beetle while the spell was in effect. This distance grew as the caster increased their skill level. The caster was unable to use the beetle as a means of transportation.\nIn addition to verbal and somatic components, the spell required a material component a piece of an aratha, such as chitin. The material component was consumed during casting."
     }
 }

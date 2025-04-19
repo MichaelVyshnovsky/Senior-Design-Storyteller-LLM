@@ -1,27 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Meredin Sandyfoot.jpg",
-        "caption": "",
-        "name": "Meredin Sandyfoot",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Bral]], [[Rock of Bral]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "gender": "",
-        "race": "[[Halfling]]",
-        "ethnicity": "",
-        "occupation": "Fence",
-        "age": "",
-        "patron deity": "",
-        "languages": "",
-        "basicrefs": "{{Cite card/AD&D Trading Cards/1993|37|Basa Lianin}}",
         "reckoning": "",
         "dob": "",
         "dobnotes": "",
@@ -46,8 +24,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Neutral good]]",
-        "class2e": "{{class table|edition=2e|[[Rogue]]|15}}",
+        "alignment2e": "Neutral good",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
@@ -64,9 +42,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Meredin Sandyfoot''' was the master of the thieves' guild in [[Bral]] in the mid–14{{th}} century [[DR]].",
-        "Description": "Bt the time he headed the guild, Meredin Sandyfoot was fifty winters old who had a cheerful positive personality.",
-        "Possessions": "Meredin wore a set of [[enchanted]] ''+3'' [[leather armor|leathers]], a ''[[cloak of displacement]]'', and a ''[[ring of invisibility]]''. He was armed with a magic ''+1 [[luck blade]]''.",
-        "History": "As the leader of Bral's thieves' guild, Meredin controlled fences and smuggling in the Middle City, never resorting to bloodshed and always resolving conflicts via rewards and bribery."
+        "mainbody": "Meredin Sandyfoot was the master of the thieves guild in Bral in the mid–14 century DR.\nBt the time he headed the guild, Meredin Sandyfoot was fifty winters old who had a cheerful positive personality.\nMeredin wore a set of enchanted +3 leathers, a cloak of displacement, and a ring of invisibility. He was armed with a magic +1 luck blade.\nAs the leader of Brals thieves guild, Meredin controlled fences and smuggling in the Middle City, never resorting to bloodshed and always resolving conflicts via rewards and bribery."
     }
 }

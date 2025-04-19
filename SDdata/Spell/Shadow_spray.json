@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Shadow Spray",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Illusion]] ([[Illusion#Subschools|Shadow]])",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Sorcerer]]|2|[[Wizard]]|2|}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,9 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Shadow spray''''' was a [[spell]] used by [[sorcerer]]s and [[wizard]]s.",
-        "Effects": "When cast, this spell created a directed explosion of a large number of shadow ribbons. The burst radius was {{SI|5|ft}}. Any creature with the blast radius suffered damage. They were also dazed and became more vulnerable to fear-based spells.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, the spell required a [[material component]], a small amount of black ribbons.",
-        "History": "This spell was included in the ''[[Rudiments of the Shadow Weave]]'', a controversial book about [[Shar]]ran doctrine and the [[Shadow Weave]], written by the [[wizard]] [[Vontallion Rose]]."
+        "mainbody": "Shadow spray was a spell used by sorcerers and wizards.\nWhen cast, this spell created a directed explosion of a large number of shadow ribbons. The burst radius was . Any creature with the blast radius suffered damage. They were also dazed and became more vulnerable to fear-based spells.\nIn addition to verbal and somatic components, the spell required a material component, a small amount of black ribbons.\nThis spell was included in the Rudiments of the Shadow Weave, a controversial book about Sharran doctrine and the Shadow Weave, written by the wizard Vontallion Rose."
     }
 }

@@ -1,21 +1,11 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "edition_1": "1e"
-    },
     "document_data": {
-        "name": "Combine",
-        "school2e": "[[Evocation]]",
-        "spheres2e": "[[All sphere|All]]",
-        "level2e": "{{spell table|edition=2e|[[All sphere|All]]|1|[[Cleric]]|1|[[Crusader]]|1|[[Druid]]|1|[[Monk]]|1|[[Mystic]]|1|[[Shaman]]|1}}",
         "type2e": "",
         "refs2e": "",
-        "school1e": "[[Evocation]]",
-        "level1e": "{{spell table|edition=1e|[[Cleric]]|1|[[Paladin]]|1}}",
+        "school1e": "Evocation",
+        "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Combine''''' was an [[evocation]] spell that allowed the caster to temporarily increase his or her effective power with respect to turning [[undead]] and casting spells. This required the help of two to four additional priests.",
-        "Effects": "The caster of this spell was usually the most experienced priest, who stood in the center as the assisting priests joined hands to form a ring around the caster. Upon casting the ''combine'' spell, his or her effective power was raised for each assisting priest. This allowed the caster to turn more powerful undead and cast spells with more range, duration, area of effect, or whatever parameters were related to the caster's experience. The spells that could be enhanced this way were limited to the spells currently memorized by the caster of ''combine''.\n\nThe assisting priests had to concentrate on maintaining the ''combine'' effect while holding hands in a circle. Therefore they could not dodge attacks easily nor use weapons or shields. If any of the assisting priests lost concentration, the ''combine'' spell was canceled. However, any spells successfully cast while ''combine'' was in effect maintained their enhanced status even if ''combine'' was interrupted before the duration of the enhanced spells had expired.",
-        "Components": "Only [[verbal]] and [[somatic]] components were required to cast this spell."
+        "mainbody": "Combine was an evocation spell that allowed the caster to temporarily increase his or her effective power with respect to turning undead and casting spells. This required the help of two to four additional priests.\nThe caster of this spell was usually the most experienced priest, who stood in the center as the assisting priests joined hands to form a ring around the caster. Upon casting the combine spell, his or her effective power was raised for each assisting priest. This allowed the caster to turn more powerful undead and cast spells with more range, duration, area of effect, or whatever parameters were related to the casters experience. The spells that could be enhanced this way were limited to the spells currently memorized by the caster of combine.\nThe assisting priests had to concentrate on maintaining the combine effect while holding hands in a circle. Therefore they could not dodge attacks easily nor use weapons or shields. If any of the assisting priests lost concentration, the combine spell was canceled. However, any spells successfully cast while combine was in effect maintained their enhanced status even if combine was interrupted before the duration of the enhanced spells had expired.\nOnly verbal and somatic components were required to cast this spell."
     }
 }

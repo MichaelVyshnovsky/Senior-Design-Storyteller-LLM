@@ -1,34 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Holy vesting.png",
-        "caption": "",
-        "name": "Holy Vesting",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]<br>[[Evocation]]",
-        "spheres2e": "[[All sphere|All]]<br>[[Creation sphere|Creation]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|6}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -36,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Holy vesting''''' was a very rare [[spell]] used by [[cleric]]s. It's use was recorded by [[Volothamp Geddarm]].",
-        "Effects": "When cast, this spell transferred magical abilities of a magical item into another item. Items that could be drained included potions, spell scrolls, magical weapons, paper or [[parchment]] with command words and [[focal stone]]s. The targeted item was destroyed.\n\nThe imbued item was surrounded by a disturbance in the air while the spell was in effect. This shimmering began during casting, as the caster touched the destination item and then the targeted item. The spell did not protect the caster from any potential traps or explosive effects that were sometimes released when a magical item was destroyed.\n\nThe caster could end the spell during transfer however, any effect in the process of transferring was lost. The spell was vulnerable to ''[[dispel magic]]''. The caster could defend against ''dispel magic'' if they cast the spell on an alter that was dedicated to the caster's [[deity]].",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required several [[material component]]s. It required a  drop of [[holy water]] for each effect to be transferred, and a burning stick or chunk of [[incense]]."
+        "mainbody": "Holy vesting was a very rare spell used by clerics. Its use was recorded by Volothamp Geddarm.\nWhen cast, this spell transferred magical abilities of a magical item into another item. Items that could be drained included potions, spell scrolls, magical weapons, paper or parchment with command words and focal stones. The targeted item was destroyed.\nThe imbued item was surrounded by a disturbance in the air while the spell was in effect. This shimmering began during casting, as the caster touched the destination item and then the targeted item. The spell did not protect the caster from any potential traps or explosive effects that were sometimes released when a magical item was destroyed.\nThe caster could end the spell during transfer however, any effect in the process of transferring was lost. The spell was vulnerable to dispel magic. The caster could defend against dispel magic if they cast the spell on an alter that was dedicated to the casters deity.\nIn addition to verbal and somatic components, this spell required several material components. It required a  drop of holy water for each effect to be transferred, and a burning stick or chunk of incense."
     }
 }

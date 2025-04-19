@@ -1,29 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Diminish Breath Weapon",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Bard]]|4|[[Sorcerer]]|4|[[Wizard]]|4|}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -37,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Diminish breath weapon''''' was a spell that was used against [[dragon]]s.",
-        "Effects": "This spell targeted the [[dragon breath|breath weapon]] of the targeted dragon. The spell significantly reduced the damage normally inflicted by said breath weapon.",
-        "Components": "This spell only required a [[verbal component]]. The spell's strength could be increased if, during casting, the ashes of a valuable object were sprinkled by the caster. The object had to have been either damaged or destroyed by the breath weapon of the targeted dragon and had to have a value of over 100 [[gp]]."
+        "mainbody": "Diminish breath weapon was a spell that was used against dragons. \nThis spell targeted the breath weapon of the targeted dragon. The spell significantly reduced the damage normally inflicted by said breath weapon.\nThis spell only required a verbal component. The spells strength could be increased if, during casting, the ashes of a valuable object were sprinkled by the caster. The object had to have been either damaged or destroyed by the breath weapon of the targeted dragon and had to have a value of over 100 gp."
     }
 }

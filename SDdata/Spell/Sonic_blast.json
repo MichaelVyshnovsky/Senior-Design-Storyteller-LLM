@@ -1,15 +1,7 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "name": "Sonic Blast",
-        "school3e": "[[Evocation]]",
-        "descriptors3e": "{{desc/sonic}}",
-        "level3e": "{{spell table|edition=3e|[[Sorcerer]]|1|[[Wizard]]|1|}}",
+        "level3e": "",
         "refs3e": "",
-        "mainbody": "reversible2e  =\n| school2e      =\n| spheres2e     =\n| level2e       =\n| type2e        =\n| refs2e        =\n| reversible1e  =\n| school1e      =\n| level1e       =\n| type1e        =\n| refs1e        =\n}}\n\n'''''Sonic blast''''' was a simple spell used by [[sorcerer]]s and [[wizard]]s.",
-        "Effects": "When cast, the spell blasted a target with deafening, high-pitched noise. If a targeted individual lacked defenses against the spell, they risked temporary deafness. The spell was useless if cast in the area of effect of a ''[[silence]]'' spell.",
-        "Components": "This spell only required [[Verbal component|verbal]] and [[somatic component|somatic]] components."
+        "mainbody": "| reversible2e  =\n| school2e      =\n| spheres2e     =\n| level2e       =\n| type2e        =\n| refs2e        =\n| reversible1e  =\n| school1e      =\n| level1e       =\n| type1e        =\n| refs1e        =\nSonic blast was a simple spell used by sorcerers and wizards.\nWhen cast, the spell blasted a target with deafening, high-pitched noise. If a targeted individual lacked defenses against the spell, they risked temporary deafness. The spell was useless if cast in the area of effect of a silence spell.\nThis spell only required verbal and somatic components."
     }
 }

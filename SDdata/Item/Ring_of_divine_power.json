@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "0.1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Ring of Divine Power.png",
-        "caption": "",
-        "name": "''Ring of Divine Power''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Ring]]",
-        "creator": "",
-        "location": "[[Sword Coast North]], [[Northwest Faerûn]]<br/>[[Westgate]], [[Dragon Coast]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "993 [[gp]] - 4,747 [[gp]]",
-        "weight3e": "{{SI|0.1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Rings of divine power''''' were [[enchanted]] [[ring]]s that allowed [[divine]] spellcasters to boost thane magics through a connection to the ''[[weave]]''.",
-        "Powers": "These rings harnessed the power of the ''weave'' and allowed the wearer to draw more divine power from their deity on a daily basis. ''Rings of divine power'' were created in several power levels, allowing the wearers to access divine spells of various levels of mastery and complexity.",
-        "History": "These rings were created by artisan-priests of [[Mystra]] some years before the late 14{{th}} century [[DR]]."
+        "mainbody": "Rings of divine power were enchanted rings that allowed divine spellcasters to boost thane magics through a connection to the weave.\nThese rings harnessed the power of the weave and allowed the wearer to draw more divine power from their deity on a daily basis. Rings of divine power were created in several power levels, allowing the wearers to access divine spells of various levels of mastery and complexity.\nThese rings were created by artisan-priests of Mystra some years before the late 14 century DR."
     }
 }

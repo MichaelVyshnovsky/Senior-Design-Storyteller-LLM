@@ -1,34 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Ruby Axe",
-        "deity": "[[Callarduran Smoothhands]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Combat sphere|Combat]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|3}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -36,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Ruby axe''''' was a [[spell]] used by [[cleric]]s of [[Callarduran Smoothhands]].",
-        "Effects": "This spell could only be cast if the caster was in possession of an [[axe]]. Once cast, the cutting edge of the axe emitted a dim red light. While the spell was in effect,the axe became a magical weapon and the damage it inflicted increased. If the axe was already a magical weapon, this spell increased the damage cumulatively. The spell only functioned while the axe was wielded by the caster, if handed to another the spell's effects did not function, although the spell did not expire. Once the spell ended, the axe returned to normal.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required a [[material component]], the holy symbol of Callarduran Smoothhands."
+        "mainbody": "Ruby axe was a spell used by clerics of Callarduran Smoothhands.\nThis spell could only be cast if the caster was in possession of an axe. Once cast, the cutting edge of the axe emitted a dim red light. While the spell was in effect,the axe became a magical weapon and the damage it inflicted increased. If the axe was already a magical weapon, this spell increased the damage cumulatively. The spell only functioned while the axe was wielded by the caster, if handed to another the spells effects did not function, although the spell did not expire. Once the spell ended, the axe returned to normal.\nIn addition to verbal and somatic components, this spell required a material component, the holy symbol of Callarduran Smoothhands."
     }
 }

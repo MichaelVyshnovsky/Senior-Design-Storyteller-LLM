@@ -1,44 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Wallid Gumluk",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "Wally",
-        "home": "[[Skullport]], [[Undermountain]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "race": "[[Human]]",
-        "ethnicity": "",
-        "occupation": "Innkeeper",
-        "age": "",
-        "patron deity": "",
-        "languages": "",
-        "reckoning": "DR",
-        "dob": "",
-        "dobnotes": "",
-        "turned": "",
-        "turnednotes": "",
-        "death": "",
-        "deathnotes": "",
-        "destroyed": "",
-        "destroyednotes": "",
-        "parents": "",
-        "spouses": "",
-        "siblings": "",
-        "children": "",
-        "familyrefs": "",
-        "alignment1e": "",
-        "class1e": "",
-        "refs1e": "",
-        "alignment2e": "[[Lawful evil]]",
-        "class2e": "{{class table|edition=2e|[[Fighter]]|0}}",
         "refs2e": "",
         "alignment3e": "",
         "class3e": "",
@@ -52,7 +13,6 @@
         "alignment5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Wallid Gumluk''' was an innkeeper in [[Skullport]].",
-        "Activities": "Wallid managed the [[Drowned Buoy]] inn, a very cheap place in the [[Skullport/Lower Port|Lower Port]] of Skullport. He was believed to collaborate with the slavers of [[Zstulkk Ssarmn]]."
+        "mainbody": "Wallid Gumluk was an innkeeper in Skullport.\nWallid managed the Drowned Buoy inn, a very cheap place in the Lower Port of Skullport. He was believed to collaborate with the slavers of Zstulkk Ssarmn."
     }
 }

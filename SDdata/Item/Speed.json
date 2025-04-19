@@ -1,22 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Speed''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Weapon quality]]",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "[[Transmutation]]",
-        "casterlevel3e": "7{{th}}",
         "itemlevel3e": "",
         "value3e": "+3",
         "weight3e": "",
@@ -35,9 +18,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''''Speed''''' was a [[weapon quality]] that, when applied to a weapon, allowed the user to strike at a heightened pace.",
-        "Description": "The wielder of such a weapon could strike more quickly than usual, and as such, it allowed them the time to cause an additional hit. However, if already under the effect of a [[spell]] that increased the amount of times they could strike, such as ''[[haste]]'', the wielder would not have an additional attack on top of that.",
-        "Creation": "A spellcaster needed the ''haste'' spell to create a weapon with this ability.",
-        "Uses": "Some veteran [[Thayan gladiator]]s had their horns, claws, and other natural weapons enhanced as weapons of ''speed''."
+        "mainbody": "Speed was a weapon quality that, when applied to a weapon, allowed the user to strike at a heightened pace.\nThe wielder of such a weapon could strike more quickly than usual, and as such, it allowed them the time to cause an additional hit. However, if already under the effect of a spell that increased the amount of times they could strike, such as haste, the wielder would not have an additional attack on top of that.\nA spellcaster needed the haste spell to create a weapon with this ability.\nSome veteran Thayan gladiators had their horns, claws, and other natural weapons enhanced as weapons of speed."
     }
 }

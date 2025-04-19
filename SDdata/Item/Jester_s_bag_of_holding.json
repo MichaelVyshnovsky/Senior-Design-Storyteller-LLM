@@ -1,24 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Jester's Bag of Holding.png",
-        "caption": "",
-        "name": "''Jester's Bag of Holding''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Wondrous item",
-        "creator": "",
-        "location": "[[Severed Hand]], [[Spine of the World]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "{{SI|1|lb|k|long=yes}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -41,8 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Jester's bag of holding''''' was an [[enchanted]], but defective, ''[[bag of holding]]'' that produced unexpected results when used.",
-        "Powers": "In appearance, ''jester's bag of holding'' was a simple bag, with its insides enchanted to contain a nondimensional space, making the bag larger on the inside. However, this particular item appeared to be malfunctioning. When an individual attempted to put something into this ''bag of holding'' it did not let anything inside. If flipped over and shaken, ''jester's bag of holding'' excreted a random item from it once per day. Some of the items expelled included [[arrow]]s, [[gem]]s, bottles of ''[[oil of fiery burning]]'', ''[[mummy's tea]]'', ''[[potions of mirrored eyes]]'', murky ''[[potions of healing]]'', [[dagger]]s, an occasional dead [[cat]], and many others.",
-        "History": "''Jester's bag of holding'' could be found in the [[elf|elven]] ruined citadel of the [[Severed Hand]] in the {{YearlinkName|1281}}."
+        "mainbody": "Jesters bag of holding was an enchanted, but defective, bag of holding that produced unexpected results when used.\nIn appearance, jesters bag of holding was a simple bag, with its insides enchanted to contain a nondimensional space, making the bag larger on the inside. However, this particular item appeared to be malfunctioning. When an individual attempted to put something into this bag of holding it did not let anything inside. If flipped over and shaken, jesters bag of holding excreted a random item from it once per day. Some of the items expelled included arrows, gems, bottles of oil of fiery burning, mummys tea, potions of mirrored eyes, murky potions of healing, daggers, an occasional dead cat, and many others.\nJesters bag of holding could be found in the elven ruined citadel of the Severed Hand in the ."
     }
 }

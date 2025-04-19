@@ -1,29 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Fleeting Fortune",
-        "deity": "[[Tymora]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Initiate of Tymora]]|1|}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -37,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Fleeting fortune''''' was a [[spell]] used by [[cleric]]s of [[Tymora]].",
-        "Effects": "When cast, this spell imbued a targeted creature with a small bit of the luck of Tymora.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, this spell required a [[divine focus]]."
+        "mainbody": "Fleeting fortune was a spell used by clerics of Tymora.\nWhen cast, this spell imbued a targeted creature with a small bit of the luck of Tymora.\nIn addition to verbal and somatic components, this spell required a divine focus."
     }
 }

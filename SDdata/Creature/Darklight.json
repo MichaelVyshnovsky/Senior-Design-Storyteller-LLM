@@ -1,32 +1,5 @@
 {
-    "template_data": {
-        "cats": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Darklight",
-        "othernames": "",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "",
-        "type3e": "",
-        "subtype3e": "",
-        "alignment3e": "",
-        "challenge3e": "",
-        "refs3e": "",
-        "size2e": "Medium",
-        "alignment2e": "{{Alignment grid|cats=yes|off|off|off|off|off|off|on|on|on}}",
         "refs2e": "",
         "size1e": "",
         "alignment1e": "",
@@ -37,13 +10,13 @@
         "activecycle": "",
         "diet": "Life energy",
         "lifespan": "",
-        "location": "[[Quasi-Elemental Plane of Radiance]]",
-        "language": "[[Common]]",
+        "location": "Quasi-Elemental Plane of Radiance",
+        "language": "Common",
         "subraces": "",
         "climate": "",
         "terrain": "",
         "genrefs": "",
-        "height": "{{SI|6|ft}}",
+        "height": "",
         "length": "",
         "wingspan": "",
         "weight": "",
@@ -58,6 +31,6 @@
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "A '''darklight''' was an [[undead]] creature of the [[Quasi-Elemental Plane of Radiance]].\n\nMortal [[spirit]]s that departed their bodies at death, but did not become [[petitioner]]s and then became lost on their way to its [[afterlife|final rest]], might arrive at the Plane of Radiance. Here, they were filled with [[radiant energy]] and became free-willed undead beings, called darklights.\n\nThey appeared as humanoid-shaped specters of blackness with bright, shining eyes of ever-changing colors."
+        "mainbody": "A darklight was an undead creature of the Quasi-Elemental Plane of Radiance.\nMortal spirits that departed their bodies at death, but did not become petitioners and then became lost on their way to its final rest, might arrive at the Plane of Radiance. Here, they were filled with radiant energy and became free-willed undead beings, called darklights.\nThey appeared as humanoid-shaped specters of blackness with bright, shining eyes of ever-changing colors."
     }
 }

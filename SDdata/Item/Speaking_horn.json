@@ -1,23 +1,5 @@
 {
-    "template_data": {
-        "100|yd|long": "yes"
-    },
     "document_data": {
-        "image": "SpeakingHorn.png",
-        "caption": "",
-        "name": "Speaking Horn",
-        "othernames": "Speaking tube<ref name=\"WiT-pp92,103>",
-        "nicknames": "",
-        "type": "Tool",
-        "creator": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "{{Numeric table|[[Birch]]wood|3 [[gp]]|[[Leather]]|5 gp}}",
         "weight2e": "",
         "refs2e": "",
         "school3e": "",
@@ -41,8 +23,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "A '''speaking horn''', also called a '''speaking-tube''',",
-        "Description": "A speaking horn could be made of polished wood or [[leather]]. Leather horns were reinforced with [[iron]] hoops and could be disassembled for easier storing. [[Aurora's Emporium]] sold speaking horns of [[birch]]wood for 3 [[gold piece]]s and leather ones for 5.\n\nWhen the average speaker held the horn to their mouth, it could help project the voice so that listeners up to {{SI|100|yd|long=yes}} away could hear. Speakers with greater stamina for speaking could project their voices even farther. The sound could be heard in a 60-degree arc around the front of the speaker.",
-        "Notable Owners": "Earl [[Ravenak]] and [[Tobiworth Hedgeblossom]], two rabble-rousers from [[Zazesspur]], each possessed speaking-tubes, which they used in their speeches.<ref name=\"WiT-pp92,103 />"
+        "mainbody": "A speaking horn, also called a speaking-tube,\nA speaking horn could be made of polished wood or leather. Leather horns were reinforced with iron hoops and could be disassembled for easier storing. Auroras Emporium sold speaking horns of birchwood for 3 gold pieces and leather ones for 5.\nWhen the average speaker held the horn to their mouth, it could help project the voice so that listeners up to  away could hear. Speakers with greater stamina for speaking could project their voices even farther. The sound could be heard in a 60-degree arc around the front of the speaker.\nEarl Ravenak and Tobiworth Hedgeblossom, two rabble-rousers from Zazesspur, each possessed speaking-tubes, which they used in their speeches."
     }
 }

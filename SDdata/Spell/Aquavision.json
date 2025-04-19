@@ -1,42 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "60|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Aquavision",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|2|}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -44,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Aquavision''''' was a common [[spell]] used by [[wizard]]s in [[Serôs]].",
-        "Effects": "A caster used this spell to provide sight in deep water. It was most effective at depths where normal human vision was unable to see without illumination. The spell allowed the caster to see up to a distance of {{SI|60|ft|long=yes}}. The spell did not work very well in the presence of bright light. A caster using this spell was unable to see invisible creatures with this spell.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, the spell required a [[material component]] in the form of an eye from a deep-sea creature. The caster ate the eye during casting."
+        "mainbody": "Aquavision was a common spell used by wizards in Serôs.\nA caster used this spell to provide sight in deep water. It was most effective at depths where normal human vision was unable to see without illumination. The spell allowed the caster to see up to a distance of . The spell did not work very well in the presence of bright light. A caster using this spell was unable to see invisible creatures with this spell.\nIn addition to verbal and somatic components, the spell required a material component in the form of an eye from a deep-sea creature. The caster ate the eye during casting."
     }
 }

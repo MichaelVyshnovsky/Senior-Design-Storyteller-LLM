@@ -1,14 +1,6 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "name": "Arrow Mind",
-        "school3e": "[[Divination]]",
-        "level3e": "{{spell table|edition=3e|[[Ranger]]|1|[[Sorcerer]]|1|[[Wizard]]|1|}}",
         "refs3e": "",
-        "mainbody": "reversible2e  =\n| school2e      =\n| spheres2e     =\n| level2e       =\n| type2e        =\n| refs2e        =\n| reversible1e  =\n| school1e      =\n| level1e       =\n| type1e        =\n| refs1e        =\n}}\n'''''Arrow mind''''' was a simple spell that aided an archer in close combat.",
-        "Effects": "The spell worked in conjunction with a weapon that shot [[arrow]]s, such as a [[bow]]. The spell gave the caster greater focus and coordination with their bow, allowing them to opportunistically shoot targets who had moments of distraction while engaged in melee combat with the bow-user. It also gave the caster the ability to nimbly shoot their bow while engaged in close combat, without themselves provoking a reactive attack from an enemy seeking to take advantage of their normally awkward weapon.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, this spell required a [[material component]], an arrowhead made from [[flint]]."
+        "mainbody": "| reversible2e  =\n| school2e      =\n| spheres2e     =\n| level2e       =\n| type2e        =\n| refs2e        =\n| reversible1e  =\n| school1e      =\n| level1e       =\n| type1e        =\n| refs1e        =\nArrow mind was a simple spell that aided an archer in close combat.\nThe spell worked in conjunction with a weapon that shot arrows, such as a bow. The spell gave the caster greater focus and coordination with their bow, allowing them to opportunistically shoot targets who had moments of distraction while engaged in melee combat with the bow-user. It also gave the caster the ability to nimbly shoot their bow while engaged in close combat, without themselves provoking a reactive attack from an enemy seeking to take advantage of their normally awkward weapon.\nIn addition to verbal and somatic components, this spell required a material component, an arrowhead made from flint."
     }
 }

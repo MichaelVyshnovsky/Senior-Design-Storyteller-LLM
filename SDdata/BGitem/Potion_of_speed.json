@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "0.1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "<gallery>",
-        "caption": "",
-        "name": "''Potion of Speed''",
-        "othernames": "''Oil of Speed''<br/>''Potion of Haste''",
-        "nicknames": "",
-        "type": "[[Potion]], [[oil]]",
-        "location": "",
-        "value1e": "750 [[gp]]",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "[[Alteration]]",
-        "level2e": "",
-        "value2e": "200-450 gp",
-        "weight2e": "",
-        "refs2e": "<ref group=\"note\">The [[Dungeon Master's Guide 2nd edition|''Dungeon Master's Guide]] of 2nd edition and the ''[[Encyclopedia Magica Volume III]]'' list different prices for this item, so both prices are provided together as a range.",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|0.1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -38,9 +15,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "A '''''potion of speed''''', sometimes called a '''''potion of haste''''', was a very rare [[potion]] that put its imbiber under the effect of the ''[[haste]]'' spell.",
-        "Description": "The effect of these potions lasted for a minute each, doubling the imbiber's speed, and raising their durability. Because of that, ''potions of speed'' were commonly used by scouts and heralds",
-        "Creation": "One possible ingredient for creating these potions was sweat from a fast [[horse]].",
-        "Notable Users": "* [[Wessalen Arturia]]\n* [[Feldran Exeltis]], a scion of the [[Exeltis]] noble family in the late 14{{th}} century [[DR]]."
+        "mainbody": "A potion of speed, sometimes called a potion of haste, was a very rare potion that put its imbiber under the effect of the haste spell.\nThe effect of these potions lasted for a minute each, doubling the imbibers speed, and raising their durability. Because of that, potions of speed were commonly used by scouts and heralds\nOne possible ingredient for creating these potions was sweat from a fast horse.\n* Wessalen Arturia\n* Feldran Exeltis, a scion of the Exeltis noble family in the late 14 century DR."
     }
 }

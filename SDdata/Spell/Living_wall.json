@@ -1,35 +1,7 @@
 {
-    "template_data": {
-        "5|yards|long": "yes",
-        "100|yards|long": "yes",
-        "2|ft|c|long": "yes",
-        "100|yards|long_1": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption2": "Various depictions of living walls.",
-        "name": "Living Wall",
-        "othernames": "",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "Medium to Large",
-        "type3e": "[[Construct]], [[Undead]]",
-        "subtype3e": "",
-        "alignment3e": "Any evil",
-        "challenge3e": "'''Standard:''' 8<br />'''Template:''' Same as base creature +1",
-        "refs3e": "{{Cite dragon/343/Creature Collection V|50-51}}",
         "size2e": "Large to Gargantuan",
-        "alignment2e": "[[Chaotic evil]]",
+        "alignment2e": "Chaotic evil",
         "refs2e": "",
         "size1e": "",
         "alignment1e": "",
@@ -58,22 +30,9 @@
         "build": "",
         "distinctions": "",
         "appearrefs": "",
-        "first": "''Book of Crypts'' (1991)",
+        "first": "Book of Crypts (1991)",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Living walls''' were very rare [[undead]] monstrosities created from multiple living creatures.",
-        "Description": "To most creatures, these appeared to be mere ordinary walls of stone or brick. But to creatures who possessed [[truesight]], the ''[[true seeing]]'' [[spell]], a ''[[gem of seeing]]'', or some other form of magic that saw through [[illusion]]s, a living wall was seen to consist of greying and sinewy flesh, with various faces, hands, feet, and broken bones jutting from their surface. Whenever a living wall's flesh was exposed by cutting or blasting through it, a horrifying and nauseating stench was unleashed that could make the living pass out.\n\nAny creature that stood within {{SI|5|yards|long=yes}} of a living wall could hear low moans of horror, pain, and sorrow issuing from it, including voices calling out, \"Help me! Pull me out, free me!\"",
-        "Behavior": "Living walls had varying degrees of intelligence and any creature assimilated into them would take on a [[chaotic evil]] [[alignment]].",
-        "Abilities": {
-            "Assimilation": "Any [[humanoid]] or monster that died fighting a living wall was assimilated into its composition and lost forever, with only a ''[[wish]]'' [[spell]] being capable of removing them. In order to be assimilated a creature needed to be corporeal. The types of creatures that a living wall was capable of assimilating included [[aberration]]s, [[animal]]s, [[dragon]]s, [[fey]], [[giant]]s, [[humanoid]]s, [[magical beast]]s, [[monstrous humanoid]]s, [[outsider]]s, and [[vermin]]s.\n\nThe bodies of assimilated creatures would continue to possess any unique abilities or memorized [[spell]]s that they'd had in life. However, the abilities and spells of [[paladin]]s and [[lawful good]] [[priest]]s would have their nature reversed&mdash;for example, ''[[detect evil]]'' would become ''[[detect good]]'', while the ''laying of hands'' would cause ''[[harm]]'' rather than ''[[heal]]''.\n\nAny [[magical item]]s or [[weapon]]s on a creature's body would also be assimilated into a living wall's mass, concealed until it came time to fight. Magical items would continue to bestow their effect. General loot, non-magical [[armor]], and [[backpack]]s were not assimilated.\n\nWhenever their creator died within {{SI|100|yards|long=yes}} of them, a living wall would assimilate them and release the bodies of every other creature it had ever consumed. It would then revert to a structure of pure stone, forever trapping its creator inside.",
-            "Resistances": "The spell ''[[passwall]]'' could be used to pass through living walls. They were immune to all forms of planar spells or those from the [[time domain]] and [[time sphere]]. Whenever spells like ''[[ESP]]'' or ''[[speak with the dead]]'' were used on a living wall, the caster would hear only a cacophony of tortured minds and screams."
-        },
-        "Combat": "Generally, living walls did not initiate combat with other creatures. However, the arms of assimilated creatures were liable to reach out and tug at those who came within {{SI|2|ft|c|long=yes}} of the wall.\n\nThe bodies of various assimilated creatures that composed a living wall's form would fight to the best of their abilities. For example, the bodies of [[fighter]]s or [[warrior]]s assimilated into its flesh would have their arms jut out through the wall with a weapon in hand, while the body of any assimilated [[wizard]] would be used to fight with spells.",
-        "Ecology": {
-            "Habitats": "Beyond the [[Prime Material plane]], living walls could be found in the Demiplane of Dread.",
-            "Relationships": "Living walls were typically found in the lairs of malevolent creatures, serving as part of a torture chamber or covering the true entrance to a secret passageway. Most cultures and all good-aligned creatures tried to destroy them whenever discovered."
-        },
-        "History": "Following the actions of the [[Shoon Imperium]]'s [[Necromancers' Corp]] in the {{YearlinkName|1235}}, a few living walls were among the many undead that stood within the ruins of [[Mamlukkar]] in [[Tethyr]].\n\n''Circa'' {{Yearlink|1367}}, a living wall existed within the [[Waterdeep/Sewers|sewers beneath Waterdeep]].\n\nA living wall was known to exist in [[Cholandrothipe's Tower]] as of {{Yearlink|1370}}.",
-        "Rumors & Legends": "In the late 14{{th}} century DR, there were rumors in the [[Dalelands]] that part of the [[Wolfwall]] near [[Beacon Tor]] was a living wall. When visiting the region at that time, [[Volothamp Geddarm]] offered people money to investigate this rumor but was turned away.\n\nAlso in the 14{{th}} century DR, living walls were said to likely reside within the [[demilich]] [[Histokle Rireetha]]'s manor in [[Hawkgarth]].{{Cite polyhedron/124/Elminster's Everwinking Eye: The Border Kingdoms: Hawkgarth|6}}"
+        "mainbody": "Living walls were very rare undead monstrosities created from multiple living creatures.\nTo most creatures, these appeared to be mere ordinary walls of stone or brick. But to creatures who possessed truesight, the true seeing spell, a gem of seeing, or some other form of magic that saw through illusions, a living wall was seen to consist of greying and sinewy flesh, with various faces, hands, feet, and broken bones jutting from their surface. Whenever a living walls flesh was exposed by cutting or blasting through it, a horrifying and nauseating stench was unleashed that could make the living pass out.\nAny creature that stood within  of a living wall could hear low moans of horror, pain, and sorrow issuing from it, including voices calling out, \"Help me! Pull me out, free me!\"\nLiving walls had varying degrees of intelligence and any creature assimilated into them would take on a chaotic evil alignment.\nAny humanoid or monster that died fighting a living wall was assimilated into its composition and lost forever, with only a wish spell being capable of removing them. In order to be assimilated a creature needed to be corporeal. The types of creatures that a living wall was capable of assimilating included aberrations, animals, dragons, fey, giants, humanoids, magical beasts, monstrous humanoids, outsiders, and vermins.\nThe bodies of assimilated creatures would continue to possess any unique abilities or memorized spells that theyd had in life. However, the abilities and spells of paladins and lawful good priests would have their nature reversed&mdashfor example, detect evil would become detect good, while the laying of hands would cause harm rather than heal.\nAny magical items or weapons on a creatures body would also be assimilated into a living walls mass, concealed until it came time to fight. Magical items would continue to bestow their effect. General loot, non-magical armor, and backpacks were not assimilated.\nWhenever their creator died within  of them, a living wall would assimilate them and release the bodies of every other creature it had ever consumed. It would then revert to a structure of pure stone, forever trapping its creator inside.\nThe spell passwall could be used to pass through living walls. They were immune to all forms of planar spells or those from the time domain and time sphere. Whenever spells like ESP or speak with the dead were used on a living wall, the caster would hear only a cacophony of tortured minds and screams.\nGenerally, living walls did not initiate combat with other creatures. However, the arms of assimilated creatures were liable to reach out and tug at those who came within  of the wall.\nThe bodies of various assimilated creatures that composed a living walls form would fight to the best of their abilities. For example, the bodies of fighters or warriors assimilated into its flesh would have their arms jut out through the wall with a weapon in hand, while the body of any assimilated wizard would be used to fight with spells.\nthumb|A depiction of a living wall.\nLiving walls were constantly active, never resting. Being constructs, they did not reproduce. The exact method for creating them was unknown, though it required several years of preparation and spellcasting. In addition, at least three corpses were needed.\nIn the Demiplane of Dread, living walls could be created by the Dark Powers of the demiplane in response to despair and dread. This occurred whenever one living and sapient creature willfully entombed another in a wall, while the entombed cursed their killer in a loud enough scream for the land to hear their agony.\nOnce dead, that victims life force became trapped within the wall and within a matter of days it would be corrupted by madness, its alignment shifting to chaotic evil. At that point, any creatures that had died within  of the wall within the last month would arise and dig themselves from their graves, their corpses shambling to the wall and melding with it. Any subsequent deaths within that range would arise and wander to the wall as well.\nBeyond the Prime Material plane, living walls could be found in the Demiplane of Dread.\nLiving walls were typically found in the lairs of malevolent creatures, serving as part of a torture chamber or covering the true entrance to a secret passageway. Most cultures and all good-aligned creatures tried to destroy them whenever discovered.\nFollowing the actions of the Shoon Imperiums Necromancers Corp in the , a few living walls were among the many undead that stood within the ruins of Mamlukkar in Tethyr.\nCirca , a living wall existed within the sewers beneath Waterdeep.\nA living wall was known to exist in Cholandrothipes Tower as of .\nIn the late 14 century DR, there were rumors in the Dalelands that part of the Wolfwall near Beacon Tor was a living wall. When visiting the region at that time, Volothamp Geddarm offered people money to investigate this rumor but was turned away.\nAlso in the 14 century DR, living walls were said to likely reside within the demilich Histokle Rireethas manor in Hawkgarth."
     }
 }

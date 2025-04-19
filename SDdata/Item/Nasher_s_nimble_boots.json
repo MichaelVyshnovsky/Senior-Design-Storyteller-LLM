@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "0.5|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Nasher's Nimble Boots''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Boots]]",
-        "location": "[[Neverwinter]], [[Sword Coast]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|0.5|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Nasher's nimble boots''''' was a pair of [[enchanted]] [[boot]]s that once belonged to Lord [[Nasher Alagondar]] of [[Neverwinter]].",
-        "Powers": "These boots significantly improved the wearer's dexterity through magical enchantments.",
-        "History": "Even though many doubted their authenticity, ''Nasher's nimble boots'' had a capital letter \"N\" carved into the heel. The letter indicated the boots' owner as none other than Lord Nasher. It was believed that Lord Nasher lost this pair at some point before the {{YearlinkName|1372}}, but the story remained unknown to anyone but the ruler's closest friends. Many believed that there existed a total of five items, including these boots, that belonged to Lord Nasher, and if worn together, they could grant great powers to their owner. However, that was never proven to be true.\n\nIn 1372 DR, ''Nasher's nimble boots'' found their way to a ruined [[Highcliff Castle]], which was taken over by the [[King of Shadows]]'s shadowpriests."
+        "mainbody": "Nashers nimble boots was a pair of enchanted boots that once belonged to Lord Nasher Alagondar of Neverwinter.\nThese boots significantly improved the wearers dexterity through magical enchantments.\nEven though many doubted their authenticity, Nashers nimble boots had a capital letter \"N\" carved into the heel. The letter indicated the boots owner as none other than Lord Nasher. It was believed that Lord Nasher lost this pair at some point before the , but the story remained unknown to anyone but the rulers closest friends. Many believed that there existed a total of five items, including these boots, that belonged to Lord Nasher, and if worn together, they could grant great powers to their owner. However, that was never proven to be true.\nIn 1372 DR, Nashers nimble boots found their way to a ruined Highcliff Castle, which was taken over by the King of Shadowss shadowpriests."
     }
 }

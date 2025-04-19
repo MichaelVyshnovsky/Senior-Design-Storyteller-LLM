@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Sacred Link",
-        "othernames": "",
-        "deity": "[[Tempus]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]], [[Evocation]]",
-        "spheres2e": "[[Creation sphere|Creation]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|7}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -45,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Sacred link''''' was a powerful [[Divine magic|divine]] [[alteration]] and [[evocation]] [[spell]] used by priests devoted to [[Tempus]], enabling them to create a magical bond between two objects.",
-        "Effects": "Once the ''sacred link'' was established, what happened to one object would happen to the other regardless of the distance between them. This link would last until either one of the items was destroyed or the magic was successfully ''[[Dispel magic|dispelled]]''.\n\nThe items in question were held in the caster's hands when the spell was cast. The items needed to be made of the same material and be roughly the same size. The items could not be living creatures. This spell was most effective when cast upon identical, or nearly identical, items.",
-        "Components": "In addition to [[verbal]] and [[somatic component]]s, this spell required as [[material component]]s the caster's [[holy symbol]] and strand of hair, fine [[wire]] or [[spider]] web to cast."
+        "mainbody": "Sacred link was a powerful divine alteration and evocation spell used by priests devoted to Tempus, enabling them to create a magical bond between two objects.\nOnce the sacred link was established, what happened to one object would happen to the other regardless of the distance between them. This link would last until either one of the items was destroyed or the magic was successfully dispelled.\nThe items in question were held in the casters hands when the spell was cast. The items needed to be made of the same material and be roughly the same size. The items could not be living creatures. This spell was most effective when cast upon identical, or nearly identical, items.\nIn addition to verbal and somatic components, this spell required as material components the casters holy symbol and strand of hair, fine wire or spider web to cast."
     }
 }

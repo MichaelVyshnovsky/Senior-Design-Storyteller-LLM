@@ -1,29 +1,6 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Holy Fire Shield",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Evocation]]",
-        "domains3e": "",
-        "descriptors3e": "{{desc/cold}}{{desc/fire}}{{desc/good}}",
-        "level3e": "{{spell table|edition=3e|[[Sanctified]]|4|}}",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -37,8 +14,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Holy fire shield''''' was a type of [[sanctified]] [[spell]].",
-        "Effects": "This spell was identical to ''[[fire shield]]'' with one major difference. This spell was not only able to deliver fire damage, but also cold damage. The type of damage was determined by the caster during casting. The color of the flame depended on what type of damage was to be inflicted. If fire damage was chosen, the flame burned a brilliant gold-red color. If cold damage was selected, the flame was blue-white. In addition, the spell also delivered damage in the form of divine energy, like ''[[flame strike]]''.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, this spell required a sacrifice of the caster's strength."
+        "mainbody": "Holy fire shield was a type of sanctified spell.\nThis spell was identical to fire shield with one major difference. This spell was not only able to deliver fire damage, but also cold damage. The type of damage was determined by the caster during casting. The color of the flame depended on what type of damage was to be inflicted. If fire damage was chosen, the flame burned a brilliant gold-red color. If cold damage was selected, the flame was blue-white. In addition, the spell also delivered damage in the form of divine energy, like flame strike.\nIn addition to verbal and somatic components, this spell required a sacrifice of the casters strength."
     }
 }

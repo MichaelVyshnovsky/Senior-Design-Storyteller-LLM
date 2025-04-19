@@ -1,9 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Cormorant",
-        "othernames": "Sea-Skry{{cite web| url = https://web.archive.org/web/20190916053957/http://www.candlekeep.com/library/articles/sse/sse_050607-04.htm| title = So Saith Ed 2004| accessdate = 21-11-2021| date = 21-11-2021}}",
         "size5e": "",
         "type5e": "",
         "subtype5e": "",
@@ -32,9 +28,9 @@
         "movement": "Flying",
         "vision": "",
         "activecycle": "",
-        "diet": "[[Fish]]",
+        "diet": "Fish",
         "lifespan": "",
-        "location": "[[Ulgoth's Beard]], [[Sword Coast]]<br/>[[Sumbria]], [[Akanamere]], [[Vilhon Reach]]",
+        "location": "Ulgoths Beard, Sword CoastSumbria, Akanamere, Vilhon Reach",
         "intelligence": "",
         "language": "",
         "subraces": "",
@@ -54,10 +50,8 @@
         "distinctions": "",
         "appearrefs": "",
         "first": "",
-        "based": "[[Wikipedia:Cormorant|Cormorant]]",
+        "based": "Cormorant",
         "histrefs": "",
-        "mainbody": "'''Cormorants''', also called '''sea-skry''', were dark-feathered raucous [[bird]]s that dwelt in the costal areas and fed by diving for fish.",
-        "Ecology": "Even though both, [[sea gull]]s and cormorants were foul-tasting fowl, in the village of [[Ulgoth's Beard]], these sea birds were often brought down with well-placed stone throws as they dived for fish. These birds were then boiled with several types of local vegetables, such as [[leek]]s, [[thrae]], [[durfist]]s, and seasoned generously. This local greasy stew was called [[gudgeon]].\n\nIn the eastern realm of [[Kara-Tur]], cormorants were sometimes trained by fishers to retrieve fish for their masters. These cormorants were outfitted with [[silver]] rings around tier necks to prevent the birds from swallowing their prey.\n\nCormorants and [[black egrets]] plagued the [[Farsea Marshes]] of [[Cormyr]].",
-        "History": "''Circa'' [[1357 DR]], a [[human]] [[barbarian]] from Kara-Tur, [[Yu Fu Fang]] used trained cormorants to fish in the waters of [[Hungtse River]]."
+        "mainbody": "Cormorants, also called sea-skry, were dark-feathered raucous birds that dwelt in the costal areas and fed by diving for fish.\nEven though both, sea gulls and cormorants were foul-tasting fowl, in the village of Ulgoths Beard, these sea birds were often brought down with well-placed stone throws as they dived for fish. These birds were then boiled with several types of local vegetables, such as leeks, thrae, durfists, and seasoned generously. This local greasy stew was called gudgeon.\nIn the eastern realm of Kara-Tur, cormorants were sometimes trained by fishers to retrieve fish for their masters. These cormorants were outfitted with silver rings around tier necks to prevent the birds from swallowing their prey.\nCormorants and black egrets plagued the Farsea Marshes of Cormyr.\nCirca 1357 DR, a human barbarian from Kara-Tur, Yu Fu Fang used trained cormorants to fish in the waters of Hungtse River."
     }
 }

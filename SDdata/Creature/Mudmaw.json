@@ -1,44 +1,5 @@
 {
-    "template_data": {
-        "40|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Mudmaw.jpg",
-        "caption": "A mudmaw lurches out of the water, ready to drag prey down with its tentacles",
-        "name": "Mudmaw",
-        "othernames": "",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "Large",
-        "type3e": "[[Magical beast]]",
-        "subtype3e": "",
-        "alignment3e": "Always [[neutral]]",
-        "challenge3e": "7",
-        "refs3e": "",
-        "size2e": "",
-        "alignment2e": "",
-        "refs2e": "",
-        "size1e": "",
-        "alignment1e": "",
-        "refs1e": "",
-        "patron deity": "",
-        "movement": "Swimming",
-        "vision": "",
-        "activecycle": "",
-        "diet": "Carnivorous",
-        "lifespan": "",
-        "location": "",
-        "intelligence": "{{Int|3}}",
         "language": "",
         "subraces": "",
         "climate": "Warm",
@@ -59,13 +20,6 @@
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Mudmaws''' were a predatory species of [[magical beast]] that largely resembled a [[crocodile]], differing in that two rubbery green tendrils extended out from the corners of their gaping maws of needle-sharp teeth.Though described in the text as being green in coloration, the accompanying illustration for mudmaws depicts the tentacles as being more yellow or orange in coloration.",
-        "Behavior": "These creatures possessed an animalistic intellect and were highly territorial. They were even known to attack other mudmaws encroaching upon their territory, though would make exceptions for instances in which more meat presented itself than any one mudmaw could feasibly eat alone.",
-        "Abilities": "These creatures had innate magical abilities that mimicked the [[spell]]s ''[[slow]]'', ''[[soften earth and stone]]'', and ''[[water walk]]''.",
-        "Combat": "Mudmaws were ambush predators, preferring to stealthily lay in wait until a creature got close to the water, often letting themselves be mistaken for a floating log. Once a creature smaller than them was in range, a mudmaw would use their mouth tentacles to drag their prey beneath the water and attempt to drown them. When it came to creatures larger than them, if they were within {{SI|40|ft|long=yes}} mudmaws would use their innate ''slow'' ability. They would then proceed to lunge at the prey in a full sprint, trampling them and attempting to drag them down into the water. They generally would not bother pursuing prey that wasn't within reach of their tentacles or that wasn't capable of being downed by one charge.\n\nWhen it came to escaping from conflicts, mudmaws would use ''soften earth and stone'' to turn the ground at the edge of their body of water into a muddy quagmire, making it difficult to pursue them. The mudmaw would then proceed to either swim away or use its innate ''water walk'' ability to make an escape.",
-        "Ecology": {
-            "Habitats": "Mudmaws were typically found within warm inland bodies of water, such as lakes, marshes, swamps, and slow moving rivers."
-        },
-        "History": "Around [[1372 DR]], swamp striders were counted among the many creatures that one could only rarely encounter while traversing the [[sewers of Waterdeep]]."
+        "mainbody": "Mudmaws were a predatory species of magical beast that largely resembled a crocodile, differing in that two rubbery green tendrils extended out from the corners of their gaping maws of needle-sharp teeth.Though described in the text as being green in coloration, the accompanying illustration for mudmaws depicts the tentacles as being more yellow or orange in coloration.\nThese creatures possessed an animalistic intellect and were highly territorial. They were even known to attack other mudmaws encroaching upon their territory, though would make exceptions for instances in which more meat presented itself than any one mudmaw could feasibly eat alone.\nThese creatures had innate magical abilities that mimicked the spells slow, soften earth and stone, and water walk.\nMudmaws were ambush predators, preferring to stealthily lay in wait until a creature got close to the water, often letting themselves be mistaken for a floating log. Once a creature smaller than them was in range, a mudmaw would use their mouth tentacles to drag their prey beneath the water and attempt to drown them. When it came to creatures larger than them, if they were within  mudmaws would use their innate slow ability. They would then proceed to lunge at the prey in a full sprint, trampling them and attempting to drag them down into the water. They generally would not bother pursuing prey that wasnt within reach of their tentacles or that wasnt capable of being downed by one charge.\nWhen it came to escaping from conflicts, mudmaws would use soften earth and stone to turn the ground at the edge of their body of water into a muddy quagmire, making it difficult to pursue them. The mudmaw would then proceed to either swim away or use its innate water walk ability to make an escape.\nDue to their territorial nature, mudmaws typically lived solitary lives, only breaking this pattern of behavior when it came time to mate.\nMudmaws were typically found within warm inland bodies of water, such as lakes, marshes, swamps, and slow moving rivers.\nAround 1372 DR, swamp striders were counted among the many creatures that one could only rarely encounter while traversing the sewers of Waterdeep."
     }
 }

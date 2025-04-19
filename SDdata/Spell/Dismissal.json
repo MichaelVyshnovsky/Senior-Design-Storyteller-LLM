@@ -1,32 +1,20 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "edition_1": "2e",
-        "edition_2": "1e"
-    },
     "document_data": {
-        "image": "Dismissal.png",
-        "name": "Dismissal",
-        "inventor": "[[Oberon (Netherese arcanist)|Oberon]]",
-        "level3e": "{{spell table|edition=3e|[[Balance domain|Balance]]|4|[[Cleric]]|4|[[Demonologist]]|4|[[Sorcerer]]|5|[[Wizard]]|5|[[Zeal domain|Zeal]]|4}}",
-        "domains3e": "[[Balance domain|Balance]], [[Zeal domain|Zeal]]",
-        "school3e": "[[Abjuration]]",
+        "domains3e": "Balance, Zeal",
+        "school3e": "Abjuration",
         "type3e": "",
-        "refs3e": "{{Cite dragon/355/Seven Saintly Domains|30}}",
-        "school2e": "[[Abjuration]], [[Dimension]],<br/>[[Incantation]] (Banishment)<br/>[[School of song|Song]]<br/>[[Universal (province)]]<br/>[[Mentalism]], [[Variation]]",
+        "refs3e": "",
+        "school2e": "Abjuration, Dimension,Incantation (Banishment)SongUniversal (province)Mentalism, Variation",
         "reversible2e": "true",
-        "spheres2e": "[[Guardian sphere|Guardian]], [[Summoning sphere|Summoning]]",
-        "level2e": "{{spell table|edition=2e|[[Arcanist]]|5|[[Cleric]]|4|[[Crusader]]|4|[[Guardian sphere|Guardian]]|4|[[Monk]]|4|[[Mystic]]|4|[[Shaman]]|4|[[Shugenja|Shukenja]]|4|[[Summoning sphere|Summoning]]|4|[[Wizard]]|5}}",
+        "spheres2e": "Guardian, Summoning",
+        "level2e": "",
         "type2e": "",
-        "refs2e": "<br /><ref>{{Cite dragon/229/The Dimensional Wizard}}<ref><ref>",
+        "refs2e": "",
         "reversible1e": "true",
-        "school1e": "[[Abjuration]]<br/>[[Conjuration/Summoning]]",
-        "level1e": "{{spell table|edition=1e|[[Shugenja|Shukenja]]|4}}",
+        "school1e": "AbjurationConjuration/Summoning",
+        "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Dismissal''''', also known as '''''abjure''''', was an [[abjuration]] spell that could send an extraplanar creature back to its [[plane]] of origin.\n\n{{quote|''Dyss-ssymmi!''|The spell's verbal component.}}",
-        "Effects": "If the caster overcame the target's magic resistance (if any), then a momentary battle of wills ensued where the outcome was influenced by the relative difference in experience levels between the caster and the target. If the caster failed, then nothing happened, but if the caster succeeded then the creature was instantly banished from the [[plane of existence]] the creature and caster were on, back to its home plane. The caster had no control over where on the destination plane the creature would land, and indeed the newer version of this spell sometimes sent the creature to a plane that was not its home plane.\n\nThe older version of this spell was rather harsh in that the banished creature could suffer system shock from being wrenched out of one existence and into another.\n\nIn [[Kara-Tur]], the spell was reversible. ''[[Implore]]'' summoned a targeted creature from the planes. The creature was required to be of the same [[alignment]] of the [[shugenja]]. The summoned creature was not restrained and the spell had no effect on powerful extra-planar beings such as deities.",
-        "Components": "The newer version of this spell required the caster's [[holy symbol]] or [[divine focus]] and also verbal and somatic components. The older version also needed [[holy water]] and some material or item that was either harmful or distasteful to the creature. If the creature had a proper name, then the caster had to speak the name as part of the verbal component. The shugenja version of the spell, and it's reverse, required a holy symbol of the caster and holy water.",
-        "History": "The spell was attributed to [[Netherese arcanist]] [[Oberon (Netherese arcanist)|Oberon]] in {{Yearlink|-955}} and was originally called ''Oberon's dismiss''.\n\nIn the month of [[Eleasis]], of the {{YearlinkName|1371}}, [[Chief Prelate]] [[Relarn Dayspring|Dayspring]] of the [[Clerical Circle]] of [[Ravens Bluff]] declared it illegal for priests to cast ''abjure'' within city limits due to a raging unnatural storm at the time called the [[Soulstorm]], threatening arrest for those that broke this decree.{{Cite trumpeter/2-8|2}}{{LCRB}}"
+        "mainbody": "Dismissal, also known as abjure, was an abjuration spell that could send an extraplanar creature back to its plane of origin.\nIf the caster overcame the targets magic resistance (if any), then a momentary battle of wills ensued where the outcome was influenced by the relative difference in experience levels between the caster and the target. If the caster failed, then nothing happened, but if the caster succeeded then the creature was instantly banished from the plane of existence the creature and caster were on, back to its home plane. The caster had no control over where on the destination plane the creature would land, and indeed the newer version of this spell sometimes sent the creature to a plane that was not its home plane.\nThe older version of this spell was rather harsh in that the banished creature could suffer system shock from being wrenched out of one existence and into another.\nIn Kara-Tur, the spell was reversible. Implore summoned a targeted creature from the planes. The creature was required to be of the same alignment of the shugenja. The summoned creature was not restrained and the spell had no effect on powerful extra-planar beings such as deities. \nThe newer version of this spell required the casters holy symbol or divine focus and also verbal and somatic components. The older version also needed holy water and some material or item that was either harmful or distasteful to the creature. If the creature had a proper name, then the caster had to speak the name as part of the verbal component. The shugenja version of the spell, and its reverse, required a holy symbol of the caster and holy water.\nThe spell was attributed to Netherese arcanist Oberon in  and was originally called Oberons dismiss.\nIn the month of Eleasis, of the , Chief Prelate Dayspring of the Clerical Circle of Ravens Bluff declared it illegal for priests to cast abjure within city limits due to a raging unnatural storm at the time called the Soulstorm, threatening arrest for those that broke this decree."
     }
 }

@@ -1,23 +1,8 @@
-{{Spell
-| image         = 
-| caption       = 
-| name          = Wall of Water
-| deity         = 
-| inventor      = 
-| type          = 
-| school5e      = [[Evocation]]
-| domains5e     = 
-| circles5e     = 
-| oaths5e       = 
-| patrons5e     = 
-| traditions5e  = 
-| archetypes5e  = 
-| level5e       = {{Spell table|edition=5e|[[Druid]]|3|[[Sorcerer]]|3|[[Wizard]]|3}}
 | type5e        = 
 | refs5e        = 
 | feature4e     = 
-| keywords4e    = {{Desc/arcane}}{{Desc/elemental}}
-| level4e       = {{Spell table|edition=4e|[[Sorcerer]]|2}}
+| keywords4e    = 
+| level4e       = 
 | type4e        = Daily
 | category4e    = 
 | skill4e       = 
@@ -29,9 +14,9 @@
 | type3e        = 
 | refs3e        = 
 | reversible2e  = 
-| school2e      = [[Invocation/Evocation]], [[Elemental water school|Water]]
+| school2e      = Invocation/Evocation, Water
 | spheres2e     = 
-| level2e       = {{Spell table|edition=2e|[[Wizard]]|3}}
+| level2e       = 
 | type2e        = 
 | refs2e        = 
 | reversible1e  = 
@@ -39,14 +24,7 @@
 | level1e       = 
 | type1e        = 
 | refs1e        = 
-}}
-'''''Wall of water''''' was an [[evocation]] [[spell]] that created a barrier made of water.
-
-==Effects==
-The spell conjured a wall of water within a range of {{SI|60|ft|long=yes}} that could either be straight, with a maximum length of {{SI|30|ft|long=yes}}, or a circular ring of {{SI|20|ft|long=yes}} in diameter. In either case, the wall was {{SI|10|ft|long=yes}} tall and {{SI|1|ft|c|long=yes}} thick. The effect lasted for up to 10 minutes, as long as the caster kept concentrating. When the spell ended, the water disappeared.
-
-The wall itself did not prevent movement, but made it slightly difficult for creatures to cross through. It rendered ranged attacks particularly difficult through the barrier. [[Fire]] effects crossing the wall were only half as effective as normal, and cold effects caused the portion of the wall they crossed to freeze solid. Freezing the wall produced the curious effect of making it possible to break through the ice. The water did not fill a broken section of frozen wall.
-
-==Components==
-The spell required [[Verbal component|verbal]], [[Somatic component|somatic]], and [[material component]]s. The material required was a drop of water.
-
+Wall of water was an evocation spell that created a barrier made of water.
+The spell conjured a wall of water within a range of  that could either be straight, with a maximum length of , or a circular ring of  in diameter. In either case, the wall was  tall and  thick. The effect lasted for up to 10 minutes, as long as the caster kept concentrating. When the spell ended, the water disappeared.
+The wall itself did not prevent movement, but made it slightly difficult for creatures to cross through. It rendered ranged attacks particularly difficult through the barrier. Fire effects crossing the wall were only half as effective as normal, and cold effects caused the portion of the wall they crossed to freeze solid. Freezing the wall produced the curious effect of making it possible to break through the ice. The water did not fill a broken section of frozen wall.
+The spell required verbal, somatic, and material components. The material required was a drop of water.

@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Protection From Paralysis",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Abjuration]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|2}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Protection from paralysis''''' was an [[abjuration]] [[spell]] used by [[wizard]]s.",
-        "Effects": "This spell offered complete protection to the recipient from all forms of magical paralysis. In addition to protecting from spells such as ''[[hold person]]'', the spell also protected against similar attacks from monsters such as a [[ghoul]]'s paralyzing touch. The spell offered no protection from physical harm from monster attacks.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, this spell required a bit of cloth from a [[cleric]]'s robes to cast.",
-        "History": "This spell was originally developed in the [[Underdark]], but later on found usage by some on the surface.<ref>"
+        "mainbody": "Protection from paralysis was an abjuration spell used by wizards.\nThis spell offered complete protection to the recipient from all forms of magical paralysis. In addition to protecting from spells such as hold person, the spell also protected against similar attacks from monsters such as a ghouls paralyzing touch. The spell offered no protection from physical harm from monster attacks.\nIn addition to verbal and somatic components, this spell required a bit of cloth from a clerics robes to cast.\nThis spell was originally developed in the Underdark, but later on found usage by some on the surface."
     }
 }

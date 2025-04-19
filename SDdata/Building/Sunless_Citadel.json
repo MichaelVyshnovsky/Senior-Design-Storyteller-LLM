@@ -1,23 +1,7 @@
 {
-    "template_data": {
-        "7|mile|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Sunless Citadel",
-        "aliases": "",
-        "type": "Fortress",
-        "architecture": "",
-        "floors": "",
-        "location": "[[Mount Hotenow]], [[Oakhurst]]",
-        "built": "",
-        "destroyed": "",
-        "owner": "",
-        "staff": "",
-        "occupants": "[[Goblin]]s, [[kobold]]s<br />{{Former}}[[Cult of the Dragon]]",
         "services": "Stronghold",
-        "worship": "[[Ashardalon]]",
+        "worship": "Ashardalon",
         "basicrefs": "",
         "ownertable": "",
         "stafftable": "",
@@ -37,9 +21,6 @@
         "inhabitants": "",
         "locations": "",
         "organizations": "",
-        "mainbody": "The '''Sunless Citadel''' was a once-proud fortress in the [[Crags]] on the [[Sword Coast North]] that fell into a rift in the ground in the mid–15{{th}} century [[DR]].",
-        "History": "The citadel was built on the surface by an [[Ashardalon]]-worshiping sect of the [[Cult of the Dragon]] that valued its privacy and defense. In the [[1451 DR|Year of Knowledge Unearthed, 1451 DR]], the eruption of [[Mount Hotenow]] killed most of the cult members and plunged the fortress into a rift. Magical enchantments protected and preserved much of the citadel's structure from the event.",
-        "Location": "The Sunless Citadel was once a secret stronghold located in the foothills northwest of [[Thundertree]], {{SI|7|mile|k|long=yes}} southwest of [[Oakhurst]]. It plunged into the earth when [[Mount Hotenow]] erupted and threw [[Neverwinter]] into chaos.",
-        "Inhabitants": "Following the [[Ruining]], and in the absence of its former inhabitants, the fortress was overrun by [[goblins]] from the [[Durbuluk]] tribe and [[kobolds]] who sought to challenge the goblins' rule over the fortress."
+        "mainbody": "The Sunless Citadel was a once-proud fortress in the Crags on the Sword Coast North that fell into a rift in the ground in the mid–15 century DR.\nThe citadel was built on the surface by an Ashardalon-worshiping sect of the Cult of the Dragon that valued its privacy and defense. In the Year of Knowledge Unearthed, 1451 DR, the eruption of Mount Hotenow killed most of the cult members and plunged the fortress into a rift. Magical enchantments protected and preserved much of the citadels structure from the event.\nThe Sunless Citadel was once a secret stronghold located in the foothills northwest of Thundertree,  southwest of Oakhurst. It plunged into the earth when Mount Hotenow erupted and threw Neverwinter into chaos.\nFollowing the Ruining, and in the absence of its former inhabitants, the fortress was overrun by goblins from the Durbuluk tribe and kobolds who sought to challenge the goblins rule over the fortress."
     }
 }

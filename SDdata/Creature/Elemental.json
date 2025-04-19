@@ -1,40 +1,7 @@
 {
     "document_data": {
-        "image": "Elementals - James Zhang.jpg",
-        "caption": "An earthwind ravager, thunderblast cyclone, firelasher, and rockfire dreadnought.",
-        "name": "Elemental",
-        "type5e": "[[Elemental]]",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "[[Elemental creature|Elemental]]",
-        "type4e": "[[Magical beast]]",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "",
-        "type3e": "[[Elemental]]",
-        "subtype3e": "[[Spirit]]",
-        "alignment3e": "",
-        "challenge3e": "",
-        "refs3e": "",
-        "size2e": "",
-        "alignment2e": "",
-        "refs2e": "",
-        "size1e": "",
-        "alignment1e": "",
-        "refs1e": "",
-        "location": "[[Elemental Chaos|The Elemental Chaos]], [[Prime Material Plane]] <br />{{Former}} [[Elemental plane|The elemental planes]]",
-        "language": "[[Auran|Auran]], [[Terran|Terran]], [[Ignan|Ignan]] or [[Aquan|Aquan]]; [[Primordial language|Primordial]]",
-        "based": "Paracelsus's [[wikipedia:en:Elemental|elementals]]",
-        "mainbody": "'''Elementals''' were [[outsider]]s that embodied the [[element]]s of the [[elemental planes]].",
-        "Varieties": {
-            "Elementals": "* [[Air elemental]]\n* [[Earth elemental]]\n* [[Fire elemental]]\n* [[Water elemental]]",
-            "Para-Elementals": "[[Para-elemental]]s were from the paraelemental planes, where the borders of the elemental planes intersected.\n* [[Ice para-elemental]]\n* [[Magma para-elemental]]\n* [[Ooze para-elemental]]\n* [[Smoke para-elemental]]",
-            "Quasi-Elementals": "[[Quasi-elemental]]s were from the quasi-elemental planes, where the borders of the pure elemental planes intersected with the energy planes.\n* [[Ash quasi-elemental]]{{Cite dragon/128/Plane Speaking: The (Negative) Quasi-Elementals!|57}}\n* [[Dust quasi-elemental]]{{Cite dragon/128/Plane Speaking: The (Negative) Quasi-Elementals!|58}}\n* [[Lightning quasi-elemental]]\n* [[Mineral quasi-elemental]]{{Cite dragon/125/Plane Speaking: The (Positive) Quasi-Elementals!|69}}\n* [[Radiance quasi-elemental]]{{Cite dragon/125/Plane Speaking: The (Positive) Quasi-Elementals!|68-69}}\n* [[Salt quasi-elemental]]\n* [[Steam quasi-elemental]]\n* [[Vacuum quasi-elemental]]{{Cite dragon/128/Plane Speaking: The (Negative) Quasi-Elementals!|57-58}}",
-            "Other Elementals": "* [[Darkness elemental]]{{Cite dragon/227/The Dragon's Bestiary: Monsters of the Underdark|26}}\n* [[Nature elemental]]\n* [[Necromental]]\n* [[Shadow elemental]]\n* [[Storm elemental]]"
-        }
+        "language": "Auran, Terran, Ignan or Aquan Primordial",
+        "based": "Paracelsuss elementals",
+        "mainbody": "Elementals were outsiders that embodied the elements of the elemental planes.\n* Air elemental\n* Earth elemental\n* Fire elemental\n* Water elemental\nPara-elementals were from the paraelemental planes, where the borders of the elemental planes intersected.\n* Ice para-elemental\n* Magma para-elemental\n* Ooze para-elemental\n* Smoke para-elemental\nQuasi-elementals were from the quasi-elemental planes, where the borders of the pure elemental planes intersected with the energy planes.\n* Ash quasi-elemental\n* Dust quasi-elemental\n* Lightning quasi-elemental\n* Mineral quasi-elemental\n* Radiance quasi-elemental\n* Salt quasi-elemental\n* Steam quasi-elemental\n* Vacuum quasi-elemental\n* Darkness elemental\n* Nature elemental\n* Necromental\n* Shadow elemental\n* Storm elemental"
     }
 }

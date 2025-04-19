@@ -1,27 +1,8 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Probability Travel",
-        "deity": "",
-        "inventor": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "discipline3e": "",
-        "mantles3e": "",
-        "descriptors3e": "",
-        "level3e": "{{class table|edition=3e|[[Psychoportation]]|9}}",
         "type3e": "",
-        "refs3e": "{{cite book/The Complete Psionics Handbook|94}}",
-        "discipline2e": "[[Psychoportation]]",
+        "refs3e": "",
+        "discipline2e": "Psychoportation",
         "level2e": "Major (Science)",
         "type2e": "Standard power",
         "wild2e": "Yes",
@@ -29,13 +10,6 @@
         "level1e": "Major (Science)",
         "type1e": "Standard Power",
         "refs1e": "",
-        "mainbody": "'''''Probability travel''''' was a [[psionic]] power of the [[psychoportation]] [[discipline]] that allowed the manifester to travel to other [[plane]]s of reality.",
-        "Effects": "Early records suggested that users of ''probability travel'' were able to cross into other realities, some of them alternative, and some reachable through the [[ethereal plane]]. Novice manifesters were only able to transport themselves, and went off-course about one in five times. With more progress, they became more adept, being able to bring first two people with themselves, and ultimately eight at the peak of their psionic practice.\n\nThe earliest records also asserted that, when used at the moment when one was struck by a ''[[sphere of annihilation]]'', this science allowed the manifester to destroy the sphere harmlessly and gain an additional power—if they survived.\n\nThe power could also be used to arrive in the [[astral plane]] bodily, and find one's way to alternate [[Prime Material plane]]s that had color pools in the astral plane.{{cite book/Manual of the Planes 1st edition|61-62}} As there was no projection, no silver cord was manifested, and the risks were commensurate.{{cite dragon/67/The Astral Plane|30}}\n\nRecords post-dating the [[Time of Troubles]] referred to powers such as this as unable to access the ethereal plane.{{cite book/A Guide to the Ethereal Plane|36}}",
-        "Users": "* [[Wild talent]]s sometimes allowed people to employ this science.{{cite book/The Complete Psionics Handbook|21}}{{cite book/Player's Option: Skills & Powers|94}}{{cite book/The Complete Book of Necromancers|28}}\n* A ''[[staff of the magi]]'' was said to use similar powers, per some early sources.{{cite book/Dungeon Masters Guide 1st edition|134}}",
-        "History": "The [[illithid]] that attacked the [[Emerald Dragon]] in the {{yearlinkName|1357}} planned to escape with ''probability travel'' if things got too dicey for it.{{cite book/Waterdeep and the North|63}}",
-        "Notable Users": "The following creatures were able to use ''probability travel'':\n* [[Githzerai]]{{cite book/Fiend Folio 1st edition|45}}\n* [[Shedu]]{{cite book/Monster Manual II 1st edition|109}}{{cite book/Monstrous Manual|313}}{{cite book/The Complete Psionics Handbook|120}}\n* [[Yochlol]]{{cite book/Monster Manual II 1st edition|130}}\n* [[Opinicus]]\n* [[Phoenix]]es{{cite dragon/65/Featured Creatures|26}}\n* [[Mind flayer]]s{{cite book/Monstrous Manual|251}} and [[Alhoon]]\n* [[Nabassu]] had no psionic powers otherwise but were able to use the power somehow, in a form that also allowed them to bring companions (or victims).{{cite book/Monster Manual II 1st edition|40}}\n\nThe following unique entities were also known to be able to use it:\n* [[Charon]]{{cite book/Monster Manual II 1st edition|28}}\n* [[Lolth]]",
-        "Appendix": {
-            "References": "{{Refs}}\n[[Category:Psychoportation powers]]\nbdz93lp27u9or2mpp2zmlkvof65clu8"
-        }
+        "mainbody": "Probability travel was a psionic power of the psychoportation discipline that allowed the manifester to travel to other planes of reality.\nEarly records suggested that users of probability travel were able to cross into other realities, some of them alternative, and some reachable through the ethereal plane. Novice manifesters were only able to transport themselves, and went off-course about one in five times. With more progress, they became more adept, being able to bring first two people with themselves, and ultimately eight at the peak of their psionic practice.\nThe earliest records also asserted that, when used at the moment when one was struck by a sphere of annihilation, this science allowed the manifester to destroy the sphere harmlessly and gain an additional power—if they survived.\nThe power could also be used to arrive in the astral plane bodily, and find ones way to alternate Prime Material planes that had color pools in the astral plane. As there was no projection, no silver cord was manifested, and the risks were commensurate.\nRecords post-dating the Time of Troubles referred to powers such as this as unable to access the ethereal plane.\n* Wild talents sometimes allowed people to employ this science.\n* A staff of the magi was said to use similar powers, per some early sources.\nThe illithid that attacked the Emerald Dragon in the  planned to escape with probability travel if things got too dicey for it.\nThe following creatures were able to use probability travel\n* Githzerai\n* Shedu\n* Yochlol\n* Opinicus\n* Phoenixes\n* Mind flayers and Alhoon\n* Nabassu had no psionic powers otherwise but were able to use the power somehow, in a form that also allowed them to bring companions (or victims).\nThe following unique entities were also known to be able to use it\n* Charon\n* Lolth\nCategoryPsychoportation powers\nbdz93lp27u9or2mpp2zmlkvof65clu8"
     }
 }

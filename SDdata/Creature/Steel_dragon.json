@@ -1,31 +1,24 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "SteelDragon.jpg",
-        "caption": "",
-        "name": "Steel Dragon",
-        "size5e": "{{Size table|Adult|Huge}}",
-        "type5e": "[[Dragon]]",
+        "type5e": "Dragon",
         "subtype5e": "",
         "alignment5e": "",
         "challenge5e": "",
         "refs5e": "",
         "size4e": "",
-        "origin4e": "[[Natural creature|Natural]]",
-        "type4e": "[[Magical beast]]",
-        "subtype4e": "[[Dragon]]",
-        "alignment4e": "[[Unaligned]]",
+        "origin4e": "Natural",
+        "type4e": "Magical beast",
+        "subtype4e": "Dragon",
+        "alignment4e": "Unaligned",
         "refs4e": "",
-        "size3e": "{{CR table|Wyrmling|Small|Very young|Small|Young|Medium|Juvenile|Medium|Young adult|Medium|Adult|Large|Mature adult|Large|Old|Large|Very old|Huge|Ancient|Huge|Wyrm|Huge|Great wyrm|Huge}}",
-        "type3e": "[[Dragon]]",
-        "subtype3e": "[[:Category:Creatures with the air subtype|Air]]",
-        "alignment3e": "Usually [[Lawful neutral]], often [[lawful good]]",
-        "challenge3e": "{{CR table|edition=3e|Wyrmling|2|Very young|4|Young|4|Juvenile|5|Young adult|7|Adult|8|Mature adult|11|Old|12|Very old|13|Ancient|15|Wyrm|16|Great wyrm|18}}",
+        "size3e": "",
+        "type3e": "Dragon",
+        "subtype3e": "Air",
+        "alignment3e": "Usually Lawful neutral, often lawful good",
+        "challenge3e": "",
         "refs3e": "",
         "size2e": "",
-        "alignment2e": "Usually [[Lawful neutral]], often [[lawful good]]",
+        "alignment2e": "Usually Lawful neutral, often lawful good",
         "refs2e": "",
         "size1e": "",
         "alignment1e": "",
@@ -51,20 +44,11 @@
         "feathers": "",
         "eyecolor": "",
         "build": "",
-        "distinctions": "Cat-like form<br />Expressive face, surrounded by hair-like spines<br />",
+        "distinctions": "Cat-like formExpressive face, surrounded by hair-like spines",
         "appearrefs": "",
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Steel dragons''', sometimes known as '''Waterdeep dragons''', were [[metallic dragon]]s who were rarely seen in their natural form, instead living clandestine lives in [[human]] cities, observing art, culture, history, and politics.",
-        "Description": {
-            "Abilities": "Steel dragons were immune to acid and resistant to poison and especially magic. They had innate abilities to enchant and charm individuals."
-        },
-        "Personality": {
-            "Favored treasure": "They preferred to invest in property and business unlike other dragons, who preferred to hoard monetary treasures. Some steel dragons did hoard items, but they preferred to hoard works of art, antiquities, books, finery, [[magic item]]s or servants."
-        },
-        "Combat": "Similar to [[brass dragon]]s, most steel dragons would rather talk than fight, yet like all dragons, they could be formidable opponents. In combat, they avoided melee and instead relied on their magic. A steel dragon could cast the spells of [[cleric]]s as [[arcane magic]] and also could use the spells usually considered a part of the [[Knowledge domain|knowledge]] and [[trickery domain]]s. If truly losing a battle, a steel dragon was likely to [[teleport]] away.\n\nA steel dragon could breathe both a line of acid and a cloud of poisonous gas.",
-        "Society": "[[File:Greyhawk Dragon Spellfire.jpg|thumb|250 px|A greyhawk dragon with a long scarf.]]\nUnlike most other dragons, steel dragons did not live in caves, preferring castles, towers, palaces, mansions, and the like.\n\nWhile they preferred to eat in their human forms, doing so would not provide them enough nourishment to survive, so they would have to make excuses to go hunting secretly in their dragon forms every three [[tenday]]s or so.\n\nAccording to [[Elminster]] steel dragons were also called \"'''Greyhawk dragons'''\", and according to [[Mordenkainen]], that was the proper name of the species.{{Cite dragon/243/Wyrms of the North: Jalanvaloss}}",
-        "Notable Steel Dragons": "The city of [[Waterdeep]] was known to be home to at least three steel dragons:\n* [[Auntyrlothtor]]\n* [[Jalanvaloss]]\n* [[Quituryte]]\nOther known steel dragons were\n* [[Stalagma]]\n* [[Steelheart]]{{Cite dungeon/53/Steelheart|54-71}}\n* [[Velsaert|Velsaertirden]]\nIn addition, a female steel dragon named [[Razylymingeir]] lived in [[Darmshall]], and one named [[Zundaerazylym]] dwelt in [[Neverwinter]].\n\nA consortium of [[Half-dragon|half-]]steel dragons called the [[Confluence]] was based out of Waterdeep."
+        "mainbody": "Steel dragons, sometimes known as Waterdeep dragons, were metallic dragons who were rarely seen in their natural form, instead living clandestine lives in human cities, observing art, culture, history, and politics.\nSteel dragons in their natural forms were especially feline in their movements and stature. They had scales that shone like burnished steel as adults and usually smelled like wet metal. Their wings consisted of overlapping blades that looked like feathers, and the scales on their chests resembled shields.\nTheir faces were particularly expressive, sometimes giving the illusion of a human-like face. They had many long spines surrounding their faces, which gave the appearance of hair.\nIn humanoid forms, steel dragons usually kept their true identities secret however, they always had at least one visual indication of their true nature in the form of steel-gray hair, eyes, tattoos, or another feature.\nSteel dragons were immune to acid and resistant to poison and especially magic. They had innate abilities to enchant and charm individuals.\nSteel dragons, as a rule, were amiable, curious, and witty. They would rather spend their time among human cultures than in their own true forms.\nHowever, they had difficulty when dealing with all kinds of absolute authority, even authority that was used for good. This put steel dragons at odds with other kinds of metallic dragons that used their power and experience to justify their actions, specially bronze dragons and gold dragons this also made them bitter enemies of chromatic dragons. For those same reasons, steel dragons usually worked within their chosen communities to promote freedom and undermine authoritarian forces.\nSteel dragons liked the company of humans, elves, half-elves and dwarves, and they usually supported adventurers that opposed tyrants.\nThey preferred to invest in property and business unlike other dragons, who preferred to hoard monetary treasures. Some steel dragons did hoard items, but they preferred to hoard works of art, antiquities, books, finery, magic items or servants.\nSimilar to brass dragons, most steel dragons would rather talk than fight, yet like all dragons, they could be formidable opponents. In combat, they avoided melee and instead relied on their magic. A steel dragon could cast the spells of clerics as arcane magic and also could use the spells usually considered a part of the knowledge and trickery domains. If truly losing a battle, a steel dragon was likely to teleport away.\nA steel dragon could breathe both a line of acid and a cloud of poisonous gas.\nthumb|250 px|A greyhawk dragon with a long scarf.\nUnlike most other dragons, steel dragons did not live in caves, preferring castles, towers, palaces, mansions, and the like.\nWhile they preferred to eat in their human forms, doing so would not provide them enough nourishment to survive, so they would have to make excuses to go hunting secretly in their dragon forms every three tendays or so.\nAccording to Elminster steel dragons were also called \"Greyhawk dragons\", and according to Mordenkainen, that was the proper name of the species.\nThe city of Waterdeep was known to be home to at least three steel dragons\n* Auntyrlothtor\n* Jalanvaloss\n* Quituryte\nOther known steel dragons were\n* Stalagma\n* Steelheart\n* Velsaertirden\nIn addition, a female steel dragon named Razylymingeir lived in Darmshall, and one named Zundaerazylym dwelt in Neverwinter.\nA consortium of half-steel dragons called the Confluence was based out of Waterdeep."
     }
 }

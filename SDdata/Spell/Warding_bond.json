@@ -1,20 +1,5 @@
 {
-    "template_data": {
-        "edition": "5e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Warding Bond",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Abjuration]]",
-        "domains5e": "[[Peace domain|Peace]]",
-        "circles5e": "",
-        "oaths5e": "[[Crown oath|Crown]]",
-        "patrons5e": "",
-        "level5e": "{{Spell table|edition=5e|[[Cleric]]|2|[[Crown oath|Crown]]|2|[[Peace domain|Peace]]|2}}",
         "type5e": "",
         "refs5e": "",
         "keywords4e": "",
@@ -40,8 +25,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Warding bond''''' was a defensive [[spell]].",
-        "Effects": "This spell was cast on a consenting individual. When cast, a bond forms between the targeted individual and the caster. As long as they remained within {{SI|60|ft}} from each other, the targeted individual was invulnerable to all damage. If the targeted individual is harmed, the caster was also harmed. The spell expired if the caster died or both individuals separated by more than {{SI|60|ft}}. The caster was also able to cancel the spell with a command.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, the spell required a [[material component]], a set of [[ring]]s made from [[platinum]]. The pair of rings had to have a value of at least 50 [[gp]] each. During the spell both the caster and the targeted individual wore the rings."
+        "mainbody": "Warding bond was a defensive spell.\nThis spell was cast on a consenting individual. When cast, a bond forms between the targeted individual and the caster. As long as they remained within  from each other, the targeted individual was invulnerable to all damage. If the targeted individual is harmed, the caster was also harmed. The spell expired if the caster died or both individuals separated by more than . The caster was also able to cancel the spell with a command.\nIn addition to verbal and somatic components, the spell required a material component, a set of rings made from platinum. The pair of rings had to have a value of at least 50 gp each. During the spell both the caster and the targeted individual wore the rings."
     }
 }

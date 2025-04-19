@@ -1,29 +1,7 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Faith token",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Magic]]al charm",
-        "location": "",
-        "school": "",
-        "level": "",
-        "value": "",
-        "weight": "",
-        "rules": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "''Varies''",
-        "casterlevel3e": "1{{st}}",
         "itemlevel3e": "",
-        "value3e": "300 [[gp]]",
+        "value3e": "300 gp",
         "weight3e": "",
         "refs3e": "",
         "level4e": "",
@@ -38,8 +16,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "A '''''faith token''''' was a small [[magic]]al item attuned to a specific [[deity]] that allowed it's wielder to cast minor [[spell]]s. They were typically given to novice clergy within a church, kept until their powers outgrew its usefulness, and re-gifted to a more junior acolyte.",
-        "Appearance": "Typically appearing as a small charm, stamped with a deity's [[holy symbol]], a ''faith token'' was often worn around the neck as [[jewelry]]. They could be made from wood, bone, metal or whatever was appropriate for the particular wearer's faith. Depending on the deity after whom one were crafted, a token would glow, hum, or flash brightly when activated.",
-        "Powers": "A token was typically enhanced with a [[cantrip]] or two and granted those powers, to whomever held its possession, twice per day. They were activated by the wearer uttering a [[command word]], which was typically just the patron deity's name, though could be a particular phrase if so desired.\n\nThe spells were suited for the deity's [[portfolio]]."
+        "mainbody": "A faith token was a small magical item attuned to a specific deity that allowed its wielder to cast minor spells. They were typically given to novice clergy within a church, kept until their powers outgrew its usefulness, and re-gifted to a more junior acolyte.\nTypically appearing as a small charm, stamped with a deitys holy symbol, a faith token was often worn around the neck as jewelry. They could be made from wood, bone, metal or whatever was appropriate for the particular wearers faith. Depending on the deity after whom one were crafted, a token would glow, hum, or flash brightly when activated.\nA token was typically enhanced with a cantrip or two and granted those powers, to whomever held its possession, twice per day. They were activated by the wearer uttering a command word, which was typically just the patron deitys name, though could be a particular phrase if so desired.\nThe spells were suited for the deitys portfolio."
     }
 }

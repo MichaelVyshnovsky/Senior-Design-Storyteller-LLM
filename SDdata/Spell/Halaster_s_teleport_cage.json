@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Halaster's Teleport Cage",
-        "deity": "",
-        "inventor": "[[Halaster Blackcloak]]",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Abjuration]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Sorcerer]]|9|[[Wizard]]|9}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,9 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Halaster's teleport cage''''' was an [[abjuration]] [[spell]] that modified the functioning of [[teleportation]] [[magic]], altering the effects they produced when cast. It was developed and used to great effect by the powerful [[archmage]] of [[the North]], [[Halaster Blackcloak]].",
-        "Effects": "Upon casting, this spell created an area of effect that changed the destination of spells that re-located people or creatures. Whenever one of these spells were cast within the affected area, the target was transported to a completely random location also within the area.\n\nWhenever a ''teleportation'' spell was cast outside the cage, and attempted to transport a person or creature inside, the subject was relocated to a random location outside the area encompassed by the spell.\n\nIf multiple castings of ''teleport cage'' affected areas that overlapped one another, they merged to form a single area that operated as if it were affected by a single casting.\n\nSpells affected by ''teleport cage'' included ''[[dimension door]]'', ''[[teleport]]'', ''[[greater teleport]]'', ''[[Refuge (spell)|refuge]]'', ''[[teleportation circle]]'' and ''[[word of recall]]'', among others.",
-        "Usage": "The entire subterranean complex known as the [[Undermountain]] was enclosed within the largest ''teleport cage'' to ever exist on the face of [[Faerûn]].",
-        "Casting": "In addition to [[verbal]] and [[somatic component]]s, this spell required a pile of ''[[diamond]] dust'' worth at least 1000 [[gp]]."
+        "mainbody": "Halasters teleport cage was an abjuration spell that modified the functioning of teleportation magic, altering the effects they produced when cast. It was developed and used to great effect by the powerful archmage of the North, Halaster Blackcloak.\nUpon casting, this spell created an area of effect that changed the destination of spells that re-located people or creatures. Whenever one of these spells were cast within the affected area, the target was transported to a completely random location also within the area.\nWhenever a teleportation spell was cast outside the cage, and attempted to transport a person or creature inside, the subject was relocated to a random location outside the area encompassed by the spell.\nIf multiple castings of teleport cage affected areas that overlapped one another, they merged to form a single area that operated as if it were affected by a single casting.\nSpells affected by teleport cage included dimension door, teleport, greater teleport, refuge, teleportation circle and word of recall, among others.\nThe entire subterranean complex known as the Undermountain was enclosed within the largest teleport cage to ever exist on the face of Faerûn.\nIn addition to verbal and somatic components, this spell required a pile of diamond dust worth at least 1000 gp."
     }
 }

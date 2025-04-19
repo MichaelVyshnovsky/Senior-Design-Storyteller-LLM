@@ -1,26 +1,5 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "60|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Polymorph",
-        "othernames": "",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Transmutation]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "{{spell table|edition=5e|[[Bard]]|4|[[Druid]]|4|[[Sorcerer]]|4|[[Wizard]]|4}}",
         "type5e": "",
         "refs5e": "",
         "feature4e": "",
@@ -46,8 +25,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Polymorph''''' was an [[Arcane magic|arcane]] [[transmutation]] [[spell]] that allowed the caster to transform into another creature.",
-        "Effects": "When cast, the spell affected a single targeted creature within {{SI|60|ft|long=yes}} of the caster. If the targeted creature was unwilling and was strong enough, there was a chance they could resist the transformation caused by this spell. Any creature with the innate ability to shapechange could resist this spell at will.\n\nThe targeted creature was transformed into a [[beast]] determined by the caster. The polymorphed creature retained their personality and alignment but their mental abilities and health became those of their new form. They also faced any natural limits of their new form. Communication through speech, spellcasting, and actions that necessitated hands or speech were unavailable to the targeted creature. The targeted creature's belongings merged seamlessly into its new form, rendering it unable to utilize, activate, wield, or derive benefits from its equipment. The targeted creature remained polymorphed until the spell expired or they were killed.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required a [[material component]]: the cocoon of a [[caterpillar]]."
+        "mainbody": "Polymorph was an arcane transmutation spell that allowed the caster to transform into another creature.\nWhen cast, the spell affected a single targeted creature within  of the caster. If the targeted creature was unwilling and was strong enough, there was a chance they could resist the transformation caused by this spell. Any creature with the innate ability to shapechange could resist this spell at will.\nThe targeted creature was transformed into a beast determined by the caster. The polymorphed creature retained their personality and alignment but their mental abilities and health became those of their new form. They also faced any natural limits of their new form. Communication through speech, spellcasting, and actions that necessitated hands or speech were unavailable to the targeted creature. The targeted creatures belongings merged seamlessly into its new form, rendering it unable to utilize, activate, wield, or derive benefits from its equipment. The targeted creature remained polymorphed until the spell expired or they were killed.\nIn addition to verbal and somatic components, this spell required a material component the cocoon of a caterpillar."
     }
 }

@@ -1,15 +1,5 @@
 {
-    "template_data": {
-        "FOUR|uh|loo|sy|ale|keer|refs": "==Geography=="
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Fhaoralusyolkiir",
-        "alt spelling": "",
-        "aliases": "",
-        "type": "Temple<br/>Ruined settlement",
-        "region": "[[Serôs]], [[Vilhon Reach]], [[Sea of Fallen Stars]]<br/>{{Former}} [[Aryselmalyr]]",
         "size": "",
         "elevation": "",
         "depth": "",
@@ -18,9 +8,9 @@
         "georefs": "",
         "demonym": "",
         "population": "",
-        "races": "[[Sea elves]]",
+        "races": "Sea elves",
         "languages": "",
-        "religion": "[[Deep Sashelas]]",
+        "religion": "Deep Sashelas",
         "alignment": "",
         "socrefs": "",
         "imports": "",
@@ -43,11 +33,11 @@
         "start event": "",
         "start date": "",
         "event1": "Establishment of the city",
-        "date1": "{{YearlinkConvert|-8923|TS}}",
+        "date1": "",
         "event2": "Disestablishment of city",
-        "date2": "{{YearlinkConvert|-10|TS}}",
+        "date2": "",
         "event3": "Establishment of temple",
-        "date3": "{{YearlinkConvert|643|TS}}",
+        "date3": "",
         "event4": "",
         "date4": "",
         "disestablished": "",
@@ -91,9 +81,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "'''Fhaoralusyolkiir''' ({{Pronounce|FOUR|uh|loo|sy|ale|keer|refs=",
-        "Geography": "This city was nestled along and built into the subsea cliffs of [[Turmish]], between [[Alaghôn]] and the [[Aprhunn Mountain]], near the mouth of the [[Vilhon Reach]].<ref> Its city gates and grandiose guardposts, with gleaming tridents made of [[blaze coral]], were set into the edge of the underwater valley of the Vilhon Reach.",
-        "Inhabitants": "By [[1371 DR]], about two hundred [[sea elves]] lived in Fhaoralusyolkiir, though most were tied to its temple.",
-        "History": "Fhaoralusyolkiir was founded in the year {{YearlinkConvert|-8923|TS}}. It would continue to stand following Aryselmalyn Empire's demise not becoming entirely abandoned and left to ruin until {{YearlinkConvert|-10|TS}}. As the years passed, much of the city built into the cliffside would be buried by collapsing caverns.\n\nIn the {{YearlinkName|573}}, the Church of Deep Sashelas took up residence in the palace once lived in by the garrison city's commanders, turning it into a temple to their god. This state of affairs would continue well into the 14{{th}} century DR, with the city still retaining some vestiges of its grandeur."
+        "mainbody": "Fhaoralusyolkiir (. It would continue to stand following Aryselmalyn Empires demise not becoming entirely abandoned and left to ruin until . As the years passed, much of the city built into the cliffside would be buried by collapsing caverns.\nIn the , the Church of Deep Sashelas took up residence in the palace once lived in by the garrison citys commanders, turning it into a temple to their god. This state of affairs would continue well into the 14 century DR, with the city still retaining some vestiges of its grandeur."
     }
 }

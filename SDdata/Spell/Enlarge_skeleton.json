@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Enlarge Skeleton",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Necromancy]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|1}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Enlarge skeleton''''' was a [[necromancy]] [[spell]] that increased the size of either a portion, or the entirety of, a [[human]]-sized or smaller [[skeleton]].",
-        "Effects": "Upon casting this spell, the affected skeletal remains were extended or otherwise enlarged as per the caster's choosing. If used on an animated skeleton, the [[undead]] creature grew twice in size; [[animal skeleton|re-animated animals]] grew to the size of monsters, and [[humanoid]] skeletons grew to giant proportions.\n\nIf used on non-animated remains, the bones grew in proportions and weight. ''Enlarge skeleton'' could not be used in this way on collected bones of multiple individuals.\n\n''Enlarge skeleton'' had no effect when cast upon living beings.",
-        "Casting": "This spell only required [[verbal]] and [[somatic]] components to be cast.",
-        "History": "This spell was known to be used by wizards of the [[Cult of the Dragon]]."
+        "mainbody": "Enlarge skeleton was a necromancy spell that increased the size of either a portion, or the entirety of, a human-sized or smaller skeleton.\nUpon casting this spell, the affected skeletal remains were extended or otherwise enlarged as per the casters choosing. If used on an animated skeleton, the undead creature grew twice in size re-animated animals grew to the size of monsters, and humanoid skeletons grew to giant proportions.\nIf used on non-animated remains, the bones grew in proportions and weight. Enlarge skeleton could not be used in this way on collected bones of multiple individuals.\nEnlarge skeleton had no effect when cast upon living beings.\nThis spell only required verbal and somatic components to be cast.\nThis spell was known to be used by wizards of the Cult of the Dragon."
     }
 }

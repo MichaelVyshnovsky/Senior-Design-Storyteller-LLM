@@ -1,20 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "35|mi|k|long": "yes"
-    },
     "document_data": {
-        "name": "Mavin's Worldweave",
-        "inventor": "[[Mavin]]",
-        "reversible2e": "",
-        "school2e": "[[Conjuration|Conjuration/Summoning]], [[Necromancy]], [[Alteration]], [[Inventive]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Arcanist]]|11}}",
-        "type2e": "[[Epic magic|Epic]]",
+        "type2e": "Epic",
         "refs2e": "",
-        "mainbody": "'''''Mavin's worldweave''''', sometimes simply called '''''worldweave''''',<ref> was a powerful [[arcanist]] spell of the [[inventive]] school that permanently modified the climate in a region.",
-        "Effects": "With this spell, an [[archwizard]] could alter the climate of a circular area {{SI|35|mi|k|long=yes}} in radius (even larger for more experienced casters).<ref group=\"note\">The area of effect is a reasonable assumption given that the source specifies it as \"one mile/lvl\" and it takes an arcanist of 35{{th}} level to cast this spell. The reader is free to interpret this as they see fit. The caster could target the center of the spell at any point within their field of view. One casting of the spell modified the climate one step on the following spectrum:\n<pre>Arctic &hArr; Subarctic &hArr; Temperate &hArr; Subtropic &hArr; Tropic</pre>\nAdditional steps required additional castings of the spell.",
-        "Components": "''Mavin's worldweave'' required [[Verbal component|verbal]] and [[material component]]s, but the details have been lost to history.<ref group=\"note\">That is, the source neglected to mention them.",
-        "History": "This spell was invented by the arcanist [[Mavin]] in the {{YearlinkName|-654}} ([[Netheril]] year 3205). It was used extensively on the northern border of Netheril to modify the subarctic climate to something more temperate."
+        "mainbody": "Mavins worldweave, sometimes simply called worldweave, was a powerful arcanist spell of the inventive school that permanently modified the climate in a region.\nWith this spell, an archwizard could alter the climate of a circular area  in radius (even larger for more experienced casters).The area of effect is a reasonable assumption given that the source specifies it as \"one mile/lvl\" and it takes an arcanist of 35 level to cast this spell. The reader is free to interpret this as they see fit. The caster could target the center of the spell at any point within their field of view. One casting of the spell modified the climate one step on the following spectrum\nArctic &hArr Subarctic &hArr Temperate &hArr Subtropic &hArr Tropic\nAdditional steps required additional castings of the spell.\nMavins worldweave required verbal and material components, but the details have been lost to history.That is, the source neglected to mention them.\nThis spell was invented by the arcanist Mavin in the  (Netheril year 3205). It was used extensively on the northern border of Netheril to modify the subarctic climate to something more temperate."
     }
 }

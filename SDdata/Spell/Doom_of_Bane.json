@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Doom of Bane",
-        "othernames": "",
-        "deity": "[[Bane]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Necromancy]]",
-        "spheres2e": "[[Necromantic sphere|Necromantic]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|4}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -45,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Doom of Bane''''' was a [[Divine magic|divine]] [[necromancy]] [[spell]] used by specialty priests devoted to [[Bane]], enabling them to transform a corpse into a [[helmed horror]].",
-        "Effects": "This spell would create a helmed horror out of the remains of a bipedal creature. The horrow would rise from the ground several minutes after the spell was cast and enter a suite of armor. The horror would dissipate if no armor could be found, otherwise the spell was permanent.\n\nThe caster of the spell needed to be wearing the armor when the helmed horror entered it. This often shocked the caster and made them pass out, but taught the helmed horror how to wear the armor properly and gave the horror its ability to reason independently. The horror usually took about ten minutes to fully animate, so the armor needed to be removed from the caster before that point.\n\nThe remains used for the spell did not need to be complete, but they did have to come from an individual who possessed a dark heart during its life. The ''doom of Bane'' spell destroyed the remains forever, preventing any form of resurrection or raising.",
-        "Components": "In addition to [[verbal component|verbal]] and [[somatic component]]s, this spell required as [[material component]]s a pinch of bone powder or shard of bone, and a mostly complete suite of nonmagical armor to cast."
+        "mainbody": "Doom of Bane was a divine necromancy spell used by specialty priests devoted to Bane, enabling them to transform a corpse into a helmed horror.\nThis spell would create a helmed horror out of the remains of a bipedal creature. The horrow would rise from the ground several minutes after the spell was cast and enter a suite of armor. The horror would dissipate if no armor could be found, otherwise the spell was permanent.\nThe caster of the spell needed to be wearing the armor when the helmed horror entered it. This often shocked the caster and made them pass out, but taught the helmed horror how to wear the armor properly and gave the horror its ability to reason independently. The horror usually took about ten minutes to fully animate, so the armor needed to be removed from the caster before that point.\nThe remains used for the spell did not need to be complete, but they did have to come from an individual who possessed a dark heart during its life. The doom of Bane spell destroyed the remains forever, preventing any form of resurrection or raising.\nIn addition to verbal and somatic components, this spell required as material components a pinch of bone powder or shard of bone, and a mostly complete suite of nonmagical armor to cast."
     }
 }

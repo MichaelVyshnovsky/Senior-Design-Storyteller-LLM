@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Striking Shadows",
-        "othernames": "",
-        "deity": "[[Mask]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Conjuration]]",
-        "spheres2e": "[[Guardian sphere|Guardian]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|6}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -45,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Striking shadows''''' was a [[Divine magic|divine]] [[conjuration]] [[spell]] used by priests devoted to [[Mask]], enabling them to create a pair of tentacled shadows.",
-        "Effects": "This spell created a pair of tentacled shadow monsters that resembled [[grell]]. The creatures would attack any targets nearby who weren't wearing a symbol of Mask.",
-        "Components": "This spell required only [[verbal component|verbal]] and [[somatic component]]s to cast."
+        "mainbody": "Striking shadows was a divine conjuration spell used by priests devoted to Mask, enabling them to create a pair of tentacled shadows.\nThis spell created a pair of tentacled shadow monsters that resembled grell. The creatures would attack any targets nearby who werent wearing a symbol of Mask.\nThis spell required only verbal and somatic components to cast."
     }
 }

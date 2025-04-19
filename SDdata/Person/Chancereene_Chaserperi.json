@@ -1,29 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Chancereene Chaserperi",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Athkatla]]",
-        "formerhomes": "",
-        "sex": "Female",
-        "gender": "",
-        "race": "[[Human]]",
-        "ethnicity": "",
-        "occupation": "Clan matriarch",
-        "age": "",
-        "patron deity": "",
-        "languages": "",
-        "basicrefs": "{{cite book/Secrets of the Magister|78}}",
         "parents": "",
-        "spouses": "[[Faereldan Chaserperi]]",
+        "spouses": "Faereldan Chaserperi",
         "siblings": "",
         "children": "",
         "familyrefs": "",
@@ -33,12 +11,9 @@
         "predecessor": "",
         "successor": "",
         "successionrefs": "",
-        "alignment2e": "[[Chaotic Good]]",
-        "class2e": "{{class table|edition=2e|[[Wizard]]|15}}",
+        "alignment2e": "Chaotic Good",
+        "class2e": "",
         "refs2e": "",
-        "mainbody": "[[Chancereene Chaserperi]] was the wife of [[Faereldan Chaserperi]], and the matriarch of the [[Chaserperi]] clan of [[mage]]s, in the late mid-14{{th}} century [[DR]].",
-        "Possessions": "She lived with her husband in a small manor on [[Skellin Street]], [[Athkatla]]. Their home had a walled garden on the back.",
-        "Activities": "As of the {{YearlinkName|1370}}, she had taken over her husband's responsibilities as clan patriarch and was looking for a successor amongst the clan's younger generation.",
-        "Relationships": "She used to spar verbally with her husband; as his memory began to fail, she became increasingly supportive, writing down names and sketching faces on his hand before meetings."
+        "mainbody": "Chancereene Chaserperi was the wife of Faereldan Chaserperi, and the matriarch of the Chaserperi clan of mages, in the late mid-14 century DR.\nShe lived with her husband in a small manor on Skellin Street, Athkatla. Their home had a walled garden on the back.\nAs of the , she had taken over her husbands responsibilities as clan patriarch and was looking for a successor amongst the clans younger generation.\nShe used to spar verbally with her husband as his memory began to fail, she became increasingly supportive, writing down names and sketching faces on his hand before meetings."
     }
 }

@@ -1,45 +1,6 @@
 {
-    "template_data": {
-        "12|20|ft|long": "yes",
-        "12|13|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Subterranean spiders.jpg",
-        "caption": "''A sword spider and two [[hairy spider]]s.''",
-        "name": "Sword spider",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "type3e": "Large [[vermin]]",
-        "subtype3e": "",
-        "alignment3e": "Always [[neutral]]",
-        "challenge3e": "5",
-        "refs3e": "",
-        "alignment2e": "[[Chaotic evil]]",
-        "size2e": "Huge",
-        "refs2e": "",
-        "alignment1e": "",
-        "refs1e": "",
-        "origin": "",
-        "patron deity": "",
-        "vision": "[[Darkvision]]",
-        "activecycle": "Any",
-        "lifespan": "",
-        "location": "",
-        "language": "",
-        "diet": "Carnivore",
-        "climate": "Any",
-        "terrain": "Any (prefers Jungles)",
-        "genrefs": "",
-        "height": "{{SIrange|12|13|ft}}",
-        "length": "{{SIrange|12|20|ft}}",
+        "length": "",
         "wingspan": "",
         "weight": "",
         "skincolor": "",
@@ -50,12 +11,6 @@
         "appearrefs": "",
         "based": "",
         "first": "",
-        "mainbody": "'''Sword spiders''' were a variety of [[subterranean spider]] and classified based on their body as being a species of hunting spiders.",
-        "Description": "Sword spiders ranged in lengths of {{SIrange|12|20|ft|long=yes}} in diameter and heights of {{SIrange|12|13|ft|long=yes}}. They had sleek but hairy black bodies with dark-brown-striped fur. Their legs had chitinous plates with sharp ridges that resembled blades.",
-        "Combat": "Sword spiders attacked with the sharp blades on their legs. They could also jump into the air and bring their legs together to impale an enemy. Additionally, their bite was venomous.",
-        "Ecology": {
-            "Diet": "Like most arachnids, sword spiders were a carnivorous species.",
-            "Habitats": "[[File:Sword spider.png|thumb|''A sword spider from the [[Arch Wood]].''|400x400px]]\nSword spiders were native to the [[Mhair Jungles]]. They were introduced by [[drow]] traders into the [[Underdark]], where they were kept and controlled by [[Lolth]]-worshiping drow as soldiers.\n\nBy the late-14{{th}} century DR, these creatures could be found in caves within [[Neverwinter Wood]], where they lived alongside [[ettercap]]s."
-        }
+        "mainbody": "Sword spiders were a variety of subterranean spider and classified based on their body as being a species of hunting spiders.\nSword spiders ranged in lengths of  in diameter and heights of . They had sleek but hairy black bodies with dark-brown-striped fur. Their legs had chitinous plates with sharp ridges that resembled blades.\nSword spiders attacked with the sharp blades on their legs. They could also jump into the air and bring their legs together to impale an enemy. Additionally, their bite was venomous.\nLike most arachnids, sword spiders were a carnivorous species.\nthumb|A sword spider from the 400x400px\nSword spiders were native to the Mhair Jungles. They were introduced by drow traders into the Underdark, where they were kept and controlled by Lolth-worshiping drow as soldiers.\nBy the late-14 century DR, these creatures could be found in caves within Neverwinter Wood, where they lived alongside ettercaps."
     }
 }

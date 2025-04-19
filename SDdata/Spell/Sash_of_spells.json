@@ -1,40 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Sash of Spells",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]], [[Conjuration]], [[Evocation]]",
-        "spheres2e": "",
-        "level2e": "{{Spell table|edition=2e|[[Wizard]]|9}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -42,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''Sash of Spells''' was a powerful spell from [[Halruaa]], knowledge of which was popularized in broader [[Faerûn]] by [[Volothamp Geddarm]] in his book, [[Volo's Guide to All Things Magical]].{{cite book/Volo's Guide to All Things Magical|81-82}}",
-        "Effects": "Upon casting the spell, the caster was surrounded by a diagonal band of energy for eight minutes. The band was capable of capturing up to eight spells: those spells were absorbed into the sash. If two identical spells were cast consecutively, the sash added a third identical spell, thus allowing the capacity of the sash to be extended to twelve spells.\n\nThis energy was not limited to the caster's spells, or even to spells that they would be able to cast. Divine spells were absorbable as normal by the magic. Once the time limit was up, the band's ends joined together, and all absorbed spells became ready to be unleashed freely through an act of will. This act of will had to be one of free will: the sash did not respond to charmed, psionically coerced, or otherwise controlled mind. The sash could be transferred by touch, but this caused severe damage to both the caster and receiver due to the wild surges involved. The release of a spell was swift enough that it could be used in the same round as an actual spell.\n\nThe magic had no maximum time span, and would hold for years without trouble. Only very powerful spells, such as [[limited wish]] or [[wish]] would deactivate a sash; [[dispel magic]] would not force so much as one spell from it. Trying to cast a new sash while already girded with one caused the second sash to fizzle out. If the wearer of a sash died, the sash discharged all of its spells around with random targets, usually with destructive results.\n\nFinally, the sash of spells removed all need for sleep from the wearer.",
-        "Components": "The spell called only for verbal and somatic components.",
-        "History": "The spell was referenced by Volo in [[Volo's Guide to All Things Magical (in-universe)|Volo's Guide to All Things Magical]]; the wizard claimed it had originated in Halruaa, and that it was a paltry modern equivalent of an old [[Netherese]] [[Mantle (spell)|Mantle]]."
+        "mainbody": "Sash of Spells was a powerful spell from Halruaa, knowledge of which was popularized in broader Faerûn by Volothamp Geddarm in his book, Volos Guide to All Things Magical.\nUpon casting the spell, the caster was surrounded by a diagonal band of energy for eight minutes. The band was capable of capturing up to eight spells those spells were absorbed into the sash. If two identical spells were cast consecutively, the sash added a third identical spell, thus allowing the capacity of the sash to be extended to twelve spells.\nThis energy was not limited to the casters spells, or even to spells that they would be able to cast. Divine spells were absorbable as normal by the magic. Once the time limit was up, the bands ends joined together, and all absorbed spells became ready to be unleashed freely through an act of will. This act of will had to be one of free will the sash did not respond to charmed, psionically coerced, or otherwise controlled mind. The sash could be transferred by touch, but this caused severe damage to both the caster and receiver due to the wild surges involved. The release of a spell was swift enough that it could be used in the same round as an actual spell.\nThe magic had no maximum time span, and would hold for years without trouble. Only very powerful spells, such as limited wish or wish would deactivate a sash dispel magic would not force so much as one spell from it. Trying to cast a new sash while already girded with one caused the second sash to fizzle out. If the wearer of a sash died, the sash discharged all of its spells around with random targets, usually with destructive results.\nFinally, the sash of spells removed all need for sleep from the wearer.\nThe spell called only for verbal and somatic components.\nThe spell was referenced by Volo in Volos Guide to All Things Magical the wizard claimed it had originated in Halruaa, and that it was a paltry modern equivalent of an old Netherese Mantle."
     }
 }

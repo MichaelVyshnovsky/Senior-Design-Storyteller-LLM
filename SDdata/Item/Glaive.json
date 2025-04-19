@@ -1,53 +1,31 @@
 {
-    "template_data": {
-        "10|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption2": "Various depictions of glaives.",
-        "name": "Glaive",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Melee weapon",
-        "location": "",
-        "value1e": "6 [[gp]]",
-        "weight1e": "{{SI|8|lbs.|k}}",
         "refs1e": "",
         "school2e": "",
         "level2e": "",
         "value2e": "6 gp",
-        "weight2e": "{{SI|8|lbs.|k}}",
+        "weight2e": "",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
         "itemlevel3e": "",
         "value3e": "8 gp",
-        "weight3e": "{{SI|10|lbs.|k}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "25 gp",
-        "weight4e": "{{SI|10|lbs.|k}}",
+        "weight4e": "",
         "refs4e": "",
         "rarity5e": "",
         "attunement5e": "",
         "school5e": "",
         "level5e": "",
         "value5e": "20 gp",
-        "weight5e": "{{SI|6|lbs.|k}}",
+        "weight5e": "",
         "refs5e": "",
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''Glaives''' were a type of reach weapon in the [[pole arm]] family.",
-        "Description": "Glaives were pole arms that, in their basic form, were long wooden poles mounted with a sword-like cutting blade.",
-        "Weaponology": "Glaives were two-handed melee weapons with a {{SI|10|ft|long=yes}} reach. Because it was a pole arm, it couldn't be used to attack adjacent foes. They were most effective in large numbers in a phalanx, or when they could be set against a charging opponent. Even though the tip of the blade was sharp and the back spike could be swung to penetrate armor, the glaive was considered a slashing weapon.",
-        "Availability": "* In many of the bazaars found across [[Zakhara]], one could find a glaive for around 5 to 9 [[gold piece]]s depending upon how good they were at haggling.<ref>",
-        "History": "Glaives first became available in the [[Netheril|Netheril Empire]] in {{YearlinkConvert|2171|NY}}.",
-        "Varieties": "* [[Naginata]], as well as its shortened version the nagimaki, were glaives unique to the land of [[Kara-Tur]]. They were typically used by footmen and horsemen respectively.\n* '''Saw-toothed glaives''' were variety of glaives with a ''+3 [[item enchantment|enchantment]]'' that were commonly used by creatures on the [[Lower Planes]], primarily [[bearded devil]]s. They had a treble-hook arranged at their base that curved backwards, allowing the wielder to entangle or snag their foes.",
-        "Notable glaives": "* The [[demon lord]] [[Baphomet]] carried a glaive referred to as \"Heart-cleaver.\"\n* The [[tiefling]] [[warrior]] [[Havilar]] carried a glaive she referred to as \"Devil Slayer\".{{Cite digital book/Brimstone Angels/Kindle|658}}",
-        "Usage": {
-            "Individuals": "* [[Dauphal]] was known to carry a ''+1 flaming glaive''.\n* [[Syr'daun Hunzrin]] was renowned for his skill with glaives.",
-            "Races & Sentient Creatures": "* [[Blackguard]]s often favored the glaive over other weapons.\n* The leaders of [[gnoll]] packs were often known to fight with glaives.\n* [[Justice archon]]s were occasionally known to fight with glaives.\n* Whenever a [[molydeus]] was a servant of baphomet, they always fought with a demonic glaive gifted to them by the demon lord himself.\n* [[Oni mage]]s were often known to fight with glaives.\n* [[Sorrowsworn]]s of the demonic variety were often known to favor fighting with ''+2 glaives''."
-        }
+        "mainbody": "Glaives were a type of reach weapon in the pole arm family.\nGlaives were pole arms that, in their basic form, were long wooden poles mounted with a sword-like cutting blade.\nGlaives were two-handed melee weapons with a  reach. Because it was a pole arm, it couldnt be used to attack adjacent foes. They were most effective in large numbers in a phalanx, or when they could be set against a charging opponent. Even though the tip of the blade was sharp and the back spike could be swung to penetrate armor, the glaive was considered a slashing weapon.\n* In many of the bazaars found across Zakhara, one could find a glaive for around 5 to 9 gold pieces depending upon how good they were at haggling.\nGlaives first became available in the Netheril Empire in .\n* Naginata, as well as its shortened version the nagimaki, were glaives unique to the land of Kara-Tur. They were typically used by footmen and horsemen respectively.\n* Saw-toothed glaives were variety of glaives with a +3 enchantment that were commonly used by creatures on the Lower Planes, primarily bearded devils. They had a treble-hook arranged at their base that curved backwards, allowing the wielder to entangle or snag their foes.\n* The demon lord Baphomet carried a glaive referred to as \"Heart-cleaver.\"\n* The tiefling warrior Havilar carried a glaive she referred to as \"Devil Slayer\".\n* Dauphal was known to carry a +1 flaming glaive.\n* Syrdaun Hunzrin was renowned for his skill with glaives.\n* Blackguards often favored the glaive over other weapons.\n* The leaders of gnoll packs were often known to fight with glaives.\n* Justice archons were occasionally known to fight with glaives.\n* Whenever a molydeus was a servant of baphomet, they always fought with a demonic glaive gifted to them by the demon lord himself.\n* Oni mages were often known to fight with glaives.\n* Sorrowsworns of the demonic variety were often known to favor fighting with +2 glaives."
     }
 }

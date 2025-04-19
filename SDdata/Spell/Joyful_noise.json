@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Joyful Noise",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Abjuration]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Bard]]|1}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Joyful noise''''' was a [[spell]] used by [[bard]]s.",
-        "Effects": "A caster used this spell to remove any magical silence that was cast within an area. It was effective up to {{SI|10|ft}} from the caster. The spell did not dispel the magical silence, merely suspended it within it's area of effect, outside of this area the magical silence was still active.",
-        "Components": "This spell required only a [[Verbal component|verbal]] component."
+        "mainbody": "Joyful noise was a spell used by bards.\nA caster used this spell to remove any magical silence that was cast within an area. It was effective up to  from the caster. The spell did not dispel the magical silence, merely suspended it within its area of effect, outside of this area the magical silence was still active.\nThis spell required only a verbal component."
     }
 }

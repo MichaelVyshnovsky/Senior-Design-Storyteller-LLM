@@ -1,22 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Merciful''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Weapon quality]]",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "casterlevel3e": "5{{th}}",
         "itemlevel3e": "",
         "value3e": "+1",
         "weight3e": "",
@@ -36,7 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Merciful''''' was a magical [[weapon quality|quality]] that could be applied to weapons. It allowed the wielder to cause only nonlethal damage to a target, if chosen. If this quality was applied to ranged weapons, then the effects were applied to the ammunition.",
-        "Creation": "The spell ''[[cure light wounds]]'' was used in the creation of  ''merciful'' weapons."
+        "mainbody": "Merciful was a magical quality that could be applied to weapons. It allowed the wielder to cause only nonlethal damage to a target, if chosen. If this quality was applied to ranged weapons, then the effects were applied to the ammunition.\nThe spell cure light wounds was used in the creation of  merciful weapons."
     }
 }

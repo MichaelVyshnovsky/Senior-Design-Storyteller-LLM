@@ -1,36 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "Bladeweave.jpg",
-        "caption": "",
-        "name": "Bladeweave",
-        "othernames": "",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Illusion]]",
-        "domains3e": "",
-        "descriptors3e": "Pattern",
-        "level3e": "{{Spell table|edition=3e|[[Bard]]|2|[[Sorcerer]]|2|[[Wizard]]|2}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -44,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Bladeweave''''' was an [[arcane]] [[illusion]] [[spell]] from the second circle of magic that affected the caster's weapon. The spell could be used by [[bard]]s, [[sorcerer]]s, and [[wizard]]s.",
-        "Effects": "When the spell's words were uttered, ''bladeweave'' imbued the caster's weapon with a scintillating pattern or the hum of a dazzling rhythm. This weapon then could be used in battle to land strikes that had a chance of dazzling their targets. Additionally, such weapons could simply be used to swiftly touch an opponent. Such a touch dealt no damage but still could render the target dazed. The duration of the spell increased with the spellcaster's magical prowess.",
-        "Components": "The spell required only a [[verbal component]]."
+        "mainbody": "Bladeweave was an arcane illusion spell from the second circle of magic that affected the casters weapon. The spell could be used by bards, sorcerers, and wizards.\nWhen the spells words were uttered, bladeweave imbued the casters weapon with a scintillating pattern or the hum of a dazzling rhythm. This weapon then could be used in battle to land strikes that had a chance of dazzling their targets. Additionally, such weapons could simply be used to swiftly touch an opponent. Such a touch dealt no damage but still could render the target dazed. The duration of the spell increased with the spellcasters magical prowess.\nThe spell required only a verbal component."
     }
 }

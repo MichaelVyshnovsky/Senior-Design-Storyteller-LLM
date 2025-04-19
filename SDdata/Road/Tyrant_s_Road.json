@@ -1,19 +1,10 @@
 {
-    "template_data": {
-        "300|mi|k|long": "yes"
-    },
     "document_data": {
-        "image": "MintarMap.png",
-        "caption": "A map showing the Tyrant's Road near the Lake of Steam.",
-        "name": "Tyrant's Road",
-        "type": "Trail",
-        "aliases": "Coast Road",
-        "length": "{{SI|300|mi|k|long=yes}}",
         "width": "",
         "pavement": "",
-        "location": "[[Land of the Lions]], [[south Faerûn]]",
-        "starts": "[[Mintar]]",
-        "ends": "[[Saelmur]]",
+        "location": "Land of the Lions, south Faerûn",
+        "starts": "Mintar",
+        "ends": "Saelmur",
         "built": "",
         "refs": "",
         "daggers": "",
@@ -26,9 +17,6 @@
         "roads": "yes",
         "bodies of water": "",
         "events": "",
-        "mainbody": "The '''Tyrant's Road''', formerly known as the '''Coast Road''' up until [[1370 DR]], was a trail found along the north banks of the the [[Lake of Steam]] in [[south Faerûn]].{{Cite interactive atlas}}<ref name=EotSS.M\"> It was rarely ever featured on [[map]]s made by northerners.",
-        "Description": "Tyrant's Road was paved and narrower than the more prominent [[Golden Road]].",
-        "Geography": "The trail began where [[Darkhope's Road]] ended in the west at the [[River Mintar]]. The Tyrant's Road cut east along the shore of the Lake of Steam, terminating in [[Saelmur]].<ref name=EotSS.M\"/>",
-        "History": "In the {{YearlinkName|1370}}, the name of the road changed to \"Tyrant's Road\" in reference to [[Teldorn Darkhope]]."
+        "mainbody": "The Tyrants Road, formerly known as the Coast Road up until 1370 DR, was a trail found along the north banks of the the Lake of Steam in south Faerûn. It was rarely ever featured on maps made by northerners.\nTyrants Road was paved and narrower than the more prominent Golden Road.\nThe trail began where Darkhopes Road ended in the west at the River Mintar. The Tyrants Road cut east along the shore of the Lake of Steam, terminating in Saelmur.\nIn the , the name of the road changed to \"Tyrants Road\" in reference to Teldorn Darkhope."
     }
 }

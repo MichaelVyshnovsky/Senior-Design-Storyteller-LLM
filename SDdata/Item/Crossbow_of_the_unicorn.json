@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "6|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Crossbow of the unicorn.gif",
-        "caption": "",
-        "name": "''Crossbow of the Unicorn''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Light crossbow]]",
-        "location": "[[Neverwinter]], [[Sword Coast]]<br/>[[New Mardale]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+5",
-        "value3e": "",
-        "weight3e": "{{SI|6|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Crossbows of the unicorn''''' were [[enchanted]] [[light crossbow]]s created in the town of [[New Mardale]].",
-        "Powers": "''Crossbows of the unicorn'' possessed powerful ''+5'' enchantments, and while a person held one of these weapons, they could move with a breakneck speed as if affected by the ''[[haste]]'' [[spell]].",
-        "History": "These crossbows were created sometime long before the late 14{{th}} century [[DR]] by the ingenious inhabitants of New Mardale to be used against an evil [[enchanter]]. The story claimed that the woman who weaved magics into these crossbows was inspired after witnessing a beautiful [[unicorn]] at the edge of town. She created spells that represented the [[celestial]] creature's purity and defense and enchanted the first ''crossbows of the unicorn''.\n\nAs of the {{YearlinkName|1373}}, some of these powerful items could be found in the hands of merchants and adventurers along the [[Sword Coast North]] and the [[Moonsea]] region."
+        "mainbody": "Crossbows of the unicorn were enchanted light crossbows created in the town of New Mardale.\nCrossbows of the unicorn possessed powerful +5 enchantments, and while a person held one of these weapons, they could move with a breakneck speed as if affected by the haste spell.\nThese crossbows were created sometime long before the late 14 century DR by the ingenious inhabitants of New Mardale to be used against an evil enchanter. The story claimed that the woman who weaved magics into these crossbows was inspired after witnessing a beautiful unicorn at the edge of town. She created spells that represented the celestial creatures purity and defense and enchanted the first crossbows of the unicorn.\nAs of the , some of these powerful items could be found in the hands of merchants and adventurers along the Sword Coast North and the Moonsea region."
     }
 }

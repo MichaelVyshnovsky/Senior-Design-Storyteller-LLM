@@ -1,25 +1,12 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Eternal peanut.png",
-        "caption": "",
-        "name": "Peanut",
-        "othernames": "Groundnut",
-        "nicknames": "",
-        "type": "Nut",
-        "material": "",
-        "creator": "",
-        "origin": "[[Chult]], [[Chultan Peninsula]]",
-        "location": "[[Amn]], [[Lands of Intrigue]]<br/>[[Calimshan]]<br/>[[Ravens Bluff]], [[the Vast]]{{Cite organized play/LC/Aethalynmur's Wings|22}}<br/>[[Airspur]], [[Akanûl]]<br/>[[Netheril]]",
         "basicrefs": "",
         "value1e": "",
         "weight1e": "",
         "refs1e": "",
         "school2e": "",
         "level2e": "",
-        "value2e": "30 [[gp]] per {{SI|1|lb|k|long=yes}}",
+        "value2e": "30 gp per",
         "weight2e": "",
         "refs2e": "",
         "school3e": "",
@@ -43,8 +30,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Peanuts''', also known as '''groundnuts''', were a type of legume that produced edible shelled underground nuts that could be pulverized to make spreadable and edible [[peanut butter]].",
-        "Usages": "''[[Aurora's Whole Realms Catalogue]]'' offered peanuts for sale in its exotics section, priced at 30 [[gold]] [[coin]]s per pound.\n\nA simple dessert treat called [[Monkey Balls (food)|Monkey Balls]] included peanut butter and could be found in [[Amn]]. A copy of the recipe was kept in [[Dradeel]]'s recipe collection in [[Spellhold]]. Further south, peanuts were eaten in [[Calimshan]], where they were baked and eaten as a side dish.\n\nIn the [[Vast]], peanuts could be found in [[Ravens Bluff]]'s [[Downunda Patisserie]]. Its Anniversary Specials menu included a box of [[chocolate]]-covered peanut and [[almond]] clusters.\n\nInhabitants of [[Port Nyanzaru]] in [[Chult]] consumed a dish of fried [[kapenta]] fish, cooked with [[onion]]s and groundnut powder.\n\nLastly, peanuts were found growing and consumed in [[Kara-Tur]].",
-        "History": "Peanuts, or groundnuts, were eaten as early as the ancient empire of [[Netheril]], where more primitive tribes foraged for peanuts to stew them."
+        "mainbody": "Peanuts, also known as groundnuts, were a type of legume that produced edible shelled underground nuts that could be pulverized to make spreadable and edible peanut butter.\nAuroras Whole Realms Catalogue offered peanuts for sale in its exotics section, priced at 30 gold coins per pound.\nA simple dessert treat called Monkey Balls included peanut butter and could be found in Amn. A copy of the recipe was kept in Dradeels recipe collection in Spellhold. Further south, peanuts were eaten in Calimshan, where they were baked and eaten as a side dish.\nIn the Vast, peanuts could be found in Ravens Bluffs Downunda Patisserie. Its Anniversary Specials menu included a box of chocolate-covered peanut and almond clusters.\nInhabitants of Port Nyanzaru in Chult consumed a dish of fried kapenta fish, cooked with onions and groundnut powder.\nLastly, peanuts were found growing and consumed in Kara-Tur.\nPeanuts, or groundnuts, were eaten as early as the ancient empire of Netheril, where more primitive tribes foraged for peanuts to stew them."
     }
 }

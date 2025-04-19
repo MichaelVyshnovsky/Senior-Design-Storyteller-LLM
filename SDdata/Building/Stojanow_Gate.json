@@ -1,54 +1,5 @@
 {
-    "template_data": {
-        "60|feet|long": "true",
-        "100|feet|long": "true",
-        "30|feet|long": "true"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Stojanow Gate",
-        "aliases": "",
-        "type": "",
-        "architecture": "",
-        "floors": "",
-        "location": "[[Phlan]], [[Moonsea]]",
-        "built": "",
-        "destroyed": "",
-        "owner": "",
-        "staff": "The [[Knights of the Black Fist]]",
-        "occupants": "",
-        "services": "Imprisonment, interrogation, public hangings",
-        "worship": "",
-        "basicrefs": "",
-        "ownertable": "",
-        "stafftable": "",
-        "histrefs": "",
-        "pipes": "",
-        "tankards": "",
-        "coins": "",
-        "daggers": "",
-        "stars": "",
-        "coinstacks": "",
-        "skulls": "",
-        "quality": "",
-        "price": "",
-        "volorefs": "",
-        "usethe": "",
-        "useon": "",
-        "inhabitants": "",
-        "locations": "",
-        "organizations": "",
-        "mainbody": "The '''Stojanow Gate''' was a pair of massive iron-bound doors protecting [[Valjevo Castle]] on the city of [[Phlan]]. Flanked by towering gatehouses, the place served as the city's prison and as the headquarter of the [[Knights of the Black Fist]].{{Cite adventurers league/The Courting of Fire|6-10}}",
-        "Structure": "One of the oldest structures in Phlan, the Stojanow Gate was a monumental structure almost {{SI|60|feet|long=true}} high and {{SI|100|feet|long=true}} wide, which stretched all the way between two channels of the [[Stojanow River]]. Its {{SI|30|feet|long=true}} wide walls displayed breathtaking scenes featuring folk heroes, royalty, [[wizard]]s, [[dragon]]s and [[deities]].{{Cite dungeon/170/Monument of the Ancients|54}}\n\nOn top of the walls, inhabitants could witness the dead bodies of criminals hung by the [[Black Watch]] feeding the city's [[raven]]s.",
-        "Activities": "The gate served as a place to collect tolls, as well as keep prisoners and interrogate them. Prisoners held in the Gate's prison cells usually only stayed for a couple days before they were released&mdash;or hanged. An officer manning a desk outside the structure handled the demands and complaints of individuals asking for the release of their loved ones.",
-        "Defenses": "While the Gate was built to defend Phlan's castle, it was actually kept open permanently, except in times of war.",
-        "History": "During a surprise attack in the {{yearlinkName|902}}, [[Zhentarim]] forces managed to capture Stojanow Gate without a fight.\n\nFollowing the attack by [[Vorgansharax]] in the {{yearlinkName|1489}}, the [[Tears of Virulence]] managed to close the gate for the first time in more than a century.{{Cite adventurers league/Tyranny in Phlan|18}}",
-        "Rumors & Legends": {
-            "Origins": "The exact origins of the Stojanow Gate was unclear and subject to debates. According to [[bard]]ic tales the monument was built by [[fire giant]]s in tribute to ancient warrior kings, while some sages believed it was built by [[dwarves]] long ago."
-        },
-        "Inhabitants": {
-            "Notable prisoners": "* [[Sahnd Krulek]] (escaped){{Cite adventurers league/Outlaws of the Iron Route|7}}\n* [[Ellison Berenger]] (escaped){{Cite adventurers league/The Scroll Thief|24}}\n* [[Jhessail Greycastle]], while the gate was under the control of Vorgansharax.{{Cite adventurers league/Escape from Phlan|15-16}}\n* [[Tibeem]] (hanged)\n* [[Yusten Karas]] (escaped){{Cite adventurers league/Raiders of the Twilight Marsh|8}}"
-        }
+        "mainbody": "he Stojanow Gate was a pair of massive iron-bound doors protecting Valjevo Castle on the city of Phlan. Flanked by towering gatehouses, the place served as the citys prison and as the headquarter of the Knights of the Black Fist.\nOne of the oldest structures in Phlan, the Stojanow Gate was a monumental structure almost  high and  wide, which stretched all the way between two channels of the Stojanow River. Its  wide walls displayed breathtaking scenes featuring folk heroes, royalty, wizards, dragons and deities.\nOn top of the walls, inhabitants could witness the dead bodies of criminals hung by the Black Watch feeding the citys ravens.\nThe gate served as a place to collect tolls, as well as keep prisoners and interrogate them. Prisoners held in the Gates prison cells usually only stayed for a couple days before they were released&mdashor hanged. An officer manning a desk outside the structure handled the demands and complaints of individuals asking for the release of their loved ones.\nWhile the Gate was built to defend Phlans castle, it was actually kept open permanently, except in times of war.\nDuring a surprise attack in the , Zhentarim forces managed to capture Stojanow Gate without a fight.\nFollowing the attack by Vorgansharax in the , the Tears of Virulence managed to close the gate for the first time in more than a century.\nThe exact origins of the Stojanow Gate was unclear and subject to debates. According to bardic tales the monument was built by fire giants in tribute to ancient warrior kings, while some sages believed it was built by dwarves long ago.\n* Lieutenant Cron Bolver, during the late 15 century DR..\n* Sahnd Krulek (escaped)\n* Ellison Berenger (escaped)\n* Jhessail Greycastle, while the gate was under the control of Vorgansharax.\n* Tibeem (hanged)\n* Yusten Karas (escaped)"
     }
 }

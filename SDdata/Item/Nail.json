@@ -1,29 +1,5 @@
 {
-    "template_data": {
-        "1|inch|c|long": "yes",
-        "4|inch|c|long": "yes",
-        "1|inch|c|long_1": "yes",
-        "2|inch|c|long": "yes",
-        "3|inch|c|long": "yes"
-    },
     "document_data": {
-        "image": "Nail-ME.png",
-        "caption": "",
-        "name": "Nail",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Fastener",
-        "material": "Metal",
-        "creator": "",
-        "origin": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "{{Plain table|1\" finishing nails|2 [[sp]]/lb|2\", 3\" joiners' nails|1 sp/lb}}",
         "weight2e": "",
         "refs2e": "",
         "school3e": "",
@@ -47,11 +23,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Nails''' were a simple and vital kind of fastener that were used in many types of carpentry and construction in the [[Realms]]. They belonged to a broad class of hardware that included [[Bolt (fastener)|bolts]], [[spike]]s, [[rivet]]s, and [[peg]]s.",
-        "Description": "[[File:Iron Nails.png|thumb|''Some nails.'']]\nNails were typically between {{SIAdj|1|inch|c|long=yes}} and {{SIAdj|4|inch|c|long=yes}} long (any longer and they were considered spikes), and were most often made from [[iron]]. Depending on their method of manufacture, they could be made with a round or square cross-section.\n\nA common variation was the '''eye spike''', an extra-long nail that would be driven into a tree or wooden wall which could then be bent into a simple ring, such as for securing [[rope]]s.\n\nAside from bolts, spikes, and pegs, nails also had a strong resemblance to [[needle]]s and [[stake]]s.",
-        "Availability": "[[File:Iron Nails 2.png|thumb|''A few more nails.'']]\nAlongside other forms of common ironmongery, nails were widely produced by artisans in [[Faerûn]] to keep up with constant demand. They were often made by apprentice blacksmiths who worked on other simple, useful items such as spikes and [[hook]]s.\n\n''[[Aurora's Whole Realms Catalogue (in-universe)|Aurora's Whole Realms Catalogue]]'' offered a selection of nails and related tools in various configurations and sizes, including {{SIAdj|1|inch|c|long=yes}} finishing nails (2 [[sp]]/lb) and {{SIAdj|2|inch|c|long=yes}} or {{SIAdj|3|inch|c|long=yes}} joiners' nails (1 sp/lb).",
-        "Usage": {
-            "Magic": "* ''[[Hold monster]]'' used a metal rod as a [[material component]], such as a nail or spike.\n* The ''[[statue]]'' spell could be cast using a mixture of [[Lime (material)|lime]], [[sand]], and water stirred by an iron nail or spike."
-        }
+        "mainbody": "Nails were a simple and vital kind of fastener that were used in many types of carpentry and construction in the Realms. They belonged to a broad class of hardware that included bolts, spikes, rivets, and pegs.\nthumb|Some nails.\nNails were typically between  and  long (any longer and they were considered spikes), and were most often made from iron. Depending on their method of manufacture, they could be made with a round or square cross-section.\nA common variation was the eye spike, an extra-long nail that would be driven into a tree or wooden wall which could then be bent into a simple ring, such as for securing ropes.\nAside from bolts, spikes, and pegs, nails also had a strong resemblance to needles and stakes.\nthumb|A few more nails.\nAlongside other forms of common ironmongery, nails were widely produced by artisans in Faerûn to keep up with constant demand. They were often made by apprentice blacksmiths who worked on other simple, useful items such as spikes and hooks.\nAuroras Whole Realms Catalogue offered a selection of nails and related tools in various configurations and sizes, including  finishing nails (2 sp/lb) and  or  joiners nails (1 sp/lb).\nthumb|A set of fasteners, including nails (bottom left and upper right).\nNails were mainly used to join wood in carpentry or construction projects. Before being hammered into wood, the nail hole could be prepared using an awl to make an indentation, or partially bored out with a bow drill. Special nail hammers could be found which had a claw for ripping out nails.\nCrude weapons could be enhanced by embedding metal nails within wood, such as the greatclub.\nNails and pegs were commonly used for ship construction in Faerûn, while in Zakhara this was avoided, with ship timbers instead sewn together with coconut fiber rope. This produced lighter ships that better handled reefs and shoals, and allowed them to survive the influence of a great lodestone deposit beneath the Crowded Sea.\nIn the ancient Netherese city of Scourge, the regions unnatural rusting winds meant that nails (and any other metal fittings, tools, and weapons) were useless. Instead, wooden nails were used for construction.\n* Hold monster used a metal rod as a material component, such as a nail or spike.\n* The statue spell could be cast using a mixture of lime, sand, and water stirred by an iron nail or spike."
     }
 }

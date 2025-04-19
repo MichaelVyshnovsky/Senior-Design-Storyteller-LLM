@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Shield of the God",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]]",
-        "spheres2e": "[[Protection sphere|Protection]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|5|[[Protection sphere|Protection]]|5}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Shield of the god''''' was a [[divine]] [[evocation]] [[spell]] that created a shield of pure force energy that protected the caster from physical attacks.",
-        "Effects": "After it was cast, the ''shield'' blocked attacks made at the caster and could be used to impact nearby combatants. Additionally, it could be used to block narrow passageways and even absorbed certain physical attack spells that directly targeted the caster.",
-        "History": "The name of this spell was inscribed within the ''[[Helm of Helm]]'' and could be cast by utterance of its wearer.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component]]s, this spell required a single glove and a chunk of translucent [[gemstone]]."
+        "mainbody": "Shield of the god was a divine evocation spell that created a shield of pure force energy that protected the caster from physical attacks.\nAfter it was cast, the shield blocked attacks made at the caster and could be used to impact nearby combatants. Additionally, it could be used to block narrow passageways and even absorbed certain physical attack spells that directly targeted the caster.\nThe name of this spell was inscribed within the Helm of Helm and could be cast by utterance of its wearer.\nIn addition to verbal and somatic components, this spell required a single glove and a chunk of translucent gemstone."
     }
 }

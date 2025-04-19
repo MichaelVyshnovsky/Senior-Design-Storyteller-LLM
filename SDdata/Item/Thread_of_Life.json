@@ -1,31 +1,8 @@
 {
-    "template_data": {
-        "0.1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Thread of life.jpg",
-        "caption": "",
-        "name": "''Thread of Life''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Kama]]",
-        "creator": "",
-        "origin": "[[Kara-Tur]]",
-        "location": "[[Neverwinter]], [[Sword Coast North]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "7{{th}}",
         "itemlevel3e": "+1",
         "value3e": "",
-        "weight3e": "{{SI|0.1|lb|k|long=yes}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -42,8 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Thread of Life''''' were [[enchanted]] [[kama]] from [[Kara-Tur]], used by the [[healer]] devotees of [[Aido Glade]].",
-        "Powers": "Each of these kama bore a simple ''+1'' enchantment that guided the weapon towards the target and slightly increased its damage, as well as made it possible to harm creatures typically unaffected by mundane weapons. However, the true power of ''Thread of Life'' was not in their offensive capabilities but in healing. Firstly, the wielder received the boon of slow ''[[regeneration]]'' as long as they held the weapon. The kama also possessed fifty charges, granting the wielder the ability to cast ''[[cure critical wounds]]'' by expending five charges, ''[[cure moderate wounds]]'' – two charges, ''[[cure serious wounds]]'' – four charges, and the ''[[cure minor wounds]]'' [[spell]] at will.",
-        "History": "''Thread of Life'' kama were created by the devotees of Aido Glade, who were present at many battlefields yet stayed impartial and did not spill blood. They harnessed the kama's magics to heal and ease the suffering of the wounded. By the late 14{{th}} century DR, some of these enchanted kama or copies made from the originals were found in the city of [[Neverwinter]] and nearby lands."
+        "mainbody": "Thread of Life were enchanted kama from Kara-Tur, used by the healer devotees of Aido Glade.\nEach of these kama bore a simple +1 enchantment that guided the weapon towards the target and slightly increased its damage, as well as made it possible to harm creatures typically unaffected by mundane weapons. However, the true power of Thread of Life was not in their offensive capabilities but in healing. Firstly, the wielder received the boon of slow regeneration as long as they held the weapon. The kama also possessed fifty charges, granting the wielder the ability to cast cure critical wounds by expending five charges, cure moderate wounds – two charges, cure serious wounds – four charges, and the cure minor wounds spell at will.\nThread of Life kama were created by the devotees of Aido Glade, who were present at many battlefields yet stayed impartial and did not spill blood. They harnessed the kamas magics to heal and ease the suffering of the wounded. By the late 14 century DR, some of these enchanted kama or copies made from the originals were found in the city of Neverwinter and nearby lands."
     }
 }

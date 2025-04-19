@@ -1,42 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Magefire",
-        "deity": "[[Mystra]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Abjuration]], [[Necromancy]]",
-        "spheres2e": "[[Healing sphere|Healing]], [[Necromantic sphere|Necromantic]], [[Protection sphere|Protection]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|4}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -44,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Magefire''''' was a [[Divine magic|divine]] [[abjuration]] and [[necromancy]] [[spell]] used by priests devoted to [[Mystra]], enabling them to produce multiple effects.\n\nThis was a cooperative spell requiring at least two priests of Mystra casting simultaneously.",
-        "Effects": "This spell granted the combined effects of ''[[remove curse]], [[neutralize poison]]'', and ''[[cure disease]]'' if two casters cast the spell at the same time. Additional benefits could be added with each new spellcaster who participated either by casting the spell or donating magical energy. The casting time of the spell was extended by ten minutes for each additional participant. The additional benefits in the order they would be received were ''[[cure blindness or deafness]], [[heal]], [[regenerate]]'', and ''[[dispel magic]]''.",
-        "Components": "This spell required only [[verbal component|verbal]] and [[somatic component]]s to cast."
+        "mainbody": "Magefire was a divine abjuration and necromancy spell used by priests devoted to Mystra, enabling them to produce multiple effects.\nThis was a cooperative spell requiring at least two priests of Mystra casting simultaneously.\nThis spell granted the combined effects of remove curse, neutralize poison, and cure disease if two casters cast the spell at the same time. Additional benefits could be added with each new spellcaster who participated either by casting the spell or donating magical energy. The casting time of the spell was extended by ten minutes for each additional participant. The additional benefits in the order they would be received were cure blindness or deafness, heal, regenerate, and dispel magic.\nThis spell required only verbal and somatic components to cast."
     }
 }

@@ -1,45 +1,5 @@
 {
-    "template_data": {
-        "120|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Finger of the Gods",
-        "aliases": "",
-        "type": "Lighthouse",
-        "architecture": "",
-        "floors": "",
-        "location": "[[Melvaunt]], The [[Moonsea (lake)|Moonsea]]",
-        "built": "",
-        "destroyed": "",
-        "owner": "",
-        "staff": "",
-        "occupants": "",
-        "services": "",
-        "worship": "",
-        "basicrefs": "",
-        "ownertable": "",
-        "stafftable": "",
-        "histrefs": "",
-        "pipes": "",
-        "tankards": "",
-        "coins": "",
-        "daggers": "",
-        "stars": "",
-        "coinstacks": "",
-        "skulls": "",
-        "quality": "",
-        "price": "",
-        "volorefs": "",
-        "usethe": "yes",
-        "useon": "",
-        "inhabitants": "yes",
-        "locations": "",
-        "organizations": "",
-        "mainbody": "The '''Finger of the Gods''' was a lighthouse enchanted with a ''[[continual light]]'' spell in [[Melvaunt]] around [[1367 DR]].",
-        "Location": "The lighthouse was located at the western end of the docks.",
-        "Description": "The Finger of the Gods stood {{SI|120|ft|long=yes}} tall and was made from cast-[[iron]].",
-        "Inhabitants": "[[Jered Wavetamer]] manned the lighthouse in 1367 DR."
+        "mainbody": "he Finger of the Gods was a lighthouse enchanted with a continual light spell in Melvaunt around 1367 DR.\nThe lighthouse was located at the western end of the docks.\nThe Finger of the Gods stood  tall and was made from cast-iron.\nJered Wavetamer manned the lighthouse in 1367 DR."
     }
 }

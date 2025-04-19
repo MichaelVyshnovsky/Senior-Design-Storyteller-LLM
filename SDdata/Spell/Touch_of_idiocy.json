@@ -1,37 +1,8 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Touch of Idiocy",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Enchantment]] ([[Compulsion spells|Compulsion]])",
-        "domains3e": "[[Envy domain|Envy]]",
-        "descriptors3e": "{{Desc/mind-affecting}}",
-        "level3e": "{{Spell table|edition=3e|[[Envy domain|Envy]]|3|[[Sorcerer]]|2|[[Wizard]]|2|[[Wu jen]]|2}}",
+        "level3e": "",
         "type3e": "",
-        "refs3e": "{{Cite dragon/318/Oriental Adventures Update|41}}{{Cite dragon/323/Seven Deadly Domains|63}}",
+        "refs3e": "",
         "reversible2e": "",
         "school2e": "",
         "spheres2e": "",
@@ -43,8 +14,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Touch of idiocy''''' was a [[spell]] that caused the target's mental faculties to deteriorate.",
-        "Effects": "On touching the living target, the target's mental faculties temporarily deteriorated. During this time, the target could not recall facts as well as he or she usually could do, was not as insightful into matters as normally, and did not have a strong force of personality as usual. It could also cause the temporary loss of spellcasting capacities.\n\nThe dangerous part of this spell was that it was impossible to resist. The user merely needed to touch the victim.",
-        "Components": "The spell required only somatic and verbal components."
+        "mainbody": "Touch of idiocy was a spell that caused the targets mental faculties to deteriorate.\nOn touching the living target, the targets mental faculties temporarily deteriorated. During this time, the target could not recall facts as well as he or she usually could do, was not as insightful into matters as normally, and did not have a strong force of personality as usual. It could also cause the temporary loss of spellcasting capacities.\nThe dangerous part of this spell was that it was impossible to resist. The user merely needed to touch the victim.\nThe spell required only somatic and verbal components."
     }
 }

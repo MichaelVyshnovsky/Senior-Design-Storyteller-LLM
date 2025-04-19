@@ -1,40 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Towerfall",
-        "deity": "",
-        "inventor": "[[Inhil Lauthdryn]]",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|9}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -42,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Towerfall''''' was a powerful [[arcane]] [[spell]] that could knock over stone towers and walls.",
-        "Effects": "''Towerfall'', quite simply, lifted and knocked over huge stone structures, like castle towers, bridges, and city walls.\n\nA variant of ''towerfall'' was ''[[stone fountain]]''.",
-        "History": "[[Inhil Lauthdryn|Inhil \"Hurler-of-Stars\" Lauthdryn]], the [[Magister]] from [[1282 DR|1282]] to [[1294 DR]], had a special love of blowing up castles, hence his creation of ''towerfall''. He particularly enjoyed the spell, but he took its secrets to his grave in the [[1294 DR|Year of the Deep Moon, 1294 DR]]."
+        "mainbody": "Towerfall was a powerful arcane spell that could knock over stone towers and walls.\nTowerfall, quite simply, lifted and knocked over huge stone structures, like castle towers, bridges, and city walls.\nA variant of towerfall was stone fountain.\nInhil \"Hurler-of-Stars\" Lauthdryn, the Magister from 1282 to 1294 DR, had a special love of blowing up castles, hence his creation of towerfall. He particularly enjoyed the spell, but he took its secrets to his grave in the Year of the Deep Moon, 1294 DR."
     }
 }

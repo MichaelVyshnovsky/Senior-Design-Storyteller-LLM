@@ -1,30 +1,16 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Khalas",
-        "othernames": "The Gentle Land",
-        "symbol": "Gehenna.png",
-        "demonym": "",
-        "natives": "",
-        "languages": "",
-        "color-pool-color": "Russet",
-        "color-pool-image": "ColorPoolGehenna.png",
-        "fork-material": "[[Iron]]",
-        "fork-note": "F",
-        "fork-audio": "F4.ogg",
-        "basicrefs": "{{Cite dragon/120/Plane Speaking|42-43}}",
         "type-GW": "Layer",
         "shape-size-GW": "Finite",
         "gravity-GW": "Normal",
         "time-GW": "Normal",
         "morphic-GW": "Divinely",
         "element-energy-GW": "None",
-        "alignment-GW": "{{Alignment grid|off|off|off|off|off|off|on|on|off}}",
+        "alignment-GW": "",
         "magical-GW": "Normal",
         "layers-GW": "",
         "layer-number-GW": "1",
-        "location-GW": "[[Gehenna]]",
+        "location-GW": "Gehenna",
         "refs-GW": "",
         "type-WA": "",
         "shape-size-WA": "",
@@ -57,10 +43,6 @@
         "settlements": "yes",
         "usethe": "",
         "useon": "",
-        "mainbody": "'''Khalas''', sometimes called the '''Gentle Land''', and [[Gaknulak]].",
-        "Geography": {
-            "Geographical Features": "The violent waterfalls and rugged mountainscape conferred to Khalas an eerie beauty. Above the red glowing mist, the second layer, [[Chamada]], was visible in the distance."
-        },
-        "Notable Locations": "* [[Aknuthrak]], realm of [[Gaknulak]].\n* [[Corriegrave]], realm of the [[Celtic pantheon|Celtic]] god [[Math Mathonwy]].\n* The [[Throne of Blood]], realm of [[Bhaal]].\n* The [[Cloudy Path]], a bi-directional always-open ''[[portal]]'' to the [[Quasi-Elemental Plane of Steam]]."
+        "mainbody": "Khalas, sometimes called the Gentle Land, and Gaknulak.\nDespite being finite as it floated in the endless void of the plane, Khalas stretched for an unimaginably large distance and was larger than any known landmass of any world in the Prime Material plane. There was no level ground to be found anywhere in the layer all slopes were inclined at least 45 degrees, and sheer cliffs were common.\nMarked by abundant volcanic activity, the air of Khalas was saturated with ash and smoke. Close to the ground, the air glowed red due to the lava flows reflecting off the smoke. Above this glow, the sky was permanently dark.\nThe layer was marked by numerous waterfalls that descended the bottomless slopes until evaporating away or going underground through fissures. As the water evaporated, it filled the entire layer with steam and cloaked it in mist.\nThe largest waterfalls were the ones along the course of the river Styx,\nThis layer touched the Astral Plane and had connections to the planes of Hades, Baator, and the Concordant Opposition. The portals appeared as black chasms that opened up in the ground in deep underground caverns. While there was no way of telling where these would lead, intelligent travelers had made markings on the walls by many of them to indicate the portals destination, if one could read them.\nThe violent waterfalls and rugged mountainscape conferred to Khalas an eerie beauty. Above the red glowing mist, the second layer, Chamada, was visible in the distance.\n* Aknuthrak, realm of Gaknulak.\n* Corriegrave, realm of the Celtic god Math Mathonwy.\n* The Throne of Blood, realm of Bhaal.\n* The Cloudy Path, a bi-directional always-open portal to the Quasi-Elemental Plane of Steam."
     }
 }

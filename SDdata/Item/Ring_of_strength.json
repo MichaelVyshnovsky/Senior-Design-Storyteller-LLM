@@ -1,24 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Ring of Strength''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Ring]]",
-        "creator": "",
-        "location": "[[Hand of the Seldarine]], [[Spine of the World]]<br/>[[Old Empires]]<br/>[[Kara-Tur]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "{{SI|1|lb|k|long=yes}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -41,9 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Rings of strength''''' were enchanted pieces of precious metal jewelry that enhanced the wearer's strength.",
-        "Description": "''Rings of strength'' were usually simple bands of [[gold]]. These [[ring]]s felt warm to the touch.\n\nThe ''rings of strength'' from the [[Old Empires]] were stronger versions of these items and were crafted out of finger bones of [[stone giant]]s.",
-        "Powers": "''Rings of strength'' were enchanted to slightly increase the wearer's strength. However, some versions of this magic jewelry increased the wearer's strength at the cost of their dexterity.\n\nThe more potent versions of these rings from the Old Empires were created at three power levels, all improving the wearer strength drastically.\n\nA ''[[curse]]d'' version of ''rings of strength'' existed in the Old Empires. Those diabolical items could only be removed via ''[[remove curse]]'' spell and shifted the wearer perception in battle, making them see their allies as enemies.",
-        "History": "In [[1281 DR]], some of these enchanted rings could be found in the ruined Citadel of the [[Hand of the Seldarine]] at the [[Spine of the World]].\n\nIn [[1369 DR]], several ''rings of strength'' of [[elf|elven]] make could be found in the [[Elven Catacombs]] of [[Myth Drannor]], at the time, looted by [[drow]] of [[House Freth]]."
+        "mainbody": "Rings of strength were enchanted pieces of precious metal jewelry that enhanced the wearers strength.\nRings of strength were usually simple bands of gold. These rings felt warm to the touch.\nThe rings of strength from the Old Empires were stronger versions of these items and were crafted out of finger bones of stone giants.\nRings of strength were enchanted to slightly increase the wearers strength. However, some versions of this magic jewelry increased the wearers strength at the cost of their dexterity.\nThe more potent versions of these rings from the Old Empires were created at three power levels, all improving the wearer strength drastically.\nA cursed version of rings of strength existed in the Old Empires. Those diabolical items could only be removed via remove curse spell and shifted the wearer perception in battle, making them see their allies as enemies.\nIn 1281 DR, some of these enchanted rings could be found in the ruined Citadel of the Hand of the Seldarine at the Spine of the World.\nIn 1369 DR, several rings of strength of elven make could be found in the Elven Catacombs of Myth Drannor, at the time, looted by drow of House Freth."
     }
 }

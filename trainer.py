@@ -14,7 +14,7 @@ from datetime import datetime
 
 # Configuration - CHANGED TO GPT-2
 MODEL_NAME = "gpt2"  # Using GPT-2 which is designed for causal LM
-DATA_ROOT = "./data"              
+DATA_ROOT = "./SDdata"              
 RESULTS_DIR = "./results"         
 BATCH_SIZE = 4                    # Reduced for GPT-2 which is larger
 NUM_EPOCHS = 3                    

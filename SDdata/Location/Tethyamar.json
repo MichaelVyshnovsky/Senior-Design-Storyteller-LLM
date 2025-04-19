@@ -1,32 +1,6 @@
 {
     "document_data": {
-        "type": "Kingdom",
-        "name": "Tethyamar",
-        "image": "Mines of Tethyamar Outpost.jpg",
-        "caption": "",
-        "aliases": "",
-        "capital": "Leadership exiled in the [[Far Hills]]",
-        "area": "[[Upperdark]], [[Buried Realms]]<br />Under the [[Desertsmouth Mountains]], [[North Faerûn]]",
-        "georefs": "",
-        "size": "",
-        "ruler1": "[[Roryn]]",
-        "ruleryear1": "-145",
-        "ruler2": "[[Ghellin]]",
-        "ruleryear2": "1369",
-        "ruler3": "",
-        "ruleryear3": "",
-        "ruler4": "",
-        "ruleryear4": "",
-        "ruler5": "",
-        "ruleryear5": "",
-        "histrefs": "",
-        "rulertype": "King",
-        "government": "[[Wikipedia:Monarchy|Monarchy]]",
-        "govrefs": "",
-        "languages": "",
-        "races": "[[Barghests]], [[Dwarves]], [[Goblins]], [[Orcs]], [[Worghest]]s",
-        "religion": "{{Former}} [[Moradin]]",
-        "socrefs": "{{Cite dragon/350/Legacies of Ancient Empires: Planetouched of Faerûn|57}}",
+        "socrefs": "",
         "reckoning": "DR",
         "population1": "",
         "popyear1": "",
@@ -45,14 +19,6 @@
         "locations": "",
         "organizations": "yes",
         "settlements": "",
-        "mainbody": "The mines of '''Tethyamar''' were once home to one of the greatest [[dwarf|dwarven]] communities in [[north Faerûn]].",
-        "Geography": "The mines of Tethyamar were very deep, following the long vertical veins of ore that lay beneath the [[Desertsmouth Mountains]]. Along these descending ore-veins chains of chambers were constructed that made up the housing, forges, tombs and storage areas of the dwarves of Tethyamar. This design resulted in a far more widespread dwarf hold compared to others of its kind.{{Cite web/Candlekeep forum/Questions for Ed Greenwood (2012)/Mines of Tethyamar}}",
-        "Trade": "Early trade in Tethyamar was primarily with its nearest neighboring realms. These included [[Anauria]], [[Asram]], [[Avaeraether]], [[Cormanthyr]] and [[Hlondath]]. After a few centuries its trading connections had expanded to include [[Cormyr]], [[Hlontar]], [[Myth Drannor]], [[Merrydale]], [[Northkeep]] and [[Teshar]].\n\nWith their forged goods, ore and riches, Tethyamar prospered from its ever-growing trade until the founding of [[Flostren's Hold]] in [[747 DR]]. After Flostren's Hold under the sway of a consortium of wizards, known as the [[Zhentarim]], fierce competition between the two mining nations erupted.",
-        "Defenses": "Due to Tethyamar's scattered design, the Kingdom was much harder to defend as enemies could target isolated areas easily. However the dwarves tended to be much more self-reliant and hardy because of the far-flung nature of their home.",
-        "Culture": "In Tethyamar culture it was common for dwarves from many different clans to live and work together. Thus comportment and solidarity as a \"Tethyamar dwarf\" tended to be more important than bloodlines or heritage.",
-        "History": {
-            "Early history": "Located in the northern [[Desertsmouth Mountains]], these wondrous mines and caverns were founded in the {{yearlinkName|-145}} by [[Roryn]], blood of [[Thordbard]], of the [[Iron House]] of fallen [[Oghrann]].  Generations of dwarfs carved out magnificent halls and looted the earth of her valuables, selling them to [[humans]] and [[elves]], sending rafts of riches down the [[River Tesh]] to the [[Moonsea]] and beyond. \n\nDuring this early period, Tethyamar was continually beset by attacks from [[orcs]], [[hobgoblins]] and [[ogres]] as they carved out their kingdom. Despite their resilience Tethyamar briefly fell to orcs from the [[Dragonspine Mountains]] in {{YearlinkName|-88}} before the dwarves reclaimed their halls in {{YearlinkName|-86}}. This close defeat caused the Tethyamar dwarves to sponsor the construction of the fortress-city [[Rulvadar]], to protect against further attacks.",
-            "Fall of Tethyamar": "Tethyamar perished however in the {{yearlinkName|1104}}. After more than a decade of resistance, Tethyamar was entirely overwhelmed by legion of [[orc]]s and [[goblin]]s, along with their vicious [[barghest]] beasts and [[demon]]ic allies. This invading force was led by the self-proclaimed [[Great Hlundadim]] leader of the old [[goblinoid]] kingdom that [[Hlundadim|bore his name]]. \n\nThe surviving dwarves of the Iron House fled to the dwarven communities of the [[Far Hills]] and [[Storm Horns]] of [[Cormyr]]. Of the royal family, only the king's youngest son, [[Ghellin]] had survived.\n\nIn the {{yearlinkName|1364}} [[Borlin]], blood of Ghellin, mustered a dwarf army known as the [[Mithril Legion]] to reclaim Tethyamar for the Iron House, but the force was defeated.  \n\nGhellin died in exile, reportedly in the [[Far Hills]], of a wasting [[disease]] that resisted all medicinal and [[cleric]]al cures. \n\nNevertheless, dwarves in the lands around the [[Sea of Fallen Stars]] continued to speak of and work towards the day when “the king shall take his throne again.”\n\nBy the {{YearlinkName|1372}}, the [[Zhentarim]] under the command of [[Kara Chermosk]] occupied one of the upper fortresses of Tethyamar and reopened mining operations."
-        }
+        "mainbody": "The mines of Tethyamar were once home to one of the greatest dwarven communities in north Faerûn.\nThe mines of Tethyamar were very deep, following the long vertical veins of ore that lay beneath the Desertsmouth Mountains. Along these descending ore-veins chains of chambers were constructed that made up the housing, forges, tombs and storage areas of the dwarves of Tethyamar. This design resulted in a far more widespread dwarf hold compared to others of its kind.\nEarly trade in Tethyamar was primarily with its nearest neighboring realms. These included Anauria, Asram, Avaeraether, Cormanthyr and Hlondath. After a few centuries its trading connections had expanded to include Cormyr, Hlontar, Myth Drannor, Merrydale, Northkeep and Teshar.\nWith their forged goods, ore and riches, Tethyamar prospered from its ever-growing trade until the founding of Flostrens Hold in 747 DR. After Flostrens Hold under the sway of a consortium of wizards, known as the Zhentarim, fierce competition between the two mining nations erupted.\nDue to Tethyamars scattered design, the Kingdom was much harder to defend as enemies could target isolated areas easily. However the dwarves tended to be much more self-reliant and hardy because of the far-flung nature of their home.\nIn Tethyamar culture it was common for dwarves from many different clans to live and work together. Thus comportment and solidarity as a \"Tethyamar dwarf\" tended to be more important than bloodlines or heritage.\nLocated in the northern Desertsmouth Mountains, these wondrous mines and caverns were founded in the  by Roryn, blood of Thordbard, of the Iron House of fallen Oghrann.  Generations of dwarfs carved out magnificent halls and looted the earth of her valuables, selling them to humans and elves, sending rafts of riches down the River Tesh to the Moonsea and beyond. \nDuring this early period, Tethyamar was continually beset by attacks from orcs, hobgoblins and ogres as they carved out their kingdom. Despite their resilience Tethyamar briefly fell to orcs from the Dragonspine Mountains in  before the dwarves reclaimed their halls in . This close defeat caused the Tethyamar dwarves to sponsor the construction of the fortress-city Rulvadar, to protect against further attacks.\nTethyamar perished however in the . After more than a decade of resistance, Tethyamar was entirely overwhelmed by legion of orcs and goblins, along with their vicious barghest beasts and demonic allies. This invading force was led by the self-proclaimed Great Hlundadim leader of the old goblinoid kingdom that bore his name. \nThe surviving dwarves of the Iron House fled to the dwarven communities of the Far Hills and Storm Horns of Cormyr. Of the royal family, only the kings youngest son, Ghellin had survived.\nIn the  Borlin, blood of Ghellin, mustered a dwarf army known as the Mithril Legion to reclaim Tethyamar for the Iron House, but the force was defeated.  \nGhellin died in exile, reportedly in the Far Hills, of a wasting disease that resisted all medicinal and clerical cures. \nNevertheless, dwarves in the lands around the Sea of Fallen Stars continued to speak of and work towards the day when “the king shall take his throne again.”\nBy the , the Zhentarim under the command of Kara Chermosk occupied one of the upper fortresses of Tethyamar and reopened mining operations."
     }
 }

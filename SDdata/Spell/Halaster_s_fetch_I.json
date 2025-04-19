@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Halaster's Fetch I",
-        "deity": "",
-        "inventor": "[[Halaster Blackcloak]]",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Conjuration]] ([[calling]])",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Sorcerer]]|4|[[Wizard]]|4}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,6 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Halaster's fetch I''''' was a [[conjuration]] [[spell]] that functioned exactly as ''[[summon monster I]]'', except that the conjured creatures did not disappear when its duration was over. Rather, they regained their free will and continued their existence outside the control of the caster.\n\nThis spell was invented and developed by the \"Mad Mage\" of the [[Undermountain]], [[Halaster Blackcloak]]."
+        "mainbody": "Halasters fetch I was a conjuration spell that functioned exactly as summon monster I, except that the conjured creatures did not disappear when its duration was over. Rather, they regained their free will and continued their existence outside the control of the caster.\nThis spell was invented and developed by the \"Mad Mage\" of the Undermountain, Halaster Blackcloak."
     }
 }

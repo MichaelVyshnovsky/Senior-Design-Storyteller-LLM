@@ -1,60 +1,25 @@
 {
-    "template_data": {
-        "index": "[[Alastar Bol]];[[Aremag]];[[Bernuld Smurl]];[[Bo-Bo]];{{P",
-        "index_1": "[[barbazu]];[[black pudding]];[[crocodile]];[[dog]];[[deep scion]];[[deinonychus]];[[flying monkey]];[[flying snake]];[[ghast]];[[hadrosaurus]];[[half-elf]];[[human]];[[minotaur]];[[parrot]];[[poisonous snake]];[[sea hag]];[[sea spawn]];[[shadow]];[[shadow demon]];[[skeleton]];[[sorcery crow]];[[stegosaurus]];[[tabaxi]];[[triceratops]];[[yuan-ti abomination]];[[yuan-ti broodguard]];[[yuan-ti pureblood]]",
-        "ref": "[[kraken]];[[saber-toothed tiger]]",
-        "title": "NPC Classes",
-        "index_2": "{{P"
-    },
     "document_data": {
-        "image": "Peril at the Port.png",
-        "caption": "",
-        "code": "DDEP07-01",
-        "title": "NPC Classes",
-        "design": "[[Will Doyle]]{{Cite adventurers league/Peril at the Port|1}}",
-        "editor": "[[Claire Hoffman]], [[Travis Woodall]]",
-        "publisher": "[[Wizards of the Coast]]",
+        "editor": "Claire Hoffman, Travis Woodall",
+        "publisher": "Wizards of the Coast",
         "cover_artist": "",
         "inter_artist": "",
         "cartography": "",
         "pages": "82",
         "debut": "September 2017(Conclave of Gamers/Hal-Con/DragonCon/Queen City Conquest/Lodo Ergo Sum)",
         "released": "",
-        "story arc": "''[[Adventurers League/Tomb of Annihilation|Tomb of Annihilation]]''",
+        "story arc": "Tomb of Annihilation",
         "realm year": "",
-        "setting": "[[Port Nyanzaru]]",
+        "setting": "Port Nyanzaru",
         "game_edition": "5",
         "play_time": "3 hours",
         "players": "",
-        "levels": "1{{st}} – 10{{th}}",
-        "series": "[[Adventurers League|Epic Adventures]]",
-        "preceded_by": "''[[Hecatomb]]''",
-        "followed_by": "''[[Drums of the Dead]]''",
+        "levels": "1 – 10",
+        "series": "Epic Adventures",
+        "preceded_by": "Hecatomb",
+        "followed_by": "Drums of the Dead",
         "source": "",
-        "index": "{{P|[[kraken priest]]|51}}",
-        "ref": "[[kraken]];[[saber-toothed tiger]]",
-        "mainbody": "===Locations===\n;Region: [[Chult]]\n;Settlements: [[Port Nyanzaru]]\n::{{Refonly}}\n::[[Nine Hells]] • [[Neverwinter]]\n===Magic===\n;Items: ''[[cloak of the bat]]'' • ''[[eversmoking bottle]]'' • ''[[staff of the woodlands]]'' • ''[[alchemical sticky bomb]]''\n;Potions: ''[[potion of clairvoyance]]'' • ''[[potion of healing]]'' • ''[[potion of supreme healing]]''\n;Spells: ''[[animal friendship]]'' • ''[[banishment]]'' • ''[[beacon of hope]]'' • ''[[bless]]'' • ''[[call lightning]]'' • ''[[command]]'' • ''[[control water]]'' • ''[[create or destroy water]]'' • ''[[crusader's mantle]]'' • ''[[cure wounds]]'' • ''[[darkness]]'' • ''[[dispel magic]]'' • ''[[divination]]'' • ''[[divine favor]]'' • ''[[evard's black tentacles]]'' • ''[[fear]]'' • ''[[flame strike]]'' • ''[[freedom of movement]]'' • ''[[greater restoration]]'' • ''[[guardian of faith]]'' • ''[[guiding bolt]]'' • ''[[healing word]]'' • ''[[hold monster]]'' • ''[[identify]]'' • ''[[lesser restoration]]'' • ''[[light]]'' • [[Magic weapon (spell)|''magic weapon'']] • ''[[mass cure wounds]]'' • ''[[mending]]'' • ''[[poison spray]]'' • ''[[prayer of healing]]'' • ''[[raise dead]]'' • ''[[remove curse]]'' • ''[[revivify]]'' • ''[[sacred flame]]'' • ''[[sanctuary]]'' • ''[[shield of faith]]'' • ''[[silence]]'' • ''[[spare the dying]]'' • ''[[speak with dead]]'' • ''[[spirit guardians]]'' • ''[[spiritual weapon]]'' • ''[[stoneskin]]'' • ''[[suggestion]]'' • ''[[thaumaturgy]]'' • ''[[true resurrection]]'' • ''[[water breathing]]'' • ''[[water walk]]''\n===Organizations===\n;Player Factions:  [[Emerald Enclave]] • [[Harpers]] • [[Lords' Alliance]] • [[Order of the Gauntlet]] • [[Zhentarim]]\n::{{Refonly}}\n::[[Citizen's Brigade]]\n===Religion===\n:[[Waukeen]] • [[Ilmater]]\n===Miscellaneous===\n;Ships: [[Banshee (Galleon)]]\n;Works: [[Winter in the Midnight Garden]]",
-        "Index": {
-            "Characters": "{{Index\n|index = [[Alastar Bol]];[[Aremag]];[[Bernuld Smurl]];[[Bo-Bo]];{{P|[[Idrianne Smoke]]|6,19-22,29,31,38,44-45,51,69-71,80-82}};[[Ekene‐Afa]];[[Idrianne Smoke]];[[Ifan Talro’a]];[[Jaha Mubsie]];[[Jailo Mek]];[[Je'jo]];[[Jessamine]];[[Jobal]];[[Jojobo]];[[Kwayothé]];[[Kwalu Mosi]];[[Meg Ra’Monn]];[[O’en Fennis]];[[Pelican Jake]];[[Pock-Marked Po]];[[Screaming Wind]];[[Sibonseni]];[[Sirge Wintermelt]];[[Tya Swayne]];[[Uku]];[[Volothamp Geddarm]];[[Wakanga O’tamu]];[[Zhanthi]];[[Barnacles]];[[Gordo]];[[Walharrow]];[[Xanya]]\n|ref = [[Olaf Sevenbellies]];[[Roz]]\n}}",
-            "Creatures": "{{Index\n|index = [[barbazu]];[[black pudding]];[[crocodile]];[[dog]];[[deep scion]];[[deinonychus]];[[flying monkey]];[[flying snake]];[[ghast]];[[hadrosaurus]];[[half-elf]];[[human]];[[minotaur]];[[parrot]];[[poisonous snake]];[[sea hag]];[[sea spawn]];[[shadow]];[[shadow demon]];[[skeleton]];[[sorcery crow]];[[stegosaurus]];[[tabaxi]];[[triceratops]];[[yuan-ti abomination]];[[yuan-ti broodguard]];[[yuan-ti pureblood]]\n|ref = [[kraken]];[[saber-toothed tiger]]\n}}\n{{Index\n|title = NPC Classes\n|index = {{P|[[kraken priest]]|51}}\n}}",
-            "Locations": {
-                "Region": "[[Chult]]",
-                "Settlements": "[[Port Nyanzaru]]\n::{{Refonly}}\n::[[Nine Hells]] • [[Neverwinter]]"
-            },
-            "Magic": {
-                "Items": "''[[cloak of the bat]]'' • ''[[eversmoking bottle]]'' • ''[[staff of the woodlands]]'' • ''[[alchemical sticky bomb]]''",
-                "Potions": "''[[potion of clairvoyance]]'' • ''[[potion of healing]]'' • ''[[potion of supreme healing]]''",
-                "Spells": "''[[animal friendship]]'' • ''[[banishment]]'' • ''[[beacon of hope]]'' • ''[[bless]]'' • ''[[call lightning]]'' • ''[[command]]'' • ''[[control water]]'' • ''[[create or destroy water]]'' • ''[[crusader's mantle]]'' • ''[[cure wounds]]'' • ''[[darkness]]'' • ''[[dispel magic]]'' • ''[[divination]]'' • ''[[divine favor]]'' • ''[[evard's black tentacles]]'' • ''[[fear]]'' • ''[[flame strike]]'' • ''[[freedom of movement]]'' • ''[[greater restoration]]'' • ''[[guardian of faith]]'' • ''[[guiding bolt]]'' • ''[[healing word]]'' • ''[[hold monster]]'' • ''[[identify]]'' • ''[[lesser restoration]]'' • ''[[light]]'' • [[Magic weapon (spell)|''magic weapon'']] • ''[[mass cure wounds]]'' • ''[[mending]]'' • ''[[poison spray]]'' • ''[[prayer of healing]]'' • ''[[raise dead]]'' • ''[[remove curse]]'' • ''[[revivify]]'' • ''[[sacred flame]]'' • ''[[sanctuary]]'' • ''[[shield of faith]]'' • ''[[silence]]'' • ''[[spare the dying]]'' • ''[[speak with dead]]'' • ''[[spirit guardians]]'' • ''[[spiritual weapon]]'' • ''[[stoneskin]]'' • ''[[suggestion]]'' • ''[[thaumaturgy]]'' • ''[[true resurrection]]'' • ''[[water breathing]]'' • ''[[water walk]]''"
-            },
-            "Organizations": {
-                "Player Factions": "[[Emerald Enclave]] • [[Harpers]] • [[Lords' Alliance]] • [[Order of the Gauntlet]] • [[Zhentarim]]\n::{{Refonly}}\n::[[Citizen's Brigade]]"
-            },
-            "Religion": ":[[Waukeen]] • [[Ilmater]]",
-            "Miscellaneous": {
-                "Ships": "[[Banshee (Galleon)]]",
-                "Works": "[[Winter in the Midnight Garden]]"
-            }
-        },
-        "Credits": "* '''D&D Organized Play:''' [[Chris Lindsay]]\n* '''D&D Adventurers League Wizards Team:''' [[Chris Lindsay]], [[Adam Lee]], [[Mike Mearls]], [[Matt Sernett]]\n* '''D&D Adventurers League Administrator(s):''' [[Claire Hoffman]], [[Will Doyle]], [[Bill Benham]], [[Travis Woodall]], [[Greg Marks]], [[Alan Patrick]]"
+        "ref": "Olaf SevenbelliesRoz",
+        "mainbody": "Region Chult\nSettlements Port Nyanzaru\nNine Hells • Neverwinter\nItems cloak of the bat • eversmoking bottle • staff of the woodlands • alchemical sticky bomb\nPotions potion of clairvoyance • potion of healing • potion of supreme healing\nSpells animal friendship • banishment • beacon of hope • bless • call lightning • command • control water • create or destroy water • crusaders mantle • cure wounds • darkness • dispel magic • divination • divine favor • evards black tentacles • fear • flame strike • freedom of movement • greater restoration • guardian of faith • guiding bolt • healing word • hold monster • identify • lesser restoration • light • magic weapon • mass cure wounds • mending • poison spray • prayer of healing • raise dead • remove curse • revivify • sacred flame • sanctuary • shield of faith • silence • spare the dying • speak with dead • spirit guardians • spiritual weapon • stoneskin • suggestion • thaumaturgy • true resurrection • water breathing • water walk\nPlayer Factions  Emerald Enclave • Harpers • Lords Alliance • Order of the Gauntlet • Zhentarim\nCitizens Brigade\nWaukeen • Ilmater\nShips Banshee (Galleon)\nWorks Winter in the Midnight Garden\n* D&D Organized Play Chris Lindsay\n* D&D Adventurers League Wizards Team Chris Lindsay, Adam Lee, Mike Mearls, Matt Sernett\n* D&D Adventurers League Administrator(s) Claire Hoffman, Will Doyle, Bill Benham, Travis Woodall, Greg Marks, Alan Patrick"
     }
 }

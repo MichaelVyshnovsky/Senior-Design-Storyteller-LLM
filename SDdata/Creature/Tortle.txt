@@ -1,17 +1,3 @@
-{{Creature
-| image        = <gallery>
-Tortle-5e.png|5e
-Tortle-3e.jpg|3e
-Tortle2e.jpg|2e
-Tortle-1e.png|1e
-</gallery>
-| caption2     = Various depictions of tortles.
-| name         = Tortle
-| size5e       = Medium
-| type5e       = [[Humanoid]]
-| subtype5e    = [[Tortle]]
-| alignment5e  = [[Lawful good]]
-| challenge5e  = {{Frac|1|4}}
 | refs5e       = 
 | size4e       = 
 | origin4e     = 
@@ -20,13 +6,13 @@ Tortle-1e.png|1e
 | alignment4e  = 
 | refs4e       = 
 | size3e       = Medium
-| type3e       = [[Humanoid]]
+| type3e       = Humanoid
 | subtype3e    = 
-| alignment3e  = Usually [[lawful neutral]]
-| challenge3e  = {{Frac|1|2}}
-| refs3e       = {{Cite dragon/315/Red Steel: Cinnabar, Red Steel, and the Red Curse|72-73}}
+| alignment3e  = Usually lawful neutral
+| challenge3e  = 
+| refs3e       = 
 | size2e       = Medium
-| alignment2e  = [[Lawful good]]
+| alignment2e  = Lawful good
 | refs2e       = 
 | size1e       = 
 | alignment1e  = 
@@ -37,16 +23,16 @@ Tortle-1e.png|1e
 | activecycle  = Day
 | diet         = Omnivore
 | lifespan     = 50 years
-| location     = [[Chult]]<br />[[Mystara]]
-| language     = [[Aquan]], [[Common]]
+| location     = ChultMystara
+| language     = Aquan, Common
 | subraces     = 
 | climate      = Temperate, warm
 | terrain      = Coasts, forests
 | genrefs      = 
-| height       = {{SIrange|5|6|ft}}
+| height       = 
 | length       = 
 | wingspan     = 
-| weight       = {{SIrange|450|500|lb|k}}
+| weight       = 
 | skincolor    = Olive-green or blue-green
 | haircolor    = 
 | hairstyles   = 
@@ -58,40 +44,18 @@ Tortle-1e.png|1e
 | first        = 
 | based        = 
 | histrefs     = 
-}}
-'''Tortles''' were a race of intelligent tortoise-like [[humanoid]]s indigenous to southern [[Chult]].
-{{quote
-|We wear our homes on our back.
-|A tortle saying.
-}}
-
-==Description==
+Tortles were a race of intelligent tortoise-like humanoids indigenous to southern Chult.
 Tortles were reptilian-looking humanoids with large shells on their backs that were capable of containing their entire bodies. They had leathery skins that varied between olive-green to blue-green hues. The dorsal portion of their shells was usually darker than their skins, while the ventral portion was lighter, usually with yellowish tones.
-
 Tortles rarely wore any clothing, favoring instead belts and harnesses to carry their belongings. They had little tolerance for cold, and usually migrated away from temperate areas when winter approached.
-
-Although generally poor swimmers, tortles were capable of floating on water and could hold their breath for over an hour. Their high buoyancy granted them the ability to cross swamps, mud, and [[quicksand]] with little difficulty.
-
-==Personality==
+Although generally poor swimmers, tortles were capable of floating on water and could hold their breath for over an hour. Their high buoyancy granted them the ability to cross swamps, mud, and quicksand with little difficulty.
 Most tortles had the notion of having their houses on their backs, which meant that they rarely felt homesick or the need to lay roots in any single place. They were eager to learn new customs and found beauty in the most ordinary things. Despite spending much of their lives isolated, tortles liked to form strong friendships.
-
-==Combat==
 Besides being able to wield weapons and shields, tortles had claws and beaks that were effective as natural weapons. In addition, they could retreat into their shells for additional protection if necessary. When withdrawn in this way, they were unable to move and see, but could still hear and smell the outside world. The shape of their bodies made it impossible for tortles to wear armor, however.
-
-==Society==
-[[File:Tortle-2e.jpg|thumb|230px|''A tortle traveler.'']]
+thumb|230px|A tortle traveler.
 Tortles only reproduced near the end of their natural lifespans. When their young hatched from their eggs, they spent the remainder of their lives sharing all their life experiences and teaching survival skills. Young tortles would become orphans after about one year, by which time they were expected to be able to fend for themselves.
-
-Usually keeping to themselves, they tended to live alone, but kept in closed contact with their community. Tortle villages were typically welcoming of [[human]]s, [[halfling]]s, and [[elf|elves]].
-
-==History==
-Tortles were common in southern [[Chult]], near a peninsula that bordered [[Samarach]].. An event brought by the [[Spellplague]] separated the peninsula from the continent by a narrow strait. The newly formed island became known as the [[Snout of Omgar]] and provided a natural defense from predators from the mainland. The island was claimed by the tortles living nearby as their domain.
-
-During the late 1480s [[DR]], a few tortles offered their services as jungle guides in different places of Chult.
-
-==Notable tortles==
-* [[Eeyal]], a tortle guide from [[Fort Beluarian]] who wore goggles to protect her eyes from volcanic ash.
-* [[Krull]], a [[Death domain|death-priest]] of [[Tiamat]] who lived in [[Arkhan's Tower]] in [[Avernus]].
-* [[Kwilgok]], a guide from [[Port Nyanzaru]] who worked for the merchant prince [[Jobal]].
-* [[Mudgraw]], a tortle [[druid]] from [[Ahoyhoy]] who also worked as a guide.
-
+Usually keeping to themselves, they tended to live alone, but kept in closed contact with their community. Tortle villages were typically welcoming of humans, halflings, and elves.
+Tortles were common in southern Chult, near a peninsula that bordered Samarach.. An event brought by the Spellplague separated the peninsula from the continent by a narrow strait. The newly formed island became known as the Snout of Omgar and provided a natural defense from predators from the mainland. The island was claimed by the tortles living nearby as their domain.
+During the late 1480s DR, a few tortles offered their services as jungle guides in different places of Chult.
+* Eeyal, a tortle guide from Fort Beluarian who wore goggles to protect her eyes from volcanic ash.
+* Krull, a death-priest of Tiamat who lived in Arkhans Tower in Avernus.
+* Kwilgok, a guide from Port Nyanzaru who worked for the merchant prince Jobal.
+* Mudgraw, a tortle druid from Ahoyhoy who also worked as a guide.

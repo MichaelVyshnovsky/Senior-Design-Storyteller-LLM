@@ -1,27 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "[[File:Amethyst Trueblood.jpg]]",
-        "caption": "Amethyst and her pony Stardancer.",
-        "name": "Amethyst Trueblood",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "",
-        "formerhomes": "",
-        "sex": "Female",
-        "gender": "",
-        "race": "[[Gnome]]",
-        "ethnicity": "",
-        "occupation": "",
-        "age": "",
-        "patron deity": "",
-        "languages": "",
-        "basicrefs": "{{Cite card/AD&D Trading Cards/1992|84| Amethyst Trueblood}}",
         "reckoning": "",
         "dob": "",
         "dobnotes": "",
@@ -46,8 +24,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Neutral good]]",
-        "class2e": "{{class table|edition=2e|[[Cleric]]|4}}",
+        "alignment2e": "Neutral good",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
@@ -64,8 +42,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Amethyst Trueblood''' was a [[gnome]] priestess active in the 14{{th}} century [[DR]].",
-        "Description": "Amethyst Trueblood disliked and mistrusted all [[elves]] after an elven thief once lifted her coin purse, armor, weapons, and even her [[holy symbol]], leaving her defenseless in face of danger. Nevertheless Amethyst continued praying for the trickster elves' salvation.",
-        "Possessions": "Amethyst never went anywhere without her [[war pony]] named [[Stardancer]]. She usually was armed with [[throwing axe|throwing axes]], a magical +2 [[shortsword]], a magical +3 [[shield]], and of course, her [[holy symbol]]."
+        "mainbody": "Amethyst Trueblood was a gnome priestess active in the 14 century DR.\nAmethyst Trueblood disliked and mistrusted all elves after an elven thief once lifted her coin purse, armor, weapons, and even her holy symbol, leaving her defenseless in face of danger. Nevertheless Amethyst continued praying for the trickster elves salvation.\nAmethyst never went anywhere without her war pony named Stardancer. She usually was armed with throwing axes, a magical +2 shortsword, a magical +3 shield, and of course, her holy symbol."
     }
 }

@@ -1,20 +1,4 @@
-{{Spell
-| image        = <gallery>
-Find familiar php5e revised.png|5Re
-Find familiar spell.jpg|2e
-</gallery>
-| name          = Find Familiar
-| deity         = 
-| inventor      = [[Zahn]]
-| type          = 
-| school5e      = [[Conjuration]]
-| domains5e     = 
-| circles5e     = 
-| oaths5e       = 
-| patrons5e     = [[Archfey patron|Archfey]], [[Fiend patron|Fiend]], [[Great Old One patron|Great Old One]]
-| traditions5e  = 
-| level5e       = {{Spell table|edition=5e|variant=ritual|[[Archfey patron|Archfey]]|3|[[Fiend patron|Fiend]]|3|[[Great Old One patron|Great Old One]]|3|[[Wizard]]|1}}
-| type5e        = [[Ritual]]
+| type5e        = Ritual
 | refs5e        = 
 | feature4e     = 
 | keywords4e    = 
@@ -30,33 +14,21 @@ Find familiar spell.jpg|2e
 | type3e        = 
 | refs3e        = 
 | reversible2e  = 
-| school2e      = [[Conjuration/Summoning]]<br/>[[School of song]], [[Universal (province)]]<br/>[[Inventive]], [[Mentalism]],<br/>[[Variation]]
+| school2e      = Conjuration/SummoningSchool of song, Universal (province)Inventive, Mentalism,Variation
 | spheres2e     = 
-| level2e       = {{spell table|edition=2e|[[Arcanist]]|1|[[Wizard]]|1}}
+| level2e       = 
 | type2e        = 
-| refs2e        = <ref><ref><ref>
+| refs2e        = 
 | reversible1e  = 
-| school1e      = [[Conjuration/Summoning]]
-| level1e       = {{spell table|edition=1e|[[Wizard]]|1|[[Alchemist]]|4}}
+| school1e      = Conjuration/Summoning
+| level1e       = 
 | type1e        = 
-| refs1e        = {{Cite dragon/49/Leomund's Tiny Hut: A recipe for the Alchemist|59}}
-}}
-'''''Find familiar''''' was a [[conjuration]] ritual that bound a spirit to a [[warlock]] or [[wizard]] in the form of a [[familiar]].
-
-==Effects==
-Familiars summoned in this way were spirits of either [[celestial]], [[fey]] or [[fiend]]ish nature, depending on the caster's choice, that took the form of an animal, also of the caster's choice. Subsequent castings of the ritual changed the form the spirit took to that of another animal. Typical choices included [[bat]]s, [[cat]]s, [[crab]]s, [[frog]]s, [[hawk]]s, [[lizard]]s, [[Octopus|octopi]], [[owl]]s, [[snake]]s, [[fish]], [[rat]]s, [[raven]]s, [[sea horse]]s, [[spider]]s, and [[weasel]]s, although warlocks could be granted other forms by their patrons, such as [[imp]]s, [[pseudodragon]]s, [[quasit]]s, or [[Sprite (creature)|sprite]]s. [[tressym]], [[cranium rat]]s, [[crawling claw]]s, and [[gazer]]s.
-
-Familiars thus summoned had the usual link with their masters, such as a telepathic link over some distance, which included the ability for the caster to see through the creature's eyes, the ability to relay touch-based [[spells]] and the ability to be temporarily or permanently dismissed. Only one familiar could be bound to a spellcaster at any given time.
-
+| refs1e        = 
+Find familiar was a conjuration ritual that bound a spirit to a warlock or wizard in the form of a familiar.
+Familiars summoned in this way were spirits of either celestial, fey or fiendish nature, depending on the casters choice, that took the form of an animal, also of the casters choice. Subsequent castings of the ritual changed the form the spirit took to that of another animal. Typical choices included bats, cats, crabs, frogs, hawks, lizards, octopi, owls, snakes, fish, rats, ravens, sea horses, spiders, and weasels, although warlocks could be granted other forms by their patrons, such as imps, pseudodragons, quasits, or sprites. tressym, cranium rats, crawling claws, and gazers.
+Familiars thus summoned had the usual link with their masters, such as a telepathic link over some distance, which included the ability for the caster to see through the creatures eyes, the ability to relay touch-based spells and the ability to be temporarily or permanently dismissed. Only one familiar could be bound to a spellcaster at any given time.
 If a familiar summoned by this spell were killed, it could reappear by a subsequent casting of the ritual.
-
-When cast on [[Avernus]], the first layer of the [[Nine Hells]], the result was invariably an imp.
-
-==Components==
-The spell needed [[verbal]], [[somatic]], and [[material component]]s. The materials needed were charcoal, incense, and herbs—[[basil]], [[savory]], and [[catnip]]—that needed to be burned in a [[brazier]] made of [[brass]] as part of the ritual, with the charcoal used to stoke the brazier. Fat may also be burned. These materials were valued as much as 100 [[gp]] to as little as 10 gp.
-
-==History==
-The spell was attributed to the [[Netherese arcanist]] [[Zahn]] in {{Yearlink|-925}} and was originally called ''Zahn's familiar''.
-
-In the month of [[Eleasis]], of the {{YearlinkName|1371}}, the city of [[Ravens Bluff]]'s [[Ministry of Art]] and [[Wizards Guild]] jointly declared it illegal to cast ''find familiar'' within city limits due to a raging unnatural storm at the time called the [[Soulstorm]]. In addition to threatening arrest for those that broke this decree, it was declared that breaking this prohibition would result in a permanent expulsion from either organization.{{Cite trumpeter/2-8|2}}{{LCRB}}
-
+When cast on Avernus, the first layer of the Nine Hells, the result was invariably an imp.
+The spell needed verbal, somatic, and material components. The materials needed were charcoal, incense, and herbs—basil, savory, and catnip—that needed to be burned in a brazier made of brass as part of the ritual, with the charcoal used to stoke the brazier. Fat may also be burned. These materials were valued as much as 100 gp to as little as 10 gp.
+The spell was attributed to the Netherese arcanist Zahn in  and was originally called Zahns familiar.
+In the month of Eleasis, of the , the city of Ravens Bluffs Ministry of Art and Wizards Guild jointly declared it illegal to cast find familiar within city limits due to a raging unnatural storm at the time called the Soulstorm. In addition to threatening arrest for those that broke this decree, it was declared that breaking this prohibition would result in a permanent expulsion from either organization.

@@ -1,22 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Quantoul",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Jockteleg]], [[Netheril]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "race": "[[Voadkyn]]<br />{{Former}} [[Human]]",
-        "ethnicity": "[[Netherese]]",
-        "occupation": "[[Archwizard]]",
+        "ethnicity": "Netherese",
+        "occupation": "Archwizard",
         "patron deity": "",
         "languages": "",
         "basicrefs": "",
@@ -44,8 +29,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Lawful neutral]]",
-        "class2e": "{{Class table|edition=2e|[[Archwizard]] ([[variator]])|30}}",
+        "alignment2e": "Lawful neutral",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
@@ -62,9 +47,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Quantoul''' was a popular and prolific spell-inventor of ancient [[Netheril]] and the founder of the enclave of [[Jockteleg]].",
-        "Personality": "As an [[arcanist]], Quantoul had a supreme interest in altering the makeup of matter, and his focus was therefore in [[variation]] magic.",
-        "History": "Quantol was born in the [[Netheril Year]] 1812, which corresponded to {{Yearlink|-2047}}. at least a dozen of which were commonly used throughout the [[Crystal sphere|spheres]]. Among these were spells such as ''[[haste]]'' and ''[[polymorph self]]''.\n\nIn {{Yearlink|-2019}}, Quantoul founded the enclave of [[Jockteleg]]. The flying city became a center for the study of the [[Arcane magic|arcane]] arts, particularly of the [[Magic#Schools|school]] of [[variation]]. This led to Quantoul's promotion to the ranks of the [[archwizard]]s, and after 60 years from its founding, visiting arcanists from all over the empire flooded its streets.\n\nIn {{Yearlink|-1932}}, Quantoul's magical studies focused around the ''[[mythallar]]'' of his city. He sought a means to allow the citizens of Jockteleg to [[polymorph]] themselves at will. However, his efforts failed drastically, as the modifications to the ''mythallar'' instantly transformed all of the city's inhabitants into [[voadkyn]].\n\nQuantoul tried desperately to repair the change to himself and his citizens but never could find a means to reverse the magic. His original fear that everyone would lose their sanity turned out to be unfounded; indeed, everyone maintained their original minds and personalities, provided that they never left the range of the ''mythallar''.\n\nFor centuries, Quantoul remained on Jockteleg to lead his polymorphed people, extending his life by longevity magics, all the time seeking a cure for his mistake. He never succeeded, and he and his people remained in the form of voadkyn until the [[Fall of Netheril]].",
-        "Rumors & Legends": "Some believed that Quantoul actually survived the destruction of his city and that his mind still existed in some other form, but most eventually forgot the name of the great archwizard."
+        "mainbody": "Quantoul was a popular and prolific spell-inventor of ancient Netheril and the founder of the enclave of Jockteleg.\nAs an arcanist, Quantoul had a supreme interest in altering the makeup of matter, and his focus was therefore in variation magic.\nQuantol was born in the Netheril Year 1812, which corresponded to . at least a dozen of which were commonly used throughout the spheres. Among these were spells such as haste and polymorph self.\nIn , Quantoul founded the enclave of Jockteleg. The flying city became a center for the study of the arcane arts, particularly of the school of variation. This led to Quantouls promotion to the ranks of the archwizards, and after 60 years from its founding, visiting arcanists from all over the empire flooded its streets.\nIn , Quantouls magical studies focused around the mythallar of his city. He sought a means to allow the citizens of Jockteleg to polymorph themselves at will. However, his efforts failed drastically, as the modifications to the mythallar instantly transformed all of the citys inhabitants into voadkyn.\nQuantoul tried desperately to repair the change to himself and his citizens but never could find a means to reverse the magic. His original fear that everyone would lose their sanity turned out to be unfounded indeed, everyone maintained their original minds and personalities, provided that they never left the range of the mythallar.\nFor centuries, Quantoul remained on Jockteleg to lead his polymorphed people, extending his life by longevity magics, all the time seeking a cure for his mistake. He never succeeded, and he and his people remained in the form of voadkyn until the Fall of Netheril.\nSome believed that Quantoul actually survived the destruction of his city and that his mind still existed in some other form, but most eventually forgot the name of the great archwizard."
     }
 }

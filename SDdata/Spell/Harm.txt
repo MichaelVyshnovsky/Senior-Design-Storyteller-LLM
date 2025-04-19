@@ -1,17 +1,3 @@
-{{Spell
-| image         = Harm 5e.png
-| caption       = 
-| name          = Harm
-| deity         = 
-| inventor      = 
-| type          = 
-| school5e      = [[Necromancy]]
-| domains5e     = 
-| circles5e     = 
-| oaths5e       = 
-| patrons5e     = 
-| traditions5e  = 
-| level5e       = {{Spell table|edition=5e|[[Cleric]]|6}}
 | type5e        = 
 | refs5e        = 
 | feature4e     = 
@@ -21,30 +7,24 @@
 | category4e    = 
 | skill4e       = 
 | refs4e        = 
-| level3e       = {{spell table|edition=3e|[[Cleric]]|6|[[Destruction domain|Destruction]]|6|[[Suffering domain|Suffering]]|6}}
+| level3e       = 
 | descriptors3e =
-| school3e      = [[Necromancy]]
-| domains3e     = [[Destruction domain|Destruction]], [[Suffering domain|Suffering]]
+| school3e      = Necromancy
+| domains3e     = Destruction, Suffering
 | type3e        = 
 | refs3e        = 
-| school2e      = [[Necromancy]]
+| school2e      = Necromancy
 | reversible2e  = true
-| spheres2e     = [[Healing sphere|Healing]]
-| level2e       = {{spell table|edition=2e|[[Cleric]]|6|[[Crusader]]|6|[[Druid]]|6|[[Healing sphere|Healing]]|6|[[Mystic]]|6}}
+| spheres2e     = Healing
+| level2e       = 
 | type2e        = 
 | refs2e        = 
-| school1e      = [[Necromancy]]
+| school1e      = Necromancy
 | reversible1e  = true
-| level1e       = {{spell table|edition=1e|[[Cleric]]|6}}
+| level1e       = 
 | type1e        = 
 | refs1e        = 
-}}
-'''''Harm''''' was a  [[necromancy]] spell that delivered a charge of [[negative energy]], bringing a creature to near unconsciousness and death. Some versions also inflicted a disease on the victim. The reverse of this spell, '''''[[heal]]''''', cured most ailments and greatly restored lost health.
-
-==Effects==
+Harm was a  necromancy spell that delivered a charge of negative energy, bringing a creature to near unconsciousness and death. Some versions also inflicted a disease on the victim. The reverse of this spell, heal, cured most ailments and greatly restored lost health.
 The caster had to touch the recipient of this spell for it to work. The newer version of this spell had a limit on how much health damage it could deliver, but neither version could completely kill a victim or even knock it unconscious. The older version added insult to injury by giving the victim a disease.
-
-If cast in reverse, ''heal'' brought a living creature back to full health and cured all disease and nearly all other ailments.
-
-If either version was successfully cast on an [[undead]] creature, it acted like the corresponding ''[[heal]]'' spell.
-
+If cast in reverse, heal brought a living creature back to full health and cured all disease and nearly all other ailments.
+If either version was successfully cast on an undead creature, it acted like the corresponding heal spell.

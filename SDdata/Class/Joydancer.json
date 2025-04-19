@@ -1,31 +1,5 @@
 {
-    "template_data": {
-        "20|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Joydancer",
-        "othernames": "",
-        "abbr": "",
-        "symbol": "Clr symbol.png",
-        "affiliation": "",
-        "region": "",
-        "type2e": "Priest Class",
-        "variant-of2e": "",
-        "variants2e": "",
-        "kit-for2e": "",
-        "kits2e": "",
-        "alignment2e": "[[Chaotic good]]",
-        "race2e": "",
-        "sex2e": "",
-        "deity2e": "[[Lliira]]",
-        "otherprereqs2e": "",
-        "refs2e": "",
-        "classname": "joydancers",
-        "mainbody": "'''Joydancers''' were [[specialty priest]]s devoted to [[Lliira]], Our Lady of Joy.",
-        "Culture": "Members of all races could become joydancers.",
-        "Abilities": "Joydancers were skilled tumblers and acrobats. Given their heightened sense of balance and awareness of their body, joydancers were also quite skilled at unarmed combat. They could utter a ''[[soothing word]]'' once per day that would remove all emotion-affecting [[magic]] from anyone standing within {{SI|20|ft|long=yes}}. The ''soothing word'' could also be used to make their allies slightly quicker to react to dangerous situations.\n\nIn addition to their memorized [[spell]]s, joydancers could cast a number of [[spell]]s on a daily basis including ''[[bliss]]'', ''[[unseen servant]]'', ''[[hold person]]'', ''[[sleep]]'', ''[[deadly dance]]'', ''[[candle of calm]]'', and ''[[Starella's aphrodisiac]]''.",
-        "Possessions": "Though they were permitted to use bludgeoning weapons in extreme circumstances, most joydancers wielded either a [[net]] or [[lasso]]. A joydancer who used a weapon that inflicted pain upon another risked having their magical abilities revoked until the attoned for their actions. They did not have restrictions on the type of [[armor]] they were permitted to wear."
+        "mainbody": "oydancers were specialty priests devoted to Lliira, Our Lady of Joy.\nMembers of all races could become joydancers.\nJoydancers were skilled tumblers and acrobats. Given their heightened sense of balance and awareness of their body, joydancers were also quite skilled at unarmed combat. They could utter a soothing word once per day that would remove all emotion-affecting magic from anyone standing within . The soothing word could also be used to make their allies slightly quicker to react to dangerous situations.\nIn addition to their memorized spells, joydancers could cast a number of spells on a daily basis including bliss, unseen servant, hold person, sleep, deadly dance, candle of calm, and Starellas aphrodisiac.\nThough they were permitted to use bludgeoning weapons in extreme circumstances, most joydancers wielded either a net or lasso. A joydancer who used a weapon that inflicted pain upon another risked having their magical abilities revoked until the attoned for their actions. They did not have restrictions on the type of armor they were permitted to wear."
     }
 }

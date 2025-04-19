@@ -1,46 +1,6 @@
 {
-    "template_data": {
-        "index": "{{P",
-        "index_1": "{{P",
-        "title": "Regions",
-        "index_2": "{{P",
-        "title_1": "Settlements",
-        "index_3": "{{P",
-        "title_2": "Wilderness",
-        "index_4": "{{P",
-        "title_3": "Spells",
-        "index_5": "{{P",
-        "index_6": "{{P"
-    },
     "document_data": {
-        "image": "Dungeon_magazine_32.jpg",
-        "caption": "",
-        "title": "Spells",
-        "author": "[[R. Nathaniel Waldbauer]]",
-        "inter_artist": "",
-        "cartography": "[[Diesel]]",
-        "included_in": "[[Dungeon magazine 32|''Dungeon'' #32]]",
-        "editor": "[[Barbara G. Young]]",
-        "publisher": "[[TSR, Inc.]]",
-        "released": "November/December 1991",
-        "type": "Adventure",
-        "pages": "26&ndash;27",
-        "reprinted": "",
-        "realm year": "",
-        "setting": "",
-        "game_edition": "2",
-        "series": "",
-        "preceded_by": "",
-        "followed_by": "",
-        "index": "{{P|[[albinism]]|27}}",
-        "ref": "{{P|[[Baldur's Gate]]|26}}",
-        "mainbody": "",
-        "Index": {
-            "Characters": "{{Index\n|index = {{P|[[Andrus]]|26-27}};{{P|[[Jhannexydofalamarne]]|27}}\n|ref = {{P|[[Jaffa]]|26}}\n}}",
-            "Creatures": "{{Index\n|index = {{P|[[human]]|26-27}};{{P|[[red dragon]]|27}};{{P|[[troll]]|26}}\n|ref = {{P|[[horse]]|26}};{{P|[[white dragon]]|26-27}};{{P|[[wolf]]|26}}\n}}",
-            "Locations": "{{Index\n|title = Regions\n|index = {{P|[[Sword Coast]]|26}}\n}}\n{{Index\n|title = Settlements\n|index = {{P|[[Fiddler's Pass]]|26}}\n|ref = {{P|[[Baldur's Gate]]|26}}\n}}\n{{Index\n|title = Wilderness\n|index = {{P|[[Troll Hills]]|26}}\n}}",
-            "Magic": "{{Index\n|title = Spells\n|index = {{P|''[[affect normal fires]]''|27}};{{P|''[[clairaudience]]''|27}};{{P|''[[detect invisibility]]''|27}};{{P|''[[detect magic]]''|27}};{{P|''[[heat metal]]''|27}};{{P|''[[hold person]]''|27}};{{P|''[[Melf's acid arrow]]''|27}};{{P|''[[protection from good]]''|27}};{{P|''[[pyrotechnics]]''|27}};{{P|''[[suggestion]]''|27}}\n}}",
-            "Miscellaneous": "{{Index\n|index = {{P|[[albinism]]|27}}\n}}"
-        }
+        "ref": "",
+        "mainbody": "|ref ="
     }
 }

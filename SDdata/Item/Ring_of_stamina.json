@@ -1,24 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Ring of stamina.jpg",
-        "caption": "",
-        "name": "''Ring of Stamina''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Ring]]",
-        "creator": "",
-        "location": "[[Elven Catacombs]], [[Myth Drannor]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "{{SI|1|lb|k|long=yes}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -41,9 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Ring of stamina''''' were enchanted rings that fortified the wearer against ailments of the body.",
-        "Description": "''Rings of stamina'' were [[silver]] bands that radiated magical glow.",
-        "Powers": "These rings magically enhanced the wearer's stamina and fortitude.",
-        "History": "In [[1369 DR]], an [[elf|elvish]] ''ring of stamina'' could be found in the ruined [[Elven Catacombs]] underneath [[Castle Cormanthor]] inside one of the long-dried out wells."
+        "mainbody": "Ring of stamina were enchanted rings that fortified the wearer against ailments of the body.\nRings of stamina were silver bands that radiated magical glow.\nThese rings magically enhanced the wearers stamina and fortitude.\nIn 1369 DR, an elvish ring of stamina could be found in the ruined Elven Catacombs underneath Castle Cormanthor inside one of the long-dried out wells."
     }
 }

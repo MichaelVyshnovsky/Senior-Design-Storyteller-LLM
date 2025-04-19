@@ -1,24 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Master Ring of the Scaladar''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Ring]]",
-        "creator": "[[Trobriand]]",
-        "location": "[[Waterdeep]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "17{{th}}",
         "itemlevel3e": "",
         "value3e": "",
         "weight3e": "",
@@ -38,9 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The '''''master ring of the scaladar''''' was a unique [[magic item]] that could command any [[scaladar]].",
-        "Description": "The [[ring]] was made from [[iron]] and was quite plain.",
-        "Powers": "Any commands issued by the wearer of the ring would take precedence over other commands a scaladar was following at the time.",
-        "History": "The ''master ring of the scaladar'' was created and worn by [[Trobriand]]."
+        "mainbody": "The master ring of the scaladar was a unique magic item that could command any scaladar.\nThe ring was made from iron and was quite plain.\nAny commands issued by the wearer of the ring would take precedence over other commands a scaladar was following at the time.\nThe master ring of the scaladar was created and worn by Trobriand."
     }
 }

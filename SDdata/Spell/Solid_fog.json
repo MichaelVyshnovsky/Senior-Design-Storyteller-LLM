@@ -1,44 +1,13 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "edition_1": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Solid Fog",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "[[Veridon]]",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "keywords5e": "",
-        "level5e": "",
-        "type5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "school3e": "[[Conjuration]] (Creation)",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Sorcerer]]|4|[[Wizard]]|4}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
-        "school2e": "[[Alteration]], [[Elemental air school|Air]], [[Sea (province)|Sea]], [[Wind (province)|Wind]]<br/>[[Inventive]], [[Variation]]",
+        "school2e": "Alteration, Air, Sea, WindInventive, Variation",
         "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Arcanist]]|4|[[Wizard]]|4}}",
+        "level2e": "",
         "type2e": "",
-        "refs2e": "<ref><ref>",
-        "mainbody": "reversible1e  =\n| school1e      =\n| level1e       =\n| type1e        =\n| rules         =\n| nocat         =\n}}\n'''''Solid fog''''', formerly known as '''''Veridon's solidifier''''', was a [[conjuration]] or [[alteration]] [[spell]] that created a tangible fog.",
-        "Users": "''Solid fog'' could be cast by [[sorcerer]]s and [[wizard]]s.",
-        "Effects": "Functioning like its precursor ''fog cloud'', the ''solid fog'' spell caused a cloud of fog to emanate from the point of origin, obscuring sight and concealing those within.\n\nIt was also so dense that it slowed all movement within, forcing all creatures to a crawling pace and hindering both melee and ranged weapons, bar magic rays. It could even slow the descent of something falling through it.\n\nThe ''solid fog'' would dissipate as a normal fog in a severe wind, and could not be cast underwater.\n\nA ''[[permanency]]'' spell made a ''solid fog'' permanent and continually reforming.",
-        "Components": "A casting of ''solid fog'' required a mixture of a pinch of powdered hoof from some animal, and a pinch of powdered dried [[pea]]s.",
-        "History": "The spell was created by the [[arcanist]] [[Veridon]] of [[Netheril]], ruler of the enclave of [[Lathery]]. He introduced it in [[-451 DR|3408 NY (−451 DR)]] under the name ''Veridon's solidifier''. It later became known simply as ''solid fog''.\n\n''Solid fog'' was an uncommon spell in [[Faerûn]] in the 1360s [[DR]]."
+        "refs2e": "",
+        "mainbody": "| reversible1e  =\n| school1e      =\n| level1e       =\n| type1e        =\n| rules         =\n| nocat         =\nSolid fog, formerly known as Veridons solidifier, was a conjuration or alteration spell that created a tangible fog.\nSolid fog could be cast by sorcerers and wizards.\nFunctioning like its precursor fog cloud, the solid fog spell caused a cloud of fog to emanate from the point of origin, obscuring sight and concealing those within.\nIt was also so dense that it slowed all movement within, forcing all creatures to a crawling pace and hindering both melee and ranged weapons, bar magic rays. It could even slow the descent of something falling through it.\nThe solid fog would dissipate as a normal fog in a severe wind, and could not be cast underwater.\nA permanency spell made a solid fog permanent and continually reforming.\nA casting of solid fog required a mixture of a pinch of powdered hoof from some animal, and a pinch of powdered dried peas.\nThe spell was created by the arcanist Veridon of Netheril, ruler of the enclave of Lathery. He introduced it in 3408 NY (−451 DR) under the name Veridons solidifier. It later became known simply as solid fog.\nSolid fog was an uncommon spell in Faerûn in the 1360s DR."
     }
 }

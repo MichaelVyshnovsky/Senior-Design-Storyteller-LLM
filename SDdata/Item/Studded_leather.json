@@ -1,51 +1,21 @@
 {
-    "template_data": {
-        "rca": "right",
-        "rca_1": "right"
-    },
     "document_data": {
-        "image": "<gallery>",
-        "caption2": "Various depictions of studded leather",
-        "name": "Studded leather",
-        "othernames": "",
-        "nicknames": "Poor man's mail",
-        "type": "[[Armor]] (light)",
-        "value": "",
-        "weight": "",
-        "rules": "",
-        "value1e": "15 [[gp]]",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "20 gp",
-        "weight2e": "|{{SI|25|lb|k}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
         "itemlevel3e": "",
         "value3e": "25 gp",
-        "weight3e": "{{SI|20|lb|k}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "35 gp",
-        "weight4e": "{{SI|28|lb|k}}",
+        "weight4e": "",
         "refs4e": "",
         "school5e": "",
         "level5e": "",
-        "value5e": "{{Split table|rca=right|Standard|45 gp|Spiked|75 gp}}",
-        "weight5e": "{{Split table|rca=right|Standard|{{SI|13|lb|k}}|Spiked|{{SI|45|lb|k}}}}",
+        "value5e": "",
+        "weight5e": "|Spiked|",
         "refs5e": "",
-        "mainbody": "'''Studded leather armor''' was a type of armor used on [[Toril]].",
-        "Description": "Studded leather armor was made from tough yet flexible leather (unlike [[leather armor]], it was not hardened). It was reinforced with numerous close-set rivets or spikes. Studded leather provided slightly more protection than regular leather armor. Each set was fitted with hundreds of rivets. It tended to rot and fall apart faster than most other sorts of armors in the Realms. Because of this it was quite common to find repaired, secondhand sets.{{Cite web/Candlekeep forum/Questions for Ed Greenwood (2009)/Armor, Clothes, and Awful Jobs}}",
-        "Variations": {
-            "Spiked leather": "Studded leather with sharp spikes mounted upon its rivets. Typically seen in use by gladiators, [[barbarian]]s of [[the North]], some [[hill giant]]s, and [[battlerager]]s."
-        },
-        "Notable Users": {
-            "Groups": "* [[Ondonti]]\n* [[Yuan-ti pureblood]]s\n* [[Yuan-ti halfblood]]s\n* Studded leather was the preferred type of armor among pirates and seafarers. Being a seafaring group, it was typically the heavy armor of choice for [[Northmen]].",
-            "Individuals": "* [[Brenvol Whitebrow]]\n* Lord [[Charles Frederik LaVerne Blacktree IV]] owned a custom-made suit of studded leather that was green in coloration. He wore it whenever he went hunting or traveling in [[the Vast]] countryside.<ref>\n* [[Gaedynn Ulraes]]\n* [[Levia Shadewalker]]{{Cite digital book/Eye of Justice|1052}}\n* [[Pratcus]] \n* [[Paelinn]]\n* [[Rindon Wasatho]]\n* [[Smile]]",
-            "Regions & Nations": "* This type of armor was rather common in the region of [[Aglarond]].",
-            "Religions": "* Studded leather was one of two types of armor worn by [[golemmaster]]s, a variety of [[specialty priest]] in the [[Church of Azuth]].<ref>\n* Studded leather was one of two types of armor worn by [[quill of Oghma|quills of Oghma]], a variety of specialty priest in the [[Church of Oghma]].<ref>\n* Studded leather was one of two types of armor worn by [[woodscout]]s, a variety of specialty priest in the [[Church of Mielikki]].<ref>"
-        }
+        "mainbody": "Studded leather armor was a type of armor used on Toril.\nStudded leather armor was made from tough yet flexible leather (unlike leather armor, it was not hardened). It was reinforced with numerous close-set rivets or spikes. Studded leather provided slightly more protection than regular leather armor. Each set was fitted with hundreds of rivets. It tended to rot and fall apart faster than most other sorts of armors in the Realms. Because of this it was quite common to find repaired, secondhand sets.\nSpiked leather Studded leather with sharp spikes mounted upon its rivets. Typically seen in use by gladiators, barbarians of the North, some hill giants, and battleragers.\n* Ondonti\n* Yuan-ti purebloods\n* Yuan-ti halfbloods\n* Studded leather was the preferred type of armor among pirates and seafarers. Being a seafaring group, it was typically the heavy armor of choice for Northmen.\n* Brenvol Whitebrow\n* Lord Charles Frederik LaVerne Blacktree IV owned a custom-made suit of studded leather that was green in coloration. He wore it whenever he went hunting or traveling in the Vast countryside.\n* Gaedynn Ulraes\n* Levia Shadewalker\n* Pratcus \n* Paelinn\n* Rindon Wasatho\n* Smile\n* This type of armor was rather common in the region of Aglarond.\n* Studded leather was one of two types of armor worn by golemmasters, a variety of specialty priest in the Church of Azuth.\n* Studded leather was one of two types of armor worn by quills of Oghma, a variety of specialty priest in the Church of Oghma.\n* Studded leather was one of two types of armor worn by woodscouts, a variety of specialty priest in the Church of Mielikki."
     }
 }

@@ -1,27 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Theldar Hammerfist",
-        "alt_spelling": "",
-        "titles": "[[Wearer of Purple]]",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "",
-        "formerhomes": "",
-        "sex": "Male",
-        "gender": "",
-        "race": "[[Half-orc]]",
-        "ethnicity": "",
-        "occupation": "",
-        "age": "",
-        "patron deity": "",
-        "languages": "",
-        "basicrefs": "{{cite book/Dragons of Faerun|56}}",
         "reckoning": "",
         "dob": "",
         "dobnotes": "",
@@ -49,9 +27,9 @@
         "alignment2e": "",
         "class2e": "",
         "refs2e": "",
-        "alignment3e": "[[Neutral Evil]]",
+        "alignment3e": "Neutral Evil",
         "challenge3e": "",
-        "class3e": "{{Class table|edition=3e|[[Fighter]]|12|[[Wearer of Purple]]|4}}",
+        "class3e": "",
         "refs3e": "",
         "alignment35": "",
         "challenge35": "",
@@ -64,6 +42,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Theldar Hammerfist''' was a leader of the [[Cult of the Dragon]] in [[Sembia]] based off of [[Wyrmsmoke Keep]], and a [[Wearer of Purple]] during the late 14{{th}} century [[DR]]."
+        "mainbody": "Theldar Hammerfist was a leader of the Cult of the Dragon in Sembia based off of Wyrmsmoke Keep, and a Wearer of Purple during the late 14 century DR."
     }
 }

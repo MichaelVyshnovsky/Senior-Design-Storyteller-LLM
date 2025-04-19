@@ -1,23 +1,8 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "edition_1": "3e"
-    },
     "document_data": {
-        "image": "",
-        "name": "Haresk Malorn",
-        "aliases": "",
-        "home": "[[Ashabenford]], [[Mistledale]]",
-        "sex": "Male",
-        "race": "[[Human]]",
-        "occupation": "High Councilor of Mistledale",
-        "class1e": "",
-        "refs1e": "",
-        "alignment2e": "[[Lawful good]]",
-        "class2e": "{{class table|edition=2e|[[Fighter]]|0}}",
         "refs2e": "",
-        "alignment3e": "[[Lawful good]]",
-        "class3e": "{{class table|edition=3e|[[Expert]]|6|[[Fighter]]|2}}",
+        "alignment3e": "Lawful good",
+        "class3e": "",
         "refs3e": "",
         "alignment35": "",
         "class35": "",
@@ -31,7 +16,6 @@
         "dob": "",
         "death": "",
         "age": "",
-        "mainbody": "'''Haresk Malorn'''<ref group=\"note\">On page 34 of [[The Dalelands (sourcebook)]] his name is spelled \"Haresk\" while on page 37 it is spelled \"Heresk\", twice. was the High Councilor and Mistran of the [[Council of Six (Mistledale)|council]] that ruled over [[Mistledale]], the [[Dalelands]], between [[1367 DR|1367]] and [[1372 DR]]. He also commanded the [[Riders of Mistledale]], Mistledale's mounted defenders. Despite this, Haresk was known as more of a wise and compassionate merchant rather than a true warrior.Despite this, Haresk was well liked by the people of Mistledale.\n\nThe high councilor would carry a black \"''[[Rod of Peldan|rod of office]]''\", and there was speculation that Haresk's rod of office was in actuality a ''[[rod of rulership]]''. He would very appear at the head of his troops, but if he was required to do so, he would use as much magical armor and protective magic as possible.\n\nThe [[House of the High Councilor]] was Haresk Malorn's residence and it was the largest building in [[Ashabenford]]. It was also used by the Council of Six as a nearly official seat of government.",
-        "History": "As there were more attacks from the [[drow]] as of 1372 DR, Haresk felt that he might have to step down for someone with more military experience."
+        "mainbody": "Haresk MalornOn page 34 of The Dalelands (sourcebook) his name is spelled \"Haresk\" while on page 37 it is spelled \"Heresk\", twice. was the High Councilor and Mistran of the council that ruled over Mistledale, the Dalelands, between 1367 and 1372 DR. He also commanded the Riders of Mistledale, Mistledales mounted defenders. Despite this, Haresk was known as more of a wise and compassionate merchant rather than a true warrior.Despite this, Haresk was well liked by the people of Mistledale.\nThe high councilor would carry a black \"rod of office\", and there was speculation that Haresks rod of office was in actuality a rod of rulership. He would very appear at the head of his troops, but if he was required to do so, he would use as much magical armor and protective magic as possible.\nThe House of the High Councilor was Haresk Malorns residence and it was the largest building in Ashabenford. It was also used by the Council of Six as a nearly official seat of government.\nAs there were more attacks from the drow as of 1372 DR, Haresk felt that he might have to step down for someone with more military experience."
     }
 }

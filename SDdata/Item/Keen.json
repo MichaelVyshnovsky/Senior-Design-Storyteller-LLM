@@ -1,22 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Keen''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Weapon quality]]",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "[[Transmutation]]",
-        "casterlevel3e": "10{{th}}",
         "itemlevel3e": "",
         "value3e": "+1",
         "weight3e": "",
@@ -35,10 +18,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''''Keen''''' was a magical [[weapon quality|quality]] that could be added to any bladed weapon, making it more deadly.",
-        "Creation": "Applying the ''keen'' property required the spell ''[[keen edge]]''. Only an edged or pointed weapon could be so enhanced.",
-        "Abilities": "It made a weapon magically sharp, making the wielder more likely to inflict wounding, critical cuts.",
-        "History": "Keen magic such as this was first invented by the old noble houses of the [[elf]] realm of [[Cormanthyr]]. By [[1372 DR]], this legacy survived in the ''[[Cormanthyrian elfblade]]s'', ''keen'' [[longsword]]s that carried the symbols of these houses.",
-        "Examples": "* ''[[Cormanthyrian elfblade]]'', the original ''keen'' weapons.\n* ''[[Razor's Edge]]'', the personal weapon of the god [[Cyric]]\n* The ''[[Moonsword]]'', personal weapon of the goddess [[Eilistraee]]\n* ''[[Ever Watchful]]'', personal weapon of the god [[Helm]].\n* ''[[Stealthwhisper]]'' and ''[[Shadowblade]]'', the twin swords of the god [[Mask]]."
+        "mainbody": "Keen was a magical quality that could be added to any bladed weapon, making it more deadly.\nApplying the keen property required the spell keen edge. Only an edged or pointed weapon could be so enhanced.\nIt made a weapon magically sharp, making the wielder more likely to inflict wounding, critical cuts.\nKeen magic such as this was first invented by the old noble houses of the elf realm of Cormanthyr. By 1372 DR, this legacy survived in the Cormanthyrian elfblades, keen longswords that carried the symbols of these houses.\n* Cormanthyrian elfblade, the original keen weapons.\n* Razors Edge, the personal weapon of the god Cyric\n* The Moonsword, personal weapon of the goddess Eilistraee\n* Ever Watchful, personal weapon of the god Helm.\n* Stealthwhisper and Shadowblade, the twin swords of the god Mask."
     }
 }

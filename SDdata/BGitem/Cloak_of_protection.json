@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "3|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "<gallery>",
-        "caption": "",
-        "name": "''Cloak of Protection''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Cloak]], Wondrous item",
-        "location": "",
-        "value1e": "6,000 [[gp]]",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+1,+2,+3,+4,+5",
-        "value3e": "",
-        "weight3e": "{{SI|3|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -38,9 +15,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "A '''''cloak of protection''''' was a magic cloak that protected its wearer against attacks both physical and magical.",
-        "Powers": "The cloak's magic worked by increasing the chances of attacks missing the wearer altogether. However, if an attack bypassed the cloak's protection, it was not dampened by it. It also slightly improved the wearer's ability to resist magical effects.",
-        "History": "It was thought that the original ''cloak of protection'' was designed by one of the earliest magic-user guilds on [[Toril]]. By the late 14{{th}} century, ''cloaks of protection'' were of many designs, power levels, and makers, and were wide-spread throughout the Realms.",
-        "Notable Owners": "* Sir [[Lanniver Strayl]], a knight and follower of [[Tyr]] from [[Neverwinter]].\n*[[Elan Garaq]], a [[rakshasa]] trader in the [[Black Pits]]."
+        "mainbody": "A cloak of protection was a magic cloak that protected its wearer against attacks both physical and magical.\nThe cloaks magic worked by increasing the chances of attacks missing the wearer altogether. However, if an attack bypassed the cloaks protection, it was not dampened by it. It also slightly improved the wearers ability to resist magical effects.\nIt was thought that the original cloak of protection was designed by one of the earliest magic-user guilds on Toril. By the late 14 century, cloaks of protection were of many designs, power levels, and makers, and were wide-spread throughout the Realms. \n* Sir Lanniver Strayl, a knight and follower of Tyr from Neverwinter.\n*Elan Garaq, a rakshasa trader in the Black Pits."
     }
 }

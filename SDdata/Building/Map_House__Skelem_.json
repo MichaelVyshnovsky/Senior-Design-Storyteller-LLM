@@ -1,13 +1,8 @@
 {
     "document_data": {
-        "image": "Skelem-maphouse.png",
-        "caption": "A map of Skelem showing the location of the Map House, ''circa'' 1373 DR.",
-        "name": "Map House",
-        "aliases": "",
-        "type": "Ruin<br />{{Former}} Building",
         "architecture": "",
         "floors": "",
-        "location": "[[Skelem]], [[Galena Mountains]], [[Cold Lands]]",
+        "location": "Skelem, Galena Mountains, Cold Lands",
         "built": "",
         "destroyed": "",
         "owner": "",
@@ -34,9 +29,6 @@
         "inhabitants": "",
         "locations": "",
         "organizations": "",
-        "mainbody": "The '''Map House''' in [[Skelem]] was a building containing a model replica of the city in its heyday. The building was one of the most intact structures still standing in the ruins of Skelem as of the mid-to-late 14{{th}} century [[DR]].",
-        "Location": "The Map House was located on the western side of the city, near to the city center.",
-        "Interior": "The model map was still intact as of the the mid-to-late 14{{th}} century DR, and offered the only evidence that the city of Skelem had once had a wall and had been twice as large as was apparent from the surviving ruins.\n\nUpon entering the building, a ''[[magic mouth]]'' would appear on the opposite wall and ask the visitor three history questions:\n* \"Who stole [[Mystra]]’s power in order to become a [[deity]]?\" (correct answer: \"[[Karsus]]\")\n* \"What is the name of the [[Creator race|progenitors]] of the [[serpent races]]?\" (correct answer: \"The [[sarrukh]]\")\n* \"What two empires rose six hundred years before the [[fall of Netheril]]?\" (correct answer: \"[[Narfell]] and [[Raumathar]]\")\n\nIf the visitor correctly answered at least two of these questions, an [[illusory]] pillar would appear on the model map to mark the location of the [[Kossuth's House]] where the ''[[Elemental Scourge]]'' was hidden. Answering two or more questions incorrectly caused the pillar to appear in an incorrect location in the northeastern corner of the city.",
-        "History": "In the {{YearlinkName|1373}}, the [[fire giant]]s [[Soluf]] and [[Gharod]] sent an excavation team to Skelem to search for the ''Elemental Scourge''. This group was led by a team of [[yuan-ti abomination]]s who discovered the Map House. They thus began digging in the wrong place."
+        "mainbody": "The Map House in Skelem was a building containing a model replica of the city in its heyday. The building was one of the most intact structures still standing in the ruins of Skelem as of the mid-to-late 14 century DR.\nThe Map House was located on the western side of the city, near to the city center.\nThe model map was still intact as of the the mid-to-late 14 century DR, and offered the only evidence that the city of Skelem had once had a wall and had been twice as large as was apparent from the surviving ruins.\nUpon entering the building, a magic mouth would appear on the opposite wall and ask the visitor three history questions\n* \"Who stole Mystra’s power in order to become a deity?\" (correct answer \"Karsus\")\n* \"What is the name of the progenitors of the serpent races?\" (correct answer \"The sarrukh\")\n* \"What two empires rose six hundred years before the fall of Netheril?\" (correct answer \"Narfell and Raumathar\")\nIf the visitor correctly answered at least two of these questions, an illusory pillar would appear on the model map to mark the location of the Kossuths House where the Elemental Scourge was hidden. Answering two or more questions incorrectly caused the pillar to appear in an incorrect location in the northeastern corner of the city.\nIn the , the fire giants Soluf and Gharod sent an excavation team to Skelem to search for the Elemental Scourge. This group was led by a team of yuan-ti abominations who discovered the Map House. They thus began digging in the wrong place."
     }
 }

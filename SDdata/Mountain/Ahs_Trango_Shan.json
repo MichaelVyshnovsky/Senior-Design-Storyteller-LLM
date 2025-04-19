@@ -1,21 +1,5 @@
 {
-    "template_data": {
-        "image": "Eastern khazari.jpg",
-        "caption": "",
-        "name": "Ahs Trango Shan",
-        "aliases": "South Guardian Peak",
-        "type": "Mountain",
-        "area": "[[Khazari]], the [[Hordelands]]",
-        "elevation": "{{SI"
-    },
     "document_data": {
-        "image": "Eastern khazari.jpg",
-        "caption": "",
-        "name": "Ahs Trango Shan",
-        "aliases": "South Guardian Peak",
-        "type": "Mountain",
-        "area": "[[Khazari]], the [[Hordelands]]",
-        "elevation": "{{SI|15641|ft}}",
         "georefs": "",
         "races": "",
         "socrefs": "",
@@ -30,9 +14,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "'''Ahs Trango Shan''', or the '''South Guardian Peak''', was a mountain located in [[Khazari]].",
-        "Geography": "The South Guardian Peak formed part of the natural border of eastern Khazari, along with the [[Nas Trango Shan]], providing a rocky barrier against [[Kara-Tur]] and the outside world.",
-        "Description": "At {{SI|15641|ft}}, the South Guardian Peak was the smaller of two peaks located in eastern Khazari. The [[Broken Wall Pass]] ran between the two peaks.\n\nStrong fortifications, in the form of fort [[Luntse Dzong]], were present to ensure the protection of the valuable [[Silk Road]] that passed through the mountains.",
-        "Inhabitants": "Bandits, led by [[Brusha]] around [[1359 DR]], and dangerous creatures inhabited the valleys surrounding the base of the mountains."
+        "mainbody": "Ahs Trango Shan, or the South Guardian Peak, was a mountain located in Khazari.\nThe South Guardian Peak formed part of the natural border of eastern Khazari, along with the Nas Trango Shan, providing a rocky barrier against Kara-Tur and the outside world.\nAt , the South Guardian Peak was the smaller of two peaks located in eastern Khazari. The Broken Wall Pass ran between the two peaks.\nStrong fortifications, in the form of fort Luntse Dzong, were present to ensure the protection of the valuable Silk Road that passed through the mountains.\nBandits, led by Brusha around 1359 DR, and dangerous creatures inhabited the valleys surrounding the base of the mountains."
     }
 }

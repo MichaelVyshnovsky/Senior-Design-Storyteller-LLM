@@ -1,18 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Dragon Scales",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "reversible2e": "",
-        "school2e": "[[Abjuration]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|6}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -20,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Dragon scales''''' was an [[arcane]] [[abjuration]] [[spell]] that gave any person or creature touched a protective skin of [[dragon]] scales.",
-        "Effects": "The dragon scales gave the recipient natural [[armor]] in addition to whatever armor they were already wearing. The color of the dragon scale used as the spell component also affected the color of the resulting scales. While under the effects of this spell, the scaly one was somewhat less charismatic than normal.",
-        "Components": "As well as the standard [[Verbal component|verbal]] and [[Somatic component|somatic]] components, the required material component was the scale of any type of dragon."
+        "mainbody": "Dragon scales was an arcane abjuration spell that gave any person or creature touched a protective skin of dragon scales.\nThe dragon scales gave the recipient natural armor in addition to whatever armor they were already wearing. The color of the dragon scale used as the spell component also affected the color of the resulting scales. While under the effects of this spell, the scaly one was somewhat less charismatic than normal.\nAs well as the standard verbal and somatic components, the required material component was the scale of any type of dragon."
     }
 }

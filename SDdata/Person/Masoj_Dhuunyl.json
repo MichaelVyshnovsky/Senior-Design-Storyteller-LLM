@@ -1,22 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "edition_1": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Masoj Dhuunyl",
-        "alt_spelling": "",
-        "titles": "Master of Abjuration",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Sshamath]], [[Gauth Grottoes]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "gender": "",
-        "race": "[[Dark elf]], {{former}} [[drow]]",
         "ethnicity": "",
         "occupation": "",
         "age": "",
@@ -43,14 +26,14 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Neutral Evil]]",
-        "class2e": "{{class table|edition=2e|[[Wizard]] ([[Abjurer]])|21}}",
+        "alignment2e": "Neutral Evil",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "class3e": "",
         "refs3e": "",
-        "alignment35": "[[Lawful evil]]",
-        "class35": "{{class table|edition=3e|[[Wizard]] ([[Abjurer]])|18}}",
+        "alignment35": "Lawful evil",
+        "class35": "",
         "refs35": "",
         "alignment4e": "",
         "class4e": "",
@@ -58,7 +41,6 @@
         "alignment5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Masoj Dhuunyl''' was a [[drow]] [[abjurer]] and the head of the [[College of Abjuration]] and one of the members of the [[Conclave of Sshamath]] in the city of [[Sshamath]] in the late 14{{th}} century [[DR]].",
-        "History": "In the {{YearlinkName|1377}}, [[Q'arlynd Melarn]] told [[Miverra]], a priestess of [[Eilistraee]], that Masoj enjoyed entombing his rivals deep in earth.\n\nIn the {{YearlinkName|1379}}, he met with Masters [[Seldszar Elpragh]], [[Urlryn Khalazza]], and Q'arlynd Melarn about reclaiming the [[kiira (disambiguation)|''kiira'']] that was promised to him for his support in the vote but the others Masters involved him also in their plan to strip the ''[[faerzress]]'' from the drow.\n\nTogether with Q'arlynd's apprentices and the Masters [[Urlryn Khalazza]] and [[Seldszar Elpragh]], he helped Q'arlynd when he engineered (with the aid of Eilistraee) the ritual that transformed all drow not tainted by [[Wendonai]]'s blood into [[dark elves]]. Afterward, they all relocated to [[Rhymanthiin]]."
+        "mainbody": "Masoj Dhuunyl was a drow abjurer and the head of the College of Abjuration and one of the members of the Conclave of Sshamath in the city of Sshamath in the late 14 century DR.\nIn the , Qarlynd Melarn told Miverra, a priestess of Eilistraee, that Masoj enjoyed entombing his rivals deep in earth.\nIn the , he met with Masters Seldszar Elpragh, Urlryn Khalazza, and Qarlynd Melarn about reclaiming the kiira that was promised to him for his support in the vote but the others Masters involved him also in their plan to strip the faerzress from the drow.\nTogether with Qarlynds apprentices and the Masters Urlryn Khalazza and Seldszar Elpragh, he helped Qarlynd when he engineered (with the aid of Eilistraee) the ritual that transformed all drow not tainted by Wendonais blood into dark elves. Afterward, they all relocated to Rhymanthiin."
     }
 }

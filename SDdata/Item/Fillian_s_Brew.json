@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Fillian's Brew",
-        "othernames": "The Bitch Queen's Revenge<br />Fillian's Best",
-        "nicknames": "",
-        "type": "Alcoholic drink",
-        "creator": "[[Fillian]]",
-        "location": "[[Daggerford]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "30 [[gp]]",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The strange and unusual '''Fillian's Brew''' was one of the strongest alcoholic concoctions in [[Daggerford]], lovingly named the ''' Bitch Queen's Revenge''' by the local sailors.\n{{quote|''I guarantee you'll be wanting to take [[Umberlee]]'s name in vain after having some of Fillian's Best! Interested?''|[[Fillian]].}}",
-        "Description": "Extremely potent, Fillian's Brew was brewed using a special blend of [[hops]], [[barley]], and sixty-four other secret ingredients.",
-        "History": "Fillian's Best could be purchased in the [[River Quarter]] of Daggerford ''circa'' [[1372 DR]]. It was sold by an eccentric [[gnome]] brewer named Fillian. The advertisement claiming the drink was strong enough to knock a [[stone giant]] out and put hair on an [[elf]]'s chest was possibly a bit exaggerated."
+        "mainbody": "The strange and unusual Fillians Brew was one of the strongest alcoholic concoctions in Daggerford, lovingly named the  Bitch Queens Revenge by the local sailors.\nExtremely potent, Fillians Brew was brewed using a special blend of hops, barley, and sixty-four other secret ingredients.\nFillians Best could be purchased in the River Quarter of Daggerford circa 1372 DR. It was sold by an eccentric gnome brewer named Fillian. The advertisement claiming the drink was strong enough to knock a stone giant out and put hair on an elfs chest was possibly a bit exaggerated."
     }
 }

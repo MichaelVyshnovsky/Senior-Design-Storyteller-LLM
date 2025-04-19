@@ -1,23 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Jalimin Frindos",
-        "alt_spelling": "",
-        "titles": "Lord Protector",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Triboar]], [[Savage Frontier]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "gender": "",
-        "race": "[[Human]]",
-        "ethnicity": "",
-        "occupation": "Ruler, {{former}} aide, adventurer",
         "age": "",
         "patron deity": "",
         "languages": "",
@@ -38,16 +20,16 @@
         "children": "",
         "familyrefs": "",
         "dynasty": "",
-        "start of reign": "[[1369 DR]]",
+        "start of reign": "1369 DR",
         "end of reign": "",
-        "predecessor": "[[Faurael Blackhammer]]",
+        "predecessor": "Faurael Blackhammer",
         "successor": "",
         "successionrefs": "",
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Lawful neutral]]",
-        "class2e": "{{class table|edition=2e|[[Fighter]]|7}}",
+        "alignment2e": "Lawful neutral",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "class3e": "",
@@ -61,8 +43,6 @@
         "alignment5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Jalimin Frindos''' was a [[human]] [[fighter]] and the Lord Protector of the town of [[Triboar]] in the [[Dessarin Valley]] in the late 14{{th}} century [[DR]].",
-        "History": "A one-time [[adventurer]], Jalimin retired and settled in Triboar, where he served as an aide to Lord Protector [[Faurael Blackhammer]] for many years.\n\nIn the {{YearlinkName|1369}}, Faurael died fighting the [[tanar'ri]] hordes at [[Hellgate Keep]] and Jalimin was elected by the people as his successor.",
-        "Activities": "As Lord Protector, his duties were to command the town's militia; to settle disputes; and to make, amend, or remove the Lord's Decrees at will."
+        "mainbody": "Jalimin Frindos was a human fighter and the Lord Protector of the town of Triboar in the Dessarin Valley in the late 14 century DR.\nA one-time adventurer, Jalimin retired and settled in Triboar, where he served as an aide to Lord Protector Faurael Blackhammer for many years.\nIn the , Faurael died fighting the tanarri hordes at Hellgate Keep and Jalimin was elected by the people as his successor.\nAs Lord Protector, his duties were to command the towns militia to settle disputes and to make, amend, or remove the Lords Decrees at will."
     }
 }

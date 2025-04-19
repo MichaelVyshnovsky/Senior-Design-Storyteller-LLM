@@ -1,33 +1,12 @@
-{{Creature
-| image        = Loyal Warhound AFR.jpg
-| caption      = A paladin and her warhound.
-| name         = Dog
-| size5e       = 
-| type5e       = 
-| subtype5e    = 
-| alignment5e  = 
-| challenge5e  = 
-| refs5e       = 
-| size4e       = 
-| origin4e     = 
-| type4e       = 
-| subtype4e    = 
-| alignment4e  = 
-| refs4e       = 
-| size3e       = Small
-| type3e       = [[Animal]]
-| subtype3e    = 
-| alignment3e  = Always [[neutral]]
-| challenge3e  = {{Frac|1|3}}
 | refs3e       = 
 | size2e       = 
-| alignment2e  = [[Neutral]]
+| alignment2e  = Neutral
 | refs2e       = 
 | size1e       = 
-| alignment1e  = [[Neutral]]
+| alignment1e  = Neutral
 | refs1e       = 
 | patron deity = 
-| vision       = [[Low-light vision]]
+| vision       = Low-light vision
 | activecycle  = Any
 | diet         = Omnivore
 | lifespan     = 
@@ -47,50 +26,32 @@
 | eyecolor     = 
 | build        = 
 | distinctions = Scent
-| based        =  [[wikipedia:en:Dog|Dog]]
+| based        =  Dog
 | first        = 
-}}
-'''Dogs''' were canines prevalent throughout [[Toril]].{{Cite web/Dogs in the Forgotten Realms}}
-
-{{Quote|Tell me friend, do you have a dog? Truly, there can be no companion more stout or loyal! No matter the city, one thing remains constant–dogs, and their deathly fear of [[fireworks]].|A [[Wa]]nese pyrobolist}}
-
-==Description==
+Dogs were canines prevalent throughout Toril.
 Dogs were a race of both wild and domesticated animals that were found all over the world. They came in a variety of breeds, sizes, and appearances. 
-
-==Ecology==
-They were extremely numerous and were domesticated for use amongst the [[humanoid]] races.
-
-==Society==
-Domesticated over thousands of years and bred for different purposes, dogs were adopted by many humanoids as pets and companions. They were very useful and commonplace but were often taken for granted because of this, but some valued them greatly, and they were considered to be loving and loyal and even a [[human]]'s best friend. 
-
-Dogs were employed to pull sleds in [[Vaasa]] during the winter.<ref>
-
-===Training===
-Some of the best-trained dogs were trained by the [[elf|elven]] [[House Korianthil]].
-
-==Breeds==
-[[File:Dog nwn.jpg|thumb|''One of many breeds of [[Faerûn]]ian dogs.'']]
-There were many different breeds found across [[Toril]].  Some of these were:
-; [[Basset hound]]
-; [[Bloodhound]]: A large hound breed used for tracking.{{Cite dragon/237/Man's Best Friend|19}}
-; Dalmatian: A breed of spotted dog.{{Cite organized play/LC/Dog Days of Summer|18}}
-; Doberman pinscher{{Cite organized play/LC/Starry Eyes|3}}
-; [[Heteff]] : A white-furred sled dog breed.
-; [[Mastiff]] : A powerful hound that was employed in several functions. Mastiffs could serve as mounts for [[halfling]]s.
-; [[Moorhound]] : A huge shaggy dog.
-; [[Mukteff]] : A golden-furred sled dog breed.
-; [[Newfoundland]]
-; [[Okteff]] : A black-furred sled dog breed.
-; Pug
-; Red Setter
-===Other Species===
-Some unusual and dangerous variants of dogs were:
-; [[Blink dog]] : Intelligent canines with an inherent [[teleport]]ation ability.
-; [[Cooshee]] : A magical breed of hounds that were kept by [[elves]].
-; [[Frenzy dog]] : The creation of an evil [[druid]]ic spell in the deep forest of [[Chondalwood]].
-; [[Snake-dog]] : A cross-breed between a [[snake]] and a dog, native to the jungles of [[Chult]] and domesticated by the [[yuan-ti]].
-; [[Wild Hunt hound]] : A magical breed of hounds that were native to the [[Feywild]].
-
-==Reputation==
-Dogs were considered special animals to many deities. Hunting dogs, in particular, were favored by [[Anhur]] and [[Marthammor Duin]]. Tiny lap dogs were considered blessed by [[Savras]]. [[Arvoreen]], the [[Red Knight]], and [[Tempus]] all preferred [[war dog]]s. Dogs with gray fur were sacred to both [[Azuth]] and [[Mask]], while black dogs were sacred to [[Bane]], brown dogs to [[Cyrrollalee]], and white to [[Deneir]]. [[Mystra]] favored dogs of all varieties, and intelligent dogs were known to live in the celestial realms of [[Nephthys]], [[Rillifane Rallathil]], and [[Sharindlar]].{{Cite web enhancement/Deity Do's and Don'ts|10-15}}
-
+They were extremely numerous and were domesticated for use amongst the humanoid races.
+Domesticated over thousands of years and bred for different purposes, dogs were adopted by many humanoids as pets and companions. They were very useful and commonplace but were often taken for granted because of this, but some valued them greatly, and they were considered to be loving and loyal and even a humans best friend. 
+Dogs were employed to pull sleds in Vaasa during the winter.
+Some of the best-trained dogs were trained by the elven House Korianthil.
+thumb|One of many breeds of Faerûnian dogs.
+There were many different breeds found across Toril.  Some of these were
+ Basset hound
+ Bloodhound A large hound breed used for tracking.
+ Dalmatian A breed of spotted dog.
+ Doberman pinscher
+ Heteff  A white-furred sled dog breed.
+ Mastiff  A powerful hound that was employed in several functions. Mastiffs could serve as mounts for halflings.
+ Moorhound  A huge shaggy dog.
+ Mukteff  A golden-furred sled dog breed.
+ Newfoundland
+ Okteff  A black-furred sled dog breed.
+ Pug
+ Red Setter
+Some unusual and dangerous variants of dogs were
+ Blink dog  Intelligent canines with an inherent teleportation ability.
+ Cooshee  A magical breed of hounds that were kept by elves.
+ Frenzy dog  The creation of an evil druidic spell in the deep forest of Chondalwood.
+ Snake-dog  A cross-breed between a snake and a dog, native to the jungles of Chult and domesticated by the yuan-ti.
+ Wild Hunt hound  A magical breed of hounds that were native to the Feywild.
+Dogs were considered special animals to many deities. Hunting dogs, in particular, were favored by Anhur and Marthammor Duin. Tiny lap dogs were considered blessed by Savras. Arvoreen, the Red Knight, and Tempus all preferred war dogs. Dogs with gray fur were sacred to both Azuth and Mask, while black dogs were sacred to Bane, brown dogs to Cyrrollalee, and white to Deneir. Mystra favored dogs of all varieties, and intelligent dogs were known to live in the celestial realms of Nephthys, Rillifane Rallathil, and Sharindlar.

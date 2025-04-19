@@ -1,28 +1,11 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "Death armor3e.png",
-        "caption": "",
-        "name": "Death Armor",
-        "deity": "",
-        "inventor": "[[Sammaster]]",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Necromancy]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Sorcerer]]|2|[[Wizard]]|2}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
-        "school2e": "[[Abjuration]], [[Necromancy]]",
+        "school2e": "Abjuration, Necromancy",
         "spheres2e": "",
-        "level2e": "{{Class table|[[Wizard]]|2}}",
+        "level2e": "",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -30,9 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Death armor''''' was a rare [[necromancy]] [[spell]] that surrounded the [[wizard]] in an aura that injured creatures upon contact. It could only be cast by [[necromancer]]s.",
-        "Effects": "The aura of ''death armor'' harmed only those who touched it with their ''natural'' weapons, such as grapples, claws, or kicks. Creatures who attacked with other weapons or projectiles, such as [[sword]]s or [[arrow]]s, would not be affected. This made the spell particularly good against creatures such as [[animal]]s, as they would quickly scurry away after taking damage. However, if casters tried to make contact with their targets, they would also take damage.\n\nIf the caster was slain whilst surrounded by the aura, they would be engulfed by a black explosion of energy, making [[resurrection]] more difficult. More experienced necromancers could make the aura last longer.",
-        "Components": "The spell required [[somatic]], [[verbal]], and [[material component]]s. The material component, which was a special unguent, had to be applied to the caster's clothes and body before the spell was cast. The unguent was expensive at 300 [[gp]] and, once applied, had to be used within 8 hours, or the unguent coating would expire.",
-        "History": "The spell was invented by the former [[Chosen of Mystra]], [[Sammaster]]. Along with many other necromancy spells, it could be found in the ''[[Tome of the Dragon]]''. This spell was known to be used by wizards of the [[Cult of the Dragon]]."
+        "mainbody": "Death armor was a rare necromancy spell that surrounded the wizard in an aura that injured creatures upon contact. It could only be cast by necromancers.\nThe aura of death armor harmed only those who touched it with their natural weapons, such as grapples, claws, or kicks. Creatures who attacked with other weapons or projectiles, such as swords or arrows, would not be affected. This made the spell particularly good against creatures such as animals, as they would quickly scurry away after taking damage. However, if casters tried to make contact with their targets, they would also take damage.\nIf the caster was slain whilst surrounded by the aura, they would be engulfed by a black explosion of energy, making resurrection more difficult. More experienced necromancers could make the aura last longer.\nThe spell required somatic, verbal, and material components. The material component, which was a special unguent, had to be applied to the casters clothes and body before the spell was cast. The unguent was expensive at 300 gp and, once applied, had to be used within 8 hours, or the unguent coating would expire.\nThe spell was invented by the former Chosen of Mystra, Sammaster. Along with many other necromancy spells, it could be found in the Tome of the Dragon. This spell was known to be used by wizards of the Cult of the Dragon."
     }
 }

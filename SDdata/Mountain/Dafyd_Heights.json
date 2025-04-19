@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "30|mi|k|long": "yes"
-    },
     "document_data": {
-        "image": "Gwynneth.jpg",
-        "caption": "A map showing Dafyd Heights in the Llyrath Forest.",
-        "name": "Dafyd Heights",
-        "aliases": "",
-        "type": "Mountain",
-        "region": "[[Gwynneth]], the [[Moonshae Isles]]",
-        "elevation": "",
-        "georefs": "",
-        "races": "",
-        "socrefs": "",
-        "usethe": "",
-        "useon": "yes",
-        "inhabitants": "",
-        "locations": "yes",
-        "organizations": "",
-        "settlements": "",
-        "roads": "",
-        "mountains": "yes",
-        "events": "",
-        "food and drink": "",
-        "items": "",
-        "mainbody": "'''Dafyd Heights''' was a small mountain range located on the island of [[Gwynneth]] within the [[Moonshae Isles]].{{Cite interactive atlas}}{{Cite dungeon/196/Backdrop: The Moonshae Isles}}",
-        "Geography": "Dafyd Heights was found enveloped by the [[Llyrath Forest]] in southern Gwynneth. The mountains ran east to west through the forest parallel to the nearby coast of the [[Sea of Swords]] for {{SI|30|mi|k|long=yes}}. A small unnamed river flowed south from the mountains to empty into the sea."
+        "mainbody": "afyd Heights was a small mountain range located on the island of Gwynneth within the Moonshae Isles.\nDafyd Heights was found enveloped by the Llyrath Forest in southern Gwynneth. The mountains ran east to west through the forest parallel to the nearby coast of the Sea of Swords for . A small unnamed river flowed south from the mountains to empty into the sea."
     }
 }

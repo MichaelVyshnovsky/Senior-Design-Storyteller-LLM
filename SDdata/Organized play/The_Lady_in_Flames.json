@@ -1,54 +1,20 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "code": "DALE1-4",
-        "title": "The Lady in Flames",
-        "publisher": "[[RPGA]]",
-        "designer": "[[Brad Gardner]]",
-        "editor": "",
-        "reviewer": "[[Pierre van Rooden]], [[Pieter Sleijpen]]",
-        "also_credited": "",
-        "cover_artist": "",
-        "inter_artist": "",
-        "cartography": "",
-        "realm year": "1479 DR{{4e-time}}",
-        "setting": "[[Dalelands]]",
+        "setting": "Dalelands",
         "edition1": "LFR",
         "debut1": "",
         "released1": "May 2009",
-        "subcat1": "[[Living Forgotten Realms/Dalelands|Dalelands region]]",
+        "subcat1": "Dalelands region",
         "pages1": "39",
         "game_edition1": "4",
         "isbn1": "",
-        "play_time": "3.5&ndash;4 hours",
+        "play_time": "3.5&ndash4 hours",
         "rounds": "",
-        "players": "4&ndash;6",
-        "levels": "4{{th}}&ndash;7{{th}}",
-        "series": "Byar's Seven (2 of 3)",
-        "preceded_by": "''[[Blades for Daggerdale]]''",
-        "followed_by": "''[[Hunters' Down]]''",
-        "mainbody": "'''''The Lady in Flames''''', designed by [[Brad Gardner]], is an adventure module set in the ''Forgotten Realms'' using the ''Dungeons & Dragons'' 4th-edition ruleset.\n\n{{Quote|''[[Fey]] creatures wreathed in blue flames have been leaving the [[Spiderhaunt]] forest to harrass the citizens of [[Shadowdale]]. [[Addee Ulphor|Lady Ulphor]] requests that you delve into the forest and retrieve or destroy the source of their newfound powers. A Living Forgotten Realms fairy tale set in the [[Dalelands]] for characters levels 4-7. This adventure is the second part of the'' Byar's Seven ''major quest, which started in'' DALE1-2 [[Blades for Daggerdale]].|}}",
-        "Index": {
-            "Characters": ":{{P|[[Addee Ulphor]]|6-7,28-29,37-38}} • {{P|[[Mishell Nymonen]]|7,9,25-26}} • {{P|[[Relda]]|8,18-20,34}} • {{P|[[Sureen Evereska]]|37-38}} • {{P|[[Sureen Tevenesta]]|4-5,10-12,19-20,25,29,34-35}}\n::{{Refonly}}\n::{{P|[[Anastra Syluné Silverhand]]|38}} • {{P|[[Ashaba]]|38}} • {{P|[[Azalar Falconhand]]|37-38}} • {{P|[[Dorring Brightaxe]]|4,34-44}} • {{P|[[Elminster]]|38}} • {{P|[[Ledfer the Ogre]]|27}} • {{P|[[Lubeq]]|34}} • {{P|[[Mikon Nazhan]]|34}} • {{P|[[Susurrus]]|37}} • {{P|[[Swift Elyan]]|4,34}}",
-            "Creatures": ":{{P|[[banshrae]]|9-11}} • {{P|[[cyclops]]|27}} • {{P|[[dwarf]]|25,39}} • {{P|[[high elf|eladrin]]|9-10,28,30-31}} • {{P|[[ettercap]]|4-5,8-14,16-20,34,39}} • {{P|[[gnome]]|9-10,39}} • {{P|[[half-elf]]|11,29,34}} • {{P|[[halfling]]|25,29,34,39}} • {{P|[[harpy]]|28,30-31}} • {{P|[[howling hag]]|8,18,20,22-23}} • {{P|[[mice]]|26}} • {{P|[[pixie]]|27}} • {{P|[[rabbit]]|26}} • {{P|[[shambling mound]]|20,22-23}} • {{P|[[squirrel]]|26}} • {{P|[[will-o'-wisp]]|5,8-9,20,22-23,25}}\n::{{Refonly}}\n::{{P|[[dryad]]|9-10}} • {{P|[[jabberwock]]|27}} • {{P|[[Lolth-touched]]|37}} • {{P|[[satyr]]|9-10}} • {{P|[[wendigo]]|37}}",
-            "Locations": {
-                "Buildings": "{{P|[[Old Skull Inn]]|6}}",
-                "Forests": "{{P|[[Cormanthor]]|4-5}} • {{P|[[Spiderhaunt Wood]]|1,5-9,12,17,20,25,27-28,33-34,37}}",
-                "Settlements": "{{P|[[Shadowdale]]|1,4-6,9,12,17,28,34,37-38}}\n::{{Refonly}}\n::{{P|[[Feywild]]|6,27}} • {{P|[[Semberholme]]|37}} • {{P|[[Thunder Peaks]]|6}} • {{P|[[Tower of Ashaba]]|6,28}}"
-            },
-            "Magic": {
-                "Items": "{{P|''[[diadem of acuity]]''|12,19}} • {{P|''[[elven cloak]]''|28,34}} • {{P|''[[elixir of dragon breath]]''|34,36}} • {{P|''[[feyswarm staff]]''|12,19,34,36}} • {{P|''[[jar of steam]]''|19,33,36}}• {{P|''[[pendant of Ashaba]]''|6,37-38}} • {{P|''[[power jewel]]''|12,19,33,36}} • {{P|''[[rod of feythorns]]''|12,19,33,36}} • {{P|''[[sylvan armor]]''|28,34}}",
-                "Rituals": "{{P|''[[feat of strength]]''|12,19,36}} • {{P|''[[Hand of Fate]]''|12,19,34}}",
-                "Other": "{{P|[[shadow magic]]|37}} • {{P|[[wild magic]]|37}}\n::{{Refonly}}\n::{{P|''[[cure disease]]''|4,37}} • {{P|[[fey crossroad|fey crossing]]|6}} • {{P|''[[raise dead]]''|3-4}}"
-            },
-            "Organizations": ":{{P|[[Sibilant Sisters]]|5,7-10,12,18-21,29,34}}",
-            "Religions": ":{{P|[[Malar]]|4,25,29,34,37}}\n::{{Refonly}}\n::{{P|[[Chauntea]]|6}}",
-            "Miscellaneous": {
-                "Clothing": "{{P|[[breeches]]|38}}",
-                "Conditions": "{{P|[[cackle fever]]|37}}",
-                "Other": "{{P|[[menhir]]|9-10}}\n::{{Refonly}}\n::{{P|[[bloody shakes]]|9}} • {{P|[[Plagueland]]|6}} • {{P|[[slimy doom]]|9}} • {{P|[[Spellplague]]|37-38}} • {{P|[[walking rot]]|9}}"
-            }
-        }
+        "players": "4&ndash6",
+        "levels": "4&ndash7",
+        "series": "Byars Seven (2 of 3)",
+        "preceded_by": "Blades for Daggerdale",
+        "followed_by": "Hunters Down",
+        "mainbody": "The Lady in Flames, designed by Brad Gardner, is an adventure module set in the Forgotten Realms using the Dungeons & Dragons 4th-edition ruleset.\n •  •  •  • \n •  •  •  •  •  •  •  •  • \n •  •  •  •  •  •  •  •  •  •  •  •  •  •  • \n •  •  •  • \nBuildings \nForests  • \nSettlements \n •  •  • \nItems  •  •  •  • •  •  •  • \nRituals  • \nOther  • \n •  • \nClothing \nConditions \nOther \n •  •  •  •"
     }
 }

@@ -1,25 +1,9 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Agni",
-        "othernames": "",
-        "symbol": "Limbo.png",
-        "demonym": "",
-        "natives": "",
-        "languages": "",
-        "basicrefs": "",
-        "type-GW": "Layer",
-        "shape-size-GW": "",
-        "gravity-GW": "Subjective directional",
-        "time-GW": "Normal",
-        "morphic-GW": "Highly",
-        "element-energy-GW": "Sporadic",
-        "alignment-GW": "{{Alignment grid|off|off|off|off|off|on|off|off|off}}",
-        "magical-GW": "[[Wild magic|Wild]]",
+        "magical-GW": "Wild",
         "layers-GW": "",
         "layer-number-GW": "3",
-        "location-GW": "[[Limbo]]",
+        "location-GW": "Limbo",
         "refs-GW": "",
         "type-WA": "",
         "shape-size-WA": "",
@@ -52,10 +36,6 @@
         "settlements": "",
         "usethe": "",
         "useon": "",
-        "mainbody": "'''Agni''' was a region of [[Limbo]] considered by some to be its third layer. It was named after the [[deity]] [[Agni]], whose [[divine realm]] was believed to be primarily located there.",
-        "Description": "Like the rest of the plane, the layer of Agni was indistinguishable from any other location in Limbo. It was a churning storm of ever-changing matter and energy, with the occasional ephemeral fragments of stable landscape. The raw chaos could in principle be manipulated and stabilized by a creature's force of will.",
-        "Cosmography": "There were barriers separating Agni from the other layers of Limbo, but they were considerably weaker than in other planes, so that it was possible to find realms and permanent settlements typically associated with other layers of the plane there. Those barriers were also constantly shifting their position, sometimes allowing portions of a neighboring layer to bleed through, increasing or decreasing the layer's size.{{Cite dragon/120/Plane Speaking|143}}\n\nAlthough many scholars simply disregarded the reason for the barriers' existence, considering the entire plane one single layer,",
-        "Notable Locations": "Agni's palace in the shared divine realm of [[Swarga]] was located primarily on this layer, although it constantly moved and frequently shifted between layers. It was a great sphere filled with flames fueled by the raw energy of the plane. Anyone entering the sphere without Agni's express protection was instantly immolated.",
-        "Inhabitants": "The region of the layer pertaining to Swarga was generally avoided by the [[githzerai]] anarchs, since shaping the realm to a mortal's will risked attracting the wrath of the destructive deities."
+        "mainbody": "Agni was a region of Limbo considered by some to be its third layer. It was named after the deity Agni, whose divine realm was believed to be primarily located there.\nLike the rest of the plane, the layer of Agni was indistinguishable from any other location in Limbo. It was a churning storm of ever-changing matter and energy, with the occasional ephemeral fragments of stable landscape. The raw chaos could in principle be manipulated and stabilized by a creatures force of will.\nThere were barriers separating Agni from the other layers of Limbo, but they were considerably weaker than in other planes, so that it was possible to find realms and permanent settlements typically associated with other layers of the plane there. Those barriers were also constantly shifting their position, sometimes allowing portions of a neighboring layer to bleed through, increasing or decreasing the layers size.\nAlthough many scholars simply disregarded the reason for the barriers existence, considering the entire plane one single layer,\nAgnis palace in the shared divine realm of Swarga was located primarily on this layer, although it constantly moved and frequently shifted between layers. It was a great sphere filled with flames fueled by the raw energy of the plane. Anyone entering the sphere without Agnis express protection was instantly immolated.\nThe region of the layer pertaining to Swarga was generally avoided by the githzerai anarchs, since shaping the realm to a mortals will risked attracting the wrath of the destructive deities."
     }
 }

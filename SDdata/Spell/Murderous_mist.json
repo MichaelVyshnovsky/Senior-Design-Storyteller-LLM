@@ -1,39 +1,7 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "20|ft|long": "yes",
-        "60|ft|long": "yes",
-        "40|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Murderous Mist",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Evocation]]",
-        "domains3e": "",
-        "descriptors3e": "{{Desc/fire}}",
-        "level3e": "{{Spell table|edition=3e|[[Druid]]|4}}",
-        "refs3e": "{{Cite web/Magic of Faerûn Errata|4}}",
+        "level3e": "",
+        "refs3e": "",
         "reversible2e": "",
         "school2e": "",
         "spheres2e": "",
@@ -45,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Murderous mist''''' was a [[divine magic]] spell available to [[druid]]s. It created a moving cloud of steam hot enough to damage and blind those caught in the path.",
-        "Effects": "When cast, this spell created a cloud of boiling steam {{SI|20|ft|long=yes}} high and {{SI|60|ft|long=yes}} in diameter at a distance of up to {{SI|40|ft|long=yes}} from the caster (even farther with longer duration for more experienced casters). The roiling cloud slowly moved in a straight line away from the caster, engulfing anything in its path. Creatures caught in the ''mist'' were scalded and permanently blinded. Beings that were fast and agile enough could protect their eyes and take less damage, but anyone that remained in the steam cloud continued to be seared for as long as the spell lasted or it was dissipated by winds. It took at least a moderate wind to disperse the ''mist'', and the stronger the wind, the faster the dispersal. The normal duration of the spell was nearly a full minute.\n\nThe steam cloud was mostly opaque and beings inside it were concealed.{{Cite web/Complete Divine Errata|1}}",
-        "Components": "This spell required [[verbal]] and [[somatic component]]s to cast."
+        "mainbody": "Murderous mist was a divine magic spell available to druids. It created a moving cloud of steam hot enough to damage and blind those caught in the path.\nWhen cast, this spell created a cloud of boiling steam  high and  in diameter at a distance of up to  from the caster (even farther with longer duration for more experienced casters). The roiling cloud slowly moved in a straight line away from the caster, engulfing anything in its path. Creatures caught in the mist were scalded and permanently blinded. Beings that were fast and agile enough could protect their eyes and take less damage, but anyone that remained in the steam cloud continued to be seared for as long as the spell lasted or it was dissipated by winds. It took at least a moderate wind to disperse the mist, and the stronger the wind, the faster the dispersal. The normal duration of the spell was nearly a full minute.\nThe steam cloud was mostly opaque and beings inside it were concealed.\nThis spell required verbal and somatic components to cast."
     }
 }

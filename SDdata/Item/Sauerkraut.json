@@ -1,20 +1,5 @@
 {
     "document_data": {
-        "image": "Neverwinter - Sauerkraut.png",
-        "caption": "",
-        "name": "Sauerkraut",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Food",
-        "creator": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "5 [[sp]] per {{SI|1|lbs.|k}}",
         "weight2e": "",
         "refs2e": "",
         "school3e": "",
@@ -38,7 +23,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Sauerkraut''' was a type of savory dish found in the Realms.",
-        "Description": "This dish consisted of [[cabbage]] that had been thinly sliced and fermented in [[salt]], lending it a taste that was pleasantly sour.<ref>"
+        "mainbody": "Sauerkraut was a type of savory dish found in the Realms.\nThis dish consisted of cabbage that had been thinly sliced and fermented in salt, lending it a taste that was pleasantly sour."
     }
 }

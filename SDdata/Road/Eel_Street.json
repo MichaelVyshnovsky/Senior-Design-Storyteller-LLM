@@ -1,19 +1,10 @@
 {
-    "template_data": {
-        "1300|ft.|long": "yes"
-    },
     "document_data": {
-        "image": "Eel Street.jpg",
-        "caption": "A map of the leading edge of [[Bral]] with Eel Street highlighted in blue.",
-        "name": "Eel Street",
-        "type": "Street",
-        "aliases": "",
-        "length": "~{{SI|1300|ft.}}",
         "width": "",
         "pavement": "",
-        "location": "[[Bral/Low City|Low City]], [[Bral]]",
-        "starts": "[[Lamp Street]]",
-        "ends": "[[Anchor Street]]",
+        "location": "Low City, Bral",
+        "starts": "Lamp Street",
+        "ends": "Anchor Street",
         "built": "",
         "refs": "",
         "daggers": "",
@@ -23,8 +14,6 @@
         "settlements": "",
         "roads": "yes",
         "events": "",
-        "mainbody": "'''Eel Street''' was a major road in the asteroid city of [[Bral]].",
-        "Description": "Eel Street began with an intersection with [[Lamp Street]] on the starboard side of the [[Rock of Bral|asteroid]] and ran to its port side at [[Anchor Street]], covering most of the width of the [[Bral/Low City|Low City]]. Along the way, it crossed [[Hammer Street]], [[Grand Street]], and [[Dragon Street]], for a total distance of roughly {{SI|1300|ft.|long=yes}}. It formed the trailing-edge borders of [[Giff-town]] and [[Shou-town (Bral)|Shou-town]].",
-        "Notable Locations": "* The Green Galley\n* [[Marshall's Smithy]]\n* [[Houwe's Ballistae and Catapults]]"
+        "mainbody": "Eel Street was a major road in the asteroid city of Bral.\nEel Street began with an intersection with Lamp Street on the starboard side of the asteroid and ran to its port side at Anchor Street, covering most of the width of the Low City. Along the way, it crossed Hammer Street, Grand Street, and Dragon Street, for a total distance of roughly . It formed the trailing-edge borders of Giff-town and Shou-town.\n* The Green Galley\n* Marshalls Smithy\n* Houwes Ballistae and Catapults"
     }
 }

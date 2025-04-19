@@ -1,31 +1,8 @@
 {
-    "template_data": {
-        "4|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Pic_13.jpg",
-        "caption": "",
-        "name": "Korobokuru",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "Small",
-        "type3e": "[[Humanoid]]",
-        "subtype3e": "[[Dwarf]]",
-        "alignment3e": "Usually [[chaotic good]]",
-        "challenge3e": "{{Frac|1|2}}",
         "refs3e": "",
         "size2e": "Small",
-        "alignment2e": "[[Chaotic good]]",
+        "alignment2e": "Chaotic good",
         "refs2e": "",
         "size1e": "",
         "alignment1e": "",
@@ -35,9 +12,9 @@
         "activecycle": "Any",
         "diet": "Omnivore",
         "lifespan": "",
-        "location": "[[Kara-Tur]]",
+        "location": "Kara-Tur",
         "language": "",
-        "subraces": "[[Ishikorobokuru]]",
+        "subraces": "Ishikorobokuru",
         "climate": "Tropical, subtropical, temperate, warm",
         "terrain": "Mountains, hills, jungles, forests",
         "height": "4 ft (1.2 m)",
@@ -51,15 +28,8 @@
         "eyecolor": "Blue, green brown",
         "build": "",
         "distinctions": "",
-        "based": "[[wikipedia:Korpokkur|Korobokkuru]] from Ainu mythology",
+        "based": "Korobokkuru from Ainu mythology",
         "first": "",
-        "mainbody": "'''Korobokuru''' ({{Pronounce|koh|roh|boh|koo|roo|refs=}}) were [[dwarf]]-like [[humanoids]] who lived in the barren lands of [[Kara-Tur]], away from people and civilization.\n{{TOC limit|3}}",
-        "Description": {
-            "Subraces": "A variety of korobokuru known as ishikorobokuru were adapted to live in colder climates."
-        },
-        "Personality": "The people of Kara-Tur had a pretty poor opinion of the tribes of korobokuru, assuming they were wild, rude, and boastful. Typically, this stereotype, while sometimes true, was mostly wrong. Korubokuru did not like it when someone said bad things about their society. While most korobokuru did not even leave their village, they commonly told stories around the campfire about other people and they gathered treasures in their daily lives.",
-        "Combat": "Most korobokuru were peaceful and did not come into conflict. Favorite weapons of korobokuru living in the [[Northern Wastes]] were the [[axe]], [[club]], [[knife]], spring bow (similar to a [[light crossbow]], largely used for [[deer]] hunting), and [[sword]].",
-        "History": "The korobokuru came into the legendary tales of early [[Wa]]. After the death of the first emperor [[Kochi]], Master of the Peach Tree, a civil war erupted, known as the [[War of the Spirits]]. At first, the korobokuru wanted to remain neutral, but eventually they sided with the [[spirit]]s of the land against the [[human]]s and their allied [[spirit folk]]. However, when [[Kasada]] gained back the sacred [[Moonlight Arrow]] from the Spirit of [[Yakamashi Mountain]], the korokoburu living in the southern half of the island joined with Kasada in his rise to become the emperor, in opposition to their northern kin.",
-        "Society": "They lived in small villages and engaged in hunting and farming. Most korobokuru preferred their isolation,\n\n====Homelands====\nKorobokoru could be found across Kara-Tur, where they tried to live close to nature. They lived in small villages, where they grew vegetables, hunted, and fished. Each village was independent but often maintained friendly contact with each other. Usually each village was ruled by a chieftain and two deputies; they were all elected tribal elders. These three leaders declared laws, judged people, and punished the guilty. However, these three leaders were beholden to the feelings of ordinary korobokoru, as represented by the other elders. The death penalty was not applied in korubokoru society; usually punishments involved pain, both physical and psychological. These included beating, maiming, and exile.\n\nMany korobokuru women bore blue tattoos on their hands and faces, which many outsiders, especially those further south in Kara-Tur, found hideous.\n \nLife in korobokuru society was quite hard, taken up with basic survival. They spent their little leisure time telling each other stories around the campfire, dancing, and singing.\n\nKorobokuru villages were scattered around the [[Ama Basin]],<ref>\n\n====Religion====\nKorobokuru practiced [[shaman]]ism and worshiped many gods of nature.<ref>\n\nKorobokuru society did not have [[priest]]s at all, as all religious services were performed by heads of their households. However, some members of korobokuru society had magical powers like [[wu jen]], although the korobokuru called them \"tusu\". Tusu often fulfilled the role of [[shaman]]s and were almost all female.\n\n====Relationships====\nMany other races found korobokuru primitive and wild, and they in turn appeared aloof, treating all races with suspicion. They especially hated [[goblinoid]]s.\n\n====Adventurers====\nAs a rule, korobokuru rarely left their villages and explored new lands. Korobokuru adventurers usually went wandering because of need or orders from their tribe, although this task would be very weighty."
+        "mainbody": "Korobokuru () were dwarf-like humanoids who lived in the barren lands of Kara-Tur, away from people and civilization.\nKorobokoru usually reached about  in height, with hands and legs longer in proportion to their bodies. They were usually bowlegged and had big blue-, green-, or brown-colored eyes. Their ears and noses were small, with large round nostrils. Most often, they had thick blond or light brown hair and males also grew small beards. It was worth noting that female korobokuru could also grow small whiskers below their chins.\nMany korobokuru looked unkempt and wild. They usually wore simple clothes, consisting of shirts and trousers or kimono. Their clothes were often intricate but clean. They rarely wore jewelry, but sometimes wore small amulets and decorated their hair with flowers.\nA variety of korobokuru known as ishikorobokuru were adapted to live in colder climates. \nThe people of Kara-Tur had a pretty poor opinion of the tribes of korobokuru, assuming they were wild, rude, and boastful. Typically, this stereotype, while sometimes true, was mostly wrong. Korubokuru did not like it when someone said bad things about their society. While most korobokuru did not even leave their village, they commonly told stories around the campfire about other people and they gathered treasures in their daily lives.\nMost korobokuru were peaceful and did not come into conflict. Favorite weapons of korobokuru living in the Northern Wastes were the axe, club, knife, spring bow (similar to a light crossbow, largely used for deer hunting), and sword.\nThe korobokuru came into the legendary tales of early Wa. After the death of the first emperor Kochi, Master of the Peach Tree, a civil war erupted, known as the War of the Spirits. At first, the korobokuru wanted to remain neutral, but eventually they sided with the spirits of the land against the humans and their allied spirit folk. However, when Kasada gained back the sacred Moonlight Arrow from the Spirit of Yakamashi Mountain, the korokoburu living in the southern half of the island joined with Kasada in his rise to become the emperor, in opposition to their northern kin.\nThey lived in small villages and engaged in hunting and farming. Most korobokuru preferred their isolation,\nKorobokoru could be found across Kara-Tur, where they tried to live close to nature. They lived in small villages, where they grew vegetables, hunted, and fished. Each village was independent but often maintained friendly contact with each other. Usually each village was ruled by a chieftain and two deputies they were all elected tribal elders. These three leaders declared laws, judged people, and punished the guilty. However, these three leaders were beholden to the feelings of ordinary korobokoru, as represented by the other elders. The death penalty was not applied in korubokoru society usually punishments involved pain, both physical and psychological. These included beating, maiming, and exile.\nMany korobokuru women bore blue tattoos on their hands and faces, which many outsiders, especially those further south in Kara-Tur, found hideous.\nLife in korobokuru society was quite hard, taken up with basic survival. They spent their little leisure time telling each other stories around the campfire, dancing, and singing.\nKorobokuru villages were scattered around the Ama Basin,\nKorobokuru practiced shamanism and worshiped many gods of nature.\nKorobokuru society did not have priests at all, as all religious services were performed by heads of their households. However, some members of korobokuru society had magical powers like wu jen, although the korobokuru called them \"tusu\". Tusu often fulfilled the role of shamans and were almost all female.\nMany other races found korobokuru primitive and wild, and they in turn appeared aloof, treating all races with suspicion. They especially hated goblinoids.\nAs a rule, korobokuru rarely left their villages and explored new lands. Korobokuru adventurers usually went wandering because of need or orders from their tribe, although this task would be very weighty."
     }
 }

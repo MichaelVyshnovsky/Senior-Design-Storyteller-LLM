@@ -1,15 +1,7 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "name": "Laerdya Floshin",
-        "sex": "Female",
-        "race": "[[Fey'ri]]",
-        "class": "{{class table|edition=3e|[[Rogue]]|5}}",
         "rules": "3rd edition",
-        "alignment": "[[Chaotic evil]]",
-        "mainbody": "source    =\n| page      =\n}}\n'''Laerdya Floshin''' was a female [[fey'ri]] [[rogue]] and a member of the [[daemonfey]].\n\n{{stub}}",
-        "References": "{{refs}}\n[[Category:Fey'ri]]\n[[Category:Rogues]]\n[[Category:Members of the daemonfey]]\n[[Category:Inhabitants]]\n[[Category:Inhabitants of Toril]]\n[[Category:Inhabitants of Faerûn]]\nbfkuiq9znz33uixai99gblnxj0mzsvq"
+        "alignment": "Chaotic evil",
+        "mainbody": "| source    =\n| page      =\nLaerdya Floshin was a female feyri rogue and a member of the daemonfey.\nCategoryFeyri\nCategoryRogues\nCategoryMembers of the daemonfey\nCategoryInhabitants\nCategoryInhabitants of Toril\nCategoryInhabitants of Faerûn\nbfkuiq9znz33uixai99gblnxj0mzsvq"
     }
 }

@@ -1,23 +1,5 @@
 {
-    "template_data": {
-        "edition": "2"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Ilder Taramont",
-        "alt_spelling": "",
-        "titles": "Admiral",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Nimpeth]], [[Free Cities of the Vilhon Reach]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "gender": "",
-        "race": "[[Human]]",
-        "ethnicity": "",
-        "occupation": "Navy, sailor<br/>{{Former}} adventurer",
         "age": "",
         "patron deity": "",
         "languages": "",
@@ -46,8 +28,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Neutral evil]]",
-        "class2e": "{{class table|edition=2|[[Thief]]|15}}",
+        "alignment2e": "Neutral evil",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
@@ -64,8 +46,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Admiral Ilder Taramont''' was the commander of [[Nimpeth]]'s navy and the captain of the ''[[Wine & Song]]'' vessel in the late 14{{th}} century [[DR]].\n\n{{quote|''Ilder Taramont was the \"Admiral\" of that [[wine]]-soaked [[Nimpeth|city of slavers]], a one-time adventurer whose thefts and subterfuges had won him infamy before the ascension of Lord [[Woren]]. He'd had to learn how to captain ships and move them like weapons, instead of merely stealing from their crews in passing.''|[[Rilder Surtlash]]}}",
-        "Description": "Ilder was one of three chancellors who advised Lord of Nimpeth – Woren, despite having little skills to be an Admiral or even just a member of the navy. However, he was a quick-witted and subtle man.",
-        "History": "Before Lord Woren became the leader of Nimpeth in the 14{{th}} century DR, Ilder Taramont made his name via deceit, trickery, and theft. When Woren rose to power, Ilder Taramont weaseled himself into the new Lord's good graces and was assigned the position of Nimpeth's Admiral. By the {{YearlinkName|1370}}, Ilder learned the trade and commanded around twenty ships. His own ship was named ''Wine & Song'' from which the Admiral sent out navy patrols, ordered slave ships escorts, and managed safe sailing for the trade and transports ships that sailed to and from Nimpeth."
+        "mainbody": "Admiral Ilder Taramont was the commander of Nimpeths navy and the captain of the Wine & Song vessel in the late 14 century DR.\nIlder was one of three chancellors who advised Lord of Nimpeth – Woren, despite having little skills to be an Admiral or even just a member of the navy. However, he was a quick-witted and subtle man.\nBefore Lord Woren became the leader of Nimpeth in the 14 century DR, Ilder Taramont made his name via deceit, trickery, and theft. When Woren rose to power, Ilder Taramont weaseled himself into the new Lords good graces and was assigned the position of Nimpeths Admiral. By the , Ilder learned the trade and commanded around twenty ships. His own ship was named Wine & Song from which the Admiral sent out navy patrols, ordered slave ships escorts, and managed safe sailing for the trade and transports ships that sailed to and from Nimpeth."
     }
 }

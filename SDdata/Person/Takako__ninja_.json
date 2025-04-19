@@ -1,27 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Night of the Seven Swords artwork.jpg",
-        "caption": "Masakito (left) battles Takako (right).",
-        "name": "Takako",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Kara-Tur]]",
-        "formerhomes": "",
-        "sex": "Female",
-        "gender": "",
-        "race": "[[Human]]",
-        "ethnicity": "",
-        "occupation": "Ninja",
-        "age": "",
-        "patron deity": "",
-        "languages": "",
-        "basicrefs": "{{Cite card/AD&D Trading Cards/1991|114|Takako}}",
         "reckoning": "",
         "dob": "",
         "dobnotes": "",
@@ -46,8 +24,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Lawful good]]",
-        "class2e": "{{class table|edition=2e|[[Fighter]]|14}}",
+        "alignment2e": "Lawful good",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
@@ -64,9 +42,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Takako''' was a [[human]] [[ninja]] of [[Kara-Tur]] in the mid–14{{th}} century [[DR]].",
-        "History": "As a teenager, Takako disguised herself as a man and a tutor took her on as a student in the skills of the ninja. Although Takako became an expert and agile warrior, she maintained her disguise as she worried no one would hire her for dangerous missions if they found out the truth.\n\nShe once fought with the warrior [[Masakito]].{{Cite card/AD&D Trading Cards/1991|115|Masakito}}<ref><ref group=\"note\">This is inferred from the art used for both characters' cards being reused from the cover of ''Night of the Seven Swords''.",
-        "Personality": "Takako was a thrill-seeker who enjoyed being in any kind of danger.",
-        "Possessions": "Takako wielded a [[katana]]."
+        "mainbody": "Takako was a human ninja of Kara-Tur in the mid–14 century DR.\nAs a teenager, Takako disguised herself as a man and a tutor took her on as a student in the skills of the ninja. Although Takako became an expert and agile warrior, she maintained her disguise as she worried no one would hire her for dangerous missions if they found out the truth.\nShe once fought with the warrior Masakito.This is inferred from the art used for both characters cards being reused from the cover of Night of the Seven Swords.\nTakako was a thrill-seeker who enjoyed being in any kind of danger.\nTakako wielded a katana."
     }
 }

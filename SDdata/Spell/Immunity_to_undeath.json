@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Immunity to Undeath",
-        "othernames": "",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]</br>[[Necromancy]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|9}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -45,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Immunity to undeath''''' was a powerful [[Arcane magic|arcane]] [[alteration]] and [[necromancy]] [[spell]] that protected the caster from ''[[energy drain]]ing'' attacks.",
-        "Effects": "The spell created a globe of energy with a {{SI|40|ft}} radius centered on the caster. The globe moved with the caster and anything within was protected from any form of attack regarding ''energy draining'', strength draining, or mental attacks. Furthermore, [[undead]] powers that caused fear, aging, paralyzation, or death would not function. Someone on the perimeter of the globe was still protected provided at least part of their body was still within the globe.\n\nAll creatures could still pass freely through the globe. Undead within the globe were unable to change their physical forms. Dead bodies could not be animated within the globe. Incorporeal undead such as [[ghost]]s and [[shadow]]s were clearly outlined while within the globe.\n\nThe spell lasted for several minutes depending on the caster's skill, but the caster could not end the spell early, but the protective globe could be successfully ''[[Dispel magic|dispelled]]''.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component]]s, this spell required as [[material component]]s a drop of the caster's blood, a single plant seed, and drop of [[holy water]] to cast."
+        "mainbody": "Immunity to undeath was a powerful arcane alteration and necromancy spell that protected the caster from energy draining attacks.\nThe spell created a globe of energy with a  radius centered on the caster. The globe moved with the caster and anything within was protected from any form of attack regarding energy draining, strength draining, or mental attacks. Furthermore, undead powers that caused fear, aging, paralyzation, or death would not function. Someone on the perimeter of the globe was still protected provided at least part of their body was still within the globe.\nAll creatures could still pass freely through the globe. Undead within the globe were unable to change their physical forms. Dead bodies could not be animated within the globe. Incorporeal undead such as ghosts and shadows were clearly outlined while within the globe.\nThe spell lasted for several minutes depending on the casters skill, but the caster could not end the spell early, but the protective globe could be successfully dispelled.\nIn addition to verbal and somatic components, this spell required as material components a drop of the casters blood, a single plant seed, and drop of holy water to cast."
     }
 }

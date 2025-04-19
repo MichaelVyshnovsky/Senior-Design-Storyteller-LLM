@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "30|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Venom of Varae",
-        "deity": "[[Sseth]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Necromantic sphere|Necromantic]]",
-        "level2e": "{{Spell table|edition=2e|[[Cleric]]|3|[[Druid]]|3|[[Necromantic sphere|Necromantic]]|3}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Venom of Varae''''' was a [[divine magic]] spell given to followers of [[Sseth]] or his aspect known as [[Varae]]. It allowed the caster to spit [[snake]] venom at a target.",
-        "Effects": "This spell enabled the caster to hold actual snake venom in their mouth and spit it at a target up to {{SI|30|ft|long=yes}} away. The venom acted like a contact [[poison]] and was very difficult to resist, doing severe injury. Even if the victim managed to resist the poison, they still received a quarter of the poisonous damage. In either case, the onset of the effect took only six seconds.\n\nThe caster was immune to the effects of the venom and could hold it in their mouth as long as they did not swallow, speak, or otherwise open their mouth. If they did any of these things, the spell was negated.",
-        "Components": "This spell required a [[Verbal component|verbal]] incantation prior to pouring a vial of snake venom (the [[material component]]) into their mouth and then expectorating it at a target (the [[somatic component]]). The spell also required the use of the priest's [[holy symbol]]."
+        "mainbody": "Venom of Varae was a divine magic spell given to followers of Sseth or his aspect known as Varae. It allowed the caster to spit snake venom at a target.\nThis spell enabled the caster to hold actual snake venom in their mouth and spit it at a target up to  away. The venom acted like a contact poison and was very difficult to resist, doing severe injury. Even if the victim managed to resist the poison, they still received a quarter of the poisonous damage. In either case, the onset of the effect took only six seconds.\nThe caster was immune to the effects of the venom and could hold it in their mouth as long as they did not swallow, speak, or otherwise open their mouth. If they did any of these things, the spell was negated.\nThis spell required a verbal incantation prior to pouring a vial of snake venom (the material component) into their mouth and then expectorating it at a target (the somatic component). The spell also required the use of the priests holy symbol."
     }
 }

@@ -1,35 +1,8 @@
 {
-    "template_data": {
-        "9|14|ft|long": "yes"
-    },
     "document_data": {
-        "image": "GiantPike-1e.png",
-        "caption": "A giant pike attempts to devour some sort of [[humanoid]].",
-        "name": "Giant Pike",
-        "othernames": "",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "",
-        "type3e": "",
-        "subtype3e": "",
-        "alignment3e": "",
-        "challenge3e": "",
-        "refs3e": "",
-        "size2e": "Large to Huge",
-        "alignment2e": "[[Neutral]]{{Nil-alignment}}",
-        "refs2e": "{{Cite dragon/155/Sage Advice|86}}",
+        "refs2e": "",
         "size1e": "Large",
-        "alignment1e": "[[Neutral]]",
+        "alignment1e": "Neutral",
         "refs1e": "",
         "patron deity": "",
         "movement": "Swimming",
@@ -44,7 +17,7 @@
         "terrain": "Freshwater lakes",
         "genrefs": "",
         "height": "",
-        "length": "{{SIrange|9|14|ft}}",
+        "length": "",
         "wingspan": "",
         "weight": "",
         "skincolor": "Greenish-yellow",
@@ -55,18 +28,9 @@
         "build": "",
         "distinctions": "",
         "appearrefs": "",
-        "first": "''[[Monster Manual 1st edition]]''",
+        "first": "Monster Manual 1st edition",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Giant pikes''' were a monstrous variety of the mundane [[fish]] known as [[pike (fish)|pikes]].",
-        "Description": "Giant pikes had long, flexible bodies with greenish-yellow scales that helped them blend into parts of their environment. Their bodies could grow up to {{SIrange|9|14|ft|long=yes}} in length. They were also very rapid swimmers.",
-        "Behavior": "Giant pikes were very aggressive. When hungry, they were liable to attack almost any nearby creature.",
-        "Biology": "These fish possessed very keen eyesight.",
-        "Combat": "Though giant pikes sometimes stalked their prey, they typically hunted by waiting in some seaweed for potential prey to swim by. Due to their greenish-yellow scales their bodies were camouflaged within the underwater plant life. Due to this and their rapid speed of movement, giant pikes often surprised their victims.",
-        "Ecology": {
-            "Diet": "Giant pikes were a carnivorous, predatory species.",
-            "Habitats": "These creatures were typically found inside large, deep lakes of fresh water in temperate regions.\n\nIn [[Faerûn]], they inhabited some of the bodies of water across [[Cormanthor]], particularly the [[River Ashaba]]. Deep within the [[Sea of Fallen Stars]], they were a relatively common variety of giant fish around [[Serôs]].\n\nOn the [[Moonshae Isles]] they could be found in various bodies of freshwater. In the [[Unapproachable East]], giant pikes could be found in the lakes of [[Rashemen]].<ref>\n\nIn the [[Underdark]] of the [[Bloodstone Lands]], they could be found in the upper lake of [[Deepearth]].\n\nBeyond Faerûn, they could be found in the tropical and subtropical fresh waters of [[Kara-Tur]]. During the summer season they could be found in the lakes, rivers, and swamps of the [[Ama Basin]]. Beyond the [[Prime Material plane]], they inhabited the [[Celestial Bureaucracy]]'s [[plane]] of [[Qui]]. They could also be found in some parts of the [[River Styx]].",
-            "Relationships": "[[Nixie]]s were often known to domesticate giant pikes.\n\nSome placed giant pikes within their moats to act as guard animals."
-        }
+        "mainbody": "Giant pikes were a monstrous variety of the mundane fish known as pikes.\nGiant pikes had long, flexible bodies with greenish-yellow scales that helped them blend into parts of their environment. Their bodies could grow up to  in length. They were also very rapid swimmers.\nGiant pikes were very aggressive. When hungry, they were liable to attack almost any nearby creature.\nThese fish possessed very keen eyesight.\nThough giant pikes sometimes stalked their prey, they typically hunted by waiting in some seaweed for potential prey to swim by. Due to their greenish-yellow scales their bodies were camouflaged within the underwater plant life. Due to this and their rapid speed of movement, giant pikes often surprised their victims.\nGiant pikes were a carnivorous, predatory species.\nThese creatures were typically found inside large, deep lakes of fresh water in temperate regions.\nIn Faerûn, they inhabited some of the bodies of water across Cormanthor, particularly the River Ashaba. Deep within the Sea of Fallen Stars, they were a relatively common variety of giant fish around Serôs.\nOn the Moonshae Isles they could be found in various bodies of freshwater. In the Unapproachable East, giant pikes could be found in the lakes of Rashemen.\nIn the Underdark of the Bloodstone Lands, they could be found in the upper lake of Deepearth.\nBeyond Faerûn, they could be found in the tropical and subtropical fresh waters of Kara-Tur. During the summer season they could be found in the lakes, rivers, and swamps of the Ama Basin. Beyond the Prime Material plane, they inhabited the Celestial Bureaucracys plane of Qui. They could also be found in some parts of the River Styx.\nNixies were often known to domesticate giant pikes.\nSome placed giant pikes within their moats to act as guard animals."
     }
 }

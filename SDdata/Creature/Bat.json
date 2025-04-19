@@ -1,18 +1,5 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "edition_1": "3e"
-    },
     "document_data": {
-        "image": "<gallery>",
-        "caption2": "Various depictions of bats.",
-        "name": "Bat",
-        "othernames": "",
-        "size5e": "Tiny",
-        "type5e": "[[Beast]]",
-        "subtype5e": "",
-        "alignment5e": "[[Unaligned]]",
-        "challenge5e": "{{CR table|edition=5e|Single|0|Swarm|{{Frac|1|4}}}}",
         "refs5e": "",
         "size4e": "",
         "origin4e": "",
@@ -21,20 +8,20 @@
         "alignment4e": "",
         "refs4e": "",
         "size3e": "Diminutive",
-        "type3e": "[[Animal]]",
+        "type3e": "Animal",
         "subtype3e": "",
-        "alignment3e": "Always [[neutral]]",
-        "challenge3e": "{{CR table|edition=3e|Single|{{Frac|1|10}}|Swarm|2}}",
+        "alignment3e": "Always neutral",
+        "challenge3e": "|Swarm|2",
         "refs3e": "",
         "size2e": "Tiny",
-        "alignment2e": "[[Neutral]]",
+        "alignment2e": "Neutral",
         "refs2e": "",
         "size1e": "Small",
-        "alignment1e": "[[Neutral]]",
+        "alignment1e": "Neutral",
         "refs1e": "",
         "patron deity": "",
         "movement": "Flying",
-        "vision": "[[Blindsight]]",
+        "vision": "Blindsight",
         "activecycle": "Night",
         "diet": "Omnivore",
         "lifespan": "",
@@ -59,24 +46,6 @@
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Bats''' were a group of wild, flying [[animal]]s of generally small size that fed on other small mammals, [[insect]]s, [[reptile]]s, or fruit. Although the majority of bats were small, a few larger varieties existed. Bats were almost all nocturnal.\n\n{{quote|Just [[rat]]s with wings if you ask me...|[[Purfbin Doogrick]]}}",
-        "Description": "Most bats were roughly the size of a small bird although larger bats existed. All bats were adept at perceiving their surroundings in the dark though the precise mechanics differed by species, with most bats using a form of [[blindsight]]&mdash;or [[darkvision]] in the case of [[shadowhunter bat]]s.",
-        "Species": {
-            "Azmyth": ":A species of deep bats that could turn ''[[Invisibility|invisible]]''.",
-            "Barovian": ":A species of bats that were endemic to the land of [[Barovia]].<ref>",
-            "Deep bat": ":Dangerous bats native to the [[Underdark]].",
-            "Dire bat": ":Enormous bats with a wingspan of roughly eight to nine feet.",
-            "Doombat": ":Large bats with a barbed tail.",
-            "Fire bat": ":An unusually large bat native to the [[elemental plane]]s.",
-            "Gloomwing": ":A species of [[fey]] bats who served as messengers of dark creatures.",
-            "Night hunter": ":Carnivore deep bat from Underdark.",
-            "Shadowhunter bat": ":A type of large, predatory bat touched with the power of the [[Shadowfell]].",
-            "Sinister": ":A type of large magical bat with unnerving appearance that fed on carrion.{{Cite dragon/90/Bats that do more than bite|20-23}}",
-            "Wykeen": ":Sea bats native to the underground port at [[Skullport]].<ref>"
-        },
-        "Ecology": {
-            "Habitats": "[[File:Cute bat nwn.jpg|thumb|''A bat in flight.'']]\nBeyond the [[Prime Material plane]], bats could be found in the [[Domains of Dread]] and some claimed that they were more numerous there than in any other [[plane]] of existence. Bats also inhabited the caverns of the [[Layers of the Abyss#Layer 13: Blood Tor|Blood Tor]], the [[Abyss]]al realms of [[Beshaba]] and [[Umberlee]].",
-            "Usages": "Some magic stores were known to sell the fur and guano of bats as a sort of [[material component]], both at a price of 10 [[gp]] per {{SI|1|oz}}.{{Cite dragon/81/Living in a material world|60}} Spells that required a bit of bat fur to cast included ''[[arcane eye]]'', ''[[darkness]]'', and the [[illusionist]] version of ''[[continual darkness]]''.<ref> Those that required a bit of bat guano to cast included ''[[fireball]]'',<ref> ''[[delayed blast fireball]]'',<ref> ''[[Darsson's fiery cube]]'',<ref> and ''[[explosive cascade]]''.<ref>\n\n''Circa'' [[1365 DR]], the owner of the restaurant [[Maid of the Moors]] in [[Mornbryn's Shield]], [[Beldora Thiiruin]] kept pet bats she allowed to freely fly around the dining hall, using the flying critters as a means of pest control.\n\nHalfling kids often fished for bats using a light, durable twine string, and bait of live [[moth]]s."
-        }
+        "mainbody": "Bats were a group of wild, flying animals of generally small size that fed on other small mammals, insects, reptiles, or fruit. Although the majority of bats were small, a few larger varieties existed. Bats were almost all nocturnal.\nMost bats were roughly the size of a small bird although larger bats existed. All bats were adept at perceiving their surroundings in the dark though the precise mechanics differed by species, with most bats using a form of blindsight&mdashor darkvision in the case of shadowhunter bats.\nThere were many varieties of unusual bat species, some of which are listed below\nAzmyth\nA species of deep bats that could turn invisible.\nBarovian\nA species of bats that were endemic to the land of Barovia.\nDeep bat\nDangerous bats native to the Underdark.\nDire bat\nEnormous bats with a wingspan of roughly eight to nine feet.\nDoombat\nLarge bats with a barbed tail.\nFire bat\nAn unusually large bat native to the elemental planes.\nGloomwing\nA species of fey bats who served as messengers of dark creatures.\nHundar\nA heavy large carnivorous bat that resembled a wyvern.\nNight hunter\nCarnivore deep bat from Underdark.\nShadowhunter bat\nA type of large, predatory bat touched with the power of the Shadowfell.\nSinister\nA type of large magical bat with unnerving appearance that fed on carrion.\nVampire bat\nAnd giant vampire bat were a species of bats that fed on mammalian blood are believed to be related to stirges.\nWykeen\nSea bats native to the underground port at Skullport.\nthumb|A bat in flight.\nBeyond the Prime Material plane, bats could be found in the Domains of Dread and some claimed that they were more numerous there than in any other plane of existence. Bats also inhabited the caverns of the Blood Tor, the Abyssal realms of Beshaba and Umberlee.\nSome magic stores were known to sell the fur and guano of bats as a sort of material component, both at a price of 10 gp per . Spells that required a bit of bat fur to cast included arcane eye, darkness, and the illusionist version of continual darkness. Those that required a bit of bat guano to cast included fireball, delayed blast fireball, Darssons fiery cube, and explosive cascade.\nCirca 1365 DR, the owner of the restaurant Maid of the Moors in Mornbryns Shield, Beldora Thiiruin kept pet bats she allowed to freely fly around the dining hall, using the flying critters as a means of pest control.\nHalfling kids often fished for bats using a light, durable twine string, and bait of live moths."
     }
 }

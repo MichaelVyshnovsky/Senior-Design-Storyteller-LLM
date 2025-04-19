@@ -1,21 +1,5 @@
 {
-    "template_data": {
-        "image": "KhazariSR.JPG",
-        "caption": "A map showing Shan Skar in northern Khazari.",
-        "name": "Shan Skar",
-        "aliases": "",
-        "type": "Mountain",
-        "area": "[[Katakoro Shan]], [[Khazari]]",
-        "elevation": "{{SI"
-    },
     "document_data": {
-        "image": "KhazariSR.JPG",
-        "caption": "A map showing Shan Skar in northern Khazari.",
-        "name": "Shan Skar",
-        "aliases": "",
-        "type": "Mountain",
-        "area": "[[Katakoro Shan]], [[Khazari]]",
-        "elevation": "{{SI|15000|ft}}",
         "georefs": "",
         "races": "",
         "socrefs": "",
@@ -30,8 +14,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "'''Shan Skar''' was a prominent peak of [[Katakoro Shan]] found in [[Khazari]].",
-        "Geography": "The peak sat high in the northwestern corner of the country near [[Manass]].",
-        "Description": "Given the narrow breadth of Katakoro Shan in that region, Shan Skar's altitude of {{SI|15000|ft}} gave it an impressive view of Khazari as well as the [[Quoya Desert]]."
+        "mainbody": "Shan Skar was a prominent peak of Katakoro Shan found in Khazari.\nThe peak sat high in the northwestern corner of the country near Manass.\nGiven the narrow breadth of Katakoro Shan in that region, Shan Skars altitude of  gave it an impressive view of Khazari as well as the Quoya Desert."
     }
 }

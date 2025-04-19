@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Whip of Thorns",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Druid]]|2}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Whip of thorns''''' was a [[druid]]ic [[transmutation]] spell that transformed a small piece of vine into a long, thorn-covered [[whip]].",
-        "Effects": "The spell created a 15'-long (4.6 m) thorny whip that appeared in the hand of the caster. It could be wielded with notable proficiency, regardless of their previous combat prowess. Any time the caster successfully lashed a creature or person of sufficient size, they could release the whip and ''[[entangle]]'' the creature in vines for a matter of moments. As the creature attempted to free itself, their flesh was torn into and barbed by the vine's thorns.",
-        "Casting": "In addition to [[verbal]] and [[somatic component]]s, this spell required a small piece of vine in order to be cast."
+        "mainbody": "Whip of thorns was a druidic transmutation spell that transformed a small piece of vine into a long, thorn-covered whip.\nThe spell created a 15-long (4.6 m) thorny whip that appeared in the hand of the caster. It could be wielded with notable proficiency, regardless of their previous combat prowess. Any time the caster successfully lashed a creature or person of sufficient size, they could release the whip and entangle the creature in vines for a matter of moments. As the creature attempted to free itself, their flesh was torn into and barbed by the vines thorns.\nIn addition to verbal and somatic components, this spell required a small piece of vine in order to be cast."
     }
 }

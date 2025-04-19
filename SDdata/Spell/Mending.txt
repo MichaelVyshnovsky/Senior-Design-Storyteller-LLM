@@ -1,18 +1,4 @@
-{{Spell
-| image         = Mending Icon.png
-| caption       = 
-| name          = Mending
-| deity         = [[Dugmaren Brightmantle]]<br />(cleric version)
-| inventor      = [[Aksa]]
-| type          = 
-| school5e      = [[Transmutation]]
-| domains5e     = 
-| circles5e     = 
-| oaths5e       = 
-| patrons5e     = 
-| traditions5e  = 
-| level5e       = {{Spell table|edition=5e|variant=cantrip|[[Artificer]]|0|[[Bard]]|0|[[Cleric]]|0|[[Druid]]|0|[[Sorcerer]]|0|[[Wizard]]|0}}
-| type5e        = [[Cantrip]]
+| type5e        = Cantrip
 | refs5e        = 
 | feature4e     = 
 | keywords4e    = 
@@ -21,32 +7,23 @@
 | category4e    = 
 | skill4e       = 
 | refs4e        = 
-| school3e      = [[Transmutation]]
+| school3e      = Transmutation
 | domains3e     = 
 | descriptors3e = 
-| level3e       = {{Spell table|edition=3e|[[Adept]]|0|[[Bard]]|0|[[Cleric]]|0|[[Druid]]|0|[[Sorcerer]]|0|[[Wizard]]|0|[[Wu jen]]|0}}
+| level3e       = 
 | refs3e        = 
 | reversible2e  = 
-| school2e      = [[Alteration]], [[Artifice]]<br/>[[Universal (province)]]<br/>[[Variation]]
-| spheres2e     = [[Creation sphere|Creation]]
-| level2e       = {{spell table|edition=2e|[[Arcanist]]|1|[[Cleric]]|1|[[Creation sphere|Creation]]|1|[[Wizard]]|1}}
-| refs2e        = <ref><ref>
+| school2e      = Alteration, ArtificeUniversal (province)Variation
+| spheres2e     = Creation
+| level2e       = 
+| refs2e        = 
 | reversible1e  = 
 | school1e      = 
-| level1e       = {{spell table|edition=1e|[[Alchemist]]|1|[[Magic-user]]|1|[[Witch doctor]]|1}}
+| level1e       = 
 | type1e        = 
-| refs1e        = {{Cite dragon/49/Leomund's Tiny Hut: A recipe for the Alchemist|59}}{{Cite dragon/141/Hey, Wanna Be a Kobold|43}}
-}}
-'''''Mending''''' was an [[arcane magic]] spell that repaired a single break or tear in an object. There was a [[divine magic]] version that was granted to priests of [[Dugmaren Brightmantle]].
-
-==Effects==
-The spell could repair up to {{SI|1|ft|long=yes}} of damage in an object, leaving no trace of the break or tear. It could also repair [[spelljammer]] hulls. Although the spell could repair [[magic item]]s and [[construct]]s, it was not capable of restoring magic to them.
-
-The divine version of ''mending'' could repair one object of about {{SIAdj|1|cu ft|long=yes}} in volume (bigger objects were possible for more experienced casters). Metal objects, like a [[ring]] or a [[dagger]], could be fixed if they had only one break. Objects with multiple cuts, breaks, or pieces could only be repaired if they were made of lesser materials such as wood or [[ceramic]]. Repairs were permanent and "good as new", and could not be dispelled after ten minutes had past. Like the arcane version, this spell could not repair magic items.
-
-==Components==
-The spell required [[verbal]], [[somatic]] and [[material component]]s to cast. Two [[lodestone]]s were required as materials. The material component for the divine version of the spell, as well as older iterations of the arcane version, was either two small magnets (typically [[lodestone]]s) or two burrs.
-
-==History==
-The spell was attributed to [[Netherese arcanist]] [[Aksa]] the Destroyer in {{Yearlink|-2168}} and was originally called ''Aksa's repair''.
-
+| refs1e        = 
+Mending was an arcane magic spell that repaired a single break or tear in an object. There was a divine magic version that was granted to priests of Dugmaren Brightmantle.
+The spell could repair up to  of damage in an object, leaving no trace of the break or tear. It could also repair spelljammer hulls. Although the spell could repair magic items and constructs, it was not capable of restoring magic to them.
+The divine version of mending could repair one object of about  in volume (bigger objects were possible for more experienced casters). Metal objects, like a ring or a dagger, could be fixed if they had only one break. Objects with multiple cuts, breaks, or pieces could only be repaired if they were made of lesser materials such as wood or ceramic. Repairs were permanent and "good as new", and could not be dispelled after ten minutes had past. Like the arcane version, this spell could not repair magic items.
+The spell required verbal, somatic and material components to cast. Two lodestones were required as materials. The material component for the divine version of the spell, as well as older iterations of the arcane version, was either two small magnets (typically lodestones) or two burrs.
+The spell was attributed to Netherese arcanist Aksa the Destroyer in  and was originally called Aksas repair.

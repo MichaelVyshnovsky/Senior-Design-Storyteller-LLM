@@ -1,24 +1,13 @@
 {
-    "template_data": {
-        "4|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Staff Mace.png",
-        "caption": "",
-        "name": "''Staff Mace''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Staff]]",
-        "creator": "",
-        "location": "[[Athkatla]], [[Amn]]<br/>[[Ravens Bluff]], [[the Vast]]{{Cite organized play/LC/Night of the Lunar Eclipse|8}}<br/>[[Isle of Balduran]], [[Trackless Sea]]",
         "basicrefs": "",
         "value1e": "",
         "weight1e": "",
         "refs1e": "",
         "school2e": "",
         "level2e": "+2",
-        "value2e": "1,500 [[gp]]",
-        "weight2e": "{{SI|4|lb|k|long=yes}}",
+        "value2e": "1,500 gp",
+        "weight2e": "",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -41,9 +30,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Staff maces''''' were [[enchanted]] [[staves]] that transformed into hafted maces in battle.",
-        "Description": "''Staff maces'' were magically designed to help [[cleric]]s or [[druid]]s traverse wilderness. They can be used to walk difficult terrains and wielded as [[mace]]s when dealing with dangerous wildlife.",
-        "Powers": "These weapons radiated a faint aura of [[transmutation]] magic. When these staves' [[command word]] was spoken, they transformed into a mace-like weapon. It possessed a strong ''+2'' enchantment and could be easily wielded by anyone who can use a simple staff.",
-        "History": "In the {{YearlinkName|1369}}, the [[elf|elven]] [[mage]] [[Dradeel]] kept a ''staff mace'' inside his cabin on the [[Isle of Balduran]] in the [[Trackless Sea]]. The same year, several staves could be found in the City of Coin, [[Athkatla]]: [[Ribald Barterman]] sold them in his [[Adventurer Mart]] in the [[Waukeen's Promenade]]; [[Mistress Ada]] sold them in the [[Temple of Talos (Athkatla)|Temple of Talos]]; and [[Haz]], a member of the [[Shadow Thieves]] wielded it in battle against Athkatlan [[vampire]]s. The [[Temple of Umberlee (Brynnlaw)|Temple of Umberlee]] on the isle of [[Brynnlaw]] in the [[Nelanther Isles]] sold ''staff mace''."
+        "mainbody": "Staff maces were enchanted staves that transformed into hafted maces in battle.\nStaff maces were magically designed to help clerics or druids traverse wilderness. They can be used to walk difficult terrains and wielded as maces when dealing with dangerous wildlife.\nThese weapons radiated a faint aura of transmutation magic. When these staves command word was spoken, they transformed into a mace-like weapon. It possessed a strong +2 enchantment and could be easily wielded by anyone who can use a simple staff.\nIn the , the elven mage Dradeel kept a staff mace inside his cabin on the Isle of Balduran in the Trackless Sea. The same year, several staves could be found in the City of Coin, Athkatla Ribald Barterman sold them in his Adventurer Mart in the Waukeens Promenade Mistress Ada sold them in the Temple of Talos and Haz, a member of the Shadow Thieves wielded it in battle against Athkatlan vampires. The Temple of Umberlee on the isle of Brynnlaw in the Nelanther Isles sold staff mace."
     }
 }

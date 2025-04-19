@@ -1,23 +1,5 @@
 {
-    "template_data": {
-        "1|gal|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Hazelnut Oil",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Vegetable oil",
-        "creator": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "3 [[gp]] per {{SI|1|gal}}",
         "weight2e": "",
         "refs2e": "",
         "school3e": "",
@@ -41,7 +23,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Hazelnut oil''' was a type of vegetable oil in the Realms, produced from the seeds of [[hazelnut]] trees.",
-        "Availability": "* [[Aurora's Whole Realms Catalogue (in-universe)|Aurora's Whole Realms Catalogue]] sold hazelnut oil at a standard price of one three [[gold piece]]s per {{SI|1|gal|long=yes}} in its \"Aurora's Larder\" section."
+        "mainbody": "Hazelnut oil was a type of vegetable oil in the Realms, produced from the seeds of hazelnut trees.\n* Auroras Whole Realms Catalogue sold hazelnut oil at a standard price of one three gold pieces per  in its \"Auroras Larder\" section."
     }
 }

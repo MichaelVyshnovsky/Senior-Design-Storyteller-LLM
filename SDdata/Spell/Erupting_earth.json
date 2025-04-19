@@ -1,29 +1,10 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "edition_1": "4e",
-        "20|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Erupting_earth-5e.jpg",
-        "caption": "",
-        "name": "Erupting Earth",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Transmutation]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "{{Spell table|edition=5e|[[Druid]]|3|[[Sorcerer]]|3|[[Wizard]]|3}}",
         "type5e": "",
         "refs5e": "",
         "feature4e": "",
-        "keywords4e": "{{Desc/arcane}}{{Desc/elemental}}{{Desc/implement}}",
-        "level4e": "{{Spell table|edition=4e|[[Sorcerer]]|1}}",
+        "keywords4e": "",
+        "level4e": "",
         "type4e": "At-will",
         "category4e": "",
         "skill4e": "",
@@ -45,8 +26,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Erupting earth''''' was a [[transmutation]] [[spell]] that caused an area on the ground to erupt like a fountain.",
-        "Effects": "The spell caused a square portion of the ground to erupt in a fountain of [[Earth (element)|earth]] and stone that occupied a cube {{SI|20|ft|long=yes}} on a side, hitting all creatures within that volume that could not evade the effect in time. The violence of the spell increased with the caster's power. Although the fountain only lasted for a moment, it covered the area in debris that required a long time to clear.",
-        "Components": "The spell required [[Verbal component|verbal]], [[Somatic component|somatic]], and [[material component]]s. The material required was a piece of [[obsidian]]."
+        "mainbody": "Erupting earth was a transmutation spell that caused an area on the ground to erupt like a fountain.\nThe spell caused a square portion of the ground to erupt in a fountain of earth and stone that occupied a cube  on a side, hitting all creatures within that volume that could not evade the effect in time. The violence of the spell increased with the casters power. Although the fountain only lasted for a moment, it covered the area in debris that required a long time to clear.\nThe spell required verbal, somatic, and material components. The material required was a piece of obsidian."
     }
 }

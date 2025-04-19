@@ -1,35 +1,8 @@
 {
-    "template_data": {
-        "60|ft|long": "yes",
-        "set|ee|o|SAR|us|refs": "{{Cite dragon/93/Ay pronunseeAYshun gyd"
-    },
     "document_data": {
-        "image": "",
-        "caption": "Cetiosaurus",
-        "name": "Cetiosaurus",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "",
-        "type3e": "",
-        "subtype3e": "",
-        "alignment3e": "",
-        "challenge3e": "",
-        "refs3e": "",
-        "size2e": "Gargantuan",
-        "alignment2e": "[[Neutral]]{{Nil-alignment}}",
-        "refs2e": "{{Cite dragon/155/Sage Advice|86}}",
+        "refs2e": "",
         "size1e": "Large",
-        "alignment1e": "[[Neutral]]",
+        "alignment1e": "Neutral",
         "refs1e": "",
         "genrefs": "",
         "patron deity": "",
@@ -44,7 +17,7 @@
         "climate": "",
         "terrain": "Lakes, marshes",
         "height": "",
-        "length": "{{SI|60|ft|long=yes}}",
+        "length": "",
         "wingspan": "",
         "weight": "",
         "skincolor": "",
@@ -54,13 +27,9 @@
         "eyecolor": "",
         "build": "",
         "distinctions": "",
-        "based": "[[Wikipedia:Cetiosaurus|Cetiosaurus]]",
+        "based": "Cetiosaurus",
         "histrefs": "",
-        "first": "[[Monster Manual 1st edition]]",
-        "mainbody": "'''Cetiosauruses''' ({{Pronounce|set|ee|o|SAR|us|refs={{Cite dragon/93/Ay pronunseeAYshun gyd|26}}}}) were a species of large, marsh-dwelling [[dinosaur]].",
-        "Description": "Cetiosaurs were noted as having somewhat larger heads than other sauropods, such as the [[brontosaurus]] and [[brachiosaurus]].",
-        "Biology": {
-            "Diet": "Cetiosaurs were herbivorous by nature."
-        }
+        "first": "Monster Manual 1st edition",
+        "mainbody": "Cetiosauruses () were a species of large, marsh-dwelling dinosaur.\nCetiosaurs were noted as having somewhat larger heads than other sauropods, such as the brontosaurus and brachiosaurus.\nCetiosaurs were herbivorous by nature."
     }
 }

@@ -1,17 +1,9 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "name": "Protection from Spells",
-        "domains3e": "[[Magic domain|Arcana]], [[Balance domain|Balance]]",
-        "level3e": "{{spell table|edition=3e|[[Magic domain|Magic]]|8|[[Balance domain|Balance]]|8|[[Family domain|Family]]|8|[[Sorcerer]]|8|[[Wizard]]|8}}",
         "descriptors3e": "",
-        "school3e": "[[Abjuration]]",
+        "school3e": "Abjuration",
         "type3e": "",
         "refs3e": "",
-        "mainbody": "'''''Protection from spells''''' was an [[abjuration]] spell that granted resistance to hostile spells.",
-        "Effects": "Subjects benefit from a much greater chance to resist [[spell]]s and magic that functioned like spells, but not natural and supernatural effects.",
-        "Components": "In addition to verbal and somatic components, this spell required a [[diamond]] valued at 500 [[gp]] or more, which was ground to a powder and tossed over the spell recipient(s).\n\nIn addition, this spell needed a [[Spell focus|focus]]. Each being to be protected needed to one whole diamond worth 1000 gp while the spell was in effect. If they lost it, the spell ended for them."
+        "mainbody": "Protection from spells was an abjuration spell that granted resistance to hostile spells.\nSubjects benefit from a much greater chance to resist spells and magic that functioned like spells, but not natural and supernatural effects.\nIn addition to verbal and somatic components, this spell required a diamond valued at 500 gp or more, which was ground to a powder and tossed over the spell recipient(s).\nIn addition, this spell needed a focus. Each being to be protected needed to one whole diamond worth 1000 gp while the spell was in effect. If they lost it, the spell ended for them."
     }
 }

@@ -1,28 +1,6 @@
 {
     "document_data": {
-        "type": "",
-        "name": "Battledale",
-        "image": "[[File:Battledale.png]]",
-        "caption": "Map of Battledale. Click to enlarge.",
-        "aliases": "",
-        "capital": "[[Essembra]]",
-        "area": "[[Dalelands]], [[North Faerûn]]",
-        "size": "",
-        "ruler1": "[[Ilmeth|Lord Ilmeth]]",
-        "ruleryear1": "1372",
-        "ruler2": "",
-        "ruleryear2": "",
-        "ruler3": "",
-        "ruleryear3": "",
-        "ruler4": "",
-        "ruleryear4": "",
-        "ruler5": "",
-        "ruleryear5": "",
-        "rulertype": "",
-        "government": "Lordship",
-        "languages": "",
-        "races": "{{percentage table|[[Human]]s|87|[[Half-elf|Half-elves]]|5|[[Halflings]]|4|[[Gnomes]]|2|[[Dwarves]]|1|Other|1|}}",
-        "religion": "[[Gond]], [[Tempus]], [[Chauntea]], [[Corellon Larethian]], [[Silvanus]]",
+        "religion": "Gond, Tempus, Chauntea, Corellon Larethian, Silvanus",
         "reckoning": "DR",
         "population1": "32,714",
         "popyear1": "1372",
@@ -31,8 +9,8 @@
         "population3": "",
         "popyear3": "",
         "imports": "Clothing, fine metalwork, oil, ropes, spikes",
-        "exports": "[[Ale]], [[Battledale Dark]],{{cite web| url = https://web.archive.org/web/20211028234155/http://candlekeep.com/downloads/So_Saith_Ed_Part25_%282010-2016%29.zip| title = So Saith Ed 2010-2016| accessdate = 25-11-2021| date = 25-11-2021}} [[cheese]], fruit, grain, meat, livestock, [[wool]]",
-        "alignment": "{{alignment grid|off|on|on|off|on|off|off|off|off}}",
+        "exports": "Ale, Battledale Dark, cheese, fruit, grain, meat, livestock, wool",
+        "alignment": "",
         "allegiance": "",
         "usethe": "",
         "useon": "",
@@ -42,31 +20,6 @@
         "settlements": "yes",
         "source": "",
         "page": "",
-        "mainbody": "'''Battledale''' was one of the dales in the [[Dalelands]]. Despite its name earned long ago, it was one of the more peaceful vales in the 14th & 15th centuries [[DR]].  Even though Battledale was one of the largest dales, it was also one of the least populated.",
-        "Geography": "Battledale stretched from the [[Pool of Yeven]] in the west, to Essembra in the north, to [[Hap]] in the east, to the [[River Ashaba]] in the south.",
-        "Society": "Despite the fact there have been many historical battles in the Dale's meadows and fields, not everyone who traveled there were warriors or soldiers. Over the centuries, Battledale has largely been a haven for travelers, adventurers and wandering fighters from throughout all of [[Faerûn]]. On the flip side, those who grew up in Battledale often took on these same vocations and often traveled out of the region and Dalelands as a whole.\n\nBattledale had as diverse a population as any in the Realms, from migrating merchant families of [[Turmish]] to [[Tethyrian]] war refugees.",
-        "Government": {
-            "Law & Order": "In the case of minor offenses, such as petty theft or vandalism, locals would detain a criminal offender and come to a consensus on what was to be done. This could entail replacing stolen items or reparations in the form of goods such as livestock.",
-            "Defense": "Defense of Battledale was carried out through a combination of local militia composed of farmers and ranchers, hired adventurers found in taverns or traveling the roads and a group of Men-at-arms known as the [[Lord's Men (Battledale)|Lord's Men]]. This group, serving the Lord of Battledale, would respond to monster incursions, raiding parties, bandit attacks and were not capable of staving off much more than that."
-        },
-        "Economy": "Battledale was home to no permanent trading costers but experienced a large influx of traders from [[Kythorn]] to [[Uktar]] to purchase meat, grain, fruit, livestock, wool, cheese and ale. Many of the local farmers would sell their goods or barter them for chores they needed done. Otherwise these goods were sold from the [[Hitching Post]] in Essembra, along with a 10–30% markup.",
-        "History": "The origins of Battledale stemmed from a region pieced together from older, non-united Dales. In [[1030 DR]], [[Aencar Burlisk|Aencar]] became the warlord of Battledale, took on the title of \"''Mantled King''\" and in [[1038 DR]], began a campaign to unite all of the Dales. Upon his death, the dream of a unified Dalelands went with him.\n\nAs of [[1372 DR]], the people of Battledale, especially those of Essembra, were dedicated to battling the [[Drow]] of Cormanthor. The most dangerous of these dark elves, were those who came from [[House Jaelre]].\n\nOn 7 [[Eleasis]] [[1373 DR]], the [[red dragon]] [[Thraxata]] started many fires in Battledale, causing a large amount of woodland to be destroyed.{{Cite dragon/Cormanthor: War Amidst the Trees|71}}  \n\nIn 1422 DR Battledale came under attack from [[Sembia|Sembians]] allied with [[Netheril]] which forced evacuation of Essembra.",
-        "Geographical Features": {
-            "Open lands": "*[[The Belt]]: This open, rolling farmland consisted of short-walled orchards, fenced farms and grazing lands dotted with small cottages, streams and ponds rich with fish life and shrines to the nature deities [[Chauntea]] and [[Silvanus]].\n\n*Three Rivers Land: This fertile delta was the region where the [[Semberflow]] and [[Glaemril]] rivers joined the River Ashaba northwest of Pool of Yeven. They had a sparse [[humanoid]] population, due in large part to the number of [[magical beast]]s such as [[owlbear]]s and [[lycanthrope]]s.",
-            "Forests": "*[[Yevenwood]]: The ancient forest, of many names, was rich in game and had few predators, magical or otherwise. It was noted for being abundant in the edible mushroom known as ''[[relshar]]''."
-        },
-        "Important locations": {
-            "Cities": {
-                "[[Essembra]]": "The large town of Essembra was the unofficial capital of Battledale, until [[1422 DR]], even though it was located 30 miles north of open land and Lord Ilmeth had little authority over the area. Inside the great walled courtyard were 50 or so buildings, including homes, shops, taverns, a government building and a [[House of Gond (Essembra)|temple]] of [[Gond]].",
-                "[[Hap]]": "A small village consisted of a dozen buildings, including several services, a small contingent of guards and a shrine to the deity [[Lathander]]."
-            },
-            "Buildings": {
-                "[[Abbey of the Sword]]": "This temple, dedicated to the deity [[Tempus]], was built over the location where the god physically manifested on [[Toril]] during the [[Time of Troubles]].",
-                "[[Aencar's Manor]]": "While appearing as a splendid estate, this former home of a warlord located off of Rauthauvyr's Road was unmistakably haunted.",
-                "'''[[Ghost Holds]]'''": "These ruined estates were typically overgrown and left to elements after abandonment by their previous owners. With the attention of most of the Battledalesmen focused on remaining vigilant against the Drow of [[Cormanthor]], bandits could often hole up in the remains for days unnoticed.",
-                "[[House of Gond (Essembra)|House of Gond]]": "This temple dedicated to [[Gond|the Wonderbringer]] was run by Lord High Smith and [[Artificer]] [[Gulmarin Reldacap]].",
-                "[[Ilmeth's Manor]]": "This moated keep was located within the [[Battle Court]], the walled portion on the eastern side of Eessembra. it served as the personal home of the Dale's lord."
-            }
-        }
+        "mainbody": "Battledale was one of the dales in the Dalelands. Despite its name earned long ago, it was one of the more peaceful vales in the 14th & 15th centuries DR.  Even though Battledale was one of the largest dales, it was also one of the least populated.  \nBattledale stretched from the Pool of Yeven in the west, to Essembra in the north, to Hap in the east, to the River Ashaba in the south.\nDespite the fact there have been many historical battles in the Dales meadows and fields, not everyone who traveled there were warriors or soldiers. Over the centuries, Battledale has largely been a haven for travelers, adventurers and wandering fighters from throughout all of Faerûn. On the flip side, those who grew up in Battledale often took on these same vocations and often traveled out of the region and Dalelands as a whole.\nBattledale had as diverse a population as any in the Realms, from migrating merchant families of Turmish to Tethyrian war refugees.\nBattledale possessed no formal laws, most disputes were handled between the disagreeing parties. More serious crimes, such as banditry, arson or murder were taken to the Lord of the dale, Ilmeth as of 1372 DR. However he was under no official obligation to settle any domestic matters.\nIn the case of minor offenses, such as petty theft or vandalism, locals would detain a criminal offender and come to a consensus on what was to be done. This could entail replacing stolen items or reparations in the form of goods such as livestock.\nDefense of Battledale was carried out through a combination of local militia composed of farmers and ranchers, hired adventurers found in taverns or traveling the roads and a group of Men-at-arms known as the Lords Men. This group, serving the Lord of Battledale, would respond to monster incursions, raiding parties, bandit attacks and were not capable of staving off much more than that.\nBattledale was home to no permanent trading costers but experienced a large influx of traders from Kythorn to Uktar to purchase meat, grain, fruit, livestock, wool, cheese and ale. Many of the local farmers would sell their goods or barter them for chores they needed done. Otherwise these goods were sold from the Hitching Post in Essembra, along with a 10–30% markup.\nThe origins of Battledale stemmed from a region pieced together from older, non-united Dales. In 1030 DR, Aencar became the warlord of Battledale, took on the title of \"Mantled King\" and in 1038 DR, began a campaign to unite all of the Dales. Upon his death, the dream of a unified Dalelands went with him.\nAs of 1372 DR, the people of Battledale, especially those of Essembra, were dedicated to battling the Drow of Cormanthor. The most dangerous of these dark elves, were those who came from House Jaelre.\nOn 7 Eleasis 1373 DR, the red dragon Thraxata started many fires in Battledale, causing a large amount of woodland to be destroyed.  \nIn 1422 DR Battledale came under attack from Sembians allied with Netheril which forced evacuation of Essembra.\nBattledale featured a variety of locales from dense forests, to serene rolling hills and pastureland. The main pathway through the dale was Rauthauvyrs Road, a highway than spanned from Hillsfar to Ordulin.\n* Haptooth Hill This small granite hill featured a subterranean stronghold that has since been abandoned by the Drow, and a wizards tower that was also unoccupied as of 1372 DR.\n*The Belt This open, rolling farmland consisted of short-walled orchards, fenced farms and grazing lands dotted with small cottages, streams and ponds rich with fish life and shrines to the nature deities Chauntea and Silvanus.\n*Three Rivers Land This fertile delta was the region where the Semberflow and Glaemril rivers joined the River Ashaba northwest of Pool of Yeven. They had a sparse humanoid population, due in large part to the number of magical beasts such as owlbears and lycanthropes.\n*Yevenwood The ancient forest, of many names, was rich in game and had few predators, magical or otherwise. It was noted for being abundant in the edible mushroom known as relshar.\n Essembra The large town of Essembra was the unofficial capital of Battledale, until 1422 DR, even though it was located 30 miles north of open land and Lord Ilmeth had little authority over the area. Inside the great walled courtyard were 50 or so buildings, including homes, shops, taverns, a government building and a temple of Gond.\n Hap A small village consisted of a dozen buildings, including several services, a small contingent of guards and a shrine to the deity Lathander.\n Abbey of the Sword This temple, dedicated to the deity Tempus, was built over the location where the god physically manifested on Toril during the Time of Troubles.\n Aencars Manor While appearing as a splendid estate, this former home of a warlord located off of Rauthauvyrs Road was unmistakably haunted.\n Ghost Holds These ruined estates were typically overgrown and left to elements after abandonment by their previous owners. With the attention of most of the Battledalesmen focused on remaining vigilant against the Drow of Cormanthor, bandits could often hole up in the remains for days unnoticed.\n House of Gond This temple dedicated to the Wonderbringer was run by Lord High Smith and Artificer Gulmarin Reldacap.\n Ilmeths Manor This moated keep was located within the Battle Court, the walled portion on the eastern side of Eessembra. it served as the personal home of the Dales lord."
     }
 }

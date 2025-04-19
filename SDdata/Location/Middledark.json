@@ -1,52 +1,5 @@
 {
     "document_data": {
-        "type": "Region",
-        "name": "Middledark",
-        "image": "",
-        "caption": "",
-        "aliases": "",
-        "capital": "",
-        "area": "[[Underdark]], [[Faerûn]]",
-        "size": "",
-        "ruler1": "",
-        "ruleryear1": "",
-        "ruler2": "",
-        "ruleryear2": "",
-        "ruler3": "",
-        "ruleryear3": "",
-        "ruler4": "",
-        "ruleryear4": "",
-        "ruler5": "",
-        "ruleryear5": "",
-        "rulertype": "",
-        "government": "",
-        "languages": "",
-        "races": "",
-        "religion": "",
-        "reckoning": "DR",
-        "population1": "",
-        "popyear1": "",
-        "population2": "",
-        "popyear2": "",
-        "population3": "",
-        "popyear3": "",
-        "imports": "",
-        "exports": "",
-        "alignment": "",
-        "allegiance": "",
-        "usethe": "yes",
-        "inhabitants": "yes",
-        "locations": "yes",
-        "organizations": "yes",
-        "settlements": "yes",
-        "mainbody": "The '''Middledark''' was located three to ten miles below the surface of [[Toril]] where most of the [[Underdark]] cities were located.",
-        "Geographical features": {
-            "Caverns and tunnels": "*[[Labyrinth]]\n*[[Traaskl Thorog]]",
-            "Lakes": "*[[Darklake]]"
-        },
-        "Important locations": {
-            "Settlements": "*[[Ched Nasad]]\n*[[Dunspeirrin]]\n*[[Eryndlyn]]\n*[[Fraaszummdin]]\n*[[Gatchorof]]\n*[[Gracklstugh]]\n*[[Guallidurth]]\n*[[Kuragolomsh]]\n*[[LoobliShar]]\n*[[Maerimydra]]\n*[[Mantol-Derith]]\n*[[Pholzubbalt]], also known as \"The Boneyard\".\n*[[Sloopdilmonpolop]]\n*[[Sshamath]]\n*[[Sphur Upra]]\n*[[T'lindhet]]\n*[[Undrek'Thoz]]\n*[[Yathchol]]"
-        },
-        "Other locations": "*[[Ammarindar (kingdom)|Ammarindar]]\n*[[Chaulssin]]\n*[[Llurth Dreir]]"
+        "mainbody": "he Middledark was located three to ten miles below the surface of Toril where most of the Underdark cities were located.\n*Labyrinth\n*Traaskl Thorog\n*Darklake\n*Ched Nasad\n*Dunspeirrin\n*Eryndlyn\n*Fraaszummdin\n*Gatchorof\n*Gracklstugh\n*Guallidurth\n*Kuragolomsh\n*LoobliShar\n*Maerimydra\n*Mantol-Derith\n*Pholzubbalt, also known as \"The Boneyard\".\n*Sloopdilmonpolop\n*Sshamath\n*Sphur Upra\n*Tlindhet\n*UndrekThoz\n*Yathchol\n*Ammarindar\n*Chaulssin\n*Llurth Dreir"
     }
 }

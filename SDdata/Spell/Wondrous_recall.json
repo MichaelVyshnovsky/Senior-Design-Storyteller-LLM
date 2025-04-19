@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Wondrous Recall",
-        "deity": "[[Mystra]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]<br/>[[Enchantment/Charm]]",
-        "spheres2e": "[[Charm sphere|Charm]]<br/>[[Creation sphere|Creation]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|6|}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Wondrous recall''''' was a common spell used by [[cleric]]s.",
-        "Effects": "By means of this spell, the caster was able to recall into their memory the last spell they used, then duplicated it. These two spells were stored in the caster's memory along with any other spell they had memorized. Each spell could be cast silently and without required [[material component]]s. The caster was only able to cast one of the stored spells at a time. Additionally, the caster was only able to use one ''wondrous recall'' spell at a time. If the caster attempted to cast two one after another, they were struck with effects similar to the ''[[feeblemind]]'' spell.",
-        "Components": "This spell required only [[Verbal component|verbal]] and [[somatic component|somatic]] components"
+        "mainbody": "Wondrous recall was a common spell used by clerics.\nBy means of this spell, the caster was able to recall into their memory the last spell they used, then duplicated it. These two spells were stored in the casters memory along with any other spell they had memorized. Each spell could be cast silently and without required material components. The caster was only able to cast one of the stored spells at a time. Additionally, the caster was only able to use one wondrous recall spell at a time. If the caster attempted to cast two one after another, they were struck with effects similar to the feeblemind spell. \nThis spell required only verbal and somatic components"
     }
 }

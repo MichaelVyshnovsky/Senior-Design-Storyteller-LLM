@@ -1,28 +1,8 @@
 {
-    "template_data": {
-        "0.5|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Dust of Disappearance''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Wondrous item",
-        "location": "[[Moonsea]], [[Faerûn]]",
-        "value1e": "8,000 [[gp]]",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "5,000 gp",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "[[Illusion]]",
-        "casterlevel3e": "7{{th}}",
         "itemlevel3e": "",
         "value3e": "3,500 gp",
-        "weight3e": "{{SI|0.5|lb|k|long=yes}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,9 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Dust of disappearance''''' was a [[magic item|magical]] substance that could be used to turn a number of creatures temporarily invisible.",
-        "Description": "''Dust of disappearance'' resembled very fine metallic dust. It was common for it to be found in small silk that contained enough of it for a single use. It was also known to be stored in bone tubes. The powder resembled fine [[sand]],",
-        "Powers": "Upon throwing the dust up in the air, it rendered all creatures and objects within a {{SIAdj|10|ft}} radius invisible for a few minutes. For each individual creature, the invisibility could be cut short if the subject cast a [[spell]] or performed an attack or aggressive action.\n\nThe effect resembled the ''[[greater invisibility]]'' spell, and could not even be detected by magical means such as ''[[see invisibility]]'' or ''[[invisibility purge]]''.",
-        "Notable Owners": "* [[Bresnos Huantilar]]{{Cite dungeon/88/The Door from Everywhere|33}}\n* [[Eles Wianar]]\n* [[Violet Dindower]]{{Cite card/AD&D Trading Cards/1992|438|Violet Dindower}}\n* [[Zalaznar Crinios]]"
+        "mainbody": "Dust of disappearance was a magical substance that could be used to turn a number of creatures temporarily invisible.\nDust of disappearance resembled very fine metallic dust. It was common for it to be found in small silk that contained enough of it for a single use. It was also known to be stored in bone tubes. The powder resembled fine sand,\nUpon throwing the dust up in the air, it rendered all creatures and objects within a  radius invisible for a few minutes. For each individual creature, the invisibility could be cut short if the subject cast a spell or performed an attack or aggressive action.\nThe effect resembled the greater invisibility spell, and could not even be detected by magical means such as see invisibility or invisibility purge.\n* Bresnos Huantilar\n* Eles Wianar\n* Violet Dindower\n* Zalaznar Crinios"
     }
 }

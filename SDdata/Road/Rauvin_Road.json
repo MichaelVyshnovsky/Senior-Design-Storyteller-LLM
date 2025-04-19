@@ -1,29 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Rauvin Road",
-        "type": "Road",
-        "aliases": "",
-        "length": "",
-        "width": "",
-        "pavement": "",
-        "location": "[[Rauvin Vale]], [[Silver Marches]]",
-        "starts": "[[Rivermoot]]",
-        "ends": "[[Jalanthar]]",
-        "built": "",
-        "refs": "",
-        "daggers": "",
-        "usethe": "yes",
-        "inhabitants": "",
-        "locations": "yes",
-        "settlements": "yes",
-        "roads": "yes",
-        "events": "",
-        "mainbody": "The '''Rauvin Road''' was a road that passed through the [[Rauvin Vale]] from [[Rivermoot]] in the west, to [[Jalanthar]] in the east. Due to its rather secure location, it was only lightly-patrolled by the forces of the [[Silver Marches]].",
-        "Notable Locations": {
-            "Landmarks": "* [[Zymorven Hall]]",
-            "Settlements": "* [[Everlund]]\n* [[Jalanthar]]\n* [[High Hold]]\n* [[Rivermoot]]\n* [[Silverymoon]]"
-        }
+        "mainbody": "he Rauvin Road was a road that passed through the Rauvin Vale from Rivermoot in the west, to Jalanthar in the east. Due to its rather secure location, it was only lightly-patrolled by the forces of the Silver Marches.\nLandmarks\n* Zymorven Hall\nSettlements\n* Everlund\n* Jalanthar\n* High Hold\n* Rivermoot\n* Silverymoon"
     }
 }

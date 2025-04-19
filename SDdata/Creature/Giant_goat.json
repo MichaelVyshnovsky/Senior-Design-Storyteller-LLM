@@ -1,14 +1,5 @@
 {
     "document_data": {
-        "image": "Giant goats.png",
-        "caption": "",
-        "name": "Giant Goat",
-        "othernames": "",
-        "size5e": "Large",
-        "type5e": "Beast",
-        "subtype5e": "",
-        "alignment5e": "[[Unaligned]]",
-        "challenge5e": "{{frac|1|2}}",
         "refs5e": "",
         "size4e": "",
         "origin4e": "",
@@ -26,7 +17,7 @@
         "alignment2e": "",
         "refs2e": "",
         "size1e": "Large",
-        "alignment1e": "[[Neutral]]",
+        "alignment1e": "Neutral",
         "refs1e": "",
         "patron deity": "",
         "movement": "",
@@ -40,7 +31,7 @@
         "climate": "",
         "terrain": "Hills",
         "genrefs": "",
-        "height": "{{SI|5|ft}}",
+        "height": "",
         "length": "",
         "wingspan": "",
         "weight": "",
@@ -55,14 +46,6 @@
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Giant goats''' were a rare, larger than usual species of [[goat]].",
-        "Description": "On average a giant goat grew to be {{SI|5|ft}} tall at the shoulder. They grew long, sharp horns.",
-        "Combat": "When confronting opponents, giant goats mimicked their smaller kin by charging and ramming with their horns.",
-        "Ecology": {
-            "Diet": "Giant goats were a herbivorous species.",
-            "Habitats": "These creatures were typically found in hilly regions.\n\nGiant goats were known to inhabit the [[Stonelands]],{{Cite adventurers league/In Dire Need|13}} and [[Deadstone Cleft]].",
-            "Relationships": "Some creatures were known to domesticate and herd giant goats, such as [[stone giant]]s.\n\nOccasionally giant goats were used as [[mount|mounts]], especially by [[druid]]s that frequented mountainous regions.{{Cite dragon/209/Branching Out All Over|14}}"
-        },
-        "Trivia": "A giant goat could be summoned by the ''[[conjure animals]]'' [[spell]].<ref>"
+        "mainbody": "Giant goats were a rare, larger than usual species of goat.\nOn average a giant goat grew to be  tall at the shoulder. They grew long, sharp horns.\nWhen confronting opponents, giant goats mimicked their smaller kin by charging and ramming with their horns.\nGiant goats were rather reclusive.\nGiant goats were a herbivorous species.\nThese creatures were typically found in hilly regions.\nGiant goats were known to inhabit the Stonelands, and Deadstone Cleft.\nSome creatures were known to domesticate and herd giant goats, such as stone giants.\nOccasionally giant goats were used as mounts, especially by druids that frequented mountainous regions.\nA giant goat could be summoned by the conjure animals spell."
     }
 }

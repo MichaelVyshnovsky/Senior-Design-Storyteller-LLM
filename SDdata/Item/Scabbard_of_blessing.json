@@ -1,19 +1,5 @@
 {
-    "template_data": {
-        "0.5|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Scabbard of blessing.jpg",
-        "caption": "A ''scabbard of blessing''.",
-        "name": "''Scabbard of Blessing''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Scabbard",
-        "location": "[[Neverwinter]], [[Sword Coast]].",
-        "school": "",
-        "level": "",
-        "value": "19,443 [[gp]]",
-        "weight": "{{SI|0.5|lb|k|long=yes}}",
         "rules": "",
         "value1e": "",
         "weight1e": "",
@@ -41,7 +27,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''''Scabbards of blessing''''' were enchanted [[Scabbard|blade sheaths]] originally created for a [[paladin]] order..",
-        "Powers": "''Scabbards of blessing'' were crated a long time ago by a religious order whose name has been lost to time. This divine item could grant the user ability to cast ''[[aid]]'' and ''[[bless]]'' three times a day.\n\nEven though these scabbards were created to be used by good [[clerics]] and [[paladins]], anyone could tap into its magic, be they of good or evil alignment."
+        "mainbody": "Scabbards of blessing were enchanted blade sheaths originally created for a paladin order..\nScabbards of blessing were crated a long time ago by a religious order whose name has been lost to time. This divine item could grant the user ability to cast aid and bless three times a day.\nEven though these scabbards were created to be used by good clerics and paladins, anyone could tap into its magic, be they of good or evil alignment."
     }
 }

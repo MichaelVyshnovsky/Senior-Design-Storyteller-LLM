@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Break Limb",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "yes",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Necromantic sphere|Necromantic]], [[Healing sphere|Healing]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|6|[[Healing sphere|Healing]]|6|[[Necromantic sphere|Necromantic]]|6}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Break limb''''' was an [[alteration]] [[spell]] that allowed a [[cleric]] to break the limb of another creature by mere touch alone. The reverse of this spell was called '''''mend limb''''' and caused the bones of a broken appendage to successfully bind back together.",
-        "Effects": "While in effect, the caster gained the ability to potentially fracture, snap, or break the limb of the next being they touched. While it was possible they could resist the effects, the touch was still harmful nonetheless.\n\nDepending on which bone was broken, the recipient of the broken limb suffered reduced capabilities until the bone was properly healed. This could be accomplished by a month of bedrest, a successful casting of ''mend limb'', or ''[[heal]]''.",
-        "Components": "In addition to [[verbal]] and [[somatic component]]s, this spell required a small broken bone taken from any animal."
+        "mainbody": "Break limb was an alteration spell that allowed a cleric to break the limb of another creature by mere touch alone. The reverse of this spell was called mend limb and caused the bones of a broken appendage to successfully bind back together.\nWhile in effect, the caster gained the ability to potentially fracture, snap, or break the limb of the next being they touched. While it was possible they could resist the effects, the touch was still harmful nonetheless.\nDepending on which bone was broken, the recipient of the broken limb suffered reduced capabilities until the bone was properly healed. This could be accomplished by a month of bedrest, a successful casting of mend limb, or heal.\nIn addition to verbal and somatic components, this spell required a small broken bone taken from any animal."
     }
 }

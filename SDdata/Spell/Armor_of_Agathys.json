@@ -1,31 +1,10 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "edition_1": "4e"
-    },
     "document_data": {
-        "image": "Armor of Agathys 5e.png",
-        "caption": "",
-        "name": "Armor of Agathys",
-        "othernames": "",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Abjuration]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "[[Conquest oath|Conquest]]",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "{{spell table|edition=5e|[[Conquest oath|Conquest]]|1|[[Warlock]]|1}}",
         "type5e": "",
         "refs5e": "",
         "feature4e": "",
-        "keywords4e": "{{desc/arcane}}{{desc/cold}}",
-        "level4e": "{{spell table|edition=4e|[[Warlock]]|1}}",
+        "keywords4e": "",
+        "level4e": "",
         "type4e": "Daily",
         "category4e": "",
         "skill4e": "",
@@ -46,9 +25,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Armor of Agathys''''', named after the [[Agathys|sixth layer]] of [[Carceri]], was a [[spell]] used by [[warlock]]s.",
-        "Effects": "When ''armor of Agathys'' was cast, it created a layer of thick, black ice around the body of its caster, adding to their vitality for several minutes and injuring enemies who came too near with its frigid power. The deadliness of the ice depended upon the durability of the warlock. ''Armor of Agathys'' drew heavily on a warlock's power and it could only be cast once per day.\n\nAfter the [[Sundering]], warlocks could cast it any number of times according to ability.",
-        "Stronger Spell": "If cast at higher spell levels, the damage and vitality was amplified.",
-        "Components": "The [[material component]] was a [[cup]] of water."
+        "mainbody": "Armor of Agathys, named after the sixth layer of Carceri, was a spell used by warlocks.\nWhen armor of Agathys was cast, it created a layer of thick, black ice around the body of its caster, adding to their vitality for several minutes and injuring enemies who came too near with its frigid power. The deadliness of the ice depended upon the durability of the warlock. Armor of Agathys drew heavily on a warlocks power and it could only be cast once per day.\nAfter the Sundering, warlocks could cast it any number of times according to ability.\nIf cast at higher spell levels, the damage and vitality was amplified.\nThe material component was a cup of water."
     }
 }

@@ -1,36 +1,13 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "edition_1": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Shadow Evocation",
-        "deity": "",
-        "inventor": "[[Telamont Tanthul|Shadow]]<ref>",
-        "type": "",
-        "keywords5e": "",
-        "level5e": "",
-        "type5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "school3e": "[[Illusion]] ([[:Category:Shadow spells|Shadow]])",
-        "domains3e": "[[Charm domain|Charm]]",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Bard]]|5|[[Sorcerer]]|5|[[Wizard]]|5}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
-        "school2e": "[[Illusion/Phantasm]]<br/>[[Dimension]], [[Shadow magic|Shadow]]<br/>[[Inventive]], [[Mentalism]]<br/>[[Universal (province)]]",
+        "school2e": "Illusion/PhantasmDimension, ShadowInventive, MentalismUniversal (province)",
         "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Arcanist]]|5|[[Wizard]]|5}}",
+        "level2e": "",
         "type2e": "",
-        "refs2e": "<ref>{{Cite dragon/229/The Dimensional Wizard}}<ref>",
-        "mainbody": "reversible1e  =\n| school1e      =\n| level1e       =\n| type1e        =\n| rules         =\n| nocat         =\n}}\n'''''Shadow evocation''''', formerly known as '''''shadow magic''''' (but not to be confused with the general field of [[shadow magic]]), was an [[illusion]] [[spell]] that drew energy from the [[Plane of Shadow]] in order to create a semi-real duplicate of any [[evocation]] spell of lesser power. If the victim recognized the illusion, the shadow energy was a lot less effective than the duplicated spell. A more powerful version of this spell also existed as ''[[greater shadow evocation]]''.",
-        "Components": "''Shadow evocation'' used verbal and somatic components only.",
-        "History": "The spell was introduced in [[-593 DR|3266 NY (−593 DR)]] by [[Netheril|Netherese]] [[arcanist]] and researcher into the [[planes]], [[Telamont Tanthul|Shadow]], under the name '''''Shadow's magic''''', later simplified to ''shadow magic'' or ''shadow evocation''.<ref>\n\n''Shadow evocation'' was an uncommon spell in [[Faerûn]] in the 1360s [[DR]];{{Cite web enhancement/City of Wyrmshadows|6}}"
+        "refs2e": "",
+        "mainbody": "| reversible1e  =\n| school1e      =\n| level1e       =\n| type1e        =\n| rules         =\n| nocat         =\nShadow evocation, formerly known as shadow magic (but not to be confused with the general field of shadow magic), was an illusion spell that drew energy from the Plane of Shadow in order to create a semi-real duplicate of any evocation spell of lesser power. If the victim recognized the illusion, the shadow energy was a lot less effective than the duplicated spell. A more powerful version of this spell also existed as greater shadow evocation.\nShadow evocation used verbal and somatic components only.\nThe spell was introduced in 3266 NY (−593 DR) by Netherese arcanist and researcher into the planes, Shadow, under the name Shadows magic, later simplified to shadow magic or shadow evocation.\nShadow evocation was an uncommon spell in Faerûn in the 1360s DR"
     }
 }

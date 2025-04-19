@@ -1,12 +1,8 @@
 {
     "document_data": {
-        "name": "Polybeus",
-        "home": "[[Netheril]], [[north Faerûn]]",
-        "race": "[[Human]] ([[Netherese]]){{Neth-race}}",
         "basicrefs": "",
-        "class2e": "{{Class table|[[Arcanist]] ([[Inventor]])}}",
-        "refs2e": "<ref>",
-        "mainbody": "alignment3e    =\n| challenge3e    =\n| class3e        =\n| refs3e         =\n| alignment35    =\n| challenge35    =\n| class35        =\n| refs35         =\n| alignment4e    =\n| class4e        =\n| refs4e         =\n| alignment5e    =\n| challenge5e    =\n| class5e        =\n| refs5e         =\n}}\n'''Polybeus''' was a [[Netherese]] [[arcanist]] who lived during the [[Age of Discovery]].",
-        "History": "This arcanist developed a single [[spell]] during their lifetime. This spell, ''[[continual light]]'', was developed in {{YearlinkConvert|2695|NY}}."
+        "class2e": "",
+        "refs2e": "",
+        "mainbody": "| alignment3e    =\n| challenge3e    =\n| class3e        =\n| refs3e         =\n| alignment35    =\n| challenge35    =\n| class35        =\n| refs35         =\n| alignment4e    =\n| class4e        =\n| refs4e         =\n| alignment5e    =\n| challenge5e    =\n| class5e        =\n| refs5e         =\nPolybeus was a Netherese arcanist who lived during the Age of Discovery.\nThis arcanist developed a single spell during their lifetime. This spell, continual light, was developed in ."
     }
 }

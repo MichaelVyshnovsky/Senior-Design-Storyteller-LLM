@@ -1,20 +1,8 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Al-Barq bin Mawli",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "the Lightning",
-        "home": "[[Haunted Lands]], [[Interior Zakhara]]{{cite book/Assassin Mountain/Holy Slayer Sourcebook|29}}",
         "formerhomes": "",
         "sex": "Female",
-        "race": "[[Human]]",
+        "race": "Human",
         "ethnicity": "",
         "occupation": "",
         "age": "",
@@ -38,7 +26,7 @@
         "class1e": "",
         "refs1e": "",
         "alignment2e": "",
-        "class2e": "{{class table|edition=2e|[[Desert rider]]|14}}",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "class3e": "",
@@ -52,7 +40,6 @@
         "alignment5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Al-Barq bin Mawli''', or the '''Lightning''', was a member of the [[House of Mawli]] in [[1367 DR]].{{AQ-time}}",
-        "Activities": "Al-Barq was infamous for her lightning-quick attacks on caravans traveling through the southeast regions of the [[Haunted Lands]]."
+        "mainbody": "Al-Barq bin Mawli, or the Lightning, was a member of the House of Mawli in 1367 DR.\nAl-Barq was infamous for her lightning-quick attacks on caravans traveling through the southeast regions of the Haunted Lands."
     }
 }

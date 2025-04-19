@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Intensify Sensation",
-        "othernames": "",
-        "deity": "[[Sharess]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "Yes",
-        "school2e": "[[Enchantment]]",
-        "spheres2e": "[[Charm sphere|Charm]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|3}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -45,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Intensify sensation''''' was a [[Divine magic|divine]] [[enchantment]] [[spell]] used by specialty priests devoted to [[Sharess]] called [[Sensate]]s, enabling them to heighten a sensation in themselves or a target.",
-        "Effects": "This spell allowed the caster to greatly intensify a physical or emotional sensation in themselves or a target. The sensation was so intense that the recipient was often briefly disconnected from reality, completely distracting them from the outside world. If pain was the heightened sensation then the target suffered additional harm if injured while the spell was active. This additional injury was purely in the target's mind.\n\nThe reverse of this spell, ''deaden sensation'', had the exact opposite effect–greatly suppressing any physical or emotional sensation. While any pain experienced during this spell was lessened in the target's mind, all of that pain would suddenly strike the target the moment the spell ended, often causing the target to collapse into unconsciousness or instantly die.",
-        "Components": "This spell required only [[verbal component|verbal]] and [[somatic component]]s to cast."
+        "mainbody": "Intensify sensation was a divine enchantment spell used by specialty priests devoted to Sharess called Sensates, enabling them to heighten a sensation in themselves or a target.\nThis spell allowed the caster to greatly intensify a physical or emotional sensation in themselves or a target. The sensation was so intense that the recipient was often briefly disconnected from reality, completely distracting them from the outside world. If pain was the heightened sensation then the target suffered additional harm if injured while the spell was active. This additional injury was purely in the targets mind.\nThe reverse of this spell, deaden sensation, had the exact opposite effect–greatly suppressing any physical or emotional sensation. While any pain experienced during this spell was lessened in the targets mind, all of that pain would suddenly strike the target the moment the spell ended, often causing the target to collapse into unconsciousness or instantly die. \nThis spell required only verbal and somatic components to cast."
     }
 }

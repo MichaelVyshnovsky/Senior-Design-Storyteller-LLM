@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "Analyze-device-2e.png",
-        "caption": "",
-        "name": "Analyze device",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Divination]], [[Universal (province)|Universal]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|3}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Analyze device''''' was a [[spell]] unique to [[Zakhara]], the Land of Fate. This spell was used primarily by [[mechanician]]s.",
-        "Effects": "With this spell, a wizard or mechanician was able to discern the workings of a clockwork device crafted by another. Random information was determined, making the mechanism's primary purpose difficult to discern. More functions were determined the longer the caster kept the spell active. The spell would end automatically if all of the functions for a device were discovered.",
-        "Components": "This spell required a special mechanical device to cast."
+        "mainbody": "Analyze device was a spell unique to Zakhara, the Land of Fate. This spell was used primarily by mechanicians.\nWith this spell, a wizard or mechanician was able to discern the workings of a clockwork device crafted by another. Random information was determined, making the mechanisms primary purpose difficult to discern. More functions were determined the longer the caster kept the spell active. The spell would end automatically if all of the functions for a device were discovered.\nThis spell required a special mechanical device to cast."
     }
 }

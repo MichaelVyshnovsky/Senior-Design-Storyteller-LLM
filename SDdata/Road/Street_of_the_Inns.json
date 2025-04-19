@@ -1,28 +1,5 @@
 {
     "document_data": {
-        "image": "StreetInns.png",
-        "caption": "A map of Huzuz showing the Street of the Inns lined in black.",
-        "name": "Street of the Inns",
-        "type": "Street",
-        "aliases": "",
-        "length": "",
-        "width": "",
-        "pavement": "",
-        "location": "[[Huzuz]], [[Zakhara]]",
-        "starts": "[[Pilgrims' Route]]",
-        "ends": "[[Golden Mosque]]",
-        "built": "",
-        "refs": "",
-        "daggers": "",
-        "usethe": "yes",
-        "useon": "yes",
-        "inhabitants": "yes",
-        "locations": "yes",
-        "organizations": "yes",
-        "settlements": "",
-        "roads": "yes",
-        "events": "",
-        "mainbody": "The '''Street of the Inns''' was located in [[Huzuz]], the City of Delights, in [[1367 DR]].{{AQ-time}}",
-        "Description": "The Street of the Inns branched off of the [[Pilgrims' Route]] to head directly north into the vast courtyard that housed the [[Golden Mosque]] and the [[Palace of the Enlightened Throne]]. The Street of the Inns led foot traffic to the various mosques, while the [[Palace Lane]] branched off toward the palace."
+        "mainbody": "he Street of the Inns was located in Huzuz, the City of Delights, in 1367 DR.\nThe Street of the Inns branched off of the Pilgrims Route to head directly north into the vast courtyard that housed the Golden Mosque and the Palace of the Enlightened Throne. The Street of the Inns led foot traffic to the various mosques, while the Palace Lane branched off toward the palace."
     }
 }

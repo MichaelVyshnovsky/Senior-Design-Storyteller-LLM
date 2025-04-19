@@ -1,39 +1,11 @@
 {
-    "template_data": {
-        "8|12|ft|long": "yes",
-        "2|3|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Neverwinter-Khyeks.png",
-        "caption": "Three tiers of [[Ice Hunters]] khyeks",
-        "name": "Kayak",
-        "propername": "",
-        "aliases": "Khyek<br />Oumyek",
-        "type": "Boat",
-        "size": "Small",
-        "location": "[[Great Glacier]]<br />[[Sea of Moving Ice]], [[Frozenfar]]",
-        "captain": "",
-        "notable crew": "",
-        "flag": "",
-        "built by": "[[Iulutiun]], [[Ice Hunters]]",
-        "used by": "",
-        "value": "",
-        "basicrefs": "",
-        "tonnage": "",
-        "crew": "1",
-        "passengers": "",
-        "armament": "",
-        "cargo": "{{SI|250|lbs.|k}}",
-        "keel length": "{{SIrange|8|12|ft}}",
+        "keel length": "",
         "beam width": "",
         "configrefs": "",
         "usethe": "",
         "useon": "",
         "inhabitants": "",
-        "mainbody": "'''Kayaks''', also known as '''khyeks''' or '''oumyeks''', such as rapids, easy to maneuver, and could be quite quick. They were typically used for traveling short distances.",
-        "Description": "Kayaks were composed of a wooden frame, almost completely covered by some form of [[leather]] that had been waterproofed by [[oil]]. The average kayak measured {{SIrange|8|12|ft|long=yes}} in length and {{SIrange|2|3|ft|long=yes}} in width. In order to be used, a body of water needed to have a depth of over {{SI|0.25|ft}}.\n\nThe oiling of their cover ensured that a kayak would not fill with water when capsized. The covering had a small circular opening in its top through which operators squeezed into, their legs extending into the front section while the rest of their body protruded upwards, which all together was not quite comfortable. The operator then propelled the kayak by means of a single oar that had a paddle on each end.\n\nThe [[Iulutiun]]s of the [[Great Glacier]], along with the [[Ice Hunters]] of the [[Sea of Moving Ice]], typically constructed kayaks from [[seal]] skins that had been dried and then oiled with blubber from a seal or [[walrus]]. In addition to wood, they were known to construct frames from bones. They would seal themselves into their kayaks by stuffing the skin of a [[caribou]] or [[wolf]] around the opening.",
-        "Price": "The cost of a kayak was generally similar to that of a [[canoe]].{{Cite dragon/169/Sage Advice|98}} In [[1359 DR]], their price was around 50 [[gp]] in the Great Glacier.",
-        "History": "The existence of kayaks on Toril dated all the way back to the days of [[Netheril]]. In the {{YearlinkName|-377}}, an explorer named [[Dienere Falconholfer]] became the first man to traverse the [[Dienere River|North Fira River]] in Netheril by kayak.<ref>",
-        "Notable Users of Kayaks": "* In the Great Glacier, kayaks were a major part of the daily lives and culture of the native Iulutiun people, being one of the few items included in the estate of the deceased in their society. \n** Iulutiun's learned to skillfully paddle kayaks one-handed, while simultaneously using their free hand to set fishing [[nets]] or to [[spear]] wild game.\n** The Ilutiun people's largest settlement in the Great Glacier, [[Lilinuk]], was renowned for its fine kayaks and had an entire fleet of them docked in its ice-free harbor.\n** The settlement of [[Hykopgruk]] had skilled boatmakers that were specialized in the construction of kayaks.\n** In general, kayaks could be found in use among [[Nakulutiun]] settlements along the [[Uppuk river]].\n* The [[Ice Hunter]]s of [[Ice Peak]] were known to use kayaks. Some of their kayaks were enhanced with a set of expanding leather sails, allowing them to reach higher top speeds.\n* Kayaks were occasionally used by people that inhabited the [[Underdark]], with the city of [[Menzoberranzan]] being a major producer of them."
+        "mainbody": "Kayaks, also known as khyeks or oumyeks, such as rapids, easy to maneuver, and could be quite quick. They were typically used for traveling short distances.\nKayaks were composed of a wooden frame, almost completely covered by some form of leather that had been waterproofed by oil. The average kayak measured  in length and  in width. In order to be used, a body of water needed to have a depth of over .\nThe oiling of their cover ensured that a kayak would not fill with water when capsized. The covering had a small circular opening in its top through which operators squeezed into, their legs extending into the front section while the rest of their body protruded upwards, which all together was not quite comfortable. The operator then propelled the kayak by means of a single oar that had a paddle on each end.\nThe Iulutiuns of the Great Glacier, along with the Ice Hunters of the Sea of Moving Ice, typically constructed kayaks from seal skins that had been dried and then oiled with blubber from a seal or walrus. In addition to wood, they were known to construct frames from bones. They would seal themselves into their kayaks by stuffing the skin of a caribou or wolf around the opening.\nThe cost of a kayak was generally similar to that of a canoe. In 1359 DR, their price was around 50 gp in the Great Glacier.\nThe existence of kayaks on Toril dated all the way back to the days of Netheril. In the , an explorer named Dienere Falconholfer became the first man to traverse the North Fira River in Netheril by kayak.\n* In the Great Glacier, kayaks were a major part of the daily lives and culture of the native Iulutiun people, being one of the few items included in the estate of the deceased in their society. \n** Iulutiuns learned to skillfully paddle kayaks one-handed, while simultaneously using their free hand to set fishing nets or to spear wild game.\n** The Ilutiun peoples largest settlement in the Great Glacier, Lilinuk, was renowned for its fine kayaks and had an entire fleet of them docked in its ice-free harbor.\n** The settlement of Hykopgruk had skilled boatmakers that were specialized in the construction of kayaks.\n** In general, kayaks could be found in use among Nakulutiun settlements along the Uppuk river.\n* The Ice Hunters of Ice Peak were known to use kayaks. Some of their kayaks were enhanced with a set of expanding leather sails, allowing them to reach higher top speeds.\n* Kayaks were occasionally used by people that inhabited the Underdark, with the city of Menzoberranzan being a major producer of them."
     }
 }

@@ -1,27 +1,23 @@
 2900
 136075
-
 1000641
 1000640
-2024-12-27T18:28:06Z
-
+2024-12-27T182806Z
 SunderedShor
 45429029
-
 1000641
 interactivemap
 text/plain
-{
-    "mapImage": "Moonshae Isles.png",
-    "pageCategories": [
+    "mapImage" "Moonshae Isles.png",
+    "pageCategories" [
         "Interactive_maps",
         "Maps_of_the_Moonshae_Isles",
         "Maps_of_the_Sea_of_Swords"
     ],
-    "defaultSort": "",
-    "description": "",
-    "coordinateOrder": "xy",
-    "mapBounds": [
+    "defaultSort" "",
+    "description" "",
+    "coordinateOrder" "xy",
+    "mapBounds" [
         [
             0,
             0
@@ -31,713 +27,633 @@ text/plain
             100
         ]
     ],
-    "origin": "bottom-left",
-    "useMarkerClustering": false,
-    "categories": [
-        {
-            "id": "1",
-            "listId": 1,
-            "name": "Settlements",
-            "color": "#FA005A",
-            "symbol": "",
-            "symbolColor": ""
-        },
-        {
-            "id": "2",
-            "listId": 2,
-            "name": "Water bodies",
-            "color": "#00e8ff",
-            "symbol": "",
-            "symbolColor": ""
-        },
-        {
-            "id": "3",
-            "listId": 3,
-            "name": "Mountain ranges",
-            "color": "#fa9600",
-            "symbol": "",
-            "symbolColor": ""
-        },
-        {
-            "id": "4",
-            "listId": 4,
-            "name": "Islands",
-            "color": "#c000fa",
-            "symbol": "",
-            "symbolColor": ""
-        },
-        {
-            "id": "5",
-            "listId": 5,
-            "name": "Forests",
-            "color": "#2afa00",
-            "symbol": "",
-            "symbolColor": ""
-        },
-        {
-            "id": "6",
-            "listId": 6,
-            "name": "Other",
-            "color": "#00faa7",
-            "symbol": "",
-            "symbolColor": ""
-        }
+    "origin" "bottom-left",
+    "useMarkerClustering" false,
+    "categories" [
+            "id" "1",
+            "listId" 1,
+            "name" "Settlements",
+            "color" "#FA005A",
+            "symbol" "",
+            "symbolColor" ""
+        ,
+            "id" "2",
+            "listId" 2,
+            "name" "Water bodies",
+            "color" "#00e8ff",
+            "symbol" "",
+            "symbolColor" ""
+        ,
+            "id" "3",
+            "listId" 3,
+            "name" "Mountain ranges",
+            "color" "#fa9600",
+            "symbol" "",
+            "symbolColor" ""
+        ,
+            "id" "4",
+            "listId" 4,
+            "name" "Islands",
+            "color" "#c000fa",
+            "symbol" "",
+            "symbolColor" ""
+        ,
+            "id" "5",
+            "listId" 5,
+            "name" "Forests",
+            "color" "#2afa00",
+            "symbol" "",
+            "symbolColor" ""
+        ,
+            "id" "6",
+            "listId" 6,
+            "name" "Other",
+            "color" "#00faa7",
+            "symbol" "",
+            "symbolColor" ""
     ],
-    "markers": [
-        {
-            "categoryId": "1",
-            "position": [
+    "markers" [
+            "categoryId" "1",
+            "position" [
                 87.344111451826,
                 23.314577878365
             ],
-            "popup": {
-                "title": "Llandrain",
-                "description": "Llandrain was a small village",
-                "link": {
-                    "url": "Llandrain",
-                    "label": "Llandrain"
-                }
-            },
-            "id": "1"
-        },
-        {
-            "categoryId": "1",
-            "position": [
+            "popup" 
+                "title" "Llandrain",
+                "description" "Llandrain was a small village",
+                "link" 
+                    "url" "Llandrain",
+                    "label" "Llandrain"
+            ,
+            "id" "1"
+        ,
+            "categoryId" "1",
+            "position" [
                 94.908197175967,
                 18.575826392974
             ],
-            "popup": {
-                "title": "Brannoch",
-                "description": "",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "2"
-        },
-        {
-            "categoryId": "6",
-            "position": [
+            "popup" 
+                "title" "Brannoch",
+                "description" "",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "2"
+        ,
+            "categoryId" "6",
+            "position" [
                 92.224148457921,
                 19.478460085436
             ],
-            "popup": {
-                "title": "Maloren Sods",
-                "description": "",
-                "link": {
-                    "url": "Maloren Sods",
-                    "label": "Maloren Sods"
-                }
-            },
-            "id": "3"
-        },
-        {
-            "categoryId": "2",
-            "position": [
+            "popup" 
+                "title" "Maloren Sods",
+                "description" "",
+                "link" 
+                    "url" "Maloren Sods",
+                    "label" "Maloren Sods"
+            ,
+            "id" "3"
+        ,
+            "categoryId" "2",
+            "position" [
                 86.132602148087,
                 24.350922676279
             ],
-            "popup": {
-                "title": "Mal Feargal",
-                "description": "",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "4"
-        },
-        {
-            "categoryId": "2",
-            "position": [
+            "popup" 
+                "title" "Mal Feargal",
+                "description" "",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "4"
+        ,
+            "categoryId" "2",
+            "position" [
                 85.913339119688,
                 22.230398106603
             ],
-            "popup": {
-                "title": "Mal Sul",
-                "description": "",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "5"
-        },
-        {
-            "categoryId": "2",
-            "position": [
+            "popup" 
+                "title" "Mal Sul",
+                "description" "",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "5"
+        ,
+            "categoryId" "2",
+            "position" [
                 88.630969785001,
                 20.105398106603
             ],
-            "popup": {
-                "title": "Harloch",
-                "description": "",
-                "link": {
-                    "url": "Harloch",
-                    "label": "Harloch"
-                }
-            },
-            "id": "6"
-        },
-        {
-            "categoryId": "3",
-            "position": [
+            "popup" 
+                "title" "Harloch",
+                "description" "",
+                "link" 
+                    "url" "Harloch",
+                    "label" "Harloch"
+            ,
+            "id" "6"
+        ,
+            "categoryId" "3",
+            "position" [
                 83.852319906202,
                 19.323288983817
             ],
-            "popup": {
-                "title": "Andover Heights",
-                "description": "",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "7"
-        },
-        {
-            "categoryId": "1",
-            "position": [
+            "popup" 
+                "title" "Andover Heights",
+                "description" "",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "7"
+        ,
+            "categoryId" "1",
+            "position" [
                 89.817723561876,
                 19.947389901833
             ],
-            "popup": {
-                "title": "Harloch",
-                "description": "",
-                "link": {
-                    "url": "Harloch (village)",
-                    "label": "Harloch"
-                }
-            },
-            "id": "8"
-        },
-        {
-            "categoryId": "1",
-            "position": [
+            "popup" 
+                "title" "Harloch",
+                "description" "",
+                "link" 
+                    "url" "Harloch (village)",
+                    "label" "Harloch"
+            ,
+            "id" "8"
+        ,
+            "categoryId" "1",
+            "position" [
                 86.40625,
                 16.374940061201
             ],
-            "popup": {
-                "title": "Westphal",
-                "description": "",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "9"
-        },
-        {
-            "categoryId": "6",
-            "position": [
+            "popup" 
+                "title" "Westphal",
+                "description" "",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "9"
+        ,
+            "categoryId" "6",
+            "position" [
                 83.819729036524,
                 14.886188575811
             ],
-            "popup": {
-                "title": "Snowdown Ride",
-                "description": "",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "10"
-        },
-        {
-            "categoryId": "1",
-            "position": [
+            "popup" 
+                "title" "Snowdown Ride",
+                "description" "",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "10"
+        ,
+            "categoryId" "1",
+            "position" [
                 80.944752355997,
                 13.542398616611
             ],
-            "popup": {
-                "title": "Pengram",
-                "description": "",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "11"
-        },
-        {
-            "categoryId": "1",
-            "position": [
+            "popup" 
+                "title" "Pengram",
+                "description" "",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "11"
+        ,
+            "categoryId" "1",
+            "position" [
                 85.725372730235,
                 16.759989799831
             ],
-            "popup": {
-                "title": "Caer Westphal",
-                "description": "",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "12"
-        },
-        {
-            "categoryId": "6",
-            "position": [
+            "popup" 
+                "title" "Caer Westphal",
+                "description" "",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "12"
+        ,
+            "categoryId" "6",
+            "position" [
                 86.006342896563,
                 20.757732105069
             ],
-            "popup": {
-                "title": "Snowdown Moonwell",
-                "description": "",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "13"
-        },
-        {
-            "categoryId": "4",
-            "position": [
+            "popup" 
+                "title" "Snowdown Moonwell",
+                "description" "",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "13"
+        ,
+            "categoryId" "4",
+            "position" [
                 85.163548994942,
                 18.351821758263
             ],
-            "popup": {
-                "title": "Snowdown",
-                "description": "",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "14"
-        },
-        {
-            "categoryId": "6",
-            "position": [
+            "popup" 
+                "title" "Snowdown",
+                "description" "",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "14"
+        ,
+            "categoryId" "6",
+            "position" [
                 72.505829868165,
                 9.8552782290048
             ],
-            "popup": {
-                "title": "Tir faoi Thoinn",
-                "description": "",
-                "link": {
-                    "url": "Tir faoi Thoinn",
-                    "label": "Tir faoi Thoinn"
-                }
-            },
-            "id": "15"
-        },
-        {
-            "categoryId": "2",
-            "position": [
+            "popup" 
+                "title" "Tir faoi Thoinn",
+                "description" "",
+                "link" 
+                    "url" "Tir faoi Thoinn",
+                    "label" "Tir faoi Thoinn"
+            ,
+            "id" "15"
+        ,
+            "categoryId" "2",
+            "position" [
                 74.010143970607,
                 32.041020024235
             ],
-            "popup": {
-                "title": "Strait of Alaron",
-                "description": "",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "16"
-        },
-        {
-            "categoryId": "2",
-            "position": [
+            "popup" 
+                "title" "Strait of Alaron",
+                "description" "",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "16"
+        ,
+            "categoryId" "2",
+            "position" [
                 76.071151524356,
                 16.651213234756
             ],
-            "popup": {
-                "title": "Kingsbay",
-                "description": "",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "17"
-        },
-        {
-            "categoryId": "2",
-            "position": [
+            "popup" 
+                "title" "Kingsbay",
+                "description" "",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "17"
+        ,
+            "categoryId" "2",
+            "position" [
                 92.128404643008,
                 31.823368902216
             ],
-            "popup": {
-                "title": "Sea of Swords",
-                "description": "",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "18"
-        },
-        {
-            "categoryId": "1",
-            "position": [
+            "popup" 
+                "title" "Sea of Swords",
+                "description" "",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "18"
+        ,
+            "categoryId" "1",
+            "position" [
                 53.96206709900734,
                 22.631415435176358
             ],
-            "popup": {
-                "title": "Karador",
-                "description": "Capital of [[Sarifal]]",
-                "link": {
-                    "url": "Karador",
-                    "label": "Karador"
-                }
-            },
-            "id": "19"
-        },
-        {
-            "categoryId": "4",
-            "position": [
+            "popup" 
+                "title" "Karador",
+                "description" "Capital of Sarifal",
+                "link" 
+                    "url" "Karador",
+                    "label" "Karador"
+            ,
+            "id" "19"
+        ,
+            "categoryId" "4",
+            "position" [
                 73.59054545553509,
                 91.75
             ],
-            "popup": {
-                "title": "Caftenor",
-                "description": "The southernmost island within the [[Korinn Archipelago]], its port was among the most frequently visited by ships bound between the nations south of Korinn and its western islands.",
-                "link": {
-                    "url": "Caftenor",
-                    "label": "Caftenor"
-                }
-            },
-            "id": "20"
-        },
-        {
-            "categoryId": "4",
-            "position": [
+            "popup" 
+                "title" "Caftenor",
+                "description" "The southernmost island within the Korinn Archipelago, its port was among the most frequently visited by ships bound between the nations south of Korinn and its western islands.",
+                "link" 
+                    "url" "Caftenor",
+                    "label" "Caftenor"
+            ,
+            "id" "20"
+        ,
+            "categoryId" "4",
+            "position" [
                 81.52709713031322,
                 94.8125
             ],
-            "popup": {
-                "title": "Highport",
-                "description": "One the greenest and most heavily forested of the islands in the [[Korinn Archipelago]], it was home to several powerful port cities inhabited by [[elves]] and [[half-elves]].",
-                "link": {
-                    "url": "Highport",
-                    "label": "Highport"
-                }
-            },
-            "id": "21"
-        },
-        {
-            "categoryId": "4",
-            "position": [
+            "popup" 
+                "title" "Highport",
+                "description" "One the greenest and most heavily forested of the islands in the Korinn Archipelago, it was home to several powerful port cities inhabited by elves and half-elves.",
+                "link" 
+                    "url" "Highport",
+                    "label" "Highport"
+            ,
+            "id" "21"
+        ,
+            "categoryId" "4",
+            "position" [
                 74.90080883944577,
                 97.9375
             ],
-            "popup": {
-                "title": "Chawdik",
-                "description": "A small and fairly poor island in the [[Korinn Archipelago]], noted for having the largest [[gnome|gnomish]] community among the island chain.",
-                "link": {
-                    "url": "Chawdik",
-                    "label": "Chawdik"
-                },
-                "image": "File:Map of Korinn Archipelago 2nd edition.png"
-            },
-            "id": "22"
-        },
-        {
-            "categoryId": "4",
-            "position": [
+            "popup" 
+                "title" "Chawdik",
+                "description" "A small and fairly poor island in the Korinn Archipelago, noted for having the largest gnomish community among the island chain.",
+                "link" 
+                    "url" "Chawdik",
+                    "label" "Chawdik"
+                ,
+                "image" "FileMap of Korinn Archipelago 2nd edition.png"
+            ,
+            "id" "22"
+        ,
+            "categoryId" "4",
+            "position" [
                 79.46461502324193,
                 99.0625
             ],
-            "popup": {
-                "title": " Ventris\t",
-                "description": "The largest and most wealthy island in the [[Korinn Archipelago]]. It commanded a great deal of the island chain's sea-trade and was home to a large [[demihuman]] population.",
-                "link": {
-                    "url": " Ventris\t",
-                    "label": " Ventris\t"
-                },
-                "image": "File:Map of Korinn Archipelago 2nd edition.png"
-            },
-            "id": "23"
-        },
-        {
-            "categoryId": "1",
-            "position": [
+            "popup" 
+                "title" " Ventris\t",
+                "description" "The largest and most wealthy island in the Korinn Archipelago. It commanded a great deal of the island chains sea-trade and was home to a large demihuman population.",
+                "link" 
+                    "url" " Ventris\t",
+                    "label" " Ventris\t"
+                ,
+                "image" "FileMap of Korinn Archipelago 2nd edition.png"
+            ,
+            "id" "23"
+        ,
+            "categoryId" "1",
+            "position" [
                 60.70849564162155,
                 97.9375
             ],
-            "popup": {
-                "title": "Rottesheim",
-                "description": "The northernmost [[Northlander]] settlement in the [[Norheim]] island chain. It resided upon an island that was unnamed.",
-                "link": {
-                    "url": "Rottesheim",
-                    "label": "Rottesheim"
-                },
-                "image": "File:Norheim.JPG"
-            },
-            "id": "24"
-        },
-        {
-            "categoryId": "4",
-            "position": [
+            "popup" 
+                "title" "Rottesheim",
+                "description" "The northernmost Northlander settlement in the Norheim island chain. It resided upon an island that was unnamed.",
+                "link" 
+                    "url" "Rottesheim",
+                    "label" "Rottesheim"
+                ,
+                "image" "FileNorheim.JPG"
+            ,
+            "id" "24"
+        ,
+            "categoryId" "4",
+            "position" [
                 84.26472949845177,
                 98.1875
             ],
-            "popup": {
-                "title": "Barret's Quay",
-                "description": "A small island in the eastern part of the [[Korinn Archipelago]]. Lacking any major port cities, it was known for very reserved and secretive population of [[dwarves]] and [[human]]s.",
-                "link": {
-                    "url": "Barret's Quay",
-                    "label": "Barret's Quay"
-                },
-                "image": "File:KorinnAtlas.JPG"
-            },
-            "id": "25"
-        },
-        {
-            "categoryId": "6",
-            "position": [
+            "popup" 
+                "title" "Barrets Quay",
+                "description" "A small island in the eastern part of the Korinn Archipelago. Lacking any major port cities, it was known for very reserved and secretive population of dwarves and humans.",
+                "link" 
+                    "url" "Barrets Quay",
+                    "label" "Barrets Quay"
+                ,
+                "image" "FileKorinnAtlas.JPG"
+            ,
+            "id" "25"
+        ,
+            "categoryId" "6",
+            "position" [
                 80.62579100071736,
                 87.37188165036277
             ],
-            "popup": {
-                "title": "Castle Morose",
-                "description": "A ruin of note.",
-                "link": {
-                    "url": "Castle Morose",
-                    "label": "Castle Morose"
-                }
-            },
-            "id": "26"
-        },
-        {
-            "categoryId": "2",
-            "position": [
+            "popup" 
+                "title" "Castle Morose",
+                "description" "A ruin of note.",
+                "link" 
+                    "url" "Castle Morose",
+                    "label" "Castle Morose"
+            ,
+            "id" "26"
+        ,
+            "categoryId" "2",
+            "position" [
                 74.9252866224837,
                 86.22283313093463
             ],
-            "popup": {
-                "title": "Lake of the Leech",
-                "description": "A small freshwater lake that touched the northern edge of [[Leechhome]], the only major swamp in [[Gnarhelm]].",
-                "link": {
-                    "url": " Lake of the Leech",
-                    "label": " Lake of the Leech"
-                }
-            },
-            "id": "27"
-        },
-        {
-            "categoryId": "2",
-            "position": [
+            "popup" 
+                "title" "Lake of the Leech",
+                "description" "A small freshwater lake that touched the northern edge of Leechhome, the only major swamp in Gnarhelm.",
+                "link" 
+                    "url" " Lake of the Leech",
+                    "label" " Lake of the Leech"
+            ,
+            "id" "27"
+        ,
+            "categoryId" "2",
+            "position" [
                 69.26573745199946,
                 78.97498862377252
             ],
-            "popup": {
-                "title": "Salmon Bay",
-                "description": "Also called the '''Firth of Helmsgate''', was a prominent bay in northern [[Gnarhelm]]. ",
-                "link": {
-                    "url": "Salmon Bay",
-                    "label": "Salmon Bay"
-                }
-            },
-            "id": "28"
-        },
-        {
-            "categoryId": "2",
-            "position": [
+            "popup" 
+                "title" "Salmon Bay",
+                "description" "Also called the Firth of Helmsgate, was a prominent bay in northern Gnarhelm. ",
+                "link" 
+                    "url" "Salmon Bay",
+                    "label" "Salmon Bay"
+            ,
+            "id" "28"
+        ,
+            "categoryId" "2",
+            "position" [
                 72.53723236178665,
                 80.87533809821137
             ],
-            "popup": {
-                "title": "Lac Sielya",
-                "description": "A small freshwater lake in northern [[Gnarhelm]].",
-                "link": {
-                    "url": "Lac Sielya",
-                    "label": "Lac Sielya"
-                }
-            },
-            "id": "29"
-        },
-        {
-            "categoryId": "5",
-            "position": [
+            "popup" 
+                "title" "Lac Sielya",
+                "description" "A small freshwater lake in northern Gnarhelm.",
+                "link" 
+                    "url" "Lac Sielya",
+                    "label" "Lac Sielya"
+            ,
+            "id" "29"
+        ,
+            "categoryId" "5",
+            "position" [
                 73.5097825345652,
                 83.70376522295756
             ],
-            "popup": {
-                "title": "Leechome",
-                "description": "A prominent swamp in northern [[Gnarhelm]].",
-                "link": {
-                    "url": "Leechome",
-                    "label": "Leechome"
-                }
-            },
-            "id": "30"
-        },
-        {
-            "categoryId": "2",
-            "position": [
+            "popup" 
+                "title" "Leechome",
+                "description" "A prominent swamp in northern Gnarhelm.",
+                "link" 
+                    "url" "Leechome",
+                    "label" "Leechome"
+            ,
+            "id" "30"
+        ,
+            "categoryId" "2",
+            "position" [
                 81.33408708975946,
                 82.06858079146366
             ],
-            "popup": {
-                "title": "Lake Sunder",
-                "description": "A freshwater lake located in northern [[Gnarhelm]], with the [[Farfair River]] entering its southwest shore and exiting to the sea on the northeast shore. ",
-                "link": {
-                    "url": "Lake Sunder",
-                    "label": "Lake Sunder"
-                }
-            },
-            "id": "31"
-        },
-        {
-            "categoryId": "1",
-            "position": [
+            "popup" 
+                "title" "Lake Sunder",
+                "description" "A freshwater lake located in northern Gnarhelm, with the Farfair River entering its southwest shore and exiting to the sea on the northeast shore. ",
+                "link" 
+                    "url" "Lake Sunder",
+                    "label" "Lake Sunder"
+            ,
+            "id" "31"
+        ,
+            "categoryId" "1",
+            "position" [
                 83.9414294754838,
                 84.58764869944075
             ],
-            "popup": {
-                "title": "Sunderstaad",
-                "description": "A small town located in the northern reaches of the kingdom of [[Gnarhelm]], situated on a small bay. ",
-                "link": {
-                    "url": "Sunderstaad",
-                    "label": "Sunderstaad"
-                }
-            },
-            "id": "32"
-        },
-        {
-            "categoryId": "1",
-            "position": [
+            "popup" 
+                "title" "Sunderstaad",
+                "description" "A small town located in the northern reaches of the kingdom of Gnarhelm, situated on a small bay. ",
+                "link" 
+                    "url" "Sunderstaad",
+                    "label" "Sunderstaad"
+            ,
+            "id" "32"
+        ,
+            "categoryId" "1",
+            "position" [
                 73.33171531372317,
                 76.45592071579544
             ],
-            "popup": {
-                "title": "Gnarhelm",
-                "description": "The capital city of the kingdom of the [[Gnarhelm|same name]], it was situated at the very center of Gnarhelm, on the southern end of [[Salmon Bay]]. ",
-                "link": {
-                    "url": " Gnarhelm (city)",
-                    "label": " Gnarhelm"
-                },
-                "image": "File:Gnarhelm.JPG"
-            },
-            "id": "33"
-        },
-        {
-            "categoryId": "6",
-            "position": [
+            "popup" 
+                "title" "Gnarhelm",
+                "description" "The capital city of the kingdom of the same name, it was situated at the very center of Gnarhelm, on the southern end of Salmon Bay. ",
+                "link" 
+                    "url" " Gnarhelm (city)",
+                    "label" " Gnarhelm"
+                ,
+                "image" "FileGnarhelm.JPG"
+            ,
+            "id" "33"
+        ,
+            "categoryId" "6",
+            "position" [
                 71.25515849349301,
                 82.20116331293615
             ],
-            "popup": {
-                "title": "Death's Door",
-                "description": "A landmark of note.",
-                "link": {
-                    "url": "Death's Door",
-                    "label": "Death's Door"
-                }
-            },
-            "id": "34"
-        },
-        {
-            "categoryId": "3",
-            "position": [
+            "popup" 
+                "title" "Deaths Door",
+                "description" "A landmark of note.",
+                "link" 
+                    "url" "Deaths Door",
+                    "label" "Deaths Door"
+            ,
+            "id" "34"
+        ,
+            "categoryId" "3",
+            "position" [
                 83.41214952312593,
                 76.94205662786119
             ],
-            "popup": {
-                "title": "Lisbunt Mountains",
-                "description": "A small mountain range in the northwestern corner of [[Alaron]], it was considered part of the kingdom of [[Gnarhelm]].",
-                "link": {
-                    "url": "Lisbunt Mountains",
-                    "label": "Lisbunt Mountains"
-                },
-                "image": "File:Fairheight-Mike Schley.png"
-            },
-            "id": "35"
-        },
-        {
-            "categoryId": "2",
-            "position": [
+            "popup" 
+                "title" "Lisbunt Mountains",
+                "description" "A small mountain range in the northwestern corner of Alaron, it was considered part of the kingdom of Gnarhelm.",
+                "link" 
+                    "url" "Lisbunt Mountains",
+                    "label" "Lisbunt Mountains"
+                ,
+                "image" "FileFairheight-Mike Schley.png"
+            ,
+            "id" "35"
+        ,
+            "categoryId" "2",
+            "position" [
                 87.03545181835675,
                 78.44465853788262
             ],
-            "popup": {
-                "title": "Lisloch",
-                "description": "A freshwater lake that abutted the [[Lisbunt Mountains]] on their southern and western shores. ",
-                "link": {
-                    "url": "Lisloch",
-                    "label": "Lisloch"
-                },
-                "image": "File:Fairheight-Mike Schley.png"
-            },
-            "id": "36"
-        },
-        {
-            "categoryId": "4",
-            "position": [
+            "popup" 
+                "title" "Lisloch",
+                "description" "A freshwater lake that abutted the Lisbunt Mountains on their southern and western shores. ",
+                "link" 
+                    "url" "Lisloch",
+                    "label" "Lisloch"
+                ,
+                "image" "FileFairheight-Mike Schley.png"
+            ,
+            "id" "36"
+        ,
+            "categoryId" "4",
+            "position" [
                 93.13586728912809,
                 81.80341574851872
             ],
-            "popup": {
-                "title": "Amarune",
-                "description": "A small island directly off the eastern coast of [[Alaron]], directly across from where the the unnamed river of the [[Lisloch]] emptied into the [[Sea of Swords]].",
-                "link": {
-                    "url": " Amarune (island)",
-                    "label": "Amarune"
-                },
-                "image": "File:Amarune.JPG"
-            },
-            "id": "37"
-        },
-        {
-            "categoryId": "4",
-            "position": [
+            "popup" 
+                "title" "Amarune",
+                "description" "A small island directly off the eastern coast of Alaron, directly across from where the the unnamed river of the Lisloch emptied into the Sea of Swords.",
+                "link" 
+                    "url" " Amarune (island)",
+                    "label" "Amarune"
+                ,
+                "image" "FileAmarune.JPG"
+            ,
+            "id" "37"
+        ,
+            "categoryId" "4",
+            "position" [
                 78.45829008617056,
                 73.31813437428013
             ],
-            "popup": {
-                "title": "Alaron",
-                "description": "Also known as '''Westshae''', was the largest and most populated isle in the Moonshaes.",
-                "link": {
-                    "url": "Alaron",
-                    "label": "Alaron"
-                },
-                "image": "File:Dungeon196-Mike Schley-Alaron.png"
-            },
-            "id": "38"
-        },
-        {
-            "categoryId": "2",
-            "position": [
+            "popup" 
+                "title" "Alaron",
+                "description" "Also known as Westshae, was the largest and most populated isle in the Moonshaes.",
+                "link" 
+                    "url" "Alaron",
+                    "label" "Alaron"
+                ,
+                "image" "FileDungeon196-Mike Schley-Alaron.png"
+            ,
+            "id" "38"
+        ,
+            "categoryId" "2",
+            "position" [
                 78.41595578739711,
                 77.07463914933368
             ],
-            "popup": {
-                "title": "Farfair River",
-                "description": "A river that originated where the [[Lisbunt Mountains|Lisbunt]] and the [[Fairheight Mountains]] met. It flowed west and then north around the base of Lisbunt before reaching [[Lake Sunder]]'s southern shore, continuing on to the [[Sea of Swords]]. ",
-                "link": {
-                    "url": "Farfair River",
-                    "label": "Farfair River"
-                },
-                "image": "File:Gnarhelm.JPG"
-            },
-            "id": "39"
-        },
-        {
-            "categoryId": "1",
-            "position": [
+            "popup" 
+                "title" "Farfair River",
+                "description" "A river that originated where the Lisbunt and the Fairheight Mountains met. It flowed west and then north around the base of Lisbunt before reaching Lake Sunders southern shore, continuing on to the Sea of Swords. ",
+                "link" 
+                    "url" "Farfair River",
+                    "label" "Farfair River"
+                ,
+                "image" "FileGnarhelm.JPG"
+            ,
+            "id" "39"
+        ,
+            "categoryId" "1",
+            "position" [
                 87.56631329711828,
                 72.96458098368687
             ],
-            "popup": {
-                "title": "Highrock",
-                "description": "A small mining town on the far northeast corner of the kingdom of [[Callidyrr]] within the county of [[Fairheight]]. ",
-                "link": {
-                    "url": "Highrock",
-                    "label": "Highrock"
-                },
-                "image": "File:Fairheight-Mike Schley.png"
-            },
-            "id": "40"
-        }
+            "popup" 
+                "title" "Highrock",
+                "description" "A small mining town on the far northeast corner of the kingdom of Callidyrr within the county of Fairheight. ",
+                "link" 
+                    "url" "Highrock",
+                    "label" "Highrock"
+                ,
+                "image" "FileFairheight-Mike Schley.png"
+            ,
+            "id" "40"
     ],
-    "markerProgress": false
-}
+    "markerProgress" false
 lumchv4tly5qkcm9mvri1wr3e7vlp4g
-
-

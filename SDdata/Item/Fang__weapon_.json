@@ -1,47 +1,5 @@
 {
-    "template_data": {
-        "3|ft|c|long": "yes"
-    },
     "document_data": {
-        "image": "Fang (weapon).png",
-        "caption": "",
-        "name": "Fang",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Weapon",
-        "creator": "",
-        "location": "[[Kara-Tur]]",
-        "basicrefs": "",
-        "value1e": "1 [[tael]]",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "",
-        "refs3e": "",
-        "level4e": "",
-        "value4e": "",
-        "weight4e": "",
-        "refs4e": "",
-        "rarity5e": "",
-        "attunement5e": "",
-        "school5e": "",
-        "level5e": "",
-        "value5e": "",
-        "weight5e": "",
-        "refs5e": "",
-        "communication": "",
-        "languages": "",
-        "alignment": "",
-        "sentientrefs": "",
-        "mainbody": "A '''fang''' was a weapon unique to the continent of [[Kara-Tur]].",
-        "Description": "A fang is a robust iron weapon, taking inspiration from the elephant goad. It was {{SI|3|ft|c|long=yes}} in length, similar to that of a [[short sword]]. At one end, there was a sharp point, complemented by a sturdy hooked point positioned just below it."
+        "mainbody": "fang was a weapon unique to the continent of Kara-Tur.\nA fang is a robust iron weapon, taking inspiration from the elephant goad. It was  in length, similar to that of a short sword. At one end, there was a sharp point, complemented by a sturdy hooked point positioned just below it."
     }
 }

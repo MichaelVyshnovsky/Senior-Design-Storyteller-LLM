@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Portal Reformat",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "[[Portal domain|Portal]]",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Portal domain|Portal]]|8}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,9 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Portal reformat''''' was a [[transmutation]] [[spell]] that could permanently modify the key-property of a ''[[portal]]''.",
-        "Effects": "Quite often, ''portals'' were keyed. This meant that a ''portal'' was intentionally built with the necessity for some prerequisites to be fulfilled for it to be used by someone. For example, the ''[[Ched Nasad portal]]'' could only be used by male [[drow]] who were also divine casters, when it came to the surface side of it, it was keyed to work only at night.{{Cite web/Perilous Gateways/Dark Elf Portals: The Ched Nasad Portal}} The ''portal reformat'' did one of three things. First, the caster could add an additional key to the ''portal''. Second, the caster could take away the key and turn the ''portal'' completely non-functional. Third, the caster could remove a key and turn the ''portal'' into one that could be used by everyone. When the ''portal'' in question was one that used the key to determine its destination, using the third option allowed the caster to apply a sole destination, effectively cutting off the ''portal's'' ability to connect to the other location.",
-        "Components": "''Portal reformat'' required [[somatic]] and [[verbal component]]s, a [[divine focus]], and the caster's essence to fuel the spell.",
-        "History": "By [[1372 DR]], a [[magic]]al [[staff]] called a ''[[staff of portals]]'' had been invented in the [[Underdark]] that could be used to cast the spell. It required the ''portal reformat'' spell to craft."
+        "mainbody": "Portal reformat was a transmutation spell that could permanently modify the key-property of a portal.\nQuite often, portals were keyed. This meant that a portal was intentionally built with the necessity for some prerequisites to be fulfilled for it to be used by someone. For example, the Ched Nasad portal could only be used by male drow who were also divine casters, when it came to the surface side of it, it was keyed to work only at night. The portal reformat did one of three things. First, the caster could add an additional key to the portal. Second, the caster could take away the key and turn the portal completely non-functional. Third, the caster could remove a key and turn the portal into one that could be used by everyone. When the portal in question was one that used the key to determine its destination, using the third option allowed the caster to apply a sole destination, effectively cutting off the portals ability to connect to the other location.\nPortal reformat required somatic and verbal components, a divine focus, and the casters essence to fuel the spell.\nBy 1372 DR, a magical staff called a staff of portals had been invented in the Underdark that could be used to cast the spell. It required the portal reformat spell to craft."
     }
 }

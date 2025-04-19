@@ -1,18 +1,7 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Tyche's touch",
-        "school": "[[Abjuration]]",
-        "level": "{{spell table|edition=3e|[[Cleric]]|2}}",
         "type": "",
         "rules": "3.5",
-        "mainbody": "Named for the ancient [[Tyche|goddess of luck]] who was split into [[Tymora]] and [[Beshaba]], '''''Tyche's touch''''' was a divine [[abjuration]] spell that granted either a protection or a curse to the target.",
-        "Effects": "The protection or curse from this spell lasted a day and either aided or harmed the target of the spell as circumstances affected them.",
-        "History": "Presumably this spell was first granted to clerics of [[Tyche]], but in later years divine spell casters of both [[Beshaba]] and [[Tymora]] were granted the spell.",
-        "References": "{{refs}}\n[[Category:Abjuration spells]]\n[[Category:Cleric spells]]\nhm91377q5ry6j3uh20mw8epyiyaqgg5"
+        "mainbody": "Named for the ancient goddess of luck who was split into Tymora and Beshaba, Tyches touch was a divine abjuration spell that granted either a protection or a curse to the target.\nThe protection or curse from this spell lasted a day and either aided or harmed the target of the spell as circumstances affected them.\nPresumably this spell was first granted to clerics of Tyche, but in later years divine spell casters of both Beshaba and Tymora were granted the spell.\nCategoryAbjuration spells\nCategoryCleric spells\nhm91377q5ry6j3uh20mw8epyiyaqgg5"
     }
 }

@@ -1,15 +1,5 @@
 {
-    "template_data": {
-        "10|mi|k|long": "yes"
-    },
     "document_data": {
-        "image": "Moray.jpg",
-        "caption": "A map of Moray showing the Last Head in the south.",
-        "name": "Last Head",
-        "aliases": "",
-        "type": "Cape",
-        "region": "[[Moray]], the [[Moonshae Isles]]",
-        "size": "{{SI|10|mi|k}} long",
         "elevation": "",
         "depth": "",
         "capital": "",
@@ -28,7 +18,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "The '''Last Head''' was a cape found on the island of [[Moray]] within the [[Moonshae Isles]].{{Cite dungeon/196/Backdrop: The Moonshae Isles}}",
-        "Geography": "The cape was located at the southern tip of Moray, jutting south from the [[Orcskull Mountains]] for {{SI|10|mi|k|long=yes}} into the [[Trackless Sea]] where the [[Strait of the Leviathan]] began. The [[Ossian Reefs]] curved around the Last Head."
+        "mainbody": "The Last Head was a cape found on the island of Moray within the Moonshae Isles.\nThe cape was located at the southern tip of Moray, jutting south from the Orcskull Mountains for  into the Trackless Sea where the Strait of the Leviathan began. The Ossian Reefs curved around the Last Head."
     }
 }

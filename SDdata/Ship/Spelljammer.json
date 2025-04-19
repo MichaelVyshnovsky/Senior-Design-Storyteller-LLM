@@ -1,37 +1,5 @@
 {
-    "template_data": {
-        "100|yd³|long": "yes",
-        "100000000|mi|d|k|h|long": "yes",
-        "1000|yd³|long": "yes"
-    },
     "document_data": {
-        "image": "Spelljammer-4e.jpg",
-        "caption": "A spelljammer on the [[Astral Plane]].",
-        "name": "Spelljammer",
-        "propername": "",
-        "aliases": "",
-        "type": "Spaceship, planar vessel",
-        "location": "",
-        "captain": "",
-        "notable crew": "",
-        "flag": "",
-        "built by": "",
-        "used by": "",
-        "value": "",
-        "basicrefs": "",
-        "tonnage": "",
-        "crew": "",
-        "armament": "",
-        "cargo": "",
-        "keel length": "",
-        "beam width": "",
-        "configrefs": "",
-        "usethe": "",
-        "useon": "",
-        "inhabitants": "",
-        "mainbody": "A '''spelljammer''' was a type of magically powered vessel that could travel great distances, even into the [[Sea of Night]]. Each ship had a magical [[spelljamming helm|helm]] or \"captains-chair\" that allowed a suitably powerful mage to pilot the ship.<ref> Some spelljammers were also capable of traveling to other [[Cosmology|planes of existence]].",
-        "Description": "Spelljammers varied enormously in design, but many contained common elements. One such element that was present in a variety of spelljammers were fan-shaped sails, or, if within a planet's atmosphere, the wind.\n\nThe size of spelljammers was typically measured as their \"tonnage\", which reflected the volume occupied by a ship in spatial tons and was different from the typical tonnage of seafaring ships. One spatial ton was equivalent to a volume of {{SI|100|yd³|long=yes}}.\n\nWhen traveling through the emptiness of [[wildspace]] or the flow of the phlogiston, away from large objects, spelljammers could reach a top speed of {{SIspeed|100000000|mi|d|k|h|long=yes}}. This meant that a trip from [[Toril]] to [[Selûne (moon)|Selûne]] could be completed in just over an hour, [[the Sun]] could be reached in two days, and the [[crystal sphere|crystal shell]] of [[Realmspace]] was 64 days away.\n\nThese high speeds, also called \"spelljamming speeds\", could not be maintained in the vicinity of a [[gravity plane]] or inside an [[Air envelope|atmosphere]]. Whenever approaching an object at least 10 spatial tons, or {{SI|1000|yd³|long=yes}} in volume, spelljammers immediately decelerated to much slower speeds, which were usually determined by the ship's size, the quality of the helm, and the pilot's magical capabilities.",
-        "History": "Spelljamming technology had existed for a very long time. For example, early historical accounts from the [[Second Age of Calimshan]] described three [[beholder]] colony ships crashing into the [[Alimir Mountains]] in [[Tarsakh]] of {{Yearlink|-2381}}. There were also myths from the same era about \"chariots in the air\" and \"monstrous flying birds and insects\" that led some scholars to postulate that these too were spelljamming craft.\n\nMany of these vessels (and vessels like them) still existed on [[Faerûn]] in the mid-14{{th}} century [[DR]].<ref> The elves of [[Evermeet]] maintained a small fleet of them.<ref>\n\nIn the late 15{{th}} century DR, spelljammers and [[astral ship]]s regularly delivered supplies to the [[githyanki]] inhabitants of [[Stardock]]. The asteroid was visited roughly once a month by spelljammers typically crewed by [[gnome]] traders, githyanki, or other races.\n\nAround the same time, the [[squid ship]]–class spelljammer ''[[Scavenger (spelljammer)|Scavenger]]'' was captured by [[Halaster]] and brought to the [[Caverns of Ooze]] level of [[Undermountain]].",
-        "Reputation": "Spelljamming was looked upon favorably by the [[Church of Akadi]], as its [[priest]]s saw value in it as a means of further spreading the faith.<ref> By contrast, the [[Church of Grumbar]] denounced spelljamming and would preach in public about its evils, believing that it was foolish of the people of Toril to explore the cosmos when there was still so much undiscovered on their own planet.<ref>\n\nOpenly flying a ''spelljammer'' over [[Waterdeep]] was generally frowned upon. It was was especially frowned upon by various [[Guild|guilds]], [[Noble|nobles]], and the [[Masked Lord|Masked Lords]], along with individuals such as [[Vajra Safahr]], [[Laeral Silverhand]], and the [[Xanathar]] (unless, of course, they were the ones who controlled the ''spelljammer'').{{Cite web/Ed Greenwood's Patreon/Spelljamming In Waterdeep}}"
+        "mainbody": "spelljammer was a type of magically powered vessel that could travel great distances, even into the Sea of Night. Each ship had a magical helm or \"captains-chair\" that allowed a suitably powerful mage to pilot the ship. Some spelljammers were also capable of traveling to other planes of existence.\nSpelljammers varied enormously in design, but many contained common elements. One such element that was present in a variety of spelljammers were fan-shaped sails, or, if within a planets atmosphere, the wind.\nThe size of spelljammers was typically measured as their \"tonnage\", which reflected the volume occupied by a ship in spatial tons and was different from the typical tonnage of seafaring ships. One spatial ton was equivalent to a volume of .\nWhen traveling through the emptiness of wildspace or the flow of the phlogiston, away from large objects, spelljammers could reach a top speed of . This meant that a trip from Toril to Selûne could be completed in just over an hour, the Sun could be reached in two days, and the crystal shell of Realmspace was 64 days away.\nThese high speeds, also called \"spelljamming speeds\", could not be maintained in the vicinity of a gravity plane or inside an atmosphere. Whenever approaching an object at least 10 spatial tons, or  in volume, spelljammers immediately decelerated to much slower speeds, which were usually determined by the ships size, the quality of the helm, and the pilots magical capabilities.\nSpelljamming technology had existed for a very long time. For example, early historical accounts from the Second Age of Calimshan described three beholder colony ships crashing into the Alimir Mountains in Tarsakh of . There were also myths from the same era about \"chariots in the air\" and \"monstrous flying birds and insects\" that led some scholars to postulate that these too were spelljamming craft.\nMany of these vessels (and vessels like them) still existed on Faerûn in the mid-14 century DR. The elves of Evermeet maintained a small fleet of them.\nIn the late 15 century DR, spelljammers and astral ships regularly delivered supplies to the githyanki inhabitants of Stardock. The asteroid was visited roughly once a month by spelljammers typically crewed by gnome traders, githyanki, or other races.\nAround the same time, the squid ship–class spelljammer Scavenger was captured by Halaster and brought to the Caverns of Ooze level of Undermountain.\nSpelljamming was looked upon favorably by the Church of Akadi, as its priests saw value in it as a means of further spreading the faith. By contrast, the Church of Grumbar denounced spelljamming and would preach in public about its evils, believing that it was foolish of the people of Toril to explore the cosmos when there was still so much undiscovered on their own planet.\nOpenly flying a spelljammer over Waterdeep was generally frowned upon. It was was especially frowned upon by various guilds, nobles, and the Masked Lords, along with individuals such as Vajra Safahr, Laeral Silverhand, and the Xanathar (unless, of course, they were the ones who controlled the spelljammer)."
     }
 }

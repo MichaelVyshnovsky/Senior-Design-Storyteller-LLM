@@ -1,27 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Rorrina Stoneshaft",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Melairrin]], [[Mount Sar]], [[northwest Faerûn]]",
-        "formerhomes": "",
-        "sex": "Female",
-        "gender": "",
-        "race": "[[Shield dwarf]] ([[undead]])",
-        "ethnicity": "",
-        "occupation": "",
-        "age": "",
-        "patron deity": "[[Abbathor]]",
-        "languages": "",
-        "basicrefs": "{{Cite web enhancement/Environs of Waterdeep|14}}{{Cite dungeon/128/Vampires of Waterdeep: The Fireplace Level|86}}",
         "reckoning": "",
         "dob": "",
         "dobnotes": "",
@@ -32,7 +10,7 @@
         "destroyed": "",
         "destroyednotes": "",
         "daterefs": "",
-        "parents": "[[Tuvala Stoneshaft]] (mother)",
+        "parents": "Tuvala Stoneshaft (mother)",
         "spouses": "",
         "siblings": "",
         "children": "",
@@ -53,9 +31,9 @@
         "challenge3e": "",
         "class3e": "",
         "refs3e": "",
-        "alignment35": "[[Chaotic evil]]",
+        "alignment35": "Chaotic evil",
         "challenge35": "",
-        "class35": "{{Class table|edition=3e|[[Cleric]]|10}}",
+        "class35": "",
         "refs35": "",
         "alignment4e": "",
         "class4e": "",
@@ -64,8 +42,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Rorrina Stoneshaft''' was a [[shield dwarf]] [[cleric]] of [[Abbathor]] that [[Artor Morlin]], the [[vampire]] lord of [[Waterdeep]], turned into one of his [[vampire spawn|spawn]]. ''Circa'' the {{YearlinkName|1372}}, she dwelled in the abandoned dwarven settlement of [[Melairrin]] in the depths of [[Mount Sar]] in the [[Sword Mountains]] just north of Waterdeep.",
-        "Relationships": "Rorrina was the [[Dwarvish dictionary#D|daul]] (daughter) of [[Tuvala Stoneshaft|Tuvala]] of [[Clan Stoneshaft]].",
-        "Rumors & Legends": "Rorrina was the source of many reports of a vampire lurking in the depths of the Sword Mountains."
+        "mainbody": "Rorrina Stoneshaft was a shield dwarf cleric of Abbathor that Artor Morlin, the vampire lord of Waterdeep, turned into one of his spawn. Circa the , she dwelled in the abandoned dwarven settlement of Melairrin in the depths of Mount Sar in the Sword Mountains just north of Waterdeep.\nRorrina was the daul (daughter) of Tuvala of Clan Stoneshaft.\nRorrina was the source of many reports of a vampire lurking in the depths of the Sword Mountains."
     }
 }

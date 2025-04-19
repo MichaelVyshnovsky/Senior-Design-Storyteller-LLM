@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Firestaff",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]]<br/>[[Elemental fire school|Fire]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|2|}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Firestaff''''' was a rare [[evocation]] [[spell]] that added magical flame to a wooden melee weapon.",
-        "Effects": "When cast, the spell created a brilliant sphere of blue flame on either end of a melee weapon made from wood. Items that this spell could be cast upon were a club, log, pole, staff, or a large branch from a tree. The spell lit both ends of the object; the caster was unable to light just one end. The fire vanished after the spell expired. The magical flame did not damage the weapon.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, the spell required [[material component]]s: a piece of [[phosphorous]] and [[iron filings]]. If phosphorous was unavailable, regular fire was an acceptable substitute.",
-        "History": "''Firestaff'' was one of the spells within ''[[Galadaster's Orizon]]''."
+        "mainbody": "Firestaff was a rare evocation spell that added magical flame to a wooden melee weapon.\nWhen cast, the spell created a brilliant sphere of blue flame on either end of a melee weapon made from wood. Items that this spell could be cast upon were a club, log, pole, staff, or a large branch from a tree. The spell lit both ends of the object the caster was unable to light just one end. The fire vanished after the spell expired. The magical flame did not damage the weapon.\nIn addition to verbal and somatic components, the spell required material components a piece of phosphorous and iron filings. If phosphorous was unavailable, regular fire was an acceptable substitute.\nFirestaff was one of the spells within Galadasters Orizon."
     }
 }

@@ -1,27 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Nahal.png",
-        "caption": "",
-        "name": "Nahal",
-        "alt_spelling": "",
-        "titles": "The Incorrigible",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "",
-        "formerhomes": "",
-        "sex": "",
-        "gender": "Female",
-        "race": "[[Human]]",
-        "ethnicity": "",
-        "occupation": "",
-        "age": "",
-        "patron deity": "",
-        "languages": "",
-        "basicrefs": "{{Cite card/AD&D Trading Cards/1993}}",
         "reckoning": "",
         "dob": "",
         "dobnotes": "",
@@ -46,8 +24,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Neutral good]]",
-        "class2e": "{{Class table|edition=2e|[[Wild mage]]|11}}",
+        "alignment2e": "Neutral good",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
@@ -64,10 +42,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Nahal''' was a [[wild mage]] and [[spell]] inventor.",
-        "Description": "Nahal the Incorrigible was the student of [[Hornung]], the \"king of the wild mages\". However, her teacher accidentally ended up on [[Oerth]], and Nahal set out on a search for him, even though she didn't know his location. and ''[[Nahal's nonsensical nullifier]]''.",
-        "Personality": "Always curious, Nahal experimented with how [[wild magic]] affected the Realms. The curious Nahal wanted to use her untamed powers for a good cause, and so used her knowledge of wild magic to help others control it.",
-        "Possessions": "The skilled wild mage owned a pair of ''[[bracers of defense]]'', a ''[[wand of wonder]]'', and a ''[[warp marble]]''.",
-        "Rumors & Legends": "Chants around [[Sigil]] claimed that Nahal (along with her teacher, Hornung) taught [[Quake]], a [[chaotic]] wild mage of the [[Xaositect]]s."
+        "mainbody": "Nahal was a wild mage and spell inventor.\nNahal the Incorrigible was the student of Hornung, the \"king of the wild mages\". However, her teacher accidentally ended up on Oerth, and Nahal set out on a search for him, even though she didnt know his location. and Nahals nonsensical nullifier.\nAlways curious, Nahal experimented with how wild magic affected the Realms. The curious Nahal wanted to use her untamed powers for a good cause, and so used her knowledge of wild magic to help others control it.\nThe skilled wild mage owned a pair of bracers of defense, a wand of wonder, and a warp marble.\nChants around Sigil claimed that Nahal (along with her teacher, Hornung) taught Quake, a chaotic wild mage of the Xaositects."
     }
 }

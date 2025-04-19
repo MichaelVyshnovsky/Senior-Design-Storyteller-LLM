@@ -1,24 +1,6 @@
-{{Creature
-| image        = BloodBloater.jpg
-| caption      = A swimming adventurer is met with a swarm of bloodbloaters.
-| name         = Bloodbloater
-| othernames   = 
-| size5e       = 
-| type5e       = 
-| subtype5e    = 
-| alignment5e  = 
-| challenge5e  = 
-| refs5e       = 
-| size4e       = 
-| origin4e     = 
-| type4e       = 
-| subtype4e    = 
-| alignment4e  = 
-| refs4e       = 
-| size3e       = {{Size table|Swarm|Medium|Solitary|Diminutive}}
-| type3e       = [[Ooze]]
-| subtype3e    = [[Aquatic]], [[Swarm]]
-| alignment3e  = Always [[neutral]]
+| type3e       = Ooze
+| subtype3e    = Aquatic, Swarm
+| alignment3e  = Always neutral
 | challenge3e  = 1
 | refs3e       = 
 | size2e       = 
@@ -29,7 +11,7 @@
 | refs1e       = 
 | patron deity = 
 | movement     = Swimming
-| vision       = [[Blindsight]]
+| vision       = Blindsight
 | activecycle  = 
 | diet         = Blood
 | lifespan     = 
@@ -41,7 +23,7 @@
 | terrain      = Water
 | genrefs      = 
 | height       = 
-| length       = {{SI|8|inch|c}}
+| length       = 
 | wingspan     = 
 | weight       = 
 | skincolor    = White, red
@@ -55,19 +37,9 @@
 | first        = 
 | based        = 
 | histrefs     = 
-}}
-A '''bloodbloater''' was a type of amphibious [[ooze]] that drained blood from its victims.
-
-==Description==
-A solitary bloodbloater was only {{SI|8|inch|c}} in diameter, though they almost always formed swarms. These swarms usually had about 650 bloodbloaters each, making them seem like a single medium-sized creature. Individual bloodbloaters were white-red in colour, and had particularly large central bulges. They became even redder in color after a blood feast.
-
-These amphibious creatures could walk on land, but were far quicker when swimming. As with many other oozes, bloodbloaters had [[blindsight]].
-
-==Combat==
-In combat, these oozes were able to rapidly drain blood from their foes. Never satisfied, they would continue to suck blood even after their small bodies could hold no more. The victims would take damage upon having their blood drained, become increasing weaker, and may even become nauseated. Spellcasters would find it much harder to concentrate on their [[spell]]s whilst taking on a swarm of bloodbloaters.
-
+A bloodbloater was a type of amphibious ooze that drained blood from its victims.
+A solitary bloodbloater was only  in diameter, though they almost always formed swarms. These swarms usually had about 650 bloodbloaters each, making them seem like a single medium-sized creature. Individual bloodbloaters were white-red in colour, and had particularly large central bulges. They became even redder in color after a blood feast.
+These amphibious creatures could walk on land, but were far quicker when swimming. As with many other oozes, bloodbloaters had blindsight.
+In combat, these oozes were able to rapidly drain blood from their foes. Never satisfied, they would continue to suck blood even after their small bodies could hold no more. The victims would take damage upon having their blood drained, become increasing weaker, and may even become nauseated. Spellcasters would find it much harder to concentrate on their spells whilst taking on a swarm of bloodbloaters.
 Bloodbloaters most often employed swarm tactics. This made them immune to spells that only affected a single target, as well as all weapons. The swarm was able to avoid critical blows, and flanking these creatures was futile.
-
-==History==
-In the 14{{th}} century [[DR]], bloodbloaters were known to lurk in the sewers of [[Waterdeep]].
-
+In the 14 century DR, bloodbloaters were known to lurk in the sewers of Waterdeep.

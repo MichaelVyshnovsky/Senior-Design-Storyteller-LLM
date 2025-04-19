@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "2|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Leomund's rod of shelter.png",
-        "caption": "",
-        "name": "''Leomund's Rod of Shelter''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Rod]]",
-        "location": "[[Daggerford]], [[Sword Coast]]<br/>[[Oerth]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|2|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Leomund's rod of shelter''''' was a magic [[rod]] created by the [[Archmage]] [[Leomund]] from the world of [[Oerth]].",
-        "Powers": "This enchanted rod opened a portal to an impenetrable by any other means pocket dimension allowing the wielder to safely rest and recuperate even in the most dangerous of locations.",
-        "History": "''Leomund's rod of shelter'' was crafted by the creator of ''[[Leomund's tiny hut]]'', Leomund of Oerth, who wanted an easier access to secure areas to rest in following exhausting battles. By [[1372 DR]], the rod was in possession of the [[Sorceller's Encapsulate]] of [[Daggerford]]."
+        "mainbody": "Leomunds rod of shelter was a magic rod created by the Archmage Leomund from the world of Oerth.\nThis enchanted rod opened a portal to an impenetrable by any other means pocket dimension allowing the wielder to safely rest and recuperate even in the most dangerous of locations.\nLeomunds rod of shelter was crafted by the creator of Leomunds tiny hut, Leomund of Oerth, who wanted an easier access to secure areas to rest in following exhausting battles. By 1372 DR, the rod was in possession of the Sorcellers Encapsulate of Daggerford."
     }
 }

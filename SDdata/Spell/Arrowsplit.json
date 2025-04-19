@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Arrowsplit",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Conjuration]] (Creation)",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Assassin]]|3|[[Justice of weald and woe]]|3|[[Ranger]]|3}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,9 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Arrowsplit''''' was a [[conjuration]] [[spell]].",
-        "Effects": "''Arrowsplit'' was not cast on a person but on an arrow or bolt of masterful quality. When this arrow or bolt was shot within six seconds after enchanted, two to five arrows or bolts of identical quality were created out of thin air, flying in the same direction towards the same target as the enchanted arrow or bolt. Whether the original arrow hit or not, the magic of the spell caused the enchanted projectile to be destroyed after it was shot. Shooting the arrow or bolt after the aforementioned six seconds caused nothing for the [[magic]] would have expired by that point.",
-        "Components": "''Arrowsplit'' required verbal component and material ones. The material component was the arrow or bolt to be enchanted.",
-        "History": "''Arrowsplit'' was the spell that allowed somebody with the necessary knowledge to craft a ''[[splitting (weapon quality)|splitting]] [[weapon]]''."
+        "mainbody": "Arrowsplit was a conjuration spell.\nArrowsplit was not cast on a person but on an arrow or bolt of masterful quality. When this arrow or bolt was shot within six seconds after enchanted, two to five arrows or bolts of identical quality were created out of thin air, flying in the same direction towards the same target as the enchanted arrow or bolt. Whether the original arrow hit or not, the magic of the spell caused the enchanted projectile to be destroyed after it was shot. Shooting the arrow or bolt after the aforementioned six seconds caused nothing for the magic would have expired by that point.\nArrowsplit required verbal component and material ones. The material component was the arrow or bolt to be enchanted.\nArrowsplit was the spell that allowed somebody with the necessary knowledge to craft a splitting weapon."
     }
 }

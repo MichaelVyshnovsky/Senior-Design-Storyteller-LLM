@@ -1,19 +1,6 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "code": "",
-        "title": "Come the Lion",
-        "publisher": "[[RPGA]]",
-        "designer": "[[Stephen H. Jay]] and [[Tom Prusa]]",
-        "editor": "",
-        "reviewer": "",
-        "also_credited": "",
-        "cover_artist": "",
-        "inter_artist": "",
-        "cartography": "",
-        "realm year": "The Year of Tigers Curse ([[1374 DR]]){{LJ}}",
-        "setting": "[[Living Jungle]]",
+        "setting": "Living Jungle",
         "edition1": "LJ",
         "debut1": "",
         "released1": "September 2001",
@@ -21,22 +8,13 @@
         "pages1": "20",
         "game_edition1": "3",
         "isbn1": "",
-        "play_time": "3&ndash;4 hours",
+        "play_time": "3&ndash4 hours",
         "rounds": "1",
         "players": "",
-        "levels": "6{{th}} – 12{{th}}",
+        "levels": "6 – 12",
         "series": "",
         "preceded_by": "",
         "followed_by": "",
-        "mainbody": "'''''Come the Lion''''' is an adventure module set in ''Malatra – Living Jungle'' using the ''Dungeons & Dragons'' 3{{rd}}-edition ruleset. It is part of the ''[[Living Jungle]]'' series of adventures published for the RPGA Network. It is an adventure designed for 6{{th}}- to 12{{th}}-level characters.\n{{Quote|''As [[Tiger (spirit)|Tiger]] has come, so shall the [[Vizerathu]], the spirit of the [[Lion]]. Yet Lion only appears to those who come to it pure of heart and purpose, with the strength to protect it and the courage to die for it and all of Malatra if need be. The Heroes Journey is upon you - across the jungles, plains and dreamlands to a place not quite in Malatra, but a part of it. There it waits in the [[Valley of the Lion]] guarded by a most unexpected protector. Stray from your path and you will be lost. Risk everything and win, and Malatra just might have a chance. An adventure for high (6th - 12th) level heroes only.''|}}",
-        "Summary": "{{stub}}",
-        "Index": {
-            "Characters": ":{{P|[[Bay-thol]]|2-3,19-20}} • {{P|[[Bengoukee]]|2-4,11,17-20}} • {{P|[[Borobar]]|11-12,16,19}} • {{P|[[Dorak]]|3,17-18,20}} • {{P|[[In-Zwy-Du-Tay]]|5-6}} • {{P|[[Kila]]|17}} • {{P|[[Kora]]|11}} • {{P|[[Litila]]|11}} • {{P|[[Mowrara]]|4,8-9}} • {{P|[[Pathfinder (person)]]|4,8,16-17}} • {{P|[[Provar]]|11}} • {{P|[[Rosh'shok]]|3,15,17-20}} • {{P|[[Syanya]]|5}} • {{P|[[Taradoc]]|10-11,16}} • {{P|[[Tiger (spirit)]]|2-3,5,14}} • {{P|[[Vizerathu]]|2-5,9-20}} • {{P|[[Wila]]|10-11}}\n::{{refonly}}\n::{{P|[[Ffft]]|3}} • {{P|[[In-Twy-Da-May-La]]|11}} • {{P|[[Kural]]|2-3,11}}",
-            "Creatures": ":{{P|[[air spirit]]|19}} • {{P|[[hyena katanga]]|2-3,6-8,16}} • {{P|[[Karr-Mosh]]|17}} • {{P|[[korobokuru]]|3}} • {{P|[[kretch]]|2-3,6,16,19}} • {{P|[[lion]]|11,16-17}} • {{P|[[lion katanga]]|3-4,6,10-12,15-18,20}} • {{P|[[Nubari]]|3,5,8-11,13}} • {{P|[[tantor]]|17}} • {{P|[[tiger katanga]]|4-6,9}}\n::{{refonly}}\n::{{P|[[ape]]|3,11}} • {{P|[[dinosaur]]|11}} • {{P|[[great spotted lion]]|11}} • {{P|[[oscray]]|3,10}} • {{P|[[saru]]|3,8-9}} • {{P|[[tantor]]|8}} • {{P|[[The Ancients]]|15}}",
-            "Locations": ":{{P|[[Council of Elders (Malatra)|Council of Elders]]|5}} • {{P|[[Dreamlands]]|4,8,10,15}} • {{P|[[Great Rift (Malatra)]]|4,6,8,16}} • {{P|[[Great Trade Way]]|2,4,8,16-17}} • {{P|[[Hyena Katanga Lands]]|4}} • {{P|[[Malatra]]|2-4,9-16}} • {{P|[[Rayanna Savannah]]|4-5,18}} • {{P|[[Simbar]]|5}} • {{P|[[Temple of the Lion]]|2,10-11}} • {{P|[[Tontor Graveyard]]|4}} • {{P|[[Valley of Kang]]|3-4,8}} • {{P|[[Valley of the Lion]]|2-5,8-10}} • {{P|[[Village of Bagoomba]]|19}}\n::{{refonly}}\n::{{P|[[Blood Bridge]]|15}}",
-            "Magic": ":;Spells\n::{{P|''[[acid arrow]]''|4,7}} • {{P|''[[acid fog]]''|4}} • {{P|''[[anti-magic field]]''|9}} • {{P|''[[bane (spell)]]''|8}} • {{P|''[[barkskin]]''|4}} • {{P|''[[black tentacles]]''|4}} • {{P|''[[bless]]''|4}} • {{P|''[[blindness/deafness]]''|4}} • {{P|''[[blink]]''|4}} • {{P|''[[bull's strength]]''|8}} • {{P|''[[burning hands]]''|4}} • {{P|''[[call lightning]]''|4}} • {{P|''[[cause fear]]''|8}} • {{P|''[[charm person]]''|4,7}} • {{P|''[[clairaudience/clairvoyance]]''|4}} • {{P|''[[cloudkill]]''|4}} • {{P|''[[command]]''|4}} • {{P|''[[confusion]]''|4}} • {{P|''[[cone of cold]]''|4}} • {{P|''[[color spray]]''|4}} • {{P|''[[cure critical wounds]]''|4}} • {{P|''[[cure light wounds]]''|4,8}} • {{P|''[[dancing lights]]''|7}} • {{P|''[[darkvision (spell)]]''|4}} • {{P|''[[daze]]''|7}} • {{P|''[[death knell]]''|8}} • {{P|''[[detect secret doors]]''|4}} • {{P|''[[dispel magic]]''|4,9}} • {{P|''[[displacement]]''|4}} • {{P|''[[doom]]''|8}} • {{P|''[[emotion]]''|4}} • {{P|''[[enervation]]''|4}} • {{P|''[[entangle]]''|4}} • {{P|''[[entropic shield]]''|8}} • {{P|''[[fear]]''|4}} • {{P|''[[feather fall]]''|4}} • {{P|''[[flame arrow]]''|4}} • {{P|''[[flaming sphere]]''|4}} • {{P|''[[flare]]''|7}} • {{P|''[[fly]]''|4,9}} • {{P|''[[ghost sound]]''|7}} • {{P|''[[guidance]]''|8}} • {{P|''[[haste]]''|9}} • {{P|''[[hideous laughter]]''|7}} • {{P|''[[hold person]]''|4,8}} • {{P|''[[identify]]''|4}} • {{P|''[[inflict minor wounds]]''|8}} • {{P|''[[interposing hand]]''|4}} • {{P|''[[invisibility]]''|4}} • {{P|''[[mage armor]]''|4,7}} • {{P|''[[magic missle]]''|7,9}} • {{P|''[[misdirection]]''|4}} • {{P|''[[move earth]]''|4}} • {{P|''[[plant growth]]''|4}} • {{P|''[[protection from arrows]]''|9}} • {{P|''[[polymorph other]]''|4}} • {{P|''[[ray of enfeeblement]]''|4}} • {{P|''[[resistance]]''|8}} • {{P|''[[sanctuary]]''|4}} • {{P|''[[shield]]''|4,7}} • {{P|''[[silence]]''|8}} • {{P|''[[slow]]''|4,9}} • {{P|''[[speak with animals]]''|4}} • {{P|''[[spell immunity]]''|4}} • {{P|''[[spike growth]]''|4}} • {{P|''[[sleep]]''|4}} • {{P|''[[stoneskin]]''|4,9}} • {{P|''[[summon monster VII]]''|4}} • {{P|''[[ray of frost]]''|7}} • {{P|''[[tongues]]''|4}} • {{P|''[[virtue]]''|8}} • {{P|''[[wall of fire]]''|4}} • {{P|''[[web]]''|4}}\n:;Others\n::{{P|''[[spell fetish]]''|20}}",
-            "Organizations": ":{{P|[[Northern Clan]]|6}} • {{P|[[Simbara]]|2-3,5,16}} • {{P|[[Tamara (Malatra)]]|2-4,10-11,15-20}} • {{P|[[Tribe of Former Chief Bagoomba]]|5,19}} • {{P|[[witch doctor]]s|7}}\n::{{refonly}}\n::{{P|[[Great White Saru]]|3}} • {{P|[[hedge wizard]]s|12}} • {{P|[[Katimaya]]|2}}",
-            "Miscellaneous": ":{{P|[[Amaranthus]]|2-3,10-12,16-17}} • {{P|[[bee's wax]]|10}} • {{P|[[ceramic]]|11,20}} • {{P|[[Ceremony of the Lion]]|5}} • {{P|[[granite]]|8}} • {{P|[[Malatran Common]]|10}} • {{P|[[papyrus]]|10}} • {{P|[[patchouli]]|11}} • {{P|[[rose]]|11}} • {{P|[[scented oil]]|11}} • {{P|[[silk]]|10}} • {{P|[[skiri]]|10-11}} • {{P|[[soap]]|11}} • {{P|[[tattoo]]|5,11}} • {{P|[[The Return]]|16}} • {{P|[[vanilla]]|11}}\n::{{refonly}}\n::{{P|[[ballista]]|3,10}} • {{P|[[Mugarra]]|3}}"
-        }
+        "mainbody": "Come the Lion is an adventure module set in Malatra – Living Jungle using the Dungeons & Dragons 3-edition ruleset. It is part of the Living Jungle series of adventures published for the RPGA Network. It is an adventure designed for 6- to 12-level characters.\n •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  • \n •  • \n •  •  •  •  •  •  •  •  • \n •  •  •  •  •  • \n •  •  •  •  •  •  •  •  •  •  •  • \nSpells\n •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  • \nOthers\n •  •  •  • \n •  • \n •  •  •  •  •  •  •  •  •  •  •  •  •  •  • \n •"
     }
 }

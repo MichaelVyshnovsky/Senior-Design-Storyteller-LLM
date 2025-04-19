@@ -1,23 +1,8 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Dynarth Bloodcowl",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "Reaver Lord",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Westgate]], [[Dragon Coast]]",
-        "formerhomes": "",
-        "race": "[[Human]]",
-        "class": "{{class table|edition=2e|[[Cleric]]|7}}",
         "gender": "",
         "age": "",
-        "patron deity": "[[Garagos]]",
+        "patron deity": "Garagos",
         "languages": "",
         "reckoning": "DR",
         "dob": "",
@@ -26,7 +11,6 @@
         "deathnotes": "",
         "destroyed": "",
         "destroyednotes": "",
-        "mainbody": "rules          =\n}}\n'''Dynarth Bloodcowl''' was the most lethal [[Church of Garagos|Garagathan]] [[assassin]] of the [[Night Masks]] in [[1370 DR]].",
-        "History": "Although nearly totally lacking in stealth and discretion, Dynarth remained one of the top assassins of [[Westgate]]. He was not necessarily hired to kill a dangerous enemy, but rather to send a brutal message to the victim's associates."
+        "mainbody": "| rules          =\nDynarth Bloodcowl was the most lethal Garagathan assassin of the Night Masks in 1370 DR.\nAlthough nearly totally lacking in stealth and discretion, Dynarth remained one of the top assassins of Westgate. He was not necessarily hired to kill a dangerous enemy, but rather to send a brutal message to the victims associates."
     }
 }

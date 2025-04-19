@@ -1,24 +1,6 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "variant": "cantrip"
-    },
     "document_data": {
-        "image": "Thaumaturgy 5e.png",
-        "caption": "",
-        "name": "Thaumaturgy",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Transmutation]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "{{Spell table|edition=5e|variant=cantrip|[[Cleric]]|0}}",
-        "type5e": "[[Cantrip]]",
+        "type5e": "Cantrip",
         "refs5e": "",
         "feature4e": "",
         "keywords4e": "",
@@ -44,8 +26,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Thaumaturgy''''' was a [[cantrip]] used by [[cleric]]s.",
-        "Effects": "When cast, a minor wonder was manifested within 30 feet (9 meters) of the caster. The caster was able to simultaneously cast three wonders out of six. Each wonder lasted approximately for one minute. The caster was able to amplify their voice, manipulate a fire's brightness and color, create minor tremors in the ground, produce ventriloquism of sounds, cause doors or windows to close or open, or alter the appearance of their eyes.",
-        "Components": "This spell required only a [[Verbal component|verbal]] component."
+        "mainbody": "Thaumaturgy was a cantrip used by clerics.\nWhen cast, a minor wonder was manifested within 30 feet (9 meters) of the caster. The caster was able to simultaneously cast three wonders out of six. Each wonder lasted approximately for one minute. The caster was able to amplify their voice, manipulate a fires brightness and color, create minor tremors in the ground, produce ventriloquism of sounds, cause doors or windows to close or open, or alter the appearance of their eyes.\nThis spell required only a verbal component."
     }
 }

@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Sense Shifting",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|2}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Sense shifting''''' was an [[alteration]] [[spell]] used by [[wizard]]s.",
-        "Effects": "This spell allowed the caster to affect the color, sound or visual appearance of any subsequent elementary spell that they cast within the spell's duration. These sensory changes did not have any effect on the spell's general function, but a wizard could achieve quite a spectacular spell display with some creativity. It should be noted that though the sensory output of a spell could be changed, it could not be removed completely. Thus, it was possible to cast a dim ''[[fireball]]'', but not an invisible one.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, this spell required a twist of multicolored ribbon with a small [[silver]] bell to cast."
+        "mainbody": "Sense shifting was an alteration spell used by wizards.\nThis spell allowed the caster to affect the color, sound or visual appearance of any subsequent elementary spell that they cast within the spells duration. These sensory changes did not have any effect on the spells general function, but a wizard could achieve quite a spectacular spell display with some creativity. It should be noted that though the sensory output of a spell could be changed, it could not be removed completely. Thus, it was possible to cast a dim fireball, but not an invisible one.\nIn addition to verbal and somatic components, this spell required a twist of multicolored ribbon with a small silver bell to cast."
     }
 }

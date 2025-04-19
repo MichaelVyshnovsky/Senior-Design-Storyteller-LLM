@@ -1,21 +1,11 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "name": "Jharak Erlshade",
-        "aliases": "",
-        "home": "[[Everlund]]",
-        "sex": "Male",
-        "race": "[[Elf]]",
-        "class": "{{Class table|edition=2e|[[Ranger]]|15}}",
         "rules": "2nd",
-        "alignment": "[[Lawful good]]",
+        "alignment": "Lawful good",
         "dob": "",
         "age": "",
-        "source": "[[The North: Guide to the Savage Frontier|N:GSF]]",
+        "source": "NGSF",
         "page": "55",
-        "mainbody": "Elder '''Jharak Erlshade''' was the representative of [[Everlund]] in the [[Council of 12 Peers]]."
+        "mainbody": "Elder Jharak Erlshade was the representative of Everlund in the Council of 12 Peers."
     }
 }

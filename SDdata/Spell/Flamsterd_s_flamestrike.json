@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Flamsterd's Flamestrike",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]], [[Elemental fire school|Fire]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|4}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Flamsterd's flamestrike''''' was a rare and specialized fire spell that was used either as an offensive spell or a trap.",
-        "Effects": "The spell created a spiral of fire around a single target. The spell interrupted any spellcasting by the target and caused damage even if the target was magically protected from fire. The spell could strike a target within 10 yards (9 meters) from the caster.\n\nWhen used as a trap, the spell had to be cast on a piece of metal, such as a coin. The caster then set a series of triggering conditions, similar to ''[[magic mouth]]''. These conditions could not involve actions such as entering an area or casting a spell. The trap was immune to magical detection spells, and could only be detected magically if the target was considering an action that was also a triggering condition.\n\nThe trap lasted indefinitely until one of the triggering conditions was met. If ''[[dispel magic]]'' was cast on the trap, the spell was negated. The trap only targeted a single creature, chosen at random. The spell could strike a target within 10 yards (9 meters) from the trap.",
-        "Components": "In addition to [[verbal]] and [[somatic component]]s, this spell required several [[material component]]s. The caster needed a pinch of both [[saltpeter]] and ash, a small piece of filing of any metal, and a piece of [[phosphorous]]."
+        "mainbody": "Flamsterds flamestrike was a rare and specialized fire spell that was used either as an offensive spell or a trap.\nThe spell created a spiral of fire around a single target. The spell interrupted any spellcasting by the target and caused damage even if the target was magically protected from fire. The spell could strike a target within 10 yards (9 meters) from the caster.\nWhen used as a trap, the spell had to be cast on a piece of metal, such as a coin. The caster then set a series of triggering conditions, similar to magic mouth. These conditions could not involve actions such as entering an area or casting a spell. The trap was immune to magical detection spells, and could only be detected magically if the target was considering an action that was also a triggering condition.\nThe trap lasted indefinitely until one of the triggering conditions was met. If dispel magic was cast on the trap, the spell was negated. The trap only targeted a single creature, chosen at random. The spell could strike a target within 10 yards (9 meters) from the trap.\nIn addition to verbal and somatic components, this spell required several material components. The caster needed a pinch of both saltpeter and ash, a small piece of filing of any metal, and a piece of phosphorous."
     }
 }

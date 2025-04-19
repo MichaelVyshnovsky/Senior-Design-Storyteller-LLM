@@ -1,31 +1,8 @@
 {
     "document_data": {
-        "image": "",
-        "caption2": "Various depictions of falcons",
-        "name": "Falcon",
-        "size5e": "Tiny",
-        "type5e": "[[Beast]]",
-        "subtype5e": "",
-        "alignment5e": "[[Unaligned]]",
-        "challenge5e": "0",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "",
-        "type3e": "",
-        "subtype3e": "",
-        "alignment3e": "",
-        "challenge3e": "",
-        "refs3e": "",
-        "size2e": "Small",
-        "alignment2e": "[[Neutral]]{{Nil-alignment}}",
-        "refs2e": "{{Cite dragon/155/Sage Advice|86}}",
+        "refs2e": "",
         "size1e": "Small",
-        "alignment1e": "[[Neutral]]",
+        "alignment1e": "Neutral",
         "refs1e": "",
         "patron deity": "",
         "vision": "",
@@ -37,7 +14,7 @@
         "subraces": "",
         "climate": "",
         "terrain": "",
-        "height": "{{SIrange|2|3|ft|c}}",
+        "height": "",
         "length": "",
         "wingspan": "",
         "weight": "",
@@ -48,17 +25,8 @@
         "eyecolor": "",
         "build": "",
         "distinctions": "",
-        "based": "[[wikipedia:en:Falcon|Falcon]]",
+        "based": "Falcon",
         "first": "",
-        "mainbody": "'''Falcons''' were small birds of prey, often used in hunting.",
-        "Description": "Falcons looked similar to [[hawk]]s but were smaller in size.",
-        "Ecology": {
-            "Diet": "Falcons were obligate carnivores. Larger falcons were known to prey on small [[humanoid]]s."
-        },
-        "Habitat": {
-            "Relationshps": "Falcons were a favored animal of the [[Mulhorandi pantheon|Mulhorandi]] god [[Anhur]] and the [[halfling]] god [[Arvoreen]]. They were sacred to the goddesses [[Milil]] and [[Red Knight]] as well.{{Cite web enhancement/Deity Do's and Don'ts|10,13}} \n\n[[Moon elf|Moon elves]] had a special fondness for falcons and often kept them as pets. [[Centaur]]s within the forest of [[Cormanthor]] kept small flocks of falcons for use as guards and scouts.<ref> In some [[human]] lands, such as [[Cormyr]], formal education among the aristocracy included falconry. Some [[ranger]]s kept falcons as animal companions.{{Cite dungeon/75/Into the Nest of Vipers|66}}",
-            "Usages": "At the market, a well-trained falcon could be sold for up to 1,000 [[gp]]."
-        },
-        "Notable Falcons": "* Gale, the companion of [[Dura Gerathu]]\n* [[Sable (falcon)|Sable]], the companion of [[Keren Donnell]]"
+        "mainbody": "Falcons were small birds of prey, often used in hunting.\nFalcons looked similar to hawks but were smaller in size.\nFalcons were obligate carnivores. Larger falcons were known to prey on small humanoids.\nFalcons made their nest in trees and in underground burrows. \nFalcons were a favored animal of the Mulhorandi god Anhur and the halfling god Arvoreen. They were sacred to the goddesses Milil and Red Knight as well. \nMoon elves had a special fondness for falcons and often kept them as pets. Centaurs within the forest of Cormanthor kept small flocks of falcons for use as guards and scouts. In some human lands, such as Cormyr, formal education among the aristocracy included falconry. Some rangers kept falcons as animal companions.\nAt the market, a well-trained falcon could be sold for up to 1,000 gp.\n* Gale, the companion of Dura Gerathu\n* Sable, the companion of Keren Donnell"
     }
 }

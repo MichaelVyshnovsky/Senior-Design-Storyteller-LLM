@@ -1,17 +1,5 @@
 {
-    "template_data": {
-        "30|feet|long": "yes"
-    },
     "document_data": {
-        "image": "Daggersword.png",
-        "caption": "[[Xenk Yendar]]'s daggersword.",
-        "name": "''Daggersword''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Magic]] [[weapon]]",
-        "creator": "",
-        "location": "",
-        "basicrefs": "{{Cite web/D&D Beyond/Thieves' Gallery}}",
         "value1e": "",
         "weight1e": "",
         "refs1e": "",
@@ -41,8 +29,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "A '''''daggersword''''' was an [[enchanted]] [[longsword]] that could come apart into both a [[dagger]] and a [[shortsword]].",
-        "Powers": "The wielder of a ''daggersword'' could quickly shift its form back-and-forth between the single long blade and the dual shorter blades, choosing the configuration that most suited their needs in combat.{{Cite video/Honor Among Thieves}}\n\nWhile in its longsword form, the long blade could be launched off the hilt with enough force to impale a target from {{SI|30|feet|long=yes}} away, and potentially knock them over. This left the wielder holding only the dagger portion, however the full blade would soon [[magic]]ally return and reattach to the ''daggersword''.",
-        "Notable Owners": "[[File:Xenk sword.jpg|thumb|right|350px|''Xenk Yendar empowering his ''daggersword'' with [[radiant energy]].'']]\n* [[Xenk Yendar]], a [[Thayan]] [[paladin]] active on the [[Sword Coast]] as of the late 15{{th}} century [[DR]]. The blade of his ''daggersword'' was inscribed with the words \"Neither Virtue Nor Blade Shall Break\" in [[Celestial language|Celestial script]]."
+        "mainbody": "A daggersword was an enchanted longsword that could come apart into both a dagger and a shortsword.\nThe wielder of a daggersword could quickly shift its form back-and-forth between the single long blade and the dual shorter blades, choosing the configuration that most suited their needs in combat.\nWhile in its longsword form, the long blade could be launched off the hilt with enough force to impale a target from  away, and potentially knock them over. This left the wielder holding only the dagger portion, however the full blade would soon magically return and reattach to the daggersword.\nthumb|right|350px|Xenk Yendar empowering his daggersword with radiant energy.\n* Xenk Yendar, a Thayan paladin active on the Sword Coast as of the late 15 century DR. The blade of his daggersword was inscribed with the words \"Neither Virtue Nor Blade Shall Break\" in Celestial script."
     }
 }

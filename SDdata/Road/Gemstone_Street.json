@@ -1,19 +1,10 @@
 {
-    "template_data": {
-        "300|ft|long": "yes"
-    },
     "document_data": {
-        "image": "NWZhentilKeep.JPG",
-        "caption": "A map showing Gemstone Street in northwest Zhentil Keep.",
-        "name": "Gemstone Street",
-        "type": "Street",
-        "aliases": "",
-        "length": "{{SI|300|ft}}",
         "width": "",
         "pavement": "",
-        "location": "The [[Zhentil Keep/Common Quarter|Common Quarter]], [[Zhentil Keep]]",
-        "starts": "[[Warrior Street]]",
-        "ends": "The [[Zhentil Keep/Inner Quarter|Inner Quarter]] wall",
+        "location": "The Common Quarter, Zhentil Keep",
+        "starts": "Warrior Street",
+        "ends": "The Inner Quarter wall",
         "built": "",
         "refs": "",
         "daggers": "",
@@ -26,8 +17,6 @@
         "roads": "yes",
         "bodies of water": "",
         "events": "",
-        "mainbody": "'''Gemstone Street''' was a small road located in the city of [[Zhentil Keep]] during the mid-14{{th}} century [[DR]].",
-        "Location": "Gemstone Street was found within northwest Zhentil Keep in the [[Zhentil Keep/Common Quarter|Common Quarter]]. It branched from [[Warrior Street]] in the north and terminated a short distance away in the south at the barrier separating the [[Zhentil Keep/Inner Quarter|Inner Quarter]] from the Common Quarter.",
-        "Description": "It was one of Zhentil Keep's smaller streets at roughly {{SI|300|ft|long=yes}} in length."
+        "mainbody": "Gemstone Street was a small road located in the city of Zhentil Keep during the mid-14 century DR.\nGemstone Street was found within northwest Zhentil Keep in the Common Quarter. It branched from Warrior Street in the north and terminated a short distance away in the south at the barrier separating the Inner Quarter from the Common Quarter.\nIt was one of Zhentil Keeps smaller streets at roughly  in length."
     }
 }

@@ -1,28 +1,8 @@
 {
-    "template_data": {
-        "0.5|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Elven keepsake necklace.png",
-        "caption": "",
-        "name": "''Soliana's Necklace''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Amulet]]",
-        "location": "[[Lizard Marsh]], [[Delimbiyr Vale]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "3{{rd}}",
         "itemlevel3e": "",
         "value3e": "",
-        "weight3e": "{{SI|0.5|lb|k|long=yes}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,9 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Soliana's necklace''''' was an [[enchanted]] piece of jewelry gifted to \"Princess\" [[Soliana]] by her adoptive mother—the [[Green Hag of Lizard Marsh]] in the 14{{th}} century [[DR]].",
-        "Description": "The necklace was a simple small [[gold]]en [[amulet]].",
-        "Powers": "This unique magic amulet contained strong [[hag]] magic that, once activated, could transform Soliana back to her original form of a [[hawk]]. When creatures other than Soliana wore her necklace, they did not ''[[polymorph]]'' into a hawk but rather gained enhanced abilities of a bird of prey. The wearer received the boon of hawk's alertness, its superb hearing, eyesight, and magically had their charisma improved. Additionally, the wearer could cast the ''[[eagle's splendor]]'' [[spell]] once per day.",
-        "History": "In the {{YearlinkName|1372}}, a young \"Princess\" captured the heart of Sir [[Griswald]] and a corrupt money-hungry noble scion named [[Feldran Exeltis]]. The woman was captured via lies and hollow promises by the nobleman and kept in [[Castle Exeltis]]. Unbeknownst to most, the princess from a faraway exotic land was a ''polymorphed'' hawk and adopted daughter of the Green Hag of Lizard Marsh. Soliana's swamp-dwelling parent made this enchanted necklace in case she ever wanted to abandon the human shape and return to the simple life of a hawk. Soliana kept the necklace close to her heart, ready to transform herself into a bird. Some stories claimed that Soliana used the amulet's magic to escape imprisonment, while others talked about a more romantic fate–the woman reunited with her lover Sir Griswald and embraced humanity. If this was indeed true, she was said to have gifted the magic necklace to the [[Hero of Daggerford]] who helped Sir Griswald to bring Feldran Exeltis to justice."
+        "mainbody": "Solianas necklace was an enchanted piece of jewelry gifted to \"Princess\" Soliana by her adoptive mother—the Green Hag of Lizard Marsh in the 14 century DR.\nThe necklace was a simple small golden amulet.\nThis unique magic amulet contained strong hag magic that, once activated, could transform Soliana back to her original form of a hawk. When creatures other than Soliana wore her necklace, they did not polymorph into a hawk but rather gained enhanced abilities of a bird of prey. The wearer received the boon of hawks alertness, its superb hearing, eyesight, and magically had their charisma improved. Additionally, the wearer could cast the eagles splendor spell once per day.\nIn the , a young \"Princess\" captured the heart of Sir Griswald and a corrupt money-hungry noble scion named Feldran Exeltis. The woman was captured via lies and hollow promises by the nobleman and kept in Castle Exeltis. Unbeknownst to most, the princess from a faraway exotic land was a polymorphed hawk and adopted daughter of the Green Hag of Lizard Marsh. Solianas swamp-dwelling parent made this enchanted necklace in case she ever wanted to abandon the human shape and return to the simple life of a hawk. Soliana kept the necklace close to her heart, ready to transform herself into a bird. Some stories claimed that Soliana used the amulets magic to escape imprisonment, while others talked about a more romantic fate–the woman reunited with her lover Sir Griswald and embraced humanity. If this was indeed true, she was said to have gifted the magic necklace to the Hero of Daggerford who helped Sir Griswald to bring Feldran Exeltis to justice."
     }
 }

@@ -1,15 +1,5 @@
 {
-    "template_data": {
-        "100|mi|k|long": "yes"
-    },
     "document_data": {
-        "image": "Northern Moonshaes.jpg",
-        "caption": "A map showing the Swanmay River on Alaron.",
-        "name": "Swanmay River",
-        "aliases": "",
-        "type": "River",
-        "region": "[[Callidyrr]], [[Alaron]]",
-        "size": "{{SI|100|mi|k}} long",
         "depth": "",
         "river source": "",
         "river mouth": "",
@@ -28,8 +18,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "The '''Swanmay River''' was a prominent river located within the kingdom of [[Callidyrr]] on the island of [[Alaron]] in the [[Moonshae Isles]].{{Cite interactive atlas}}{{Cite dungeon/196/Backdrop: Moonshae Isles}}",
-        "Geography": "The river originated in far northern Callidyrr in the [[Fairheight Range]] near the border with [[Gnarhelm]]. The river flowed south into the [[Dernall Forest]], winding its way through the wood to exit in the forest's southeast corner where it continued to flow east to empty into the [[Sea of Swords]] between [[Torriage Wood]] and the [[Tearglade]]. In all the Swanmay River stretched for over {{SI|100|mi|k|long=yes}} through Callidyrr.",
-        "Notable Locations": "* [[Blackstone]]\n* [[Horsa]]"
+        "mainbody": "The Swanmay River was a prominent river located within the kingdom of Callidyrr on the island of Alaron in the Moonshae Isles.\nThe river originated in far northern Callidyrr in the Fairheight Range near the border with Gnarhelm. The river flowed south into the Dernall Forest, winding its way through the wood to exit in the forests southeast corner where it continued to flow east to empty into the Sea of Swords between Torriage Wood and the Tearglade. In all the Swanmay River stretched for over  through Callidyrr.\n* Blackstone\n* Horsa"
     }
 }

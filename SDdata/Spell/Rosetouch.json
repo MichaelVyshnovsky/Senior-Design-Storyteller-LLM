@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Rosetouch",
-        "deity": "[[Lathander]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Creation sphere|Creation]], [[Protection sphere|Protection]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|2|}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Rosetouch''''' was a [[spell]] that was commonly used by [[cleric]]s of [[Lathander]].",
-        "Effects": "This spell allowed a caster to repair any single item. When cast, the caster's hand emitted a brilliant rose light. The caster then touched a specific item to repair. The spell could also be used to mend injuries but it could not restore life-force. As the item was being mended, the rose light pulsed until the item was repaired. This spell could not be used to restore magical properties to a [[magical item]] or [[weapon]].",
-        "Components": "This spell required only [[Verbal component|verbal]] and [[somatic component|somatic]] components."
+        "mainbody": "Rosetouch was a spell that was commonly used by clerics of Lathander.\nThis spell allowed a caster to repair any single item. When cast, the casters hand emitted a brilliant rose light. The caster then touched a specific item to repair. The spell could also be used to mend injuries but it could not restore life-force. As the item was being mended, the rose light pulsed until the item was repaired. This spell could not be used to restore magical properties to a magical item or weapon.\nThis spell required only verbal and somatic components."
     }
 }

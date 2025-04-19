@@ -1,44 +1,9 @@
 {
-    "template_data": {
-        "0.1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Laculite.png",
-        "caption": "",
-        "name": "Laculite",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Gem]]",
-        "location": "[[Underdark]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "",
-        "refs3e": "",
-        "level4e": "",
-        "value4e": "",
-        "weight4e": "",
-        "rarity5e": "",
-        "attunement5e": "",
-        "school5e": "",
-        "level5e": "",
-        "value5e": "9 [[gp]]",
-        "weight5e": "{{SI|0.1|lb|k|long=yes}}",
         "refs5e": "",
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''Laculite''' was a precious aquamarine-colored [[crystal]] found in the waters of the [[Underdark]].",
-        "Description": "Laculite crystals formed in subterranean lakes and water pools of Underdark. Even though they were considered to be cheaper than [[ruby|rubies]], [[svirfneblin]] often mined laculites.",
-        "Usages": "A suspension could be extracted from laculites through [[alchemy]]. This suspension of laculite could be used to brew ''[[greater elixirs of arcane cultivation]]''."
+        "mainbody": "Laculite was a precious aquamarine-colored crystal found in the waters of the Underdark.\nLaculite crystals formed in subterranean lakes and water pools of Underdark. Even though they were considered to be cheaper than rubies, svirfneblin often mined laculites.\nA suspension could be extracted from laculites through alchemy. This suspension of laculite could be used to brew greater elixirs of arcane cultivation."
     }
 }

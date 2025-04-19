@@ -1,29 +1,5 @@
 {
-    "template_data": {
-        "2|lb|k|long": "yes",
-        "20|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Sea's Bounty.png",
-        "caption": "",
-        "name": "''Sea's Bounty''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Helmet]]",
-        "location": "[[Nelanther Isles]], [[Sea of Swords]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|2|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -40,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Sea's Bounty''''' was a variety of [[enchanted]] [[helmet]]s imbued with the lost knowledge.",
-        "Powers": "It was said that when someone wore ''Sea's Bounty'', they received a portion of the ancient secrets and knowledge thought long lost in the sea. The helmet improved the wearer's wisdom and gave them knowledge of appraisal and lore. Additionally, when worn, ''Sea's Bounty'' glowed in gentle blue radiance, illuminating the area of {{SI|20|ft|long=yes}} around it.",
-        "History": "As of the late 14{{th}} center DR, ''Sea's Bounty'' could be found on the [[Nelanther Isles]] off the [[Sword Coast]], sold by Sister [[Tasina]] of the [[Temple of Umberlee (Spindrift Town)|Temple of Umberlee]] in [[Spindrift Town]]."
+        "mainbody": "Seas Bounty was a variety of enchanted helmets imbued with the lost knowledge.\nIt was said that when someone wore Seas Bounty, they received a portion of the ancient secrets and knowledge thought long lost in the sea. The helmet improved the wearers wisdom and gave them knowledge of appraisal and lore. Additionally, when worn, Seas Bounty glowed in gentle blue radiance, illuminating the area of  around it.\nAs of the late 14 center DR, Seas Bounty could be found on the Nelanther Isles off the Sword Coast, sold by Sister Tasina of the Temple of Umberlee in Spindrift Town."
     }
 }

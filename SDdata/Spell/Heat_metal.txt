@@ -1,45 +1,22 @@
-{{Spell
-| image         = Heat metal.jpg
-| caption       = 
-| name          = Heat Metal
-| deity         = 
-| inventor      = 
-| type          = 
-| school5e      = [[Transmutation]]
-| domains5e     = [[Forge domain|Forge]]
-| circles5e     = 
-| oaths5e       = 
-| patrons5e     = 
-| traditions5e  = 
-| level5e       = {{spell table|edition=5e|[[Artificer]]|2|[[Bard]]|2|[[Druid]]|2|[[Forge domain|Forge]]|2}}
 | type5e        = 
 | refs5e        = 
-| school3e      = [[Transmutation]]
-| level3e       = {{spell table|edition=3e|[[Druid]]|2|[[Metal domain|Metal]]|2|[[Sun domain|Sun]]|2}}
-| descriptors3e = {{desc/fire}}
+| school3e      = Transmutation
+| level3e       = 
+| descriptors3e = 
 | type3e        = 
 | refs3e        = 
-| school2e      = [[Alteration]]
+| school2e      = Alteration
 | reversible2e  = true
-| spheres2e     = [[Elemental fire sphere|Elemental Fire]]
-| level2e       = {{spell table|edition=2e|[[Cleric]]|2|[[Druid]]|2|[[Elemental sphere|Elemental]]|2|[[Elemental fire sphere|Elemental Fire]]|2}}
+| spheres2e     = Elemental Fire
+| level2e       = 
 | type2e        = 
 | refs2e        = 
-| school1e      = [[Alteration]]
+| school1e      = Alteration
 | reversible1e  = true
-| level1e       = {{spell table|edition=1e|[[Alchemist]]|3|[[Druid]]|2}}
+| level1e       = 
 | type1e        = 
-| refs1e        = {{Cite dragon/49/Leomund's Tiny Hut: A recipe for the Alchemist|59}}
-
-}}
-'''''Heat metal''''' was a [[transmutation]] spell that heated metal to damage those who touched it.
-
-==Effect==
-This spell allowed a caster to heat metal to various temperatures. A caster could make a piece of metal slightly warm or make it red hot. The spell could be cast underwater, but the caster had to be cautious as the water surrounding the metal would begin to boil if the metal became too hot.<ref group="note">In ''[[Player's Handbook 2nd edition]]'', it states the spell could not be cast underwater and water would cancel the effect of the spell. This is not the case as of ''[[Player's Handbook v.3.5]]''. The spell was very similar to ''[[chill metal]]'' and in fact cancelled the effects of that spell. In addition, various spells could also cancel the effects of this spell, such as ''[[cold]]'', ''[[ice storm]]'' and ''[[Protection from energy|Protection from fire]]'', as well as any potion or item that offered a resistance to fire.
-
-==Components==
-In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, the spell required a [[divine focus]].
-
-==History==
-''Heat metal'' was a spell listed in the ''[[Tome of Torment]]''.
-
+| refs1e        = 
+Heat metal was a transmutation spell that heated metal to damage those who touched it.
+This spell allowed a caster to heat metal to various temperatures. A caster could make a piece of metal slightly warm or make it red hot. The spell could be cast underwater, but the caster had to be cautious as the water surrounding the metal would begin to boil if the metal became too hot.In Players Handbook 2nd edition, it states the spell could not be cast underwater and water would cancel the effect of the spell. This is not the case as of Players Handbook v.3.5. The spell was very similar to chill metal and in fact cancelled the effects of that spell. In addition, various spells could also cancel the effects of this spell, such as cold, ice storm and Protection from fire, as well as any potion or item that offered a resistance to fire.
+In addition to verbal and somatic components, the spell required a divine focus.
+Heat metal was a spell listed in the Tome of Torment.

@@ -1,44 +1,5 @@
 {
-    "template_data": {
-        "30|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Air hammer",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Magic item|Magic]] [[Hammer]]",
-        "creator": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "1,800 [[gp]]",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "",
-        "refs3e": "",
-        "level4e": "",
-        "value4e": "",
-        "weight4e": "",
-        "refs4e": "",
-        "rarity5e": "",
-        "attunement5e": "",
-        "school5e": "",
-        "level5e": "",
-        "value5e": "",
-        "weight5e": "",
-        "refs5e": "",
-        "mainbody": "'''Air hammers''' were a form of emergency aid developed by [[dwarves]] for escaping hazardous situations, such as underground smoke or poisonous gases.",
-        "Description": "Air hammers resembled stone hammers with a [[Dethek]] rune on their side - two intertwined circles.",
-        "Powers": "Air hammers were [[portal]] valves to an extra-dimensional space, filled with pressurized oxygen from the [[Elemental Plane of Air]]. Either striking its rune or breaking the air hammer itself would activate it, causing the hammer (or its broken shards) to begin vibrating rapidly, swinging back and forth as it contracted in size. Activation of the air hammer caused this extra-dimensional space to rapidly collapse and pump its stores of oxygen out to within a {{SI|30|ft|long=yes}} radius.\n\nThe oxygen produced by air hammers could not be moved from the area in which it was released. The amount of oxygen released was believed to be sufficient for eight [[human]]-sized creatures or twelve dwarves, albeit within normal levels of exertion.\n\nIf activated within water the air hammer would create a bubble of air around its vicinity. The oxygen released was also capable of driving out the toxic air produced by spells like ''[[cloudkill]]''. Though open flames were a danger, as the oxygen was highly flammable."
+        "mainbody": "ir hammers were a form of emergency aid developed by dwarves for escaping hazardous situations, such as underground smoke or poisonous gases.\nAir hammers resembled stone hammers with a Dethek rune on their side - two intertwined circles.\nAir hammers were portal valves to an extra-dimensional space, filled with pressurized oxygen from the Elemental Plane of Air. Either striking its rune or breaking the air hammer itself would activate it, causing the hammer (or its broken shards) to begin vibrating rapidly, swinging back and forth as it contracted in size. Activation of the air hammer caused this extra-dimensional space to rapidly collapse and pump its stores of oxygen out to within a  radius.\nThe oxygen produced by air hammers could not be moved from the area in which it was released. The amount of oxygen released was believed to be sufficient for eight human-sized creatures or twelve dwarves, albeit within normal levels of exertion.\nIf activated within water the air hammer would create a bubble of air around its vicinity. The oxygen released was also capable of driving out the toxic air produced by spells like cloudkill. Though open flames were a danger, as the oxygen was highly flammable."
     }
 }

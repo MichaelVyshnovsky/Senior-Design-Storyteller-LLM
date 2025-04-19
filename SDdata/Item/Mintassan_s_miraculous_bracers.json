@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Mintassan's Miraculous Bracers.jpg",
-        "caption": "",
-        "name": "''Mintassan's Miraculous Bracers''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Bracers]]",
-        "creator": "[[Mintassan]] the Magnificent",
-        "location": "[[Westgate]], [[Dragon Coast]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+3",
-        "value3e": "12,076 [[gp]]",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Mintassan's miraculous bracers''''' were [[enchanted]] [[bracers]] created by [[Mintassan]] the Magnificent, a planeswalker from the city of [[Westgate]], active in the late 14{{th}} century [[DR]].",
-        "Powers": "Despite appearing quite ordinary at first sight, ''Mintassan's miraculous bracers'' possessed [[magic]]s that enveloped the wearer in an invisible protective barrier, similar to a ''+3'' enchantment. Additionally, the bracers gave their wearer a small boost of vitality.",
-        "History": "These wrist guards were created by Mintassan the Magnificent sometime before the {{YearlinkName|1374}}, who was quite proud of that particular creation. In the late 14{{Th}} century DR, the bracers were available for purchase from [[Mintassan's Mysteries]] in Westgate's [[Market Triangle]]."
+        "mainbody": "Mintassans miraculous bracers were enchanted bracers created by Mintassan the Magnificent, a planeswalker from the city of Westgate, active in the late 14 century DR.\nDespite appearing quite ordinary at first sight, Mintassans miraculous bracers possessed magics that enveloped the wearer in an invisible protective barrier, similar to a +3 enchantment. Additionally, the bracers gave their wearer a small boost of vitality.\nThese wrist guards were created by Mintassan the Magnificent sometime before the , who was quite proud of that particular creation. In the late 14 century DR, the bracers were available for purchase from Mintassans Mysteries in Westgates Market Triangle."
     }
 }

@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Strengthen Water Creature",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "true",
-        "school2e": "[[Alteration]], [[Sea (school)|Sea]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|4}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Strengthen water creature''''' was a [[spell]] unique to [[Zakhara]], the Land of Fate.",
-        "Effects": "This spell increased the physical capabilities of creatures that lived in [[water]], breathed water, or were from the [[Elemental Plane of Water]]. Creatures affected by this spell had stronger attacks and were more resistant to attacks of all kinds. They could also survive outside of water for the duration of the spell.\n\n'''''Weaken water creature''''' was the reverse of this spell and had the exact opposite effect.",
-        "Components": "This spell required a glass of water to cast."
+        "mainbody": "Strengthen water creature was a spell unique to Zakhara, the Land of Fate.\nThis spell increased the physical capabilities of creatures that lived in water, breathed water, or were from the Elemental Plane of Water. Creatures affected by this spell had stronger attacks and were more resistant to attacks of all kinds. They could also survive outside of water for the duration of the spell.\nWeaken water creature was the reverse of this spell and had the exact opposite effect.\nThis spell required a glass of water to cast."
     }
 }

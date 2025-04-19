@@ -1,12 +1,5 @@
 {
     "document_data": {
-        "image": "Sarifal.jpg",
-        "caption": "A map showing the Deepglen Stream in Myrloch Vale.",
-        "name": "Deepglen Stream",
-        "aliases": "",
-        "type": "River",
-        "region": "[[Gwynneth]], the [[Moonshae Isles]]",
-        "size": "{{SI|30|mi|k}} long",
         "depth": "",
         "river source": "",
         "river mouth": "",
@@ -25,7 +18,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "The '''Deepglen Stream''' was a small river found on the island of [[Gwynneth]] within the [[Moonshae Isles]].{{Cite interactive atlas}}{{Cite dungeon/196/Backdrop: The Moonshae Isles}}",
-        "Geography": "The Deepglen Stream originated within the eastern section of the [[Black Moutains]] in northern [[Gwynneth]]. The river flowed southeast through the [[Deepglen]] and into the [[Shee Pool]]. It exited the small lake by flowing south until connecting with the [[Myrloch]]."
+        "mainbody": "The Deepglen Stream was a small river found on the island of Gwynneth within the Moonshae Isles.\nThe Deepglen Stream originated within the eastern section of the Black Moutains in northern Gwynneth. The river flowed southeast through the Deepglen and into the Shee Pool. It exited the small lake by flowing south until connecting with the Myrloch."
     }
 }

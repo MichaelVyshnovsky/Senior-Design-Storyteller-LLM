@@ -1,30 +1,8 @@
 {
-    "template_data": {
-        "0.1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Potion of polymorph self.png",
-        "caption": "",
-        "name": "''Potion of Polymorph Self''",
-        "othernames": "''Potion of Polymorph''",
-        "nicknames": "",
-        "type": "[[Potion]]",
-        "creator": "",
-        "location": "[[Lizard Marsh]], [[Sword Coast]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "350 [[gp]]",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "7{{th}}",
         "itemlevel3e": "",
         "value3e": "",
-        "weight3e": "{{SI|0.1|lb|k|long=yes}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,13 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "A '''''potion of polymorph self''''' was an [[enchanted]] [[potion]] that replicated the effects of the ''[[polymorph self]]'' [[spell]].",
-        "Description": "''Potions of polymorph self'' were bottled in small glass vials and shimmered with multiple scintillating colors of the magical liquid.",
-        "Powers": "The imbiber of this potion could change their form into that of any corporeal creature. The rough size range of possible creatures was as small as a bird to as large as a [[hippopotamus]]. The imbiber gained the form of locomotion and breathing of the selected creature, but not any other natural, special or magical abilities. Any equipment worn by the imbiber was melded into their new form. The imbiber's intelligence remained the same so spellcasting was still viable assuming the new form allowed for it.",
-        "Varities": {
-            "Lizard Marsh": "''Potions of polymorph self'' from the [[Lizard Marsh]] allowed the imbiber to transform into a [[giant spider]], [[troll]], [[umber hulk]], [[pixie]], or a [[zombie]].",
-            "''Paste of polymorph self''": "The people of [[Serôs]] had a thick, gelatinous paste version of this potion,<ref>{{Cite dungeon/79/The Akriloth|77}} suitable for use in their underwater environment. Like other pastes of Serôs, a ''paste of polymorph'' consisted of kelp and other viscous substances. It was stored in either [[clam]]shells or flexible tubes made from [[eel]]skin.<ref>"
-        },
-        "Notable Owners": "*[[Durissa Thornion]], an [[illusionist]] from [[Chondath]], carried a ''potion of polymorph self''.\n*The [[Green Hag of Lizard Marsh]] possessed a rich collection of magic potions, tinctures, and brews. Among them were ''potion of polymorph'' of her own creation."
+        "mainbody": "A potion of polymorph self was an enchanted potion that replicated the effects of the polymorph self spell.\nPotions of polymorph self were bottled in small glass vials and shimmered with multiple scintillating colors of the magical liquid.\nThe imbiber of this potion could change their form into that of any corporeal creature. The rough size range of possible creatures was as small as a bird to as large as a hippopotamus. The imbiber gained the form of locomotion and breathing of the selected creature, but not any other natural, special or magical abilities. Any equipment worn by the imbiber was melded into their new form. The imbibers intelligence remained the same so spellcasting was still viable assuming the new form allowed for it.\nLizard Marsh Potions of polymorph self from the Lizard Marsh allowed the imbiber to transform into a giant spider, troll, umber hulk, pixie, or a zombie.\nPaste of polymorph self The people of Serôs had a thick, gelatinous paste version of this potion, suitable for use in their underwater environment. Like other pastes of Serôs, a paste of polymorph consisted of kelp and other viscous substances. It was stored in either clamshells or flexible tubes made from eelskin.\n*Durissa Thornion, an illusionist from Chondath, carried a potion of polymorph self.\n*The Green Hag of Lizard Marsh possessed a rich collection of magic potions, tinctures, and brews. Among them were potion of polymorph of her own creation."
     }
 }

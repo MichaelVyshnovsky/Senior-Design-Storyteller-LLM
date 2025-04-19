@@ -1,36 +1,6 @@
 {
-    "template_data": {
-        "index": "{{P"
-    },
     "document_data": {
-        "image": "MC16.jpg",
-        "code": "TSR2153 (MC15)",
-        "title": "Monstrous Compendium <br/> Ravenloft Appendix III",
-        "author": "[[Kirk Botulla]], [[Anne Brown]], [[William W. Connors]], [[Andria Hayday]], [[Shane Lacy Hensley]], [[Colin McComb]], [[Nicky Rea]], [[Teeuwynn Woodruff]]",
-        "editor": "William W. Connors",
-        "cover_artist": "[[Jeff Easley]]",
-        "inter_artist": "[[Tom Baxa]]<br/>[[Mark Nelson]]<br/>[[Stephan Fabian]]",
-        "typography": "[[Nancy Kerkstra]]",
-        "publisher": "[[TSR, Inc.]]",
-        "game_edition": "2",
-        "released": "1994",
-        "type": "Appendix",
-        "binding": "Spiral-bound",
-        "pages": "128",
-        "isbn10": "1-56076-914-9",
-        "citetitle": "Monstrous Compendium Ravenloft Appendix III",
-        "source": "",
-        "series": "[[Monstrous Compendium]]",
-        "preceded_by": "[[Monstrous Compendium Ravenloft Appendix II: Children of the Night]]",
-        "followed_by": "",
-        "index": "{{P|[[aquatic remnant]]|94}};{{P|[[baobhan sith]]|15}};{{P|[[boneless]]|17}};{{P|[[elemental lich]]|73-74}};{{P|[[fearweed]]|91}};{{P|[[fenhound]]|37}};{{P|[[giant scarab beetle]]|16}};{{P|[[gremishka]]|52}};{{P|[[hearth fiend]]|57-58}};{{P|[[loup garou]]|79}};{{P|[[nosferatu]]|109}};{{P|[[odem]]|87}};{{P|[[paka]]|88-89}};{{P|[[sea spawn master]]|96}};{{P|[[sea spawn minion]]|97}};{{P|[[shadow asp]]|98}};{{P|[[snow golem]]|50}};{{P|[[vampire drow]]|107-108}};{{P|[[vorlog]]|116-117}};{{P|[[werejackal]]|80}};{{P|[[werejaguar]]|81}};{{P|[[wereleopard]]|82}};{{P|[[will o'deep]]|119}};{{P|[[will o'sea]]|121}}",
-        "ref": "{{P|[[pixie]]|15}}",
-        "mainbody": "",
-        "Description": "''Monstrous Compendium Ravenloft Appendix III: Creatures of Darkness'' is the third installment in a series of ''[[Monstrous Compendium]]'' volumes dedicated to ''Ravenloft''.\n\nAdhering to the modular design of the ''Monstrous Compendium'' series, it provides detailed entries for each monster, including descriptions of their appearance, behavior, and abilities, as well as their roles within ''Ravenloft''. In addition to providing stat blocks and combat information, the appendix explores the lore and background of its creatures, offering insights into their origins, motivations, and potential plot hooks.",
-        "Index": {
-            "Creatures": "{{Index\n|index = {{P|[[aquatic remnant]]|94}};{{P|[[baobhan sith]]|15}};{{P|[[boneless]]|17}};{{P|[[elemental lich]]|73-74}};{{P|[[fearweed]]|91}};{{P|[[fenhound]]|37}};{{P|[[giant scarab beetle]]|16}};{{P|[[gremishka]]|52}};{{P|[[hearth fiend]]|57-58}};{{P|[[loup garou]]|79}};{{P|[[nosferatu]]|109}};{{P|[[odem]]|87}};{{P|[[paka]]|88-89}};{{P|[[sea spawn master]]|96}};{{P|[[sea spawn minion]]|97}};{{P|[[shadow asp]]|98}};{{P|[[snow golem]]|50}};{{P|[[vampire drow]]|107-108}};{{P|[[vorlog]]|116-117}};{{P|[[werejackal]]|80}};{{P|[[werejaguar]]|81}};{{P|[[wereleopard]]|82}};{{P|[[will o'deep]]|119}};{{P|[[will o'sea]]|121}}\n|ref = {{P|[[pixie]]|15}}\n}}"
-        },
-        "Gallery": "<gallery>\nMonstrous Compendium Ravenloft Appendix III Creatures of Darkness Back Cover.jpg|''Back Cover''\n</gallery>",
-        "Credits": "* '''Principal Designers:''' Kirk Botulla , Shane Hensley, Nicky Rea, and Teeuwynn Woodruff\n* '''Additional Designers:''' Anne Brown, William W. Connors, Andria Hayday, Colin McComb , Bruce Nesmith, and David Wise\n* '''Editor:''' William W. Connors\n* '''Cover Artist:''' Jeff Easley\n* '''Primary Interior Artist:''' Mark Nelson\n* '''Additional Interior Artists:''' Tom Baxa and Stephan Fabian\n* '''Graphic Design:''' Dawn Murin\n* '''Typesetting:''' Nancy J. Kerkstra"
+        "ref": "",
+        "mainbody": "Monstrous Compendium Ravenloft Appendix III Creatures of Darkness Back Cover.jpg|Back Cover\n* Principal Designers Kirk Botulla , Shane Hensley, Nicky Rea, and Teeuwynn Woodruff\n* Additional Designers Anne Brown, William W. Connors, Andria Hayday, Colin McComb , Bruce Nesmith, and David Wise\n* Editor William W. Connors\n* Cover Artist Jeff Easley\n* Primary Interior Artist Mark Nelson\n* Additional Interior Artists Tom Baxa and Stephan Fabian\n* Graphic Design Dawn Murin\n* Typesetting Nancy J. Kerkstra"
     }
 }

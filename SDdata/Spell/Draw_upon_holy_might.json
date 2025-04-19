@@ -1,18 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Draw upon holy might",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "reversible2e": "",
-        "school2e": "[[Invocation]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|2}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -20,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Draw upon holy might''''' was a [[spell]] that would turn the [[priest|priest's]] body into a vessel of the priest's [[deity]]. The priest would gain power and glow brightly.",
-        "Effects": "With this spell, the priest drew upon power from their deity. The caster could choose to become more strong, dexterous, or charismatic. After the spell effects had worn off, the priest would be incredibly drained, both in mind and body. It would only affect the caster.",
-        "Components": "The spell required [[verbal]] and [[somatic]] components. It also required two material components: a vial of [[holy water]] that had been blessed by a high [[cleric]], and the priest's [[holy symbol]]. These items must have been from the same faith as the caster.",
-        "History": "In the month of [[Eleasis]], of the {{YearlinkName|1371}}, [[Chief Prelate]] [[Relarn Dayspring|Dayspring]] of the [[Clerical Circle]] of [[Ravens Bluff]] declared it illegal for priests to cast ''draw upon holy might'' within city limits due to a raging unnatural storm at the time called the [[Soulstorm]], threatening arrest for those that broke this decree.{{Cite trumpeter/2-8|2}}{{LCRB}}"
+        "mainbody": "Draw upon holy might was a spell that would turn the priests body into a vessel of the priests deity. The priest would gain power and glow brightly.\nWith this spell, the priest drew upon power from their deity. The caster could choose to become more strong, dexterous, or charismatic. After the spell effects had worn off, the priest would be incredibly drained, both in mind and body. It would only affect the caster. \nThe spell required verbal and somatic components. It also required two material components a vial of holy water that had been blessed by a high cleric, and the priests holy symbol. These items must have been from the same faith as the caster.\nIn the month of Eleasis, of the , Chief Prelate Dayspring of the Clerical Circle of Ravens Bluff declared it illegal for priests to cast draw upon holy might within city limits due to a raging unnatural storm at the time called the Soulstorm, threatening arrest for those that broke this decree."
     }
 }

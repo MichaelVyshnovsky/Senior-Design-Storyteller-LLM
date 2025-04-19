@@ -1,18 +1,5 @@
 {
-    "template_data": {
-        "image": "Canderous MAN2 Portrait BG1.png",
-        "name": "Canderous",
-        "home": "[[Candlekeep]]",
-        "race": "[[Human]]",
-        "class": "[[Cleric]]"
-    },
     "document_data": {
-        "image": "Canderous MAN2 Portrait BG1.png",
-        "name": "Canderous",
-        "home": "[[Candlekeep]]",
-        "sex": "Male",
-        "race": "[[Human]]",
-        "class": "[[Cleric]]",
-        "mainbody": "lignment =\n}}\n'''Canderous''' was a [[human]] [[cleric]] at [[Candlekeep]].<ref>"
+        "mainbody": "anderous was a human cleric at Candlekeep."
     }
 }

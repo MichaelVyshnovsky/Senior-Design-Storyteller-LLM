@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Razorscales",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Cleric]]|2|[[Druid]]|2|[[Ranger]]|2|[[Wizard]]|2|[[Sorcerer]]|2}}",
         "type3e": "",
         "refs3e": "",
         "spheres2e": "",
@@ -41,8 +11,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Razorscales''''' was a [[transmutation]] [[spell]] that caused the scales of the caster to become razor-sharp. It failed if cast by any non-[[scalykind]] [[spellcaster]]s.",
-        "Effects": "For a matter of seconds to upwards of two minutes, the scales of the spell's caster were transformed into keen versions of their usual type, which could possibly kill anyone with whom they were engaged in hand-to-hand combat. This applied to [[kobold]]s, [[troglodyte]]s, [[saurial]]s, [[dragonkin]], [[asabi]]s, [[lizardfolk]], and other scaly [[humanoid]] spellcasters.",
-        "Casting": "The material component for this spell was a small, thin-bladed razor."
+        "mainbody": "Razorscales was a transmutation spell that caused the scales of the caster to become razor-sharp. It failed if cast by any non-scalykind spellcasters.\nFor a matter of seconds to upwards of two minutes, the scales of the spells caster were transformed into keen versions of their usual type, which could possibly kill anyone with whom they were engaged in hand-to-hand combat. This applied to kobolds, troglodytes, saurials, dragonkin, asabis, lizardfolk, and other scaly humanoid spellcasters.\nThe material component for this spell was a small, thin-bladed razor."
     }
 }

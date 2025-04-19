@@ -1,14 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Zebra",
-        "othernames": "",
-        "size5e": "Large",
-        "type5e": "Beast",
-        "subtype5e": "",
-        "alignment5e": "[[Unaligned]]",
-        "challenge5e": "{{frac|1|4}}",
         "refs5e": "",
         "size4e": "",
         "origin4e": "",
@@ -17,9 +8,9 @@
         "alignment4e": "",
         "refs4e": "",
         "size3e": "Large",
-        "type3e": "[[Animal]]",
+        "type3e": "Animal",
         "subtype3e": "",
-        "alignment3e": "Always [[neutral]]",
+        "alignment3e": "Always neutral",
         "challenge3e": "1",
         "refs3e": "",
         "size2e": "",
@@ -30,7 +21,7 @@
         "refs1e": "",
         "patron deity": "",
         "movement": "",
-        "vision": "[[Low-light vision]]",
+        "vision": "Low-light vision",
         "activecycle": "",
         "diet": "Herbivore",
         "lifespan": "",
@@ -53,15 +44,8 @@
         "distinctions": "Vertically-striped coat",
         "appearrefs": "",
         "first": "",
-        "based": "[[wikipedia:en:Zebra|Zebra]]",
+        "based": "Zebra",
         "histrefs": "",
-        "mainbody": "'''Zebras''' were a species of wild [[horse]] related to the more common domestic breeds of horses.",
-        "Description": "Zebras were distinguished from other species of horses by the striking patterns their fur displayed&mdash;broad, alternating, vertical stripes of black and white.\n\nRather than having the neigh or whinny common among other equine species, zebras uniquely displayed a distinctive \"bark\".",
-        "Behavior": "Being a type of wild horse, zebras had a disposition that was greatly counter to domestication.",
-        "Species": "* [[Shaaran zebra]]: A regional variety of zebra that was endemic to the plains of [[Shaar]] and [[Eastern Shaar]].",
-        "Ecology": {
-            "Habitats": "In [[west Faerûn]], zebras could be found in the hilly grasslands surrounding the [[city-state]] of [[Cursrah]] and in the aforementioned plains of the Shaar.\n\nBeyond [[Faerûn]], zebras inhabited the plains of the [[Rayana Savanna]] and [[Yaku Plains]] atop the [[Malatran Plateau]]{{Cite living jungle/Living Jungle Campaign: Player Information Guide|5}}{{Cite polyhedron/102/The Living Jungle|7}} and large herds of them could be found in the savannahs of [[Chult]].\n\nOutside of the [[Prime Material plane]], zebras could be found in the [[Beastlands (plane)|Beastlands]], particularly the level of [[Krigala]].",
-            "Relationships": "Zebras were one of the primary animals that [[wemic]]s{{Cite dragon/157/The Ecology of the Wemic|49}} and [[lion]]s hunted. Some [[gnoll]] tribes were also known to hunt zebras, but these had the animal as a religious [[totem]] and would often sacrifice them to their lord [[Yeenoghu]].{{Cite dragon/173/The Sociology of the Flind|82}}\n\n[[Hybsil]]s were often on good terms with zebras.{{Cite_book/Monster_Manual_II_(1983)|77}}\n\nDespite the inherent difficulty in domesticating them,"
-        }
+        "mainbody": "Zebras were a species of wild horse related to the more common domestic breeds of horses.\nZebras were distinguished from other species of horses by the striking patterns their fur displayed&mdashbroad, alternating, vertical stripes of black and white.\nRather than having the neigh or whinny common among other equine species, zebras uniquely displayed a distinctive \"bark\".\nBeing a type of wild horse, zebras had a disposition that was greatly counter to domestication.\n* Shaaran zebra A regional variety of zebra that was endemic to the plains of Shaar and Eastern Shaar.\nIn west Faerûn, zebras could be found in the hilly grasslands surrounding the city-state of Cursrah and in the aforementioned plains of the Shaar.\nBeyond Faerûn, zebras inhabited the plains of the Rayana Savanna and Yaku Plains atop the Malatran Plateau and large herds of them could be found in the savannahs of Chult.\nOutside of the Prime Material plane, zebras could be found in the Beastlands, particularly the level of Krigala.\nZebras were one of the primary animals that wemics and lions hunted. Some gnoll tribes were also known to hunt zebras, but these had the animal as a religious totem and would often sacrifice them to their lord Yeenoghu.\nHybsils were often on good terms with zebras.\nDespite the inherent difficulty in domesticating them,"
     }
 }

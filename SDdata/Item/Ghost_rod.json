@@ -1,26 +1,7 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Ghost Rod",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Enchanted]] [[staff]]",
-        "creator": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "15{{th}}",
         "itemlevel3e": "",
-        "value3e": "50,000 [[gp]]",
+        "value3e": "50,000 gp",
         "weight3e": "",
         "refs3e": "",
         "level4e": "",
@@ -38,9 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Ghost rods''''' were a type of [[magical item|magical]] [[staff]].",
-        "Description": "''Ghost rods'' were ornate scepters made of glass with a blue hue.",
-        "Powers": "Once per day, a ''ghost rod'' allowed its wielder to turn incorporeal, but not ethereal like a true [[ghost]], for a maximum of one minute and thirty seconds. Under this effect a creature possessed all the associated benefits and drawbacks of being incorporeal, including the capability of hurting any other creature that was also incorporeal.",
-        "Notable Owners": "* [[Jaranthra Wynkle]] owned a ''ghost rod'' that was gifted to her by [[Elminster]].<ref>{{Cite web/The Coinkind (Part Two)}}"
+        "mainbody": "Ghost rods were a type of magical staff.\nGhost rods were ornate scepters made of glass with a blue hue.\nOnce per day, a ghost rod allowed its wielder to turn incorporeal, but not ethereal like a true ghost, for a maximum of one minute and thirty seconds. Under this effect a creature possessed all the associated benefits and drawbacks of being incorporeal, including the capability of hurting any other creature that was also incorporeal.\n* Jaranthra Wynkle owned a ghost rod that was gifted to her by Elminster."
     }
 }

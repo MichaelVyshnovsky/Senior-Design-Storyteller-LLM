@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Wildstrike",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Conjuration]]<br/>[[Wild magic]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|6}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Wildstrike''''' was a [[wild magic]] [[conjuration]] [[spell]] used by [[wild mage]]s.",
-        "Effects": "This spell converted spell energy into [[wild surge]]s, making it particularly useful against enemy spellcasters. ''Wildstrike'' surrounded the target with a field of wild magic. Any attempt by the target to cast a spell or use a [[magic item]] would result in a wild surge.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required a small [[glass tubing|glass tube]] to cast. The glass tube was shattered during the casting."
+        "mainbody": "Wildstrike was a wild magic conjuration spell used by wild mages.\nThis spell converted spell energy into wild surges, making it particularly useful against enemy spellcasters. Wildstrike surrounded the target with a field of wild magic. Any attempt by the target to cast a spell or use a magic item would result in a wild surge.\nIn addition to verbal and somatic components, this spell required a small glass tube to cast. The glass tube was shattered during the casting."
     }
 }

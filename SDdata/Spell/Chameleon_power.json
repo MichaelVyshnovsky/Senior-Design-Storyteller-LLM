@@ -1,27 +1,7 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "variant": "psionic power"
-    },
     "document_data": {
-        "image": "Chameleon-power.png",
-        "caption": "A psionicist uses chameleon power to evade some goblins.",
-        "name": "Chameleon Power",
-        "deity": "",
-        "inventor": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "discipline3e": "",
-        "mantles3e": "",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|variant=psionic power|[[Egoist]]|2|[[Lurk]]|1|[[Natural World mantle|Natural World]]|1|[[Psion]]|2|[[Psychic warrior]]|1}}",
         "type3e": "Standard power",
-        "refs3e": "<ref>",
+        "refs3e": "",
         "discipline2e": "",
         "level2e": "Minor (Devotion)",
         "type2e": "Standard power",
@@ -30,9 +10,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Chameleon power''''', also known simply as '''''chameleon''''', was a minor [[psionic]] devotion of the [[psychometabolism]] [[discipline]] that allowed a [[psionicist]] to blend in with their surroundings in a manner akin to a [[chameleon]].",
-        "Effects": "When used, ''chameleon'' would change the texture and coloration of the psion's skin, as well as any clothing and equipment on their person, to match the surroundings to the back of them, including floors and walls. The psion had no control over the change in coloration or appearance. As the psionicist moved while the power was active, they and their equipment would shift in coloration to match the changed surroundings. By remaining stationary, a psionicist could use this effect to evade detection.\n\nThis power was found to be most effective in natural environments, but of middling effectiveness within urban environments or areas without any cover in broad daylight. If the power backfired on the psionicist, it would cause their skin and any equipment on their person to shift into a coloration that strongly clashed with their surroundings, making them stand out.\n\nThe average duration of ''chameleon'' was ten minutes, though would be prolonged depending upon the psionicist's skill.",
-        "Displays": "This power had only a standard olfactory display.",
-        "Users": "''Chameleon power'' was exhibited as an innate psionic ability by adult [[intellect devourer]]s,<ref> [[rautym]], [[temporal filcher]]s,<ref><ref> [[thri-kreen]],<ref><ref> and [[wall-walker]]s. In addition, all [[yuan-ti]] that were gifted with psionics displayed this power,<ref> particularly [[yuan-ti abomination]]s and [[yuan-ti halfblood|halfbloods]].<ref>\n\nOn the desert world of [[Athas]], an ancient and mysterious [[humanoid]] race of psionicists called the [[pyreen]] exhibited ''chameleon'' as an innate power."
+        "mainbody": "Chameleon power, also known simply as chameleon, was a minor psionic devotion of the psychometabolism discipline that allowed a psionicist to blend in with their surroundings in a manner akin to a chameleon.\nWhen used, chameleon would change the texture and coloration of the psions skin, as well as any clothing and equipment on their person, to match the surroundings to the back of them, including floors and walls. The psion had no control over the change in coloration or appearance. As the psionicist moved while the power was active, they and their equipment would shift in coloration to match the changed surroundings. By remaining stationary, a psionicist could use this effect to evade detection.\nThis power was found to be most effective in natural environments, but of middling effectiveness within urban environments or areas without any cover in broad daylight. If the power backfired on the psionicist, it would cause their skin and any equipment on their person to shift into a coloration that strongly clashed with their surroundings, making them stand out.\nThe average duration of chameleon was ten minutes, though would be prolonged depending upon the psionicists skill.\nThis power had only a standard olfactory display.\nChameleon power was exhibited as an innate psionic ability by adult intellect devourers, rautym, temporal filchers, thri-kreen, and wall-walkers. In addition, all yuan-ti that were gifted with psionics displayed this power, particularly yuan-ti abominations and halfbloods.\nOn the desert world of Athas, an ancient and mysterious humanoid race of psionicists called the pyreen exhibited chameleon as an innate power."
     }
 }

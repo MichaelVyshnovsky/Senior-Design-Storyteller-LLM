@@ -1,34 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Berserk Fury",
-        "deity": "[[Grolantor]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "reversible2e": "",
-        "school2e": "[[Enchantment/Charm]]",
-        "spheres2e": "[[Combat sphere|Combat]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|4}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -36,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Berserk fury''''' was a [[spell]] used by [[cleric]]s of [[Grolantor]].",
-        "Effects": "When cast, the caster immediately succumbed to a state of uncontrollable rage, unleashing a barrage of both encouraging and insulting shouts towards their allies. The aim was to incite their comrades to also succumb to a berserk state. Despite the shouts, the caster was still able to engage in attacks and defense.\n\nThe caster's allies affected by the spell immediately began echoing the priest's shouts, subjecting all other allies within range to the shouts. Once the number of affected individuals matched the caster's skill level, no additional allies were subjected to the spell's effects.\n\nThose affected by the spell entered into a berserker state, becoming temporarily stronger and faster. While under the spell's influence, berserkers were compelled to engage in melee combat for as long as possible. They were unable to retreat, and once they have defeated all enemies, they turned their aggression towards their own allies. The spell expired on its own or when the caster ceased shouting.",
-        "Components": "This spell only required a [[verbal component]]."
+        "mainbody": "Berserk fury was a spell used by clerics of Grolantor.\nWhen cast, the caster immediately succumbed to a state of uncontrollable rage, unleashing a barrage of both encouraging and insulting shouts towards their allies. The aim was to incite their comrades to also succumb to a berserk state. Despite the shouts, the caster was still able to engage in attacks and defense.\nThe casters allies affected by the spell immediately began echoing the priests shouts, subjecting all other allies within range to the shouts. Once the number of affected individuals matched the casters skill level, no additional allies were subjected to the spells effects.\nThose affected by the spell entered into a berserker state, becoming temporarily stronger and faster. While under the spells influence, berserkers were compelled to engage in melee combat for as long as possible. They were unable to retreat, and once they have defeated all enemies, they turned their aggression towards their own allies. The spell expired on its own or when the caster ceased shouting.\nThis spell only required a verbal component."
     }
 }

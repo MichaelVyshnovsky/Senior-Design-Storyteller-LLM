@@ -1,35 +1,8 @@
 {
-    "template_data": {
-        "3|ft|long": "yes"
-    },
     "document_data": {
-        "image": "KillerFrog.jpg",
-        "caption": "A killer frog lunges at a [[gnome]].",
-        "name": "Killer Frog",
-        "othernames": "",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "",
-        "type3e": "",
-        "subtype3e": "",
-        "alignment3e": "",
-        "challenge3e": "",
-        "refs3e": "",
-        "size2e": "Small",
-        "alignment2e": "[[Neutral]]{{Nil-alignment}}",
         "refs2e": "",
         "size1e": "Small",
-        "alignment1e": "[[Neutral]]",
+        "alignment1e": "Neutral",
         "refs1e": "",
         "patron deity": "",
         "movement": "",
@@ -44,7 +17,7 @@
         "terrain": "Lakes, marshes, rivers, swamps",
         "genrefs": "",
         "height": "",
-        "length": "{{SI|3|ft}}",
+        "length": "",
         "wingspan": "",
         "weight": "",
         "skincolor": "",
@@ -58,14 +31,6 @@
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Killer frogs''' were a very rare species of [[giant frog]], that long ago were specially bred to be cannibals.",
-        "Description": "These creatures were smaller than many other species of giant frog, growing to be {{SI|3|ft|long=yes}} in length. They also uniquely had talons on their front feet and mouths lined with sharp teeth.",
-        "Behavior": "Killer frogs were known to be quite vicious.",
-        "Combat": "Unlike other species of giant frog, these creatures did not attempt to swallow their prey whole.",
-        "History": "Some time in the 14{{th}} century [[DR]], the [[goblin]] tribe [[Teerac-on-Water]] trained killer frogs to act as guardians around the perimeter of their island lair.",
-        "Ecology": {
-            "Diet": "Killer frogs were predatory carnivores who preferred the taste of [[human]] flesh above all else.",
-            "Habitats": "Killer frogs could be found a wide variety of habitats, so long as they had fresh water. Like most species of frog they typically lived in marshes, swamps, lakes, river banks, large ponds, or lakes.\n\nIn [[Cormanthor]] they could potentially be found in [[Elvenflow]], [[Lake Sember]], the [[River Ashaba]], and other bodies of water. They could also be found in the tropical waters of the [[Sea of Fallen Stars]]. Beyond the [[Prime Material plane]], killer frogs could be found in the [[Outlands]] in the marsh that surrounded the [[gate-town]] of [[Torch (gate-town)|Torch]]."
-        }
+        "mainbody": "Killer frogs were a very rare species of giant frog, that long ago were specially bred to be cannibals.\nThese creatures were smaller than many other species of giant frog, growing to be  in length. They also uniquely had talons on their front feet and mouths lined with sharp teeth.\nKiller frogs were known to be quite vicious.\nUnlike other species of giant frog, these creatures did not attempt to swallow their prey whole.\nSome time in the 14 century DR, the goblin tribe Teerac-on-Water trained killer frogs to act as guardians around the perimeter of their island lair.\nThese creatures lived in packs, but had no real social structure.\nKiller frogs were predatory carnivores who preferred the taste of human flesh above all else.\nKiller frogs could be found a wide variety of habitats, so long as they had fresh water. Like most species of frog they typically lived in marshes, swamps, lakes, river banks, large ponds, or lakes.\nIn Cormanthor they could potentially be found in Elvenflow, Lake Sember, the River Ashaba, and other bodies of water. They could also be found in the tropical waters of the Sea of Fallen Stars. Beyond the Prime Material plane, killer frogs could be found in the Outlands in the marsh that surrounded the gate-town of Torch."
     }
 }

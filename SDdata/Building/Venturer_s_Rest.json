@@ -1,21 +1,12 @@
 {
-    "template_data": {
-        "rca": "center",
-        "caption": "",
-        "rightheader": "Year"
-    },
     "document_data": {
-        "image": "Old Dirty Dwarf Ext.png",
-        "caption": "The entrance to the inn, ''circa'' [[1479 DR]]",
-        "name": "Venturer's Rest",
-        "aliases": "{{Former}} Old Dirty Dwarf",
         "type": "Inn & Tavern",
         "architecture": "Stone",
         "floors": "2",
-        "location": "[[Helm's Hold]], [[Sword Coast North]]",
+        "location": "Helms Hold, Sword Coast North",
         "built": "",
         "destroyed": "",
-        "owner": "{{Split table|rca=center|caption=",
+        "owner": "",
         "staff": "",
         "occupants": "",
         "services": "",
@@ -39,12 +30,6 @@
         "inhabitants": "",
         "locations": "",
         "organizations": "",
-        "mainbody": "The '''Venturer's Rest''', previously known as the '''Old Dirty Dwarf''',{{Template:Cite book/Sword Coast Adventurer's Guide|85}}\n\n{{Quote|I assure you, that establishment is not named for anyone I know|[[Satarin|Brother Satarin]], on the Old Dirty Dwarf Inn.}}",
-        "Structure": "From the exterior, the inn appeared as hole-in-the-wall establishment of little acclaim. It was tucked away in an unremarkable corner of the city, built into the side of the Hold's numerous stone archways that passed over its stone streets.\n\nThe only noteworthy feature outside the inn simple wooden sign upon which was scrawled the crude likeness of a [[mug]] of [[ale]].",
-        "Interior": {
-            "Atmosphere": "Its taproom offered ample seating and featured grand hearth that contributed to a relaxing environment."
-        },
-        "Services": "When it operated under the name of the Old Dirty Dwarf, the inn and tavern was considered to be the finest in all of Helm's Hold. The proprietor [[Juetta Bealcrest|Juetta]] was particularly welcoming, catering to those individuals that were new to the city.{{Template:Cite book/Neverwinter Campaign Setting|168}} Quite unfortunately the Dwarf did not cater to any [[spellscarred]] citizens of the city.\n\nBy the {{yearlinkName|1489}}, the renamed Venturer's Rest had become a favored stop for [[adventurer]]s that were staying at Helm's Hold.",
-        "History": "While many businesses in Helm's Hold were forced to close down during difficult years that plagued Helm's Hold in the latter half of the 15{{th}} century, the Old Dirty Dwarf stood strong.\n\nWhen the Prophet [[Rohini]] rose to power in the Helm's Hold some time before the {{yearlinkName|1479}}, the inn became a point of interest for her [[foulspawn]] agents. They monitored all the out-of-towners who passed through its doors and reported their findings to their [[devil]]ish leader.\n\nDuring the [[Siege of Helm's Hold]] that same year, the inn was used as a base of operations by Councilwoman [[Alisara Callum]] during her efforts to aid the reclamation of the city.\n\nYears after the Prophet's demise, sometime between [[1485 DR|1485]] and [[1489 DR]], the Old Dirty Dwarf came under the ownership of [[Kharissa Anuvien]], a [[paladin]] of [[Chauntea]] who was new to the city. She gave the inn the more dignified name the Venturer's Rest and it remained a favored establishment for the people of Helm's Hold."
+        "mainbody": "The Venturers Rest, previously known as the Old Dirty Dwarf,\nFrom the exterior, the inn appeared as hole-in-the-wall establishment of little acclaim. It was tucked away in an unremarkable corner of the city, built into the side of the Holds numerous stone archways that passed over its stone streets.\nThe only noteworthy feature outside the inn simple wooden sign upon which was scrawled the crude likeness of a mug of ale.\nthumb|right|500px|The half-full taproom circa 1479 DR\nIn contrast to its rather unremarkable exterior, the inn featured spacious and welcoming bar on the its ground floor.\nA secret passageway within the inns cellar led into the Watchers Forest.\nIts taproom offered ample seating and featured grand hearth that contributed to a relaxing environment.\nWhen it operated under the name of the Old Dirty Dwarf, the inn and tavern was considered to be the finest in all of Helms Hold. The proprietor Juetta was particularly welcoming, catering to those individuals that were new to the city. Quite unfortunately the Dwarf did not cater to any spellscarred citizens of the city.\nBy the , the renamed Venturers Rest had become a favored stop for adventurers that were staying at Helms Hold.\nWhile many businesses in Helms Hold were forced to close down during difficult years that plagued Helms Hold in the latter half of the 15 century, the Old Dirty Dwarf stood strong.\nWhen the Prophet Rohini rose to power in the Helms Hold some time before the , the inn became a point of interest for her foulspawn agents. They monitored all the out-of-towners who passed through its doors and reported their findings to their devilish leader.\nDuring the Siege of Helms Hold that same year, the inn was used as a base of operations by Councilwoman Alisara Callum during her efforts to aid the reclamation of the city.\nYears after the Prophets demise, sometime between 1485 and 1489 DR, the Old Dirty Dwarf came under the ownership of Kharissa Anuvien, a paladin of Chauntea who was new to the city. She gave the inn the more dignified name the Venturers Rest and it remained a favored establishment for the people of Helms Hold."
     }
 }

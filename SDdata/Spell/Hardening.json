@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Hardening",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Sorcerer]]|6|[[Wizard]]|6}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Hardening''''' was a [[spell]] used by [[sorcerer]]s and [[wizard]]s.",
-        "Effects": "When cast, the spell altered the molecular structure of an object, increasing its density, making it harder. The spell was able to alter up to {{SI|10|cu ft}} of material at a time. The hardiness and the amount of material affected was determined by the caster's skill level. The spell did not affect an objects physical state nor it's ability to alter states. For example, if cast onto a sheet of ice, the ice would still melt normally when exposed to heat.",
-        "Components": "This spell required only [[Verbal component|verbal]] and [[somatic component|somatic]] components."
+        "mainbody": "Hardening was a spell used by sorcerers and wizards.\nWhen cast, the spell altered the molecular structure of an object, increasing its density, making it harder. The spell was able to alter up to  of material at a time. The hardiness and the amount of material affected was determined by the casters skill level. The spell did not affect an objects physical state nor its ability to alter states. For example, if cast onto a sheet of ice, the ice would still melt normally when exposed to heat.\nThis spell required only verbal and somatic components."
     }
 }

@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "[[File:Juggling axes of 12.jpg]]",
-        "caption": "",
-        "name": "''Juggling Axes of the Twelve Short Adventurers''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Throwing axe]]s",
-        "creator": "",
-        "location": "[[Nelanther Isles]], [[Sea of Swords]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+1",
-        "value3e": "",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Juggling Axes of the Twelve Short Adventurers''''' were magical [[throwing axe]]s used by the jugglers of the popular [[halfling]] circus troupe [[Twelve Short Adventurers]] of the [[Nelanther Isles]].",
-        "Powers": "''Juggling Axes of the Twelve Short Adventurers'' possessed a ''+1'' magical enchantment and dealt additional magic damage to its target. These \"juggling\" axes were designed to be used by a [[halfling]] hand only.",
-        "History": "Around [[1372 DR]], these magical axes could be purchased from the pirates and traders of the [[Nelanther Isles]]' [[Spindrift Town]]."
+        "mainbody": "Juggling Axes of the Twelve Short Adventurers were magical throwing axes used by the jugglers of the popular halfling circus troupe Twelve Short Adventurers of the Nelanther Isles.\nJuggling Axes of the Twelve Short Adventurers possessed a +1 magical enchantment and dealt additional magic damage to its target. These \"juggling\" axes were designed to be used by a halfling hand only.\nAround 1372 DR, these magical axes could be purchased from the pirates and traders of the Nelanther Isles Spindrift Town."
     }
 }

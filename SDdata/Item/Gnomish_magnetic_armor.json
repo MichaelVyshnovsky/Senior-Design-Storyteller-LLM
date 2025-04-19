@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "50|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Gnomish magnetic armor.png",
-        "caption": "",
-        "name": "''Gnomish Magnetic Armor''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Hide armor]]",
-        "location": "[[Neverwinter]], [[Sword Coast]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+1",
-        "value3e": "",
-        "weight3e": "{{SI|50|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Gnomish magnetic armor''''' were sets of [[enchanted]] [[heavy armor]] of accidental [[gnomish]] ingenuity.",
-        "Powers": "These sets of plate armor were created with a ''+1'' enchantment, but it was nearly impossible for one to protect its wearer in battle effectively. Its magics, however, made it effective against spellcasters as it shielded the wearer from the effects of offensive spells.",
-        "History": "The first ''gnomish magnetic armor'' was born out of a profoundly stupid idea like so many other ingenious inventions made by [[gnome]]s. Tinkerers and [[artificer]]s of a certain workshop needed a simple way of cleaning metal tacks scattered around. They attempted to create a suit that possessed magnetic properties, thus repelling the pins and pricks (and sweeping the floors) but instead, they discovered a way to create magic-repellant fields. However disappointed the gnomes were over the failure, they quickly found a way to replicate the curious effect, and mass-produced suits they named ''gnomish magnetic armor''.\n\nBy [[1372 DR]], some of these armors could be found across the [[Sword Coast North]], and one was sold by the artificers of [[the Purple Portals]], the temple of [[Gond]] in [[Melvaunt]], ''circa'' [[1373 DR]]."
+        "mainbody": "Gnomish magnetic armor were sets of enchanted heavy armor of accidental gnomish ingenuity.\nThese sets of plate armor were created with a +1 enchantment, but it was nearly impossible for one to protect its wearer in battle effectively. Its magics, however, made it effective against spellcasters as it shielded the wearer from the effects of offensive spells.\nThe first gnomish magnetic armor was born out of a profoundly stupid idea like so many other ingenious inventions made by gnomes. Tinkerers and artificers of a certain workshop needed a simple way of cleaning metal tacks scattered around. They attempted to create a suit that possessed magnetic properties, thus repelling the pins and pricks (and sweeping the floors) but instead, they discovered a way to create magic-repellant fields. However disappointed the gnomes were over the failure, they quickly found a way to replicate the curious effect, and mass-produced suits they named gnomish magnetic armor.\nBy 1372 DR, some of these armors could be found across the Sword Coast North, and one was sold by the artificers of the Purple Portals, the temple of Gond in Melvaunt, circa 1373 DR."
     }
 }

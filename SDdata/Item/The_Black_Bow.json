@@ -1,24 +1,5 @@
 {
-    "template_data": {
-        "3|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "The Black Bow.png",
-        "caption": "",
-        "name": "''The Black Bow''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Longbow]]",
-        "creator": "",
-        "location": "[[Kuldahar]], [[Spine of the World]]<br/>[[Western Heartlands]], [[Faerûn]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "+3",
-        "value2e": "31,440 [[gp]]",
-        "weight2e": "{{SI|3|lb|k|long=yes}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -41,9 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''The Black Bow''''' was a powerful [[enchanted]] [[longbow]] and a weapon of vengeance thought to be ''[[bless]]ed'' by [[Tyr]], [[Hoar]], or [[Bhaal]].",
-        "Description": "''The Black Bow'' was a quite ordinary, crudely made, and dusty weapon in appearance.",
-        "Powers": "The [[bow]] possessed a powerful ''+3'' enchantment that dealt powerful damage, guided its [[arrow]]s toward the target, and increased the movement speed of the shooter's hands.",
-        "History": "The Black Bow was created at some point before the late 13{{th}} century [[DR]] by [[Jonan]] of [[Suzail]], a retired soldier and a Cormyrean settler of the [[Western Heartlands]]. Jonan spent years campaigning for the [[Dragon Throne]] and eventually saved enough to marry his childhood beloved and settle a new plot of land. They built a home and a humble farm to the north of [[Baldur's Gate]] and east of the [[Trollbark Forest]]. Five years later, the farm and all its neighbors were ransacked and torched to the ground by a gang of raiders. Jonan's wife and child both died in the raid.\n\nWeeks into his grief and rage, Jonan crafted the ''The Black Bow'' by hand and rubbed the weapon with the ashes of his dead family, creating a powerful tool of vengeance. ''The Black Bow'' ended up slaying every single raider and every person who's ever done business or consorted with the bandits.\n\nSages speculated on the topic of how the ''The Black Bow'' gained its enchantments. Some believed that it happened only after the veteran's death and the weapon was ''blessed'' by Tyr, Hoar, and some even claimed that [[Bhaal]] has a hand in the weapon's enchantment. The theory depended heavily on who thought Jonan's actions to be justice, vengeance, or murder.\n\nOver time this weapon changed hands until ending up in possession of the blacksmith [[Conlan]] in [[Kuldahar]] in the {{YearlinkName|1281}}."
+        "mainbody": "The Black Bow was a powerful enchanted longbow and a weapon of vengeance thought to be blessed by Tyr, Hoar, or Bhaal.\nThe Black Bow was a quite ordinary, crudely made, and dusty weapon in appearance.\nThe bow possessed a powerful +3 enchantment that dealt powerful damage, guided its arrows toward the target, and increased the movement speed of the shooters hands.\nThe Black Bow was created at some point before the late 13 century DR by Jonan of Suzail, a retired soldier and a Cormyrean settler of the Western Heartlands. Jonan spent years campaigning for the Dragon Throne and eventually saved enough to marry his childhood beloved and settle a new plot of land. They built a home and a humble farm to the north of Baldurs Gate and east of the Trollbark Forest. Five years later, the farm and all its neighbors were ransacked and torched to the ground by a gang of raiders. Jonans wife and child both died in the raid.\nWeeks into his grief and rage, Jonan crafted the The Black Bow by hand and rubbed the weapon with the ashes of his dead family, creating a powerful tool of vengeance. The Black Bow ended up slaying every single raider and every person whos ever done business or consorted with the bandits.\nSages speculated on the topic of how the The Black Bow gained its enchantments. Some believed that it happened only after the veterans death and the weapon was blessed by Tyr, Hoar, and some even claimed that Bhaal has a hand in the weapons enchantment. The theory depended heavily on who thought Jonans actions to be justice, vengeance, or murder.\nOver time this weapon changed hands until ending up in possession of the blacksmith Conlan in Kuldahar in the ."
     }
 }

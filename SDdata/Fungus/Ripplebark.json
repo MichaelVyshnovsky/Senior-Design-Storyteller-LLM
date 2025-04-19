@@ -1,20 +1,10 @@
 {
-    "template_data": {
-        "7|10|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Ripplebark",
-        "othernames": "Arantym",
-        "nicknames": "",
-        "type": "Fungus",
-        "location": "The [[Underdark]], caverns{{Cite web/Wyrms of the North/Zundaerazylym, the \"Laughing Wyrm\"}}",
         "useon": "",
         "origin": "",
         "value": "",
         "usage": "Food",
-        "consumedby": "[[Orc]]s",
+        "consumedby": "Orcs",
         "poisonousto": "",
         "lifespan": "",
         "height": "",
@@ -24,8 +14,6 @@
         "distinctions": "Resembles a shelf of rotten flesh, fuzzy-textured",
         "first": "",
         "based": "",
-        "mainbody": "'''Ripplebark''', known to [[dwarves]] as '''arantym''', was a large subterranean [[fungus]] that grew in the [[Underdark]].",
-        "Description": "Ripplebark grew in shelf-like formations that resembled masses of decaying flesh but had a nut-like flavor. Despite its looks, it was quite edible in its raw state and could be roasted to improve its nutty flavor. Scorched or burnt ripplebark turned black, but was still edible. It could also neutralize disease germs.  A single, large shelf of ripplebark could be harvested for {{SIrange|7|10|lb|k|long=yes}} of food.\n\nRipplebark was a hardy fungus, able to grow in the coldest caverns or in geothermally heated passages. It did not require light, but thrived when light was available and flourished in heat. In drought or extreme cold it fell dormant for up to eight years waiting for a source of nutrition. It could grow on plant material, including living or dead wood, other fungi, or even pull nutrients from humid air and mist. It also cleansed any [[disease]]s that it absorbed.",
-        "Usages": "* Ripplebark was a major food source for [[orc]]s in the [[North]].\n* The [[steel dragon]] [[Zundaerazylym]] experimented with ripplebark to create a highly potent food source for dragons she called [[longbite (food)|longbite]]."
+        "mainbody": "Ripplebark, known to dwarves as arantym, was a large subterranean fungus that grew in the Underdark.\nRipplebark grew in shelf-like formations that resembled masses of decaying flesh but had a nut-like flavor. Despite its looks, it was quite edible in its raw state and could be roasted to improve its nutty flavor. Scorched or burnt ripplebark turned black, but was still edible. It could also neutralize disease germs.  A single, large shelf of ripplebark could be harvested for  of food.\nRipplebark was a hardy fungus, able to grow in the coldest caverns or in geothermally heated passages. It did not require light, but thrived when light was available and flourished in heat. In drought or extreme cold it fell dormant for up to eight years waiting for a source of nutrition. It could grow on plant material, including living or dead wood, other fungi, or even pull nutrients from humid air and mist. It also cleansed any diseases that it absorbed.\n* Ripplebark was a major food source for orcs in the North.\n* The steel dragon Zundaerazylym experimented with ripplebark to create a highly potent food source for dragons she called longbite."
     }
 }

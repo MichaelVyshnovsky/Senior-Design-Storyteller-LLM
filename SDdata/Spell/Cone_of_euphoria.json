@@ -1,31 +1,6 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "20|ft|long": "yes",
-        "20|ft|long_1": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Cone of Euphoria",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Evocation]] (Compulsion)",
-        "domains3e": "",
-        "descriptors3e": "{{desc/mind-affecting}}",
-        "level3e": "{{spell table|edition=3e|[[Bard]]|3|[[Druid]]|4|[[Sorcerer]]|4|[[Wizard]]|4|}}",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -39,8 +14,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Cone of euphoria''''' was a spell that affected the mind.",
-        "Effects": "When cast, a cone of sparkling motes was exhaled by the caster. This cone extended up to {{SI|20|ft|long=yes}} from the caster and had an area of up to {{SI|20|ft|long=yes}}. Any creature within this cone was struck by an intense sensation of euphoria.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required a [[material component]], a small amount of [[gem]] dust with a value of at least 10 [[gold piece]]s."
+        "mainbody": "Cone of euphoria was a spell that affected the mind. \nWhen cast, a cone of sparkling motes was exhaled by the caster. This cone extended up to  from the caster and had an area of up to . Any creature within this cone was struck by an intense sensation of euphoria. \nIn addition to verbal and somatic components, this spell required a material component, a small amount of gem dust with a value of at least 10 gold pieces."
     }
 }

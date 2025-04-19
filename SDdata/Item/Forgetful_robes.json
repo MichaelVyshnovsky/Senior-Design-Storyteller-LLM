@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "10|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Forgetful robes.png",
-        "caption": "",
-        "name": "''Forgetful Robes''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Robe]]",
-        "creator": "",
-        "location": "[[Waterdeep]], [[Sword Coast North]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|10|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Forgetful robes''''' were simple [[enchanted]] [[robe]]s tailored for the use of [[bard]]s, [[sorcerer]]s, and [[wizard]]s.",
-        "Powers": "These robes were created to enhance the wearer's memories and significantly improve their concentration. Additionally, bards, wizards, and sorcerers who wore ''forgetful robes'' could memorize one additional intermediate [[spell]] per day.",
-        "History": "Some time long before the {{YearlinkName|1374}}, the first ''forgetful robes'' were created by a wizard from the City of Splendors, [[Waterdeep]]. The spellcaster, whose name was forgotten, was afraid of his memory degrading with age. The wizard enchanted a set of these robes to help him with spell memorization and concentration. However, he continued creating ''forgetful robes'', forgetting that the deed had already been done. The wizard was unhappy when he realized the volume of enchanted clothes he had made. Nevertheless, it was good to have spares.\n\nAs of [[1374 DR]], one of the ''forgetful robes'' could be found underneath an old ruined structure deep in the [[Neverwinter Wood]]. The collapsed building's basement led to an underground chamber, possibly a lost crypt, patrolled by an aggressive malfunctioning [[iron golem]]. The owner of the mausoleum, the robes, and the [[golem]] remained unknown."
+        "mainbody": "Forgetful robes were simple enchanted robes tailored for the use of bards, sorcerers, and wizards.\nThese robes were created to enhance the wearers memories and significantly improve their concentration. Additionally, bards, wizards, and sorcerers who wore forgetful robes could memorize one additional intermediate spell per day.\nSome time long before the , the first forgetful robes were created by a wizard from the City of Splendors, Waterdeep. The spellcaster, whose name was forgotten, was afraid of his memory degrading with age. The wizard enchanted a set of these robes to help him with spell memorization and concentration. However, he continued creating forgetful robes, forgetting that the deed had already been done. The wizard was unhappy when he realized the volume of enchanted clothes he had made. Nevertheless, it was good to have spares.\nAs of 1374 DR, one of the forgetful robes could be found underneath an old ruined structure deep in the Neverwinter Wood. The collapsed buildings basement led to an underground chamber, possibly a lost crypt, patrolled by an aggressive malfunctioning iron golem. The owner of the mausoleum, the robes, and the golem remained unknown."
     }
 }

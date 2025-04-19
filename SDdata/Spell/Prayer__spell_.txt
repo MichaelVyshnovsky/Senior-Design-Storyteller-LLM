@@ -1,29 +1,17 @@
-{{Spell
-| name          = Prayer
-| image         = Prayer.png
-| school3e      = [[Enchantment]] ([[Compulsion spells|Compulsion]])
-| level3e       = {{Spell table|edition=3e|[[Champion of Gwynharwyf]]|3|[[Cleric]]|3|[[Orc domain|Orc]]|3|[[Paladin]]|3|[[Sohei]]|3}}
-| descriptors3e = {{Desc/mind-affecting}}
-| domains3e     = [[Orc domain|Orc]]
+| descriptors3e = 
+| domains3e     = Orc
 | type3e        = 
 | refs3e        = 
-| school2e      = [[Conjuration]] (Summoning)
-| spheres2e     = [[Combat sphere|Combat]]
-| level2e       = {{spell table|edition=2e|[[Cleric]]|3|[[Combat sphere|Combat]]|3|[[Crusader]]|3|[[Monk]]|3|[[Paladin]]|3}}
+| school2e      = Conjuration (Summoning)
+| spheres2e     = Combat
+| level2e       = 
 | type2e        = 
 | refs2e        = 
-| school1e      = [[Conjuration]] (Summoning)
-| level1e       = {{spell table|edition=1e|[[Cleric]]|3|[[Paladin]]|3|[[Shugenja|Shukenja]]|3|[[Sohei]]|3|[[Witch doctor]]|3}}
+| school1e      = Conjuration (Summoning)
+| level1e       = 
 | type1e        = 
-| refs1e        = {{Cite dragon/141/Orcs Throw Spells, Too!|26}}
-}}
-'''''Prayer''''' was a [[enchantment]] or [[conjuration]] spell that brought divine favor to a battle; encouraging allies and discouraging foes.
-
-==Effects==
-The caster and all allies within the area of effect were granted better luck in striking their enemies and gave a small boost in skill or strength so the blows that landed were more damaging. Likewise, all enemies of the caster in the area of effect were subjected to poor luck in combat and a weakening of any blows that managed to land. The area of effect for the enchantment version of this spell was a {{SI|40|ft|long=yes}} radius around the caster. The conjuration version had a radius of {{SI|60|ft|long=yes}}. The duration of the ''prayer'' was a few minutes and increased with the experience of the caster.
-
-If the older version of this spell were cast when another priest of the same religion was casting ''[[chant]]'', the effect of the ''chant'' was doubled.
-
-==Components==
-The newer version of this spell required only the priest's [[holy symbol]] or [[divine focus]] in addition to the [[verbal]] and [[somatic]] components to cast this spell. The older version specifically required a [[silver]] holy symbol, prayer beads, or similar religious accoutrement.
-
+| refs1e        = 
+Prayer was a enchantment or conjuration spell that brought divine favor to a battle encouraging allies and discouraging foes.
+The caster and all allies within the area of effect were granted better luck in striking their enemies and gave a small boost in skill or strength so the blows that landed were more damaging. Likewise, all enemies of the caster in the area of effect were subjected to poor luck in combat and a weakening of any blows that managed to land. The area of effect for the enchantment version of this spell was a  radius around the caster. The conjuration version had a radius of . The duration of the prayer was a few minutes and increased with the experience of the caster.
+If the older version of this spell were cast when another priest of the same religion was casting chant, the effect of the chant was doubled.
+The newer version of this spell required only the priests holy symbol or divine focus in addition to the verbal and somatic components to cast this spell. The older version specifically required a silver holy symbol, prayer beads, or similar religious accoutrement.

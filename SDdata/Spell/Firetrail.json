@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Firetrail",
-        "deity": "",
-        "inventor": "[[Thermal]]",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Invocation/Evocation]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|4}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Firetrail''''' was a very rare [[spell]] that could only be cast by [[dragon]]s.",
-        "Effects": "When cast, this spell created a trail of liquid fire {{SI|40|ft}} behind a dragon. The droplets of fiery liquid then fell rapidly to the ground. Upon hitting the ground, the droplets exploded, creating a burst of flame. It only burned for a few seconds and was a hot as a normal torch. The spell could only be cast by a dragon while airborne. \n\nBefore the droplets hit the ground, they could be spread by either magical or natural wind, lessening their effect on the ground directly underneath them but spreading it elsewhere.",
-        "Casting": "The spell required only a [[Verbal component|verbal]] component.",
-        "History": "The spell was created by the ancient [[red dragon]] [[Thermal]]. He created it to lay waste to towns and other settlements."
+        "mainbody": "Firetrail was a very rare spell that could only be cast by dragons.\nWhen cast, this spell created a trail of liquid fire  behind a dragon. The droplets of fiery liquid then fell rapidly to the ground. Upon hitting the ground, the droplets exploded, creating a burst of flame. It only burned for a few seconds and was a hot as a normal torch. The spell could only be cast by a dragon while airborne. \nBefore the droplets hit the ground, they could be spread by either magical or natural wind, lessening their effect on the ground directly underneath them but spreading it elsewhere.\nThe spell required only a verbal component.\nThe spell was created by the ancient red dragon Thermal. He created it to lay waste to towns and other settlements."
     }
 }

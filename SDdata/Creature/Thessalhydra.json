@@ -1,38 +1,10 @@
 {
-    "template_data": {
-        "18|ft|long": "yes",
-        "6|ft|long": "yes",
-        "12|ft|long": "yes",
-        "30|yd|long": "yes"
-    },
     "document_data": {
-        "image": "<gallery>",
-        "caption2": "Various depictions of Thessalhydras.",
-        "name": "Thessalhydra",
-        "othernames": "",
-        "size5e": "Huge",
-        "type5e": "[[Monstrosity]]",
-        "subtype5e": "",
-        "alignment5e": "[[Unaligned]]",
-        "challenge5e": "4",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "Huge",
-        "type3e": "[[Aberration]]",
-        "subtype3e": "",
-        "alignment3e": "Always [[neutral]]",
-        "challenge3e": "15",
-        "refs3e": "{{Cite dungeon/134/Into the Wormcrawl Fissure|87-88}}",
         "size2e": "Gargantuan",
-        "alignment2e": "[[Neutral]]",
+        "alignment2e": "Neutral",
         "refs2e": "",
         "size1e": "Large",
-        "alignment1e": "[[Neutral]]",
+        "alignment1e": "Neutral",
         "refs1e": "",
         "patron deity": "",
         "movement": "",
@@ -46,8 +18,8 @@
         "climate": "",
         "terrain": "Jungles, swamps, underground",
         "genrefs": "",
-        "height": "{{SIrange|8|20|ft}}",
-        "length": "{{SIrange|30|36|ft}}",
+        "height": "",
+        "length": "",
         "wingspan": "",
         "weight": "",
         "skincolor": "Dark green",
@@ -61,13 +33,6 @@
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Thessalhydras''' were one of the four known [[thessalmonster]]s, a species of crossbred hybrid creatures.",
-        "Description": "Thessalhydras were hideous and terrifying creatures. They had a large, reptilian body with a long tail, {{SI|18|ft|long=yes}} in length, which ended in a pair of large, sharp pincers. It had no head, instead eight hydra-like heads, each about {{SI|6|ft|long=yes}} in length, surrounded a gaping mouth filled with teeth and acidic saliva.",
-        "Abilities": "Thessalhydras had a natural immunity to all known acids and poisons with acidic effects. If one of its heads was severed, it grew back over a twelve day period. Once per day, it could spit a large amount of acid at a target, covering an area of {{SI|12|ft|long=yes}} with a range of up to {{SI|30|yd|long=yes}}.",
-        "Combat": "A thessalhydra made for a formidable opponent in battle. Each of its eight heads attacked independently, each bite delivering a potent poison. It used the pincer on the end of it's tail to grab a target, lifting and dragging the unfortunate creature into its mouth.",
-        "Ecology": {
-            "Habitats": "Thessalhydras were typically found in jungles, swamps, or underground locations. \n\nIn [[Northwest Faerûn]], some were known to dwell within the [[Mere of Dead Men]].{{Cite dragon/258/Voaraghamanthar, \"the Black Death\"|53}} Beyond [[Faerûn]], some were known to be found in the land of [[Chult]].",
-            "Usage": "Juvenile thessalhydras were sometimes used as guards. They were not trained, attacking anyone who approached them. Thessalhydra eggs were worth up to 7,500 [[gp]] and a live juvenile up to 12,000 gp."
-        }
+        "mainbody": "Thessalhydras were one of the four known thessalmonsters, a species of crossbred hybrid creatures.\nThessalhydras were hideous and terrifying creatures. They had a large, reptilian body with a long tail,  in length, which ended in a pair of large, sharp pincers. It had no head, instead eight hydra-like heads, each about  in length, surrounded a gaping mouth filled with teeth and acidic saliva.\nThessalhydras had a natural immunity to all known acids and poisons with acidic effects. If one of its heads was severed, it grew back over a twelve day period. Once per day, it could spit a large amount of acid at a target, covering an area of  with a range of up to .\nA thessalhydra made for a formidable opponent in battle. Each of its eight heads attacked independently, each bite delivering a potent poison. It used the pincer on the end of its tail to grab a target, lifting and dragging the unfortunate creature into its mouth.\nThessalhydras were voracious carnivores. They would not hesitate to kill and eat another of their kind.\nThessalhydras were typically found in jungles, swamps, or underground locations. \nIn Northwest Faerûn, some were known to dwell within the Mere of Dead Men. Beyond Faerûn, some were known to be found in the land of Chult.\nJuvenile thessalhydras were sometimes used as guards. They were not trained, attacking anyone who approached them. Thessalhydra eggs were worth up to 7,500 gp and a live juvenile up to 12,000 gp."
     }
 }

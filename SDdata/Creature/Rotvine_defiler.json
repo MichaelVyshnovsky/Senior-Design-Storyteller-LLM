@@ -1,42 +1,13 @@
 {
-    "template_data": {
-        "15|feet|long": "yes",
-        "20|feet|long": "yes",
-        "50|feet|long": "yes"
-    },
     "document_data": {
-        "image": "Rotvine defiler 4e.jpg",
-        "caption": "",
-        "name": "Rotvine Defiler",
-        "othernames": "",
-        "origin4e": "[[Immortal]]",
-        "size4e": "Gargantuan",
-        "type4e": "[[Magical beast]]",
-        "subtype4e": "Plant, Undead",
-        "alignment4e": "[[Chaotic evil]]",
-        "refs4e": "",
-        "patron deity": "[[Talona]]",
-        "movement": "Burrowing",
-        "vision": "[[Darkvision]], [[Tremorsense]]",
-        "activecycle": "",
-        "diet": "",
-        "lifespan": "Immortal",
-        "location": "[[Dunwood]]",
-        "intelligence": "{{Int|8}}",
         "language": "-",
         "subraces": "",
         "climate": "",
         "terrain": "",
         "genrefs": "",
-        "first": "''[[Lady of Poison]]''",
+        "first": "Lady of Poison",
         "based": "",
         "histrefs": "",
-        "mainbody": "A '''rotvine defiler''' was an [[abomination]] born from a divinity of fertility.",
-        "Description": "These creatures were described as a morass of tendrils, vines, rotting animals, and mud. In one particular case, a rotvine defiler resembled a treelike, ovoid creature made of indistinct flesh, with four flat legs and a single horn akin to that of a [[unicorn]]; the horn measured {{SI|15|feet|long=yes}}, while the creature was twice that on a side.",
-        "Personality": "Their intentions were generally limited to the destruction of all life.",
-        "Combat": "The despoiled morass of a rotvine defiler caused an aura that extended to about {{SI|20|feet|long=yes}} away; anyone standing within would be slowed by it. All their attacks caused bodily withering to any living creature they struck. They generally attacked with lashing tendrils, which made it nigh-impossible to move anywhere for those they managed to strike. Sometimes, their tendrils struck out with rot, becoming a hazard for anyone standing close; those who became restrained by the tentacles of rot were soon struck with earthly maws that continued to break down the bodies of those who had yet to free themselves.\n\nIn response to severe damage, rotvine defilers released an explosion of vile vapors that caused even more intense, deadly withering to anyone within {{SI|50|feet|long=yes}}. Those who actually managed to defeat the defiler would induce another such burst.",
-        "Society": "Rotvine defilers were sometimes accompanied by [[blood fiend]]s, when they allowed other creatures to accompany them at all. They generally remained encysted until a sacrifice released their seals.\n\nIn one particular case, a rotvine defiler was bred by the [[Rotting Man]], a [[Talonite]] patriarch of the [[Unapproachable East]]. The creature remained encysted until commanded to reveal itself by him in 1373 DR.",
-        "History": "In the {{yearlinkName|1373}}, the Rotting Man of [[Dun-Tharos]] attempted to strike down [[Araluen]], an [[aspect]] of [[Lurue]], with a creature born of the corrupted majority of her essence that he'd stolen a decade prior: a rotvine defiler named simply the Step-Daughter of [[Talona]].{{cite book/Lady of Poison|287-288|30}} Unfortunately for him, Araluen was able to assimilate this essence again and proceeded to run him out of his stronghold with it.{{cite book/Lady of Poison|298-301|31}}",
-        "Notable Rotvine Defilers": "* [[Araluen]]While neither Araluen nor the Step-Daughter of Talona are described as rotvine defilers in ''Lady of Poison'', nor are they a perfect match for the description of one, the novel is written by Bruce Cordell, one of the lead writers of ''Open Grave'', which presents the rotvine defiler. The Step-Daughter is also described as an abomination, as are the rotvine defilers, and her backstory echoes many such aspects: she is created from the corrupted essence of a deity of the wild and greenery. Thus, it is assumed in this article that the rotvine defiler is intended to be the same kind of creature as the Step-Daughter of Talona."
+        "mainbody": "A rotvine defiler was an abomination born from a divinity of fertility.\nThese creatures were described as a morass of tendrils, vines, rotting animals, and mud. In one particular case, a rotvine defiler resembled a treelike, ovoid creature made of indistinct flesh, with four flat legs and a single horn akin to that of a unicorn the horn measured , while the creature was twice that on a side.\nTheir intentions were generally limited to the destruction of all life.\nThe despoiled morass of a rotvine defiler caused an aura that extended to about  away anyone standing within would be slowed by it. All their attacks caused bodily withering to any living creature they struck. They generally attacked with lashing tendrils, which made it nigh-impossible to move anywhere for those they managed to strike. Sometimes, their tendrils struck out with rot, becoming a hazard for anyone standing close those who became restrained by the tentacles of rot were soon struck with earthly maws that continued to break down the bodies of those who had yet to free themselves.\nIn response to severe damage, rotvine defilers released an explosion of vile vapors that caused even more intense, deadly withering to anyone within . Those who actually managed to defeat the defiler would induce another such burst.\nRotvine defilers were sometimes accompanied by blood fiends, when they allowed other creatures to accompany them at all. They generally remained encysted until a sacrifice released their seals.\nIn one particular case, a rotvine defiler was bred by the Rotting Man, a Talonite patriarch of the Unapproachable East. The creature remained encysted until commanded to reveal itself by him in 1373 DR.\nIn the , the Rotting Man of Dun-Tharos attempted to strike down Araluen, an aspect of Lurue, with a creature born of the corrupted majority of her essence that hed stolen a decade prior a rotvine defiler named simply the Step-Daughter of Talona. Unfortunately for him, Araluen was able to assimilate this essence again and proceeded to run him out of his stronghold with it.\n* AraluenWhile neither Araluen nor the Step-Daughter of Talona are described as rotvine defilers in Lady of Poison, nor are they a perfect match for the description of one, the novel is written by Bruce Cordell, one of the lead writers of Open Grave, which presents the rotvine defiler. The Step-Daughter is also described as an abomination, as are the rotvine defilers, and her backstory echoes many such aspects she is created from the corrupted essence of a deity of the wild and greenery. Thus, it is assumed in this article that the rotvine defiler is intended to be the same kind of creature as the Step-Daughter of Talona."
     }
 }

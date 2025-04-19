@@ -1,52 +1,38 @@
-{{Creature
-| image        = <gallery>
-Sahuagin-5e.png|5e
-Sahuagin4e.jpg|4e
-Sahuagin.jpg|3e
-sahuagin.gif|2e
-Sahuaginconcept.jpg|1e
-</gallery>
-| caption2     = Various depictions of sahuagin.
-| name         = Sahuagin
-| size5e       = Medium
-| type5e       = [[Humanoid]]
-| subtype5e    = [[Sahuagin]]
-| alignment5e  = [[Lawful evil]]
-| challenge5e  = {{CR table|edition=5e|Sahuagin|{{Frac|1|2}}|Priestess|2|Baron|5}}
+|Priestess|2|Baron|5
 | refs5e       = 
 | size4e       = Medium
-| origin4e     = [[Natural creature|Natural]]
-| type4e       = [[Humanoid]]
-| subtype4e    = [[Aquatic creature|Aquatic]]
-| alignment4e  = [[Chaotic evil]]
+| origin4e     = Natural
+| type4e       = Humanoid
+| subtype4e    = Aquatic
+| alignment4e  = Chaotic evil
 | refs4e       = 
 | size3e       = Medium
-| type3e       = [[Monstrous humanoid]]
-| subtype3e    = [[Aquatic creature|Aquatic]]
-| alignment3e  = Usually [[lawful evil]]
+| type3e       = Monstrous humanoid
+| subtype3e    = Aquatic
+| alignment3e  = Usually lawful evil
 | challenge3e  = 2
 | refs3e       = 
 | size2e       = Medium or large
-| alignment2e  = [[Lawful evil]]
+| alignment2e  = Lawful evil
 | refs2e       = 
 | size1e       = Medium
-| alignment1e  = [[Lawful evil]]
+| alignment1e  = Lawful evil
 | refs1e       = 
-| patron deity = [[Sekolah]]
+| patron deity = Sekolah
 | movement     = Swimming
-| vision       = [[Darkvision]], [[low-light vision]]
+| vision       = Darkvision, low-light vision
 | activecycle  = 
 | diet         = Carnivore
 | lifespan     = 
 | location     = 
-| language     = [[Abyssal]], [[Aquan]], [[Common]], [[Sahuagin language|Sahuagin]]
-| subraces     = [[Malenti]]
+| language     = Abyssal, Aquan, Common, Sahuagin
+| subraces     = Malenti
 | climate      = Warm
 | terrain      = Aquatic
-| height       = {{SI|6|ft}}
+| height       = 
 | length       = 
 | wingspan     = 
-| weight       = {{SI|200|lbs|k}}
+| weight       = 
 | skincolor    = Green
 | haircolor    = 
 | feathers     = 
@@ -54,54 +40,22 @@ Sahuaginconcept.jpg|1e
 | build        = Muscular
 | distinctions = 
 | based        = 
-| first        = ''[[Wikipedia:Blackmoor (supplement)|Blackmoor]]'' (called "Devil Men of the Deep")
-}}
-'''Sahuagin''' ({{SingPl|refs={{Cite dragon/93/Ay pronunseeAYshun gyd|28}}{{Cite web/Dungeons & Dragons FAQ}}}} {{Pronounce|alt=yes|sah|HAH|gwin|refs={{Cite web/Ed Greenwood's Patreon/Jewel Gleaming Bright: What's Afoot in the City of Berdusk in 1499 DR)}}}} {{Pronounce|alt=yes|sah|HOO|ah|ginn|refs=}}) were a fish-like [[monstrous humanoid]] species that lived in oceans, seas, underground lakes, and underwater caves.
-
-==Etymology==
+| first        = Blackmoor (called "Devil Men of the Deep")
+Sahuagin (  ) were a fish-like monstrous humanoid species that lived in oceans, seas, underground lakes, and underwater caves.
 Although the correct term to address them as a race was sahuagin, those that fear or despised them usually called them "sea devils" or even more derisively, "fish heads".
-
-==Description==
-Sahuagin were usually green-skinned; darker on the back and lighter on the belly. Many had dark stripes, bands, or spots, but these tended to fade with age. An adult male sahuagin stood roughly {{SI|6|ft|long=yes}} tall and weighed about {{SI|200|pounds|k|long=yes}}. Sahuagin were highly fish-like, with webbed feet and hands, gills, and a finned tail. There was additional webbing down the back, at the elbows and, notably, also where [[human]] ears would be. Some sahuagin developed towering physiques, reaching {{SI|9|feet|long=yes}} tall. The larger beings usually rose to higher positions, as the savage nature of the sahuagin enabled challenges to the death for higher status.
-
+Sahuagin were usually green-skinned darker on the back and lighter on the belly. Many had dark stripes, bands, or spots, but these tended to fade with age. An adult male sahuagin stood roughly  tall and weighed about . Sahuagin were highly fish-like, with webbed feet and hands, gills, and a finned tail. There was additional webbing down the back, at the elbows and, notably, also where human ears would be. Some sahuagin developed towering physiques, reaching  tall. The larger beings usually rose to higher positions, as the savage nature of the sahuagin enabled challenges to the death for higher status.
 Females developed specks of yellow on their tails, which would grow in number until the whole tail was of a deep yellow color. At that point, the female was no longer considered fit for mating.
-
-===Mutations===
 About one in every 216 hatchlings possessed four functional arms. Known as "barons",
-
-If a sahuagin abode was near a [[sea elf]] community or was frequently visited by a sea elf, a strange mutation occurred within the sahuagin clan. About one in every 100 hatchlings appeared to look like a sea elf with greenish-silver skin and green or blue hair. These mutants were called [[malenti]]. Malenti were shunned by the clan as whole, but were protected by the clan's ruler and raised as spies by the clans best warriors and the priestesses.
-
-==Combat==
-Savage fighters, sahuagin asked for and gave no quarter; not even to children or babies. They had wide and powerful jaws filled with long, sharp fangs, which they often used in battle. When swimming, a sahuagin tore with its feet or hands, striking with its talons or a weapon. [[Spear]]s and [[trident]]s were their favored weapons, which they often coated in a poison they prepared. About half of any group of sahuagin were also armed with [[net]]s that were laced with barbs.
-
+If a sahuagin abode was near a sea elf community or was frequently visited by a sea elf, a strange mutation occurred within the sahuagin clan. About one in every 100 hatchlings appeared to look like a sea elf with greenish-silver skin and green or blue hair. These mutants were called malenti. Malenti were shunned by the clan as whole, but were protected by the clans ruler and raised as spies by the clans best warriors and the priestesses.
+Savage fighters, sahuagin asked for and gave no quarter not even to children or babies. They had wide and powerful jaws filled with long, sharp fangs, which they often used in battle. When swimming, a sahuagin tore with its feet or hands, striking with its talons or a weapon. Spears and tridents were their favored weapons, which they often coated in a poison they prepared. About half of any group of sahuagin were also armed with nets that were laced with barbs.
 Although they excelled in physical prowess, they greatly feared magic, so they never tried developing or studying it for any purpose. Only priestesses of Sekolah used clerical magic granted by the god and even that magic was regarded with fear and as a necessary evil.
-
-==Society==
-{{Fq
-| width  = 400px
-| source = Junus McKenn, [[wereshark]]
-| text   = Savages? Maybe. It depends on what you mean by the term. Sahuagin have a civilization, make no mistake about that. The sea devils have rules, cities, books, medicine, money, and all the other trappings. In fact, they regard land dwellers as backward, ineffectual, superstitious fools. If you mean to say that sahuagin are not like you&mdash;you're right. Sea devils aren't just people with fins that's for sure. If you mean to say sahuagin are vicious, merciless and bloodthirsty, you're right, but you don't know the half of it.
-}}
-
-Sahuagin were the natural enemies of [[aquatic elves]] and [[lizardfolk]]. Elves and sahuagin could not co-exist peacefully, and wars between them were often prolonged, bloody affairs that occasionally even interfered with shipping and maritime trade. Sahuagin tolerated the lizardfolk much more than they did the elves. Sahuagin had an only slightly less hatred for [[triton]]s. Exactly why the two races hated each other so much was unknown.
-
-They often raided [[yurian]] villages, considering them a delicacy.
-
-Sahuagin lived in underwater settlements that also had underground passages and tunnels, which connected the houses above the floor. Their society was strictly patriarcal, with a king ruling over princes, who in turn ruled over barons. Each baron ruled over a village, while a prince would dominate twenty villages and a king would govern an entire coastline. Kings would administer cities of several thousands inhabitants, and their palace were always much bigger than any of the other buildings in the area. Although they didn't rule, females had similar hierarchies among teachers, lore-keepers and priestesses.{{Cite dungeon/193/Monster Manual Update: Sahuagin|34-37}}
-
-[[File:Sahuagin_baron-5e.jpg|thumb|250px|''A sahuagin baron.'']]
-They also had a very particular way of keeping lore, using what they called ''[[singing bundle]]s''—conchs and shells supported by bone and sinew. When shaken, they made the clicking and hissing sounds of sahuagin language.
-
+Sahuagin were the natural enemies of aquatic elves and lizardfolk. Elves and sahuagin could not co-exist peacefully, and wars between them were often prolonged, bloody affairs that occasionally even interfered with shipping and maritime trade. Sahuagin tolerated the lizardfolk much more than they did the elves. Sahuagin had an only slightly less hatred for tritons. Exactly why the two races hated each other so much was unknown.
+They often raided yurian villages, considering them a delicacy.
+Sahuagin lived in underwater settlements that also had underground passages and tunnels, which connected the houses above the floor. Their society was strictly patriarcal, with a king ruling over princes, who in turn ruled over barons. Each baron ruled over a village, while a prince would dominate twenty villages and a king would govern an entire coastline. Kings would administer cities of several thousands inhabitants, and their palace were always much bigger than any of the other buildings in the area. Although they didnt rule, females had similar hierarchies among teachers, lore-keepers and priestesses.
+thumb|250px|A sahuagin baron.
+They also had a very particular way of keeping lore, using what they called singing bundles—conchs and shells supported by bone and sinew. When shaken, they made the clicking and hissing sounds of sahuagin language.
 Multiple births were frequent among sahuagin and they dealt very harshly with offspring who were not robust or aggressive enough, eliminating them through compulsory fights to the death between the young. Sahuagin seemed fixated on all aspects of consumption and were eager to weed out anything they saw as weak or unworthy to compete for resources.
-
-When going to war, sahuagin followed a certain protocol called the [[Laws of Battle]]. Sometimes however, a group of the sea devils would form a so-called Wild Hunt, which went on a frenzied rampage ignoring all rules.
-
-===Languages===
-Sahuagin spoke [[Sahuagin (language)|their own language]], though some were known to also speak [[Common]], [[Abyssal]] and [[Aquan]].
-
-===Religion===
-Sahuagin worshiped [[Sekolah]], god of [[shark]]s, as their patron deity.
-
-==Trivia==
-The [[adventuress]] [[Zaranda Star]] owned an [[inkpen]] from [[Kara-Tur]] made from the spine of a sahuagin and tipped with a [[steel]] nib.
-
+When going to war, sahuagin followed a certain protocol called the Laws of Battle. Sometimes however, a group of the sea devils would form a so-called Wild Hunt, which went on a frenzied rampage ignoring all rules.
+Sahuagin spoke their own language, though some were known to also speak Common, Abyssal and Aquan.
+Sahuagin worshiped Sekolah, god of sharks, as their patron deity.
+The adventuress Zaranda Star owned an inkpen from Kara-Tur made from the spine of a sahuagin and tipped with a steel nib.

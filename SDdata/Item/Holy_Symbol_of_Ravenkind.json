@@ -1,30 +1,7 @@
 {
-    "template_data": {
-        "30'|'\"|long": "yes",
-        "60'8|'\"|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Holy Symbol of Ravenkind''",
-        "othernames": "''Holy Symbol of the High Priest''",
-        "nicknames": "",
-        "type": "Wondrous item",
-        "creator": "",
-        "location": "[[Barovia]], [[Domains of Dread]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "''[[Divination]]''",
-        "casterlevel3e": "1{{st}}",
         "itemlevel3e": "",
-        "value3e": "1,500 [[gp]]",
+        "value3e": "1,500 gp",
         "weight3e": "",
         "refs3e": "",
         "level4e": "",
@@ -42,13 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The '''''Holy Symbol of Ravenkind''''', originally known as the '''''Holy Symbol of the High Priest''''', was a unique magic [[amulet]] and a symbol holy to the good inhabitants of [[Barovia]] of the [[Domains of Dread]].",
-        "Description": "The amulet was a round sun-shaped [[holy symbol]] made of [[platinum]]. A huge red crystal was embedded at the sun's center. The amulet was engraved with symbols light and truth.",
-        "Powers": {
-            "Bonding Ritual": "Due to the divine nature of the ''Holy Symbol of Ravenkind'', the amulet could only be wielded by good paladins and clerics who bonded with the item via a ritual.\n\nPerforming the bonding ritual required 1,500 [[gp]] worth of offerings and was necessary for the wearer to able to tap into the holy symbol's more powerful abilities. Before starting the ritual, the wearer needed to have successfully destroyed a vampire or vampire spawn while wearing the amulet. After the task was accomplished, the wearer had to spend eight hours praying to good deity or to a raven intercessor. Their prayers had to be performed while holding the amulet and paying a tithe to the deity.\n\nThe bonding ritual resulted in the owner of the amulet suffering small but permanent damage to their health and if the ''Holy Symbol of Ravenkind'' left the possession of the bound creature, they were weakened physically.",
-            "Creation": "A trained crafter of wondrous items could create a copy of the ''Holy Symbol of Ravenkind'' with the use of a ''[[detect evil]]'' spell and 1000 [[gold]] pieces worth of materials during the course of two days of work."
-        },
-        "History": "The ''Holy Symbol of Ravenkind'' was an ancient artifact that predated all organized religions active during the reign of [[Strahd von Zarovich]]. The common belief was that this holy symbol was given to an ancient [[paladin]] Lugdana, one of the first settlers of Barovia, by a [[giant raven]] or a divine servant of the gods, that is, an [[angel]] who took on the form of a [[raven]]. The paladin wielded the magic item in ridding the land of foul [[vampire]]s until his death. Clergy of Ravenloft adopted the symbol as their own after Lugdana's demise.",
-        "Notable Owners": "* Lord [[Dhelt]] of [[Elturel]] was thought to possess the ''Holy Symbol of Ravenkind'' by an assassin from Barovia who attacked the ruler in attempts to claim it but was killed in the process.\n* [[Jander Sunstar]], a [[gold elf]] vampire, once wielded the ''Holy Symbol of Ravenkind'' against Strahd.<ref>"
+        "mainbody": "The Holy Symbol of Ravenkind, originally known as the Holy Symbol of the High Priest, was a unique magic amulet and a symbol holy to the good inhabitants of Barovia of the Domains of Dread.\nThe amulet was a round sun-shaped holy symbol made of platinum. A huge red crystal was embedded at the suns center. The amulet was engraved with symbols light and truth.\nThe Holy Symbol of Ravenkind held ten charges of powerful divine magic and recovered from five to ten charges daily at dawn. The wielder of the holy symbol could expend one charge to hold a vampire or its spawn in place. When a cleric or a paladin used the Holy Symbol of Ravenkind to turn undead, they could expend three charges to empower the divine gift that repelled and destroyed undead. Expending five charges allowed the user to produce true sunlight out of the gem at the amulets center, which was deadly to the bloodsucking undead. The light shone with a  radius and lasted for up to ten minutes.\nBonding with the amulet unlocked its additional magical properties, such as being able to cast dancing lights, flare, or light spells at will with a simple uttering of the amulets command word. Another unlocked power allowed the wearer to feel undead creatures within  via concentration and allowed the wearer to harm undead being protected from normal and magical damage.\nDue to the divine nature of the Holy Symbol of Ravenkind, the amulet could only be wielded by good paladins and clerics who bonded with the item via a ritual.\nPerforming the bonding ritual required 1,500 gp worth of offerings and was necessary for the wearer to able to tap into the holy symbols more powerful abilities. Before starting the ritual, the wearer needed to have successfully destroyed a vampire or vampire spawn while wearing the amulet. After the task was accomplished, the wearer had to spend eight hours praying to good deity or to a raven intercessor. Their prayers had to be performed while holding the amulet and paying a tithe to the deity.\nThe bonding ritual resulted in the owner of the amulet suffering small but permanent damage to their health and if the Holy Symbol of Ravenkind left the possession of the bound creature, they were weakened physically.\nA trained crafter of wondrous items could create a copy of the Holy Symbol of Ravenkind with the use of a detect evil spell and 1000 gold pieces worth of materials during the course of two days of work.\nThe Holy Symbol of Ravenkind was an ancient artifact that predated all organized religions active during the reign of Strahd von Zarovich. The common belief was that this holy symbol was given to an ancient paladin Lugdana, one of the first settlers of Barovia, by a giant raven or a divine servant of the gods, that is, an angel who took on the form of a raven. The paladin wielded the magic item in ridding the land of foul vampires until his death. Clergy of Ravenloft adopted the symbol as their own after Lugdanas demise.\n* Lord Dhelt of Elturel was thought to possess the Holy Symbol of Ravenkind by an assassin from Barovia who attacked the ruler in attempts to claim it but was killed in the process.\n* Jander Sunstar, a gold elf vampire, once wielded the Holy Symbol of Ravenkind against Strahd."
     }
 }

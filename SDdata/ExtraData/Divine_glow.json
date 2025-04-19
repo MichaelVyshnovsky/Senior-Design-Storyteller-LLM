@@ -1,18 +1,7 @@
 {
-    "template_data": {
-        "variant": "prayer",
-        "variant_1": "prayer",
-        "variant_2": "prayer",
-        "edition": "4e",
-        "variant_3": "prayer"
-    },
     "document_data": {
-        "type": "Encounter",
-        "name": "Divine Glow",
-        "keywords": "{{desc/divine|variant=prayer}}{{desc/implement|variant=prayer}}{{desc/radiant|variant=prayer}}",
-        "level": "{{spell table|edition=4e|variant=prayer|[[Cleric]]|1}}",
+        "level": "",
         "rules": "4th",
-        "mainbody": "'''''Divine glow''''' was a [[cleric]] prayer that filled the area around the cleric with divine radiance, burning enemies and giving allies a better chance to strike their brightly lit opponents.\n{{Stub/Spell}}",
-        "References": "{{refs}}\nmhqwpnjtufll0yj80nhtx7c12r0uo80"
+        "mainbody": "Divine glow was a cleric prayer that filled the area around the cleric with divine radiance, burning enemies and giving allies a better chance to strike their brightly lit opponents.\nmhqwpnjtufll0yj80nhtx7c12r0uo80"
     }
 }

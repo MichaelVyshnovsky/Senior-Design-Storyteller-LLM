@@ -1,33 +1,6 @@
 {
-    "template_data": {
-        "rca": "right"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Potion of Stormshield",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Potion]]",
-        "creator": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "",
-        "refs3e": "",
-        "level4e": "8{{th}}+",
-        "value4e": "{{Split table|rca=right|Lvl 8|125 [[gp]]|Lvl 18|3,400 gp|Lvl 28|85,000 gp}}",
+        "value4e": "",
         "weight4e": "",
         "refs4e": "",
         "rarity5e": "",
@@ -41,9 +14,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Potions of stormshield''''' were a sort of damage resistance [[potion]] that existed in the period between the [[Spellplague]] and the [[Second Sundering]].",
-        "Description": "The liquid within these potions had a slate gray hue and a smell evocative of ozone.",
-        "Powers": "Ingestion of a ''potion of stormshield'' temporarily gave the imbiber's skin a metallic sheen and made them resistant to the next instance of lightning and thunder damage that afflicted them.",
-        "History": "In the late 15{{th}} century [[DR]], ''potions of stormshield'' could be found in use by many members of the [[Zhentarim]].<ref>"
+        "mainbody": "Potions of stormshield were a sort of damage resistance potion that existed in the period between the Spellplague and the Second Sundering.\nThe liquid within these potions had a slate gray hue and a smell evocative of ozone.\nIngestion of a potion of stormshield temporarily gave the imbibers skin a metallic sheen and made them resistant to the next instance of lightning and thunder damage that afflicted them.\nIn the late 15 century DR, potions of stormshield could be found in use by many members of the Zhentarim."
     }
 }

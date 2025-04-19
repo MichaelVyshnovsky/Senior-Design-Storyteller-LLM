@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "4|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Aiedo wither-stick.jpg",
-        "caption": "",
-        "name": "''Aiedo Wither-Stick''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Staff]]",
-        "creator": "[[Meng Aiedo]]",
-        "location": "[[Neverwinter]], [[Sword Coast]]<br/>[[Lhespenbog]], [[Shaar]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+1",
-        "value3e": "",
-        "weight3e": "{{SI|4|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Aiedo wither-sticks''''' were [[enchanted]] [[reed]] [[staves]] from the southern land of the [[Shaar]].",
-        "Powers": "Aiedo's reed staves possessed a ''+1'' enchantment and had a good chance of affecting the target's strength upon a successful strike, making them noticeably weaker and frail.",
-        "History": "[[Meng Aiedo]], a weapon maker renowned for his work with various tall grasses and [[bamboo]] of [[Kara-Tur]], discovered a sturdy species of reed in the [[Lhespenbog]]'s reed-fields in the [[Eastern Shaar]]. From those plants, Aiedo started crafting the so-called ''Aiedo wither-sticks''.\n\nBy the late 14{{th}} century [[DR]], Aiedo's reed weapons found their way to the [[Sword Coast]] region and eventually fell into the hands of [[quarterstaff]] users in the city of [[Neverwinter]]."
+        "mainbody": "Aiedo wither-sticks were enchanted reed staves from the southern land of the Shaar.\nAiedos reed staves possessed a +1 enchantment and had a good chance of affecting the targets strength upon a successful strike, making them noticeably weaker and frail.\nMeng Aiedo, a weapon maker renowned for his work with various tall grasses and bamboo of Kara-Tur, discovered a sturdy species of reed in the Lhespenbogs reed-fields in the Eastern Shaar. From those plants, Aiedo started crafting the so-called Aiedo wither-sticks.\nBy the late 14 century DR, Aiedos reed weapons found their way to the Sword Coast region and eventually fell into the hands of quarterstaff users in the city of Neverwinter."
     }
 }

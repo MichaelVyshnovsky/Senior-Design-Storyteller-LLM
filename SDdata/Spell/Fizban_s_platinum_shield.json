@@ -1,20 +1,5 @@
 {
-    "template_data": {
-        "edition": "5e"
-    },
     "document_data": {
-        "name": "Fizban’s platinum shield",
-        "deity": "",
-        "inventor": "[[Bahamut|Fizban]]",
-        "type": "",
-        "school5e": "[[Abjuration]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "{{spell table|edition=5e|[[Sorcerer]]|6|[[Wizard]]|6}}",
         "type5e": "",
         "refs5e": "",
         "feature4e": "",
@@ -41,11 +26,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Fizban's platinum shield''''' was a [[spell]] used by [[sorcerer]]s, and [[wizard]]s to protect themselves and others.",
-        "Effects": "This spell surrounded the caster, or a person of their choice, in an aura of silver light that acted as cover and protected from acid, cold, fire, lightning, and poison damage. The aura also allowed a person to move quicker.",
-        "Components": "The spell required [[verbal]], [[somatic]], and [[material component]]s. The material required was a [[dragon]] scale that had been coated in [[platinum]], which must be worth at least 500 [[gp]].",
-        "Appenix": {
-            "References": "{{Refs}}\n[[Category:Abjuration spells]]\n[[Category:Sorcerer spells]]\n[[Category:Wizard spells]]\nhfzwwjxawvdz64gene8nvnghom1p850"
-        }
+        "mainbody": "Fizbans platinum shield was a spell used by sorcerers, and wizards to protect themselves and others. \nThis spell surrounded the caster, or a person of their choice, in an aura of silver light that acted as cover and protected from acid, cold, fire, lightning, and poison damage. The aura also allowed a person to move quicker. \nThe spell required verbal, somatic, and material components. The material required was a dragon scale that had been coated in platinum, which must be worth at least 500 gp. \nCategoryAbjuration spells\nCategorySorcerer spells\nCategoryWizard spells\nhfzwwjxawvdz64gene8nvnghom1p850"
     }
 }

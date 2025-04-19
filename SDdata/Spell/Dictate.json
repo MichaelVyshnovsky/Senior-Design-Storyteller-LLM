@@ -1,15 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "name": "Dictate",
-        "school2e": "[[Enchantment]] (Charm)",
-        "spheres2e": "[[Charm sphere|Charm]], [[Law sphere|Law]]",
-        "level2e": "{{spell table|edition=2e|[[Charm sphere|Charm]]|3|[[Cleric]]|3|[[Crusader]]|3|[[Law sphere|Law]]|3|[[Mystic]]|3}}",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''''Dictate''''' was an improvement of the ''[[command]]'' spell that allowed the caster to impose his or her will on up to six creatures.\n{{Stub/Spell}}",
-        "References": "{{refs}}\n[[Category:Enchantment spells]]\n[[Category:Cleric spells]]\n[[Category:Crusader spells]]\n[[Category:Mystic spells]]\njagkzl8egifwem5xym0ljuz393nn7ju"
+        "mainbody": "Dictate was an improvement of the command spell that allowed the caster to impose his or her will on up to six creatures.\nCategoryEnchantment spells\nCategoryCleric spells\nCategoryCrusader spells\nCategoryMystic spells\njagkzl8egifwem5xym0ljuz393nn7ju"
     }
 }

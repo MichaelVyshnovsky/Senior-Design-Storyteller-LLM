@@ -1,28 +1,10 @@
 {
-    "template_data": {
-        "image": "[[Image:Rimmen.JPG",
-        "caption": "[[Rimmen of the Scarlet Eye]], a magelord",
-        "name": "Magelord",
-        "region": "",
-        "alignment": "{{Alignment grid"
-    },
     "document_data": {
-        "image": "[[Image:Rimmen.JPG|250px|Rimmen, a magelord]]",
-        "caption": "[[Rimmen of the Scarlet Eye]], a magelord",
-        "name": "Magelord",
-        "region": "",
-        "alignment": "{{Alignment grid | off  | on  | on | off | on | on | off  | on | on }}",
-        "used-by": "[[Wizard]]s",
+        "used-by": "Wizards",
         "levels": "10",
-        "source": "''[[Lost Empires of Faerûn]]'' (pg.18)",
+        "source": "Lost Empires of Faerûn (pg.18)",
         "page": "18",
-        "rules": "3.5 (''LEF'')",
-        "mainbody": "'''Magelord''' was a special prestige class on [[Faerûn]] whose members were arcane spellcasters who studied an ancient magical practice known for its distinctive style: extremely fast and versatile. Magelords typically believed they had the right to get respect, wealth and power through the use and threat of arcane strength. In reality though, they used their power to dominate and intimidate less talented individuals. Despite this, there were a select few who studied magelord lore in hopes of using that power for more benevolent purposes.\n\nThe magelord tradition was passed down over the centuries by generations of practitioners. As few magelords were willing to give away such knowledge for free, prospective practitioners had to either bribe a magelord in order to learn his secrets or undertake years of research to discover their methods.",
-        "Magelords in Athalantar": "While magelords were somewhat scarce in the Realms, a few magelord societies arose over the years, most notably in [[Athalantar]]. Athalantar [[wizard]]s were cruel and quite talented, and many served as high officials of the realm, ruling the kingdom in secret.",
-        "Magelord Abilities": {
-            "Bonus Mastered Spell": "Magelords could master one known spell and prepared that spell without referring to a spellbook.",
-            "Signature Supremacy": "Eventually magelords became so familiar with their mastered spells that they could a spell into any mastered spell.",
-            "Magelord Mastery": "Experienced magelords could apply [[metamagic]] effects that they knew to a mastered spell."
-        }
+        "rules": "3.5 (LEF)",
+        "mainbody": "Magelord was a special prestige class on Faerûn whose members were arcane spellcasters who studied an ancient magical practice known for its distinctive style extremely fast and versatile. Magelords typically believed they had the right to get respect, wealth and power through the use and threat of arcane strength. In reality though, they used their power to dominate and intimidate less talented individuals. Despite this, there were a select few who studied magelord lore in hopes of using that power for more benevolent purposes.\nThe magelord tradition was passed down over the centuries by generations of practitioners. As few magelords were willing to give away such knowledge for free, prospective practitioners had to either bribe a magelord in order to learn his secrets or undertake years of research to discover their methods.\nWhile magelords were somewhat scarce in the Realms, a few magelord societies arose over the years, most notably in Athalantar. Athalantar wizards were cruel and quite talented, and many served as high officials of the realm, ruling the kingdom in secret.\n Bonus Mastered Spell Magelords could master one known spell and prepared that spell without referring to a spellbook.\n Signature Supremacy Eventually magelords became so familiar with their mastered spells that they could a spell into any mastered spell.\nMagelord Mastery Experienced magelords could apply metamagic effects that they knew to a mastered spell."
     }
 }

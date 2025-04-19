@@ -1,24 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Mage dagger.png",
-        "caption": "",
-        "name": "''Fire Dagger''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Dagger]]",
-        "creator": "",
-        "location": "[[Dragon's Eye]], [[Spine of the World]]<br/>[[Easthaven]], [[Icewind Dale]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "+2",
-        "value2e": "",
-        "weight2e": "{{SI|1|lb|k|long=yes}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -41,8 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Fire daggers''''' were a type of common [[enchanted]] simple weapons often found in [[Icewind Dale]].",
-        "Powers": "These simple-looking daggers possessed a ''+2'' offensive enchantment as well as increased the wielder's defense. Each his with this dagger had a change of lighting the target on fire.",
-        "History": "''Circa'' [[1281 DR]], several of these magic daggers could be found in [[Easthaven]] of the [[Ten Towns]] and in the depths of [[Dragon's Eye]] on the [[Spine of the World]]."
+        "mainbody": "Fire daggers were a type of common enchanted simple weapons often found in Icewind Dale.\nThese simple-looking daggers possessed a +2 offensive enchantment as well as increased the wielders defense. Each his with this dagger had a change of lighting the target on fire.\nCirca 1281 DR, several of these magic daggers could be found in Easthaven of the Ten Towns and in the depths of Dragons Eye on the Spine of the World."
     }
 }

@@ -1,21 +1,11 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Clotho.png",
-        "caption": "",
-        "name": "Clotho",
-        "sex": "Female{{Cite card/AD&D Trading Cards/1992|583|Clotho}}",
-        "race": "[[Human]]",
+        "race": "Human",
         "ethnicity": "",
         "occupation": "",
-        "alignment2e": "[[Lawful good]]",
-        "class2e": "{{class table|edition=2e|[[Paladin]]|8}}",
+        "alignment2e": "Lawful good",
+        "class2e": "",
         "refs2e": "",
-        "mainbody": "'''Clotho''' was a [[human]] [[paladin]] who was wholly devoted to her church and faith.",
-        "Description": "Clotho was a light-skinned woman with long, brown hair and dark eyes. She wore a helmet and [[splint mail]] over a long, blue tunic.",
-        "Possessions": "In addition to her suit of splint mail and helmet, Clotho owned a pair of ''[[gauntlets of swimming and climbing]]'', as well as a [[saber]] and a [[shield]].",
-        "Personality": "Clotho had zero personal aspirations beyond serving her faith. She donated all her wealth to her temple&mdash;even though she was only required to give 90%&mdash;and gave everything else she could to people in need. She never turned down a quest from her church."
+        "mainbody": "Clotho was a human paladin who was wholly devoted to her church and faith.\nClotho was a light-skinned woman with long, brown hair and dark eyes. She wore a helmet and splint mail over a long, blue tunic.\nIn addition to her suit of splint mail and helmet, Clotho owned a pair of gauntlets of swimming and climbing, as well as a saber and a shield.\nClotho had zero personal aspirations beyond serving her faith. She donated all her wealth to her temple&mdasheven though she was only required to give 90%&mdashand gave everything else she could to people in need. She never turned down a quest from her church."
     }
 }

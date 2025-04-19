@@ -1,29 +1,5 @@
 {
-    "template_data": {
-        "4|pounds|k|long": "yes"
-    },
     "document_data": {
-        "image": "Tanglefoot bag.jpg",
-        "caption": "A tanglefoot bag.",
-        "name": "Tanglefoot Bag",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Alchemical item",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "50 [[gp]]",
-        "weight3e": "{{SI|4|lb|k}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -40,13 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Tanglefoot bags''' were a means of throwing an [[Alchemist|alchemical]] goo to entangle an enemy.",
-        "Description": "A tanglefoot bag was usually round and made of leather and weighed about {{SI|4|pounds|k|long=yes}}. It was designed in such a way as to open up when thrown to disperse the thick goo inside. The goo hardened rapidly when it came into contact with air, so if it splashed over a creature, it could effectively [[glue]] that being to the ground.\n\nA standard tanglefoot bag contained enough alchemical goo to cover a large creature. If thrown upon a flying creature, it would harden around wings and prevent flight. The goo would not harden underwater; it required contact with air.\n\nThe hardened goo quickly became brittle after as little as a dozen seconds or so and cracked apart. [[Universal solvent]] quickly dissolved it.",
-        "Crafting": "Skill in alchemy was required to make a tanglefoot bag.",
-        "Availability": "Tanglefoot bags were typically sold in alchemists' shops for around 50 [[gold piece]]s.\n* [[Old Angrath's Smokehouse]] in [[Red Larch]], being a business run by an alchemist, sold tanglefoot bags.{{Cite dragon/300/Elminster's Guide to the Realms: Old Angrath's Smokehouse|84}}\n* [[Almaes the Alchemist's shop]] in [[Ashabenford]] sold tanglefoot bags.\n* [[Valas Jaelre]], a [[drow]] [[wizard]], sold tanglefoot bags to other drow in [[Cormanthor]].\n* Tanglefoot bags could also be purchased from the [[gnome]]s of [[Thunderstone]].",
-        "Notable Users": {
-            "Groups": "* The [[Howling Wing]], a band of [[kir-lanan]], often used tanglefoot bags against flying opponents.\n* The armies of the [[Nine Hells]] often used tanglefoot bags against winged [[angel]]s and [[Celestial archon|archons]].",
-            "Races & Sentient Creatures": "*[[Githyanki]]: this militaristic race of creatures from outside of [[Toril]] was known to arm their soldiers and captains with several types of thrown weapons, including tanglefoot bags and [[thunderstone (item)|''thunderstones'']]."
-        }
+        "mainbody": "Tanglefoot bags were a means of throwing an alchemical goo to entangle an enemy.\nA tanglefoot bag was usually round and made of leather and weighed about . It was designed in such a way as to open up when thrown to disperse the thick goo inside. The goo hardened rapidly when it came into contact with air, so if it splashed over a creature, it could effectively glue that being to the ground.\nA standard tanglefoot bag contained enough alchemical goo to cover a large creature. If thrown upon a flying creature, it would harden around wings and prevent flight. The goo would not harden underwater it required contact with air.\nThe hardened goo quickly became brittle after as little as a dozen seconds or so and cracked apart. Universal solvent quickly dissolved it.\nSkill in alchemy was required to make a tanglefoot bag. \nTanglefoot bags were typically sold in alchemists shops for around 50 gold pieces.\n* Old Angraths Smokehouse in Red Larch, being a business run by an alchemist, sold tanglefoot bags.\n* Almaes the Alchemists shop in Ashabenford sold tanglefoot bags.\n* Valas Jaelre, a drow wizard, sold tanglefoot bags to other drow in Cormanthor.\n* Tanglefoot bags could also be purchased from the gnomes of Thunderstone.\n* The Howling Wing, a band of kir-lanan, often used tanglefoot bags against flying opponents.\n* The armies of the Nine Hells often used tanglefoot bags against winged angels and archons.\n*Githyanki this militaristic race of creatures from outside of Toril was known to arm their soldiers and captains with several types of thrown weapons, including tanglefoot bags and thunderstones."
     }
 }

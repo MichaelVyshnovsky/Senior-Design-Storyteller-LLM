@@ -1,44 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Tor Grayfell",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Skullport]], [[Undermountain]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "race": "[[Shield dwarf|Shield]] [[dwarf]]",
-        "ethnicity": "",
-        "occupation": "Carver",
-        "age": "",
-        "patron deity": "",
-        "languages": "",
-        "reckoning": "DR",
-        "dob": "",
-        "dobnotes": "",
-        "turned": "",
-        "turnednotes": "",
-        "death": "",
-        "deathnotes": "",
-        "destroyed": "",
-        "destroyednotes": "",
-        "parents": "",
-        "spouses": "",
-        "siblings": "",
-        "children": "",
-        "familyrefs": "",
-        "alignment1e": "",
-        "class1e": "",
-        "refs1e": "",
-        "alignment2e": "[[Neutral]]",
-        "class2e": "{{class table|edition=2e|[[Fighter]]|2}}",
         "refs2e": "",
         "alignment3e": "",
         "class3e": "",
@@ -52,7 +13,6 @@
         "alignment5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Tor Grayfell''' was a carver in [[Skullport]].",
-        "History": "Tor went to Skullport to forget about his bad past and start a new life.\nAround [[1370 DR]], he was an able carver.\n\nDuring the early 1490s [[DR]] his brain was eaten by a [[mind flayer]] still at large in Skullport."
+        "mainbody": "Tor Grayfell was a carver in Skullport.\nTor went to Skullport to forget about his bad past and start a new life.\nAround 1370 DR, he was an able carver.\nDuring the early 1490s DR his brain was eaten by a mind flayer still at large in Skullport."
     }
 }

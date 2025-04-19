@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "Maggots.png",
-        "caption": "A [[druid]] inflicting an opponent with an ''infestation of maggots''.",
-        "name": "Infestation of maggots",
-        "deity": "",
-        "inventor": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Necromancy]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Druid]]|3}}",
         "refs3e": "",
         "reversible2e": "",
         "school2e": "",
@@ -35,8 +12,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Infestation of maggots''''' was a [[necromancy]] [[spell]] used by [[druid]]s in the [[realms]].",
-        "Effects": "By touching an opponent, a druid casting this spell would cause an infestation of maggot-like creatures to cover the target creature. These maggots would slowly drain one's constitution unless resisted or removed by a ''[[remove disease]]'' or ''[[heal]]'' spell. Otherwise, they would naturally die off once the duration of the spell ended.",
-        "Components": "Unlike most druidic spells, this spell required a handful of dessicated flies as a [[material component]], in addition to [[Verbal component|verbal]] and [[somatic component]]s."
+        "mainbody": "Infestation of maggots was a necromancy spell used by druids in the realms.\nBy touching an opponent, a druid casting this spell would cause an infestation of maggot-like creatures to cover the target creature. These maggots would slowly drain ones constitution unless resisted or removed by a remove disease or heal spell. Otherwise, they would naturally die off once the duration of the spell ended.\nUnlike most druidic spells, this spell required a handful of dessicated flies as a material component, in addition to verbal and somatic components."
     }
 }

@@ -1,23 +1,9 @@
 {
-    "template_data": {
-        "rca": "center",
-        "rca_1": "center"
-    },
     "document_data": {
-        "image": "<gallery>",
-        "caption2": "''Various depictions of Sorcerous Sundries.''",
-        "name": "Sorcerous Sundries",
-        "aliases": "",
-        "type": "Shop",
-        "architecture": "",
-        "floors": "",
-        "location": "[[Baldur's Gate]], [[Sword Coast]]",
-        "owner": "",
-        "ownertable": "{{Split table|rca=center|[[Halbazzer Drin]]|[[1368 DR]]|[[Rivalen Blackhand]]|[[1482 DR]]}}",
         "staff": "",
-        "stafftable": "{{Split table|rca=center|[[Kazzrem]]|[[1368 DR]]|[[Gilligunn]]|[[1482 DR]]}}",
+        "stafftable": "",
         "occupants": "",
-        "services": "[[Material component|Spellcasting components]]<br/>{{Former}}[[:Category:Magic items|Magic items]], flowers, food",
+        "services": "Spellcasting componentsMagic items, flowers, food",
         "worship": "",
         "pipes": "",
         "tankards": "",
@@ -32,9 +18,6 @@
         "organizations": "",
         "source": "",
         "page": "",
-        "mainbody": "'''Sorcerous Sundries''' was a magic shop in [[Baldur's Gate]].{{cite web| url = https://web.archive.org/web/20220221195407/http://www.candlekeep.com/library/articles/sse/sse_1112-04.htm| title = So Saith Ed Nov – Dec 2004| accessdate = 25-11-2021| date = 25-11-2021}}",
-        "Description": "The shop was a tall, round building that was easily recognizable amid its surroundings. Its domed roof appeared as if it were made entirely of multi-colored stained glass. While it was actually supported by stone archways, this was indiscernible from the exterior. When light entered through the roof it shone through the inside of the shop as a rainbow.\n\nThe ground floor of the shop, the only area in which patrons were permitted, was decorated with opulent furniture, rugs and [[silk]] curtains. Many of these were inscribed with arcane symbols that, according to the Sundries' sign, offered protection to its patrons.",
-        "Services": "[[File:Sorcerous Sundries interior.png|thumb|''Sorcerous Sundries interior.''|390x390px]]\nWhen [[Halbazzer Drin]] ran the shop, he offered the casting of [[spell]]s that banished mildew and drew out moisture from objects without damaging them. Realizing the high demand for such services, he never inscribed these spells to ''[[scroll]]s'' or revealed their specifications to others.",
-        "History": "While Sorcerous Sundries was established as a store for the arcane, for many years the building was used as a private residence, a restaurant, a variety of specialty shops, and even a greenhouse. \n\nSometime during the 15{{th}} century [[DR]], [[Rivalen Blackhand]] re-founded the store as a shop catering to [[spellcaster]]s, specializing in [[Material component]]s. However, he denied having magic items for sale and outright refused to sell spell scrolls."
+        "mainbody": "Sorcerous Sundries was a magic shop in Baldurs Gate.\nThe shop was a tall, round building that was easily recognizable amid its surroundings. Its domed roof appeared as if it were made entirely of multi-colored stained glass. While it was actually supported by stone archways, this was indiscernible from the exterior. When light entered through the roof it shone through the inside of the shop as a rainbow.\nThe ground floor of the shop, the only area in which patrons were permitted, was decorated with opulent furniture, rugs and silk curtains. Many of these were inscribed with arcane symbols that, according to the Sundries sign, offered protection to its patrons.\nthumb|Sorcerous Sundries interior.|390x390px\nWhen Halbazzer Drin ran the shop, he offered the casting of spells that banished mildew and drew out moisture from objects without damaging them. Realizing the high demand for such services, he never inscribed these spells to scrolls or revealed their specifications to others.\nWhile Sorcerous Sundries was established as a store for the arcane, for many years the building was used as a private residence, a restaurant, a variety of specialty shops, and even a greenhouse. \nSometime during the 15 century DR, Rivalen Blackhand re-founded the store as a shop catering to spellcasters, specializing in Material components. However, he denied having magic items for sale and outright refused to sell spell scrolls."
     }
 }

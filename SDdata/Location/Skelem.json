@@ -1,18 +1,6 @@
 {
-    "template_data": {
-        "3|4|feet|long": "yes",
-        "20|miles|k|long": "yes",
-        "15|foot|long": "yes",
-        "5|foot|long": "yes"
-    },
     "document_data": {
-        "image": "Skelem-clean.png",
-        "caption": "A map of Skelem, ''circa'' 1373 DR.",
-        "name": "Skelem",
-        "alt spelling": "",
-        "aliases": "",
-        "type": "Ruin<br />{{Former}} City",
-        "region": "[[Galena Mountains]], [[Cold Lands]]",
+        "region": "Galena Mountains, Cold Lands",
         "size": "",
         "elevation": "",
         "depth": "",
@@ -21,9 +9,9 @@
         "georefs": "",
         "demonym": "",
         "population": "",
-        "races": "[[Human]]",
-        "languages": "[[Netherese language]]",
-        "religion": "[[Kossuth]]",
+        "races": "Human",
+        "languages": "Netherese language",
+        "religion": "Kossuth",
         "alignment": "",
         "socrefs": "",
         "imports": "",
@@ -94,11 +82,6 @@
         "events": "",
         "food and drink": "",
         "items": "yes",
-        "mainbody": "'''Skelem''' was an ancient [[Netherese]] city located in the [[Galena Mountains]]. As of the 14{{th}} century [[DR]], it had been in ruins for centuries.",
-        "Description": "Skelem was originally a small but thriving [[human]] city that was blanketed in snow for much of the year. that afforded a clear view of the surrounding terrain to the east for up to a mile (1.6 kilometers) and to the west for a half-mile (0.8 kilometers). It had wide main thoroughfares and a wall.\n\nBy the mid-to-late 14{{th}} century DR, the town was in ruins and had been mostly reclaimed by nature. While a few structures were mostly intact, about half of the homes were completely gone and most of the remaining buildings had been reduced to weathered walls no more than {{SIrange|3|4|feet|long=yes}} high. The city's old main streets and throughways remained the most efficient way to move through the ruins. Thieves and scavengers had thoroughly looted the ruins by this time, and viscous monsters had made the ruins into their lairs.",
-        "Geography": "The town was located in the Galena Mountains about {{SI|20|miles|k|long=yes}} south of [[Bloodstone Pass]].",
-        "History": "Prior to Skelem's fall, the city hosted a cabal of enormously powerful Netherese [[wizard]]s allied with the [[church of Kossuth]]. This group secretly tunneled beneath the home of one of [[Kossuth]]'s followers to establish an underground structure which they dubbed [[Kossuth's House]]. There, over the course of several years, they created a massively powerful [[magical]] device known as the ''[[Elemental Scourge]]'', which could be used to grant an individual the ability to summon enough powerful [[elemental]]s to wipe out a city.\n\nSkelem was overcome and left abandoned sometime after [[Karsus's Folly]] and the [[Fall of Netheril]]. Long after the city's downfall, only a scant few local legends remembered Skelem, and these tales spoke of it as a place believed to hold the power to summon an army that could raze a city.\n\nIn the {{YearlinkName|1373}}, the [[fire giant]] brothers [[Soluf]] and [[Gharod]] heard rumors of a powerful magical weapon located within the ruins, and so sent their allies&mdash;notably [[hill giant]]s and [[ogre]]s led by [[yuan-ti abomination]]s&mdash;to find and excavate any such device in hopes of using it to invade [[Mulmaster]] and the eastern [[Moonsea]]. This excavation team occupied the ruins, setting up their camp&mdash;a massive, {{SIAdj|15|foot|long=yes}} diameter firepit surrounded by huge tents made of animal skins&mdash;on the south side of town and establishing guard posts on the main streets and the eastern and western edges of town. They soon discovered the [[Map House (Skelem)|Map House]], however it misled the yuan-ti into searching for the weapon on the wrong side of the ruins. Overseen by the hill giants, eleven ogres began a chaotic and fruitless effort to excavate the northeastern corner of the ruins, mostly by digging {{SIAdj|5|foot|long=yes}} deep holes at random. Soon, five of the band's members had been picked off and killed by local [[wyverns]].",
-        "Notable Locations": "* The [[Kossuth's House]], a secret underground chamber which held the ''Elemental Scourge''.\n* The [[Map House (Skelem)|Map House]], one of the few intact buildings as of the mid-to-late 14{{th}} century DR which contained a map of the town.",
-        "Inhabitants": "The ruins were home to a number of hungry monsters eager to attack and eat any who wandered too close to their lairs. On the eastern edge of the town, three [[remorhaz]]es hunted amidst the ruined buildings and a flight of wyverns made their home in a copse of trees. The western side of town was the hunting ground of a [[frost worm]], whose tunnels honeycombed the ground beneath the ruins."
+        "mainbody": "Skelem was an ancient Netherese city located in the Galena Mountains. As of the 14 century DR, it had been in ruins for centuries.\nSkelem was originally a small but thriving human city that was blanketed in snow for much of the year. that afforded a clear view of the surrounding terrain to the east for up to a mile (1.6 kilometers) and to the west for a half-mile (0.8 kilometers). It had wide main thoroughfares and a wall.\nBy the mid-to-late 14 century DR, the town was in ruins and had been mostly reclaimed by nature. While a few structures were mostly intact, about half of the homes were completely gone and most of the remaining buildings had been reduced to weathered walls no more than  high. The citys old main streets and throughways remained the most efficient way to move through the ruins. Thieves and scavengers had thoroughly looted the ruins by this time, and viscous monsters had made the ruins into their lairs.\nThe town was located in the Galena Mountains about  south of Bloodstone Pass.\nPrior to Skelems fall, the city hosted a cabal of enormously powerful Netherese wizards allied with the church of Kossuth. This group secretly tunneled beneath the home of one of Kossuths followers to establish an underground structure which they dubbed Kossuths House. There, over the course of several years, they created a massively powerful magical device known as the Elemental Scourge, which could be used to grant an individual the ability to summon enough powerful elementals to wipe out a city.\nSkelem was overcome and left abandoned sometime after Karsuss Folly and the Fall of Netheril. Long after the citys downfall, only a scant few local legends remembered Skelem, and these tales spoke of it as a place believed to hold the power to summon an army that could raze a city.\nIn the , the fire giant brothers Soluf and Gharod heard rumors of a powerful magical weapon located within the ruins, and so sent their allies&mdashnotably hill giants and ogres led by yuan-ti abominations&mdashto find and excavate any such device in hopes of using it to invade Mulmaster and the eastern Moonsea. This excavation team occupied the ruins, setting up their camp&mdasha massive,  diameter firepit surrounded by huge tents made of animal skins&mdashon the south side of town and establishing guard posts on the main streets and the eastern and western edges of town. They soon discovered the Map House, however it misled the yuan-ti into searching for the weapon on the wrong side of the ruins. Overseen by the hill giants, eleven ogres began a chaotic and fruitless effort to excavate the northeastern corner of the ruins, mostly by digging  deep holes at random. Soon, five of the bands members had been picked off and killed by local wyverns.\n* The Kossuths House, a secret underground chamber which held the Elemental Scourge.\n* The Map House, one of the few intact buildings as of the mid-to-late 14 century DR which contained a map of the town.\nThe ruins were home to a number of hungry monsters eager to attack and eat any who wandered too close to their lairs. On the eastern edge of the town, three remorhazes hunted amidst the ruined buildings and a flight of wyverns made their home in a copse of trees. The western side of town was the hunting ground of a frost worm, whose tunnels honeycombed the ground beneath the ruins."
     }
 }

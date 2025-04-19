@@ -1,23 +1,11 @@
 {
-    "template_data": {
-        "100|600|yards|long": "yes"
-    },
     "document_data": {
-        "image": "Liar'sBoots.png",
-        "caption": "A [[thief]] delights in leaving behind a trail of false footprints with his liar's boots.",
-        "name": "''Liar's Boots''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Enchanted]] [[boots]]",
-        "creator": "",
-        "location": "[[The Dalelands]]",
-        "basicrefs": "{{Cite dragon/256/Bazaar of the Bizarre: Tools of the Trade|91}}",
         "value1e": "",
         "weight1e": "",
         "refs1e": "",
         "school2e": "",
         "level2e": "",
-        "value2e": "6,000 [[gp]]",
+        "value2e": "6,000 gp",
         "weight2e": "",
         "refs2e": "",
         "school3e": "",
@@ -41,8 +29,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Liar's boots''''' were a variety of [[enchanted]] [[boots]] that could aid in evading pursuers,{{Cite dragon/256/Bazaar of the Bizarre: Tools of the Trade|90}}",
-        "Powers": "When activated, ''liar's boots'' would leave footprints in a direction of the wearer's choice (which must be mentally concentrated upon) and left no footprints of the actual direction the wearer walked with them. This effect could be activated twice per day.\n\nThe maximum length by which a false trail could be made or extended out to was {{SIrange|100|600|yards|long=yes}}. Upon going beyond that limit or removing the ''liar's boots'', the wearer's real footprints would begin to appear while their false ones dissipated.",
-        "Notable Owners": "Most guilds in the Dalelands possessed one or more pairs of ''liar's boots''."
+        "mainbody": "Liars boots were a variety of enchanted boots that could aid in evading pursuers,\nWhen activated, liars boots would leave footprints in a direction of the wearers choice (which must be mentally concentrated upon) and left no footprints of the actual direction the wearer walked with them. This effect could be activated twice per day.\nThe maximum length by which a false trail could be made or extended out to was . Upon going beyond that limit or removing the liars boots, the wearers real footprints would begin to appear while their false ones dissipated.\nMost guilds in the Dalelands possessed one or more pairs of liars boots."
     }
 }

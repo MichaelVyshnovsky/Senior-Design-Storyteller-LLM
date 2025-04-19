@@ -1,24 +1,5 @@
 {
-    "template_data": {
-        "2|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Golden girdle of Urnst.png",
-        "caption": "",
-        "name": "''Golden Girdle of Urnst''",
-        "othernames": "''Golden Girdle''",
-        "nicknames": "",
-        "type": "[[Belt]]",
-        "creator": "",
-        "location": "[[Waterdeep]], [[Sword Coast]]<br/>[[Black Pits]], [[Underdark]]<br/>[[Krynn]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "1,500 [[gp]]",
-        "weight2e": "{{SI|2|lb|k|long=yes}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -41,10 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Golden girdles of Urnst''''', or simply ''golden girdles'', were [[enchanted]] [[belt]]s imbued with defensive magics.",
-        "Description": "''Golden girdles'' were weaved out of red [[silk]] and strewn with flakes of [[gold]].",
-        "Powers": "The wearer of a ''golden girdle'' gained increased protection against slashing damage.",
-        "History": "The first ''golden girdles'' were created ages before the late 14{{th}} century [[DR]] by a powerful [[wizard]] who sought to protect themselves from a group of evil swordsmen.\n\nIn the {{YearlinkName|1369}}, a band of the [[Knights of Solamnia]] from the world of [[Krynn]] became trapped in a massive ''[[Planar Sphere]]'' that crash-landed in the city of [[Athkatla]] in [[Amn]]. One of the Knights was in possession of a ''golden girdle''.",
-        "Notable Owners": "*[[Elan Garaq]], a bound [[rakshasa]] merchant from the [[Black Pits]] of the [[Underdark]].\n*[[Kirian]], the leader of an arrogant adventuring group from [[Waterdeep]], active in the mid 14{{th}} century DR.\n*[[Simmeon]], a one-time ally of [[Dorn Il-Khan]], active in the  mid 14{{th}} century DR."
+        "mainbody": "Golden girdles of Urnst, or simply golden girdles, were enchanted belts imbued with defensive magics.\nGolden girdles were weaved out of red silk and strewn with flakes of gold.\nThe wearer of a golden girdle gained increased protection against slashing damage.\nThe first golden girdles were created ages before the late 14 century DR by a powerful wizard who sought to protect themselves from a group of evil swordsmen.\nIn the , a band of the Knights of Solamnia from the world of Krynn became trapped in a massive Planar Sphere that crash-landed in the city of Athkatla in Amn. One of the Knights was in possession of a golden girdle.\n*Elan Garaq, a bound rakshasa merchant from the Black Pits of the Underdark.\n*Kirian, the leader of an arrogant adventuring group from Waterdeep, active in the mid 14 century DR.\n*Simmeon, a one-time ally of Dorn Il-Khan, active in the  mid 14 century DR."
     }
 }

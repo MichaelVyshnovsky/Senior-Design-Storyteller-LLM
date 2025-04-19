@@ -1,24 +1,5 @@
 {
-    "template_data": {
-        "2|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Kachiko's Wakizashi.png",
-        "caption": "",
-        "name": "''Kachiko's Wakizashi''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "",
-        "creator": "",
-        "location": "[[Athkatla]], [[Amn]]<br/>[[Ten Towns]], [[Icewind Dale]]<br/>[[Kara-Tur]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "+3",
-        "value2e": "25,000 [[gp]]",
-        "weight2e": "{{SI|2|lb|k|long=yes}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -41,8 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Kachiko's wakizashi''''' was a unique [[enchanted]] blade from somewhere in [[Kara-Tur]].",
-        "Powers": "This [[wakizashi]] possessed a powerful ''+3'' enchantment that improved the wielder's aim and dealt more powerful damage than an ordinary blade. Upon a successful slash, ''Kachiko's wakizashi'' had a chance of temporarily stupefying the opponent, effectively reducing their perceptiveness with each landed attack.",
-        "History": "Little was recorded of the weapon's history. The only thing known for sure was its owner – a female [[warrior]] named [[Kachiko]] who wielded this wakizashi somewhere in Kara-Tur, sometime before the 14{{th}} century [[DR]].\n\nIn the {{YearlinkName|1369}}, ''Kachiko's wakizashi'', along with several other magic items from Icewind Dale, ended up in the hands of the merchant named [[Joluv]] who traveled from [[Icewind Dale]] to the City of Coin, [[Athkatla]], to sell the items to wealthy Amnian adventurers. Joluv peeled his wars from the [[Copper Coronet]] in Athkatla's [[Neverwinter/River District|River District]]."
+        "mainbody": "Kachikos wakizashi was a unique enchanted blade from somewhere in Kara-Tur.\nThis wakizashi possessed a powerful +3 enchantment that improved the wielders aim and dealt more powerful damage than an ordinary blade. Upon a successful slash, Kachikos wakizashi had a chance of temporarily stupefying the opponent, effectively reducing their perceptiveness with each landed attack.\nLittle was recorded of the weapons history. The only thing known for sure was its owner – a female warrior named Kachiko who wielded this wakizashi somewhere in Kara-Tur, sometime before the 14 century DR.\nIn the , Kachikos wakizashi, along with several other magic items from Icewind Dale, ended up in the hands of the merchant named Joluv who traveled from Icewind Dale to the City of Coin, Athkatla, to sell the items to wealthy Amnian adventurers. Joluv peeled his wars from the Copper Coronet in Athkatlas River District."
     }
 }

@@ -1,12 +1,6 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Heart of Wine",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Beverage{{cite book/Arabian Adventures|93}}",
-        "location": "[[Zakhara]], [[Toril]]",
+        "location": "Zakhara, Toril",
         "school": "",
         "level": "",
         "value": "",
@@ -17,9 +11,9 @@
         "refs1e": "",
         "school2e": "",
         "level2e": "",
-        "value2e": "2 [[gp]]",
+        "value2e": "2 gp",
         "weight2e": "",
-        "refs2e": "{{cite book/Arabian Adventures|86}}",
+        "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
         "itemlevel3e": "",
@@ -38,7 +32,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''Heart of Wine''' was a special alcoholic beverage found in [[Zakhara]]. It was made by aging [[wine]] in the desert heat or mountain snows until all of the water evaporated or froze, leaving behind a potent substance. As with all alcoholic drinks, Heart of Wine was forbidden in any area controlled by [[moralist]]s.{{cite book/Arabian Adventures|93}}",
-        "Prices": "A {{SIAdj|0.5|gal|l}} pitcher sold for 2 [[gp]].{{cite book/Arabian Adventures|86}}"
+        "mainbody": "Heart of Wine was a special alcoholic beverage found in Zakhara. It was made by aging wine in the desert heat or mountain snows until all of the water evaporated or froze, leaving behind a potent substance. As with all alcoholic drinks, Heart of Wine was forbidden in any area controlled by moralists.\nA  pitcher sold for 2 gp."
     }
 }

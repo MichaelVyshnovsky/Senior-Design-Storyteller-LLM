@@ -1,30 +1,20 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "edition_1": "2e",
-        "edition_2": "1e"
-    },
     "document_data": {
-        "name": "Warp Wood",
-        "level3e": "{{Spell table|edition=3e|[[Druid]]|2|[[Wu jen]]|2}}",
-        "school3e": "[[Transmutation]]",
+        "school3e": "Transmutation",
         "domains3e": "",
         "refs3e": "",
         "type3e": "",
-        "school2e": "[[Alteration]]",
+        "school2e": "Alteration",
         "reversible2e": "true",
-        "spheres2e": "[[Plant sphere|Plant]]",
-        "level2e": "{{Spell table|edition=2e|[[Druid]]|2|[[Mystic]]|2|[[Plant sphere|Plant]]|2|[[Ranger]]|2|[[Shaman]]|2|[[Wu jen]]|1}}",
+        "spheres2e": "Plant",
+        "level2e": "",
         "type2e": "",
         "refs2e": "",
-        "school1e": "[[Alteration]]",
-        "level1e": "{{Spell table|edition=1e|[[Druid]]|2|[[Ranger]]|2|[[Wu jen]]|1}}",
+        "school1e": "Alteration",
+        "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "image": "Warp wood spell.webp}}",
-        "mainbody": "'''Warp wood''''' was a [[transmutation]] or [[alteration]] spell that could twist and bend wooden objects to degrade their strength or ruin their function. The reverse of this spell, '''''straighten wood''''', could improve bent or crooked wooden objects, or reverse the effects of ''warp wood''.",
-        "Effects": "The amount of wood that could be affected by this spell increased with the experience of the caster. At minimal power, ''warp wood'' could twist a [[throwing axe]] haft or a bundle of four arrows or crossbow bolts. At higher levels, the shaft of a [[spear]] could be bent, fine furniture delaminated, a door could be warped shut or sprung open, boards and planks could be bowed, wagon wheels warped, and boats could be made to leak.\n\nMagical wooden objects such as weapons were typically affected only if the caster was a higher level than the enchantment on the object, and even then it was not a sure thing.\n\nThe transmutation version of ''warp wood'' could be used cumulatively to warp a volume of wood that was too big to be affected by a single spell. The object suffered no ill effects until the number of ''warp wood'' spells added up to the amount needed to affect the oversized object.\n\nWhen cast in reverse, ''straighten wood'' could remove kinks, bends, or bows in wooden objects with the same size restrictions as mentioned above. As such, it could be used to undo the effects of a ''warp wood'' spell. The transmutation version could undo itself.",
-        "Components": "Only [[verbal]] and [[somatic]] components were required to cast this spell.",
-        "Notable Users": "* Some of the [[wizard]] crew of the pirate ship ''[[Scarlet Picaro]]'' had the ''warp wood'' spell in their arsenal, which they would cast on a ship's hull within its cargo hold after stealing its goods.<ref>"
+        "image": "Warp wood spell.webp",
+        "mainbody": "Warp wood was a transmutation or alteration spell that could twist and bend wooden objects to degrade their strength or ruin their function. The reverse of this spell, straighten wood, could improve bent or crooked wooden objects, or reverse the effects of warp wood.\nThe amount of wood that could be affected by this spell increased with the experience of the caster. At minimal power, warp wood could twist a throwing axe haft or a bundle of four arrows or crossbow bolts. At higher levels, the shaft of a spear could be bent, fine furniture delaminated, a door could be warped shut or sprung open, boards and planks could be bowed, wagon wheels warped, and boats could be made to leak.\nMagical wooden objects such as weapons were typically affected only if the caster was a higher level than the enchantment on the object, and even then it was not a sure thing.\nThe transmutation version of warp wood could be used cumulatively to warp a volume of wood that was too big to be affected by a single spell. The object suffered no ill effects until the number of warp wood spells added up to the amount needed to affect the oversized object.\nWhen cast in reverse, straighten wood could remove kinks, bends, or bows in wooden objects with the same size restrictions as mentioned above. As such, it could be used to undo the effects of a warp wood spell. The transmutation version could undo itself.\nOnly verbal and somatic components were required to cast this spell.\n* Some of the wizard crew of the pirate ship Scarlet Picaro had the warp wood spell in their arsenal, which they would cast on a ships hull within its cargo hold after stealing its goods."
     }
 }

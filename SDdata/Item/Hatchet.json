@@ -1,25 +1,5 @@
 {
-    "template_data": {
-        "3|lb|k|long": "yes",
-        "3|lb|k|long_1": "yes"
-    },
     "document_data": {
-        "image": "Hatchet.png",
-        "caption": "A smaller hatchet seen next to an axe.",
-        "name": "Hatchet",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Tool",
-        "creator": "",
-        "location": "[[Toril]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "2 [[gold piece]]s",
-        "weight2e": "{{SI|3|lb|k|long=yes}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -42,8 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Hatchets''' were tools sometimes used by [[ranger]]s or woodsmen throughout [[Faerûn]].",
-        "Description": "A hatchet resembled a small [[axe]] with a blade on one side of the metal head and a flattened stub on the other. A typical hatchet weighed {{SI|3|lb|k|long=yes}}.",
-        "History": "Hatchets were versatile tools used for chopping and hammering wood. They could also be used as weapons.\n\nHatchets were available for purchase through [[Aurora's Whole Realms Catalogue]] for 2 [[gold piece]]s and included a leather case."
+        "mainbody": "Hatchets were tools sometimes used by rangers or woodsmen throughout Faerûn.\nA hatchet resembled a small axe with a blade on one side of the metal head and a flattened stub on the other. A typical hatchet weighed .\nHatchets were versatile tools used for chopping and hammering wood. They could also be used as weapons.\nHatchets were available for purchase through Auroras Whole Realms Catalogue for 2 gold pieces and included a leather case."
     }
 }

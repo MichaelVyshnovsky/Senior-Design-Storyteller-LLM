@@ -1,23 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Bird Charm II",
-        "deity": "[[Qotal]]",
-        "domains": "",
-        "inventor": "",
-        "reversible2e": "",
-        "school2e": "[[Pluma]], [[Enchantment/Charm]]",
-        "spheres2e": "[[Pluma]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|4|[[Plumaweaver]]|4}}",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''''Bird charm II''''' was a spell unique to [[Maztica]].",
-        "Effects": "This spell was a more powerful version of ''[[bird charm I]]''. It allowed a caster to summon all types of feathered creatures within 300 yards (274 meters) of the caster. The spell was able to summon a [[couatl]] and even [[owlbear]]s. The spell had no effect on feathered [[deities]]. Controlled creatures were able to follow complicated commands and were able to deliver messages of up to 100 words. The controlled creatures would also attack any creature if ordered by the caster.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, the spell required a [[material component]], a small whistle made of [[jade]]. The caster had to carve this whistle themself. The whistle took several weeks to carve."
+        "mainbody": "Bird charm II was a spell unique to Maztica.\nThis spell was a more powerful version of bird charm I. It allowed a caster to summon all types of feathered creatures within 300 yards (274 meters) of the caster. The spell was able to summon a couatl and even owlbears. The spell had no effect on feathered deities. Controlled creatures were able to follow complicated commands and were able to deliver messages of up to 100 words. The controlled creatures would also attack any creature if ordered by the caster.\nIn addition to verbal and somatic components, the spell required a material component, a small whistle made of jade. The caster had to carve this whistle themself. The whistle took several weeks to carve."
     }
 }

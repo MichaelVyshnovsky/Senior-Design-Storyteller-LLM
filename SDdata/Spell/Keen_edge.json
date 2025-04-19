@@ -1,31 +1,7 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Keen Edge",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "[[Metal domain|Metal]]",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Sorcerer]]|3|[[Wizard]]|3|[[Metal domain|Metal]]|3}}",
         "type3e": "",
-        "refs3e": "<ref>",
+        "refs3e": "",
         "reversible2e": "",
         "school2e": "",
         "spheres2e": "",
@@ -37,9 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Keen edge''''' was a [[transmutation]] spell that made a weapon magically sharp.",
-        "Effect": "Applied to an edged or pointed weapon or up to fifty such projectiles, this spell doubled its ability to deal critical wounds for over 10 minutes, up to several hours.",
-        "Applications": "''Keen edge'' was used for the ''[[keen]]'' weapon enhancement.",
-        "History": "Keen magic such as this was first developed by the old noble houses of the [[elf]] realm of [[Cormanthyr]]. By [[1372 DR]], this legacy survived in the ''[[Cormanthyrian elfblade]]s'', ''keen'' [[longsword]]s that carried the symbols of these houses."
+        "mainbody": "Keen edge was a transmutation spell that made a weapon magically sharp.\nApplied to an edged or pointed weapon or up to fifty such projectiles, this spell doubled its ability to deal critical wounds for over 10 minutes, up to several hours.\nKeen edge was used for the keen weapon enhancement.\nKeen magic such as this was first developed by the old noble houses of the elf realm of Cormanthyr. By 1372 DR, this legacy survived in the Cormanthyrian elfblades, keen longswords that carried the symbols of these houses."
     }
 }

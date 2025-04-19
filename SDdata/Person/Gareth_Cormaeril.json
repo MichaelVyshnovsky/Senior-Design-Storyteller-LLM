@@ -1,24 +1,12 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "[[Image:Gareth.jpg|200px|Gareth Cormaeril]]",
-        "name": "Sir Gareth Cormaeril",
-        "aliases": "",
-        "home": "[[Waterdeep]]",
-        "sex": "Male",
-        "race": "[[Chondathan]]",
-        "class": "{{Class table|edition=3e|[[Paladin]]|7|[[Blackguard]]|5}}",
         "rules": "3.5",
-        "alignment": "[[Chaotic evil]]",
+        "alignment": "Chaotic evil",
         "dob": "",
         "death": "",
         "age": "",
-        "source": "''[[City of Splendors: Waterdeep|CoS:W]]''",
+        "source": "CoSW",
         "page": "49",
-        "mainbody": "'''Sir Gareth Cormaeril''' is a fallen [[paladin]] of [[Tyr]] and retired member of the [[Knights of Samular]] who currently resides at the [[Halls of Justice]] in [[Waterdeep]] serving as Exchequer of the organization. He is distantly related to the [[Cormaeril]] noble family of [[Cormyr]].",
-        "Appearance": "Gareth has  bright blue eyes and wavy white hair, as well as a disfigured right arm, a wound which he received while saving the life of [[Hronrulf Caradoon]].",
-        "Background": "After saving the life of Hronrulf, Gareth lost the use of his right hand and was forced to retire from the Knights of Samular. It was at this time that he also fell from the grace of Tyr, began to worship the deity [[Cyric]] and sabotaged all that he previously strived to uphold. It was his actions that allowed [[Dag Zoreth]] of [[Darkhold]] to nearly unite the [[Rings of Samular]] as well as posess the [[Kezefbane]] for the [[Zhentarim]]. \n\nDespite this, Gareth has never admitted to himself that he no longer worshipes the Maimed God, deluding himself that he is one of the deity's faithful. He maintains this rationale with self-delusion and in some cases complete denial."
+        "mainbody": "Sir Gareth Cormaeril is a fallen paladin of Tyr and retired member of the Knights of Samular who currently resides at the Halls of Justice in Waterdeep serving as Exchequer of the organization. He is distantly related to the Cormaeril noble family of Cormyr. \nGareth has  bright blue eyes and wavy white hair, as well as a disfigured right arm, a wound which he received while saving the life of Hronrulf Caradoon.\nAfter saving the life of Hronrulf, Gareth lost the use of his right hand and was forced to retire from the Knights of Samular. It was at this time that he also fell from the grace of Tyr, began to worship the deity Cyric and sabotaged all that he previously strived to uphold. It was his actions that allowed Dag Zoreth of Darkhold to nearly unite the Rings of Samular as well as posess the Kezefbane for the Zhentarim. \nDespite this, Gareth has never admitted to himself that he no longer worshipes the Maimed God, deluding himself that he is one of the deitys faithful. He maintains this rationale with self-delusion and in some cases complete denial."
     }
 }

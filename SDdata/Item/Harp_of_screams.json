@@ -1,24 +1,11 @@
 {
-    "template_data": {
-        "10|ft|long": "yes",
-        "500|ft|long": "yes"
-    },
     "document_data": {
-        "image": "HarpOfScreams.png",
-        "caption": "",
-        "name": "''Harp of Screams''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Enchanted]] [[harp]]",
-        "creator": "",
-        "location": "[[The Dalelands]]",
-        "basicrefs": "{{Cite dragon/256/Bazaar of the Bizarre: Tools of the Trade|90}}",
         "value1e": "",
         "weight1e": "",
         "refs1e": "",
         "school2e": "",
         "level2e": "",
-        "value2e": "8,500 [[gp]]",
+        "value2e": "8,500 gp",
         "weight2e": "",
         "refs2e": "",
         "school3e": "",
@@ -42,9 +29,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Harps of screams''''' were a variety of [[enchanted]] [[harp]]s that acted as alarms and were popular in [[the Dalelands]] in the 14{{th}} century [[DR]].",
-        "Description": "These harps were always carved from expensive wood in the shape of a [[dragon]]. Clutched within the dragon's fangs was a [[gemstone]], worth only two to four [[gold piece]]s,",
-        "Powers": "In order to activate the ''harp of screams'' one had to remove the gemstone from its fangs. Once active, a ''harp of screams'' would let out a loud, painful shriek whenever anyone passed within a {{SI|10|ft|long=yes}} radius of it without playing a certain note. This shriek was so loud that it could be heard from up to {{SI|500|ft|long=yes}} and it would continue until its gemstone was returned to its mouth. The only other ways to circumvent a ''harp of screams'' were to cast ''[[dispel magic]]'' or ''[[silence, 15' radius]]'' on it.",
-        "Notable Owners": "Most guilds in the Dalelands possessed one or more ''harps of screams''."
+        "mainbody": "Harps of screams were a variety of enchanted harps that acted as alarms and were popular in the Dalelands in the 14 century DR.\nThese harps were always carved from expensive wood in the shape of a dragon. Clutched within the dragons fangs was a gemstone, worth only two to four gold pieces,\nIn order to activate the harp of screams one had to remove the gemstone from its fangs. Once active, a harp of screams would let out a loud, painful shriek whenever anyone passed within a  radius of it without playing a certain note. This shriek was so loud that it could be heard from up to  and it would continue until its gemstone was returned to its mouth. The only other ways to circumvent a harp of screams were to cast dispel magic or silence, 15 radius on it.\nMost guilds in the Dalelands possessed one or more harps of screams."
     }
 }

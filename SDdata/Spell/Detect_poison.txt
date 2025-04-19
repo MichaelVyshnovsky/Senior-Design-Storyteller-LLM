@@ -1,29 +1,19 @@
-{{Spell
-| name          = Detect Poison
-| level3e       = {{spell table|edition=3e|[[Assassin]]|1|[[Beloved of Lurue]]|1|[[Champion of Gwynharwyf]]|1|[[Cleric]]|0|[[Druid]]|0|[[Paladin]]|1|[[Ranger]]|1|[[Sorcerer]]|0|[[Wizard]]|0|[[Wu jen]]|0}}
 | domains3e     = 
 | descriptors3e =
-| school3e      = [[Divination]]
+| school3e      = Divination
 | refs3e        = 
 | reversible2e  = 
-| school2e      = [[Divination]]
-| spheres2e     = [[Divination sphere|Divination]]
-| level2e       = {{Spell table|edition=2e|[[Cleric]]|1|[[Divination sphere|Divination]]|1|[[Mystic]]|1|[[Paladin]]|1}}
+| school2e      = Divination
+| spheres2e     = Divination
+| level2e       = 
 | type2e        = 
 | refs2e        = 
 | reversible1e  = 
-| school1e      = [[Divination]]
-| level1e       = {{Spell table|edition=1e|[[Magic-user]]|2|[[Shugenja|Shukenja]]|1}}
+| school1e      = Divination
+| level1e       = 
 | type1e        = 
 | refs1e        = 
-}}
-'''''Detect poison''''' was a [[divination]] [[spell]] that allowed the caster to sense if a creature or an object was poisonous or had been poisoned.
-
-==Effect==
-Upon casting this spell, the caster could examine one creature, object, or a 5 ft<sup>3</sup> (3.5 m<sup>3</sup>) volume and know instantly if it had been poisoned or if it was poisonous to the caster. The earlier version of this spell was not instantaneous but lasted for at least 10 minutes and the caster could examine multiple targets at a rate of one per minute. Both versions had a chance to determine the exact [[poison|type of poison]]. The probability of success for the newer version depended on the caster's wisdom while the earlier spell depended on the caster's level. Skilled [[alchemist]]s could also use their alchemical knowledge to detect poison.
-
+Detect poison was a divination spell that allowed the caster to sense if a creature or an object was poisonous or had been poisoned.
+Upon casting this spell, the caster could examine one creature, object, or a 5 ft3 (3.5 m3) volume and know instantly if it had been poisoned or if it was poisonous to the caster. The earlier version of this spell was not instantaneous but lasted for at least 10 minutes and the caster could examine multiple targets at a rate of one per minute. Both versions had a chance to determine the exact type of poison. The probability of success for the newer version depended on the casters wisdom while the earlier spell depended on the casters level. Skilled alchemists could also use their alchemical knowledge to detect poison.
 This spell could successfully detect poison through barriers, but could not penetrate 3 ft (91 cm) of wood or dirt, 1 ft (30 cm) of stone, 1 in (2.5 cm) of regular metals, or a thin layer of lead.
-
-==Components==
-Both versions of this spell required [[verbal]] and [[somatic component]]s, but only the older version needed a strip of [[vellum]], blessed specifically for this purpose. The vellum turned black in the presence of poison.
-
+Both versions of this spell required verbal and somatic components, but only the older version needed a strip of vellum, blessed specifically for this purpose. The vellum turned black in the presence of poison.

@@ -1,44 +1,12 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "10|yd|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Probe Enemies",
-        "deity": "[[Corellon Larethian]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "reversible2e": "",
-        "school2e": "[[Divination]]",
-        "spheres2e": "[[Divination sphere|Divination]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|3}}",
         "type2e": "",
-        "refs2e": "{{Cite dragon/236/Arcane Lore: Demihuman Priest Spells|36}}",
+        "refs2e": "",
         "reversible1e": "",
         "school1e": "",
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Probe enemies''''' was a [[spell]] used by [[cleric]]s of [[Corellon Larethian]].",
-        "Effects": "By means of this spell, the caster was capable of analyzing a group of targets and determine which individual is the most powerful and greatest threat to the caster. The spell was unable to provide specifics as to why said individual is the most powerful in a group of targets. The targets had to be in the line of sight of the caster, and within a minimum of {{SI|10|yd|long=yes}}. This distance increased with the caster's skill level. The spell required great concentration on the part of the caster, the spell expired if their concentration broke during the duration of the spell. The spell was vulnerable to spells and magical effects that provided protection against divination-based spells.",
-        "Components": "This spell required [[verbal]] and [[somatic component]]s."
+        "mainbody": "Probe enemies was a spell used by clerics of Corellon Larethian.\nBy means of this spell, the caster was capable of analyzing a group of targets and determine which individual is the most powerful and greatest threat to the caster. The spell was unable to provide specifics as to why said individual is the most powerful in a group of targets. The targets had to be in the line of sight of the caster, and within a minimum of . This distance increased with the casters skill level. The spell required great concentration on the part of the caster, the spell expired if their concentration broke during the duration of the spell. The spell was vulnerable to spells and magical effects that provided protection against divination-based spells.\nThis spell required verbal and somatic components."
     }
 }

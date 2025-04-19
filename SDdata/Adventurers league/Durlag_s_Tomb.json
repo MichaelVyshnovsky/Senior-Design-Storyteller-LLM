@@ -1,52 +1,23 @@
 {
     "document_data": {
-        "image": "Durlag's Tomb.png",
-        "caption": "",
-        "code": "DDAL5-09",
-        "title": "Durlag's Tomb",
-        "design": "[[Alan Patrick]]{{Cite adventurers league/Durlag's Tomb|1}}",
-        "editor": "[[Travis Woodall]]",
-        "publisher": "[[Wizards of the Coast]]",
+        "editor": "Travis Woodall",
+        "publisher": "Wizards of the Coast",
         "cover_artist": "",
         "inter_artist": "",
         "pages": "41",
         "debut": "December 9 2016 (Anonycon)",
         "released": "January 3 2017",
-        "story arc": "''[[Adventurers League/Storm King's Thunder|Storm King's Thunder]]''",
+        "story arc": "Storm Kings Thunder",
         "realm year": "",
-        "setting": "[[Durlag's Tower]]",
+        "setting": "Durlags Tower",
         "game_edition": "5",
         "play_time": "4 hours",
         "players": "3–7",
-        "levels": "11{{th}} – 16{{th}}",
-        "series": "[[Adventurers League]]",
-        "preceded_by": "''[[Durlag's Tower (adventure)|Durlag's Tower]]''",
-        "followed_by": "''[[Giant Diplomacy]]''",
-        "source": "[https://www.dmsguild.com/product/199491/DDAL0509-Durlags-Tomb-5e dmsguild.com]",
-        "mainbody": "'''''Durlag's Tomb''''' is an adventure module set in the ''Forgotten Realms'' using the ''Dungeons & Dragons'' 5{{th}} edition ruleset. It is part of the ''[[Adventurers League/Storm King's Thunder|Storm King's Thunder]]'' series of adventures published for the [[Adventurers League|D&D Adventurers League]]. It focuses on [[Durlag's Tower]], and is an adventure designed for three to seven 11{{th}}- to 16{{th}}-level characters.\n\n{{Quote|''East of Beregost, nestled in the outskirts of the Wood of Sharp Teeth, Durlag's Tower has intrigued and yet stymied adventurers for decades. Stuffed full of mechanical traps and arcane wards, and rumored to be inhabited by fiends, very few have managed to extract any REAL treasure from the former home of Durlag Trollkiller. However, a powerful item in the ancient fight against the giants is said to be housed there, and the cloud giant Baron Rajiram has committed significant resources toward recovering it. After a pleasant tea in her garden, SEER calls upon you to beat him there and put a stop to his efforts!''|}}",
-        "Index": {
-            "Characters": ":{{P|[[Baron Rajiram]]|4-5,7,9,13,17,19-21,23,25}} • {{P|[[Hsing]]|7,17,20,23}} • {{P|[[SEER]]|4-7,9,16-17,19-21,23}}\n:;{{Refonly}}\n::{{P|[[Darguhn Bristlebunch]]|18}} • {{P|[[Durlag Trollkiller]]|4-7,9-10,13,16-19}}",
-            "Creatures": ":{{P|[[clay golem]]|11,21,24}} • {{P|[[cloud giant]]|7,19,21,23-25}} • {{P|[[gelatinous cube]]|12-13,21,25,39}} • {{P|[[Cornugon|horned devil]]|14-15,21,26}} • {{P|[[human]]|5,11,26-27}} ({{P|[[Shou]]|6,23}}) • {{P|[[pseudodragon]]|7,23}}\n:;{{Refonly}}\n::{{P|[[black pudding]]|39}} • {{P|[[jaguar]]|16}} • {{P|[[kraken]]|19}} • {{P|[[troll]]|18-19}}",
-            "Locations": ":;Buildings & Structures: {{P|[[Durlag's Tower]]|2,4-20,23}}\n:;Forests: {{P|[[Wood of Sharp Teeth]]|2,4,6}}\n:;Inns & Taverns: {{P|[[Red Sheaf]]|6}}\n:;Region: [[Western Heartlands]]\n:;Settlements: {{P|[[Beregost]]|2,4,6-7,20}}\n:;{{Refonly}}\n::{{P|[[Anauroch]]|20}} • {{P|[[Baldur's Gate]]|6}} • {{P|[[Candlekeep]]|17,20,22,37}} • {{P|[[Chult]]|16,20}} • {{P|[[City of Brass]]|18}} • {{P|[[Eartheart]]|7}} • {{P|[[Great Rift]]|4,7}} • {{P|[[Hordelands]]|6}} • {{P|[[Mithril Hall]]|20}} • {{P|[[Nelanther Isles]]|7}} • {{P|[[Sword Coast]]|5,7,19-20,23}} • {{P|[[Undermountain]]|18}} • {{P|[[Waterdeep]]|16}}",
-            "Magic": {
-                "Items": "{{P|''[[skeggöx]]''|18-19,21,36}}",
-                "Potions": "{{P|''[[potion of invulnerability]]''|19,21}} • {{P|''[[potion of superior healing]]''|20-21}}",
-                "Spells": "{{P|''[[animate objects]]''|16}} • {{P|''[[contingency]]''|16-17}} • {{P|''[[control weather]]''|24}} • {{P|''[[cure wounds]]''|3,24}} • {{P|''[[detect magic]]''|24}} • {{P|''[[disguise self]]''|24}} • {{P|''[[feather fall]]''|24}} • {{P|''[[fly]]''|24}} • {{P|''[[fog cloud]]''|24}} • {{P|''[[gaseous form]]''|24}} • {{P|''[[invisibility]]''|24}} • {{P|''[[light]]''|24}} • {{P|''[[major image]]''|24}} • {{P|''[[minor illusion]]''|24}} • {{P|''[[misty step]]''|10,24}} • {{P|''[[prestidigitation]]''|24}} • {{P|''[[silent image]]''|24}} • {{P|''[[suggestion]]''|24}} • {{P|''[[Tasha's hideous laughter]]''|24}} • {{P|''[[telekinesis]]''|24}} • {{P|''[[tongues]]''|24}} • {{P|''[[vicious mockery]]''|24}}",
-                "Others": "{{P|''[[firespirits]]''|12-13}}\n:;{{Refonly}}\n::{{P|''[[divination]]''|3}} • {{P|''[[greater restoration]]''|3,24}} • {{P|''[[identify]]''|3}} • {{P|''[[knock]]''|14}} • {{P|''[[lesser restoration]]''|3}} • {{P|''[[mage hand]]''|14-15}} • {{P|''[[prayer of healing]]''|3}} • {{P|''[[raise dead]]''|3-4}} • {{P|''[[remove curse]]''|3}} • {{P|''[[Resurrection (spell)|resurrection]]''|3-4}} • {{P|''[[revivify]]''|4}} • {{P|''[[speak with dead]]''|3}} • {{P|''[[symbol]]''|40}} • {{P|''[[true resurrection]]''|3-4}} • {{P|''[[truesight]]''|16}} • {{P|''[[wall of force]]''|14}}"
-            },
-            "Organizations": ":;Player Factions:  {{P|[[Emerald Enclave]]|5,19,21,25}} • {{P|[[Harpers]]|5}} • {{P|[[Lords' Alliance]]|4-7,20,23}} • {{P|[[Order of the Gauntlet]]|5}} • {{P|[[Zhentarim]]|5}}\n:;{{Refonly}}\n::{{P|[[Lords of Waterdeep]]|16}}",
-            "Religions": ":;{{Refonly}}\n::{{P|[[Abbathor]]|10-11,15-17,21}} • {{P|[[Clangeddin Silverbeard]]|18}} • {{P|[[Gorm]]|11,14,17}} • {{P|[[Moradin]]|9-11,17-18}} • {{P|[[Oghma]]|22,37}} • {{P|[[Vergadain]]|10-13,17}}",
-            "Miscellaneous": {
-                "Armor & Clothing": "{{P|[[gauntlet]]|11,17}} • {{P|[[necklace]]|10,16-17}}",
-                "Art & Literature": "{{P|[[Durlag's tablet]]|18-20,22,37}}",
-                "Food & Drinks": "{{P|[[cinnamon]]|7}} • {{P|[[mint]]|7}} • {{P|[[tea]]|6-7,20}}",
-                "Gemstones": "{{P|[[diamond]]|20}}",
-                "Items": "{{P|[[gear]]|21,36}} • {{P|[[map]]|9-10,17,19}}",
-                "Languages": "{{P|[[Dethek]]|11,15,18,24}} • {{P|[[Dwarvish]]|18}} • {{P|[[Giant language]]|19}}",
-                "Materials": "{{P|[[adamantine]]|14-15,24}} • {{P|[[copper]]|18,20,22,37}} • {{P|[[hizagkuur]]|4,7,9-10,12,14-18}} • {{P|[[marble]]|18}} • {{P|[[porcelain]]|7}}",
-                "Weapons": "{{P|[[longsword]]|19}} • {{P|[[shortsword]]|10-11,16-17,26}}\n:;{{Refonly}}\n::{{P|[[anvil]]|10-11}} • {{P|[[apron]]|9}} • {{P|[[hammer]]|9-11}} • {{P|[[holy water]]|12}} • {{P|[[pineapple]]|9}} • {{P|[[spyglass]]|9-10,17}}"
-            }
-        },
-        "Credits": "* '''D&D Organized Play:''' [[Chris Lindsay]]\n* '''D&D Adventurers League Wizards Team:''' [[Chris Lindsay]], [[Adam Lee]], [[Mike Mearls]], [[Matt Sernett]]\n* '''D&D Adventurers League Administrator(s):''' [[Claire Hoffman]], [[Robert Adducci]], [[Bill Benham]], [[Travis Woodall]], [[Greg Marks]], [[Alan Patrick]]"
+        "levels": "11 – 16",
+        "series": "Adventurers League",
+        "preceded_by": "Durlags Tower",
+        "followed_by": "Giant Diplomacy",
+        "source": "[https//www.dmsguild.com/product/199491/DDAL0509-Durlags-Tomb-5e dmsguild.com]",
+        "mainbody": "Durlags Tomb is an adventure module set in the Forgotten Realms using the Dungeons & Dragons 5 edition ruleset. It is part of the Storm Kings Thunder series of adventures published for the D&D Adventurers League. It focuses on Durlags Tower, and is an adventure designed for three to seven 11- to 16-level characters.\n •  • \n • \n •  •  •  •  () • \n •  •  • \nBuildings & Structures \nForests \nInns & Taverns \nRegion Western Heartlands\nSettlements \n •  •  •  •  •  •  •  •  •  •  •  • \nItems \nPotions  • \nSpells  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  • \nOthers \n •  •  •  •  •  •  •  •  •  •  •  •  •  •  • \nPlayer Factions   •  •  •  • \n •  •  •  •  • \nArmor & Clothing  • \nArt & Literature \nFood & Drinks  •  • \nGemstones \nItems  • \nLanguages  •  • \nMaterials  •  •  •  • \nWeapons  • \n •  •  •  •  • \n* D&D Organized Play Chris Lindsay\n* D&D Adventurers League Wizards Team Chris Lindsay, Adam Lee, Mike Mearls, Matt Sernett\n* D&D Adventurers League Administrator(s) Claire Hoffman, Robert Adducci, Bill Benham, Travis Woodall, Greg Marks, Alan Patrick"
     }
 }

@@ -1,40 +1,9 @@
 {
-    "template_data": {
-        "edition": "1e",
-        "edition_1": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "City Watch civilar",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "Civilar",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Waterdeep]], [[Sword Coast North]]",
-        "formerhomes": "",
-        "gender": "Any",
-        "race": "Typically [[human]]",
-        "occupation": "City Watch",
-        "patron deity": "",
-        "languages": "[[Common]], [[Chondathan]], [[Illuskan]]",
-        "reckoning": "DR",
-        "dob": "",
-        "dobnotes": "",
-        "turned": "",
-        "turnednotes": "",
-        "death": "",
-        "deathnotes": "",
-        "destroyed": "",
-        "destroyednotes": "",
-        "class1e": "{{class table|edition=1e|[[Fighter]]|3}}",
-        "class35": "{{class table|edition=3e|[[Rogue]]|1|[[Fighter]]|3}}",
+        "class35": "",
         "refs1e": "",
         "refs35": "",
         "alignment": "Varies",
-        "mainbody": "A '''civilar''' was a member of the [[City Watch (Waterdeep)|City Watch]] of [[Waterdeep]], holding a rank equivalent to a lieutenant or captain.{{Cite comic/The Gathering}}",
-        "Activities": "They typically patrolled inside the walls of Waterdeep in groups of four, with two [[Generic City Watch patrolperson (Waterdeep)|patrolpersons]], one [[Generic City Watch sergeant (Waterdeep)|sergeant]], and one captain or lieutenant.",
-        "Possessions": "''Circa'' [[1357 DR]], civilars of the City Watch typically had the standard City Watch kit of [[leather armor|leather]] and [[chain mail|chain armor]], [[short sword]]s, [[dagger]]s, and sturdy rods like [[club]]s.\n\n''Circa'' [[1372 DR]], in addition to their uniform, civilars were outfitted in a ''+1 [[chain shirt]]'', with a steel [[light shield]], and carried a ''+1 [[short sword]]'' and masterwork [[club]]. They also possessed a ''[[potion]] of [[cure light wounds]]'' and an ''[[amulet of the watch]]''."
+        "mainbody": "A civilar was a member of the City Watch of Waterdeep, holding a rank equivalent to a lieutenant or captain.\nThey typically patrolled inside the walls of Waterdeep in groups of four, with two patrolpersons, one sergeant, and one captain or lieutenant.\nCirca 1357 DR, civilars of the City Watch typically had the standard City Watch kit of leather and chain armor, short swords, daggers, and sturdy rods like clubs.\nCirca 1372 DR, in addition to their uniform, civilars were outfitted in a +1 chain shirt, with a steel light shield, and carried a +1 short sword and masterwork club. They also possessed a potion of cure light wounds and an amulet of the watch."
     }
 }

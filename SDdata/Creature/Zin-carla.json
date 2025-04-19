@@ -1,26 +1,5 @@
 {
     "document_data": {
-        "image": "ZinR.png",
-        "caption": "A [[drow]] as a zin-carla.",
-        "name": "Zin-Carla",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "",
-        "type3e": "[[Undead]]",
-        "subtype3e": "[[Augmented]]",
-        "alignment3e": "Always [[neutral]]",
-        "challenge3e": "",
-        "refs3e": "{{Cite web enhancement/Monster Update|8}}",
         "size2e": "",
         "alignment2e": "",
         "refs2e": "",
@@ -28,7 +7,7 @@
         "alignment1e": "",
         "refs1e": "",
         "patron deity": "",
-        "vision": "[[Darkvision]]",
+        "vision": "Darkvision",
         "activecycle": "",
         "diet": "",
         "lifespan": "",
@@ -50,6 +29,6 @@
         "distinctions": "",
         "based": "",
         "first": "",
-        "mainbody": "'''Zin-carla''', \"spirit-wraith\" in the [[Drow language]], was a special type of [[undead]] created through a ritual performed by [[arachne]]. [[Lolth]] only granted the zin-carla ritual for specific tasks, which may never be purely to work revenge or bring harm on other [[drow]]. Failure brought the disfavor of Lolth. Zin-carla was, literally, the restoration of a spirit to that spirit's deceased body.  For all intents and purposes, the spirit-wraith was the same as it was before death; however, the thing's free will was repressed, and under the control of a matron mother.<ref>"
+        "mainbody": "Zin-carla, \"spirit-wraith\" in the Drow language, was a special type of undead created through a ritual performed by arachne. Lolth only granted the zin-carla ritual for specific tasks, which may never be purely to work revenge or bring harm on other drow. Failure brought the disfavor of Lolth. Zin-carla was, literally, the restoration of a spirit to that spirits deceased body.  For all intents and purposes, the spirit-wraith was the same as it was before death however, the things free will was repressed, and under the control of a matron mother."
     }
 }

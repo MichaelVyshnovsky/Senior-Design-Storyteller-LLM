@@ -1,32 +1,5 @@
 {
-    "template_data": {
-        "454|pound|k|long": "yes",
-        "|long": "yes"
-    },
     "document_data": {
-        "image": "Pewter cup.png",
-        "caption": "A pewter cut with polished [[bronze]] ornamentations.",
-        "name": "Pewter",
-        "aliases": "",
-        "locations": "",
-        "discovered": "",
-        "date": "",
-        "creators": "",
-        "created": "",
-        "hisrefs": "",
-        "type": "Alloy",
-        "components": "",
-        "color": "Gray",
-        "properties": "",
-        "markings": "",
-        "phyrefs": "",
-        "uses": "",
-        "cost": "",
-        "userefs": "",
-        "items": "yes",
-        "mainbody": "'''Pewter''' was a useful alloyed metal produced and worked on [[Toril]].",
-        "Properties": "Pewter typically weighed {{SI|454|pound|k|long=yes}} per {{SI|1|cubic foot||long=yes}}.{{Cite dragon/13/How Heavy Is My Giant|6}} It was mostly unaffected by the corrosion of salt water, but contact with [[iron]] while submerged caused it to dissolve.{{Cite dragon/250/Sunken Fortunes|65}}",
-        "Usages": "* Pewter was used to make steins, [[mug]]s, and tankards, a more expensive option than [[brass]] but cheaper than [[silver]].\n* A pewter [[tuning fork]] could be used to [[plane shift]] to the [[Para-Elemental Plane of Ice]].{{Cite dragon/120/Plane Speaking|43}}\n* [[Pewter golem]]s were a kind of [[golem]].\n* [[Dung]]-carters collected metal scraps from the street to trade to metalsmiths, selling pewter, [[copper]], and brass for 4 cp per pound.{{Cite web/Forging the Realms/The Stench Carts}}",
-        "History": "[[Tasseldale]] had a high population of pewtersmiths and tinsmiths. Tin and other metals were imported from [[Sembia]] and [[Archendale]], then the finished crafts were exported, often to [[Arabel]]. The [[Tasselway Coster]] ran caravans that specialized in tin and pewter trade goods, among others.\n\n[[Velarstown Silver and Jewelry]] in [[Harrowdale]] traded in pewterware, gems, and other fine metalwork.\n\nPewter goods were made in and exported from [[Saerloon]] in Sembia."
+        "mainbody": "ewter was a useful alloyed metal produced and worked on Toril.\nPewter typically weighed  per . It was mostly unaffected by the corrosion of salt water, but contact with iron while submerged caused it to dissolve.\n* Pewter was used to make steins, mugs, and tankards, a more expensive option than brass but cheaper than silver.\n* A pewter tuning fork could be used to plane shift to the Para-Elemental Plane of Ice.\n* Pewter golems were a kind of golem.\n* Dung-carters collected metal scraps from the street to trade to metalsmiths, selling pewter, copper, and brass for 4 cp per pound.\nTasseldale had a high population of pewtersmiths and tinsmiths. Tin and other metals were imported from Sembia and Archendale, then the finished crafts were exported, often to Arabel. The Tasselway Coster ran caravans that specialized in tin and pewter trade goods, among others.\nVelarstown Silver and Jewelry in Harrowdale traded in pewterware, gems, and other fine metalwork.\nPewter goods were made in and exported from Saerloon in Sembia."
     }
 }

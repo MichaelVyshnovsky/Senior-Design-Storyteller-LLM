@@ -1,31 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes",
-        "1'3|'\"|long": "yes"
-    },
     "document_data": {
-        "image": "Wand of Mage Armor.png",
-        "caption": "",
-        "name": "''Wand of Mage Armor''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Wand]]",
-        "creator": "",
-        "location": "[[Targos]], [[Ten Towns]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -42,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Wands of mage armor''''' were [[enchanted]] [[wand]]s that held multiple charges of defensive spells unleashed upon command.",
-        "Description": "''Wands of mage armor'' were slender {{SI|1'3|'\"|long=yes}} wands with sharp point and angular design. They were usually made using bone, [[ivory]], or [[wood]], yet fragile and kept in cases. and could count as as much as fifty.",
-        "Powers": "Each of these wands held several charges of the ''[[mage armor]]'' spell that could be discharged at will using a wand's command word. Upon expenditure of a wand's last charge, it disintegrated.",
-        "Notable Owners": "*[[Bronnia Stonesplitter]], a [[gold dwarf]] [[wizard]], active ''circa'' [[1372 DR]].\n*[[Nym (Icewind Dale)|Nym]], a [[drow]] proprietor of rare and magical goods who traveled [[Icewind Dale]] and [[Dorn's Deep]] in the late 13{{th}} and early 14{{th}} centuries [[DR]]."
+        "mainbody": "Wands of mage armor were enchanted wands that held multiple charges of defensive spells unleashed upon command.\nWands of mage armor were slender  wands with sharp point and angular design. They were usually made using bone, ivory, or wood, yet fragile and kept in cases. and could count as as much as fifty.\nEach of these wands held several charges of the mage armor spell that could be discharged at will using a wands command word. Upon expenditure of a wands last charge, it disintegrated.\n*Bronnia Stonesplitter, a gold dwarf wizard, active circa 1372 DR.\n*Nym, a drow proprietor of rare and magical goods who traveled Icewind Dale and Dorns Deep in the late 13 and early 14 centuries DR."
     }
 }

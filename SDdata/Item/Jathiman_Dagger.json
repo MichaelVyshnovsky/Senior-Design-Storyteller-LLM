@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes",
-        "35|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Jathiman Dagger''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Minor [[artifact]]",
-        "location": "[[Mezeketh Isle]], [[Sembia]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "20th",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|1|lb|k}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,14 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "text": "In those days, we three sought power, prestige, and eternal persistence. The planes had opened to us, revealing their terrible secrets. On the fields of fetid Rezamark, in the Lake of Boiling Mud, we took a step away from mortality. Borem, patron of anger, breathes no more. His indestructible heart is buried on this forlorn rock, where it must rest for eternity. We shall keep watch over it forever.",
-        "source": "The text on the menhir on Mezeketh Isle.",
-        "float": "right",
-        "width": "",
-        "mainbody": "In the {{YearlinkName|-359}}, they used it to slay the god-like being [[Borem of the Lake of Boiling Mud|Borem]], at the [[Lake of Boiling Mud]] in [[Rezamark]], and with that act attained a measure of divinity themselves.\n\nLater, in the {{YearlinkName|-350}}, they surprised [[Haask, Voice of Hargut|Haask]], priest-king of [[Grong-Haap]], in his throne-room in [[Ironfang Keep]]. Bhaal thrust the ''Jathiman Dagger'' into the back and heart of Haask, draining his life energy and revealing the [[greathorn minotaur]] to be truly a [[batrachi]]-[[doppelganger]].<ref>{{Cite dragon/361/Realmslore: Ironfang Keep}}<ref group=\"note\">The history here seems contradictory, as the dates imply the three slew Borem ''before'' Haask, yet left the dagger in Borem's heart, suggesting he was slain last. It may be that they stuck the dagger back in Borem's Quagheart after slaying Haask, perhaps to prevent the Lake of Boiling Mud reforming.\n\nThey left the ''Jathiman Dagger'' piercing ''[[Borem's Quagheart]]'', which was still slowly beating, in order to prevent the reforming of the Lake of Boiling Mud and the potential return of Borem. They buried the two artifacts in a 3-foot-wide (1 meter) spherical chamber, buried some {{SI|35|ft|long=yes}} deep on [[Mezeketh Isle]] off the coast of [[Sembia]], at a site marked by a certain [[menhir]] inscribed in an ancient [[Jhaamdathan language|Jhaamdathan script]]. There it still lay, unknown to all mortals, by [[1372 DR]].",
-        "Description": "It took the form of an ordinary [[iron]] blade, weighing {{SI|1|lb|k|long=yes}}. It was said to ripple with arcane energy.",
-        "Powers": "It was a ''+5 [[unholy (quality)|unholy]] [[dagger]]''. Moreover, it bestowed on the wielder a particular power over the fates of divine beings, and penetrated all protections a target being had by virtue of the divine.",
-        "History": "Of [[Netherese]] origin, the ancient Jathimites despised deities and all aspects of the divine. They believed that, through sheer brute force, mortals could even bring down and kill the gods. Thus, by weaving [[arcane magic]] through violent self-destruction—in the actual self-sacrifice of thirty-nine Jathimites—they manifested these forces in physical form, crafting the ''Jathiman Dagger''.\n\nThey would not get to savor their creation for long. The god [[Jergal]], Lord of the End of Everything, caused the slaughter of the whole surviving sect in grisly fashion: trapping them in a great coliseum where he slowly imploded and then reanimated them as [[ghoul]]s who would devour the others, and forcing them to watch each other's fates in horror and hunger. Afterward, he took the ''Jathiman Dagger'' for himself.\n\nBut, rather than use it, Jergal ultimately let the ''Jathiman Dagger'' come into the possession of [[Bane]] whilst he was still a mortal. The three adventurers Bane, [[Bhaal]], and [[Myrkul]] would go on to use the ''Jathiman Dagger'' in their unholy quest. \n\n{{fq\n| text   = In those days, we three sought power, prestige, and eternal persistence. The planes had opened to us, revealing their terrible secrets. On the fields of fetid Rezamark, in the Lake of Boiling Mud, we took a step away from mortality. Borem, patron of anger, breathes no more. His indestructible heart is buried on this forlorn rock, where it must rest for eternity. We shall keep watch over it forever.\n| source = The text on the menhir on Mezeketh Isle.\n\n| float  = right\n| width  = \n}}\nIn the {{YearlinkName|-359}}, they used it to slay the god-like being [[Borem of the Lake of Boiling Mud|Borem]], at the [[Lake of Boiling Mud]] in [[Rezamark]], and with that act attained a measure of divinity themselves.\n\nLater, in the {{YearlinkName|-350}}, they surprised [[Haask, Voice of Hargut|Haask]], priest-king of [[Grong-Haap]], in his throne-room in [[Ironfang Keep]]. Bhaal thrust the ''Jathiman Dagger'' into the back and heart of Haask, draining his life energy and revealing the [[greathorn minotaur]] to be truly a [[batrachi]]-[[doppelganger]].<ref>{{Cite dragon/361/Realmslore: Ironfang Keep}}<ref group=\"note\">The history here seems contradictory, as the dates imply the three slew Borem ''before'' Haask, yet left the dagger in Borem's heart, suggesting he was slain last. It may be that they stuck the dagger back in Borem's Quagheart after slaying Haask, perhaps to prevent the Lake of Boiling Mud reforming.\n\nThey left the ''Jathiman Dagger'' piercing ''[[Borem's Quagheart]]'', which was still slowly beating, in order to prevent the reforming of the Lake of Boiling Mud and the potential return of Borem. They buried the two artifacts in a 3-foot-wide (1 meter) spherical chamber, buried some {{SI|35|ft|long=yes}} deep on [[Mezeketh Isle]] off the coast of [[Sembia]], at a site marked by a certain [[menhir]] inscribed in an ancient [[Jhaamdathan language|Jhaamdathan script]]. There it still lay, unknown to all mortals, by [[1372 DR]].",
-        "Notable Owners": "* [[Jergal]]\n* [[Bane]]"
+        "mainbody": "The Jathiman Dagger was a minor artifact created by the Cult of Jathiman to slay the gods themselves.\nIt took the form of an ordinary iron blade, weighing . It was said to ripple with arcane energy.\nIt was a +5 unholy dagger. Moreover, it bestowed on the wielder a particular power over the fates of divine beings, and penetrated all protections a target being had by virtue of the divine.\nOf Netherese origin, the ancient Jathimites despised deities and all aspects of the divine. They believed that, through sheer brute force, mortals could even bring down and kill the gods. Thus, by weaving arcane magic through violent self-destruction—in the actual self-sacrifice of thirty-nine Jathimites—they manifested these forces in physical form, crafting the Jathiman Dagger.\nThey would not get to savor their creation for long. The god Jergal, Lord of the End of Everything, caused the slaughter of the whole surviving sect in grisly fashion trapping them in a great coliseum where he slowly imploded and then reanimated them as ghouls who would devour the others, and forcing them to watch each others fates in horror and hunger. Afterward, he took the Jathiman Dagger for himself.\nBut, rather than use it, Jergal ultimately let the Jathiman Dagger come into the possession of Bane whilst he was still a mortal. The three adventurers Bane, Bhaal, and Myrkul would go on to use the Jathiman Dagger in their unholy quest. \nIn the , they used it to slay the god-like being Borem, at the Lake of Boiling Mud in Rezamark, and with that act attained a measure of divinity themselves.\nLater, in the , they surprised Haask, priest-king of Grong-Haap, in his throne-room in Ironfang Keep. Bhaal thrust the Jathiman Dagger into the back and heart of Haask, draining his life energy and revealing the greathorn minotaur to be truly a batrachi-doppelganger.The history here seems contradictory, as the dates imply the three slew Borem before Haask, yet left the dagger in Borems heart, suggesting he was slain last. It may be that they stuck the dagger back in Borems Quagheart after slaying Haask, perhaps to prevent the Lake of Boiling Mud reforming.\nThey left the Jathiman Dagger piercing Borems Quagheart, which was still slowly beating, in order to prevent the reforming of the Lake of Boiling Mud and the potential return of Borem. They buried the two artifacts in a 3-foot-wide (1 meter) spherical chamber, buried some  deep on Mezeketh Isle off the coast of Sembia, at a site marked by a certain menhir inscribed in an ancient Jhaamdathan script. There it still lay, unknown to all mortals, by 1372 DR.\n* Jergal\n* Bane"
     }
 }

@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Summon Darsson",
-        "othernames": "",
-        "deity": "",
-        "inventor": "[[Darsson Spellmaker]]",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Summoning]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|5}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -45,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Summon Darsson''''' was an [[Arcane magic|arcane]] [[summoning]] [[spell]] that allowed the caster to communicate with [[Darsson Spellmaker]].",
-        "Effects": "This spell created an image of Darsson's head before the caster, allowing Darsson to see, speak, and hear as if he was with the caster. Though the spell would wake Darsson if he was sleeping, it would not function if Darsson was unconscious. Darsson provided his close friends with a special phrase word to use when casting the spell, otherwise he might choose not to answer if contacted by a stranger. Darsson sometimes gave strangers a brief moment to explain themselves before he decided to depart.\n\nDarsson could choose to then appear near the caster if he wished, or if he was unable to resist the spell's magic. Either way, he could pick the precise location of his appearance in order to gain some advantage.\n\nDarsson created magical [[scroll]]s containing this spell, which he provided to close friends who were not spellcasters.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component]]s, this spell required Darsson to be conscious to cast."
+        "mainbody": "Summon Darsson was an arcane summoning spell that allowed the caster to communicate with Darsson Spellmaker.\nThis spell created an image of Darssons head before the caster, allowing Darsson to see, speak, and hear as if he was with the caster. Though the spell would wake Darsson if he was sleeping, it would not function if Darsson was unconscious. Darsson provided his close friends with a special phrase word to use when casting the spell, otherwise he might choose not to answer if contacted by a stranger. Darsson sometimes gave strangers a brief moment to explain themselves before he decided to depart.\nDarsson could choose to then appear near the caster if he wished, or if he was unable to resist the spells magic. Either way, he could pick the precise location of his appearance in order to gain some advantage.\nDarsson created magical scrolls containing this spell, which he provided to close friends who were not spellcasters.\nIn addition to verbal and somatic components, this spell required Darsson to be conscious to cast."
     }
 }

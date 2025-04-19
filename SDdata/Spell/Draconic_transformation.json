@@ -1,19 +1,5 @@
 {
-    "template_data": {
-        "edition": "5e"
-    },
     "document_data": {
-        "name": "draconic transformation",
-        "deity": "",
-        "type": "",
-        "school5e": "[[Transmutation]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "{{spell table|edition=5e|[[Druid]]|7|[[Sorcerer]]|7|[[Wizard]]|7}}",
         "type5e": "",
         "refs5e": "",
         "feature4e": "",
@@ -40,11 +26,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Draconic transformation''''' was a [[spell]] used by [[druid]]s, [[sorcerer]]s, and [[wizard]]s to give themselves [[dragon]]-like features.",
-        "Effects": "This spell transformed its caster so that they gained dragon-like traits. They gained the ability to see in total darkness and detect invisible things, to breathe out a blast of energy, and to conjure incorporeal wings for flight.",
-        "Components": "The spell required [[verbal]], [[somatic]], and [[material component]]s. The material required was a statuette of a dragon worth at least 500 [[gp]]",
-        "Appenix": {
-            "References": "{{Refs}}\n[[Category:Transmutation spells]]\n[[Category:Druid spells]]\n[[Category:Sorcerer spells]]\n[[Category:Wizard spells]]\narjbdm2ayefuojwrm79o1qm9x02r0cw"
-        }
+        "mainbody": "Draconic transformation was a spell used by druids, sorcerers, and wizards to give themselves dragon-like features. \nThis spell transformed its caster so that they gained dragon-like traits. They gained the ability to see in total darkness and detect invisible things, to breathe out a blast of energy, and to conjure incorporeal wings for flight. \nThe spell required verbal, somatic, and material components. The material required was a statuette of a dragon worth at least 500 gp \nCategoryTransmutation spells\nCategoryDruid spells\nCategorySorcerer spells\nCategoryWizard spells\narjbdm2ayefuojwrm79o1qm9x02r0cw"
     }
 }

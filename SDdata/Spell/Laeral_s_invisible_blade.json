@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Laeral's Invisible Blade",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "[[Laeral Silverhand]]",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|8}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Laeral's invisible blade''''' was a [[wizard]] [[spell]] from the school of [[evocation]]. This spell was created by [[Laeral Silverhand]] and was based on [[Alustriel Silverhand|Alustriel's]] spell ''[[Alustriel's sword of stars|sword of stars]]''.",
-        "Effects": "This spell created an invisible magical force shaped like a [[sword]] that the caster could direct to attack enemies. The magical blade remained invisible unless marred with blood or some other substance. The blade did not require the caster's attention unless the caster selected another target, leaving them free to perform other actions while the blade attacked.\n\nThe blade was immune to all magical attacks, with the exception of ''[[dispel magic]]'', but could be destroyed by physical forces. The blade would become slightly visible if it made contact with any detection spells.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, this spell required as [[material component]]s a clear rock crystal and any metal-bladed weapon to cast. The weapon was consumed during the casting."
+        "mainbody": "Laerals invisible blade was a wizard spell from the school of evocation. This spell was created by Laeral Silverhand and was based on Alustriels spell sword of stars.\nThis spell created an invisible magical force shaped like a sword that the caster could direct to attack enemies. The magical blade remained invisible unless marred with blood or some other substance. The blade did not require the casters attention unless the caster selected another target, leaving them free to perform other actions while the blade attacked.\nThe blade was immune to all magical attacks, with the exception of dispel magic, but could be destroyed by physical forces. The blade would become slightly visible if it made contact with any detection spells.\nIn addition to verbal and somatic components, this spell required as material components a clear rock crystal and any metal-bladed weapon to cast. The weapon was consumed during the casting."
     }
 }

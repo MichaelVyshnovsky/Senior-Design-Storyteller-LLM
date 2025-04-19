@@ -1,23 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Windrider",
-        "deity": "[[Qotal]]",
-        "domains": "",
-        "inventor": "",
-        "reversible2e": "",
-        "school2e": "[[Pluma]], [[Alteration]]",
-        "spheres2e": "[[Pluma]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|3|[[Plumaweaver]]|3}}",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''''Windrider''''' was a spell unique to [[Maztica]].",
-        "Effects": "This spell allowed a caster to move an object on air or water. As this spell did not provide levitation to an object, an airborne object had to be held up by a force of its own. This spell was able to move objects on which the spells ''[[Elevate I]]'' or ''[[Elevate II]]'' were cast on. For the spell to function, the caster had to remain within 10 feet (3 meters) of the object. This distance increased as the caster grew more powerful. A caster could move an object up to 120 feet (36.5 meters) a day. The spell was vulnerable to weather conditions such as strong winds.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, the spell required a [[material component]]: a piece of a feather from a [[vulture]]."
+        "mainbody": "Windrider was a spell unique to Maztica.\nThis spell allowed a caster to move an object on air or water. As this spell did not provide levitation to an object, an airborne object had to be held up by a force of its own. This spell was able to move objects on which the spells Elevate I or Elevate II were cast on. For the spell to function, the caster had to remain within 10 feet (3 meters) of the object. This distance increased as the caster grew more powerful. A caster could move an object up to 120 feet (36.5 meters) a day. The spell was vulnerable to weather conditions such as strong winds.\nIn addition to verbal and somatic components, the spell required a material component a piece of a feather from a vulture."
     }
 }

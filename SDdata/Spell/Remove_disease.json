@@ -1,44 +1,26 @@
 {
-    "template_data": {
-        "edition": "4e",
-        "variant": "ritual",
-        "edition_1": "3e",
-        "edition_2": "2e",
-        "edition_3": "1e"
-    },
     "document_data": {
-        "image": "Cause Disease.jpg",
-        "caption": "",
-        "name": "Remove Disease",
-        "level4e": "{{Spell table|edition=4e|variant=ritual|Restoration|6}}",
         "type4e": "Ritual",
         "category4e": "Restoration",
         "skill4e": "Heal",
         "refs4e": "",
-        "school3e": "[[Conjuration]] (Healing)",
-        "domains3e": "[[Renewal domain|Renewal]]",
+        "school3e": "Conjuration (Healing)",
+        "domains3e": "Renewal",
         "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Adept]]|3|[[Beloved of Lurue]]|3|[[Cleric]]|3|[[Druid]]|3|[[Ranger]]|3|[[Renewal domain|Renewal]]|3}}",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
-        "school2e": "[[Abjuration]]",
+        "school2e": "Abjuration",
         "reversible2e": "true",
-        "spheres2e": "[[Healing sphere|Healing]],<ref group=\"note\">This spell was added to the [[Healing sphere]] by the [[Player's Option: Spells & Magic]]. See page 187. [[Necromantic sphere|Necromantic]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|3|[[Crusader]]|3|[[Druid]]|3|[[Healing sphere|Healing]]|3|[[Monk]]|3|[[Mystic]]|3|[[Necromantic sphere|Necromantic]]|3|[[Paladin]]|3|[[Shaman]]|3}}",
+        "spheres2e": "Healing,This spell was added to the Healing sphere by the Players Option Spells & Magic. See page 187. Necromantic",
+        "level2e": "",
         "type2e": "",
         "refs2e": "",
-        "school1e": "[[Abjuration]]",
+        "school1e": "Abjuration",
         "reversible1e": "true",
-        "level1e": "{{spell table|edition=1e|[[Cleric]]|3|[[Paladin]]|3|[[Witch doctor]]|3}}",
+        "level1e": "",
         "type1e": "",
-        "refs1e": "{{Cite dragon/141/Orcs Throw Spells, Too!|26}}",
-        "mainbody": "'''''Remove disease''''' was a [[conjuration]] spell that, on touch, magically removed any diseases and killed any parasites from which the subject is suffering.",
-        "Effects": {
-            "[[Lycanthropy]]": "Sufficiently experienced priests could cure lycanthropy<ref group=\"note\">According to the [[Monster Manual 4th edition]], page 180, lycanthropy was a hereditary condition and not a disease. if this spell was cast within three days of infection.",
-            "[[Green slime]], [[yellow mold]], [[rot grubs]]": "''Remove/Cure disease'' was effective on these afflictions. In the case of yellow mold, the cure had to be done before ''[[resurrection (spell)|resurrection]]'' of the victim.",
-            "[[Mummy rot]]": "Some strains of this disease could be cured by this spell, but some were curses and required ''[[remove curse]]'' instead. In the Realms, mummy rot was only slowed by this spell. To effect a full cure required the victim drink a special tea prepared from the [[herb]] [[mother's leaf]] before casting ''cure disease''."
-        },
-        "Components": "Only verbal and somatic components were required to cast this spell. For certain kinds of [[mummy rot]] an herbal tea brewed from the mother's leaf plant had to be consumed first. Mothersleaf could be found in northern temperate and subarctic regions by those with skill in plant lore.",
-        "History": "It was recorded in ''[[Yornar's Trail Companion]]'', a holy text of the [[church of Mielikki]].<ref>"
+        "refs1e": "",
+        "mainbody": "Remove disease was a conjuration spell that, on touch, magically removed any diseases and killed any parasites from which the subject is suffering.\nThe caster had to touch the diseased creature to apply this spell. The newer version of this spell worked instantaneously while the old version, depending on the virulence of the disease and how long it had progressed, took anywhere from ten minutes to a tenday, but the patient felt better as the progression of the disease was rapidly reversed.\nThese spells could cure most diseases but there were some more formidable examples that are not affected. Both versions did not grant any form of immunity, so the subject was still susceptible to reinfection upon further exposure.\nThe abjuration version spell could also cause disease if cast in reverse upon a successful touch attack. The caster could choose either a debilitating disease (within an hour, the victim began to lose strength until practically helpless), or a fatal one (healing spells were no longer effective, death occurred in one to six months).\nNotes on specific diseases\n Lycanthropy  Sufficiently experienced priests could cure lycanthropyAccording to the Monster Manual 4th edition, page 180, lycanthropy was a hereditary condition and not a disease. if this spell was cast within three days of infection.\n Green slime, yellow mold, rot grubs  Remove/Cure disease was effective on these afflictions. In the case of yellow mold, the cure had to be done before resurrection of the victim.\n Mummy rot  Some strains of this disease could be cured by this spell, but some were curses and required remove curse instead. In the Realms, mummy rot was only slowed by this spell. To effect a full cure required the victim drink a special tea prepared from the herb mothers leaf before casting cure disease.\nOnly verbal and somatic components were required to cast this spell. For certain kinds of mummy rot an herbal tea brewed from the mothers leaf plant had to be consumed first. Mothersleaf could be found in northern temperate and subarctic regions by those with skill in plant lore.\nIt was recorded in Yornars Trail Companion, a holy text of the church of Mielikki."
     }
 }

@@ -1,23 +1,13 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "name": "Faran Ferromar",
-        "aliases": "",
-        "home": "[[Beluir]], [[Luiren]]",
-        "sex": "Male",
-        "race": "[[Strongheart halfling|Strongheart]] [[halfling]]",
-        "class": "{{Class table|edition=3e|[[Cleric]]|13}}",
-        "patron deity": "[[Yondalla]]",
+        "patron deity": "Yondalla",
         "rules": "3rd",
-        "alignment": "[[Lawful good]]",
+        "alignment": "Lawful good",
         "dob": "",
         "death": "",
         "age": "",
-        "source": "[[Forgotten Realms Campaign Setting 3rd edition|FRCS]]",
+        "source": "FRCS",
         "page": "195",
-        "mainbody": "'''Faran Ferromar''' was the Devout Voice of [[Yondalla]] at her temple within the city of [[Beluir]] in [[Luiren]]. He was the spiritual leader of the [[halfling]]s in the region and thus their ''de facto'' leader."
+        "mainbody": "Faran Ferromar was the Devout Voice of Yondalla at her temple within the city of Beluir in Luiren. He was the spiritual leader of the halflings in the region and thus their de facto leader."
     }
 }

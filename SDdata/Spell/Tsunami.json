@@ -1,23 +1,5 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "edition_1": "2e",
-        "edition_2": "1e"
-    },
     "document_data": {
-        "image": "Tsunami-spell.png",
-        "caption": "",
-        "name": "Tsunami",
-        "deity": "[[Istishia]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Conjuration]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "level5e": "{{spell table|edition=5e|[[Druid]]|8}}",
         "type5e": "",
         "refs5e": "",
         "feature4e": "",
@@ -34,18 +16,16 @@
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
-        "school2e": "[[Conjuration]] (Summoning), [[Elemental water school|Water]], [[Evocation]]",
-        "spheres2e": "[[Elemental water sphere|Elemental Water]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|7|[[Druid]]|7|[[Elemental sphere|Elemental]]|7|[[Elemental water sphere|Elemental Water]]|7|[[Wizard]]|6|[[Shugenja|Shukenja]]|7|[[Wu jen]]|9}}",
+        "school2e": "Conjuration (Summoning), Water, Evocation",
+        "spheres2e": "Elemental Water",
+        "level2e": "",
         "type2e": "",
-        "refs2e": "{{Cite dragon/229/Campaign Classics: Wu-jen: the Oriental mage revisited}}",
+        "refs2e": "",
         "reversible1e": "",
-        "school1e": "[[Evocation]]<br/>[[Elemental water school|Water]]",
-        "level1e": "{{spell table|edition=1e|[[Wu jen]]|9}}",
+        "school1e": "EvocationWater",
+        "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''Tsunami''' was a [[conjuration]] spell that summoned a massive wave. The spell was very rare outside [[Kara-Tur]],",
-        "Effects": "The caster was only able to cast this spell on a large body of water, such as an ocean or a large lake. The summoned tsunami acted in the same way a natural occurring one would. The wave travelled in the direction chosen by the caster. Wooden buildings and ships caught in the wave were destroyed.",
-        "Components": "The spell required [[Verbal component|verbal]] and [[Somatic component|somatic]] components. In addition, the [[wu jen]] version of this spell required [[material component]]s, a scale from either a [[li lung]] or a [[tun mi lung]], which was mixed with water from a [[water elemental]]."
+        "mainbody": "Tsunami was a conjuration spell that summoned a massive wave. The spell was very rare outside Kara-Tur,\nThe caster was only able to cast this spell on a large body of water, such as an ocean or a large lake. The summoned tsunami acted in the same way a natural occurring one would. The wave travelled in the direction chosen by the caster. Wooden buildings and ships caught in the wave were destroyed. \nThe spell required verbal and somatic components. In addition, the wu jen version of this spell required material components, a scale from either a li lung or a tun mi lung, which was mixed with water from a water elemental."
     }
 }

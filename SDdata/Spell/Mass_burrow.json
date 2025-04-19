@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Mass Burrow",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Druid]]|6|[[Harper scout]]|4|[[Prime Underdark guide]]|4|[[Ranger]]|4|[[Sorcerer]]|6|[[Wizard]]|6}}<ref group=note name=\"note1\">The ''[[Spell Compendium]]'' lists the ''mass burrow'' as a 3{{rd}}-level [[ranger]] [[spell]]. In this article, the Forgotten Realms-product ''[[Underdark]]'s'' listing is used per policy.",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Mass burrow''''' was a [[transmutation]] [[spell]] that worked like the ''[[burrow]]'' spell.",
-        "Effects": "As mentioned above, ''mass burrow'' worked like the ''burrow'' spell. The difference between these two spells lay in the scale. The caster could enchant more than one creature, the number of which increased with the caster's skill, and they did not need to touch them. The creatures needed to be within 30 feet (9 meters).",
-        "Components": "''Mass burrow'' required [[somatic]] and [[verbal component]]s, but also a focus in the form of a claw of a burrowing [[animal]], when the caster cast the spell as an arcane one. Divine casters needed to substitute the focus with a [[divine focus]]."
+        "mainbody": "Mass burrow was a transmutation spell that worked like the burrow spell.\nAs mentioned above, mass burrow worked like the burrow spell. The difference between these two spells lay in the scale. The caster could enchant more than one creature, the number of which increased with the casters skill, and they did not need to touch them. The creatures needed to be within 30 feet (9 meters).\nMass burrow required somatic and verbal components, but also a focus in the form of a claw of a burrowing animal, when the caster cast the spell as an arcane one. Divine casters needed to substitute the focus with a divine focus."
     }
 }

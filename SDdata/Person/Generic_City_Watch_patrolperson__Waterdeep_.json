@@ -1,40 +1,9 @@
 {
-    "template_data": {
-        "edition": "1e",
-        "edition_1": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "City Watch patrolperson",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "Watchman, watchwoman",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Waterdeep]], [[Sword Coast North]]",
-        "formerhomes": "",
-        "gender": "Any",
-        "race": "Typically [[human]]",
-        "occupation": "City Watch",
-        "patron deity": "",
-        "languages": "",
-        "reckoning": "DR",
-        "dob": "",
-        "dobnotes": "",
-        "turned": "",
-        "turnednotes": "",
-        "death": "",
-        "deathnotes": "",
-        "destroyed": "",
-        "destroyednotes": "",
-        "class1e": "{{class table|edition=1e|[[Fighter]]|1}}",
-        "class35": "{{class table|edition=3e|[[Expert]]|1|[[Warrior]]|1}}",
+        "class35": "",
         "refs1e": "",
         "refs35": "",
         "alignment": "Varies",
-        "mainbody": "A '''watchman''' or '''watchwoman''' was a junior member of the [[City Watch (Waterdeep)|City Watch]] of [[Waterdeep]], serving as a patrolperson.{{Cite comic/The Gathering}}",
-        "Activities": "They typically patrolled inside the walls of Waterdeep in groups of four, with two patrolpersons, one [[Generic City Watch sergeant (Waterdeep)|sergeant]], and one [[Generic City Watch captain (Waterdeep)|captain]].",
-        "Possessions": "''Circa'' [[1357 DR]], patrolmen and women of the City Watch typically had the standard City Watch kit of [[leather armor|leather]] and [[chain mail|chain armor]], [[short sword]]s, [[dagger]]s, and sturdy rods like [[club]]s.\n\n''Circa'' [[1372 DR]], in addition to their uniform, watchmen and women were outfitted in masterwork [[studded leather armor]], with a steel [[light shield]], and carried a masterwork [[short sword]] and [[club]]. They also possessed a ''[[potion]] of [[cure light wounds]]'' and an ''[[oil]] of [[Magic weapon (spell)|magic weapon]]''."
+        "mainbody": "A watchman or watchwoman was a junior member of the City Watch of Waterdeep, serving as a patrolperson.\nThey typically patrolled inside the walls of Waterdeep in groups of four, with two patrolpersons, one sergeant, and one captain.\nCirca 1357 DR, patrolmen and women of the City Watch typically had the standard City Watch kit of leather and chain armor, short swords, daggers, and sturdy rods like clubs.\nCirca 1372 DR, in addition to their uniform, watchmen and women were outfitted in masterwork studded leather armor, with a steel light shield, and carried a masterwork short sword and club. They also possessed a potion of cure light wounds and an oil of magic weapon."
     }
 }

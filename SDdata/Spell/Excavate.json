@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Excavate",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Sorcerer]]|8|[[Wizard]]|8}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,9 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Excavate''''' was a [[transmutation]] [[spell]] that was similar to the ''[[passwall]]'' spell.",
-        "Effects": "As mentioned above, the ''excavate'' spell was similar to the ''passwall'' spell. It bore a tunnel through walls that were not made of metal or harder materials, like wood, plaster, or stone. If the wall was particularly thick, a hole instead of a tunnel was created, nothing hindered the caster of casting multiple ''excavate'' spells in succession to create a tunnel. Unlike ''passwall'', the tunnels created remained in existence no matter how much time passed.",
-        "Components": "''Excavate'' required [[somatic]], [[verbal]], and [[material component]]s in the form of excavated earth to cast. The earth was thrown at the wall to be excavated at the conclusion of the casting, it then started to glow and burn, causing the wall to vanish and creating the wanted passage.",
-        "History": "''Excavate'' was a typical spell that an [[earth node]] granted to those that were learned in [[node magic]] with those nodes.  However, earth nodes that were powerful enough to grant this powerful spell were extremely rare.\n\nThe ''[[undermaster]]'' spell granted the use of the ''excavate'' spell among other."
+        "mainbody": "Excavate was a transmutation spell that was similar to the passwall spell.\nAs mentioned above, the excavate spell was similar to the passwall spell. It bore a tunnel through walls that were not made of metal or harder materials, like wood, plaster, or stone. If the wall was particularly thick, a hole instead of a tunnel was created, nothing hindered the caster of casting multiple excavate spells in succession to create a tunnel. Unlike passwall, the tunnels created remained in existence no matter how much time passed.\nExcavate required somatic, verbal, and material components in the form of excavated earth to cast. The earth was thrown at the wall to be excavated at the conclusion of the casting, it then started to glow and burn, causing the wall to vanish and creating the wanted passage.\nExcavate was a typical spell that an earth node granted to those that were learned in node magic with those nodes.  However, earth nodes that were powerful enough to grant this powerful spell were extremely rare.\nThe undermaster spell granted the use of the excavate spell among other."
     }
 }

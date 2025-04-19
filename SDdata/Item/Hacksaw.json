@@ -1,35 +1,11 @@
 {
-    "template_data": {
-        "rca": "right"
-    },
     "document_data": {
-        "image": "Hacksaw2e.PNG",
-        "caption": "A hacksaw.",
-        "name": "Hacksaw",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Tool",
-        "creator": "",
-        "location": "[[Toril]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "5–20 [[gold piece]]s",
-        "weight2e": "",
-        "refs2e": "<ref name=\"AWRC-p14/>",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "{{Split table|rca=right|Common|5 gp|Superior|20 gp|[[Adamantine]]|600 gp}}",
-        "weight3e": "{{SI|1|lb|k}}",
-        "refs3e": "{{cite book/Dungeonscape|30}}",
+        "weight3e": "",
+        "refs3e": "",
         "level4e": "5 gp",
         "value4e": "",
-        "weight4e": "{{SI|1|lb|k}}",
-        "refs4e": "<ref>",
+        "weight4e": "",
+        "refs4e": "",
         "rarity5e": "",
         "attunement5e": "",
         "school5e": "",
@@ -41,9 +17,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Hacksaws''' were a type of [[saw]] used to cut through metal.{{cite book/Dungeonscape|32}}",
-        "Description": "Hacksaws were made by [[dwarf|dwarven]] craftsmen. The blades were made from hardened [[steel]], with a superior version including [[diamond]]-tipped blades. One could even find hacksaws made of [[adamantine]].",
-        "Availability": "* In [[Athkatla]], one could find hacksaws for sale in the market [[Waukeen's Promenade]].<ref><ref group=\"note\" name=\"Duty\">''[[For Duty & Deity]]'' states that every nonmagical item featured in the ''[[Arms and Equipment Guide]]'' can be purchased at Waukeen's Promenade.\n* ''[[Aurora's Whole Realms Catalogue (in-universe)|Aurora's Whole Realms Catalogue]]'' sold common hacksaws for 5 [[gold piece]]s and hacksaws of superior quality for 20 gp.",
-        "Notable Users": "* Hacksaws were sometimes used by [[thieves]] or [[rogues]] throughout [[Faerûn]], such as for cutting through or around [[lock (item)|locks]], though this tactic could be quite noisy and took some time.<ref>"
+        "mainbody": "Hacksaws were a type of saw used to cut through metal.\nHacksaws were made by dwarven craftsmen. The blades were made from hardened steel, with a superior version including diamond-tipped blades. One could even find hacksaws made of adamantine.\n* In Athkatla, one could find hacksaws for sale in the market Waukeens Promenade.For Duty & Deity states that every nonmagical item featured in the Arms and Equipment Guide can be purchased at Waukeens Promenade.\n* Auroras Whole Realms Catalogue sold common hacksaws for 5 gold pieces and hacksaws of superior quality for 20 gp.\n* Hacksaws were sometimes used by thieves or rogues throughout Faerûn, such as for cutting through or around locks, though this tactic could be quite noisy and took some time."
     }
 }

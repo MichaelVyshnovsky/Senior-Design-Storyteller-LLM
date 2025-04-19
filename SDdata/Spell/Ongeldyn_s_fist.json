@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "OngeldynsFist.JPG",
-        "caption": "Ongeldyn's fist strikes true.",
-        "name": "Ongeldyn's Fist",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "[[Ongeldyn]]",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|7}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Ongeldyn's fist''''' was a [[wizard]] [[spell]] from the school of [[evocation]]. This spell was created by the wizard [[Ongeldyn]].",
-        "Effects": "This spell created a large shadowy fist roughly the size of a man's torso. The caster could use the fist to strike a single visible target with powerful blows.\n\nThere was no way to block the fist but a ''[[dispel magic]]'' spell would destroy it. Once the target was selected the fist would continue to attack for several minutes until either the spell ended or the target was slain, at which point the fist dissipated. The fist was unable to attack a target that traveled to a different plane to escape, but it was well suited for striking targets on the same plane, sticking with its target even if they used spells such as ''[[blink]]'', ''[[dimension door]]'', or ''[[teleport]]''.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, this spell required as a [[material component]] a small fist carved of [[onyx]] to cast."
+        "mainbody": "Ongeldyns fist was a wizard spell from the school of evocation. This spell was created by the wizard Ongeldyn.\nThis spell created a large shadowy fist roughly the size of a mans torso. The caster could use the fist to strike a single visible target with powerful blows.\nThere was no way to block the fist but a dispel magic spell would destroy it. Once the target was selected the fist would continue to attack for several minutes until either the spell ended or the target was slain, at which point the fist dissipated. The fist was unable to attack a target that traveled to a different plane to escape, but it was well suited for striking targets on the same plane, sticking with its target even if they used spells such as blink, dimension door, or teleport.\nIn addition to verbal and somatic components, this spell required as a material component a small fist carved of onyx to cast."
     }
 }

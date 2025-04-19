@@ -1,41 +1,16 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "edition_1": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Crown of Brilliance",
-        "deity": "",
-        "inventor": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Evocation]]",
-        "domains3e": "",
-        "descriptors3e": "{{Desc/good}}{{Desc/light}}",
-        "level3e": "{{spell table|edition=3e|[[Cleric]]|6}}",
+        "level3e": "",
         "refs3e": "",
         "reversible2e": "",
-        "school2e": "[[Invocation/Evocation]]",
-        "spheres2e": "[[Sun]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|6|[[Sun sphere|Sun]]|6}}",
+        "school2e": "Invocation/Evocation",
+        "spheres2e": "Sun",
+        "level2e": "",
         "refs2e": "",
         "reversible1e": "",
         "school1e": "",
         "level1e": "",
         "refs1e": "",
-        "mainbody": "'''''Crown of brilliance''''' was a powerful [[evocation]] [[spell]] used by [[Celestial archon|archons]] who could cast [[divine magic]].\n\nWhile usually reserved for archons, [[Mystra]] might also grant this spell to mortals who had been blessed by one of the [[Seven Sisters]].",
-        "Effects": "At the completion of the casting of this spell, a halo of golden light surrounded the caster's head and emanated out twenty feet (six meters) in all directions. The light was intense enough to dazzle any creatures in the area, even blinding some of them for up to nearly half a minute. Creatures sensitive to light were forced to leave the area, and [[undead]] creatures took physical damage from the brilliant radiance.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component]]s, casting ''crown of brilliance'' required the caster to carry an expensive [[opal]] for the duration of the spell. The opal shattered at the end of the spell, and likewise, the spell ended if the opal was lost or destroyed."
+        "mainbody": "Crown of brilliance was a powerful evocation spell used by archons who could cast divine magic.\nWhile usually reserved for archons, Mystra might also grant this spell to mortals who had been blessed by one of the Seven Sisters.\nAt the completion of the casting of this spell, a halo of golden light surrounded the casters head and emanated out twenty feet (six meters) in all directions. The light was intense enough to dazzle any creatures in the area, even blinding some of them for up to nearly half a minute. Creatures sensitive to light were forced to leave the area, and undead creatures took physical damage from the brilliant radiance.\nIn addition to verbal and somatic components, casting crown of brilliance required the caster to carry an expensive opal for the duration of the spell. The opal shattered at the end of the spell, and likewise, the spell ended if the opal was lost or destroyed."
     }
 }

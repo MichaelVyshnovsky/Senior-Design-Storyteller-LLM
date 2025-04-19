@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Galkyn's Bolt",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "[[Galkyn]]",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|4}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Galkyn's bolt''''' was a [[wizard]] [[spell]] often employed by [[Harpers]] who expected a battle but needed to carry passive spells.",
-        "Effects": "This spell converted medium to lowered powered spells from the caster's memory into magical bolts that could be used as an attack in a pinch. Each spell converted in this manner became a single bolt that the caster could will to attack anything they wished. This spell caused more harm to [[undead]] and creatures from the [[Negative Energy Plane]].",
-        "Components": "This spell only required [[Verbal component|verbal]] and [[somatic component|somatic]] components to cast."
+        "mainbody": "Galkyns bolt was a wizard spell often employed by Harpers who expected a battle but needed to carry passive spells.\nThis spell converted medium to lowered powered spells from the casters memory into magical bolts that could be used as an attack in a pinch. Each spell converted in this manner became a single bolt that the caster could will to attack anything they wished. This spell caused more harm to undead and creatures from the Negative Energy Plane.\nThis spell only required verbal and somatic components to cast."
     }
 }

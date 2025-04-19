@@ -1,16 +1,5 @@
 {
-    "template_data": {
-        "10|mi|k|long": "yes",
-        "10|mi|k|long_1": "yes"
-    },
     "document_data": {
-        "image": "Moonshae Isles.png",
-        "caption": "A map showing the Trackless Stait between Norland and Moray.",
-        "name": "Trackless Strait",
-        "aliases": "",
-        "type": "Strait",
-        "region": "The [[Trackless Sea]], the [[Sea of Moonshae]]",
-        "size": "{{SI|10|mi|k|long=yes}} wide",
         "depth": "",
         "river source": "",
         "river mouth": "",
@@ -29,7 +18,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "The '''Trackless Strait''' was a channel of the [[Trackless Sea]] that separated the islands of [[Moray]] and [[Norland]] in the [[Moonshae Isles]].{{Cite interactive atlas}}{{Cite dungeon/196/Backdrop: Moonshae Isles|11}}",
-        "Geography": "Approximately {{SI|10|mi|k|long=yes}} of ocean within the Trackless Strait separated the two islands. The strait served as the western boundary between the [[Ffolk]] in the south and the [[Northlander]]s in the north. The strait connected the larger Trackless Sea with the [[Sea of Moonshae]]."
+        "mainbody": "The Trackless Strait was a channel of the Trackless Sea that separated the islands of Moray and Norland in the Moonshae Isles.\nApproximately  of ocean within the Trackless Strait separated the two islands. The strait served as the western boundary between the Ffolk in the south and the Northlanders in the north. The strait connected the larger Trackless Sea with the Sea of Moonshae."
     }
 }

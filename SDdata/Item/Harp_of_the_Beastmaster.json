@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "0.5|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Harp of the Beastmaster''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Harp]]",
-        "creator": "",
-        "location": "[[Spindrift Town]], [[Nelanther Islands]], [[Sea of Swords]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|0.5|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Harps of the Beastmaster''''' were enchanted instruments, created to be used by [[bard]]s, [[ranger]]s, and [[Harper]] scouts.",
-        "Powers": "These ''[[harp]]s'' found wide use by the sea wolves and sea-faring adventurers for its ability to ''[[charm]]'' both beasts and men. Each ''harp of the Beastmaster'' allowed the wielder to ''[[charm person or mammal]]'' via its enchanted music three times a day, and ''[[dominate animal]]'' once a day.",
-        "History": "After the [[Wailing Death]] of [[1372 DR]], ''harps of the Beastmaster'' could be found in several locations of the Nelanther Islands, namely sold at the [[The Monkey's Cutlass]] of Spindrift Town by [[Grogbeard McPherson]]."
+        "mainbody": "Harps of the Beastmaster were enchanted instruments, created to be used by bards, rangers, and Harper scouts.\nThese harps found wide use by the sea wolves and sea-faring adventurers for its ability to charm both beasts and men. Each harp of the Beastmaster allowed the wielder to charm person or mammal via its enchanted music three times a day, and dominate animal once a day.\nAfter the Wailing Death of 1372 DR, harps of the Beastmaster could be found in several locations of the Nelanther Islands, namely sold at the The Monkeys Cutlass of Spindrift Town by Grogbeard McPherson."
     }
 }

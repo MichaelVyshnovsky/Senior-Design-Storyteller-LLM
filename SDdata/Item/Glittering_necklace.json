@@ -1,29 +1,5 @@
 {
-    "template_data": {
-        "0.5|lb|k|long": "yes",
-        "15'|'\"|long": "yes"
-    },
     "document_data": {
-        "image": "[[File:Glittering necklace.gif]]",
-        "caption": "",
-        "name": "''Glittering Necklace''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Amulet]]",
-        "location": "[[Sword Coast]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|0.5|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -40,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Glittering necklaces''''' were common enchanted [[amulet]]s imbued with [[illusion]] magic.",
-        "Powers": "''Glittering necklaces'' came in various designs and different light colors. They were decorated with dull gray stones that glowed with illusory inner light with a {{SIAdj|15'|'\"|long=yes}} radius. The necklace remained cold to the touch when activated.",
-        "History": "In the late 14{{th}} century [[DR]], ''glittering necklaces'' were a common commodity, found in inventories of many traders, [[wizard]]s, [[rogue]]s, and temples.",
-        "Notable Owners": "*[[Kyleena Moonglow]]: the chieftain of a [[wild elf]] tribe who attempted to take the land from [[Daggerford]]'s farmers in [[1372 DR]]."
+        "mainbody": "Glittering necklaces were common enchanted amulets imbued with illusion magic.\nGlittering necklaces came in various designs and different light colors. They were decorated with dull gray stones that glowed with illusory inner light with a  radius. The necklace remained cold to the touch when activated.\nIn the late 14 century DR, glittering necklaces were a common commodity, found in inventories of many traders, wizards, rogues, and temples.\n*Kyleena Moonglow the chieftain of a wild elf tribe who attempted to take the land from Daggerfords farmers in 1372 DR."
     }
 }

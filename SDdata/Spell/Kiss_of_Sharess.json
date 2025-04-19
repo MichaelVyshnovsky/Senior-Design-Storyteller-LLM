@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Kiss of Sharess",
-        "othernames": "",
-        "deity": "[[Sharess]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]], [[Enchantment]]",
-        "spheres2e": "[[Charm sphere]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|5}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -45,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Kiss of Sharess''''' was a [[Divine magic|divine]] [[alteration]] and [[enchantment]] [[spell]] used by specialty priests devoted to [[Sharess]] called [[Sensate]]s, enabling them to grant a target's wish.",
-        "Effects": "This spell allowed the caster to grant a target's most pleasurable wish similar to the ''[[limited wish]]'' spell. The spell found the desired wish deep within the target's subconscious, so neither the caster or the target had direct control over what was selected. The effects of the ''kiss of Sharess'' lasted until sunrise the following morning. This spell had a knack for being not quite as pleasurable as expected when the target returned to their normal life.",
-        "Components": "This spell required only [[somatic component]]s to cast."
+        "mainbody": "Kiss of Sharess was a divine alteration and enchantment spell used by specialty priests devoted to Sharess called Sensates, enabling them to grant a targets wish.\nThis spell allowed the caster to grant a targets most pleasurable wish similar to the limited wish spell. The spell found the desired wish deep within the targets subconscious, so neither the caster or the target had direct control over what was selected. The effects of the kiss of Sharess lasted until sunrise the following morning. This spell had a knack for being not quite as pleasurable as expected when the target returned to their normal life.\nThis spell required only somatic components to cast."
     }
 }

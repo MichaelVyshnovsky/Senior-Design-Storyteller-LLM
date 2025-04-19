@@ -1,24 +1,5 @@
 {
-    "template_data": {
-        "4|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Robe of Enfusing.png",
-        "caption": "",
-        "name": "''Robe of Enfusing''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Robe]]",
-        "creator": "",
-        "location": "[[Kuldahar]], [[Icewind Dale]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "+2",
-        "value2e": "9,000 [[gp]]",
-        "weight2e": "{{SI|4|lb|k|long=yes}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -41,9 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Robes of enfusing''''' were heavily enchanted [[wizard]]ly [[robe]]s with a design dating back to the days of [[Netheril]].",
-        "Powers": "''Robes of enfusing's'' enchantments were weaved to enhance the wearer's spell power and defense. The magical defenses of these robes were similar to that of a ''+2'' enchantment. Additionally, the ''robes of enfusing'' gave the wearer minor magic resistance, a minor boost to the knowledge of legends and lore, and allowed memorization of an additional spell per day, such as ''[[magic missile]]'' or similar power level.",
-        "History": "Dating to the days of Netheril, wizards favored these robes for their ease of production, sturdiness, light weight, and the ability to hold complicated enchantments fairly easy.\n\nBy [[1281 DR]], ''robes of enfusing'' were used by the spell-casters of the [[Kraken Society]] who allied themselves with the [[devil]] [[Belhifet]], residing within [[Dorn's Deep]]. Another robe could be found among treasures within the [[Dragon's Eye]] caverns on the [[Spine of the World]].",
-        "Notable Owners": "* [[Orrick|Orrick the Gray]]: a [[wizard]] who lived on the edge of [[Kuldahar]] and dedicated his life to the study of ''[[mythal]]s''."
+        "mainbody": "Robes of enfusing were heavily enchanted wizardly robes with a design dating back to the days of Netheril.\nRobes of enfusings enchantments were weaved to enhance the wearers spell power and defense. The magical defenses of these robes were similar to that of a +2 enchantment. Additionally, the robes of enfusing gave the wearer minor magic resistance, a minor boost to the knowledge of legends and lore, and allowed memorization of an additional spell per day, such as magic missile or similar power level.\nDating to the days of Netheril, wizards favored these robes for their ease of production, sturdiness, light weight, and the ability to hold complicated enchantments fairly easy.\nBy 1281 DR, robes of enfusing were used by the spell-casters of the Kraken Society who allied themselves with the devil Belhifet, residing within Dorns Deep. Another robe could be found among treasures within the Dragons Eye caverns on the Spine of the World.\n* Orrick the Gray a wizard who lived on the edge of Kuldahar and dedicated his life to the study of mythals."
     }
 }

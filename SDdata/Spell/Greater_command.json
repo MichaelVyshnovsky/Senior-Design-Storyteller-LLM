@@ -1,18 +1,6 @@
 {
-    "template_data": {
-        "name": "Greater Command",
-        "domains3e": "[[Herald domain",
-        "level3e": "{{spell table",
-        "edition": "3e"
-    },
     "document_data": {
-        "name": "Greater Command",
-        "domains3e": "[[Herald domain|Herald]], [[Nobility domain|Nobility]], [[Tyranny domain|Tyranny]]",
-        "level3e": "{{spell table|edition=3e|[[Cleric]]|5|[[Herald domain|Herald]]|5|[[Nobility domain|Nobility]]|5|[[Tyranny domain|Tyranny]]|5}}",
-        "descriptors3e": "{{Desc/language-dependent}}{{desc/mind-affecting}}",
-        "school3e": "[[Enchantment]] (Compulsion)",
-        "mainbody": "ype3e=\n|refs3e=\n}}\n'''''Greater command''''' was an [[arcane]] [[evocation]] spell that compelled multiple subjects to follow a single order as long as they were given in a language they understood.",
-        "Effect": "This spell functioned in the same manner as ''[[command]]'', except that more creatures could be affected and the effects lasted longer.",
-        "Components": "Only verbal components were necessary to cast this spell."
+        "school3e": "Enchantment (Compulsion)",
+        "mainbody": "|type3e=\n|refs3e=\nGreater command was an arcane evocation spell that compelled multiple subjects to follow a single order as long as they were given in a language they understood.\nThis spell functioned in the same manner as command, except that more creatures could be affected and the effects lasted longer.\nOnly verbal components were necessary to cast this spell."
     }
 }

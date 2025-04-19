@@ -1,35 +1,6 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Perfect Summons",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "{{desc/good}}",
-        "level3e": "{{spell table|edition=3e|[[Sorcerer]]|4|[[Wizard]]|4}}",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,8 +14,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Perfect summons''''' was a [[transmutation]] spell that created a summoning area for good creatures only.",
-        "Effect": "The caster produced a zone 40 feet (12.2 meters) in radius somewhere in medium range that only good beings could be summoned into. Regardless of what a later caster tried to summon into the area, the result would be good in nature. That is, if they attempted to summon a neutral or evil creature, it instead became a good version, such as being [[celestial (creature)|celestial]] rather than [[fiendish]], or a good creature of equivalent power, such as an [[celestial archon|archon]] instead of a [[formian]]. Furthermore, if the caster had tried to summon a neutral or evil creature, the resulting summoned creature of good was not compelled to obey its summoner or attack their foes. They might even choose to attack their summoner if they were deemed evil. Furthermore, the caster could not dismiss the summons, but it could be dispelled as normal.\n\n''Perfect summons'' and ''[[distort summons]]'' could be used to counter and dispel each other.",
-        "Components": "It required [[verbal]] and [[somatic component]]s."
+        "mainbody": "Perfect summons was a transmutation spell that created a summoning area for good creatures only.\nThe caster produced a zone 40 feet (12.2 meters) in radius somewhere in medium range that only good beings could be summoned into. Regardless of what a later caster tried to summon into the area, the result would be good in nature. That is, if they attempted to summon a neutral or evil creature, it instead became a good version, such as being celestial rather than fiendish, or a good creature of equivalent power, such as an archon instead of a formian. Furthermore, if the caster had tried to summon a neutral or evil creature, the resulting summoned creature of good was not compelled to obey its summoner or attack their foes. They might even choose to attack their summoner if they were deemed evil. Furthermore, the caster could not dismiss the summons, but it could be dispelled as normal.\nPerfect summons and distort summons could be used to counter and dispel each other.\nIt required verbal and somatic components."
     }
 }

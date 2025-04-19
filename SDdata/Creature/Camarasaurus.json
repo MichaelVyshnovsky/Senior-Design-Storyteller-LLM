@@ -1,34 +1,8 @@
 {
-    "template_data": {
-        "50|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "Camarasaurus",
-        "name": "Camarasaurus",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "",
-        "type3e": "",
-        "subtype3e": "",
-        "alignment3e": "",
-        "challenge3e": "",
-        "refs3e": "",
-        "size2e": "Gargantuan",
-        "alignment2e": "[[Neutral]]{{Nil-alignment}}",
-        "refs2e": "{{Cite dragon/155/Sage Advice|86}}",
+        "refs2e": "",
         "size1e": "Large",
-        "alignment1e": "[[Neutral]]",
+        "alignment1e": "Neutral",
         "refs1e": "",
         "patron deity": "",
         "vision": "",
@@ -42,7 +16,7 @@
         "climate": "",
         "terrain": "Marshes or swamps",
         "height": "",
-        "length": "{{SI|50|ft|long=yes}}",
+        "length": "",
         "wingspan": "",
         "weight": "",
         "skincolor": "",
@@ -52,12 +26,8 @@
         "eyecolor": "",
         "build": "",
         "distinctions": "",
-        "based": "[[Wikipedia:Camarasaurus|Camarasaurus]]",
-        "first": "''[[Monster Manual 1st edition]]''<ref name='MM1-p24\">",
-        "mainbody": "'''Camarasauruses''' were a type of herbivorous, quadruped [[dinosaur]].",
-        "Behavior": "These creatures were known to panic easily, especially in comparison to [[apatosaurus]]es.",
-        "Ecology": {
-            "Habitats": "They were typically found to inhabit marshes and swamps."
-        }
+        "based": "Camarasaurus",
+        "first": "Monster Manual 1st edition",
+        "mainbody": "Camarasauruses were a type of herbivorous, quadruped dinosaur.\nThese creatures were known to panic easily, especially in comparison to apatosauruses.\nThese creatures were herd animals.\nThey were typically found to inhabit marshes and swamps."
     }
 }

@@ -1,28 +1,10 @@
 {
-    "template_data": {
-        "2|ft|long": "yes",
-        "30|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Grig fiddles.jpg",
-        "caption": "Left: a regular grig fiddle and (right) a master fiddle.",
-        "name": "''Grig Fiddle''<br/>''Master Fiddle''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Fiddle]]",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "65 [[gp]]",
-        "weight2e": "{{SI|4|lbs.|k}}",
         "refs2e": "",
         "school3e": "",
-        "casterlevel3e": "''Grig fiddle'': 7{{th}}<br/>''Master fiddle'': 9{{th}}",
+        "casterlevel3e": "",
         "itemlevel3e": "",
-        "value3e": "''Grig fiddle'': 14,400 [[gp]]<br/>''Master fiddle'': 18,000 gp",
+        "value3e": "Grig fiddle 14,400 gpMaster fiddle 18,000 gp",
         "weight3e": "",
         "refs3e": "",
         "level4e": "",
@@ -39,14 +21,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "creator": "''Grig fiddle'': a grig<br/>''Master fiddle'': a grig or [[bard]]",
-        "basicrefs": "",
-        "mainbody": "===Individuals===\n* [[Diccon Picard]], a jeweler of [[Ghars]], [[Cormyr]], ''circa'' [[1367 DR]], owned a Selgaunt fiddle but was not a great player.\n* [[Rinaldo]], a self-styled [[bard]] in [[Easthaven]], was fond of plucking a fiddle in the [[White Lady Inn]] while recounting the story of the [[White Lady (spirit)|White Lady]] [[ghost]].<ref>\n===Races & Sentient Creatures===\n* The [[cricket]]-like [[sprite]]s known as [[grig]]s were masters of the fiddle. By playing a fiddle, they could compel creatures within {{SI|30|ft|long=yes}} to dance uncontrollably, to the point of exhaustion.{{Cite dragon/420/Fey of Wood and Wind|7-8}} They could fashion tiny ''grig fiddles'' that would work for others, and their ''master fiddles'' were exquisite instruments capable of producing the most beautiful music, and granted grigs many of the powers of great [[bard]]s.\n* Violins were a greatly favored instrument among [[elves]], who loved their mellow sound.\n===Settlements & Nations===\n* The cities of [[Waterdeep]] and [[Selgaunt]] harbored craftsmen, many of whom were elven, capable of making high-quality violins. They could be ordered from ''[[Aurora's Whole Realms Catalogue]]'', from which master-quality violins were also available for special orders and custom prices.",
-        "Description": "Violins were approximately {{SI|2|ft|long=yes}} in length and had four, occasionally five, strings. These strings created mellow musical tones when they were stroked with a bow. Playing the instrument involved tucking it under one's chin, near the collarbone, holding it with one hand while they worked the bow with the other. Some of the violins found in the [[Western Heartlands]] were made out of [[cedar]] and burled [[walnut]] wood.",
-        "Notable Users": {
-            "Individuals": "* [[Diccon Picard]], a jeweler of [[Ghars]], [[Cormyr]], ''circa'' [[1367 DR]], owned a Selgaunt fiddle but was not a great player.\n* [[Rinaldo]], a self-styled [[bard]] in [[Easthaven]], was fond of plucking a fiddle in the [[White Lady Inn]] while recounting the story of the [[White Lady (spirit)|White Lady]] [[ghost]].<ref>",
-            "Races & Sentient Creatures": "* The [[cricket]]-like [[sprite]]s known as [[grig]]s were masters of the fiddle. By playing a fiddle, they could compel creatures within {{SI|30|ft|long=yes}} to dance uncontrollably, to the point of exhaustion.{{Cite dragon/420/Fey of Wood and Wind|7-8}} They could fashion tiny ''grig fiddles'' that would work for others, and their ''master fiddles'' were exquisite instruments capable of producing the most beautiful music, and granted grigs many of the powers of great [[bard]]s.\n* Violins were a greatly favored instrument among [[elves]], who loved their mellow sound.",
-            "Settlements & Nations": "* The cities of [[Waterdeep]] and [[Selgaunt]] harbored craftsmen, many of whom were elven, capable of making high-quality violins. They could be ordered from ''[[Aurora's Whole Realms Catalogue]]'', from which master-quality violins were also available for special orders and custom prices."
-        }
+        "mainbody": "* Diccon Picard, a jeweler of Ghars, Cormyr, circa 1367 DR, owned a Selgaunt fiddle but was not a great player.\n* Rinaldo, a self-styled bard in Easthaven, was fond of plucking a fiddle in the White Lady Inn while recounting the story of the White Lady ghost.\n* The cricket-like sprites known as grigs were masters of the fiddle. By playing a fiddle, they could compel creatures within  to dance uncontrollably, to the point of exhaustion. They could fashion tiny grig fiddles that would work for others, and their master fiddles were exquisite instruments capable of producing the most beautiful music, and granted grigs many of the powers of great bards.\n* Violins were a greatly favored instrument among elves, who loved their mellow sound.\n* The cities of Waterdeep and Selgaunt harbored craftsmen, many of whom were elven, capable of making high-quality violins. They could be ordered from Auroras Whole Realms Catalogue, from which master-quality violins were also available for special orders and custom prices."
     }
 }

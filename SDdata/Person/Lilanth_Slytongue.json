@@ -1,44 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Lilanth Slytongue",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Skullport]], [[Undermountain]]",
-        "formerhomes": "",
-        "sex": "Female",
-        "race": "[[Human]]",
-        "ethnicity": "",
-        "occupation": "Shopkeeper",
-        "age": "",
-        "patron deity": "",
-        "languages": "",
-        "reckoning": "DR",
-        "dob": "",
-        "dobnotes": "",
-        "turned": "",
-        "turnednotes": "",
-        "death": "",
-        "deathnotes": "",
-        "destroyed": "",
-        "destroyednotes": "",
-        "parents": "",
-        "spouses": "",
-        "siblings": "",
-        "children": "",
-        "familyrefs": "",
-        "alignment1e": "",
-        "class1e": "",
-        "refs1e": "",
-        "alignment2e": "[[Neutral good]]",
-        "class2e": "{{class table|edition=2e|[[Wizard]]|4}}",
         "refs2e": "",
         "alignment3e": "",
         "class3e": "",
@@ -52,7 +13,6 @@
         "alignment5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Lilanth Slytongue''' was a [[wizard]] shopkeeper in [[Skullport]] in [[1370 DR]].",
-        "History": "Lilanth managed a kind of bookstore with an army of cats. Most of her money she gained, however, through selling inks, quills, and parchments."
+        "mainbody": "Lilanth Slytongue was a wizard shopkeeper in Skullport in 1370 DR.\nLilanth managed a kind of bookstore with an army of cats. Most of her money she gained, however, through selling inks, quills, and parchments."
     }
 }

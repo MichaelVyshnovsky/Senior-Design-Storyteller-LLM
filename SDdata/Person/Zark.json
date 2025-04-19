@@ -1,42 +1,7 @@
 {
-    "template_data": {
-        "edition": "4e"
-    },
     "document_data": {
-        "image": "Zark-The-Dwarf-1.jpg",
-        "caption": "''Zark the Dwarf.''",
-        "name": "Zark",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "The Dwarf",
-        "home": "[[Loudwater]], [[Savage Frontier]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "race": "[[Dwarf]]",
-        "occupation": "",
-        "patron deity": "",
-        "languages": "[[Common]], [[Dwarven]]",
-        "reckoning": "DR",
-        "dobnotes": "",
-        "turned": "",
-        "turnednotes": "",
-        "death": "",
-        "deathnotes": "",
-        "destroyed": "",
-        "destroyednotes": "",
-        "class": "",
-        "class4e": "{{Class table|edition=4e|Artillery|4}}",
         "refs4e": "",
-        "alignment": "[[Evil]]",
-        "float": "right",
-        "source": "[[Bruce R. Cordell]], ''[[Forgotten Realms Campaign Guide]]''",
-        "text": "''This young dwarf wears black leathers, sports several tattoos, and wears a belt ostentatiously set with several silver-hilted daggers.''",
-        "mainbody": "Zark had black hair.",
-        "Description": "{{fq\n| float  = right\n| source = [[Bruce R. Cordell]], ''[[Forgotten Realms Campaign Guide]]''\n| text   = ''This young dwarf wears black leathers, sports several tattoos, and wears a belt ostentatiously set with several silver-hilted daggers.''\n}}\nZark had black hair.",
-        "Personality": "Zark was a greedy freeloader and slaver.",
-        "Possessions": "In battle, Zark wore [[leather armor]] and fought with a [[warhammer]].",
-        "Relationships": "[[Garvan]] was Zark's uncle."
+        "alignment": "Evil",
+        "mainbody": "Zark was a dwarf from Loudwater.\nZark had black hair.\nZark was a greedy freeloader and slaver.\nIn battle, Zark wore leather armor and fought with a warhammer.\nGarvan was Zarks uncle."
     }
 }

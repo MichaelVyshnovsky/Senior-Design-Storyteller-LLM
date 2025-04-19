@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Whip of Woe",
-        "deity": "[[Beshaba]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]]",
-        "spheres2e": "[[Combat sphere|Combat]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|5}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Whip of woe''''' was an [[evocation]] [[spell]] that manifested a spectral [[whip]], made up of pure force energy.",
-        "Effects": "When this spell was cast, it created a [[magic]]al ''whip'' that could be wielded by the spell's caster or left to float independently in the air. When the ''whip'' struck a person or creature it left them weak and vulnerable to future attacks.\n\nWhile the whip lashed out at any targets, the casting [[cleric]] was unable to attack or cast spells on their own.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[Somatic component|somatic components]], this spell required a single hair taken from a [[human]], which had been anointed with [[holy water]] upon a shrine of [[Beshaba]].",
-        "History": "The specifications of this spell were found in ''[[the Black Book]]''."
+        "mainbody": "Whip of woe was an evocation spell that manifested a spectral whip, made up of pure force energy.\nWhen this spell was cast, it created a magical whip that could be wielded by the spells caster or left to float independently in the air. When the whip struck a person or creature it left them weak and vulnerable to future attacks.\nWhile the whip lashed out at any targets, the casting cleric was unable to attack or cast spells on their own.\nIn addition to verbal and somatic components, this spell required a single hair taken from a human, which had been anointed with holy water upon a shrine of Beshaba.\nThe specifications of this spell were found in the Black Book."
     }
 }

@@ -1,21 +1,8 @@
 {
-    "template_data": {
-        "60|mi|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Knurl",
-        "other names": "",
-        "type": "Moon",
-        "size class": "B",
-        "shape class": "Spherical",
-        "type class": "Earth",
-        "class refs": "",
-        "radius": "{{SI|30|mi|k}}",
         "cluster": "",
         "satellites": "",
-        "satellite of": "[[Garden]]",
+        "satellite of": "Garden",
         "distance": "",
         "day length": "",
         "year length": "",
@@ -26,8 +13,6 @@
         "inhabitants": "",
         "locations": "",
         "organizations": "",
-        "mainbody": "'''Knurl''' was one of the twelve moons of [[Garden]] in [[Realmspace]].",
-        "Description": "Like most of Garden's moons, Knurl was larger than its parent, with a diameter of {{SI|60|mi|k|long=yes}}. Knurl was a sphere composed of marble with swirls of color. In places, chunks of the surface were broken, and molten limestone oozed from the core.",
-        "History": "Some had discovered a way of harvesting the \"liquid marble\" and molding it into sculptures."
+        "mainbody": "Knurl was one of the twelve moons of Garden in Realmspace.\nLike most of Gardens moons, Knurl was larger than its parent, with a diameter of . Knurl was a sphere composed of marble with swirls of color. In places, chunks of the surface were broken, and molten limestone oozed from the core.\nSome had discovered a way of harvesting the \"liquid marble\" and molding it into sculptures."
     }
 }

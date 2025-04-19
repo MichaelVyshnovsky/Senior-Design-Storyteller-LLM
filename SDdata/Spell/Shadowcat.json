@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Shadowcat.JPG",
-        "caption": "Good shadowcat.",
-        "name": "Shadowcat",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Illusion]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|7}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Shadowcat''''' was an [[illusion]] [[spell]] that was used by [[wizard]]s.",
-        "Effects": "With this spell the caster brought into being a cat made of shadow. A ''shadowcat'' appeared either grey or black at the caster's discretion. The caster enjoyed complete telepathic control over the ''shadowcat'', granting them the ability to see, hear, and speak through the creature.\n\nAs an insubstantial creature, ''shadowcats'' were only susceptible to magical or special attacks. The ''shadowcat'' had no attacks of its own and could not interact with physical objects. It would vanish if successfully ''[[dispel magic|dispelled]]''. They made no sound when moving and were practically invisible in all but the brightest conditions. ''Shadowcats'' could also pass through the smallest openings.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, this spell required a black pearl worth at least 100 [[gp]] and a claw from a grey or black cat to cast."
+        "mainbody": "Shadowcat was an illusion spell that was used by wizards.\nWith this spell the caster brought into being a cat made of shadow. A shadowcat appeared either grey or black at the casters discretion. The caster enjoyed complete telepathic control over the shadowcat, granting them the ability to see, hear, and speak through the creature.\nAs an insubstantial creature, shadowcats were only susceptible to magical or special attacks. The shadowcat had no attacks of its own and could not interact with physical objects. It would vanish if successfully dispelled. They made no sound when moving and were practically invisible in all but the brightest conditions. Shadowcats could also pass through the smallest openings.\nIn addition to verbal and somatic components, this spell required a black pearl worth at least 100 gp and a claw from a grey or black cat to cast."
     }
 }

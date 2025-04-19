@@ -1,31 +1,10 @@
 {
-    "template_data": {
-        "edition": "4e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Prophecy of Zhudun",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "{{desc/arcane}}{{desc/fear}}{{desc/implement}}{{desc/psychic}}",
-        "level4e": "{{spell table|edition=4e|[[Warlock]]|1}}",
+        "level4e": "",
         "type4e": "Daily",
         "category4e": "",
         "skill4e": "",
-        "refs4e": "{{Cite dragon/366/Wish Upon a Star|21}}",
+        "refs4e": "",
         "school3e": "",
         "domains3e": "",
         "descriptors3e": "",
@@ -40,7 +19,6 @@
         "school1e": "",
         "level1e": "",
         "refs1e": "",
-        "mainbody": "'''''Prophecy of Zhudun''''' was an [[invocation]] used by [[warlock]]s of the late 15{{th}} century [[DR]], particularly those with the [[Warlock#Star Pact Warlock|star pact]].",
-        "Effects": "With this invocation, the warlock whispered fragments of prophecy seen in the blank face of the dead star [[Zhudun]], and a creature of their choosing suffered a nightmarish vision. Distracted, they became dazed and unable to see foes if they lacked the willpower to resist it."
+        "mainbody": "Prophecy of Zhudun was an invocation used by warlocks of the late 15 century DR, particularly those with the star pact.\nWith this invocation, the warlock whispered fragments of prophecy seen in the blank face of the dead star Zhudun, and a creature of their choosing suffered a nightmarish vision. Distracted, they became dazed and unable to see foes if they lacked the willpower to resist it."
     }
 }

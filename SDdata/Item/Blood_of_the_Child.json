@@ -1,29 +1,8 @@
 {
-    "template_data": {
-        "50|lb|k|long": "yes",
-        "5'|'\"|long": "yes"
-    },
     "document_data": {
-        "image": "Blood of the Child.png",
-        "caption": "",
-        "name": "''Blood of the Child''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Heavy armor]]",
-        "location": "[[Blade Cliffs]], [[Sword Coast]]<br/>[[Zakhara]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "5{{th}}",
         "itemlevel3e": "",
         "value3e": "",
-        "weight3e": "{{SI|50|lb|k|long=yes}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -40,8 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The '''''Blood of the Child''''' was a set of [[enchanted]] [[plate mail]] with the creation process so vile it was only usably by the most evil and foul of creatures.",
-        "Powers": "This magic armor glowed in sinister dim red light, illuminating {{SI|5'|'\"|long=yes}} around it. When the armor was hit, it projected the weakening magics onto the attacker, similar to that of the ''[[doom]]'' spell. Additionally, the wearer of the ''Blood of the Child'' gained ability to use ''[[scare]]'' and ''[[vampiric touch]]'' spells once per day each.",
-        "History": "The ''Blood of the Child'' first appeared in history records in the scorching hot land of [[Zakhara]]. The creation process of this armor included being tempered in the fiery breath of [[red dragon]]s and bathed in blood of sacrificial children. The dark armor only had a handful of owners throughout its history as only few were so blinded by lust for power and lacked empathy to use this evil magic item.\n\nThe plate's latest wearers was a [[vampire]] assassin [[Nosfiraat]] who traveled to the [[Sword Coast]] from Zakhara. His ship crashed along the [[Blade Cliffs]] of the [[Delimbiyr Vale]] and the vampire stayed trapped in the wreck as late as [[1372 DR]]."
+        "mainbody": "The Blood of the Child was a set of enchanted plate mail with the creation process so vile it was only usably by the most evil and foul of creatures.\nThis magic armor glowed in sinister dim red light, illuminating  around it. When the armor was hit, it projected the weakening magics onto the attacker, similar to that of the doom spell. Additionally, the wearer of the Blood of the Child gained ability to use scare and vampiric touch spells once per day each.\nThe Blood of the Child first appeared in history records in the scorching hot land of Zakhara. The creation process of this armor included being tempered in the fiery breath of red dragons and bathed in blood of sacrificial children. The dark armor only had a handful of owners throughout its history as only few were so blinded by lust for power and lacked empathy to use this evil magic item.\nThe plates latest wearers was a vampire assassin Nosfiraat who traveled to the Sword Coast from Zakhara. His ship crashed along the Blade Cliffs of the Delimbiyr Vale and the vampire stayed trapped in the wreck as late as 1372 DR."
     }
 }

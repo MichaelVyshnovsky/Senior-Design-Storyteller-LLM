@@ -1,29 +1,6 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "Skull_Eyes.jpg",
-        "caption": "A man affected by a <span style=\"font-style:normal;\">skull eyes</span> spell.",
-        "name": "Skull Eyes",
-        "deity": "[[Cyric]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "{{Desc/evil}}{{Desc/mind-affecting}}",
-        "level3e": "{{spell table|edition=3e|[[Cleric]]|5}}",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -37,8 +14,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Skull eyes''''' was a [[transmutation]] spell available only to [[cleric]]s of [[Cyric]], the Prince of Lies. It was similar to the ''[[eyebite]]'' spell except it ''[[Charm|charmed]]'' or ''[[confusion|confused]]'' its targets.",
-        "Effects": "This spell allowed the caster to perform gaze attacks on three or more victims, one at a time. The intended targets had to be alive (not [[undead]]), in sight, and within 45 ft (14 m). More experienced casters could extend the range and duration, allowing more time to attack more targets. Each victim got a chance to resist the magic of this spell and, if successful, suffer no ill effects.\n\nThe caster could choose between a ''charm'' effect, very similar to the ''[[charm monster]]'' spell, or a ''[[confusion]]'' effect for each victim in turn, until the spell duration expired or until no more targets were available, whichever came first.\n\nAs a harmless but dramatic side-effect of this spell, the caster's eyes turned jet black with irises shaped like skulls.",
-        "Components": "Only verbal and somatic components were required to cast this spell."
+        "mainbody": "Skull eyes was a transmutation spell available only to clerics of Cyric, the Prince of Lies. It was similar to the eyebite spell except it charmed or confused its targets.\nThis spell allowed the caster to perform gaze attacks on three or more victims, one at a time. The intended targets had to be alive (not undead), in sight, and within 45 ft (14 m). More experienced casters could extend the range and duration, allowing more time to attack more targets. Each victim got a chance to resist the magic of this spell and, if successful, suffer no ill effects.\nThe caster could choose between a charm effect, very similar to the charm monster spell, or a confusion effect for each victim in turn, until the spell duration expired or until no more targets were available, whichever came first.\nAs a harmless but dramatic side-effect of this spell, the casters eyes turned jet black with irises shaped like skulls.\nOnly verbal and somatic components were required to cast this spell."
     }
 }

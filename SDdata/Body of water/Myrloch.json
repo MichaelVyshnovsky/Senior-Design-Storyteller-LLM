@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "k|long": "yes"
-    },
     "document_data": {
-        "image": "Sarifal.jpg",
-        "caption": "A map showing the Myrloch on Gwynneth.",
-        "name": "Myrloch",
-        "aliases": "",
-        "type": "Lake",
-        "region": "[[Myrloch Vale]], [[Gwynneth]]",
-        "size": "",
-        "depth": "",
-        "river source": "",
-        "river mouth": "",
-        "tributaries": "",
-        "tributary of": "",
-        "georefs": "",
-        "races": "",
-        "socrefs": "",
-        "usethe": "yes",
-        "useon": "yes",
-        "inhabitants": "yes",
-        "locations": "yes",
-        "organizations": "",
-        "settlements": "yes",
-        "mountains": "",
-        "events": "",
-        "food and drink": "",
-        "items": "",
-        "mainbody": "The '''Myrloch''' was a large freshwater lake located on the island of [[Gwynneth]] within the [[Moonshae Isles]].{{Cite interactive atlas}}{{Cite dungeon/196/Backdrop: The Moonshae Isles}}",
-        "Geography": "The Myrloch was located at the heart of [[Myrloch Vale]] in central Gwynneth. The lake was easily the largest freshwater body of water found within the Moonshae Isles, covering approximately {{SI|1000|sq mi|k|long=yes}}. The Myrloch filled the basin between the [[Cambro Mountains]] in the east with [[the Highlands]] to the south and west.",
-        "Notable Locations": "* [[Karador]]"
+        "mainbody": "he Myrloch was a large freshwater lake located on the island of Gwynneth within the Moonshae Isles.\nThe Myrloch was located at the heart of Myrloch Vale in central Gwynneth. The lake was easily the largest freshwater body of water found within the Moonshae Isles, covering approximately . The Myrloch filled the basin between the Cambro Mountains in the east with the Highlands to the south and west.\n* Karador"
     }
 }

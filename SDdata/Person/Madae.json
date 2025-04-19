@@ -1,24 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "CarrionSis.png",
-        "caption": "",
-        "name": "Madae",
-        "alt_spelling": "",
-        "titles": "Lady of the [[Severed Hand]]",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Kuldahar]], [[Severed Hand]]",
-        "formerhomes": "",
-        "sex": "Female",
-        "race": "[[Cambion]]",
-        "ethnicity": "",
-        "occupation": "",
-        "age": "",
-        "patron deity": "[[Iyachtu Xvim]]<br />{{Former}} [[Ilmater]]",
         "languages": "",
         "reckoning": "DR",
         "dob": "1282",
@@ -29,9 +10,9 @@
         "deathnotes": "",
         "destroyed": "",
         "destroyednotes": "",
-        "parents": "[[Ilmadia Bariel]]<br />[[Belhifet]] (under the alias [[Poquelin]])",
+        "parents": "Ilmadia BarielBelhifet (under the alias Poquelin)",
         "spouses": "",
-        "siblings": "[[Isair]]",
+        "siblings": "Isair",
         "children": "",
         "familyrefs": "",
         "alignment1e": "",
@@ -40,9 +21,9 @@
         "alignment2e": "",
         "class2e": "",
         "refs2e": "",
-        "alignment3e": "[[Chaotic Evil]]",
+        "alignment3e": "Chaotic Evil",
         "challenge3e": "",
-        "class3e": "{{Class table|edition=3e|[[Cleric]]|20|[[Fighter]]|9}}",
+        "class3e": "",
         "refs3e": "",
         "alignment35": "",
         "challenge35": "",
@@ -55,9 +36,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Madae''' was a [[cambion]] [[cleric]] of [[Iyachtu Xvim]] who lead the [[Legion of the Chimera]], along with her brother [[Isair]], during the early 14<sup>th</sup> century [[DR]].",
-        "Description": "Madae was at first a [[cleric]] of [[Ilmater]], but she later became a powerful priestess of [[Iyachtu Xvim]], the hated son of [[Bane]].\n\nMadae had both elven and devilish characteristics. She was about six and a half feet tall, dark red skin, broad, leathery wings, twisted legs and a tail. Along with her clerical duties, Madae was a fighter, and the [[mace]] was her weapon of choice.",
-        "Possessions": "Madae received the unique ''Globe of Essence'' from Iyachtu Xvim himself, when she renounced her faith in Illmater. This artifact contained the essences of three demons. As long as this globe was in tact, the demons couldn't be killed. Thus, Madae used this for protection, and to watch over her slaves.",
-        "History": "Madae and her twin brother, [[Isair]], were born in [[Kuldahar]] in [[1282 DR]]. With the archdruid [[Iselore]]'s help, they were born to an elf, Ilmadia, who had become pregnant with the devil, [[Belhifet]]. To her mother's surprise, she was born with a tail. She was named after [[Iselore]]'s mother. When her guardian and teacher Egenia died, however, the townsmen came upon her, as Madae performed burial rights, in accordance with her training as a priestess of Illmater. She and her brother fled to Luskan where they became emissaries to the [[Abyss]]al Plane.\n\nShe was disgusted about the way she and Isair were treated for being half-elf and half-demon. Due to this, Madae and her brother went to form the [[Legion of the Chimera]] ''circa'' [[1306 DR]], their motivation being equality for half-breeds. Her brother was not pleased when the [[Ten Towns]] sent them gifts loaded with holy water, which hurt them both. Isair then sent out his armies.\n\nShe led a force of [[yuan-ti]], [[harpies]] and [[Neo-orog|neo-orogs]] to [[Kuldahar]] to try and acquire the [[Heartstone Gem]] artifact. Madae argued with the archdruid [[Iselore]], who was protecting the enchanted gem. She left the army in charge of [[Cedra]], the yuan-ti half-breed leader, and returned to the [[Severed Hand]].\n\nIn honor of Xvim, Madae had one of her most skilled weaponsmiths create the [[Scimitar of Souls]]. When it was complete, she put it into the hands of Iyachtu Xvim's statue, in the hopes that if Xvim appeared as an avatar, he would wield this weapon. The mainstay weapon of Xvim, the Scimiar of Souls had the power to literally suck the life out of its victims. Its blade was large and polished, with a serrated edge on the backside of its curve.\n\nLater in [[1312 DR]], she was confronted by an adventuring party and fought them with her brother. After their base fell, she was dragged into the [[Limbo|plane of Limbo]], and had not been reported back since."
+        "mainbody": "Madae was a cambion cleric of Iyachtu Xvim who lead the Legion of the Chimera, along with her brother Isair, during the early 14th century DR.\nMadae was at first a cleric of Ilmater, but she later became a powerful priestess of Iyachtu Xvim, the hated son of Bane.\nMadae had both elven and devilish characteristics. She was about six and a half feet tall, dark red skin, broad, leathery wings, twisted legs and a tail. Along with her clerical duties, Madae was a fighter, and the mace was her weapon of choice.\nMadae received the unique Globe of Essence from Iyachtu Xvim himself, when she renounced her faith in Illmater. This artifact contained the essences of three demons. As long as this globe was in tact, the demons couldnt be killed. Thus, Madae used this for protection, and to watch over her slaves.\nMadae and her twin brother, Isair, were born in Kuldahar in 1282 DR. With the archdruid Iselores help, they were born to an elf, Ilmadia, who had become pregnant with the devil, Belhifet. To her mothers surprise, she was born with a tail. She was named after Iselores mother. When her guardian and teacher Egenia died, however, the townsmen came upon her, as Madae performed burial rights, in accordance with her training as a priestess of Illmater. She and her brother fled to Luskan where they became emissaries to the Abyssal Plane.\nShe was disgusted about the way she and Isair were treated for being half-elf and half-demon. Due to this, Madae and her brother went to form the Legion of the Chimera circa 1306 DR, their motivation being equality for half-breeds. Her brother was not pleased when the Ten Towns sent them gifts loaded with holy water, which hurt them both. Isair then sent out his armies.\nShe led a force of yuan-ti, harpies and neo-orogs to Kuldahar to try and acquire the Heartstone Gem artifact. Madae argued with the archdruid Iselore, who was protecting the enchanted gem. She left the army in charge of Cedra, the yuan-ti half-breed leader, and returned to the Severed Hand.\nIn honor of Xvim, Madae had one of her most skilled weaponsmiths create the Scimitar of Souls. When it was complete, she put it into the hands of Iyachtu Xvims statue, in the hopes that if Xvim appeared as an avatar, he would wield this weapon. The mainstay weapon of Xvim, the Scimiar of Souls had the power to literally suck the life out of its victims. Its blade was large and polished, with a serrated edge on the backside of its curve.\nLater in 1312 DR, she was confronted by an adventuring party and fought them with her brother. After their base fell, she was dragged into the plane of Limbo, and had not been reported back since."
     }
 }

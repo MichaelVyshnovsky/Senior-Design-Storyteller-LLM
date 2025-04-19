@@ -1,30 +1,8 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Ring of Equilibrium''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Ring]]",
-        "creator": "",
-        "location": "[[Elven Catacombs]], [[Myth Drannor]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "10{{th}}",
         "itemlevel3e": "",
         "value3e": "",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,9 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The '''''ring of equilibrium''''' was a unique [[elf|elven]] [[enchanted]] [[ring]] from ancient [[Myth Drannor]].",
-        "Description": "The ''ring of equilibrium'' appeared to be a simple inconspicuous band of metal.",
-        "Powers": "This ring pressed enchantments that increased the wearer's dexterity and reflexes at the coast of their physical strength. Additionally, it allowed the wearer to cast the ''[[cat's grace]]'' spells at will, however the ring only possessed six charges of it.",
-        "History": "In [[1369 DR]], the ''ring of equilibrium'' could be found among treasures of a greedy [[dark naga]] who dwelt within an arcane library of the [[Elven Catacombs]] underneath [[Castle Cormanthor]]. Along with other treasures, the ring was scavenged from the ancient elven graves."
+        "mainbody": "The ring of equilibrium was a unique elven enchanted ring from ancient Myth Drannor.\nThe ring of equilibrium appeared to be a simple inconspicuous band of metal.\nThis ring pressed enchantments that increased the wearers dexterity and reflexes at the coast of their physical strength. Additionally, it allowed the wearer to cast the cats grace spells at will, however the ring only possessed six charges of it.\nIn 1369 DR, the ring of equilibrium could be found among treasures of a greedy dark naga who dwelt within an arcane library of the Elven Catacombs underneath Castle Cormanthor. Along with other treasures, the ring was scavenged from the ancient elven graves."
     }
 }

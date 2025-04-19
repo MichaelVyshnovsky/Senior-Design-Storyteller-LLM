@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "20|yd|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Snilloc's Heat-Seeking Snowball",
-        "deity": "",
-        "inventor": "[[Snilloc]]<br />[[Dostrealt]]",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]]",
-        "spheres2e": "",
-        "level2e": "{{Spell table|edition=2e|[[Wizard]]|1}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Snilloc's heat-seeking snowball''''' was an [[evocation]] [[spell]] that worked similarly to ''[[Snilloc's snowball]]'', but did not require visual contact between the caster and the target.",
-        "Effects": "The spell created a ball of magical snow that appeared on the caster's hand and could be immediately thrown at an opponent within a range of {{SI|20|yd|long=yes}}. The snowball always hit its intended target, but could be blocked by the same defenses that blocked the darts created by the ''[[magic missile]]'' spell.\n\nUnlike ''Snilloc's snowball'', this spell did not require the caster to be able to see the intended target.",
-        "Components": "The spell required [[Verbal component|verbal]], [[Somatic component|somatic]], and [[material component]]s. The material required was either a chunk of ice or a piece of [[ivory]].",
-        "History": "The spell was developed as a minor modification of [[Snilloc]]'s original spell by the [[drow]] [[wizard]] [[Dostrealt]], who was blind. He had developed and collected a number of spells that did not rely on eyesight, so that his spellcasting efficiency was not hindered by his disability."
+        "mainbody": "Snillocs heat-seeking snowball was an evocation spell that worked similarly to Snillocs snowball, but did not require visual contact between the caster and the target.\nThe spell created a ball of magical snow that appeared on the casters hand and could be immediately thrown at an opponent within a range of . The snowball always hit its intended target, but could be blocked by the same defenses that blocked the darts created by the magic missile spell.\nUnlike Snillocs snowball, this spell did not require the caster to be able to see the intended target.\nThe spell required verbal, somatic, and material components. The material required was either a chunk of ice or a piece of ivory.\nThe spell was developed as a minor modification of Snillocs original spell by the drow wizard Dostrealt, who was blind. He had developed and collected a number of spells that did not rely on eyesight, so that his spellcasting efficiency was not hindered by his disability."
     }
 }

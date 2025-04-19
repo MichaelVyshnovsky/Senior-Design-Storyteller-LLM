@@ -1,27 +1,12 @@
-{{Creature
-| image        = 
-<gallery>
-Gynosphinx-5e.png|5e
-Monster_Manual_4e_-_Sphinx_-_p245.jpg|4e
-Gynosphinx.jpg|3e
-Androsphinx.gif|2e
-</gallery>
-| caption2     = Various depictions of sphinxes.
-| name         = Sphinx
-| size5e       = Large
-| type5e       = Monstrosity
-| subtype5e    = 
-| alignment5e  = [[Lawful neutral]]
-| challenge5e  = {{CR table|edition=5|Androsphinx|17|Gynosphinx|11}}
-| refs5e       = <ref>
+| refs5e       = 
 | size4e       = Large
-| origin4e     = [[Immortal]]
-| type4e       = [[Magical beast]]
+| origin4e     = Immortal
+| type4e       = Magical beast
 | subtype4e    = 
-| alignment4e  = [[Unaligned]]
+| alignment4e  = Unaligned
 | refs4e       = 
 | size3e       = Large
-| type3e       = [[Magical beast]]
+| type3e       = Magical beast
 | subtype3e    = 
 | alignment3e  = 
 | challenge3e  = 
@@ -38,55 +23,35 @@ Androsphinx.gif|2e
 | activecycle  = 
 | diet         = 
 | lifespan     = 
-| location     = The [[Shaar]]
-| language     = [[Sphinx language|Sphinx]], [[Common]], [[Draconic language|Draconic]], [[Supernal]]
-| subraces     = [[Androsphinx]]<br />[[Gynosphinx]]<br />[[Criosphinx]]<br />[[Hieracosphinx]]
+| location     = The Shaar
+| language     = Sphinx, Common, Draconic, Supernal
+| subraces     = AndrosphinxGynosphinxCriosphinxHieracosphinx
 | climate      = Warm
 | terrain      = Deserts
 | height       = 
-| length       = {{SI|10|ft}}
+| length       = 
 | wingspan     = 
-| weight       = {{SI|800|lb}}
+| weight       = 
 | skincolor    = 
 | haircolor    = 
 | hairstyles   = 
 | feathers     = 
 | eyecolor     = 
 | build        = 
-| distinctions = [[Lion]] bodies, feathery wings
-| based        = [[Wikipedia:Sphinx|Sphinx]] (Greek and Egyptian)
-| first         = [[Monster Manual 1st edition|''Monster Manual 1{{st}} edition'']]
-}}
-'''Sphinxes''' were a race of intelligent, immortal [[magical beasts]]. It was said that they once held a vast kingdom given to them by the gods in an effort to teach mortals the way of truth. The sphinxes had their own methods, however, by teaching mortals to think for themselves with riddles and parables. Four common subraces of sphinx included the [[androsphinx]], [[criosphinx]], [[gynosphinx]], and [[hieracosphinx]].<ref>
-
-==Description==
-All sphinxes had [[lion|leonine]] bodies with great feathery wings.
-
-==Ecology==
-Sphinxes tended to be very solitary creatures and were territorial. Many made their lairs within the ruins of ancient civilizations or in isolated caves. Alignment among sphinx subraces differed vastly; [[androsphinx]] were known for their good nature, while [[hieracosphinx]] were inherently evil.
-
-===Language===
-Sphinxes spoke their own language as well as [[Common]] and [[Draconic language|Draconic]].
-
-==Types==
-===Androsphinx===
-{{main|Androsphinx}}
-Androsphinxes were a male subrace of sphinx, with the body of male lions, masculine [[humanoid]] faces, and massive wings. They were physically powerful creatures with inherent [[magic]]al powers and a terrifying roar. While they tended to be short-tempered and terse, androsphinxes possessed good-natured ideals and always attempted to do the right thing.
-
-===Gynosphinx===
-{{main|Gynosphinx}}
+| distinctions = Lion bodies, feathery wings
+| based        = Sphinx (Greek and Egyptian)
+| first         = Monster Manual 1 edition
+Sphinxes were a race of intelligent, immortal magical beasts. It was said that they once held a vast kingdom given to them by the gods in an effort to teach mortals the way of truth. The sphinxes had their own methods, however, by teaching mortals to think for themselves with riddles and parables. Four common subraces of sphinx included the androsphinx, criosphinx, gynosphinx, and hieracosphinx.
+All sphinxes had leonine bodies with great feathery wings.
+Sphinxes tended to be very solitary creatures and were territorial. Many made their lairs within the ruins of ancient civilizations or in isolated caves. Alignment among sphinx subraces differed vastly androsphinx were known for their good nature, while hieracosphinx were inherently evil.
+Sphinxes spoke their own language as well as Common and Draconic.
+Androsphinxes were a male subrace of sphinx, with the body of male lions, masculine humanoid faces, and massive wings. They were physically powerful creatures with inherent magical powers and a terrifying roar. While they tended to be short-tempered and terse, androsphinxes possessed good-natured ideals and always attempted to do the right thing.
 A gynosphinx was a female sphinx, with a winged female lion body and feminine humanoid facial features. While not as physically powerful as an androsphinx, the gynosphinx was still a capable combatant and possessed a number of magical powers. The gynosphinx was the sole female sphinx subrace.
-
 Gynosphinxes preferred to pursue intellectual ideals. They loved to collect knowledge and ancient lore, and delight in solving riddles, puzzles and mental challenges.
-
-===Other Types===
-*[[Canisphinx]] — [[Jackal]]-headed, predatory sphinxes
-*[[Criosphinx]] — Male [[ram]]-headed sphinxes with low intelligence and generally had the sole aim of finding a gynosphinx mate.
-*[[Dracosphinx]] — Evil, a [[red dragon]]-headed sphinx that lived on bleak cliff sites.<ref>
-*[[Hieracosphinx]] — Evil, savage and animal-intelligent [[hawk]]-headed sphinxes. 
-*[[Luposphinx]] — [[Wolf]]-headed, forest-dwelling sphinxes{{Cite dragon/119/The Dragon's Bestiary: A walk through the woods|49-50}}
-*[[Saurosphinx]] — Reptilian-faced, conversational sphinxes
-
-==Notable Sphinxes==
-*[[Firaleene]], an ancient sphinx who lived inside the consciousness of the [[primordial]] [[Achazar]].{{Cite organized play/LFR/Pyrophobia|18}}
-
+*Canisphinx — Jackal-headed, predatory sphinxes
+*Criosphinx — Male ram-headed sphinxes with low intelligence and generally had the sole aim of finding a gynosphinx mate.
+*Dracosphinx — Evil, a red dragon-headed sphinx that lived on bleak cliff sites.
+*Hieracosphinx — Evil, savage and animal-intelligent hawk-headed sphinxes. 
+*Luposphinx — Wolf-headed, forest-dwelling sphinxes
+*Saurosphinx — Reptilian-faced, conversational sphinxes
+*Firaleene, an ancient sphinx who lived inside the consciousness of the primordial Achazar.

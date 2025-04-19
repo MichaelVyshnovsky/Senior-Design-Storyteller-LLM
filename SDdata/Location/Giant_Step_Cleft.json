@@ -1,22 +1,5 @@
 {
-    "template_data": {
-        "300|feet|long": "yes",
-        "0.25|mile|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Giant Step Cleft",
-        "alt spelling": "",
-        "aliases": "",
-        "type": "Mountain Pass",
-        "region": "[[Dustwall Mountains]], [[Raurin]]",
-        "size": "",
-        "elevation": "",
-        "depth": "",
-        "capital": "",
-        "largest city": "",
-        "georefs": "{{cite book/Desert of Desolation|21}}",
         "demonym": "",
         "population": "",
         "races": "",
@@ -92,7 +75,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "'''Giant Step Cleft''' was a narrow gorge along [[Northknife Pass]].",
-        "Description": "Closer to the summit than [[Breakheart Cleft]], the walls of the gorge were more than {{SI|300|feet|long=yes}} high, and there was a small stream along its left edge. The gorge was about {{SI|0.25|mile|long=yes}} long,{{cite book/Desert of Desolation|20}}\n\nThe place was favored for ambushes."
+        "mainbody": "Giant Step Cleft was a narrow gorge along Northknife Pass.\nCloser to the summit than Breakheart Cleft, the walls of the gorge were more than  high, and there was a small stream along its left edge. The gorge was about  long,\nThe place was favored for ambushes."
     }
 }

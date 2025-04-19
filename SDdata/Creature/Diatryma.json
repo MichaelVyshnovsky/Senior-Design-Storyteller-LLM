@@ -1,16 +1,5 @@
 {
-    "template_data": {
-        "8|12|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Diatryma.jpg",
-        "caption": "",
-        "name": "Diatryma",
-        "size5e": "Large",
-        "type5e": "[[Beast]]",
-        "subtype5e": "",
-        "alignment5e": "[[Unaligned]]",
-        "challenge5e": "{{Frac|1|4}}",
         "refs5e": "",
         "size4e": "",
         "origin4e": "",
@@ -28,21 +17,21 @@
         "alignment2e": "",
         "refs2e": "",
         "size1e": "Large",
-        "alignment1e": "[[Neutral]]",
-        "refs1e": "{{Cite dragon/137/Into the Age of Mammals|45}}<ref group=\"note\">The 1st edition statistics for the [[phororhacos]] were used instead of the [[axe beak]], since the ''[[Dragon magazine 137|Dragon]]'' article proposes it as a better approximation due to its height.",
+        "alignment1e": "Neutral",
+        "refs1e": "The 1st edition statistics for the phororhacos were used instead of the axe beak, since the Dragon article proposes it as a better approximation due to its height.",
         "patron deity": "",
         "movement": "",
         "vision": "",
         "activecycle": "",
         "diet": "",
         "lifespan": "",
-        "location": "[[Underdark]]",
+        "location": "Underdark",
         "language": "",
         "subraces": "",
         "climate": "",
         "terrain": "",
         "genrefs": "",
-        "height": "{{SIrange|8|12|ft}}",
+        "height": "",
         "length": "",
         "wingspan": "",
         "weight": "",
@@ -55,10 +44,8 @@
         "distinctions": "Flightless",
         "appearrefs": "",
         "first": "",
-        "based": "[[wikipedia:Gastornis|Diatryma]]",
+        "based": "Diatryma",
         "histrefs": "",
-        "mainbody": "The '''diatryma''' ({{Pronounce|dee|ah|TRY|mah|refs=}}) was an ancient large, flightless bird native to the [[Underdark]].",
-        "Description": "The gigantic bird was about {{SIrange|8|12|ft|long=yes}} tall.",
-        "Ecology": "The [[drow]] used their hugely plumed feathers for decoration. known as a ''[[feather of diatryma summoning]]''. By blowing into the feather, Jarlaxle was able to summon a diatryma bird.<ref>"
+        "mainbody": "The diatryma () was an ancient large, flightless bird native to the Underdark.\nThe gigantic bird was about  tall.\nThe drow used their hugely plumed feathers for decoration. known as a feather of diatryma summoning. By blowing into the feather, Jarlaxle was able to summon a diatryma bird."
     }
 }

@@ -1,16 +1,8 @@
 {
-    "template_data": {
-        "edition": "4e"
-    },
     "document_data": {
-        "type": "encounter",
-        "name": "Foesnare",
-        "school": "",
-        "keywords4e": "{{desc/arcane}}{{desc/weapon}}",
-        "level4e": "{{spell table|edition=4e|[[Swordmage]]|1}}",
+        "level4e": "",
         "type4e": "Encounter",
         "refs4e": "",
-        "mainbody": "'''''Foesnare''''' is a basic [[evocation school|evocation]] [[spell]] used by some [[swordmage]]s early in their training. When ''foesnare'' is cast it causes bolts of solid, [[magic|eldritch]] energy to burst from the body of a creature struck with the swordmage's weapon. These bolts, grasping to the body of their victim, tie into the ground beneath, holding the creature still for a brief moment, in addition to wounding the victim with power proportionate to the swordmage's mental processing power. ''Foesnare'', while easy to learn, is straining on its caster and a swordmage must rest at least a few minutes before casting the spell again.",
-        "References": "{{refs}}\n[[Category:Swordmage spells]]\nq89udodn10sdp92icqtd6vrmbhh1j8r"
+        "mainbody": "Foesnare is a basic evocation spell used by some swordmages early in their training. When foesnare is cast it causes bolts of solid, eldritch energy to burst from the body of a creature struck with the swordmages weapon. These bolts, grasping to the body of their victim, tie into the ground beneath, holding the creature still for a brief moment, in addition to wounding the victim with power proportionate to the swordmages mental processing power. Foesnare, while easy to learn, is straining on its caster and a swordmage must rest at least a few minutes before casting the spell again.\nCategorySwordmage spells\nq89udodn10sdp92icqtd6vrmbhh1j8r"
     }
 }

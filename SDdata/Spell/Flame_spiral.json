@@ -1,25 +1,13 @@
 {
-    "template_data": {
-        "edition": "4e",
-        "url": "http://wizards.com/default.asp?x=dnd/drfe/20090126",
-        "author": "[[Rob Heinsoo]], [[Mike Mearls]], [[Robert Schwalb]]",
-        "title": "The Sorcerer, Levels 1-3",
-        "work": "Dragon magazine 371",
-        "edition_1": "3e"
-    },
     "document_data": {
-        "type": "encounter",
-        "name": "Flame Spiral",
-        "keywords4e": "{{desc/arcane}}{{desc/fire}}{{desc/implement}}",
-        "level4e": "{{spell table|edition=4e|[[Sorcerer]]|3}}",
+        "level4e": "",
         "type4e": "Encounter",
-        "refs4e": "{{cite web|url=http://wizards.com/default.asp?x=dnd/drfe/20090126 |author=[[Rob Heinsoo]], [[Mike Mearls]], [[Robert Schwalb]]|title=The Sorcerer, Levels 1-3 |work=Dragon magazine 371}}",
-        "school3e": "[[Evocation]]",
-        "descriptors3e": "{{desc/fire}}",
-        "level3e": "{{spell table|edition=3e|[[Sorcerer]]|2|[[Wizard]]|2}}",
+        "refs4e": "",
+        "school3e": "Evocation",
+        "descriptors3e": "",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
-        "mainbody": "'''''Flame spiral''''', also known as '''''fireburst''''', is an [[evocation school|evocation]] [[spell]] used by many [[sorcerer]]s early on in their careers. When a sorcerer casts ''flame spiral'', they create a vortex of flame that spins around them, shooting outwards into a burst of ten feet in diameter. Any three creatures caught within are scorched, the degree depending largely on how quick their reflexes are, as well as the sorcerer's charisma. ''Flame spiral'', while powerful, is not particularly difficult to cast and the sorcerer requires a rest of only a few minutes or so before they can cast it again.\n\nBefore the [[Spellplague]], ''flame spiral'' was more commonly known as ''fireburst'' and was slightly less powerful. At this time, the range of ''flame spiral'' was five feet, rather than ten feet, and it was used by both [[wizard]]s and sorcerers. At this time ''flame spiral'', like nearly all spells, required either preparation from a wizard or a substantial portion of a sorcerer's spellcasting energy to be cast, limiting its uses substantially. ''Flame spiral'' also grew in potency as its caster did, like most spells of the time.",
-        "References": "{{refs}}\n[[Category:Evocation spells]]\n[[Category:Sorcerer spells]]\n[[Category:Wizard spells]]\ntc5h5iiv0dzlo2uv2bi0rqkjdvb738s"
+        "mainbody": "Flame spiral, also known as fireburst, is an evocation spell used by many sorcerers early on in their careers. When a sorcerer casts flame spiral, they create a vortex of flame that spins around them, shooting outwards into a burst of ten feet in diameter. Any three creatures caught within are scorched, the degree depending largely on how quick their reflexes are, as well as the sorcerers charisma. Flame spiral, while powerful, is not particularly difficult to cast and the sorcerer requires a rest of only a few minutes or so before they can cast it again.\nBefore the Spellplague, flame spiral was more commonly known as fireburst and was slightly less powerful. At this time, the range of flame spiral was five feet, rather than ten feet, and it was used by both wizards and sorcerers. At this time flame spiral, like nearly all spells, required either preparation from a wizard or a substantial portion of a sorcerers spellcasting energy to be cast, limiting its uses substantially. Flame spiral also grew in potency as its caster did, like most spells of the time.\nCategoryEvocation spells\nCategorySorcerer spells\nCategoryWizard spells\ntc5h5iiv0dzlo2uv2bi0rqkjdvb738s"
     }
 }

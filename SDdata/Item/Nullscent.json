@@ -1,22 +1,13 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Nullscent",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Lotion",
-        "creator": "[[Hedge wizard]]s",
-        "location": "",
-        "basicrefs": "{{Cite dragon/163/Hedge Wizards|21}}",
         "value1e": "",
         "weight1e": "",
         "refs1e": "",
         "school2e": "",
         "level2e": "",
-        "value2e": "1,200 [[gp]]",
+        "value2e": "1,200 gp",
         "weight2e": "",
-        "refs2e": "{{cite book/The Magic Encyclopedia Volume Two|111}}",
+        "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
         "itemlevel3e": "",
@@ -38,9 +29,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Nullscent''' was an [[alchemical]] concoction that masked scents.",
-        "Powers": "It removed any lingering scents the user would ordinarily leave behind. It had to be applied liberally to the user's body, covering it completely to work.",
-        "History": "The synthesis of this reagent was complex, requiring both chemical and herbal knowledge in order to brew correctly.{{Cite dragon/163/Hedge Wizards|24}} [[Hedge wizard]]s often traded in it.",
-        "Reputation": "It was popular with thieves."
+        "mainbody": "Nullscent was an alchemical concoction that masked scents.\nIt removed any lingering scents the user would ordinarily leave behind. It had to be applied liberally to the users body, covering it completely to work.\nThe synthesis of this reagent was complex, requiring both chemical and herbal knowledge in order to brew correctly. Hedge wizards often traded in it.\nIt was popular with thieves."
     }
 }

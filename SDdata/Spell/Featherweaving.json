@@ -1,24 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Featherweaving",
-        "deity": "[[Qotal]]",
-        "domains": "",
-        "inventor": "",
-        "reversible2e": "",
-        "school2e": "[[Pluma]], [[Alteration]]",
-        "spheres2e": "[[Pluma]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|1|[[Eagle Knight]]|1|[[Plumaweaver]]|1}}",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''''Featherweaving''''' was a spell unique to [[Maztica]].",
-        "Effects": "This spell was an integral part of a plumaweaver's life. A plumaweaver had to use this spell in order to successfully advance their skill level. As they increased in skill, the size of the required weaving increased in size. Large weavings were used to create ''[[Talisman of pluma|featherlifters]]''. The spell had the additional benefit of being extremely relaxing, it even granted minimal healing to the caster.",
-        "Casting": "To be successfully cast, the caster had to find a quiet, tranquil location where they would not be disturbed. The weave was constructed by working down feathers into a fine mesh of fiber. The end result was a brilliant tapestry of intricate patterns or images.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, the spell required [[material component]]s, down feathers and a fine fibre mesh."
+        "mainbody": "Featherweaving was a spell unique to Maztica.\nThis spell was an integral part of a plumaweavers life. A plumaweaver had to use this spell in order to successfully advance their skill level. As they increased in skill, the size of the required weaving increased in size. Large weavings were used to create featherlifters. The spell had the additional benefit of being extremely relaxing, it even granted minimal healing to the caster.\nTo be successfully cast, the caster had to find a quiet, tranquil location where they would not be disturbed. The weave was constructed by working down feathers into a fine mesh of fiber. The end result was a brilliant tapestry of intricate patterns or images.\nIn addition to verbal and somatic components, the spell required material components, down feathers and a fine fibre mesh."
     }
 }

@@ -1,23 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Tren Noemfor",
-        "alt_spelling": "",
-        "titles": "Constable",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "Constable's Tower, [[Dagger Falls]], [[Daggerdale]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "gender": "",
-        "race": "[[Human]]",
-        "ethnicity": "",
-        "occupation": "Ruler, {{former}} adventurer",
         "age": "",
         "patron deity": "",
         "languages": "",
@@ -46,8 +28,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Lawful evil]]",
-        "class2e": "{{class table|edition=2e|[[Fighter]]|7}}",
+        "alignment2e": "Lawful evil",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
@@ -64,11 +46,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Tren Noemfor''' was a [[human]] [[fighter]] and the [[Zhent]]-appointed ruler of [[Dagger Falls]] in [[Daggerdale]] in the mid-to-late 14{{th}} century [[DR]].",
-        "Activities": "As Constable, that is, a military governor, Tren was the leader of Dagger Falls and effectively all of Daggerdale, at least on behalf of [[Zhentil Keep]]. But it was a province under siege from without and within. Tren focused on maintaining peace in the town, dispensing justice, and defending against raids by rebels supporting [[Randal Morn]], and his troops rarely ventured far outside the town's immediate environs. Nevertheless, his reprisals against Randal's supporters within that area, including swift and summary executions, and his generally harsh justice made him hated by all the rebels and turned the citizens against him. His support in Zhent-controlled areas remained firm, however. He had no allies, but served the Zhentarim well, though they cared only that trade caravans keep moving through. He was served by hundreds of soldiers.\n\nHe was not above imprisoning one member of a visiting [[adventuring company]] and manipulating or extorting the others into performing some service for him to earn their companion's freedom.\n\nTren was a cruel but not stupid governor of the city. He fought the [[Freedom Riders]] and all the partisans supporting [[Randal Morn]] but did not often authorize raids against innocent people not involved in the war.",
-        "Personality": "He was considered clever and ambitious.",
-        "Base of Operations": "Constable Tren and his chosen trusted guards dwelt within the Constable's Tower, a reinforced tower overlooking the town.",
-        "History": "Tren was an ex-adventurer of Daggerdale whom the [[Zhentarim]] appointed as constable of Dagger Falls in order to maintain the façade of a free and legitimate government in the dale.\n\nIn the early 1360s DR, Tren tried sending a delegation to the [[Dales Council]], but the councilors were so outraged they ejected the delegates.\n\nHis downfall probably began in the {{YearlinkName|1367}}, when the [[cleric]] of [[Cyric]] [[Eragyn]] resurrected [[Colderan Morn]]. In order to rule the dale himself, Colderan spread a magical illness that affected everyone, both Zhents and those loyal to Randal, in the same manner.\n\nFinally, an adventuring band resolved the situation but what became of Tren Noemfor is unrecorded.<ref group=\"note\">Tren Noemfor's fate is unknown, as ''Doom of Daggerdale'' makes no mention of it, except that Tren escapes if Colderan takes over the town, while later sources replace him with Guthbert, despite him being constable of Teshwave. ''Volo's Guide to the Dalelands'' fixes this by having Guthbert transfer to Dagger Falls, but Tren is not mentioned. In 1368 DR, there was another constable in town, [[Guthbert Golthammer]],<ref> who was previously the constable of [[Teshwave]] and had transferred from there to Daggerdale.<ref>",
-        "Possessions": "Tren wielded a ''+2 [[longsword]]'' and wore a ''[[cloak of displacement]]'' and a ''[[ring of the ram]]''."
+        "mainbody": "Tren Noemfor was a human fighter and the Zhent-appointed ruler of Dagger Falls in Daggerdale in the mid-to-late 14 century DR.\nAs Constable, that is, a military governor, Tren was the leader of Dagger Falls and effectively all of Daggerdale, at least on behalf of Zhentil Keep. But it was a province under siege from without and within. Tren focused on maintaining peace in the town, dispensing justice, and defending against raids by rebels supporting Randal Morn, and his troops rarely ventured far outside the towns immediate environs. Nevertheless, his reprisals against Randals supporters within that area, including swift and summary executions, and his generally harsh justice made him hated by all the rebels and turned the citizens against him. His support in Zhent-controlled areas remained firm, however. He had no allies, but served the Zhentarim well, though they cared only that trade caravans keep moving through. He was served by hundreds of soldiers.\nHe was not above imprisoning one member of a visiting adventuring company and manipulating or extorting the others into performing some service for him to earn their companions freedom.\nTren was a cruel but not stupid governor of the city. He fought the Freedom Riders and all the partisans supporting Randal Morn but did not often authorize raids against innocent people not involved in the war.\nHe was considered clever and ambitious.\nConstable Tren and his chosen trusted guards dwelt within the Constables Tower, a reinforced tower overlooking the town.\nTren was an ex-adventurer of Daggerdale whom the Zhentarim appointed as constable of Dagger Falls in order to maintain the façade of a free and legitimate government in the dale.\nIn the early 1360s DR, Tren tried sending a delegation to the Dales Council, but the councilors were so outraged they ejected the delegates.\nHis downfall probably began in the , when the cleric of Cyric Eragyn resurrected Colderan Morn. In order to rule the dale himself, Colderan spread a magical illness that affected everyone, both Zhents and those loyal to Randal, in the same manner.\nFinally, an adventuring band resolved the situation but what became of Tren Noemfor is unrecorded.Tren Noemfors fate is unknown, as Doom of Daggerdale makes no mention of it, except that Tren escapes if Colderan takes over the town, while later sources replace him with Guthbert, despite him being constable of Teshwave. Volos Guide to the Dalelands fixes this by having Guthbert transfer to Dagger Falls, but Tren is not mentioned. In 1368 DR, there was another constable in town, Guthbert Golthammer, who was previously the constable of Teshwave and had transferred from there to Daggerdale.\nTren wielded a +2 longsword and wore a cloak of displacement and a ring of the ram."
     }
 }

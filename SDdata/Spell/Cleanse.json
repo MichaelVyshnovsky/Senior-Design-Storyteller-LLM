@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Cleanse",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[All sphere|All]]",
-        "level2e": "{{Spell table|edition=2e|[[All sphere|All]]|1|[[Cleric]]|1}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -37,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Cleanse''''' was a [[southern magic]] [[divine magic|divine]] spell.",
-        "Effects": "When cast, the spell cleaned the caster, including the clothing worn during casting. The spell removed dirt, grease, grime and stains. If an article of clothing was faded, the spell restored the color to its original shade. The spell also had a measure of healing abilities. The spell disinfected any wounds, and also healed the caster from both minor illnesses or the beginning stages of more serious diseases. [[Lycanthropy]], [[mummy rot]], and diseases caused by [[rat]] bites were unaffected by ''cleanse''.",
-        "Components": "In addition to [[somatic]] and [[verbal]] components, this spell required a [[material component]], a piece of [[soap]]"
+        "mainbody": "Cleanse was a southern magic divine spell.\nWhen cast, the spell cleaned the caster, including the clothing worn during casting. The spell removed dirt, grease, grime and stains. If an article of clothing was faded, the spell restored the color to its original shade. The spell also had a measure of healing abilities. The spell disinfected any wounds, and also healed the caster from both minor illnesses or the beginning stages of more serious diseases. Lycanthropy, mummy rot, and diseases caused by rat bites were unaffected by cleanse.\nIn addition to somatic and verbal components, this spell required a material component, a piece of soap"
     }
 }

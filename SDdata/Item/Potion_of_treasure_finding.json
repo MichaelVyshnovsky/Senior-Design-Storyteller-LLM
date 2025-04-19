@@ -1,52 +1,5 @@
 {
-    "template_data": {
-        "240|yards|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Potion of Treasure Finding''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Potion]]",
-        "creator": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "2,000 [[gp]]",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "[[Divination]], [[Divination sphere]]",
-        "level2e": "",
-        "value2e": "600-2,000 gp",
-        "weight2e": "",
-        "refs2e": "<ref group=\"note\">The [[Dungeon Master's Guide 2nd edition|''Dungeon Master's Guide]] of 2nd edition and the ''[[Encyclopedia Magica Volume III]]'' list different prices for this item, so both prices are provided together as a range.",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "",
-        "refs3e": "",
-        "level4e": "",
-        "value4e": "",
-        "weight4e": "",
-        "refs4e": "",
-        "rarity5e": "",
-        "attunement5e": "",
-        "school5e": "",
-        "level5e": "",
-        "value5e": "",
-        "weight5e": "",
-        "refs5e": "",
-        "communication": "",
-        "languages": "",
-        "alignment": "",
-        "sentientrefs": "",
-        "mainbody": "'''''Potions of treasure finding''''' were a type of [[potion]] that aided their imbibers in discovering treasure.",
-        "Powers": "When consumed, these potions provided their drinker with a sort of \"directional sense\" in regards to treasure, enabling them to feel or sense the general direction of the nearest mass, but not its exact location. The only substances this sense could not penetrate through were special magical [[ward]]s and walls lined with [[lead]]. This mass had to be within {{SI|240|yards|long=yes}} to be detected and its overall weight needed to be equal to at least 10,000 [[copper piece]]s or 100 [[gem]]s.\n\nWhat these potions classified as \"treasure\" was solely [[gem]]s, [[jewelry]], and metals considered valuable, such as [[copper]], [[silver]], [[electrum]], [[gold]], and [[platinum]]. Those considered \"worthless\" would not be detected by these potions. [[Magical item]]s were also not considered valuable by a ''potion of treasure finding'' unless their body consisted in part of some form of valuable gem or metal.",
-        "Variants": {
-            "''Paste of treasure finding''": "The people of [[Serôs]] had a thick, gelatinous paste version of this potion,<ref>{{Cite dungeon/79/The Akriloth|77}} suitable for use in their underwater environment. Like other pastes of Serôs, a ''paste of treasure finding'' consisted of kelp and other viscous substances. It was stored in either [[clam]]shells or flexible tubes made from [[eel]]skin.<ref>"
-        },
-        "History": "In the mid–14{{th}} century [[DR]], a traveling mercantile store in the [[Mooney And Sons Circus]] known as [[Glitz's And Klax's Potions And Philters]] would sell potions that had one-tenth their normal power. This included ''potions of treasure finding''.",
-        "Creation": "Suggested special ingredients for such potions were six different [[gemstone]]s crushed into a powder, the scale of a [[gold dragon]], or the dust of a [[diamond]]."
+        "mainbody": "otions of treasure finding were a type of potion that aided their imbibers in discovering treasure.\nWhen consumed, these potions provided their drinker with a sort of \"directional sense\" in regards to treasure, enabling them to feel or sense the general direction of the nearest mass, but not its exact location. The only substances this sense could not penetrate through were special magical wards and walls lined with lead. This mass had to be within  to be detected and its overall weight needed to be equal to at least 10,000 copper pieces or 100 gems.\nWhat these potions classified as \"treasure\" was solely gems, jewelry, and metals considered valuable, such as copper, silver, electrum, gold, and platinum. Those considered \"worthless\" would not be detected by these potions. Magical items were also not considered valuable by a potion of treasure finding unless their body consisted in part of some form of valuable gem or metal.\nPaste of treasure finding The people of Serôs had a thick, gelatinous paste version of this potion, suitable for use in their underwater environment. Like other pastes of Serôs, a paste of treasure finding consisted of kelp and other viscous substances. It was stored in either clamshells or flexible tubes made from eelskin.\nIn the mid–14 century DR, a traveling mercantile store in the Mooney And Sons Circus known as Glitzs And Klaxs Potions And Philters would sell potions that had one-tenth their normal power. This included potions of treasure finding.\nSuggested special ingredients for such potions were six different gemstones crushed into a powder, the scale of a gold dragon, or the dust of a diamond."
     }
 }

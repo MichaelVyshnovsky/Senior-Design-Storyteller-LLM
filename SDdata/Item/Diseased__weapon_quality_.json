@@ -1,24 +1,5 @@
 {
     "document_data": {
-        "image": "Blightlord UE35.jpg",
-        "caption": "A blightlord wielding a ''diseased'' glaive.",
-        "name": "''Diseased''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Weapon quality]]",
-        "creator": "",
-        "location": "[[Unapproachable East]], [[east Faerûn]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "7{{th}}",
         "itemlevel3e": "",
         "value3e": "+1",
         "weight3e": "",
@@ -38,9 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Diseased''''' was an enchantment that caused a weapon to inflict a wasting [[disease]].",
-        "Powers": "Anyone who received an injury from a ''diseased'' weapon was at risk of instantly contracting [[filth fever]], and manifesting symptoms without any incubation period. The disease itself was not [[magical]], so the afflicted creature could recover from it naturally.",
-        "Creation": "Crafting a ''diseased'' weapon required not only the skills to [[Item enchantment|create magic weapons]], but also access to the ''[[contagion]]'' spell.",
-        "History": "During the late 14{{th}} century [[DR]], ''diseased'' weapons were sometimes wielded by the [[Talontar]] [[blightlord]]s of the [[Unapproachable East]], They were also utilized by some of the more sinister [[Red Wizard]]s of [[Thay]], who gave such weapons to their minions."
+        "mainbody": "Diseased was an enchantment that caused a weapon to inflict a wasting disease.\nAnyone who received an injury from a diseased weapon was at risk of instantly contracting filth fever, and manifesting symptoms without any incubation period. The disease itself was not magical, so the afflicted creature could recover from it naturally.\nCrafting a diseased weapon required not only the skills to create magic weapons, but also access to the contagion spell.\nDuring the late 14 century DR, diseased weapons were sometimes wielded by the Talontar blightlords of the Unapproachable East, They were also utilized by some of the more sinister Red Wizards of Thay, who gave such weapons to their minions."
     }
 }

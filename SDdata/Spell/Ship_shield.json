@@ -1,42 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "135|ft|long": "yes",
-        "20|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Ship Shield",
-        "deity": "[[Valkur]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]]",
-        "spheres2e": "[[Elemental sphere|Elemental]] [[Elemental air sphere|Air]]",
-        "level2e": "{{Spell table|edition=2e|[[Cleric]]|5|[[Elemental sphere|Elemental]]|5|[[Elemental air sphere|Elemental Air]]|5}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -44,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Ship shield''''' was a [[divine magic]] spell granted to priests of [[Valkur]], the Captain of the Waves. It created a stormy barrier that stopped physical missiles and dangerous sea conditions.",
-        "Effects": "This spell formed a wall up to {{SI|135|ft|long=yes}} away (more experienced casters could extend this range) that appeared as a turbulent mass of clouds and wind. The wall was constructed using up to nine 20-foot by {{SIAdj|20|ft|long=yes}} square segments (more experienced casters could add more segments) and lasted for at least ten minutes (again, senior casters could make it last longer). ''Ship shield'' prevented all physical missiles from passing through by halting their forward velocity so that they fell from the sky. It also stopped high winds, large waves, and torrential rain.\n\nThis spell created a physical barrier that did not affect [[magic]] spells unless they tried to send a physical object through the ''ship shield''. Creatures and self-propelled objects—like a [[horse]]-drawn [[wagon]], a sailboat, or a rowboat—could force their way through the barrier, but it took a full minute to do so.",
-        "Components": "This spell required [[Verbal component|verbal]] and [[somatic component]]s plus a tiny [[shield]] carved from wood or made of metal as the [[material component]]."
+        "mainbody": "Ship shield was a divine magic spell granted to priests of Valkur, the Captain of the Waves. It created a stormy barrier that stopped physical missiles and dangerous sea conditions.\nThis spell formed a wall up to  away (more experienced casters could extend this range) that appeared as a turbulent mass of clouds and wind. The wall was constructed using up to nine 20-foot by  square segments (more experienced casters could add more segments) and lasted for at least ten minutes (again, senior casters could make it last longer). Ship shield prevented all physical missiles from passing through by halting their forward velocity so that they fell from the sky. It also stopped high winds, large waves, and torrential rain.\nThis spell created a physical barrier that did not affect magic spells unless they tried to send a physical object through the ship shield. Creatures and self-propelled objects—like a horse-drawn wagon, a sailboat, or a rowboat—could force their way through the barrier, but it took a full minute to do so.\nThis spell required verbal and somatic components plus a tiny shield carved from wood or made of metal as the material component."
     }
 }

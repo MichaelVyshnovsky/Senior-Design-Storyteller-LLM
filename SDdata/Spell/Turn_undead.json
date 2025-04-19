@@ -1,32 +1,10 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "variant": "channel divinity",
-        "variant_1": "channel divinity",
-        "variant_2": "channel divinity",
-        "variant_3": "channel divinity",
-        "edition_1": "4e",
-        "variant_4": "channel divinity"
-    },
     "document_data": {
-        "image": "Turn undead Lordan.png",
-        "caption": "''[[Lordan]] the Pure, [[turn undead|turning undead]] with his [[holy symbol]].",
-        "name": "Turn undead",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "level5e": "{{Spell table|edition=5e|variant=channel divinity|[[Cleric]]|2}}",
         "type5e": "Channel Divinity",
         "refs5e": "",
         "feature4e": "",
-        "keywords4e": "{{desc/divine|variant=channel divinity}}{{desc/implement|variant=channel divinity}}{{desc/radiant|variant=channel divinity}}",
-        "level4e": "{{spell table|edition=4e|variant=channel divinity|[[Cleric]]|1}}",
+        "keywords4e": "",
+        "level4e": "",
         "type4e": "Encounter",
         "category4e": "",
         "skill4e": "",
@@ -48,9 +26,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Turn undead''''' is a ''[[channel divinity]]'' cast by nearly all [[cleric]]s. When a cleric casts ''turn undead'' he or she pushes any [[undead]] within a nearby area of five feet in radius back at least fifteen feet, perhaps further depending on the cleric's strength of personality. Undead caught in the blast are momentarily paralyzed or, at the very least, seared by the severe light of the prayer.",
-        "Variants": {
-            "''Turn aquatic undead''": "Some [[specialty priest]]s of ocean [[deities]] in the Realms were granted a limited version of ''turn undead'' that could only affect aquatic undead. These included the [[Anchor (specialty priest)|Anchors]] of the [[Church of Umberlee]] and the [[Aquarian]]s of the [[Church of Deep Sashelas]]."
-        }
+        "mainbody": "Turn undead is a channel divinity cast by nearly all clerics. When a cleric casts turn undead he or she pushes any undead within a nearby area of five feet in radius back at least fifteen feet, perhaps further depending on the clerics strength of personality. Undead caught in the blast are momentarily paralyzed or, at the very least, seared by the severe light of the prayer.\nTurn aquatic undead Some specialty priests of ocean deities in the Realms were granted a limited version of turn undead that could only affect aquatic undead. These included the Anchors of the Church of Umberlee and the Aquarians of the Church of Deep Sashelas."
     }
 }

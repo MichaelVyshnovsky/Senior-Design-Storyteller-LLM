@@ -1,35 +1,6 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Reveille",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Necromancy]]",
-        "domains3e": "",
-        "descriptors3e": "{{Desc/sonic}}",
-        "level3e": "{{spell table|edition=3e|[[Bard]]|3}}",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,8 +14,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Reveille''''' was a [[necromancy]] [[spell]] used by [[bard]]s.",
-        "Effects": "This spell caused a creature that died within three days of the casting to reveal information about its death. The corpse would speak abruptly in its native language, describing things like the last thing it saw, its dying wish, the injury that killed it, who killed it, and why it believed it was killed. Finally, the corpse was able to answer a single question from the caster to the best of its ability.",
-        "Components": "This spell required only [[Verbal component|verbal]] and [[somatic component|somatic]] components to cast."
+        "mainbody": "Reveille was a necromancy spell used by bards.\nThis spell caused a creature that died within three days of the casting to reveal information about its death. The corpse would speak abruptly in its native language, describing things like the last thing it saw, its dying wish, the injury that killed it, who killed it, and why it believed it was killed. Finally, the corpse was able to answer a single question from the caster to the best of its ability.\nThis spell required only verbal and somatic components to cast."
     }
 }

@@ -1,31 +1,8 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes",
-        "2|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Cloak of Arachnida 3e.png",
-        "caption": "",
-        "name": "''Cloak of Arachnida''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Cloak]]",
-        "creator": "",
-        "location": "[[Cormyr]], [[Interior Faerûn]]<br/>[[Westgate]], [[Dragon Coast]]<br/>[[Menzoberranzan]], [[Underdark]]<br/>[[Cities of the Ancients]], [[Zakhara]]<br/>[[Grodd]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "25,000 [[gp]]",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "3{{rd}}",
         "itemlevel3e": "",
-        "value3e": "14,000 [[gp]]",
-        "weight3e": "{{SI|1|lb|k|long=yes}}–{{SI|2|lb|k|long=yes}}",
+        "value3e": "14,000 gp",
+        "weight3e": "–",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -42,11 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Cloaks of arachnida''''' were [[enchanted]] [[cloak]]s that granted the wearer abilities of a [[spider]].",
-        "Description": "''Cloaks of arachnida'' were black mantles that emanated a strong aura of ''[[alteration]]'' magic.",
-        "Powers": "The wearers of these cloaks were granted the continual effects of the ''[[spider climb]]'' [[spell]], allowing them to scale any surface, rendering them completely immune to the ''[[web]]'' spell, and unrestrainable by any mundane webs. Additionally, the wearer was able to create a magical ''web'', double the size of such a web conjured via spell. Lastly, the wearer became resistant to any arachnid venom or [[poison]].",
-        "Creation": "[[Spiderstone golem]]s were imbued with magics that lingered on their bodies after the [[construct]]s were destroyed. As such, remnants of spiderstone golems could be used in crafting and enchanting of spider-related magic items, including ''cloaks of arachnida''.{{Cite dragon/193/Live Statues and Stone Men|22}} A skilled crafter of magic items could recreate a ''cloak of arachnida'' using ''spider climb'' and ''web'' spells.",
-        "History": "In the {{YearlinkName|1374}}, the so-called King of Spiders [[Sirachna]] gained entrance to a home on [[Westgate]]'s [[Market Triangle]] from a cavern underneath. His arachnid pets ended up murdering a family who lived inside, leaving them haunting the home as restless [[ghost]]s. Some said the King of Spiders was killed by an adventurer, accompanied by [[Charissa Maernos]], [[Mantides]], and [[Rinara]], who claimed his ''cloak of arachnida'' and several other magic items.",
-        "Notable Owners": "*[[Artemis Entreri]], a late 14{{th}} century assassin.\n*[[Bazim-Gorag]], a [[slaad lord]], possessed a ''cloak of arachnida'', stashed away in his treasure hoard.{{Cite dungeon/101/Prison of the Firebringer|55}}\n*[[Ezzat]], a [[lich]] of [[Undermountain]] and once a [[Netherese]] [[mage]].\n*[[Gof]], a [[Grodd goblin]] general, active in the late 14{{th}} century [[DR]].\n*[[Mez'Barris Armgo]], the Matron Mother of [[House Barrison]] in the 14{{th}} center DR.\n*[[Yvonnel Baenre]], the Mother Matron Baenre in the 14{{th}} center DR."
+        "mainbody": "Cloaks of arachnida were enchanted cloaks that granted the wearer abilities of a spider.\nCloaks of arachnida were black mantles that emanated a strong aura of alteration magic.\nThe wearers of these cloaks were granted the continual effects of the spider climb spell, allowing them to scale any surface, rendering them completely immune to the web spell, and unrestrainable by any mundane webs. Additionally, the wearer was able to create a magical web, double the size of such a web conjured via spell. Lastly, the wearer became resistant to any arachnid venom or poison.\nSpiderstone golems were imbued with magics that lingered on their bodies after the constructs were destroyed. As such, remnants of spiderstone golems could be used in crafting and enchanting of spider-related magic items, including cloaks of arachnida. A skilled crafter of magic items could recreate a cloak of arachnida using spider climb and web spells.\nIn the , the so-called King of Spiders Sirachna gained entrance to a home on Westgates Market Triangle from a cavern underneath. His arachnid pets ended up murdering a family who lived inside, leaving them haunting the home as restless ghosts. Some said the King of Spiders was killed by an adventurer, accompanied by Charissa Maernos, Mantides, and Rinara, who claimed his cloak of arachnida and several other magic items.\n*Artemis Entreri, a late 14 century assassin.\n*Bazim-Gorag, a slaad lord, possessed a cloak of arachnida, stashed away in his treasure hoard.\n*Ezzat, a lich of Undermountain and once a Netherese mage.\n*Gof, a Grodd goblin general, active in the late 14 century DR.\n*MezBarris Armgo, the Matron Mother of House Barrison in the 14 center DR.\n*Yvonnel Baenre, the Mother Matron Baenre in the 14 center DR."
     }
 }

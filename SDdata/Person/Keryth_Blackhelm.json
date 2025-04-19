@@ -1,18 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "name": "Keryth Blackhelm",
-        "home": "[[Evermeet]]",
-        "sex": "Male",
-        "race": "[[Moon elf]]",
-        "age": "",
-        "dob": "",
-        "class": "{{class table|edition=2e|[[Fighter]]|13}}",
         "rules": "2nd",
-        "alignment": "[[Neutral good]]",
-        "mainbody": "'''High Marshal Keryth Blackhelm''' was a [[moon elf]] and high marshal of the island of [[Evermeet]]. He was also a member of the [[Council of Evermeet]]. He was responsible for the defense of the island kingdom.",
-        "Possessions": "He wielded a fabulous enchanted [[spear]] called ''[[Khormalashalal]]''."
+        "alignment": "Neutral good",
+        "mainbody": "High Marshal Keryth Blackhelm was a moon elf and high marshal of the island of Evermeet. He was also a member of the Council of Evermeet. He was responsible for the defense of the island kingdom.\nHe wielded a fabulous enchanted spear called Khormalashalal."
     }
 }

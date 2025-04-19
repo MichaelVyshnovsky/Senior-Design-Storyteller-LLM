@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Archveult's Skybolt",
-        "deity": "",
-        "inventor": "[[Archveult]]",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "",
-        "level2e": "{{Spell table|edition=2e|[[Wizard]]|6}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Archveult's skybolt''''' was an [[alteration]] [[spell]] that created a giant bolt of [[arcane]] energy that followed the arc of a crystal focus thrown by the caster. It was developed by the [[mage]] [[Archveult]] and could be found within the tome known as ''[[The Wizards' Workbook]]''.",
-        "Effects": "Upon casting the spell, the caster threw the crystal focus at the target creature or area. Starting 10' (3.0 m) away from the caster, a massive blast of energy appeared, 4' (1.2 m) in diameter, and followed the arc of the thrown focus. If the focus struck a wall or other barrier, the beam of energy ceased at the impediment. If the focus was caught and thrown by the target, the bolt continued along the same path.\n\nThose struck by the crystal were harmed in proportion to the inherent vitality and those who stood in the path of the bolt were shocked.\n\nThe ''skybolt'' continued for at least 100' (30.5 m), depending on the power of the caster, but could not form underwater. If it entered an area that was protected from [[arcane]] power, such as an ''[[antimagic field]]'', the bolt dissipated. Once formed, the bolt lasted for a matter of seconds and could not be deflected, grounded, or otherwise altered by any creatures or objects.",
-        "Casting": "The spell had [[verbal]], [[somatic]], and [[material component]]s, the latter of which was a focus made of crystal, at least one inch (2.5 cm) in length. This could be anything as simple as a piece of glass, or as valuable as a cut [[gem]]."
+        "mainbody": "Archveults skybolt was an alteration spell that created a giant bolt of arcane energy that followed the arc of a crystal focus thrown by the caster. It was developed by the mage Archveult and could be found within the tome known as The Wizards Workbook.\nUpon casting the spell, the caster threw the crystal focus at the target creature or area. Starting 10 (3.0 m) away from the caster, a massive blast of energy appeared, 4 (1.2 m) in diameter, and followed the arc of the thrown focus. If the focus struck a wall or other barrier, the beam of energy ceased at the impediment. If the focus was caught and thrown by the target, the bolt continued along the same path.\nThose struck by the crystal were harmed in proportion to the inherent vitality and those who stood in the path of the bolt were shocked.\nThe skybolt continued for at least 100 (30.5 m), depending on the power of the caster, but could not form underwater. If it entered an area that was protected from arcane power, such as an antimagic field, the bolt dissipated. Once formed, the bolt lasted for a matter of seconds and could not be deflected, grounded, or otherwise altered by any creatures or objects.\nThe spell had verbal, somatic, and material components, the latter of which was a focus made of crystal, at least one inch (2.5 cm) in length. This could be anything as simple as a piece of glass, or as valuable as a cut gem."
     }
 }

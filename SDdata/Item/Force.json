@@ -1,24 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Force",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Weapon quality]]",
-        "creator": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "[[Evocation]]",
-        "casterlevel3e": "11{{th}}",
         "itemlevel3e": "",
         "value3e": "+3 equivalent",
         "weight3e": "",
@@ -38,9 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Force''' was a magical [[weapon quality|quality]] that could be added to any weapon, even ammunition such as [[arrow]]s.{{Cite web/The Lone Drow: Companions of the Hall}}",
-        "Use": "It allowed the wielder to make destructive blasts of magical force with each attack. The weapon could even shatter through a [[Shield (spell)|''shield'']] spell or ''[[bracers of armor]]''. Incorporeal creatures could also be hurt by ''force'' weapons.",
-        "Creation": "Applying the ''force'' property required the spell ''[[wall of force]]''.",
-        "Examples": "* ''[[Taulmaril]]'', the personal ranged weapon of [[Catti-brie]], was a ''+3 force [[keen]] [[elven bow|elven]] [[longbow]]''."
+        "mainbody": "Force was a magical quality that could be added to any weapon, even ammunition such as arrows.\nIt allowed the wielder to make destructive blasts of magical force with each attack. The weapon could even shatter through a shield spell or bracers of armor. Incorporeal creatures could also be hurt by force weapons.\nApplying the force property required the spell wall of force.\n* Taulmaril, the personal ranged weapon of Catti-brie, was a +3 force keen elven longbow."
     }
 }

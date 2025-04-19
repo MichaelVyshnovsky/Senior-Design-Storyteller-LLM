@@ -1,47 +1,5 @@
 {
-    "template_data": {
-        "20|\"|c|long": "yes",
-        "27|\"|c|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Sheaf Arrow",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Ammunition",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "3 [[sp]] for 6 arrows",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "",
-        "refs3e": "",
-        "level4e": "",
-        "value4e": "",
-        "weight4e": "",
-        "refs4e": "",
-        "rarity5e": "",
-        "attunement5e": "",
-        "school5e": "",
-        "level5e": "",
-        "value5e": "",
-        "weight5e": "",
-        "refs5e": "",
-        "communication": "",
-        "languages": "",
-        "alignment": "",
-        "mainbody": "'''Sheaf arrows''', also called '''war arrows''',  were [[arrow]]s that were designed to cause the most physical harm.",
-        "Description": "Far shorter than [[flight arrow]]s, sheaf arrows measured between {{SI|20|\"|c|long=yes}} and {{SI|27|\"|c|long=yes}} in length. Sheaf arrows were heavy arrows terminating with sharpened [[steel]] tips. These arrows could only be effectively fired with a [[longbow]].",
-        "Uses": "Sheaf arrows were primarily used in warfare.",
-        "Notable Users": "* [[Ardasir al-Darah]], a [[janni]] of the [[Haunted Lands]], carried sheaf arrows.\n* [[Elorfindar Floshin]] of [[Daggerford]] carried enchanted sheaf arrows."
+        "mainbody": "heaf arrows, also called war arrows,  were arrows that were designed to cause the most physical harm.\nFar shorter than flight arrows, sheaf arrows measured between  and  in length. Sheaf arrows were heavy arrows terminating with sharpened steel tips. These arrows could only be effectively fired with a longbow.\nSheaf arrows were primarily used in warfare.\n* Ardasir al-Darah, a janni of the Haunted Lands, carried sheaf arrows.\n* Elorfindar Floshin of Daggerford carried enchanted sheaf arrows."
     }
 }

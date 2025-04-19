@@ -1,17 +1,6 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "variant": "utterance"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "morale boost",
-        "lexicon3e": "[[Lexicon of the Evolving Mind|Evolving Mind]]",
-        "level3e": "{{Spell table|edition=3e|variant=utterance|[[Truenamer]]|4}}",
-        "refs3e": "{{cite book/Tome of Magic 3.5|240}}",
-        "mainbody": "The '''''morale boost''''' [[utterance]] was an advanced technique from the Lexicon of the Evolving Mind that used [[truespeak]] to bolster the subject's courage, or brought forth fright if reversed.",
-        "Usage": "In its straight form, ''morale boost'' functioned identically to ''remove fear'', the words of courage bolstering the subject for about half a minute. Its reversed form induced instant fright for about the same length of time.",
-        "History": "The recitation was known to [[logokron devil]]s and [[garbler]]s, the latter of which used it only in its reversed form.{{cite book/Tome of Magic 3.5|266-267}}"
+        "refs3e": "",
+        "mainbody": "The morale boost utterance was an advanced technique from the Lexicon of the Evolving Mind that used truespeak to bolster the subjects courage, or brought forth fright if reversed.\nIn its straight form, morale boost functioned identically to remove fear, the words of courage bolstering the subject for about half a minute. Its reversed form induced instant fright for about the same length of time.\nThe recitation was known to logokron devils and garblers, the latter of which used it only in its reversed form."
     }
 }

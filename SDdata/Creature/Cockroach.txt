@@ -1,26 +1,10 @@
-{{Creature
-| image        = Cockroaches.jpg
-| caption      = A swarm of cockroaches.
-| name         = Cockroach
-| othernames   = 
-| size5e       = 
-| type5e       = 
-| subtype5e    = 
-| alignment5e  = 
-| challenge5e  = 
-| refs5e       = 
-| size4e       = Medium
-| origin4e     = [[Natural]]
-| type4e       = [[Beast]]
-| subtype4e    = [[Swarm]]
-| alignment4e  = [[Unaligned]]
-| refs4e       = {{Cite dungeon/164/Worse than Death|20}}<ref group="note" name="swarm">These statblocks represent swarms of cockroaches, rather than individuals.
+These statblocks represent swarms of cockroaches, rather than individuals.
 | size3e       = Fine
-| type3e       = [[Vermin]]
-| subtype3e    = [[Swarm]]
-| alignment3e  = [[Neutral]]
+| type3e       = Vermin
+| subtype3e    = Swarm
+| alignment3e  = Neutral
 | challenge3e  = 2
-| refs3e       = <ref group="note" name="swarm" />
+| refs3e       = 
 | size2e       = 
 | alignment2e  = 
 | refs2e       = 
@@ -55,37 +39,17 @@
 | first        = 
 | based        = 
 | histrefs     = 
-}}
-'''Cockroaches''', also known simply as '''roaches''', were crawling [[insect]]s with a reputation as urban pests. They were a common nuisance in the city of [[Calimport]], for example.
-
-==Combat==
-Although typically harmless against [[adventurer]]s, cockroach swarms of large enough numbers could pose a serious threat. To those unequipped to handle it, the collective stench of such a group could be overwhelmingly sickening. Damage was typically inflicted by biting, though some swarms were able to eject a corrosive [[acid]] as well.
-
-Particularly diminutive adventurers, such as those shrunk to a tenth of their size per the effects of a version of the ''[[reduce]]'' spell in use between the [[Time of Troubles]] and the [[Year of Wild Magic]], were a more realistic target for individual cockroaches. At this scale, a cockroach's bite could inflict significant damage, and would slow an opponent down for a few seconds.
-
-==Ecology==
-[[File:Plaguechanged rat.jpg|thumb|273px|''A cockroach is menaced by a [[plaguechanged]] [[rat]].'']]
-Cockroaches could be [[tracking|tracked]] by the pungent smell of their attar and droppings.
-
-[[Beshaba]] counted cockroaches among her [[favored animal]]s, and was known to act through their presence.{{Cite web enhancement/Deity Do's and Don'ts|10}} [[Torog]], too, favored cockroaches.{{Cite dungeon/177/Deities & Demigods: Torog, the King that Crawls|70}}
-
-===Habitats===
-Cockroaches were found in urban areas the [[Shattered Mirror]], and the [[Three Elves]].{{Cite web/Elminster Speaks/Part 23: Cheap and Cheerful at the Three Elves}}
-
-Some species of cockroach hardy enough to survive the frigid climate inhabited the [[Great Glacier]].
-
-===Related Creatures===
-[[Giant cockroach]]es were especially large cockroaches that measured {{SI|6|ft|long=yes}} in length. Compared to their more common kin, they were considerably more belligerent, attacking just about anything animate.
-
-[[Vfush Sweetwaterlake]], a [[slyth]] scholar of insects and [[arachnid]]s, claimed to have observed an undead species of cockroach.{{Cite web enhancement/Underdark Dungeons|4}}
-
-A rare subset of cockroaches were valued for their use in detecting magic, as their shells turned blue in its presence. These cockroaches were sold in the markets of [[Vaelan]].
-
-Some sages postulated that [[hook horror]]s were distant relatives of cockroaches.
-
-==History==
-Prior to becoming an advisor at the [[Citadel of Assassins]], the archmage [[Knellict]] survived an assassination attempt organized by his prior employer, [[Zhengyi]] the Witch-King, by [[polymorph]]ing his assailants into cockroaches. Similarly, during her tumultuous tenure as guildmaster of the [[Welcomers]] of [[Phlan]], the [[half-fiend]] [[Sirana]] used this same maneuver on several of her own guildmembers.
-
-==Trivia==
-The [[hishna]] spell ''[[pestilence]]'' brought forth a mass of crawling insects, among which were cockroaches.
-
+Cockroaches, also known simply as roaches, were crawling insects with a reputation as urban pests. They were a common nuisance in the city of Calimport, for example.
+Although typically harmless against adventurers, cockroach swarms of large enough numbers could pose a serious threat. To those unequipped to handle it, the collective stench of such a group could be overwhelmingly sickening. Damage was typically inflicted by biting, though some swarms were able to eject a corrosive acid as well.
+Particularly diminutive adventurers, such as those shrunk to a tenth of their size per the effects of a version of the reduce spell in use between the Time of Troubles and the Year of Wild Magic, were a more realistic target for individual cockroaches. At this scale, a cockroachs bite could inflict significant damage, and would slow an opponent down for a few seconds.
+thumb|273px|A cockroach is menaced by a plaguechanged rat.
+Cockroaches could be tracked by the pungent smell of their attar and droppings.
+Beshaba counted cockroaches among her favored animals, and was known to act through their presence. Torog, too, favored cockroaches.
+Cockroaches were found in urban areas the Shattered Mirror, and the Three Elves.
+Some species of cockroach hardy enough to survive the frigid climate inhabited the Great Glacier.
+Giant cockroaches were especially large cockroaches that measured  in length. Compared to their more common kin, they were considerably more belligerent, attacking just about anything animate.
+Vfush Sweetwaterlake, a slyth scholar of insects and arachnids, claimed to have observed an undead species of cockroach.
+A rare subset of cockroaches were valued for their use in detecting magic, as their shells turned blue in its presence. These cockroaches were sold in the markets of Vaelan.
+Some sages postulated that hook horrors were distant relatives of cockroaches.
+Prior to becoming an advisor at the Citadel of Assassins, the archmage Knellict survived an assassination attempt organized by his prior employer, Zhengyi the Witch-King, by polymorphing his assailants into cockroaches. Similarly, during her tumultuous tenure as guildmaster of the Welcomers of Phlan, the half-fiend Sirana used this same maneuver on several of her own guildmembers.
+The hishna spell pestilence brought forth a mass of crawling insects, among which were cockroaches.

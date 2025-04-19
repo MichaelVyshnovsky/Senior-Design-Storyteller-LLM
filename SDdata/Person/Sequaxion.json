@@ -1,27 +1,5 @@
 {
-    "template_data": {
-        "8|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Sequaxion",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "Seek",
-        "true name": "",
-        "home": "[[For-Rest Inn]], [[Ravens Bluff]]",
-        "formerhomes": "",
-        "sex": "",
-        "gender": "",
-        "race": "[[Treant]]",
-        "ethnicity": "",
-        "occupation": "Gardener",
-        "age": "",
-        "patron deity": "",
-        "languages": "[[Common]], [[Treant language|Treant]]",
-        "basicrefs": "{{Cite polyhedron/49/The Living City: The For-Rest Inn|29}}",
         "reckoning": "",
         "dob": "",
         "dobnotes": "",
@@ -46,7 +24,7 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Chaotic good]]",
+        "alignment2e": "Chaotic good",
         "class2e": "",
         "refs2e": "",
         "alignment3e": "",
@@ -64,10 +42,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Sequaxion''' was a [[treant]] who lived and worked in the garden of the [[For-Rest Inn]] in the city of [[Ravens Bluff]] in the 14{{th}} century [[DR]].",
-        "Description": "Sequaxion was an [[oak]] type of treant and stood roughly {{SI|8|ft|long=yes}} tall.{{Cite polyhedron/49/The Living City: The For-Rest Inn|28}}",
-        "Personality": "Sequaxion was a very cheerful, intelligent, and blissful individual.",
-        "Activities": "Sequaxion worked as a gardener at the For-Rest Inn, tending the plants around it. He almost never wandered away from the garden, as the city generally did not allow his kind to walk about freely. He also tended to move around at a slow pace, having been told by the inn's owner that [[human]]s didn't like trees that moved. As there were no other trees close to him, he sometimes animated the inn itself.",
-        "Relationships": "Sequaxion was very good friends with the owner of the For-Rest Inn, [[Thistledew Vine]], ensuring that her customers had plenty to eat."
+        "mainbody": "Sequaxion was a treant who lived and worked in the garden of the For-Rest Inn in the city of Ravens Bluff in the 14 century DR.\nSequaxion was an oak type of treant and stood roughly  tall.\nSequaxion was a very cheerful, intelligent, and blissful individual.\nSequaxion worked as a gardener at the For-Rest Inn, tending the plants around it. He almost never wandered away from the garden, as the city generally did not allow his kind to walk about freely. He also tended to move around at a slow pace, having been told by the inns owner that humans didnt like trees that moved. As there were no other trees close to him, he sometimes animated the inn itself.\nSequaxion was very good friends with the owner of the For-Rest Inn, Thistledew Vine, ensuring that her customers had plenty to eat."
     }
 }

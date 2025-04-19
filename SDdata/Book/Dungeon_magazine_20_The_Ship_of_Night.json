@@ -1,57 +1,5 @@
 {
     "document_data": {
-        "image": "Dungeon_magazine_20.jpg",
-        "caption": "",
-        "title": "The Ship of Night",
-        "author": "[[Wolfgang Baur]]",
-        "inter_artist": "[[David C. Sutherland III]]",
-        "cartography": "[[Diesel]]",
-        "included_in": "[[Dungeon magazine 20|''Dungeon'' #20]]",
-        "editor": "[[Barbara G. Young]]",
-        "publisher": "[[TSR, Inc.]]",
-        "released": "November/December 1989",
-        "type": "Adventure",
-        "pages": "6&ndash;25",
-        "reprinted": "",
-        "realm year": "",
-        "setting": "",
-        "game_edition": "2",
-        "series": "",
-        "preceded_by": "",
-        "followed_by": "",
-        "mainbody": "'''\"The Ship of Night\"''' is a short adventure for [[Dungeons & Dragons]] 2{{nd}} edition published in [[Dungeon magazine 20|''Dungeon'' #20]].\n{{Quote|An engineering marvel awaits you, as does a legion of murderous \"ghosts.\"...}}\n{{TOC limit|2}}",
-        "Synopsis": "{{Sectstub}}",
-        "Index": {
-            "Characters": ":{{P|[[Arosticon]]|22}} • {{P|[[Artang (character)]]|23}} • [[Birgit]] • [[Ericho]] • {{P|[[Ferdinand]]|11}} • {{P|[[Lythanos]]|12}} • {{P|[[Narcosa]]|11-14,19,25}} • {{P|[[Nerezar]]|22-23}} • {{P|[[Randolph]]|14}} • {{P|[[Rynhart]]|23-25}} • {{P|[[Sparkle (derro)|Sparkle]]|22}} • {{P|[[Stonewing]]|22-23}} • {{P|[[Tailkiller]]|17-18}} • [[Tamara (dwarf)|Tamara]] • {{P|[[Vincent]]|12}} • {{P|[[Whiskers]]|7,22-23}} • {{P|[[Xavier]]|11}}",
-            "Creatures": ":{{P|[[barnacle]]s|14}} • {{P|[[bat]]|10-11,13-14,17}} • {{P|[[carrion crawler]]|18-19}} • {{P|[[cloaker]]|10,18}} • {{P|[[dark creeper]]|10,20,22}} • {{P|[[death dog]]|15}} • {{P|[[death's head moth]]|14}} • {{P|[[derro]]|6-7,10,14-23}} • {{P|[[drow]]|11-14,16,21-23}} • [[dwarf]] • {{P|[[fire elemental]]|9,22,25}} • {{P|[[fish]]|20-21}} • {{P|[[gargoyle]]|10,17-18,22-23}} • {{P|[[giant bombardier beetle]]|10}} • {{P|[[gnome]]|6,16,24}} • {{P|[[goblin]]|16,20,22}} • {{P|[[half-drow]]|13}} • {{P|[[juju zombie]]|11-12,14}} • {{P|[[kobold]]|10}} • {{P|[[maggot]]|13}} • {{P|[[margoyle]]|17-18,22-23}} • {{P|[[moth]]|14,23}} • {{P|[[myconid]]|24}} • {{P|[[piercer]]|10}} • {{P|[[puffer fish]]|20}} • {{P|[[rothé]]|10}} • {{P|[[scarab]]|14}} • {{P|[[shrieker]]|10,18}} • {{P|[[skeleton]]|12}} • {{P|[[subterranean lizard]]|10,14-15}} • {{P|[[ustilagor]]|24}} • {{P|[[violet fungus]]|18-19}}\n::{{Refonly}}\n::{{P|[[copper dragon]]|22}} • {{P|[[dark stalker]]|20}} • {{P|[[demon]]|13}} • {{P|[[dragon]]|13}} • {{P|[[duergar]]|20}} • {{P|[[firefly]]|23}} • {{P|[[giant spider]]|14}} • {{P|[[goose]]|7}} • {{P|[[griffon]]|9}} • {{P|[[kuo-toa]]|8}} • {{P|[[mule]]|9}} • {{P|[[orc]]|9}} • {{P|[[phase spider]]|25}} • {{P|[[rat]]|14}} • {{P|[[rooster]]|17}} • {{P|[[troglodyte]]|20,22}} • {{P|[[umber hulk]]|22}} • {{P|[[yellow mold]]|14}}",
-            "Locations": {
-                "Bodies of Water": "{{P|[[Iskellion River]]|9,14,18-19,21}} • {{P|[[Laeten River]]|13-15,25}}",
-                "Buildings": "[[Sign of the Melancholy Dwarf]]",
-                "Forests": "{{P|[[Neverwinter Wood]]|9}}",
-                "Mountains": "{{P|[[Mount Hotenow]]|8-9,25}}",
-                "Region": "{{P|[[The North]]|6}} • [[Underdark]]",
-                "Settlements": "{{P|[[Hammerkeep]]|6,8-9,18}} • {{P|[[Shadow Kingdom]]|15,18,23}}\n::{{Refonly}}\n::{{P|[[Angrimm]]|13}} • {{P|[[Delzoun]]|6}} • {{P|[[Ethereal plane]]|11,25}} • {{P|[[Great Cloaker Rift]]|21,23,25}} • {{P|[[Longsaddle]]|9}} • {{P|[[Selûne (moon)|Moon]]|19,21,23-24}} • {{P|[[Neverwinter]]|7,9}} • {{P|[[Neverwinter River]]|25}} • {{P|[[Positive Energy plane|Positive Material plane]]|23}} • {{P|[[Silverymoon]]|7,9}} • {{P|[[Tower of Enemies]]|22}} • {{P|[[Waterdeep]]|7,9}}"
-            },
-            "Magic": {
-                "Items": "{{P|''[[brazier of sleep smoke]]''|22}} • {{P|''[[cloak of displacement]]''|8}} • {{P|''[[egg of desire]]''|23}} • {{P|''[[goblet of paralyzation]]''|22}} • {{P|''[[ring of blinking]]''|8}} • {{P|''[[ring of fire resistance]]''|10}} • {{P|''[[ring of protection]]''|8,13,23}} • {{P|''[[ring of warmth]]''|13}} • {{P|''[[wand of earth and stone]]''|8}} • {{P|''[[wand of flame extinguishing]]''|22}} • {{P|''[[wand of petrification]]''|13,22}} • {{P|''[[wings of flying]]''|23}} • {{P|''[[Wormatia]]''|13}}",
-                "Potions": "{{P|''[[Keoghtom's ointment]]''|22}} • {{P|''[[phase potion]]''|7,11,22,24-25}} • {{P|''[[philter of love]]''|14}} • {{P|''[[potion of clairaudience]]''|24}} • {{P|''[[potion of clairvoyance]]''|24}} • {{P|''[[potion of delusion]]''|24}} • {{P|''[[potion of diminution]]''|24}} • {{P|''[[potion of growth]]''|24}} • {{P|''[[potion of heroism]]''|22}} • {{P|''[[potion of poison]]''|24}} • {{P|''[[potion of speed]]''|24}} • {{P|''[[potion of superheroism]]''|22}} • {{P|''[[potion of vitality]]''|24}} • {{P|''[[oil of fire resistance]]''|23}} • {{P|''[[oil of slipperiness]]''|14}}",
-                "Spells": "''[[affect normal fires]]'' • {{P|''[[animate dead]]''|13}} • ''[[anti-magic shell]]'' • {{P|''[[blink]]''|13}} • {{P|''[[cause light wounds]]''|13}} • {{P|''[[charm person]]''|13}} • {{P|''[[clairvoyance]]''|12-13}} • {{P|''[[command]]''|13}} • {{P|''[[continual light]]''|13,23}} • {{P|''[[cure light wounds]]''|13}} • {{P|''[[cure serious wounds]]''|13}} • {{P|''[[dancing lights]]''|12}} • {{P|''[[darkness]]''|12-13}} • {{P|''[[darkness, 15' radius]]''|13}} •  {{P|''[[deeppockets]]''|13}} • {{P|''[[detect evil]]''|8}} • {{P|''[[detect lie]]''|8,12-13}} • {{P|''[[detect magic]]''|8-9,13}} • {{P|''[[dispel magic]]''|8,12-13}} • {{P|''[[entangle]]''|9}} • ''[[ESP]]'' • {{P|''[[Evard's black tentacles]]''|13}} • {{P|''[[faerie fire]]''|9,12-13}} • {{P|''[[find traps]]''|8}} • {{P|''[[firewater]]''|12-13}} • {{P|''[[glyph of warding]]''|8}} • {{P|''[[hold person]]''|8,13}} • {{P|''[[hypnotic pattern]]''|11}} • ''[[ice storm]]'' • {{P|''[[identify]]''|13}} • {{P|''[[invisibility]]''|11,13}} • {{P|''[[know alignment]]''|8,13}} • {{P|''[[levitate]]''|13,24}} • {{P|''[[light]]''|8,24}} • {{P|''[[magic mouth]]''|13-14}} • {{P|''[[meld into stone]]''|8}} • ''[[Melf's acid arrow]]'' • ''[[minor creation]]'' • {{P|''[[mirror image]]''|13}} • {{P|''[[Mount (spell)|mount]]''|13}} • {{P|''[[paralyzation]]''|11}} • ''[[phantasmal force]]'' • {{P|''[[Poison (spell)|poison]]''|13}} • {{P|''[[polymorph other]]''|13}} • {{P|''[[protection from normal missiles]]''|12-13}} • {{P|''[[protection from undead]]''|23}} • {{P|''[[read magic]]''|7,13}} • {{P|''[[resist fire]]''|12-13}} • {{P|''[[sanctuary]]''|9,13}} • {{P|''[[secret page]]''|13}} • {{P|''[[Shield (spell)|shield]]''|12}} • {{P|''[[shocking grasp]]''|13}} • {{P|''[[silence, 15' radius]]''|13}} • {{P|''[[sleep]]''|13}} • {{P|''[[spectral force]]''|13}} • {{P|''[[suggestion]]''|12-13}} • {{P|''[[tongues]]''|8}} • {{P|''[[unseen servant]]''|13}} • ''[[ventriloquism]]'' • ''[[wall of fog]]'' • {{P|''[[wall of force]]''|11}} • {{P|''[[water walk]]''|11-13}} • {{P|''[[withdraw]]''|8,13}} • {{P|''[[wyvern watch]]''|12-13}}\n::{{Refonly}}\n::{{P|''[[fireball]]''|24}} • {{P|''[[fly]]''|24}} • {{P|''[[forget]]''|23}} • {{P|''[[lightning bolt]]''|24}} • {{P|''[[spider climb]]''|24}}"
-            },
-            "Organizations": ":{{P|[[Clan Arzhoun]]|6,8-9,14,18-21,23}} • {{P|[[Cult of the White Bat]]|7,10,16,22-25}}",
-            "Religions": ":{{P|[[Abbathor]]|23}} • {{P|[[Orcus]]|14}}",
-            "Miscellaneous": {
-                "Armor & Clothing": "{{P|[[amulet]]|10}} • {{P|[[boots]]|20}} • {{P|[[buckler]]|7,22}} ({{P|[[spiked shield|spiked]]|7,22}}) • {{P|[[elven chain mail]]|23}} • {{P|[[gauntlet]]|16}} • {{P|[[robe]]|22}} • {{P|[[scale mail]]|7,22}} • {{P|[[studded leather armor]]|22}}",
-                "Creature Abilities": "{{P|[[ultravision]]|10,19}}",
-                "Food & Drinks": "{{P|[[potato]]|7}} • {{P|[[salted fish]]|20}} • {{P|[[soup]]|16}} • {{P|[[wine]]|7}} • {{P|[[yam]]|7}}",
-                "Gemstones": "{{P|[[aquamarine]]|13}} • {{P|[[black opal]]|14}} • {{P|[[ebony]]|13}} • {{P|[[emerald]]|23}} • {{P|[[mica]]|12}} • {{P|[[quartz]]|12}} • {{P|[[tiger eye agate]]|23}}",
-                "Items": "{{P|[[bellows]]|19}} • {{P|[[chamberpot]]|12}} • {{P|[[decanter]]|12-13}} • {{P|[[dice]]|15}} • {{P|[[flask]]|14}} • {{P|[[gear]]|20}} • {{P|[[inkpot]]|18}} • {{P|[[lantern]]|9,14}} • {{P|[[manacles]]|16-17}} • {{P|[[map]]|6,8,18,23,25}} • {{P|[[mirror]]|20,23}} • {{P|[[net]]|19-21}} • {{P|[[oil lamp]]|13}} • {{P|[[penknife]]|18}} • {{P|[[rope]]|7,10}} • {{P|[[scroll]]|25}} • {{P|[[tankard]]|14}} • {{P|[[vial]]|11,23}}",
-                "Languages": "{{P|[[Drow language]]|13}}",
-                "Materials": "{{P|[[basalt]]|22}} • {{P|[[ceramic]]|14}} • {{P|[[coat]]|19}} • {{P|[[copper]]|14}} • {{P|[[flagstone]]|14}} • {{P|[[iron]]|15-16,19,21-23}} • {{P|[[ivory]]|10,14,22-23}} • {{P|[[marret]]|19,23}} • {{P|[[sand]]|21}} • {{P|[[silk]]|18}} • {{P|[[tin]]|14,23}} • {{P|[[velvet]]|13}}",
-                "Substances": "{{P|[[absinthe]]|13}} • {{P|[[laudanum]]|13}} • {{P|[[poison]]|14}}",
-                "Vegetation": "{{P|[[fireweed]]|19-20,22}} • {{P|[[fungi]]|12-14,18-21,23-24}} • {{P|[[herbs]]|14}} • {{P|[[lichen]]|14}} • {{P|[[maple]]|23}} • {{P|[[mold]]|14,24}} • {{P|[[moss]]|14,16,23-24}} • {{P|[[nightshade]]|14}} • {{P|[[oak]]|13}} • {{P|[[Oldarten mushroom]]|24}} • {{P|[[spices]]|14}} • {{P|[[walnut]]|23}} • {{P|[[wolfsbane]]|13}} • {{P|[[yew]]|13}}",
-                "Vessels": "{{P|[[canoe]]|14}} • {{P|[[coracle]]|14}} • {{P|[[gondola]]|14}} • {{P|[[minecart]]|21,24}} • {{P|[[punt]]|14}} • {{P|[[sedan]]|23}}",
-                "Weapons": "{{P|[[club]]|10,15}} ({{P|[[aklys]]|7,10-11,21-22}}) • {{P|[[crossbow]]|7,15,18-19}} • {{P|[[dagger]]|10}} • {{P|[[halberd]]|12}} • {{P|[[fauchard|hook fauchard]]|7,14,16,20}} • {{P|[[short sword]]|15,19}} • {{P|[[sickle]]|12}} • {{P|[[spear]]|7,10,15,19-20,23}} • {{P|[[whip]]|15-16}}\n::{{Refonly}}\n::{{P|[[ale]]|15}} • {{P|[[anise]]|13}} • {{P|[[architecture]]|24}} • {{P|[[constellation]]|19,21}} • {{P|[[engineering]]|8,24}} • {{P|[[mushroom soup]]|20}} • {{P|[[opium]]|13}} • {{P|[[pick]]|8}} • {{P|[[shovel]]|8}} • {{P|[[torch]]|9}} • {{P|[[wormwood]]|13}}"
-            }
-        }
+        "mainbody": "The Ship of Night\" is a short adventure for Dungeons & Dragons 2 edition published in Dungeon #20.\n •  • Birgit • Ericho •  •  •  •  •  •  •  •  •  • Tamara •  •  • \n •  •  •  •  •  •  •  •  • dwarf •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  • \n •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  • \nBodies of Water  • \nBuildings Sign of the Melancholy Dwarf\nForests \nMountains \nRegion  • Underdark\nSettlements  • \n •  •  •  •  •  •  •  •  •  •  • \nItems  •  •  •  •  •  •  •  •  •  •  •  • \nPotions  •  •  •  •  •  •  •  •  •  •  •  •  •  • \nSpells affect normal fires •  • anti-magic shell •  •  •  •  •  •  •  •  •  •  •  •   •  •  •  •  •  • ESP •  •  •  •  •  •  •  • ice storm •  •  •  •  •  •  •  • Melfs acid arrow • minor creation •  •  •  • phantasmal force •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  • ventriloquism • wall of fog •  •  •  • \n •  •  •  • \n • \n • \nArmor & Clothing  •  •  () •  •  •  •  • \nCreature Abilities \nFood & Drinks  •  •  •  • \nGemstones  •  •  •  •  •  • \nItems  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  • \nLanguages \nMaterials  •  •  •  •  •  •  •  •  •  •  • \nSubstances  •  • \nVegetation  •  •  •  •  •  •  •  •  •  •  •  •  • \nVessels  •  •  •  •  • \nWeapons  () •  •  •  •  •  •  •  • \n •  •  •  •  •  •  •  •  •  •"
     }
 }

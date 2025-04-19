@@ -1,47 +1,5 @@
 {
-    "template_data": {
-        "8|12|ft|long": "yes",
-        "2|3|ft|long": "yes",
-        "1000|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Dog Sled",
-        "othernames": "dogsled",
-        "nicknames": "",
-        "type": "Vehicle",
-        "location": "[[Icewind Dale]]<br/>The [[Great Glacier]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "70 [[gp]]",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "",
-        "refs3e": "",
-        "level4e": "",
-        "value4e": "",
-        "weight4e": "",
-        "refs4e": "",
-        "school5e": "",
-        "level5e": "",
-        "value5e": "",
-        "weight5e": "",
-        "refs5e": "",
-        "communication": "",
-        "languages": "",
-        "alignment": "",
-        "mainbody": "A '''dog sled''' was a type of sled used on the [[Great Glacier]] and in [[Icewind Dale]].",
-        "Description": "For swift transportation across the snowy plains of the Great Glacier, the dog sled offered the easiest and most efficient means of travel. This sled featured a sturdy framework crafted from wood or bone, designed to carry goods and supplies. It was equipped with a small wooden platform at one end for a person to stand on, while the other end featured a wooden lattice for attaching the dog team. The sled was fitted with runners made of wood or bone, coated with blubber for smooth gliding. Typical dimensions ranged from {{SIrange|8|12|ft|long=yes}} in length and {{SIrange|2|3|ft|long=yes}} in width. A team of six to ten dogs exhibited remarkable strength, effortlessly pulling loads of up to {{SI|1000|lb|k|long=yes}}.",
-        "Availability": "* [[Frozenfar Expeditions]], an adventuring shop in [[Caer-Konig]], was known to carry dog sleds.<ref>",
-        "Notable Owners": "* On the Great Glacier, dog sleds were commonly used by the [[Ulutiun]]s to get around.\n* In the tundra of Icewind Dale, dog sleds were commonly seen as a way to get between the [[Ten Towns]].<ref> The town of [[Good Mead]] in particular transported its deliveries of [[mead]] by means of dog sleds.<ref>\n* Among the [[reghedmen]] of Icewind Dale, the [[Tribe of the Wolf]] were known to use dog sleds.<ref>\n* The [[Sunblight]] clan of [[duergar]] owned a dog sled, though pulled by an [[ogre zombie]] instead of a dog, which they used in their robberies upon the people of Caer-Konig in [[1489 DR]].<ref>"
+        "mainbody": "dog sled was a type of sled used on the Great Glacier and in Icewind Dale.\nFor swift transportation across the snowy plains of the Great Glacier, the dog sled offered the easiest and most efficient means of travel. This sled featured a sturdy framework crafted from wood or bone, designed to carry goods and supplies. It was equipped with a small wooden platform at one end for a person to stand on, while the other end featured a wooden lattice for attaching the dog team. The sled was fitted with runners made of wood or bone, coated with blubber for smooth gliding. Typical dimensions ranged from  in length and  in width. A team of six to ten dogs exhibited remarkable strength, effortlessly pulling loads of up to .\n* Frozenfar Expeditions, an adventuring shop in Caer-Konig, was known to carry dog sleds.\n* On the Great Glacier, dog sleds were commonly used by the Ulutiuns to get around.\n* In the tundra of Icewind Dale, dog sleds were commonly seen as a way to get between the Ten Towns. The town of Good Mead in particular transported its deliveries of mead by means of dog sleds.\n* Among the reghedmen of Icewind Dale, the Tribe of the Wolf were known to use dog sleds.\n* The Sunblight clan of duergar owned a dog sled, though pulled by an ogre zombie instead of a dog, which they used in their robberies upon the people of Caer-Konig in 1489 DR."
     }
 }

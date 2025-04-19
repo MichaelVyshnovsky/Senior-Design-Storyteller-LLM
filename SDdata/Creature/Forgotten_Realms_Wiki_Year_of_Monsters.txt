@@ -1,67 +1,36 @@
-[[File:Drakes_4e.jpg|thumb]]
-'''2020: The Year of Monsters'''
-
+thumb
+2020 The Year of Monsters
 The scope of the multi-editor project is to add creatures that are canon and missing from the wiki. It will also expand on creature stubs. 
-
-Only creatures with ''Monster Manual''-style listings of monsters  found within the various sourcebooks are to be added to this project.
-
-==Big Lists==
+Only creatures with Monster Manual-style listings of monsters  found within the various sourcebooks are to be added to this project.
 These sourcebooks have many creatures
-* [[Forgotten Realms Wiki:Year of Monsters/1ebigs|1e big lists]]
-* [[Forgotten Realms Wiki:Year of Monsters/2ebigs|2e big lists]]
-* [[Forgotten Realms Wiki:Year of Monsters/3ebigs|3e big lists]]
-* [[Forgotten Realms Wiki:Year of Monsters/4ebigs|4e big lists]]
-* [[Forgotten Realms Wiki:Year of Monsters/5ebigs|5e big lists]]
-* [[Forgotten Realms Wiki:Year of Monsters/DragonMag|Dragon Magazine]]
-* [[Forgotten Realms Wiki:Year of Monsters/stubs|Creature Stubs]]
-* [[Forgotten Realms Wiki:Year of Monsters/clean|Creatures requiring cleanup]]
-* [[Forgotten Realms Wiki:Year of Monsters/images|Creatures requiring images]]
-
-==Short Lists==
-Books with 10 or less creatures, sorted by edition:
-
-* [[Forgotten Realms Wiki:Year of Monsters/1eshorts|1e short lists]]
-* [[Forgotten Realms Wiki:Year of Monsters/2eshorts|2e short lists]]
-* [[Forgotten Realms Wiki:Year of Monsters/3eshorts|3e/3.5e short lists]]
-* [[Forgotten Realms Wiki:Year of Monsters/4eshorts|4e short lists]]
-* [[Forgotten Realms Wiki:Year of Monsters/5eshorts|5e short lists]]
-
-==Project Guidelines==
-;Stubs and such
+* 1e big lists
+* 2e big lists
+* 3e big lists
+* 4e big lists
+* 5e big lists
+* Dragon Magazine
+* Creature Stubs
+* Creatures requiring cleanup
+* Creatures requiring images
+Books with 10 or less creatures, sorted by edition
+* 1e short lists
+* 2e short lists
+* 3e/3.5e short lists
+* 4e short lists
+* 5e short lists
+Stubs and such
 Some creatures are already on the wiki, but are mere stubs, or are lacking an image or stats from an edition.
-
 A creature with a 🔶 next to it is an article that needs some love. 
-
-When finished expanding or fixing the noted task, please add:
-
-<code><nowiki>{{done}} | ~~~</nowiki></code>
-
+When finished expanding or fixing the noted task, please add
+ | ~~~
 next to it.
-
-For example:
-
-🔶 clean up {{done}} | [[User:Regis87|Regis87]] ([[User talk:Regis87|talk]])
-
-;New Creatures
+For example
+🔶 clean up  | Regis87 (talk)
+New Creatures
 To keep track of what got created and by who, please do the same when adding a new monster from the list!
-
-<code><nowiki>{{done}} | ~~~</nowiki></code>
-
+ | ~~~
 next to it.
-
-For example:
-
-*[[Elf]] {{done}} | [[User:Regis87|Regis87]] ([[User talk:Regis87|talk]])
-
+For example
+*Elf  | Regis87 (talk)
 When a new monster is added, it is suggested to add "Year of Monsters" or even just "YoM" as the Edit Summary.
-===Standardized Sections===
-These are the typical section headers for an article about a creature, as discussed in [[Forum:Standardizing article sections|this forum thread]]. You can easily cut and paste it from here and delete the ones you don't use:
-<pre><nowiki>
-==Description==
-==Personality (use for a sentient being)==
-==Behavior (use for creatures with animal intelligence)==
-==Combat==
-==Society (use for sentients)==
-==Ecology (use for animals)==
-==History==
-==Notable <plural creature name> (list, if more than one)==
+These are the typical section headers for an article about a creature, as discussed in this forum thread. You can easily cut and paste it from here and delete the ones you dont use

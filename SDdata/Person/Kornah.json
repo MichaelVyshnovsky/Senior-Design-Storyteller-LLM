@@ -1,28 +1,14 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "edition_1": "3e"
-    },
     "document_data": {
-        "image": "Kornah.JPG",
-        "caption": "Kornah \"the Crazy\"",
-        "name": "Kornah",
-        "title": "the crazy",
-        "home": "[[Zhentil Keep]]",
-        "sex": "Female",
-        "race": "[[Human]]",
-        "alignment2e": "[[Neutral good]]",
-        "class2e": "{{class table|edition=2e|[[Ranger]]|9}}",
         "refs2e": "",
-        "alignment3e": "[[Neutral good]]",
-        "class3e": "{{class table|edition=3e|[[Ranger]]|10}}",
+        "alignment3e": "Neutral good",
+        "class3e": "",
         "refs3e": "",
         "dob": "",
         "death": "",
         "age": "",
-        "source": "[[Mysteries of the Moonsea|MoM]]",
+        "source": "MoM",
         "page": "128",
-        "mainbody": "'''Kornah \"The Crazy\"''' was a member of the [[Harpers]] who posed as a crazed guide of [[Zhentil Keep]]. She had a pet [[crow]] named ''Shalla'' with whom Kornah shared a weak mental-link.",
-        "Home": "Kornah's house, in keeping with her disguise, is a disheveled mess. This is all for appearances, though, as it in actuality serves as a safehouse for any Harpers in the region."
+        "mainbody": "Kornah \"The Crazy\" was a member of the Harpers who posed as a crazed guide of Zhentil Keep. She had a pet crow named Shalla with whom Kornah shared a weak mental-link.\nKornahs house, in keeping with her disguise, is a disheveled mess. This is all for appearances, though, as it in actuality serves as a safehouse for any Harpers in the region."
     }
 }

@@ -1,18 +1,5 @@
 {
     "document_data": {
-        "image": "[[File:Hurricane_lamp-2e.png|250px]]",
-        "caption": "",
-        "name": "Hurricane lamp",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Lamp]]",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "{{Plain table|[[Brass]]|1 [[gp]]|[[Copper]]|4 gp|[[Silver]]|12 gp}}",
         "weight2e": "",
         "refs2e": "",
         "school3e": "",
@@ -35,7 +22,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "A '''hurricane lamp''' was a type of [[lamp]] with a glass chimney to protect the flame against the wind.",
-        "Description": "The hurricane lamp design included a glass cylinder around the flame, which served to protect it from being blown out by wind, be it accidentally from a breeze or some sudden rapid motion from the bearer, or intentionally, even if from a magic effect such as a ''[[gust of wind]]'' spell.\n\nA variety of adorned hurricane lamps with a [[Dwarf|dwarven]]-made mechanism to raise and lower the [[wick]] was available for purchase through ''[[Aurora's Whole Realms Catalogue]]''."
+        "mainbody": "A hurricane lamp was a type of lamp with a glass chimney to protect the flame against the wind.\nThe hurricane lamp design included a glass cylinder around the flame, which served to protect it from being blown out by wind, be it accidentally from a breeze or some sudden rapid motion from the bearer, or intentionally, even if from a magic effect such as a gust of wind spell.\nA variety of adorned hurricane lamps with a dwarven-made mechanism to raise and lower the wick was available for purchase through Auroras Whole Realms Catalogue."
     }
 }

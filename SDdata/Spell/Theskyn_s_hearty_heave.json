@@ -1,22 +1,8 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Theskyn's hearty heave",
-        "deity": "",
-        "inventor": "[[Theskyn]]",
-        "school3e": "[[Evocation]]",
-        "domains3e": "",
-        "descriptors3e": "{{desc/force}}",
-        "level3e": "{{spell table|edition=3e|[[Sorcerer]]|2|[[Wizard]]|2}}",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
-        "mainbody": "'''''Theskyn's hearty heave''''' was an [[evocation]] spell that created a blast of force.",
-        "Effects": "Casting this spell caused a blast of force to project from the caster, pushing away creatures that may have surrounded them.",
-        "History": "This spell was created by [[Theskyn]], a court mage who served the Stag King of [[Athalantar]].",
-        "References": "{{refs}}\n[[Category:Evocation spells]]\n[[Category:Theskyn's spells]]\n[[Category:Sorcerer spells]]\n[[Category:Wizard spells]]\n0io7sfnzjtf5d84onieal1x2jzqqah0"
+        "mainbody": "Theskyns hearty heave was an evocation spell that created a blast of force.\nCasting this spell caused a blast of force to project from the caster, pushing away creatures that may have surrounded them.\nThis spell was created by Theskyn, a court mage who served the Stag King of Athalantar.\nCategoryEvocation spells\nCategoryTheskyns spells\nCategorySorcerer spells\nCategoryWizard spells\n0io7sfnzjtf5d84onieal1x2jzqqah0"
     }
 }

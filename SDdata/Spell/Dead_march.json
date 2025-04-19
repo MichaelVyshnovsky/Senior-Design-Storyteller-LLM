@@ -1,33 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "14|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Dead March",
-        "deity": "[[Kelemvor]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "type3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]<br/>[[Necromancy]]",
-        "spheres2e": "[[Necromantic sphere|Necromantic]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|4|}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -35,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Dead march''''' was a [[divine magic]] spell available to priests of [[Kelemvor]].",
-        "Effects": "When cast, the spell animated multiple corpses or body parts. The amount was determined by the caster's skill level. In a graveyard, corpses as deep as {{SI|14|ft|long=yes}} could be used for the spell. The spell did not grant undeath, nor did the animated corpses posses any sentience or hostile intent.\n\nThe animated corpses or body parts were controlled by the caster's will. The spell continued if the caster began casting another spell. Animated corpses could walk underwater or even right off a cliff, they would continue walking in whatever direction the caster sends them.\n\nSince they were not undead, the animated corpses were immune to any spell that affected or controlled the undead. Nor could they be ''[[Turn undead|turned]]''.\n\nCommon uses for this spell included dressing the animated corpses in uniforms to deceive a foe, or using them as a form of light transport.",
-        "History": "This spell was inscribed within the [[Kelemvor]]ite [[relic]] the ''[[Testament of Vraer]]''.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, this spell required [[material component]]s, a drumstick or a chicken's leg and a length of thread."
+        "mainbody": "Dead march was a divine magic spell available to priests of Kelemvor.\nWhen cast, the spell animated multiple corpses or body parts. The amount was determined by the casters skill level. In a graveyard, corpses as deep as  could be used for the spell. The spell did not grant undeath, nor did the animated corpses posses any sentience or hostile intent.\nThe animated corpses or body parts were controlled by the casters will. The spell continued if the caster began casting another spell. Animated corpses could walk underwater or even right off a cliff, they would continue walking in whatever direction the caster sends them.\nSince they were not undead, the animated corpses were immune to any spell that affected or controlled the undead. Nor could they be turned.\nCommon uses for this spell included dressing the animated corpses in uniforms to deceive a foe, or using them as a form of light transport. \nThis spell was inscribed within the Kelemvorite relic the Testament of Vraer.\nIn addition to verbal and somatic components, this spell required material components, a drumstick or a chickens leg and a length of thread."
     }
 }

@@ -1,21 +1,8 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "edition_1": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Thoyana Jorgadaul",
-        "true name": "",
-        "alt_spelling": "Thoyanna Jorgadaul",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Still Waters]], [[Elmwood]]{{cite web/More Moonsea}}",
         "formerhomes": "",
         "sex": "Female",
-        "race": "[[Shield dwarf|Shield]] [[dwarf]]",
+        "race": "Shield dwarf",
         "occupation": "Constable",
         "age": "",
         "patron deity": "",
@@ -35,11 +22,11 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Neutral good]]",
-        "class2e": "{{class table|edition=2e|[[Fighter]]|8}}",
+        "alignment2e": "Neutral good",
+        "class2e": "",
         "refs2e": "",
-        "alignment3e": "[[Neutral good]]",
-        "class3e": "{{class table|edition=3e|[[Fighter]]|8}}",
+        "alignment3e": "Neutral good",
+        "class3e": "",
         "refs3e": "",
         "alignment35": "",
         "class35": "",
@@ -50,14 +37,6 @@
         "alignment5e": "",
         "class5e": "",
         "refs5e": "",
-        "float": "right",
-        "source": "[[Mendryll Belarod]].",
-        "text": "''With her piercing gray eyes and braided beard, Thoyana cuts quite an intimidating figure.''",
-        "mainbody": "The constable frequented the docks regularly keeping her eyes open and asking questions of all new strangers entering Elmwood. In her free time, she loved pipe-smoking and other recreations, such as [[Chess (game)|chess]]. When not minding the affairs of the town, Thoyana could be found at the [[Still Waters]], a two-story inn.",
-        "Description": "Thoyana was a calm [[dwarf]] woman with a gray braided beard who tolerated no troublemakers in her village.",
-        "Personality": "{{fq\n| float  = right\n| source = [[Mendryll Belarod]].\n| text   = ''With her piercing gray eyes and braided beard, Thoyana cuts quite an intimidating figure.''\n}}\nThe constable frequented the docks regularly keeping her eyes open and asking questions of all new strangers entering Elmwood. In her free time, she loved pipe-smoking and other recreations, such as [[Chess (game)|chess]]. When not minding the affairs of the town, Thoyana could be found at the [[Still Waters]], a two-story inn.",
-        "Possessions": "When she wandered the town, Thoyana wore no armor and carried only a [[club]] and a [[short sword]] tucked in her belt. Hidden in a small chest in her house, Thoyana owned ''[[chainmail|chainmail +4]]'' and ''[[gauntlets of ogre power]]''.",
-        "Relationships": "Elmwood had an informal town council consisting of Thoyana, [[Alamarayne Moonray]], a [[cleric]] of [[Selûne]]; and [[Ezril Treewarder]], a [[druid]] of [[Eldath]]. The three were great friends and met once a week to discuss village business at the Still Waters.",
-        "History": "The constable of Elmwood was an ex-adventurer who retired in [[1343 DR]] when she developed a respiratory disease from a subterranean fungi. She hated mushrooms with a passion and the best way to insult her was to offer her one.\n\nIn [[Tarsakh 16]] of [[1373]] she helped the adventurers led by [[Dorn Graybrook]] and [[Karasendrieth]] scatter the troops from [[Zhentil Keep]] that were occupying Elmwood for its strategic position, under pretext of the [[Rage of Dragons]].{{cite book/The Rage||17-21}}"
+        "mainbody": "Thoyana Jorgadaul was the constable and served as village ruler of the town of Elmwood.\nThoyana was a calm dwarf woman with a gray braided beard who tolerated no troublemakers in her village.\nThe constable frequented the docks regularly keeping her eyes open and asking questions of all new strangers entering Elmwood. In her free time, she loved pipe-smoking and other recreations, such as chess. When not minding the affairs of the town, Thoyana could be found at the Still Waters, a two-story inn.\nWhen she wandered the town, Thoyana wore no armor and carried only a club and a short sword tucked in her belt. Hidden in a small chest in her house, Thoyana owned chainmail +4 and gauntlets of ogre power.\nElmwood had an informal town council consisting of Thoyana, Alamarayne Moonray, a cleric of Selûne and Ezril Treewarder, a druid of Eldath. The three were great friends and met once a week to discuss village business at the Still Waters.\nThe constable of Elmwood was an ex-adventurer who retired in 1343 DR when she developed a respiratory disease from a subterranean fungi. She hated mushrooms with a passion and the best way to insult her was to offer her one.\nIn Tarsakh 16 of 1373 she helped the adventurers led by Dorn Graybrook and Karasendrieth scatter the troops from Zhentil Keep that were occupying Elmwood for its strategic position, under pretext of the Rage of Dragons."
     }
 }

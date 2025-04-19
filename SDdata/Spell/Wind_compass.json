@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Wind compass",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]], [[Wind (school)|Wind]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|1}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Wind compass''''' was a [[spell]] used by wizards in [[Anauroch]] and [[Zakhara]], the Land of Fate. This spell was only usable by [[wizard]]s.",
-        "Effects": "This spell created a small moaning wind in the caster's ear that only he or she could hear. The caster chose a direction and whenever their ear faced that direction they would hear a steady tone. Moving the ear from the selected direction raised or lowered the pitch of the tone. This spell lasted for several hours based on the caster's power.",
-        "Components": "This spell required a bit of earth mixed with spittle to cast."
+        "mainbody": "Wind compass was a spell used by wizards in Anauroch and Zakhara, the Land of Fate. This spell was only usable by wizards.\nThis spell created a small moaning wind in the casters ear that only he or she could hear. The caster chose a direction and whenever their ear faced that direction they would hear a steady tone. Moving the ear from the selected direction raised or lowered the pitch of the tone. This spell lasted for several hours based on the casters power.\nThis spell required a bit of earth mixed with spittle to cast."
     }
 }

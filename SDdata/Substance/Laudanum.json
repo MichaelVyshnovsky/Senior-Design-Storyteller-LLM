@@ -1,17 +1,12 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Laudanum",
-        "aliases": "",
-        "locations": "[[Silverymoon]], [[Savage Frontier]]<br/>[[Angrimm]], [[Underdark]]<br/>[[Domains of Dread]]<ref>{{Cite book| author = William W. Connors, Andria Hayday, Steve Miller, Bruce Nesmith| title = Domains of Dread| short_story = | date = 1997| editor = Miranda Horner| publisher = TSR, Inc.| ISBN = 0-7869-0672-3| pages = 108| chapter = }}",
         "discovered": "",
         "date": "",
         "creators": "",
         "created": "",
         "hisrefs": "",
         "type": "Drug",
-        "components": "Alcohol and [[opium]]",
+        "components": "Alcohol and opium",
         "color": "",
         "properties": "",
         "markings": "",
@@ -20,7 +15,6 @@
         "cost": "",
         "userefs": "",
         "items": "",
-        "mainbody": "'''Laudanum''' was a tincture of alcohol and [[opium]].{{Cite dungeon/20/The Ship of Night|13}}",
-        "Powers": "Laudanum could be used as an anesthetic.{{Cite dragon+/12/The Barber of Silverymoon|4}}"
+        "mainbody": "Laudanum was a tincture of alcohol and opium.\nLaudanum could be used as an anesthetic."
     }
 }

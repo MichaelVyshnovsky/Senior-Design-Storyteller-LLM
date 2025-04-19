@@ -1,28 +1,19 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "edition_1": "2e",
-        "edition_2": "1e"
-    },
     "document_data": {
-        "name": "Atonement",
-        "level3e": "{{spell table|edition=3e|[[Cleric]]|5|[[Druid]]|5|[[Renewal domain|Renewal]]|5|[[Temperance domain|Temperance]]|5}}",
         "descriptors3e": "",
-        "domains3e": "[[Renewal domain|Renewal]], [[Temperance domain|Temperance]]",
-        "school3e": "[[Abjuration]]",
+        "domains3e": "Renewal, Temperance",
+        "school3e": "Abjuration",
         "type3e": "",
-        "refs3e": "{{Cite dragon/355/Seven Saintly Domains|29-30}}",
-        "school2e": "[[Abjuration]]",
-        "spheres2e": "[[All sphere|All]]",
-        "level2e": "{{spell table|edition=2e|[[All sphere|All]]|5|[[Cleric]]|5|[[Crusader]]|5|[[Druid]]|5|[[Monk]]|5|[[Mystic]]|5}}",
+        "refs3e": "",
+        "school2e": "Abjuration",
+        "spheres2e": "All",
+        "level2e": "",
         "type2e": "",
         "refs2e": "",
-        "school1e": "[[Abjuration]]",
-        "level1e": "{{spell table|edition=1e|[[Cleric]]|5|[[Shugenja|Shukenja]]|5}}",
+        "school1e": "Abjuration",
+        "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Atonement''''' was an [[abjuration]] spell that could restore status, alignment, or abilities to a being who suffered a loss due to misdeeds against their deity or alignment.",
-        "Effects": "This spell could be used to alleviate a variety of moral and ethical ailments caused by acts contrary to the ethos of their class, religion, or profession, either good versus evil, law versus chaos, or both. It could also be used to grant an opportunity to shift alignment to that of the caster. Removing the onus of misdeeds required the subject to be truly repentant and have a strong desire to set things right. Often the caster of ''atonement'' would give the subject a task, penance, or ''[[quest]]'' to complete in order to prove the subject's commitment to change. In the most serious cases, a ''[[geas]]'' could be used.\n\nPossible applications for ''atonement'' included:\n* Reversing an [[alignment]] change due to a magical effect.\n* Restoring [[paladin]]hood to a knight that committed an evil act.\n* Regaining the favor of an angry [[deity]] by the intercession of another priest of the same religion.\n* Tempting or offering redemption to a creature to change their alignment to that of the caster.\n\nIf the subject committed the misdeed unwittingly or while under some form of compulsion, then forgiveness was usually without great price (only material goods). But if the subject knowingly and intentionally committed a transgression, then the caster of ''atonement'' had to pay a price of life experience&mdash;all the more reason to use a ''quest'' or ''gaes'' to ensure the subject was truly repentant first. The older versions of this spell did not require such a price from the caster, but also did not absolve a subject from willful misdeeds nor allow a subject to change alignments.\n\nCasting time for the newer version of ''atonement'' was one hour; casting time for the older versions was 10 minutes. If used as an opportunity to change alignment to that of the caster, the subject had to be present for the entire ceremony and then make a choice to either switch alignments or not. Otherwise, the caster only had to touch the creature sometime during the casting of the spell.",
-        "Components": "In addition to verbal and somatic components, the priest required his or her [[holy symbol]] or [[divine focus]] and a set of prayer beads, a prayer wheel, or a book of prayers and catechisms costing at least 500 gp. For the newer version of this spell, the caster lost some life experience when interceding with their deity on behalf of an offender who willfully and deliberately acted contrary to the tenets of their faith."
+        "mainbody": "Atonement was an abjuration spell that could restore status, alignment, or abilities to a being who suffered a loss due to misdeeds against their deity or alignment.\nThis spell could be used to alleviate a variety of moral and ethical ailments caused by acts contrary to the ethos of their class, religion, or profession, either good versus evil, law versus chaos, or both. It could also be used to grant an opportunity to shift alignment to that of the caster. Removing the onus of misdeeds required the subject to be truly repentant and have a strong desire to set things right. Often the caster of atonement would give the subject a task, penance, or quest to complete in order to prove the subjects commitment to change. In the most serious cases, a geas could be used.\nPossible applications for atonement included\n* Reversing an alignment change due to a magical effect.\n* Restoring paladinhood to a knight that committed an evil act.\n* Regaining the favor of an angry deity by the intercession of another priest of the same religion.\n* Tempting or offering redemption to a creature to change their alignment to that of the caster.\nIf the subject committed the misdeed unwittingly or while under some form of compulsion, then forgiveness was usually without great price (only material goods). But if the subject knowingly and intentionally committed a transgression, then the caster of atonement had to pay a price of life experience&mdashall the more reason to use a quest or gaes to ensure the subject was truly repentant first. The older versions of this spell did not require such a price from the caster, but also did not absolve a subject from willful misdeeds nor allow a subject to change alignments.\nCasting time for the newer version of atonement was one hour casting time for the older versions was 10 minutes. If used as an opportunity to change alignment to that of the caster, the subject had to be present for the entire ceremony and then make a choice to either switch alignments or not. Otherwise, the caster only had to touch the creature sometime during the casting of the spell.\nIn addition to verbal and somatic components, the priest required his or her holy symbol or divine focus and a set of prayer beads, a prayer wheel, or a book of prayers and catechisms costing at least 500 gp. For the newer version of this spell, the caster lost some life experience when interceding with their deity on behalf of an offender who willfully and deliberately acted contrary to the tenets of their faith."
     }
 }

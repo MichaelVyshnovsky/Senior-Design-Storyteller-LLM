@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Repair",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Creation sphere|Creation]]",
-        "level2e": "{{class table|edition=2e|[[Cleric]]|5}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Repair''''' was an [[alteration]] [[spell]] that allowed a [[cleric]] to replace a single piece of an existing object with an exact replica of pristine condition.",
-        "Effects": "When cast, this spell affected a single piece of an item or assembly of items. The replacement was just as strong, effective and as durable as the piece was when it was first crafted.\n\nIn order for the spell to be effective, the caster had to have full comprehension of the machinations and functioning of the device.\n\nUpon the spell's completion, a number of outcomes could occur. Either the spell had no effect, the affected piece was completely restored \"good as new\" or it was temporarily repaired. If the latter was the case, the item could break at almost any time but would ultimately fail after 24 hours.",
-        "Components": "In addition to [[verbal]] and [[somatic component]]s, ''repair'' required the use of a single translucent crystallized [[gemstone]] of any value. It was consumed during the casting of the spell.",
-        "Availability": "This spell could be found the in the [[Gond]]ar [[relic]] known as ''[[The Argyr]]''."
+        "mainbody": "Repair was an alteration spell that allowed a cleric to replace a single piece of an existing object with an exact replica of pristine condition.\nWhen cast, this spell affected a single piece of an item or assembly of items. The replacement was just as strong, effective and as durable as the piece was when it was first crafted.\nIn order for the spell to be effective, the caster had to have full comprehension of the machinations and functioning of the device.\nUpon the spells completion, a number of outcomes could occur. Either the spell had no effect, the affected piece was completely restored \"good as new\" or it was temporarily repaired. If the latter was the case, the item could break at almost any time but would ultimately fail after 24 hours.\nIn addition to verbal and somatic components, repair required the use of a single translucent crystallized gemstone of any value. It was consumed during the casting of the spell.\nThis spell could be found the in the Gondar relic known as The Argyr."
     }
 }

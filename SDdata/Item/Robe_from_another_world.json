@@ -1,29 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Robe from another world.png",
-        "caption": "",
-        "name": "''Robe from Another World''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Robe]]",
-        "location": "",
-        "creator": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -40,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The so-called '''''robe from another world''''' was a strange and alien [[enchanted]] [[robe]] found by a planeswalking [[wizard]] [[Vejoni H. Wyzz]].",
-        "Powers": "The ''robe from another world'' was imbued with several sorcerous enchantments. It improved the wearer's defenses and reactions when dealing with natural and supernatural dangers, as well as improved their audible perception. Additionally, the ''robe from another world'' allowed the wearer to store a single spell within its magical fibers. The stored spell could be replaced at will and discharged twice per day.",
-        "History": "Sometime before [[1372 DR]], Vejoni H. Wyzz, a planar-traveling wizard, discovered this magic robe during one of his travels. No other information on the origins of the ''robe from another world'', its plane, or its creator remain unrevealed. In 1372 DR, Vejoni placed his tent on the [[Trade Way]] just outside [[Liam's Hold]]. The tent itself led to the wizard's pocket plane of existence from where, Vejoni H. Wyzz operated his store while he stayed on [[Toril]]. The ''robe from another world'' was available for purchase from the planeswalker."
+        "mainbody": "The so-called robe from another world was a strange and alien enchanted robe found by a planeswalking wizard Vejoni H. Wyzz.\nThe robe from another world was imbued with several sorcerous enchantments. It improved the wearers defenses and reactions when dealing with natural and supernatural dangers, as well as improved their audible perception. Additionally, the robe from another world allowed the wearer to store a single spell within its magical fibers. The stored spell could be replaced at will and discharged twice per day.\nSometime before 1372 DR, Vejoni H. Wyzz, a planar-traveling wizard, discovered this magic robe during one of his travels. No other information on the origins of the robe from another world, its plane, or its creator remain unrevealed. In 1372 DR, Vejoni placed his tent on the Trade Way just outside Liams Hold. The tent itself led to the wizards pocket plane of existence from where, Vejoni H. Wyzz operated his store while he stayed on Toril. The robe from another world was available for purchase from the planeswalker."
     }
 }

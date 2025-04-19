@@ -1,24 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Negative Energy Protection",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Armor quality]]",
-        "creator": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "5{{th}}",
         "itemlevel3e": "+1 equivalent",
         "value3e": "",
         "weight3e": "",
@@ -38,8 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Negative energy protection''''' was a [[armor quality|quality]] that could be applied to [[armor]].",
-        "Powers": "The wearer of ''negative energy protection armor'' was granted the effects of the ''[[negative energy protection]]'' spell once per day for a period of around thirty seconds. This ability triggered the first occasion each day when they were struck by any form of [[negative energy]].",
-        "Creation": "Fittingly, the spell ''negative energy protection'' was used when bestowing this quality upon a suit of armor."
+        "mainbody": "Negative energy protection was a quality that could be applied to armor. \nThe wearer of negative energy protection armor was granted the effects of the negative energy protection spell once per day for a period of around thirty seconds. This ability triggered the first occasion each day when they were struck by any form of negative energy.\nFittingly, the spell negative energy protection was used when bestowing this quality upon a suit of armor."
     }
 }

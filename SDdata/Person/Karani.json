@@ -1,22 +1,11 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Karani.png",
-        "caption": "",
-        "name": "Karani",
-        "sex": "Female{{Cite card/AD&D Trading Cards/1992|85|Karani}}",
-        "race": "[[Halfling]]",
+        "race": "Halfling",
         "ethnicity": "",
         "occupation": "",
-        "alignment2e": "[[Neutral]]",
-        "class2e": "{{class table|edition=2e|[[Cleric]]|5}}",
+        "alignment2e": "Neutral",
+        "class2e": "",
         "refs2e": "",
-        "mainbody": "'''Karani''' was a [[halfling]] [[cleric|priestess]] of [[Zaltec]] in [[Maztica]].",
-        "Description": "She wore a brown [[tunic]] with red and blue details, with matching [[trousers]]. She was barefooted, and had a blue bandana wrapped around her head. Karani had blonde hair and light skin.",
-        "Abilities": "As was appropriate for the priestess of a war god, Karani was fierce in battle.",
-        "Possessions": "Karani owned an [[obsidian]] knife, a magical [[sling]], a very powerful ''[[ring of protection]]'', and two ''[[Quaal's feather token]]s'' (bird and tree).",
-        "Relationships": "She maintained a good friendship with the [[paladin]] [[Taxa]], and the two shared many adventures."
+        "mainbody": "Karani was a halfling priestess of Zaltec in Maztica.\nShe wore a brown tunic with red and blue details, with matching trousers. She was barefooted, and had a blue bandana wrapped around her head. Karani had blonde hair and light skin.\nAs was appropriate for the priestess of a war god, Karani was fierce in battle.\nKarani owned an obsidian knife, a magical sling, a very powerful ring of protection, and two Quaals feather tokens (bird and tree).\nShe maintained a good friendship with the paladin Taxa, and the two shared many adventures."
     }
 }

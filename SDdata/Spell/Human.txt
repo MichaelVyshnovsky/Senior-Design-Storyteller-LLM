@@ -1,29 +1,3 @@
-{{Creature
-| image        = 
-<gallery>
-Human-5e.png|5e
-4e human.jpg|4e
-</gallery>
-| caption2     = Various depictions of humans.
-| name         = Human
-| abbr         = h
-| size5e       = Medium
-| type5e       = [[Humanoid]]
-| subtype5e    = Human
-| alignment5e  = Any
-| challenge5e  = 
-| refs5e       = 
-| size4e       = Medium
-| origin4e     = [[Natural creature|Natural]]
-| type4e       = [[Humanoid]]
-| subtype4e    = 
-| alignment4e  = Any
-| refs4e       = 
-| size3e       = Medium
-| type3e       = [[Humanoid]]
-| subtype3e    = Human
-| alignment3e  = 
-| challenge3e  = {{Frac|1|2}}
 | refs3e       = 
 | size2e       = 
 | alignment2e  = Any
@@ -38,7 +12,7 @@ Human-5e.png|5e
 | diet         = 
 | lifespan     = Less than a century
 | location     = 
-| language     = [[Common]], regional languages
+| language     = Common, regional languages
 | subraces     = 
 | climate      = 
 | terrain      = 
@@ -55,114 +29,76 @@ Human-5e.png|5e
 | build        = 
 | distinctions = 
 | form1        = Female
-| appearance1  = {{Appearance|height={{SIrange|4'7|6'1|ft-in}}|length=|wingspan=|weight={{SIrange|89|245|lb|k}}|skincolor=|haircolor=|hairstyles=|feathers=|eyecolor=|build=|distinctions=}}
+| appearance1  = |length=|wingspan=|weight=|skincolor=|haircolor=|hairstyles=|feathers=|eyecolor=|build=|distinctions=
 | form2        = Male
-| appearance2  = {{Appearance|height={{SIrange|5|6'7|ft-in}}|length=|wingspan=|weight={{SIrange|124|280|lb|k}}|skincolor=|haircolor=|hairstyles=|feathers=|eyecolor=|build=|distinctions=}}
-| appearrefs   = <ref group="note">The appearance of humans in the Realms varied wildly. The values here present a general range. For the full diversity of skin colors, hair colors, eye colors, hairstyles, and builds, see the individual entries for the many human ethnicities presented in the navigation box at the bottom of this article.
+| appearance2  = |length=|wingspan=|weight=|skincolor=|haircolor=|hairstyles=|feathers=|eyecolor=|build=|distinctions=
+| appearrefs   = The appearance of humans in the Realms varied wildly. The values here present a general range. For the full diversity of skin colors, hair colors, eye colors, hairstyles, and builds, see the individual entries for the many human ethnicities presented in the navigation box at the bottom of this article.
 | first        = 
-| based        = [[wikipedia:human|Human]]s
+| based        = Humans
 | histrefs     = 
-}}
-'''Humans''' on [[Toril]] were widespread, could be found in most regions and, in general, were fierce and disagreeable, which could sometimes lead certain other races to view them with contempt. They were renowned for their diversity and ambition, and although they lacked specialization, they could excel in many areas.
-
-{{quote
-|Ah, humans, now. There’re a lot of us, to be sure, flung far across all these lands, and more besides, across the sundering seas. We battle like [[orc]]s and dream like [[elves]] and work harder than all but the [[dwarves]] at their forges—and we cover [[Faerûn]].
-|[[Olram Faravaerr]], Merchant of [[Mintarn]].
-}}
-
-==Etymology==
-===Names for Humans===
-Many races had their own unique terminology by which they referred to humans. [[Elves]] and [[halfling]] were known to call them the ''manyhanded'', in reference to an old elven insult the "Manyhanded Curse," while [[orc]]s referred to them as the ''brittle bones''. [[Brownie]]s, halflings, [[korred]]s, and [[satyr]]s were all known to use the term ''hurbryn'', meaning "heavy-footed." [[Treant]]s referred to humans as ''oroosh'', meaning "never-stopping-talkers." [[Dragon]]s referred to them as ''munthrek'' and in the [[Giant language]] they were known as ''van''.
-
-==Ethnicities==
-[[File:Human ethnicities.jpg|thumb|340px|''A [[Calishite]], [[Tethyrian]], [[Damaran]], [[Mulan]], [[Illuskan]], [[Rashemi]], and [[Chondathan]].''<ref group="note">The caption in the ''[[Player's Guide to Faerûn]]'' is incorrect. Chondathan was switched with Tethyrian and Mulan was switched with Illuskan.]]
-
+Humans on Toril were widespread, could be found in most regions and, in general, were fierce and disagreeable, which could sometimes lead certain other races to view them with contempt. They were renowned for their diversity and ambition, and although they lacked specialization, they could excel in many areas.
+Many races had their own unique terminology by which they referred to humans. Elves and halfling were known to call them the manyhanded, in reference to an old elven insult the "Manyhanded Curse," while orcs referred to them as the brittle bones. Brownies, halflings, korreds, and satyrs were all known to use the term hurbryn, meaning "heavy-footed." Treants referred to humans as oroosh, meaning "never-stopping-talkers." Dragons referred to them as munthrek and in the Giant language they were known as van.
+thumb|340px|A Calishite, Tethyrian, Damaran, Mulan, Illuskan, Rashemi, and Chondathan.The caption in the Players Guide to Faerûn is incorrect. Chondathan was switched with Tethyrian and Mulan was switched with Illuskan.
 There was great ethnic diversity between humans in different regions.
-
-===Faerûn===
-The following were the most prevalent and largest ethnic groups to be found in Faerûn during the last two millennia of the [[Age of Humanity]] continuing into the [[Era of Upheaval]]. They were by far the most common ethnicities found within the [[Heartlands]] of [[Faerûn]].
-
-* [[Calishite]]s: These dark-skinned folk were plentiful in [[Southwest Faerûn]] and were descended from the human slaves of the [[genie]] lords of [[Calimshan]].
-* [[Chondathan]]s: Although these humans spread across the [[Western Heartlands]], their lineage could be traced back to the natives of the [[Vilhon Reach]].
-* [[Damaran]]s: The prideful and headstrong people that settled around the [[Sea of Fallen Stars]] were living remnants of ancient [[Narfell]].
-* [[Illuskan]]s: A proud, fair-skinned sea-faring people who hailed from the [[Sword Coast North]].
-* [[Mulan]]: The humans of [[east Faerûn]] predominantly belonged to this ethnic group, a fact they held with much pride and arrogance.
-* [[Rashemi]]: A hardy and easily adaptable people, descended from the nomadic [[Raumathar]] who eventually settled in [[Aglarond]], [[Rashemen]] and [[Thay]].
-* [[Tethyrian]]s: Perhaps the most tolerant and independent groups of humans in Faerûn, these people were a melting pot of other ethnicities and greatly varied in appearance.
-
-===Kara-Tur===
-* [[Issacortae]], the shamanistic people of the kingdom in wild, western region of the [[Ama Basin]]
-* [[Koryoan]], these proud and exuberant descendants of the Han lived in the [[Koryo Peninsula]] 
-* [[Kozakuran]], islanders of the [[Kozakura]] archipelago{{Cite dragon/Speaking in Tongues|26}}
-* [[Kuong]], citizens of the jungle [[Kuong Kingdom|kingdom]] who spoke their own distinct [[Kuong language|language]]
-* [[Shou]], one of the more influential ethnic groups that were found in the continent of [[Kara-Tur]]
-* [[Wanese]], the ethnic people of the islands of [[Wa]]
-* [[Wu-haltai]], the agrarian people of the eastern Ama Basin
-
-===Maztica===
-The native [[Maztican]]s lived on a [[Maztica|continent]] west of the [[Trackless Sea]].
-* [[Azuposi]], the matrilineal tribes of the [[Pasocada Basin]]
-* [[Green Folk]], the short and dexterous people from the southern jungles
-* [[Metahel]], a tribe of sea-faring humans from central Maztica
-* [[Nahopaca]], hunter-gatherers of the central Pasocado Basin
-* [[Nexalan]]s, a warring people from the [[Valley of Nexal]] in central Maztica
-* [[North Ones]], desert-dwelling savage nomads from the northern wastes of Maztica
-* [[Payit (ethnicity)|Payit]], the proud and industrious tribe from [[Far Payit]]
-
-===Minor ethnic groups===
-
-{{fq
-| text = There was a time when any fool could have told you where the folk of this land or that came from, but now we sail or ride so far and often that we’re all from everywhere. Even the most isolated villages hold folk who hail from they know not where. Yet you can still tell something of where someone hails from by their hair and build and skin and manner, though any traveler knows not to assume too much from a quick glance. Remember that, and hearken:
-| source = Olram Faravaer.
-| float =
-| width = 350px
-}}
-The following are ethnic groups which were either small in number, or who were most commonly found in lands far from Faerûn's heartlands. In their own distinct regions, they might very well be the major local ethnic people.
-
-* [[Abbalayar]], a group of humans who lived within a secluded city on [[Mount Abbalayat]], within the [[Marching Mountains]] of Calimshan.
-* [[Arkaiun]], the stout and dusky-skinned humans of [[Dambrath]] and [[Halruaa]]
-* [[Bavanese|Bavanese and Bertanese]], the island inhabitants of [[Bawa]] and [[Bertan]] in [[Kara-Tur]]
-* [[Bawani]], an ethnic group also native to the island of Bawa
-* [[Bedine]], dark-skinned folk of [[North Faerûn]] who were once nomads of [[Anauroch]]
-* [[Chultan (ethnicity)|Chultans]], tribal folk that lived in the [[Chult|eponymous jungle]]
-* [[Durpari]], the swarthy followers of the [[Adama]] along the coasts of the [[Golden Water]]{{cite book/Races of Faerûn|111}}
-* [[Ffolk]], the darker-skinned seafarers of the southern [[Moonshae Isles]]<ref name=FRCSv1-p64>
-* [[Gur]]s, the nomadic descendants of the Rashemi that lived in the Western Heartlands
-* [[Halruaan (ethnicity)|Halruaans]], decedents of Netheril that settled in the [[Shining South]] 
-* [[Imaskari]], a people whose ancestors hailed from the fabled [[Imaskar|Old Imaskar]]
-* [[Itza]]s, an offshoot of the Payit people who lived in relative peace and serenity
-* [[Lantanna]], the copper-skinned worshipers of [[Gond]]
-* [[Nar (ethnicity)|Nars]], nomadic tribes of traders from the grasslands east of the [[Giantspire Mountains]]
-* [[Netherese]], the pure-blood remnants of the ancient civilization were scattered across Faerûn
-* [[Northlander]]s, the war-ready sea-faring people of the northern [[Moonshae Isles]]
-* [[Nubari]], a tall and brown-skinned shamanistic tribe of the [[Malatran Plateau]]{{Cite living jungle/Living Jungle Campaign: Player Information Guide|3}}{{Cite living jungle/Inhabitants of the Jungle|16}}
-* [[Raumviran]]s, the descendants of the Raumviran Empire settled along the coast of the [[Lake of Mists]]
-* [[Pazruki]], shepherding tribes who hailed from the [[Koryaz Mountains]]
-* [[Purang people|Purang]], Kara-turans native to the land of [[Purang]] in [[Malatra]]
-* [[Shaaran]]s, the darks-skinned nomadic hunters of the [[Shaar]]
-* [[Sossrim]], a silver-haired people who lived in the frozen lands near the [[Great Glacier]]
-* [[Tashalan]]s, people that escaped the bondage of the [[Sarrukh]]
-* [[Tuigan]], the 15 nomadic tribes that wandered the vast [[Hordelands]] between Faerûn and Kara-Tur
-* [[Turami]], the displaced population that settled in the land of [[Turmish]]
-* [[Ulutiun]]s, an ethnic group of tribal Kara-Tur who traveled across the north pole of Toril to the [[Endless Ice Sea]]
-* [[Vaasan]]s, descendants of Netheril that settled around the [[Moonsea]] region
-
-Some ethnic groups were no longer present on Toril:
-* [[Han people|Han]], an ancient people of Kara-Tur that were nearly wiped out by the eruption of the [[Kanko]] volcano 
-* [[Talfir]], a long-past group of people who lived alongside the elves in the Western Heartlands during the times of the [[Crown Wars]]
-* [[Tayanulchi]], this tribe from the Ama Basin disappeared into the [[Land of the Snow Demons]]
-
-Other ethnic groups of humans were referred to by the continent on which they lived:
-
-* [[Zakharan (ethnicity)|Zakharans]]: A shorter, dark-skinned people who rarely left their homelands on the continent of [[Zakhara]].
-
-===Related races===
-While natural subraces of humans were rare, a few did exist with either natural or unnatural origins and were considered as such because of unique biological or magical quirks not common to most humans, such as the [[skulk]],<ref> [[abbalaya]],<ref> and [[elan]]s.<ref> Humans bred outside their race many times, resulting in the various half-human races like [[half-elf|half-elves]] and [[half-orc]]s as well as [[planetouched]] such as [[aasimar]]s, [[genasi]], and [[tiefling]]s.<ref>
-
-==History==
-The origin of humanity was unknown. Although the [[Tel-quessir]] could claim the primal war between [[Corellon]] and [[Gruumsh]] for their heritage and the dwarves claimed to have been forged from the rocks of [[Abeir-Toril]] itself, humans had no unifying creation myth. However, they were certainly an ancient race, having originated since before written records existed and were frequently considered one of the [[creator race]]s, though they weren't known to have actually created any species. More confusing yet was that, while humans indeed were native to Toril, they had been found on other worlds as well, with the [[Mulan]]i standing out as an example of human immigrants to Toril.
-
-[[File:Merrouroboros.jpg|thumb|left|''A map of Merrouroboros c. {{Yearlink|-31500}}, showing the land occupied by humans in the south-west.'']]
-During the [[Days of Thunder]] ({{Yearlink|-35000}} to {{Yearlink|-30000}}) on the supercontinent of [[Merrouroboros]], humans were a primitive race, similar to apes. Tribes of humans largely inhabited the land later known as the continent of [[Katashaka]]. They used simple tools, banged rocks together to make fire, and dwelled in caves. According to [[Bazim-Gorag]], a [[batrachi]] (another of the creator races) they hid in caves in fear—he called them "Meat".
-
+The following were the most prevalent and largest ethnic groups to be found in Faerûn during the last two millennia of the Age of Humanity continuing into the Era of Upheaval. They were by far the most common ethnicities found within the Heartlands of Faerûn.
+* Calishites These dark-skinned folk were plentiful in Southwest Faerûn and were descended from the human slaves of the genie lords of Calimshan.
+* Chondathans Although these humans spread across the Western Heartlands, their lineage could be traced back to the natives of the Vilhon Reach.
+* Damarans The prideful and headstrong people that settled around the Sea of Fallen Stars were living remnants of ancient Narfell.
+* Illuskans A proud, fair-skinned sea-faring people who hailed from the Sword Coast North.
+* Mulan The humans of east Faerûn predominantly belonged to this ethnic group, a fact they held with much pride and arrogance.
+* Rashemi A hardy and easily adaptable people, descended from the nomadic Raumathar who eventually settled in Aglarond, Rashemen and Thay.
+* Tethyrians Perhaps the most tolerant and independent groups of humans in Faerûn, these people were a melting pot of other ethnicities and greatly varied in appearance.
+* Issacortae, the shamanistic people of the kingdom in wild, western region of the Ama Basin
+* Koryoan, these proud and exuberant descendants of the Han lived in the Koryo Peninsula 
+* Kozakuran, islanders of the Kozakura archipelago
+* Kuong, citizens of the jungle kingdom who spoke their own distinct language
+* Shou, one of the more influential ethnic groups that were found in the continent of Kara-Tur
+* Wanese, the ethnic people of the islands of Wa
+* Wu-haltai, the agrarian people of the eastern Ama Basin
+The native Mazticans lived on a continent west of the Trackless Sea.
+* Azuposi, the matrilineal tribes of the Pasocada Basin
+* Green Folk, the short and dexterous people from the southern jungles
+* Metahel, a tribe of sea-faring humans from central Maztica
+* Nahopaca, hunter-gatherers of the central Pasocado Basin
+* Nexalans, a warring people from the Valley of Nexal in central Maztica
+* North Ones, desert-dwelling savage nomads from the northern wastes of Maztica
+* Payit, the proud and industrious tribe from Far Payit
+The following are ethnic groups which were either small in number, or who were most commonly found in lands far from Faerûns heartlands. In their own distinct regions, they might very well be the major local ethnic people.
+* Abbalayar, a group of humans who lived within a secluded city on Mount Abbalayat, within the Marching Mountains of Calimshan.
+* Arkaiun, the stout and dusky-skinned humans of Dambrath and Halruaa
+* Bavanese and Bertanese, the island inhabitants of Bawa and Bertan in Kara-Tur
+* Bawani, an ethnic group also native to the island of Bawa
+* Bedine, dark-skinned folk of North Faerûn who were once nomads of Anauroch
+* Chultans, tribal folk that lived in the eponymous jungle
+* Durpari, the swarthy followers of the Adama along the coasts of the Golden Water
+* Ffolk, the darker-skinned seafarers of the southern Moonshae Isles
+* Gurs, the nomadic descendants of the Rashemi that lived in the Western Heartlands
+* Halruaans, decedents of Netheril that settled in the Shining South 
+* Imaskari, a people whose ancestors hailed from the fabled Old Imaskar
+* Itzas, an offshoot of the Payit people who lived in relative peace and serenity
+* Lantanna, the copper-skinned worshipers of Gond
+* Nars, nomadic tribes of traders from the grasslands east of the Giantspire Mountains
+* Netherese, the pure-blood remnants of the ancient civilization were scattered across Faerûn
+* Northlanders, the war-ready sea-faring people of the northern Moonshae Isles
+* Nubari, a tall and brown-skinned shamanistic tribe of the Malatran Plateau
+* Raumvirans, the descendants of the Raumviran Empire settled along the coast of the Lake of Mists
+* Pazruki, shepherding tribes who hailed from the Koryaz Mountains
+* Purang, Kara-turans native to the land of Purang in Malatra
+* Shaarans, the darks-skinned nomadic hunters of the Shaar
+* Sossrim, a silver-haired people who lived in the frozen lands near the Great Glacier
+* Tashalans, people that escaped the bondage of the Sarrukh
+* Tuigan, the 15 nomadic tribes that wandered the vast Hordelands between Faerûn and Kara-Tur
+* Turami, the displaced population that settled in the land of Turmish
+* Ulutiuns, an ethnic group of tribal Kara-Tur who traveled across the north pole of Toril to the Endless Ice Sea
+* Vaasans, descendants of Netheril that settled around the Moonsea region
+Some ethnic groups were no longer present on Toril
+* Han, an ancient people of Kara-Tur that were nearly wiped out by the eruption of the Kanko volcano 
+* Talfir, a long-past group of people who lived alongside the elves in the Western Heartlands during the times of the Crown Wars
+* Tayanulchi, this tribe from the Ama Basin disappeared into the Land of the Snow Demons
+Other ethnic groups of humans were referred to by the continent on which they lived
+* Zakharans A shorter, dark-skinned people who rarely left their homelands on the continent of Zakhara.
+While natural subraces of humans were rare, a few did exist with either natural or unnatural origins and were considered as such because of unique biological or magical quirks not common to most humans, such as the skulk, abbalaya, and elans. Humans bred outside their race many times, resulting in the various half-human races like half-elves and half-orcs as well as planetouched such as aasimars, genasi, and tieflings.
+The origin of humanity was unknown. Although the Tel-quessir could claim the primal war between Corellon and Gruumsh for their heritage and the dwarves claimed to have been forged from the rocks of Abeir-Toril itself, humans had no unifying creation myth. However, they were certainly an ancient race, having originated since before written records existed and were frequently considered one of the creator races, though they werent known to have actually created any species. More confusing yet was that, while humans indeed were native to Toril, they had been found on other worlds as well, with the Mulani standing out as an example of human immigrants to Toril.
+thumb|left|A map of Merrouroboros c. , showing the land occupied by humans in the south-west.
+During the Days of Thunder ( to ) on the supercontinent of Merrouroboros, humans were a primitive race, similar to apes. Tribes of humans largely inhabited the land later known as the continent of Katashaka. They used simple tools, banged rocks together to make fire, and dwelled in caves. According to Bazim-Gorag, a batrachi (another of the creator races) they hid in caves in fear—he called them "Meat".
 Regardless of their precise origins, humans were undeniably successful. While hardly the only dominant race of Toril, humans were one of them and the most recent to obtain dominance. In spite of this strength, or perhaps because of it, humanity was an eternally fractured and divided race, broken up into over a dozen ethnic offshoots. It was believed that this was in part because humanity, unlike most other races, did not emerge as a whole but rather in several places at once, thereby resulting in its diversity.

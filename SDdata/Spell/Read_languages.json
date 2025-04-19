@@ -1,40 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Read languages.jpg",
-        "caption": "",
-        "name": "'''Read Languages'''",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Divination]]",
-        "spheres2e": "[[Divination sphere|Divination]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|1|[[Savant]]|1}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -42,12 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Read languages''''' was a [[cleric]]al [[spell]] that aided in translation.",
-        "Effects": "Those who cast this spell were capable of reading any language for its duration. However, the spell would not translate the magical scripts used within the [[spellbook]]s and [[scroll]]s of [[wizard]]s. This spell also did not confer the ability to decipher codes.",
-        "Components": "This spell required a [[verbal component]] and a [[material component]] in the form of the cleric's [[holy symbol]] in order to be cast.",
-        "Notable Casters": {
-            "Creatures": "* [[Gynosphinx]]es could typically cast this spell.\n* [[Demon]]s that could typically cast this spell included [[balor]]s, [[marilith]]s, and [[nalfeshnee]]s.",
-            "Individuals": "* [[Archdevil]]s that knew this spell included [[Asmodeus]], [[Jaqon]],{{Cite dragon/91/Nine Hells revisited|21-22}} and [[Moloch]].\n* [[Demon lord]]s that knew this spell included [[Demogorgon]], [[Orcus]], and [[Yeenoghu]].\n* [[Lychor]]"
-        }
+        "mainbody": "Read languages was a clerical spell that aided in translation.\nThose who cast this spell were capable of reading any language for its duration. However, the spell would not translate the magical scripts used within the spellbooks and scrolls of wizards. This spell also did not confer the ability to decipher codes.\nThis spell required a verbal component and a material component in the form of the clerics holy symbol in order to be cast.\n* Gynosphinxes could typically cast this spell.\n* Demons that could typically cast this spell included balors, mariliths, and nalfeshnees.\n* Archdevils that knew this spell included Asmodeus, Jaqon, and Moloch.\n* Demon lords that knew this spell included Demogorgon, Orcus, and Yeenoghu.\n* Lychor"
     }
 }

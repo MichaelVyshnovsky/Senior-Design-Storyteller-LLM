@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Remedy Moderate Wounds",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Conjuration]] (Healing)",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Cleric]]|3|[[Druid]]|2}}",
         "refs3e": "",
         "reversible2e": "",
         "school2e": "",
@@ -42,8 +12,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Remedy moderate wounds''''' was a [[Divine magic|divine]] healing spell employed by [[druid]]s and [[cleric]]s of the Realms.The official Errata cautions DMs to use either the version of this spell presented in ''[[Magic of Faerûn]]'' or else the similar spell ''regenerate moderate wounds'' found in ''[[Masters of the Wild]]''. The latter spell can only heal damage taken during the spell's duration and so cannot heal characters who are already injured. In core material, the spell ''remedy moderate wounds'' was replaced in v.3.5 (''q.v.'' ''[[Spell Compendium]]'') by five similar spells, ''lesser vigor'', ''vigor'', ''mass lesser vigor'', ''greater vigor'', and ''vigorous circle'', all of which match ''remedy moderate wounds'' in general effect but not in the quantity of healing. Since none of these exactly match ''remedy moderate wounds'', this article continues to use the name and details of the spell from the 3{{rd}} edition Forgotten Realms sourcebook.",
-        "Effects": "Upon laying hands on a single living creature, the target began to heal slowly over the next minute at minimum and perhaps longer, if the caster was more powerful. Unlike other healing spells, such as ''[[cure moderate wounds]]'', the healing was gradual and not instantaneous, but it had the extra advantage of being able to work even on someone who had not yet been injured, beginning to heal as soon as any damage was dealt.\n\nThe power of the spell could not quench thirst or hunger or cause lost limbs to [[regenerate]], but it could stabilize a dying individual.",
-        "Components": "The spell required only [[Verbal component|verbal]] and [[somatic component]]s."
+        "mainbody": "Remedy moderate wounds was a divine healing spell employed by druids and clerics of the Realms.The official Errata cautions DMs to use either the version of this spell presented in Magic of Faerûn or else the similar spell regenerate moderate wounds found in Masters of the Wild. The latter spell can only heal damage taken during the spells duration and so cannot heal characters who are already injured. In core material, the spell remedy moderate wounds was replaced in v.3.5 (q.v. Spell Compendium) by five similar spells, lesser vigor, vigor, mass lesser vigor, greater vigor, and vigorous circle, all of which match remedy moderate wounds in general effect but not in the quantity of healing. Since none of these exactly match remedy moderate wounds, this article continues to use the name and details of the spell from the 3 edition Forgotten Realms sourcebook.\nUpon laying hands on a single living creature, the target began to heal slowly over the next minute at minimum and perhaps longer, if the caster was more powerful. Unlike other healing spells, such as cure moderate wounds, the healing was gradual and not instantaneous, but it had the extra advantage of being able to work even on someone who had not yet been injured, beginning to heal as soon as any damage was dealt.\nThe power of the spell could not quench thirst or hunger or cause lost limbs to regenerate, but it could stabilize a dying individual.\nThe spell required only verbal and somatic components."
     }
 }

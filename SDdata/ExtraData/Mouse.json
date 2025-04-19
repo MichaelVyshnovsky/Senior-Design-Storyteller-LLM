@@ -1,29 +1,13 @@
 {
-    "template_data": {
-        "adventures": "''[[Test of the Samurai]]''"
-    },
     "document_data": {
-        "adventures": "''[[Test of the Samurai]]''",
-        "adventure refs": "''[[The Shattered Statue]]'';{{Duapp|53|Steelheart}};''[[Waterdeep: Dungeon of the Mad Mage]]'';{{Anthapp|Candlekeep Mysteries|A Deep and Creeping Darkness}}",
-        "novels": "''[[Sojourn]]'';''[[Murder in Cormyr]]'';''[[The Council of Blades]]'';''[[Elminster in Hell]]'';''[[The Crimson Gold]]'';''[[Swords of Eveningstar]]'';''[[Honor Among Thieves: The Junior Novelization]]''",
-        "novel refs": "''[[Azure Bonds]]'';''[[Into the Void]]'';[[Prince of Lies (novel)|''Prince of Lies'']];''[[Soldiers of Ice]]'';''[[The Ogre's Pact]]'';''[[Daughter of the Drow]]'';''[[Sword Play]]'';''[[Dangerous Games]]'';''[[Mortal Consequences]]'';''[[The Abduction]]'';''[[The Nether Scroll]]'';''[[The Ruin]]'';''[[Sentinelspire (novel)|Sentinelspire]]'';''[[City of Torment]]'';''[[The Adversary]]''",
-        "films": "''[[Honor Among Thieves]]''",
-        "video games": "''[[Idle Champions of the Forgotten Realms]]''",
-        "video game refs": "''[[Neverwinter Nights: Darkness over Daggerford]]'';''[[Baldur's Gate III]]''",
-        "board games": "''[[Dungeons & Dragons Adventure Begins]]''",
-        "organized play": "''[[The Lady in Flames]]'';''[[A Thousand Tiny Deaths]]''",
-        "organized play refs": "''[[The Black Road]]''",
-        "mainbody": "===External links===\n* {{Wikipedia external link}}\n===References===\n{{refs}}\n[[Category:Rodents]]\n[[Category:Animals]]\n[[Category:Creatures]]\n[[Category:Food and drink from Luskan]]\n[[Category:Food and drink from the Sword Coast North]]\n[[Category:Food and drink from the Sword Coast]]\n[[Category:Food and drink from Northwest Faerûn]]\n[[Category:Food and drink from Faerûn]]\n[[Category:Food and drink from Toril]]\n[[Category:Food and drink]]\ngavk0lsbsjldj2sojrqqvy08kchwd6x",
-        "Species": "* '''Badger mice:''' A species of mouse found in the [[Duskwood]]. Their name was derived from the fact that they were similar in size to small [[badger]]s. During the springtime in this forest there tended to be an abundance of ash wheat, which caused an increase in the badger mice population that was controlled by [[puff adder]]s.",
-        "Ecology": {
-            "Habitats": "Mice were quite common throughout [[the North]] and its [[Savage Frontier]]. In the [[Unapproachable East]], mice were common across the central plains of [[Rashemen]]. In [[west Faerûn]], mice could be found in the [[Forest of Mir]],<ref name=EotSS-pp81> the warmer areas of [[Calimshan]], as well as throughout both the [[Eastern Heartlands|Eastern]] and [[Western Heartlands]]. In [[southwest Faerûn]], they could be found in [[Tashalar]].\n\nBeyond [[Faerûn]], mice were quite abundant on the island of [[Evermeet]], where they were hunted by [[gold elves]]. They could also be found in the [[Hordelands]] in the [[Katakoro Plateau]].\n\nBeyond [[Toril]], mice could be found on the planets [[Chandos]] and [[Garden]]."
-        },
-        "Trivia": "[[Ilmater]], the deity of suffering and martyrdom, could cause the appearance of field mice to indicate his favor or encourage his faithful.{{Cite web enhancement/Deity Do's and Don'ts}}",
-        "Appendix": {
-            "Gallery": "<gallery>\nDungeon Magic Items.jpg|''An adventurer finds a mouse in a [[pouch]].''\n</gallery>",
-            "Appearances": "{{Appearances\n|adventures = ''[[Test of the Samurai]]''\n|adventure refs = ''[[The Shattered Statue]]'';{{Duapp|53|Steelheart}};''[[Waterdeep: Dungeon of the Mad Mage]]'';{{Anthapp|Candlekeep Mysteries|A Deep and Creeping Darkness}}\n|novels = ''[[Sojourn]]'';''[[Murder in Cormyr]]'';''[[The Council of Blades]]'';''[[Elminster in Hell]]'';''[[The Crimson Gold]]'';''[[Swords of Eveningstar]]'';''[[Honor Among Thieves: The Junior Novelization]]''\n|novel refs = ''[[Azure Bonds]]'';''[[Into the Void]]'';[[Prince of Lies (novel)|''Prince of Lies'']];''[[Soldiers of Ice]]'';''[[The Ogre's Pact]]'';''[[Daughter of the Drow]]'';''[[Sword Play]]'';''[[Dangerous Games]]'';''[[Mortal Consequences]]'';''[[The Abduction]]'';''[[The Nether Scroll]]'';''[[The Ruin]]'';''[[Sentinelspire (novel)|Sentinelspire]]'';''[[City of Torment]]'';''[[The Adversary]]''\n|films = ''[[Honor Among Thieves]]''\n|video games = ''[[Idle Champions of the Forgotten Realms]]''\n|video game refs = ''[[Neverwinter Nights: Darkness over Daggerford]]'';''[[Baldur's Gate III]]''\n|board games = ''[[Dungeons & Dragons Adventure Begins]]''\n|organized play = ''[[The Lady in Flames]]'';''[[A Thousand Tiny Deaths]]''\n|organized play refs = ''[[The Black Road]]''\n}}",
-            "External links": "* {{Wikipedia external link}}",
-            "References": "{{refs}}\n[[Category:Rodents]]\n[[Category:Animals]]\n[[Category:Creatures]]\n[[Category:Food and drink from Luskan]]\n[[Category:Food and drink from the Sword Coast North]]\n[[Category:Food and drink from the Sword Coast]]\n[[Category:Food and drink from Northwest Faerûn]]\n[[Category:Food and drink from Faerûn]]\n[[Category:Food and drink from Toril]]\n[[Category:Food and drink]]\ngavk0lsbsjldj2sojrqqvy08kchwd6x"
-        }
+        "novels": "SojournMurder in CormyrThe Council of BladesElminster in HellThe Crimson GoldSwords of EveningstarHonor Among Thieves The Junior Novelization",
+        "novel refs": "Azure BondsInto the VoidPrince of LiesSoldiers of IceThe Ogres PactDaughter of the DrowSword PlayDangerous GamesMortal ConsequencesThe AbductionThe Nether ScrollThe RuinSentinelspireCity of TormentThe Adversary",
+        "films": "Honor Among Thieves",
+        "video games": "Idle Champions of the Forgotten Realms",
+        "video game refs": "Neverwinter Nights Darkness over DaggerfordBaldurs Gate III",
+        "board games": "Dungeons & Dragons Adventure Begins",
+        "organized play": "The Lady in FlamesA Thousand Tiny Deaths",
+        "organized play refs": "The Black Road",
+        "mainbody": "* \nCategoryRodents\nCategoryAnimals\nCategoryCreatures\nCategoryFood and drink from Luskan\nCategoryFood and drink from the Sword Coast North\nCategoryFood and drink from the Sword Coast\nCategoryFood and drink from Northwest Faerûn\nCategoryFood and drink from Faerûn\nCategoryFood and drink from Toril\nCategoryFood and drink\ngavk0lsbsjldj2sojrqqvy08kchwd6x"
     }
 }

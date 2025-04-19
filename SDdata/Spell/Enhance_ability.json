@@ -1,25 +1,5 @@
 {
-    "template_data": {
-        "edition": "5e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Enhance Ability",
-        "othernames": "",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Transmutation]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "{{spell table|edition=5e|[[Artificer]]|2|[[Bard]]|2|[[Cleric]]|2|[[Druid]]|2|[[Sorcerer]]|2|}}",
         "type5e": "",
         "refs5e": "",
         "feature4e": "",
@@ -45,8 +25,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Enhance ability''''' was a [[transmutation]] [[spell]] that would enhance a target's abilities for up to a hour with effects generalized from the six famous improvement spells used by [[Adventurer|adventurers]].",
-        "Effects": "The caster would pick an effect that would grant improvements to the target in a predetermined way:\n* [[Bear's endurance|Bear's Endurance]]: The target was granted improved constitution and health.\n* [[Bull's strength|Bull's Strength]]: The target gained an improvement to its strength and also was able to carry twice as much as before.\n* [[Cat's grace|Cat's Grace]]: The target gained an improvement to its dexterity and could fall from a height of 20 feet without getting hurt.\n* [[Eagle's splendor|Eagle's Splendor]]: The target would gain an increased advantage from its charisma.\n* [[Fox's cunning|Fox's Cunning]]: The target gained advantages to attempts that used its intelligence.\n* [[Owl's wisdom|Owl's Wisdom]]: The target would gain benefits to using wisdom.\n\nFor every spell level higher then the normal spell level used, another target could gain a benefit of this spell.",
-        "Components": "[[Verbal component|Verbal]] and [[somatic component|somatic]] components were needed, as well as a feather or fur from a beast as a [[material component]]."
+        "mainbody": "Enhance ability was a transmutation spell that would enhance a targets abilities for up to a hour with effects generalized from the six famous improvement spells used by adventurers.\nThe caster would pick an effect that would grant improvements to the target in a predetermined way\n* Bears Endurance The target was granted improved constitution and health.\n* Bulls Strength The target gained an improvement to its strength and also was able to carry twice as much as before.\n* Cats Grace The target gained an improvement to its dexterity and could fall from a height of 20 feet without getting hurt.\n* Eagles Splendor The target would gain an increased advantage from its charisma.\n* Foxs Cunning The target gained advantages to attempts that used its intelligence.\n* Owls Wisdom The target would gain benefits to using wisdom.\nFor every spell level higher then the normal spell level used, another target could gain a benefit of this spell.\nVerbal and somatic components were needed, as well as a feather or fur from a beast as a material component."
     }
 }

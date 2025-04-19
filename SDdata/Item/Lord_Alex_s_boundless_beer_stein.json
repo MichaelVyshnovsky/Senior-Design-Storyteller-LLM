@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "0.5|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Lord Alex's boundless beer stein.png",
-        "caption": "",
-        "name": "''Lord Alex's Boundless Beer Stein''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Wondrous item",
-        "location": "[[Gillian's Hill]], [[Sword Coast]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|0.5|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Lord Alex's boundless beer stein''''' was the [[enchanted]] never-ending [[ale]] stein that belonged to [[Lord Alex]].",
-        "Powers": "''Lord Alex's boundless beer stein'' was just that. An ale mug that, once emptied, magically refilled itself with thick dark and frothy [[stout]].",
-        "History": "[[Wizard]] [[Cathexis]] created this eternally refilling beer stein as a gift for his good friend, [[Lord Alex]], a well-known loudmouthed bar-hopping adventurer. By [[1372 DR]], ''Lord Alex's boundless beer stein'' could be found in one of the piles of \"antiques\" within the [[Torleth's Treasures]] store of [[Gillian's Hill]]. The metal mug appeared mundane, and its magic remained unidentified, mixed with other junk, sold for a mere one hundred [[gold]] pieces."
+        "mainbody": "Lord Alexs boundless beer stein was the enchanted never-ending ale stein that belonged to Lord Alex.\nLord Alexs boundless beer stein was just that. An ale mug that, once emptied, magically refilled itself with thick dark and frothy stout.\nWizard Cathexis created this eternally refilling beer stein as a gift for his good friend, Lord Alex, a well-known loudmouthed bar-hopping adventurer. By 1372 DR, Lord Alexs boundless beer stein could be found in one of the piles of \"antiques\" within the Torleths Treasures store of Gillians Hill. The metal mug appeared mundane, and its magic remained unidentified, mixed with other junk, sold for a mere one hundred gold pieces."
     }
 }

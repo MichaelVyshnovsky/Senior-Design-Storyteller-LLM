@@ -1,24 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Clasp of bron's cloak.png",
-        "caption": "",
-        "name": "''Clasp of Bron's Cloak''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Amulet]]",
-        "creator": "",
-        "location": "[[Kuldahar]], [[Spine of the World]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "3,500 [[gp]]",
-        "weight2e": "{{SI|1|lb|k|long=yes}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -41,9 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The '''''clasp of Bron's cloak''''' was an [[enchanted]] [[amulet]] imbued with defensive magics from the [[Spine of the World]].",
-        "Description": "This little talisman was once a clasp of a [[cloak]] but later repurposed to be worn as an [[amulet]].",
-        "Powers": "The ''clasp of Bron's cloak'' possessed enchantments that increased the wearer's resistance to slashing, piercing, and various ranged weapons.",
-        "History": "This enchanted clasp once belonged to a famously tough [[fighter]], [[Bron Balhon]]. Many thought that its enchantments kept the seemingly unkillable warrior alive through many violent incidents. He reportedly was thought dead over ten times and always returned to everyone's surprise. One such occasion was when Bron was pierced by [[crossbow]] [[bolt]]s and tossed into the ocean, only to return one month later to a tavern hundreds of miles away from the place of his \"death\". Historians doubted all the stories about Bron Balhon and believed he met his eventual death fighting [[polar worm]]s on the Spine of the World.\n\nSome time later, by [[1281 DR]], the ''clasp of Bron's cloak'' ended up in the possession of [[Orrick|Orrick the Gray]], who researched magical ''[[mythal]]s'' in his tower just on the edge of [[Kuldahar]] on the Spine of the World."
+        "mainbody": "The clasp of Brons cloak was an enchanted amulet imbued with defensive magics from the Spine of the World.\nThis little talisman was once a clasp of a cloak but later repurposed to be worn as an amulet.\nThe clasp of Brons cloak possessed enchantments that increased the wearers resistance to slashing, piercing, and various ranged weapons.\nThis enchanted clasp once belonged to a famously tough fighter, Bron Balhon. Many thought that its enchantments kept the seemingly unkillable warrior alive through many violent incidents. He reportedly was thought dead over ten times and always returned to everyones surprise. One such occasion was when Bron was pierced by crossbow bolts and tossed into the ocean, only to return one month later to a tavern hundreds of miles away from the place of his \"death\". Historians doubted all the stories about Bron Balhon and believed he met his eventual death fighting polar worms on the Spine of the World.\nSome time later, by 1281 DR, the clasp of Brons cloak ended up in the possession of Orrick the Gray, who researched magical mythals in his tower just on the edge of Kuldahar on the Spine of the World."
     }
 }

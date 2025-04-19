@@ -1,27 +1,5 @@
 {
-    "template_data": {
-        "15|feet|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''The Facade''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Artifact]]",
-        "creator": "[[Cabal of Madness]]",
-        "location": "[[Imaskar]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "18{{th}}",
         "itemlevel3e": "",
         "value3e": "",
         "weight3e": "",
@@ -41,9 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''The Facade''''' was an [[artifact]] created during the ancient [[Imaskar Empire]]. One of the ''[[Faces of Madness]]'', it was once thought to be one of the ''[[Imaskarcana]]''.In its initial appearance, it was an ''Imaskarcana'', but one of its sister artifacts amongst the ''Faces of Madness'' is referred to as a ''False Imaskarcana'' in ''The Grand History of the Realms'', thus retconning it as no longer an ''Imaskarcana'', since the official ''Imaskarcana'' predate them.",
-        "History": "An alliance of Imaskari archwizards known as the [[Cabal of Madness]] created a number of masks known as the ''Faces of Madness'', each themed around a [[school of magic]], over a period decades after striking a bargain with horrors from beyond their world. ''The Facade'' was one of these masks. Each of these major artifacts were created with a curse that only the creator knew how to avoid. Before they were able to implement their plans, however, the [[Mulan]] rebelled with the aid of their [[god]]s, ultimately destroying Imaskar as a nation. In the resulting tumult, the masks were scattered.",
-        "Appearance": "''The Facade'' was a bizarre face wrapping made of [[chain]]s, hiding all but the wearer's eyes.",
-        "Powers": "Dedicated to the school of [[enchantment]], ''The Facade'' granted a continuous, overwhelming resistance to enchantment spells, and empowered the caster's own enchantments to defeat innate resistances against all spells. It also cast a powerful charm on anyone within {{SI|15|feet|long=yes}} of the wearer, making them react more favorably if their willpower wasn't sufficient to overcome it. Finally, they got the ability to cast, five times a day, their choice of ''[[suggestion]]'', ''[[emotion]]'', ''[[Tasha's hideous laughter]]'', ''[[mass charm]]'', ''[[dominate monster]]'', and ''[[sleep]]''.{{Cite dragon/281/Bazaar of the Bizarre: Imaskarcana: Faces of Magic}}\n\nHowever, every time the mask was put on, the wearer was assaulted with feelings of paranoia and worthlessness. This could permanently drain their force of personality, if their willpower wasn't enough to overcome this curse; a ''[[remove curse]]'' or ''[[break enchantment]]'' used in a timely manner could prevent permanent damage."
+        "mainbody": "The Facade was an artifact created during the ancient Imaskar Empire. One of the Faces of Madness, it was once thought to be one of the Imaskarcana.In its initial appearance, it was an Imaskarcana, but one of its sister artifacts amongst the Faces of Madness is referred to as a False Imaskarcana in The Grand History of the Realms, thus retconning it as no longer an Imaskarcana, since the official Imaskarcana predate them.\nAn alliance of Imaskari archwizards known as the Cabal of Madness created a number of masks known as the Faces of Madness, each themed around a school of magic, over a period decades after striking a bargain with horrors from beyond their world. The Facade was one of these masks. Each of these major artifacts were created with a curse that only the creator knew how to avoid. Before they were able to implement their plans, however, the Mulan rebelled with the aid of their gods, ultimately destroying Imaskar as a nation. In the resulting tumult, the masks were scattered.\nThe Facade was a bizarre face wrapping made of chains, hiding all but the wearers eyes.\nDedicated to the school of enchantment, The Facade granted a continuous, overwhelming resistance to enchantment spells, and empowered the casters own enchantments to defeat innate resistances against all spells. It also cast a powerful charm on anyone within  of the wearer, making them react more favorably if their willpower wasnt sufficient to overcome it. Finally, they got the ability to cast, five times a day, their choice of suggestion, emotion, Tashas hideous laughter, mass charm, dominate monster, and sleep.\nHowever, every time the mask was put on, the wearer was assaulted with feelings of paranoia and worthlessness. This could permanently drain their force of personality, if their willpower wasnt enough to overcome this curse a remove curse or break enchantment used in a timely manner could prevent permanent damage."
     }
 }

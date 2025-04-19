@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "75|mi|k|long": "yes"
-    },
     "document_data": {
-        "image": "Sarifal.jpg",
-        "caption": "A map showing the Highlands on Gwynneth.",
-        "name": "the Highlands",
-        "aliases": "",
-        "type": "Mountain",
-        "region": "[[Gwynneth]], the [[Moonshae Isles]]",
-        "elevation": "",
-        "georefs": "",
-        "races": "",
-        "socrefs": "",
-        "usethe": "",
-        "useon": "yes",
-        "inhabitants": "",
-        "locations": "yes",
-        "organizations": "",
-        "settlements": "",
-        "roads": "",
-        "mountains": "yes",
-        "events": "",
-        "food and drink": "",
-        "items": "",
-        "mainbody": "'''The Highlands''' were a mountain range located on the island of [[Gwynneth]] within the [[Moonshae Isles]].{{Cite interactive atlas}}{{Cite dungeon/196/Backdrop: The Moonshae Isles}}",
-        "Geography": "The Highlands were a prominent feature in central Gwynneth, stretching for over {{SI|75|mi|k|long=yes}} and forming most of the southern border of [[Myrloch Vale]]. The Highlands were separated from [[Aspenheight]] in the west by the [[Aspenheight Gap]], but the Highlands ran into the [[Cambro Mountains]] in the east at [[Synnoria]]."
+        "mainbody": "he Highlands were a mountain range located on the island of Gwynneth within the Moonshae Isles.\nThe Highlands were a prominent feature in central Gwynneth, stretching for over  and forming most of the southern border of Myrloch Vale. The Highlands were separated from Aspenheight in the west by the Aspenheight Gap, but the Highlands ran into the Cambro Mountains in the east at Synnoria."
     }
 }

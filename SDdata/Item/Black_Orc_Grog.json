@@ -1,32 +1,5 @@
 {
-    "template_data": {
-        "0.1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Black Orc Grog.png",
-        "caption": "",
-        "name": "Black Orc Grog",
-        "nicknames": "",
-        "type": "Alcoholic drink",
-        "location": "[[Delimbiyr Vale]]",
-        "school": "",
-        "level": "",
-        "value": "",
-        "weight": "",
-        "rules": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|0.1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -40,8 +13,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''Black Orc Grog''' was a strong intoxicating brew distilled by some [[orc]]ish tribes of the [[Delimbiyr Vale]].",
-        "Description": "This dark, almost pitch-black beer was aggressively bitter and unpalatable to most non-orcs. Its sinister appearance and bitter taste made most folk think that Black Orc Grog was, indeed, an evil brew.",
-        "History": "Black Orc Grog was concocted by orcs who were enrolled in an army of the [[Gorgomorz]]–[[Daggerford]]'s [[devil]] adversary. In the {{YearlinkName|1372}}, Gorgomorz's army was hidden in caverns not far from the [[Wild Pastures]] to the west of the hamlet of [[Liam's Hold]]."
+        "mainbody": "Black Orc Grog was a strong intoxicating brew distilled by some orcish tribes of the Delimbiyr Vale.\nThis dark, almost pitch-black beer was aggressively bitter and unpalatable to most non-orcs. Its sinister appearance and bitter taste made most folk think that Black Orc Grog was, indeed, an evil brew.\nBlack Orc Grog was concocted by orcs who were enrolled in an army of the Gorgomorz–Daggerfords devil adversary. In the , Gorgomorzs army was hidden in caverns not far from the Wild Pastures to the west of the hamlet of Liams Hold."
     }
 }

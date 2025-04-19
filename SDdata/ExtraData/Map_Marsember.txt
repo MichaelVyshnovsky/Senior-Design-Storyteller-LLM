@@ -1,28 +1,24 @@
 2900
 137406
-
 956534
 956491
-2024-08-16T12:20:22Z
-
+2024-08-16T122022Z
 Artyom.pavlov
 24367202
-
 956534
 interactivemap
 text/plain
-{
-    "mapImage": "Marsember-Background3",
-    "pageCategories": [
+    "mapImage" "Marsember-Background3",
+    "pageCategories" [
         "Interactive_maps",
         "Maps_of_cities",
         "Maps_of_Marsember"
     ],
-    "defaultSort": "",
-    "mapImageChangedAt": "2022-06-03 00:20:23",
-    "description": "",
-    "coordinateOrder": "xy",
-    "mapBounds": [
+    "defaultSort" "",
+    "mapImageChangedAt" "2022-06-03 002023",
+    "description" "",
+    "coordinateOrder" "xy",
+    "mapBounds" [
         [
             0,
             0
@@ -32,1698 +28,1487 @@ text/plain
             2108
         ]
     ],
-    "origin": "bottom-left",
-    "useMarkerClustering": false,
-    "categories": [
-        {
-            "id": "1",
-            "listId": 1,
-            "name": "Castles & Noble Houses",
-            "color": "#ff00f9",
-            "symbol": "",
-            "symbolColor": "",
-            "icon": "File:Purple dragons icon.svg"
-        },
-        {
-            "id": "4",
-            "listId": 2,
-            "name": "Inns & Taverns",
-            "color": "#fa5d00",
-            "symbol": "",
-            "symbolColor": "",
-            "icon": "File:Tankard icon.svg"
-        },
-        {
-            "id": "6",
-            "listId": 3,
-            "name": "Shops & Merchants",
-            "color": "#007903",
-            "symbol": "",
-            "symbolColor": "",
-            "icon": "File:Tymora coin icon.svg"
-        },
-        {
-            "id": "2",
-            "listId": 4,
-            "name": "Temples & Shrines",
-            "color": "#fac600",
-            "symbol": "",
-            "symbolColor": "",
-            "icon": "File:Lathander temple icon.svg"
-        },
-        {
-            "id": "5",
-            "listId": 5,
-            "name": "Points of Interest",
-            "color": "#021ebb",
-            "symbol": "",
-            "symbolColor": "",
-            "icon": "File:Elminter's choice icon.svg"
-        },
-        {
-            "id": "8",
-            "listId": 6,
-            "name": "Roads",
-            "color": "#2e2703",
-            "symbol": "",
-            "symbolColor": "",
-            "icon": "File:Mountain road icon.svg"
-        },
-        {
-            "id": "7",
-            "listId": 7,
-            "name": "Islands",
-            "color": "#050065",
-            "symbol": "",
-            "symbolColor": "",
-            "icon": "File:Islands icon.svg"
-        },
-        {
-            "id": "3",
-            "listId": 8,
-            "name": "Bodies of Water",
-            "color": "#00e8fa",
-            "symbol": "",
-            "symbolColor": "",
-            "icon": "File:Bodies of water icon.svg"
-        },
-        {
-            "id": "9",
-            "listId": 9,
-            "name": " Docks & Wharves",
-            "color": "#fa005a",
-            "symbol": "",
-            "symbolColor": "",
-            "icon": "File:Ship icon.svg"
-        }
+    "origin" "bottom-left",
+    "useMarkerClustering" false,
+    "categories" [
+            "id" "1",
+            "listId" 1,
+            "name" "Castles & Noble Houses",
+            "color" "#ff00f9",
+            "symbol" "",
+            "symbolColor" "",
+            "icon" "FilePurple dragons icon.svg"
+        ,
+            "id" "4",
+            "listId" 2,
+            "name" "Inns & Taverns",
+            "color" "#fa5d00",
+            "symbol" "",
+            "symbolColor" "",
+            "icon" "FileTankard icon.svg"
+        ,
+            "id" "6",
+            "listId" 3,
+            "name" "Shops & Merchants",
+            "color" "#007903",
+            "symbol" "",
+            "symbolColor" "",
+            "icon" "FileTymora coin icon.svg"
+        ,
+            "id" "2",
+            "listId" 4,
+            "name" "Temples & Shrines",
+            "color" "#fac600",
+            "symbol" "",
+            "symbolColor" "",
+            "icon" "FileLathander temple icon.svg"
+        ,
+            "id" "5",
+            "listId" 5,
+            "name" "Points of Interest",
+            "color" "#021ebb",
+            "symbol" "",
+            "symbolColor" "",
+            "icon" "FileElminters choice icon.svg"
+        ,
+            "id" "8",
+            "listId" 6,
+            "name" "Roads",
+            "color" "#2e2703",
+            "symbol" "",
+            "symbolColor" "",
+            "icon" "FileMountain road icon.svg"
+        ,
+            "id" "7",
+            "listId" 7,
+            "name" "Islands",
+            "color" "#050065",
+            "symbol" "",
+            "symbolColor" "",
+            "icon" "FileIslands icon.svg"
+        ,
+            "id" "3",
+            "listId" 8,
+            "name" "Bodies of Water",
+            "color" "#00e8fa",
+            "symbol" "",
+            "symbolColor" "",
+            "icon" "FileBodies of water icon.svg"
+        ,
+            "id" "9",
+            "listId" 9,
+            "name" " Docks & Wharves",
+            "color" "#fa005a",
+            "symbol" "",
+            "symbolColor" "",
+            "icon" "FileShip icon.svg"
     ],
-    "markers": [
-        {
-            "categoryId": "1",
-            "position": [
+    "markers" [
+            "categoryId" "1",
+            "position" [
                 874.58658563573,
                 565.48198463557
             ],
-            "popup": {
-                "title": "The King's Tower",
-                "description": "The home of the Crown of Cormyr's representatives and the garrison.",
-                "link": {
-                    "url": "King's Tower",
-                    "label": "King's Tower"
-                }
-            },
-            "id": "1"
-        },
-        {
-            "categoryId": "2",
-            "position": [
+            "popup" 
+                "title" "The Kings Tower",
+                "description" "The home of the Crown of Cormyrs representatives and the garrison.",
+                "link" 
+                    "url" "Kings Tower",
+                    "label" "Kings Tower"
+            ,
+            "id" "1"
+        ,
+            "categoryId" "2",
+            "position" [
                 1726.0926356749,
                 904.92776220946
             ],
-            "popup": {
-                "title": "Morningmist Hall",
-                "description": "A large temple dedicated to [[Lathander]].",
-                "link": {
-                    "url": "Morningmist Hall",
-                    "label": "Morningmist Hall"
-                }
-            },
-            "id": "2"
-        },
-        {
-            "categoryId": "1",
-            "position": [
+            "popup" 
+                "title" "Morningmist Hall",
+                "description" "A large temple dedicated to Lathander.",
+                "link" 
+                    "url" "Morningmist Hall",
+                    "label" "Morningmist Hall"
+            ,
+            "id" "2"
+        ,
+            "categoryId" "1",
+            "position" [
                 2422.6993157859,
                 1327.925514376
             ],
-            "popup": {
-                "title": "Starwater Keep",
-                "description": "Naval drydock and fortress.",
-                "link": {
-                    "url": "Starwater Keep",
-                    "label": "Starwater Keep"
-                }
-            },
-            "id": "3"
-        },
-        {
-            "categoryId": "3",
-            "position": [
+            "popup" 
+                "title" "Starwater Keep",
+                "description" "Naval drydock and fortress.",
+                "link" 
+                    "url" "Starwater Keep",
+                    "label" "Starwater Keep"
+            ,
+            "id" "3"
+        ,
+            "categoryId" "3",
+            "position" [
                 2858.6389145264,
                 2019.9330411527
             ],
-            "popup": {
-                "title": "Starwater River",
-                "description": "A river that began in the Storm Horns mountain, ran through through the King's Forest, and reached Dragonmere.",
-                "link": {
-                    "url": "Starwater River",
-                    "label": "Starwater River"
-                }
-            },
-            "id": "4"
-        },
-        {
-            "categoryId": "4",
-            "position": [
+            "popup" 
+                "title" "Starwater River",
+                "description" "A river that began in the Storm Horns mountain, ran through through the Kings Forest, and reached Dragonmere.",
+                "link" 
+                    "url" "Starwater River",
+                    "label" "Starwater River"
+            ,
+            "id" "4"
+        ,
+            "categoryId" "4",
+            "position" [
                 926.31026611042,
                 265.16754069619
             ],
-            "popup": {
-                "title": "Roaring Griffon Inn",
-                "description": "A large 3-story inn, previously called The Drowning Fish.",
-                "link": {
-                    "url": "Roaring Griffon",
-                    "label": "Roaring Griffon"
-                }
-            },
-            "id": "5"
-        },
-        {
-            "categoryId": "4",
-            "position": [
+            "popup" 
+                "title" "Roaring Griffon Inn",
+                "description" "A large 3-story inn, previously called The Drowning Fish.",
+                "link" 
+                    "url" "Roaring Griffon",
+                    "label" "Roaring Griffon"
+            ,
+            "id" "5"
+        ,
+            "categoryId" "4",
+            "position" [
                 869.74210637154,
                 270.82439494568
             ],
-            "popup": {
-                "title": "The Leaping Eel",
-                "description": "A tavern across the street to the west from the Roaring Griffon.",
-                "link": {
-                    "url": "The Leaping Eel",
-                    "label": "The Leaping Eel"
-                }
-            },
-            "id": "6"
-        },
-        {
-            "categoryId": "4",
-            "position": [
+            "popup" 
+                "title" "The Leaping Eel",
+                "description" "A tavern across the street to the west from the Roaring Griffon.",
+                "link" 
+                    "url" "The Leaping Eel",
+                    "label" "The Leaping Eel"
+            ,
+            "id" "6"
+        ,
+            "categoryId" "4",
+            "position" [
                 2096.4406859302,
                 408.59089572959
             ],
-            "popup": {
-                "title": "Cloven Shield",
-                "description": "A shabby, cheap, and noisy, waterfront inn and tavern that catered to adventurers.",
-                "link": {
-                    "url": "Cloven Shield",
-                    "label": "Cloven Shield"
-                }
-            },
-            "id": "7"
-        },
-        {
-            "categoryId": "4",
-            "position": [
+            "popup" 
+                "title" "Cloven Shield",
+                "description" "A shabby, cheap, and noisy, waterfront inn and tavern that catered to adventurers.",
+                "link" 
+                    "url" "Cloven Shield",
+                    "label" "Cloven Shield"
+            ,
+            "id" "7"
+        ,
+            "categoryId" "4",
+            "position" [
                 1889.9487291635,
                 1067.9865738578
             ],
-            "popup": {
-                "title": "The Old Oak",
-                "description": "A rundown inn, once a noble family's abode.",
-                "link": {
-                    "url": "The Old Oak",
-                    "label": "The Old Oak"
-                }
-            },
-            "id": "8"
-        },
-        {
-            "categoryId": "4",
-            "position": [
+            "popup" 
+                "title" "The Old Oak",
+                "description" "A rundown inn, once a noble familys abode.",
+                "link" 
+                    "url" "The Old Oak",
+                    "label" "The Old Oak"
+            ,
+            "id" "8"
+        ,
+            "categoryId" "4",
+            "position" [
                 2271.2243018789,
                 1112.9860735876
             ],
-            "popup": {
-                "title": "Barrelstone Inn",
-                "description": "A jovial, low-quality inn run by twenty jolly [[gnome]]s.",
-                "link": {
-                    "url": "Barrelstone Inn",
-                    "label": "Barrelstone Inn"
-                },
-                "image": "File:Barrelstone Inn.png"
-            },
-            "id": "9"
-        },
-        {
-            "categoryId": "4",
-            "position": [
+            "popup" 
+                "title" "Barrelstone Inn",
+                "description" "A jovial, low-quality inn run by twenty jolly gnomes.",
+                "link" 
+                    "url" "Barrelstone Inn",
+                    "label" "Barrelstone Inn"
+                ,
+                "image" "FileBarrelstone Inn.png"
+            ,
+            "id" "9"
+        ,
+            "categoryId" "4",
+            "position" [
                 2160.222709897,
                 908.93203980206
             ],
-            "popup": {
-                "title": "Drowning Flagon",
-                "description": "A huge and rich inn and tavern that consists of several buildings including kitchens, stables, and a central hall.",
-                "link": {
-                    "url": "Drowning Flagon",
-                    "label": "Drowning Flagon"
-                }
-            },
-            "id": "10"
-        },
-        {
-            "categoryId": "2",
-            "position": [
+            "popup" 
+                "title" "Drowning Flagon",
+                "description" "A huge and rich inn and tavern that consists of several buildings including kitchens, stables, and a central hall.",
+                "link" 
+                    "url" "Drowning Flagon",
+                    "label" "Drowning Flagon"
+            ,
+            "id" "10"
+        ,
+            "categoryId" "2",
+            "position" [
                 1395.8287860622,
                 458.91479874131
             ],
-            "popup": {
-                "title": "Deepgreen House",
-                "description": "A shrine to the the Bitch Queen, Umberlee.",
-                "link": {
-                    "url": "Deepgreen House",
-                    "label": "Deepgreen House"
-                }
-            },
-            "id": "11"
-        },
-        {
-            "categoryId": "1",
-            "position": [
+            "popup" 
+                "title" "Deepgreen House",
+                "description" "A shrine to the the Bitch Queen, Umberlee.",
+                "link" 
+                    "url" "Deepgreen House",
+                    "label" "Deepgreen House"
+            ,
+            "id" "11"
+        ,
+            "categoryId" "1",
+            "position" [
                 645.58849122332,
                 913.58338857944
             ],
-            "popup": {
-                "title": "Ravensgar House",
-                "description": "Mansion of the noble House Ravensgar.",
-                "link": {
-                    "url": "Ravensgar House",
-                    "label": "Ravensgar House"
-                }
-            },
-            "id": "12"
-        },
-        {
-            "categoryId": "4",
-            "position": [
+            "popup" 
+                "title" "Ravensgar House",
+                "description" "Mansion of the noble House Ravensgar.",
+                "link" 
+                    "url" "Ravensgar House",
+                    "label" "Ravensgar House"
+            ,
+            "id" "12"
+        ,
+            "categoryId" "4",
+            "position" [
                 713.1997082546,
                 303.93549805081
             ],
-            "popup": {
-                "title": "The Tankard of Eels",
-                "description": "A clean, warm, and overall pleasant gossip-filled tavern.",
-                "link": {
-                    "url": "The Tankard of Eels",
-                    "label": "The Tankard of Eels"
-                }
-            },
-            "id": "13"
-        },
-        {
-            "categoryId": "1",
-            "position": [
+            "popup" 
+                "title" "The Tankard of Eels",
+                "description" "A clean, warm, and overall pleasant gossip-filled tavern.",
+                "link" 
+                    "url" "The Tankard of Eels",
+                    "label" "The Tankard of Eels"
+            ,
+            "id" "13"
+        ,
+            "categoryId" "1",
+            "position" [
                 1121.2713469577,
                 435.94475395187
             ],
-            "popup": {
-                "title": "Wavegallant Spires",
-                "description": "The mansion of the noble [[House Wavegallant]].",
-                "link": {
-                    "url": "Wavegallant Spires",
-                    "label": "Wavegallant Spires"
-                }
-            },
-            "id": "14"
-        },
-        {
-            "categoryId": "5",
-            "position": [
+            "popup" 
+                "title" "Wavegallant Spires",
+                "description" "The mansion of the noble House Wavegallant.",
+                "link" 
+                    "url" "Wavegallant Spires",
+                    "label" "Wavegallant Spires"
+            ,
+            "id" "14"
+        ,
+            "categoryId" "5",
+            "position" [
                 1444.328060931,
                 283.9158674035
             ],
-            "popup": {
-                "title": "Stormwinds Towers",
-                "description": "A fortified home that belonged to \nSzwentil Illeon in the 14{{th}} century DR.",
-                "link": {
-                    "url": "Stormwinds Towers",
-                    "label": "Stormwinds Towers"
-                }
-            },
-            "id": "15"
-        },
-        {
-            "categoryId": "4",
-            "position": [
+            "popup" 
+                "title" "Stormwinds Towers",
+                "description" "A fortified home that belonged to \nSzwentil Illeon in the 14 century DR.",
+                "link" 
+                    "url" "Stormwinds Towers",
+                    "label" "Stormwinds Towers"
+            ,
+            "id" "15"
+        ,
+            "categoryId" "4",
+            "position" [
                 1429.862866869,
                 728.33695823595
             ],
-            "popup": {
-                "title": "The Wight on a Waterdragon",
-                "description": "A popular eatery with its roof decorated with a statue of a wight riding a blue dragon.",
-                "link": {
-                    "url": "The Wight on a Waterdragon",
-                    "label": "The Wight on a Waterdragon"
-                }
-            },
-            "id": "16"
-        },
-        {
-            "categoryId": "4",
-            "position": [
+            "popup" 
+                "title" "The Wight on a Waterdragon",
+                "description" "A popular eatery with its roof decorated with a statue of a wight riding a blue dragon.",
+                "link" 
+                    "url" "The Wight on a Waterdragon",
+                    "label" "The Wight on a Waterdragon"
+            ,
+            "id" "16"
+        ,
+            "categoryId" "4",
+            "position" [
                 1368.4990781785,
                 880.99720288704
             ],
-            "popup": {
-                "title": "The Amorous Anchor",
-                "description": "A festhall of note.",
-                "link": {
-                    "url": "The Amorous Anchor",
-                    "label": "The Amorous Anchor"
-                }
-            },
-            "id": "17"
-        },
-        {
-            "categoryId": "4",
-            "position": [
+            "popup" 
+                "title" "The Amorous Anchor",
+                "description" "A festhall of note.",
+                "link" 
+                    "url" "The Amorous Anchor",
+                    "label" "The Amorous Anchor"
+            ,
+            "id" "17"
+        ,
+            "categoryId" "4",
+            "position" [
                 1538.204097881,
                 1008.952992721
             ],
-            "popup": {
-                "title": "Felgontar's Firehelm",
-                "description": "A dining house.",
-                "link": {
-                    "url": "Felgontar's Firehelm",
-                    "label": "Felgontar's Firehelm"
-                }
-            },
-            "id": "18"
-        },
-        {
-            "categoryId": "5",
-            "position": [
+            "popup" 
+                "title" "Felgontars Firehelm",
+                "description" "A dining house.",
+                "link" 
+                    "url" "Felgontars Firehelm",
+                    "label" "Felgontars Firehelm"
+            ,
+            "id" "18"
+        ,
+            "categoryId" "5",
+            "position" [
                 1487.9322473093,
                 1273.445647877
             ],
-            "popup": {
-                "title": "Chalanther House",
-                "description": "Villa owned by Vindala Chalanther in the 14{{th}} century DR.",
-                "link": {
-                    "url": "Chalanther House",
-                    "label": "Chalanther House"
-                }
-            },
-            "id": "19"
-        },
-        {
-            "categoryId": "5",
-            "position": [
+            "popup" 
+                "title" "Chalanther House",
+                "description" "Villa owned by Vindala Chalanther in the 14 century DR.",
+                "link" 
+                    "url" "Chalanther House",
+                    "label" "Chalanther House"
+            ,
+            "id" "19"
+        ,
+            "categoryId" "5",
+            "position" [
                 1490.4805368054,
                 1207.9436193253
             ],
-            "popup": {
-                "title": "Stormbillow House",
-                "description": "Home of wizard Filfaeril Stormbillow in the 14{{th}} century DR.",
-                "link": {
-                    "url": "Stormbillow House",
-                    "label": "Stormbillow House"
-                }
-            },
-            "id": "20"
-        },
-        {
-            "categoryId": "2",
-            "position": [
+            "popup" 
+                "title" "Stormbillow House",
+                "description" "Home of wizard Filfaeril Stormbillow in the 14 century DR.",
+                "link" 
+                    "url" "Stormbillow House",
+                    "label" "Stormbillow House"
+            ,
+            "id" "20"
+        ,
+            "categoryId" "2",
+            "position" [
                 1567.823891104,
                 1319.4190242668
             ],
-            "popup": {
-                "title": "Faircoins Moneychanger",
-                "description": "A shrine to Waukeen and the local moneychanger.",
-                "link": {
-                    "url": "Faircoins Moneychanger",
-                    "label": "Faircoins Moneychanger"
-                }
-            },
-            "id": "21"
-        },
-        {
-            "categoryId": "5",
-            "position": [
+            "popup" 
+                "title" "Faircoins Moneychanger",
+                "description" "A shrine to Waukeen and the local moneychanger.",
+                "link" 
+                    "url" "Faircoins Moneychanger",
+                    "label" "Faircoins Moneychanger"
+            ,
+            "id" "21"
+        ,
+            "categoryId" "5",
+            "position" [
                 1699.368473206,
                 1148.2754489291
             ],
-            "popup": {
-                "title": "Haelithtorntowers",
-                "description": "Mansion home of a song dragon Lady Joysil Ambrur until her death in 1487 DR.",
-                "link": {
-                    "url": "Haelithtorntowers",
-                    "label": "Haelithtorntowers"
-                }
-            },
-            "id": "22"
-        },
-        {
-            "categoryId": "1",
-            "position": [
+            "popup" 
+                "title" "Haelithtorntowers",
+                "description" "Mansion home of a song dragon Lady Joysil Ambrur until her death in 1487 DR.",
+                "link" 
+                    "url" "Haelithtorntowers",
+                    "label" "Haelithtorntowers"
+            ,
+            "id" "22"
+        ,
+            "categoryId" "1",
+            "position" [
                 1700.0547215467,
                 583.9642488589
             ],
-            "popup": {
-                "title": "Swordspires",
-                "description": "Villa of the noble House Thundersword.",
-                "link": {
-                    "url": "Swordspires",
-                    "label": "Swordspires"
-                }
-            },
-            "id": "23"
-        },
-        {
-            "categoryId": "6",
-            "position": [
+            "popup" 
+                "title" "Swordspires",
+                "description" "Villa of the noble House Thundersword.",
+                "link" 
+                    "url" "Swordspires",
+                    "label" "Swordspires"
+            ,
+            "id" "23"
+        ,
+            "categoryId" "6",
+            "position" [
                 1773.2520326015,
                 1262.9933728608
             ],
-            "popup": {
-                "title": "The Net of Pearls",
-                "description": "Curio, antique, [[glassware]], [[weapon|arms]], and [[armor]] store.",
-                "link": {
-                    "url": "The Net of Pearls",
-                    "label": "The Net of Pearls"
-                }
-            },
-            "id": "24"
-        },
-        {
-            "categoryId": "2",
-            "position": [
+            "popup" 
+                "title" "The Net of Pearls",
+                "description" "Curio, antique, glassware, arms, and armor store.",
+                "link" 
+                    "url" "The Net of Pearls",
+                    "label" "The Net of Pearls"
+            ,
+            "id" "24"
+        ,
+            "categoryId" "2",
+            "position" [
                 1896.8600218352,
                 1477.8023733645
             ],
-            "popup": {
-                "title": "Luckfist Hall",
-                "description": "A shrine to [[Tymora]].",
-                "link": {
-                    "url": "Luckfist Hall",
-                    "label": "Luckfist Hall"
-                }
-            },
-            "id": "25"
-        },
-        {
-            "categoryId": "4",
-            "position": [
+            "popup" 
+                "title" "Luckfist Hall",
+                "description" "A shrine to Tymora.",
+                "link" 
+                    "url" "Luckfist Hall",
+                    "label" "Luckfist Hall"
+            ,
+            "id" "25"
+        ,
+            "categoryId" "4",
+            "position" [
                 1957.6132863841,
                 1348.980870028
             ],
-            "popup": {
-                "title": "Masked Merfolk",
-                "description": "A busy night club that employed [[doppelganger]] entertainers.",
-                "link": {
-                    "url": "Masked Merfolk",
-                    "label": "Masked Merfolk"
-                },
-                "image": "File:Masked Merfolk.png"
-            },
-            "id": "26"
-        },
-        {
-            "categoryId": "1",
-            "position": [
+            "popup" 
+                "title" "Masked Merfolk",
+                "description" "A busy night club that employed doppelganger entertainers.",
+                "link" 
+                    "url" "Masked Merfolk",
+                    "label" "Masked Merfolk"
+                ,
+                "image" "FileMasked Merfolk.png"
+            ,
+            "id" "26"
+        ,
+            "categoryId" "1",
+            "position" [
                 1888.3024808633,
                 466.48360532721
             ],
-            "popup": {
-                "title": "Iyrinthorn",
-                "description": "Estate of the noble House Illance.",
-                "link": {
-                    "url": "Iyrinthorn",
-                    "label": "Iyrinthorn"
-                }
-            },
-            "id": "27"
-        },
-        {
-            "categoryId": "4",
-            "position": [
+            "popup" 
+                "title" "Iyrinthorn",
+                "description" "Estate of the noble House Illance.",
+                "link" 
+                    "url" "Iyrinthorn",
+                    "label" "Iyrinthorn"
+            ,
+            "id" "27"
+        ,
+            "categoryId" "4",
+            "position" [
                 2015.7123150451,
                 675.93767357571
             ],
-            "popup": {
-                "title": "Platter of Plenty",
-                "description": "Alcohol-free eatery open from dusk to dawn that served [[cider]], [[oyster]]s, and roasts.",
-                "link": {
-                    "url": "Platter of Plenty",
-                    "label": "Platter of Plenty"
-                },
-                "image": "File:Blentra Whaelbuckler.png"
-            },
-            "id": "28"
-        },
-        {
-            "categoryId": "6",
-            "position": [
+            "popup" 
+                "title" "Platter of Plenty",
+                "description" "Alcohol-free eatery open from dusk to dawn that served cider, oysters, and roasts.",
+                "link" 
+                    "url" "Platter of Plenty",
+                    "label" "Platter of Plenty"
+                ,
+                "image" "FileBlentra Whaelbuckler.png"
+            ,
+            "id" "28"
+        ,
+            "categoryId" "6",
+            "position" [
                 2125.5610704666,
                 1203.4957415795
             ],
-            "popup": {
-                "title": "Thundaerlyn Hall",
-                "description": "Meeting hall and rental market.",
-                "link": {
-                    "url": "Thundaerlyn Hall",
-                    "label": "Thundaerlyn Hall"
-                }
-            },
-            "id": "29"
-        },
-        {
-            "categoryId": "6",
-            "position": [
+            "popup" 
+                "title" "Thundaerlyn Hall",
+                "description" "Meeting hall and rental market.",
+                "link" 
+                    "url" "Thundaerlyn Hall",
+                    "label" "Thundaerlyn Hall"
+            ,
+            "id" "29"
+        ,
+            "categoryId" "6",
+            "position" [
                 2209.7075429398,
                 959.54675664299
             ],
-            "popup": {
-                "title": "Indur's Warehouses",
-                "description": "",
-                "link": {
-                    "url": "Indur's Warehouses",
-                    "label": "Indur's Warehouses"
-                }
-            },
-            "id": "30"
-        },
-        {
-            "categoryId": "1",
-            "position": [
+            "popup" 
+                "title" "Indurs Warehouses",
+                "description" "",
+                "link" 
+                    "url" "Indurs Warehouses",
+                    "label" "Indurs Warehouses"
+            ,
+            "id" "30"
+        ,
+            "categoryId" "1",
+            "position" [
                 2178.5936962995,
                 856.30702566012
             ],
-            "popup": {
-                "title": "Everet villa",
-                "description": "Estate of the noble House Everet with catacombs underneath.",
-                "link": {
-                    "url": "Everet villa",
-                    "label": "Everet villa"
-                }
-            },
-            "id": "31"
-        },
-        {
-            "categoryId": "1",
-            "position": [
+            "popup" 
+                "title" "Everet villa",
+                "description" "Estate of the noble House Everet with catacombs underneath.",
+                "link" 
+                    "url" "Everet villa",
+                    "label" "Everet villa"
+            ,
+            "id" "31"
+        ,
+            "categoryId" "1",
+            "position" [
                 2243.6314594375,
                 702.45015264207
             ],
-            "popup": {
-                "title": "Mistwind Towers",
-                "description": "Noble [[House Mistwind]]'s mansion.",
-                "link": {
-                    "url": "Mistwind Towers",
-                    "label": "Mistwind Towers"
-                }
-            },
-            "id": "32"
-        },
-        {
-            "categoryId": "5",
-            "position": [
+            "popup" 
+                "title" "Mistwind Towers",
+                "description" "Noble House Mistwinds mansion.",
+                "link" 
+                    "url" "Mistwind Towers",
+                    "label" "Mistwind Towers"
+            ,
+            "id" "32"
+        ,
+            "categoryId" "5",
+            "position" [
                 2322.5961614505,
                 800.36185589036
             ],
-            "popup": {
-                "title": "Drowned Sailors Society",
-                "description": "A sailors' club of Marsember.",
-                "link": {
-                    "url": "Drowned Sailors Society",
-                    "label": "Drowned Sailors Society"
-                }
-            },
-            "id": "33"
-        },
-        {
-            "categoryId": "1",
-            "position": [
+            "popup" 
+                "title" "Drowned Sailors Society",
+                "description" "A sailors club of Marsember.",
+                "link" 
+                    "url" "Drowned Sailors Society",
+                    "label" "Drowned Sailors Society"
+            ,
+            "id" "33"
+        ,
+            "categoryId" "1",
+            "position" [
                 2355.0396396229,
                 746.60217771105
             ],
-            "popup": {
-                "title": "Monthorhall",
-                "description": "The mansion of the noble [[Monthor]] family.",
-                "link": {
-                    "url": "Monthorhall",
-                    "label": "Monthorhall"
-                }
-            },
-            "id": "34"
-        },
-        {
-            "categoryId": "1",
-            "position": [
+            "popup" 
+                "title" "Monthorhall",
+                "description" "The mansion of the noble Monthor family.",
+                "link" 
+                    "url" "Monthorhall",
+                    "label" "Monthorhall"
+            ,
+            "id" "34"
+        ,
+            "categoryId" "1",
+            "position" [
                 2443.9978348049,
                 878.00302773172
             ],
-            "popup": {
-                "title": "Bracegauntlet Gard",
-                "description": "The mansion of the noble [[House Bracegauntlet]].",
-                "link": {
-                    "url": "Bracegauntlet Gard",
-                    "label": "Bracegauntlet Gard"
-                }
-            },
-            "id": "35"
-        },
-        {
-            "categoryId": "9",
-            "position": [
+            "popup" 
+                "title" "Bracegauntlet Gard",
+                "description" "The mansion of the noble House Bracegauntlet.",
+                "link" 
+                    "url" "Bracegauntlet Gard",
+                    "label" "Bracegauntlet Gard"
+            ,
+            "id" "35"
+        ,
+            "categoryId" "9",
+            "position" [
                 2296.6797632456,
                 1377.4540007563
             ],
-            "popup": {
-                "title": "Starwater Keep",
-                "description": "Naval drydock and fortress.",
-                "link": {
-                    "url": "Starwater Keep",
-                    "label": "Starwater Keep"
-                }
-            },
-            "id": "36"
-        },
-        {
-            "categoryId": "5",
-            "position": [
+            "popup" 
+                "title" "Starwater Keep",
+                "description" "Naval drydock and fortress.",
+                "link" 
+                    "url" "Starwater Keep",
+                    "label" "Starwater Keep"
+            ,
+            "id" "36"
+        ,
+            "categoryId" "5",
+            "position" [
                 2698.7436948628,
                 1750.7373917839
             ],
-            "popup": {
-                "title": "The Harbortower",
-                "description": "",
-                "link": {
-                    "url": "Harbortower",
-                    "label": "Harbortower"
-                }
-            },
-            "id": "37"
-        },
-        {
-            "categoryId": "3",
-            "position": [
+            "popup" 
+                "title" "The Harbortower",
+                "description" "",
+                "link" 
+                    "url" "Harbortower",
+                    "label" "Harbortower"
+            ,
+            "id" "37"
+        ,
+            "categoryId" "3",
+            "position" [
                 2797.2139160923,
                 491.7175810356
             ],
-            "popup": {
-                "title": "Dragonmere",
-                "description": "The lake on the Dragon Coast at the western edge of the Sea of Fallen Stars.",
-                "link": {
-                    "url": "Dragonmere",
-                    "label": "Dragonmere"
-                }
-            },
-            "id": "38"
-        },
-        {
-            "categoryId": "7",
-            "position": [
+            "popup" 
+                "title" "Dragonmere",
+                "description" "The lake on the Dragon Coast at the western edge of the Sea of Fallen Stars.",
+                "link" 
+                    "url" "Dragonmere",
+                    "label" "Dragonmere"
+            ,
+            "id" "38"
+        ,
+            "categoryId" "7",
+            "position" [
                 1920.5070085918,
                 861.26109403168
             ],
-            "popup": {
-                "title": "Sharmran Isle",
-                "description": "Also known as '''Fishgut Rock''' because of its many [[fish]] butcheries and smokehouses. Once home of the fabled [[Harbor Witch]].",
-                "link": {
-                    "url": "Sharmran Isle",
-                    "label": "Sharmran Isle"
-                }
-            },
-            "id": "39"
-        },
-        {
-            "categoryId": "7",
-            "position": [
+            "popup" 
+                "title" "Sharmran Isle",
+                "description" "Also known as Fishgut Rock because of its many fish butcheries and smokehouses. Once home of the fabled Harbor Witch.",
+                "link" 
+                    "url" "Sharmran Isle",
+                    "label" "Sharmran Isle"
+            ,
+            "id" "39"
+        ,
+            "categoryId" "7",
+            "position" [
                 1141.2622346403,
                 687.30951744354
             ],
-            "popup": {
-                "title": "Antanmaran's Isle",
-                "description": "Also known as The Prow.",
-                "link": {
-                    "url": "Antanmaran's Isle",
-                    "label": "Antanmaran's Isle"
-                }
-            },
-            "id": "40"
-        },
-        {
-            "categoryId": "1",
-            "position": [
+            "popup" 
+                "title" "Antanmarans Isle",
+                "description" "Also known as The Prow.",
+                "link" 
+                    "url" "Antanmarans Isle",
+                    "label" "Antanmarans Isle"
+            ,
+            "id" "40"
+        ,
+            "categoryId" "1",
+            "position" [
                 1506.8445507085,
                 1231.780012827
             ],
-            "popup": {
-                "title": "Dagohnlar House",
-                "description": "The tallhouse estate of the noble [[House Dagohnlar]].",
-                "link": {
-                    "url": "Dagohnlar House",
-                    "label": "Dagohnlar House"
-                }
-            },
-            "id": "41"
-        },
-        {
-            "categoryId": "5",
-            "position": [
+            "popup" 
+                "title" "Dagohnlar House",
+                "description" "The tallhouse estate of the noble House Dagohnlar.",
+                "link" 
+                    "url" "Dagohnlar House",
+                    "label" "Dagohnlar House"
+            ,
+            "id" "41"
+        ,
+            "categoryId" "5",
+            "position" [
                 2164.1631424123,
                 1184.6709872364
             ],
-            "popup": {
-                "title": "The Lightless Lamp",
-                "description": "A never-repaired broken lamppost that became an important meeting spot on the [[Thelvarspike Lane]].",
-                "link": {
-                    "url": "The Lightless Lamp",
-                    "label": "The Lightless Lamp"
-                }
-            },
-            "id": "42"
-        },
-        {
-            "categoryId": "7",
-            "position": [
+            "popup" 
+                "title" "The Lightless Lamp",
+                "description" "A never-repaired broken lamppost that became an important meeting spot on the Thelvarspike Lane.",
+                "link" 
+                    "url" "The Lightless Lamp",
+                    "label" "The Lightless Lamp"
+            ,
+            "id" "42"
+        ,
+            "categoryId" "7",
+            "position" [
                 957.4218162145,
                 392.44462038014
             ],
-            "popup": {
-                "title": "Harmuth Isle",
-                "description": "Sometimes colloquially referred to as \"The Old Ship.\"",
-                "link": {
-                    "url": "Harmuth Isle",
-                    "label": "Harmuth Isle"
-                }
-            },
-            "id": "43"
-        },
-        {
-            "categoryId": "7",
-            "position": [
+            "popup" 
+                "title" "Harmuth Isle",
+                "description" "Sometimes colloquially referred to as \"The Old Ship.\"",
+                "link" 
+                    "url" "Harmuth Isle",
+                    "label" "Harmuth Isle"
+            ,
+            "id" "43"
+        ,
+            "categoryId" "7",
+            "position" [
                 1353.4142325527,
                 736.80828672426
             ],
-            "popup": {
-                "title": "Nornsar Isle",
-                "description": "Locally known as '''The Nornsar.'''",
-                "link": {
-                    "url": "Nornsar Isle",
-                    "label": "Nornsar Isle"
-                }
-            },
-            "id": "44"
-        },
-        {
-            "categoryId": "3",
-            "position": [
+            "popup" 
+                "title" "Nornsar Isle",
+                "description" "Locally known as The Nornsar.",
+                "link" 
+                    "url" "Nornsar Isle",
+                    "label" "Nornsar Isle"
+            ,
+            "id" "44"
+        ,
+            "categoryId" "3",
+            "position" [
                 992.72552308698,
                 517.4297938588
             ],
-            "popup": {
-                "title": "The Long Run",
-                "description": "The water canal between the Harmuth and Antanmaran Islands and mainland Marsember.",
-                "link": {
-                    "url": "The Long Run",
-                    "label": "The Long Run"
-                }
-            },
-            "id": "45"
-        },
-        {
-            "categoryId": "3",
-            "position": [
+            "popup" 
+                "title" "The Long Run",
+                "description" "The water canal between the Harmuth and Antanmaran Islands and mainland Marsember.",
+                "link" 
+                    "url" "The Long Run",
+                    "label" "The Long Run"
+            ,
+            "id" "45"
+        ,
+            "categoryId" "3",
+            "position" [
                 873.90787712432,
                 808.75145856353
             ],
-            "popup": {
-                "title": "West Basin",
-                "description": "The location of the New Harbor part of Marsember's docks.",
-                "link": {
-                    "url": "West Basin",
-                    "label": "West Basin"
-                }
-            },
-            "id": "46"
-        },
-        {
-            "categoryId": "7",
-            "position": [
+            "popup" 
+                "title" "West Basin",
+                "description" "The location of the New Harbor part of Marsembers docks.",
+                "link" 
+                    "url" "West Basin",
+                    "label" "West Basin"
+            ,
+            "id" "46"
+        ,
+            "categoryId" "7",
+            "position" [
                 1216.9265601056,
                 284.25264417773
             ],
-            "popup": {
-                "title": "West Darnmist",
-                "description": "Always called \"West Darnmist\" by Marsembans, never \"West Darnmist Isle.\"",
-                "link": {
-                    "url": "West Darnmist",
-                    "label": "West Darnmist"
-                }
-            },
-            "id": "47"
-        },
-        {
-            "categoryId": "7",
-            "position": [
+            "popup" 
+                "title" "West Darnmist",
+                "description" "Always called \"West Darnmist\" by Marsembans, never \"West Darnmist Isle.\"",
+                "link" 
+                    "url" "West Darnmist",
+                    "label" "West Darnmist"
+            ,
+            "id" "47"
+        ,
+            "categoryId" "7",
+            "position" [
                 1668.0675761114,
                 355.67292682881
             ],
-            "popup": {
-                "title": "East Darnmist",
-                "description": "Always called \"East Darnmist\" by Marsembans, never \"East Darnmist Isle.\"",
-                "link": {
-                    "url": "East Darnmist",
-                    "label": "East Darnmist"
-                }
-            },
-            "id": "48"
-        },
-        {
-            "categoryId": "7",
-            "position": [
+            "popup" 
+                "title" "East Darnmist",
+                "description" "Always called \"East Darnmist\" by Marsembans, never \"East Darnmist Isle.\"",
+                "link" 
+                    "url" "East Darnmist",
+                    "label" "East Darnmist"
+            ,
+            "id" "48"
+        ,
+            "categoryId" "7",
+            "position" [
                 1332.8936032444,
                 499.92485112049
             ],
-            "popup": {
-                "title": "Baerouth's Isle",
-                "description": "",
-                "link": {
-                    "url": "Baerouth's Isle",
-                    "label": "Baerouth's Isle"
-                }
-            },
-            "id": "49"
-        },
-        {
-            "categoryId": "7",
-            "position": [
+            "popup" 
+                "title" "Baerouths Isle",
+                "description" "",
+                "link" 
+                    "url" "Baerouths Isle",
+                    "label" "Baerouths Isle"
+            ,
+            "id" "49"
+        ,
+            "categoryId" "7",
+            "position" [
                 1636.1446927532,
                 490.00813705588
             ],
-            "popup": {
-                "title": "Orm Isle",
-                "description": "",
-                "link": {
-                    "url": "Orm Isle",
-                    "label": "Orm Isle"
-                }
-            },
-            "id": "50"
-        },
-        {
-            "categoryId": "7",
-            "position": [
+            "popup" 
+                "title" "Orm Isle",
+                "description" "",
+                "link" 
+                    "url" "Orm Isle",
+                    "label" "Orm Isle"
+            ,
+            "id" "50"
+        ,
+            "categoryId" "7",
+            "position" [
                 1653.0022056822,
                 775.99491434008
             ],
-            "popup": {
-                "title": "Gauntan Isle",
-                "description": "",
-                "link": {
-                    "url": "Gauntan Isle",
-                    "label": "Gauntan Isle"
-                }
-            },
-            "id": "51"
-        },
-        {
-            "categoryId": "3",
-            "position": [
+            "popup" 
+                "title" "Gauntan Isle",
+                "description" "",
+                "link" 
+                    "url" "Gauntan Isle",
+                    "label" "Gauntan Isle"
+            ,
+            "id" "51"
+        ,
+            "categoryId" "3",
+            "position" [
                 1451.022421565,
                 910.68446664139
             ],
-            "popup": {
-                "title": "East Basin",
-                "description": "Also known as Old Harbor.",
-                "link": {
-                    "url": "East Basin",
-                    "label": "East Basin"
-                }
-            },
-            "id": "52"
-        },
-        {
-            "categoryId": "7",
-            "position": [
+            "popup" 
+                "title" "East Basin",
+                "description" "Also known as Old Harbor.",
+                "link" 
+                    "url" "East Basin",
+                    "label" "East Basin"
+            ,
+            "id" "52"
+        ,
+            "categoryId" "7",
+            "position" [
                 1979.6488223236,
                 426.92532657577
             ],
-            "popup": {
-                "title": "Stormrock Isle",
-                "description": "More commonly referred to as  \"the Stormrock\" or just \"the Rock.\"",
-                "link": {
-                    "url": "Stormrock Isle",
-                    "label": "Stormrock Isle"
-                }
-            },
-            "id": "53"
-        },
-        {
-            "categoryId": "3",
-            "position": [
+            "popup" 
+                "title" "Stormrock Isle",
+                "description" "More commonly referred to as  \"the Stormrock\" or just \"the Rock.\"",
+                "link" 
+                    "url" "Stormrock Isle",
+                    "label" "Stormrock Isle"
+            ,
+            "id" "53"
+        ,
+            "categoryId" "3",
+            "position" [
                 1403.0463216729,
                 285.91891879946
             ],
-            "popup": {
-                "title": "Floating Fish Run",
-                "description": "A small canal between East and West Darnmist that often collected floating refuse in calm weather.",
-                "link": {
-                    "url": "Floating Fish Run",
-                    "label": "Floating Fish Run"
-                }
-            },
-            "id": "54"
-        },
-        {
-            "categoryId": "3",
-            "position": [
+            "popup" 
+                "title" "Floating Fish Run",
+                "description" "A small canal between East and West Darnmist that often collected floating refuse in calm weather.",
+                "link" 
+                    "url" "Floating Fish Run",
+                    "label" "Floating Fish Run"
+            ,
+            "id" "54"
+        ,
+            "categoryId" "3",
+            "position" [
                 1658.8628089128,
                 657.96062121084
             ],
-            "popup": {
-                "title": "Bargemoot",
-                "description": "The stretch of water between [[Gauntan]] and [[Orm Isle]]s. Named for an overwhelming number of [[barge]]s that often came to a choke here.",
-                "link": {
-                    "url": "Bargemoot",
-                    "label": "Bargemoot"
-                }
-            },
-            "id": "55"
-        },
-        {
-            "categoryId": "7",
-            "position": [
+            "popup" 
+                "title" "Bargemoot",
+                "description" "The stretch of water between Gauntan and Orm Isles. Named for an overwhelming number of barges that often came to a choke here.",
+                "link" 
+                    "url" "Bargemoot",
+                    "label" "Bargemoot"
+            ,
+            "id" "55"
+        ,
+            "categoryId" "7",
+            "position" [
                 2071.6418019016,
                 619.85289115229
             ],
-            "popup": {
-                "title": "Dawnturtle Isle",
-                "description": "The center of shopping and dining in [[Marsember]].",
-                "link": {
-                    "url": "Dawnturtle Isle",
-                    "label": "Dawnturtle Isle"
-                }
-            },
-            "id": "56"
-        },
-        {
-            "categoryId": "7",
-            "position": [
+            "popup" 
+                "title" "Dawnturtle Isle",
+                "description" "The center of shopping and dining in Marsember.",
+                "link" 
+                    "url" "Dawnturtle Isle",
+                    "label" "Dawnturtle Isle"
+            ,
+            "id" "56"
+        ,
+            "categoryId" "7",
+            "position" [
                 2239.5447518842,
                 619.8724200864
             ],
-            "popup": {
-                "title": "Aertoprann's Isle",
-                "description": "Named after a famous bridge builder [[Ilnter Aertoprann]].",
-                "link": {
-                    "url": "Aertoprann's Isle",
-                    "label": "Aertoprann's Isle"
-                }
-            },
-            "id": "57"
-        },
-        {
-            "categoryId": "9",
-            "position": [
+            "popup" 
+                "title" "Aertopranns Isle",
+                "description" "Named after a famous bridge builder Ilnter Aertoprann.",
+                "link" 
+                    "url" "Aertopranns Isle",
+                    "label" "Aertopranns Isle"
+            ,
+            "id" "57"
+        ,
+            "categoryId" "9",
+            "position" [
                 1809.6779750899,
                 641.83356564458
             ],
-            "popup": {
-                "title": "Osril's Wharf",
-                "description": "The longest private wharf in [[Marsember]], built by a smuggler named [[Osril Lurth]] several centuries before 1370s [[DR]].",
-                "link": {
-                    "url": "",
-                    "label": ""
-                }
-            },
-            "id": "58"
-        },
-        {
-            "categoryId": "7",
-            "position": [
+            "popup" 
+                "title" "Osrils Wharf",
+                "description" "The longest private wharf in Marsember, built by a smuggler named Osril Lurth several centuries before 1370s DR.",
+                "link" 
+                    "url" "",
+                    "label" ""
+            ,
+            "id" "58"
+        ,
+            "categoryId" "7",
+            "position" [
                 2416.5191601746,
                 678.691014036
             ],
-            "popup": {
-                "title": "Spraystone Isle",
-                "description": "The island where the busiest wharves and warehouses could be found.",
-                "link": {
-                    "url": "Spraystone Isle",
-                    "label": "Spraystone Isle"
-                }
-            },
-            "id": "59"
-        },
-        {
-            "categoryId": "7",
-            "position": [
+            "popup" 
+                "title" "Spraystone Isle",
+                "description" "The island where the busiest wharves and warehouses could be found.",
+                "link" 
+                    "url" "Spraystone Isle",
+                    "label" "Spraystone Isle"
+            ,
+            "id" "59"
+        ,
+            "categoryId" "7",
+            "position" [
                 2395.9916184076,
                 867.99043895934
             ],
-            "popup": {
-                "title": "Wrauntwreck Isle",
-                "description": "",
-                "link": {
-                    "url": "Wrauntwreck Isle",
-                    "label": "Wrauntwreck Isle"
-                }
-            },
-            "id": "60"
-        },
-        {
-            "categoryId": "7",
-            "position": [
+            "popup" 
+                "title" "Wrauntwreck Isle",
+                "description" "",
+                "link" 
+                    "url" "Wrauntwreck Isle",
+                    "label" "Wrauntwreck Isle"
+            ,
+            "id" "60"
+        ,
+            "categoryId" "7",
+            "position" [
                 2192.8186952686,
                 923.95258586816
             ],
-            "popup": {
-                "title": "Spaer Isle",
-                "description": "Mostly housing warehouses. The island was named after [[Ardreth Spaer]], a fearless sea captain from Marsember.",
-                "link": {
-                    "url": "Spaer Isle",
-                    "label": "Spaer Isle"
-                }
-            },
-            "id": "61"
-        },
-        {
-            "categoryId": "7",
-            "position": [
+            "popup" 
+                "title" "Spaer Isle",
+                "description" "Mostly housing warehouses. The island was named after Ardreth Spaer, a fearless sea captain from Marsember.",
+                "link" 
+                    "url" "Spaer Isle",
+                    "label" "Spaer Isle"
+            ,
+            "id" "61"
+        ,
+            "categoryId" "7",
+            "position" [
                 2136.8592798213,
                 1007.9251233046
             ],
-            "popup": {
-                "title": "Old Arn Isle",
-                "description": "Exclusively referred to as \"Old Arn\" by the locals. Home and offices of the city's dock workers and officials. Named after [[Dathmur Arnagus]], a famous stonemason.",
-                "link": {
-                    "url": "Old Arn Isle",
-                    "label": "Old Arn Isle"
-                }
-            },
-            "id": "62"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Old Arn Isle",
+                "description" "Exclusively referred to as \"Old Arn\" by the locals. Home and offices of the citys dock workers and officials. Named after Dathmur Arnagus, a famous stonemason.",
+                "link" 
+                    "url" "Old Arn Isle",
+                    "label" "Old Arn Isle"
+            ,
+            "id" "62"
+        ,
+            "categoryId" "8",
+            "position" [
                 1021.0871497974,
                 411.42104898455
             ],
-            "popup": {
-                "title": "Assander Street",
-                "description": "The road that began on the southernmost end of [[Harmuth Isle]], moved north past [[ Antanmaran's Isle]], crossed [[Calathanter Street]] on the mainland, and ended after curving west and colliding with [[Calathanter Street]].",
-                "link": {
-                    "url": "Assander Street",
-                    "label": "Assander Street"
-                }
-            },
-            "id": "63"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Assander Street",
+                "description" "The road that began on the southernmost end of Harmuth Isle, moved north past  Antanmarans Isle, crossed Calathanter Street on the mainland, and ended after curving west and colliding with Calathanter Street.",
+                "link" 
+                    "url" "Assander Street",
+                    "label" "Assander Street"
+            ,
+            "id" "63"
+        ,
+            "categoryId" "8",
+            "position" [
                 1083.2326923159,
                 663.1706258961
             ],
-            "popup": {
-                "title": "Assander Street",
-                "description": "The road that began on the southernmost end of [[Harmuth Isle]], moved north past [[ Antanmaran's Isle]], crossed [[Calathanter Street]] on the mainland, and ended after curving west and colliding with [[Calathanter Street]].",
-                "link": {
-                    "url": "Assander Street",
-                    "label": "Assander Street"
-                }
-            },
-            "id": "64"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Assander Street",
+                "description" "The road that began on the southernmost end of Harmuth Isle, moved north past  Antanmarans Isle, crossed Calathanter Street on the mainland, and ended after curving west and colliding with Calathanter Street.",
+                "link" 
+                    "url" "Assander Street",
+                    "label" "Assander Street"
+            ,
+            "id" "64"
+        ,
+            "categoryId" "8",
+            "position" [
                 1057.830979143,
                 951.05897751751
             ],
-            "popup": {
-                "title": "Assander Street",
-                "description": "The road that began on the southernmost end of [[Harmuth Isle]], moved north past [[ Antanmaran's Isle]], crossed [[Calathanter Street]] on the mainland, and ended after curving west and colliding with [[Calathanter Street]].",
-                "link": {
-                    "url": "Assander Street",
-                    "label": "Assander Street"
-                }
-            },
-            "id": "65"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Assander Street",
+                "description" "The road that began on the southernmost end of Harmuth Isle, moved north past  Antanmarans Isle, crossed Calathanter Street on the mainland, and ended after curving west and colliding with Calathanter Street.",
+                "link" 
+                    "url" "Assander Street",
+                    "label" "Assander Street"
+            ,
+            "id" "65"
+        ,
+            "categoryId" "8",
+            "position" [
                 893.78172701593,
                 1063.3740766153
             ],
-            "popup": {
-                "title": "Assander Street",
-                "description": "The road that began on the southernmost end of [[Harmuth Isle]], moved north past [[ Antanmaran's Isle]], crossed [[Calathanter Street]] on the mainland, and ended after curving west and colliding with [[Calathanter Street]].",
-                "link": {
-                    "url": "Assander Street",
-                    "label": "Assander Street"
-                }
-            },
-            "id": "66"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Assander Street",
+                "description" "The road that began on the southernmost end of Harmuth Isle, moved north past  Antanmarans Isle, crossed Calathanter Street on the mainland, and ended after curving west and colliding with Calathanter Street.",
+                "link" 
+                    "url" "Assander Street",
+                    "label" "Assander Street"
+            ,
+            "id" "66"
+        ,
+            "categoryId" "8",
+            "position" [
                 1155.4124804588,
                 1029.5503279805
             ],
-            "popup": {
-                "title": "Calathanter Street",
-                "description": "The street that arched from Marsember's west gate, passed the end of [[Assander Street]], crossed most of the city, and ended at the navy's Dockmarch.",
-                "link": {
-                    "url": "Calathanter Street",
-                    "label": "Calathanter Street"
-                }
-            },
-            "id": "67"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Calathanter Street",
+                "description" "The street that arched from Marsembers west gate, passed the end of Assander Street, crossed most of the city, and ended at the navys Dockmarch.",
+                "link" 
+                    "url" "Calathanter Street",
+                    "label" "Calathanter Street"
+            ,
+            "id" "67"
+        ,
+            "categoryId" "8",
+            "position" [
                 738.92543807182,
                 965.20182678445
             ],
-            "popup": {
-                "title": "Calathanter Street",
-                "description": "The street that arched from Marsember's west gate, passed the end of [[Assander Street]], crossed most of the city, and ended at the navy's Dockmarch.",
-                "link": {
-                    "url": "Calathanter Street",
-                    "label": "Calathanter Street"
-                }
-            },
-            "id": "68"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Calathanter Street",
+                "description" "The street that arched from Marsembers west gate, passed the end of Assander Street, crossed most of the city, and ended at the navys Dockmarch.",
+                "link" 
+                    "url" "Calathanter Street",
+                    "label" "Calathanter Street"
+            ,
+            "id" "68"
+        ,
+            "categoryId" "8",
+            "position" [
                 1630.5882374162,
                 1322.2911081053
             ],
-            "popup": {
-                "title": "Calathanter Street",
-                "description": "The street that arched from Marsember's west gate, passed the end of [[Assander Street]], crossed most of the city, and ended at the navy's Dockmarch.",
-                "link": {
-                    "url": "Calathanter Street",
-                    "label": "Calathanter Street"
-                }
-            },
-            "id": "69"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Calathanter Street",
+                "description" "The street that arched from Marsembers west gate, passed the end of Assander Street, crossed most of the city, and ended at the navys Dockmarch.",
+                "link" 
+                    "url" "Calathanter Street",
+                    "label" "Calathanter Street"
+            ,
+            "id" "69"
+        ,
+            "categoryId" "8",
+            "position" [
                 2043.166155847,
                 1439.5616448832
             ],
-            "popup": {
-                "title": "Calathanter Street",
-                "description": "The street that arched from [[Marsember]]'s west gate, passed the end of [[Assander Street]], crossed most of the city, and ended at the navy's [[Dockmarch]].",
-                "link": {
-                    "url": "Calathanter Street",
-                    "label": "Calathanter Street"
-                }
-            },
-            "id": "70"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Calathanter Street",
+                "description" "The street that arched from Marsembers west gate, passed the end of Assander Street, crossed most of the city, and ended at the navys Dockmarch.",
+                "link" 
+                    "url" "Calathanter Street",
+                    "label" "Calathanter Street"
+            ,
+            "id" "70"
+        ,
+            "categoryId" "8",
+            "position" [
                 450.42701961583,
                 596.09280064829
             ],
-            "popup": {
-                "title": "Calathanter Street",
-                "description": "The street that arched from Marsember's west gate, passed the end of [[Assander Street]], crossed most of the city, and ended at the navy's Dockmarch.",
-                "link": {
-                    "url": "Calathanter Street",
-                    "label": "Calathanter Street"
-                }
-            },
-            "id": "71"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Calathanter Street",
+                "description" "The street that arched from Marsembers west gate, passed the end of Assander Street, crossed most of the city, and ended at the navys Dockmarch.",
+                "link" 
+                    "url" "Calathanter Street",
+                    "label" "Calathanter Street"
+            ,
+            "id" "71"
+        ,
+            "categoryId" "8",
+            "position" [
                 2129.0996664208,
                 1372.4974736775
             ],
-            "popup": {
-                "title": "Dockmarch",
-                "description": "The cobbled street that ran along the easternmost end of the town, from [[the Harbortower]] to the very end of the [[Watchfire Point]].",
-                "link": {
-                    "url": "Dockmarch",
-                    "label": "Dockmarch"
-                }
-            },
-            "id": "72"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Dockmarch",
+                "description" "The cobbled street that ran along the easternmost end of the town, from the Harbortower to the very end of the Watchfire Point.",
+                "link" 
+                    "url" "Dockmarch",
+                    "label" "Dockmarch"
+            ,
+            "id" "72"
+        ,
+            "categoryId" "8",
+            "position" [
                 967.30835503653,
                 1023.8270177103
             ],
-            "popup": {
-                "title": "Chancever Street",
-                "description": "The street began on [[Calathanter Street]] and moved northeast along the city wall, then veered towards the [[Old Arn Isle]] and ended on [[Varanth Lane]].",
-                "link": {
-                    "url": "Chancever Street",
-                    "label": "Chancever Street"
-                }
-            },
-            "id": "73"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Chancever Street",
+                "description" "The street began on Calathanter Street and moved northeast along the city wall, then veered towards the Old Arn Isle and ended on Varanth Lane.",
+                "link" 
+                    "url" "Chancever Street",
+                    "label" "Chancever Street"
+            ,
+            "id" "73"
+        ,
+            "categoryId" "8",
+            "position" [
                 1262.7797956513,
                 1190.70867724
             ],
-            "popup": {
-                "title": "Chancever Street",
-                "description": "The street began on [[Calathanter Street]] and moved northeast along the city wall, then veered towards the [[Old Arn Isle]] and ended on [[Varanth Lane]].",
-                "link": {
-                    "url": "Chancever Street",
-                    "label": "Chancever Street"
-                }
-            },
-            "id": "74"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Chancever Street",
+                "description" "The street began on Calathanter Street and moved northeast along the city wall, then veered towards the Old Arn Isle and ended on Varanth Lane.",
+                "link" 
+                    "url" "Chancever Street",
+                    "label" "Chancever Street"
+            ,
+            "id" "74"
+        ,
+            "categoryId" "8",
+            "position" [
                 1494.8245009404,
                 1144.1001992463
             ],
-            "popup": {
-                "title": "Chancever Street",
-                "description": "The street began on [[Calathanter Street]] and moved northeast along the city wall, then veered towards the [[Old Arn Isle]] and ended on [[Varanth Lane]].",
-                "link": {
-                    "url": "Chancever Street",
-                    "label": "Chancever Street"
-                }
-            },
-            "id": "75"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Chancever Street",
+                "description" "The street began on Calathanter Street and moved northeast along the city wall, then veered towards the Old Arn Isle and ended on Varanth Lane.",
+                "link" 
+                    "url" "Chancever Street",
+                    "label" "Chancever Street"
+            ,
+            "id" "75"
+        ,
+            "categoryId" "8",
+            "position" [
                 1885.1466786433,
                 1123.5951730567
             ],
-            "popup": {
-                "title": "Chancever Street",
-                "description": "The street began on [[Calathanter Street]] and moved northeast along the city wall, then veered towards the [[Old Arn Isle]] and ended on [[Varanth Lane]].",
-                "link": {
-                    "url": "Chancever Street",
-                    "label": "Chancever Street"
-                }
-            },
-            "id": "76"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Chancever Street",
+                "description" "The street began on Calathanter Street and moved northeast along the city wall, then veered towards the Old Arn Isle and ended on Varanth Lane.",
+                "link" 
+                    "url" "Chancever Street",
+                    "label" "Chancever Street"
+            ,
+            "id" "76"
+        ,
+            "categoryId" "8",
+            "position" [
                 2180.7173131793,
                 1047.9347474697
             ],
-            "popup": {
-                "title": "Chancever Street",
-                "description": "The street began on [[Calathanter Street]] and moved northeast along the city wall, then veered towards the [[Old Arn Isle]] and ended on [[Varanth Lane]].",
-                "link": {
-                    "url": "Chancever Street",
-                    "label": "Chancever Street"
-                }
-            },
-            "id": "77"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Chancever Street",
+                "description" "The street began on Calathanter Street and moved northeast along the city wall, then veered towards the Old Arn Isle and ended on Varanth Lane.",
+                "link" 
+                    "url" "Chancever Street",
+                    "label" "Chancever Street"
+            ,
+            "id" "77"
+        ,
+            "categoryId" "8",
+            "position" [
                 2346.8433989094,
                 977.90996803799
             ],
-            "popup": {
-                "title": "Varanth Lane",
-                "description": "The street that ran past the eastern sides of the [[Old Arn Isle]] and the [[Wrauntwreck Isle]], ending on the [[Aertoprann's Isle]].",
-                "link": {
-                    "url": "Varanth Lane",
-                    "label": "Varanth Lane"
-                }
-            },
-            "id": "78"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Varanth Lane",
+                "description" "The street that ran past the eastern sides of the Old Arn Isle and the Wrauntwreck Isle, ending on the Aertopranns Isle.",
+                "link" 
+                    "url" "Varanth Lane",
+                    "label" "Varanth Lane"
+            ,
+            "id" "78"
+        ,
+            "categoryId" "8",
+            "position" [
                 2238.9986765907,
                 1156.9985760152
             ],
-            "popup": {
-                "title": "Varanth Lane",
-                "description": "The street that ran past the eastern sides of the [[Old Arn Isle]] and the [[Wrauntwreck Isle]], ending on the [[Aertoprann's Isle]].",
-                "link": {
-                    "url": "Varanth Lane",
-                    "label": "Varanth Lane"
-                }
-            },
-            "id": "79"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Varanth Lane",
+                "description" "The street that ran past the eastern sides of the Old Arn Isle and the Wrauntwreck Isle, ending on the Aertopranns Isle.",
+                "link" 
+                    "url" "Varanth Lane",
+                    "label" "Varanth Lane"
+            ,
+            "id" "79"
+        ,
+            "categoryId" "8",
+            "position" [
                 1200.8095581131,
                 1104.4433760655
             ],
-            "popup": {
-                "title": "Daunsul Street",
-                "description": "Daunsul Street started on the [[Chancever Street]] and ran south to the [[Nornsar Isle]], ending on [[Hammarhantus Lane]].",
-                "link": {
-                    "url": "Daunsul Street",
-                    "label": "Daunsul Street"
-                }
-            },
-            "id": "80"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Daunsul Street",
+                "description" "Daunsul Street started on the Chancever Street and ran south to the Nornsar Isle, ending on Hammarhantus Lane.",
+                "link" 
+                    "url" "Daunsul Street",
+                    "label" "Daunsul Street"
+            ,
+            "id" "80"
+        ,
+            "categoryId" "8",
+            "position" [
                 1293.2986855462,
                 956.71868633985
             ],
-            "popup": {
-                "title": "Daunsul Street",
-                "description": "Daunsul Street started on the [[Chancever Street]] and ran south to the [[Nornsar Isle]], ending on [[Hammarhantus Lane]].",
-                "link": {
-                    "url": "Daunsul Street",
-                    "label": "Daunsul Street"
-                }
-            },
-            "id": "81"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Daunsul Street",
+                "description" "Daunsul Street started on the Chancever Street and ran south to the Nornsar Isle, ending on Hammarhantus Lane.",
+                "link" 
+                    "url" "Daunsul Street",
+                    "label" "Daunsul Street"
+            ,
+            "id" "81"
+        ,
+            "categoryId" "8",
+            "position" [
                 1373.2013690643,
                 806.10601241193
             ],
-            "popup": {
-                "title": "Daunsul Street",
-                "description": "Daunsul Street started on the [[Chancever Street]] and ran south to the [[Nornsar Isle]], ending on [[Hammarhantus Lane]].",
-                "link": {
-                    "url": "Daunsul Street",
-                    "label": "Daunsul Street"
-                }
-            },
-            "id": "82"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Daunsul Street",
+                "description" "Daunsul Street started on the Chancever Street and ran south to the Nornsar Isle, ending on Hammarhantus Lane.",
+                "link" 
+                    "url" "Daunsul Street",
+                    "label" "Daunsul Street"
+            ,
+            "id" "82"
+        ,
+            "categoryId" "8",
+            "position" [
                 1381.6851194143,
                 699.32824977189
             ],
-            "popup": {
-                "title": "Hammarhantus Lane",
-                "description": "The street ran from the [[Nornsar Isle]] past the end of [[Daunsul Street]], crossed the [[Gauntan Isle]], [[Sharmran Isle]], and ended on the [[Old Arn Isle]]'s [[Chancever Street]].",
-                "link": {
-                    "url": "Hammarhantus Lane",
-                    "label": "Hammarhantus Lane"
-                }
-            },
-            "id": "83"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Hammarhantus Lane",
+                "description" "The street ran from the Nornsar Isle past the end of Daunsul Street, crossed the Gauntan Isle, Sharmran Isle, and ended on the Old Arn Isles Chancever Street.",
+                "link" 
+                    "url" "Hammarhantus Lane",
+                    "label" "Hammarhantus Lane"
+            ,
+            "id" "83"
+        ,
+            "categoryId" "8",
+            "position" [
                 2429.4766631355,
                 1777.590332011
             ],
-            "popup": {
-                "title": "Dockmarch",
-                "description": "The cobbled street that ran along the easternmost end of the town, from [[the Harbortower]] to the very end of the [[Watchfire Point]].",
-                "link": {
-                    "url": "Dockmarch ",
-                    "label": "Dockmarch"
-                }
-            },
-            "id": "84"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Dockmarch",
+                "description" "The cobbled street that ran along the easternmost end of the town, from the Harbortower to the very end of the Watchfire Point.",
+                "link" 
+                    "url" "Dockmarch ",
+                    "label" "Dockmarch"
+            ,
+            "id" "84"
+        ,
+            "categoryId" "8",
+            "position" [
                 2551.9479905462,
                 1185.8212834443
             ],
-            "popup": {
-                "title": "Dockmarch",
-                "description": "The cobbled street that ran along the easternmost end of the town, from [[the Harbortower]] to the very end of the [[Watchfire Point]].",
-                "link": {
-                    "url": "Dockmarch",
-                    "label": "Dockmarch"
-                }
-            },
-            "id": "85"
-        },
-        {
-            "categoryId": "5",
-            "position": [
+            "popup" 
+                "title" "Dockmarch",
+                "description" "The cobbled street that ran along the easternmost end of the town, from the Harbortower to the very end of the Watchfire Point.",
+                "link" 
+                    "url" "Dockmarch",
+                    "label" "Dockmarch"
+            ,
+            "id" "85"
+        ,
+            "categoryId" "5",
+            "position" [
                 2627.4147813931,
                 927.58051810215
             ],
-            "popup": {
-                "title": "Watchfire Point",
-                "description": "The easternmost end point of [[Marsember]].",
-                "link": {
-                    "url": "Watchfire Point",
-                    "label": "Watchfire Point"
-                }
-            },
-            "id": "86"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Watchfire Point",
+                "description" "The easternmost end point of Marsember.",
+                "link" 
+                    "url" "Watchfire Point",
+                    "label" "Watchfire Point"
+            ,
+            "id" "86"
+        ,
+            "categoryId" "8",
+            "position" [
                 556.49188852569,
                 470.93454355666
             ],
-            "popup": {
-                "title": "Fendrol's Way",
-                "description": "Fendrol's Way began at the southern arch of the city gate, ran across the [[Harmuth]], [[West Darnmist]], and [[East Darnmist]] Isles, before ending in front of [[Iyrinthorn]] on the [[Stormrock Isle]]'s.",
-                "link": {
-                    "url": "Fendrol's Way",
-                    "label": "Fendrol's Way"
-                }
-            },
-            "id": "87"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Fendrols Way",
+                "description" "Fendrols Way began at the southern arch of the city gate, ran across the Harmuth, West Darnmist, and East Darnmist Isles, before ending in front of Iyrinthorn on the Stormrock Isles.",
+                "link" 
+                    "url" "Fendrols Way",
+                    "label" "Fendrols Way"
+            ,
+            "id" "87"
+        ,
+            "categoryId" "8",
+            "position" [
                 1018.2337649086,
                 300.52287975552
             ],
-            "popup": {
-                "title": "Fendrol's Way",
-                "description": "Fendrol's Way began at the southern arch of the city gate, ran across the [[Harmuth]], [[West Darnmist]], and [[East Darnmist]] Isles, before ending in front of [[Iyrinthorn]] on the [[Stormrock Isle]]'s.",
-                "link": {
-                    "url": "Fendrol's Way",
-                    "label": "Fendrol's Way"
-                }
-            },
-            "id": "88"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Fendrols Way",
+                "description" "Fendrols Way began at the southern arch of the city gate, ran across the Harmuth, West Darnmist, and East Darnmist Isles, before ending in front of Iyrinthorn on the Stormrock Isles.",
+                "link" 
+                    "url" "Fendrols Way",
+                    "label" "Fendrols Way"
+            ,
+            "id" "88"
+        ,
+            "categoryId" "8",
+            "position" [
                 1371.7856244777,
                 214.96260241034
             ],
-            "popup": {
-                "title": "Fendrol's Way",
-                "description": "Fendrol's Way began at the southern arch of the city gate, ran across the [[Harmuth]], [[West Darnmist]], and [[East Darnmist]] Isles, before ending in front of [[Iyrinthorn]] on the [[Stormrock Isle]]'s.",
-                "link": {
-                    "url": "Fendrol's Way",
-                    "label": "Fendrol's Way"
-                }
-            },
-            "id": "89"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Fendrols Way",
+                "description" "Fendrols Way began at the southern arch of the city gate, ran across the Harmuth, West Darnmist, and East Darnmist Isles, before ending in front of Iyrinthorn on the Stormrock Isles.",
+                "link" 
+                    "url" "Fendrols Way",
+                    "label" "Fendrols Way"
+            ,
+            "id" "89"
+        ,
+            "categoryId" "8",
+            "position" [
                 1818.6811366564,
                 421.43506621044
             ],
-            "popup": {
-                "title": "Fendrol's Way",
-                "description": "Fendrol's Way began at the southern arch of the city gate, ran across the [[Harmuth]], [[West Darnmist]], and [[East Darnmist]] Isles, before ending in front of [[Iyrinthorn]] on the [[Stormrock Isle]]'s.",
-                "link": {
-                    "url": "Fendrol's Way",
-                    "label": "Fendrol's Way"
-                }
-            },
-            "id": "90"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Fendrols Way",
+                "description" "Fendrols Way began at the southern arch of the city gate, ran across the Harmuth, West Darnmist, and East Darnmist Isles, before ending in front of Iyrinthorn on the Stormrock Isles.",
+                "link" 
+                    "url" "Fendrols Way",
+                    "label" "Fendrols Way"
+            ,
+            "id" "90"
+        ,
+            "categoryId" "8",
+            "position" [
                 2256.7587007124,
                 1215.9480087742
             ],
-            "popup": {
-                "title": "Gelguld Lane",
-                "description": "Gelguld Lane ran west from the southern gate of the naval base, ending at [[Felgontar's Firehelm]] eatery. ",
-                "link": {
-                    "url": "Gelguld Lane",
-                    "label": "Gelguld Lane"
-                }
-            },
-            "id": "91"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Gelguld Lane",
+                "description" "Gelguld Lane ran west from the southern gate of the naval base, ending at Felgontars Firehelm eatery. ",
+                "link" 
+                    "url" "Gelguld Lane",
+                    "label" "Gelguld Lane"
+            ,
+            "id" "91"
+        ,
+            "categoryId" "8",
+            "position" [
                 1783.9355964259,
                 1035.8982710202
             ],
-            "popup": {
-                "title": "Gelguld Lane",
-                "description": "Gelguld Lane ran west from the southern gate of the naval base, ending at Felgontar's Firehelm eatery.",
-                "link": {
-                    "url": "Gelguld Lane",
-                    "label": "Gelguld Lane"
-                }
-            },
-            "id": "92"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Gelguld Lane",
+                "description" "Gelguld Lane ran west from the southern gate of the naval base, ending at Felgontars Firehelm eatery.",
+                "link" 
+                    "url" "Gelguld Lane",
+                    "label" "Gelguld Lane"
+            ,
+            "id" "92"
+        ,
+            "categoryId" "8",
+            "position" [
                 1584.9889739354,
                 1060.9455676575
             ],
-            "popup": {
-                "title": "Tarnsar Lane",
-                "description": "The street began by the city wall and ran south, past [[Felgontar's Firehelm]], ending at the [[Morningmist Hall]] and [[Hammarhantus Lane]].",
-                "link": {
-                    "url": "Tarnsar Lane",
-                    "label": "Tarnsar Lane"
-                }
-            },
-            "id": "93"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Tarnsar Lane",
+                "description" "The street began by the city wall and ran south, past Felgontars Firehelm, ending at the Morningmist Hall and Hammarhantus Lane.",
+                "link" 
+                    "url" "Tarnsar Lane",
+                    "label" "Tarnsar Lane"
+            ,
+            "id" "93"
+        ,
+            "categoryId" "8",
+            "position" [
                 1697.0506600975,
                 828.72885986226
             ],
-            "popup": {
-                "title": "Hammarhantus Lane",
-                "description": "The street ran from the [[Nornsar Isle]] past the end of [[Daunsul Street]], crossed the [[Gauntan Isle]], [[Sharmran Isle]], and ended on the [[Old Arn Isle]]'s [[Chancever Street]].",
-                "link": {
-                    "url": "Hammarhantus Lane",
-                    "label": "Hammarhantus Lane"
-                }
-            },
-            "id": "94"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Hammarhantus Lane",
+                "description" "The street ran from the Nornsar Isle past the end of Daunsul Street, crossed the Gauntan Isle, Sharmran Isle, and ended on the Old Arn Isles Chancever Street.",
+                "link" 
+                    "url" "Hammarhantus Lane",
+                    "label" "Hammarhantus Lane"
+            ,
+            "id" "94"
+        ,
+            "categoryId" "8",
+            "position" [
                 1182.2251462374,
                 654.70864727979
             ],
-            "popup": {
-                "title": "Hammarhantus Lane",
-                "description": "The street ran from the [[Nornsar Isle]] past the end of [[Daunsul Street]], crossed the [[Gauntan Isle]], [[Sharmran Isle]], and ended on the [[Old Arn Isle]]'s [[Chancever Street]].",
-                "link": {
-                    "url": "Hammarhantus Lane",
-                    "label": "Hammarhantus Lane"
-                }
-            },
-            "id": "95"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Hammarhantus Lane",
+                "description" "The street ran from the Nornsar Isle past the end of Daunsul Street, crossed the Gauntan Isle, Sharmran Isle, and ended on the Old Arn Isles Chancever Street.",
+                "link" 
+                    "url" "Hammarhantus Lane",
+                    "label" "Hammarhantus Lane"
+            ,
+            "id" "95"
+        ,
+            "categoryId" "8",
+            "position" [
                 1974.0431246876,
                 862.60365087184
             ],
-            "popup": {
-                "title": "Hammarhantus Lane",
-                "description": "The street ran from the [[Nornsar Isle]] past the end of [[Daunsul Street]], crossed the [[Gauntan Isle]], [[Sharmran Isle]], and ended on the [[Old Arn Isle]]'s [[Chancever Street]].",
-                "link": {
-                    "url": "Hammarhantus Lane",
-                    "label": "Hammarhantus Lane"
-                }
-            },
-            "id": "96"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Hammarhantus Lane",
+                "description" "The street ran from the Nornsar Isle past the end of Daunsul Street, crossed the Gauntan Isle, Sharmran Isle, and ended on the Old Arn Isles Chancever Street.",
+                "link" 
+                    "url" "Hammarhantus Lane",
+                    "label" "Hammarhantus Lane"
+            ,
+            "id" "96"
+        ,
+            "categoryId" "8",
+            "position" [
                 1965.4842276989,
                 1261.4216568656
             ],
-            "popup": {
-                "title": "Thelvarspike Lane",
-                "description": "The road began at the [[Luckfist Hall]] and ran south, ending on [[Gelguld Lane]].",
-                "link": {
-                    "url": "Thelvarspike Lane",
-                    "label": "Thelvarspike Lane"
-                }
-            },
-            "id": "97"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Thelvarspike Lane",
+                "description" "The road began at the Luckfist Hall and ran south, ending on Gelguld Lane.",
+                "link" 
+                    "url" "Thelvarspike Lane",
+                    "label" "Thelvarspike Lane"
+            ,
+            "id" "97"
+        ,
+            "categoryId" "8",
+            "position" [
                 2402,
                 812.00151386586
             ],
-            "popup": {
-                "title": "Varanth Lane",
-                "description": "The street that ran past the eastern sides of the Old Arn Isle and the Wrauntwreck Isle, ending on the [[Aertoprann's Isle]].",
-                "link": {
-                    "url": "Varanth Lane",
-                    "label": "Varanth Lane"
-                }
-            },
-            "id": "98"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Varanth Lane",
+                "description" "The street that ran past the eastern sides of the Old Arn Isle and the Wrauntwreck Isle, ending on the Aertopranns Isle.",
+                "link" 
+                    "url" "Varanth Lane",
+                    "label" "Varanth Lane"
+            ,
+            "id" "98"
+        ,
+            "categoryId" "8",
+            "position" [
                 2236,
                 762.00252310977
             ],
-            "popup": {
-                "title": "Varanth Lane",
-                "description": "The street that ran past the eastern sides of the Old Arn Isle and the Wrauntwreck Isle, ending on the [[Aertoprann's Isle]].",
-                "link": {
-                    "url": "Varanth Lane",
-                    "label": "Varanth Lane"
-                }
-            },
-            "id": "99"
-        },
-        {
-            "categoryId": "5",
-            "position": [
+            "popup" 
+                "title" "Varanth Lane",
+                "description" "The street that ran past the eastern sides of the Old Arn Isle and the Wrauntwreck Isle, ending on the Aertopranns Isle.",
+                "link" 
+                    "url" "Varanth Lane",
+                    "label" "Varanth Lane"
+            ,
+            "id" "99"
+        ,
+            "categoryId" "5",
+            "position" [
                 989.1999816894531,
                 1095.8491180358724
             ],
-            "popup": {
-                "title": "Blackpillars",
-                "description": "A fortified tallhouse home of [[Delthrin the Deadmaster]] in the late 14{{th}} century [[DR]].",
-                "link": {
-                    "url": "Blackpillars",
-                    "label": "Blackpillars"
-                }
-            },
-            "id": "100"
-        }
+            "popup" 
+                "title" "Blackpillars",
+                "description" "A fortified tallhouse home of Delthrin the Deadmaster in the late 14 century DR.",
+                "link" 
+                    "url" "Blackpillars",
+                    "label" "Blackpillars"
+            ,
+            "id" "100"
     ],
-    "markerProgress": false
-}
+    "markerProgress" false
 gve8m6l58p112tyzjyt2c7qvljo9so1
-
-

@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "3|5|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Sang kauw.png",
-        "caption": "",
-        "name": "Sang Kauw",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Weapon",
-        "creator": "",
-        "location": "[[Kara-Tur]]",
-        "basicrefs": "",
-        "value1e": "1 [[ch'ien]]",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "95 [[gp]]",
-        "weight3e": "{{SI|10|lb|k}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,7 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The '''sang kauw''' ({{Pronounce|song|cow|refs=}}) was a weapon unique to the continent of [[Kara-Tur]].",
-        "Description": "The sang kauw was available in two distinct forms. The primary form consisted of a double-headed spear {{SIrange|3|5|ft|long=yes}} in length with a loop handle positioned at the center, featuring a dagger or crescent extending from it. This version required one hand for effective parrying and attacking. The alternate form closely resembled the first, except for the inclusion of a small buckler fitted in the center, from which the dagger blade projected. Regardless of the chosen form, mastering the use of the sang kauw demanded extensive training for optimal effectiveness."
+        "mainbody": "The sang kauw () was a weapon unique to the continent of Kara-Tur.\nThe sang kauw was available in two distinct forms. The primary form consisted of a double-headed spear  in length with a loop handle positioned at the center, featuring a dagger or crescent extending from it. This version required one hand for effective parrying and attacking. The alternate form closely resembled the first, except for the inclusion of a small buckler fitted in the center, from which the dagger blade projected. Regardless of the chosen form, mastering the use of the sang kauw demanded extensive training for optimal effectiveness."
     }
 }

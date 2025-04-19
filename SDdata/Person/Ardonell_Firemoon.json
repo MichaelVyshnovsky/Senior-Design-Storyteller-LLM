@@ -1,27 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Ardonell firemoon.jpg",
-        "caption": "''Ardonell Firemoon and her enchanted ''[[spellblade]]''.",
-        "name": "Ardonell Firemoon",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "the [[Dalelands]]",
-        "formerhomes": "",
-        "sex": "Female",
-        "gender": "",
-        "race": "[[Half-elf]]",
-        "ethnicity": "",
-        "occupation": "Harper agent",
-        "age": "",
-        "patron deity": "",
-        "languages": "",
-        "basicrefs": "{{Cite card/AD&D Trading Cards/1992|107|Ardonell Firemoon}}",
         "reckoning": "",
         "dob": "",
         "dobnotes": "",
@@ -46,8 +24,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Neutral good]]",
-        "class2e": "{{class table|edition=2e|[[Bard]]|5}}",
+        "alignment2e": "Neutral good",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
@@ -64,8 +42,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Ardonell Firemoon''' was a [[Harper]] agent who harbored anti-[[Cormyr]] views in the 14{{th}} century [[DR]].",
-        "Description": "Ardonell Firemoon was known for her passionate views on the growing political power of [[Cormyr]]. Her speeches often riled up unrest towards the Land of the Purple Dragon. Another notable quality of hers was the knowledge of old lore, ancient stories, and legends that surprised even [[Elminster Aumar]] hiself.",
-        "Possessions": "Ardonell Firemoon's gear included an enchanted ''+2 [[chainmail]]'', a ''[[spellblade]]'' that made her untochable to ''[[lightning bolt]]'' spells, and a pair of ''[[boots of speed]]''."
+        "mainbody": "Ardonell Firemoon was a Harper agent who harbored anti-Cormyr views in the 14 century DR.\nArdonell Firemoon was known for her passionate views on the growing political power of Cormyr. Her speeches often riled up unrest towards the Land of the Purple Dragon. Another notable quality of hers was the knowledge of old lore, ancient stories, and legends that surprised even Elminster Aumar hiself.\nArdonell Firemoons gear included an enchanted +2 chainmail, a spellblade that made her untochable to lightning bolt spells, and a pair of boots of speed."
     }
 }

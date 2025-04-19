@@ -1,69 +1,36 @@
-{{Spell
-| image         = Light.jpg
-| caption       = Khelben casts a light in the darkness.
-| name          = Light
-| deity         = [[Qotal]] (Maztica only)
-| inventor      = [[Brightfinger]]
-| type          = 
-| school5e      = [[Evocation]]
-| domains5e     = [[Light domain|Light]]
-| circles5e     = 
-| oaths5e       = 
-| patrons5e     = 
-| traditions5e  = 
-| level5e       = {{Spell table|edition=5e|[[Artificer]]|0|[[Bard]]|0|[[Cleric]]|0|[[Sorcerer]]|0|[[Wizard]]|0|}}
-| type5e        = [[Cantrip]]
+| type5e        = Cantrip
 | refs5e        = 
-| keywords4e    = {{desc/arcane}}
-| level4e       = {{spell table|edition=4e|[[Wizard]]|1<ref group="note">The [[Player's Handbook 4th edition]] calls this class feature a cantrip, but wizards gain it at first level.}}
+| keywords4e    = 
+| level4e       = 
 | type4e        = At-Will
 | feature4e     = Wizard Cantrip
 | refs4e        = 
-| school3e      = [[Evocation]]
+| school3e      = Evocation
 | domains3e     = 
-| descriptors3e = {{desc/light}}
-| level3e       = {{spell table|edition=3e|[[Adept]]|0|[[Bard]]|0|[[Cleric]]|0|[[Druid]]|0|[[Sorcerer]]|0|[[Wizard]]|0|[[Wu jen]]|0}}
+| descriptors3e = 
+| level3e       = 
 | type3e        = 
 | refs3e        = 
 | reversible2e  = true
-| school2e      = [[Alteration]]<br/>[[Universal (province)]]<br/>[[Variation]], [[Pluma]]
-| spheres2e     = [[Creation sphere|Creation]], [[Guardian sphere|Guardian]], [[Pluma]], [[Sun sphere|Sun]]
-| level2e       = {{spell table|edition=2e|[[Arcanist]]|1|[[Cleric]]|1|[[Creation sphere|Creation]]|1|[[Druid]]|1|[[Guardian sphere|Guardian]]|1|[[Mystic]]|1|[[Plumaweaver]]|2|[[Sun sphere|Sun]]|1|[[Wizard]]|1}}
+| school2e      = AlterationUniversal (province)Variation, Pluma
+| spheres2e     = Creation, Guardian, Pluma, Sun
+| level2e       = 
 | type2e        = 
-| refs2e        = <ref><ref>
+| refs2e        = 
 | reversible1e  = true
-| school1e      = [[Alteration]]
-| level1e       = {{spell table|edition=1e|[[Cleric]]|1|[[Illusionist]]|1|[[Magic-user]]|1|[[Witch doctor]]|1}}
+| school1e      = Alteration
+| level1e       = 
 | type1e        = 
-| refs1e        = {{Cite dragon/141/Orcs Throw Spells, Too!|26}}
-}}
-'''''Light''''' was a very common spell learned by most spellcasters. Depending on how the caster was trained, ''light'' was either a [[cantrip]]Only the divine version of this spell was reversible. [[Wizard]]s and [[Illusionist]]s had a slightly different spell called ''[[Darkness, 15' radius]]''. and called '''''darkness''''' when reversed.
-
-{{quote|''This is a test given to the children of [[Halruaa]]. Light is the first and simplest of magical energies. It moves more swiftly than heat or sound or substance. Read this [[scroll]] and imitate the gesture written upon it. Hold your hand so, fingers all together so that the tips touch your thumb, and trace this pattern in the air before you. Begin at the red dot
-and move toward the blue.''|[[Kiva]], the [[Halruaan magehound|Inquisitrix]] of Halruaa}}
-
-==Effects==
-The area illuminated by all versions of this spell was roughly 20 to 25 ft (6.1 to 7.6 m) in radius. The range and duration of this spell varied with the spellcasting tradition. For those that learned ''light'' as a basic spell, it could be thrown 120 yards (110 m) away and last one hour to many hours. After the [[1372 DR|Year of Wild Magic, 1372 DR]], the cantrip version required the caster to touch an object to make it glow like a [[torch]], and the spell lasted for ten minutes to a few hours depending on the caster's prowess. Post-[[Spellplague]] of [[1385 DR]], it could be cast at-will, creating a bright light on a nearby object or in a nearby unoccupied space, and lasted until dispelled or a new ''light'' was cast elsewhere.
-
+| refs1e        = 
+Light was a very common spell learned by most spellcasters. Depending on how the caster was trained, light was either a cantripOnly the divine version of this spell was reversible. Wizards and Illusionists had a slightly different spell called Darkness, 15 radius. and called darkness when reversed.
+The area illuminated by all versions of this spell was roughly 20 to 25 ft (6.1 to 7.6 m) in radius. The range and duration of this spell varied with the spellcasting tradition. For those that learned light as a basic spell, it could be thrown 120 yards (110 m) away and last one hour to many hours. After the Year of Wild Magic, 1372 DR, the cantrip version required the caster to touch an object to make it glow like a torch, and the spell lasted for ten minutes to a few hours depending on the casters prowess. Post-Spellplague of 1385 DR, it could be cast at-will, creating a bright light on a nearby object or in a nearby unoccupied space, and lasted until dispelled or a new light was cast elsewhere.
 The ranged version of this spell that could target an object allowed the caster a chance to blind a creature by successfully casting the spell centered on its visual organs.
-
-The reverse of this spell, ''darkness'', caused total and impenetrable darkness in the area of effect, but the duration was only half that of ''light''.
-
-''Light'' spells could be used to counter or dispel ''[[darkness]]'' of equal or lesser power, and vice versa.
-
-[[Sinhala]] stones were also known to prevent magical darkness. [[Hambergyle]] gems could be used to turn a ''light'' spell into ''[[continual light]]''.
-
-==Components==
-The pre-Spellplague cantrip required a spoken command and a material component. For [[divine magic|divine]] spell casters, their [[holy symbol]] or [[divine focus]] was sufficient. For everybody else, ''light'' required either a firefly or a bit of phosphorescent moss. The basic spell required only verbal and somatic components. The at-will version could be cast with a wave of the hand.
-
-==History==
-The spell was attributed to [[Netherese arcanist]] [[Brightfinger]] in {{Yearlink|-1652}} and was originally called '''''Brightfinger's light'''''.
-
-==Notable Uses==
-[[File:Selune v Shar DC Comics.jpg|thumb|right|''Selûne lights up the ''Rod of Oblivion'' held by Shar.'']]
-During the [[Time of Troubles]] of the [[1358 DR|Year of Shadows, 1358 DR]], [[Khelben Arunsun]] cast ''light'' to dispel the darkness produced by the [[Dark Army of the Night]] when they invaded [[Castle Waterdeep]]. However, the spell went awry, becoming so bright it blinded all in the hall and let the Dark Army escape.{{Cite comic/Dark of the Moon|12-13}} Later, the restored [[avatar]] of [[Selûne]] used a simple ''light'' spell to cancel the dark power of [[Shar]]'s ''[[Rod of Oblivion]]'' and finally banish the [[goddess]] herself.{{Cite comic/Total Eclipse|22-23}}
-
-==Users==
-* ''Light'' was also a spell of [[pluma]] magic and could be learned by [[Maztica]]n [[plumaweaver]]s and [[Eagle Knights (Maztica)|Eagle Knights]].<ref>
-* ''[[staff of light|Staves of light]]'' required this spell to be cast upon them in order to activate their magical effect.<ref>
-
+The reverse of this spell, darkness, caused total and impenetrable darkness in the area of effect, but the duration was only half that of light.
+Light spells could be used to counter or dispel darkness of equal or lesser power, and vice versa.
+Sinhala stones were also known to prevent magical darkness. Hambergyle gems could be used to turn a light spell into continual light.
+The pre-Spellplague cantrip required a spoken command and a material component. For divine spell casters, their holy symbol or divine focus was sufficient. For everybody else, light required either a firefly or a bit of phosphorescent moss. The basic spell required only verbal and somatic components. The at-will version could be cast with a wave of the hand.
+The spell was attributed to Netherese arcanist Brightfinger in  and was originally called Brightfingers light.
+thumb|right|Selûne lights up the Rod of Oblivion held by Shar.
+During the Time of Troubles of the Year of Shadows, 1358 DR, Khelben Arunsun cast light to dispel the darkness produced by the Dark Army of the Night when they invaded Castle Waterdeep. However, the spell went awry, becoming so bright it blinded all in the hall and let the Dark Army escape. Later, the restored avatar of Selûne used a simple light spell to cancel the dark power of Shars Rod of Oblivion and finally banish the goddess herself.
+* Light was also a spell of pluma magic and could be learned by Maztican plumaweavers and Eagle Knights.
+* Staves of light required this spell to be cast upon them in order to activate their magical effect.

@@ -1,26 +1,5 @@
 {
-    "template_data": {
-        "rca": "right"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Shadowdark Ale",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Ale]]",
-        "location": "[[Old Skull Inn]], [[Shadowdale (town)|Shadowdale]]",
-        "school": "",
-        "level": "",
-        "value": "",
-        "weight": "",
-        "rules": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "{{Split table|rca=right|Hand keg|17 [[cp]]|Cask|1 [[gp]]|Barrel|35 [[sp]]|Butt|9 gp|Tun|18 gp}}",
         "weight2e": "",
         "refs2e": "",
         "school3e": "",
@@ -41,9 +20,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''Shadowdark ale''' was an [[ale]] brewed in [[Shadowdale (town)|Shadowdale]] with a dark brown cloudy bubbling appearance and a yellow foamy head.",
-        "Description": "It had a light, bitter taste.",
-        "Prices": "* Hand keg for 17 [[cp]]\n* A barrel for 35 [[sp]]\n* Cask for 1 [[gp]]\n* A [[butt]] for 9 gp\n* A [[tun]] for 18 gp.",
-        "History": "It was first served at the [[Old Skull Inn]] but was later sold in many areas of [[Faerûn]], [[The Silver Taproom]] in [[Essembra]], and even the City of Splendors, [[Waterdeep]]. The [[Friendly Arm]] inn on the Sword Coast and the [[Nashkel Inn]] in [[Amn]] served Shadowdark for a single [[gold]] [[coin]].\n\n[[Jasper (servant)|Jasper]] purchased a pitcher of Shadowdark for himself, [[Bortas]], [[Rob]], and [[Will]] at the [[Swamp Rat]] tavern in [[Ghars]], [[Cormyr]], on [[Eleint 17]] in the {{YearlinkName|1367}}. It was the most expensive drink at the Swamp Rat. Among other places in Cormyr where one could buy a frothy tankard of  Shadowdark was [[Marsember]]'s [[The Wight on a Waterdragon]]."
+        "mainbody": "Shadowdark ale was an ale brewed in Shadowdale with a dark brown cloudy bubbling appearance and a yellow foamy head.\nIt had a light, bitter taste.\n* Hand keg for 17 cp\n* A barrel for 35 sp\n* Cask for 1 gp\n* A butt for 9 gp\n* A tun for 18 gp.\nIt was first served at the Old Skull Inn but was later sold in many areas of Faerûn, The Silver Taproom in Essembra, and even the City of Splendors, Waterdeep. The Friendly Arm inn on the Sword Coast and the Nashkel Inn in Amn served Shadowdark for a single gold coin.\nJasper purchased a pitcher of Shadowdark for himself, Bortas, Rob, and Will at the Swamp Rat tavern in Ghars, Cormyr, on Eleint 17 in the . It was the most expensive drink at the Swamp Rat. Among other places in Cormyr where one could buy a frothy tankard of  Shadowdark was Marsembers The Wight on a Waterdragon."
     }
 }

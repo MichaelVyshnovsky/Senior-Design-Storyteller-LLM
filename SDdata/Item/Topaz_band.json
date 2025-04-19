@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Topaz Band''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Ring]]",
-        "creator": "",
-        "location": "[[Dwarven Dungeons]], [[Myth Drannor]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+2",
-        "value3e": "",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The '''''topaz band''''' was an enchanted ring that increased the wearer's defense. It was created in the pre–[[Weeping War]] [[Myth Drannor]].",
-        "Description": "This masterfully crafted band was created by the [[dwarves]] of old Myth Drannor. It was inlaid with multiple shimmering [[topaz]] gems, appropriately for its name.",
-        "Powers": "The ''topaz band'' bore an enchantment that increased the wearer's defense, similar to that of a ''+2 [[ring of protection]]''.",
-        "History": "In [[1369 DR]], the ''topaz band'' was discovered by a group of adventurers opposing the [[Cult of the Dragon]] in the ruins of the [[Dwarven Dungeons]] of Myth Drannor. The magic ring was within one of the chests on the [[Halls of Light]] level of the dungeon, guarded by restless [[undead]], in the same room with the stairs to the dungeon's lower levels."
+        "mainbody": "The topaz band was an enchanted ring that increased the wearers defense. It was created in the pre–Weeping War Myth Drannor.\nThis masterfully crafted band was created by the dwarves of old Myth Drannor. It was inlaid with multiple shimmering topaz gems, appropriately for its name.\nThe topaz band bore an enchantment that increased the wearers defense, similar to that of a +2 ring of protection.\nIn 1369 DR, the topaz band was discovered by a group of adventurers opposing the Cult of the Dragon in the ruins of the Dwarven Dungeons of Myth Drannor. The magic ring was within one of the chests on the Halls of Light level of the dungeon, guarded by restless undead, in the same room with the stairs to the dungeons lower levels."
     }
 }

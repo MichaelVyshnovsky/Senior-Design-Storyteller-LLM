@@ -1,23 +1,10 @@
 {
     "document_data": {
-        "title": "Keep",
-        "image": "",
-        "caption": "''Map of interior Phlan with Sokol Keep.''",
-        "name": "Sokol Keep",
-        "aliases": "Sokal Keep",
-        "size": "",
-        "capital": "",
-        "area": "[[Thorn Island]], [[Phlan]]",
-        "ruler1": "[[Ferran Martinez]]",
-        "ruleryear1": "1290",
-        "ruler2": "[[Ferran Martinez]]",
-        "ruleryear2": "1306",
-        "ruler3": "[[House Sokol]]{{Cite dungeon/170/Monument of the Ancients|55}}",
         "ruleryear3": "1480",
         "government": "",
         "languages": "",
-        "races": "[[Giant frog]]s, [[goblin]]s, [[kobold]]s, [[orc]]s, [[undead]]",
-        "religions": "[[Tyr]]",
+        "races": "Giant frogs, goblins, kobolds, orcs, undead",
+        "religions": "Tyr",
         "reckoning": "DR",
         "population2": "",
         "popyear2": "",
@@ -29,14 +16,6 @@
         "allegiance": "",
         "useon": "",
         "inhabitants": "yes",
-        "mainbody": "locations     =\n| organizations =\n| settlements   =\n}}\n'''Sokol Keep''' was located on [[Thorn Island]] near [[Phlan]].",
-        "Structure": {
-            "Interior": "In the large courtyard of the keep, dragon fire burned and destroyed most of the wooden buildings that lined the courtyard, the only exception was the stone building of the temple of [[Tyr]]. The shrine was primarily intact, but the wooden bell tower was in disrepair. The temple was located in the far left corner of the courtyard past the old wooden gates. In the center of the courtyard was the keep's old mess hall, which was an open airy building with tables. The charred stable and blacksmith shop were on the right with a rotting shed and barracks on the immediate left."
-        },
-        "History": {
-            "Tyrian Temple": "In approximately [[1290 DR]], construction of the Temple of Tyr on Thorn Island was finished; however, it was never used by anyone other than the [[cleric]]s who built it. \n\nShortly after completion, a flight of the [[dragon]]s burned and destroyed the keep in [[1306 DR]].",
-            "Pool of Radiance": "In [[1340 DR]], the keep was reported to be inhabited by monsters. [[Shal Desanea|Shal Bal]] of [[Cormyr]], [[Tarl Desanea]], and [[Ren o' the Blade]] determined the primary presence at the keep was in fact the [[undead]] souls of many clerics of Tyr, tormented to remain at the keep to protect their temple and a valuable artifact, the [[Holy Scale]]. The heroes encountered [[giant frog]]s, [[kobold]]s, [[goblin]]s, and [[orc]]s during their search of the keep, but Tarl was drawn to the undead clerics and [[warrior]]s of Tyr. They needed help to ease their sorrows, and assist them in finding eternal rest.",
-            "Monument of the Ancients": "Around [[1480 DR]], the keep was the headquarters of the merchant family [[House Sokol]]."
-        }
+        "mainbody": "| locations     =\n| organizations =\n| settlements   =\nSokol Keep was located on Thorn Island near Phlan.\nIt was an ancient fortress with stone walls charred, grayed, and desolated from dragon fire. In 1480 DR, a beacon was placed on the highest tower to be utilized as a light house.\nIn the large courtyard of the keep, dragon fire burned and destroyed most of the wooden buildings that lined the courtyard, the only exception was the stone building of the temple of Tyr. The shrine was primarily intact, but the wooden bell tower was in disrepair. The temple was located in the far left corner of the courtyard past the old wooden gates. In the center of the courtyard was the keeps old mess hall, which was an open airy building with tables. The charred stable and blacksmith shop were on the right with a rotting shed and barracks on the immediate left.\nIn approximately 1290 DR, construction of the Temple of Tyr on Thorn Island was finished however, it was never used by anyone other than the clerics who built it. \nShortly after completion, a flight of the dragons burned and destroyed the keep in 1306 DR.\nIn 1340 DR, the keep was reported to be inhabited by monsters. Shal Bal of Cormyr, Tarl Desanea, and Ren o the Blade determined the primary presence at the keep was in fact the undead souls of many clerics of Tyr, tormented to remain at the keep to protect their temple and a valuable artifact, the Holy Scale. The heroes encountered giant frogs, kobolds, goblins, and orcs during their search of the keep, but Tarl was drawn to the undead clerics and warriors of Tyr. They needed help to ease their sorrows, and assist them in finding eternal rest.\nAround 1480 DR, the keep was the headquarters of the merchant family House Sokol."
     }
 }

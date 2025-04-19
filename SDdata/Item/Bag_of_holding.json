@@ -1,29 +1,11 @@
 {
-    "template_data": {
-        "500|lb|k|long": "yes",
-        "long": "yes"
-    },
     "document_data": {
-        "image": "Bag of holding 5e.png",
-        "caption": "The Bag of Holding",
-        "name": "Bag of Holding",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Magical Bag",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "{{SI|15|lb}}-{{SI|60|lb}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
         "itemlevel3e": "",
-        "value3e": "2,500-10,000 [[gp]]",
-        "weight3e": "{{SI|15|lb}}-{{SI|60|lb}}",
+        "value3e": "2,500-10,000 gp",
+        "weight3e": "-",
         "refs3e": "",
         "level4e": "5",
         "value4e": "1,000 gp",
@@ -34,19 +16,11 @@
         "school5e": "",
         "level5e": "",
         "value5e": "",
-        "weight5e": "{{SI|15|lb}}",
+        "weight5e": "",
         "refs5e": "",
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "A '''''bag of holding''''' was a [[magical item]], often a small sack, that acted as an opening to an extradimensional space. The space inside the bag could hold a huge amount of materials without increasing the weight of the bag.",
-        "Description": {
-            "Variants": "There were similar magical bags to the bag of holding:\n* ''[[Bag of transmuting]]''\n* ''[[Bag of devouring]]''"
-        },
-        "Powers": "A typical ''bag of holding'' could hold up to {{SI|500|lb|k|long=yes}} of material that did not exceed a volume of {{SI|64|cubic feet|long=yes}}, although other types with different capacities existed. The bag also allowed a few of minutes of breathing air for creatures that could enter it. It could sustain temporarily a breathing creature for up to 10 minutes.\n\n[[File:Bag of Holding AFR.jpg|thumb|A ''bag of holding'' had the ability to...hold...many items.]]\nIf a ''bag of holding'' was placed in extradimensional space like a ''[[portable hole]]'', then both would be lost forever, but a rift to the [[Astral Plane]] was opened. Versions of the ''bag of holding'' found after the [[Second Sundering]] did not destroy its contents if torn or destroyed. Instead, they were scattered in the [[Astral Plane]].",
-        "History": "''Bags of holding'' were ancient magical items that had been known throughout the Realms from antiquity after the first of these items were brought over by [[kender]]s from the world of [[Krynn]].",
-        "Reputation": "[[Lightfoot halfling]] communities were intrigued with all things related to ease of travel, so ''bags of holding'' were more common there than in other communities, as well as a bit cheaper to buy than in most places.",
-        "Notable Owners": "[[File:Simon Aumar.png|thumb|right|250px|''Simon Aumar, with ''bag of holding'' slung at his waist.'']]\n* [[Danilo Thann]] had a green leather ''bag of holding'', filled with different items like his [[spellbook]], expensive clothing and [[jewel]]s, [[Rivengut]], brandy, [[Moonshae Moonshine]] and more.\n* [[Jarlaxle]], the legendary [[drow]] leader of [[Bregan D'aerthe]], owned several extra-dimensional storage spaces, including a ''bag of holding'', a ''portable hole'', a ''[[foldable chest]]'', and a ''[[bottomless pouch]]''.\n* [[Olive Ruskettle]], a [[halfling]] thief, had a ''bag of holding'' that was actually a gift from [[Drone Wyvernspur]] to her friend [[Jade More]].\n* [[Torleth Mindulspeer]], an antique and curio dealer from [[Gillian's Hill]], kept a ''bag of holding'', along with a ''[[necklace of fireballs]]'', and the original ''[[Greatshout as a Young Man]]'', in his trapped vault under [[Torleth's Treasures]] ''circa'' [[1372 DR]].\n* [[Torm (adventurer)|Torm]], an adventurer used to have a ''bag of holding'' in his days as one of the [[Knights of Myth Drannor]].\n* [[Simon Aumar]], a [[wild magic]] [[sorcerer]] and thief of the 1490s DR. He used it to carry everything that his companions would not.{{HAT-time}}<ref>{{Cite video/Honor Among Thieves}}",
-        "Rumors & Legends": "One popular story in the Realms talked about an adventurous, enterprising, and cunning kender founded a village inside of a big ''bag of holding'', turning it into a utopian society. Folk swore that that village still existed and thrived as of [[1372 DR]]."
+        "mainbody": "A bag of holding was a magical item, often a small sack, that acted as an opening to an extradimensional space. The space inside the bag could hold a huge amount of materials without increasing the weight of the bag.\nThe bag of holding seemed like an ordinary bag on the outside, but it could hold more than it appeared to be able to, so it was used to ease transportation of items.\nThere were similar magical bags to the bag of holding\n* Bag of transmuting\n* Bag of devouring\nA typical bag of holding could hold up to  of material that did not exceed a volume of , although other types with different capacities existed. The bag also allowed a few of minutes of breathing air for creatures that could enter it. It could sustain temporarily a breathing creature for up to 10 minutes.\nthumb|A bag of holding had the ability to...hold...many items.\nIf a bag of holding was placed in extradimensional space like a portable hole, then both would be lost forever, but a rift to the Astral Plane was opened. Versions of the bag of holding found after the Second Sundering did not destroy its contents if torn or destroyed. Instead, they were scattered in the Astral Plane.\nBags of holding were ancient magical items that had been known throughout the Realms from antiquity after the first of these items were brought over by kenders from the world of Krynn.\nLightfoot halfling communities were intrigued with all things related to ease of travel, so bags of holding were more common there than in other communities, as well as a bit cheaper to buy than in most places.\nthumb|right|250px|Simon Aumar, with bag of holding slung at his waist.\n* Danilo Thann had a green leather bag of holding, filled with different items like his spellbook, expensive clothing and jewels, Rivengut, brandy, Moonshae Moonshine and more.\n* Jarlaxle, the legendary drow leader of Bregan Daerthe, owned several extra-dimensional storage spaces, including a bag of holding, a portable hole, a foldable chest, and a bottomless pouch.\n* Olive Ruskettle, a halfling thief, had a bag of holding that was actually a gift from Drone Wyvernspur to her friend Jade More.\n* Torleth Mindulspeer, an antique and curio dealer from Gillians Hill, kept a bag of holding, along with a necklace of fireballs, and the original Greatshout as a Young Man, in his trapped vault under Torleths Treasures circa 1372 DR.\n* Torm, an adventurer used to have a bag of holding in his days as one of the Knights of Myth Drannor.\n* Simon Aumar, a wild magic sorcerer and thief of the 1490s DR. He used it to carry everything that his companions would not.\nOne popular story in the Realms talked about an adventurous, enterprising, and cunning kender founded a village inside of a big bag of holding, turning it into a utopian society. Folk swore that that village still existed and thrived as of 1372 DR."
     }
 }

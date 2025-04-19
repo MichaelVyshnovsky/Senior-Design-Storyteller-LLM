@@ -1,29 +1,5 @@
 {
-    "template_data": {
-        "0.3|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Seal of Illusk''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Wondrous item",
-        "creator": "",
-        "location": "[[Luskan]], [[Port Llast]], [[Sword Coast North]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|0.3|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -40,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Seal of Illusk''''' was an [[enchanted]] [[gold]]en [[disk]] engraved with the seal of the ancient city of [[Illusk]].",
-        "Powers": "When held, the ''seal of Illusk'' glowed with strange radiance and felt warm to the touch. The glow created an illusion that the image of Illusk's seal was dancing in eerie light. Just possessing the item affected the owner, making them feel stronger, more confident, and more brazen. However, it came at the coast of their tact. The disk was invaluable to those using their skills for diplomacy or intimidation or just those seeking to be physically stronger.",
-        "History": "In the {{YearlinkName|1374}}, the ''seal of Illusk'' was among the possessions of [[Rynn Shepherde]], an agent of [[Luskan]] sent to take over the town of [[Port Llast]]. Rynn offered the ''seal'' as a reward for those willing to help Luskan cement its hold on the port city allied with [[Neverwinter]]."
+        "mainbody": "Seal of Illusk was an enchanted golden disk engraved with the seal of the ancient city of Illusk.\nWhen held, the seal of Illusk glowed with strange radiance and felt warm to the touch. The glow created an illusion that the image of Illusks seal was dancing in eerie light. Just possessing the item affected the owner, making them feel stronger, more confident, and more brazen. However, it came at the coast of their tact. The disk was invaluable to those using their skills for diplomacy or intimidation or just those seeking to be physically stronger.\nIn the , the seal of Illusk was among the possessions of Rynn Shepherde, an agent of Luskan sent to take over the town of Port Llast. Rynn offered the seal as a reward for those willing to help Luskan cement its hold on the port city allied with Neverwinter."
     }
 }

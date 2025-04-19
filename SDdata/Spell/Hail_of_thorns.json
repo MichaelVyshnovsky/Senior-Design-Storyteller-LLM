@@ -1,22 +1,5 @@
 {
-    "template_data": {
-        "edition": "5e"
-    },
     "document_data": {
-        "image": "Hail Of Thorns 5e.png",
-        "caption": "",
-        "name": "Hail of Thorns",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Conjuration]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "{{Spell table|edition=5e|[[Ranger]]|1}}",
         "type5e": "",
         "refs5e": "",
         "feature4e": "",
@@ -43,8 +26,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Hail of thorns''''' was a [[spell]] used by [[ranger]]s.",
-        "Effects": "A caster used this spell with a ranged weapon. After casting, the ammunition from the ranged weapon, such as an arrow, became infused with magical energy by the spell. When launched, a spray of sharp thorns erupted from the missile, which rained down upon a target area.",
-        "Components": "This spell required only a [[Verbal component|verbal]] component."
+        "mainbody": "Hail of thorns was a spell used by rangers.\nA caster used this spell with a ranged weapon. After casting, the ammunition from the ranged weapon, such as an arrow, became infused with magical energy by the spell. When launched, a spray of sharp thorns erupted from the missile, which rained down upon a target area.\nThis spell required only a verbal component."
     }
 }

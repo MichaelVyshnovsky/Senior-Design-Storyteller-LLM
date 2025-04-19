@@ -1,20 +1,8 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Samia al-Giss",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Furrowed Mountains]], [[Zakhara]]{{cite book/Assassin Mountain/Holy Slayer Sourcebook|26-27}}",
         "formerhomes": "",
         "sex": "Female",
-        "race": "[[Human]]",
+        "race": "Human",
         "ethnicity": "",
         "occupation": "",
         "age": "",
@@ -37,8 +25,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Lawful evil]]",
-        "class2e": "{{class table|edition=2e|[[Thief]] ([[Holy slayer]])|6}}",
+        "alignment2e": "Lawful evil",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "class3e": "",
@@ -52,8 +40,6 @@
         "alignment5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Samia al-Giss''' was an inhabitant of the [[Furrowed Mountains]] in [[1367 DR]].{{AQ-time}}",
-        "Activities": "Samia was a member of the [[Dervish]] faction of holy slayers. She served as an advanced scout for the [[Everlasting]], warning them of potential threats entering the [[Haunted Lands]].",
-        "Possessions": "Samia owned the ''[[Amulet of Dreams]]'' and some ''[[dust of truth]]''."
+        "mainbody": "Samia al-Giss was an inhabitant of the Furrowed Mountains in 1367 DR.\nSamia was a member of the Dervish faction of holy slayers. She served as an advanced scout for the Everlasting, warning them of potential threats entering the Haunted Lands.\nSamia owned the Amulet of Dreams and some dust of truth."
     }
 }

@@ -1,40 +1,4 @@
-{{Creature
-| image        = Trumpet archon 2e.png
-| caption      = A trumpet archon casting a spell.
-| name         = Trumpet Archon
-| size5e       = 
-| type5e       = 
-| subtype5e    = 
-| alignment5e  = 
-| challenge5e  = 
-| refs5e       = 
-| size4e       = 
-| origin4e     = 
-| type4e       = 
-| subtype4e    = 
-| alignment4e  = 
-| refs4e       = 
-| size3e       = Medium
-| type3e       = [[Outsider]]
-| subtype3e    = [[Celestial archon|Archon]], [[:Category:Creatures with the good subtype|good]], [[:Category:Creatures with the lawful subtype|lawful]]
-| alignment3e  = Always [[lawful good]]
-| challenge3e  = 14
-| refs3e       = 
-| size2e       = Large
-| alignment2e  = [[Lawful good]]
-| refs2e       = 
-| size1e       = 
-| alignment1e  = 
-| refs1e       = 
-| patron deity = 
-| movement     = Flying
-| vision       = [[Darkvision]], [[low-light vision]]
-| activecycle  = Any
-| diet         = Mead
-| lifespan     = 
-| location     = [[Mount Celestia]], [[House of the Triad]]
-| intelligence = {{Int|16}}
-| language     = [[Celestial language|Celestial]], [[Draconic language|Draconic]], [[Infernal language|Infernal]]
+| language     = Celestial, Draconic, Infernal
 | subraces     = 
 | climate      = 
 | terrain      = 
@@ -47,62 +11,33 @@
 | build        = 
 | distinctions = Wings
 | form1        = Male
-| appearance1  = {{Appearance|height=6'6" &ndash; 7'9" (198&ndash;236 cm)|wingspan=|weight=185&ndash;230 lbs. (84&ndash;104 kg)|skincolor=|hairstyles=|feathers=|build=}}
+| appearance1  = 
 | form2        = Female
-| appearance2  = {{Appearance|height=6'1" &ndash; 7'4" (185&ndash;224 cm)|wingspan=|weight=165&ndash;210 lbs. (75&ndash;95 kg)|skincolor=|hairstyles=|feathers=|build=}}
+| appearance2  = 
 | based        = 
-| first        = ''[[Planes of Law]]''
-}}
-'''Trumpet archons''' were the [[celestial]] heralds and messengers of the gods of the [[Upper Planes]], These archons were named for the shining, silver trumpets each bore. and were thus&mdash;along with [[lantern archon|lantern]] and [[hound archon]]s&mdash;one of the most commonly encountered archons on the [[Material Plane]].
-
-==Description==
-By most descriptions, trumpet archons looked something like supernaturally beautiful and radiant [[avariel]]&mdash;winged [[elves]]. At least some trumpet archons had green skin, which made them similar in appearance to [[planetar]]s.2{{nd}}-edition art and descriptions for trumpet archons did not show or mention green skin, nor did the 3{{rd}}-edition [[Monster Manual 3rd edition|''Monster Manual'']] mention green skin, only describing trumpets as "beautiful, winged elves". The feature of green skin seems to have been a result of artist [[Wayne Reynolds]] redrawing an [[:File:Celestials3e.png|image made]] by [[Sam Wood]] for [[celestial]]s for the 3e ''Monster Manual'', which originally included a [[lantern archon]], a [[hound archon]], and a [[planetar]]. The [[:File:HLTarchons.jpg|redrawn image]], which was included in the reorganized [[Monster Manual v.3.5|''Monster Manual v.3.5'']], replaced the planetar with a very similar-looking trumpet archon, with the same lack of hair and even similar clothing. Author [[Thomas M. Reid]] seems to have made reference to this issue in describing his character [[Oshiga]], a trumpet archon, in the novel ''[[The Crystal Mountain]]''. Another character, [[Eirwyn]], at first confuses him for a planetar because of his green skin. Trumpets stood taller than most humans at about seven feet (210 centimeters) tall, but shorter than most [[Warden archon|warden]] or [[sword archon]]s. Those that appeared feminine in gender were slightly shorter and lighter than those that appeared masculine.
-
-===Equipment===
-Trumpet archons were often observed wearing metal collars about their necks and breastplates over their chests. As with other archons, these ornaments were not actual metal; they were mystical representations of the archon's rank within the hierarchy of Celestia and could not be removed.
-[[File:Trumpet archon 2eB.png|thumb|left|''A trumpet archon with his breastpate.'']]
-Each trumpet archon carried a gleaming [[silver]] [[trumpet]] about six feet (two meters) long. This trumpet could transform into a silver, magical [[greatsword]] at the whim of its bearer. These were granted as gifts from the powers, and each archon was only granted one such trumpet during its time as a trumpet archon. The trumpets morphed into useless chunks of lead if stolen.
-
+| first        = Planes of Law
+Trumpet archons were the celestial heralds and messengers of the gods of the Upper Planes, These archons were named for the shining, silver trumpets each bore. and were thus&mdashalong with lantern and hound archons&mdashone of the most commonly encountered archons on the Material Plane.
+By most descriptions, trumpet archons looked something like supernaturally beautiful and radiant avariel&mdashwinged elves. At least some trumpet archons had green skin, which made them similar in appearance to planetars.2-edition art and descriptions for trumpet archons did not show or mention green skin, nor did the 3-edition Monster Manual mention green skin, only describing trumpets as "beautiful, winged elves". The feature of green skin seems to have been a result of artist Wayne Reynolds redrawing an image made by Sam Wood for celestials for the 3e Monster Manual, which originally included a lantern archon, a hound archon, and a planetar. The redrawn image, which was included in the reorganized Monster Manual v.3.5, replaced the planetar with a very similar-looking trumpet archon, with the same lack of hair and even similar clothing. Author Thomas M. Reid seems to have made reference to this issue in describing his character Oshiga, a trumpet archon, in the novel The Crystal Mountain. Another character, Eirwyn, at first confuses him for a planetar because of his green skin. Trumpets stood taller than most humans at about seven feet (210 centimeters) tall, but shorter than most warden or sword archons. Those that appeared feminine in gender were slightly shorter and lighter than those that appeared masculine.
+Trumpet archons were often observed wearing metal collars about their necks and breastplates over their chests. As with other archons, these ornaments were not actual metal they were mystical representations of the archons rank within the hierarchy of Celestia and could not be removed.
+thumb|left|A trumpet archon with his breastpate.
+Each trumpet archon carried a gleaming silver trumpet about six feet (two meters) long. This trumpet could transform into a silver, magical greatsword at the whim of its bearer. These were granted as gifts from the powers, and each archon was only granted one such trumpet during its time as a trumpet archon. The trumpets morphed into useless chunks of lead if stolen.
 When sounded, the trumpets produced music of piercing, beautiful clarity. If the archon desired, the sound could be enchanted to install paralyzing awe in any hearers.
-
-==Abilities==
-Their wings allowed trumpet archons to fly, though, like all archons, they could also [[Teleport without error|teleport]] anywhere that they desired without a chance of failure.
-
-Like all archons, trumpet archons could speak and understand any language they desired and even send a [[message]] in any language over short distances. Trumpet archons could [[Detect evil|detect the presence of evil]] and also [[Magic circle against evil|protect themselves from it]]. They could create a source of [[continual flame]] whenever they desired.
-
-Trumpet archons were immune to paralyzation and electricity. They were resistant to magic and could not be affected by mundane weapons or even low-powered magical ones. They could [[darkvision|see in darkness]] and dim light. Trumpets were even more intelligent than [[sword archon]]s.
-
-==Combat==
-Trumpet archons were skilled combatants, though&mdash;like all archons&mdash;they hated having to fight. When forced, they preferred to rely on their magic first. Trumpet archons cast powerful [[divine magic]] spells and could access two of the domains of their deity, just as clerics could. Commonly, these domains included [[Air domain|air]], [[Destruction domain|destruction]], [[Good domain|good]], [[Law domain|law]], and [[War domain|war]].
-
-If a battle was going to be a long one, they would blow their powerful trumpets first to paralyze their foes and then attack with their full wrath. When engaged in battle, they produced a menacing aura of righteousness that negatively affected their foes' ability to fight back.
-
+Their wings allowed trumpet archons to fly, though, like all archons, they could also teleport anywhere that they desired without a chance of failure.
+Like all archons, trumpet archons could speak and understand any language they desired and even send a message in any language over short distances. Trumpet archons could detect the presence of evil and also protect themselves from it. They could create a source of continual flame whenever they desired.
+Trumpet archons were immune to paralyzation and electricity. They were resistant to magic and could not be affected by mundane weapons or even low-powered magical ones. They could see in darkness and dim light. Trumpets were even more intelligent than sword archons.
+Trumpet archons were skilled combatants, though&mdashlike all archons&mdashthey hated having to fight. When forced, they preferred to rely on their magic first. Trumpet archons cast powerful divine magic spells and could access two of the domains of their deity, just as clerics could. Commonly, these domains included air, destruction, good, law, and war.
+If a battle was going to be a long one, they would blow their powerful trumpets first to paralyze their foes and then attack with their full wrath. When engaged in battle, they produced a menacing aura of righteousness that negatively affected their foes ability to fight back.
 Trumpet archons could fight with other weapons than their trumpet-swords, but they rarely ever did. Trumpets never bore shields or wore any armor beyond their mystical breastplates.
-
-==Society==
-[[File:Trumpet archon NWN.png|thumb|''A trumpet archon posing with her trumpet.'']]
+thumb|A trumpet archon posing with her trumpet.
 Trumpet archons served as the messengers of the higher powers of good Whenever they arrived at a location or returned home, they blew their silver trumpets. They heralded the appearances of good deities or announced significant events. During wartime, they led armies of celestial soldiers to battle.
-
-However, the most important duty of the trumpet archons was to escort the souls of mortals who were [[Raise dead|raised]] or [[Resurrection (spell)|resurrected]] back to the Material Plane
-
-Whenever a trumpet archon left Mount Celestia, it was forbidden to involve itself in the affairs of mortals beyond inspiring goodness&mdash;and doing even that without resorting to magical persuasion. Even healing someone might be considered "inappropriate intervention," and trumpets who intervened could be punished for their actions in a number of ways. It was difficult for trumpets not to intervene, as they cared about the weak and innocent and wanted to help them. They would offer wise advice and encouragement in place of direct assistance so as to not violate their orders.
-
-Another task sometimes assigned to trumpet archons was the rescue of a captured lawful good mortal by a powerful [[fiend]]. Still another task would be to hunt down fallen archons, either to subdue them or to attempt to lead them down the path of redemption.
-
-The patron of the trumpet archons was [[Barachiel]], the Messenger. This great [[paragon archon]] was also ruler of [[Lunia]], the first of the Seven Heavens, and his fortress, the [[Citadel of Stars]], had a constant flow of trumpet archons coming and going on their missions. Under Barachiel, the trumpets were led by one of their own&mdash;a rarity among the archons. A platinum-wearing trumpet archon named [[Israfel]], who was lord of the heralds, assigned tasks to his fellows.
-
-===Promotion===
+However, the most important duty of the trumpet archons was to escort the souls of mortals who were raised or resurrected back to the Material Plane
+Whenever a trumpet archon left Mount Celestia, it was forbidden to involve itself in the affairs of mortals beyond inspiring goodness&mdashand doing even that without resorting to magical persuasion. Even healing someone might be considered "inappropriate intervention," and trumpets who intervened could be punished for their actions in a number of ways. It was difficult for trumpets not to intervene, as they cared about the weak and innocent and wanted to help them. They would offer wise advice and encouragement in place of direct assistance so as to not violate their orders.
+Another task sometimes assigned to trumpet archons was the rescue of a captured lawful good mortal by a powerful fiend. Still another task would be to hunt down fallen archons, either to subdue them or to attempt to lead them down the path of redemption.
+The patron of the trumpet archons was Barachiel, the Messenger. This great paragon archon was also ruler of Lunia, the first of the Seven Heavens, and his fortress, the Citadel of Stars, had a constant flow of trumpet archons coming and going on their missions. Under Barachiel, the trumpets were led by one of their own&mdasha rarity among the archons. A platinum-wearing trumpet archon named Israfel, who was lord of the heralds, assigned tasks to his fellows.
 Trumpet archons were specially chosen and created for their tasks,
 by the promotion of willing sword archons who had obtained platinum accoutrements. Such an offer of promotion generally only came once, and it was exceptionally rare for a sword to pass up the opportunity. However, the risk was great, as trumpet archons who died on a journey to the Prime risked oblivion.
-
-As the trumpet archon progressed along a path of goodness, the metal of its collar and breastplate appeared to change from lead to tin to brass to bronze to silver to gold and at last to platinum. When a trumpet archon wearing platinum fittings was promoted, it was transformed into a [[throne archon]] wearing lead.
-
-Alternatively, because of the extreme risks taken on by trumpet archons, a good number of trumpets were instead promoted to [[aasimon]]&mdash;either [[agathinon]] or [[light aasimon]]&mdash;after only a few such dangerous missions.
-
-==Ecology==
-Trumpet archons had a strange diet in that the only thing that they consumed was [[mead]]&mdash;and mead particularly made from the [[honey]] of the flowering plants of Mount Celestia.
-
-==Notable Trumpet Archons==
-* [[Alusiel]], a fallen trumpet archon who ruled the city of [[Mal Arundak]] on [[Layers of the Abyss#Layer 403: The Rainless Waste|Layer 403]] of the [[Abyss]].
-* [[Oshiga]], a messenger of the [[celestial paragon]] [[Erathaol]].
-
+As the trumpet archon progressed along a path of goodness, the metal of its collar and breastplate appeared to change from lead to tin to brass to bronze to silver to gold and at last to platinum. When a trumpet archon wearing platinum fittings was promoted, it was transformed into a throne archon wearing lead.
+Alternatively, because of the extreme risks taken on by trumpet archons, a good number of trumpets were instead promoted to aasimon&mdasheither agathinon or light aasimon&mdashafter only a few such dangerous missions.
+Trumpet archons had a strange diet in that the only thing that they consumed was mead&mdashand mead particularly made from the honey of the flowering plants of Mount Celestia.
+* Alusiel, a fallen trumpet archon who ruled the city of Mal Arundak on Layer 403 of the Abyss.
+* Oshiga, a messenger of the celestial paragon Erathaol.

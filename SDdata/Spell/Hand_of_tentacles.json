@@ -1,24 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "3|foot|c|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Hand of Tentacles",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]], [[Evocation]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|2}}",
         "type2e": "",
-        "refs2e": "{{cite book/Secrets of the Magister|102-103}}",
-        "mainbody": "'''''Hand of tentacles''''' was a spell that granted its caster deadly, reaching limbs.",
-        "Effects": "For nine minutes, one of the caster's hands was capped by a dozen {{SI|3|foot|c|long=yes}} long tentacles. Though the caster could not feel through them, they had the full strength of his finger, and could pick objects up; conversely, the caster was unharmed by damage to the tentacles. However, they prevented spellcasting, as even their other hand twitched in response to the tentacles.\n\nIn combat, flailing tentacles could be used in melee quite effectively, though they dealt only half damage to foes with some form of armor or protection. They could also be used for smothering a target by blocking their airways, or to blind them by blocking their view; they had limited grappling ability, and could be used to wield a weapon, in a pinch. These tendrils were about half as durable as their caster, and could be sundered.",
-        "Components": "Besides [[verbal]] and [[somatic]] components, the spell called for piece of a tentacle. It must be fresh or preserved, but not dried out.",
-        "History": "[[Azuth]] made this spell available through [[Elminster]] sometime prior to {{yearlink|1370}}.{{cite book/Secrets of the Magister|101}}"
+        "refs2e": "",
+        "mainbody": "Hand of tentacles was a spell that granted its caster deadly, reaching limbs.\nFor nine minutes, one of the casters hands was capped by a dozen  long tentacles. Though the caster could not feel through them, they had the full strength of his finger, and could pick objects up conversely, the caster was unharmed by damage to the tentacles. However, they prevented spellcasting, as even their other hand twitched in response to the tentacles.\nIn combat, flailing tentacles could be used in melee quite effectively, though they dealt only half damage to foes with some form of armor or protection. They could also be used for smothering a target by blocking their airways, or to blind them by blocking their view they had limited grappling ability, and could be used to wield a weapon, in a pinch. These tendrils were about half as durable as their caster, and could be sundered.\nBesides verbal and somatic components, the spell called for piece of a tentacle. It must be fresh or preserved, but not dried out.\nAzuth made this spell available through Elminster sometime prior to ."
     }
 }

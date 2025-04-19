@@ -1,33 +1,11 @@
 {
-    "template_data": {
-        "5|lb|k|long": "yes",
-        "7|lb|k|long": "yes",
-        "4.5|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''The Army Scythe''",
-        "othernames": "''Light Crossbow of Speed''",
-        "nicknames": "",
-        "type": "[[Light crossbow]]",
-        "creator": "",
-        "origin": "[[Frozen Forest]], [[Moonsea North]]",
-        "location": "[[Beregost]], [[West Faerûn]]<br/>[[Athkatla]], [[Amn]]<br/>[[Lonelywood]], [[Icewind Dale]]<br/>[[Severed Hand]], [[Spine of the World]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "+1, +2",
-        "value2e": "8,000 [[gp]]",
-        "weight2e": "{{SI|5|lb|k|long=yes}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
         "itemlevel3e": "+1",
         "value3e": "",
-        "weight3e": "{{SI|7|lb|k|long=yes}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -38,16 +16,12 @@
         "school5e": "",
         "level5e": "+1",
         "value5e": "",
-        "weight5e": "{{SI|4.5|lb|k|long=yes}}",
+        "weight5e": "",
         "refs5e": "",
         "communication": "",
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''The Army Scythes''''', or simply '''''light crossbows of speed''''', were a variety of [[enchanted]] [[light crossbow]]s that fired and reloaded at lightning speeds.",
-        "Description": "''Light crossbows of speed'' consisted of a wooden [[bow]] attached to a sharf, called a tiller. Most commonly, they were made of [[ash]] or [[yew]]wood. When a [[bolt]] was loaded in, the weapon's crossbar began to gently radiate a blue glow.",
-        "Powers": "These weapons possessed a simple enchantment that increased the punch from the bolts fired out and guided them toward the targets. Additionally, they possessed lightning speed that made the weapon much quicker to be shot and reloaded, effectively doubling the number of shots one could unleash, compared to regular crossbows.",
-        "History": "A large stash of ''The Army Scythes'' was discovered by the inhabitants of a short-lived [[human]] outpost in the [[Frozen Forest]] sometime before the late 13{{th}} century [[DR]]. The weapons were found in an old ruin of unknown origin. The human settlers went on using the enchanted weapons to claim large territory for themselves, only to eventually be exterminated by a large army of [[hobgoblin]]s.\n\nIn the following centuries, ''The Army Scythe'' weapon ended up in a few places, including the ruins of the [[Severed Hand]] in the {{YearlinkName|1281}},",
-        "Notable Owners": "*[[Hobart Stubbletoes]], a mysterious [[hin]] adventurer who spirited the [[Heroes of Icewind Dale]] to a lost fortress in the [[Anauroch]] in [[1281 DR]]."
+        "mainbody": "The Army Scythes, or simply light crossbows of speed, were a variety of enchanted light crossbows that fired and reloaded at lightning speeds.\nLight crossbows of speed consisted of a wooden bow attached to a sharf, called a tiller. Most commonly, they were made of ash or yewwood. When a bolt was loaded in, the weapons crossbar began to gently radiate a blue glow.\nThese weapons possessed a simple enchantment that increased the punch from the bolts fired out and guided them toward the targets. Additionally, they possessed lightning speed that made the weapon much quicker to be shot and reloaded, effectively doubling the number of shots one could unleash, compared to regular crossbows.\nA large stash of The Army Scythes was discovered by the inhabitants of a short-lived human outpost in the Frozen Forest sometime before the late 13 century DR. The weapons were found in an old ruin of unknown origin. The human settlers went on using the enchanted weapons to claim large territory for themselves, only to eventually be exterminated by a large army of hobgoblins.\nIn the following centuries, The Army Scythe weapon ended up in a few places, including the ruins of the Severed Hand in the ,\n*Hobart Stubbletoes, a mysterious hin adventurer who spirited the Heroes of Icewind Dale to a lost fortress in the Anauroch in 1281 DR."
     }
 }

@@ -1,42 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "30|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Carrier Current",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Conjuration/Summoning]], [[Alteration]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|3|}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -44,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Carrier current''''' was a common [[spell]] used by [[wizard]]s in [[Serôs]].",
-        "Effects": "This spell affected the currents in water within a {{SI|30|ft|long=yes}} radius. Creatures within this area moved at a significantly increased rate. If the increased speed was too strong for the creature, they were unable to avoid obstacles in their path. IF a creature swam outside the spell's area of effect, they were able to once again swim at their normal speed. For the spell to be cast, the caster had to be the lead swimmer, and when the caster stopped swimming, the spell expired. The number of creatures that the caster could affect was based on their skill level.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, the spell required a [[material component]] in the form of a drop of blood."
+        "mainbody": "Carrier current was a common spell used by wizards in Serôs.\nThis spell affected the currents in water within a  radius. Creatures within this area moved at a significantly increased rate. If the increased speed was too strong for the creature, they were unable to avoid obstacles in their path. IF a creature swam outside the spells area of effect, they were able to once again swim at their normal speed. For the spell to be cast, the caster had to be the lead swimmer, and when the caster stopped swimming, the spell expired. The number of creatures that the caster could affect was based on their skill level.\nIn addition to verbal and somatic components, the spell required a material component in the form of a drop of blood."
     }
 }

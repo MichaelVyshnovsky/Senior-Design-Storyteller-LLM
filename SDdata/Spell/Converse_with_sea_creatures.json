@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "ConverseWithSeaCreatures.JPG",
-        "caption": "",
-        "name": "Converse with sea creatures",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]], [[Sea (school)|Sea]]",
-        "spheres2e": "[[Animal sphere|Animal]], [[Divination sphere|Divination]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|3|[[Wizard]]|3}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Converse with sea creatures''''' was an [[arcane]] [[spell]] unique to [[Zakhara]], the Land of Fate, that only [[wizard]]s were capable of casting. The undersea realm of [[Serôs]] had a [[divine magic|divine]] version of this spell, that the [[cleric]]s of the [[animal sphere|animal]] and [[divination sphere|divination]] [[sphere]]s were able to cast.",
-        "Effects": "This spell allowed the caster to speak with any creature of the sea that had at least animal intelligence. The caster could understand the creature and be understood as well.To communicate effectively the caster needed to be able to breathe underwater, otherwise the caster needed to remain above the water but within hearing range of the creature when speaking.",
-        "Components": "This spell required a [[verbal]] and [[somatic]] component, as well as a [[material component]] in the form of a small trumpet made of shell to cast. The divine version of this spell required only a verbal component and the trumpet, but also the cleric's [[holy symbol]]."
+        "mainbody": "Converse with sea creatures was an arcane spell unique to Zakhara, the Land of Fate, that only wizards were capable of casting. The undersea realm of Serôs had a divine version of this spell, that the clerics of the animal and divination spheres were able to cast.\nThis spell allowed the caster to speak with any creature of the sea that had at least animal intelligence. The caster could understand the creature and be understood as well.To communicate effectively the caster needed to be able to breathe underwater, otherwise the caster needed to remain above the water but within hearing range of the creature when speaking.\nThis spell required a verbal and somatic component, as well as a material component in the form of a small trumpet made of shell to cast. The divine version of this spell required only a verbal component and the trumpet, but also the clerics holy symbol."
     }
 }

@@ -1,25 +1,15 @@
 {
     "document_data": {
-        "image": "<gallery>",
-        "caption": "",
-        "name": "Oil",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Adventuring gear",
-        "location": "",
-        "value1e": "1 [[gp]]",
-        "weight1e": "",
-        "refs1e": "{{Cite dragon/81/Living in a material world|62}}",
         "school2e": "",
         "level2e": "",
-        "value2e": "6 [[cp]]",
+        "value2e": "6 cp",
         "weight2e": "",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
         "itemlevel3e": "",
-        "value3e": "1 [[sp]] per pint",
-        "weight3e": "{{SI|1|lbs.}}",
+        "value3e": "1 sp per pint",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -30,22 +20,11 @@
         "school5e": "",
         "level5e": "",
         "value5e": "1 sp",
-        "weight5e": "{{SI|1|lbs.}}",
+        "weight5e": "",
         "refs5e": "",
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''Oils''' were a wide range of natural and artificial liquid substances found in the [[Realms]], closely related to [[resin]]s and [[pitch]]es. The many different varieties were often referred to simply as \"oil\", whether used as a lubricant, cooking oil, or [[lamp]] fuel.",
-        "Description": "Lamp oil was a cheap and common form of fuel, which usually came in {{SIAdj|1|pt|mL}} [[ceramic|clay]] flasks. This amount was sufficient to light most lamps and [[lantern]]s for about 6 hours. As it was reliably flammable, lamp oil could be used in an emergency as a weapon to set enemies aflame.",
-        "Natural Oil": {
-            "Animal Oil": "Some oils could be extracted from animal [[fat]]s, with sea creatures especially common in this regard.\n\n* [[Black burner]], an aquatic mammal found in the [[Great Glacier]] that secreted oil through tiny pores in its skin.\n* [[Candlefish]], an extremely oily fish that could be dried and used as a [[candle]].\n* [[Dragon shell oil]], a rare variety obtained from [[dragon turtle]]s, that was used to remove rust.\n* [[Fish oil]], a cheap and common oil widely used as an alchemical base, lubricant, and lamp fuel.\n* [[Shark oil]], used for lubrication and certain crafting processes.\n* [[Whale oil]], which could be refined to provide a pure, scentless lamp oil.",
-            "Mineral Oil": "Though rare, oil could be derived from minerals.\n\n* [[Petroleum]], a noxious rock oil that could be refined into [[mineral oil]]s and spirits such as [[naphtha]], and often used in volatile alchemical processes. It was found in [[tar pit]]s and inside the [[ventdiver]] [[fish]].{{Cite web/Candlekeep Forum/Questions for Ed Greenwood (2010)/08-01 - Petroleum Oil in the Realms}}",
-            "Vegetable Oil": "Most oils came from various plants. These vegetable oils were widely used in crafting, alchemy, and cooking.\n\n* [[Citronella oil]], used as an aromatic and insect repellent.\n* [[Oil of the eenoro vine]], a medicinal oil unique to the [[Malatran Plateau]].{{Cite organized play/LJ/Once Broken|12-13}}\n* [[Felsul flower oil]], an expensive [[perfume]]s.\n* [[Hazelnut oil]], a common cooking oil.\n* [[Hickory oil]], a common cooking oil.\n* [[Iticala sap|Iticala oil]], an oil derived from tree sap that was used on the Malatran Plateau to make lantern oil.{{Cite organized play/LJ/Plague|19-20}}\n* [[Karmak|Karmak oil]], an oil derived from tree sap that was used in [[T'u Lung]] to make ''[[flame egg]]s''.\n* [[Linseed oil]], a common [[flax]]-based oil used for manufacturing, rustproofing, and potions.\n* [[Olive oil]], a useful cooking oil made from [[olive]]s.\n* [[Pennyroyal]] oil, used as an insect repellent.\n* [[Rapeseed oil]], an cheap and common fuel and cooking oil.\n* [[Safflower oil]], a common cooking oil.\n* [[Sesame oil]], an expensive cooking oil."
-        },
-        "Crafted Oil": {
-            "Alchemical Oil": "Some oils were made by alchemists through involved processes, but weren't necessarily of magical nature.\n\n* [[Darkoil]], a [[drow]] product used to protect [[drowcraft]] equipment from sunlight degradation.\n* [[Everburning oil]], a sticky and flammable oil used as a weapon.\n* [[Shadowlight oil]], a fuel oil that was imbued with the essence of the [[Plane of Shadow]].\n* [[Oil of taggit]], a powerful [[poison]] that incapacitated the target.\n* [[Thaolet]], a [[dwarf|dwarven]] product used to remove rust and protect metal from moisture.{{Cite dragon/316/Elminster's Guide to the Realms: The Black Dwarf Mine|75}}\n* [[Oil of vitriol]], a strong [[acid]] used in manufacturing.",
-            "Magical Oil": "Magical oils functioned similar to [[potion]]s, but instead of being quaffed they were poured, smeared, or splashed over a person or object in order to imbue the effects.\n\n* ''[[Aroma of dreams]]'', a magical aromatic oil that induced sleep.\n* ''[[Curdled death]]'', a potent and deadly aromatic oil.\n* ''[[Murdock's insect ward]]'', a magical aromatic oil used as [[insect repellent]].\n* ''[[Oil of beauty]]'', a powerful beauty-enhancement product.\n* ''[[Oil of fire stilling]]'', used to protect wood from fire.{{Cite dragon/159/Bazaar of the Bizarre: Magic from the stars}}\n* ''[[Oil of fiery burning]]'', a magically-imbued explosive weapon.\n* ''[[Oil of second chances]]'', a [[Tymoran]]-made source of good luck.\n* ''[[Oil of slipperiness]]'', which made the subject frictionless and impossible to restrain.\n* ''[[Starella's aphrodisiac]]'', a magical aromatic oil with a charming effect.\n* ''[[Wizardsbane oil]]'', which handicapped [[spellcaster]]s."
-        },
-        "Usage": "Extremely flammable aromatic oil flowed through fountains in the [[Temple-Under-the-Sea]], located in the [[Fiddler's Green]] region of the [[Sea of Swords]]. The oil's sweetly sticky saccharine aroma permeated the temple's upper chambers and was used for ceremonial purposes."
+        "mainbody": "Oils were a wide range of natural and artificial liquid substances found in the Realms, closely related to resins and pitches. The many different varieties were often referred to simply as \"oil\", whether used as a lubricant, cooking oil, or lamp fuel.\nLamp oil was a cheap and common form of fuel, which usually came in  clay flasks. This amount was sufficient to light most lamps and lanterns for about 6 hours. As it was reliably flammable, lamp oil could be used in an emergency as a weapon to set enemies aflame.\nSome oils could be extracted from animal fats, with sea creatures especially common in this regard.\n* Black burner, an aquatic mammal found in the Great Glacier that secreted oil through tiny pores in its skin.\n* Candlefish, an extremely oily fish that could be dried and used as a candle.\n* Dragon shell oil, a rare variety obtained from dragon turtles, that was used to remove rust.\n* Fish oil, a cheap and common oil widely used as an alchemical base, lubricant, and lamp fuel.\n* Shark oil, used for lubrication and certain crafting processes.\n* Whale oil, which could be refined to provide a pure, scentless lamp oil.\nThough rare, oil could be derived from minerals.\n* Petroleum, a noxious rock oil that could be refined into mineral oils and spirits such as naphtha, and often used in volatile alchemical processes. It was found in tar pits and inside the ventdiver fish.\nMost oils came from various plants. These vegetable oils were widely used in crafting, alchemy, and cooking.\n* Citronella oil, used as an aromatic and insect repellent.\n* Oil of the eenoro vine, a medicinal oil unique to the Malatran Plateau.\n* Felsul flower oil, an expensive perfumes.\n* Hazelnut oil, a common cooking oil.\n* Hickory oil, a common cooking oil.\n* Iticala oil, an oil derived from tree sap that was used on the Malatran Plateau to make lantern oil.\n* Karmak oil, an oil derived from tree sap that was used in Tu Lung to make flame eggs.\n* Linseed oil, a common flax-based oil used for manufacturing, rustproofing, and potions.\n* Olive oil, a useful cooking oil made from olives.\n* Pennyroyal oil, used as an insect repellent.\n* Rapeseed oil, an cheap and common fuel and cooking oil.\n* Safflower oil, a common cooking oil.\n* Sesame oil, an expensive cooking oil.\nSome oils were made by alchemists through involved processes, but werent necessarily of magical nature.\n* Darkoil, a drow product used to protect drowcraft equipment from sunlight degradation.\n* Everburning oil, a sticky and flammable oil used as a weapon.\n* Shadowlight oil, a fuel oil that was imbued with the essence of the Plane of Shadow.\n* Oil of taggit, a powerful poison that incapacitated the target.\n* Thaolet, a dwarven product used to remove rust and protect metal from moisture.\n* Oil of vitriol, a strong acid used in manufacturing.\nMagical oils functioned similar to potions, but instead of being quaffed they were poured, smeared, or splashed over a person or object in order to imbue the effects.\n* Aroma of dreams, a magical aromatic oil that induced sleep.\n* Curdled death, a potent and deadly aromatic oil.\n* Murdocks insect ward, a magical aromatic oil used as insect repellent.\n* Oil of beauty, a powerful beauty-enhancement product.\n* Oil of fire stilling, used to protect wood from fire.\n* Oil of fiery burning, a magically-imbued explosive weapon.\n* Oil of second chances, a Tymoran-made source of good luck.\n* Oil of slipperiness, which made the subject frictionless and impossible to restrain.\n* Starellas aphrodisiac, a magical aromatic oil with a charming effect.\n* Wizardsbane oil, which handicapped spellcasters.\nExtremely flammable aromatic oil flowed through fountains in the Temple-Under-the-Sea, located in the Fiddlers Green region of the Sea of Swords. The oils sweetly sticky saccharine aroma permeated the temples upper chambers and was used for ceremonial purposes."
     }
 }

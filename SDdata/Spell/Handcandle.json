@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Handcandle",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Elemental sphere|Elemental]], [[Elemental fire sphere|Fire]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|3|[[Elemental sphere|Elemental]]|3|[[Elemental fire sphere|Elemental Fire]]|3}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Handcandle''''' was a [[divine]] [[alteration]] [[spell]] that allowed a caster to conjure a red or white flame within their hand.",
-        "Effects": "When cast, this spell manifested one of two types of light within the [[cleric]]'s open palm. The red flame was incendiary and damaging, in a manner similar to the spell ''[[produce flame]]''. The white flame was non-harmful and often used to simply illuminate a given area.\n\nNeither of the ''handcandle'' flames could be extinguished by strong gusts of air, even if they were magical in nature.",
-        "History": "The specifications of this spell could be revealed upon a surface by the [[Oghma]]n [[relic]], the ''[[Key of Faith]]''.",
-        "Components": "This spell required [[Verbal component|verbal]] and [[somatic component]]s in order to be cast."
+        "mainbody": "Handcandle was a divine alteration spell that allowed a caster to conjure a red or white flame within their hand.\nWhen cast, this spell manifested one of two types of light within the clerics open palm. The red flame was incendiary and damaging, in a manner similar to the spell produce flame. The white flame was non-harmful and often used to simply illuminate a given area.\nNeither of the handcandle flames could be extinguished by strong gusts of air, even if they were magical in nature.\nThe specifications of this spell could be revealed upon a surface by the Oghman relic, the Key of Faith.\nThis spell required verbal and somatic components in order to be cast."
     }
 }

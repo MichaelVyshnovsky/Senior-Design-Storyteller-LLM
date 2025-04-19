@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "0.5|lb|long": "yes",
-        "20|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Hoard Armor",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|3}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -45,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Hoard armor''''' was a defensive [[spell]] that could only be cast by [[dragon]]s.",
-        "Effects": "When cast within the dragon's lair, unsecured treasure was drawn into a swirling cyclone around the dragon, creating a protective barrier. Only [[gem]]s and items made from [[copper]], [[electrum]], [[gold]], [[platinum]], or [[silver]] were drawn into the barrier. An individual piece of treasure could not be more than {{SI|0.5|lb|long=yes}} in weight and had to be within {{SI|20|ft|long=yes}} of the dragon. The cyclone of treasure completely surrounded the dragon except for the face and claws, allowing the dragon to cast further spells. The dragon was able to slowly move around their lair. The spell was vulnerable to ''[[dispel magic]]''.",
-        "Casting": "In addition to a [[Verbal component|verbal]] component, the spell required a [[material component]]. About 1% of the gems and precious metals used in the spell were consumed."
+        "mainbody": "Hoard armor was a defensive spell that could only be cast by dragons.\nWhen cast within the dragons lair, unsecured treasure was drawn into a swirling cyclone around the dragon, creating a protective barrier. Only gems and items made from copper, electrum, gold, platinum, or silver were drawn into the barrier. An individual piece of treasure could not be more than  in weight and had to be within  of the dragon. The cyclone of treasure completely surrounded the dragon except for the face and claws, allowing the dragon to cast further spells. The dragon was able to slowly move around their lair. The spell was vulnerable to dispel magic.\nIn addition to a verbal component, the spell required a material component. About 1% of the gems and precious metals used in the spell were consumed."
     }
 }

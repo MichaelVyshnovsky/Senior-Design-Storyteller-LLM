@@ -1,15 +1,9 @@
 {
     "document_data": {
-        "image": "HarborZhentilKeep.jpg",
-        "caption": "A map showing Baron Street in south Zhentil Keep.",
-        "name": "Baron Street",
-        "type": "Road",
-        "aliases": "",
-        "length": "{{SI|300|ft}}",
         "width": "",
         "pavement": "",
-        "location": "The [[Zhentil Keep/Harbor District|Harbor District]], [[Zhentil Keep]]",
-        "starts": "The wall of the [[Zhentil Keep/Common Quarter|Common Quarter]]",
+        "location": "The Harbor District, Zhentil Keep",
+        "starts": "The wall of the Common Quarter",
         "ends": "The docks",
         "built": "",
         "refs": "",
@@ -23,8 +17,6 @@
         "roads": "yes",
         "bodies of water": "",
         "events": "",
-        "mainbody": "'''Baron Street''' was a road located in the city of [[Zhentil Keep]] during the mid–14{{th}} century [[DR]].",
-        "Location": "Baron Street was located in the Zhentil Keep's [[Zhentil Keep/Harbor District|Harbor District]] in the south section of the city. The road was located on the eastern side of the Harbor District. It originated at the wall to the [[Zhentil Keep/Common Quarter|Common Quarter]] then passed west before ending at the docks.",
-        "Notable Locations": "A [[Zhentarim]] warehouse and [[Tern's Shipwright Service]] were located along Baron Street."
+        "mainbody": "Baron Street was a road located in the city of Zhentil Keep during the mid–14 century DR.\nBaron Street was located in the Zhentil Keeps Harbor District in the south section of the city. The road was located on the eastern side of the Harbor District. It originated at the wall to the Common Quarter then passed west before ending at the docks.\nA Zhentarim warehouse and Terns Shipwright Service were located along Baron Street."
     }
 }

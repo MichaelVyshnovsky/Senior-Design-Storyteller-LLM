@@ -1,23 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Talking Stone",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|6}}",
         "type2e": "",
-        "refs2e": "{{cite book/Secrets of the Magister|108}}",
-        "mainbody": "'''''Talking stone''''' was a [[spell]] that allowed the caster to speak out of a stone.",
-        "Effects": "The spell allowed the wizard to touch one stone, and through it, speak and listen out of any stone in Toril he'd previously touched. Neither stone could be enclosed in a magical ward, or the spell failed and was wasted. The spell lasted over ten minutes, more for casters with greater aptitude in the Art.",
-        "Components": "Besides [[verbal]] and [[somatic]] components, two different kinds of stone, joined by a [[wire]], were consumed in the casting.",
-        "History": "[[Azuth]] made this spell available through [[Elminster]] sometime prior to {{yearlink|1370}}.{{cite book/Secrets of the Magister|101}}"
+        "refs2e": "",
+        "mainbody": "Talking stone was a spell that allowed the caster to speak out of a stone.\nThe spell allowed the wizard to touch one stone, and through it, speak and listen out of any stone in Toril hed previously touched. Neither stone could be enclosed in a magical ward, or the spell failed and was wasted. The spell lasted over ten minutes, more for casters with greater aptitude in the Art.\nBesides verbal and somatic components, two different kinds of stone, joined by a wire, were consumed in the casting.\nAzuth made this spell available through Elminster sometime prior to ."
     }
 }

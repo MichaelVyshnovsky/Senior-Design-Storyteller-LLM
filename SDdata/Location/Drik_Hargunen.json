@@ -1,28 +1,6 @@
 {
     "document_data": {
-        "type": "Settlement",
-        "name": "Drik Hargunen",
-        "image": "",
-        "caption": "",
-        "aliases": "",
-        "capital": "",
-        "area": "[[Darklands]], [[Upperdark]]",
-        "size": "Large city",
-        "ruler1": "[[Garn Hammerblows|Deep Scrivener Garn Hammerblows]]",
-        "ruleryear1": "1372",
-        "ruler2": "",
-        "ruleryear2": "",
-        "ruler3": "",
-        "ruleryear3": "",
-        "ruler4": "",
-        "ruleryear4": "",
-        "ruler5": "",
-        "ruleryear5": "",
-        "rulertype": "",
-        "government": "",
-        "languages": "",
-        "races": "'''Free''':<br/>{{percentage table|[[Duergar]]|90|[[Derro]]|6|[[Human]]|2|[[Rock gnome]]|1|[[Svirfneblin]]|1|}}'''Slaves''':<br/>{{percentage table|[[Goblin]]|59|[[Orc]]|23|[[Grimlock]]|15|[[Ogre]]|3}}",
-        "religion": "[[Laduguer]]{{Cite digital book/The Gilded Rune/Kindle|3364}}",
+        "religion": "Laduguer",
         "reckoning": "DR",
         "population1": "16,555 free, 7,792 slaves",
         "popyear1": "1372",
@@ -32,7 +10,7 @@
         "popyear3": "",
         "imports": "",
         "exports": "",
-        "alignment": "{{alignment grid|off|off|off|off|off|off|on|off|off}}",
+        "alignment": "",
         "allegiance": "",
         "usethe": "",
         "useon": "",
@@ -40,12 +18,6 @@
         "locations": "yes",
         "organizations": "yes",
         "settlements": "",
-        "mainbody": "'''Drik Hargunen''' was a [[duergar]] city in the [[Underdark]] region of [[Faerûn]].{{Cite digital book/The Gilded Rune/Kindle|3553}}",
-        "Geography": "The city was built around a natural rock chimney and [[iron]] stairways connected the various levels.",
-        "Inhabitants": "The duergar of Drik Hargunen appeared to be more tolerant than many of their kin and allowed some [[human]] slavers and traders to live in the city.",
-        "History": "In [[1480 DR]], the duergar of Drik Hargunen devised a rune [[magic]] ritual that infected the [[dwarf|dwarven]] [[deity|god]] [[Moradin|Moradin's]] [[Moradin's Vein|River of Gold]], his tangible link to [[Toril]], and caused the [[Stoneplague]].{{Cite digital book/The Gilded Rune/Kindle|4155}}",
-        "Notable locations": {
-            "Hall of Laduguer's Graving": "Temple dedicated to the god [[Laduguer]]"
-        }
+        "mainbody": "Drik Hargunen was a duergar city in the Underdark region of Faerûn.\nThe city was built around a natural rock chimney and iron stairways connected the various levels.\nThe duergar of Drik Hargunen appeared to be more tolerant than many of their kin and allowed some human slavers and traders to live in the city.\nIn 1480 DR, the duergar of Drik Hargunen devised a rune magic ritual that infected the dwarven god Moradins River of Gold, his tangible link to Toril, and caused the Stoneplague.\nHall of Laduguers Graving Temple dedicated to the god Laduguer"
     }
 }

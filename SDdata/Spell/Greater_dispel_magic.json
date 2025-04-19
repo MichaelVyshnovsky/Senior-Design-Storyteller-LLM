@@ -1,37 +1,7 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "Greater dispel magic.png",
-        "caption": "",
-        "name": "Greater Dispel Magic",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Abjuration]]",
-        "domains3e": "[[Temperance domain|Temperance]], [[Zeal domain|Zeal]]",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Bard]]|5|[[Cleric]]|6|[[Druid]]|6|[[Sorcerer]]|6|[[Temperance domain|Temperance]]|6|[[Wizard]]|6|[[Zeal domain|Zeal]]|6}}",
         "type3e": "",
-        "refs3e": "{{Cite dragon/355/Seven Saintly Domains|29-30}}",
+        "refs3e": "",
         "reversible2e": "",
         "school2e": "",
         "spheres2e": "",
@@ -43,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Greater dispel magic''''' was an [[abjuration]] spell that was a more powerful and effective version of ''[[dispel magic]]''.",
-        "Effects": "It could be used on a single target, on a spherical volume, or to negate another spell in the process of being cast. In addition, this spell had a chance to perform a ''[[remove curse]]'' on a creature or object.",
-        "Components": "This spell required only [[Verbal component|verbal]] and [[somatic component|somatic]] components."
+        "mainbody": "Greater dispel magic was an abjuration spell that was a more powerful and effective version of dispel magic. \nIt could be used on a single target, on a spherical volume, or to negate another spell in the process of being cast. In addition, this spell had a chance to perform a remove curse on a creature or object.\nThis spell required only verbal and somatic components."
     }
 }

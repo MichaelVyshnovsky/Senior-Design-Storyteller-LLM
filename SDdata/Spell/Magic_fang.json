@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Magic Fang",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "[[Bestial domain|Bestial]], [[Scalykind domain|Scalykind]]",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Druid]]|1|[[Ranger]]|1|[[Bestial domain|Bestial]]|1|[[Scalykind domain|Scalykind]]|1}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,6 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Magic fang''''' was a [[transmutation]] spell that improved a creature's natural weapons such as teeth or claws, and made them magical."
+        "mainbody": "Magic fang was a transmutation spell that improved a creatures natural weapons such as teeth or claws, and made them magical."
     }
 }

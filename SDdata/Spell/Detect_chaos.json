@@ -1,16 +1,7 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "name": "Detect Chaos",
-        "school3e": "[[Divination]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Adept]]|1|[[Cleric]]|1|[[Sohei]]|1|[[Wu jen]]|1}}",
         "type3e": "",
         "refs3e": "",
-        "mainbody": "'''''Detect chaos''''' was a [[divination]] spell that provided information about objects or creatures with a [[chaotic]] aura.",
-        "Effects": "This spell functioned exactly like ''[[detect evil]]'' except it detected chaotic auras from [[demon]]s, chaotic clerics, spells, magic items, etc."
+        "mainbody": "Detect chaos was a divination spell that provided information about objects or creatures with a chaotic aura.\nThis spell functioned exactly like detect evil except it detected chaotic auras from demons, chaotic clerics, spells, magic items, etc."
     }
 }

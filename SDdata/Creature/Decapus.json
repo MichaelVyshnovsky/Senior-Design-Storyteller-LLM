@@ -1,20 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption2": "Various depictions of decapuses",
-        "name": "Decapus",
-        "size5e": "Large",
-        "type5e": "[[Monstrosity]]",
-        "subtype5e": "",
-        "alignment5e": "[[Unaligned]]",
-        "challenge5e": "4",
-        "refs5e": "",
-        "size4e": "Medium",
-        "origin4e": "[[Aberration]]",
-        "type4e": "[[Magical beast]]",
-        "subtype4e": "",
-        "alignment4e": "[[Chaotic evil]]",
-        "refs4e": "{{Cite dragon/418/Ye Olde Creature Catalogue|14}}",
         "size3e": "",
         "type3e": "",
         "subtype3e": "",
@@ -22,7 +7,7 @@
         "challenge3e": "",
         "refs3e": "",
         "size2e": "Medium",
-        "alignment2e": "[[Chaotic evil]]",
+        "alignment2e": "Chaotic evil",
         "refs2e": "",
         "size1e": "",
         "refs1e": "",
@@ -48,10 +33,7 @@
         "build": "",
         "distinctions": "",
         "based": "",
-        "first": "[[wikipedia:en:Palace of the Silver Princess|''Palace of the Silver Princess'']]",
-        "mainbody": "'''Decapuses''' were a species of tentacled carnivorous creatures that swung through the trees and had a marine variation.",
-        "Ecology": {
-            "Habitats": "On [[Toril]], decapuses were only known to inhabit the island [[Snout of Omgar]] in the [[Chultan Peninsula]]. Beyond Toril, they could be found on the planet [[Mystara]]."
-        }
+        "first": "Palace of the Silver Princess",
+        "mainbody": "Decapuses were a species of tentacled carnivorous creatures that swung through the trees and had a marine variation.\nOn Toril, decapuses were only known to inhabit the island Snout of Omgar in the Chultan Peninsula. Beyond Toril, they could be found on the planet Mystara."
     }
 }

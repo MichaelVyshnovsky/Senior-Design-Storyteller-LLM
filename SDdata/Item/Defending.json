@@ -1,23 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Defending''",
-        "othernames": "''Defender''",
-        "nicknames": "",
-        "type": "[[Weapon quality]]",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "[[Abjuration]]",
-        "casterlevel3e": "8{{th}}",
         "itemlevel3e": "",
         "value3e": "+1,+2",
         "weight3e": "",
@@ -30,16 +12,13 @@
         "attunement5e": "Required",
         "school5e": "",
         "level5e": "",
-        "value5e": "50,001+ [[Currency|gp]]",
+        "value5e": "50,001+ gp",
         "weight5e": "",
         "refs5e": "",
         "communication": "",
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Defending''''' was a [[weapon quality]] that let a magical [[weapon]] aid its wielder in defense.",
-        "Powers": "The wielder could choose to transform the weapon's magical enhancement into a defensive barrier, making it harder for foes to hit the weapon's wielder.",
-        "Creation": "A spellcaster needed the ''[[shield (spell)|shield]]'' or ''[[shield of faith]]'' [[spell]]s to create a weapon with this [[weapon quality|quality]].",
-        "Notable Defender Weapons": "* [[Drizzt Do'Urden]]'s left-hand [[scimitar]] ''[[Twinkle]]'' was a ''+2 defending [[scimitar]]''.\n* ''[[Elfhost]]'' was a [[Sentient item|sentient]] ''+5 defender [[longsword]]''.\n* [[Mielikki]]'s twin ''[[Hornblades]]'' were ''+5 defending [[Holy (weapon quality)|holy]] [[keen]] [[mighty cleaving]] [[scimitar]]s''.<ref name=FPp48-9\">\n* ''[[Mortal Strike]]'', the personal weapon of the scholar god [[Oghma]], was a ''+5 [[sword of dancing|dancing]] defending longsword''.\n* The ''[[Rod of Four Moons]]'', the personal weapon of the moon goddess [[Selûne]], was a ''+5 defending [[disruption]] [[Holy (weapon quality)|holy]] [[heavy mace]]''.<ref name=FPp55\">\n* An enchanted ''defender [[rapier]]'' belonged to a wizard and smith [[Darnarest]] and as of [[1369 DR]], was kept in the ruins of his [[Darnarest's tower|tower]], next to the book that contained the guidance of crafting similar blades - ''[[Darnarest's Guide to Enchanting Blades]]''."
+        "mainbody": "Defending was a weapon quality that let a magical weapon aid its wielder in defense.\nThe wielder could choose to transform the weapons magical enhancement into a defensive barrier, making it harder for foes to hit the weapons wielder.\nA spellcaster needed the shield or shield of faith spells to create a weapon with this quality.\n* Drizzt DoUrdens left-hand scimitar Twinkle was a +2 defending scimitar.\n* Elfhost was a sentient +5 defender longsword.\n* Mielikkis twin Hornblades were +5 defending holy keen mighty cleaving scimitars.\n* Mortal Strike, the personal weapon of the scholar god Oghma, was a +5 dancing defending longsword.\n* The Rod of Four Moons, the personal weapon of the moon goddess Selûne, was a +5 defending disruption holy heavy mace.\n* An enchanted defender rapier belonged to a wizard and smith Darnarest and as of 1369 DR, was kept in the ruins of his tower, next to the book that contained the guidance of crafting similar blades - Darnarests Guide to Enchanting Blades."
     }
 }

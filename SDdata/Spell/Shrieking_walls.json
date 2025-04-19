@@ -1,17 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "name": "Shrieking Walls",
-        "school2e": "[[Enchantment]]",
-        "spheres2e": "[[Wards sphere|Wards]]",
-        "level2e": "{{spell table|edition=2e|[[Crusader]]|5|[[Shaman]]|5|[[Wards sphere|Wards]]|5}}",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''''Shrieking walls''''' was an [[enchantment]] that turned a room into a sonic trap.",
-        "Effects": "A room no larger than a 20 ft (6.1 m) cube could be enchanted to emit shrill shrieks and wails whenever a creature larger than a typical rat (3 lb/1.4 kg or 0.5 ft<sup>3</sup>/0.014 m<sup>3</sup>) entered. The sonic attack was only heard inside the room and for the first minute was only a warning, allowing the subject to leave the room or protect their hearing organs. After that, the sonic intensity increased for a few minutes before falling silent, deafening all in the room for a few hours, making them easier to surprise and reducing the ability of spellcasters to speak the verbal components of spells correctly. Tougher creatures were not deafened, but merely stunned for a few minutes. There was no way to resist the spell itself, but hearing protection or things like ''[[silence, 15' radius]]'' prevented the sonic energy from reaching the ears.",
-        "Components": "In addition to verbal and somatic components, this spell required a small [[gold]]en bell and a [[bee]]'s wing as material components.",
-        "References": "{{refs}}\n[[Category:Enchantment spells]]\n[[Category:Crusader spells]]\n[[Category:Shaman spells]]\n2umddwzeav30s7tdhwstlkl07vz3btr"
+        "mainbody": "Shrieking walls was an enchantment that turned a room into a sonic trap.\nA room no larger than a 20 ft (6.1 m) cube could be enchanted to emit shrill shrieks and wails whenever a creature larger than a typical rat (3 lb/1.4 kg or 0.5 ft3/0.014 m3) entered. The sonic attack was only heard inside the room and for the first minute was only a warning, allowing the subject to leave the room or protect their hearing organs. After that, the sonic intensity increased for a few minutes before falling silent, deafening all in the room for a few hours, making them easier to surprise and reducing the ability of spellcasters to speak the verbal components of spells correctly. Tougher creatures were not deafened, but merely stunned for a few minutes. There was no way to resist the spell itself, but hearing protection or things like silence, 15 radius prevented the sonic energy from reaching the ears.\nIn addition to verbal and somatic components, this spell required a small golden bell and a bees wing as material components.\nCategoryEnchantment spells\nCategoryCrusader spells\nCategoryShaman spells\n2umddwzeav30s7tdhwstlkl07vz3btr"
     }
 }

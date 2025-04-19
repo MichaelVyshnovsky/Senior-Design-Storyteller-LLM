@@ -1,55 +1,10 @@
 {
-    "template_data": {
-        "8|in|long": "yes",
-        "10|in|long": "yes"
-    },
     "document_data": {
-        "image": "Abacus.png",
-        "caption": "A standard abacus.",
-        "name": "Abacus",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Tool",
-        "creator": "",
-        "location": "[[Faerûn]], [[Shou Lung]], [[Zakhara]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "",
-        "refs3e": "",
-        "level4e": "",
-        "value4e": "",
-        "weight4e": "",
-        "refs4e": "",
-        "rarity5e": "",
-        "attunement5e": "",
-        "school5e": "",
-        "level5e": "",
-        "value5e": "2 [[gp]]",
-        "weight5e": "{{SI|2|lbs.|k}}",
         "refs5e": "",
         "communication": "",
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Abacuses''' were a type of tool for performing [[mathematics|mathematical]] calculations such as addition, subtraction, multiplication, and division. It was not possible to perform complex equations upon them.",
-        "Description": "An abacus consisted of a rectangular, wooden frame that typically measured around {{SI|8|in|long=yes}} by {{SI|10|in|long=yes}} across. Inside these frames were several heavy wires, tightly strung parallel to one another. Strung on each of these wires were typically ten wooden balls. By manipulating these balls, a user could perform simple mathematical operations.",
-        "Notable Abacuses": "* ''[[Abacus of calculation]]''\n* ''[[Occultant abacus]]'', a variety of magical abacus whose beads resembled little skulls and that had the power to alter the probability of those around the wielder.\n\n[[File:Digitalogist.jpg|thumb|''A digitalogist carefully calculates a [[spell]] on an abacus.'']]",
-        "Notable Users of Abacuses": {
-            "Classes": "* [[Artificer]]s often owned an abacus.\n* [[Digitalogist]]s often used abacuses.\n* [[Occultant]]s, a variety of adventuring accountants that were named for their use of a magical item known as the ''occultant abacus''.",
-            "Groups": "* Abacuses were a commonly used item among many sages throughout the Realms.",
-            "Individuals": "* [[Medar Klun]]\n* [[Mirt the Moneylender]] was quite adept at using abbesses to calculate money, loans, and loan interests.",
-            "Nations": "* In the empire of [[Shou Lung]], abacuses were a commonly used accounting tool."
-        }
+        "mainbody": "Abacuses were a type of tool for performing mathematical calculations such as addition, subtraction, multiplication, and division. It was not possible to perform complex equations upon them.\nAn abacus consisted of a rectangular, wooden frame that typically measured around  by  across. Inside these frames were several heavy wires, tightly strung parallel to one another. Strung on each of these wires were typically ten wooden balls. By manipulating these balls, a user could perform simple mathematical operations.\n* Abacus of calculation\n* Occultant abacus, a variety of magical abacus whose beads resembled little skulls and that had the power to alter the probability of those around the wielder.\nthumb|A digitalogist carefully calculates a spell on an abacus.\n* Artificers often owned an abacus.\n* Digitalogists often used abacuses.\n* Occultants, a variety of adventuring accountants that were named for their use of a magical item known as the occultant abacus.\n* Abacuses were a commonly used item among many sages throughout the Realms.\n* Medar Klun\n* Mirt the Moneylender was quite adept at using abbesses to calculate money, loans, and loan interests.\n* In the empire of Shou Lung, abacuses were a commonly used accounting tool."
     }
 }

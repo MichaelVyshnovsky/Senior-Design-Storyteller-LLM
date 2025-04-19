@@ -1,37 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "100'|'\"|long": "yes",
-        "30'8|'\"|long": "yes"
-    },
     "document_data": {
-        "image": "Halt undead.png",
-        "caption": "",
-        "name": "Halt Undead",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Necromancy]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Cleric]]|3|[[Sorcerer]]|3|[[Wizard]]|3}}",
         "refs3e": "",
         "reversible2e": "",
         "school2e": "",
@@ -44,9 +12,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Halt undead''''' was a type of [[arcane]] and [[divine]] spell that immobilized [[undead]].",
-        "Effects": "When cast, it affected up to three individual undead creatures, stopping them in their steps as if affected by the ''[[paralyze]]'' spell. The less intelligent undead creatures were, the less likely they were to resist the ''halt undead'' spell. Non-intelligent monsters such as [[zombie]]s and [[skeleton]]s could never resist the spell.\n\n''Halt undead'' affected undead within {{SI|100'|'\"|long=yes}} from the caster (with a longer distance when used by more powerful spellcasters), and the affected creatures could not be more than {{SI|30'8|'\"|long=yes}} away from each other. The spell lasted for 10 minutes or until the ''halted'' creature was attacked or harmed in any way.",
-        "Components": "The ''halt undead'' spell required [[Verbal component|verbal]], [[Somatic component|somatic]], and [[Material component|material]] components to be cast. The spell's material component was a pinch of [[sulphur]] and powdered [[garlic]].",
-        "Notable Users": "*[[Khalia]], a [[Red Wizard]] diplomat in the late 14{{th}} century [[DR]].\n*[[Sharaera Duthtue]], a [[moon elf]] member of the [[Company of the Cloak]] in the late 14{{th}} century DR.\n*[[Vargo Kent]], was a senior member of the [[Dragonwell]] cell of the [[Cult of the Dragon]] during the 14{{th}} and 15{{th}} centuries DR.\n*[[Xara Tantlor]], a tomb raider of [[North Faerûn]], active in the late 14{{th}} century DR."
+        "mainbody": "Halt undead was a type of arcane and divine spell that immobilized undead.\nWhen cast, it affected up to three individual undead creatures, stopping them in their steps as if affected by the paralyze spell. The less intelligent undead creatures were, the less likely they were to resist the halt undead spell. Non-intelligent monsters such as zombies and skeletons could never resist the spell.\nHalt undead affected undead within  from the caster (with a longer distance when used by more powerful spellcasters), and the affected creatures could not be more than  away from each other. The spell lasted for 10 minutes or until the halted creature was attacked or harmed in any way.\nThe halt undead spell required verbal, somatic, and material components to be cast. The spells material component was a pinch of sulphur and powdered garlic.\n*Khalia, a Red Wizard diplomat in the late 14 century DR.\n*Sharaera Duthtue, a moon elf member of the Company of the Cloak in the late 14 century DR.\n*Vargo Kent, was a senior member of the Dragonwell cell of the Cult of the Dragon during the 14 and 15 centuries DR.\n*Xara Tantlor, a tomb raider of North Faerûn, active in the late 14 century DR."
     }
 }

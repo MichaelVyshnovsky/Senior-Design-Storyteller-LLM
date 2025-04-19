@@ -1,26 +1,6 @@
 {
-    "template_data": {
-        "rca": "right"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Behavior of Insects",
-        "othernames": "",
-        "type": "Entomology [[book]]",
-        "author": "",
-        "date": "",
-        "publisher": "",
-        "released": "",
-        "discovered": "",
-        "location": "",
-        "origin": "",
-        "language": "[[Common]]",
-        "volumes": "3",
-        "pages": "",
-        "edition": "",
-        "value": "{{Split table|rca=right|As a set|150 [[gp]]|Individually|20 gp}}",
-        "basicrefs": "{{Cite dungeon/29/Ex Libris|39}}",
+        "basicrefs": "",
         "binding": "",
         "cover": "",
         "material": "",
@@ -54,8 +34,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Behavior of Insects''''' was a three-volume series of [[book]]s that detailed the behaviors of various insects throughout the Realms.\n\nThe first volume in this series covered the mundane varieties of insects. The second volume covered giant insects. And the third volume covered the behaviors of insects that had been created through [[magic]]al means, such as by the [[spell]]s ''[[creeping doom]]'' and ''[[insect plague]]''.",
-        "Description": "All three volumes in this series had a green cover.",
-        "History": "A copy of each volume in this series laid within one of the main reading rooms of [[Bard Keep]], a library and temple of [[Oghma]] that stood within [[the North]] near [[Silverymoon]]."
+        "mainbody": "Behavior of Insects was a three-volume series of books that detailed the behaviors of various insects throughout the Realms.\nThe first volume in this series covered the mundane varieties of insects. The second volume covered giant insects. And the third volume covered the behaviors of insects that had been created through magical means, such as by the spells creeping doom and insect plague.\nAll three volumes in this series had a green cover.\nA copy of each volume in this series laid within one of the main reading rooms of Bard Keep, a library and temple of Oghma that stood within the North near Silverymoon."
     }
 }

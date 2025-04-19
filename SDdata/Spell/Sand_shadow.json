@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Sand shadow",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Illusion]], [[Sand (school)|Sand]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|2}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Sand shadow''''' was a [[spell]] used by wizards in [[Anauroch]] and [[Zakhara]], the Land of Fate.",
-        "Effects": "This spell could conceal a target as long as they were mostly within a shadow. The target could only be viewed through magical detection. The target could move between shadows but became visible when fully exposed to the sunlight. This spell lasted for three hours and could not be ended early by the caster or recipient. A ''[[dispel magic]]'' spell cast by someone else would end the spell. Light spells also made the target visible.",
-        "Components": "This spell required a pinch of dry [[sand]] and an eyelash to cast."
+        "mainbody": "Sand shadow was a spell used by wizards in Anauroch and Zakhara, the Land of Fate.\nThis spell could conceal a target as long as they were mostly within a shadow. The target could only be viewed through magical detection. The target could move between shadows but became visible when fully exposed to the sunlight. This spell lasted for three hours and could not be ended early by the caster or recipient. A dispel magic spell cast by someone else would end the spell. Light spells also made the target visible. \nThis spell required a pinch of dry sand and an eyelash to cast."
     }
 }

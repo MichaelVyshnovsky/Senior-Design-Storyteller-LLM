@@ -1,36 +1,5 @@
 {
-    "template_data": {
-        "100|mi|k|long": "yes"
-    },
     "document_data": {
-        "image": "Gwynneth.jpg",
-        "caption": "A map showing the Llyrath Forest on Gwynneth.",
-        "name": "Llyrath Forest",
-        "alt spelling": "",
-        "aliases": "",
-        "type": "Forest",
-        "region": "[[Gwynneth]], the [[Moonshae Isles]]",
-        "size": "",
-        "elevation": "",
-        "depth": "",
-        "capital": "",
-        "largest city": "",
-        "georefs": "",
-        "usethe": "yes",
-        "useon": "",
-        "inhabitants": "yes",
-        "locations": "yes",
-        "organizations": "yes",
-        "settlements": "yes",
-        "roads": "yes",
-        "mountains": "yes",
-        "bodies of water": "yes",
-        "forests": "yes",
-        "events": "",
-        "food and drink": "",
-        "items": "",
-        "mainbody": "The '''Llyrath Forest''' blanketed the southern coast of the isle of [[Gwynneth]] in the [[Moonshae Isles]]. It was considered one of the wildest areas of the kingdom of [[Corwell]], with few [[human]] residents, and was home to wild animals such as [[boar]]s and [[bear]]s.",
-        "Geography": "The forest covered much of southwestern Gwynneth, stretching east to west for over {{SI|100|mi|k|long=yes}}.{{Cite interactive atlas}}{{Cite dungeon/196/Backdrop: The Moonshae Isles}}",
-        "Fauna": "[[Pheasant]]s, [[quail]], [[rabbit]]s, and [[deer]] were present within the forest. Several types of [[fungus]] on Gwynneth could only be found in Llyrath."
+        "mainbody": "he Llyrath Forest blanketed the southern coast of the isle of Gwynneth in the Moonshae Isles. It was considered one of the wildest areas of the kingdom of Corwell, with few human residents, and was home to wild animals such as boars and bears.\nThe forest covered much of southwestern Gwynneth, stretching east to west for over .\nPheasants, quail, rabbits, and deer were present within the forest. Several types of fungus on Gwynneth could only be found in Llyrath."
     }
 }

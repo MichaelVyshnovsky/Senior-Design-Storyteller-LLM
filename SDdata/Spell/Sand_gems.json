@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Sand Gems",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|7|}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Sand gems''''' was a spell used by [[wizard]]s in [[Anauroch]]. It was extremely rare outside Anauroch.",
-        "Effects": "When cast, the spell permanently transformed [[sand]] into [[gem]]s. The gems were cut and polished, and always amber or red in color. The gem could by of any shape or size, but they had to fit in the hands of the caster. The gems had a minimum value of 1,000 [[gold piece]]s.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, the spell required a [[material component]], namely the handful of sand."
+        "mainbody": "Sand gems was a spell used by wizards in Anauroch. It was extremely rare outside Anauroch.\nWhen cast, the spell permanently transformed sand into gems. The gems were cut and polished, and always amber or red in color. The gem could by of any shape or size, but they had to fit in the hands of the caster. The gems had a minimum value of 1,000 gold pieces.\nIn addition to verbal and somatic components, the spell required a material component, namely the handful of sand."
     }
 }

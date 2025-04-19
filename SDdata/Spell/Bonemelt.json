@@ -1,34 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Bonemelt",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "reversible2e": "",
-        "school2e": "[[Necromancy]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|8}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -36,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Bonemelt''''' was a powerful enchantment that can transform the solid bones of a mammalian creature into a quivering mass of jelly. The [[dracolich]] [[Daurgothoth]] was the exclusive caster of this [[spell]].",
-        "Effects": "When cast on a targeted creature, the target collapsed into a helpless state, resembling an amoebalike slithering blob. While the targeted creature retained basic bodily functions such as breathing and slow movement, their ability to climb, fly, or manipulate objects became severely impaired. If they were unable to adapt to their boneless state, the spell was often fatal.\n\nA boneless limb took the form of a dangling, jellylike mass lacking the strength required to hold or carry objects. If the affected limb was typically used for movement, the targeted creature's ability to use said limb was significantly reduced, rendering activities such as spellcasting or tasks requiring balance and dexterity nearly impossible. Boneless creatures did not require sustenance, rest, or air to survive. However, exposure to direct sunlight for more than seven continuous hours inflicted significant harm.  Once the spell expired, the victim returned to their normal form.\n\nDaurgothoth could reverse the spell at will, often used it as a means to transform victims into servitor [[undead]]. Otherwise, the spell's effects last for a duration of twenty-five days from the time of casting.",
-        "Components": "This spell only required a [[verbal component]]."
+        "mainbody": "Bonemelt was a powerful enchantment that can transform the solid bones of a mammalian creature into a quivering mass of jelly. The dracolich Daurgothoth was the exclusive caster of this spell.\nWhen cast on a targeted creature, the target collapsed into a helpless state, resembling an amoebalike slithering blob. While the targeted creature retained basic bodily functions such as breathing and slow movement, their ability to climb, fly, or manipulate objects became severely impaired. If they were unable to adapt to their boneless state, the spell was often fatal.\nA boneless limb took the form of a dangling, jellylike mass lacking the strength required to hold or carry objects. If the affected limb was typically used for movement, the targeted creatures ability to use said limb was significantly reduced, rendering activities such as spellcasting or tasks requiring balance and dexterity nearly impossible. Boneless creatures did not require sustenance, rest, or air to survive. However, exposure to direct sunlight for more than seven continuous hours inflicted significant harm.  Once the spell expired, the victim returned to their normal form.\nDaurgothoth could reverse the spell at will, often used it as a means to transform victims into servitor undead. Otherwise, the spells effects last for a duration of twenty-five days from the time of casting.\nThis spell only required a verbal component."
     }
 }

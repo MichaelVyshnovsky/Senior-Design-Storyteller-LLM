@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "10'|'\"|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Mist of Eldath",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Evocation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Druid]]|7}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -38,7 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Mist of Eldath''''' was an [[Eldathyn]] [[spell]] from the lawful [[evocation]] school of magic, used by [[druid]]s.",
-        "Effects": "When cast, the ''mist of Eldath'' spell blanketed an area of {{SI|10'|'\"|long=yes}} radius in sight of the caster with a green-blue haze. All creatures within the mist were immediately cured of all [[disease]]s or [[poison]]s and had their wounds closed and healed by Eldathyn magics. The ''mist of Eldath'' remained in place for six seconds and dissipated afterward."
+        "mainbody": "Mist of Eldath was an Eldathyn spell from the lawful evocation school of magic, used by druids.\nWhen cast, the mist of Eldath spell blanketed an area of  radius in sight of the caster with a green-blue haze. All creatures within the mist were immediately cured of all diseases or poisons and had their wounds closed and healed by Eldathyn magics. The mist of Eldath remained in place for six seconds and dissipated afterward."
     }
 }

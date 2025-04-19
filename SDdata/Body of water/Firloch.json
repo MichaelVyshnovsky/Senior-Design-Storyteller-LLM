@@ -1,15 +1,5 @@
 {
-    "template_data": {
-        "k|long": "yes"
-    },
     "document_data": {
-        "image": "Sarifal.jpg",
-        "caption": "A map showing the Firloch on Gwynneth.",
-        "name": "Firloch",
-        "aliases": "",
-        "type": "Lake",
-        "region": "[[Gwynneth]], the [[Moonshae Isles]]",
-        "size": "{{SI|24|sq mi|k}}",
         "depth": "",
         "river source": "",
         "river mouth": "",
@@ -28,7 +18,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "The '''Firloch''' was a lake found on the island of [[Gwynneth]] within the [[Moonshae Isles]].{{Cite interactive atlas}}{{Cite dungeon/196/Backdrop: The Moonshae Isles}}",
-        "Geography": "The lake was located near the center of the [[Winterglen]] just north of [[Citadel Umbra]] in northeast Gwynneth. The Firloch was longer than it was wide, covering approximately {{SI|24|sq mi|k|long=yes}}."
+        "mainbody": "The Firloch was a lake found on the island of Gwynneth within the Moonshae Isles.\nThe lake was located near the center of the Winterglen just north of Citadel Umbra in northeast Gwynneth. The Firloch was longer than it was wide, covering approximately ."
     }
 }

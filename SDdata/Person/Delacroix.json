@@ -1,24 +1,13 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "name": "Delacroix",
-        "home": "[[Eileanar]], [[Netheril]]",
-        "formerhomes": "",
-        "sex": "Female",
-        "gender": "",
-        "race": "[[Human]]",
-        "ethnicity": "[[Netherese]]{{Neth-race}}",
         "occupation": "Teacher",
         "basicrefs": "",
         "death": "-339",
-        "deathnotes": "during [[Karsus's Folly]]",
+        "deathnotes": "during Karsuss Folly",
         "daterefs": "",
-        "alignment2e": "[[Chaotic good]]",
-        "class2e": "{{class table|edition=2e|[[Arcanist]]|22}}",
+        "alignment2e": "Chaotic good",
+        "class2e": "",
         "refs2e": "",
-        "mainbody": "alignment3e    =\n| challenge3e    =\n| class3e        =\n| refs3e         =\n| alignment35    =\n| challenge35    =\n| class35        =\n| refs35         =\n| alignment4e    =\n| class4e        =\n| refs4e         =\n| alignment5e    =\n| challenge5e    =\n| class5e        =\n| refs5e         =\n}}\n'''Delacroix''' was a powerful [[Netherese]] [[arcanist ]] and [[alchemist]] who taught at the [[Alchemical Seminary]] in [[Eileanar]] shortly before its destruction in {{yearlinkConvert|3520|NY}}.",
-        "Activities": "Delacroix was an expert alchemist with a focus on [[potion]]s and [[oil]]s, and taught this skill at the Seminary under the supervision of [[Quintus]]. Alongside [[Colombier]], she was considered one of the more practical and relatable teachers there, as everyone could appreciate the applications of useful potions and [[magical powder]]s."
+        "mainbody": "| alignment3e    =\n| challenge3e    =\n| class3e        =\n| refs3e         =\n| alignment35    =\n| challenge35    =\n| class35        =\n| refs35         =\n| alignment4e    =\n| class4e        =\n| refs4e         =\n| alignment5e    =\n| challenge5e    =\n| class5e        =\n| refs5e         =\nDelacroix was a powerful Netherese arcanist  and alchemist who taught at the Alchemical Seminary in Eileanar shortly before its destruction in .\nDelacroix was an expert alchemist with a focus on potions and oils, and taught this skill at the Seminary under the supervision of Quintus. Alongside Colombier, she was considered one of the more practical and relatable teachers there, as everyone could appreciate the applications of useful potions and magical powders."
     }
 }

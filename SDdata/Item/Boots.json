@@ -1,16 +1,5 @@
 {
-    "template_data": {
-        "rca": "right"
-    },
     "document_data": {
-        "image": "Boots.jpg",
-        "caption": "",
-        "name": "Boots",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Armor]], clothing",
-        "location": "",
-        "value1e": "{{Split table|rca=right|High Boots (Hard)|2 [[gp]]|High Boots (Soft)|1 gp|Low Boots (Hard)|1 gp|Low Boots (Soft)|8 [[sp]]}}",
         "weight1e": "",
         "refs1e": "",
         "school2e": "",
@@ -38,9 +27,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''Boots''' were a piece of [[armor]] (or clothing) used for defending the feet and lower legs.",
-        "Description": "Boots came in several types (such as high, low, hard, and soft), and could be enchanted. [[Riding boots]] were used by [[adventurer]]s when riding mounts.\n\nThose who wore [[magic]]al boots must wear the pair (one on each foot) to receive the benefits. Oddly matched boots provided no benefit.\n\n[[Plate armor]], which covered almost all of the body, included heavy [[leather]] boots. Climber's kits came with boot tips to make scaling mountainous slopes much more easy.",
-        "Notable Boots": "* ''[[Boots of elvenkind]]''\n* ''[[Boots of speed]]''\n* ''[[Boots of striding and springing]]''",
-        "Trivia": "* The [[holy symbol]] of [[Marthammor Duin]] was a tall boot behind a vertical [[mace]].\n* In the 13{{th}} century [[DR]], the [[wizard]] [[Thendarion]] became trapped in a boot.\n* [[Hethmeir's Highboots]] in [[Everlund]] sold custom-made boots. They could be made from almost any hide and cost up to 1,000 [[gp]] per pair."
+        "mainbody": "Boots were a piece of armor (or clothing) used for defending the feet and lower legs.\nBoots came in several types (such as high, low, hard, and soft), and could be enchanted. Riding boots were used by adventurers when riding mounts.\nThose who wore magical boots must wear the pair (one on each foot) to receive the benefits. Oddly matched boots provided no benefit.\nPlate armor, which covered almost all of the body, included heavy leather boots. Climbers kits came with boot tips to make scaling mountainous slopes much more easy.\n* Boots of elvenkind\n* Boots of speed\n* Boots of striding and springing\n* The holy symbol of Marthammor Duin was a tall boot behind a vertical mace.\n* In the 13 century DR, the wizard Thendarion became trapped in a boot.\n* Hethmeirs Highboots in Everlund sold custom-made boots. They could be made from almost any hide and cost up to 1,000 gp per pair."
     }
 }

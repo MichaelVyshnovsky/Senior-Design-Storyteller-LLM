@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Spiked Gauntlet of Ulbaerag''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Gauntlet]]",
-        "creator": "",
-        "location": "[[Waterdeep]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "10th",
-        "itemlevel3e": "",
-        "value3e": "50,305 [[gp]]",
-        "weight3e": "{{SI|1|lb|k}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The '''''spiked gauntlet of Ulbaerag''''' was a unique [[magic]] [[gauntlet]] located in [[Waterdeep]] as of the {{YearlinkName|1372}}.",
-        "Description": "The gauntlet weighed {{SI|1|lb|k|long=yes}}.",
-        "Powers": "The ''spiked gauntlet of Ulbaerag'' was imbued with the ''[[Wounding (weapon quality)|wounding]]'' [[weapon quality]]. Blood from the victim continued to drip from the gauntlet while they bled from any injuries caused by the item.",
-        "History": "[[Ulbaerag]] used the gauntlet as a symbol of authority within [[Bloodhand Hold]] until the settlement was sacked by [[Nimoar]]. It was recovered centuries later by the [[Shadow Thieves]], who named the [[Citadel of the Bloody Hand]] for the item. Following the Shadow Thieves' banishment from Waterdeep, the gauntlet was lost again though it was believed to be hidden somewhere within the City of Splendors."
+        "mainbody": "The spiked gauntlet of Ulbaerag was a unique magic gauntlet located in Waterdeep as of the .\nThe gauntlet weighed .\nThe spiked gauntlet of Ulbaerag was imbued with the wounding weapon quality. Blood from the victim continued to drip from the gauntlet while they bled from any injuries caused by the item.\nUlbaerag used the gauntlet as a symbol of authority within Bloodhand Hold until the settlement was sacked by Nimoar. It was recovered centuries later by the Shadow Thieves, who named the Citadel of the Bloody Hand for the item. Following the Shadow Thieves banishment from Waterdeep, the gauntlet was lost again though it was believed to be hidden somewhere within the City of Splendors."
     }
 }

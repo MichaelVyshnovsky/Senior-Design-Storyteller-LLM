@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Disarm.JPG",
-        "caption": "",
-        "name": "Disarm",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|1}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Disarm''''' was an [[evocation]] [[spell]] that caused someone to drop any hand-held weapons or items they were carrying.",
-        "Effects": "When cast, ''disarm'' caused a minor telekinetic burst that knocked any items from the hands of the affected individual, launching them a number of feet away. This spell had no effects on [[ring]]s or any other worn items that were not specifically carried.",
-        "Usage": "In the city of [[Waterdeep]], this spell was commonly taught to members of [[City Watch (Waterdeep)|City Watch]].",
-        "Components": "This spell only required [[verbal]] and [[somatic component]]s."
+        "mainbody": "Disarm was an evocation spell that caused someone to drop any hand-held weapons or items they were carrying.\nWhen cast, disarm caused a minor telekinetic burst that knocked any items from the hands of the affected individual, launching them a number of feet away. This spell had no effects on rings or any other worn items that were not specifically carried.\nIn the city of Waterdeep, this spell was commonly taught to members of City Watch.\nThis spell only required verbal and somatic components."
     }
 }

@@ -1,38 +1,8 @@
 {
-    "template_data": {
-        "2": "01:04, 28 October 2020 (UTC)",
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Heaven's Trumpet",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Evocation]]",
-        "domains3e": "",
-        "descriptors3e": "{{desc/good}}{{desc/sonic}}",
-        "level3e": "{{spell table|edition=3e|[[Bard]]|6|[[Cleric]]|7|[[Emissary of Barachiel]]|4}}",
+        "level3e": "",
         "type3e": "",
-        "refs3e": "{{cite book/Book of Exalted Deeds|61,85,101}}",
+        "refs3e": "",
         "reversible2e": "",
         "school2e": "",
         "spheres2e": "",
@@ -44,9 +14,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Heaven's trumpet''''' was an [[evocation]] [[spell]] that sounded music that could paralyze a [[celestial archon]]'s enemies.",
-        "Users": "This spell could be cast only by archons who were [[bard]]s, [[cleric]]s, or [[Emissary of Barachiel|emissaries of Barachiel]].",
-        "Effect": "The caster emitted a blast of music of such perfect beauty and clarity it struck those who heard with awe. Enemies up to 120 feet (36 meters) who not withstand it could be paralyzed for up to 24 seconds.",
-        "Components": "It required a [[somatic component]], the caster's own archon nature, and a focus in the form of a well-made trumpet, which was blown during casting."
+        "mainbody": "Heavens trumpet was an evocation spell that sounded music that could paralyze a celestial archons enemies. \nThis spell could be cast only by archons who were bards, clerics, or emissaries of Barachiel. \nThe caster emitted a blast of music of such perfect beauty and clarity it struck those who heard with awe. Enemies up to 120 feet (36 meters) who not withstand it could be paralyzed for up to 24 seconds.\nIt required a somatic component, the casters own archon nature, and a focus in the form of a well-made trumpet, which was blown during casting."
     }
 }

@@ -1,12 +1,6 @@
 {
     "document_data": {
-        "image": "Zakharan Clothes.png",
-        "caption": "A keffiyeh, held in place by an [[agal]], sitting atop an [[aba]].",
-        "name": "Keffiyeh",
-        "othernames": "Keffiyah<br />Kufiya",
-        "nicknames": "",
-        "type": "Clothing{{cite book/Arabian Adventures|93}}",
-        "location": "[[Zakhara]], [[Toril]]",
+        "location": "Zakhara, Toril",
         "school": "",
         "level": "",
         "value": "",
@@ -17,7 +11,7 @@
         "refs1e": "",
         "school2e": "",
         "level2e": "",
-        "value2e": "3 [[cp]] &ndash; 10 [[gp]]",
+        "value2e": "3 cp &ndash 10 gp",
         "weight2e": "",
         "refs2e": "",
         "school3e": "",
@@ -38,8 +32,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''Keffiyeh''' (also seen as '''keffiyah'''",
-        "Description": "A keffiyeh covered the head and hung down the neck. It was secured in place by a skullcap or [[turban]], which in Zakhara was called an ''[[agal]]'' and in Anauroch an ''igal''. A keffiyeh served the practical purpose of protecting the head from the sun and the wind and was often white to avoid absorbing heat.\n\nLength, color, and style varied considerably between tribes, cities, and even families.",
-        "Price": "Price varied depending on quality: simple cloth keffiyeh sold for 3 [[cp]] and fine silk ones sold for up to 10 [[gp]].{{cite book/Arabian Adventures|86}}"
+        "mainbody": "Keffiyeh (also seen as keffiyah\nA keffiyeh covered the head and hung down the neck. It was secured in place by a skullcap or turban, which in Zakhara was called an agal and in Anauroch an igal. A keffiyeh served the practical purpose of protecting the head from the sun and the wind and was often white to avoid absorbing heat.\nLength, color, and style varied considerably between tribes, cities, and even families.\nPrice varied depending on quality simple cloth keffiyeh sold for 3 cp and fine silk ones sold for up to 10 gp."
     }
 }

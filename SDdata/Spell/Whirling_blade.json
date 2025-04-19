@@ -1,17 +1,8 @@
 {
-    "template_data": {
-        "edition": "4e",
-        "10|ft|long": "yes"
-    },
     "document_data": {
-        "type": "daily",
-        "name": "Whirling Blade",
-        "school": "",
-        "keywords4e": "{{Desc/arcane}}{{desc/weapon}}",
-        "level4e": "{{spell table|edition=4e|[[Swordmage]]|1}}",
+        "level4e": "",
         "type4e": "Daily",
         "refs4e": "",
-        "mainbody": "'''''Whirling blade''''' was a relatively powerful [[spell]] learned by some [[swordmage]]s early in their training.",
-        "Powers": "When a swordmage cast ''whirling blade'' he or she first threw a melee weapon of their choice at a target, using the power of the spell to keep the weapon aloft in the air, striking the creature with deadly force. If they missed the first target, a swordmage could send their weapon twirling towards another creature within {{SI|10|ft|long=yes}} of the first. This process could be repeated another two times and it was only upon striking true or missing a fourth target that the weapon ultimately returned to its wielder. The spell, due to its power, required a vast amount of energy on the swordmage's part, meaning that it could only be cast once per day."
+        "mainbody": "Whirling blade was a relatively powerful spell learned by some swordmages early in their training.\nWhen a swordmage cast whirling blade he or she first threw a melee weapon of their choice at a target, using the power of the spell to keep the weapon aloft in the air, striking the creature with deadly force. If they missed the first target, a swordmage could send their weapon twirling towards another creature within  of the first. This process could be repeated another two times and it was only upon striking true or missing a fourth target that the weapon ultimately returned to its wielder. The spell, due to its power, required a vast amount of energy on the swordmages part, meaning that it could only be cast once per day."
     }
 }

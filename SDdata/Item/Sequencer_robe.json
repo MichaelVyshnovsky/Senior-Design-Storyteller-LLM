@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Sequencer robe.png",
-        "caption": "",
-        "name": "''Sequencer Robe''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Robe]]",
-        "location": "[[Undermountain]], [[Underdark]]<br/>[[Hillsfar]], [[Moonsea]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+3",
-        "value3e": "",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Sequencer robes''''' were [[enchanted]] robes that allowed for the storage and use of additional [[spell]]s.",
-        "Description": "These wizardly robes were woven out of thin strips of magical fabric that could store arcane energies. These robes were primarily used to store defensive spells for use at a later date. Unlike casting a regular spell, the stored [[magic]]s were discharged instantaneously. There were stories of more powerful versions of ''sequencer robes'' in existence.",
-        "Powers": "''Sequencer robes'' allowed the wearer to store a spell within the fibers of the magic cloth by casting it on the robes. The storing could only be done once per day. After being stored, the spell could be discharged once per day. The wearer could remove the stored spell at will. Additionally, the robes carried a strong ''+3'' defensive enchantment.",
-        "History": "''Sequencer robes'' gained popularity in the late 14{{th}} century [[DR]]. One could find them in the hands of merchants, [[wizard]]s, and [[cleric]]s from [[Waterdeep]],"
+        "mainbody": "Sequencer robes were enchanted robes that allowed for the storage and use of additional spells.\nThese wizardly robes were woven out of thin strips of magical fabric that could store arcane energies. These robes were primarily used to store defensive spells for use at a later date. Unlike casting a regular spell, the stored magics were discharged instantaneously. There were stories of more powerful versions of sequencer robes in existence.\nSequencer robes allowed the wearer to store a spell within the fibers of the magic cloth by casting it on the robes. The storing could only be done once per day. After being stored, the spell could be discharged once per day. The wearer could remove the stored spell at will. Additionally, the robes carried a strong +3 defensive enchantment.\nSequencer robes gained popularity in the late 14 century DR. One could find them in the hands of merchants, wizards, and clerics from Waterdeep,"
     }
 }

@@ -1,22 +1,5 @@
 {
-    "template_data": {
-        "4|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Corth.PNG",
-        "caption": "",
-        "name": "''Corthala Family Blade''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Katana]]",
-        "location": "[[Athkatla]], [[Amn]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "+2",
-        "value2e": "",
-        "weight2e": "{{SI|4|lb|k|long=yes}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -38,8 +21,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "The '''''Corthala family blade''''' was an [[enchanted]] [[katana]] that could only be wielded by members of the [[Corthala]] family, created long before the late 14{{th}} century [[DR]].",
-        "Powers": "''Corthala family blade'' possessed a strong ''+2'' enchantment to its blade, making the weapons more ready and guiding it towards the target. This enchantment also made the katana deadly to creatures otherwise unaffected by mundane weapons. Lastly, each slash with the blade left behind a bleeding wound that slowly drained the opponents' vitality. The blade radiated magical energy but only when in the hands an a Corthala.",
-        "History": "By the {{YearlinkName|1369}}, [[Valygar Corthala]] was believed to be the last surviving member of the Corthala family and as such, he was the only man capable of wielding the katana. Valygar wielded his ''family blade'' when his paths crossed with [[Abdel Adrian]] and his companions during the [[Bhaalspawn crisis]]."
+        "mainbody": "The Corthala family blade was an enchanted katana that could only be wielded by members of the Corthala family, created long before the late 14 century DR.\nCorthala family blade possessed a strong +2 enchantment to its blade, making the weapons more ready and guiding it towards the target. This enchantment also made the katana deadly to creatures otherwise unaffected by mundane weapons. Lastly, each slash with the blade left behind a bleeding wound that slowly drained the opponents vitality. The blade radiated magical energy but only when in the hands an a Corthala.\nBy the , Valygar Corthala was believed to be the last surviving member of the Corthala family and as such, he was the only man capable of wielding the katana. Valygar wielded his family blade when his paths crossed with Abdel Adrian and his companions during the Bhaalspawn crisis."
     }
 }

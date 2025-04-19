@@ -1,41 +1,7 @@
 {
-    "template_data": {
-        "a|BIS|refs": "{{Cite dragon/93/Ay pronunseeAYshun gyd",
-        "audio": "Acheron.ogg",
-        "audio_1": "Arcadia.ogg",
-        "e|LIS|ee|um|refs": "{{Cite dragon/93/Ay pronunseeAYshun gyd"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "code": "",
-        "title": "Pronunciation Guide:<br>Planes",
-        "author": "",
-        "editor": "",
-        "publisher": "",
-        "type": "",
-        "languages": "",
-        "reprinted": "",
-        "cover_artist": "",
-        "inter_artist": "",
-        "cartography": "",
-        "realm year": "",
-        "edition1": "<!-- leave blank if there is only one -->",
-        "binding1": "",
-        "released1": "",
-        "pages1": "",
-        "isbn10-1": "",
-        "isbn13-1": "",
-        "cite1": "",
-        "series": "[[Forgotten Realms Wiki:Pronunciation Guide]]",
-        "preceded_by": "[[Forgotten Realms Wiki:Pronunciation Guide-Outsiders|Outsiders]]",
-        "followed_by": "[[Forgotten Realms Wiki:Pronunciation Guide-Races|Races]]",
-        "source": "",
-        "-\n| style": "\"text-align: center;\" |[[Gehenna]]",
-        "style": "\"text-align: center;\" |{{Pronounce|ge|HEN|na|refs=}}",
-        "-\n|}": "=References==",
-        "mainbody": "refs}}\no3hpj4vhhmx4d3qbart1lcn3cna9pqd",
-        "Planes": "{| class=\"wikitable\" style=\"text-align: center;\n! Name\n! Pronunciation\n|-\n| style=\"text-align: center;\" |[[Abyss]]\n| style=\"text-align: center;\" |{{Pronounce|a|BIS|refs={{Cite dragon/93/Ay pronunseeAYshun gyd|25}}|audio=Abyss.ogg}}\n|-\n| style=\"text-align: center;\" |[[Acheron]]\n| style=\"text-align: center;\" |{{Pronounce|ÆTCH|ur|un|refs=|audio=Acheron.ogg}}\n|-\n| style=\"text-align: center;\" |[[Arcadia]]\n| style=\"text-align: center;\" |{{Pronounce|ar|KAY|dee|a|refs=|audio=Arcadia.ogg}}\n|-\n| style=\"text-align: center;\" |[[Elysium]]\n| style=\"text-align: center;\" |{{Pronounce|e|LIS|ee|um|refs={{Cite dragon/93/Ay pronunseeAYshun gyd|26}}}}\n|-\n| style=\"text-align: center;\" |[[Gehenna]]\n| style=\"text-align: center;\" |{{Pronounce|ge|HEN|na|refs=}}\n|-\n|}",
-        "References": "{{refs}}\no3hpj4vhhmx4d3qbart1lcn3cna9pqd"
+        "-\n| style": "\"text-align center\" |Gehenna",
+        "style": "\"text-align center\" |",
+        "mainbody": "|-\n|\no3hpj4vhhmx4d3qbart1lcn3cna9pqd"
     }
 }

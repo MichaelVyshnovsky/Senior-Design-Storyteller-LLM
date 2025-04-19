@@ -1,20 +1,6 @@
 {
-    "template_data": {
-        "45|feet|long": "yes",
-        "60|feet|long": "yes",
-        "5|feet|long": "yes",
-        "1|yard|long": "yes",
-        "k|long": "yes",
-        "150|miles|k|long": "yes"
-    },
     "document_data": {
-        "image": "Wyvern Drake.png|1e",
-        "caption": "",
-        "name": "Wyvern Drake",
-        "othernames": "",
-        "size2e": "Gargantuan",
-        "alignment2e": "{{Alignment grid|off|off|off|off|off|off|on|on|on}}",
-        "refs2e": "{{cite dragon/170/Crossing Dragons With Everything|19-20,22,24}}{{cite book/Cult of the Dragon|110}}",
+        "refs2e": "",
         "patron deity": "",
         "movement": "Flying",
         "vision": "",
@@ -28,8 +14,8 @@
         "terrain": "Mountains and Forests",
         "genrefs": "",
         "height": "",
-        "length": "{{SI|45|feet|long=yes}}",
-        "wingspan": "{{SI|60|feet|long=yes}}",
+        "length": "",
+        "wingspan": "",
         "weight": "",
         "skincolor": "",
         "haircolor": "",
@@ -39,16 +25,9 @@
         "build": "Winged, serpentine",
         "distinctions": "",
         "appearrefs": "",
-        "first": "[[Dragon magazine 170]]",
+        "first": "Dragon magazine 170",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Wyvern drakes''' were the hybrid offspring of a [[wyvern]] and a [[chromatic dragon]]. They were created by [[Sammaster]] while researching [[dragon]]s.",
-        "Description": "Wyvern drakes were large, wyvern-like, and colored similarly to a wyvern as well, ranging from dark-brown to gray. Their head, about {{SI|5|feet|long=yes}}, was often the same color as its dragon parent, save for red or orange swirls around their irises, inherited from their wyvern parent. Their stingers were about {{SI|1|yard|long=yes}} long.",
-        "Personality": "Wyvern drakes were smarter than normal wyverns, and preferred to live alone.",
-        "Abilities": "The venomous stinger of the wyvern drake could strike in any direction, and the creature's [[dragon breath|breath weapon]] was so powerful only the drake's own immunity against its element would prevent one from felling it. Though clumsy, a wyvern drake was cunning, and capable of stalking with extreme certainty, foiling the alertness of more than would be expected from its bulk and speed. More importantly to their opponents, weapons and other sorcery whose power was magnified against dragons were not any more effective against these beasts.",
-        "Combat": "[[File:Wyvern Drake by Baxa.png|thumb|250px|right|]]\nWyvern drakes always fought from the open air if possible, using their breath weapon, stinger, and occassionally lifting a foe into the air for a deadly fall- or even dropping boulders on a foe. Clumsy fliers, the wyvern drakes preferred the use of their breath weapon against other fliers, though they were perfectly capable of engaging in melee with their stinger. The toughness of their naturally armored skin and the resilience of their bodies varied according to the parent dragon.",
-        "Society": "Wyvern drakes lived alone save for a few months while they reared their youth. Unlike ordinary [[wyvern]]s, they only resorted to cannibalism when no other prey whatsoever was available. They spoke as wyverns did, also knowing often the dialect of [[Draconic language|Draconic]] spoken by their dragon parent and the [[Common]] tongue; they often picked up one or two languages more on their own. Those who were reared by the Cult were guaranteed to know at least one language beyond their first two.\nThe Cult of the Dragon sometimes trained those creatures as mounts, mobile attack platforms, and scouts.",
-        "Ecology": "These creatures preferred to lair on geological features that overlooked a forest or plain, favoring those which included migration routes and caravan roads; they kept a hunting ground of about {{SI|25|sq. mi|k|long=yes}}, though they could travel {{SI|150|miles|k|long=yes}} and back again in the same day while looking for food. Wyvern drakes ate the equivalent of a cow or horse per day, swallowing victims whole after combat; they digested all but bone, stone and metal. Carrion was regarded as a food of last resort. They had few natural enemies, other than fellow apex predators who viewed their ranges as invaded.",
-        "History": "Wyvern drakes were created by [[Sammaster]] in the course of his research into draconic life, to better understand how to prolong that life after death. Enterprising cult members later realized they could be used as guards and servants; some of these hybrids later escaped into the wild.{{cite book/Cult of the Dragon|98}}\nBeyond the five most common kinds of [[chromatic dragon]]s, there were also hybrids of [[brown dragon|brown]] and [[yellow dragon]]s.{{cite web/theedverse/2022-03-21 - Shadow Dragon Hybrids}}"
+        "mainbody": "Wyvern drakes were the hybrid offspring of a wyvern and a chromatic dragon. They were created by Sammaster while researching dragons.\nWyvern drakes were large, wyvern-like, and colored similarly to a wyvern as well, ranging from dark-brown to gray. Their head, about , was often the same color as its dragon parent, save for red or orange swirls around their irises, inherited from their wyvern parent. Their stingers were about  long.\nWyvern drakes were smarter than normal wyverns, and preferred to live alone.\nThe venomous stinger of the wyvern drake could strike in any direction, and the creatures breath weapon was so powerful only the drakes own immunity against its element would prevent one from felling it. Though clumsy, a wyvern drake was cunning, and capable of stalking with extreme certainty, foiling the alertness of more than would be expected from its bulk and speed. More importantly to their opponents, weapons and other sorcery whose power was magnified against dragons were not any more effective against these beasts.\nthumb|250px|right|\nWyvern drakes always fought from the open air if possible, using their breath weapon, stinger, and occassionally lifting a foe into the air for a deadly fall- or even dropping boulders on a foe. Clumsy fliers, the wyvern drakes preferred the use of their breath weapon against other fliers, though they were perfectly capable of engaging in melee with their stinger. The toughness of their naturally armored skin and the resilience of their bodies varied according to the parent dragon.\nWyvern drakes lived alone save for a few months while they reared their youth. Unlike ordinary wyverns, they only resorted to cannibalism when no other prey whatsoever was available. They spoke as wyverns did, also knowing often the dialect of Draconic spoken by their dragon parent and the Common tongue they often picked up one or two languages more on their own. Those who were reared by the Cult were guaranteed to know at least one language beyond their first two.\nThe Cult of the Dragon sometimes trained those creatures as mounts, mobile attack platforms, and scouts.\nThese creatures preferred to lair on geological features that overlooked a forest or plain, favoring those which included migration routes and caravan roads they kept a hunting ground of about , though they could travel  and back again in the same day while looking for food. Wyvern drakes ate the equivalent of a cow or horse per day, swallowing victims whole after combat they digested all but bone, stone and metal. Carrion was regarded as a food of last resort. They had few natural enemies, other than fellow apex predators who viewed their ranges as invaded.\nWyvern drakes were created by Sammaster in the course of his research into draconic life, to better understand how to prolong that life after death. Enterprising cult members later realized they could be used as guards and servants some of these hybrids later escaped into the wild.\nBeyond the five most common kinds of chromatic dragons, there were also hybrids of brown and yellow dragons."
     }
 }

@@ -1,29 +1,5 @@
 {
     "document_data": {
-        "image": "Torch Street.jpg",
-        "caption": "",
-        "name": "Torch Street",
-        "type": "Street",
-        "aliases": "",
-        "length": "",
-        "width": "",
-        "pavement": "",
-        "location": "[[Suzail]], [[Cormyr]]",
-        "starts": "Crossing of the [[Swordstars Lane]] and [[Stonebow Street]]",
-        "ends": "[[The Lockup]]",
-        "built": "",
-        "refs": "",
-        "daggers": "",
-        "volorefs": "",
-        "usethe": "",
-        "inhabitants": "yes",
-        "locations": "yes",
-        "settlements": "",
-        "roads": "yes",
-        "events": "",
-        "mainbody": "'''Torch Street''' was a curved street in the city of [[Suzail]] that ran parallel to [[Blade Lane]], not far from the city's eastern edge.",
-        "Description": {
-            "Notable Locations": "*[[Ring of Coins]], a pawnshop with a wide selection of goods. The store stood on Torch Street, before being relocated to the [[Court Close]] in the 15{{th}} century [[DR]]."
-        }
+        "mainbody": "orch Street was a curved street in the city of Suzail that ran parallel to Blade Lane, not far from the citys eastern edge.\nTorch Street began on the crossing of Stonebow Street and a Y-shaped Swordstars Lane to the north. From there, the street moved south, past the Street of Staves, and came to an end in front of The Lockup, Suzails prison.\n*Ring of Coins, a pawnshop with a wide selection of goods. The store stood on Torch Street, before being relocated to the Court Close in the 15 century DR."
     }
 }

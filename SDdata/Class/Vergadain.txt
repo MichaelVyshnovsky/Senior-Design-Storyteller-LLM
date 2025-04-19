@@ -1,102 +1,25 @@
-{{Deity
-| image               = Vergadain 1e.png
-| caption             = ''A depiction of Vergadain.''
-| name                = Vergadain
-| title               = The Laughing Dwarf<br/>Merchant King<br/>The Short Father
-| adjective           = Vergadainan
-| symbol              = 
-| aspects             = [[Bes]]
-| power               = 
-| status              = 
-| primordial          = 
-| pantheon            = [[Morndinsamman]]<br/>[[Mulhorandi pantheon]] (as Bes)
-| home                = 
-| formerhomes         = 
-| serves              = 
-| servedby            = 
-| minions             = 
-| died                = 
-| dominion            = 
-| formerdominion      = 
-| realm               = 
-| sphere              = 
-| portfolio           = 
-| domains             = 
-| spheres             = 
-| worshipers          = 
-| cleric alignments   = 
-| favored weapon      = 
-| holy days           = 
-| channel divinity    = 
-| race                = 
-| gender              = 
-| mortalhomes         = 
-| apotheosis          = 
-| alignment           = 
-| class               = 
-| power5e             = 
-| alignment5e         = [[Neutral]]
-| symbol5e            = Gold coin with the face of a dwarf
-| homeplane5e         = 
-| realm5e             = 
-| serves5e            = 
-| servedby5e          = 
-| portfolio5e         = Luck, wealth, thieves, chance, commerce, negotiation
-| domains5e           = [[Trickery domain|Trickery]]
-| worshipers5e        = [[Dwarves]]
-
-| channel divinity5e  = ''[[Invoke duplicity]]''<br />''[[Cloak of shadows (channel divinity)|Cloak of shadows]]''
-| holy days5e         = 
-| class5e             = 
-| refs5e              = 
-| power4e             = [[Exarch]]
-| alignment4e         = [[Unaligned]]
-| symbol4e            = 
-| dominion4e          = [[Dwarfhome]]
-| realm4e             = 
-| serves4e            = [[Moradin]]
-| servedby4e          = 
-| sphere4e            = Wealth
-| domains4e           = 
-| worshipers4e        = 
-| cleric alignments4e = 
-| channel divinity4e  = 
-| holy days4e         = 
-| class4e             = 
-| refs4e              = 
-| power3e             = [[Intermediate deity]]
-| alignment3e         = [[Neutral]]
-| symbol3e            = [[Gold piece]]
-| homeplane3e         = [[Dwarfhome]]
-| realm3e             = 
-| serves3e            = 
-| servedby3e          = 
-| portfolio3e         = Chance <br/> Luck <br/> Negotiation <br/> Non-Evil [[Thieves]] <br/> Sly Cleverness <br/> Suspicion <br/> Trickery
-| domains3e           = [[Avarice domain|Avarice]], [[Dwarf domain|Dwarf]], [[Gluttony domain|Gluttony]], [[Luck domain|Luck]], [[Sloth domain|Sloth]], [[Trade domain|Trade]], [[Trickery domain|Trickery]]
-| worshipers3e        = [[Dwarves]], merchants, [[rogue]]s, wealthy individuals 
-| cleric alignments3e = {{Alignment grid|off|on|off|on|on|on|off|on|off}}
-| favored weapon3e    = [[Goldseeker]] ([[longsword]])
+| favored weapon3e    = Goldseeker (longsword)
 | holy days3e         = 
 | class3e             = 
-| refs3e              = {{Cite dragon/323/Seven Deadly Domains|65}}
-| power2e             = [[Intermediate deity]]
-| alignment2e         = [[Neutral]]
-| symbol2e            = [[Gold piece]] (always a circular coin)<br/>[[Dwarf]] wearing a [[panther]] skin and tail (as Bes)
-| homeplane2e         = [[Outlands]]
-| realm2e             = [[Dwarvish Mountain]] ([[Strongale Hall]])
-| serves2e            = [[Moradin]]
+| refs3e              = 
+| power2e             = Intermediate deity
+| alignment2e         = Neutral
+| symbol2e            = Gold piece (always a circular coin)Dwarf wearing a panther skin and tail (as Bes)
+| homeplane2e         = Outlands
+| realm2e             = Dwarvish Mountain (Strongale Hall)
+| serves2e            = Moradin
 | servedby2e          = 
-| portfolio2e         = Wealth, luck, chance, nonevil [[Thief|thieves]], entrepreneurial skills such as suspicion, trickery, negotiation, sly cleverness
+| portfolio2e         = Wealth, luck, chance, nonevil thieves, entrepreneurial skills such as suspicion, trickery, negotiation, sly cleverness
 | spheres2e           = 
 | worshipers2e        = 
-| cleric alignments2e = {{Alignment grid|off|on|off|on|on|on|off|on|off}}
+| cleric alignments2e = 
 | holy days2e         = 
-| class2e             = {{Class table|edition=2e|[[Thief]]|33|[[Bard]]|28|[[Ranger]]|20|[[Cleric]]|18}}{{former}}{{Class table|edition=2e|Bard|16}}
+| class2e             = 
 | refs2e              = 
-| power1e             = [[Greater deity]]
-| alignment1e         = [[Chaotic neutral]]
+| power1e             = Greater deity
+| alignment1e         = Chaotic neutral
 | symbol1e            = Gold piece
-| homeplane1e         = [[Concordant Opposition]]
+| homeplane1e         = Concordant Opposition
 | realm1e             = 
 | serves1e            = 
 | servedby1e          = 
@@ -104,30 +27,19 @@
 | worshipers1e        = Dwarven merchants and most non-evil dwarven thieves
 | cleric alignments1e = 
 | holy days1e         = 
-| class1e             = {{Class table|edition=1e|[[Bard]]|15|[[Druid]]|12|[[Ranger]]|12|[[Thief]]|18}}
+| class1e             = 
 | refs1e              = 
-| animals             = Gold-colored [[cat]]s
-| plants              = Rare [[spices]]
-| monsters            = [[Arcane]], [[Aurumvorax|Aurumvorae]], [[Copper dragon]]s, [[Crystal dragon]]s, [[Ghost dragon]]s, [[Gynosphinx]]es, [[Kenku]], [[Leprechaun]]s, [[Lock lurker]]s, [[Luck eater]]s, [[Messenger snake]]s, [[Plumach]]s
-| minerals            = [[Citrine]], [[Gold]] nuggets, [[Pyrite]]
+| animals             = Gold-colored cats
+| plants              = Rare spices
+| monsters            = Arcane, Aurumvorae, Copper dragons, Crystal dragons, Ghost dragons, Gynosphinxes, Kenku, Leprechauns, Lock lurkers, Luck eaters, Messenger snakes, Plumachs
+| minerals            = Citrine, Gold nuggets, Pyrite
 | colors              = Deep purple, gold
-| misc manifestations = Animated [[gold piece]]s<br />An endlessly rolling gold coin<br />Music or singing from unseen dwarves<br />Possession of a sage, singer, or prophet<br />[[Rope]]
-| manifestation refs  = {{Cite web enhancement/Deity Do's and Don'ts|15}}
+| misc manifestations = Animated gold piecesAn endlessly rolling gold coinMusic or singing from unseen dwarvesPossession of a sage, singer, or prophetRope
+| manifestation refs  = 
 | rules               = 
-}}
-'''Vergadain''' ({{Pronounce|VUR|guh|dain|refs=}}) was the [[neutral]] [[dwarven pantheon|dwarven deity]] of luck, trickery, negotiation and wealth, and for a time an [[exarch]] of [[Moradin]]. While it seemed the '''Merchant King''' represented the [[dwarf|dwarves']] well-known dedication to the mercantile art of bargaining, those who knew better were aware that he had an aspect that seldom filled the more legal-minded dwarves with pride. As such, '''The Laughing Dwarf''', as he was called by non-dwarves, also watched over those dwarves who used less-than-legal means to gain wealth. Regardless of how he was viewed, Vergadain delighted in the art of the deal, no matter what it was, so long as it turned a profit.
-
-Vergadain also represented the god '''[[Bes]]''' in the Realms, thus becoming the god of chance and luck within the [[Mulhorandi pantheon]]. In the later 14th century, worship of this aspect, the so-called '''Short Father''', had declined to the point where only a few merchants in [[Skuld]] still prayed to him.
-
-==Worshipers==
-Few admitted to following Vergadain in knowledgeable society, but those who did were known as [[hurndor]], or "those who trade". The hurndor were dedicated to furthering dwarven commerce, having traveled [[Faerûn]] farther than the priests of any member of the [[Morndinsamman]] with the exception of [[Marthammor Duin]].
-
-[[Cleric]]s of Vergadain were expected to be personally wealthy, while also ensuring that some of their wealth was dedicated to keeping the local temple filled with treasure. Holy days of Vergadain's faith were known as coin festivals (also jokingly referred to as trademeets by [[human]]s), marking a period of immense mercantile activity. These occurred on the days before and after a full moon, on [[Greengrass]] and on any day declared favorable by the Merchant Prince.
-
-==Relationships==
-[[File:Vergadain symbol.jpg|thumb|''Symbol of Vergadain.'']]
-Vergadain was very popular among the Morndinsamman, while sharing a particularly strong friendship with [[Dugmaren Brightmantle]], as they shared an interest in mischief. He also occasionally partnered with [[Abbathor]], a relationship that they both would have described as a "business arrangement". After traveling throughout Faerûn, Vergadain had also gained many allies among the non-dwarf mercantine deities.
-
-==History==
-{{sectstub}}
-
+Vergadain () was the neutral dwarven deity of luck, trickery, negotiation and wealth, and for a time an exarch of Moradin. While it seemed the Merchant King represented the dwarves well-known dedication to the mercantile art of bargaining, those who knew better were aware that he had an aspect that seldom filled the more legal-minded dwarves with pride. As such, The Laughing Dwarf, as he was called by non-dwarves, also watched over those dwarves who used less-than-legal means to gain wealth. Regardless of how he was viewed, Vergadain delighted in the art of the deal, no matter what it was, so long as it turned a profit.
+Vergadain also represented the god Bes in the Realms, thus becoming the god of chance and luck within the Mulhorandi pantheon. In the later 14th century, worship of this aspect, the so-called Short Father, had declined to the point where only a few merchants in Skuld still prayed to him.
+Few admitted to following Vergadain in knowledgeable society, but those who did were known as hurndor, or "those who trade". The hurndor were dedicated to furthering dwarven commerce, having traveled Faerûn farther than the priests of any member of the Morndinsamman with the exception of Marthammor Duin.
+Clerics of Vergadain were expected to be personally wealthy, while also ensuring that some of their wealth was dedicated to keeping the local temple filled with treasure. Holy days of Vergadains faith were known as coin festivals (also jokingly referred to as trademeets by humans), marking a period of immense mercantile activity. These occurred on the days before and after a full moon, on Greengrass and on any day declared favorable by the Merchant Prince.
+thumb|Symbol of Vergadain.
+Vergadain was very popular among the Morndinsamman, while sharing a particularly strong friendship with Dugmaren Brightmantle, as they shared an interest in mischief. He also occasionally partnered with Abbathor, a relationship that they both would have described as a "business arrangement". After traveling throughout Faerûn, Vergadain had also gained many allies among the non-dwarf mercantine deities.

@@ -1,22 +1,5 @@
 {
-    "template_data": {
-        "edition": "5e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Jim's Magic Missile",
-        "deity": "",
-        "inventor": "[[Jim Darkmagic]]",
-        "type": "",
-        "school5e": "[[Evocation]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "{{Spell table|edition=5e|[[Wizard]]|1}}",
         "type5e": "",
         "refs5e": "",
         "feature4e": "",
@@ -43,9 +26,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Jim's magic missile''''' was an [[evocation]] [[spell]] similar to ''[[magic missile]]'', but riskier and potentially more powerful.",
-        "Effects": "The spell created three whistling darts of magical energy that shot at targets of the caster's choice in a twisting motion. Unlike the darts created by ''magic missile'', these did not automatically hit their targets and had to be properly aimed by the caster. However, if they did hit, they caused considerably more damage than the ordinary ''magic missile'' darts, with a chance of even greater damage on a particularly good hit.\n\nThe less stable magic of ''Jim's magic missile'' also presented a risk to the caster. There was a small chance that the spell caused the darts to explode in the caster's face, dealing a small amount of damage.",
-        "Components": "The spell required [[Verbal component|verbal]], [[Somatic component|somatic]], and [[royalty component]]s. The base royalty cost for the spell was 1 [[gp]], but it could increase if the caster used a more powerful version.",
-        "History": "The spell was attributed to the [[wizard]] [[Jim Darkmagic]]."
+        "mainbody": "Jims magic missile was an evocation spell similar to magic missile, but riskier and potentially more powerful.\nThe spell created three whistling darts of magical energy that shot at targets of the casters choice in a twisting motion. Unlike the darts created by magic missile, these did not automatically hit their targets and had to be properly aimed by the caster. However, if they did hit, they caused considerably more damage than the ordinary magic missile darts, with a chance of even greater damage on a particularly good hit.\nThe less stable magic of Jims magic missile also presented a risk to the caster. There was a small chance that the spell caused the darts to explode in the casters face, dealing a small amount of damage.\nThe spell required verbal, somatic, and royalty components. The base royalty cost for the spell was 1 gp, but it could increase if the caster used a more powerful version.\nThe spell was attributed to the wizard Jim Darkmagic."
     }
 }

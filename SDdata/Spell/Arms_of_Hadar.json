@@ -1,35 +1,14 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "edition_1": "4e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "Arms of Hadar CLB.jpg",
-        "caption": "",
-        "name": "Arms of Hadar",
-        "deity": "",
-        "school": "[[Conjuration]]",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "school5e": "[[Conjuration]]",
-        "level5e": "{{spell table|edition=5e|[[Aberrant mind]]|1|[[Warlock]]|1|}}",
         "type5e": "",
-        "refs5e": "<ref>",
+        "refs5e": "",
         "feature4e": "",
-        "keywords4e": "{{Desc/arcane}}{{Desc/implement}}",
-        "level4e": "{{spell table|edition=4e|[[Warlock]]|1}}",
+        "keywords4e": "",
+        "level4e": "",
         "type4e": "Encounter",
         "category4e": "",
         "skill4e": "",
-        "refs4e": "<ref name=AP-73>",
-        "mainbody": "'''''Arms of Hadar''''' was a [[conjuration]] [[spell]] for [[warlock]]s that used the power of [[Hadar]], the Dark Hunger,",
-        "Effect": "At the caster's behest, the ground would sprout tendrils of dark energy in a 10-foot (3 meter) radius. They would swing at the creatures in the area and harm them with their necrotic energies and hinder them. Only a test of strength would lessen the harm and not cause the creature to be hindered.",
-        "Components": "The spell required verbal and somatic components."
+        "refs4e": "",
+        "mainbody": "Arms of Hadar was a conjuration spell for warlocks that used the power of Hadar, the Dark Hunger,\nAt the casters behest, the ground would sprout tendrils of dark energy in a 10-foot (3 meter) radius. They would swing at the creatures in the area and harm them with their necrotic energies and hinder them. Only a test of strength would lessen the harm and not cause the creature to be hindered.\nThe spell required verbal and somatic components."
     }
 }

@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Howling horror",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]], [[necromancy]]",
-        "spheres2e": "",
-        "level2e": "{{Spell table|edition=2e|[[Wizard]]|7}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Howling horror''''' was a [[spell]] that caused a [[wraith]]-like force of energy to emit from the caster and assault a target creature.",
-        "Description": "The force referred to as a ''howling horror'' was not a creature, rather a wisp of translucent, spectral energy that emitted an eerie moaning as it assailed its target without form or features. It was not [[undead]] and could not be [[Turn undead|turned]], could not be affected by area-of-affect spells or spell-like abilities and could only be harmed by physical attacks that occupied the space within which it was in effect. It could not be turned away, negotiated with, mislead by spells such as ''[[feign death]]'' or otherwise compelled to do anything but ravage the creature designated upon the spell's casting.\n\nThe ''howling horror'' could not form underwater.",
-        "Effects": "For the duration of the spell, the ''howling horror'' maintained a magical link with its caster, siphoning away the life force of its target and transferring it to the caster. Any spells that were directly cast at the ''horror'' were absorbed, channeled through the spellcaster's body and redirected towards any creature the caster chose. Any spells that targeted the caster while the ''horror'' was in effect would similarly be transferred from the caster's body and redirected to the creature targeted by the ''howling horror''. If the caster was unconscious when this occurred, the spells would shoot out from the ''horror'' in random directions.",
-        "Casting": "The material component for casting this spell was a small, cone-shaped bone."
+        "mainbody": "Howling horror was a spell that caused a wraith-like force of energy to emit from the caster and assault a target creature.\nThe force referred to as a howling horror was not a creature, rather a wisp of translucent, spectral energy that emitted an eerie moaning as it assailed its target without form or features. It was not undead and could not be turned, could not be affected by area-of-affect spells or spell-like abilities and could only be harmed by physical attacks that occupied the space within which it was in effect. It could not be turned away, negotiated with, mislead by spells such as feign death or otherwise compelled to do anything but ravage the creature designated upon the spells casting.\nThe howling horror could not form underwater.\nFor the duration of the spell, the howling horror maintained a magical link with its caster, siphoning away the life force of its target and transferring it to the caster. Any spells that were directly cast at the horror were absorbed, channeled through the spellcasters body and redirected towards any creature the caster chose. Any spells that targeted the caster while the horror was in effect would similarly be transferred from the casters body and redirected to the creature targeted by the howling horror. If the caster was unconscious when this occurred, the spells would shoot out from the horror in random directions.\nThe material component for casting this spell was a small, cone-shaped bone."
     }
 }

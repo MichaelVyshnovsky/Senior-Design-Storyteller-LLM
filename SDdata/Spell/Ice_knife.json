@@ -1,26 +1,5 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "edition_1": "3e",
-        "edition_2": "2e",
-        "edition_3": "1e",
-        "5|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Ice knife CA.jpg",
-        "caption": "",
-        "name": "Ice Knife",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Conjuration]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "{{Spell table|edition=5e|[[Druid]]|1|[[Sorcerer]]|1|[[Wizard]]|1}}",
         "type5e": "",
         "refs5e": "",
         "feature4e": "",
@@ -30,27 +9,23 @@
         "category4e": "",
         "skill4e": "",
         "refs4e": "",
-        "school3e": "[[Conjuration]] ([[Creation spells|Creation]])",
+        "school3e": "Conjuration (Creation)",
         "domains3e": "",
-        "descriptors3e": "{{Desc/cold}}",
-        "level3e": "{{Spell table|edition=3e|[[Assassin]]|2|[[Sorcerer]]|2|[[Wizard]]|2|[[Wu jen]]|2}}",
+        "descriptors3e": "",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
-        "school2e": "[[Evocation]], [[Artifice]], [[Water]]",
+        "school2e": "Evocation, Artifice, Water",
         "spheres2e": "",
-        "level2e": "{{Spell table|edition=2e|[[Wizard]]|2|[[Wu jen]]|2}}",
+        "level2e": "",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
-        "school1e": "[[Evocation]]",
-        "level1e": "{{Spell table|edition=1e|[[Wu jen]]|2}}",
+        "school1e": "Evocation",
+        "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Ice knife''''' was an [[arcane]] [[evocation]] or [[conjuration]] [[spell]] that hurled a knife of [[ice]] at a target for moderate damage.",
-        "Effects": "The impact of the evoked knife of ice would cause not only flat damage, but also a wave of cold to creatures within a {{SIAdj|5|ft|long=yes}} radius. The creatures in this area could be damaged, and would also become numb, making it harder to both move and attack. However, if the target was in the presence of a large source of heat, they would have a chance to negate the numbness. The spell caused no damage to [[spelljammer]]s",
-        "Components": {
-            "Usage": "This spell was mainly used by [[wu jen]] and others in [[Kara-Tur|eastern]] lands. However, it could also be used by frost or [[water]] mages, although it was uncommon."
-        }
+        "mainbody": "Ice knife was an arcane evocation or conjuration spell that hurled a knife of ice at a target for moderate damage.\nThe impact of the evoked knife of ice would cause not only flat damage, but also a wave of cold to creatures within a  radius. The creatures in this area could be damaged, and would also become numb, making it harder to both move and attack. However, if the target was in the presence of a large source of heat, they would have a chance to negate the numbness. The spell caused no damage to spelljammers\nAs well as a verbal and somatic components, a droplet of water from melted snow and a small silver dagger were used as the material components.\nThis spell was mainly used by wu jen and others in eastern lands. However, it could also be used by frost or water mages, although it was uncommon."
     }
 }

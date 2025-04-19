@@ -1,28 +1,8 @@
 {
-    "template_data": {
-        "0.1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "<gallery>",
-        "caption": "",
-        "name": "''Ring of Free Action''",
-        "othernames": "''Ring of Freedom of Movement''<br />''Ring of Freedom''",
-        "nicknames": "",
-        "type": "[[Ring]]",
-        "location": "[[Sword Coast]]<br />[[Silver Marches]]<br />[[Icewind Dale]]<br />[[Elven Catacombs]], [[Myth Drannor]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "10{{th}}",
         "itemlevel3e": "",
         "value3e": "",
-        "weight3e": "{{SI|0.1|lb|k|long=yes}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -38,9 +18,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "A '''''ring of free action''''' was a magical item that prevented one's movement from being magically or physically restricted.",
-        "Description": "These rings were usually made of [[gold]] and the name of the deity [[Shaundakul]] was engraved on the inside of the ring in a flowing cursive script.\n\nThe ''ring of free action'' created by the [[elf|elves]] of pre-[[Weeping War]] [[Myth Drannor]] bore the name of Shaundakul and were of semi-circular shape.",
-        "Powers": "The ring allowed the wearer to move unencumbered through difficult or irregular terrain such as snow or ice, swamps or debris. It also prevented [[magic]] from slowing down, restraining or paralyzing the wearer,\n\nThe ''ring of free action'' of the ancient elven make allowed the user to  cast the ''freedom of movement'' spell at will.",
-        "History": "Sometime before [[1310 DR]], seven of these rings were created for Lord [[Sennel]]. He gave these rings to his seven guards entrusted with the lord's treasury. The rings allowed the guards effortlessly walk through he enchanted paralysis  fields set inside the vault. Unfortunately, the seven guards used this as an opportunity and robbed the lord blind.\n\nIn the late 14{{th}} century [[DR]] these ring could be found in various locations across the [[Sword Coast]] in pockets of merchants and fingers of adventurers."
+        "mainbody": "A ring of free action was a magical item that prevented ones movement from being magically or physically restricted.\nThese rings were usually made of gold and the name of the deity Shaundakul was engraved on the inside of the ring in a flowing cursive script.\nThe ring of free action created by the elves of pre-Weeping War Myth Drannor bore the name of Shaundakul and were of semi-circular shape.\nThe ring allowed the wearer to move unencumbered through difficult or irregular terrain such as snow or ice, swamps or debris. It also prevented magic from slowing down, restraining or paralyzing the wearer,\nThe ring of free action of the ancient elven make allowed the user to  cast the freedom of movement spell at will.\nSometime before 1310 DR, seven of these rings were created for Lord Sennel. He gave these rings to his seven guards entrusted with the lords treasury. The rings allowed the guards effortlessly walk through he enchanted paralysis  fields set inside the vault. Unfortunately, the seven guards used this as an opportunity and robbed the lord blind.\nIn the late 14 century DR these ring could be found in various locations across the Sword Coast in pockets of merchants and fingers of adventurers."
     }
 }

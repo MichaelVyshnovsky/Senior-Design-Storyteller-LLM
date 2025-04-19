@@ -1,13 +1,3 @@
-{{Spell
-| image         = Nondetection.png
-| caption       = 
-| name          = Nondetection
-| deity         = 
-| inventor      = [[Ptack]]
-| type          = 
-| school5e      = [[Abjuration]]
-| domains5e     = [[Knowledge domain|Knowledge]]
-| level5e       = {{Spell table|edition=5e|[[Bard]]|3|[[Knowledge domain|Knowledge]]|3|[[Ranger]]|3|[[Wizard]]|3}}
 | type5e        = 
 | refs5e        = 
 | feature4e     = 
@@ -17,32 +7,24 @@
 | category4e    = 
 | skill4e       = 
 | refs4e        = 
-| school3e      = [[Abjuration]]
-| domains3e     = [[Trickery domain|Trickery]]
+| school3e      = Abjuration
+| domains3e     = Trickery
 | descriptors3e = 
-| level3e       = {{spell table|edition=3e|[[Assassin]]|3|[[Beloved of Lurue]]|4|[[Harper agent]]|3|[[Ranger]]|4|[[Sorcerer]]|3|[[Trickery domain|Trickery]]|2|[[Wizard]]|3}}
+| level3e       = 
 | type3e        = 
 | refs3e        = 
 | reversible2e  = 
-| school2e      = [[Abjuration]], [[Shadow magic|Shadow]]<br/>[[Universal (province)]]<br/>[[Mentalism]], [[Variation]]
+| school2e      = Abjuration, ShadowUniversal (province)Mentalism, Variation
 | spheres2e     = 
-| level2e       = {{spell table|edition=2e|[[Arcanist]]|3|[[Wizard]]|3}}
+| level2e       = 
 | type2e        = 
-| refs2e        = <ref><ref><ref>
+| refs2e        = 
 | reversible1e  = 
-| school1e      = [[Abjuration]]
-| level1e       = {{spell table|edition=1e|[[Illusionist]]|3}}
+| school1e      = Abjuration
+| level1e       = 
 | type1e        = 
 | refs1e        = 
-}}
-'''''Nondetection''''' (or '''''non-detection'''''
-
-==Effects==
-Other than casting on themselves, a caster was able to cast this spell on an creature or an object. After casting, it became very difficult for detection and divination spells to detect the targeted individual or object. The targeted creature's equipment was also protected. The spell also successfully prevented magical items such as ''[[crystal ball]]s'' from targeting the subject of the spell.
-
-==Components==
-In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, the spell required a [[material component]], some [[diamond]] dust with a value of at least 50 [[gp]].
-
-==History==
-The spell was attributed to [[Netherese arcanist]] [[Ptack]] in {{Yearlink|-502}} and was originally called ''Ptack's nonscryance''.
-
+Nondetection (or non-detection
+Other than casting on themselves, a caster was able to cast this spell on an creature or an object. After casting, it became very difficult for detection and divination spells to detect the targeted individual or object. The targeted creatures equipment was also protected. The spell also successfully prevented magical items such as crystal balls from targeting the subject of the spell.
+In addition to verbal and somatic components, the spell required a material component, some diamond dust with a value of at least 50 gp.
+The spell was attributed to Netherese arcanist Ptack in  and was originally called Ptacks nonscryance.

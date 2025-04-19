@@ -1,33 +1,5 @@
 {
-    "template_data": {
-        "10|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Bacar.gif",
-        "caption": "A bacar warrior.",
-        "name": "Bacar",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size2e": "Large",
-        "alignment2e": "[[Neutral]]",
-        "refs2e": "",
-        "patron deity": "",
-        "vision": "",
-        "activecycle": "Any",
-        "diet": "Omnivorous",
-        "lifespan": "",
-        "location": "[[Ixtzul]], [[Far Payit]]",
-        "intelligence": "Low to Highly",
-        "language": "",
-        "subraces": "",
-        "climate": "Tropical",
-        "terrain": "",
-        "height": "",
-        "length": "{{SI|10|ft}}",
         "wingspan": "",
         "weight": "",
         "skincolor": "",
@@ -38,12 +10,7 @@
         "build": "",
         "distinctions": "Ant-like",
         "based": "",
-        "first": "''[[Endless Armies]]''",
-        "mainbody": "'''Bacars''' were intelligent, [[ant]]-like creatures living in the valley of [[Ixtzul]] in [[Maztica]].",
-        "Description": {
-            "Combat": "All bacar could attack by biting, but in groups gained the intelligence to use weapons (such as [[maca]]s) and shields. Lone bacar did not possess any initiative and would ignore intruders unless ordered otherwise or attacked.\n\nIn larger groups, bacar gained the ability to command army ant colonies in the area."
-        },
-        "Ecology": "The only bacar colony lived in the valley of Ixtzul. They lived in a society like an ant colony's, ruled by a queen. Individual bacars (except for the queen) were not very intelligent, but gained intelligence when in groups (the larger the group, the more intelligent). They spent most of their time patrolling the valley and maintaining the wards in the city, as well as the city itself.\n\nThe queen, like an ant queen, was responsible for laying all the eggs in the colony. She was also highly intelligent and gave orders to the bacar. Bacar had a limited form of telepathy, and relied information and orders by touching antennae. Killing the queen, however, caused them to lose both their intelligence and telepathic abilities.\n\nSince not all of the eggs the queen laid were necessary, the bacar only allowed new eggs to hatch in order to replenish lost numbers. The surplus eggs were eaten. If the queen died, then the next egg hatched would be a new queen, but it would be two years before she could lay more eggs. There was only one bacar queen at any given time.",
-        "History": "The bacar were created using [[pluma]] and [[hishna]] magic from ants by the last Revered Counselor of Ixtzul, [[Greyst Seven Cloud]] to guard the enchanted [[Star Worm]]. After the last humans left the valley of Ixtzul, the bacar remained and lived there for at least another 600 years."
+        "first": "Endless Armies",
+        "mainbody": "Bacars were intelligent, ant-like creatures living in the valley of Ixtzul in Maztica.\nBacars resembled oversized ants, measuring about  in length, with dark red bodies that ran to black along the thorax and steel-blue underbellies. They could also carry weapons or shields with them. The bacar queen though was a larger, bloated creature.\nAll bacar could attack by biting, but in groups gained the intelligence to use weapons (such as macas) and shields. Lone bacar did not possess any initiative and would ignore intruders unless ordered otherwise or attacked.\nIn larger groups, bacar gained the ability to command army ant colonies in the area.\nThe only bacar colony lived in the valley of Ixtzul. They lived in a society like an ant colonys, ruled by a queen. Individual bacars (except for the queen) were not very intelligent, but gained intelligence when in groups (the larger the group, the more intelligent). They spent most of their time patrolling the valley and maintaining the wards in the city, as well as the city itself.\nThe queen, like an ant queen, was responsible for laying all the eggs in the colony. She was also highly intelligent and gave orders to the bacar. Bacar had a limited form of telepathy, and relied information and orders by touching antennae. Killing the queen, however, caused them to lose both their intelligence and telepathic abilities.\nSince not all of the eggs the queen laid were necessary, the bacar only allowed new eggs to hatch in order to replenish lost numbers. The surplus eggs were eaten. If the queen died, then the next egg hatched would be a new queen, but it would be two years before she could lay more eggs. There was only one bacar queen at any given time.\nThe bacar were created using pluma and hishna magic from ants by the last Revered Counselor of Ixtzul, Greyst Seven Cloud to guard the enchanted Star Worm. After the last humans left the valley of Ixtzul, the bacar remained and lived there for at least another 600 years."
     }
 }

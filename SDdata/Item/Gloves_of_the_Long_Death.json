@@ -1,29 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Gloves of the long death.jpg",
-        "caption": "",
-        "name": "''Gloves of the Long Death''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Wondrous item, gloves",
-        "location": "[[Neverwinter]], [[Sword Coast]]<br/>[[Thay]], [[Moonsea]]<br/>[[Undergate]], [[Westgate]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+1,+2,+3,+4,+5",
-        "value3e": "",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -40,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Gloves of the Long Death''''' were enchanted [[monk]] gloved used by the monastic [[Order of the Long Death]] of [[Thay]].",
-        "Powers": "Apart from improving the monk's combat prowess and damage dealt by their deadly martial arts, ''gloves of the Long Death'' left their targets burnt by magical cold emitting from these items.",
-        "History": "These gloves were created by the Order of the Long Death, which celebrated change from life to lifelessness in any form. Used in battle, ''gloves of the Long Death'' left their opponents feeling like they were touched by death itself, the event that was hard to forget.\n\nIn the late 14{{th}} century [[DR]], these gloves traveled from Thay and were available in many places along the [[Sword Coast]] and the [[Moonsea]] region."
+        "mainbody": "Gloves of the Long Death were enchanted monk gloved used by the monastic Order of the Long Death of Thay.\nApart from improving the monks combat prowess and damage dealt by their deadly martial arts, gloves of the Long Death left their targets burnt by magical cold emitting from these items.\nThese gloves were created by the Order of the Long Death, which celebrated change from life to lifelessness in any form. Used in battle, gloves of the Long Death left their opponents feeling like they were touched by death itself, the event that was hard to forget.\nIn the late 14 century DR, these gloves traveled from Thay and were available in many places along the Sword Coast and the Moonsea region."
     }
 }

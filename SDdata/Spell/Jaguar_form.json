@@ -1,23 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Jaguar Form",
-        "deity": "[[Zaltec]]",
-        "domains": "",
-        "inventor": "",
-        "reversible2e": "",
-        "school2e": "[[Hishna]], [[Alteration]]",
-        "spheres2e": "[[Hishna]]",
-        "level2e": "{{spell table|edition=2e|[[Hishnashaper]]|5|[[Jaguar Knight]]|5}}",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''''Jaguar form''''' was a spell unique to [[Maztica]]. The spell allowed a caster to transform into a [[jaguar]].",
-        "Effects": "After the transformation was completed, the caster retained their mental faculties while in jaguar form. While polymorphed, the caster was unable to cast spells or speak or overcome other limitations of their new form. They gained the natural abilities of a jaguar.",
-        "Components": "This spell required only a [[somatic component|somatic]] component."
+        "mainbody": "Jaguar form was a spell unique to Maztica. The spell allowed a caster to transform into a jaguar.\nAfter the transformation was completed, the caster retained their mental faculties while in jaguar form. While polymorphed, the caster was unable to cast spells or speak or overcome other limitations of their new form. They gained the natural abilities of a jaguar.\nThis spell required only a somatic component."
     }
 }

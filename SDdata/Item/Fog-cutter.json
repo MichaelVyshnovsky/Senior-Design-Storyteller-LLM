@@ -1,25 +1,5 @@
 {
     "document_data": {
-        "image": "[[File:Fog-cutter-2e.png|250px]]",
-        "caption": "",
-        "name": "Fog-cutter",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Lantern]]",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "15 [[gp]]",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "20 [[gp]]",
-        "weight3e": "{{SI|3|lbs.|k}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -35,7 +15,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''Fog-cutters''' were a type of [[lantern]] specifically designed to illuminate through fog.",
-        "Description": "The design of the fog-cutter was similar to the [[bullseye lantern]], with the addition of an [[amber]]-colored focusing [[Optic aid|lens]] that illuminated foggy areas better than a regular lantern. It was inspired by lanterns used in lighthouses with a similar mechanism to illuminate through sea fog.\n\nFog-cutters were available for purchase through ''[[Aurora's Whole Realms Catalogue]]''."
+        "mainbody": "Fog-cutters were a type of lantern specifically designed to illuminate through fog.\nThe design of the fog-cutter was similar to the bullseye lantern, with the addition of an amber-colored focusing lens that illuminated foggy areas better than a regular lantern. It was inspired by lanterns used in lighthouses with a similar mechanism to illuminate through sea fog.\nFog-cutters were available for purchase through Auroras Whole Realms Catalogue."
     }
 }

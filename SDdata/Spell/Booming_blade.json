@@ -1,28 +1,10 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "variant": "cantrip",
-        "edition_1": "4e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Booming Blade",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Evocation]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "level5e": "{{Spell table|edition=5e|variant=cantrip|[[Sorcerer]]|0|[[Warlock]]|0|[[Wizard]]|0}}",
-        "type5e": "[[Cantrip]]",
+        "type5e": "Cantrip",
         "refs5e": "",
         "feature4e": "",
-        "keywords4e": "{{desc/arcane}}{{Desc/thunder}}{{desc/weapon}}",
-        "level4e": "{{spell table|edition=4e|[[Swordmage]]|1}}",
+        "keywords4e": "",
+        "level4e": "",
         "type4e": "At-Will",
         "category4e": "",
         "skill4e": "",
@@ -44,6 +26,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Booming blade''''' is a basic [[spell]] of the [[evocation school]] often used by [[Swordmage#Shielding Swordmage|shielding swordmages]], as well as [[swordmage]]s of other styles. When a swordmage attacks a creature with their blade, they have the option to add the sonic energy to their attack, using a field of thunderous noise to injure their retreating foe. Like most swordmage spells, the spell is charged primarily by the swordmage's intellect, though their durability adds to the effectiveness of their sonic attack and more experienced swordmages cast ''booming blade'' with more power. ''Booming blade'' is among the easiest of swordmage spells to learn and can be cast at will."
+        "mainbody": "Booming blade is a basic spell of the evocation school often used by shielding swordmages, as well as swordmages of other styles. When a swordmage attacks a creature with their blade, they have the option to add the sonic energy to their attack, using a field of thunderous noise to injure their retreating foe. Like most swordmage spells, the spell is charged primarily by the swordmages intellect, though their durability adds to the effectiveness of their sonic attack and more experienced swordmages cast booming blade with more power. Booming blade is among the easiest of swordmage spells to learn and can be cast at will."
     }
 }

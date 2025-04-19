@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Ram's Might",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Druid]]|0|[[Ranger]]|1}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Ram's might''''' was a [[transmutation]] [[spell]] used by [[druid]]s and [[ranger]]s.",
-        "Effects": "This spell added considerable force to any unarmed strikes made by the caster, transforming the caster's hands with the hardness and texture of a ram's horns. The caster was still able to perform other functions with their hands such as casting spells.",
-        "Components": "This spell required only [[Verbal component|verbal]] and [[somatic component|somatic]] components to cast."
+        "mainbody": "Rams might was a transmutation spell used by druids and rangers.\nThis spell added considerable force to any unarmed strikes made by the caster, transforming the casters hands with the hardness and texture of a rams horns. The caster was still able to perform other functions with their hands such as casting spells.\nThis spell required only verbal and somatic components to cast."
     }
 }

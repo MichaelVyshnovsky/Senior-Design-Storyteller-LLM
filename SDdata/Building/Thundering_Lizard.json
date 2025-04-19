@@ -1,50 +1,5 @@
 {
-    "template_data": {
-        "7|foot|long": "yes",
-        "adj": "high"
-    },
     "document_data": {
-        "image": "Thundering Lizard - DDEP07-01 map.PNG",
-        "caption": "",
-        "name": "Thundering Lizard",
-        "aliases": "",
-        "type": "Inn<br />Tavern",
-        "architecture": "",
-        "floors": "",
-        "location": "[[Port Nyanzaru]], [[Chult]]",
-        "built": "",
-        "destroyed": "",
-        "owner": "",
-        "staff": "",
-        "occupants": "",
-        "services": "",
-        "worship": "",
-        "basicrefs": "",
-        "ownertable": "",
-        "stafftable": "",
-        "histrefs": "",
-        "pipes": "",
-        "tankards": "",
-        "coins": "",
-        "daggers": "",
-        "stars": "",
-        "coinstacks": "",
-        "skulls": "",
-        "quality": "",
-        "price": "",
-        "volorefs": "",
-        "usethe": "yes",
-        "useon": "",
-        "inhabitants": "",
-        "locations": "",
-        "organizations": "",
-        "mainbody": "The '''Thundering Lizard''' was a notable [[inn]] and [[tavern]] in [[Port Nyanzaru]], [[Chult]]. Visiting [[adventurer]]s were often referred there if they wanted a place to go for a raucous time.{{Cite adventurers league/Peril at the Port|39}}{{Cite adventurers league/A City on the Edge|5}}",
-        "Location": "[[File:PN map - Thundering Lizard.png|thumb|300px|''Location of the Thundering Lizard.''<ref group=\"note\">This location is taken from the [[Adventurers League]] module ''[[Peril at the Port]]'', however the map in this adventure indicates two different locations for the Thundering Lizard. The location marked aligns most closely with the tavern's description in the text of that adventure and in other sources, specifically the emphasis on its proximity to the Red Bazar. The alternative location was due north, inland from the [[dye works (Port Nyanzaru)|dye works]].]]\nThe inn was occupied a street corner in Port Nyanzaru's [[Port Nyanzaru/Market Ward|Market Ward]] near the [[Red Bazaar]] slope of [[Mount Sibasa]].{{Cite adventurers league/Peril at the Port|72}}",
-        "Structure": "The Thundering Lizard was recognizable by the tables and benches spilling out onto the street, and by the painted [[tyrannosaurus]] skull that hung above the main entrance.{{Cite adventurers league/Peril at the Port|40}}",
-        "Interior": {
-            "Atmosphere": "The Thundering Lizard attracted a raucous and rough clientele seeking hard drinks, bar fights, and sex. It was nevertheless an inviting place, full of loud laughter and off-key [[music]]. It smelled faintly of vomit and stale [[beer]]."
-        },
-        "Services": "In addition to tavern services, the Thundering Lizard offered rooms for five [[silver piece]]s per night.",
-        "History": "At some point in the late 15{{th}} century [[DR]], a smuggler named [[Pelican Jake]] stole a [[curse]]d treasure from the dreaded pirate [[Idrianne Smoke]]. Terrified of retribution, he hid it behind a secret door inside the Thundering Lizard's cellar.{{Cite adventurers league/Peril at the Port|21-22}} When Smoke's [[devil|infernal]] forces stormed the Market Ward years later to seek Jake and the treasure, one of her champions&mdash;a [[minotaur]] known as Captain [[Walharrow]]&mdash;violently seized control of the inn.{{Cite adventurers league/Peril at the Port|24}}\n\nDuring the events of the [[death curse]],{{ToA-time}} the Thundering Lizard was a favorite drinking and meeting spot for the [[Harper]] spymaster known as [[Soggy Wren]]."
+        "mainbody": "he Thundering Lizard was a notable inn and tavern in Port Nyanzaru, Chult. Visiting adventurers were often referred there if they wanted a place to go for a raucous time.\nthumb|300px|Location of the Thundering Lizard.This location is taken from the Adventurers League module Peril at the Port, however the map in this adventure indicates two different locations for the Thundering Lizard. The location marked aligns most closely with the taverns description in the text of that adventure and in other sources, specifically the emphasis on its proximity to the Red Bazar. The alternative location was due north, inland from the dye works.\nThe inn was occupied a street corner in Port Nyanzarus Market Ward near the Red Bazaar slope of Mount Sibasa.\nThe Thundering Lizard was recognizable by the tables and benches spilling out onto the street, and by the painted tyrannosaurus skull that hung above the main entrance.\nThe tavern had low,  ceilings that were stained with tobacco and a floor coated in sawdust. It was well-lit with oil lamps A kitchen and pantry sat in a backroom behind the bar, with a staircase leading down into a dimly lit cellar supported by four columns and filled with numbered casks.\nThe simple guestrooms had sawdust floors.\nThe Thundering Lizard attracted a raucous and rough clientele seeking hard drinks, bar fights, and sex. It was nevertheless an inviting place, full of loud laughter and off-key music. It smelled faintly of vomit and stale beer.\nIn addition to tavern services, the Thundering Lizard offered rooms for five silver pieces per night. \nAt some point in the late 15 century DR, a smuggler named Pelican Jake stole a cursed treasure from the dreaded pirate Idrianne Smoke. Terrified of retribution, he hid it behind a secret door inside the Thundering Lizards cellar. When Smokes infernal forces stormed the Market Ward years later to seek Jake and the treasure, one of her champions&mdasha minotaur known as Captain Walharrow&mdashviolently seized control of the inn.\nDuring the events of the death curse, the Thundering Lizard was a favorite drinking and meeting spot for the Harper spymaster known as Soggy Wren."
     }
 }

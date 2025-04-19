@@ -1,26 +1,7 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Net of Snaring''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Net",
-        "creator": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "6,000 [[gp]]",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "7,000 [[gp]]",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "[[Evocation]]",
-        "casterlevel3e": "8{{th}}",
         "itemlevel3e": "",
-        "value3e": "10,000 [[gp]]",
+        "value3e": "10,000 gp",
         "weight3e": "",
         "refs3e": "",
         "level4e": "",
@@ -38,9 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "A '''''net of snaring''''' was a [[magic item]] that could entangle targets. It was generally only usable underwater.",
-        "Powers": "This net could be targeted at any single creature within {{SIrange|10|120|ft}}, entangling them to the point where it was difficult for them to move and perform any actions. Ensnared targets would be held for ten minutes unless released by the wielder. [[Dragon]]s and creatures of similar size could break free of the net within one minute.",
-        "Creation": "The hair of [[korred]]s could be used to manufacture these nets.",
-        "Notable Owners": "[[Minak al-Zafyi]], a shopkeeper in the [[Grand Bazaar]] of [[Huzuz]], owned a ''net of snaring''."
+        "mainbody": "A net of snaring was a magic item that could entangle targets. It was generally only usable underwater.\nThis net could be targeted at any single creature within , entangling them to the point where it was difficult for them to move and perform any actions. Ensnared targets would be held for ten minutes unless released by the wielder. Dragons and creatures of similar size could break free of the net within one minute.\nThe hair of korreds could be used to manufacture these nets.\nMinak al-Zafyi, a shopkeeper in the Grand Bazaar of Huzuz, owned a net of snaring."
     }
 }

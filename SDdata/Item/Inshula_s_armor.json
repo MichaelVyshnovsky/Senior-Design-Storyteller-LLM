@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "20|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Inshula sar Mashewe.png",
-        "caption": "",
-        "name": "''Inshula's Armor''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Light armor]]",
-        "creator": "",
-        "location": "[[Tashluta]], [[Tashalar]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+1",
-        "value3e": "",
-        "weight3e": "{{SI|20|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Inshula's armor''''' was a unique set of [[light armor]] worn by [[Inshula sar Mashewe]], a mercenary hunter from the nation of [[Tashalar]] active in the late 14{{th}} century [[DR]].",
-        "Powers": "This light armor was custom-tailored to fit Inshula's lanky, muscular form. It was [[enchanted]] to improve the wearer's defense and was especially effective against beast attacks.",
-        "History": "In the {{YearlinkName|1374}}, the armor accompanied its owner on her travels from [[Tashluta]] to the jungles of [[Samarach]] and whilst working with [[Sword Coast]] adventurers for the merchant [[Sa'Sani]] of [[Samargol]]."
+        "mainbody": "Inshulas armor was a unique set of light armor worn by Inshula sar Mashewe, a mercenary hunter from the nation of Tashalar active in the late 14 century DR.\nThis light armor was custom-tailored to fit Inshulas lanky, muscular form. It was enchanted to improve the wearers defense and was especially effective against beast attacks.\nIn the , the armor accompanied its owner on her travels from Tashluta to the jungles of Samarach and whilst working with Sword Coast adventurers for the merchant SaSani of Samargol."
     }
 }

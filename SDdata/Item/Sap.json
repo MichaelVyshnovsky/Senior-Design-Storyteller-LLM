@@ -1,38 +1,12 @@
 {
-    "template_data": {
-        "rca": "right",
-        "rca_1": "right",
-        "2|lb|long": "yes"
-    },
     "document_data": {
-        "image": "<gallery>",
-        "name": "Sap",
-        "othernames": "Blackjack",
-        "type": "Melee weapon",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "1 [[gp]]",
-        "weight2e": "{{SI|0.1|lb}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
         "itemlevel3e": "",
-        "value3e": "{{Split table|rca=right|Sap|1 gp|Truncheon|2 gp}}",
-        "weight3e": "{{Split table|rca=right|Sap|{{SI|2|lbs.|k}}|Truncheon|{{SI|12|lbs.|k}}}}",
+        "value3e": "",
+        "weight3e": "|Truncheon|",
         "refs3e": "",
-        "mainbody": "A '''sap''', also called a '''blackjack''', was a type of light, nonlethal melee weapon used for knocking people unconscious.",
-        "Description": "A sap was filled with lead shot (small pellets), [[sand]], or a similar material.\n\nThey weighed about {{SI|2|lb|long=yes}}.",
-        "Weaponology": "Saps were designed to deliver non-killing blows, usually to knock someone unconscious.",
-        "Varieties": "* Truncheon: A heavier version of the standard sap.",
-        "Notable Users": {
-            "Groups": "* The [[City Watch (Waterdeep)|City Watch]] of [[Waterdeep]] typically carried around long truncheons.<ref>\n* All members of the [[Guild of Chandlers and Lamplighters]] were trained in the use of improvised saps, which consisted of a fistful of [[coin]]s wrapped in a shirt or other cloth.<ref>\n* The security at [[Nurneene's Marvelous Masks]] often wielded saps.{{Cite dragon/321/Elminster's Guide to the Realms: Nurneene's Marvelous Masks|81}}",
-            "Individuals": "* [[Alak Abaeir]]\n* [[Lepidius Tragemandes]]\n* [[Yalister Ikhusaru]] was proficient in the use of saps.<ref>",
-            "Races & Intelligent Creatures": "* [[Kenku]] were often known to wield saps.",
-            "Regions & Settlements": "* In the land of [[Sembia]], saps were a signature weapon of [[thieves]] in the city of [[Daerlun]]."
-        }
+        "mainbody": "A sap, also called a blackjack, was a type of light, nonlethal melee weapon used for knocking people unconscious.\nA sap was filled with lead shot (small pellets), sand, or a similar material.\nThey weighed about .\nSaps were designed to deliver non-killing blows, usually to knock someone unconscious.\n* Truncheon A heavier version of the standard sap.\nRogues and bards were often proficient with saps.\n* The City Watch of Waterdeep typically carried around long truncheons.\n* All members of the Guild of Chandlers and Lamplighters were trained in the use of improvised saps, which consisted of a fistful of coins wrapped in a shirt or other cloth.\n* The security at Nurneenes Marvelous Masks often wielded saps.\n* Alak Abaeir\n* Lepidius Tragemandes\n* Yalister Ikhusaru was proficient in the use of saps.\n* Kenku were often known to wield saps.\n* In the land of Sembia, saps were a signature weapon of thieves in the city of Daerlun."
     }
 }

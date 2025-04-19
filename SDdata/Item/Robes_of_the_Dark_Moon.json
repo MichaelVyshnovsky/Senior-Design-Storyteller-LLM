@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Robes of the Dark Moon.png",
-        "caption": "",
-        "name": "''Robes of the Dark Moon''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Robe]]",
-        "location": "[[Neverwinter]], [[Sword Coast]]<br/>[[Undergate]], [[Westgate]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+5",
-        "value3e": "",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Robes of the Dark Moon''''' were [[enchanted]] [[robe]]s worn by [[Beyl Van Yoren]], a [[monk]] of the [[Dark Moon]].",
-        "Powers": "Enchantments weaved into these ''robes''' granted monks who wore them permanent speed similar to the ''[[haste]]'' spell. The enchantments had a downside. However, they made it harder for the wearer to concentrate.",
-        "History": "Perhaps the most notable and the first wearer of a set of ''robes of the Dark Moon'' was Beyl Van Yoren. Like all monks in training at the [[Dark Moon]] order, Beyl was trained to use her speed over strength. Each training was a demand to move faster and faster. She found herself struggling with high demands until one day she started showing lightning speed. The young woman spent several months \"trading favors\" with a [[wizard]] to earn the magic robes of speed. Even though the Dark Moon tutors were satisfied, Beyl found herself unable to concentrate on lessons. Due to the break-neck speed, the young monk often got bored and restless. Eventually, Beyl Van Yoren abandoned her training and the robes and decided to move in with the wizard who created ''robes of the Dark Moon''.\n\nBy the late-14{{th}} century [[DR]], several copies of these robes existed and they could be found along the [[Sword Coast]] as well as the city of [[Hillsfar]] in the [[Moonsea]] region."
+        "mainbody": "Robes of the Dark Moon were enchanted robes worn by Beyl Van Yoren, a monk of the Dark Moon.\nEnchantments weaved into these robes granted monks who wore them permanent speed similar to the haste spell. The enchantments had a downside. However, they made it harder for the wearer to concentrate.\nPerhaps the most notable and the first wearer of a set of robes of the Dark Moon was Beyl Van Yoren. Like all monks in training at the Dark Moon order, Beyl was trained to use her speed over strength. Each training was a demand to move faster and faster. She found herself struggling with high demands until one day she started showing lightning speed. The young woman spent several months \"trading favors\" with a wizard to earn the magic robes of speed. Even though the Dark Moon tutors were satisfied, Beyl found herself unable to concentrate on lessons. Due to the break-neck speed, the young monk often got bored and restless. Eventually, Beyl Van Yoren abandoned her training and the robes and decided to move in with the wizard who created robes of the Dark Moon.\nBy the late-14 century DR, several copies of these robes existed and they could be found along the Sword Coast as well as the city of Hillsfar in the Moonsea region."
     }
 }

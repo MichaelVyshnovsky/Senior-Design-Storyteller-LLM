@@ -1,22 +1,6 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Cestus",
-        "othernames": "Cestys ([[Alzhedo]])<ref name=EotSS-pp172-173>",
-        "nicknames": "",
-        "type": "[[Gauntlet]]",
-        "creator": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "1 [[gp]]",
-        "weight2e": "{{SI|2|lb|k}}",
-        "refs2e": "<ref><ref>",
+        "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
         "itemlevel3e": "",
@@ -38,11 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "A '''cestus''' {{Pl|cesti}} weas a type of offensive [[gauntlet]] found in the Realms, primarily known for being used by [[gladiator]]s.",
-        "Description": "These gauntlets were typically made of [[leather]], with spikes and razor edges on the back and across the knuckles. These kept the wielders' knuckles from splitting in addition to making their punches more damaging.<ref>\n\nSome cestuses were also loaded with [[lead]] or other heavy filler to give punches more force.",
-        "Notable Users of Cestuses": {
-            "Individuals": "* The [[avatar]]s of [[Bahgtru]] typically fought with cesti studded with [[steel]] [[rivet]]s.{{Cite dragon/62/The Gods of the Orcs|31-32}}\n* [[Kellack Ironfist|Kellack \"Killer\" Ironfist]] was a [[shield dwarf]] gladiator of Hillsfar, so named for his use of a cestus made of black [[iron]].",
-            "Regions & Settlements": "* In the [[Domains of Dread]], some criminals were known to fight with cestuses.<ref>\n* Some of [[Hillsfar]]'s escaped gladiators fought with a cestus.\n* Some of [[Waterdeep]]'s thugs were known to fight with cestuses."
-        }
+        "mainbody": "A cestus  weas a type of offensive gauntlet found in the Realms, primarily known for being used by gladiators.\nThese gauntlets were typically made of leather, with spikes and razor edges on the back and across the knuckles. These kept the wielders knuckles from splitting in addition to making their punches more damaging.\nSome cestuses were also loaded with lead or other heavy filler to give punches more force.\n* The avatars of Bahgtru typically fought with cesti studded with steel rivets.\n* Kellack \"Killer\" Ironfist was a shield dwarf gladiator of Hillsfar, so named for his use of a cestus made of black iron.\n* In the Domains of Dread, some criminals were known to fight with cestuses.\n* Some of Hillsfars escaped gladiators fought with a cestus.\n* Some of Waterdeeps thugs were known to fight with cestuses."
     }
 }

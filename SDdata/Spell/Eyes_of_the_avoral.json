@@ -1,37 +1,7 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Eyes of the Avoral",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Apostle of peace]]|1|[[Beloved of Valarian]]|1|[[Cleric]]|1|[[Druid]]|1|[[Ranger]]|1|[[Sorcerer]]|1|[[Wizard]]|1}}",
         "type3e": "",
-        "refs3e": "{{cite book/Book of Exalted Deeds|52,54,85,88,89,99}}",
+        "refs3e": "",
         "reversible2e": "",
         "school2e": "",
         "spheres2e": "",
@@ -43,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Eyes of the avoral''''' was a [[transmutation]] [[spell]] that vastly improved the subject's vision.",
-        "Effect": "A touched target creature acquired the keen eyesight of an [[avoral]], significantly enhancing their ability to spot threats. This lasted ten minutes, or longer for more experienced casters.",
-        "Components": "It required only a [[somatic component]]."
+        "mainbody": "Eyes of the avoral was a transmutation spell that vastly improved the subjects vision.\nA touched target creature acquired the keen eyesight of an avoral, significantly enhancing their ability to spot threats. This lasted ten minutes, or longer for more experienced casters.\nIt required only a somatic component."
     }
 }

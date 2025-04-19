@@ -1,21 +1,7 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "Mass Haste.png",
-        "caption": "",
-        "name": "Mass Haste",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "[[Time domain|Time]]",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Bard]]|6|[[Sorcerer]]|6|[[Time domain|Time]]|7|[[Wizard]]|6}}",
         "type3e": "",
-        "refs3e": "<ref>",
-        "mainbody": "'''''Mass haste''''' was a [[transmutation]] spell that sped up multiple subjects.",
-        "Effects": "This spell functioned in the same manner as ''[[haste]]'', except that it affected up to eleven targets, or more for more experienced casters, provided they were in close range."
+        "refs3e": "",
+        "mainbody": "Mass haste was a transmutation spell that sped up multiple subjects.\nThis spell functioned in the same manner as haste, except that it affected up to eleven targets, or more for more experienced casters, provided they were in close range."
     }
 }

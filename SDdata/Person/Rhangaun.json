@@ -1,20 +1,8 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "TwistedRunes.png",
-        "caption": "From left to right: [[Shyressa]], [[Sapphiraktar]], [[Shangalar]], [[Jymahna]], and Rhangaun.",
-        "name": "Rhangaun",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Almraiven]],{{Cite dragon/228/The Athalantan Campaign|26-37}} [[Calimshan]]",
         "formerhomes": "",
         "sex": "Male",
-        "race": "[[Human]] [[lich]]",
+        "race": "Human lich",
         "occupation": "",
         "patron deity": "",
         "languages": "",
@@ -28,12 +16,9 @@
         "destroyed": "",
         "destroyednotes": "",
         "class": "",
-        "class3e": "{{class table|edition=3e|[[Wizard]]|28|[[Archmage]]|5}}",
+        "class3e": "",
         "refs3e": "",
-        "alignment": "[[Chaotic evil]]",
-        "mainbody": "'''Rhangaun''' was a male [[lich]] and a senior member of the [[Twisted Rune]].",
-        "Description": "Dead for more than a thousand years, he was little more than a skeleton with glowing eyes.",
-        "Possessions": "He owned a [[staff of the magi]].",
-        "History": "In his mortal life, Rhangaun of [[Almraiven]] was hired to kill [[Cauln Aumar]] of [[Athalantar]] in [[217 DR]].\n\nForced into the Twisted Rune because [[Rysellan]] possessed his [[phylactery]], Rhangaun took control after the founder’s death."
+        "alignment": "Chaotic evil",
+        "mainbody": "Rhangaun was a male lich and a senior member of the Twisted Rune.\nDead for more than a thousand years, he was little more than a skeleton with glowing eyes.\nHe owned a staff of the magi.\nIn his mortal life, Rhangaun of Almraiven was hired to kill Cauln Aumar of Athalantar in 217 DR.\nForced into the Twisted Rune because Rysellan possessed his phylactery, Rhangaun took control after the founder’s death."
     }
 }

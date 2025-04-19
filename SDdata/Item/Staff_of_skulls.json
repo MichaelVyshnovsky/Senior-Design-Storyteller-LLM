@@ -1,22 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Staff of skulls''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Magic]] [[staff]]",
-        "location": "[[Faerûn]]",
-        "value1e": "15,000-25,000 [[gp]]",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "9{{th}}",
         "itemlevel3e": "",
         "value3e": "39,000 gp",
         "weight3e": "",
@@ -35,8 +18,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "A '''''staff of skulls''''' was a [[magic]]al [[staff]] that allowed the wielder to animate the remains of the dead into skeletal [[undead]] creatures and command them as per the [[arcane]]/[[divine]] [[spell]].",
-        "Description": "These staves were typically made of [[ebony]], with the carving of a skull. However, they were also constructed from the femur of a [[giant]] with a polished skull affixed at the end.",
-        "Powers": "Upon uttering the [[command word]] of ''\"arise\"'', the wielder could cast the spell. ''[[animate dead]]''. They also possessed a charge of ''[[inflict light wounds]]'', and two of the ''[[circle of doom]]'' spell.  About one quarter of these staves had the additional ability to restore wounds as per the spell ''[[cure light wounds]]''."
+        "mainbody": "A staff of skulls was a magical staff that allowed the wielder to animate the remains of the dead into skeletal undead creatures and command them as per the arcane/divine spell.\nThese staves were typically made of ebony, with the carving of a skull. However, they were also constructed from the femur of a giant with a polished skull affixed at the end.\nUpon uttering the command word of \"arise\", the wielder could cast the spell. animate dead. They also possessed a charge of inflict light wounds, and two of the circle of doom spell.  About one quarter of these staves had the additional ability to restore wounds as per the spell cure light wounds."
     }
 }

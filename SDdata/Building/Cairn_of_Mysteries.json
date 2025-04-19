@@ -1,24 +1,5 @@
 {
-    "template_data": {
-        "15|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Cairn of Mysteries",
-        "aliases": "",
-        "type": "Shrine<br/>Temple",
-        "architecture": "",
-        "floors": "",
-        "location": "[[Elventree]]",
-        "built": "",
-        "destroyed": "",
-        "owner": "[[The Sentinel (wizard)|The Sentinel]]",
-        "staff": "",
-        "occupants": "",
-        "services": "",
-        "worship": "[[Mystra]]",
-        "basicrefs": "{{Cite adventurers league/State of Hillsfar|3}}",
         "ownertable": "",
         "stafftable": "",
         "histrefs": "",
@@ -37,10 +18,6 @@
         "inhabitants": "",
         "locations": "",
         "organizations": "",
-        "mainbody": "The '''Cairn of Mysteries''' was a mysterious temple or shrine dedicated to the goddess [[Mystra]] in the town of [[Elventree]] in the 14{{th}} and 15{{th}} century [[DR]].",
-        "Structure": "This temple was a sort of great hollow cairn with a pitch-black interior. Constantly flickering [[arcane]] energy filled the air within the temple itself and in a {{SI|15|ft|long=yes}} radius around it, consisting of manifestations of all the [[schools of magic]], including [[wild magic]]. Any [[Mystran]] priest or [[spellcaster]] that primarily worshiped Mystra that tried to cast [[spell]]s within this area would find that they could achieve the maximum potential for such spells, such as in terms of their duration, the extent of their effects, or the degree of their harmfulness. The application of this maximizing was not up to chance, but up to choice by the individual caster.",
-        "Activities": "This shrine notably offered patrons [[spell]]casting services. [[Mage]]s of even [[evil]] [[alignment]]s were allowed to practice Mystaran worship at the temple, though would be closely monitored by the high priest.",
-        "Inhabitants": "In both the 14{{th}} to 15{{th}} century DR, shrine was presided over by a mysterious wizard known only as [[The Sentinel (wizard)|The Sentinel]]. Beyond this high priest, the shrine was well-staffed. These other priests weren't permanent fixtures of the Cairn of Mysteries, but rather a large influx of visiting Mystrans who that would stay for a time, tending to any clerical duties that The Sentinel was unfit to perform themselves. The shrine received such a regular influx of visiting clergy that this system proved to be practical.",
-        "Rumors & Legends": "This temple was shrouded in mystery, but believed to hold great wonders within its confines."
+        "mainbody": "The Cairn of Mysteries was a mysterious temple or shrine dedicated to the goddess Mystra in the town of Elventree in the 14 and 15 century DR.\nThis temple was a sort of great hollow cairn with a pitch-black interior. Constantly flickering arcane energy filled the air within the temple itself and in a  radius around it, consisting of manifestations of all the schools of magic, including wild magic. Any Mystran priest or spellcaster that primarily worshiped Mystra that tried to cast spells within this area would find that they could achieve the maximum potential for such spells, such as in terms of their duration, the extent of their effects, or the degree of their harmfulness. The application of this maximizing was not up to chance, but up to choice by the individual caster.\nThis shrine notably offered patrons spellcasting services. Mages of even evil alignments were allowed to practice Mystaran worship at the temple, though would be closely monitored by the high priest.\nIn both the 14 to 15 century DR, shrine was presided over by a mysterious wizard known only as The Sentinel. Beyond this high priest, the shrine was well-staffed. These other priests werent permanent fixtures of the Cairn of Mysteries, but rather a large influx of visiting Mystrans who that would stay for a time, tending to any clerical duties that The Sentinel was unfit to perform themselves. The shrine received such a regular influx of visiting clergy that this system proved to be practical.\nThis temple was shrouded in mystery, but believed to hold great wonders within its confines."
     }
 }

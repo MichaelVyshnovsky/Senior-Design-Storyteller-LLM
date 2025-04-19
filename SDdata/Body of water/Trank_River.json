@@ -1,15 +1,8 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Trank River",
-        "aliases": "",
-        "type": "River",
-        "region": "[[Moonsea North]], [[Moonsea]], [[Eastern Heartlands]]",
-        "size": "~{{SI|40|mi|k}}",
         "depth": "",
-        "river source": "[[Vanishing Hills]]",
-        "river mouth": "[[Twilight Marsh]]",
+        "river source": "Vanishing Hills",
+        "river mouth": "Twilight Marsh",
         "tributaries": "",
         "tributary of": "",
         "georefs": "",
@@ -26,12 +19,6 @@
         "roads": "yes",
         "food and drink": "",
         "items": "",
-        "mainbody": "The'''Trank River''' was a river found in the [[Moonsea North]] region of [[North Faerûn]].{{Cite dungeon/170/Monument of the Ancients|56}}",
-        "Description": "It was a calm and easily-navigable river with seldom-encountered rushing rapids.{{Cite adventurers league/Drums in the Marsh|11}}",
-        "Geography": {
-            "Geographical Features": "The Trank River originated in the [[Vanishing Hills]] and flowed southward for approximately {{SI|40|mi|k}}.{{Cite adventurers league/Drums in the Marsh|14}} \n\nAs the waters continued streaming southward they flowed around the archipelago known as the [[Ringcurrent Islands]], forming a circular eddy around them.{{Cite adventurers league/Drums in the Marsh|16}} \n\nThe [[Phlan Path]] crossed over the Trank River at the Trank River Bridge.{{Cite adventurers league/Drums in the Marsh|7}}"
-        },
-        "History": "In the late 15{{th}} century [[DR]], the [[lizardfolk]] of the [[Twilight Marsh]] carried out a series of raids against the farms nestled along the shores of the river, abducting farmers to appease their [[black dragon]] master, [[Throstulgrael]].{{Cite adventurers league/Drums in the Marsh|9}}",
-        "Notable Locations": "There were three notable farmsteads along the eastern bank of the Trank River, the [[Renon Farm]], [[Alyin Farm]], and the [[Tralio Farm]].\n\nThe [[Crossing Inn]] was also situated at the east bank of the river at the point where it crossed the Phlan Path.{{Cite adventurers league/Drums in the Marsh|7}}"
+        "mainbody": "TheTrank River was a river found in the Moonsea North region of North Faerûn.\nIt was a calm and easily-navigable river with seldom-encountered rushing rapids. \nIt was located north of the Moonsea proper, in the northernmost reaches of the Eastern Heartlands. \nThe Trank River originated in the Vanishing Hills and flowed southward for approximately . \nAs the waters continued streaming southward they flowed around the archipelago known as the Ringcurrent Islands, forming a circular eddy around them. \nThe Phlan Path crossed over the Trank River at the Trank River Bridge. \nIn the late 15 century DR, the lizardfolk of the Twilight Marsh carried out a series of raids against the farms nestled along the shores of the river, abducting farmers to appease their black dragon master, Throstulgrael. \nThere were three notable farmsteads along the eastern bank of the Trank River, the Renon Farm, Alyin Farm, and the Tralio Farm.\nThe Crossing Inn was also situated at the east bank of the river at the point where it crossed the Phlan Path."
     }
 }

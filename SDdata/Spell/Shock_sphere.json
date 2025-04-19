@@ -1,18 +1,9 @@
 {
-    "template_data": {
-        "edition": "4e"
-    },
     "document_data": {
-        "type": "encounter",
-        "image": "[[File:Arena_of_War_-_Spell_-_Shock_Sphere.jpg]]",
-        "caption": "The [[Arena of War (game)|AoW:G]] spell card.",
-        "name": "Shock Sphere",
-        "level4e": "{{spell table|edition=4e|[[Wizard]]|3}}",
-        "keywords4e": "{{Desc/arcane}}{{Desc/implement}}{{Desc/lightning}}",
+        "keywords4e": "",
         "school": "",
         "type4e": "Encounter",
         "refs4e": "",
-        "mainbody": "'''''Shock sphere''''' is an [[evocation school|evocation]] [[spell]] learned early in the training of several [[wizard]]s that calls upon the elemental power of storm for its energy. When a wizard casts ''shock sphere'' she or he creates a sphere of crackling lightning and hurls it straight towards a spot within fifty feet of him or her. When the ''sphere'' reaches its destination it explodes, much like the simpler ''[[force orb]]'' spell, in a surge of electrical power over an area of five feet in diameter. A short rest is required of a wizard who seeks to recast the spell.",
-        "References": "{{refs}}\n[[Category:Evocation spells]]\n[[Category:Wizard spells]]\n8eqyzjukxxtp8dyjzcwfl8xoxq9r4b1"
+        "mainbody": "Shock sphere is an evocation spell learned early in the training of several wizards that calls upon the elemental power of storm for its energy. When a wizard casts shock sphere she or he creates a sphere of crackling lightning and hurls it straight towards a spot within fifty feet of him or her. When the sphere reaches its destination it explodes, much like the simpler force orb spell, in a surge of electrical power over an area of five feet in diameter. A short rest is required of a wizard who seeks to recast the spell.\nCategoryEvocation spells\nCategoryWizard spells\n8eqyzjukxxtp8dyjzcwfl8xoxq9r4b1"
     }
 }

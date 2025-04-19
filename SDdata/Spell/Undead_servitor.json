@@ -1,31 +1,5 @@
 {
-    "template_data": {
-        "edition": "4e",
-        "variant": "ritual"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Undead Servitor",
-        "othernames": "",
-        "deity": "",
-        "inventor": "",
-        "type": "Ritual",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "{{Spell table|edition=4e|variant=ritual|Creation|6}}",
         "type4e": "Ritual",
         "category4e": "Creation",
         "skill4e": "Arcana",
@@ -47,9 +21,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Undead servitor''''' was a type of [[arcane]] [[ritual]] available during the [[Spellplague]] era that allowed spellcasters to create [[undead]].",
-        "Effects": "When conducted, this ritual imbued the corpse of a [[humanoid]] that was native to the natural world, usually of [[demihuman]] or smaller stature, with life and an understanding of one language of the spellcaster's choice.The organized play module ''From One Dwarf to Another'' somewhat implies that this spell is not strictly limited to humanoid creatures, as in there a necromancer has created famine and rot hounds. However, the necromancer's activities are left ambiguous enough that it's possible he could have created these undead through separate means.\n\nGenerally, the undead created by ritual were rather basic, incapable of fighting, and only one of them could be active at a time. Any attempt to raise another undead through this ritual would simply fail whilst the first servitor was still active.In the organized play module ''From One Dwarf to Another'', the antagonist is stated to have been casting ''undead servitor'' on a daily basis and this implied to be the reason behind the varied types of undead servants that appear in the module and act as combatants against the player characters.",
-        "Components": "The [[material component]]s required to cast this ritual usually cost around 150 to 360 [[gold piece]]s.",
-        "History": "Sometime prior to the [[Second Sundering]], in the late 15{{th}} century [[DR]], a male [[human]] necromancer from the [[Black Academy|Bleak Academy]] who was seeking to improve his necromantic craft began operating within an ancient [[Unther]]i burial site in [[Tymanther]], near the frontier village of [[Ruinspoke]]. Deep within a mausoleum at the burial site, the necromancer discovered a vein of [[onyx]]. He began harvesting this vein, as well as excavating most of the tombs and burial sights in the area, for [[material component]]s and body parts so he could cast ''undead servitor'' on a daily basis.{{Cite organized play/LFR/From One Dwarf to Another|5}}<ref group=\"note\" name=\"Unther\">It is not specified in the adventure whether the ruins being explored belonged to Unther or [[Tymanchebar]]. However, due to the adventure only making note of ruins of \"the old Untheric Empire\" and the presence of a [[Lathander]]ite sarcophagus in the mausoleum, it stands to reason the ruins were from Unther. The undead he created through this spell included two [[corpse of despair|corpses of despair]], three [[famine hound]]s,{{Cite organized play/LFR/From One Dwarf to Another|19}} a [[zombie grave digger]], a [[lasher zombie]], and four [[rot hound]]s.{{Cite organized play/LFR/From One Dwarf to Another|10-12}}"
+        "mainbody": "Undead servitor was a type of arcane ritual available during the Spellplague era that allowed spellcasters to create undead.\nWhen conducted, this ritual imbued the corpse of a humanoid that was native to the natural world, usually of demihuman or smaller stature, with life and an understanding of one language of the spellcasters choice.The organized play module From One Dwarf to Another somewhat implies that this spell is not strictly limited to humanoid creatures, as in there a necromancer has created famine and rot hounds. However, the necromancers activities are left ambiguous enough that its possible he could have created these undead through separate means.\nGenerally, the undead created by ritual were rather basic, incapable of fighting, and only one of them could be active at a time. Any attempt to raise another undead through this ritual would simply fail whilst the first servitor was still active.In the organized play module From One Dwarf to Another, the antagonist is stated to have been casting undead servitor on a daily basis and this implied to be the reason behind the varied types of undead servants that appear in the module and act as combatants against the player characters.\nThe material components required to cast this ritual usually cost around 150 to 360 gold pieces.\nSometime prior to the Second Sundering, in the late 15 century DR, a male human necromancer from the Bleak Academy who was seeking to improve his necromantic craft began operating within an ancient Untheri burial site in Tymanther, near the frontier village of Ruinspoke. Deep within a mausoleum at the burial site, the necromancer discovered a vein of onyx. He began harvesting this vein, as well as excavating most of the tombs and burial sights in the area, for material components and body parts so he could cast undead servitor on a daily basis.It is not specified in the adventure whether the ruins being explored belonged to Unther or Tymanchebar. However, due to the adventure only making note of ruins of \"the old Untheric Empire\" and the presence of a Lathanderite sarcophagus in the mausoleum, it stands to reason the ruins were from Unther. The undead he created through this spell included two corpses of despair, three famine hounds, a zombie grave digger, a lasher zombie, and four rot hounds."
     }
 }

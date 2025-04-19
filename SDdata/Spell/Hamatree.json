@@ -1,34 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Hamatree.JPG",
-        "caption": "",
-        "name": "Hamatree",
-        "deity": "[[Hanali Celanil]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Plant sphere|Plant]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|5}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -36,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Hamatree''''' was a [[spell]] used by [[cleric]]s of [[Hanali Celanil]].",
-        "Effects": "When cast, this spell created a pernament connection between the caster and an [[oak]] tree. The tree had to be old, at least over a century in age. This connection was very similar to the bond that [[dryad]]s and [[hamadryad]]s have with their tree and distance from the tree did not matter. The spell was not cast lightly, as it required a portion of the caster's spirit to be bonded with the tree.\n\nThis spell allowed the caster to ''[[dimension door]]'' to their tree by simply stepping through any healthy, living tree. In addition, the caster ''[[speak with plants|communicate]]'' with their tree. The caster was also able to transfer any harm they received to their tree instead. It took the tree two days to recover from minor injuries, the time of recovery could be sped up by casting ''[[heal]]'' or ''[[plant growth]]'' on the tree. Any damage the tree received, was equally inflicted on the caster. If the tree died, the caster risked perishing themself. If the caster died, the tree was killed immediately.",
-        "Components": "This spell required [[verbal]] and [[somatic]] components."
+        "mainbody": "Hamatree was a spell used by clerics of Hanali Celanil.\nWhen cast, this spell created a pernament connection between the caster and an oak tree. The tree had to be old, at least over a century in age. This connection was very similar to the bond that dryads and hamadryads have with their tree and distance from the tree did not matter. The spell was not cast lightly, as it required a portion of the casters spirit to be bonded with the tree.\nThis spell allowed the caster to dimension door to their tree by simply stepping through any healthy, living tree. In addition, the caster communicate with their tree. The caster was also able to transfer any harm they received to their tree instead. It took the tree two days to recover from minor injuries, the time of recovery could be sped up by casting heal or plant growth on the tree. Any damage the tree received, was equally inflicted on the caster. If the tree died, the caster risked perishing themself. If the caster died, the tree was killed immediately.\nThis spell required verbal and somatic components."
     }
 }

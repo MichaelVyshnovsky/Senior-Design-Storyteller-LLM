@@ -1,47 +1,5 @@
 {
-    "template_data": {
-        "20|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Talisman of Force''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Talisman",
-        "location": "[[Kadar]], [[Cities of the Ancients]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "",
-        "refs3e": "",
-        "level4e": "",
-        "value4e": "",
-        "weight4e": "",
-        "refs4e": "",
-        "rarity5e": "",
-        "attunement5e": "",
-        "school5e": "",
-        "level5e": "",
-        "value5e": "",
-        "weight5e": "",
-        "refs5e": "",
-        "communication": "",
-        "languages": "",
-        "alignment": "",
-        "sentientrefs": "",
-        "mainbody": "A '''''talisman of force''''' was a powerful defensive [[handglyph]] used by the [[Geomancer]]s of [[Kadar]] to erect a protective shield.",
-        "Powers": "When activated this item created a ''[[wall of force|sphere of force]]'' that was {{SI|20|ft|long=yes}} in diameter and centered on the wielder. The protective barrier lasted for 24 minutes before dissipating.\n\nMost ''talismans of force'' had between 2—8 charges. They could be recharged, but the process for doing so was known only to a select few [[wizard]]s in [[Rog'osto]].",
-        "Description": "These items could be found in a variety of shapes and sizes."
+        "mainbody": "talisman of force was a powerful defensive handglyph used by the Geomancers of Kadar to erect a protective shield.\nWhen activated this item created a sphere of force that was  in diameter and centered on the wielder. The protective barrier lasted for 24 minutes before dissipating.\nMost talismans of force had between 2—8 charges. They could be recharged, but the process for doing so was known only to a select few wizards in Rogosto.\nThese items could be found in a variety of shapes and sizes."
     }
 }

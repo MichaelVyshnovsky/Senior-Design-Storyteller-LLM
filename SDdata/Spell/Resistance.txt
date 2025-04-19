@@ -1,30 +1,16 @@
-{{Spell
-| image         = Resistance 5e.png
-| caption       = 
-| name          = Resistance
-| deity         = 
-| inventor      = 
-| type          = 
-| school5e      = [[Abjuration]]
-| domains5e     = 
-| circles5e     = 
-| oaths5e       = 
-| patrons5e     = 
-| traditions5e  = 
-| level5e       = {{Spell table|edition=5e|[[Artificer]]|0|[[Cleric]]|0|[[Druid]]|0}}
-| type5e        = [[Cantrip]]
+| type5e        = Cantrip
 | refs5e        = 
 | feature4e     = 
-| keywords4e    = {{Desc/arcane}}
-| level4e       = {{spell table|edition=4e|[[Wizard]]|10}}
+| keywords4e    = 
+| level4e       = 
 | type4e        = Utility
 | category4e    = 
 | skill4e       = 
-| refs4e        = <ref>
-| school3e      = [[Abjuration]]
+| refs4e        = 
+| school3e      = Abjuration
 | domains3e     = 
 | descriptors3e = 
-| level3e       = {{spell table|edition=3e|[[Bard]]|0|[[Champion of Gwynharwyf]]|1|[[Cleric]]|0|[[Druid]]|0|[[Paladin]]|1|[[Sohei]]|1|[[Sorcerer]]|0|[[Wizard]]|0|[[Wu jen]]|0}}
+| level3e       = 
 | type3e        = 
 | refs3e        = 
 | reversible2e  = 
@@ -38,12 +24,6 @@
 | level1e       = 
 | type1e        = 
 | refs1e        = 
-}}
-'''Resistance''' was an [[abjuration]] [[cantrip]] that made a creature more resistant to harmful effects.
-
-==Effect==
+Resistance was an abjuration cantrip that made a creature more resistant to harmful effects.
 Target creatures were imbued with magical energy that served to protect them from harm.
-
-==Components==
-In addition to [[verbal]] and [[somatic component]], the arcane version required a miniature cloak as a [[material component]], while the divine version required a [[divine focus]].
-
+In addition to verbal and somatic component, the arcane version required a miniature cloak as a material component, while the divine version required a divine focus.

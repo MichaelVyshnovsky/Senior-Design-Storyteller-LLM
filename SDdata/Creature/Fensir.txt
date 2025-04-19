@@ -1,13 +1,7 @@
-{{Creature
-| image        = Fensir-3e.jpg
-| caption      = A male and female fensir stand before a rakka
-| name         = Fensir
-| othernames   = Ysgardian Troll
-| size5e       = {{Split table|rca=right|Standard|[[Giant]]|Devourer|[[Celestial]]}}
-| type5e       = {{size table|edition=5e|Standard|Large|Devourer|Huge}}
+| type5e       = 
 | subtype5e    = 
-| alignment5e  = {{Split table|rca=right|Standard|Any [[alignment]]|Devourer|Typically [[chaotic neutral]]}}
-| challenge5e  = {{CR table|edition=5e|Standard|6|Devourer|8}}
+| alignment5e  = 
+| challenge5e  = 
 | refs5e       = 
 | size4e       = 
 | origin4e     = 
@@ -15,29 +9,29 @@
 | subtype4e    = 
 | alignment4e  = 
 | refs4e       = 
-| size3e       = {{size table|edition=3e|Standard|Large|Rakka|Huge}}
-| type3e       = [[Giant]]
+| size3e       = 
+| type3e       = Giant
 | subtype3e    = 
-| alignment3e  = Always [[chaotic neutral]]
-| challenge3e  = {{CR table|edition=3e|Standard|5|Rakka|8}}
+| alignment3e  = Always chaotic neutral
+| challenge3e  = 
 | refs3e       = 
 | size2e       = Medium to Large
-| alignment2e  = [[Chaotic neutral]]
+| alignment2e  = Chaotic neutral
 | refs2e       =  
 | size1e       = 
 | alignment1e  = 
 | refs1e       = 
 | patron deity = 
 | movement     = 
-| vision       = [[Darkvision]], [[low-light vision]]
+| vision       = Darkvision, low-light vision
 | activecycle  = Night
 | diet         = Omnivore
 | lifespan     = 
-| location     = [[Ysgard]], [[Jotunheim]]
+| location     = Ysgard, Jotunheim
 | intelligence = 
 | language     = 
 | subraces     = 
-| climate      = [[Common]], Lillend, languages common in Ysgard
+| climate      = Common, Lillend, languages common in Ysgard
 | terrain      = 
 | genrefs      =  
 | height       = 
@@ -50,102 +44,46 @@
 | feathers     = 
 | eyecolor     = Usually black
 | build        = 
-| distinctions = Large heads<br />Large noses<br />Warty skin
+| distinctions = Large headsLarge nosesWarty skin
 | form1        = Standard
-| appearance1  = {{Appearance|height={{SIrange|6|8|ft-in}}|length=|wingspan=|weight=|skincolor=|haircolor=|hairstyles=|feathers=|eyecolor=|build=Bulky|distinctions=}}
+| appearance1  = |length=|wingspan=|weight=|skincolor=|haircolor=|hairstyles=|feathers=|eyecolor=|build=Bulky|distinctions=
 | form2        = Rakka
-| appearance2  = {{Appearance|height={{SIrange|20|25|ft}}|length=|wingspan=|weight=Up to and over {{SI|6000|lb|k}}|skincolor=|haircolor=|hairstyles=|feathers=|eyecolor=|build=|distinctions=}}
+| appearance2  = |length=|wingspan=|weight=Up to and over |skincolor=|haircolor=|hairstyles=|feathers=|eyecolor=|build=|distinctions=
 | appearrefs   = 
 | first        = 
 | based        = 
 | histrefs     = 
-}}
-'''Fensir''' ({{SingPl}}), also commonly referred to by other creatures as '''Ysgardian trolls''', were a race of [[giant-kin]] native to the [[plane]] of [[Ysgard]] that were distantly descended from true [[troll]]s.
-
-{{quote
-|Bringing trolls to a place where nothing ever truly dies seems like a transparently bad idea. What were those [[giant]]s thinking?
-|[[Bigby]]
-}}
-==Description==
-Unlike trolls on the Material Plane, members of their race varied widely in both their height and appearance. whilst some were nearly [[human]]-like in their appearance.
-
-Some fensir would undergo a transformation after living for at least a thousand years in Ysgard, which translated as "Devourer". This transformation was hideous, with the fensir reaching heights of {{SIrange|20|25|ft|long=yes}} and potentially gaining around {{SI|6000|lb|k|long=yes}} in weight. According to other sources, this transformation was exclusive to female fensir and occurred sometime after they first gave birth.
-
-Also unlike prime trolls, the fensir did not dress in furs, but rather the civilized clothing common in Ysgard. Both sexes typically dressed in fine [[leather armor]] and vests, with big black hats made from [[rabbit]] fur in varying styles. Men in particular also favored [[helmet]]s, leather [[boot]]s, [[wool]]en [[hosiere|hose]], and woolen [[tunic]]s. While women fensir favored simple woven dresses, leather shoes, and [[linen]] or woolen scarves.
-
-==Personality==
+Fensir (), also commonly referred to by other creatures as Ysgardian trolls, were a race of giant-kin native to the plane of Ysgard that were distantly descended from true trolls.
+Unlike trolls on the Material Plane, members of their race varied widely in both their height and appearance. whilst some were nearly human-like in their appearance.
+Some fensir would undergo a transformation after living for at least a thousand years in Ysgard, which translated as "Devourer". This transformation was hideous, with the fensir reaching heights of  and potentially gaining around  in weight. According to other sources, this transformation was exclusive to female fensir and occurred sometime after they first gave birth.
+Also unlike prime trolls, the fensir did not dress in furs, but rather the civilized clothing common in Ysgard. Both sexes typically dressed in fine leather armor and vests, with big black hats made from rabbit fur in varying styles. Men in particular also favored helmets, leather boots, woolen hose, and woolen tunics. While women fensir favored simple woven dresses, leather shoes, and linen or woolen scarves.
 Another way that fensir were nothing like trolls on the Prime Material was their mentality. They were far more intelligent and cultured, though this intelligence dimmed after becoming a rakka and was overtaken by a ravenous hunger.
-
-Fensir had a tendency to be shy, And they were a rather secretive people who tended to keep to themselves, rarely interfering in the lives of others, the sole exception to this being a near-obsessive fascination they had with [[lillendi]]. In turn, they expected others to respect their privacy.
-
+Fensir had a tendency to be shy, And they were a rather secretive people who tended to keep to themselves, rarely interfering in the lives of others, the sole exception to this being a near-obsessive fascination they had with lillendi. In turn, they expected others to respect their privacy.
 Fensir twins tended to have similar personalities and an almost psychic connection between them. If one was killed, the other would stop at nothing to avenge their death. Fighting in a frenzied state and even finding a way to the Material Plane if necessary.
-
-==Abilities==
-A unique vulnerability of the fensir was that their bodies could potentially [[petrification|petrify]] if caught in daylight And their eyes were well adapted to seeing in areas of [[low-light vision|low-light]] as well as [[darkvision|total darkness]].
-
-Once petrified by sunlight, a fensir could only be restored by means of a special restorative potion, which had an effect similar to ''[[stone to flesh]]''. All fensirs were taught how to brew this potion. However, brewing it was a complicated process involving the extract of [[mandrake]] root (and some speculated, the blood of a lillend) and it had to be done under a new moon. Additionally, some claimed it could reverse petrification upon any creature, while others would say that it only worked on fensir.
-
-Fensir also possessed innate abilities similar to the spells ''[[transmute mud to rock]]'' and ''[[transmute rock to mud]]''. Additionally, male fensir could cast ''[[transmute earth to stones]]'' three times per day, transforming mounds of earth into boulder-sized stones.
-
-Due the psychic connection between them, fensir twins knew the status and location of their sibling at all times. This ability was much like the ''[[status]]'' spell, but without the range limit. If a twin's sibling ever died through malicious intent, they were capable of tracking the perpetrators down as if affected by ''[[locate person]]'', but minus that spell's range limit.
-
-Whenever a rakka was killed they would issue a dying [[curse]] upon those responsible, which functioned similarly to the ''[[geas/quest]]'' spell. This could [[cause disease]] or [[cause madness|madness]] in the afflicted, but usually involved making them pay back or serve the rakka's family.<ref>
-===Magic===
-Almost all fensir had the ability to cast spells and were potent [[diviner]]s, able to brew almost any kind of magic [[potion]]. Males especially tended to be adept in [[magic]], with around 75% of male fensir being [[mage]]s. The magic practiced by fensir was often either the [[rune magic]] of Ysgard or [[elemental magic]] of [[earth]] and stone. Whenever fensir transformed into a rakka, they lost their ability to cast spells.
-
-The [[arcane spell]]s that the average fensir knew how to cast included the following:
-: ''[[bull's strength]]'', ''[[color spray]]'', ''[[create or destroy water]]'', ''[[darkness]]'', ''[[detect magic]]'', ''[[ghost sound]]'', ''[[lightning bolt]]'', ''[[magic missile]]'', ''[[obscuring mist]]'', ''[[pass without trace]]'', ''[[protection from law]]'', ''[[ray of frost]]'', and ''[[read magic]]''.
-
-==Combat==
-When it came to weaponry, the fensir shared the proclivities of Ysgardian [[petitioner]]s. Favoring [[battle axe]]s, [[broadsword]]s, [[spear]]s, and [[greataxe]]s. However, because of their shy nature, the average fensir preferred to remain at a distance instead of engaging in close quarters. Additionally, in a battle fensir would focus their attention upon any opponent they knew was able of casting ''sunbeam'', ''sunburst'', or some equivalent.
-
+A unique vulnerability of the fensir was that their bodies could potentially petrify if caught in daylight And their eyes were well adapted to seeing in areas of low-light as well as total darkness.
+Once petrified by sunlight, a fensir could only be restored by means of a special restorative potion, which had an effect similar to stone to flesh. All fensirs were taught how to brew this potion. However, brewing it was a complicated process involving the extract of mandrake root (and some speculated, the blood of a lillend) and it had to be done under a new moon. Additionally, some claimed it could reverse petrification upon any creature, while others would say that it only worked on fensir.
+Fensir also possessed innate abilities similar to the spells transmute mud to rock and transmute rock to mud. Additionally, male fensir could cast transmute earth to stones three times per day, transforming mounds of earth into boulder-sized stones.
+Due the psychic connection between them, fensir twins knew the status and location of their sibling at all times. This ability was much like the status spell, but without the range limit. If a twins sibling ever died through malicious intent, they were capable of tracking the perpetrators down as if affected by locate person, but minus that spells range limit.
+Whenever a rakka was killed they would issue a dying curse upon those responsible, which functioned similarly to the geas/quest spell. This could cause disease or madness in the afflicted, but usually involved making them pay back or serve the rakkas family.
+Almost all fensir had the ability to cast spells and were potent diviners, able to brew almost any kind of magic potion. Males especially tended to be adept in magic, with around 75% of male fensir being mages. The magic practiced by fensir was often either the rune magic of Ysgard or elemental magic of earth and stone. Whenever fensir transformed into a rakka, they lost their ability to cast spells.
+The arcane spells that the average fensir knew how to cast included the following
+ bulls strength, color spray, create or destroy water, darkness, detect magic, ghost sound, lightning bolt, magic missile, obscuring mist, pass without trace, protection from law, ray of frost, and read magic.
+When it came to weaponry, the fensir shared the proclivities of Ysgardian petitioners. Favoring battle axes, broadswords, spears, and greataxes. However, because of their shy nature, the average fensir preferred to remain at a distance instead of engaging in close quarters. Additionally, in a battle fensir would focus their attention upon any opponent they knew was able of casting sunbeam, sunburst, or some equivalent.
 When caught unarmed, which was often the case with foraging youth and always the case with a rakka, fensirs would cast spells or use their impressive strength to hurl boulders at their foes. Like many giants, they were quite proficient when it came to hurling boulders and usually had a few on hand. And fensir who were excellent herbalists, but unable to cast spells, would rely upon magic potions.
-
-==Society==
 Fensir were not a communal people, preferring to live in isolated family units, though some lived in villages. On average, one would find only one rakka within a village. Due to their innate weakness to sunlight, mature fensir were only seen outside of their homes well after dusk. Fensir youths on the other hand were sometimes outside during the day in packs causing mischief by annoying animals, robbing travelers, and damaging small settlements.
-
-Twins &mdash; which almost always stayed together until they reached maturity &mdash; held a special place within fensir culture, one which they didn't consider unusual or often worth remarking upon. A litter without twins was considered to be very unlucky, the bond between twins was a recurring topic in their sagas, and siblings (even among the untwinned) having their weddings held together was quite common. This marriage practice came about due to fensir twins setting out after reaching maturity in search of another pair of twins to wed, rather than courting unrelated women. Once twins mated with their spouses the "twin-bond" between them was broken and replaced by a "pair-bond".
-
+Twins &mdash which almost always stayed together until they reached maturity &mdash held a special place within fensir culture, one which they didnt consider unusual or often worth remarking upon. A litter without twins was considered to be very unlucky, the bond between twins was a recurring topic in their sagas, and siblings (even among the untwinned) having their weddings held together was quite common. This marriage practice came about due to fensir twins setting out after reaching maturity in search of another pair of twins to wed, rather than courting unrelated women. Once twins mated with their spouses the "twin-bond" between them was broken and replaced by a "pair-bond".
 In the rare cases when a fensir was not born with any gift for wielding magic, but especially in the case of males, they were considered to be unlucky. Thus their family would exile them, perhaps abandoning them in a remote location, forcing them to wander Ysgard. The only exceptions to this were fensir that were exceptional herbalists.
-
-===Gender Roles===
 When it came to men and women among the fensir, the two rarely spent time together. This was to such an extent that some outsiders would claim they lived seperate lives, but the fensir did not think their way of life as being unusual.
-
-In terms of roles, male fensir were the spiritual leaders and lawgivers of their household. They tended to specialize in the craft of [[herbalism]], being quite excellent at it, and a great degree of the magic known by their mages was tied to herbalism, allowing them to make both potions and poultices. They were also fair craftsmen, poor at hunting, and excellent at hunting. Preparing and blessing the foraged food brought to them. 
-
+In terms of roles, male fensir were the spiritual leaders and lawgivers of their household. They tended to specialize in the craft of herbalism, being quite excellent at it, and a great degree of the magic known by their mages was tied to herbalism, allowing them to make both potions and poultices. They were also fair craftsmen, poor at hunting, and excellent at hunting. Preparing and blessing the foraged food brought to them. 
 Women among the fensir acted as the heads of households. Being the keepers of family treasure, the primary protectors, and the providers. They foraged for food alongside their young. They also provided for their families by specializing in being both brewmasters and weavers. 
-
-Whenever the rakka of a fensir family died, its household would be seized by what their people called the "Long Walk," an instinctual sense of wanderlust. They would leave their homes, never to return to them, roaming the wild wastes of Ysgard. Foraging and pillaging the land out of anger, confusion, or spite. Sometimes these families would gather with other into a horde and travel beyond the confines of Ysgard's wastes, pillaging the Ysgardian realms of [[Alfheim]], [[Asgard]], [[Vanaheim]], and the [[Gates of the Moon]].
-
-===Languages===
-On average a fensir could speak [[Common]], [[Giant language|Giant]], any number of the languages found throughout Ysgard, and the language of lillendi.
-===Relationships===
-Fensir were on tolerable terms with the [[elves]] and [[Ysgardian dwarf|dwarves]] of Ysgard, female fensir especially. Trading them the clothes they weaved in return for metal goods such as [[arrow|arrowheads]], [[cleaver]]s, spears, [[stewpot]]s, and tea kettles. Beyond the dwarves, female fensir sold the [[beer]] and [[mead]] they brewed to other fensir, giants, and Ysgardian petitioners.
-
-[[Human]]s were sometimes sought after by solitary fensir as a mate. The [[bariaur]]s that inhabited Ysgard considered the fensir to be wise elders, often consulting them on matters of herbalism as well as diagnosis and treatment of conditions. Finally, fensir were known to kidnap and enslave lillendi, though they usually managed to avoid the fensir quite easily.
-
-==Ecology==
-===Lifespan===
+Whenever the rakka of a fensir family died, its household would be seized by what their people called the "Long Walk," an instinctual sense of wanderlust. They would leave their homes, never to return to them, roaming the wild wastes of Ysgard. Foraging and pillaging the land out of anger, confusion, or spite. Sometimes these families would gather with other into a horde and travel beyond the confines of Ysgards wastes, pillaging the Ysgardian realms of Alfheim, Asgard, Vanaheim, and the Gates of the Moon.
+On average a fensir could speak Common, Giant, any number of the languages found throughout Ysgard, and the language of lillendi.
+Fensir were on tolerable terms with the elves and dwarves of Ysgard, female fensir especially. Trading them the clothes they weaved in return for metal goods such as arrowheads, cleavers, spears, stewpots, and tea kettles. Beyond the dwarves, female fensir sold the beer and mead they brewed to other fensir, giants, and Ysgardian petitioners.
+Humans were sometimes sought after by solitary fensir as a mate. The bariaurs that inhabited Ysgard considered the fensir to be wise elders, often consulting them on matters of herbalism as well as diagnosis and treatment of conditions. Finally, fensir were known to kidnap and enslave lillendi, though they usually managed to avoid the fensir quite easily.
 After the transformation into a rakka, the expected lifespan of a fensir often declined significantly. Living only one to a few years after the transformation.
-===Reproduction===
-Fensir women typically gave birth to litters of two to eight young. The majority of such births were of fraternal twins, though it wasn't uncommon for a litter to have as little as one set and having no twins was a possibility. By the time a fensir mother dies they will likely have given birth to a second or even third litter.
-===Diet===
-The fensir were an omnivorous people, dining upon anything that was even remotely edible. Besides scavenged meat, fensir were known to eat bark, [[grass]]es, roots, and even some forms of [[clay]]. Gathered nuts and roots made up the bolk of a fensir diet. Meat broth was considered by them to be a delicacy, with the flesh of [[halfling]]s being especially prized.
-===Homelands===
-Fensir lived on the plane of Ysgard,<ref> on its fringes,
-
-Fensir made their homes in such areas as deserted heaths, deep woods, rocky sea-cliffs, high mountains, and secluded swamps. These homes were always sunken into the earth, for the sake of providing warmth during the winter, and usually roofed with sod so that they were difficult for others to find. As a family's rakka grew in size they inevitably needed to create a larger home, becoming equivalent to a small village. Families often stripped the countryside surrounding their homes bare as they tried to appease and sustain their mother. And due to the Long Walk, it was quite common throughout Ysgard to stumble upon an abandoned fensir lair.
-
-==History==
-{{fq
-| text   = And yet, can we fairly say that the existence of fensirs is "transparently bad"? Some might argue they are a significant improvement over trolls. At the very least, the diversity of life in the multiverse increased, and new wonders were revealed. That's only bad if you think a small universe that fits within your narrow understanding is good.
-| source = [[Diancastra]]
-| float  = right
-| width  = 
-}}
-
-Some believed fensir were completely unrelated to [[troll]]s, but rather more related to [[giant]]s. In truth they were descended from trolls brought to Ysgard by frost giants on an attempted campaign of conquest. The planes resurrection energies mixed with the innate regenerative nature of trolls caused those early trolls to slowly change into the first fensir.
-
-==Trivia==
-Casting [[summon monster|''monster summoning'']] while on [[Nidavellir]] was liable to summon a fensir.
-
+Fensir women typically gave birth to litters of two to eight young. The majority of such births were of fraternal twins, though it wasnt uncommon for a litter to have as little as one set and having no twins was a possibility. By the time a fensir mother dies they will likely have given birth to a second or even third litter.
+The fensir were an omnivorous people, dining upon anything that was even remotely edible. Besides scavenged meat, fensir were known to eat bark, grasses, roots, and even some forms of clay. Gathered nuts and roots made up the bolk of a fensir diet. Meat broth was considered by them to be a delicacy, with the flesh of halflings being especially prized.
+Fensir lived on the plane of Ysgard, on its fringes,
+Fensir made their homes in such areas as deserted heaths, deep woods, rocky sea-cliffs, high mountains, and secluded swamps. These homes were always sunken into the earth, for the sake of providing warmth during the winter, and usually roofed with sod so that they were difficult for others to find. As a familys rakka grew in size they inevitably needed to create a larger home, becoming equivalent to a small village. Families often stripped the countryside surrounding their homes bare as they tried to appease and sustain their mother. And due to the Long Walk, it was quite common throughout Ysgard to stumble upon an abandoned fensir lair.
+Some believed fensir were completely unrelated to trolls, but rather more related to giants. In truth they were descended from trolls brought to Ysgard by frost giants on an attempted campaign of conquest. The planes resurrection energies mixed with the innate regenerative nature of trolls caused those early trolls to slowly change into the first fensir.
+Casting monster summoning while on Nidavellir was liable to summon a fensir.

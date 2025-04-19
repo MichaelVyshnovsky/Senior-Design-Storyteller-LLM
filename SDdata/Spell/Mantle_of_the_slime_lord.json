@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Mantle of the Slime Lord",
-        "deity": "[[Ghaunadaur]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Abjuration]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Cleric]]|7|[[Initiate of Ghaunadaur]]|7}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,9 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Mantle of the slime lord''''' was an [[abjuration]] [[spell]] that coated the caster in a glossy layer of protective energy that resembled viscous, grimy water.",
-        "Effects": "While the caster was protected by this gelatinous coating, they were immune to [[poison]]; any spells or spell-like effects that left them ''[[paralyze]]d'', ''[[stun]]ned'', or ''[[polymorph]]ed''; or those that could otherwise put the caster to ''[[sleep]]''. They also became well-protected from physical attacks that were normally quite deadly. \n\nLastly, for the duration of the spell, the caster was completely ignored by any non-intelligent [[ooze]]s such as [[mustard jelly|mustard jellies]] or [[gelatinous cube]]s. \n\nThis protective layer of slime did not effect the caster's movements or otherwise hinder their actions. It lasted for a matter of hours, depending on the skill and power of the caster.",
-        "Casting": "This spell required [[verbal]] and [[somatic component]]s in order to be cast, as well as the use of a ''[[divine focus]]''.",
-        "Usage": "This spell was only available to initiates of the [[drow]] [[Dark Seldarine|deity]] [[Ghaunadaur]]."
+        "mainbody": "Mantle of the slime lord was an abjuration spell that coated the caster in a glossy layer of protective energy that resembled viscous, grimy water.\nWhile the caster was protected by this gelatinous coating, they were immune to poison any spells or spell-like effects that left them paralyzed, stunned, or polymorphed or those that could otherwise put the caster to sleep. They also became well-protected from physical attacks that were normally quite deadly. \nLastly, for the duration of the spell, the caster was completely ignored by any non-intelligent oozes such as mustard jellies or gelatinous cubes. \nThis protective layer of slime did not effect the casters movements or otherwise hinder their actions. It lasted for a matter of hours, depending on the skill and power of the caster. \nThis spell required verbal and somatic components in order to be cast, as well as the use of a divine focus. \nThis spell was only available to initiates of the drow deity Ghaunadaur."
     }
 }

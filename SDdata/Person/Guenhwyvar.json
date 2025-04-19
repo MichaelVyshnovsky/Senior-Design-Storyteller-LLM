@@ -1,19 +1,9 @@
 {
-    "template_data": {
-        "edition": "4e"
-    },
     "document_data": {
-        "image": "Guenhwyvar 5e.jpg",
-        "caption": "''Drizzt and Guenhwyvar.''",
-        "name": "Guenhwyvar",
-        "true name": "",
-        "alt_spelling": "",
-        "aliases": "Whiskers",
-        "nicknames": "Guen{{Cite book| author = R. A. Salvatore| title = The Legend of Drizzt Book II | short_story = Exile | date = 2004 | editor = | publisher = Wizards of the Coast, Inc. | ISBN = 0-7869-3983-4 | pages = 186| chapter = 13}}",
         "titles": "",
-        "home": "[[Astral Plane]]",
+        "home": "Astral Plane",
         "formerhomes": "",
-        "race": "[[Animate]] [[panther]]",
+        "race": "Animate panther",
         "class": "",
         "sex": "Female",
         "alignment": "",
@@ -33,7 +23,7 @@
         "alignment2e": "",
         "class2e": "",
         "refs2e": "",
-        "alignment3e": "[[Neutral]]",
+        "alignment3e": "Neutral",
         "challenge3e": "5",
         "class3e": "",
         "refs3e": "",
@@ -41,23 +31,13 @@
         "challenge35": "",
         "class35": "",
         "refs35": "",
-        "alignment4e": "[[Unaligned]]",
-        "class4e": "{{Class table|edition=4e|[[Skirmisher]]|21}}",
-        "refs4e": "{{Cite dungeon/171/Campaign Workshop: Hero Battle: Drizzt|100}}",
+        "alignment4e": "Unaligned",
+        "class4e": "",
+        "refs4e": "",
         "alignment5e": "",
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "float": "right",
-        "source": "[[R.A. Salvatore]], ''[[Siege of Darkness]]''",
-        "text": "''Forever would Guenhwyvar remember the renegade dark elf, whose heart was so strong and so good and whose loyalty was no less than the panther's own.''",
-        "mainbody": "{{Sectstub}}",
-        "Description": "Guenhwyvar was summoned through a detailed onyx figurine of a panther. When summoned, the figurine emitted a gray mist which quickly solidified into the panther shape.",
-        "Uses": "She could be summoned to her master's side for 6 hours every other day.",
-        "History": {
-            "Creation": "[[File:Guenhwyvar AD&D TC.jpg|thumb|315px|''Guenhwyvar and her ''figurine of wondrous power''.'']]\nGuenhwyvar's figurine was crafted by the finest [[Dwarf|dwarven]] craftsman in the [[Cormanthor]] region and enchanted by [[Anders Beltgarden]], a 75-year-old [[human]] [[ranger]]/[[wizard]] who lived not far outside [[Myth Drannor]] in [[253 DR]]. It was to be a parting gift for Anders' friend, the [[Bladesinger]] [[Josidiah Starym]], before Anders died of old age, but Josidiah saw an intelligence in the giant panther's eyes that he felt should not be caged, let alone killed; he thought her body should not be enslaved to magic and a master's command.<ref>\n\nThe elf's arguments eventually appealed to the ranger in Anders, and he could not go through with the slaying.<ref> He let the cat go, only to follow her to a hill where Josidiah was under attack by a trio of [[giant]]s and several dozen [[orc]]s. With the help of the panther and Anders, the monsters were defeated, but the cat was mortally wounded from the battle. The pair rushed her back to Anders' tower in a [[portable hole]] and decided to quickly carry out the enchanting ritual to save the panther's life.<ref> Anders called the cat \"Whiskers,\" but Josidiah objected to what he considered such a silly name for such a noble creature. Josidiah decided on the high elven word for shadow, \"Guenhwyvar.\" This, he realized, was the panther's true name all along.<ref> Anders intended for Guenhwyvar's spirit to become fused with the onyx statuette; the statuette was to transform into the panther when instructed by its owner, like any other such magical item. However, during the final stage of the ritual, the magic of the binding also absorbed that of the extra-dimensional hole Guen was partially lying in, causing a brief rift to the [[Astral Sea]]. Therefore, rather than being absorbed by the statuette, Guenhwyvar's spirit was merely bound to the statuette and came to inhabit the Astral Sea. When she was called forth to test the ritual's success, the panther was not a slave like a normal ''figurine of Wondrous power'' would produce, but the same panther, with all of her intelligence intact. Also, the figurine summoned Guen rather than transforming into her as a normal figurine would, making the magic item truly unique.<ref>\n\nJosidiah used the figurine after it was gifted to him, but when he returned from his quest in the [[Underdark]], he no longer carried Guenhwyvar's figurine with him.",
-            "Menzoberranzan": "At some point, the figurine fell into the hands of a denizen of the lower planes. The denizen gifted the figurine to the [[drow]] apprentice [[Masoj Hun'ett]] after Masoj aided him in some way. However, Masoj's master, [[Gelroos Hun'ett]], took the figurine from him. However, when Masoj killed Gelroos in [[1297 DR]], he retrieved the statuette for himself. Masoj summoned Guenhwyvar to protect him while spellcasting.\n\nCirca [[1327 DR]], Masoj, now a student of [[Sorcere]], spent six months with [[Drizzt Do'Urden]], instructing him in the magical arts. Drizzt became acquainted with Guenhwyvar when Masoj summoned her as a distraction from [[Alton DeVir]]'s attack on Drizzt. Drizzt and Guenhwyvar became great friends, sparring together and working together during patrols, despite Masoj's frustration. During one patrol, Drizzt and Guenhwyvar defeated an [[earth elemental]].\n\n[[File:The legacy dinin.JPG|250px|left|thumb|''[[Dinin Do'Urden]] in [[drider]] form as he fights Guenhwyvar.'']] \nIn [[1328 DR]], Masoj ordered Guenhwyvar after Drizzt to kill him. Because of her friendship with Drizzt, Guenhwyvar fought against the magical compulsion of the order. She was eventually able to overcome the compulsion and saved Drizzt's life. Drizzt returned to Masoj and told him his life would be spared if Masoj would give him Guenhwyvar's statuette. Masoj refused, and Guenhwyvar aided Drizzt in defeating both Masoj and Alton DeVir, who had teamed up together on behalf of [[House Hun'ett]]. Drizzt subsequently fled Menzoberranzan with Guenhwyvar at his side.",
-            "Drizzt Do'Urden": "{{fq\n| float  = right\n| source = [[R.A. Salvatore]], ''[[Siege of Darkness]]''\n| text   = ''Forever would Guenhwyvar remember the renegade dark elf, whose heart was so strong and so good and whose loyalty was no less than the panther's own.''\n}}\n{{Sectstub}}"
-        }
+        "mainbody": "Guenhwyvar was a  black panther who resided on the Astral Plane. She was summoned to the Prime Material Plane by the use of an onyx figurine of wondrous power, which was in the possession of the drow ranger Drizzt DoUrden.\nGuenhwyvar was summoned through a detailed onyx figurine of a panther. When summoned, the figurine emitted a gray mist which quickly solidified into the panther shape.\nShe could be summoned to her masters side for 6 hours every other day.\nthumb|315px|Guenhwyvar and her figurine of wondrous power.\nGuenhwyvars figurine was crafted by the finest dwarven craftsman in the Cormanthor region and enchanted by Anders Beltgarden, a 75-year-old human ranger/wizard who lived not far outside Myth Drannor in 253 DR. It was to be a parting gift for Anders friend, the Bladesinger Josidiah Starym, before Anders died of old age, but Josidiah saw an intelligence in the giant panthers eyes that he felt should not be caged, let alone killed he thought her body should not be enslaved to magic and a masters command.\nThe elfs arguments eventually appealed to the ranger in Anders, and he could not go through with the slaying. He let the cat go, only to follow her to a hill where Josidiah was under attack by a trio of giants and several dozen orcs. With the help of the panther and Anders, the monsters were defeated, but the cat was mortally wounded from the battle. The pair rushed her back to Anders tower in a portable hole and decided to quickly carry out the enchanting ritual to save the panthers life. Anders called the cat \"Whiskers,\" but Josidiah objected to what he considered such a silly name for such a noble creature. Josidiah decided on the high elven word for shadow, \"Guenhwyvar.\" This, he realized, was the panthers true name all along. Anders intended for Guenhwyvars spirit to become fused with the onyx statuette the statuette was to transform into the panther when instructed by its owner, like any other such magical item. However, during the final stage of the ritual, the magic of the binding also absorbed that of the extra-dimensional hole Guen was partially lying in, causing a brief rift to the Astral Sea. Therefore, rather than being absorbed by the statuette, Guenhwyvars spirit was merely bound to the statuette and came to inhabit the Astral Sea. When she was called forth to test the rituals success, the panther was not a slave like a normal figurine of Wondrous power would produce, but the same panther, with all of her intelligence intact. Also, the figurine summoned Guen rather than transforming into her as a normal figurine would, making the magic item truly unique.\nJosidiah used the figurine after it was gifted to him, but when he returned from his quest in the Underdark, he no longer carried Guenhwyvars figurine with him.\nAt some point, the figurine fell into the hands of a denizen of the lower planes. The denizen gifted the figurine to the drow apprentice Masoj Hunett after Masoj aided him in some way. However, Masojs master, Gelroos Hunett, took the figurine from him. However, when Masoj killed Gelroos in 1297 DR, he retrieved the statuette for himself. Masoj summoned Guenhwyvar to protect him while spellcasting.\nCirca 1327 DR, Masoj, now a student of Sorcere, spent six months with Drizzt DoUrden, instructing him in the magical arts. Drizzt became acquainted with Guenhwyvar when Masoj summoned her as a distraction from Alton DeVirs attack on Drizzt. Drizzt and Guenhwyvar became great friends, sparring together and working together during patrols, despite Masojs frustration. During one patrol, Drizzt and Guenhwyvar defeated an earth elemental.\n250px|left|thumb|Dinin DoUrden in drider form as he fights Guenhwyvar. \nIn 1328 DR, Masoj ordered Guenhwyvar after Drizzt to kill him. Because of her friendship with Drizzt, Guenhwyvar fought against the magical compulsion of the order. She was eventually able to overcome the compulsion and saved Drizzts life. Drizzt returned to Masoj and told him his life would be spared if Masoj would give him Guenhwyvars statuette. Masoj refused, and Guenhwyvar aided Drizzt in defeating both Masoj and Alton DeVir, who had teamed up together on behalf of House Hunett. Drizzt subsequently fled Menzoberranzan with Guenhwyvar at his side."
     }
 }

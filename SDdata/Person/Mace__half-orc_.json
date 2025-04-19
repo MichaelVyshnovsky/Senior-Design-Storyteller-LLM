@@ -1,23 +1,8 @@
 {
-    "template_data": {
-        "edition": "1e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Mace",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Phlan]], [[Moonsea]]",
-        "formerhomes": "",
-        "race": "[[Half-orc]]",
-        "class": "{{class table|edition=1e|[[Cleric]]|4}}",
         "sex": "Male",
         "alignment": "",
-        "patron deity": "[[Bane]]",
+        "patron deity": "Bane",
         "languages": "",
         "reckoning": "DR",
         "dob": "",
@@ -27,7 +12,6 @@
         "destroyed": "",
         "destroyednotes": "",
         "rules": "1st",
-        "mainbody": "'''Mace''' was a [[half-orc]] cleric of [[Bane]] in [[Phlan]] in [[1340 DR]].",
-        "History": "Mace led a group of [[orc]]s that had occupied the [[temple of II-Mater]] until an adventuring party hired by [[Dirtan]] killed him and his minions."
+        "mainbody": "Mace was a half-orc cleric of Bane in Phlan in 1340 DR.\nMace led a group of orcs that had occupied the temple of II-Mater until an adventuring party hired by Dirtan killed him and his minions."
     }
 }

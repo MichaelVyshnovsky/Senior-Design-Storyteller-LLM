@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Stop",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "",
-        "level2e": "{{Spell table|edition=2e|[[Wizard]]|4}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Stop''''' was an [[arcane]] [[spell]] to stop movement.",
-        "Effects": "The spell caused the target to be unable to leave the spot he or she occupied. For example, the spell could be cast on a rider, who was then left hanging in the air while the mount moved away.\n\nThis spell fixed a person to a spot but did not rob the target of their ability to act. A person under this spell could not move away from the spot but anything else was possible.\n\n''Stop'' expired after four minutes. The target was halted for at least one minute for certain, but after that, whether the target remained halted depended on the target's ability to resist spells. Resisting the spell allowed movement, but only at the speed of something falling while under a ''[[feather fall]]'' spell.\n\nThere were four ways to end the ''stop'' spell. First, one could wait until the spell expired. Second, one could cast ''[[dispel magic]]'' on the target to end it right away except in the first minute. Third, the ability to enter the [[Astral Plane|Astral]] or [[Ethereal plane|Ethereal]] planes allowed escape from the halting effect. Fourth, certain items like a ''[[ring of free action]]'' ended the spell after a minute.",
-        "Components": "The spell only required somatic and verbal components.",
-        "History": "The spell was associated with the [[drow]]."
+        "mainbody": "Stop was an arcane spell to stop movement.\nThe spell caused the target to be unable to leave the spot he or she occupied. For example, the spell could be cast on a rider, who was then left hanging in the air while the mount moved away.\nThis spell fixed a person to a spot but did not rob the target of their ability to act. A person under this spell could not move away from the spot but anything else was possible.\nStop expired after four minutes. The target was halted for at least one minute for certain, but after that, whether the target remained halted depended on the targets ability to resist spells. Resisting the spell allowed movement, but only at the speed of something falling while under a feather fall spell.\nThere were four ways to end the stop spell. First, one could wait until the spell expired. Second, one could cast dispel magic on the target to end it right away except in the first minute. Third, the ability to enter the Astral or Ethereal planes allowed escape from the halting effect. Fourth, certain items like a ring of free action ended the spell after a minute.\nThe spell only required somatic and verbal components.\nThe spell was associated with the drow."
     }
 }

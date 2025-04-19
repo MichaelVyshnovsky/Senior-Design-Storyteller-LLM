@@ -1,29 +1,9 @@
 {
-    "template_data": {
-        "variant": "psionic power",
-        "edition": "3e",
-        "variant_1": "psionic power"
-    },
     "document_data": {
-        "image": "Haun BoL.jpg",
-        "caption": "A haun using inflict pain on an adventurer.",
-        "name": "Inflict Pain",
-        "deity": "",
-        "inventor": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "discipline3e": "[[Telepathy]]",
-        "mantles3e": "[[Pain and Suffering mantle|Pain and Suffering]]",
-        "descriptors3e": "{{desc/mind-affecting|variant=psionic power}}",
-        "level3e": "{{Spell table|edition=3e|variant=psionic power|[[Psion]]|2|[[Wilder]]|2|[[Pain and Suffering mantle|Pain and Suffering]]|2}}",
+        "level3e": "",
         "type3e": "Standard power",
-        "refs3e": "<ref>",
-        "discipline2e": "[[Telepathy]]",
+        "refs3e": "",
+        "discipline2e": "Telepathy",
         "level2e": "Minor (Devotion)",
         "type2e": "Standard power",
         "wild2e": "Yes",
@@ -31,12 +11,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Inflict pain''''' was a [[psionic]] power of the [[telepathy]] [[discipline]] that caused debilitating agony in the target.",
-        "Effects": "After making [[contact]], the manifester inflicted a telepathic stab at the mind of a nearby victim, causing horrible pain that debilitated them in all areas rather than causing real injury. Even those with the willpower to exist, whether to fight or resist interrogation, remained hampered. The manifester could even choose the type of pain inflicted.\n\nIt affected only one target, but could increase in number and effectiveness with more psionic energy. It lasted about a quarter of a minute, or more for experienced manifesters.\n\nOnly [[evil]]-minded people could learn it easily; others who tried to use it were inevitably bent toward evil.",
-        "Prerequisite Powers": "It could require ''[[contact]]'' and ''[[mindlink]]'' to learn.",
-        "Displays": "It caused the standard mental [[display]].",
-        "Significance": "''Inflict pain'' was an especially cruel form of torture, and it was effective as it did no actual harm and made no marks or scars. Even knowing this did not help victims resist; it was just too painful for them to bear and prolonged abuse left them traumatized and almost in a state of catatonia. Those who succumbed in torture soon pleaded for mercy and yielded whatever information was demanded.",
-        "Users": "''Inflict pain'' was known innately by [[haun]]s. They used it to harm their foes and make their [[haundar]] docile, deter intruders, and to break the wills of slaves.\n\nIn psionics terms, ''inflict pain'' could be known by [[yuan-ti]].",
-        "Notable Users": "* [[Radric Kaledon]], a spacefaring [[elf]] infobroker.<ref>{{Cite dungeon/36/The Sea of Sorrow|44}}\n* [[Ryvvik Dlardrageth]], [[daemonfey]] [[psionicist]] and third-in-command of [[House Dlardrageth]]<ref>"
+        "mainbody": "Inflict pain was a psionic power of the telepathy discipline that caused debilitating agony in the target.\nAfter making contact, the manifester inflicted a telepathic stab at the mind of a nearby victim, causing horrible pain that debilitated them in all areas rather than causing real injury. Even those with the willpower to exist, whether to fight or resist interrogation, remained hampered. The manifester could even choose the type of pain inflicted.\nIt affected only one target, but could increase in number and effectiveness with more psionic energy. It lasted about a quarter of a minute, or more for experienced manifesters.\nOnly evil-minded people could learn it easily others who tried to use it were inevitably bent toward evil.\nIt could require contact and mindlink to learn.\nIt caused the standard mental display.\nInflict pain was an especially cruel form of torture, and it was effective as it did no actual harm and made no marks or scars. Even knowing this did not help victims resist it was just too painful for them to bear and prolonged abuse left them traumatized and almost in a state of catatonia. Those who succumbed in torture soon pleaded for mercy and yielded whatever information was demanded.\nInflict pain was known innately by hauns. They used it to harm their foes and make their haundar docile, deter intruders, and to break the wills of slaves.\nIn psionics terms, inflict pain could be known by yuan-ti.\n* Radric Kaledon, a spacefaring elf infobroker.\n* Ryvvik Dlardrageth, daemonfey psionicist and third-in-command of House Dlardrageth"
     }
 }

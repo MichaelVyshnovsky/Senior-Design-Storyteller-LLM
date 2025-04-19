@@ -1,31 +1,5 @@
 {
-    "template_data": {
-        "0.5|lb|k|long": "yes",
-        "0'6|'\"|long": "yes"
-    },
     "document_data": {
-        "image": "Lens of detection.png",
-        "caption": "",
-        "name": "''Lens of Detection''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Lense]]",
-        "creator": "",
-        "location": "[[Moonsea]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|0.5|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -42,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Lenses of detection''''' were [[enchanted]] [[optic aid]]s that could reveal even the most minute details, especially popular among [[rogue]]s for that reason.",
-        "Description": "These lenses were circular prisms {{SI|0'6|'\"|long=yes}} in diameter, held in place by a decorated frame and a handle.",
-        "Powers": "Apart from ''lenses of detection's'' optical enragement that allowed the user to see the finest details in objects, they also magically revealed all hidden traps within the user's eyesight, as if via the ''[[find traps]]'' spell."
+        "mainbody": "Lenses of detection were enchanted optic aids that could reveal even the most minute details, especially popular among rogues for that reason.\nThese lenses were circular prisms  in diameter, held in place by a decorated frame and a handle.\nApart from lenses of detections optical enragement that allowed the user to see the finest details in objects, they also magically revealed all hidden traps within the users eyesight, as if via the find traps spell."
     }
 }

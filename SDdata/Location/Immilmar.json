@@ -1,35 +1,15 @@
 {
-    "template_data": {
-        "caption": "As of 1372 DR",
-        "captionstyle": "text-align:center;caption-side:top;"
-    },
     "document_data": {
-        "image": "[[Image:immilmar.jpg|250px]]",
-        "caption": "City map of Immilmar ''circa'' [[1472 DR]]",
-        "name": "Immilmar",
-        "alt spelling": "",
-        "aliases": "",
-        "type": "Settlement",
-        "region": "[[Rashemen]], [[Unapproachable East]]",
-        "size": "Large City",
-        "elevation": "",
-        "depth": "",
-        "capital": "",
-        "largest city": "",
-        "georefs": "",
-        "demonym": "",
-        "population": "",
-        "races": "{{percentage table|caption=As of 1372 DR|captionstyle=text-align:center;caption-side:top;",
         "languages": "",
-        "religion": "[[The Three]]: [[Bhalla]], [[Khelliara]], [[The Hidden One]] (later) [[Selûne]]<ref group=\"note\">Following the events of the [[Spellplague]], [[Selûne]] was worshipped as a member of [[The Three]] as [[Mystra]] was absent from the [[Faerûnian pantheon]].",
-        "alignment": "[[Neutral good]]",
+        "religion": "The Three Bhalla, Khelliara, The Hidden One (later) SelûneFollowing the events of the Spellplague, Selûne was worshipped as a member of The Three as Mystra was absent from the Faerûnian pantheon.",
+        "alignment": "Neutral good",
         "socrefs": "",
         "imports": "",
-        "exports": "[[Iron]] works, leather goods, woodworking",
+        "exports": "Iron works, leather goods, woodworking",
         "currency": "",
         "comrefs": "",
         "government": "",
-        "rulertype": "[[Iron Lord]]",
+        "rulertype": "Iron Lord",
         "ruler": "",
         "head of state": "",
         "leader1": "",
@@ -67,11 +47,11 @@
         "population5": "",
         "popyear5": "",
         "poptable": "",
-        "ruler1": "[[Hyamon Huzzithlar]]",
+        "ruler1": "Hyamon Huzzithlar",
         "ruleryear1": "1357",
-        "ruler2": "[[Volas Dyervolk]]",
+        "ruler2": "Volas Dyervolk",
         "ruleryear2": "1372",
-        "ruler3": "[[Mangan Uruk]]",
+        "ruler3": "Mangan Uruk",
         "ruleryear3": "1479",
         "ruler4": "",
         "ruleryear4": "",
@@ -92,20 +72,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "'''Immilmar''' was the capital city of [[Rashemen]] and seat of power for the nation's [[Iron Lord]]. Beyond its political importance as the heart of Rashemen, it was perhaps most famous for its great crafters, whose goods were renowned across the [[Unapproachable East]] and the [[Cold Lands]].",
-        "Description": "At the center of Immilmar was the Lord's citadel, built with the help of the mighty [[Wychlaran]]. Around the keep was the central part of Immilmar, that comprised stone buildings that were only found in the country's large cities.\n\nThe homes that were built farther-out were constructed like those found throughout the rest of Rashemen: wood-and-stone lodges that featured steep-sloped roofs. The waterfront on the western side of the city was a pleasing locale that was always active with fishers and other boat-faring folk.",
-        "Geography": "The city was set upon the western coast of Rashemen, overlooking the great [[Lake Ashane]].",
-        "Government": "While Immilmar and the entire nation of Rashemen were ruled by the Iron Lord, known by Rashemaar as the Huhrong, the true power was held by the Wychlaran. It was by their permission that the great warrior-rulers were able to wield their power.",
-        "Trade": "Merchants and traders from [[Thesk]] and the [[Cold Lands]] regularly traveled throughout Immilmar, selling wares and goods from their respective homes. Similarly, traders and fisherman from nearby Rashemaar villages come to the city to earn their keep.\n\nImmilmar was renowned for its craftspeople that specialized in working with wood, leather, and [[iron]].",
-        "Defenses": "In addition to the 60 or so berserkers from the local lodges, Immilmar was defended by ''Iron Lord's Guard'', a military group of approximate 1800 warriors.",
-        "History": "Originally a fortress of the ancient [[Narfell]] Empire, [[Huhrong's Citadel]] was built around the ruins, and the rest of the city were built out from there. \n\nThe city was partially flood in the {{YearlinkName|1365}}, when agents of [[Thay]] melted a portion of the glacier that covered the [[Icerim Mountains]].\n\nSome [[1368 DR|years later]] gangs of murderers somehow ''[[teleport]]ed'' into Immilmar and began slaying important city leaders. They were defeated in short order by the resident [[Rashemaar berserkers|berserkers]].",
-        "Notable Locations": {
-            "Businesses": "* [[Carvers' Hall]], the guildhouse of the city's skilled artisans.\n* [[Blackstone House]], the finest inn of the city that catered to foreign traders.\n* [[The Guardian Witch]], a cozy inn that catered to local fishers.",
-            "Landmarks": "* [[Immilmar/City Market|City Market]], the bustling covered market in which anyone could buy local goods or products imported from outlanders.\n* Communal longhouse, a feasting all and venue for the meetings of the local elders.\n* [[Huhrong's Citadel]], the great stone fortress of the Iron Lord and home to his family.\n* Smith's Quarter, an area of Immilmar highlighted by the numerous smithies, including that of [[Tholli Ironweaver]].\n* [[Witches' Hall]], the sacred meeting place of the city's [[hathran]]s.",
-            "Temples": "* [[House of Bhalla]], a holy house of [[Bhalla]] that ensured that the worship of the goddess did not stray too far from official doctrine."
-        },
-        "Inhabitants": {
-            "Notable Inhabitants": "* [[Othlor]] [[Fydra Night-Tree]], leader of  the city's Wychlaran and advisor to the Iron Lord.\n* [[Rindala Shardroon]], the [[sage]] of Immilmar.{{Cite dragon/272/The New Adventures of Volo: Quotations of the Realms|96}}"
-        }
+        "mainbody": "Immilmar was the capital city of Rashemen and seat of power for the nations Iron Lord. Beyond its political importance as the heart of Rashemen, it was perhaps most famous for its great crafters, whose goods were renowned across the Unapproachable East and the Cold Lands.\nAt the center of Immilmar was the Lords citadel, built with the help of the mighty Wychlaran. Around the keep was the central part of Immilmar, that comprised stone buildings that were only found in the countrys large cities.\nThe homes that were built farther-out were constructed like those found throughout the rest of Rashemen wood-and-stone lodges that featured steep-sloped roofs. The waterfront on the western side of the city was a pleasing locale that was always active with fishers and other boat-faring folk.\nThe city was set upon the western coast of Rashemen, overlooking the great Lake Ashane.\nWhile Immilmar and the entire nation of Rashemen were ruled by the Iron Lord, known by Rashemaar as the Huhrong, the true power was held by the Wychlaran. It was by their permission that the great warrior-rulers were able to wield their power.\nMerchants and traders from Thesk and the Cold Lands regularly traveled throughout Immilmar, selling wares and goods from their respective homes. Similarly, traders and fisherman from nearby Rashemaar villages come to the city to earn their keep.\nImmilmar was renowned for its craftspeople that specialized in working with wood, leather, and iron.\nIn addition to the 60 or so berserkers from the local lodges, Immilmar was defended by Iron Lords Guard, a military group of approximate 1800 warriors.\nOriginally a fortress of the ancient Narfell Empire, Huhrongs Citadel was built around the ruins, and the rest of the city were built out from there. \nThe city was partially flood in the , when agents of Thay melted a portion of the glacier that covered the Icerim Mountains.\nSome years later gangs of murderers somehow teleported into Immilmar and began slaying important city leaders. They were defeated in short order by the resident berserkers.\nBusinesses\n* Carvers Hall, the guildhouse of the citys skilled artisans.\n* Blackstone House, the finest inn of the city that catered to foreign traders.\n* The Guardian Witch, a cozy inn that catered to local fishers.\nLandmarks\n* City Market, the bustling covered market in which anyone could buy local goods or products imported from outlanders.\n* Communal longhouse, a feasting all and venue for the meetings of the local elders.\n* Huhrongs Citadel, the great stone fortress of the Iron Lord and home to his family.\n* Smiths Quarter, an area of Immilmar highlighted by the numerous smithies, including that of Tholli Ironweaver.\n* Witches Hall, the sacred meeting place of the citys hathrans.\nTemples\n* House of Bhalla, a holy house of Bhalla that ensured that the worship of the goddess did not stray too far from official doctrine.\nAlong with the great trading city of Mulptan, Immilmar was one locale in Rashemen where outlanders were welcome. Rashemaar leaders even allowed councilors from nearby nations such as Aglarond, Damara, and Impiltur to take up residence within their nations embassies.\nImmilmar housed a number of lodge-houses of the Rashemaar berserkers, including those of the Goblin, Great Stag, and Owlbear lodges.\n* Othlor Fydra Night-Tree, leader of  the citys Wychlaran and advisor to the Iron Lord.\n* Rindala Shardroon, the sage of Immilmar."
     }
 }

@@ -1,16 +1,10 @@
 {
     "document_data": {
-        "image": "SouthZhentilKeep.jpg",
-        "caption": "A map showing Zhent Avenue in southern Zhentil Keep.",
-        "name": "Zhent Avenue",
-        "type": "Street",
-        "aliases": "",
-        "length": "{{SI|1600|ft}}",
         "width": "",
         "pavement": "",
-        "location": "The [[Zhentil Keep/Foreign Quarter|Foreign Quarter]], [[Zhentil Keep]]",
-        "starts": "[[Bridge Street]]",
-        "ends": "Intersection of [[Teshwave Street]], [[Center Street]], and [[Twilight Street]]",
+        "location": "The Foreign Quarter, Zhentil Keep",
+        "starts": "Bridge Street",
+        "ends": "Intersection of Teshwave Street, Center Street, and Twilight Street",
         "built": "",
         "refs": "",
         "daggers": "",
@@ -23,8 +17,6 @@
         "roads": "yes",
         "bodies of water": "",
         "events": "",
-        "mainbody": "'''Zhent Avenue''' was a large street located in the city of [[Zhentil Keep]] during the mid–14{{th}} century [[DR]].",
-        "Location": "Zhent Avenue was located in southern Zhentil Keep within the [[Zhentil Keep/Foreign Quarter|Foreign Quarter]]. The street ran in between [[Bridge Street]] in the east and the major intersection of [[Teshwave Street]], [[Center Street]], and [[Twilight Street]] in the west. Zhent Avenue ran the length of the Foreign Quarter, roughly bisecting it into a northern and southern half.",
-        "Notable Locations": "* [[Battlehall]]\n* [[Rak's Apothecary]]\n* [[Tymora's Holy Hall of Good Fortune and Casino]]\n* The [[Pride of Zhentil Keep]]\n* The [[House of Comfort]]\n* [[The Mug and Mutton]]"
+        "mainbody": "Zhent Avenue was a large street located in the city of Zhentil Keep during the mid–14 century DR.\nZhent Avenue was located in southern Zhentil Keep within the Foreign Quarter. The street ran in between Bridge Street in the east and the major intersection of Teshwave Street, Center Street, and Twilight Street in the west. Zhent Avenue ran the length of the Foreign Quarter, roughly bisecting it into a northern and southern half.\n* Battlehall\n* Raks Apothecary\n* Tymoras Holy Hall of Good Fortune and Casino\n* The Pride of Zhentil Keep\n* The House of Comfort\n* The Mug and Mutton"
     }
 }

@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Eruption",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Conjuration]], [[Flame (school)|Flame]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|9}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Eruption''''' was a powerful [[conjuration]] and [[Flame (province)|flame]] spell that was used by high-ranking members of the [[Brotherhood of the True Flame]] in [[Zakhara]].{{Cite dragon/268/Secrets of the Brotherhood of the True Flame}}",
-        "Effects": "This spell had two very different effects depending on where it was cast. If cast upon land the spell opened a gate to the [[Para-Elemental Plane of Magma]], immediately filling the area with molten lava. Any creature in the area unable to fly or escape by other means began to sink into the lava, suffering excruciating damage from contact with the molten rock. The area of effect for this spell depended on the skill of the caster, but typically measured hundreds of cubic feet. The lava would remain until successfully [[Dispel magic|dispelled]] or until it cooled to solid rock after several days.\n\n''Eruption'' was fully capable of destroying buildings and other structures.\n\nIf ''eruption'' was cast in a body of water whose volume was greater than the effective area of the spell, then the spell failed. If the effective spell area was greater then it created a giant cloud of scalding steam the same size as the body of water. The intense heat from the steam harmed all creatures caught within before dissipating after 5-10 minutes. Spells such ''[[gust of wind]]'' could also dissipate the steam.",
-        "Components": "In addition to verbal and somatic components, ''eruption'' required a valuable [[jacinth]] worth at least 1,000 [[gold piece]]s to cast. The jacinth was crushed during the casting."
+        "mainbody": "Eruption was a powerful conjuration and flame spell that was used by high-ranking members of the Brotherhood of the True Flame in Zakhara.\nThis spell had two very different effects depending on where it was cast. If cast upon land the spell opened a gate to the Para-Elemental Plane of Magma, immediately filling the area with molten lava. Any creature in the area unable to fly or escape by other means began to sink into the lava, suffering excruciating damage from contact with the molten rock. The area of effect for this spell depended on the skill of the caster, but typically measured hundreds of cubic feet. The lava would remain until successfully dispelled or until it cooled to solid rock after several days.\nEruption was fully capable of destroying buildings and other structures.\nIf eruption was cast in a body of water whose volume was greater than the effective area of the spell, then the spell failed. If the effective spell area was greater then it created a giant cloud of scalding steam the same size as the body of water. The intense heat from the steam harmed all creatures caught within before dissipating after 5-10 minutes. Spells such gust of wind could also dissipate the steam.\nIn addition to verbal and somatic components, eruption required a valuable jacinth worth at least 1,000 gold pieces to cast. The jacinth was crushed during the casting."
     }
 }

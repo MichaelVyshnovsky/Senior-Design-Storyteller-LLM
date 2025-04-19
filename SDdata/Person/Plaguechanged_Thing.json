@@ -1,21 +1,5 @@
 {
-    "template_data": {
-        "1|mile|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Plaguechanged Thing",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Westgate]], [[Dragon Coast]]",
-        "formerhomes": "",
-        "sex": "",
-        "gender": "",
-        "race": "{{Former}} [[Dwarf]]",
         "ethnicity": "",
         "occupation": "",
         "age": "",
@@ -24,7 +8,7 @@
         "basicrefs": "",
         "reckoning": "",
         "dob": "1385",
-        "dobnotes": "''circa''",
+        "dobnotes": "circa",
         "turned": "",
         "turnednotes": "",
         "death": "",
@@ -64,9 +48,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "The '''Plaguechanged Thing''' was a [[plaguechanged]] creature that lived in the caverns below [[Westgate]] in the late 15{{th}} century [[DR]].",
-        "Description": "The Plaguechanged Thing was a blob of protoplasm about {{SI|1|mile|k|long=yes}} long.",
-        "Abilities": "The Plaguechanged Thing had incredible [[psionic]] abilities thanks to the mutations caused in its brain by the [[Spellplague]], but its powers were limited to the confines of its lair.",
-        "History": "The Plaguechanged Thing was born as a consequence of the Spellplague of the {{YearlinkName|1385}}. It was originally a [[dwarf]] excavator, but the extreme alterations of its body left it trapped in the caves below Westgate. The Plaguechanged Thing was still alive as of [[1479 DR]]."
+        "mainbody": "The Plaguechanged Thing was a plaguechanged creature that lived in the caverns below Westgate in the late 15 century DR.\nThe Plaguechanged Thing was a blob of protoplasm about  long.\nThe Plaguechanged Thing had incredible psionic abilities thanks to the mutations caused in its brain by the Spellplague, but its powers were limited to the confines of its lair.\nThe Plaguechanged Thing was born as a consequence of the Spellplague of the . It was originally a dwarf excavator, but the extreme alterations of its body left it trapped in the caves below Westgate. The Plaguechanged Thing was still alive as of 1479 DR."
     }
 }

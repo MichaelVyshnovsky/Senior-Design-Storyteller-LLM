@@ -1,20 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "50|ft|long": "yes",
-        "50|yard|long": "yes"
-    },
     "document_data": {
-        "name": "Create Campsite",
-        "school2e": "[[Conjuration]] (Summoning)",
-        "reversible2e": "true",
-        "spheres2e": "[[Travelers sphere|Travelers]]",
-        "level2e": "{{spell table|edition=2e|[[Mystic]]|3|[[Shaman]]|3|[[Travelers sphere|Travelers]]|3}}",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''''Create campsite''''' was a [[conjuration]] spell that summoned many invisible servants to set up a comfortable campsite. The reverse of this spell, '''''break camp''''', could pack and clean up a campsite, leaving no trace.",
-        "Effects": "The caster designated an area for the campsite and how many people were to be accommodated. The area could be no larger than a circle of {{SI|50|ft|long=yes}} radius and accommodate no more than three people per level of the caster. If there was camping gear available, the invisible sprites used it to erect [[tent]]s, lay out [[bedroll]]s, fetch water and firewood, start a campfire and prepare a plain meal. If there was inadequate gear, the servants used whatever materials were available in the general vicinity ({{SI|50|yard|long=yes}} from the campsite), making beds from [[grass]]es or [[snowhouse|igloos]] for shelter for example. Within the limitations of the available gear and the environment, the servants made the guests as comfortable as possible.\n\nThe campsite was created in about 15 minutes or less and was expertly crafted to blend in with the surroundings, making it somewhat difficult to detect visually. The invisible servants could do nothing else besides creating a campsite.\n\n''Break camp'' did just the opposite; doused the fire, packed the gear, disposed of refuse, and returned the area to its natural state, leaving no trace of the former campsite.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, the caster required a piece of string, a chip of wood, and a drop of water.",
-        "History": "It was recorded in ''[[Yornar's Trail Companion]]'', a holy text of the [[church of Mielikki]].<ref>"
+        "mainbody": "Create campsite was a conjuration spell that summoned many invisible servants to set up a comfortable campsite. The reverse of this spell, break camp, could pack and clean up a campsite, leaving no trace.\nThe caster designated an area for the campsite and how many people were to be accommodated. The area could be no larger than a circle of  radius and accommodate no more than three people per level of the caster. If there was camping gear available, the invisible sprites used it to erect tents, lay out bedrolls, fetch water and firewood, start a campfire and prepare a plain meal. If there was inadequate gear, the servants used whatever materials were available in the general vicinity ( from the campsite), making beds from grasses or igloos for shelter for example. Within the limitations of the available gear and the environment, the servants made the guests as comfortable as possible.\nThe campsite was created in about 15 minutes or less and was expertly crafted to blend in with the surroundings, making it somewhat difficult to detect visually. The invisible servants could do nothing else besides creating a campsite.\nBreak camp did just the opposite doused the fire, packed the gear, disposed of refuse, and returned the area to its natural state, leaving no trace of the former campsite.\nIn addition to verbal and somatic components, the caster required a piece of string, a chip of wood, and a drop of water.\nIt was recorded in Yornars Trail Companion, a holy text of the church of Mielikki."
     }
 }

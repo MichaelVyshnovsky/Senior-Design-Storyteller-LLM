@@ -1,40 +1,8 @@
 {
-    "template_data": {
-        "40|ft|long": "yes",
-        "60|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Peltast-2e.png",
-        "caption": "A peltast disguised as a leather satchel.",
-        "name": "Peltast",
-        "othernames": "",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "",
-        "type3e": "",
-        "subtype3e": "",
-        "alignment3e": "",
-        "challenge3e": "",
-        "refs3e": "",
-        "size2e": "Tiny",
-        "alignment2e": "[[Neutral]]",
-        "refs2e": "",
-        "size1e": "Small",
-        "alignment1e": "[[Neutral]]",
-        "refs1e": "{{Cite dragon/89/Creature Catalogue|13-14}}",
         "patron deity": "",
         "movement": "",
-        "vision": "[[Infravision]]",
+        "vision": "Infravision",
         "activecycle": "",
         "diet": "Blood",
         "lifespan": "60+ years",
@@ -45,7 +13,7 @@
         "terrain": "Any land",
         "genrefs": "",
         "height": "",
-        "length": "Under {{SI|2|ft}} long, unless stretched",
+        "length": "Under  long, unless stretched",
         "wingspan": "",
         "weight": "",
         "skincolor": "Mottled brown",
@@ -59,22 +27,6 @@
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Peltasts''' were a very rare form of amorphous creature.",
-        "Description": {
-            "Greater Peltast": "A rarer form of peltast, '''greater peltasts''' resembled translucent rock crystals rather than leather. They were roughly the size of a human fist. Much like a peltast they could alter the shape of their bodies, making them resemble faceted [[gem]]stones valued by creatures, but they could also alter their internal hue.\n\nNo organs or structures were visible within a greater peltast's body, though any blood they ingested was visible. Their bodies also visibly grew upon digesting a certain amount of nutrients."
-        },
-        "Personality": "Peltasts had an average level of intelligence, while greater peltasts were exceptionally intelligent.",
-        "Abilities": {
-            "Biological": "The skin of these creatures could sense vibrations, distinguish scents with acute sensitivity, and sense other peltasts from up to {{SI|40|ft|long=yes}} away. Their eyes could see from distances of up to {{SI|60|ft|long=yes}} with both normal vision and [[infravision]]. They moved by creeping along surfaces in a [[worm]]-like fashion. They were capable of sticking to surfaces, even when their bodies were oily or wet, but only if these surfaces were solid and non-living. They also could not bear the weight of their host when doing so.\n\nPeltasts exuded a liquid that served as both an anesthetic and tissue softener. They were immune to most forms of [[poison]] and capable of neutralizing any within a host's bloodstream, feeding upon the venom itself.\n\nWhenever immersed in water a peltast exuded any waste material within themselves. This would stain and poison the water they were immersed in, making whoever drank from it nauseated.",
-            "Magical": "These creatures possessed a slight degree of [[magic resistance|magical resistance]], which they shared with their hosts. They also had a degree of resistance to [[fire]] and blunt weaponry.\n\nGreater peltasts possessed magical abilities similar to the [[spell]]s ''[[suggestion]]'' and ''[[monster summoning VI]]''. They used these abilities to call hostile creatures against their host until a good material opportunity developed and influence creatures around them, thereby ensuring the maximum amount of bloodshed possible."
-        },
-        "Combat": "Peltasts skillfully used their liquid with pinpoint precision, opening small wounds within their host's skin in small, hidden areas. Through these holes they fed upon their host's blood-borne nutrients. Because of their liquid's anesthetic property the chances of a host noticing their feeding was extremely slim. Hosts were never known to take ill from their feeding. If removed from a host there was no telltale peeling, pulling, or blood.",
-        "History": "Around the 14{{th}} century [[DR]], a prominent moneylender in the city of [[Menzoberranzan]] named [[Nantlel|Nantlel of the Three Fingers]] was guarded by several monsters that included a greater peltast.\n\nIn the mid-14{{th}} century DR, peltasts could be found in many of the upper levels of [[Undermountain]]. They were especially prominent around direct connections to the surface city of [[Waterdeep]] and in the dim alleys of [[Skullport]]. Greater peltasts could be found in the lower levels of Undermountain to some degree. Around this time, common peltasts also infested the [[Deep Temple]] of [[Thalandar]] within Undermountain.\n\nAround [[1359 DR]], greater peltasts were the masterminds behind an abandoned wayhouse trap in the [[Dernall Forest]] alongside other peltasts, a [[doppelganger]], and two [[mimic]]s. Around that same time, bandits in [[Darkhorn castle]] unknowingly had a greater peltast within their treasure hoard.",
-        "Society": {
-            "Diet": "Peltasts fed upon the blood-borne nutrients of their hosts.\n\nGreater peltasts preferred to feed upon creatures that were either dead, disabled, or sleeping.",
-            "Homelands": "Peltasts could be found in a wide variety of lands, though they were typically found inside of dungeons and in urban areas. Especially urban areas with direct connections to dungeon settings or sewers.\n\nGreater peltasts were often found hiding among gemstones.",
-            "Relationships": "Peltasts formed symbiotic relationships with creatures, keeping them alive and protecting them in return for the nutrients they fed from them. They were only known to make [[human]]s, [[goblinoid]]s, and [[humanoid]] creatures their hosts, considering [[demihuman]]s like [[elves]] and [[dwarves]] to be little more than a means of transportation to more suitable hosts. They typically would leave a host that was diseased."
-        },
-        "Rumors & Legends": "The Great Library of the [[House of the Moon]] was rumored to have a peltast hiding among its [[book]]s.<ref>"
+        "mainbody": "Peltasts were a very rare form of amorphous creature.\nthumb|right|250px|A satchel disguised peltast uses its shapeshifting powers to take on a menacing appearance.\nPeltasts had textured, mottled brown skin that resembling worn yet sturdy leather. Their skin had the same feeling of leather and they would weigh roughly the same as anything they mimicked. Their bodies had no visible organs or limbs, they gave no heat or odor, and they radiated no magic.\nThrough their shapeshifting ability, peltasts made themselves resemble a variety of leather clothing or items that would be worn close to the skin. Such as belts, boots, caps, or gloves. Often times they would make themselves resemble an item a suitable host has dropped, quickly hiding the original item. No matter what form they took, a peltast always had a set of tiny flat eyes that they concealed within their form. These were reveled through slits when in use.\nA rarer form of peltast, greater peltasts resembled translucent rock crystals rather than leather. They were roughly the size of a human fist. Much like a peltast they could alter the shape of their bodies, making them resemble faceted gemstones valued by creatures, but they could also alter their internal hue.\nNo organs or structures were visible within a greater peltasts body, though any blood they ingested was visible. Their bodies also visibly grew upon digesting a certain amount of nutrients.\nPeltasts had an average level of intelligence, while greater peltasts were exceptionally intelligent.\nThe skin of these creatures could sense vibrations, distinguish scents with acute sensitivity, and sense other peltasts from up to  away. Their eyes could see from distances of up to  with both normal vision and infravision. They moved by creeping along surfaces in a worm-like fashion. They were capable of sticking to surfaces, even when their bodies were oily or wet, but only if these surfaces were solid and non-living. They also could not bear the weight of their host when doing so.\nPeltasts exuded a liquid that served as both an anesthetic and tissue softener. They were immune to most forms of poison and capable of neutralizing any within a hosts bloodstream, feeding upon the venom itself.\nWhenever immersed in water a peltast exuded any waste material within themselves. This would stain and poison the water they were immersed in, making whoever drank from it nauseated.\nThese creatures possessed a slight degree of magical resistance, which they shared with their hosts. They also had a degree of resistance to fire and blunt weaponry.\nGreater peltasts possessed magical abilities similar to the spells suggestion and monster summoning VI. They used these abilities to call hostile creatures against their host until a good material opportunity developed and influence creatures around them, thereby ensuring the maximum amount of bloodshed possible.\nPeltasts skillfully used their liquid with pinpoint precision, opening small wounds within their hosts skin in small, hidden areas. Through these holes they fed upon their hosts blood-borne nutrients. Because of their liquids anesthetic property the chances of a host noticing their feeding was extremely slim. Hosts were never known to take ill from their feeding. If removed from a host there was no telltale peeling, pulling, or blood.\nAround the 14 century DR, a prominent moneylender in the city of Menzoberranzan named Nantlel of the Three Fingers was guarded by several monsters that included a greater peltast.\nIn the mid-14 century DR, peltasts could be found in many of the upper levels of Undermountain. They were especially prominent around direct connections to the surface city of Waterdeep and in the dim alleys of Skullport. Greater peltasts could be found in the lower levels of Undermountain to some degree. Around this time, common peltasts also infested the Deep Temple of Thalandar within Undermountain.\nAround 1359 DR, greater peltasts were the masterminds behind an abandoned wayhouse trap in the Dernall Forest alongside other peltasts, a doppelganger, and two mimics. Around that same time, bandits in Darkhorn castle unknowingly had a greater peltast within their treasure hoard.\nThese creatures were never known to fight against their own kind and would not compete with each other for hosts. If a peltast could tell that one of their kind had already claimed a suitable host, they would leave the host alone.\nPeltasts were asexual creatures and reproduced by means of splitting themselves into two smaller, identical creatures.\nPeltasts fed upon the blood-borne nutrients of their hosts.\nGreater peltasts preferred to feed upon creatures that were either dead, disabled, or sleeping.\nPeltasts could be found in a wide variety of lands, though they were typically found inside of dungeons and in urban areas. Especially urban areas with direct connections to dungeon settings or sewers.\nGreater peltasts were often found hiding among gemstones.\nPeltasts formed symbiotic relationships with creatures, keeping them alive and protecting them in return for the nutrients they fed from them. They were only known to make humans, goblinoids, and humanoid creatures their hosts, considering demihumans like elves and dwarves to be little more than a means of transportation to more suitable hosts. They typically would leave a host that was diseased.\nThe Great Library of the House of the Moon was rumored to have a peltast hiding among its books."
     }
 }

@@ -1,33 +1,8 @@
 {
-    "template_data": {
-        "12|in|c|long": "yes",
-        "6|8|in|c|long": "yes",
-        "1|in|c|long": "yes",
-        "6|in|c|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Boccob's Blessed Book",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Spellbook]]",
-        "creator": "",
-        "location": "[[Oerth]]",
-        "basicrefs": "",
-        "value1e": "35,000 [[gp]]",
-        "weight1e": "",
-        "refs1e": "<ref>",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "Moderate [[transmutation]]",
-        "casterlevel3e": "7{{th}}",
         "itemlevel3e": "",
         "value3e": "12,500 gp",
-        "weight3e": "{{SI|1|lb|k}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -44,10 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Boccob's blessed book''' was a well-made and highly prized variety of [[spellbook]]s, named for the [[Oerth]]ian [[deity]] [[Boccob]].",
-        "Description": "These books were quite durable and waterproof. They were bound with [[iron]] overlaid with [[silver]] and had locks. And they contained over a thousand pages.\n\nA ''Boccob's blessed book'' was small in size, typically measuring {{SI|12|in|c|long=yes}} tall, {{SIrange|6|8|in|c|long=yes}} wide, and {{SI|1|in|c|long=yes}} thick. Though some were a mere {{SI|6|in|c|long=yes}} in height.",
-        "Powers": "Unlike a normal spellbook, ''Boccob's blessed book'' did not require the use of costly materials to inscribe [[spell]]s upon its pages.",
-        "Crafting": "Creating one of these books required knowledge of how to craft wondrous items and the spell ''[[secret page]]''.",
-        "History": "At some point prior to the 14{{th}} century [[DR]], an [[evil]] [[magic-user]] on [[Toril]] possessed one of these books and was slain in the caverns of [[Deepearth]] by [[demon]]s. Years later, a group of [[adventurer]]s would come across their mummified corpse and [[spectre]], retrieving from it the ''Boccob's blessed book''."
+        "mainbody": "Boccobs blessed book was a well-made and highly prized variety of spellbooks, named for the Oerthian deity Boccob.\nThese books were quite durable and waterproof. They were bound with iron overlaid with silver and had locks. And they contained over a thousand pages.\nA Boccobs blessed book was small in size, typically measuring  tall,  wide, and  thick. Though some were a mere  in height.\nUnlike a normal spellbook, Boccobs blessed book did not require the use of costly materials to inscribe spells upon its pages.\nCreating one of these books required knowledge of how to craft wondrous items and the spell secret page.\nAt some point prior to the 14 century DR, an evil magic-user on Toril possessed one of these books and was slain in the caverns of Deepearth by demons. Years later, a group of adventurers would come across their mummified corpse and spectre, retrieving from it the Boccobs blessed book."
     }
 }

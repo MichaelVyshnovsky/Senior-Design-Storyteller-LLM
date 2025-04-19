@@ -1,18 +1,5 @@
 {
-    "template_data": {
-        "k|long": "yes",
-        "150|mi|k|long": "yes",
-        "40|mi|k|long": "yes"
-    },
     "document_data": {
-        "image": "MamnuIslandIA.JPG",
-        "caption": "A map showing Mamnu Island offshore of the Pearl Cities region.",
-        "name": "Mamnu Island",
-        "alt spelling": "",
-        "aliases": "",
-        "type": "Island",
-        "region": "[[Great Sea]], [[west Zakhara]]",
-        "size": "{{SI|6000|sq mi|k|long=yes}}",
         "elevation": "",
         "depth": "",
         "capital": "",
@@ -54,7 +41,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "'''Mamnu Island''' was a large rocky island within the [[Great Sea]] off the coast of [[west Zakhara]].{{Cite interactive atlas|B2bSWIc}}",
-        "Geography": "Mamnu Island was located off the southwest coast of the [[Pearl Cities]] region of Zakhara. The island was separated from [[Al-Suqut Mountains]], that run up the coast of the mainland in this region, by a narrow stretch of sea just a few miles wide. Mamnu Island was {{SI|150|mi|k|long=yes}} long and {{SI|40|mi|k|long=yes}} wide. An unnamed mountain range dominated the central spine of the island, while rocky beaches formed along the shore. The island was uninhabited as of [[1367 DR]].{{AQ-time}}"
+        "mainbody": "Mamnu Island was a large rocky island within the Great Sea off the coast of west Zakhara.\nMamnu Island was located off the southwest coast of the Pearl Cities region of Zakhara. The island was separated from Al-Suqut Mountains, that run up the coast of the mainland in this region, by a narrow stretch of sea just a few miles wide. Mamnu Island was  long and  wide. An unnamed mountain range dominated the central spine of the island, while rocky beaches formed along the shore. The island was uninhabited as of 1367 DR."
     }
 }

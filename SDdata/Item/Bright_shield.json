@@ -1,31 +1,5 @@
 {
-    "template_data": {
-        "7|lb|k|long": "yes",
-        "15'|'\"|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Bright Shield''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Heavy shield]]",
-        "creator": "",
-        "location": "[[Westgate]], [[Dragon Coast]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+1",
-        "value3e": "2,156 [[gp]]",
-        "weight3e": "{{SI|7|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -42,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Bright shields''''' were [[enchanted]] [[heavy shield]] created to be used by dungeon-delving adventurers some time before the late 14{{th}} century [[DR]].",
-        "Powers": "''Bright shields'' possessed a simple yet effective ''+1'' enchantment that increased the wielder's protection and illuminated {{SI|15'|'\"|long=yes}} around the shield with a yellow light.",
-        "History": "''Bright shields'' were birthed from the eternal dilemma among adventurers: carrying a torch for light or wielding a shield for protection. Over the decades, many magic items were created to satisfy both needs, however, ''bright shields'' were among the more practical items. In the {{YearlinkName|1374}}, ''bright shields'' could be purchased from armor vendors of the [[Market Triangle]] in the city of [[Westgate]]."
+        "mainbody": "Bright shields were enchanted heavy shield created to be used by dungeon-delving adventurers some time before the late 14 century DR.\nBright shields possessed a simple yet effective +1 enchantment that increased the wielders protection and illuminated  around the shield with a yellow light.\nBright shields were birthed from the eternal dilemma among adventurers carrying a torch for light or wielding a shield for protection. Over the decades, many magic items were created to satisfy both needs, however, bright shields were among the more practical items. In the , bright shields could be purchased from armor vendors of the Market Triangle in the city of Westgate."
     }
 }

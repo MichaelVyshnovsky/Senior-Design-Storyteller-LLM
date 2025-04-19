@@ -1,29 +1,16 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Mungoth",
-        "othernames": "The Burning Ice",
-        "symbol": "Gehenna.png",
-        "demonym": "",
-        "natives": "",
-        "languages": "",
-        "fork-material": "[[Iron]]",
-        "fork-note": "F",
-        "fork-chord": "minor",
-        "fork-audio": "F minor.ogg",
-        "basicrefs": "{{Cite dragon/120/Plane Speaking|42-43}}",
         "type-GW": "Layer",
         "shape-size-GW": "Finite",
         "gravity-GW": "Normal",
         "time-GW": "Normal",
         "morphic-GW": "Divinely",
         "element-energy-GW": "None",
-        "alignment-GW": "{{Alignment grid|off|off|off|off|off|off|on|on|off}}",
+        "alignment-GW": "",
         "magical-GW": "Normal",
         "layers-GW": "",
         "layer-number-GW": "3",
-        "location-GW": "[[Gehenna]]",
+        "location-GW": "Gehenna",
         "refs-GW": "",
         "type-WA": "",
         "shape-size-WA": "",
@@ -56,9 +43,6 @@
         "settlements": "yes",
         "usethe": "",
         "useon": "",
-        "It's not the cold that gets you… it's the humidity.\n|Mungoth petitioner\n}}": "=Geography==",
-        "mainbody": "ngoth was far less volcanically active than the topmost two layers [[Khalas]] and [[Chamada]], but not completely extinct. There were still cool lava furnaces that provided a dull reddish glow to the layer, as well as volcanic vents that continuously spewed ash into the air. Nevertheless, temperatures across the layer were very low, so that it was under almost constant snowfall. The snow mixed with the volcanic ash turned [[acid]]ic and could rapidly damage unprotected living creatures, burning through most ordinary clothing.\n\nUpon hitting the ground, the snow and ash mixture turned into thick mud that made the slopes extremely slippery. Mudslides and lava flows were common and frequently buried the caves that could serve as temporary shelters from the acidic snow.",
-        "Geography": "Mungoth was far less volcanically active than the topmost two layers [[Khalas]] and [[Chamada]], but not completely extinct. There were still cool lava furnaces that provided a dull reddish glow to the layer, as well as volcanic vents that continuously spewed ash into the air. Nevertheless, temperatures across the layer were very low, so that it was under almost constant snowfall. The snow mixed with the volcanic ash turned [[acid]]ic and could rapidly damage unprotected living creatures, burning through most ordinary clothing.\n\nUpon hitting the ground, the snow and ash mixture turned into thick mud that made the slopes extremely slippery. Mudslides and lava flows were common and frequently buried the caves that could serve as temporary shelters from the acidic snow.",
-        "Notable Locations": "* [[Death's Embrace]], realm of [[Velsharoon]].\n* [[Ondtland]], realm of [[Loviatar]].\n* The [[Valley of the Outcasts]], the hideout of the [[fire giant]] [[wizard]] [[Testuo]], an outcast from fire giant society who was sympathetic towards other outcasts, providing shelter when needed. Testuo maintained arrangements with several [[yugoloths]] to ensure the location's safety."
+        "mainbody": "Mungoth, also known as the Burning Ice,\nMungoth was far less volcanically active than the topmost two layers Khalas and Chamada, but not completely extinct. There were still cool lava furnaces that provided a dull reddish glow to the layer, as well as volcanic vents that continuously spewed ash into the air. Nevertheless, temperatures across the layer were very low, so that it was under almost constant snowfall. The snow mixed with the volcanic ash turned acidic and could rapidly damage unprotected living creatures, burning through most ordinary clothing.\nUpon hitting the ground, the snow and ash mixture turned into thick mud that made the slopes extremely slippery. Mudslides and lava flows were common and frequently buried the caves that could serve as temporary shelters from the acidic snow.\n* Deaths Embrace, realm of Velsharoon.\n* Ondtland, realm of Loviatar.\n* The Valley of the Outcasts, the hideout of the fire giant wizard Testuo, an outcast from fire giant society who was sympathetic towards other outcasts, providing shelter when needed. Testuo maintained arrangements with several yugoloths to ensure the locations safety."
     }
 }

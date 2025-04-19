@@ -1,38 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Noristuor",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Ashabenford]], [[Mistledale]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "race": "[[Tiefling]]",
-        "occupation": "",
-        "age": "",
-        "patron deity": "",
-        "languages": "",
-        "reckoning": "DR",
-        "dob": "",
-        "dobnotes": "",
-        "turned": "",
-        "turnednotes": "",
-        "death": "",
-        "deathnotes": "",
-        "destroyed": "",
-        "destroyednotes": "",
-        "class": "",
-        "alignment2e": "",
-        "class2e": "",
-        "alignment3e": "[[Neutral]]",
-        "class3e": "{{class table|edition=3e|[[Wizard]]|8}}",
         "class35": "",
         "alignment4e": "",
         "class4e": "",
@@ -40,6 +7,6 @@
         "refs1e": "",
         "refs2e": "",
         "refs3e": "",
-        "mainbody": "refs35         =\n| refs4e         =\n| refs5e         =\n}}'''Noristuor''' was a [[tiefling]] [[wizard]] who took up residence in the city of [[Ashabenford]], some time before [[1372 DR]], in order to further his [[magic]]al research. He was known around town for his frightening appearance, caustic temperament and profane response whenever he was interrupted by townsfolk.\n\nAlthough he wasn't well-liked by the folk of [[Mistledale]] he did on occasion lend his efforts to magically aid them and the city."
+        "mainbody": "| refs35         =\n| refs4e         =\n| refs5e         =\nNoristuor was a tiefling wizard who took up residence in the city of Ashabenford, some time before 1372 DR, in order to further his magical research. He was known around town for his frightening appearance, caustic temperament and profane response whenever he was interrupted by townsfolk.\nAlthough he wasnt well-liked by the folk of Mistledale he did on occasion lend his efforts to magically aid them and the city."
     }
 }

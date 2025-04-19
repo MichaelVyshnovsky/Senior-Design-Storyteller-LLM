@@ -1,11 +1,7 @@
 {
     "document_data": {
-        "image": "Potion of Agility.png",
-        "caption": "",
-        "name": "''Potion of Agility''",
-        "othernames": "''Potion of Dexterity''{{Cite dragon/209/Ex Libris|51}}",
         "nicknames": "",
-        "type": "[[Potion]]",
+        "type": "Potion",
         "creator": "",
         "location": "",
         "basicrefs": "",
@@ -14,7 +10,7 @@
         "refs1e": "",
         "school2e": "",
         "level2e": "",
-        "value2e": "900 [[gp]]",
+        "value2e": "900 gp",
         "weight2e": "",
         "refs2e": "",
         "school3e": "",
@@ -38,8 +34,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Potions of agility''''' were a type of [[potion]].",
-        "Powers": "This potion temporarily increased the imbiber's dexterity.",
-        "Notable Owners": "*[[Min Minling]], a merchant from the village of [[Imnesvale (town)|Imnesvale]] in the [[Umar Hills]] ''circa'' [[1368 DR]].\n*[[Oswald Fiddlebender]] carried a selection of home-made potions, including ''potions of agility'', during his time in [[Kuldahar]] ''circa'' [[1281 DR]], and later in [[Targos]] of the [[Ten-Towns]] ''circa'' [[1312 DR]]."
+        "mainbody": "Potions of agility were a type of potion.\nThis potion temporarily increased the imbibers dexterity.\n*Min Minling, a merchant from the village of Imnesvale in the Umar Hills circa 1368 DR.\n*Oswald Fiddlebender carried a selection of home-made potions, including potions of agility, during his time in Kuldahar circa 1281 DR, and later in Targos of the Ten-Towns circa 1312 DR."
     }
 }

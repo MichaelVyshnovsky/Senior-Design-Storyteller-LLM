@@ -1,28 +1,9 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "<gallery>",
-        "caption2": "''Various depictions of oceanus dragons.''",
-        "name": "Oceanus Dragon",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "{{Size table|Wyrmling|Small|Very young|Medium|Young|Medium|Juvenile|Large|Young adult|Large|Adult|Huge|Mature adult|Huge|Old|Huge|Very old|Huge|Ancient|Gargantuan|Wyrm|Gargantuan|Great wyrm|Colossal}}",
-        "type3e": "[[Dragon]]",
-        "subtype3e": "[[Aquatic]]",
-        "alignment3e": "Always [[neutral good]]",
-        "challenge3e": "{{CR table|edition=3e|Wyrmling|4|Very young|5|Young|6|Juvenile|9|Young adult|12|Adult|13|Mature adult|16|Old|18|Very old|19|Ancient|20|Wyrm|21|Great wyrm|22}}",
+        "type3e": "Dragon",
+        "subtype3e": "Aquatic",
+        "alignment3e": "Always neutral good",
+        "challenge3e": "",
         "refs3e": "",
         "size2e": "",
         "alignment2e": "",
@@ -35,8 +16,8 @@
         "activecycle": "",
         "diet": "",
         "lifespan": "",
-        "location": "[[Upper Planes]], [[Oceanus]], [[Arvandor]], [[Gates of the Moon]], [[Heliopolis]], [[Warrior's Rest]]",
-        "language": "[[Celestial language|Celestial]], [[Draconic language|Draconic]], [[Aquan]]",
+        "location": "Upper Planes, Oceanus, Arvandor, Gates of the Moon, Heliopolis, Warriors Rest",
+        "language": "Celestial, Draconic, Aquan",
         "subraces": "",
         "climate": "",
         "terrain": "",
@@ -53,10 +34,6 @@
         "distinctions": "",
         "based": "",
         "first": "",
-        "mainbody": "'''Oceanus dragons''' were amphibious [[planar dragon]]s who lived in the [[Upper planes]], in particular along the River [[Oceanus]].",
-        "Description": "Oceanus dragons resembled giant winged [[eel]]s. Their limbs were relatively short and their fingers were webbed. They could breathe both [[water]] and [[air]] and could live indefinitely in either environment. They were capable of flight, but tended to prefer underwater environments.",
-        "Personality": "Tirelessly patrolling the Oceanus, these dragons fiercely protected their territory against any sort of [[evil]] creature.",
-        "Combat": "The preferred weapon of Oceanus dragons was their tranquilizing breath weapon. They preferred to quickly neutralize their adversaries with it and their ability to innately cause effects similar to the ''[[control water]]'', ''[[control winds]]'', ''[[detect evil]]'', ''[[dispel evil]]'', ''[[holy smite]]'', ''[[holy word]]'', and ''[[water breathing]]'' spells.\n\nIf facing stronger opponents, Oceanus dragons did not hesitate to bring their formidable battle skills to bear. They possessed a lightning breath weapon and, akin to [[paladin]]s, could deal devastating physical damage against evil creatures.",
-        "Society": "Oceanus dragons guarded the River Oceanus, protecting travelers along its course from evil creatures and natural hazards. Although they spent most of the time on patrol, it was common for Oceanus dragons to visit the [[Dragon Eyrie]] from time to time. They could also be found in [[Arvandor]], the [[Gates of the Moon]], [[Heliopolis]], and [[Warrior's Rest]].\n\nAlthough Oceanus dragons did not spend much time pursuing activities other than patrolling, they tended to make their lairs in underwater caves or hidden caverns along riverbanks. They could be found alone or in families as they raised their young. Clutches of young Oceanus dragons were also commonly found."
+        "mainbody": "Oceanus dragons were amphibious planar dragons who lived in the Upper planes, in particular along the River Oceanus.\nOceanus dragons resembled giant winged eels. Their limbs were relatively short and their fingers were webbed. They could breathe both water and air and could live indefinitely in either environment. They were capable of flight, but tended to prefer underwater environments.\nTirelessly patrolling the Oceanus, these dragons fiercely protected their territory against any sort of evil creature.\nThe preferred weapon of Oceanus dragons was their tranquilizing breath weapon. They preferred to quickly neutralize their adversaries with it and their ability to innately cause effects similar to the control water, control winds, detect evil, dispel evil, holy smite, holy word, and water breathing spells.\nIf facing stronger opponents, Oceanus dragons did not hesitate to bring their formidable battle skills to bear. They possessed a lightning breath weapon and, akin to paladins, could deal devastating physical damage against evil creatures.\nOceanus dragons guarded the River Oceanus, protecting travelers along its course from evil creatures and natural hazards. Although they spent most of the time on patrol, it was common for Oceanus dragons to visit the Dragon Eyrie from time to time. They could also be found in Arvandor, the Gates of the Moon, Heliopolis, and Warriors Rest.\nAlthough Oceanus dragons did not spend much time pursuing activities other than patrolling, they tended to make their lairs in underwater caves or hidden caverns along riverbanks. They could be found alone or in families as they raised their young. Clutches of young Oceanus dragons were also commonly found."
     }
 }

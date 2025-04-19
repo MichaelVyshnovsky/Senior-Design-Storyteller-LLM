@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Spell-lash",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|9}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Spell-lash''''' was an [[alteration]] [[spell]] that completely destroyed the body of the caster.",
-        "Effects": "Upon casting this spell, the caster was engulfed in a massive explosion that radiated outward 25' (7.6 m). Their physical body was destroyed in its entirety, and anything or anyone caught in the blast received considerable damage.\n\nWhile the [[spellcaster|spellcaster's]] physical form was completely consumed in the spell, their essence could be preserved by means of a ''[[clone (spell)|clone]]'' or ''[[magic jar]]''.",
-        "Usage": "This spell was known to the [[Red Wizards]] of [[Thay]] and used in the rare instances when they faced the real threat of being captured or killed outright."
+        "mainbody": "Spell-lash was an alteration spell that completely destroyed the body of the caster.\nUpon casting this spell, the caster was engulfed in a massive explosion that radiated outward 25 (7.6 m). Their physical body was destroyed in its entirety, and anything or anyone caught in the blast received considerable damage.\nWhile the spellcasters physical form was completely consumed in the spell, their essence could be preserved by means of a clone or magic jar.\nThis spell was known to the Red Wizards of Thay and used in the rare instances when they faced the real threat of being captured or killed outright."
     }
 }

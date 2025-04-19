@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Reaving Blades",
-        "othernames": "",
-        "deity": "[[Iyachtu Xvim]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]], [[Necromancy]]",
-        "spheres2e": "[[Combat sphere|Combat]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|4}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -45,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Reaving blades''''' was a [[Divine magic|divine]] [[evocation]] and [[necromancy]] [[spell]] used by priests devoted to [[Iyachtu Xvim]], enabling them to create a pair of deadly black blades.",
-        "Effects": "This spell created two whirling black blades of force, striking at any target selected by the caster. The blades were swift but vanished after several minutes. They could not be used against inanimate objects.",
-        "Components": "In addition to [[verbal component|verbal]] and [[somatic component]]s, this spell required as [[material component]]s a pair of raven feathers and either a bladed weapon or a fragment of one to cast."
+        "mainbody": "Reaving blades was a divine evocation and necromancy spell used by priests devoted to Iyachtu Xvim, enabling them to create a pair of deadly black blades.\nThis spell created two whirling black blades of force, striking at any target selected by the caster. The blades were swift but vanished after several minutes. They could not be used against inanimate objects.\nIn addition to verbal and somatic components, this spell required as material components a pair of raven feathers and either a bladed weapon or a fragment of one to cast."
     }
 }

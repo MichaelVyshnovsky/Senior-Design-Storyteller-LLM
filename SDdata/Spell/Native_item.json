@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Native item",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Enchantment]]/[[Charm]]",
-        "spheres2e": "[[Astral sphere]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|4|[[Wizard]]|4}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -37,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Native item''''' was an [[Enchantment]] [[spell]] used by [[wizard]]s",
-        "Effects": "In ages prior to the [[Spellplague]], magical items with \"plus\" enchantments &ndash; most commonly armors, weapons, and ''[[cloak of protection|cloaks]]'' or ''[[ring of protection|rings of protection]]'' &ndash; would lose some of their potency outside of their [[plane]] of origin,\n\nWhen cast, ''native item'' artificially restored these levels of enchantment in an item,This side-effect is not mentioned in ''[[The Planewalker's Handbook]]''. The chance of this backlash of energy occurring cumulatively increased with each additional effected item that an individual wielded. Additionally, there existed a twenty-percent chance for each such item to disappear, returning to their plane of origin.\n\nThis spell took four minutes to cast and lasted for a minimum of ten minutes, with the duration cumulatively growing in increments of ten minutes depending upon how powerful the spellcaster was.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, ''native item'' required the spellcaster to rub the desired magical item with a bit of soil or water from its plane of origin, or whatever was the closest equivalent to those substances therein.",
-        "History": "Sometime in the 14{{th}} century [[DR]], a group of [[adventurer]]s from [[Ravens Bluff]] traveling in the [[Layers of the Abyss|144{{th}} Layer of the Abyss]] came across a race of [[human]]s known as the [[Verlassim]]. The leader of these people, Baron [[Tauris]], casted ''native item'' on one of the belongings of these adventurers in an elaborate ritual. This casting was so powerful that the spell's duration lasted for the remainder of their time in that Abyssal layer.<ref>{{Cite organized play/LC/A Ticket to Midnight|21}}\n\nSome time later, a [[duergar]] sage living in [[Acheron]] by the name of [[Gheldoin]] gifted a [[spellbook]] containing ''native item'' to another group of Ravenian adventurers after they impressed him by deciphering the script on an old [[scroll]] that detailed a story about [[Laduguer]].<ref>{{Cite organized play/LC/Stone and Steel|15,17}}"
+        "mainbody": "Native item was an Enchantment spell used by wizards\nIn ages prior to the Spellplague, magical items with \"plus\" enchantments &ndash most commonly armors, weapons, and cloaks or rings of protection &ndash would lose some of their potency outside of their plane of origin,\nWhen cast, native item artificially restored these levels of enchantment in an item,This side-effect is not mentioned in The Planewalkers Handbook. The chance of this backlash of energy occurring cumulatively increased with each additional effected item that an individual wielded. Additionally, there existed a twenty-percent chance for each such item to disappear, returning to their plane of origin.\nThis spell took four minutes to cast and lasted for a minimum of ten minutes, with the duration cumulatively growing in increments of ten minutes depending upon how powerful the spellcaster was.\nIn addition to verbal and somatic components, native item required the spellcaster to rub the desired magical item with a bit of soil or water from its plane of origin, or whatever was the closest equivalent to those substances therein.\nSometime in the 14 century DR, a group of adventurers from Ravens Bluff traveling in the 144 Layer of the Abyss came across a race of humans known as the Verlassim. The leader of these people, Baron Tauris, casted native item on one of the belongings of these adventurers in an elaborate ritual. This casting was so powerful that the spells duration lasted for the remainder of their time in that Abyssal layer.\nSome time later, a duergar sage living in Acheron by the name of Gheldoin gifted a spellbook containing native item to another group of Ravenian adventurers after they impressed him by deciphering the script on an old scroll that detailed a story about Laduguer."
     }
 }

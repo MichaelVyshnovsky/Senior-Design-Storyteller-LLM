@@ -1,27 +1,18 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "edition_1": "2e",
-        "edition_2": "1e"
-    },
     "document_data": {
-        "name": "Tree Shape",
-        "level3e": "{{spell table|edition=3e|[[Druid]]|2|[[Ranger]]|3}}",
-        "school3e": "[[Transmutation]]",
+        "school3e": "Transmutation",
         "domains3e": "",
         "refs3e": "",
         "type3e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Plant sphere|Plant]]",
-        "level2e": "{{spell table|edition=2e|[[Druid]]|3|[[Mystic]]|3|[[Plant sphere|Plant]]|3|[[Ranger]]|3|[[Shaman]]|3}}",
+        "school2e": "Alteration",
+        "spheres2e": "Plant",
+        "level2e": "",
         "type2e": "",
         "refs2e": "",
-        "school1e": "[[Alteration]]",
-        "level1e": "{{spell table|edition=1e|[[Druid]]|3|[[Ranger]]|3}}",
+        "school1e": "Alteration",
+        "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Tree shape''''', also called just '''''tree''''', was a [[transmutation]] or [[alteration]] spell that allowed the caster to take the form of a large tree or shrub for a few hours.",
-        "Effects": "When cast, the caster and all the caster's clothing and accouterments changed into a live tree or shrub, or a dead trunk with only a few dead limbs. While in tree form the caster could not move, but could see and hear all that took place in the immediate environment, just as if the caster were standing there normally. The transformation passed all mundane tests and the closest scrutiny, but ''[[detect magic]]'' registered faint transmutation magic.\n\n''Tree shape'' could be dismissed instantly by the caster before the spell expired, with no recovery time or lingering detrimental effects.\n\nWhile in tree form, the transmutation version of this spell conferred additional natural armor to the caster and made it impossible for a single blow to do critical damage.",
-        "Components": "The newer version of ''tree shape'' required the use of the caster's [[holy symbol]] or [[divine focus]] as well as the usual [[verbal]] and [[somatic]] components. The older alteration version also required a twig from a tree."
+        "mainbody": "Tree shape, also called just tree, was a transmutation or alteration spell that allowed the caster to take the form of a large tree or shrub for a few hours.\nWhen cast, the caster and all the casters clothing and accouterments changed into a live tree or shrub, or a dead trunk with only a few dead limbs. While in tree form the caster could not move, but could see and hear all that took place in the immediate environment, just as if the caster were standing there normally. The transformation passed all mundane tests and the closest scrutiny, but detect magic registered faint transmutation magic.\nTree shape could be dismissed instantly by the caster before the spell expired, with no recovery time or lingering detrimental effects.\nWhile in tree form, the transmutation version of this spell conferred additional natural armor to the caster and made it impossible for a single blow to do critical damage.\nThe newer version of tree shape required the use of the casters holy symbol or divine focus as well as the usual verbal and somatic components. The older alteration version also required a twig from a tree."
     }
 }

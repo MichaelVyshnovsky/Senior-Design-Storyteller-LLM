@@ -1,23 +1,5 @@
 {
-    "template_data": {
-        "edition": "1e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Harijo Ten Rasid Nahdatul",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Bawa]], [[Kara-Tur]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "gender": "",
-        "race": "[[Human]]",
-        "ethnicity": "",
-        "occupation": "General, {{former}} adventurer",
         "age": "",
         "patron deity": "",
         "languages": "",
@@ -43,10 +25,9 @@
         "predecessor": "",
         "successor": "",
         "successionrefs": "",
-        "alignment1e": "[[Lawful good]]",
-        "class1e": "{{Class table|edition=1e|[[Samurai]]|12}}",
+        "alignment1e": "Lawful good",
+        "class1e": "",
         "refs1e": "",
-        "mainbody": "'''Harijo Ten Rasid Nahdatul''' was the military commander of the kingdom of [[Bawa]] ''circa'' {{YearlinkConvert|2607|SY}}.",
-        "History": "In his youth, Harijo was a valiant adventurer, defeating many monsters. After retiring, he joined the Bavanese army and rose through the ranks until only the king could command him.\n\nHarijo was plotting an anti-pirate operation: he wanted to invade [[Panjardu]] to defeat the local pirates, led by his old enemy [[Wibisono]]."
+        "mainbody": "Harijo Ten Rasid Nahdatul was the military commander of the kingdom of Bawa circa .\nIn his youth, Harijo was a valiant adventurer, defeating many monsters. After retiring, he joined the Bavanese army and rose through the ranks until only the king could command him.\nHarijo was plotting an anti-pirate operation he wanted to invade Panjardu to defeat the local pirates, led by his old enemy Wibisono."
     }
 }

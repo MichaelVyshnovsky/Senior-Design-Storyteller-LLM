@@ -1,32 +1,5 @@
 {
-    "template_data": {
-        "0.1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Glorious Dawn''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Ring]]",
-        "material": "[[Gold]]",
-        "creator": "",
-        "origin": "[[Wheloon Prison]]",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|0.1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -43,10 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "A ring blessed with [[Amaunator]]'s love.\n}}": "=Description==",
-        "mainbody": "e ring was a simple [[gold]]en band that shone brightly in the light.",
-        "Description": "The ring was a simple [[gold]]en band that shone brightly in the light.",
-        "Powers": "''Glorious Dawn'' protected the wearer from entropic [[negative energy]], and could prevent them from being slain instantly by especially powerful effects. It further protected the wearer by flashing a bright, burning light at attackers.",
-        "History": "The ring was awarded to brave [[adventurer]]s who had gone into [[Wheloon Prison]] in aid of [[Fordwin]] and his team, overcoming the [[Sharran]] priests [[Stanwicke Gall]] and [[Tulla Chymbal]] in the process."
+        "mainbody": "Glorious Dawn was a magical ring found in Cormyr in the mid-1480s DR.\nThe ring was a simple golden band that shone brightly in the light.\nGlorious Dawn protected the wearer from entropic negative energy, and could prevent them from being slain instantly by especially powerful effects. It further protected the wearer by flashing a bright, burning light at attackers.\nThe ring was awarded to brave adventurers who had gone into Wheloon Prison in aid of Fordwin and his team, overcoming the Sharran priests Stanwicke Gall and Tulla Chymbal in the process."
     }
 }

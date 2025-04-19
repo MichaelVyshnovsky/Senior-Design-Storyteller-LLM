@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "0.3|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Toffee Apple",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Food",
-        "creator": "",
-        "location": "[[Liam's Hold]], [[West Faerûn]]<br/>[[Ravens Bluff]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|0.3|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,8 +14,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Toffee apples''' were simple dessert treats made with fresh [[apple]]s, dipped in sweet sauces.\n\n{{quote|''Warning - do NOT attempt to talk and eat at the same time!''|Note on [[Nell Kirschtorte]]'s toffee apples.}}",
-        "Description": "A typical toffee apple was a plump sweet and juicy apple skewered on a wooden stick and dipped in toffee and then [[honey]].",
-        "Availability": "These small toffee treats were a staple of [[Nell's Pie Shop]] of Liam's Hold ''circa'' [[1372 DR]]."
+        "mainbody": "Toffee apples were simple dessert treats made with fresh apples, dipped in sweet sauces.\nA typical toffee apple was a plump sweet and juicy apple skewered on a wooden stick and dipped in toffee and then honey.\nThese small toffee treats were a staple of Nells Pie Shop of Liams Hold circa 1372 DR."
     }
 }

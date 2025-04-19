@@ -1,18 +1,5 @@
 {
-    "template_data": {
-        "0.4|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Treacle Tart.png",
-        "caption": "",
-        "name": "Treacle Tart",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Food",
-        "creator": "",
-        "location": "[[Baldur's Gate]], [[Western Heartlands]]",
-        "basicrefs": "",
-        "value1e": "7 [[gp]] per {{SI|0.4|lb|k|long=yes}}",
         "weight1e": "",
         "refs1e": "",
         "school2e": "",
@@ -41,8 +28,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Treacle tarts''' were a variety of [[tart]]-like pies made with a liquid, uncrystallized [[sugar]] syrup.",
-        "Description": "Treacle tarts were a very sweet variety of dessert with even its breadcrumbs being sticky with molasses.",
-        "Availability": "The tarts were commonly made and sold across the [[Chionthar Valley]], on the river's north shore, as well as in the eateries of [[Baldur's Gate]] in the late 15{{th}} century [[DR]]."
+        "mainbody": "Treacle tarts were a variety of tart-like pies made with a liquid, uncrystallized sugar syrup.\nTreacle tarts were a very sweet variety of dessert with even its breadcrumbs being sticky with molasses.\nThe tarts were commonly made and sold across the Chionthar Valley, on the rivers north shore, as well as in the eateries of Baldurs Gate in the late 15 century DR."
     }
 }

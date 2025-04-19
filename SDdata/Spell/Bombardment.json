@@ -1,34 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Bombardment",
-        "deity": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Conjuration]] (Creation)",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Druid]]|8|}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -42,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Bombardment''''' was a [[spell]] used by [[druid]]s.",
-        "Effects": "When cast, this spell bombarded an area with a {{SI|15|ft}} radius. The bombardment was caused by rocks falling from the sky. Any creature within this area was harmed. The amount of damage caused by the falling rocks was determined by the caster's skill level.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, the spell required a [[divine focus]], a rock or stone with [[quartz]] embedded in it."
+        "mainbody": "Bombardment was a spell used by druids.\nWhen cast, this spell bombarded an area with a  radius. The bombardment was caused by rocks falling from the sky. Any creature within this area was harmed. The amount of damage caused by the falling rocks was determined by the casters skill level.\nIn addition to verbal and somatic components, the spell required a divine focus, a rock or stone with quartz embedded in it."
     }
 }

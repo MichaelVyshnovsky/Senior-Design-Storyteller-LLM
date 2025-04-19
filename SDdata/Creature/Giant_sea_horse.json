@@ -1,32 +1,10 @@
 {
     "document_data": {
-        "image": "GiantSeaHorse.png",
-        "caption": "",
-        "name": "Giant Sea Horse",
-        "othernames": "",
-        "size5e": "Large",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "[[Unaligned]]",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "Large",
-        "origin4e": "[[Natural creature|Natural]]",
-        "type4e": "[[Beast]]",
-        "subtype4e": "[[Aquatic creature|Aquatic]], [[mount]]",
-        "alignment4e": "[[Unaligned]]",
-        "refs4e": "",
-        "size3e": "Large",
-        "type3e": "Animal",
-        "subtype3e": "Aquatic",
-        "alignment3e": "[[Neutral]]",
-        "challenge3e": "1",
-        "refs3e": "{{Cite dragon/327/Animal Allies}}",
         "size2e": "",
         "alignment2e": "",
         "refs2e": "",
         "size1e": "Large",
-        "alignment1e": "[[Neutral]]",
+        "alignment1e": "Neutral",
         "refs1e": "",
         "patron deity": "",
         "movement": "Swimming",
@@ -55,14 +33,6 @@
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Giant sea horses''' were a large version of their smaller kin.",
-        "Description": "They looked like large sea horses of flamboyant color, with a long body and a curled tail.",
-        "Behavior": "Giant sea horses were naturally shy creatures and try to avoid contact with surface creatures.",
-        "Combat": "Giant sea horses defended themselves by headbutting an opponent.",
-        "Ecology": {
-            "Diet": "These creatures were a herbivorous species.",
-            "Habitats": "Giant sea could potentially be found in nearly all but the coldest of oceans.\n\nThey could often be found in the seas and ocean around the [[Moonshae Isles]].",
-            "Relationships": "[[Triton]]s and giant sea horses had good relationships. They also were [[sea elves]]' favored mounts and could be trained in combat. [[Locathah]] were also known to occasionally capture and train them.\n\nGiant sea horses were sometimes found as courtiers or servants in the [[Citadel of Ten Thousand Pearls|palace]] of [[Kalbari al-Durrat al-Amwaj ibn Jari]].\n\nA giant sea horse could carry up to 450 pounds and drag up to 2,250 pounds."
-        }
+        "mainbody": "Giant sea horses were a large version of their smaller kin.\nThey looked like large sea horses of flamboyant color, with a long body and a curled tail.\nGiant sea horses were naturally shy creatures and try to avoid contact with surface creatures.\nGiant sea horses defended themselves by headbutting an opponent.\nThese creatures were a herbivorous species.\nGiant sea could potentially be found in nearly all but the coldest of oceans.\nThey could often be found in the seas and ocean around the Moonshae Isles.\nTritons and giant sea horses had good relationships. They also were sea elves favored mounts and could be trained in combat. Locathah were also known to occasionally capture and train them.\nGiant sea horses were sometimes found as courtiers or servants in the palace of Kalbari al-Durrat al-Amwaj ibn Jari.\nA giant sea horse could carry up to 450 pounds and drag up to 2,250 pounds."
     }
 }

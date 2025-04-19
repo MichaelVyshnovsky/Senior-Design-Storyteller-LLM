@@ -1,40 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Beast Tattoo",
-        "deity": "[[Fenmarel Mestarine]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Enchantment]]",
-        "spheres2e": "[[All sphere|All]]",
-        "level2e": "{{Spell table|edition=2e|[[All sphere|All]]|1|[[Cleric]]|1|[[Crusader]]|1|[[Druid]]|1|[[Monk]]|1|[[Mystic]]|1|[[Shaman]]|1}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -42,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Beast tattoo''''' was a [[Divine magic|divine]] [[spell]] granted to followers of the [[elven]] [[deity]] [[Fenmarel Mestarine]], the Lone Wolf. It granted the caster a temporary boost to the characteristic associated with the creature represented by a [[tattoo]] on the caster's body.",
-        "Effects": "The caster had to have a tattoo on their body of a creature that was culturally associated with a particular characteristic. For example, if the caster's culture believed that [[bear]]s represented strength, then casting ''beast tattoo'' on their skin decoration of a bear granted them a boost in strength for one hour (longer for more experienced casters). A priest could not augment themselves beyond the best example of their kind. So for the strength example, the caster could not become stronger than the strongest non-augmented elf.",
-        "Components": "This spell require [[Verbal component|verbal]] and [[somatic component]]s as well as the priest's [[holy symbol]] to cast. A tattoo of a creature representing the desired characteristic had to exist on the caster's body and it was not consumed in the casting of the spell."
+        "mainbody": "Beast tattoo was a divine spell granted to followers of the elven deity Fenmarel Mestarine, the Lone Wolf. It granted the caster a temporary boost to the characteristic associated with the creature represented by a tattoo on the casters body.\nThe caster had to have a tattoo on their body of a creature that was culturally associated with a particular characteristic. For example, if the casters culture believed that bears represented strength, then casting beast tattoo on their skin decoration of a bear granted them a boost in strength for one hour (longer for more experienced casters). A priest could not augment themselves beyond the best example of their kind. So for the strength example, the caster could not become stronger than the strongest non-augmented elf.\nThis spell require verbal and somatic components as well as the priests holy symbol to cast. A tattoo of a creature representing the desired characteristic had to exist on the casters body and it was not consumed in the casting of the spell."
     }
 }

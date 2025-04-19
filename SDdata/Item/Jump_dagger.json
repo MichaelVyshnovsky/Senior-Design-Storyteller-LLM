@@ -1,25 +1,8 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Jump Dagger''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Dagger]]",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "[[Transmutation]]",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "5{{th}}",
         "itemlevel3e": "+1",
-        "value3e": "16,052 [[gp]]",
-        "weight3e": "{{SI|1|lb|k}}",
+        "value3e": "16,052 gp",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -35,8 +18,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "A '''''jump dagger''''' was a seemingly mundane [[dagger]] that possessed three [[magic]]al abilities.{{Cite dragon/169/Bazaar of the Bizarre: A dozen deadly daggers from the FORGOTTEN REALMS}}",
-        "Powers": "Upon grasping the blade, it affected the wielder with a constant ''[[feather fall]]''–like effect.\n\nThe wielder could also, at-will, jump into the air as per the [[spell]] ''[[jump]]''. Doing so would negate the ''feather fall'' effect.\n\nBy pointing the dagger, the wielder could also move a certain, small, nonliving object, under 3' in diameter and 100 lbs in weight, up to 30' away.{{Cite dragon/169/Bazaar of the Bizarre: A dozen deadly daggers from the FORGOTTEN REALMS}}",
-        "Creation": "One of the crafting methods of a ''jump dagger'' required the use of the spells ''feather fall'', ''jump'', and ''[[levitate]]'' along with a specific method of tempering. The oil used in this process contained the blood of a [[blink dog]] or [[displacer beast]] or the ichor of a [[beholder]].\n\nAnother method involved the use of ''jump'' and ''[[mage hand]]'' spells."
+        "mainbody": "A jump dagger was a seemingly mundane dagger that possessed three magical abilities.\nUpon grasping the blade, it affected the wielder with a constant feather fall–like effect.\nThe wielder could also, at-will, jump into the air as per the spell jump. Doing so would negate the feather fall effect.\nBy pointing the dagger, the wielder could also move a certain, small, nonliving object, under 3 in diameter and 100 lbs in weight, up to 30 away.\nOne of the crafting methods of a jump dagger required the use of the spells feather fall, jump, and levitate along with a specific method of tempering. The oil used in this process contained the blood of a blink dog or displacer beast or the ichor of a beholder.\nAnother method involved the use of jump and mage hand spells."
     }
 }

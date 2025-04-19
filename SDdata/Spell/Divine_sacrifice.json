@@ -1,19 +1,6 @@
 {
-    "template_data": {
-        "name": "Divine Sacrifice",
-        "school3e": "[[Necromancy]]",
-        "level3e": "{{spell table",
-        "edition": "3e"
-    },
     "document_data": {
-        "name": "Divine Sacrifice",
-        "school3e": "[[Necromancy]]",
-        "level3e": "{{spell table|edition=3e|[[Champion of Gwynharwyf]]|1|[[Paladin]]|1}}",
         "type3e": "Vancian",
-        "refs3e": "<ref>{{cite book/Book of Exalted Deeds|57, 88}}",
-        "mainbody": "'''Divine Sacrifice''' was a [[necromancy]] [[spell]] that traded the caster's life force for increased damage to opponents.{{cite book/Book of Exalted Deeds|97}}",
-        "Effects": "The caster could sacrifice life force to increase the damage dealt to opponents. When cast, he or she could sacrifice a moderate amount of health in exchange for the ability to deal a significant amount of additional damage on the next successful attack.",
-        "Components": "Only verbal and somatic components are required to cast this spell.",
-        "References": "{{refs}}\n[[Category:Necromancy spells]]\n[[Category:Paladin spells]]\ndktnnh1hs07q3dc9ajtcmcdbmmy9pbr"
+        "mainbody": "|refs3e=\nDivine Sacrifice was a necromancy spell that traded the casters life force for increased damage to opponents.\nThe caster could sacrifice life force to increase the damage dealt to opponents. When cast, he or she could sacrifice a moderate amount of health in exchange for the ability to deal a significant amount of additional damage on the next successful attack.\nOnly verbal and somatic components are required to cast this spell.\nCategoryNecromancy spells\nCategoryPaladin spells\ndktnnh1hs07q3dc9ajtcmcdbmmy9pbr"
     }
 }

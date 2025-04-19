@@ -1,25 +1,7 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Doomwarding''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Weapon quality",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "13{{th}}",
         "itemlevel3e": "",
-        "value3e": "+3, +1,500 [[gp]]",
+        "value3e": "+3, +1,500 gp",
         "weight3e": "",
         "refs3e": "",
         "level4e": "",
@@ -36,10 +18,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''''Doomwarding''''' was a [[weapon quality]] that could be applied to magic weapons that warded off fate.",
-        "Powers": "As new, it usually had seven charges, one of which could be used by the wielder to give a very brief burst of speed in which to act or to improve their luck in one action.",
-        "Creation": "Applying the ''doomwarding'' quality required the ''[[Limited Wish|limited wish]]'' spell.",
-        "History": "''Doomwarding'' weapons were occasionally gifted to adventurers who won the favor of the [[church of Tymora]].",
-        "Notable ''Doomwarding'' Weapons": "* [[Oath-hammer]]s, these dwarven-made [[warhammer]]s were occasionally crafted with the ''doomwarding'' quality."
+        "mainbody": "Doomwarding was a weapon quality that could be applied to magic weapons that warded off fate.\nAs new, it usually had seven charges, one of which could be used by the wielder to give a very brief burst of speed in which to act or to improve their luck in one action.\nApplying the doomwarding quality required the limited wish spell.\nDoomwarding weapons were occasionally gifted to adventurers who won the favor of the church of Tymora.\n* Oath-hammers, these dwarven-made warhammers were occasionally crafted with the doomwarding quality."
     }
 }

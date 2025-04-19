@@ -1,22 +1,11 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "edition_1": "1e"
-    },
     "document_data": {
-        "image": "Trip.JPG",
-        "name": "Trip",
-        "school2e": "[[Enchantment]] (Charm)",
-        "spheres2e": "[[Plant sphere|Plant]]",
-        "level2e": "{{spell table|edition=2e|[[Druid]]|2|[[Mystic]]|2|[[Plant sphere|Plant]]|2|[[Ranger]]|2|[[Shaman]]|2}}",
         "type2e": "",
         "refs2e": "",
-        "school1e": "[[Enchantment]] (Charm)",
-        "level1e": "{{spell table|edition=1e|[[Druid]]|2|[[Ranger]]|2}}",
+        "school1e": "Enchantment (Charm)",
+        "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Trip''''' was an [[enchantment]] spell that caused an object placed on the ground to rise up and attempt to make anyone crossing over it stumble and fall.",
-        "Effects": "Typically a long, thin object like a rope, vine, rod, stick, board, or staff was the target of this spell. When laid on the ground or floor, for the duration of the spell, the object would float upward at the opportune moment to trip anyone trying to walk or run across it. The victim of this prank had a chance to resist the magic of this spell, and once aware of its presence the chance of avoiding it rose significantly. The trap was difficult to detect without magical assistance. Common sense guidelines: falling while running caused more damage than while walking, and falling on stone hurt more than falling on turf. A tripped victim was likely stunned for a short while.\n\nThis spell was ignored by huge creatures and did not function under water.",
-        "Components": "[[Verbal]] and [[somatic]] components were used to cast this spell on an object that was suitable for making a trip trap."
+        "mainbody": "Trip was an enchantment spell that caused an object placed on the ground to rise up and attempt to make anyone crossing over it stumble and fall.\nTypically a long, thin object like a rope, vine, rod, stick, board, or staff was the target of this spell. When laid on the ground or floor, for the duration of the spell, the object would float upward at the opportune moment to trip anyone trying to walk or run across it. The victim of this prank had a chance to resist the magic of this spell, and once aware of its presence the chance of avoiding it rose significantly. The trap was difficult to detect without magical assistance. Common sense guidelines falling while running caused more damage than while walking, and falling on stone hurt more than falling on turf. A tripped victim was likely stunned for a short while.\nThis spell was ignored by huge creatures and did not function under water.\nVerbal and somatic components were used to cast this spell on an object that was suitable for making a trip trap."
     }
 }

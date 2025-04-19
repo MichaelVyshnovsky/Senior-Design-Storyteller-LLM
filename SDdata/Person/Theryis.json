@@ -1,22 +1,5 @@
 {
-    "template_data": {
-        "edition": "4e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Theryis",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Neverwinter]], [[northwest Faerûn]]",
-        "formerhomes": "",
-        "sex": "Female",
-        "race": "[[Eladrin]]",
-        "ethnicity": "",
-        "occupation": "[[Harper agent]], innkeeper, tavern owner<br/>{{Former}} Merchant",
         "age": "",
         "patron deity": "",
         "languages": "",
@@ -31,7 +14,7 @@
         "destroyednotes": "",
         "parents": "",
         "spouses": "",
-        "siblings": "[[Toram]]",
+        "siblings": "Toram",
         "children": "",
         "familyrefs": "",
         "alignment": "",
@@ -49,17 +32,12 @@
         "alignment35": "",
         "class35": "",
         "refs35": "",
-        "alignment4e": "[[Unaligned]]",
-        "class4e": "{{class table|edition=4e|Artillery|5}}",
+        "alignment4e": "Unaligned",
+        "class4e": "",
         "refs4e": "",
         "alignment5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Theryis''' was an [[eladrin]] [[Harper agent]] who lived in [[Neverwinter]] in the late years of the 15{{Th}} century [[DR]].",
-        "Personality": "Theryis was a serene and understanding person, in contrast to her brother's personality.",
-        "Relationships": "Theryis was the half-sister of [[Toram]].",
-        "Abilities": "Theryis was an [[arcane archer]].",
-        "Activities": "Besides being a [[Harper]], Theryis was also the owner and administrator of the [[House of a Thousand Faces]].",
-        "History": "The House of a Thousand Faces was originally a clothing boutique. After the [[Ruining]] of [[1451 DR]], Theryis closed her business and left the city to explore the world. She returned a few years later alongside her brother, both of them now Harper agents. Theryis re-purposed her old business as a tavern, to serve as an undercover base for the Harpers operating in the city. \n\nAs of [[1479 DR]], Theryis was one of the only two official Harper agents operating in Neverwinter. The other one was her brother.\n\nIn 1479 DR, Theryis may have aided of group of [[adventurer]]s who were searching for information about the \"[[Seldra Tylmarande|Lost Heir]]\" of [[Alagondar]]."
+        "mainbody": "Theryis was an eladrin Harper agent who lived in Neverwinter in the late years of the 15 century DR.\nTheryis was a serene and understanding person, in contrast to her brothers personality.\nTheryis was the half-sister of Toram.\nTheryis was an arcane archer.\nBesides being a Harper, Theryis was also the owner and administrator of the House of a Thousand Faces.\nThe House of a Thousand Faces was originally a clothing boutique. After the Ruining of 1451 DR, Theryis closed her business and left the city to explore the world. She returned a few years later alongside her brother, both of them now Harper agents. Theryis re-purposed her old business as a tavern, to serve as an undercover base for the Harpers operating in the city. \nAs of 1479 DR, Theryis was one of the only two official Harper agents operating in Neverwinter. The other one was her brother.\nIn 1479 DR, Theryis may have aided of group of adventurers who were searching for information about the \"Lost Heir\" of Alagondar."
     }
 }

@@ -1,13 +1,3 @@
-{{Creature
-| image        = 
-| caption      = 
-| name         = Abyssal Wretch
-| othernames   = 
-| size5e       = Medium
-| type5e       = [[Fiend]]
-| subtype5e    = [[Demon]]
-| alignment5e  = [[Chaotic evil]]
-| challenge5e  = {{Frac|1|4}}
 | refs5e       = 
 | size4e       = 
 | origin4e     = 
@@ -29,12 +19,12 @@
 | refs1e       = 
 | patron deity = 
 | movement     = 
-| vision       = [[Darkvision]]
+| vision       = Darkvision
 | activecycle  = 
 | diet         = 
 | lifespan     = 
-| location     = [[Abyss]]
-| language     = [[Abyssal]]
+| location     = Abyss
+| language     = Abyssal
 | subraces     = 
 | climate      = 
 | terrain      = 
@@ -54,22 +44,10 @@
 | first        = 
 | based        = 
 | histrefs     = 
-}}
-'''Abyssal wretches''' were a type of [[fiend]] found in the [[Abyss]].
-
-==Description==
+Abyssal wretches were a type of fiend found in the Abyss.
 The body of an abyssal wretch was a disfigured version of its original body. 
-
-==Combat==
 Abyssal wretches attacked a target with whatever weapon they could wield.
-
-==Abilities==
-Abyssal wretches were immune to all types of [[poison]]. They were also hardened against cold-, fire-, or lightning-based attacks. An abyssal wretch could not be [[charm|charmed]] or [[fear|frightened]].
-
-==Creation==
-Abyssal wretches were the unfortunate humanoid victims of [[rutterkin]]s and [[sibriex]]. A humanoid bitten by a rutterkin slowly succumbed to a terrible disease, poisoning the victim with the corruption of the Abyss. If left untreated, the victim died and was then transformed into an abyssal wretch. 
-
-A sibriex transformed a humanoid into an abyssal wretch in a similar fashion. Instead of physical contact, a sibriex was capable of poisoning a target from up to {{SI|120|ft|long=yes}} away. When the target died of the vile disease, they were transformed into an abyssal wretch, under the control of the sibriex.
-
-The only way to reverse the transformation was via a ''[[wish]]'' spell.
-
+Abyssal wretches were immune to all types of poison. They were also hardened against cold-, fire-, or lightning-based attacks. An abyssal wretch could not be charmed or frightened.
+Abyssal wretches were the unfortunate humanoid victims of rutterkins and sibriex. A humanoid bitten by a rutterkin slowly succumbed to a terrible disease, poisoning the victim with the corruption of the Abyss. If left untreated, the victim died and was then transformed into an abyssal wretch. 
+A sibriex transformed a humanoid into an abyssal wretch in a similar fashion. Instead of physical contact, a sibriex was capable of poisoning a target from up to  away. When the target died of the vile disease, they were transformed into an abyssal wretch, under the control of the sibriex.
+The only way to reverse the transformation was via a wish spell.

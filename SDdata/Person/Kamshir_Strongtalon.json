@@ -1,27 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Kamshir Strongtalon.jpg",
-        "caption": "Kamshir Strongtalon performing a shamanistic ritual",
-        "name": "Kamshir Strongtalon",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[North Faerûn]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "gender": "",
-        "race": "[[Human]]",
-        "ethnicity": "",
-        "occupation": "Battle counselor",
-        "age": "",
-        "patron deity": "",
-        "languages": "",
-        "basicrefs": "{{Cite card/AD&D Trading Cards/1992|87|Kamshir Strongtalon}}",
         "reckoning": "",
         "dob": "",
         "dobnotes": "",
@@ -46,8 +24,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Lawful neutral]]",
-        "class2e": "{{class table|edition=2e|[[Cleric]]|11}}",
+        "alignment2e": "Lawful neutral",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
@@ -64,8 +42,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Kamshir Strongtalon''' was a [[human]] [[barbarian]] [[priest]] from [[north Faerûn]] active in the 14{{th}} century [[DR]].",
-        "Possessions": "Kamshir was often protected by his [[hide armor]] and his enchanted ''+2'' [[battleaxe]] from the dangers of combat, and by his ''[[ring of warmth]]'' from the harsh northern climate. He also possessed an enchanted item called ''[[Murlynd's spoon]]''.",
-        "History": "Kamshir Strongtalon was an experienced cleric of one of the barbarian tribes of the far north. He served his people well as a battle counselor and strategist for many years of his long life. His invaluable advice came from performing spirit quests and being guided by his faith."
+        "mainbody": "Kamshir Strongtalon was a human barbarian priest from north Faerûn active in the 14 century DR.\nKamshir was often protected by his hide armor and his enchanted +2 battleaxe from the dangers of combat, and by his ring of warmth from the harsh northern climate. He also possessed an enchanted item called Murlynds spoon.\nKamshir Strongtalon was an experienced cleric of one of the barbarian tribes of the far north. He served his people well as a battle counselor and strategist for many years of his long life. His invaluable advice came from performing spirit quests and being guided by his faith."
     }
 }

@@ -1,30 +1,6 @@
 {
-    "template_data": {
-        "rca": "right",
-        "rca_1": "right",
-        "200|pounds|k|long": "yes"
-    },
     "document_data": {
-        "image": "<gallery>",
-        "caption": "Fighting aboard a ''carpet of flying''.",
-        "name": "''Carpet of Flying''",
-        "othernames": "Flying carpet",
-        "nicknames": "",
-        "type": "[[:Category:Magic items|Magic item]]",
-        "location": "",
-        "value1e": "25,000 [[gp]]",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "[[Transmutation]]",
-        "casterlevel3e": "10",
-        "itemlevel3e": "",
-        "value3e": "{{Split table|rca=right|{{SI|5'|ft-in}} square|20,000 gp|5 ft &times;10 ft|35,000 gp|{{SI|10|ft}} square|60,000 gp}}",
-        "weight3e": "{{Split table|rca=right|5'&times;5'|{{SI|8|lb|k}}|5'&times;10'|{{SI|15|lb|k}}|10'&times;10'|{{SI|30|lb|k}}<ref group=\"note\">The source has 10 lbs., but this must be a typographical error.}}",
+        "weight3e": "|5&times10||10&times10|The source has 10 lbs., but this must be a typographical error.",
         "refs3e": "",
         "level4e": "20",
         "value4e": "125,000 gp",
@@ -40,11 +16,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "A '''''carpet of flying''''' was a wondrous item that had the power of flight. It was a rug that could fly through the air as if affected by a permanent ''[[overland flight]]'' spell.",
-        "Description": "Typically, flying carpets were beautifully and intricately made. They typically came in three sizes&mdash;a {{SIAdj|5|ft}} square, a {{SIAdj|5|ft}}-by-{{SIAdj|10|ft}} rectangle, and a {{SIAdj|10|ft}} square.",
-        "Powers": "Each carpet had its own command word to activate and could be controlled by spoken words, either from on top of the carpet or elsewhere within hearing range. The smallest size could carry {{SI|200|pounds|k|long=yes}} and still function at optimal capacity. The largest size could carry an {{SIAdj|800|pound|k}} load. Each carpet had average maneuverability and could hover when not moving.",
-        "History": "It was said that flying carpets were invented by [[Calishite]] or other [[South Faerûn|southern]] [[Wizard|mages]] as a magical means of transportation that did not involve planar magic since most Calishites were afraid of the latter magics.",
-        "Reputation": "''Carpets of flying'' were very common in [[Calimshan]] as a method of transportation, as most Calishites avoided [[evocation]] magic. They could usually be purchased in Calimshan at a ten percent discount relative to other places in [[Faerûn]]. The [[Qysaghanni|Imperial Guard]] of the [[syl-pasha]] of [[Calimport]] owned five ''flying carpets'' with which they patrolled the region around his palace.",
-        "Notable Owners": "* [[Kane]] of the [[Monastery of the Yellow Rose]]\n* [[Damlath]], the \"Laughing Mage\" from [[Erlkazar]]\n* [[Devane]], the [[Helm]]ite Bishop of [[Maztica]]"
+        "mainbody": "A carpet of flying was a wondrous item that had the power of flight. It was a rug that could fly through the air as if affected by a permanent overland flight spell.\nTypically, flying carpets were beautifully and intricately made. They typically came in three sizes&mdasha  square, a -by- rectangle, and a  square.\nEach carpet had its own command word to activate and could be controlled by spoken words, either from on top of the carpet or elsewhere within hearing range. The smallest size could carry  and still function at optimal capacity. The largest size could carry an  load. Each carpet had average maneuverability and could hover when not moving.\nIt was said that flying carpets were invented by Calishite or other southern mages as a magical means of transportation that did not involve planar magic since most Calishites were afraid of the latter magics.\nCarpets of flying were very common in Calimshan as a method of transportation, as most Calishites avoided evocation magic. They could usually be purchased in Calimshan at a ten percent discount relative to other places in Faerûn. The Imperial Guard of the syl-pasha of Calimport owned five flying carpets with which they patrolled the region around his palace.\n* Kane of the Monastery of the Yellow Rose\n* Damlath, the \"Laughing Mage\" from Erlkazar\n* Devane, the Helmite Bishop of Maztica"
     }
 }

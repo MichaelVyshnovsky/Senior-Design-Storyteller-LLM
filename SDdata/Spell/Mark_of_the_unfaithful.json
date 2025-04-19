@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Mark of the Unfaithful",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Evocation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Cleric]]|7|[[Druid]]|7}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Mark of the unfaithful''''' was a [[evocation]] [[spell]] that placed a permanent, [[divine]] mark that singled out a person or creature that identified as a foe of the caster's faith.",
-        "Effects": "Anyone of the caster's faith who encountered the ''marked'' individual felt a natural sense of aggression and hostility while in their presence. Those affected by the spell had an incredibly difficult time bluffing or successfully lying to anyone of the given faith and was hard pressed to earn their trust.\n\nThe ''mark of the unfaithful'' was permanent until ''[[dispel magic|dispelled]]'', or was removed by a [[cleric]] or [[priest]] of he faith capable of casting the spell ''[[atonement]]''.",
-        "Casting": "In addition to [[verbal]] and [[somatic component]]s, this spell required the use of an ''[[divine focus]]'' such as a ''[[consecrate]]d'' [[book]] or [[scroll]]. The name of the affected individual was inscribed on this document along with a list of the crimes, whether actual or perceived, that have been committed against the church of the caster's faith."
+        "mainbody": "Mark of the unfaithful was a evocation spell that placed a permanent, divine mark that singled out a person or creature that identified as a foe of the casters faith.\nAnyone of the casters faith who encountered the marked individual felt a natural sense of aggression and hostility while in their presence. Those affected by the spell had an incredibly difficult time bluffing or successfully lying to anyone of the given faith and was hard pressed to earn their trust.\nThe mark of the unfaithful was permanent until dispelled, or was removed by a cleric or priest of he faith capable of casting the spell atonement.\nIn addition to verbal and somatic components, this spell required the use of an divine focus such as a consecrated book or scroll. The name of the affected individual was inscribed on this document along with a list of the crimes, whether actual or perceived, that have been committed against the church of the casters faith."
     }
 }

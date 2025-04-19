@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Wolfjaws.JPG",
-        "caption": "",
-        "name": "Wolfjaws",
-        "othernames": "",
-        "deity": "[[Tyr]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]], [[Necromancy]]",
-        "spheres2e": "[[Combat sphere|Combat]], [[Necromantic sphere|Necromantic]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|2}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -45,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Wolfjaws''''' was a [[Divine magic|divine]] [[alteration]] and [[necromancy]] [[spell]] used by priests devoted to [[Tyr]], enabling them to transform their right hand into a pair of [[wolf]] jaws.",
-        "Effects": "The caster was able to rapidly strike out and bite targets with the ''wolfjaws''. The spell would end if the caster tried to cast another spell, but they could use weapons or items in their left hand. The caster could end the spell whenever they wished and elect to have any harm caused by the last bite from the ''wolfjaws'' to disappear. This could be used as a bargaining chip in order to get enemies to surrender.\n\nWhile this spell was active the caster was immune to all [[psionic]], ''[[shapechange]]'' and ''[[Hold person|hold]]'' effects.",
-        "Components": "In addition to [[verbal component|verbal]] and [[somatic component]]s, this spell required as a [[material component]] a bit of wolf fur or tooth from any type of animal to cast."
+        "mainbody": "Wolfjaws was a divine alteration and necromancy spell used by priests devoted to Tyr, enabling them to transform their right hand into a pair of wolf jaws.\nThe caster was able to rapidly strike out and bite targets with the wolfjaws. The spell would end if the caster tried to cast another spell, but they could use weapons or items in their left hand. The caster could end the spell whenever they wished and elect to have any harm caused by the last bite from the wolfjaws to disappear. This could be used as a bargaining chip in order to get enemies to surrender.\nWhile this spell was active the caster was immune to all psionic, shapechange and hold effects.\nIn addition to verbal and somatic components, this spell required as a material component a bit of wolf fur or tooth from any type of animal to cast."
     }
 }

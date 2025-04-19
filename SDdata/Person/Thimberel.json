@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Thimberel",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Hap]], [[Battledale]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "race": "[[Human]]",
-        "ethnicity": "",
-        "occupation": "Shopkeeper",
-        "age": "",
-        "patron deity": "",
-        "reckoning": "DR",
-        "dob": "",
-        "dobnotes": "",
-        "turned": "",
-        "turnednotes": "",
-        "death": "",
-        "deathnotes": "",
-        "destroyed": "",
-        "destroyednotes": "",
-        "parents": "",
-        "spouses": "",
-        "siblings": "",
-        "children": "",
-        "familyrefs": "",
-        "alignment1e": "",
-        "class1e": "",
-        "refs1e": "",
-        "alignment2e": "",
-        "class2e": "{{class table|edition=2e|[[Fighter]]|1}}",
         "refs2e": "",
         "alignment3e": "",
         "class3e": "",
@@ -45,7 +7,6 @@
         "alignment35": "",
         "class35": "",
         "refs35": "",
-        "mainbody": "'''Thimberel''' was a very cowardly shopkeeper in [[Battledale]] in [[1357 DR]].",
-        "Activities": "Thimberel managed a shop in the small village of [[Hap]]."
+        "mainbody": "Thimberel was a very cowardly shopkeeper in Battledale in 1357 DR.\nThimberel managed a shop in the small village of Hap."
     }
 }

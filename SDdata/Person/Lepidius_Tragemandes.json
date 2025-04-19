@@ -1,22 +1,11 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Lepidius Tragemandes.png",
-        "caption": "",
-        "name": "Lepidius Tragemandes",
-        "sex": "Male{{Cite card/AD&D Trading Cards/1992|440|Lepidius Tragemandes}}",
-        "race": "[[Human]]",
+        "race": "Human",
         "ethnicity": "",
         "occupation": "Showman",
-        "alignment2e": "[[Chaotic neutral]]",
-        "class2e": "{{class table|edition=2e|[[Thief]] ([[Swindler]])|5}}",
+        "alignment2e": "Chaotic neutral",
+        "class2e": "",
         "refs2e": "",
-        "mainbody": "'''Lepidius Tragemandes''' was a traveling con artist.",
-        "Description": "A fair-skinned man, Lepidius was bald save for a slight crest of graying hair. He wore a red and white checkered shirt, and several items of jewelry.",
-        "Personality": "Lepidius was a committed coward, and tried to avoid danger.",
-        "Possessions": "He owned a caravan wagon, as well as loaded [[dice|die]], marked playing cards, and a [[blackjack]].",
-        "Activities": "Lepidius traveled extensively, and was known to appear in the unlikeliest of places. He referred to himself as an \"impresario, orator, and medicine man,\" but was also worked as an information broker."
+        "mainbody": "Lepidius Tragemandes was a traveling con artist.\nA fair-skinned man, Lepidius was bald save for a slight crest of graying hair. He wore a red and white checkered shirt, and several items of jewelry.\nLepidius was a committed coward, and tried to avoid danger.\nHe owned a caravan wagon, as well as loaded die, marked playing cards, and a blackjack.\nLepidius traveled extensively, and was known to appear in the unlikeliest of places. He referred to himself as an \"impresario, orator, and medicine man,\" but was also worked as an information broker."
     }
 }

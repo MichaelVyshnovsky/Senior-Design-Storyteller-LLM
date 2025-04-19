@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "Protection from the Elements.png",
-        "caption": "",
-        "name": "Protection from the Elements",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Abjuration]], [[Flame (province)|Flame]], [[Sea (province)|Sea]], [[Sand (province)|Sand]], [[Wind (province)|Wind]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|4}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Protection from the elements''''' was a [[spell]] used commonly in [[Zakhara]], the Land of Fate. This spell was only usable by [[wizard]]s.\n\nThis spell was used primarily by [[genie]]s upon their servants.",
-        "Effects": "The target of this spell was immune to most harmful effects of a single [[elemental plane]]. The caster would need to either touch the target on the forehead, or kiss them on the lips, hand or cheek, while sprinkling the material components.\n\n''Protection from the elements'' lasted for a full week if cast by a genie. The duration was severely limited to several hours when cast by any other creature.",
-        "Components": "This spell required different material components depending on the desired elemental protection required:\n* [[Air]]: [[perfume]]\n* [[Earth (element)|Earth]]: [[chalk]]\n* [[Water]]: [[salt]]\n* [[Fire]]: [[sulphur]]"
+        "mainbody": "Protection from the elements was a spell used commonly in Zakhara, the Land of Fate. This spell was only usable by wizards.\nThis spell was used primarily by genies upon their servants.\nThe target of this spell was immune to most harmful effects of a single elemental plane. The caster would need to either touch the target on the forehead, or kiss them on the lips, hand or cheek, while sprinkling the material components.\nProtection from the elements lasted for a full week if cast by a genie. The duration was severely limited to several hours when cast by any other creature.\nThis spell required different material components depending on the desired elemental protection required\n* Air perfume\n* Earth chalk\n* Water salt\n* Fire sulphur"
     }
 }

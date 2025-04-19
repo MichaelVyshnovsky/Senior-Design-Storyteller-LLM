@@ -1,37 +1,7 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "Bear's Endurance 5e.png",
-        "caption": "",
-        "name": "Bear's Endurance",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Adept]]|2|[[Cleric]]|2|[[Druid]]|2|[[Hunt domain|Hunt]]|2|[[Ranger]]|2|[[Shade hunter]]|2|[[Sorcerer]]|2|[[Wizard]]|2|[[Wu jen]]|2}}",
         "type3e": "",
-        "refs3e": "{{Cite dragon/342/The Wild Hunt|91}}",
+        "refs3e": "",
         "reversible2e": "",
         "school2e": "",
         "spheres2e": "",
@@ -43,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Bear's endurance''''', also simply known as '''''endurance''''', was a [[transmutation]] spell that temporarily boosted a creature's stamina and ability to withstand hardship.",
-        "Effects": "The caster had to touch the recipient of this spell. When cast, the target creature's constitution was greatly enhanced, giving them more health, better stamina, and an improved chance to resist certain effects. For beginning casters, this boon lasted three minutes. More experienced casters could make it last longer. All the benefits of this spell went away when the spell expired.",
-        "Components": "This spell had [[Verbal component|verbal]] and [[somatic component]]s and used the caster's [[holy symbol]] as a focus."
+        "mainbody": "Bears endurance, also simply known as endurance, was a transmutation spell that temporarily boosted a creatures stamina and ability to withstand hardship.\nThe caster had to touch the recipient of this spell. When cast, the target creatures constitution was greatly enhanced, giving them more health, better stamina, and an improved chance to resist certain effects. For beginning casters, this boon lasted three minutes. More experienced casters could make it last longer. All the benefits of this spell went away when the spell expired.\nThis spell had verbal and somatic components and used the casters holy symbol as a focus."
     }
 }

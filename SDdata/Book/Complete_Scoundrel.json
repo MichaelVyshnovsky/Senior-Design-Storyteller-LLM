@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "image": "[[Image:Complete Scoundrel cover.jpg",
-        "code": "957277200",
-        "title": "Complete Scoundrel",
-        "author": "[[Mike McArtor]] and [[F. Wesley Schneider]]",
-        "publisher": "[[Wizards of the Coast]]",
-        "released": "January 2007",
-        "type": "Accessory",
-        "binding": "Hardcover",
-        "pages": "160",
-        "isbn": "978-0-7869-4152-0"
-    },
     "document_data": {
-        "image": "[[Image:Complete Scoundrel cover.jpg|250px|Complete Scoundrel]]",
-        "code": "957277200",
-        "title": "Complete Scoundrel",
-        "author": "[[Mike McArtor]] and [[F. Wesley Schneider]]",
-        "editor": "[[Jennifer Clarke Wilkes]], [[Beth Griese]], [[John Thompson]]",
-        "cover_artist": "[[William O'Connor]]",
-        "inter_artist": "",
-        "cartography": "[[Mike Schley]]",
-        "publisher": "[[Wizards of the Coast]]",
-        "released": "January 2007",
-        "type": "Accessory",
-        "binding": "Hardcover",
-        "pages": "160",
-        "game_edition": "3.5",
-        "isbn": "978-0-7869-4152-0",
-        "mainbody": "'''''Complete Scoundrel''''' is an accessory for the 3.5{{th}}-edition of {{dnd}} ruleset.\n{{Quote|'''''Fair Fights are for Suckers'''\n\n''In a world filled with monsters and villains, a little deception and boldness goes a long way. You know how to take advantage of every situation, and you don’t mind getting your hands dirty. Take the gloves off? Ha! You never put them on. You infuriate your foes and amaze your allies with your ingenuity, resourcefulness, and style. For you, every new predicament is an opportunity in disguise, and with each sweet victory your notoriety grows. That is how legends are made.''\n\n''This D&D supplement gives you everything you need to get the drop on your foes and escape sticky situations. In addition to new feats, spells, items, and prestige classes, ''Complete Scoundrel'' presents new mechanics that put luck on your side and a special system of skill tricks that allow any character to play the part of a scoundrel. Tricky tactics aren't just for [[rogue]]s anymore.''}}",
-        "Contents": "* Introduction\n* Chapter 1: Scoundrels of All Types\n* Chapter 2: Prestige Classes\n* Chapter 3: Feats and Skill Tricks\n* Chapter 4: New Spells\n* Chapter 5: Scoundrel Equipment\n* Chapter 6: Scoundrel Adventures",
-        "Description": "''Complete Scoundrel'' provides feats, prestige classes, 49 new spells, and other options for characters interested in playing trickster characters. It has introduced the idea of Skill tricks, which are feat-like character moves that cost skill points to learn and may only be used once per encounter.\n\nThe accessory introduces thirteen new prestige classes: Avenging Executioner, Battle Trickster, Cloaked Dancer, Combat Trapsmith, Fortunes's Friend, Gray Guard, Magical Trickster, Malconvoker, Master Of Masks, Mountebank, Psibond Agent, Spellwarp Sniper, and the Uncanny Trickster.\n\nSome of the feats in this book have been specialized for the Sneak attack. There are also Luck feats, which give the character a reroll on certain actions in order to get a better result. There are also Bardic Music feats, which give the bard the option to use up one of his daily bard performance in order to gain specific effects.",
-        "Index": {
-            "Magic": {
-                "Spells": "{{P|''[[animate instrument]]''|94}} • {{P|''[[aquatic escape]]''|95}} • {{P|''[[armor lock]]''|95}} • {{P|''[[assassin's darkness]]''|95}} • {{P|''[[blockade]]''|95}} • {{P|''[[Catapult (spell)|catapult]]''|95 f.}} • {{P|''[[create fetch]]''|96 f.}} • {{P|''[[disobedience]]''|97}} • {{P|''[[enlarge weapon]]''|97 f.}} • {{P|''[[evacuation rune]]''|98}} • {{P|''[[fatal flame]]''|99}} • {{P|''[[grasping wall]]''|99}} • {{P|''[[harmonic void]]''|99 f.}} • {{P|''[[healer's vision]]''|100}} • {{P|''[[lucky streak]]''|100}} • {{P|''[[mage burr]]''|100 f.}} • {{P|''[[manifestation of the deity]]''|101}} • {{P|''[[mimicry]]''|101}} • {{P|''[[opportune dodge]]''|101}} • {{P|''[[scry location]]''|102}} • {{P|''[[siphon]]''|102 f.}} •  {{P|''[[smoke stairs]]''|103 f.}} •  {{P|''[[spell theft]]''|104}} •  {{P|''[[spore field]]''|104}} •  {{P|''[[spymaster's coin]]''|104}} •  {{P|''[[wall of vermin]]''|104 f.}} •  {{P|''[[wand modulation]]''|105 f.}} •  {{P|''[[winged watcher]]''|106}}"
-            }
-        },
-        "Gallery": "<gallery>\nScoundrel1 1280.jpg|''Promotional wallpaper 1''\nScoundrel2 1280.jpg|''Promotional wallpaper 2''\nScoundrel3 1280.jpg|''Promotional wallpaper 3''\nScoundrel4 1280.jpg|''Promotional wallpaper 4''\nComplete Scoundrel Back Cover.jpg|''Back Cover''\n</gallery>",
-        "Credits": "* '''Designers:''' Mike McArtor, F. Wesley Schneider\n* '''Additional Design:''' Robert J. Schwalb\n* '''Developer:''' Andy Collins\n* '''Editors:''' Jennifer Clarke Wilkes, Beth Griese, John Thompson\n* '''Editing Manager:''' Kim Mohan\n* '''Design Manager:''' Christopher Perkins\n* '''Development Manager:''' Jesse Decker\n* '''Director of RPG R&D:''' Bill Slavicsek\n* '''Production Managers:''' Josh Fischer, Randall Crews\n* '''Senior Art Director D&D:''' Stacy Longstreet\n* '''Art Director:''' Karin Jaques\n* '''Cover Artist:''' William O'Connor\n* '''Interior Artists:''' David Bircham, Miguel Coimbra, Ed Cox, Eric Deschamps, Carl Frank, Randy Gallegos, Howard Lyon, Warren Mahy, Michael Phillippi, Franz Vohwinkel, Eva Widermann, Kieran Yanner\n* '''Cartographer:''' Mike Schley\n* '''Graphic Designer:''' Karin Jaques\n* '''Graphic Production Specialist:''' Erin Dorries, Angelika Lokotz\n* '''Image Technician:''' Christina Wiley"
+        "mainbody": "omplete Scoundrel is an accessory for the 3.5-edition of  ruleset.\n* Introduction\n* Chapter 1 Scoundrels of All Types\n* Chapter 2 Prestige Classes\n* Chapter 3 Feats and Skill Tricks\n* Chapter 4 New Spells\n* Chapter 5 Scoundrel Equipment\n* Chapter 6 Scoundrel Adventures\nComplete Scoundrel provides feats, prestige classes, 49 new spells, and other options for characters interested in playing trickster characters. It has introduced the idea of Skill tricks, which are feat-like character moves that cost skill points to learn and may only be used once per encounter.\nThe accessory introduces thirteen new prestige classes Avenging Executioner, Battle Trickster, Cloaked Dancer, Combat Trapsmith, Fortuness Friend, Gray Guard, Magical Trickster, Malconvoker, Master Of Masks, Mountebank, Psibond Agent, Spellwarp Sniper, and the Uncanny Trickster.\nSome of the feats in this book have been specialized for the Sneak attack. There are also Luck feats, which give the character a reroll on certain actions in order to get a better result. There are also Bardic Music feats, which give the bard the option to use up one of his daily bard performance in order to gain specific effects. \nSpells  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •   •   •   •   •   •   •  \nScoundrel1 1280.jpg|Promotional wallpaper 1\nScoundrel2 1280.jpg|Promotional wallpaper 2\nScoundrel3 1280.jpg|Promotional wallpaper 3\nScoundrel4 1280.jpg|Promotional wallpaper 4\nComplete Scoundrel Back Cover.jpg|Back Cover\n* Designers Mike McArtor, F. Wesley Schneider\n* Additional Design Robert J. Schwalb\n* Developer Andy Collins\n* Editors Jennifer Clarke Wilkes, Beth Griese, John Thompson\n* Editing Manager Kim Mohan\n* Design Manager Christopher Perkins\n* Development Manager Jesse Decker\n* Director of RPG R&D Bill Slavicsek\n* Production Managers Josh Fischer, Randall Crews\n* Senior Art Director D&D Stacy Longstreet\n* Art Director Karin Jaques\n* Cover Artist William OConnor\n* Interior Artists David Bircham, Miguel Coimbra, Ed Cox, Eric Deschamps, Carl Frank, Randy Gallegos, Howard Lyon, Warren Mahy, Michael Phillippi, Franz Vohwinkel, Eva Widermann, Kieran Yanner\n* Cartographer Mike Schley\n* Graphic Designer Karin Jaques\n* Graphic Production Specialist Erin Dorries, Angelika Lokotz\n* Image Technician Christina Wiley"
     }
 }

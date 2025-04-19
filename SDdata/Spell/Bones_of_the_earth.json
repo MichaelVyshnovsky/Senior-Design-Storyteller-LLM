@@ -1,25 +1,5 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "120|feet|long": "yes",
-        "5|ft|long": "yes",
-        "30|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Bones of the Earth",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Transmutation]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "{{Spell table|edition=5e|[[Druid]]|6}}",
         "type5e": "",
         "refs5e": "",
         "feature4e": "",
@@ -46,8 +26,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Bones of the earth''''' was a [[transmutation]] [[spell]] that raised pillars of stone from the ground.",
-        "Effects": "The spell caused up to six pillars to rise within a range of {{SI|120|feet|long=yes}}. The pillars had a diameter of {{SI|5|ft|long=yes}} and rose up to {{SI|30|ft|long=yes}}. A pillar could lift up a creature that could not move away quickly enough and could crush and pin a creature to a sufficiently low ceiling. Once emerged, the pillars could be attacked and destroyed, but were otherwise permanent. More powerful casters could create a larger number of pillars.",
-        "Components": "The spell only required [[Verbal component|verbal]] and [[somatic component]]s."
+        "mainbody": "Bones of the earth was a transmutation spell that raised pillars of stone from the ground.\nThe spell caused up to six pillars to rise within a range of . The pillars had a diameter of  and rose up to . A pillar could lift up a creature that could not move away quickly enough and could crush and pin a creature to a sufficiently low ceiling. Once emerged, the pillars could be attacked and destroyed, but were otherwise permanent. More powerful casters could create a larger number of pillars.\nThe spell only required verbal and somatic components."
     }
 }

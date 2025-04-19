@@ -1,40 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Clutch Ward",
-        "deity": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|3}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -42,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Clutch ward''''' was a [[spell]] that could only be cast by [[dragon]]s. It was used to protect their eggs.",
-        "Effects": "The spell was cast onto the nest itself, with the dragon handling each egg separately as the spell was cast. The ward only activated when it was triggered. This occurred when a creature either got too close to the eggs or touched one. When activated, the spell instantly transported the eggs to a predetermined location with a ''[[teleport without error]]'' spell. The dragon knew immediately that the ward was triggered, even from a great distance or while on another plane. If the spell was still in place after the eggs began to hatch, the hatch-lings did not trigger the spell, but they were not protected by it. Only a ''[[limited wish]]'' spell could deactivate the ward.",
-        "Casting": "This spell required only a [[Verbal component|verbal]] component."
+        "mainbody": "Clutch ward was a spell that could only be cast by dragons. It was used to protect their eggs.\nThe spell was cast onto the nest itself, with the dragon handling each egg separately as the spell was cast. The ward only activated when it was triggered. This occurred when a creature either got too close to the eggs or touched one. When activated, the spell instantly transported the eggs to a predetermined location with a teleport without error spell. The dragon knew immediately that the ward was triggered, even from a great distance or while on another plane. If the spell was still in place after the eggs began to hatch, the hatch-lings did not trigger the spell, but they were not protected by it. Only a limited wish spell could deactivate the ward.\nThis spell required only a verbal component."
     }
 }

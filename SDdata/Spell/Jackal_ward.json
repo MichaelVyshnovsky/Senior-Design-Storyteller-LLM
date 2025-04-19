@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Jackal Ward",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Abjuration]], [[Universal (province)|Universal]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|4}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Jackal ward''''' was a [[spell]] unique to [[Zakhara]], the Land of Fate.",
-        "Effects": "This spell protected a wizard from a [[jackal (kit)|jackal]] wizard attempting to steal their spells.\n\nThe spell was cast upon a small coin that the caster carried with them. When a jackal wizard tried to steal a spell, the coin warmed quickly, warning the caster of the attempted theft.\n\nThis spell always foiled the first attempt to steal a spell. Every attempt thereafter, for the spell's duration, failed half of the time.",
-        "Components": "This spell required a small coin to cast."
+        "mainbody": "Jackal ward was a spell unique to Zakhara, the Land of Fate.\nThis spell protected a wizard from a jackal wizard attempting to steal their spells.\nThe spell was cast upon a small coin that the caster carried with them. When a jackal wizard tried to steal a spell, the coin warmed quickly, warning the caster of the attempted theft.\nThis spell always foiled the first attempt to steal a spell. Every attempt thereafter, for the spells duration, failed half of the time.\nThis spell required a small coin to cast."
     }
 }

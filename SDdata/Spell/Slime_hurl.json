@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Slime Hurl",
-        "deity": "[[Ghaunadaur]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Conjuration]] (creation)",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Cleric]]|5|[[Initiate of Ghaunadaur]]|5}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,9 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Smile hurl''''' was a [[conjuration]] [[spell]] that created three globs of dark, [[green slime]] within the hands of the caster which were subsequently launched towards one or a number of target creatures.",
-        "Effects": "When the globe of slime struck a person or creature it could not be readily removed and had to be destroyed in a specific manner.",
-        "Casting": "The casting of this spell required [[verbal]] and [[somatic component]]s as well as the use of a ''[[divine focus]]''.",
-        "Usage": "''Slime hurl'' was only available to initiates of the [[drow]] [[Dark Seldarine|deity]] of slimes and [[ooze]]s, [[Ghaunadaur]],"
+        "mainbody": "Smile hurl was a conjuration spell that created three globs of dark, green slime within the hands of the caster which were subsequently launched towards one or a number of target creatures.\nWhen the globe of slime struck a person or creature it could not be readily removed and had to be destroyed in a specific manner.\nThe casting of this spell required verbal and somatic components as well as the use of a divine focus.\nSlime hurl was only available to initiates of the drow deity of slimes and oozes, Ghaunadaur,"
     }
 }

@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Holy Might",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Transmutation|Alteration]]",
-        "spheres2e": "[[All sphere|All]], [[Creation sphere|Creation]]",
-        "level2e": "{{Spell table|edition=2e|[[All sphere|All]]|6|[[Cleric]]|6|[[Creation sphere|Creation]]|6}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Holy might''''' was a [[Divine magic|divine]] [[alteration]] [[spell]] that allowed a [[priest]] to fortify an object, made of inorganic materials, so that it did not decompose or degrade over time.",
-        "Effects": "This spell affected a mass of non-organic material no larger than twice the size of the caster's body. When cast, any weaknesses in the targeted material were strengthened, fortified from future damage and made even more hardy.",
-        "Components": "The [[material component]]s of this spell included a whole gem; either a [[ruby]], [[sapphire]] or [[emerald]] worth at least 3,000 [[gp]]; a similarly sized piece of [[duskwood]]; a chunk of [[obsidian]] of any size; some acid taken from a [[black dragon]]; and a piece of chitin taken from either an [[ankheg]], [[bulette]], or [[beholder]]."
+        "mainbody": "Holy might was a divine alteration spell that allowed a priest to fortify an object, made of inorganic materials, so that it did not decompose or degrade over time.\nThis spell affected a mass of non-organic material no larger than twice the size of the casters body. When cast, any weaknesses in the targeted material were strengthened, fortified from future damage and made even more hardy.\nThe material components of this spell included a whole gem either a ruby, sapphire or emerald worth at least 3,000 gp a similarly sized piece of duskwood a chunk of obsidian of any size some acid taken from a black dragon and a piece of chitin taken from either an ankheg, bulette, or beholder."
     }
 }

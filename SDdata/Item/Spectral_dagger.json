@@ -1,26 +1,7 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Spectral Dagger''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Magical [[dagger]]",
-        "creator": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "5{{th}}",
         "itemlevel3e": "",
-        "value3e": "20,000 [[gp]]",
+        "value3e": "20,000 gp",
         "weight3e": "",
         "refs3e": "",
         "level4e": "",
@@ -38,10 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "A '''''spectral dagger''''' was a magical dagger.",
-        "Description": "The hilt was carved from a bone of a creature that had had a violent death. However, it had no apparent blade until the hilt was held, when a \"blade\" made from light protruded from the bone hilt. It disappeared when released. The blade was insubstantial, formed of blue-glowing energy.",
-        "Powers": "This spectral blade could inflict ''[[chill touch]]'' on creatures that the blade touched, but otherwise it did no damage, because the blade was not solid.",
-        "Cost": "It was worth around 20,000 [[gold piece]]s.",
-        "Notable Owners": "* [[Cabrath Nelinderra]], [[drow]] [[cleric]] of [[Kiaransalee]] and second-in-command to [[Irae T'sarran]]"
+        "mainbody": "A spectral dagger was a magical dagger.\nThe hilt was carved from a bone of a creature that had had a violent death. However, it had no apparent blade until the hilt was held, when a \"blade\" made from light protruded from the bone hilt. It disappeared when released. The blade was insubstantial, formed of blue-glowing energy.\nThis spectral blade could inflict chill touch on creatures that the blade touched, but otherwise it did no damage, because the blade was not solid.\nIt was worth around 20,000 gold pieces.\n* Cabrath Nelinderra, drow cleric of Kiaransalee and second-in-command to Irae Tsarran"
     }
 }

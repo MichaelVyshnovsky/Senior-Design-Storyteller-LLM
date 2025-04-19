@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Nature's balance",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Druid]]|8|}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Nature's balance''''' was a powerful [[spell]] used by [[druids]]s.",
-        "Effects": "When cast, this spell lowered the spell resistance of all opponents within a {{SI|5|ft}} radius. Additionally, all allies of the caster within the same area were healed. The amount of healing and spell resistance removed was determined by the caster's skill level.",
-        "Components": "This spell required only [[Verbal component|verbal]] and [[somatic component|somatic]] components."
+        "mainbody": "Natures balance was a powerful spell used by druidss.\nWhen cast, this spell lowered the spell resistance of all opponents within a  radius. Additionally, all allies of the caster within the same area were healed. The amount of healing and spell resistance removed was determined by the casters skill level.\nThis spell required only verbal and somatic components."
     }
 }

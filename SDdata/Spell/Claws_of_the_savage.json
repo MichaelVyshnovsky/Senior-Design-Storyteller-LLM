@@ -1,35 +1,6 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Claws of the Savage",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "[[Bestial domain|Bestial]]",
-        "descriptors3e": "{{desc/evil}}",
-        "level3e": "{{spell table|edition=3e|[[Blackguard]]|4|[[Cleric]]|4|[[Druid]]|4|[[Bestial domain|Bestial]]|4}}",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,6 +14,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Claws of the savage''''' was a [[transmutation]] spell that replaced the touched creature's hands with sickle-like claws."
+        "mainbody": "Claws of the savage was a transmutation spell that replaced the touched creatures hands with sickle-like claws."
     }
 }

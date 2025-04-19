@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "6|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Onyx Spear''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Spear]]",
-        "creator": "",
-        "location": "[[Samarach]], [[Chultan Peninsula]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|6|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Onyx spears''''' were [[enchanted]] and deadly [[spear]]s wielded by the [[Batiri]] of the [[Stone Knives tribe]] in [[Samarach]].",
-        "Description": "There crude [[polearm]]s had spearheads carved of razor-sharp [[onyx]], more deadly than those made of [[steel]].",
-        "Powers": "''Onyx spears'' had an enchanted ''[[keen]]'' edge that could deliver devastating damage with a luckily aimed strike.",
-        "History": "By the {{YearlinkName|1374}}, Batiri [[goblin]]s of the Stone Knives tribe wielded such spears. However, it was unknown if the weapons were of their own making or taken from one of their many enemies."
+        "mainbody": "Onyx spears were enchanted and deadly spears wielded by the Batiri of the Stone Knives tribe in Samarach.\nThere crude polearms had spearheads carved of razor-sharp onyx, more deadly than those made of steel.\nOnyx spears had an enchanted keen edge that could deliver devastating damage with a luckily aimed strike.\nBy the , Batiri goblins of the Stone Knives tribe wielded such spears. However, it was unknown if the weapons were of their own making or taken from one of their many enemies."
     }
 }

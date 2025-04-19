@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "WebOfLightning.png",
-        "caption": "Two victims of a web of lightning.",
-        "name": "Web of Lightning",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]], [[Alteration]]",
-        "spheres2e": "",
-        "level2e": "{{Spell table|edition=2e|[[Wizard]]|8}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Web of lightning''''' was a very rare [[arcane]] [[evocation]] and [[alteration]] spell that produced six bolts of electricity similar to the one produced by the ''[[lightning bolt]]'' spell.",
-        "Effects": "This spell could be cast two different ways for two different kinds of targets. For a battlefield or other open areas with multiple targets, the ''web of lightning'' could be cast on a single point that became the center of six radiating ''lightning bolts''. Four of them burst out in a cross (call them north, east, south, and west like the four major points of a compass). The remaining two bolts were directed in two of the minor compass directions (northeast, northwest, southeast, or southwest) as chosen by the caster.\n\nThe other way to manifest this spell was inside a space no bigger than a sphere of 30 ft (9.1 m) radius. The space could be a room of lesser dimensions, or even an archway or door frame. The first bolt blasted at random from one side of the chosen space to another, triggering the next bolt to emit from the end of the last one, and so on for six nearly simultaneous ''lightning bolts'' crisscrossing in a \"web\".\n\nThis spell could be cast at a point 600 ft (183 m) away (farther for more experienced casters) and the target did not have to be in the line of sight. Each of the six bolts were like a ''lightning bolt'' cast by a [[wizard]] of some experience beyond that required to cast the basic spell. Victims had to attempt to dodge or resist each bolt that came their way. For the starburst manifestation, this was few to none, but for an archway, it was likely all six.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[Somatic component|somatic]] components, this spell required either four [[lodestone]]s or some fur and a rod made of [[amber]], [[Rock crystal|crystal]], or glass."
+        "mainbody": "Web of lightning was a very rare arcane evocation and alteration spell that produced six bolts of electricity similar to the one produced by the lightning bolt spell.\nThis spell could be cast two different ways for two different kinds of targets. For a battlefield or other open areas with multiple targets, the web of lightning could be cast on a single point that became the center of six radiating lightning bolts. Four of them burst out in a cross (call them north, east, south, and west like the four major points of a compass). The remaining two bolts were directed in two of the minor compass directions (northeast, northwest, southeast, or southwest) as chosen by the caster.\nThe other way to manifest this spell was inside a space no bigger than a sphere of 30 ft (9.1 m) radius. The space could be a room of lesser dimensions, or even an archway or door frame. The first bolt blasted at random from one side of the chosen space to another, triggering the next bolt to emit from the end of the last one, and so on for six nearly simultaneous lightning bolts crisscrossing in a \"web\".\nThis spell could be cast at a point 600 ft (183 m) away (farther for more experienced casters) and the target did not have to be in the line of sight. Each of the six bolts were like a lightning bolt cast by a wizard of some experience beyond that required to cast the basic spell. Victims had to attempt to dodge or resist each bolt that came their way. For the starburst manifestation, this was few to none, but for an archway, it was likely all six.\nIn addition to verbal and somatic components, this spell required either four lodestones or some fur and a rod made of amber, crystal, or glass."
     }
 }

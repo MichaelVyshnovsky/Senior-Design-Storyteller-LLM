@@ -1,34 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "UndeadFocus.JPG",
-        "caption": "",
-        "name": "Undead Focus",
-        "deity": "[[Lolth]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "reversible2e": "",
-        "school2e": "[[Necromancy]]",
-        "spheres2e": "[[Necromantic sphere|Necromantic]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|5}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -36,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Undead focus''''' was a [[spell]] used by [[cleric]]s of [[Lolth]].",
-        "Effects": "This spell allowed the caster to use an [[undead]] creature as a [[spell focus]]. When successfully cast, the caster could then cast a further spell through the undead creature. While the spell is funneled through the undead creature, the caster still had to memorize and cast the spell including components. As long as the caster and the undead creature are on the same [[plane]], the caster could funnel a spell from anywhere. The amount of spells a caster could use via the focus was determined by the caster's skill level, or until the undead creature was destroyed.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required a [[material component]], a drop of the the caster's blood."
+        "mainbody": "Undead focus was a spell used by clerics of Lolth.\nThis spell allowed the caster to use an undead creature as a spell focus. When successfully cast, the caster could then cast a further spell through the undead creature. While the spell is funneled through the undead creature, the caster still had to memorize and cast the spell including components. As long as the caster and the undead creature are on the same plane, the caster could funnel a spell from anywhere. The amount of spells a caster could use via the focus was determined by the casters skill level, or until the undead creature was destroyed.\nIn addition to verbal and somatic components, this spell required a material component, a drop of the the casters blood."
     }
 }

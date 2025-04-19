@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "15|feet|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Aegis Blade''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Magic]] [[blade]]",
-        "material": "",
-        "creator": "",
-        "origin": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "",
-        "refs3e": "",
-        "level4e": "3+",
-        "value4e": "{{plain table|Lvl 3|680 [[gp]]|Lvl 8|3,400 gp|Lvl 13|17,000 gp|Lvl 18|85,000 gp|Lvl 23|425,000 gp|Lvl 28|2,125,000 gp}}",
         "weight4e": "",
         "refs4e": "",
         "rarity5e": "",
@@ -43,9 +13,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "An '''''aegis blade''''' was an [[enchanted]] [[sword]] meant to be wielded by a [[swordmage]].{{Cite organized play/LFR/Tyranny's Bitter Frost|32}}",
-        "Description": "Any heavy or light [[blade]] could be enchanted to become an ''aegis blade''.",
-        "Powers": "''Aegis blades'' were magically precise and sharp weapons, especially when a target was struck in a vital area. When wielded by a swordmage, it allowed them to utter a word of power to mark all foes within {{SI|15|feet|long=yes}} with their ''[[aegis of shielding]]'' or ''[[aegis of assault]]''.",
-        "Notable Owners": "* [[Zaol]], a fallen [[angel of vengeance]] who dual-wielded an ''aegis blade'' [[longsword]] and a ''[[piercing songblade]]''.{{Cite organized play/LFR/Tyranny's Bitter Frost|23}}"
+        "mainbody": "An aegis blade was an enchanted sword meant to be wielded by a swordmage.\nAny heavy or light blade could be enchanted to become an aegis blade.\nAegis blades were magically precise and sharp weapons, especially when a target was struck in a vital area. When wielded by a swordmage, it allowed them to utter a word of power to mark all foes within  with their aegis of shielding or aegis of assault.\n* Zaol, a fallen angel of vengeance who dual-wielded an aegis blade longsword and a piercing songblade."
     }
 }

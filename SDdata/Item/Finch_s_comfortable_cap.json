@@ -1,32 +1,5 @@
 {
-    "template_data": {
-        "2|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Finch's Comfortable Cap''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Hat",
-        "material": "",
-        "creator": "",
-        "origin": "",
-        "location": "[[Neverwinter]], [[Sword Coast North]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|2|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -43,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Finch's comfortable cap''''' was just one of many [[enchanted]] hats worn by the daring [[half-elven]] [[bard]] [[Finch (half-elf)|Finch]] in the late 14{{th}} century [[DR]].",
-        "Powers": "Despite the headwear being nowhere as well-ensorcelled as his previous hats, Finch still developed an attachment to this fanciful floppy-sided cap. It did possess a minor enchantment that slightly boosted the wearer's physical health and constitution and improved their evasion. The hat's custom enchantments made it impossible to be worn by anyone who was not a half-elven bard.",
-        "History": "In the {{YearlinkName|1374}}, Finch wore his ''comfortable cap'' while performing in the city of [[Neverwinter]] and adventuring across the [[Sword Coast North]]."
+        "mainbody": "Finchs comfortable cap was just one of many enchanted hats worn by the daring half-elven bard Finch in the late 14 century DR.\nDespite the headwear being nowhere as well-ensorcelled as his previous hats, Finch still developed an attachment to this fanciful floppy-sided cap. It did possess a minor enchantment that slightly boosted the wearers physical health and constitution and improved their evasion. The hats custom enchantments made it impossible to be worn by anyone who was not a half-elven bard.\nIn the , Finch wore his comfortable cap while performing in the city of Neverwinter and adventuring across the Sword Coast North."
     }
 }

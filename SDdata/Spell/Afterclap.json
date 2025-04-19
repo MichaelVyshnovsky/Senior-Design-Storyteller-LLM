@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Afterclap",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|8}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Afterclap''''' was a [[wizard]] [[spell]] from the school of [[alteration]].",
-        "Effects": "This spell allowed the caster to duplicate the physical harm experienced by any creature moments before the spell was cast. It could be used on any creature within the spell's area of effect. The harm was duplicated in the exact way it was first received and worked for any kind of harm.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, this spell required as a [[material component]] a piece of stiff [[rubber]] or [[gum]] that was pulled until it snapped back to cast."
+        "mainbody": "Afterclap was a wizard spell from the school of alteration.\nThis spell allowed the caster to duplicate the physical harm experienced by any creature moments before the spell was cast. It could be used on any creature within the spells area of effect. The harm was duplicated in the exact way it was first received and worked for any kind of harm.\nIn addition to verbal and somatic components, this spell required as a material component a piece of stiff rubber or gum that was pulled until it snapped back to cast."
     }
 }

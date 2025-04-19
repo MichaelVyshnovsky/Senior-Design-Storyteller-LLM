@@ -1,27 +1,5 @@
 {
-    "template_data": {
-        "5|mile|k|long": "yes",
-        "1|mile|k|long": "yes",
-        "1|mile|k|long_1": "yes",
-        "1|mile|k|long_2": "yes",
-        "2|mile|k|long": "yes",
-        "2|mile|k|long_1": "yes",
-        "4.5|mile|k|long": "yes"
-    },
     "document_data": {
-        "image": "Thelve.png",
-        "caption": "",
-        "name": "Unglur",
-        "alt spelling": "",
-        "aliases": "",
-        "type": "Island",
-        "region": "[[Sword Coast North]], [[Sea of Swords]]",
-        "size": "",
-        "elevation": "",
-        "depth": "",
-        "capital": "",
-        "largest city": "",
-        "georefs": "{{cite web| url = https://web.archive.org/web/20180313201211/http://www.candlekeep.com/library/articles/sse/sse_010203-05.htm| title = So Saith Ed Jan – Mar 2005| accessdate = 25-11-2021| date = 25-11-2021}}",
         "demonym": "",
         "population": "",
         "races": "",
@@ -97,11 +75,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "'''Unglur''' was the middle of the three islands located west of [[Thelve]] and the the fortress library of [[Candlekeep]].",
-        "Description": "Unlike its sister isles, Unglur had no surface ruins, and there were only a few sea caves that could be used for shelter or harborage. The island also lacked any freshwater springs. Vegetation was scarce and only consisted of thin shrubbery. Unglur had no harbors and just one anchorage at the center of the western shore, where the curved shore met with a snout. It was the only spot for boats to reach the beach despite strong blistering winds that pelted the shore. The winds made it almost impossible to un-beach any boats without the use of [[magic]].\n\nThe island's southwestern shore was {{SI|5|mile|k|long=yes}} long, and the short snout on the southeast had a {{SI|1|mile|k|long=yes}} long shore. Continuing around the snout, its eastern part was {{SI|1|mile|k|long=yes}} long until curving to the northeast for {{SI|1|mile|k|long=yes}} and continuing curving to the northwest for {{SI|2|mile|k|long=yes}} more.",
-        "Geography": {
-            "Flora & Fauna": "The island had a negligent population of [[seal]]s, few monsters, and even fewer castaway inhabitants. The only creatures of note here were abundant [[gray coaster]]s and [[rock gull]]s that left their white marks on the island's rocks."
-        },
-        "History": "By the late 14{{th}} century [[DR]], Unglur was used by pirates as a harbor, and its shores were littered with derelict ships and wrecks. For many years there existed stories of an [[undead]] creature haunting the land. the [[Spirit of Unglur]] was a long-dead bloodthirsty berserker pirate turned a strange monstrous [[Boneclaw|creature]] with long claws."
+        "mainbody": "Unglur was the middle of the three islands located west of Thelve and the the fortress library of Candlekeep.\nUnlike its sister isles, Unglur had no surface ruins, and there were only a few sea caves that could be used for shelter or harborage. The island also lacked any freshwater springs. Vegetation was scarce and only consisted of thin shrubbery. Unglur had no harbors and just one anchorage at the center of the western shore, where the curved shore met with a snout. It was the only spot for boats to reach the beach despite strong blistering winds that pelted the shore. The winds made it almost impossible to un-beach any boats without the use of magic.\nThe islands southwestern shore was  long, and the short snout on the southeast had a  long shore. Continuing around the snout, its eastern part was  long until curving to the northeast for  and continuing curving to the northwest for  more.\nUnglur was located to the west of Thelve, with two sister islands to the northwest – Sklorn to the east and Raerest to the west. Together Sklorn, Unglur, and Raerest were known as the Crab Reach, or simply the Reach among locals.\nUnglur was separated from the isle of Sklorn by a  stretch of water and  from Unglurs eastern neighbor – Raerest.\nThe island had a negligent population of seals, few monsters, and even fewer castaway inhabitants. The only creatures of note here were abundant gray coasters and rock gulls that left their white marks on the islands rocks.\nBy the late 14 century DR, Unglur was used by pirates as a harbor, and its shores were littered with derelict ships and wrecks. For many years there existed stories of an undead creature haunting the land. the Spirit of Unglur was a long-dead bloodthirsty berserker pirate turned a strange monstrous creature with long claws."
     }
 }

@@ -1,34 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Brightmantle",
-        "deity": "[[Dugmaren Brightmantle]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "reversible2e": "",
-        "school2e": "[[Abjuration]]",
-        "spheres2e": "[[Protection sphere|Protection]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|2}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -36,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Brightmantle''''' was a [[spell]] used by [[cleric]]s of [[Dugmaren Brightmantle]].",
-        "Effects": "When cast, this spell gave the caster or targeted creature clarity of thought. The recipient became lucid and clear-headed if inebriated or under the influence of charm or enchantment-based effects and spells. When cast as a protective measure, the spell protected the recipient from the effects of many spells such as ''[[chaos]]'', ''[[charm monster]]'', ''[[charm person]]'', ''[[command]]'', ''[[confusion]]'', ''[[delude]]'', ''[[feeblemind]]'', ''[[friends]]'', ''[[forget]]'', ''[[magic jar]]'', ''[[mental domination]]'', ''[[scare]]'' and ''[[suggestion]]''.",
-        "Components": "In addition to a [[somatic]] component, this spell required [[material component]]s, the holy symbol of Dugmaren Brightmantle and a small amount of strong smelling salts. If smelling salts were unavailable, the caster may use any ammonia-based restorative."
+        "mainbody": "Brightmantle was a spell used by clerics of Dugmaren Brightmantle.\nWhen cast, this spell gave the caster or targeted creature clarity of thought. The recipient became lucid and clear-headed if inebriated or under the influence of charm or enchantment-based effects and spells. When cast as a protective measure, the spell protected the recipient from the effects of many spells such as chaos, charm monster, charm person, command, confusion, delude, feeblemind, friends, forget, magic jar, mental domination, scare and suggestion.\nIn addition to a somatic component, this spell required material components, the holy symbol of Dugmaren Brightmantle and a small amount of strong smelling salts. If smelling salts were unavailable, the caster may use any ammonia-based restorative."
     }
 }

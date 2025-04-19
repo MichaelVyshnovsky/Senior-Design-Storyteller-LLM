@@ -1,55 +1,5 @@
 {
-    "template_data": {
-        "title": "Armor & Clothing",
-        "index": "[[apron]] • [[handkerchief]] • [[kirtle]]",
-        "title_1": "Classes",
-        "index_1": "[[alchemist]] • [[artificer]]",
-        "title_2": "Food & Drinks",
-        "index_2": "[[herb]]s • [[honeycake]] • [[rutabaga]] • [[wine]]",
-        "title_3": "Items",
-        "index_3": "[[candle mold]] • [[mortar and pestle]] • [[plectrum]] • [[torch]]",
-        "title_4": "Languages",
-        "index_4": "[[Halruaan language]]",
-        "title_5": "Materials & Substances",
-        "index_5": "[[guano]]",
-        "title_6": "Vegetation",
-        "ref": "[[cornflower]]"
-    },
     "document_data": {
-        "image": "The Wizardwar.jpg",
-        "caption": "Cover of ''The Wizardwar''.",
-        "code": "885480000",
-        "title": "Vegetation",
-        "author": "[[Elaine Cunningham]]",
-        "cover_artist": "[[John Foster]]",
-        "inter_artist": "[[Dennis Kauth]]",
-        "publisher": "[[Wizards of the Coast]]",
-        "released": "March 2002",
-        "binding": "Mass Market Paperback",
-        "pages": "311",
-        "type": "Novel",
-        "isbn": "0-7869-2704-6",
-        "realm year": "[[1372 DR]]<ref>",
-        "series": "[[Counselors & Kings Trilogy]]",
-        "preceded_by": "''[[The Floodgate]]''",
-        "followed_by": "''none''",
-        "source": "",
-        "index": "[[guano]]",
-        "ref": "[[cornflower]]",
-        "mainbody": "",
-        "Summary": "{{sectstub}}",
-        "Index": {
-            "Characters": ":[[Akhlaur]] • [[Basel Indoulur]] • [[Febir Khorn]] • [[Procopio Septus]] • [[Tzigone]] • [[Uriah Belajoon]] • [[Zalathorm Kirkson]] • [[Zephyr]]",
-            "Creatures": ":[[dark elf]] • [[crinti]] • [[laraken]] • [[stirge]] • [[tarantula]] • [[Wastrilith|water demon]] • [[wild elves]]\n::{{Refonly}}\n::[[bat]] • [[gnat]] • [[wasp]] • [[water elemental]]",
-            "Locations": {
-                "Forests": "[[Akhlaur Swamp]] • [[Green Crone]]\n::{{Refonly}}\n::[[Dambrath]] • [[Elemental Plane of Water]]"
-            },
-            "Magic": {
-                "Miscellaneous": "[[fey mound]]"
-            },
-            "Organizations": ":[[Crimson Tree]]",
-            "Religions": ":[[Church of Azuth]]",
-            "Miscellaneous": "{{Index\n|title = Armor & Clothing\n|index = [[apron]] • [[handkerchief]] • [[kirtle]]\n}}\n{{Index\n|title = Classes\n|index = [[alchemist]] • [[artificer]]\n}}\n{{Index\n|title = Food & Drinks\n|index = [[herb]]s • [[honeycake]] • [[rutabaga]] • [[wine]]\n}}\n{{Index\n|title = Items\n|index = [[candle mold]] • [[mortar and pestle]] • [[plectrum]] • [[torch]]\n}}\n{{Index\n|title = Languages\n|index = [[Halruaan language]]\n}}\n{{Index\n|title = Materials & Substances\n|index = [[guano]]\n}}\n{{Index\n|title = Vegetation\n|ref = [[cornflower]]\n}}"
-        }
+        "mainbody": "he Wizardwar, by Elaine Cunningham, is the third book in the Counselors & Kings Trilogy.\nAkhlaur • Basel Indoulur • Febir Khorn • Procopio Septus • Tzigone • Uriah Belajoon • Zalathorm Kirkson • Zephyr\ndark elf • crinti • laraken • stirge • tarantula • water demon • wild elves\nbat • gnat • wasp • water elemental\nForests Akhlaur Swamp • Green Crone\nDambrath • Elemental Plane of Water\nMiscellaneous fey mound\nCrimson Tree\nChurch of Azuth"
     }
 }

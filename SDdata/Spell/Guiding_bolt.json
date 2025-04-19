@@ -1,21 +1,5 @@
 {
-    "template_data": {
-        "edition": "5e"
-    },
     "document_data": {
-        "image": "Guiding_Bolt.png",
-        "caption": "Guiding bolts were effective against the notoriously hard-to-strike [[displacer beast]]s.",
-        "name": "Guiding Bolt",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Evocation]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "[[Celestial patron|Celestial]]",
-        "traditions5e": "",
-        "level5e": "{{Spell table|edition=5e|[[Celestial patron|Celestial]]|1|[[Cleric]]|1}}",
         "type5e": "",
         "refs5e": "",
         "feature4e": "",
@@ -42,8 +26,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Guiding bolt''''' was a light-based [[Divine magic|divine]] [[evocation]] spell.",
-        "Effects": "The spell caused a beam of light to hit a creature, damaging it and making it glow for a short period of time, temporarily making it an easier target.",
-        "Components": "The spell required [[Verbal component|verbal]] and [[Somatic component|somatic]] components."
+        "mainbody": "Guiding bolt was a light-based divine evocation spell.\nThe spell caused a beam of light to hit a creature, damaging it and making it glow for a short period of time, temporarily making it an easier target.\nThe spell required verbal and somatic components."
     }
 }

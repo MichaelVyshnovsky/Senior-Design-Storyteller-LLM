@@ -1,29 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Portal Well",
-        "deity": "[[Shaundakul]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Bard]]|2|[[Cleric]]|2|[[Druid]]|2|[[Sorcerer]]|2|[[Wizard]]|2|}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -37,9 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Portal well''''' was a rare [[transmutation]] spell.",
-        "Effects": "This spell granted the caster the ability to wait inside a [[portal]]. It functioned by creating an extra-dimensional space within the path of the portal. The caster was capable of seeing both the entrance and exit of the portal as blurred images.\n\nThe spell would only function if the caster could activate the desired portal. Only the caster and their equipment could enter the extra-dimensional space. The spell expired once the caster left the portal at either end. If ''[[dispel magic]]'' or ''[[gate seal]]'' was cast on the portal while the caster was within the extra-dimensional space, they remained trapped there until someone else activated the portal. If the portal was destroyed by magical, such as with ''[[Mordenkainen's disjunction]]'', or mundane methods, the caster was violently ejected from the portal.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required a [[material component]], a piece of [[silver]] [[wire]] in a knot.",
-        "History": "''Portal well'' was developed by clerics of [[Shaundakul]]."
+        "mainbody": "Portal well was a rare transmutation spell.\nThis spell granted the caster the ability to wait inside a portal. It functioned by creating an extra-dimensional space within the path of the portal. The caster was capable of seeing both the entrance and exit of the portal as blurred images.\nThe spell would only function if the caster could activate the desired portal. Only the caster and their equipment could enter the extra-dimensional space. The spell expired once the caster left the portal at either end. If dispel magic or gate seal was cast on the portal while the caster was within the extra-dimensional space, they remained trapped there until someone else activated the portal. If the portal was destroyed by magical, such as with Mordenkainens disjunction, or mundane methods, the caster was violently ejected from the portal.\nIn addition to verbal and somatic components, this spell required a material component, a piece of silver wire in a knot.\nPortal well was developed by clerics of Shaundakul."
     }
 }

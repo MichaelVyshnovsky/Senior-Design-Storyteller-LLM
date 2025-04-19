@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "AqueousColumn.JPG",
-        "caption": "Laeral's aqueous column in action.",
-        "name": "Laeral's Aqueous Column",
-        "deity": "",
-        "inventor": "[[Laeral Silverhand]]",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]], [[evocation]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|4}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Laeral's aqueous column''''' was an [[alteration]]/[[evocation]] [[spell]] that allowed a [[mage]] to conjure forth a large, cylindrical mass of water for a limited amount of time.\n\nThis spell was often used to transport, imprison, or otherwise handle aquatic lifeforms by [[spellcaster]]s that typically lived on land.",
-        "Effects": "When this spell was cast, a circular mass of water was created in front of the caster, suspended in midair at an orientation of their choosing. It was completely pure, appearing as either fresh or salt water, depending on the decision of the caster.\n\nThe ''aqueous column'' had a diameter of 10 feet (3 meters) and a height of the same size. The diameter or length could be increased by a more powerful spellcaster or with additional castings of the spell. Additionally, the column could be made to appear at an angle or turn and curve during the spell's casting, but once the casting was completed the shape of the column was final.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component]]s, this spell required as a [[material component]] a single hair and a drop of liquid, either water, dew, spit, juice, plant sap, or a tear."
+        "mainbody": "Laerals aqueous column was an alteration/evocation spell that allowed a mage to conjure forth a large, cylindrical mass of water for a limited amount of time.\nThis spell was often used to transport, imprison, or otherwise handle aquatic lifeforms by spellcasters that typically lived on land.\nWhen this spell was cast, a circular mass of water was created in front of the caster, suspended in midair at an orientation of their choosing. It was completely pure, appearing as either fresh or salt water, depending on the decision of the caster.\nThe aqueous column had a diameter of 10 feet (3 meters) and a height of the same size. The diameter or length could be increased by a more powerful spellcaster or with additional castings of the spell. Additionally, the column could be made to appear at an angle or turn and curve during the spells casting, but once the casting was completed the shape of the column was final.\nIn addition to verbal and somatic components, this spell required as a material component a single hair and a drop of liquid, either water, dew, spit, juice, plant sap, or a tear."
     }
 }

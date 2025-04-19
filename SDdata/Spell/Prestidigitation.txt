@@ -1,83 +1,54 @@
-{{Split|Prestidigitation|Cantrip (spell)}}
-{{Spell
-| image         = Prest W&S.PNG
-| caption       = 
-| name          = Prestidigitation
-| deity         = 
-| inventor      = 
-| type          = 
-| school5e      = [[Transmutation]]
-| domains5e     = 
-| circles5e     = 
-| oaths5e       = 
-| patrons5e     = 
-| traditions5e  = 
-| level5e       = {{Spell table|edition=5e|[[Artificer]]|0|[[Bard]]|0|[[Sorcerer]]|0|[[Warlock]]|0|[[Wizard]]|0}}
-| type5e        = [[Cantrip]]
+| type5e        = Cantrip
 | refs5e        = 
 | feature4e     = Wizard Cantrip
-| keywords4e    = {{Desc/arcane}}
-| level4e       = {{spell table|edition=4e|[[Wizard]]|1}}
+| keywords4e    = 
+| level4e       = 
 | type4e        = At-Will
 | category4e    = 
 | skill4e       = 
 | refs4e        = 
-| school3e      = [[Universal spell|Universal]]
+| school3e      = Universal
 | domains3e     = 
 | descriptors3e = 
-| level3e       = {{spell table|edition=3e|[[Bard]]|0|[[Merchant prince]]|1|[[Sorcerer]]|0|[[Wizard]]|0|[[Wu jen]]|0}}
+| level3e       = 
 | type3e        = 
 | refs3e        = 
 | reversible2e  = yes
-| school2e      = [[Conjuration]]
+| school2e      = Conjuration
 | spheres2e     = 
-| level2e       = {{Spell table|edition=2e|[[Wu jen]]|1}}
+| level2e       = 
 | type2e        = 
 | refs2e        = 
 | reversible1e  = yes
-| school1e      = [[Conjuration]]
-| level1e       = {{spell table|edition=1e|[[Wu jen]]|1}}
+| school1e      = Conjuration
+| level1e       = 
 | type1e        = 
 | refs1e        = 
-}}
-'''''Prestidigitation''''' was an [[Arcane magic|arcane]] [[cantrip]] that allowed a caster to perform minor, relatively harmless magic tricks. The [[wu-jen]] version of this spell was not considered a cantrip. It improved the caster's pickpocket skill and let them transport small items about their person in the blink of an eye. Its reversible form was known as '''''fumble-fingers''''' and lowered the manual dexterity of a target creature for a short time.
-
-==Effects==
-This cantrip allowed the caster to choose from a wide variety of small, innocuous effects to occur within a {{SIAdj|10|ft|long=yes}} radius of the caster.<ref group="note">These minor tricks are based on 1{{st}}-edition cantrips that had to be learned and cast individually. Links to these spells are provided so the reader can get a more detailed description, but note that later editions often modified the range, duration, or extent of the original cantrips. Things you could do with ''prestidigitation'' included
-* ''[[levitate]]'' or move an object of {{SI|1|lb|k|long=yes}} or less
+Prestidigitation was an arcane cantrip that allowed a caster to perform minor, relatively harmless magic tricks. The wu-jen version of this spell was not considered a cantrip. It improved the casters pickpocket skill and let them transport small items about their person in the blink of an eye. Its reversible form was known as fumble-fingers and lowered the manual dexterity of a target creature for a short time.
+This cantrip allowed the caster to choose from a wide variety of small, innocuous effects to occur within a  radius of the caster.These minor tricks are based on 1-edition cantrips that had to be learned and cast individually. Links to these spells are provided so the reader can get a more detailed description, but note that later editions often modified the range, duration, or extent of the original cantrips. Things you could do with prestidigitation included
+* levitate or move an object of  or less
 * create a small sensory effect, such as a burst of sparks, tinkling music, a strange odor, or a puff of air
-* ''[[clean]]'' or ''[[dirty|soil]]'' items no bigger than {{SI|1|cu ft|d|long=yes}}
-* remove from sight all ''[[dust]]'' in a small area
-* ignite or douse a [[candle]], [[torch]], or small campfire
-* ''[[Chill (cantrip)|chill]]'', ''[[warm]]'', or ''[[flavor]]'' a pound of non-living material
+* clean or soil items no bigger than 
+* remove from sight all dust in a small area
+* ignite or douse a candle, torch, or small campfire
+* chill, warm, or flavor a pound of non-living material
 * temporarily create a small item or image
-* turn a small item ''[[Invisibility|invisible]]'' for a short time
-* ''[[change]]'' a small animal, vegetable, or mineral into another of the same kingdom
+* turn a small item invisible for a short time
+* change a small animal, vegetable, or mineral into another of the same kingdom
 * place a small mark or symbol on a surface for up to an hour
-* alter the ''[[Color (cantrip)|color]]'' of an object
-* ''[[freshen]]'' wilted flowers or food
-* create a ''[[bluelight|glowing sphere]]'' that hovered over the caster's palm
-* ''[[dry]]'' an object like clothing or [[herb]]s, or ''[[dampen]]'' an object, making it more fire resistant
-* produce a {{SIAdj|6|in|c|long=yes}} ''[[Firefinger (cantrip)|finger of flame]]''
-* ''[[gather]]'' small objects into a neat pile or stack
-* join or repair leather or textiles by ''[[stitch]]ing'' them together
-* ''[[tie]]'' a [[rope]] or cord to itself, another string-like object, or an anchoring device
-
+* alter the color of an object
+* freshen wilted flowers or food
+* create a glowing sphere that hovered over the casters palm
+* dry an object like clothing or herbs, or dampen an object, making it more fire resistant
+* produce a  finger of flame
+* gather small objects into a neat pile or stack
+* join or repair leather or textiles by stitching them together
+* tie a rope or cord to itself, another string-like object, or an anchoring device
 Objects created by this spell were generally simple, crude, and very fragile—unable to fool most people that they were anything but imitations of real objects. They could not be used as components for other spells, or as tools or weapons, and they disappeared in a few seconds to an hour.
-
-===Wu-jen Version===
-Older versions of this spell, in particular practiced by [[wu jen]], allowed the caster to ''[[teleport]]'' small items (palm-sized or less) to/from their hand from/to any place on their person, such as their pocket, hat, boot, or other hand. This could be done surreptitiously or with theatrical gestures and banter. The spell lasted for at least a minute, so several such tricks could be performed in quick succession. Anyone observing the caster had a chance to resist the spell and see how the trick was done or notice the caster's action.
-
-The wu jen ''prestidigitation'' also improved the chance of a successful pickpocket attempt by making the caster more dexterous. The victim had a chance to resist the spell, but otherwise the caster succeeded in stealing or depositing a small item without the victim's knowledge.
-
-The reverse of this spell, '''''fumble-fingers''''', could be cast on a target creature up to {{SI|30|yd|long=yes}} away and, if successful, caused the victim to flub the next attempt that required fine dexterity, such as using a tool, reaching for an arrow or a knife, or performing a [[Somatic component|somatic]] gesture while casting a spell. It only affected relatively small actions, not large movements like swinging a sword. The spell lasted at least a minute (longer for more experienced casters) or until the victim performed an appropriate action and either succeeded or failed depending on their resistance to the spell.
-
-==Components==
-The newer versions of ''prestidigitation'' only required [[somatic]] and [[verbal component]]s to cast. The older, wu jen versions, also required a drop of [[oil]] to be rubbed on the fingertips. ''Fumble-fingers'' instead had the caster flick the drop of oil toward the intended target.
-
-==History==
+Older versions of this spell, in particular practiced by wu jen, allowed the caster to teleport small items (palm-sized or less) to/from their hand from/to any place on their person, such as their pocket, hat, boot, or other hand. This could be done surreptitiously or with theatrical gestures and banter. The spell lasted for at least a minute, so several such tricks could be performed in quick succession. Anyone observing the caster had a chance to resist the spell and see how the trick was done or notice the casters action.
+The wu jen prestidigitation also improved the chance of a successful pickpocket attempt by making the caster more dexterous. The victim had a chance to resist the spell, but otherwise the caster succeeded in stealing or depositing a small item without the victims knowledge.
+The reverse of this spell, fumble-fingers, could be cast on a target creature up to  away and, if successful, caused the victim to flub the next attempt that required fine dexterity, such as using a tool, reaching for an arrow or a knife, or performing a somatic gesture while casting a spell. It only affected relatively small actions, not large movements like swinging a sword. The spell lasted at least a minute (longer for more experienced casters) or until the victim performed an appropriate action and either succeeded or failed depending on their resistance to the spell.
+The newer versions of prestidigitation only required somatic and verbal components to cast. The older, wu jen versions, also required a drop of oil to be rubbed on the fingertips. Fumble-fingers instead had the caster flick the drop of oil toward the intended target.
 The later versions of this spell could be cast as many times as the caster desired, but only a maximum of three "continuous" effects could be active at a time.
-
-[[File:TJN Simon.jpg|thumb|right|''"No one can hold a candle to this trick!"'']]
-In the late 1490s [[DR]],{{HAT-time}} [[Simon Aumar]] demonstrated ''prestidigitation'' cantrips at his magic show in the [[Triboar playhouse|playhouse]] in [[Triboar]], including a ''firefinger'' and produced the smell of freshly cut grass, but impressed precisely no one.{{Cite video/Honor Among Thieves}} He had more effect later when he used it to ignite [[Themberchaud]]'s gassy belches, and triggered an explosion that released him and his fellow adventurers.
-
+thumb|right|"No one can hold a candle to this trick!"
+In the late 1490s DR, Simon Aumar demonstrated prestidigitation cantrips at his magic show in the playhouse in Triboar, including a firefinger and produced the smell of freshly cut grass, but impressed precisely no one. He had more effect later when he used it to ignite Themberchauds gassy belches, and triggered an explosion that released him and his fellow adventurers.

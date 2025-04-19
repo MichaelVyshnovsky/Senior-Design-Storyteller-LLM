@@ -1,26 +1,6 @@
 {
-    "template_data": {
-        "variant": "psionic power",
-        "edition": "3e",
-        "variant_1": "psionic power"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Brain Lock",
-        "deity": "",
-        "inventor": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "discipline3e": "[[Telepathy]] (Compulsion)",
-        "mantles3e": "[[Corruption and Madness mantle|Corruption and Madness]]",
-        "descriptors3e": "{{desc/mind-affecting|variant=psionic power}}",
-        "level3e": "{{Spell table|edition=3e|variant=psionic power|[[Telepath]]|2|[[Corruption and Madness mantle|Corruption and Madness]]|2}}",
+        "level3e": "",
         "type3e": "Discipline power",
         "refs3e": "",
         "discipline2e": "",
@@ -31,10 +11,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Brain lock''''' was a [[psionic]] power of the [[telepathy]] discipline. It prevented the victim from undertaking any mental actions.",
-        "Effects": "If the target lacked the will to resist, their higher mind was locked away and they became dazed and mentally paralyzed, unable to actively perform any actions, even purely mental ones. They couldn't move or attack, nor make decisions, nor cast [[spell]]s or use psionics. A flying creature, unable to beat its wings, was forced to descend and land, while a swimming creature was forced to stop, and an air-breathing one to head to the surface. However, they could still react and defend themselves against any physical assaults.\n\nIt affected one [[humanoid]] up to 130 feet (40 meters) away, or longer for more capable manifesters, and lasted as long as the manifester concentrated, plus several seconds. An experienced manifester could augment it with additional psionic energy to affect other types of creatures, but could not change the number or range.",
-        "Displays": "Manifesting it had the standard visual and material [[display]]s.",
-        "Users": "''Brain lock'' could be learned by [[telepath]]s",
-        "Notable Users": "* [[Saryndalaghlothtor]], \"Lady Gemcloak\", a [[crystal dragon]]"
+        "mainbody": "Brain lock was a psionic power of the telepathy discipline. It prevented the victim from undertaking any mental actions.\nIf the target lacked the will to resist, their higher mind was locked away and they became dazed and mentally paralyzed, unable to actively perform any actions, even purely mental ones. They couldnt move or attack, nor make decisions, nor cast spells or use psionics. A flying creature, unable to beat its wings, was forced to descend and land, while a swimming creature was forced to stop, and an air-breathing one to head to the surface. However, they could still react and defend themselves against any physical assaults.\nIt affected one humanoid up to 130 feet (40 meters) away, or longer for more capable manifesters, and lasted as long as the manifester concentrated, plus several seconds. An experienced manifester could augment it with additional psionic energy to affect other types of creatures, but could not change the number or range.\nManifesting it had the standard visual and material displays.\nBrain lock could be learned by telepaths\n* Saryndalaghlothtor, \"Lady Gemcloak\", a crystal dragon"
     }
 }

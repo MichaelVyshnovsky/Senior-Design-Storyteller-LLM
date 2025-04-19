@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Shadow-Form",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Illusion/Phantasm]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Ninja]]|5|}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Shadow-form''''' was a common [[spell]] used by [[ninja]]s. The spell was very rare outside [[Kara-Tur]].",
-        "Effects": "This spell was similar to ''[[mirror image]]''. The spell allowed a ninja to create a transparent copy of themself. The illusion appeared next to the ninja, and the clothing and equipment the ninja was wearing at the time of casting was transferred to the illusion. The ninja controlled the illusion's movement and actions. The illusion had the same physical and mental skills of the ninja, but lacked the ability to cast spells. The ninja was able to see what the illusion saw. The ninja had the option of putting the illusion in a \"resting mode\", so the ninja could move freely without the shadow illusion copying their actions.\n\n''[[Dispel magic]]'' disrupted the spell. If the illusion disappeared, it left behind the clothing and some leaves. Ninja used this spell for scouting, message delivery, and sabotage.",
-        "Components": "The spell required only a [[somatic component|somatic]] component, [[kuji-kiri]] hand gestures."
+        "mainbody": "Shadow-form was a common spell used by ninjas. The spell was very rare outside Kara-Tur.\nThis spell was similar to mirror image. The spell allowed a ninja to create a transparent copy of themself. The illusion appeared next to the ninja, and the clothing and equipment the ninja was wearing at the time of casting was transferred to the illusion. The ninja controlled the illusions movement and actions. The illusion had the same physical and mental skills of the ninja, but lacked the ability to cast spells. The ninja was able to see what the illusion saw. The ninja had the option of putting the illusion in a \"resting mode\", so the ninja could move freely without the shadow illusion copying their actions.\nDispel magic disrupted the spell. If the illusion disappeared, it left behind the clothing and some leaves. Ninja used this spell for scouting, message delivery, and sabotage. \nThe spell required only a somatic component, kuji-kiri hand gestures."
     }
 }

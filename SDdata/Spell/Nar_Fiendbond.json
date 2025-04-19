@@ -1,17 +1,7 @@
 {
-    "template_data": {
-        "name": "Nar fiendbond",
-        "level": "{{spell table",
-        "edition": "3e"
-    },
     "document_data": {
-        "name": "Nar fiendbond",
-        "level": "{{spell table|edition=3e|[[Cleric]]|7|[[Sorcerer]]|7|[[Wizard]]|7}}",
-        "school": "[[Transmutation]]",
+        "school": "Transmutation",
         "rules": "3.5",
-        "mainbody": "'''''Nar fiendbond''''' was a [[transmutation]] spell that transformed a person into a [[half-fiend]]. It was presumably developed by the [[Narfell|Nars]].",
-        "Effects": "The spell imbued a volunteer or victim with the essence of the [[fiendish planes]], granting them powers as if they were the offspring of a full-blooded [[fiend]].",
-        "Components": "The spell required a fortune in [[gem]]s.",
-        "References": "*\n[[Category:Transmutation spells]]\n[[Category:Cleric spells]]\n[[Category:Sorcerer spells]]\n[[Category:Wizard spells]]\na8blkz9092gmb3qppocg2pggr1qzfcu"
+        "mainbody": "Nar fiendbond was a transmutation spell that transformed a person into a half-fiend. It was presumably developed by the Nars.\nThe spell imbued a volunteer or victim with the essence of the fiendish planes, granting them powers as if they were the offspring of a full-blooded fiend.\nThe spell required a fortune in gems.\n*\nCategoryTransmutation spells\nCategoryCleric spells\nCategorySorcerer spells\nCategoryWizard spells\na8blkz9092gmb3qppocg2pggr1qzfcu"
     }
 }

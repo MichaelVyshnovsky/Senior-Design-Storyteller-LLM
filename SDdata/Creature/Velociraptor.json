@@ -1,13 +1,5 @@
 {
     "document_data": {
-        "image": "Kim-brisebois-velociraptor.jpg",
-        "caption": "''A depiction of a velociraptor from [[Tales from Candlekeep: Tomb of Annihilation]].''",
-        "name": "Velociraptor",
-        "size5e": "Tiny",
-        "type5e": "[[Beast]]",
-        "subtype5e": "",
-        "alignment5e": "[[Unaligned]]",
-        "challenge5e": "{{Frac|1|4}}",
         "refs5e": "",
         "size4e": "Medium",
         "origin4e": "Natural",
@@ -22,8 +14,8 @@
         "challenge3e": "",
         "refs3e": "",
         "size2e": "Medium",
-        "alignment2e": "[[Neutral]]",
-        "refs2e": "{{Cite dragon/187/Deadlier Dinosaurs|18}}",
+        "alignment2e": "Neutral",
+        "refs2e": "",
         "size1e": "",
         "alignment1e": "",
         "refs1e": "",
@@ -49,15 +41,9 @@
         "eyecolor": "",
         "build": "",
         "distinctions": "",
-        "based": "[[Wikipedia:Velociraptor|Velociraptor]]",
+        "based": "Velociraptor",
         "first": "",
-        "othernames": "Raptor, Little Thunder{{Cite organized play/LJ/Monkey City|2}}",
-        "mainbody": "'''Velociraptors''', simply '''raptors''',, were small aggressive [[dinosaur]]s who hunted in packs.",
-        "Description": "Velociraptors were covered in feathers and were similar in size to large [[turkey]]s. They were small cousins of the larger [[deinonychus]].",
-        "Combat": "These predators usually used pack hunting tactics that allowed them to bring down much larger prey. Their main weapons were their sharp claws and their strong bites.",
-        "Ecology": {
-            "Habitats": "Velociraptors were commonly found in the jungles and beaches of [[Chult]].\n\nBeyond the [[Prime Material plane]], some could be found in the [[Forbidden Plateau (divine realm)|Forbidden Plateau]].",
-            "Usage": "[[File:Velociraptor.png|thumb|''A Chultan velociraptor.'']]\nVelociraptor [[leather]] was a quality crafting material, used in creation of armor and reinforcing weapons. It was often used by [[Chultan (ethnicity)|Chultan]] and [[Tabaxi (tribe)|Tabaxi]] warriors. Velociraptor fangs could be used to create sharp and deadly [[dagger|shivs]]"
-        }
+        "othernames": "Raptor, Little Thunder",
+        "mainbody": "Velociraptors, simply raptors,, were small aggressive dinosaurs who hunted in packs.\nVelociraptors were covered in feathers and were similar in size to large turkeys. They were small cousins of the larger deinonychus.\nThese predators usually used pack hunting tactics that allowed them to bring down much larger prey. Their main weapons were their sharp claws and their strong bites.\nVelociraptors were commonly found in the jungles and beaches of Chult.\nBeyond the Prime Material plane, some could be found in the Forbidden Plateau.\nthumb|A Chultan velociraptor.\nVelociraptor leather was a quality crafting material, used in creation of armor and reinforcing weapons. It was often used by Chultan and Tabaxi warriors. Velociraptor fangs could be used to create sharp and deadly shivs"
     }
 }

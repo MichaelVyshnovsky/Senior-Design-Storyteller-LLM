@@ -1,18 +1,9 @@
 {
     "document_data": {
-        "image": "<gallery>",
-        "caption": "",
-        "name": "Earth Genasi",
-        "size5e": "Medium",
-        "type5e": "[[Humanoid]]",
-        "subtype5e": "[[Genasi]]",
-        "alignment5e": "Usually [[neutral]]",
-        "challenge5e": "",
-        "refs5e": "{{Cite document/Elemental Evil Player's Companion|7-9}}",
         "size3e": "Medium",
-        "type3e": "[[Outsider]]",
+        "type3e": "Outsider",
         "subtype3e": "",
-        "alignment3e": "Often [[neutral]]",
+        "alignment3e": "Often neutral",
         "challenge3e": "1/2",
         "refs3e": "",
         "alignment2e": "",
@@ -20,12 +11,12 @@
         "alignment1e": "",
         "refs1e": "",
         "patron deity": "",
-        "vision": "[[Darkvision]]",
+        "vision": "Darkvision",
         "activecycle": "",
         "diet": "",
         "lifespan": "120 years",
         "location": "",
-        "language": "[[Common]], [[Terran]]",
+        "language": "Common, Terran",
         "subraces": "",
         "climate": "",
         "terrain": "",
@@ -42,13 +33,6 @@
         "distinctions": "",
         "based": "",
         "first": "",
-        "mainbody": "An '''earth genasi''' was a type of [[genasi]] that was able to harness the power of the earth.",
-        "Description": {
-            "Abilities": "Earth genasi were able to harness the power of the earth. They had [[darkvision]] and were able to pass over the ground without a trace."
-        },
-        "Personality": "Earth genasi tended to be strong and tough, but were often stubborn and oblivious.",
-        "Society": {
-            "Religion": "Common deities worshiped by earth genasi were [[Chauntea]], [[Geb]], and [[Grumbar]]."
-        }
+        "mainbody": "An earth genasi was a type of genasi that was able to harness the power of the earth.\nEarth genasi came in many physical shapes and appearances. Many carried obvious traits of the Elemental Plane of Earth, such as blocky features or earthlike skin, but others had earthlike features that were less apparent.\nEarth genasi were usually born from the union between a dao and a humanoid, from two earth genasi, or from humanoid parents with a dao somewhere in their ascendancy. They could also result from exposure to elemental energy.\nEarth genasi were able to harness the power of the earth. They had darkvision and were able to pass over the ground without a trace.\nEarth genasi tended to be strong and tough, but were often stubborn and oblivious.\nEarth genasi could be found anywhere. However, they were more common in the North near the Spine of the World, where there were portals to the Plane of Earth. A small population of earthsoul genasi lived in Mulhorand.\nCommon deities worshiped by earth genasi were Chauntea, Geb, and Grumbar."
     }
 }

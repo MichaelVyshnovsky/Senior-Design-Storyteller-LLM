@@ -1,30 +1,8 @@
 {
-    "template_data": {
-        "2|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Ladymist Talon.jpg",
-        "caption": "",
-        "name": "''[[Ladymist Talon]]''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Kukri]]",
-        "creator": "",
-        "location": "[[Neverwinter]], [[Sword Coast North]]<br/>[[Elemental Plane of Air]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "5{{th}}",
         "itemlevel3e": "+1",
         "value3e": "",
-        "weight3e": "{{SI|2|lb|k|long=yes}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,9 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Ladymist Talons''''' were [[enchanted]] [[kukri]]s associated with the [[Church of Akadi]].",
-        "Description": "Notably, ''Ladymist Talons'' lacked the traditional markings used by the worshipers of [[Akadi]].",
-        "Powers": "These kukris possessed a ''+1'' enchantment and made the wielder completely unaffected by the ''[[cone of cold]]'' spell. Additionally, the wielder could cast the ''[[stinking cloud]]'' spell using the weapon. Each ''Ladymist Talon'' could hold up to ten charges of the spell.",
-        "History": "Despite the fact that many sages presumed the ''Ladymist Talons'' had an association with the greater power of the [[Elemental Plane of Air]], Akadi, it was never proven. This presumption was fueled by the fact that the weapons possessed magical powers appropriate for the goddess's domain. The most common school of thought was that, indeed, ''Ladymist Talons'' were from Akadi's realm but they drew power from somewhere else entirely."
+        "mainbody": "Ladymist Talons were enchanted kukris associated with the Church of Akadi.\nNotably, Ladymist Talons lacked the traditional markings used by the worshipers of Akadi.\nThese kukris possessed a +1 enchantment and made the wielder completely unaffected by the cone of cold spell. Additionally, the wielder could cast the stinking cloud spell using the weapon. Each Ladymist Talon could hold up to ten charges of the spell.\nDespite the fact that many sages presumed the Ladymist Talons had an association with the greater power of the Elemental Plane of Air, Akadi, it was never proven. This presumption was fueled by the fact that the weapons possessed magical powers appropriate for the goddesss domain. The most common school of thought was that, indeed, Ladymist Talons were from Akadis realm but they drew power from somewhere else entirely."
     }
 }

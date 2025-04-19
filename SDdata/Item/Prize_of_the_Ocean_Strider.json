@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "4|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Prize of the Ocean Strider.png",
-        "caption": "",
-        "name": "''Prize of the Ocean Strider''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Scimitar]]",
-        "creator": "",
-        "location": "[[Nelanther Isles]], [[Sea of Swords]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+1",
-        "value3e": "",
-        "weight3e": "{{SI|4|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The '''''Prize of the Ocean Strider''''' was an [[enchanted]] [[scimitar]] of [[fey]] origins from the [[Nelanther Isles]] off the [[Sword Coast]].",
-        "Powers": "The ''Prize'' possessed a ''+1'' enchantment and beast additional slashing damage upon a successful strike. The magics of the weapons made it only usable by [[druid]]s.",
-        "History": "According to folk tales from the Nelanther Isles, the ''Prize of the Ocean Strider'' once belonged to a powerful [[ocean strider|Ocean Strider]] fey being. One cunning druid named [[Sarian Badgerriver]] was said to have outwitted the fey and was rewarded with this enchanted blade. If the story was true, it took place long before the {{YearlinkName|1372}}. By the late 14{{th}} century [[DR]], multiple copies of the ''Prize'' existed, found in various hands across the Nelanther Isles and [[Spindrift Town]]."
+        "mainbody": "The Prize of the Ocean Strider was an enchanted scimitar of fey origins from the Nelanther Isles off the Sword Coast.\nThe Prize possessed a +1 enchantment and beast additional slashing damage upon a successful strike. The magics of the weapons made it only usable by druids.\nAccording to folk tales from the Nelanther Isles, the Prize of the Ocean Strider once belonged to a powerful Ocean Strider fey being. One cunning druid named Sarian Badgerriver was said to have outwitted the fey and was rewarded with this enchanted blade. If the story was true, it took place long before the . By the late 14 century DR, multiple copies of the Prize existed, found in various hands across the Nelanther Isles and Spindrift Town."
     }
 }

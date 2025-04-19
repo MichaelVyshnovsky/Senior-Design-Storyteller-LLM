@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "20|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Spirit Trap of the Darkbringer",
-        "deity": "[[Moander]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Abjuration]]",
-        "spheres2e": "[[Plant sphere|Plant]], [[Necromantic sphere|Necromantic]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|5}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -45,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Spirit trap of the Darkbringer''''' was a [[Divine magic|divine]] [[abjuration]] [[spell]] used by priests devoted to [[Moander]], enabling them to create spirit prisons.",
-        "Effects": "This spell allowed the caster to traps spirits within a special trap. The prison resembled a [[walnut]] and could be activated by a possessed minion of Moander by clenching it a certain way. When activated, the walnut would emit a sphere of darkness that enclosed the minion's hand and forearm. Tendrils of inky darkness shot from the ball up to {{SI|20|ft|long=yes}} distant. Any living target touched by a tendril was transformed into a silhouette and squeezed into a small marble sphere that was pulled back to the minion's hand. The darkness dissipated and left a black sphere with the target's spirit enclosed within. The prison would last for several days depending on the skill of the caster. The victim would be released from the prison when the spell expired or when the small sphere was shattered.",
-        "Components": "In addition to [[verbal component|verbal]] and [[somatic component]]s, this spell required as a [[material component]] a black [[sapphire]] with greenish yellow highlights worth at least 5,000 [[gp]] to cast. The sapphire was transformed during the casting."
+        "mainbody": "Spirit trap of the Darkbringer was a divine abjuration spell used by priests devoted to Moander, enabling them to create spirit prisons.\nThis spell allowed the caster to traps spirits within a special trap. The prison resembled a walnut and could be activated by a possessed minion of Moander by clenching it a certain way. When activated, the walnut would emit a sphere of darkness that enclosed the minions hand and forearm. Tendrils of inky darkness shot from the ball up to  distant. Any living target touched by a tendril was transformed into a silhouette and squeezed into a small marble sphere that was pulled back to the minions hand. The darkness dissipated and left a black sphere with the targets spirit enclosed within. The prison would last for several days depending on the skill of the caster. The victim would be released from the prison when the spell expired or when the small sphere was shattered.\nIn addition to verbal and somatic components, this spell required as a material component a black sapphire with greenish yellow highlights worth at least 5,000 gp to cast. The sapphire was transformed during the casting."
     }
 }

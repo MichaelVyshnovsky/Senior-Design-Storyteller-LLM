@@ -1,17 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "name": "Transmute Water to Dust",
-        "inventor": "[[Proctiv]]",
-        "school2e": "[[Alteration]], [[Elemental earth school|Earth]], [[Elemental water school|Water]]<br/>[[Sand (province)|Sand]], [[Sea (province)|Sea]], [[Variation]]",
-        "reversible2e": "true",
-        "spheres2e": "[[Elemental sphere|Elemental]] [[Elemental water sphere|Water]], [[Elemental earth sphere|Earth]]",
-        "level2e": "{{spell table|edition=2e|[[Arcanist]]|6|[[Druid]]|6|[[Elemental sphere|Elemental]]|6|[[Elemental earth sphere|Elemental Earth]]|6|[[Elemental water sphere|Elemental Water]]|6|[[Wizard]]|6}}",
         "type2e": "",
-        "refs2e": "<ref><ref><ref>",
-        "mainbody": "'''''Transmute water to dust''''' was an [[alteration]] spell that turned all the water in the target area to dust. The reverse of this spell, '''''improved create water''''', converted a volume of dust or dirt into pure water.",
-        "History": "The [[Arcane magic|arcane]] version of this spell was developed by [[Netheril|Netherese]] [[arcanist]] [[Proctiv]] in {{Yearlink|-2063}} under the name '''''Proctiv's water-dust transmutation'''''.<ref>\n\n{{stub}}"
+        "refs2e": "",
+        "mainbody": "Transmute water to dust was an alteration spell that turned all the water in the target area to dust. The reverse of this spell, improved create water, converted a volume of dust or dirt into pure water.\nThe arcane version of this spell was developed by Netherese arcanist Proctiv in  under the name Proctivs water-dust transmutation."
     }
 }

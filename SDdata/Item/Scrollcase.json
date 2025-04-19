@@ -1,45 +1,10 @@
 {
-    "template_data": {
-        "2|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Scrollcase-2e.jpg",
-        "caption": "One of Aurora's scrollcases.",
-        "name": "Scrollcase",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Adventuring gear",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "5 [[gp]]",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "",
-        "refs3e": "",
-        "level4e": "",
-        "value4e": "",
-        "weight4e": "",
-        "refs4e": "",
-        "rarity5e": "",
-        "attunement5e": "",
-        "school5e": "",
-        "level5e": "",
-        "value5e": "1 gp",
-        "weight5e": "{{SI|1|lb}}",
         "refs5e": "",
         "communication": "",
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "A '''scrollcase''' was a cylindrical leather case designed to hold and organize [[scroll]]s.",
-        "Description": "Most typical scrollcases were shaped like cylindrical tubes. They could hold between five and ten loose pages of [[paper]] or [[parchment]], such as scrolls or [[map]]s. In the late 15{{th}} century [[DR]], they sold for 1 [[gp]].\n\nScrollcases sold by ''[[Aurora's Emporium]]'' were specially designed to organize scrolls, in addition to simply protecting them. They consisted of a large, {{SI|2|ft|long=yes}} long strip of [[leather]] with individual pockets that stacked up to fifteen scrolls in order, with each scroll's title easily visible for quick reference. They could be rolled out into cylinders for easy and secure transportation. These special scrollcases came at a price of 5 gp."
+        "mainbody": "A scrollcase was a cylindrical leather case designed to hold and organize scrolls.\nMost typical scrollcases were shaped like cylindrical tubes. They could hold between five and ten loose pages of paper or parchment, such as scrolls or maps. In the late 15 century DR, they sold for 1 gp.\nScrollcases sold by Auroras Emporium were specially designed to organize scrolls, in addition to simply protecting them. They consisted of a large,  long strip of leather with individual pockets that stacked up to fifteen scrolls in order, with each scrolls title easily visible for quick reference. They could be rolled out into cylinders for easy and secure transportation. These special scrollcases came at a price of 5 gp."
     }
 }

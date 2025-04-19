@@ -1,29 +1,6 @@
 {
-    "template_data": {
-        "edition": "4e",
-        "50|ft|long": "yes",
-        "10|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Diabolic Grasp",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "{{desc/arcane}}{{desc/implement}}",
-        "level4e": "{{spell table|edition=4e|[[Warlock]]|1}}",
+        "level4e": "",
         "type4e": "Encounter",
         "category4e": "",
         "skill4e": "",
@@ -42,7 +19,6 @@
         "school1e": "",
         "level1e": "",
         "refs1e": "",
-        "mainbody": "'''''Diabolic grasp''''' was a [[spell]] known to [[warlock]]s of the late 15{{th}} century [[DR]], particularly those with the [[Warlock#Infernal Pact Warlock|infernal pact]].",
-        "Effects": "By putting their hand in the shape of a claw, ''diabolic grasp'' allowed a warlock to create a large talon of sulfurous darkness that could injure and drag a creature an [[ogre]]'s size or smaller within {{SI|50|ft|long=yes}} a distance of at least {{SI|10|ft|long=yes}}."
+        "mainbody": "Diabolic grasp was a spell known to warlocks of the late 15 century DR, particularly those with the infernal pact.\nBy putting their hand in the shape of a claw, diabolic grasp allowed a warlock to create a large talon of sulfurous darkness that could injure and drag a creature an ogres size or smaller within  a distance of at least ."
     }
 }

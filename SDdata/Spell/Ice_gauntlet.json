@@ -1,31 +1,8 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Ice Gauntlet",
-        "deity": "[[Auril]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Evocation]]",
-        "domains3e": "",
-        "descriptors3e": "{{Desc/cold}}",
-        "level3e": "{{Spell table|edition=3e|[[Cleric]]|1}}",
+        "level3e": "",
         "type3e": "",
-        "refs3e": "{{Cite dragon/312/Faiths of Faerun: Prayers of the Frostmaiden|65}}",
+        "refs3e": "",
         "reversible2e": "",
         "school2e": "",
         "spheres2e": "",
@@ -37,9 +14,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Ice gauntlet''''' was a [[divine magic]] spell available to [[cleric]]s of [[Auril]], the Frostmaiden. It encased one of the caster's fists in a spike-covered ball of ice that was an effective melee weapon.",
-        "Effects": "This spell covered one of the caster's hands with ice spikes that were as hard as rock, giving the wielder the equivalent of a ''+1 [[spiked gauntlet]]'' that could be used in melee combat. This spell lasted for one minute (higher level casters were able to prolong this) or until it was dismissed, whichever came first. On a successful hit, the gauntlet did physical damage according to the caster's size and strength, plus a modicum of cold damage. The physical attack could be mitigated with normal damage reduction techniques, but the cold attack was not affected&mdash;some form of [[resist energy|resistance]] was necessary to prevent the damage caused the frigid temperature.\n\nWhile a hand was encased in ice spikes, other actions like climbing or casting a spell that required two hands for the somatic component, were more difficult to impossible.\n\nIf the wielder of the ''ice gauntlet'' was subjected to any damage by fire, the spell ended as the gauntlet melted away.",
-        "Components": "This spell required only a verbal chant and the caster's [[holy symbol]] or [[divine focus]] to cast.",
-        "History": "This spell was believed to be recorded in a holy book of Auril called ''[[Revelations of the Icedawn]]''{{Cite dragon/312/Faiths of Faerun: Prayers of the Frostmaiden|62}} and was only granted to her clerical followers."
+        "mainbody": "Ice gauntlet was a divine magic spell available to clerics of Auril, the Frostmaiden. It encased one of the casters fists in a spike-covered ball of ice that was an effective melee weapon.\nThis spell covered one of the casters hands with ice spikes that were as hard as rock, giving the wielder the equivalent of a +1 spiked gauntlet that could be used in melee combat. This spell lasted for one minute (higher level casters were able to prolong this) or until it was dismissed, whichever came first. On a successful hit, the gauntlet did physical damage according to the casters size and strength, plus a modicum of cold damage. The physical attack could be mitigated with normal damage reduction techniques, but the cold attack was not affected&mdashsome form of resistance was necessary to prevent the damage caused the frigid temperature.\nWhile a hand was encased in ice spikes, other actions like climbing or casting a spell that required two hands for the somatic component, were more difficult to impossible.\nIf the wielder of the ice gauntlet was subjected to any damage by fire, the spell ended as the gauntlet melted away.\nThis spell required only a verbal chant and the casters holy symbol or divine focus to cast.\nThis spell was believed to be recorded in a holy book of Auril called Revelations of the Icedawn and was only granted to her clerical followers."
     }
 }

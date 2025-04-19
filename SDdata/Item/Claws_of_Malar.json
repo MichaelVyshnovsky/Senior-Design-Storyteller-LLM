@@ -1,25 +1,11 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Claws of Malar''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Claw bracer]]",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "{{SI|1|lb|k}} each pair",
         "refs2e": "",
         "school3e": "",
-        "casterlevel3e": "10{{th}}",
+        "casterlevel3e": "10",
         "itemlevel3e": "",
-        "value3e": "18,330 [[gp]]",
-        "weight3e": "{{SI|2|lb|k}}",
+        "value3e": "18,330 gp",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -35,10 +21,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''''Claws of Malar''''' were unique [[claw bracer]]s that belonged to followers of [[Malar]] and were used in ritualistic hunts, ceremonies, and as personal weapons.",
-        "Description": "Typically created by the carrier, they were fashioned to mimic clawed beast paws, such as [[lion]], or other clawed beast such as a [[tiger]], or [[bear]].",
-        "Powers": "These weapons possessed a ''+1 [[Item enchantment|enchantment]]'' [[wounding]]'' claw bracers.{{Cite dungeon/126/Vampires of Waterdeep: Blood of Malar}}",
-        "Variations": "The ''[[True Talons of the God]]'' were a specialized variety of these claws, only crafted from Malarite followers in the [[Divine Den]] in [[Bezentil]].",
-        "Notable Owners": "* [[Dhusarra el Abhuk]]"
+        "mainbody": "Claws of Malar were unique claw bracers that belonged to followers of Malar and were used in ritualistic hunts, ceremonies, and as personal weapons.\nTypically created by the carrier, they were fashioned to mimic clawed beast paws, such as lion, or other clawed beast such as a tiger, or bear.\nThese weapons possessed a +1 enchantment wounding claw bracers.\nThe True Talons of the God were a specialized variety of these claws, only crafted from Malarite followers in the Divine Den in Bezentil.\n* Dhusarra el Abhuk"
     }
 }

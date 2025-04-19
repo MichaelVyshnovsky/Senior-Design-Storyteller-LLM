@@ -1,47 +1,5 @@
 {
-    "template_data": {
-        "5|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Talon of Zaltec''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Claw",
-        "creator": "",
-        "location": "[[Maztica]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "",
-        "refs3e": "",
-        "level4e": "",
-        "value4e": "",
-        "weight4e": "",
-        "refs4e": "",
-        "rarity5e": "",
-        "attunement5e": "",
-        "school5e": "",
-        "level5e": "",
-        "value5e": "",
-        "weight5e": "",
-        "refs5e": "",
-        "communication": "",
-        "languages": "",
-        "alignment": "",
-        "sentientrefs": "",
-        "mainbody": "A '''''talon of Zaltec''''' was a [[jaguar]] claw enchanted with the [[hishna]] [[spell]] ''[[create talisman]]''.",
-        "Powers": "The tip of the talon contained anywhere from 1–10 doses of a lethal venom. The ''talon of [[Zaltec]]'' could be wielded in combat like a small melee weapon. A single scratch from the talon would be enough to kill.\n\nThe base of the claw contained a dangerous powder that could be cast into the eyes of a target up to {{SI|5|ft|long=yes}} away to blind them for many hours."
+        "mainbody": "talon of Zaltec was a jaguar claw enchanted with the hishna spell create talisman.\nThe tip of the talon contained anywhere from 1–10 doses of a lethal venom. The talon of Zaltec could be wielded in combat like a small melee weapon. A single scratch from the talon would be enough to kill.\nThe base of the claw contained a dangerous powder that could be cast into the eyes of a target up to  away to blind them for many hours."
     }
 }

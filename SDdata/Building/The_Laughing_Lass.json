@@ -1,11 +1,5 @@
 {
     "document_data": {
-        "image": "The Laughing Lass.jpg",
-        "caption": "",
-        "name": "The Laughing Lass",
-        "type": "Festhall, tavern, inn",
-        "location": "[[Suzail]], [[Cormyr]]",
-        "owner": "Lassendri in the late 15{{th}} century [[DR]]",
         "services": "",
         "worship": "",
         "pipes": "",
@@ -15,9 +9,6 @@
         "inhabitants": "Inhabitants of The Laughing Lass",
         "locations": "",
         "organizations": "",
-        "mainbody": "'''The Laughing Lass''' was a cozy tavern in [[Suzail]], [[Cormyr]] that transformed into a festhall on warm evenings. The establishment was a popular spot through the 14{{th}} century and well into the late 15{{th}} century [[DR]].{{Cite dungeon/198/Backdrop: Suzail|73}}",
-        "Location": "The tavern was located in the commoners' part of the city, its southeast section. The establishment catered to locals and travelers alike.",
-        "Interior": "The upper floors of the festhall were illuminated by [[perfume]]d [[oil lamp]]s. The wait staff staffed the upstairs private rooms, offering ales and foods.",
-        "Inhabitants": "The Lass was frequented by the [[Vangerdahast|High Wizard Vangerdahast]], although he was careful to disguise his identity. [[Emthrara Undril]], a [[Harper]] operative, worked in the tavern as a stripper."
+        "mainbody": "The Laughing Lass was a cozy tavern in Suzail, Cormyr that transformed into a festhall on warm evenings. The establishment was a popular spot through the 14 century and well into the late 15 century DR.\nThe tavern was located in the commoners part of the city, its southeast section. The establishment catered to locals and travelers alike.\nThe upper floors of the festhall were illuminated by perfumed oil lamps. The wait staff staffed the upstairs private rooms, offering ales and foods.\nThe Lass was frequented by the High Wizard Vangerdahast, although he was careful to disguise his identity. Emthrara Undril, a Harper operative, worked in the tavern as a stripper."
     }
 }

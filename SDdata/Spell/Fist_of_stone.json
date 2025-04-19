@@ -1,42 +1,16 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "edition_1": "2e"
-    },
     "document_data": {
-        "image": "Fist of stone.jpg",
-        "caption": "An [[Arcane magic|arcane]] spellcaster using the ''fist of stone'' spell to punch through a door.",
-        "name": "Fist of Stone",
-        "deity": "",
-        "inventor": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "{{Desc/earth}}",
-        "level3e": "{{Spell table|edition=3e|[[Sorcerer]]|1|[[Warmage]]|1|[[Wizard]]|1}}",
+        "level3e": "",
         "refs3e": "",
         "reversible2e": "",
-        "school2e": "[[Alteration]], [[Elemental earth school|Earth]], [[Sand (province)|Sand]]",
+        "school2e": "Alteration, Earth, Sand",
         "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|1}}",
+        "level2e": "",
         "refs2e": "",
         "reversible1e": "",
         "school1e": "",
         "level1e": "",
         "refs1e": "",
-        "mainbody": "'''''Fist of stone''''' was a simple [[transmutation]] spell common among practitioners of the [[Sand (province)|province of sand]] in [[Zakhara]].",
-        "Effects": "The spell allowed the caster to transform one of his or her fists into living stone. The stone hand could still move enough to pick up and manipulate items but not with enough dexterity to complete spells with [[somatic component]]s. Having a hand of stone was useful for crushing or breaking items or for making more powerful punching or grappling attacks. It was also particularly useful for smashing the hull of wooden sailing vessels or [[spelljammer]]s.\n\nThe hand did not increase in size or change shape; it simply turned into stone. This effect lasted for at least one minute but sometimes longer for more powerful [[wizard]]s.",
-        "Components": "The spell required at least [[Verbal component|verbal]] and [[somatic component]]s. The somatic components were complicated and ended with punching the air with the fist to be transmuted. Some variations of ''fist of stone'' also required a small stone inscribed with a fist icon for use as a [[material component]].",
-        "History": "On [[Toril]] this spell was believed to have been originally developed in the [[Underdark]], only to later find usage by some on the surface.<ref>"
+        "mainbody": "Fist of stone was a simple transmutation spell common among practitioners of the province of sand in Zakhara.\nThe spell allowed the caster to transform one of his or her fists into living stone. The stone hand could still move enough to pick up and manipulate items but not with enough dexterity to complete spells with somatic components. Having a hand of stone was useful for crushing or breaking items or for making more powerful punching or grappling attacks. It was also particularly useful for smashing the hull of wooden sailing vessels or spelljammers.\nThe hand did not increase in size or change shape it simply turned into stone. This effect lasted for at least one minute but sometimes longer for more powerful wizards.\nThe spell required at least verbal and somatic components. The somatic components were complicated and ended with punching the air with the fist to be transmuted. Some variations of fist of stone also required a small stone inscribed with a fist icon for use as a material component.\nOn Toril this spell was believed to have been originally developed in the Underdark, only to later find usage by some on the surface."
     }
 }

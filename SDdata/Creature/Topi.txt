@@ -1,16 +1,3 @@
-{{Creature
-| image        =
-<gallery>
-Topi.png|5e
-Topi.gif|2e
-</gallery> 
-| caption      = 
-| name         = Topi
-| size5e       = Small
-| type5e       = [[Undead]]
-| subtype5e    = 
-| alignment5e  = [[Chaotic evil]]
-| challenge5e  = {{Frac|1|2}}
 | refs5e       = 
 | size4e       = 
 | origin4e     = 
@@ -25,17 +12,17 @@ Topi.gif|2e
 | challenge3e  = 
 | refs3e       = 
 | size2e       = Tiny
-| alignment2e  = [[Chaotic evil]]
+| alignment2e  = Chaotic evil
 | refs2e       = 
 | size1e       = 
 | alignment1e  = 
 | refs1e       = 
 | patron deity = 
-| vision       = [[Darkvision]]
+| vision       = Darkvision
 | activecycle  = Any
 | diet         = 
 | lifespan     = 
-| location     = [[Chult]]
+| location     = Chult
 | language     = 
 | subraces     = 
 | climate      = Tropical, Subtropical
@@ -53,12 +40,6 @@ Topi.gif|2e
 | distinctions = 
 | based        = 
 | first        =
-}}
-A '''topi''' was a type of small [[undead]].
-
-==Creation==
-A topi was created by shrinking a corpse to two feet tall, and then cutting out its heart and replacing it with a live [[poison]]ous [[snake]] in a leather bag. The snake would stay alive without food or air, and simultaneously render the topi's claws venomous. The snake would die when the topi died.
-
-==Ecology==
-A significant number of topis resided on the [[Snout of Omgar]], particularly near the ruins of [[Dangwaru]].
-
+A topi was a type of small undead.
+A topi was created by shrinking a corpse to two feet tall, and then cutting out its heart and replacing it with a live poisonous snake in a leather bag. The snake would stay alive without food or air, and simultaneously render the topis claws venomous. The snake would die when the topi died.
+A significant number of topis resided on the Snout of Omgar, particularly near the ruins of Dangwaru.

@@ -1,20 +1,11 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "edition_1": "1e"
-    },
     "document_data": {
-        "name": "Animate Rock",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Elemental sphere|Elemental]] [[Elemental earth sphere|Earth]]",
-        "level2e": "{{spell table|edition=2e|[[Druid]]|7|[[Elemental sphere|Elemental]]|7|[[Elemental earth sphere|Elemental Earth]]|7}}",
         "type2e": "",
         "refs2e": "",
-        "school1e": "[[Alteration]]",
-        "level1e": "{{spell table|edition=1e|[[Druid]]|7}}",
+        "school1e": "Alteration",
+        "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''Animate rock''' was an [[alteration]] spell that caused an object made of stone to move and follow simple instructions.",
-        "History": "It was recorded in ''[[Yornar's Trail Companion]]'', a holy text of the [[church of Mielikki]].<ref>"
+        "mainbody": "Animate rock was an alteration spell that caused an object made of stone to move and follow simple instructions.\nIt was recorded in Yornars Trail Companion, a holy text of the church of Mielikki."
     }
 }

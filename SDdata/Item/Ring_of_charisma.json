@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Ring of Charisma''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Ring]]",
-        "creator": "",
-        "location": "[[Dwarven Dungeons]], [[Myth Drannor]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Rings of charisma''''' were appropriately named enchanted [[ring]]s that improved the wearer's charisma.",
-        "Description": "The ''rings of charisma'' crafted by the [[dwarf|dwarves]] of old [[Myth Darrnor]] were usually shaped thin and made out of [[platinum]].",
-        "Powers": "These rings gave the wearer a slight boost to their charisma.",
-        "History": "In [[1369 DR]], one of the ''rings of charisma'' of ancient Myth Drannor could be found in the [[Dwarven Dungeons]] under the Cormanthor area of the old city. The ring was left in one of the containers in the room adjacent to the ''Fountain of Earth'', one of the ancient enchanted waterways of the destroyed city."
+        "mainbody": "Rings of charisma were appropriately named enchanted rings that improved the wearers charisma.\nThe rings of charisma crafted by the dwarves of old Myth Darrnor were usually shaped thin and made out of platinum.\nThese rings gave the wearer a slight boost to their charisma.\nIn 1369 DR, one of the rings of charisma of ancient Myth Drannor could be found in the Dwarven Dungeons under the Cormanthor area of the old city. The ring was left in one of the containers in the room adjacent to the Fountain of Earth, one of the ancient enchanted waterways of the destroyed city."
     }
 }

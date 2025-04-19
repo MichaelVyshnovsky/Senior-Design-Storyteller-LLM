@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Curse of Ill Fortune",
-        "deity": "[[Beshaba]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Cleric]]|2}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -44,8 +14,6 @@
         "type1e": "",
         "refs1e": "",
         "othernames": "Curse of Ill Fortunes",
-        "mainbody": "'''''Curse of ill fortune''''' was a [[spell]] used by [[cleric]]s of [[Beshaba]].",
-        "Effects": "When cast, this spell temporarily cursed a targeted creature. The curse generally weakened the target. The curse could be lifted by any spell that also removed ''[[bestow curse]]''.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, the spell required a [[divine focus]]."
+        "mainbody": "Curse of ill fortune was a spell used by clerics of Beshaba.\nWhen cast, this spell temporarily cursed a targeted creature. The curse generally weakened the target. The curse could be lifted by any spell that also removed bestow curse.\nIn addition to verbal and somatic components, the spell required a divine focus."
     }
 }

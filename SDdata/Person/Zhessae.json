@@ -1,42 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Zhessae",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "Ruinlord",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Mulmaster]]",
-        "formerhomes": "[[Zhentil Keep]], [[Moonsea]]",
-        "sex": "Male",
-        "race": "[[Human]]",
-        "ethnicity": "",
-        "occupation": "",
-        "age": "",
-        "patron deity": "[[Bane]], [[Iyachtu Xvim]]",
-        "languages": "",
-        "reckoning": "DR",
-        "dob": "",
-        "dobnotes": "",
-        "turned": "",
-        "turnednotes": "",
-        "death": "",
-        "deathnotes": "",
-        "destroyed": "",
-        "destroyednotes": "",
-        "alignment": "",
-        "class": "",
-        "rules": "",
-        "alignment1e": "",
-        "class1e": "",
-        "refs1e": "",
-        "alignment2e": "[[Lawful evil]]",
-        "class2e": "{{class table|edition=2e|[[Cleric]]|9}}",
         "refs2e": "",
         "alignment3e": "",
         "class3e": "",
@@ -50,8 +13,6 @@
         "alignment5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Zhessae''' was a member of the [[Zhentarim]] in [[Mulmaster]] in the [[1370 DR|Year of the Tankard, 1370 DR]].",
-        "Relationships": "Zhessae was a follower of [[Fzoul Chembryl]].",
-        "History": "As a trusted member of Fzoul's faction, Zhessae was peripherally involved in the hunt for [[Shandril Shessair]]."
+        "mainbody": "Zhessae was a member of the Zhentarim in Mulmaster in the Year of the Tankard, 1370 DR.\nZhessae was a follower of Fzoul Chembryl.\nAs a trusted member of Fzouls faction, Zhessae was peripherally involved in the hunt for Shandril Shessair."
     }
 }

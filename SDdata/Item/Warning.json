@@ -1,22 +1,5 @@
 {
     "document_data": {
-        "image": "Weapon of warning W&S.png",
-        "caption": "A trident of warning.",
-        "name": "''Warning''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Weapon quality]]",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "7{{th}}",
         "itemlevel3e": "",
         "value3e": "+1",
         "weight3e": "",
@@ -35,8 +18,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''''Warning''''' is a [[weapon quality|quality]] that can be applied to magical weapons, making it so the wielder is not at a disadvantage if taken by surprise in battle.",
-        "Powers": "Wielders of a ''weapon of warning'' could not be surprised and were able to act with greater initiative in battle. Such a weapon could further awaken its owner and their companions if fighting started nearby.",
-        "Notable Weapons of Warning": "*''[[Auspex]]'' was a ''[[longsword]] of warning'' kept at the [[House of Thalivar]] by the [[Neverwinter]] garrison occupying [[Leilon]] in the late 15{{th}} century [[DR]].<ref name=\"D&DEK.DC>"
+        "mainbody": "Warning is a quality that can be applied to magical weapons, making it so the wielder is not at a disadvantage if taken by surprise in battle. \nWielders of a weapon of warning could not be surprised and were able to act with greater initiative in battle. Such a weapon could further awaken its owner and their companions if fighting started nearby.\n*Auspex was a longsword of warning kept at the House of Thalivar by the Neverwinter garrison occupying Leilon in the late 15 century DR."
     }
 }

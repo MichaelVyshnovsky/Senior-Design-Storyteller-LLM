@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Sand Healing",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Necromancy]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|4|}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Sand healing''''' was a spell used by used by [[wizard]]s in [[Anauroch]]. It was extremely rare outside Anauroch.",
-        "Effects": "The spell allowed a caster to heal wounds using [[sand]]. There were limitations to the spell. The caster was not able to use this spell to cure blindness, [[disease]]s or infections, mental ailments, or poison.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, the spell required several [[material component]]s. The caster needed to mix sand, water, and blood before application to a wound. If the caster did not have access to water, then saliva or tears were an acceptable alternative. Likewise, if the caster did not have access to blood, then sap from a plant was an acceptable alternative."
+        "mainbody": "Sand healing was a spell used by used by wizards in Anauroch. It was extremely rare outside Anauroch.\nThe spell allowed a caster to heal wounds using sand. There were limitations to the spell. The caster was not able to use this spell to cure blindness, diseases or infections, mental ailments, or poison. \nIn addition to verbal and somatic components, the spell required several material components. The caster needed to mix sand, water, and blood before application to a wound. If the caster did not have access to water, then saliva or tears were an acceptable alternative. Likewise, if the caster did not have access to blood, then sap from a plant was an acceptable alternative."
     }
 }

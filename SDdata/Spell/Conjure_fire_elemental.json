@@ -1,23 +1,12 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "edition_1": "1e"
-    },
     "document_data": {
-        "image": "ConjureFireElemental.JPG",
-        "name": "Conjure Fire Elemental",
-        "school2e": "[[Conjuration/Summoning]]",
-        "spheres2e": "[[Elemental sphere|Elemental]] [[Elemental fire sphere|Fire]]",
-        "reversible2e": "true",
-        "level2e": "{{spell table|edition=2e|[[Druid]]|6|[[Elemental sphere|Elemental]]|6|[[Elemental fire sphere|Elemental Fire]]|6}}",
         "type2e": "",
         "refs2e": "",
-        "school1e": "[[Conjuration/Summoning]]",
+        "school1e": "Conjuration/Summoning",
         "reversible1e": "true",
-        "level1e": "{{spell table|edition=1e|[[Druid]]|6}}",
+        "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Conjure fire elemental''''' was a [[Divine magic|divine]] [[conjuration]] spell that brought one or more creatures from the [[Elemental Plane of Fire]] to assist the caster. The reverse of this spell, '''''dismiss fire elemental''''', sent the summoned creatures back home.",
-        "History": "''Conjure earth elemental'' fell out of use in the [[1372 DR|Year of Wild Magic]], when deities started granting the more diverse ''[[planar ally]]'' spell.<ref><ref><ref>"
+        "mainbody": "Conjure fire elemental was a divine conjuration spell that brought one or more creatures from the Elemental Plane of Fire to assist the caster. The reverse of this spell, dismiss fire elemental, sent the summoned creatures back home.\nConjure earth elemental fell out of use in the Year of Wild Magic, when deities started granting the more diverse planar ally spell."
     }
 }

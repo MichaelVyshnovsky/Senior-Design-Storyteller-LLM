@@ -1,20 +1,6 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Shur.png",
-        "caption": "",
-        "name": "Shur",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "home": "",
-        "formerhomes": "",
-        "sex": "Female{{Cite card/AD&D Trading Cards/1992|544|Shur}}",
-        "race": "[[Human]]",
+        "race": "Human",
         "ethnicity": "",
         "occupation": "",
         "age": "",
@@ -40,8 +26,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Neutral good]]",
-        "class2e": "{{class table|edition=2e|[[Wizard]]|17}}",
+        "alignment2e": "Neutral good",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "class3e": "",
@@ -49,9 +35,6 @@
         "alignment35": "",
         "class35": "",
         "refs35": "",
-        "mainbody": "'''Shur''' was a powerful [[human]] [[Wizard|mage]] who actively opposed violence against nature.",
-        "Description": "Shur had a stern and wrinkled face, framed by long locks of gray and white-streaked hair. She was dressed in flowing red robes, covered with a black cloak.",
-        "Personality": "A self-appointed protector of the wild, in particular [[tree]]s, Shur was abhorred by the destruction of nature. She considered such acts evil, and used her considerable magical talents to both find and stop them.",
-        "Possessions": "Among Shur's possessions were a ''[[cloak of protection]]'' and a ''[[ring of mind shielding]]'', as well as a ''[[gem of insight]]''."
+        "mainbody": "Shur was a powerful human mage who actively opposed violence against nature.\nShur had a stern and wrinkled face, framed by long locks of gray and white-streaked hair. She was dressed in flowing red robes, covered with a black cloak.\nA self-appointed protector of the wild, in particular trees, Shur was abhorred by the destruction of nature. She considered such acts evil, and used her considerable magical talents to both find and stop them.\nAmong Shurs possessions were a cloak of protection and a ring of mind shielding, as well as a gem of insight."
     }
 }

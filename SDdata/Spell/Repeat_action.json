@@ -1,33 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "1|in|c|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Repeat Action",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "type3e": "",
-        "reversible2e": "",
-        "school2e": "[[Enchantment/Charm]]",
-        "spheres2e": "[[Time sphere|Time]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|5|}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -35,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Repeat action''''' was a [[divine magic]] spell available to [[priest]]s.",
-        "Effects": "When cast, the spell forced a targeted creature to repeat an action taken during the past minute. The targeted creature had to be capable of actually repeating the action. As an example, if cast on an individual who had just shot an arrow that struck another creature, this spell would repeat said action. The archer and arrow adjusted for the movement taken by the targeted individual and still struck its target as long as the target remained in range. The spell would not work if the archer was out of arrows. If cast on a spellcaster who had just cast a spell, the spell would repeat as long as the targeted spellcaster had the spell memorized and possessed any required [[material component]]s.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, this spell required [[material component]]s, two small spheres made from glass, {{SI|1|in|c|long=yes}} or less in diameter.",
-        "History": "This spell was inscribed within the [[Kelemvor]]ite [[relic]] the ''[[Testament of Vraer]]''. It was also found in the ''[[Tome of Torment]]'', the most holy book of the [[Church of Ilmater]] and on the ''[[Chanting Chain]]'' of the [[Talos|Talassan faith]].<ref>"
+        "mainbody": "Repeat action was a divine magic spell available to priests.\nWhen cast, the spell forced a targeted creature to repeat an action taken during the past minute. The targeted creature had to be capable of actually repeating the action. As an example, if cast on an individual who had just shot an arrow that struck another creature, this spell would repeat said action. The archer and arrow adjusted for the movement taken by the targeted individual and still struck its target as long as the target remained in range. The spell would not work if the archer was out of arrows. If cast on a spellcaster who had just cast a spell, the spell would repeat as long as the targeted spellcaster had the spell memorized and possessed any required material components.\nIn addition to verbal and somatic components, this spell required material components, two small spheres made from glass,  or less in diameter.\nThis spell was inscribed within the Kelemvorite relic the Testament of Vraer. It was also found in the Tome of Torment, the most holy book of the Church of Ilmater and on the Chanting Chain of the Talassan faith."
     }
 }

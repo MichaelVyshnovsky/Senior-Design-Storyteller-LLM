@@ -1,38 +1,18 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "variant": "ritual",
-        "edition_1": "4e",
-        "variant_1": "ritual",
-        "edition_2": "3e"
-    },
     "document_data": {
-        "image": "Silence.png",
-        "caption": "",
-        "name": "Silence",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Illusion]]",
-        "domains5e": "",
-        "circles5e": "[[Desert circle|Desert]]",
-        "oaths5e": "",
-        "patrons5e": "[[Undying patron|Undying]]",
-        "traditions5e": "",
-        "level5e": "{{Spell table|edition=5e|variant=ritual|[[Bard]]|2|[[Cleric]]|2|[[Desert circle|Desert]]|2|[[Ranger]]|2|[[Undying patron|Undying]]|2}}",
-        "type5e": "[[Ritual]]",
+        "type5e": "Ritual",
         "refs5e": "",
         "feature4e": "",
         "keywords4e": "",
-        "level4e": "{{Spell table|edition=4e|variant=ritual|Warding|1}}",
+        "level4e": "",
         "type4e": "Ritual",
         "category4e": "Warding",
         "skill4e": "Arcana",
         "refs4e": "",
-        "school3e": "[[Illusion]] (Glamer)",
-        "domains3e": "[[Spell domain|Spell]]",
+        "school3e": "Illusion (Glamer)",
+        "domains3e": "Spell",
         "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Bard]]|2|[[Cleric]]|2|[[Spell domain|Spell]]|2}}",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -46,8 +26,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''Silence''' was an [[illusion]] spell that created an area where sound was negated.",
-        "Effects": "Total silence enveloped an area 40 feet (12 meters) wide, centered on a target creature or object (in which the area would move with them) or a fixed location up to long distance away. An unwilling target creature could resist through force of will, as could magic items in their possession that made sound. Within this area, no sounds could be made or heard, nor could sound transmit through the area. It was impossible to speak or cast spells with verbal components, an approaching attacker could not be heard, and sonic- or language-based magics, like the spell ''[[command]]'', the song of a [[harpy]], or a ''[[horn of blasting]]'', might not function. It lasted at least three minutes, longer for more experienced casters.",
-        "Components": "The spell required only [[Verbal component|verbal]] and [[Somatic component|somatic]] components."
+        "mainbody": "Silence was an illusion spell that created an area where sound was negated.\nTotal silence enveloped an area 40 feet (12 meters) wide, centered on a target creature or object (in which the area would move with them) or a fixed location up to long distance away. An unwilling target creature could resist through force of will, as could magic items in their possession that made sound. Within this area, no sounds could be made or heard, nor could sound transmit through the area. It was impossible to speak or cast spells with verbal components, an approaching attacker could not be heard, and sonic- or language-based magics, like the spell command, the song of a harpy, or a horn of blasting, might not function. It lasted at least three minutes, longer for more experienced casters.\nThe spell required only verbal and somatic components."
     }
 }

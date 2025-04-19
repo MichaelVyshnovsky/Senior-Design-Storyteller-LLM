@@ -1,44 +1,13 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "edition_1": "2e",
-        "7|ft|long": "yes",
-        "15|ft|long": "yes"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Malavon's Rage",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "[[Malavon Despana]]",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "keywords5e": "",
-        "level5e": "",
-        "type5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "school3e": "[[Evocation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Sorcerer]]|7|[[Wizard]]|7}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
-        "school2e": "[[Evocation]]",
+        "school2e": "Evocation",
         "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|7}}",
+        "level2e": "",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "nocat         =\n}}\n'''''Malavon's rage''''' was an [[evocation]] [[spell]] that shot darts of [[magic]]al energy out from the caster in all directions.",
-        "Description": "When cast, ''Malavon's rage'' generated small wedges of magic energy, which were then instantly issued forth in all directions within a radius of {{SI|7|ft|long=yes}} to {{SI|15|ft|long=yes}}, piercing anyone caught in their path. The spell was noted as being particularly useful when surrounded by enemies.",
-        "History": "''Malavon's rage'' was created by the [[drow]] [[sorcerer]] [[Malavon Despana]] prior to [[1281 DR]]."
+        "mainbody": "| nocat         =\nMalavons rage was an evocation spell that shot darts of magical energy out from the caster in all directions.\nWhen cast, Malavons rage generated small wedges of magic energy, which were then instantly issued forth in all directions within a radius of  to , piercing anyone caught in their path. The spell was noted as being particularly useful when surrounded by enemies.\nMalavons rage was created by the drow sorcerer Malavon Despana prior to 1281 DR."
     }
 }

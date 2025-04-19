@@ -1,18 +1,6 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Leech.png",
-        "caption": "",
-        "name": "Leech",
-        "othernames": "",
-        "size5e": "Tiny",
-        "type5e": "Beast",
-        "subtype5e": "Swarm",
-        "alignment5e": "[[Unaligned]]",
-        "challenge5e": "{{frac|1|2}}",
-        "refs5e": "[[Dragon+ 12|''The Barber of Silverymoon'']] states that leeches should be treated as a swarm of insects.",
+        "refs5e": "The Barber of Silverymoon states that leeches should be treated as a swarm of insects.",
         "size4e": "",
         "origin4e": "",
         "type4e": "",
@@ -20,14 +8,14 @@
         "alignment4e": "",
         "refs4e": "",
         "size3e": "Fine",
-        "type3e": "[[Vermin]]",
-        "subtype3e": "[[Aquatic]], [[Swarm]]",
-        "alignment3e": "Always [[neutral]]",
+        "type3e": "Vermin",
+        "subtype3e": "Aquatic, Swarm",
+        "alignment3e": "Always neutral",
         "challenge3e": "1",
         "refs3e": "",
-        "size2e": "{{size table|edition=2e|Swarm|Large}}",
-        "alignment2e": "[[Neutral]]{{Nil-alignment}}",
-        "refs2e": "{{Cite dragon/155/Sage Advice|86}}",
+        "size2e": "",
+        "alignment2e": "Neutral",
+        "refs2e": "",
         "size1e": "",
         "alignment1e": "",
         "refs1e": "",
@@ -44,7 +32,7 @@
         "terrain": "Marshes and swamps",
         "genrefs": "",
         "height": "",
-        "length": "'''Swarm:''' {{SI|10|ft}} wide",
+        "length": "Swarm  wide",
         "wingspan": "",
         "weight": "",
         "skincolor": "",
@@ -56,24 +44,8 @@
         "distinctions": "",
         "appearrefs": "",
         "first": "",
-        "based": "[[wikipedia:en:Leech|Leech]]",
+        "based": "Leech",
         "histrefs": "",
-        "mainbody": "'''Leeches''' were a species of segmented [[worm]]s.{{Cite dragon/123/Ecology of the Giant Leech|51}}",
-        "Description": "Leeches were slimy and had a slug-like appearance.",
-        "Abilities": {
-            "Biology": "[[File:Leech dark alliance.jpg|thumb|''Leeches feeding on a [[humanoid]] brain.''|395x395px]]\nLeeches were highly vulnerable to [[salt]] and the application of sufficient amounts could kill them.\n\nLike many species of invertebrate, leeches had a set of [https://en.wikipedia.org/wiki/Simple_eye_in_invertebrates ocelli] in place of normal eyes. These were a group of light receptive cells that could register changes in light intensity, though not actual images. Because of this, giant leeches often reacted to changes in nearby light.{{Cite dragon/123/Ecology of the Giant Leech|52}}"
-        },
-        "Combat": "Leeches typically hid themselves within the mud or slime typical of their habitats, then waited to strike upon any warm-blooded creature that passed them by. Though sometimes feeding solitarily, they would sometimes group up into large swarms numbering up to two or five hundred members.",
-        "History": "In the 14{{th}} century [[DR]], ''[[Aurora's Whole Realms Catalogue (in-universe)|Aurora's Whole Realms Catalogue]]'' was known to sell [[jar]]s full of live leeches for 10 [[gp]].\n\nIn the late 15{{th}} century DR, a barber in [[Silverymoon]] by the name of [[Jooge Nopsmoth]] charged patrons a single gold piece to have blood extracted by means of leeches. He collected these leeches from a disused well beneath his store.{{Cite dragon+/12/The Barber of Silverymoon|4-5}}",
-        "Sub-Species": {
-            "Giant leech": "A monstrous variety of the standard leech.",
-            "Subterranean": "There were some species of leeches in the Realms that were native to subterranean habitats. One such species lived in the mud flats of [[Llurth Dreir]].<ref>{{Cite polyhedron/140/Llurth Dreier: City of Ooze|14}}",
-            "Throat leech": ";Threeb: A variety of leech that was native to the jungles and swamps of the [[Abyss]], such as the [[Layers_of_the_Abyss#Layer_88:_Gaping_Maw|Gaping Maw]] and [[Layers_of_the_Abyss#Layer_128:_Slugbed|Slugbed]].{{Cite dragon/421/Abyssal Trade Goods: Not a Bad Thing|32}}"
-        },
-        "Ecology": {
-            "Diet": "These creatures fed upon the blood of warm-blooded creatures.",
-            "Habitats": "Leeches were only known to be found in the waters of temperate swamps and marshes. the [[Lake of Steam]], and the jungle within the [[Cathedral of Emerald Scales]]. They were also quite prevalent in the marshes of [[High Moor]].\n\nBeyond Faerûn, they could be found in pools of water all throughout [[Chu' Yuan]]. During the summer season, swarms of them could be found in the lakes, rivers, and swamps of the [[Ama Basin]]. And in the [[Crowded Sea]], they could be found on the island of [[Djinni's Claws]].\n\nBeyond the [[Prime Material plane]], they could be found in the [[Para-Elemental Plane of Ooze]] and the [[Domains of Dread]].",
-            "Usage": "Many peoples in the Realms would turn to the use of leeches when traditional medicines didn't prove effective. This belief was so widespread that they had somewhat of a placebo effect. Some even claimed they could be used to cure [[lycanthropy]], though this was blatantly false."
-        }
+        "mainbody": "Leeches were a species of segmented worms.\nLeeches were slimy and had a slug-like appearance.\nthumb|Leeches feeding on a 395x395px\nLeeches were highly vulnerable to salt and the application of sufficient amounts could kill them.\nLike many species of invertebrate, leeches had a set of [https//en.wikipedia.org/wiki/Simple_eye_in_invertebrates ocelli] in place of normal eyes. These were a group of light receptive cells that could register changes in light intensity, though not actual images. Because of this, giant leeches often reacted to changes in nearby light.\nLeeches typically hid themselves within the mud or slime typical of their habitats, then waited to strike upon any warm-blooded creature that passed them by. Though sometimes feeding solitarily, they would sometimes group up into large swarms numbering up to two or five hundred members.\nIn the 14 century DR, Auroras Whole Realms Catalogue was known to sell jars full of live leeches for 10 gp.\nIn the late 15 century DR, a barber in Silverymoon by the name of Jooge Nopsmoth charged patrons a single gold piece to have blood extracted by means of leeches. He collected these leeches from a disused well beneath his store.\nGiant leech A monstrous variety of the standard leech.\nSubterranean There were some species of leeches in the Realms that were native to subterranean habitats. One such species lived in the mud flats of Llurth Dreir.\nThroat leech\nThreeb A variety of leech that was native to the jungles and swamps of the Abyss, such as the Gaping Maw and Slugbed.\nThese creatures fed upon the blood of warm-blooded creatures.\nLeeches were only known to be found in the waters of temperate swamps and marshes. the Lake of Steam, and the jungle within the Cathedral of Emerald Scales. They were also quite prevalent in the marshes of High Moor.\nBeyond Faerûn, they could be found in pools of water all throughout Chu Yuan. During the summer season, swarms of them could be found in the lakes, rivers, and swamps of the Ama Basin. And in the Crowded Sea, they could be found on the island of Djinnis Claws.\nBeyond the Prime Material plane, they could be found in the Para-Elemental Plane of Ooze and the Domains of Dread.\nMany peoples in the Realms would turn to the use of leeches when traditional medicines didnt prove effective. This belief was so widespread that they had somewhat of a placebo effect. Some even claimed they could be used to cure lycanthropy, though this was blatantly false."
     }
 }

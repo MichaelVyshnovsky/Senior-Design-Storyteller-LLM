@@ -1,59 +1,25 @@
 {
-    "template_data": {
-        "rca": "right",
-        "rca_1": "center",
-        "caption": "[[item enchantment",
-        "rightheader": "Price",
-        "rca_2": "right",
-        "rca_3": "right",
-        "rca_4": "right",
-        "rca_5": "right",
-        "rca_6": "right",
-        "rca_7": "right",
-        "rca_8": "right",
-        "5|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Warpicks4e.png",
-        "caption": "''Depiction of a heavy and light war pick''",
-        "name": "War pick",
-        "othernames": "Military pick",
-        "nicknames": "",
-        "type": "[[Pick]], Martial weapon",
-        "basicrefs": "",
-        "value1e": "{{Split table|rca=right|Footman's pick|8 [[gp]]|Horseman's pick|5 gp}}<br />{{Split table|rca=center|caption=[[item enchantment|Enchanted]] Military picks of Either Type| captionstyle=font-family:serif;font-style:italic; | leftheader=Basic Enchantment|rightheader=Price | rhstyle = color:black;text-align:center;|+1|2,500 gp|+2|5,000 gp|+3|10,000 gp|+4|20,000 gp|+5|40,000 gp}}",
-        "weight1e": "{{Split table|rca=right|Footman's pick|{{SI|6|lbs.|k}}|Horseman's pick|{{SI|4|lbs.|k}}}}",
+        "weight1e": "|Horsemans pick|",
         "refs1e": "",
         "school2e": "",
         "level2e": "",
-        "value2e": "{{Split table|rca=right|Footman's pick|8 gp|Horseman's pick|7 gp}}",
-        "weight2e": "{{Split table|rca=right|Footman's pick|{{SI|6|lbs.|k}}|Horseman's pick|{{SI|4|lbs.|k}}}}",
-        "refs2e": "<ref>",
+        "value2e": "",
+        "weight2e": "|Horsemans pick|",
+        "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
         "itemlevel3e": "",
-        "value3e": "{{Split table|rca=right|Heavy|8 gp|Light|4 gp}}",
-        "weight3e": "{{Split table|rca=right|Heavy|{{SI|4|lbs.|k}}|Light|{{SI|3|lbs.|k}}}}",
+        "value3e": "",
+        "weight3e": "|Light|",
         "refs3e": "",
         "level4e": "",
-        "value4e": "{{Split table|rca=right|Standard|15 gp|Heavy|20 gp|Light|10 gp}}",
-        "weight4e": "{{Split table|rca=right|Standard|{{SI|6|lbs.|k}}|Heavy|{{SI|8|lbs.|k}}|Light|{{SI|4|lbs.|k}}}}",
+        "value4e": "",
+        "weight4e": "|Heavy||Light|",
         "refs4e": "",
         "value5e": "5 gp",
-        "weight5e": "{{SI|2|lbs.}}",
+        "weight5e": "",
         "refs5e": "",
-        "mainbody": "'''War picks''', also known as '''military picks''', were a type of [[pick]]axe designed specifically for warfare.",
-        "Description": "War picks generally consisted of one or two curved, heavy piercing flukes mounted upon a shaft. Some shafts were known to be spiked at the end. These thick curved flukes, also known as \"crow's beaks,\" help to balance the war pick's hammer head.",
-        "Weaponology": "All war picks were designed to pierce through heavier armor types, from [[chain mail]] all the way up to full [[plate armor]]. However, they could get stuck if swung too hard. Some training was required to wield them effectively, thus they were often considered martial weapons.\n\nDespite having a similar appearance, ''war picks'' were noted as being ineffective tools for climbing compared to [[ice axe]]s.",
-        "Variations": {
-            "Footman's pick": "'''Footman's picks''' were the larger and heavier variety of war pick. Their name derived from the fact that they were most often wielded by infantry soldiers. They generally were {{SI|5|ft|long=yes}} long.",
-            "Horseman's pick": "'''Horseman's picks''' were the lighter variety of war pick, their name derived from the fact that they were most often wielded by mounted [[knight]]s and heavy mercenary horsemen."
-        },
-        "Notable War picks": {
-            "War picks of Deities": "* ''A dragon head:'' a heavy pick that was wielded by the goddess [[Tiamat]].\n* ''A lion's head:'' a heavy pick that was wielded by the god [[Nobanion]].\n* ''Tyrannosaur head:'' a heavy pick that was wielded by the god [[Ubtao]]."
-        },
-        "Notable Users of War picks": {
-            "Groups": "* Despite being designed for the purpose of warfare, footman's picks were often utilized by prospectors as a digging tool.\n* Footman's picks were a common weapon among both [[human]] and [[demihuman]] races all across [[Faerun]].\n* War picks were known to be frequently used by smaller races such as [[dwarves]], [[gnome]]s, [[deep gnome]]s, [[duergar]], and [[halfling]]s. Gnomes often favored the lighter variety as an off-hand weapon, though they and halflings were both known for using the heavier variety as a two-handed weapon.\n* War picks were popular among knights and the footmen of some mercenary companies."
-        }
+        "mainbody": "War picks, also known as military picks, were a type of pickaxe designed specifically for warfare.\nWar picks generally consisted of one or two curved, heavy piercing flukes mounted upon a shaft. Some shafts were known to be spiked at the end. These thick curved flukes, also known as \"crows beaks,\" help to balance the war picks hammer head.\nAll war picks were designed to pierce through heavier armor types, from chain mail all the way up to full plate armor. However, they could get stuck if swung too hard. Some training was required to wield them effectively, thus they were often considered martial weapons.\nDespite having a similar appearance, war picks were noted as being ineffective tools for climbing compared to ice axes.\nFootmans picks were the larger and heavier variety of war pick. Their name derived from the fact that they were most often wielded by infantry soldiers. They generally were  long.\nHorsemans picks were the lighter variety of war pick, their name derived from the fact that they were most often wielded by mounted knights and heavy mercenary horsemen.\n* Blingdenstone warpick a war pick that originated from the city of Blingdenstone.\n* Ironfang\n* A dragon head a heavy pick that was wielded by the goddess Tiamat.\n* A lions head a heavy pick that was wielded by the god Nobanion.\n* Tyrannosaur head a heavy pick that was wielded by the god Ubtao.\n* Despite being designed for the purpose of warfare, footmans picks were often utilized by prospectors as a digging tool.\n* Footmans picks were a common weapon among both human and demihuman races all across Faerun.\n* War picks were known to be frequently used by smaller races such as dwarves, gnomes, deep gnomes, duergar, and halflings. Gnomes often favored the lighter variety as an off-hand weapon, though they and halflings were both known for using the heavier variety as a two-handed weapon.\n* War picks were popular among knights and the footmen of some mercenary companies."
     }
 }

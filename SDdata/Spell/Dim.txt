@@ -1,49 +1,5 @@
-{{Spell
-| image         = 
-| caption       = 
-| name          = Dim
-| deity         = 
-| inventor      = 
-| type          = 
-| school5e      = 
-| domains5e     = 
-| circles5e     = 
-| oaths5e       = 
-| patrons5e     = 
-| traditions5e  = 
-| archetypes5e  = 
-| level5e       = 
-| type5e        = 
-| refs5e        = 
-| feature4e     = 
-| keywords4e    = 
-| level4e       = 
-| type4e        = 
-| category4e    = 
-| skill4e       = 
-| refs4e        = 
-| school3e      = 
-| domains3e     = 
-| descriptors3e = 
-| level3e       = 
-| refs3e        = 
-| reversible2e  = 
-| school2e      = 
-| spheres2e     = 
-| level2e       = 
-| type2e        = 
-| refs2e        = 
-| reversible1e  = 
-| school1e      = [[Alteration]]
-| level1e       = {{Spell table|edition=1e|[[Illusionist]]|0}}
 | type1e        = Minor illusion
-| refs1e        = {{Cite dragon/61/Now you see them: Cantrips for the aspiring illusionist|6}}
-}}
-'''''Dim''''' was a minor [[illusion]] [[cantrip]] that neophyte [[illusionist]]s could learn.{{Cite dragon/59/Cantrips: Minor magics for would-be wizards|6}} The caster could choose to lower the brightness of certain light sources or all light in a small area.
-
-==Effects==
-If targeting individual light sources, the range of this spell was {{SI|30|ft|long=yes}}. If used to affect an area, it was limited to a {{SIAdj|10|ft|long=yes}} radius around the caster. The effects of this cantrip lasted one minute. ''Dim'' caused any of these light sources to put out half as much illumination: one ''[[light]]'' or ''[[continual light]]'' spell, one medium-sized campfire, one hearth fire, about six torches, or around 72 candles. When used on an area, it made the atmosphere around the caster less permeable to all light, similar to a half-strength ''[[darkness, 15' radius|darkness]]'' spell.
-
-==Components==
-This cantrip required [[verbal]] and [[somatic component]]s to cast. The caster moved a hand in a downward direction while intoning a magical phrase such as ''rhee-oh-stat'' or ''bee-row-nout''.A [[wikipedia:Potentiometer#Rheostat|rheostat]] is a variable resistor used for dimming incandescent lights. A [[wikipedia:Brownout (electricity)|brownout]] is when lights dim because of a drop in voltage on the electrical grid.
-
+| refs1e        = 
+Dim was a minor illusion cantrip that neophyte illusionists could learn. The caster could choose to lower the brightness of certain light sources or all light in a small area.
+If targeting individual light sources, the range of this spell was . If used to affect an area, it was limited to a  radius around the caster. The effects of this cantrip lasted one minute. Dim caused any of these light sources to put out half as much illumination one light or continual light spell, one medium-sized campfire, one hearth fire, about six torches, or around 72 candles. When used on an area, it made the atmosphere around the caster less permeable to all light, similar to a half-strength darkness spell.
+This cantrip required verbal and somatic components to cast. The caster moved a hand in a downward direction while intoning a magical phrase such as rhee-oh-stat or bee-row-nout.A rheostat is a variable resistor used for dimming incandescent lights. A brownout is when lights dim because of a drop in voltage on the electrical grid.

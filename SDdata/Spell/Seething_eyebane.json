@@ -1,35 +1,6 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Seething Eyebane",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "{{Desc/acid}}{{Desc/evil}}",
-        "level3e": "{{Spell table|edition=3e|Corrupt|1}}",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,9 +14,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Seething eyebane''''' was a [[corrupt magic|corrupt]] [[spell]] that caused blindness.",
-        "Effects": "''Seething eyebane'' caused the eyes of a creature who was touched by the caster to explode.\n\nUpon explosion, acid sprayed from the eye sockets onto those within five feet (1.5 meters). Because the spell required the caster to be in touching distance to the victim, the caster was also sprayed with acid.",
-        "Components": "The spell only required somatic and verbal components. It also incurred a corruption cost in the form of wracking the caster's body.",
-        "History": "[[Gestal]] used this spell to blind [[Slip]].{{Cite digital book/Depths of Madness|4102-4109}}"
+        "mainbody": "Seething eyebane was a corrupt spell that caused blindness.\nSeething eyebane caused the eyes of a creature who was touched by the caster to explode.\nUpon explosion, acid sprayed from the eye sockets onto those within five feet (1.5 meters). Because the spell required the caster to be in touching distance to the victim, the caster was also sprayed with acid.\nThe spell only required somatic and verbal components. It also incurred a corruption cost in the form of wracking the casters body.\nGestal used this spell to blind Slip."
     }
 }

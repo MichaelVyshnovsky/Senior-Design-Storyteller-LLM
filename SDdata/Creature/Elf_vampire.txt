@@ -1,28 +1,6 @@
-{{Creature
-| image        = VampireElf.png
-| caption      = Elf vampires were surrounded by decay.
-| name         = Elf Vampire
-| othernames   = 
-| size5e       = 
-| type5e       = 
-| subtype5e    = 
-| alignment5e  = 
-| challenge5e  = 
-| refs5e       = 
-| size4e       = 
-| origin4e     = 
-| type4e       = 
-| subtype4e    = 
-| alignment4e  = 
-| refs4e       = 
-| size3e       = Medium
-| type3e       = [[Undead]]
-| subtype3e    = [[Augmented humanoid]]<br />[[Vampire]]
-| alignment3e  = Always [[evil]] (any)
-| challenge3e  = {{CR table|edition=3e|Fledling|+2|Mature|+2|Old|+3|Ancient|+3|Eminent|+4|Patriarch|+5}}
 | refs3e       = 
 | size2e       = Medium
-| alignment2e  = [[Lawful evil]]
+| alignment2e  = Lawful evil
 | refs2e       = 
 | size1e       = 
 | alignment1e  = 
@@ -33,9 +11,9 @@
 | activecycle  = Day
 | diet         = Special
 | lifespan     = 
-| location     = [[Domains of Dread]]
+| location     = Domains of Dread
 | intelligence = Genius
-| language     = Languages they knew in life, such as [[elven]]
+| language     = Languages they knew in life, such as elven
 | subraces     = 
 | climate      = Temperate
 | terrain      = Forest
@@ -55,61 +33,28 @@
 | first        = 
 | based        = 
 | histrefs     = 
-}}
-'''Elven vampirism''' was a strain of [[vampirism]] originating from the [[Domains of Dread]] that only [[elves]] and [[half-elves]] were susceptible to contracting. By the 14{{th}} century [[DR]], this strain of vampirism had some presence on the [[Prime Material]] world of [[Toril]].As the concept of [[demihuman]] strains of vampirism were created for and kept unique to the [[Ravenloft]] setting, it stands to reason that elven vampirism did not originate on Toril.
-
-==Description==
-All elven vampires exhibited twisted and scarred faces, making it difficult for them to blend-in with mortal elves and often causing temporary state of horrified shock for those that gazed upon it. Because of this they typically dressed in dark [[robe]]s and other forms of garment because to hide their faces.
-
-==Personality==
+Elven vampirism was a strain of vampirism originating from the Domains of Dread that only elves and half-elves were susceptible to contracting. By the 14 century DR, this strain of vampirism had some presence on the Prime Material world of Toril.As the concept of demihuman strains of vampirism were created for and kept unique to the Ravenloft setting, it stands to reason that elven vampirism did not originate on Toril.
+All elven vampires exhibited twisted and scarred faces, making it difficult for them to blend-in with mortal elves and often causing temporary state of horrified shock for those that gazed upon it. Because of this they typically dressed in dark robes and other forms of garment because to hide their faces.
 Due to their unique afflictions, elven vampires typically grew to harbor hatred towards all beauty and vibrancy in nature. To that end, they often sought to destroy or corrupt all that they encountered, often lashing out at those attempting to cultivate the land near their lairs or trying to raise crops near them.
-
-==Abilities==
-Elven vampires retained the {{SI|60|ft|long=yes}} of [[infravision]] that many mortal elves possessed, but it was further augmented. They also were quite adept at finding concealed or secret entrances.
-===Vampiric Powers===
-[[File:VampireDemihumans.png|thumb|273px|'''The demihuman vampires of Ravenloft:'''<br/>''An elf vampire, a [[dwarf vampire]], a [[halfling vampire]], and a [[gnome vampire]].'']]
-They had some degree of enhanced strength, though not to the degree exhibited by standard vampirism. Also like the standard strain of vampirism, they could summon groups of forest creatures to their aid. These were typically either packs of [[wolves]], flocks of birds of prey, particularly eagles or  [[hawk]]s, or small mammals such as [[badger]]s, [[porcupine]]s, [[monkey]]s, [[rat]]s, or [[weasel]]s. There also was evidence that they could communicate with animals, though it was not known for certain if this was one of their many powers.
-
-Weaponry could not harm an elf vampire unless it carried either a ''+1'' to ''3'' [[enchantment]], depending upon how many centuries old they were. Those over 300 years of age required a ''+2'' enchantment to harm, while those over 500 years of age required a ''+3'' enchantment. If an enchantment was not powerful enough to harm an elf vampire, it would harmlessly pass through their bodies as if they were incorporeal.
-
-In addition to the traditional vampiric immunities to [[disease]]s, [[poison]]s, toxins, as well as ''[[charm]]'', ''[[hold]]'', and ''[[sleep]]'' [[spell]]s, elf vampires were less harmed by spells relying upon cold or [[fire]].
-
-===Distinct Powers===
-Rather than blood, elf vampires sustained themselves by feeding upon the vital, creative energies or "charisma" of other creatures. Some victims were left with a disfiguring scar after being drained that was difficult to remove. Those drained by them multiple times could become so disfigured as to be unrecognizable. If a victim was drained of too much their creative energies they were liable to start having suicidal thoughts, whilst those drained of all their creative energies fully lost the will to live. Any elf or half-elf that killed themselves due to this would arise as a subservient [[vampire spawn]] around one to four days after being buried.
-
+Elven vampires retained the  of infravision that many mortal elves possessed, but it was further augmented. They also were quite adept at finding concealed or secret entrances.
+thumb|273px|The demihuman vampires of RavenloftAn elf vampire, a dwarf vampire, a halfling vampire, and a gnome vampire.
+They had some degree of enhanced strength, though not to the degree exhibited by standard vampirism. Also like the standard strain of vampirism, they could summon groups of forest creatures to their aid. These were typically either packs of wolves, flocks of birds of prey, particularly eagles or  hawks, or small mammals such as badgers, porcupines, monkeys, rats, or weasels. There also was evidence that they could communicate with animals, though it was not known for certain if this was one of their many powers.
+Weaponry could not harm an elf vampire unless it carried either a +1 to 3 enchantment, depending upon how many centuries old they were. Those over 300 years of age required a +2 enchantment to harm, while those over 500 years of age required a +3 enchantment. If an enchantment was not powerful enough to harm an elf vampire, it would harmlessly pass through their bodies as if they were incorporeal.
+In addition to the traditional vampiric immunities to diseases, poisons, toxins, as well as charm, hold, and sleep spells, elf vampires were less harmed by spells relying upon cold or fire.
+Rather than blood, elf vampires sustained themselves by feeding upon the vital, creative energies or "charisma" of other creatures. Some victims were left with a disfiguring scar after being drained that was difficult to remove. Those drained by them multiple times could become so disfigured as to be unrecognizable. If a victim was drained of too much their creative energies they were liable to start having suicidal thoughts, whilst those drained of all their creative energies fully lost the will to live. Any elf or half-elf that killed themselves due to this would arise as a subservient vampire spawn around one to four days after being buried.
 The most unique drawback of elven vampirism was that any plant they touched with their bare withered away and died. This effect was almost instantaneous on smaller plants, such as flowers, while larger plants like hedges and shrubs could take a day and trees could take over a week. Throughout this process of withering, an elf vampire felt all the agony that the aflicted plant went through. Since elves often had close relationships with nature, many were driven to madness early on due to this "black thumb".
-
-All elf vampires possessed an ability similar to the spells ''[[transport via plants]]''Later editions changed ''transport via plants'' to the [[conjuration]] [[school of magic]] and removed its margin for error. Due to the elf vampires' "black thumb", the plants utilized in any instance of this power withered away and died after use. They commonly utilized this ability to flee from battles when severly injured.
-
-Other spell-like abilities possessed by elf vampires included ''[[pass without trace]]'' and ''[[invisibility to animals]]'', though they rarely used the latter. They could cast ''[[anti-animal shell]]'', ''[[entangle]]'', ''[[snare]]'', ''[[spike growth]]'', and ''[[warp wood]]'' three times per day. And once per day they could cast ''[[giant vermin]]'', ''[[wall of thorns]]'', and ''[[sticks to snakes]]''.
-
-===Weaknesses===
-Elf vampires lacked most of the typical vampiric weaknesses. They were unharmed by [[holy water]] or [[sunlight]], and they could not be held back by [[holy symbol]]s running water, [[mirror]]s, or [[garlic]].
-
-In place of those standard weaknesses, elf vampires suffered from a variety of their own. They were harmed by being outside during the night and would gradually die if they could not get indoors. Whilst outside of their [[coffin]] between sunset and sunrise an elf vampire was disoriented. Whenever an elf vampire was underground they lost access to their regenerative nature and their vast number of spell-like abilities, leaving them open to a fatal death. But the most surefire way to end an elf vampire's existence was to drive a [[stake]] made of [[charcoal]] through their heart with a wooden mallet. The head then had to be cut off and burned in a fire made from flowers and flowering shrubs for no less than twenty-four hours, otherwise they could come back to life upon the stake's removal.
-
-Fresh tree sap burned elf vampires, similarly to the effect that holy water had on the standard strain of vampirism, though some claimed the sap had to be from a deciduous tree in particular. Elf vampires were quite vulnerable to spells involving electricity or lightning and weaponry made of [[cold iron]]. And due to having a weaker connection to the [[Negative Energy plane]] than other strains of vampirism, it was easier for [[paladin]]s and [[priest]]s to [[Turn undead|turn them away]].
-
+All elf vampires possessed an ability similar to the spells transport via plantsLater editions changed transport via plants to the conjuration school of magic and removed its margin for error. Due to the elf vampires "black thumb", the plants utilized in any instance of this power withered away and died after use. They commonly utilized this ability to flee from battles when severly injured.
+Other spell-like abilities possessed by elf vampires included pass without trace and invisibility to animals, though they rarely used the latter. They could cast anti-animal shell, entangle, snare, spike growth, and warp wood three times per day. And once per day they could cast giant vermin, wall of thorns, and sticks to snakes.
+Elf vampires lacked most of the typical vampiric weaknesses. They were unharmed by holy water or sunlight, and they could not be held back by holy symbols running water, mirrors, or garlic.
+In place of those standard weaknesses, elf vampires suffered from a variety of their own. They were harmed by being outside during the night and would gradually die if they could not get indoors. Whilst outside of their coffin between sunset and sunrise an elf vampire was disoriented. Whenever an elf vampire was underground they lost access to their regenerative nature and their vast number of spell-like abilities, leaving them open to a fatal death. But the most surefire way to end an elf vampires existence was to drive a stake made of charcoal through their heart with a wooden mallet. The head then had to be cut off and burned in a fire made from flowers and flowering shrubs for no less than twenty-four hours, otherwise they could come back to life upon the stakes removal.
+Fresh tree sap burned elf vampires, similarly to the effect that holy water had on the standard strain of vampirism, though some claimed the sap had to be from a deciduous tree in particular. Elf vampires were quite vulnerable to spells involving electricity or lightning and weaponry made of cold iron. And due to having a weaker connection to the Negative Energy plane than other strains of vampirism, it was easier for paladins and priests to turn them away.
 Methods for keeping them at bay included making unbroken lines of flower petals, which they were incapable of crossing over or taking direct action to break, and music. However, the petals used in a protective line had to be fairly fresh and fragrant, having been plucked no more than one day prior. And they could circumvent petal lines by commanding an animal or servant to do so. In the case of musical performances, regardless of whether it was vocal or instrumental an elf vampire was likely to become enraptured upon hearing it, causing them to stop whatever they were doing to listen until they could break free of their trance.
-
-==Combat==
-It was quite common for elf vampires to fight with weaponry, typically preferring [[dagger]]s and [[sword]]s above all other options, with a particular proficiency in [[long sword]]s. Though they also were experts with all manner of [[bow]]s, unhampered by typical archery concerns such as breathing and muscle fatigue due to their undead nature. They typically used [[arrow]]s that were carved from the bones of intelligent creatures and ocassionally had access to [[enchanted]] ones.
-
-==Notable Elf Vampires==
-* [[Aaron the Red]], an elf vampire and [[wizard]] who sought to conquer [[Procampur]] in the {{YearlinkName|1369}}, sometime around the late fall to early winter.{{Cite organized play/LC/He Who Laughs...|2}}{{LCRB}}
-* [[Marlysa]], an elf vampire that lived in [[the Vast]] around the late 14{{th}} century [[DR]], studying ancient texts in hopes of uncovering a way to reverse the strain of vampirism she was afflicted with.{{Cite organized play/LC/Monster Mash|5,15}}{{LCRB}}
-* [[Jander Sunstar]], a [[gold elf]] vampire from [[Evermeet]] and one of Ravenloft's top experts on vampires.<ref>
-
-==Ecology==
-===Creation===
-Any elf or half-elf that died as a result of an elf vampire  draining their vital, creative energies or "charisma", would arise as one themselves after a period of three days. However, this would only occur if their body wasn't mutilated or destroyed in the intervening time. If the victim was brought back to life before that period was up, such as with the ''[[resurrection]]'' spell, there was a 50% chance the victim would returned to life as an elf vampire.
-
-Alternatively, elf vampires could occur on the world of Toril from the [[Blessing of Malphagor]], a unique [[curse]] that the [[demipower]] [[Malphagor]] would place upon any living creature who killed his high priests.{{Cite organized play/LC/A Shot in the Dark, Part I/Blessing of Malphagor}} Alternatively, high priests of Malphagor were capable of bestowing this "blessing" upon corpses.{{Cite organized play/LC/A Shot in the Dark, Part I|11}} Elven [[mage]]s, half-elf [[druid]]s, as well as some half-elf clerics that bore this curse would arise as an elf vampire one to four minutes after dying. In the case of half-elves this would occur regardless of their [[gender and sex]], but for full elves it would only occur for males, with females instead arising as [[banshee]]s or [[skeleton warrior]]s.
-
-==Society==
+It was quite common for elf vampires to fight with weaponry, typically preferring daggers and swords above all other options, with a particular proficiency in long swords. Though they also were experts with all manner of bows, unhampered by typical archery concerns such as breathing and muscle fatigue due to their undead nature. They typically used arrows that were carved from the bones of intelligent creatures and ocassionally had access to enchanted ones.
+* Aaron the Red, an elf vampire and wizard who sought to conquer Procampur in the , sometime around the late fall to early winter.
+* Marlysa, an elf vampire that lived in the Vast around the late 14 century DR, studying ancient texts in hopes of uncovering a way to reverse the strain of vampirism she was afflicted with.
+* Jander Sunstar, a gold elf vampire from Evermeet and one of Ravenlofts top experts on vampires.
+Any elf or half-elf that died as a result of an elf vampire  draining their vital, creative energies or "charisma", would arise as one themselves after a period of three days. However, this would only occur if their body wasnt mutilated or destroyed in the intervening time. If the victim was brought back to life before that period was up, such as with the resurrection spell, there was a 50% chance the victim would returned to life as an elf vampire.
+Alternatively, elf vampires could occur on the world of Toril from the Blessing of Malphagor, a unique curse that the demipower Malphagor would place upon any living creature who killed his high priests. Alternatively, high priests of Malphagor were capable of bestowing this "blessing" upon corpses. Elven mages, half-elf druids, as well as some half-elf clerics that bore this curse would arise as an elf vampire one to four minutes after dying. In the case of half-elves this would occur regardless of their gender and sex, but for full elves it would only occur for males, with females instead arising as banshees or skeleton warriors.
 Though elf vampire usually tried to avoid being in contact with plants due to their "black thumb" affliction, they were typically found in temperate forests. These forests were always of a decrepit nature, full of diseased trees, dying plants, and infertile soil.
-
 They were usually solitary beings, they sometimes traveled with another or another and a group of vampire spawn minions.
-===Languages===
-Elf vampires retained understanding of all the languages they spoke in life, such as [[Elvish]].
-
+Elf vampires retained understanding of all the languages they spoke in life, such as Elvish.

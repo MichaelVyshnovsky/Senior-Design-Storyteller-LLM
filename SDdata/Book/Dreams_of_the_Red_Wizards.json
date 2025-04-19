@@ -1,46 +1,5 @@
 {
-    "template_data": {
-        "title": "Professions",
-        "index": "{{P",
-        "title_1": "Vessels",
-        "index_1": "{{P"
-    },
     "document_data": {
-        "image": "[[Image:Dreams of the Red Wizards.jpg|250px]]",
-        "caption": "''Cover of Dreams of the Red Wizards sourcebook.''",
-        "code": "TSR9235 (FR6)",
-        "title": "Vessels",
-        "author": "[[Steve Perrin]]",
-        "editor": "[[Karen S. Boomgarden]]",
-        "cover_artist": "[[Clyde Caldwell]]",
-        "inter_artist": "[[Valerie Valusek]]",
-        "cartography": "[[David C. Sutherland III]]",
-        "typography": "[[Kim Janke]]",
-        "publisher": "[[TSR, Inc.]]",
-        "game_edition": "1",
-        "type": "Accessory",
-        "languages": "",
-        "realm year": "[[1357 DR]]",
-        "released": "1988",
-        "binding": "Paperback",
-        "pages": "64",
-        "isbn10": "0-88038-615-0",
-        "isbn13": "978-0880386159",
-        "series": "[[FR series]]",
-        "preceded_by": "''[[The Savage Frontier]]''",
-        "followed_by": "''[[Hall of Heroes]]''",
-        "index": "{{P|[[bireme]]|19}};{{P|[[trireme]]|19,59}}",
-        "mainbody": "",
-        "Description": "''Dreams of the Red Wizards'' is a supplement that focuses on Thay, a nation ruled by evil wizards.",
-        "Contents": "* Introduction\n* History of Thay\n* People and Society of Thay\n* Geography of Thay\n* Current Economy of Thay\n* Current Politics of Thay\n* Magic of Thay\n* Religion of Thay\n* Personalities of Thay\n* Adventures in Thay\n* 33\" x 21\" map of [[East Faerûn]] from the [[Gray Forest]] to [[Rashemen]] down to [[Mulhorand]] and over to [[Reth]], which includes Thay, [[Thesk]], [[Aglarond]] and [[Altumbel]]",
-        "Index": {
-            "Characters": ":[[Szass Tam]] • [[Alzegund|Alzegund the Trader]] • [[Ailoth]] • [[Naglatha]] • [[Lauzoril]] • [[Shazzelurt]] • [[Sabass|Sabass of Thay]] • [[Gombdalla|Gombdalla of Pyarados]] • [[Simbul]] • [[Bulzo Tarhair]] • [[Azhir Kren]] • [[Homen Odesseiron]] • [[Dickon Sharken]] • [[Hargun Skullknuckle|Constable Hargun Skullknuckle]] • [[Belanna Telmister]]",
-            "Magic": {
-                "Spells": "''[[Assist]]'' • ''[[Aura fire]]'' • ''[[Belten's burning blood]]'' • ''[[Chant]]'' • ''[[Charm undead]]'' • ''[[Circle]]'' • ''[[Combust]]'' • ''[[Control winds]]'' • ''[[Deny cold]]'' • ''[[Detect charm]]'' • ''[[Detect poison]]'' • ''[[Detho's delirium]]'' • ''[[Find the path]]'' • ''[[Find traps]]'' • ''[[Fire gate]]'' • ''[[Fire lance]]'' • ''[[Fire stones]]'' • ''[[Fire storm]]'' • ''[[Flame dagger]]'' • ''[[Flash]]'' • ''[[Power word, sleep]]'' • ''[[Predict weather]]'' • ''[[Protection from acid]]'' • ''[[Protection from all elementals, 10' radius]]'' • ''[[Protection from all lycanthropes, 10' radius]]'' • ''[[Protection from all undead, 5' radius]]'' • ''[[Protection from any traps, 5' radius]]'' • ''[[Protection from breath weapon, dragon]]'' • ''[[Protection from breath weapon, non-dragon]]'' • ''[[Protection from cold, 15' radius]]'' • ''[[Protection from electricity, 10' radius]]'' • ''[[Protection from fire, 15' radius]]'' • ''[[Protection from gas, 5' radius]]'' • ''[[Protection from illusions]]'' • ''[[Protection from magic, 5' radius]]'' • ''[[Protection from magical traps, 5' radius]]'' • ''[[Protection from magical weapons]]'' • ''[[Protection from mechanical traps]]'' • ''[[Protection from normal weapons]]'' • ''[[Protection from paralyzation]]'' • ''[[Protection from petrification, 10' radius]]'' • ''[[Protection from plants, 10' radius]]'' • ''[[Protection from poison]]'' • ''[[Protection from possession, 10' radius]]'' • ''[[Protection from shapechangers, 10' radius]]'' • ''[[Protection from specific elementals, 10' radius]]'' • ''[[Protection from specific lycanthropes, 10' radius]]'' • ''[[Protection from specific undead, 5' radius]]'' • ''[[Protection from water]]'' • ''[[Regenerate]]'' • ''[[Resist energy drain]]'' • ''[[Restoration]]'' • ''[[Speak with dead]]'' • ''[[Spell immunity]]'' • ''[[Stone tell]]'' • ''[[Summon undead]]'' • ''[[Synostodweomer]]'' • ''[[Turn magic]]''"
-            },
-            "Miscellaneous": "{{Index \n|title = Professions\n|index = {{P|[[minstrel]]|23}}\n}}\n{{Index\n|title = Vessels\n|index = {{P|[[bireme]]|19}};{{P|[[trireme]]|19,59}}\n}}"
-        },
-        "Gallery": "<gallery>\nDreams of the Red Wizards Back Cover.jpg|Back Cover\n</gallery>",
-        "Credits": "* '''Editing:''' Karen S. Boomgarden\n* '''Cartography:''' Dave Sutherland\n* '''Interior Art:''' Valerie Valusek\n* '''Cover Art:''' Clyde Caldwell\n* '''Typography:''' Kim Janke\n* '''Keylining:''' Stephanie Tabat"
+        "mainbody": "reams of the Red Wizards is a 1-edition Advanced Dungeons & Dragons accessory that was set in the Forgotten Realms. \nDreams of the Red Wizards is a supplement that focuses on Thay, a nation ruled by evil wizards.\n* Introduction\n* History of Thay\n* People and Society of Thay\n* Geography of Thay\n* Current Economy of Thay\n* Current Politics of Thay\n* Magic of Thay\n* Religion of Thay\n* Personalities of Thay\n* Adventures in Thay\n* 33\" x 21\" map of East Faerûn from the Gray Forest to Rashemen down to Mulhorand and over to Reth, which includes Thay, Thesk, Aglarond and Altumbel\nSzass Tam • Alzegund the Trader • Ailoth • Naglatha • Lauzoril • Shazzelurt • Sabass of Thay • Gombdalla of Pyarados • Simbul • Bulzo Tarhair • Azhir Kren • Homen Odesseiron • Dickon Sharken • Constable Hargun Skullknuckle • Belanna Telmister\nSpells Assist • Aura fire • Beltens burning blood • Chant • Charm undead • Circle • Combust • Control winds • Deny cold • Detect charm • Detect poison • Dethos delirium • Find the path • Find traps • Fire gate • Fire lance • Fire stones • Fire storm • Flame dagger • Flash • Power word, sleep • Predict weather • Protection from acid • Protection from all elementals, 10 radius • Protection from all lycanthropes, 10 radius • Protection from all undead, 5 radius • Protection from any traps, 5 radius • Protection from breath weapon, dragon • Protection from breath weapon, non-dragon • Protection from cold, 15 radius • Protection from electricity, 10 radius • Protection from fire, 15 radius • Protection from gas, 5 radius • Protection from illusions • Protection from magic, 5 radius • Protection from magical traps, 5 radius • Protection from magical weapons • Protection from mechanical traps • Protection from normal weapons • Protection from paralyzation • Protection from petrification, 10 radius • Protection from plants, 10 radius • Protection from poison • Protection from possession, 10 radius • Protection from shapechangers, 10 radius • Protection from specific elementals, 10 radius • Protection from specific lycanthropes, 10 radius • Protection from specific undead, 5 radius • Protection from water • Regenerate • Resist energy drain • Restoration • Speak with dead • Spell immunity • Stone tell • Summon undead • Synostodweomer • Turn magic\nDreams of the Red Wizards Back Cover.jpg|Back Cover\n* Editing Karen S. Boomgarden\n* Cartography Dave Sutherland\n* Interior Art Valerie Valusek\n* Cover Art Clyde Caldwell\n* Typography Kim Janke\n* Keylining Stephanie Tabat"
     }
 }

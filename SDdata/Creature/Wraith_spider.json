@@ -1,39 +1,15 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption2": "Various depictions of wraith spiders",
-        "name": "Wraith Spider",
-        "othernames": "Wraith-Spider",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "",
-        "type3e": "[[Undead]]",
-        "subtype3e": "",
-        "alignment3e": "Always [[chaotic evil]]",
-        "challenge3e": "{{CR table|edition=3e|Small|{{Frac|1|2}}|Medium|1|Large|3|Huge|5|Gargantuan|9|Colossal|12}}",
-        "refs3e": "",
-        "size2e": "[[Medium]]",
-        "alignment2e": "[[Lawful evil]]",
+        "Medium|1|Large|3|Huge|5|Gargantuan|9|Colossal|12\n| refs3e": "",
+        "size2e": "Medium",
+        "alignment2e": "Lawful evil",
         "refs2e": "",
         "size1e": "",
         "alignment1e": "",
         "refs1e": "",
         "patron deity": "",
         "movement": "",
-        "vision": "[[Darkvision]], [[tremorsense]]",
+        "vision": "Darkvision, tremorsense",
         "activecycle": "Night",
         "diet": "",
         "lifespan": "",
@@ -58,12 +34,6 @@
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "A '''wraith spider''' was a type of [[undead]] [[giant spider]].",
-        "Description": "Appearing much like the monstrous spiders that they were in life, wraith spiders differed in a few noticeable ways. A wraith spider's eight eyes were nothing more than hollowed-out sockets and a shadowy aura emanated from the undead [[vermin]], congealing around the fangs as pure blackness.",
-        "Combat": "Wraith spiders attacked and hunted in the same manner as their living counterparts. However, their [[venom]] glands were replaced with strength-sapping and [[energy drain|life-draining]] [[negative energy]].\n\nAlthough they could not spin webs in undeath, wraith spiders still possessed the heightened sensitivity to vibrations and tremors that most spiders had.",
-        "Ecology": {
-            "Habitat": "Wraith spiders were known to haunt the swamps of the [[Lizard Marsh]] on the [[Sword Coast]]."
-        },
-        "History": "[[File:Wraith spider nwn.jpg|thumb|''A translucent wraith spider.''|250x250px]]\nDuring the [[Silence of Lolth]] in [[1372 DR]], cultists of the [[drow]] [[deity]] [[Kiaransalee]] transformed many of the spiders living in settlements such as [[Maerimydra]] and [[Szith Morcane]] into wraith spiders as twisted mockeries of [[Lolth|Lolth's]] sacred creatures."
+        "mainbody": "A wraith spider was a type of undead giant spider. \nAppearing much like the monstrous spiders that they were in life, wraith spiders differed in a few noticeable ways. A wraith spiders eight eyes were nothing more than hollowed-out sockets and a shadowy aura emanated from the undead vermin, congealing around the fangs as pure blackness.\nWraith spiders attacked and hunted in the same manner as their living counterparts. However, their venom glands were replaced with strength-sapping and life-draining negative energy.\nAlthough they could not spin webs in undeath, wraith spiders still possessed the heightened sensitivity to vibrations and tremors that most spiders had.\nThey were formed from the husks of giant spiders and animated as an undead by malevolent spirits from the domain of Kiaransalee.\nWraith spiders were known to haunt the swamps of the Lizard Marsh on the Sword Coast.\nthumb|A translucent wraith spider.|250x250px\nDuring the Silence of Lolth in 1372 DR, cultists of the drow deity Kiaransalee transformed many of the spiders living in settlements such as Maerimydra and Szith Morcane into wraith spiders as twisted mockeries of Lolths sacred creatures."
     }
 }

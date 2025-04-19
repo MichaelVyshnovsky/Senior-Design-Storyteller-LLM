@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "0.1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Potion of aid.gif",
-        "caption": "",
-        "name": "''Potion of Aid''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Potion]]",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|0.1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Potions of aid''''' were fairly common [[potion]]s that were often used to heal mental and physical pain.",
-        "Powers": "The effect of the ''potion of aid'' was similar to that of the ''[[aid]]'' spell. The potion granted a health boost and heightened morale to its imbiber.",
-        "History": "''Potion of aid'' came into popularity during the [[Time of Troubles]], commonly created by priests to ease the pain, both physical and mental, and hinder the sense of fear from cowards, making them into heroes. By the second half of the 14{{th}} century, the ''potions of aid'' were a common commodity often sold by arcane, general, and temples' vendors."
+        "mainbody": "Potions of aid were fairly common potions that were often used to heal mental and physical pain.\nThe effect of the potion of aid was similar to that of the aid spell. The potion granted a health boost and heightened morale to its imbiber.\nPotion of aid came into popularity during the Time of Troubles, commonly created by priests to ease the pain, both physical and mental, and hinder the sense of fear from cowards, making them into heroes. By the second half of the 14 century, the potions of aid were a common commodity often sold by arcane, general, and temples vendors."
     }
 }

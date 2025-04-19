@@ -1,29 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Horrible Taste",
-        "deity": "[[Chauntea]]",
-        "inventor": "[[Bryn Kernwyld]]",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Druid]]|1|[[Initiate of the Holy Realm]]|1|[[Ranger]]|1|}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -37,9 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Horrible taste''''' was a type of [[transmutation]] [[spell]].",
-        "Effects": "When cast, this spell changed the caster's flesh in such a way that it became inedible. As a result, if the caster was bit while this spell was in effect, the attacking creature was struck with overwhelming nausea. However, this spell was useless against creatures who possessed a natural immunity to poison.",
-        "Components": "This spell required [[Verbal component|verbal]] and [[somatic component|somatic]] components.",
-        "History": "Horrible taste was one of four original spells created by the Chauntean druid [[Bryn Kernwyld]], and published in the book ''[[Earthmother's Weapons]]''. While the precise creation date of the spell was unknown, sages agreed that it was likely anterior to 1000 [[DR]]. The spell was devised by Byrn to help her brethren during the wars which opposed the forces of [[Malar]] and [[Bhaal]] and the civilized people of the [[Moonshae Isles]]. It proved a great help to minimize the damage wars caused to the surrounding nature.{{Cite web/Earthmother's Weapons}}\n\nAfter its creation, knowledge of this spell was passed down between druids by oral tradition, while the actual tome was kept safe by senior members of their order.\n\nLong after its creation, Bryn's book found itself in the hands of a Malarite druid going by the name of [[Galast]]. Ignoring the origin of the book, Galast learnt and used the spells described therein. His deity, considering the spells useful, granted him access to these spells."
+        "mainbody": "Horrible taste was a type of transmutation spell.\nWhen cast, this spell changed the casters flesh in such a way that it became inedible. As a result, if the caster was bit while this spell was in effect, the attacking creature was struck with overwhelming nausea. However, this spell was useless against creatures who possessed a natural immunity to poison.\nThis spell required verbal and somatic components.\nHorrible taste was one of four original spells created by the Chauntean druid Bryn Kernwyld, and published in the book Earthmothers Weapons. While the precise creation date of the spell was unknown, sages agreed that it was likely anterior to 1000 DR. The spell was devised by Byrn to help her brethren during the wars which opposed the forces of Malar and Bhaal and the civilized people of the Moonshae Isles. It proved a great help to minimize the damage wars caused to the surrounding nature.\nAfter its creation, knowledge of this spell was passed down between druids by oral tradition, while the actual tome was kept safe by senior members of their order.\nLong after its creation, Bryns book found itself in the hands of a Malarite druid going by the name of Galast. Ignoring the origin of the book, Galast learnt and used the spells described therein. His deity, considering the spells useful, granted him access to these spells."
     }
 }

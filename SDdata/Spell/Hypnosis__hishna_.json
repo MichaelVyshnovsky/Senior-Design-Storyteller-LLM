@@ -1,23 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Hypnosis",
-        "deity": "[[Zaltec]]",
-        "domains": "",
-        "inventor": "",
-        "reversible2e": "",
-        "school2e": "[[Hishna]], [[Enchantment/Charm]]",
-        "spheres2e": "[[Hishna]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|2|[[Hishnashaper]]|2|[[Jaguar Knight]]|2}}",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''''Hypnosis''''' was a spell unique to [[Maztica]]. The spell allowed a caster to charm an individual.",
-        "Effects": "This spell was nearly identical to the ''[[charm person]]'' spell used in [[Faerûn]]. The main difference was both the caster and the targeted individual had to focus on one another for several minutes for the spell to be effective. If the caster failed to cast the spell, the targeted individual would be unaware an attempt to charm them had even occurred. The spell was able to charm semi-sentient and sentient creatures.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, the spell required a [[material component]]."
+        "mainbody": "Hypnosis was a spell unique to Maztica. The spell allowed a caster to charm an individual.\nThis spell was nearly identical to the charm person spell used in Faerûn. The main difference was both the caster and the targeted individual had to focus on one another for several minutes for the spell to be effective. If the caster failed to cast the spell, the targeted individual would be unaware an attempt to charm them had even occurred. The spell was able to charm semi-sentient and sentient creatures.\nIn addition to verbal and somatic components, the spell required a material component."
     }
 }

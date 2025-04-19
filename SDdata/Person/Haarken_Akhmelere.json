@@ -1,26 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "edition_1": "3e"
-    },
     "document_data": {
-        "image": "Blackwill Akhmelere.png",
-        "caption": "Blackwill Akhmelere and his faithful.",
-        "name": "Haarken Akhmelere",
-        "alt_spelling": "",
-        "titles": "Blackwill<br />Watchful Skull",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Twin Towers of the Eternal Eclipse]], [[Amn]]",
-        "formerhomes": "[[Darromar|Ithmong]], [[Tethyr]]",
-        "sex": "Male",
-        "gender": "",
-        "race": "[[Human]]",
-        "ethnicity": "",
-        "occupation": "High Priest",
-        "age": "",
-        "patron deity": "[[Cyric]]<br />{{Former}} [[Bane]]",
         "languages": "",
         "basicrefs": "",
         "reckoning": "",
@@ -47,12 +26,12 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Chaotic evil]]",
-        "class2e": "{{class table|edition=2e|[[Cleric]] of [[Cyric]]|11}}",
+        "alignment2e": "Chaotic evil",
+        "class2e": "",
         "refs2e": "",
-        "alignment3e": "[[Neutral evil]]",
+        "alignment3e": "Neutral evil",
         "challenge3e": "13",
-        "class3e": "{{class table|edition=3e|[[Cleric]] of [[Cyric]]|13}}",
+        "class3e": "",
         "refs3e": "",
         "alignment35": "",
         "challenge35": "",
@@ -65,12 +44,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "Blackwill '''Haaren Akhmelere''' was the [[Cyricist]] high priest of the [[Twin Towers of the Eternal Eclipse]] in [[Amn]] during the latter half of the 14{{th}} century [[DR]].",
-        "Personality": "From his time spent in the [[Banite]] clergy, Akhmelere acquired a certain level of discipline and focus that was not shared by all his fellow priests of [[Cyric]]. He was a ruthless leader that viewed himself as the one true power of [[Church of Cyric|Cyric's church]] in all of Amn and the surrounding lands.",
-        "Abilities": "He was a powerful spellcaster that held the power to commit terrible ''[[blasphemy|blasphemous deeds]]'' and ''[[destruction|utterly destroy]]'' other living beings with his [[divine magic|divine powers]].",
-        "Possessions": "Akhmelere wore an [[Item enchantment|enchanted]] suit of [[full plate]] armor, and carried a similarly magical [[longsword]] and large [[steel]] [[shield]] into battle. He wore both an ''[[amulet of natural armor]]'', a ''[[periapt of wisdom]]'', and carried a ''[[wand of cure light wounds]]'' upon his person, along with a number of priestly [[scroll]]s.",
-        "Activities": "While Haarken once devoted himself to the god [[Bane]], he converted to the worship of [[Cyric]] like so many others following the [[Time of Troubles]]. After finding the One True Way, he sought to annihilate the other \"heretical\" temples of Cyric in the [[Lands of Intrigue]], and join them under his singular vision.",
-        "Relationships": "Akhelere had a close ally and companion in faith in [[Tellvon Bloodshoulder]], the founder of the Amnian Banedeath. The two spent their time spreading the faith of Cyric until they embarked on one final campaign together, wherein Haarken ascended as a high priest and Tellvon lost his life.\n\nHe had a treacherous right-hand in [[Olma Kulenov]],\n\nThe Blackwill held a particular enmity for [[Tynnos Argrim]], and the rival temple the [[Mountain of Skulls]] in the [[Cloud Peaks]].",
-        "History": "Haarken was born to the noble [[Akhmelere]] family of [[Tethyr]] but relocated to Amn at some point, joining the [[church of Bane]]. He found little sucess as a Banite priest, and enthusiastically joined the Cyricist faith in the {{YearlinkName|1358}}. It was then that he began to enjoyed success for the first time.\n\nIn the {{YearlinkName|1362}}, Akhelmere and Tellvon Bloodshoulder served as generals in battle against [[Bane's Black Hands]] at the recently-constructed Twin Towers in the [[Small Teeth]]. While the two priests managed to secure the eastern tower in Cyric's name, Tellvon was mysteriously killed in the siege. Akhelmere went to capture the west tower and secured the fortress in its entirety, claiming it for his own sect of Amnian Cyricism. No other leaders of the Cyricist army survived to challenge him.\n\nWhen the [[Sothillisian War]] broke out in Amn in the {{YearlinkName|1370}}, Akhelmere aligned his temple with the [[Sothilisian Empire]], even going so far to avail the [[oni mage|oni]]-led armies with Cyricist faithful during the siege of [[Murann]] in the month of [[Tarsakh]]. While this plan was not entirely successful, the fear and mistrust it spread across Amn pleased Cyric.\n\nWhen the [[Rage of Dragons]] wreaked havoc across the Realms in the {{YearlinkName|1373}}, the Amnian church of Cyric received a devastating blow. During the series of catastrophic [[dragon]] attacks, the Twin Towers were nearly entirely destroyed by the [[blue dragon|blue]] [[great wyrm]] [[Iryklathagra]]. Fortunately, Blackwill Akhmelere recovered the [[Calimshan|Calishite]] artifact known as the ''[[Golden Lamp of Samesaj]]'', and used it to repair Cyric's greatest temple to its full glory. In the eyes of the faith, any record of an offense to Cyric was stricken from the records of history."
+        "mainbody": "Blackwill Haaren Akhmelere was the Cyricist high priest of the Twin Towers of the Eternal Eclipse in Amn during the latter half of the 14 century DR.\nFrom his time spent in the Banite clergy, Akhmelere acquired a certain level of discipline and focus that was not shared by all his fellow priests of Cyric. He was a ruthless leader that viewed himself as the one true power of Cyrics church in all of Amn and the surrounding lands.\nHe was a powerful spellcaster that held the power to commit terrible blasphemous deeds and utterly destroy other living beings with his divine powers.\nAkhmelere wore an enchanted suit of full plate armor, and carried a similarly magical longsword and large steel shield into battle. He wore both an amulet of natural armor, a periapt of wisdom, and carried a wand of cure light wounds upon his person, along with a number of priestly scrolls.\nWhile Haarken once devoted himself to the god Bane, he converted to the worship of Cyric like so many others following the Time of Troubles. After finding the One True Way, he sought to annihilate the other \"heretical\" temples of Cyric in the Lands of Intrigue, and join them under his singular vision.\nAkhelere had a close ally and companion in faith in Tellvon Bloodshoulder, the founder of the Amnian Banedeath. The two spent their time spreading the faith of Cyric until they embarked on one final campaign together, wherein Haarken ascended as a high priest and Tellvon lost his life.\nHe had a treacherous right-hand in Olma Kulenov,\nThe Blackwill held a particular enmity for Tynnos Argrim, and the rival temple the Mountain of Skulls in the Cloud Peaks.\nHaarken was born to the noble Akhmelere family of Tethyr but relocated to Amn at some point, joining the church of Bane. He found little sucess as a Banite priest, and enthusiastically joined the Cyricist faith in the . It was then that he began to enjoyed success for the first time.\nIn the , Akhelmere and Tellvon Bloodshoulder served as generals in battle against Banes Black Hands at the recently-constructed Twin Towers in the Small Teeth. While the two priests managed to secure the eastern tower in Cyrics name, Tellvon was mysteriously killed in the siege. Akhelmere went to capture the west tower and secured the fortress in its entirety, claiming it for his own sect of Amnian Cyricism. No other leaders of the Cyricist army survived to challenge him.\nWhen the Sothillisian War broke out in Amn in the , Akhelmere aligned his temple with the Sothilisian Empire, even going so far to avail the oni-led armies with Cyricist faithful during the siege of Murann in the month of Tarsakh. While this plan was not entirely successful, the fear and mistrust it spread across Amn pleased Cyric.\nWhen the Rage of Dragons wreaked havoc across the Realms in the , the Amnian church of Cyric received a devastating blow. During the series of catastrophic dragon attacks, the Twin Towers were nearly entirely destroyed by the blue great wyrm Iryklathagra. Fortunately, Blackwill Akhmelere recovered the Calishite artifact known as the Golden Lamp of Samesaj, and used it to repair Cyrics greatest temple to its full glory. In the eyes of the faith, any record of an offense to Cyric was stricken from the records of history."
     }
 }

@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Nymph's Aura",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[High Magic]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|8}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Nymph's aura''''' was an [[elven High Magic]] [[wizard]] [[spell]].",
-        "Effects": "The spell granted the supernatural beauty of a [[nymph]] to the caster. Anyone who looked upon the caster while the spell was active risked being blinded, and looking upon the caster while they were naked could result in death. This spell worked on both male and female [[elven]] casters. Additionally, the gender of the onlookers did not matter with regards to the spell effects.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, this spell required as a [[material component]] a vial of nymph's tears to cast."
+        "mainbody": "Nymphs aura was an elven High Magic wizard spell.\nThe spell granted the supernatural beauty of a nymph to the caster. Anyone who looked upon the caster while the spell was active risked being blinded, and looking upon the caster while they were naked could result in death. This spell worked on both male and female elven casters. Additionally, the gender of the onlookers did not matter with regards to the spell effects.\nIn addition to verbal and somatic components, this spell required as a material component a vial of nymphs tears to cast."
     }
 }

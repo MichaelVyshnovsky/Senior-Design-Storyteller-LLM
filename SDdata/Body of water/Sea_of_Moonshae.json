@@ -1,26 +1,11 @@
 {
-    "template_data": {
-        "100|mi|k|long": "yes",
-        "150|mi|k|long": "yes",
-        "250|mi|k|long": "yes",
-        "100|mi|k|long_1": "yes",
-        "150|mi|k|long_1": "yes",
-        "250|mi|k|long_1": "yes"
-    },
     "document_data": {
-        "image": "Northern Moonshaes.jpg",
-        "caption": "A map showing the Moonshae Isles surrounding the Sea of Moonshae.",
-        "name": "Sea of Moonshae",
-        "aliases": "",
-        "type": "Sea",
-        "region": "the [[Moonshae Isles]], the [[Sea of Swords]]",
-        "size": "{{SI|100|mi|k|long=yes}}–{{SI|150|mi|k|long=yes}} wide by {{SI|250|mi|k|long=yes}} long",
         "depth": "",
         "river source": "",
         "river mouth": "",
         "tributaries": "",
         "tributary of": "",
-        "georefs": "<ref name=PoM.M\">",
+        "georefs": "",
         "races": "",
         "socrefs": "",
         "usethe": "yes",
@@ -33,8 +18,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "The '''Sea of Moonshae''' was the part of the [[Sea of Swords]] that was surrounded by the collective islands of the [[Moonshae Isles]].{{Cite dungeon/196/Backdrop: The Moonshae Isles}}{{Cite web/Map of Faerûn 5th edition}}",
-        "Geography": "The Sea of Moonshae was surrounded by the [[Norheim Isles]] to the north, [[Gnarhelm]] and [[Alaron]] to the east, [[Oman]] and [[Gwynneth]] to the south, [[Moray]] to the southwest, and [[Norland]] to the west. The sea was approximately {{SI|100|mi|k|long=yes}}–{{SI|150|mi|k|long=yes}} wide from east to west, and {{SI|250|mi|k|long=yes}} in length from north to south.",
-        "Notable Locations": "* [[Kressilacc]]\n* [[Strait of Oman]]\n* [[Strait of the Leviathan]]\n* [[Northwind Strait]]\n* [[Trackless Strait]]"
+        "mainbody": "The Sea of Moonshae was the part of the Sea of Swords that was surrounded by the collective islands of the Moonshae Isles.\nThe Sea of Moonshae was surrounded by the Norheim Isles to the north, Gnarhelm and Alaron to the east, Oman and Gwynneth to the south, Moray to the southwest, and Norland to the west. The sea was approximately – wide from east to west, and  in length from north to south.\n* Kressilacc\n* Strait of Oman\n* Strait of the Leviathan\n* Northwind Strait\n* Trackless Strait"
     }
 }

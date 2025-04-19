@@ -1,31 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Peasant Blade.png",
-        "caption": "",
-        "name": "''Peasant Blade''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Kama]]",
-        "creator": "",
-        "origin": "",
-        "location": "[[Neverwinter]], [[Sword Coast North]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+3",
-        "value3e": "",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -42,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Peasant Blades''''' were [[enchanted]] [[kama]] created to be used as weapons rather than tools of the trade.",
-        "Powers": "''Peasant Blade'' was enhanced with a simple ''+3'' enchantment that made its slashes harmful even to creatures unaffected by mundane weapons and guided the wielder's hand towards the target. Additionally, the weapon significantly boosted the wielder's constitution.",
-        "History": "Unsurprisingly, ''Peasant Blades'' were once tools used by peasants in the fields, later adapted to be used in battle because they were forbidden from wielding [[sword]]s. By the late 14{{th}} century DR, some of these enchanted kama or copies made from the original, were found in the city of [[Neverwinter]] and nearby lands."
+        "mainbody": "Peasant Blades were enchanted kama created to be used as weapons rather than tools of the trade.\nPeasant Blade was enhanced with a simple +3 enchantment that made its slashes harmful even to creatures unaffected by mundane weapons and guided the wielders hand towards the target. Additionally, the weapon significantly boosted the wielders constitution.\nUnsurprisingly, Peasant Blades were once tools used by peasants in the fields, later adapted to be used in battle because they were forbidden from wielding swords. By the late 14 century DR, some of these enchanted kama or copies made from the original, were found in the city of Neverwinter and nearby lands."
     }
 }

@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Conceal Item",
-        "othernames": "",
-        "deity": "[[Loth]], [[Vhaeraun]]",
-        "inventor": "[[Church of Lolth]]",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Illusion/Phantasm]]",
-        "spheres2e": "[[Protection sphere|Protection]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|3|[[Protection sphere|Protection]]|3}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -45,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Conceal item''''' was a spell used by [[Church of Lolth|Lolthites]] and [[Church of Vhaeraun|Vhaeraunan priests]].",
-        "Effects": "When cast, this spell made it so a targeted item was totally undetectable. The spell also concealed all auras, including alignment and magical auras. If the ''[[true seeing]]'' spell was cast on the item, only a white fog would show. The item in question had to be a non-living object smaller than the caster's total mass. The effect only lasted as long as the caster maintained physical contact with the enchanted item. If the spell was cast on a holy object, the duration of the spell was greatly increased.\n\nThe spell was developed by the [[Church of Lolth]] but is most frequently used by worshipers of [[Vhaeraun]], who used the spell to conceal magical items, holy symbols and weapons.",
-        "Components": "In addition to [[Somatic component|somatic]] and [[Verbal component|verbal]] components, the spell required a [[material component]], a small amount of [[gem]] dust. To save on costs, casters frequently ground up cheaper gems such as [[quartz]]."
+        "mainbody": "Conceal item was a spell used by Lolthites and Vhaeraunan priests.\nWhen cast, this spell made it so a targeted item was totally undetectable. The spell also concealed all auras, including alignment and magical auras. If the true seeing spell was cast on the item, only a white fog would show. The item in question had to be a non-living object smaller than the casters total mass. The effect only lasted as long as the caster maintained physical contact with the enchanted item. If the spell was cast on a holy object, the duration of the spell was greatly increased.\nThe spell was developed by the Church of Lolth but is most frequently used by worshipers of Vhaeraun, who used the spell to conceal magical items, holy symbols and weapons. \nIn addition to somatic and verbal components, the spell required a material component, a small amount of gem dust. To save on costs, casters frequently ground up cheaper gems such as quartz."
     }
 }

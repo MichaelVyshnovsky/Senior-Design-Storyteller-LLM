@@ -1,22 +1,5 @@
 {
-    "template_data": {
-        "edition": "5e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Sickening Radiance",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Evocation]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "{{Spell table|edition=5e|[[Sorcerer]]|4|[[Warlock]]|4|[[Wizard]]|4}}",
         "type5e": "",
         "refs5e": "",
         "feature4e": "",
@@ -43,8 +26,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Sickening radiance''''' was an [[evocation]] [[spell]] that filled an area with a searing light that drained the stamina of any creature standing within.",
-        "Effects": "The spell illuminated a {{SIAdj|30|ft}}-radius sphere centered at a visible point within a {{SIAdj|120|ft}} range with a dim green light that lasted up to 10 minutes, as long as the caster kept concentrating. The light caused every creature within to shine in that same green light, revealing [[invisibility|invisible]] creatures. Anyone caught in the light who was unable to resist the spell's effect suffered burns from the light and grew increasingly tired as long as they remained within. These effects lasted until the spell ended.",
-        "Components": "The spell required only [[Verbal component|verbal]] and [[somatic component]]s."
+        "mainbody": "Sickening radiance was an evocation spell that filled an area with a searing light that drained the stamina of any creature standing within.\nThe spell illuminated a -radius sphere centered at a visible point within a  range with a dim green light that lasted up to 10 minutes, as long as the caster kept concentrating. The light caused every creature within to shine in that same green light, revealing invisible creatures. Anyone caught in the light who was unable to resist the spells effect suffered burns from the light and grew increasingly tired as long as they remained within. These effects lasted until the spell ended.\nThe spell required only verbal and somatic components."
     }
 }

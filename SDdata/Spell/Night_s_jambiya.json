@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Night's jambiya",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Illusion]], [[Universal (province)|Universal]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|3}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Night's jambiya''''' was a [[spell]] unique to [[Zakhara]], the Land of Fate.",
-        "Effects": "This spell cloaked a [[jambiya]], or any other form of dagger, in a shroud of impenetrable shadow. The weapon was concealed though a darkened area could still be seen. If thrown, the jambiya was nearly impossible to dodge. Once the spell was cast the jambiya needed to be thrown within one minute or the spell would fade away. A wizard could cast this spell on a dagger and then hand it to someone else to throw, but they still needed to throw the weapon before the spell ran out. The jambiya could not be used in melee combat while the spell was active.",
-        "Components": "This spell required any form of dagger to cast."
+        "mainbody": "Nights jambiya was a spell unique to Zakhara, the Land of Fate.\nThis spell cloaked a jambiya, or any other form of dagger, in a shroud of impenetrable shadow. The weapon was concealed though a darkened area could still be seen. If thrown, the jambiya was nearly impossible to dodge. Once the spell was cast the jambiya needed to be thrown within one minute or the spell would fade away. A wizard could cast this spell on a dagger and then hand it to someone else to throw, but they still needed to throw the weapon before the spell ran out. The jambiya could not be used in melee combat while the spell was active.\nThis spell required any form of dagger to cast."
     }
 }

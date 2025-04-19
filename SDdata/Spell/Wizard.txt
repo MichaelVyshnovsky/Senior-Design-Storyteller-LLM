@@ -1,198 +1,44 @@
-{{Class
-| image           = <gallery>
-Wizard-2024.jpg|5Re
-Wizard PHB5e.jpg|5e
-4e wizard.jpg|4e
-wizard 3e.jpg|3e
-Magic-user.png|1e
-Icewind dale elf wizard.jpg|IWD
-</gallery>
-| caption2        = Various depictions of wizards.
-| name            = Wizard
-| othernames      = Mage, Magic-User
-| abbr            = Wiz, W
-| symbol          = Wiz symbol.png
-| affiliation     = 
-| region          = 
-| type5e          = Base Class
-| subclass-of5e   = 
-| subclasses5e    = [[Abjurer|Abjuration]]<br />[[Bladesinger|Bladesinging]]<br />[[Conjurer|Conjuration]]<br />[[Diviner|Divination]]<br />[[Enchanter|Enchantment]]<br />[[Evoker|Evocation]]<br />[[Illusionist|Illusion]]<br />[[Necromancer|Necromancy]]<br />[[Transmuter|Transmutation]]<br />[[War mage|War magic]]
-| subclasstype5e  = Arcane Traditions
-| weapons5e       = [[Dagger]]s<br />[[Dart]]s<br />[[Sling]]s<br />[[Quarterstaff]]s<br />[[Light crossbow]]s
-| armor5e         = 
-| tools5e         = 
-| languages5e     = 
-| magictype5e     = [[Arcane magic|Arcane]]
-| spellprep5e     = Prepared
-| race5e          = 
-| multiclassreq5e = 
-| otherprereqs5e  = 
-| refs5e          = 
-| type4e          = Base Class
-| role4e          = Controller
-| power4e         = [[Arcane magic|Arcane]]
-| paragon-of4e    = 
-| paragons4e      = [[Battle mage]]
-| weapons4e       = [[Dagger]]s<br />[[Quarterstaff]]s
-| armor4e         = [[Cloth armor]]
-| implements4e    = [[Orb]]s, [[Staff]]s, [[Wand]]s
-| refs4e          = 
-| type3e          = Base Class
-| variant-of3e    = 
-| variants3e      = [[Abjurer]]<br />[[Conjurer]]<br />[[Diviner]]<br />[[Enchanter]]<br />[[Evoker]]<br />[[Illusionist]]<br />[[Necromancer]]<br />[[Transmuter]]
-| weapons3e       = [[Club]]s<br />[[Dagger]]s<br />[[Quarterstaff]]s<br />[[Crossbow]]s
-| armor3e         = 
-| languages3e     = [[Draconic language|Draconic]]
-| magictype3e     = [[Arcane magic|Arcane]]
-| spellprep3e     = Prepared
-| alignment3e     = 
-| race3e          = 
-| sex3e           = 
-| deity3e         = 
-| otherprereqs3e  = 
-| refs3e          = 
-| type2e          = Mage Class
-| variant-of2e    = 
-| variants2e      = [[Abjurer]]<br />[[Conjurer]]<br />[[Diviner]]<br />[[Enchanter]]<br />[[Evoker]]<br />[[Illusionist]]<br />[[Necromancer]]<br />[[Transmuter]]
-| kit-for2e       = 
-| kits2e          = 
-| alignment2e     = 
-| race2e          = 
-| sex2e           = 
-| deity2e         = 
-| otherprereqs2e  = 
-| refs2e          = 
-| type1e          = Base Class
-| subclass-of1e   = 
-| subclasses1e    = [[Illusionist]]<br />[[Wu jen]]
-| alignment1e     = 
-| race1e          = 
-| refs1e          = 
-| spelllist       = yes
-}}
-<gallery  widths=270px type=slideshow position=left''>
-Image:Wizard BGIII.png|''5e symbol of the wizard.''
-Image:Wizard Icon.png|''4e symbol of the wizard.''
-</gallery>
-
-'''Wizards''' were [[arcane spellcaster|arcane spellcasters]] that learned to practice [[the Art]] through research and learning. commanding fire and lightning as easily as others wielded sword and shield. They could learn and perform intricate [[ritual]]s of arcane power that drew in entities from across the [[multiverse]] or peer into future potentialities that have not yet come to pass.
-
-{{Quote|Know this, mageling, and know it well: there is no greater fool than a wizard. The greater the mage, the greater the fool, because we who work magic live in a world of dreams, and chase dreams...and in the end, dreams undo us.|Excerpt from ''[[Words to Would-Be Apprentices]]'', by [[Khelben Arunsun]].}}
-
-==Culture==
-{{Quote|In my experience, the moment they leave their libraries, wizards have the life expectancy of a gnome in a war. Either the enemy recognises they are a threat, and kills them swiftly, or their curiosity leads them to combust while experimenting with the limits of magic.|[[Minthara Baenre]]}}<br/>
-Wizards were generally the best-respected of all arcane spellcasters. They usually maintained a measure of discipline that was uncommon among [[sorcerer]]s or [[warlock]]s, whose very nature made them comparatively unruly. Not all wizards were deserving of this reputation however, and wizards were corrupted by their power or otherwise turned to evil ways.
-
-Prior to the [[Era of Upheaval]], wizards as a whole were associated with [[Mystra]], Goddess of Magic and manifestation of The Weave. That closely held association was altered for a time following Mystra's death during the [[Spellplague]]. [[Shar]], Goddess of Darkness orchestrated Mystra's death and attempted to supplant her arcane plexus with the [[Shadow Weave]], but was ultimately unsuccessful. During the [[Second Sundering]], both Mystra and the Weave returned to [[Toril]], and the relationship between them and arcane practitioners was restored.
-
-==Abilities==
-[[File:Wizard_Class.jpg|thumb|left|150px|''The mark of a wizard.'']]
-Wizards had access to a wide variety of [[spell]]s available to them, fueled by the arcane energy of the Weave. They learned new spells by reading over and in some cases even building upon the arcane research of others.
-
-They were also skilled in the use of [[ritual]]s, powerful spells that require a significant amount of time and energy to cast. Like other spells, wizards kept inscribed the specifications rituals written within their [[spellbook]], where each ritual took up at least a page, with complexity and page length directly proportional to the power inherent in a ritual. 
-
-===Spellbook===
-{{Fq|text=Wizards? Oh, they're brave enough with all their spells, staves, rings, and gewgaws, and dragons or worse bowing at their command. If you can take those away, though, what is left? A weakling with dandy's robes and one small dagger, likely as not—and he'll be a sniveling coward, to boot!|source=[[Dathlyr Greybold|Dathlyr "The Hammer" Greybold]], ''My Adventures in the Realms, Volume I''{{Cite dragon/272/The New Adventures of Volo: Quotations of the Realms|96}}}}
-One point that marked wizards as different from other arcane spellcasters was their reliance upon their arcane spellbook. In order to [[Wizards#Spell Preparation and Casting|cast most spells]], wizards studied their spellbook before they planned to rest, sleep, Once their spells were prepared, wizards could access and cast them to the extents their mental capacity would allow. 
-
-Wizards were entirely dependent upon their spellbooks to prepare new spells each day, and could barely tap into the Weave without them. The only spells that wizards could cast without preparation were simple [[cantrip]]s.
-
-===Implements===
-When casting spells, wizards often used [[arcane focus|arcane foci]], or [[implements]], such as [[staff]]s, [[orb]]s, or [[wand]]s. These implements concentrated the arcane power in a spell, increasing its effectiveness. All wizards had a degree of specialization in implements, preferring one kind over another. Some took a liking to orbs, which they used to increase the duration of their spells' effects. Others preferred using wands to enhance their accuracy or staves to defend themselves. The most basic spells available to wizards were known as [[cantrip]]s and required little skill on the part of the wizard in order for them to be cast. Such spells were typically small tricks of magic such as creating a light source, a sound, or moving a small object telekinetically.
-
-===Familiars===
-{{Fq|text=How is a [[devil]] like a wizard? Both bleed until they don’t.|source=[[Azuth]] god of wizards}}
-
-A [[familiar]] was a normal animal that gained new powers and became a magical beast when summoned to service by a wizard or a [[sorcerer]]. Each wizard shared an empathic bond with their familiar and could even channel the casting of certain spells through them. Many types of animals could be called upon as familiars, from everyday [[cat]]s and [[raven]]s, to more exotic species such as [[beguiler]]s and [[starsnake]]s.
-
-===Learning the Art===
-Mastering, and even learning the basics of the Art was a long and arduous process. The most straightforward method was apprenticeship under experienced mages. However, it was not an easy task. It required thoroughly learning and using spells starting from the most basic spells of everyday utility, such as ''[[mending]]'' or ''[[message]]''. Adventurers and other thrill and fortune seekers trained in the Art by successfully reading out [[spell scroll]]s or by methodically learning, copying, and replicating arcane writings, all the time slowly improving their experience. Lastly, learning the Art was accessible through natural-born strong "wild talent" or a "Gift" that aided mages-to-be in the learning process.{{Cite web/theedverse/2022-11-01 - Mastering the Art}}
-
-Youths of humble means rarely became wizards as the learning the Art was an expensive aspiration. This one of the reasons why wizardly profession was so scarce in the Realms. Those of talents and luck became apprentices, or drudges to mages, while those in the Forest Kingdom of Cormyr tried to demonstrate their "Gift" to the infamous [[Wizards of War]] or another well-known arcane organization. An alternative to service to apprenticeship were the Harpers who covertly scouted the Realms for goodly youths with the "wild talent".{{Cite web/theedverse/2022-11-02 - Potential Young Mages}}
-
-==Spell Preparation and Casting==
-{{Fq|width=310px|text=The funniest thing I've ever seen? A confused wizard, of course. They just can't seem to believe it when spells go wrong or the world rises up and slaps them in the face at the height of their grandeur. It's like the puzzled look a rooster gets after he sits down and falls asleep on a discarded egg, then wakes up and discovers it. He walks around and around it, wondering if he laid it, somehow, when he was asleep. Half of him wants to run away and deny he was ever near the spot, while the other half wants to jump up and down and call to the world, "Hearken to me!" Oh, it's pitiful.|source=[[Ammathair Hawkfeather]], Great Sage of Waterdeep, ''The Sharp Eye and Sharper Tongue: Observations of a Learned Sage''{{Cite dragon/272/The New Adventures of Volo: Quotations of the Realms|96}}}}
-{{Quote|A mage of your potential has no business drinking anything so [[Elverquisst|powerful]]. Magic demands keen wits and a clear mind. Or have you forgotten what happened last time you imbibed too freely? I hear that the butler at the [[Stalwarts' Club]] still resembles something from the [[Abyss]]&hellip;.|[[Khelben Arunsun]] to [[Danilo Thann]].}}<br/>
-Wizards cast their spells by using their acquired magical knowledge and experience. In particular, they learned most new spells by seeking out magical writings and copying them into their [[spellbook]]s. Unlike [[bard]]s or sorcerers, the wizardly method allowed them to master any number of permissible spells once they find them, assembling a broad and versatile arsenal of power. Many wizards saw themselves not only as spell casters but as philosophers, inventors, and scientists, studying a system of natural laws that are for the most part unknown and undiscovered. 
-
-Resting: Wizards were forced to rest prior to spell casting, by getting uninterrupted hours of restful sleep or meditation.
-
-Preparing: In order to prepare spells from their spellbooks, wizards needed comfortable quiet areas to study. The spell was read, spoken, or memorized up until the trigger.
-
-==Arcane Traditions==
-[[File:Apprentice.jpeg|thumb|281x281px|A wizard still in his apprentice stage.]]
-During their studies, wizards chose arcane traditions to follow, most often preferring to focus upon a single [[school of magic]].
-
-===School Specialization===
-{{main|Schools of Magic}}
+ImageWizard BGIII.png|5e symbol of the wizard.
+ImageWizard Icon.png|4e symbol of the wizard.
+Wizards were arcane spellcasters that learned to practice the Art through research and learning. commanding fire and lightning as easily as others wielded sword and shield. They could learn and perform intricate rituals of arcane power that drew in entities from across the multiverse or peer into future potentialities that have not yet come to pass.
+Wizards were generally the best-respected of all arcane spellcasters. They usually maintained a measure of discipline that was uncommon among sorcerers or warlocks, whose very nature made them comparatively unruly. Not all wizards were deserving of this reputation however, and wizards were corrupted by their power or otherwise turned to evil ways.
+Prior to the Era of Upheaval, wizards as a whole were associated with Mystra, Goddess of Magic and manifestation of The Weave. That closely held association was altered for a time following Mystras death during the Spellplague. Shar, Goddess of Darkness orchestrated Mystras death and attempted to supplant her arcane plexus with the Shadow Weave, but was ultimately unsuccessful. During the Second Sundering, both Mystra and the Weave returned to Toril, and the relationship between them and arcane practitioners was restored.
+thumb|left|150px|The mark of a wizard.
+Wizards had access to a wide variety of spells available to them, fueled by the arcane energy of the Weave. They learned new spells by reading over and in some cases even building upon the arcane research of others.
+They were also skilled in the use of rituals, powerful spells that require a significant amount of time and energy to cast. Like other spells, wizards kept inscribed the specifications rituals written within their spellbook, where each ritual took up at least a page, with complexity and page length directly proportional to the power inherent in a ritual. 
+One point that marked wizards as different from other arcane spellcasters was their reliance upon their arcane spellbook. In order to cast most spells, wizards studied their spellbook before they planned to rest, sleep, Once their spells were prepared, wizards could access and cast them to the extents their mental capacity would allow. 
+Wizards were entirely dependent upon their spellbooks to prepare new spells each day, and could barely tap into the Weave without them. The only spells that wizards could cast without preparation were simple cantrips.
+When casting spells, wizards often used arcane foci, or implements, such as staffs, orbs, or wands. These implements concentrated the arcane power in a spell, increasing its effectiveness. All wizards had a degree of specialization in implements, preferring one kind over another. Some took a liking to orbs, which they used to increase the duration of their spells effects. Others preferred using wands to enhance their accuracy or staves to defend themselves. The most basic spells available to wizards were known as cantrips and required little skill on the part of the wizard in order for them to be cast. Such spells were typically small tricks of magic such as creating a light source, a sound, or moving a small object telekinetically.
+A familiar was a normal animal that gained new powers and became a magical beast when summoned to service by a wizard or a sorcerer. Each wizard shared an empathic bond with their familiar and could even channel the casting of certain spells through them. Many types of animals could be called upon as familiars, from everyday cats and ravens, to more exotic species such as beguilers and starsnakes.
+Mastering, and even learning the basics of the Art was a long and arduous process. The most straightforward method was apprenticeship under experienced mages. However, it was not an easy task. It required thoroughly learning and using spells starting from the most basic spells of everyday utility, such as mending or message. Adventurers and other thrill and fortune seekers trained in the Art by successfully reading out spell scrolls or by methodically learning, copying, and replicating arcane writings, all the time slowly improving their experience. Lastly, learning the Art was accessible through natural-born strong "wild talent" or a "Gift" that aided mages-to-be in the learning process.
+Youths of humble means rarely became wizards as the learning the Art was an expensive aspiration. This one of the reasons why wizardly profession was so scarce in the Realms. Those of talents and luck became apprentices, or drudges to mages, while those in the Forest Kingdom of Cormyr tried to demonstrate their "Gift" to the infamous Wizards of War or another well-known arcane organization. An alternative to service to apprenticeship were the Harpers who covertly scouted the Realms for goodly youths with the "wild talent".
+Wizards cast their spells by using their acquired magical knowledge and experience. In particular, they learned most new spells by seeking out magical writings and copying them into their spellbooks. Unlike bards or sorcerers, the wizardly method allowed them to master any number of permissible spells once they find them, assembling a broad and versatile arsenal of power. Many wizards saw themselves not only as spell casters but as philosophers, inventors, and scientists, studying a system of natural laws that are for the most part unknown and undiscovered. 
+Resting Wizards were forced to rest prior to spell casting, by getting uninterrupted hours of restful sleep or meditation.
+Preparing In order to prepare spells from their spellbooks, wizards needed comfortable quiet areas to study. The spell was read, spoken, or memorized up until the trigger.
+thumb|281x281px|A wizard still in his apprentice stage.
+During their studies, wizards chose arcane traditions to follow, most often preferring to focus upon a single school of magic.
 Wizards could choose to specialize in one or more of eight schools of magic, a distinction that was made early on in their training.
-
-Specialists were generally treated by the world at large as non-specialized wizards were, albeit with some notable exceptions. Entertaining [[illusionist]]s, highly-prized [[diviner]]s, and often-maligned [[necromancer]]s were often regarded differently than other practitioners. Nonetheless, specialists were  simply considered wizard variants by the magic casting community as a whole.
-
-====Abjuration====
-{{Main|Abjurer}}
-Wizards that specialized in [[abjuration]] magic, those that deflected others spell, banished entities, or otherwise protected individuals, were known as ''abjurers''. These wizards were usually deliberate and prudent, seeing many other wizard specialists as reckless or wasteful. Abjurers liked to be prepared, be it in research or adventuring, and often devoted their free time to working out strategies for confronting other arcane spellcasters. They were not considered threats to most martial combatants, but were deadly threats to practitioners of arcane or [[divine magic|divine]] magic.
-
+Specialists were generally treated by the world at large as non-specialized wizards were, albeit with some notable exceptions. Entertaining illusionists, highly-prized diviners, and often-maligned necromancers were often regarded differently than other practitioners. Nonetheless, specialists were  simply considered wizard variants by the magic casting community as a whole.
+Wizards that specialized in abjuration magic, those that deflected others spell, banished entities, or otherwise protected individuals, were known as abjurers. These wizards were usually deliberate and prudent, seeing many other wizard specialists as reckless or wasteful. Abjurers liked to be prepared, be it in research or adventuring, and often devoted their free time to working out strategies for confronting other arcane spellcasters. They were not considered threats to most martial combatants, but were deadly threats to practitioners of arcane or divine magic.
 Because of their propensity for deliberant action, adjurers tended to be ethically sound and morally upstanding individuals. There were however other practitioners of the school that were drawn to its practice by the promise of greater power. Many abjurers only reluctantly took up the life of adventure and were most often found in small villages where they enjoyed the trust and good regards of friends and neighbors.
-
-====Conjuration====
-{{Main|Conjurer}}
-''Conjurers'' were wizards that specialized in [[conjuration]], the magical art of summoning creatures and items, as well as manifesting teleportation. Conjurers were often headstrong and disdainful towards other schools of magic, seeing most as weak or inconsequential, or in the case of necromancy, wholly repulsive. Conjurers can be difficult companions since many are so independent-minded that only an unusually strong-willed leader can earn their respect.
-
+Conjurers were wizards that specialized in conjuration, the magical art of summoning creatures and items, as well as manifesting teleportation. Conjurers were often headstrong and disdainful towards other schools of magic, seeing most as weak or inconsequential, or in the case of necromancy, wholly repulsive. Conjurers can be difficult companions since many are so independent-minded that only an unusually strong-willed leader can earn their respect.
 According to some stereotypes, conjurers lacked the finesse of other specialists and viewed magic as a blunt instrument. They were often overconfident in battle, believing themselves capable of overcoming any threat. It was said they often favored quick and easy solutions over careful planning advocated by abjurers. Conjurers tended towards moral ambiguity, were unbothered by ethical conventions, and were quite willing to acquire power by unsavory, evil or outright despicable methods. In order that they could conduct experiments and arcane research in peace, conjurers often preferred isolation over collaboration with others.
-
-====Divination====
-{{Main|Diviner}}
-Those wizards who specialized in [[divination]], the anticipation of events through time and space, either in the future or a far away location, were known as ''diviners''. Their abilities were highly prized among everyone across the Realms, from monarchs to paupers alike. Diviners were notable for their intuition and prudence, preferring to use violence only as a last resort. Many diviners were also strong judges of character, with an insightful nature in all matters. They were not cowards by any means, but preferred to exhaust other options before resorting to violence. In battle, their magic proved extremely potent against illusionists, whose tricks they could unravel with their own spells.
-
+Those wizards who specialized in divination, the anticipation of events through time and space, either in the future or a far away location, were known as diviners. Their abilities were highly prized among everyone across the Realms, from monarchs to paupers alike. Diviners were notable for their intuition and prudence, preferring to use violence only as a last resort. Many diviners were also strong judges of character, with an insightful nature in all matters. They were not cowards by any means, but preferred to exhaust other options before resorting to violence. In battle, their magic proved extremely potent against illusionists, whose tricks they could unravel with their own spells.
 Because of their deliberate approach to matters, most diviners abided the law but generally remained neutral on matters of morality. Diviners of all stripes often made good money seers or fortunetellers. They did not however often become adventurers, in part because of their solitary nature, but were highly valued and readily welcome within most adventuring parties. Benevolent diviners used their foresight to prevent harm from coming to others while malevolent practitioners often used it obtain control over others. 
-
-====Enchantment====
-{{Main|Enchanter}}
-''Enchanters'' were those wizards that specialized in the school of [[enchantment]], the arcane art of influencing or controlling the actions of others. Many enchanters were known to be very charming, with naturally outgoing personalities that were attractive to many they encountered. This natural charisma was not required by enchanters however, as they could sway the opinions or actions of others with their magic. Even the most boorish or repulsive enchanters had to draw upon their intellect first and foremost. They utilized their spells to overcome social obstacles, nullify opponents in battle, or even turn their enemies into allies in the midst of combat.
-
-An enchanter's tendency to work with allies more closely than other wizards was one of their greatest strengths. Enchanters of all kinds enjoyed good company and were typically more often found in large cities than small insular communities. They did not overly concern themselves with concepts like [[good]] or [[evil]], but tended to be more free-spirited when it came to following laws. The major difference between enchanters arose when they were forced to decide whether or not to violate the free will of another living being: some had qualms and would not take such action, while others did so with little to no concern.
-
-====Evocation====
-{{Main|Evoker}}
-''Evokers'' practiced a unique blend of arcane magic with the elemental power of creation, from the [[evocation]] school of magic. They were found in all walks of life where arcane power proved an important edge, from small-time bandits to grand armies that employed them as arcane artillerists. Due to their natural skill in magical warfare, these wizards were among the most valued combatants in warfare. They wielded offensive spells that could blanket a battlefield in destruction, while simultaneously sculpting it to spare their allies. 
-
-Practitioners of evocation were often decisive, forthright, and stubbornly determined individuals; qualities that were associated with strong leadership. They seldom let distractions into their lives, preferring austere lifestyles with few creature comforts in contrast the magnificent powers they commanded. Evokers held no strong disposition towards the forces of good or evil, nor law and chaos in the world.
-
-====Illusionist====
-[[Image:4e illusionist.jpg|right|thumb|300px|''An illusionist battling a gnoll.'']]
-{{Main|Illusionist}}
-[[Illusion]] magic were among the most well-known specializations of wizardry, and the ''illusionists'' who practiced it were often beloved as entertainers across the Realms. Their magic inspired wonder and kindled the imagination of audiences far and wide. They were often extremely flamboyant and outgoing individuals, with a streak of outright hedonism. Considered among the most creative of arcane practitioners, most illusionists were great appreciators of the arts and hands-on experimentation, while were less concerned with scholarly research. While they were just as intelligent and skilled as other wizards they were not always as reflective, often accepting life as an impermanent existence that was best left free from uncompromising philosophies.
-
-They were not however mere clowns or conjurers of cheap tricks, but could be deadly adversaries when they so chose. They employed illusions to toy with their enemies, casting illusory images or sounds to befuddle the minds of their foes and turn their senses against. In some instances, these illusions were so powerful and realistic they "fooled" enemies into injury and even death.{{Cite dragon/364/Class Acts: Wizard|68}} Illusionists that chose malevolence could be truly frightful and menacing.
-
-====Necromancer====
-{{Main|Necromancer}}
-[[Necromancy]] and its ''necromancer'' practitioners concerned themselves with arcane mastery over the forces of life and death, along with the existence of [[undeath]] in between. They wielded the actual life energy that permeated all of existence as other wizards created simple facsimiles of life or viewed potentialities that did not exist. Most necromantic wizards approached life with a stoic and thoughtful attitude and was misinterpreted by others. While some viewed them as withdrawn or obsessive, these wizards were often considered loyal and faithful companions by their allies. They were generally fearless towards death, which was appropriate considering their path often lead to mastery over its domain.
-
-For all their positive qualities, exposure to the forces of death and undeath corrupted many who delved into the necromantic arts. Selfish and even evil necromancers far outnumbered those that brought goodness into the world.{{Cite web/theedverse/2021-05-15 - White necromancers}} While many of these wizards felt an allure to natural order, others possessed a more anarchic streak. It was extremely rare to find a necromancer that remained [[unaligned|truly neutral]] to all matters of morality and ethics.
-
-====Transmuter====
-{{Main|Transmuter}}
-[[Transmutation]] was the school of magic that focused on altering both energy and matter to the whim of the ''transmuters'' who specialized in the art. These wizards saw the universe as wholly mutable, full of variables and configurations that they delighted in exploring.
-
-Many transmuters tended toward unpredictability and disorder, as chaos remained the very essence of change. There was not much shared moral outlook upon their numbers, but rather different perspectives on how their abilities could be used to change the world. Transmuters were more adventuresome than other wizards and can often be found exploring the world. They made for skilled [[alchemist]]s and often crafted ''[[transmuter's stone|namestake stones]]'' that could be used to alter characteristics about anyone that held it.
-
-===Other Traditions===
+Enchanters were those wizards that specialized in the school of enchantment, the arcane art of influencing or controlling the actions of others. Many enchanters were known to be very charming, with naturally outgoing personalities that were attractive to many they encountered. This natural charisma was not required by enchanters however, as they could sway the opinions or actions of others with their magic. Even the most boorish or repulsive enchanters had to draw upon their intellect first and foremost. They utilized their spells to overcome social obstacles, nullify opponents in battle, or even turn their enemies into allies in the midst of combat.
+An enchanters tendency to work with allies more closely than other wizards was one of their greatest strengths. Enchanters of all kinds enjoyed good company and were typically more often found in large cities than small insular communities. They did not overly concern themselves with concepts like good or evil, but tended to be more free-spirited when it came to following laws. The major difference between enchanters arose when they were forced to decide whether or not to violate the free will of another living being some had qualms and would not take such action, while others did so with little to no concern.
+Evokers practiced a unique blend of arcane magic with the elemental power of creation, from the evocation school of magic. They were found in all walks of life where arcane power proved an important edge, from small-time bandits to grand armies that employed them as arcane artillerists. Due to their natural skill in magical warfare, these wizards were among the most valued combatants in warfare. They wielded offensive spells that could blanket a battlefield in destruction, while simultaneously sculpting it to spare their allies. 
+Practitioners of evocation were often decisive, forthright, and stubbornly determined individuals qualities that were associated with strong leadership. They seldom let distractions into their lives, preferring austere lifestyles with few creature comforts in contrast the magnificent powers they commanded. Evokers held no strong disposition towards the forces of good or evil, nor law and chaos in the world.
+right|thumb|300px|An illusionist battling a gnoll.
+Illusion magic were among the most well-known specializations of wizardry, and the illusionists who practiced it were often beloved as entertainers across the Realms. Their magic inspired wonder and kindled the imagination of audiences far and wide. They were often extremely flamboyant and outgoing individuals, with a streak of outright hedonism. Considered among the most creative of arcane practitioners, most illusionists were great appreciators of the arts and hands-on experimentation, while were less concerned with scholarly research. While they were just as intelligent and skilled as other wizards they were not always as reflective, often accepting life as an impermanent existence that was best left free from uncompromising philosophies.
+They were not however mere clowns or conjurers of cheap tricks, but could be deadly adversaries when they so chose. They employed illusions to toy with their enemies, casting illusory images or sounds to befuddle the minds of their foes and turn their senses against. In some instances, these illusions were so powerful and realistic they "fooled" enemies into injury and even death. Illusionists that chose malevolence could be truly frightful and menacing.
+Necromancy and its necromancer practitioners concerned themselves with arcane mastery over the forces of life and death, along with the existence of undeath in between. They wielded the actual life energy that permeated all of existence as other wizards created simple facsimiles of life or viewed potentialities that did not exist. Most necromantic wizards approached life with a stoic and thoughtful attitude and was misinterpreted by others. While some viewed them as withdrawn or obsessive, these wizards were often considered loyal and faithful companions by their allies. They were generally fearless towards death, which was appropriate considering their path often lead to mastery over its domain.
+For all their positive qualities, exposure to the forces of death and undeath corrupted many who delved into the necromantic arts. Selfish and even evil necromancers far outnumbered those that brought goodness into the world. While many of these wizards felt an allure to natural order, others possessed a more anarchic streak. It was extremely rare to find a necromancer that remained truly neutral to all matters of morality and ethics.
+Transmutation was the school of magic that focused on altering both energy and matter to the whim of the transmuters who specialized in the art. These wizards saw the universe as wholly mutable, full of variables and configurations that they delighted in exploring.
+Many transmuters tended toward unpredictability and disorder, as chaos remained the very essence of change. There was not much shared moral outlook upon their numbers, but rather different perspectives on how their abilities could be used to change the world. Transmuters were more adventuresome than other wizards and can often be found exploring the world. They made for skilled alchemists and often crafted namestake stones that could be used to alter characteristics about anyone that held it.
 While all wizards held access to the eight schools of magic, some preferred to follow other arcane traditions beyond school specialization.
-
-====Bladesinging====
-{{Main|Bladesinger}}
-The [[elven]] art of bladesinging was a closely-guarded secret of the [[Tel-quessir]], limited mostly cities of [[Evermeet]], [[Evereska]], and [[Myth Drannor]]. The ''bladesong'' itself was an elaborate series of stances and maneuvers resembling a dance, which allowed a wizard to perform exceptional feats in combat. Experienced bladesingers learned to attack more quickly in combat than other wizards, delivering twice as many blows in the span of mere moments.
-
-Despite what is name suggested, bladesingers did not always wield [[sword]]s in combat. Different [[Bladesinger#Styles|styles]] utilized hafted weapons such as [[axe]]s and [[warhammer|hammers]], which others incorporated [[whip]]s or chained weapons such as [[flail]]s. Regardless of their preferred weapon, bladesingers were nearly exclusively recruited from among elves and [[half-elves]] of the Realms.
-
-
-====War Magic====
-{{Main|War mage}}
-War mages (not to be confused with the well-known [[War Wizard of Cormyr|War Wizards]] of [[Cormyr]]) were specialized wizards that focused on battlefield applications of their spells. Many of their spells originated from the evocation or abjuration schools of magic. To ensure their own survival, war mages first learned how to deflect attacks by means of their arcane power. They laboriously studied battle tactics and trained themselves to make quick, decisive actions in combat. Over time, a war mage's magical offenses became more powerful and their defenses more durable. The most powerful of their ranks became juggernauts of destruction, redirecting attacks made against them towards everyone else on the battlefield.
-
-==Notable Wizards==
-* [[Elminster Aumar]], the Sage of [[Shadowdale]] was among the most famous wizards in all the Realms.
-* [[Vangerdahast Aeiulvana]], the Royal Magician of Cormyr and Chairman Emperies of the Cormyrean College of War Wizards.
-
+The elven art of bladesinging was a closely-guarded secret of the Tel-quessir, limited mostly cities of Evermeet, Evereska, and Myth Drannor. The bladesong itself was an elaborate series of stances and maneuvers resembling a dance, which allowed a wizard to perform exceptional feats in combat. Experienced bladesingers learned to attack more quickly in combat than other wizards, delivering twice as many blows in the span of mere moments.
+Despite what is name suggested, bladesingers did not always wield swords in combat. Different styles utilized hafted weapons such as axes and hammers, which others incorporated whips or chained weapons such as flails. Regardless of their preferred weapon, bladesingers were nearly exclusively recruited from among elves and half-elves of the Realms.
+War mages (not to be confused with the well-known War Wizards of Cormyr) were specialized wizards that focused on battlefield applications of their spells. Many of their spells originated from the evocation or abjuration schools of magic. To ensure their own survival, war mages first learned how to deflect attacks by means of their arcane power. They laboriously studied battle tactics and trained themselves to make quick, decisive actions in combat. Over time, a war mages magical offenses became more powerful and their defenses more durable. The most powerful of their ranks became juggernauts of destruction, redirecting attacks made against them towards everyone else on the battlefield.
+* Elminster Aumar, the Sage of Shadowdale was among the most famous wizards in all the Realms.
+* Vangerdahast Aeiulvana, the Royal Magician of Cormyr and Chairman Emperies of the Cormyrean College of War Wizards.

@@ -1,16 +1,5 @@
 {
-    "template_data": {
-        "k|long": "yes"
-    },
     "document_data": {
-        "image": "Evermeet map-2e.jpg",
-        "caption": "A map showing the Farmeadows in northwestern Evermeet.",
-        "name": "Farmeadows",
-        "alt spelling": "",
-        "aliases": "",
-        "type": "Glade",
-        "region": "[[Evermeet]]",
-        "size": "{{SI|1500|sq mi|k|long=yes}}",
         "elevation": "",
         "depth": "",
         "capital": "",
@@ -29,8 +18,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "The '''Farmeadows''' was a beautiful glade located on the [[elven]] homeland of [[Evermeet]].",
-        "Geography": "The Farmeadows was located in northwestern Evermeet west of the source of the [[River Ardulith]] and the [[Silver Hills]]. Much of the glade bordered the [[Trackless Sea]].",
-        "Inhabitants": "Herds of mystical [[moon-horse]]s lived within the Farmeadows."
+        "mainbody": "The Farmeadows was a beautiful glade located on the elven homeland of Evermeet.\nThe Farmeadows was located in northwestern Evermeet west of the source of the River Ardulith and the Silver Hills. Much of the glade bordered the Trackless Sea.\nHerds of mystical moon-horses lived within the Farmeadows."
     }
 }

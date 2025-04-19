@@ -1,16 +1,5 @@
 {
-    "template_data": {
-        "5|mi|k|long": "yes"
-    },
     "document_data": {
-        "image": "Gnarhelm.JPG",
-        "caption": "A map showing Amarune off the east coast of Gnarhelm.",
-        "name": "Amarune",
-        "alt spelling": "",
-        "aliases": "",
-        "type": "Island",
-        "region": "[[Gnarhelm]], the [[Sea of Swords]]",
-        "size": "{{SI|9|sq mi|k}}",
         "elevation": "",
         "depth": "",
         "capital": "",
@@ -29,8 +18,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "'''Amarune''' was a small island found directly off the east coast of the kingdom of [[Gnarhelm]] within the [[Moonshae Isles]].{{Cite dungeon/196/Backdrop: The Moonshae Isles}}",
-        "Geography": "Amarune sat just {{SI|5|mi|k|long=yes}} off shore from the mainland of [[Alaron]] where the unnamed river of the [[Lisloch]] emptied into the [[Sea of Swords]]. Amarune was small, covering just {{SI|9|sq mi|k}}. There were no settlements of note found on the island.",
-        "Description": "[[Image:Amarune.JPG|thumb|right|250px|''The island of Amarune.'']]\nA natural harbor, sheltered by a narrow opening through the mountains, was found on the island's western coast. Much of the island's exterior was framed with an unnamed mountain range, while the interior was covered with meadows and forests.{{Cite interactive atlas}}"
+        "mainbody": "Amarune was a small island found directly off the east coast of the kingdom of Gnarhelm within the Moonshae Isles.\nAmarune sat just  off shore from the mainland of Alaron where the unnamed river of the Lisloch emptied into the Sea of Swords. Amarune was small, covering just . There were no settlements of note found on the island.\nthumb|right|250px|The island of Amarune.\nA natural harbor, sheltered by a narrow opening through the mountains, was found on the islands western coast. Much of the islands exterior was framed with an unnamed mountain range, while the interior was covered with meadows and forests."
     }
 }

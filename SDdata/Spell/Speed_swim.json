@@ -1,36 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "25|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Speed Swim",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Druid]]|1|[[Ranger]]|1|[[Sorcerer]]|1|[[Wizard]]|1}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -44,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Speed swim''''' was a simple [[spell]] that improved a creature's swimming ability.",
-        "Effects": "This spell increased ability and speed while swimming. The creature's swimming speed was the same as if they were running on dry land. The spell only functioned if swimming in a single direction. The targeted creature had to be within {{SI|25|ft|long=yes}} of the caster while the spell was cast. This range increased as the caster's skill level grew.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, the spell required a [[focus]]: a small paddle made from wood."
+        "mainbody": "Speed swim was a simple spell that improved a creatures swimming ability.\nThis spell increased ability and speed while swimming. The creatures swimming speed was the same as if they were running on dry land. The spell only functioned if swimming in a single direction. The targeted creature had to be within  of the caster while the spell was cast. This range increased as the casters skill level grew.\nIn addition to verbal and somatic components, the spell required a focus a small paddle made from wood."
     }
 }

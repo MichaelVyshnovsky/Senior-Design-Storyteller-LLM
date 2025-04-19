@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "445|pound|k|long": "yes",
-        "l|long": "yes",
-        "1|ounce|long": "yes",
-        "1|inch|c|long": "yes"
-    },
     "document_data": {
-        "image": "Zinc.png",
-        "caption": "A piece of zinc ore.",
-        "name": "Zinc",
-        "aliases": "",
-        "locations": "",
-        "discovered": "",
-        "date": "",
-        "creators": "",
-        "created": "",
-        "hisrefs": "",
-        "type": "Metal",
-        "components": "",
-        "color": "",
-        "properties": "Brittle, toxic",
-        "markings": "",
-        "phyrefs": "",
-        "uses": "",
-        "cost": "1 [[sp]]",
-        "userefs": "",
-        "items": "",
-        "mainbody": "'''Zinc''' was a metal found in the [[Realms]].",
-        "Properties": "Zinc weighed {{SI|445|pound|k|long=yes}} per {{SI|1|cubic foot|l|long=yes}}.{{Cite dragon/13/How Heavy Is My Giant|6}} Prior to the [[Time of Troubles]], zinc required some progress on a [[psionicist]]'s part before it could be synthesized through ''[[molecular rearrangement]]''. The metal melted at 420 degrees Celsius (788 degrees Fahrenheit).\n\nIt had such metaphysical properties that a properly calibrated [[tuning fork]] could be used to send a planar traveler to the [[Elemental Plane of Earth]], and to associated planes.{{Cite dragon/120/Plane Speaking|43}}",
-        "Applications": "At least two known alloys of copper and zinc were considered brass: red brass with 20% zinc, and yellow brass with 30% zinc.{{Cite dragon/123/Fire for Effect!|35}} It was also used widely by apothecaries.{{cite book/Realms of Infamy/And Wringing of Hands|248}}\n\nZinc found much use in the making of [[material component]]s. The object needed for ''[[Bigby's clenched fist]]'' was made of an alloy of [[copper]] and zinc,{{cite book/Wizard's Spell Compendium Volume One|81}} as was the one for ''[[Mordenkainen's sword]]''.{{cite book/Player's Handbook 2nd edition|235}}{{cite book/Player's Handbook 1st edition|88-89}}{{cite book/Wizard's Spell Compendium Volume Three|599}}{{cite book/Player's Handbook v.3.5|257}} Pure zinc was instead used for ''[[magic mirror]]''.{{cite book/Player's Handbook 2nd edition|203}}{{cite book/Player's Handbook v.3.5|235}}",
-        "History": "Zinc was sold at [[Radman]], the enclave of [[Karsus]], at 7 [[gp]] for a brick weighing {{SI|1|ounce|long=yes}}. After the fall of [[Netheril]], [[Anauria]]'s best forges in [[Anauril]] were plagued by a lack of the metal; [[Asram]], on the other hand, found its supply in secret places in the [[Great Sand Sea]]. By the late mid-14{{th}} century [[DR]], it was available through [[Aurora's Emporium]], which sold a {{SI|1|inch|c|long=yes}} square as a [[material component]] for 1 [[sp]].\n\nIn the 14{{th}} century [[DR]], zinc was smelted at [[King's Reach]] in [[the Vast]].{{Cite polyhedron/91/The Everwinking Eye: Treasures of the Vast, Part Three|4}} [[Sembian]] licenses were sometimes made of zinc.{{Cite web/Realmslore/Melvos Hammerstars, Part Three}}\n\nZinc's use in the fashioning of [[brass]] was also known to the [[lacerials]] and [[oscray]] of [[Malatra]].{{cite web/Living Jungle/Jungle Stories|3}} Other alloys, called make-metals, were made of zinc.{{cite web/Waterdeep News/Sharp Rise in Silversheen}} Another zinc alloy was [[halduthra]].{{cite web/theedverse/2021-03-29 - Bloodstone trade bars}}",
-        "Notable Mines": "The most important ore of zinc was [[Wikipedia:sphalerite|sphalerite]], a yellow-brown, hard yet brittle ore weighing about 250 pounds per cubic foot<!--There's no way to convert this correctly with the template. Leave it the way it is.--> (4 grams per cubic centimeter).{{Cite dragon/152/In a Cavern, In a Canyon...|23}}\n\nThe mines at the [[Gnoll Peaks]] north of [[Hillmarch]] provided a modest amount of zinc.{{cite book/Volo's Guide to Cormyr|184}}\n\nIt was mined in [[Dis]], within the [[Nine Hells]].{{Cite dragon/91/Nine Hells revisited|25}}"
+        "mainbody": "inc was a metal found in the Realms.\nZinc weighed  per . Prior to the Time of Troubles, zinc required some progress on a psionicists part before it could be synthesized through molecular rearrangement. The metal melted at 420 degrees Celsius (788 degrees Fahrenheit).\nIt had such metaphysical properties that a properly calibrated tuning fork could be used to send a planar traveler to the Elemental Plane of Earth, and to associated planes.\nAt least two known alloys of copper and zinc were considered brass red brass with 20% zinc, and yellow brass with 30% zinc. It was also used widely by apothecaries.\nZinc found much use in the making of material components. The object needed for Bigbys clenched fist was made of an alloy of copper and zinc, as was the one for Mordenkainens sword. Pure zinc was instead used for magic mirror.\nZinc was sold at Radman, the enclave of Karsus, at 7 gp for a brick weighing . After the fall of Netheril, Anaurias best forges in Anauril were plagued by a lack of the metal Asram, on the other hand, found its supply in secret places in the Great Sand Sea. By the late mid-14 century DR, it was available through Auroras Emporium, which sold a  square as a material component for 1 sp.\nIn the 14 century DR, zinc was smelted at Kings Reach in the Vast. Sembian licenses were sometimes made of zinc.\nZincs use in the fashioning of brass was also known to the lacerials and oscray of Malatra. Other alloys, called make-metals, were made of zinc. Another zinc alloy was halduthra.\nThe most important ore of zinc was sphalerite, a yellow-brown, hard yet brittle ore weighing about 250 pounds per cubic foot (4 grams per cubic centimeter).\nThe mines at the Gnoll Peaks north of Hillmarch provided a modest amount of zinc.\nIt was mined in Dis, within the Nine Hells."
     }
 }

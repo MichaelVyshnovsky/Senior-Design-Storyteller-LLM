@@ -1,19 +1,10 @@
 {
-    "template_data": {
-        "200|ft|long": "yes"
-    },
     "document_data": {
-        "image": "NWZhentilKeep.JPG",
-        "caption": "A map showing Goblin Way in northwest Zhentil Keep.",
-        "name": "Goblin Way",
-        "type": "Street",
-        "aliases": "",
-        "length": "{{SI|200|ft}}",
         "width": "",
         "pavement": "",
-        "location": "The [[Zhentil Keep/Common Quarter|Common Quarter]], [[Zhentil Keep]]",
-        "starts": "[[Fortress Street]]",
-        "ends": "[[Warrior Street]]",
+        "location": "The Common Quarter, Zhentil Keep",
+        "starts": "Fortress Street",
+        "ends": "Warrior Street",
         "built": "",
         "refs": "",
         "daggers": "",
@@ -26,9 +17,6 @@
         "roads": "yes",
         "bodies of water": "",
         "events": "",
-        "mainbody": "'''Goblin Way''' was a street located in the city of [[Zhentil Keep]] during the mid-14{{th}} century [[DR]].",
-        "Location": "Goblin Way was found within northwest Zhentil Keep in the [[Zhentil Keep/Common Quarter|Common Quarter]]. It connected [[Fortress Street]] in the north with [[Warrior Street]] in the south.",
-        "Description": "It was one of Zhentil Keep's smaller streets at roughly {{SI|200|ft|long=yes}} in length.",
-        "Notable Locations": "A [[Zhentilar]] barracks was found at the intersection of Goblin Way with Warrior Street."
+        "mainbody": "Goblin Way was a street located in the city of Zhentil Keep during the mid-14 century DR.\nGoblin Way was found within northwest Zhentil Keep in the Common Quarter. It connected Fortress Street in the north with Warrior Street in the south.\nIt was one of Zhentil Keeps smaller streets at roughly  in length.\nA Zhentilar barracks was found at the intersection of Goblin Way with Warrior Street."
     }
 }

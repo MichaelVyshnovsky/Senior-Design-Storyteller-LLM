@@ -1,25 +1,5 @@
 {
-    "template_data": {
-        "rca": "right"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Mhandyvver's Poultry",
-        "aliases": "",
-        "type": "Poultry shop",
-        "architecture": "",
-        "floors": "",
-        "location": "[[Red Larch]], [[Savage Frontier]], [[Northwest Faerûn]]",
-        "built": "",
-        "destroyed": "",
-        "owner": "",
-        "staff": "",
-        "occupants": "",
-        "services": "Poultry, eggs",
-        "worship": "",
-        "basicrefs": "",
-        "ownertable": "{{Split table|rca=right|[[Oskler Mhandyvver]]|[[1366 DR]]|[[Minthra Mhandyvver]]|[[1491 DR]]}}",
         "stafftable": "",
         "histrefs": "",
         "pipes": "",
@@ -37,10 +17,6 @@
         "inhabitants": "",
         "locations": "",
         "organizations": "",
-        "mainbody": "'''Mhandyvver's Poultry''' was one of two poultry stores in the town of [[Red Larch]].",
-        "Geography": "Mhandyvver's Poultry was located along the [[Long Road]], next to [[Luruth's Tannery]] and across from [[Vallivoe's Sundries]].",
-        "Interior": "The interior of this store resembled a barn, with numerous exposed beams and posts. Pens for livestock filled most of the building's odd corners and halls, leaving only a narrow aisle down to the back where the staff and owner lived. These living quarters were separated from the livestock pens by a workroom that had cutting benches and a central hearth.",
-        "Services": "Mhandyvver's Poultry produced fowl, fresh eggs, and chicks for raising. These fowl included [[turkey]]s, [[chicken]]s, and [[duck]]s whose wings had been clipped. They sold this poultry either roasted or preserved in [[oil]], while eggs were either sold fresh or [[pickle]]d. They were also known to sell pickled chicken livers.",
-        "Inhabitants": "In the late-14{{th}} century [[DR]] the store was owned and operated by [[Oskler Mhandyvver]]. He frequently hired local boys to protect his livestock from [[fox]]es, [[hawk]]s, [[owl]]s, [[weasel]]s, and other predatory pests.\n\nIn the late-15{{th}} century DR, the store was operated by a descendant of his named [[Minthra Mhandyvver]] and her three children."
+        "mainbody": "Mhandyvvers Poultry was one of two poultry stores in the town of Red Larch.\nMhandyvvers Poultry was located along the Long Road, next to Luruths Tannery and across from Vallivoes Sundries.\nThe interior of this store resembled a barn, with numerous exposed beams and posts. Pens for livestock filled most of the buildings odd corners and halls, leaving only a narrow aisle down to the back where the staff and owner lived. These living quarters were separated from the livestock pens by a workroom that had cutting benches and a central hearth.\nMhandyvvers Poultry produced fowl, fresh eggs, and chicks for raising. These fowl included turkeys, chickens, and ducks whose wings had been clipped. They sold this poultry either roasted or preserved in oil, while eggs were either sold fresh or pickled. They were also known to sell pickled chicken livers.\nIn the late-14 century DR the store was owned and operated by Oskler Mhandyvver. He frequently hired local boys to protect his livestock from foxes, hawks, owls, weasels, and other predatory pests.\nIn the late-15 century DR, the store was operated by a descendant of his named Minthra Mhandyvver and her three children."
     }
 }

@@ -1,31 +1,10 @@
 {
-    "template_data": {
-        "rca": "right",
-        "rca_1": "right",
-        "1|pint|long": "yes"
-    },
     "document_data": {
-        "image": "Aspergillum-3e.png",
-        "caption": "",
-        "name": "Aspergillum",
-        "type": "Religious implement",
-        "level": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "{{Split table|rca=right|[[Gold]]|45 [[gp]]|[[Silver]]|20 gp}}",
         "weight2e": "",
         "refs2e": "",
-        "value3e": "{{Split table|rca=right|Gold|45 gp|[[Iron]]|5 gp|Silver|20 gp}}",
-        "weight3e": "{{SI|3|lbs.|k}}",
+        "value3e": "",
+        "weight3e": "",
         "refs3e": "",
-        "mainbody": "An '''aspergillum''', also called an '''aspergill''', was an implement used for spraying [[holy water]].",
-        "Description": "Aspergillums came in various designs, but often took the form of a small metal club or light mace, sometimes hanging on the end of a [[chain]]. Typically made of either basic metals or more valuable ones such as [[gold]] and [[silver]].\n\nEach had a reservoir inside that would contain a quantity of [[holy water]], ranging from one to three flasks' worth (1–3 pints, or 0.47–1.4 liters). Pressing a button on the shaft opened up the perforations in the head, allowing holy water to leak out. Alternatively, an aspergillum on a chain could be swung or whirled to spray out the holy water. In this way, the aspergillum could spray holy water over a short distance, using one flask's worth per shot, but over a greater distance than simply throwing or pouring it.\n\n[[Heavy aspergillum]]s were designed as a sort of melee weapon, with an effectiveness equivalent to that of a [[heavy mace]].",
-        "Uses": "The aspergillum was used by priests to sprinkle holy water and dispense the power of their god, whether in blessing or spellcasting, in both the temple and on the battlefield. Many adventurers employed them too, for simply spraying monsters with holy water.\n\n''[[Aurora's Whole Realms Catalogue (in-universe)|Aurora's Whole Realms Catalogue]]'' sold both gold and silver varieties of chained aspergills.",
-        "Notable Aspergillums": "* Following the [[Spellplague]], there were known to be silver-crafted aspergills throughout the Realms that were consecrated to the god [[Helm]]. These could hold up to {{SI|1|pint|long=yes}} of holy water and were worth 55 [[gp]]."
+        "mainbody": "An aspergillum, also called an aspergill, was an implement used for spraying holy water.\nAspergillums came in various designs, but often took the form of a small metal club or light mace, sometimes hanging on the end of a chain. Typically made of either basic metals or more valuable ones such as gold and silver.\nEach had a reservoir inside that would contain a quantity of holy water, ranging from one to three flasks worth (1–3 pints, or 0.47–1.4 liters). Pressing a button on the shaft opened up the perforations in the head, allowing holy water to leak out. Alternatively, an aspergillum on a chain could be swung or whirled to spray out the holy water. In this way, the aspergillum could spray holy water over a short distance, using one flasks worth per shot, but over a greater distance than simply throwing or pouring it.\nHeavy aspergillums were designed as a sort of melee weapon, with an effectiveness equivalent to that of a heavy mace.\nThe aspergillum was used by priests to sprinkle holy water and dispense the power of their god, whether in blessing or spellcasting, in both the temple and on the battlefield. Many adventurers employed them too, for simply spraying monsters with holy water.\nAuroras Whole Realms Catalogue sold both gold and silver varieties of chained aspergills.\n* Following the Spellplague, there were known to be silver-crafted aspergills throughout the Realms that were consecrated to the god Helm. These could hold up to  of holy water and were worth 55 gp."
     }
 }

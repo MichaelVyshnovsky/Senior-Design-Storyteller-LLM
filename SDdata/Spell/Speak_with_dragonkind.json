@@ -1,13 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Speak with dragonkind.png",
-        "caption": "",
-        "name": "Speak With Dragonkind",
-        "deity": "",
-        "inventor": "[[Li Po]]{{Cite dragon/158/A Spell of Conversation|19}}",
         "type": "",
         "school5e": "",
         "domains5e": "",
@@ -32,9 +24,9 @@
         "level3e": "",
         "type3e": "",
         "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Divination sphere|Divination]]",
-        "level2e": "{{spell table|edition=2e|[[Shugenja|Shukenja]]|6|}}",
+        "school2e": "Alteration",
+        "spheres2e": "Divination",
+        "level2e": "",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -42,8 +34,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Speak with dragonkind''''' was a rare [[spell]] used by [[shugenja]] in [[Kara-Tur]]. The spell was extremely rare outside Kara-Tur.",
-        "Effects": "A shugenja used this powerful spell to communicate with [[dragon]]s. After casting, the shugenja projected an aura which could only be seen and interpreted by dragons or dragon-like creatures. The aura informed the dragon that the shugenja had no hostile intent and wished to communicate. A dragon who killed the shugenja while the spell was in effect became known to the shugenja's [[deity]], who took vengeance upon the dragon. As a result, most dragons in Kara-Tur tolerated this spell, although some dragons ignored the shugenja or tried to scare them away with threatening gestures. Some dragons had no intent to harm the caster, having a genuine desire for conversation. The caster was also subjected to guidelines enforced by the spell. If the shugenja had hostile intent towards the dragon during casting, the spell failed. This included using this spell in an attempt to spy on a dragon's lair.\n\nThe spell did not compel the dragon into a conversation, the dragon retained their free will and could simply ignore the shugenja. The spell did not force the dragon to divulge its secrets or to be truthful with their responses. The spell also did not protect the caster after the spell expired, at which point an evil or hostile dragon could attack. This spell can be used in conjunction with divination spells.",
-        "Components": "This spell required only [[Verbal component|verbal]] and [[somatic component|somatic]] components."
+        "mainbody": "Speak with dragonkind was a rare spell used by shugenja in Kara-Tur. The spell was extremely rare outside Kara-Tur.\nA shugenja used this powerful spell to communicate with dragons. After casting, the shugenja projected an aura which could only be seen and interpreted by dragons or dragon-like creatures. The aura informed the dragon that the shugenja had no hostile intent and wished to communicate. A dragon who killed the shugenja while the spell was in effect became known to the shugenjas deity, who took vengeance upon the dragon. As a result, most dragons in Kara-Tur tolerated this spell, although some dragons ignored the shugenja or tried to scare them away with threatening gestures. Some dragons had no intent to harm the caster, having a genuine desire for conversation. The caster was also subjected to guidelines enforced by the spell. If the shugenja had hostile intent towards the dragon during casting, the spell failed. This included using this spell in an attempt to spy on a dragons lair.\nThe spell did not compel the dragon into a conversation, the dragon retained their free will and could simply ignore the shugenja. The spell did not force the dragon to divulge its secrets or to be truthful with their responses. The spell also did not protect the caster after the spell expired, at which point an evil or hostile dragon could attack. This spell can be used in conjunction with divination spells.\nThis spell required only verbal and somatic components."
     }
 }

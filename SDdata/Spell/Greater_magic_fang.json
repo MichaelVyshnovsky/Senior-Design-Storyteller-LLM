@@ -1,16 +1,7 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "name": "Greater Magic Fang",
-        "image": "Greater Magic Fang.png",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "[[Bestial domain|Bestial]], [[Scalykind domain|Scalykind]]",
-        "level3e": "{{spell table|edition=3e|[[Bestial domain|Bestial]]|3|[[Druid]]|3|[[Ranger]]|3|[[Scalykind domain|Scalykind]]|3}}",
         "type3e": "",
         "refs3e": "",
-        "mainbody": "'''''Greater magic fang''''' is a [[transmutation]] spell that improves the subject's natural weapons.",
-        "Effect": "This spell functions like ''[[magic fang]]'', but at a greater magnitude."
+        "mainbody": "Greater magic fang is a transmutation spell that improves the subjects natural weapons.\nThis spell functions like magic fang, but at a greater magnitude."
     }
 }

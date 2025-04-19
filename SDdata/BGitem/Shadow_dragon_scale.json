@@ -1,21 +1,5 @@
 {
     "document_data": {
-        "image": "ShadDrag.png",
-        "caption": "",
-        "name": "''Shadow Dragon Scale''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Dragon scale mail]]",
-        "creator": "[[Cromwell]]",
-        "location": "[[Athkatla]], [[Amn]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "+6",
-        "value2e": "1,000 [[gp]]",
-        "weight2e": "{{SI|10|lb|k}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -38,9 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Shadow dragon scale''''' was a variety of [[armor]] made from the [[Dragon scale mail|scales]] of a [[shadow dragon]].<ref group=\"note\">Despite being made from the dragon's ''scales'' the armor was considered [[studded leather]] armor.",
-        "Description": "The scales of the armor linked together in a manner that offered practical protection and graceful aesthetics.",
-        "Powers": "This armor offered the wearer significant protection from [[acid]].",
-        "History": "The [[dwarven]] smith [[Cromwell]] of [[Athkatla]] was capable of forging ''shadow dragon scale'' armor."
+        "mainbody": "Shadow dragon scale was a variety of armor made from the scales of a shadow dragon.Despite being made from the dragons scales the armor was considered studded leather armor.\nThe scales of the armor linked together in a manner that offered practical protection and graceful aesthetics.\nThis armor offered the wearer significant protection from acid.\nThe dwarven smith Cromwell of Athkatla was capable of forging shadow dragon scale armor."
     }
 }

@@ -1,34 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Merchant's Glamer",
-        "deity": "[[Vergadain]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "reversible2e": "",
-        "school2e": "[[Illusion/Phantasm]]",
-        "spheres2e": "[[Charm sphere|Charm]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|2}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -36,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Merchant's glamer''''' was a [[spell]] used by [[cleric]]s of [[Vergadain]].",
-        "Effects": "When cast, this spell altered the appearance of material goods so that they appeared to be of finer quality then they actually were. The illusion was powerful enough that only spells that penetrate illusion spells such as ''[[detect illusion]]'' or ''[[true seeing]]'' could detect the alterations. The spell lasted a full day or when all the ensorcelled goods were sold. At that point, the true nature of the items was revealed. Clerics of Vergadain rarely, if ever, used this spell when dealing with other [[dwarves]].",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required [[material component]]s, the holy symbol of Vergadain and a piece of [[wool]]."
+        "mainbody": "Merchants glamer was a spell used by clerics of Vergadain.\nWhen cast, this spell altered the appearance of material goods so that they appeared to be of finer quality then they actually were. The illusion was powerful enough that only spells that penetrate illusion spells such as detect illusion or true seeing could detect the alterations. The spell lasted a full day or when all the ensorcelled goods were sold. At that point, the true nature of the items was revealed. Clerics of Vergadain rarely, if ever, used this spell when dealing with other dwarves.\nIn addition to verbal and somatic components, this spell required material components, the holy symbol of Vergadain and a piece of wool."
     }
 }

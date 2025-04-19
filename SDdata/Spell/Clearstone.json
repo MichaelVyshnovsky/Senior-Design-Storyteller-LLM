@@ -1,16 +1,7 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Clearstone",
-        "school": "[[Transmutation]]",
-        "descriptors": "{{desc/earth}}",
-        "level": "{{spell table|edition=3e|[[Sorcerer]]|3|[[Wizard]]|3}}",
+        "level": "",
         "rules": "3.5",
-        "mainbody": "Casting '''''clearstone''''' caused a portion of natural stone or rock to become clear and see-through.{{cite book/Lost Empires of Faerûn|31}}",
-        "References": "{{refs}}\n[[Category:Transmutation spells]]\n[[Category:Sorcerer spells]]\n[[Category:Wizard spells]]\nks510bt7s7rr915tzh1iz11mkegn1oy"
+        "mainbody": "Casting clearstone caused a portion of natural stone or rock to become clear and see-through.\nCategoryTransmutation spells\nCategorySorcerer spells\nCategoryWizard spells\nks510bt7s7rr915tzh1iz11mkegn1oy"
     }
 }

@@ -1,16 +1,6 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Vonar_full.png",
-        "name": "Vonar",
-        "caption": "",
-        "sex": "Male",
-        "race": "[[Winged kenku]]",
-        "class": "{{class table|edition=2e|[[Fighter]]|5|[[Wizard]]|4|[[Thief]]|4}}",
-        "alignment": "[[Neutral good]]",
-        "mainbody": "'''Vonar''' was a [[Kenku (winged)|kenku]] and a friend of [[Drizzt Do'Urden]].",
-        "History": "Vonar injured his wing while pursuing a raiding [[drow]] party.<ref>\n\nHe was found in the plains of [[Icewind Dale]], where he recounted his story to the companions. The drow party launched a spell ambush at him, as he flew above them, and subsequently fell from the sky. Luckily, the drow party had to move swiftly to initiate the village raid, so Vonar was spared.\n\nIf the party makes it to the secondary [[drider]] caverns, they find that Vonar has also managed to make his way there. He may have joined the companions on their journey to [[Menzoberranzan]]."
+        "alignment": "Neutral good",
+        "mainbody": "Vonar was a kenku and a friend of Drizzt DoUrden.\nVonar injured his wing while pursuing a raiding drow party.\nHe was found in the plains of Icewind Dale, where he recounted his story to the companions. The drow party launched a spell ambush at him, as he flew above them, and subsequently fell from the sky. Luckily, the drow party had to move swiftly to initiate the village raid, so Vonar was spared.\nIf the party makes it to the secondary drider caverns, they find that Vonar has also managed to make his way there. He may have joined the companions on their journey to Menzoberranzan."
     }
 }

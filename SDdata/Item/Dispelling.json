@@ -1,22 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Dispelling''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Weapon quality]]",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "10{{th}}",
         "itemlevel3e": "",
         "value3e": "+1",
         "weight3e": "",
@@ -35,7 +18,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''''Dispelling''''' was a [[weapon quality]] that could be applied to weapons. Once per day, the wielder could use the weapon to ''[[dispel magic]]'' on whatever or whoever the weapon next touched.",
-        "Creation": "In order to forge a ''dispelling'' weapon, the caster must have ''[[dispel magic]]'' available."
+        "mainbody": "Dispelling was a weapon quality that could be applied to weapons. Once per day, the wielder could use the weapon to dispel magic on whatever or whoever the weapon next touched.\nIn order to forge a dispelling weapon, the caster must have dispel magic available."
     }
 }

@@ -1,35 +1,11 @@
 {
-    "template_data": {
-        "4|5|ft|long": "yes",
-        "14|33|in|c|long": "yes",
-        "7|10|lbs|k|long": "yes",
-        "1|ft|c|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Trillimac",
-        "othernames": "",
-        "nicknames": "Corpse Cap",
-        "type": "Mushroom",
-        "location": "The [[Underdark]]",
-        "useon": "",
-        "origin": "",
-        "value": "",
-        "usage": "Food, clothing, parchment",
-        "consumedby": "",
-        "poisonousto": "",
-        "lifespan": "",
-        "height": "{{SIrange|4|5|ft}} cultivated<br />{{SI|3|ft|c}} wild",
         "color": "",
         "stemcolor": "Light gray",
         "capcolor": "Gray-green",
         "distinctions": "",
         "first": "",
         "based": "",
-        "mainbody": "'''Trillimac''' was a [[fungus]] that grew in the [[Underdark]], both domesticated{{Cite dragon/211/Fungi of the Underdark|25}} and in the wild.",
-        "Description": "Wild trillimac stalks reached a height of about {{SI|3|ft|c}} while cultivated ones grew around {{SIrange|4|5|ft|long=yes}} tall. The stalks were a light gray color capped with a wide, flat gray-green hood anywhere from {{SIrange|14|33|in|c|long=yes}} across. It was rare to find these mushrooms growing wild near civilized areas, but in remote regions of the Underdark they were merely uncommon and grew in clusters of three to thirty. A fungus farm typically had twenty to fifty specimens.",
-        "Uses": "The stems of the trillimac made a bread-like food once they were cleaned off, soaked in water for one hour, and then allowed to dry by a fire. A single stalk prepared this way yielded about {{SIrange|7|10|lbs|k|long=yes}} of food and sold for about 4 [[gold piece]]s per {{SI|1|ft|c|long=yes}}. This foodstuff stayed fresh for a whole month.\n\nThe cap had a leathery texture that held [[ink]]s and [[dye]]s well. After it was cut and cleaned, the cap of a trillimac could be used to make a map or a scroll. It was also just tough and flexible enough to be made into a hat, but was not appropriate for things that would suffer wear and tear. A square of trillimac cap leather, {{SI|2|ft|c}} on a side, typically sold for 50 gp.",
-        "Trivia": "Trillimacs were sometimes called \"corpse caps\" because the [[drow]] and the [[derro]] often fertilized their crops with the bodies of dead slaves and fallen enemies. [[Dwarves]] and [[gnomes]] did not follow this practice, but used other waste instead."
+        "mainbody": "Trillimac was a fungus that grew in the Underdark, both domesticated and in the wild.\nWild trillimac stalks reached a height of about  while cultivated ones grew around  tall. The stalks were a light gray color capped with a wide, flat gray-green hood anywhere from  across. It was rare to find these mushrooms growing wild near civilized areas, but in remote regions of the Underdark they were merely uncommon and grew in clusters of three to thirty. A fungus farm typically had twenty to fifty specimens.\nThe stems of the trillimac made a bread-like food once they were cleaned off, soaked in water for one hour, and then allowed to dry by a fire. A single stalk prepared this way yielded about  of food and sold for about 4 gold pieces per . This foodstuff stayed fresh for a whole month.\nThe cap had a leathery texture that held inks and dyes well. After it was cut and cleaned, the cap of a trillimac could be used to make a map or a scroll. It was also just tough and flexible enough to be made into a hat, but was not appropriate for things that would suffer wear and tear. A square of trillimac cap leather,  on a side, typically sold for 50 gp.\nTrillimacs were sometimes called \"corpse caps\" because the drow and the derro often fertilized their crops with the bodies of dead slaves and fallen enemies. Dwarves and gnomes did not follow this practice, but used other waste instead."
     }
 }

@@ -1,25 +1,5 @@
 {
-    "template_data": {
-        "600|ft|ling": "yes",
-        "75|ft|long": "yes",
-        "21500|mi|k|long": "yes",
-        "817000|mi|k|long": "yes"
-    },
     "document_data": {
-        "image": "Hcatha-2e.png",
-        "caption": "Lumbe orbiting H'Catha.",
-        "name": "Lumbe",
-        "other names": "",
-        "type": "Moon",
-        "size class": "A",
-        "shape class": "Regular",
-        "type class": "",
-        "class refs": "",
-        "radius": "",
-        "cluster": "",
-        "satellites": "",
-        "satellite of": "[[H'Catha]]",
-        "distance": "{{SIrange|21500|817000|mi|k}}",
         "day length": "",
         "year length": "",
         "demonym": "",
@@ -29,9 +9,6 @@
         "inhabitants": "yes",
         "locations": "",
         "organizations": "",
-        "mainbody": "'''Lumbe''' was the smallest and farthest moon of [[H'Catha]], the farthest planet from the [[the sun|Sun]] in [[Realmspace]].",
-        "Geography": "The moon was cylindrical in shape, with a length of {{SI|600|ft|ling=yes}} and a diameter of {{SI|75|ft|long=yes}}. Like [[Turnbetl]], it orbited H'Catha along the planet's disc in a highly eccentric trajectory, with a perigee distance of {{SI|21500|mi|k|long=yes}} and an apogee of {{SI|817000|mi|k|long=yes}}. In its orbit, the moon rotated around an axis perpendicular to its length, similarly to a twirling baton.\n\nThe exterior of the moon had no atmosphere, but its surface had two doors that led inside. With the doors closed, noises could be heard coming from the inside, but they all ceased as soon as any of the doors were opened. The sounds resumed once all visitors left the moon and closed all the doors again.",
-        "Interior": "The moon's interior was a seemingly uninhabited [[wizard]]'s laboratory filled with thousands of extremely powerful [[magic item]]s, such as ''[[bracers of invulnerability]]'', that were protected by powerful [[illusion]]s.\n\nThe laboratory's supply of breathable air was maintained by a constant flow coming out of magical jars. Other bottles scattered throughout the interior exuded a fresh, flowery scent that could be felt throughout the laboratory.",
-        "History": "Lumbe was home to the sage [[Sarelk]], a powerful wizard who moved into Realmspace from another [[crystal sphere]], following the ''[[Batship]]''. He used the laboratory to research items that could destroy the ship without harming its occupant,"
+        "mainbody": "Lumbe was the smallest and farthest moon of HCatha, the farthest planet from the Sun in Realmspace.\nThe moon was cylindrical in shape, with a length of  and a diameter of . Like Turnbetl, it orbited HCatha along the planets disc in a highly eccentric trajectory, with a perigee distance of  and an apogee of . In its orbit, the moon rotated around an axis perpendicular to its length, similarly to a twirling baton.\nThe exterior of the moon had no atmosphere, but its surface had two doors that led inside. With the doors closed, noises could be heard coming from the inside, but they all ceased as soon as any of the doors were opened. The sounds resumed once all visitors left the moon and closed all the doors again.\nThe moons interior was a seemingly uninhabited wizards laboratory filled with thousands of extremely powerful magic items, such as bracers of invulnerability, that were protected by powerful illusions.\nThe laboratorys supply of breathable air was maintained by a constant flow coming out of magical jars. Other bottles scattered throughout the interior exuded a fresh, flowery scent that could be felt throughout the laboratory.\nLumbe was home to the sage Sarelk, a powerful wizard who moved into Realmspace from another crystal sphere, following the Batship. He used the laboratory to research items that could destroy the ship without harming its occupant,"
     }
 }

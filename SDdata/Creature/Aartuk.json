@@ -1,19 +1,9 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "height": "{{SI",
-        "height_1": "{{SI",
-        "30|ft|long": "yes"
-    },
     "document_data": {
-        "image": "<gallery>",
-        "caption": "",
-        "name": "Aartuk",
-        "size5e": "{{Size table|Elder|Large|Priest|Medium|Warrior|Medium}}",
-        "type5e": "[[Plant creature|Plant]]",
+        "type5e": "Plant",
         "subtype5e": "",
-        "alignment5e": "Typically [[lawful evil]]",
-        "challenge5e": "{{CR table|edition=5e|Elder|3|Priest|2|Warrior|2}}",
+        "alignment5e": "Typically lawful evil",
+        "challenge5e": "",
         "refs5e": "",
         "size4e": "",
         "origin4e": "",
@@ -27,8 +17,8 @@
         "alignment3e": "",
         "challenge3e": "",
         "refs3e": "",
-        "size2e": "{{Size table|Warrior|Medium|Elder|Large}}",
-        "alignment2e": "[[Lawful evil]]",
+        "size2e": "",
+        "alignment2e": "Lawful evil",
         "refs2e": "",
         "size1e": "",
         "alignment1e": "",
@@ -40,7 +30,7 @@
         "diet": "Omnivore",
         "lifespan": "",
         "location": "",
-        "language": "Aartuk, [[Arcane (race)|Arcane]], [[Beholder language|Beholder]], [[Common]], [[Draconic language|Draconic]], [[Elvish]], [[Neogi language|Neogi]]",
+        "language": "Aartuk, Arcane, Beholder, Common, Draconic, Elvish, Neogi",
         "subraces": "",
         "climate": "",
         "terrain": "Any space, Any",
@@ -57,21 +47,13 @@
         "build": "",
         "distinctions": "",
         "form1": "Warrior",
-        "appearance1": "{{Appearance|height={{SI|6|ft}}|length=|wingspan=|weight=|skincolor=|haircolor=|hairstyles=|feathers=|eyecolor=|build=|distinctions=}}",
+        "appearance1": "|length=|wingspan=|weight=|skincolor=|haircolor=|hairstyles=|feathers=|eyecolor=|build=|distinctions=",
         "form2": "Elder",
-        "appearance2": "{{Appearance|height={{SI|8|ft}}|length=|wingspan=|weight=|skincolor=|haircolor=|hairstyles=|feathers=|eyecolor=|build=|distinctions=}}",
+        "appearance2": "|length=|wingspan=|weight=|skincolor=|haircolor=|hairstyles=|feathers=|eyecolor=|build=|distinctions=",
         "appearrefs": "",
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Aartuk''' were nomadic, tribal, religious fanatic [[Plant creature|plant]]s.",
-        "Description": "There were several varieties of aartuk, each belonging to different tribes, but they all shared a similar shape. Aartuk bodies were shaped like stars, moving on five appendages that ended on suction cups with three pseudopods each. Their skin was similar to a spiked bark that resembled leather. At the center of the star-shaped body, a long snake-like neck ended in an oval head with three black sensory organs, capable of detecting sounds, vibrations, and [[Infravision|infrared]] light, but not visible light.\n\nVariants of aartuk included gray, light brown, or moss-covered individuals, among others. In all cases, they were expert at blending in with their natural environment. Aartuk could eat any type of nourishment, and usually cooked their meals.",
-        "Personality": "Aartuk viewed war as a form of art and devoted their entire lives to it. They worshiped [[evil]] [[deity|deities]] associated with war from diverse origins, including [[human]] deities from several worlds, as well as other creatures.\n\nThey treasured [[gem]]s, art pieces, [[weapon]]s, and [[magic item]]s that had any association with the theme of war. Aristocrats and elders had their own type of magic item: torques worn around their necks that could provide magical protection or other enhancements. [[Humanoid]]s could wear those items like [[bracelet]]s.",
-        "Combat": "Aartuk warriors fought by throwing pellets of solidified sap at their opponents, as well as constricting them with their powerful tongues, which could grab an opponent at a distance of up to {{SI|30|ft|long=yes}}. They then proceeded to use their other appendages to crush the entangled opponent to death.\n\nElder aartuk had more powerful sap projectiles, which produced sparks when hitting their targets. If fired while in the [[phlogiston]], the spark ignited the equivalent of a ''[[fireball]]'', so this ability was used sparingly, lest it might damage the elder's allies. The elder also had [[cleric]]al powers and was capable of casting [[spell]]s such as ''[[cause fear]]'', ''[[chant]]'', ''[[command]]'', ''[[Bane (spell)|curse]]'', ''[[darkness]]'', ''[[flame blade]]'', and ''[[magic stone]]''. Additionally, elders were immune to magic that manipulated movement or the shape of plants.\n\nIn any fight, aartuk avoided harming individuals that they perceived to be capable of piloting [[spelljammer]]s, as they preferred to capture them and take them as prisoners in case they had to retreat, later employing them as slave pilots to their [[spelljammer]] vessels.",
-        "Society": "Aartuk communities could be found anywhere in [[wildspace]] or even in the phlogiston. They were always organized in tribes consisting of one elder leading several warriors. Tribes typically controlled one or more spelljammers, which they took over and plundered from defeated enemies. Different tribes could ally to face of a strong common foe, but normally they did not maintain much contact with each other.",
-        "Ecology": {
-            "Uses": "The slime secreted by aartuk tongues could be boiled to produce a fairly potent [[glue]]. The sap from elders could be fermented to produce a beverage called [[aartukia]], which was eagerly sought after by [[beholder]]s and could be sold for a substantial value. Their tongues could be dried to produce [[rope]],"
-        },
-        "History": "There were legends that indicated that the aartuk homeworld was destroyed by beholders in the distant past. For that reason, aartuk held an ancient hate toward them and would measure no effort to harm a beholder if the opportunity arose."
+        "mainbody": "Aartuk were nomadic, tribal, religious fanatic plants.\nThere were several varieties of aartuk, each belonging to different tribes, but they all shared a similar shape. Aartuk bodies were shaped like stars, moving on five appendages that ended on suction cups with three pseudopods each. Their skin was similar to a spiked bark that resembled leather. At the center of the star-shaped body, a long snake-like neck ended in an oval head with three black sensory organs, capable of detecting sounds, vibrations, and infrared light, but not visible light.\nVariants of aartuk included gray, light brown, or moss-covered individuals, among others. In all cases, they were expert at blending in with their natural environment. Aartuk could eat any type of nourishment, and usually cooked their meals. \nAartuk viewed war as a form of art and devoted their entire lives to it. They worshiped evil deities associated with war from diverse origins, including human deities from several worlds, as well as other creatures.\nThey treasured gems, art pieces, weapons, and magic items that had any association with the theme of war. Aristocrats and elders had their own type of magic item torques worn around their necks that could provide magical protection or other enhancements. Humanoids could wear those items like bracelets.\nAartuk warriors fought by throwing pellets of solidified sap at their opponents, as well as constricting them with their powerful tongues, which could grab an opponent at a distance of up to . They then proceeded to use their other appendages to crush the entangled opponent to death.\nElder aartuk had more powerful sap projectiles, which produced sparks when hitting their targets. If fired while in the phlogiston, the spark ignited the equivalent of a fireball, so this ability was used sparingly, lest it might damage the elders allies. The elder also had clerical powers and was capable of casting spells such as cause fear, chant, command, curse, darkness, flame blade, and magic stone. Additionally, elders were immune to magic that manipulated movement or the shape of plants.\nIn any fight, aartuk avoided harming individuals that they perceived to be capable of piloting spelljammers, as they preferred to capture them and take them as prisoners in case they had to retreat, later employing them as slave pilots to their spelljammer vessels.\nAartuk communities could be found anywhere in wildspace or even in the phlogiston. They were always organized in tribes consisting of one elder leading several warriors. Tribes typically controlled one or more spelljammers, which they took over and plundered from defeated enemies. Different tribes could ally to face of a strong common foe, but normally they did not maintain much contact with each other.\nThe reproductive cycle of aartuk was related with their obsession with war. They reproduced by infecting an unconscious opponent with a virus that could be cured with a remove disease spell but, if left unchecked, transformed the victims flesh into jelly over the course of a few days. From the jelly, a new aartuk emerged within one month, carrying the memories of the aartuk who had infected the victim.\nAn aartuk warrior lived between 70 and 90 years until it blossomed. A blossomed aartuk, known as an aristocrat, could display flowers, mushrooms, or rocky outgrowths, depending on the variety. After blossoming, most aartuk wilted and died, but the few who survived the process shed their original skins and became elders, who lived on for another 40 to 60 years. Newly emerged elders were usually granted a spelljamming vessel, slave pilots, and some treasure and then departed with a few young aartuk to found a new tribe.\nThe slime secreted by aartuk tongues could be boiled to produce a fairly potent glue. The sap from elders could be fermented to produce a beverage called aartukia, which was eagerly sought after by beholders and could be sold for a substantial value. Their tongues could be dried to produce rope,\nThere were legends that indicated that the aartuk homeworld was destroyed by beholders in the distant past. For that reason, aartuk held an ancient hate toward them and would measure no effort to harm a beholder if the opportunity arose."
     }
 }

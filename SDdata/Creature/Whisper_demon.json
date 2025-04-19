@@ -1,34 +1,6 @@
 {
-    "template_data": {
-        "60|ft|long": "yes",
-        "60|ft|long_1": "yes"
-    },
     "document_data": {
-        "image": "WhisperDemon3e.jpg",
-        "caption": "",
-        "name": "Whisper Demon",
-        "othernames": "",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size3e": "Medium",
-        "type3e": "[[Outsider]]",
-        "subtype3e": "[[:Category:Creatures with the chaotic subtype|Chaotic]], [[:Category:Creatures with the evil subtype|evil]], [[:Category:Creatures with the incorporeal subtype|incorporeal]]",
-        "alignment3e": "Always [[chaotic evil]]",
-        "challenge3e": "9",
-        "refs3e": "",
-        "patron deity": "",
-        "movement": "Flying",
-        "vision": "[[Darkvision]]",
-        "activecycle": "",
-        "diet": "",
-        "lifespan": "",
-        "location": "The [[Abyss]]",
-        "intelligence": "{{Int|10}}",
-        "language": "[[Abyssal language|Abyssal]], [[Celestial language|Celestial]], [[Draconic language|Draconic]], [[telepathy]]",
+        "language": "Abyssal, Celestial, Draconic, telepathy",
         "climate": "",
         "terrain": "",
         "genrefs": "",
@@ -43,10 +15,6 @@
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Whisper demons''' were insane, destructive [[demon]]s that enjoyed driving other creatures to commit suicide.",
-        "Description": "Whisper demons resembled ghostly humanoids with green skin, wild eyes, fangs, and claws, but they were weightless and incorporeal creatures.",
-        "Abilities": "Whisper demons spoke several languages, but they also possessed [[telepathy]] that allowed them to speak directly into the minds of others. Any creature within {{SI|60|ft|long=yes}} of a whisper demon heard its constant, insane mental whispering. Additionally, any creature that tried to make mental contact with a whisper demon took damage due to the demon's sheer insanity.\n\nWhisper demons were immune to the ''[[confusion]]'' and ''[[insanity]]'' spells, as well as poison, hypnotism, and electricity. As incorporeal creatures, magical weapons were required in order to harm them. In combat, whisper demons could \"claw\" at opponents in the form of what was called incorporeal touches.\n\nUndead were naturally immune to the insanity-inducing telepathy of whisper demons. A whisper demon could turn any creature that committed suicide within {{SI|60|ft|long=yes}} of it into an [[allip]], and could control up to nine allips without trouble.",
-        "Personality": "Whisper demons were thoroughly insane and just as malevolent.",
-        "Society": "Whisper demons were native to the [[Abyss]], where all other kinds of demons and Abyssal inhabitants avoided them.\n\nWhisper demons were often accompanied by allips and occasionally by other undead."
+        "mainbody": "Whisper demons were insane, destructive demons that enjoyed driving other creatures to commit suicide.\nWhisper demons resembled ghostly humanoids with green skin, wild eyes, fangs, and claws, but they were weightless and incorporeal creatures.\nWhisper demons spoke several languages, but they also possessed telepathy that allowed them to speak directly into the minds of others. Any creature within  of a whisper demon heard its constant, insane mental whispering. Additionally, any creature that tried to make mental contact with a whisper demon took damage due to the demons sheer insanity.\nWhisper demons were immune to the confusion and insanity spells, as well as poison, hypnotism, and electricity. As incorporeal creatures, magical weapons were required in order to harm them. In combat, whisper demons could \"claw\" at opponents in the form of what was called incorporeal touches.\nUndead were naturally immune to the insanity-inducing telepathy of whisper demons. A whisper demon could turn any creature that committed suicide within  of it into an allip, and could control up to nine allips without trouble.\nWhisper demons were thoroughly insane and just as malevolent.\nWhisper demons were native to the Abyss, where all other kinds of demons and Abyssal inhabitants avoided them.\nWhisper demons were often accompanied by allips and occasionally by other undead."
     }
 }

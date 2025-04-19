@@ -1,21 +1,13 @@
 {
     "document_data": {
-        "image": "WarbladeBG2.png",
-        "caption": "",
-        "name": "''Warblade''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Item enchantment|Enchanted]] [[greatsword]]",
-        "creator": "",
-        "location": "[[Athkatla]], [[Amn]]<br/>{{Former}}[[The North]]",
         "basicrefs": "",
         "value1e": "",
         "weight1e": "",
         "refs1e": "",
         "school2e": "",
         "level2e": "+4",
-        "value2e": "17,500 [[gp]]",
-        "weight2e": "{{SI|11|lb|k}}",
+        "value2e": "17,500 gp",
+        "weight2e": "",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -38,9 +30,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The '''''Warblade''''' was an [[Item enchantment|enchanted]] [[greatsword]] that originated from the [[barbarian]] tribes of [[the North]].",
-        "Description": "The sword was crafted during a raging battle. After it was forged, the blade was dipped in the blood of courageous fallen warriors.",
-        "Powers": "The ''Warblade'' possessed a ''+4 enchantment'' that was said to have bestowed by barbarian gods themselves.",
-        "History": "As of the {{YearlinkName|1369}}, the sword was in the possession of [[Ribald Barterman]], a merchant in [[Athkatla]]."
+        "mainbody": "The Warblade was an enchanted greatsword that originated from the barbarian tribes of the North.\nThe sword was crafted during a raging battle. After it was forged, the blade was dipped in the blood of courageous fallen warriors.\nThe Warblade possessed a +4 enchantment that was said to have bestowed by barbarian gods themselves.\nAs of the , the sword was in the possession of Ribald Barterman, a merchant in Athkatla."
     }
 }

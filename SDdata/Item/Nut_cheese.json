@@ -1,23 +1,6 @@
 {
-    "template_data": {
-        "rca": "right",
-        "rca_1": "right"
-    },
     "document_data": {
-        "image": "Nut_cheese-2e.jpg",
-        "caption": "",
-        "name": "Nut Cheese",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Cheese]]",
-        "location": "[[Savage Frontier]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "{{Split table|rca=right|Wheel|1 [[gp]]|Elliptical whey|50 [[gp]]}}",
-        "weight2e": "{{Split table|rca=right|Wheel|{{SI|2|lb}}|Elliptical whey|{{SI|100|lb|k}}}}",
+        "weight2e": "|Elliptical whey|",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -39,7 +22,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''Nut cheese''' was a type of [[cheese]] mixed with [[nut]]s produced in many cities of the [[Savage Frontier]], including [[Silverymoon]], [[Mirabar]], and [[Sundabar]]. A selection was available from ''[[Aurora's Whole Realms Catalogue]]''.",
-        "Description": "Each [[North]]ern city produced its own variety of nut cheese. If ordered from ''Aurora's Whole Realms Catalogue'' without specifying a desired origin, a customer would receive an assorted lot.\n\nNut cheeses were hard and rich, and mixed with ground [[hickory]] nuts, [[walnut]]s, and [[chestnut]]s. Once mixed with the nuts, the cheeses would be left to ripen."
+        "mainbody": "Nut cheese was a type of cheese mixed with nuts produced in many cities of the Savage Frontier, including Silverymoon, Mirabar, and Sundabar. A selection was available from Auroras Whole Realms Catalogue.\nEach Northern city produced its own variety of nut cheese. If ordered from Auroras Whole Realms Catalogue without specifying a desired origin, a customer would receive an assorted lot.\nNut cheeses were hard and rich, and mixed with ground hickory nuts, walnuts, and chestnuts. Once mixed with the nuts, the cheeses would be left to ripen."
     }
 }

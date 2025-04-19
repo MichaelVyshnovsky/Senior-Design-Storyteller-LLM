@@ -1,32 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Champion's Symbol''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Holy symbol]]<br />[[Magic]] [[implement]]",
-        "material": "",
-        "creator": "",
-        "origin": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "",
-        "refs3e": "",
-        "level4e": "15+",
-        "value4e": "{{plain table|Lvl 15|25,000 [[gp]]|Lvl 20|125,000 gp|Lvl 25|625,000 gp|Lvl 30|3,125,000 gp}}",
         "weight4e": "",
         "refs4e": "",
         "rarity5e": "",
@@ -40,9 +13,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "A '''''champion's symbol''''' was an [[enchanted]] [[holy symbol]] inscribed with stylized flames that allowed the wearer to impose their will over their foes.",
-        "Powers": "The ''symbol'' granted its wearer the power to dominate the will of their enemies when they struck them with a mighty weapon strike, a [[fire]]-based [[spell]], or a [[Radiant energy|radiant]] spell.",
-        "History": "As of the late 15{{th}} century [[DR]], ''champion's symbols'' were known to be possessed by followers of [[Bane]] in [[Vaasa]]{{Cite organized play/LFR/Tyranny's Bitter Frost|8}} and by the [[church of Torm]], the [[church of Ilmater]], and the [[Luminous Society]] in [[Impiltur]].{{Cite lfr/IMPI1-6/The Ancient Temple|24}}{{Cite lfr/IMPI1-6/The Ancient Temple|6}}",
-        "Rumors & Legends": "Some said that the design of the ''champion's symbol'' was inspired by a legendary [[priest]] of [[Bahamut]] who used holy fire to purge his [[church of Bahamut|church]] of corruption and [[evil]] infiltrators."
+        "mainbody": "A champions symbol was an enchanted holy symbol inscribed with stylized flames that allowed the wearer to impose their will over their foes.\nThe symbol granted its wearer the power to dominate the will of their enemies when they struck them with a mighty weapon strike, a fire-based spell, or a radiant spell.\nAs of the late 15 century DR, champions symbols were known to be possessed by followers of Bane in Vaasa and by the church of Torm, the church of Ilmater, and the Luminous Society in Impiltur.\nSome said that the design of the champions symbol was inspired by a legendary priest of Bahamut who used holy fire to purge his church of corruption and evil infiltrators."
     }
 }

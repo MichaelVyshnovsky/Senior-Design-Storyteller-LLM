@@ -1,28 +1,7 @@
 {
-    "template_data": {
-        "rca": "right",
-        "rca_1": "right"
-    },
     "document_data": {
-        "image": "Circlet_of_blasting-5e.jpg",
-        "caption": "",
-        "name": "''Circlet of Blasting''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Wondrous item",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "[[Evocation]]",
-        "casterlevel3e": "{{Split table|rca=right|Minor|6|Major|17}}",
         "itemlevel3e": "",
-        "value3e": "{{Split table|rca=right|Minor|6,480 [[gp]]|Major|23,760 gp}}",
+        "value3e": "",
         "weight3e": "",
         "refs3e": "",
         "level4e": "",
@@ -40,9 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "A '''''circlet of blasting''''' was a delicate [[magic item|magical]] [[circlet]] that had the power to sear and burn a number of targets.",
-        "Powers": "The wearer of a ''circlet of blasting'' could use its power to cast the ''[[scorching ray]]'' [[spell]], once per day. The circlet regained its power at the following dawn. Pre-[[Spellplague]] versions unleashed the ''[[searing light]]'' spell instead.",
-        "History": "A weaker variation of these items, ''minor circlets of blasting'', were recovered from agents of the [[Zhentarim]] sometime shortly before the {{YearlinkName|1374}}. These circlets were taken from the [[Bedine]] nomads of the [[Anauroch]], suggesting that the items' true origins were the ancient [[Netherese]] empire.",
-        "Notable Owners": "* [[Blurg]]: A [[bugbear]] member of the [[Society of Brilliance]] who resided in a peaceful [[myconid]] colony in the [[Underdark]] ''circa'' [[1492 DR]].\n* [[Raggadragga]]: The [[wereboar]] warlord of the [[Goreguts Gang]] wore a ''circlet of blasting''."
+        "mainbody": "A circlet of blasting was a delicate magical circlet that had the power to sear and burn a number of targets.\nThe wearer of a circlet of blasting could use its power to cast the scorching ray spell, once per day. The circlet regained its power at the following dawn. Pre-Spellplague versions unleashed the searing light spell instead.\nA weaker variation of these items, minor circlets of blasting, were recovered from agents of the Zhentarim sometime shortly before the . These circlets were taken from the Bedine nomads of the Anauroch, suggesting that the items true origins were the ancient Netherese empire.\n* Blurg A bugbear member of the Society of Brilliance who resided in a peaceful myconid colony in the Underdark circa 1492 DR.\n* Raggadragga The wereboar warlord of the Goreguts Gang wore a circlet of blasting."
     }
 }

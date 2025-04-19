@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "20|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Armor of Loyalty.jpg",
-        "caption": "",
-        "name": "''Armor of Loyalty''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Leather armor]]",
-        "location": "[[Neverwinter]], [[Highcliff]], [[Sword Coast]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+1",
-        "value3e": "",
-        "weight3e": "{{SI|20|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Armor of loyalty''''' was a type of [[light armor]] that protected the wearer from magical ''[[charm]]ing''.",
-        "Powers": "These sets of leathers possessed a ''+1'' enchantment and made the wearer immune to the effects of ''[[charm person]]'' and ''[[dominate person]]'' [[spell]]s.",
-        "History": "The first accords of ''armors of loyalty'' came from a [[wizard]] [[Mekhari]], who sometime before the 14{{th}} century [[DR]] became targeted by his one bodyguards, charmed by a rival [[enchanter]], wronged by Mekhari. The wizard thought such a waste of hired guards to be expensive, so he set out to find a way of protecting himself without resorting to killing his employees. Subsequently, Mekhari outfitted his men with ''armors of loyalty''. His death still arrived at the hands of his own lieutenant after a heated wage dispute.\n\nBy the late 14{{th}} century DR, ''armors of loyalty'' could be found in several locations across the [[Sword Coast]], including the city of [[neverwinter]], and town of [[Highcliff]]."
+        "mainbody": "Armor of loyalty was a type of light armor that protected the wearer from magical charming.\nThese sets of leathers possessed a +1 enchantment and made the wearer immune to the effects of charm person and dominate person spells.\nThe first accords of armors of loyalty came from a wizard Mekhari, who sometime before the 14 century DR became targeted by his one bodyguards, charmed by a rival enchanter, wronged by Mekhari. The wizard thought such a waste of hired guards to be expensive, so he set out to find a way of protecting himself without resorting to killing his employees. Subsequently, Mekhari outfitted his men with armors of loyalty. His death still arrived at the hands of his own lieutenant after a heated wage dispute.\nBy the late 14 century DR, armors of loyalty could be found in several locations across the Sword Coast, including the city of neverwinter, and town of Highcliff."
     }
 }

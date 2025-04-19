@@ -1,46 +1,12 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Daltim's Fiery Protector",
-        "deity": "",
-        "school": "[[Conjuration]], [[Enchantment]]",
-        "inventor": "[[Daltim Flamefist]]",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Conjuration]] (summoning), [[Enchantment]], [[Elemental fire school|Fire]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|5}}",
         "type2e": "",
-        "refs2e": "<ref>",
+        "refs2e": "",
         "reversible1e": "",
         "school1e": "",
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Daltim's fiery protector''''' was an arcane [[conjuration]]/[[enchantment]] [[spell]] that summoned and bound a minor [[fire elemental]] to defend a certain item. It was developed by [[Daltim Flamefist]] of [[Halruaa]].",
-        "Effects": "The spell summoned a very minor and non-sentient [[fire elemental]] (the \"fiery protector\" of the title), trapped it within a special symbol marked upon an object, and set the elemental to then defend that object. The spell could be applied to any object that could be opened or closed, like a book, chest, door, or door, similar to a ''[[fire trap]]'' spell, though it would not work in conjunction with any other closure or warding spells; both would fail in such a case. The caster, or anyone who spoke a pre-determined password, could open and use the object safely, but anyone else released the fire elemental guardian. It would immediately attack to defend the object and kill or drive off the intruder. The elemental was bound to within 120 yards (110 meters) of its prison, and would return if successful. If the elemental was slain, however, the spell was ended. Otherwise, it would last forever.\n\nThe so-warded object emitted heat and bore special markings, which could be detected by those with a careful eye for traps. A would-be intruder could attempt to remove it by altering the marks; failure would set off the spell, but even success could see the suddenly liberated fire elemental attack before escaping back to its [[Elemental Plane of Fire|home plane]]. A ''[[dispel magic]]'' could be used to remove the spell and return the elemental.",
-        "Usage": "A ''fiery protector'' spell was typically placed on an item that the cast desired to protect, such as a [[spellbook]].",
-        "Components": "In addition to the usual verbal and somatic components, the spell required sulfur sprinkled on the object to be protected, and a [[ruby]] worth no less than 500 [[gold piece]]s to lure the fire elemental; this was destroyed in the casting. The caster also had to mark the object and make a small symbol to hold the fire elemental.",
-        "History": "The spell was developed by the Halruaan mage Daltim Flamefist sometime in the mid–14th century [[DR]]. He included it in his [[spellbook]] ''[[Daltim's Tome of Fire]]'', which he lost in [[Tethyr]] in the 1360s [[DR]]. It remained a unique spell at the time."
+        "mainbody": "Daltims fiery protector was an arcane conjuration/enchantment spell that summoned and bound a minor fire elemental to defend a certain item. It was developed by Daltim Flamefist of Halruaa.\nThe spell summoned a very minor and non-sentient fire elemental (the \"fiery protector\" of the title), trapped it within a special symbol marked upon an object, and set the elemental to then defend that object. The spell could be applied to any object that could be opened or closed, like a book, chest, door, or door, similar to a fire trap spell, though it would not work in conjunction with any other closure or warding spells both would fail in such a case. The caster, or anyone who spoke a pre-determined password, could open and use the object safely, but anyone else released the fire elemental guardian. It would immediately attack to defend the object and kill or drive off the intruder. The elemental was bound to within 120 yards (110 meters) of its prison, and would return if successful. If the elemental was slain, however, the spell was ended. Otherwise, it would last forever.\nThe so-warded object emitted heat and bore special markings, which could be detected by those with a careful eye for traps. A would-be intruder could attempt to remove it by altering the marks failure would set off the spell, but even success could see the suddenly liberated fire elemental attack before escaping back to its home plane. A dispel magic could be used to remove the spell and return the elemental.\nA fiery protector spell was typically placed on an item that the cast desired to protect, such as a spellbook.\nIn addition to the usual verbal and somatic components, the spell required sulfur sprinkled on the object to be protected, and a ruby worth no less than 500 gold pieces to lure the fire elemental this was destroyed in the casting. The caster also had to mark the object and make a small symbol to hold the fire elemental.\nThe spell was developed by the Halruaan mage Daltim Flamefist sometime in the mid–14th century DR. He included it in his spellbook Daltims Tome of Fire, which he lost in Tethyr in the 1360s DR. It remained a unique spell at the time."
     }
 }

@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Venom's Brambletangle",
-        "deity": "",
-        "inventor": "[[Venominhandar]]",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|1}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Venom's brambletangle''''' was a [[spell]] that could only be cast by [[dragon]]s.",
-        "Effects": "The spell had to be cast in an area with brambles, briars, or thorn bushes present. After casting, the spell transformed the existing bramble into a dense thicket, so dense it made moving impossible. The spell also created more thorns, so not only could a trapped creature not move, they were constantly pricked by thorns.",
-        "Casting": "This spell required only a [[Verbal component|verbal]] component.",
-        "History": "This spell was created by the [[green dragon]] [[Venominhandar]]. The spell was used by his descendant, green dragon turned [[dracolich]] [[Dretchroyaster]]. Legend said that Venominhandar used this spell along with ''[[Venom's thicketgrowth]]'' to alter the Emerald Vale into the [[Tangled Vale]]."
+        "mainbody": "Venoms brambletangle was a spell that could only be cast by dragons.\nThe spell had to be cast in an area with brambles, briars, or thorn bushes present. After casting, the spell transformed the existing bramble into a dense thicket, so dense it made moving impossible. The spell also created more thorns, so not only could a trapped creature not move, they were constantly pricked by thorns.\nThis spell required only a verbal component.\nThis spell was created by the green dragon Venominhandar. The spell was used by his descendant, green dragon turned dracolich Dretchroyaster. Legend said that Venominhandar used this spell along with Venoms thicketgrowth to alter the Emerald Vale into the Tangled Vale."
     }
 }

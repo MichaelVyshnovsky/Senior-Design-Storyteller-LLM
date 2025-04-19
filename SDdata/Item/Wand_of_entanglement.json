@@ -1,30 +1,8 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Wand of Entanglement''",
-        "othernames": "''Wand of Entangle''",
-        "nicknames": "",
-        "type": "[[Wand]]",
-        "creator": "",
-        "location": "[[Elven Catacombs]], [[Myth Drannor]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "5{{th}}",
         "itemlevel3e": "",
         "value3e": "",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,9 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Wands of entanglement''''' were [[enchanted]] [[wand]]s that allowed the wielder to cast the ''[[entangle]]'' spell.",
-        "Description": "These wands were created using vines that remained alive, growing out of the rod base.",
-        "Powers": "The wielder could produce ''entangle'' spells at will. Each wand possessed as few as four After the [[Second Sundering]], ''wands of entanglement'' with only seven charges were more common. These wands regenerated charges each dawn and could disintegrate into dust when exhausted.",
-        "History": "In [[1369 DR]], several of these wands were unearthed in the deep [[Elven Catacombs]] of [[Myth Drannor]], during the city's occupation by the forces of the [[Cult of the Dragon]]."
+        "mainbody": "Wands of entanglement were enchanted wands that allowed the wielder to cast the entangle spell.\nThese wands were created using vines that remained alive, growing out of the rod base.\nThe wielder could produce entangle spells at will. Each wand possessed as few as four After the Second Sundering, wands of entanglement with only seven charges were more common. These wands regenerated charges each dawn and could disintegrate into dust when exhausted.\nIn 1369 DR, several of these wands were unearthed in the deep Elven Catacombs of Myth Drannor, during the citys occupation by the forces of the Cult of the Dragon."
     }
 }

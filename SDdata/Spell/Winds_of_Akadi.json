@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Winds of Akadi",
-        "othernames": "",
-        "deity": "[[Akadi]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]], [[Evocation]]",
-        "spheres2e": "[[Elemental air sphere|Elemental air]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|4}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -45,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Winds of Akadi''''' was a [[Divine magic|divine]] [[alteration]] and [[evocation]] [[spell]] used by specialty priests devoted to [[Akadi]], enabling them to create a swirling sphere of air.",
-        "Effects": "This spell created a swirling {{SI|30|ft}} diameter sphere of air where the caster pointed. The spherical cloud would cause minor harm to any creatures found within it. The cloud would strike out with a ''[[lightning bolt]]'' every other minute until five bolts had struck. The caster could direct which target these bolts would strike, and they were free to perform other actions while waiting for the next bolt to direct.",
-        "Components": "This spell required only [[verbal component|verbal]] and [[somatic component]]s to cast."
+        "mainbody": "Winds of Akadi was a divine alteration and evocation spell used by specialty priests devoted to Akadi, enabling them to create a swirling sphere of air.\nThis spell created a swirling  diameter sphere of air where the caster pointed. The spherical cloud would cause minor harm to any creatures found within it. The cloud would strike out with a lightning bolt every other minute until five bolts had struck. The caster could direct which target these bolts would strike, and they were free to perform other actions while waiting for the next bolt to direct.\nThis spell required only verbal and somatic components to cast."
     }
 }

@@ -1,40 +1,10 @@
 {
-    "template_data": {
-        "edition": "4e",
-        "3|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Giant Fly",
-        "othernames": "",
-        "size5e": "Large",
-        "type5e": "[[Beast]]",
-        "subtype5e": "",
-        "alignment5e": "[[Unaligned]]",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "",
-        "type3e": "",
-        "subtype3e": "",
-        "alignment3e": "",
-        "challenge3e": "",
-        "refs3e": "",
-        "size2e": "Medium",
-        "alignment2e": "[[Neutral]]",
-        "refs2e": "",
-        "size1e": "{{size table|edition=4e|Bluebottle|Medium|Horsefly|Large}}",
-        "alignment1e": "[[Neutral]]",
+        "alignment1e": "Neutral",
         "refs1e": "",
         "patron deity": "",
         "movement": "Flying",
-        "vision": "[[Darkvision]]",
+        "vision": "Darkvision",
         "activecycle": "",
         "diet": "",
         "lifespan": "",
@@ -45,7 +15,7 @@
         "terrain": "",
         "genrefs": "",
         "height": "",
-        "length": "{{SI|5|ft}}",
+        "length": "",
         "wingspan": "",
         "weight": "",
         "skincolor": "",
@@ -59,13 +29,6 @@
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Giant flies''' were monstrous varieties of the mundane order of insects known as flies.",
-        "Behavior": "All species of giant fly were highly fearful of [[fire]] and instinctively avoided it at all cost, as it could easily destroy their wings.",
-        "Combat": "Giant flies would land upon their prey and bite at their bodies. When engaging an aggressively defensive foe, giant flies tended to jump {{SI|3|ft|long=yes}} backwards to escape combat.",
-        "Species": ";Bluebottle\n:A monstrous variety of the mundane [[bluebottle fly]]. They rarely attacked living creatures, unless they had open wounds or were covered in blood. This is because they preferred eating things such as carrion and offal. They were also known to be attracted to sweet odors. Those bitten by giant bluebottle flies had a low chance of contracting some form of [[disease]].\n;Horsefly\n:A monstrous variety of the mundane horsefly, these were the largest species of giant fly. Highly aggressive, they were willing to attack nearly any creature. They had a tuberous mouth from which they drew blood from others.",
-        "Ecology": {
-            "Habitats": "Giant flies were primarily known to inhabit the jungles of [[Chult]].\n\nGiant horseflies were known to inhabit the [[Cormanthor#Rimwood|rimwood forest]] of [[Cormanthyr]], as well as the plains of [[Cormyr]], the [[Dalelands]], and [[Sembia]]. In [[Thay]], they could be found in [[Delhumide (tharch)|Delhumide]] and [[Priador]].<ref> And beyond [[Toril]], they could be found on the planet [[Karpri]].\n\nIn [[Interior Faerûn]], both giant horseflies and bluebottle flies could be found in the jungle within the [[Cathedral of Emerald Scales]]."
-        },
-        "Trivia": "* The ''[[figurine of wondrous power]]'' known as the \"ebon fly\" was carved in the likeness of a horsefly. When activated it transformed into a giant fly that could be ridden as a [[mount]].\n* [[Myshik Morueme]] was skilled in riding giant flies as mounts."
+        "mainbody": "Giant flies were monstrous varieties of the mundane order of insects known as flies.\nAll species of giant fly were highly fearful of fire and instinctively avoided it at all cost, as it could easily destroy their wings.\nGiant flies would land upon their prey and bite at their bodies. When engaging an aggressively defensive foe, giant flies tended to jump  backwards to escape combat.\nBluebottle\nA monstrous variety of the mundane bluebottle fly. They rarely attacked living creatures, unless they had open wounds or were covered in blood. This is because they preferred eating things such as carrion and offal. They were also known to be attracted to sweet odors. Those bitten by giant bluebottle flies had a low chance of contracting some form of disease.\nHorsefly\nA monstrous variety of the mundane horsefly, these were the largest species of giant fly. Highly aggressive, they were willing to attack nearly any creature. They had a tuberous mouth from which they drew blood from others.\nGiant flies were primarily known to inhabit the jungles of Chult.\nGiant horseflies were known to inhabit the rimwood forest of Cormanthyr, as well as the plains of Cormyr, the Dalelands, and Sembia. In Thay, they could be found in Delhumide and Priador. And beyond Toril, they could be found on the planet Karpri.\nIn Interior Faerûn, both giant horseflies and bluebottle flies could be found in the jungle within the Cathedral of Emerald Scales.\n* The figurine of wondrous power known as the \"ebon fly\" was carved in the likeness of a horsefly. When activated it transformed into a giant fly that could be ridden as a mount.\n* Myshik Morueme was skilled in riding giant flies as mounts."
     }
 }

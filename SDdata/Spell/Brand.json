@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Brand",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]], [[Necromancy]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|1}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Brand''''' was a sadistic wizard spell created by a ''[[shig'harak]]'' of the [[Brotherhood of the True Flame]] in [[Zakhara]].{{Cite dragon/268/Secrets of the Brotherhood of the True Flame}}",
-        "Effects": "''Brand'' was similar to the ''[[wizard mark]]'' spell save that it could be placed on any surface, including flesh. When cast, this spell burned between 1-6 figures into the subject matter. Living tissue suffered excruciating pain from the experience. Once placed upon an inanimate surface, only the caster of the spell could remove the ''brand''. If placed on living tissue, the caster or a ''[[heal]]'' spell could remove a ''brand''.\n\nPersons with a ''brand'' on a visible part of their body were often shunned by others.",
-        "Components": "This spell only required verbal and somatic components to cast."
+        "mainbody": "Brand was a sadistic wizard spell created by a shigharak of the Brotherhood of the True Flame in Zakhara.\nBrand was similar to the wizard mark spell save that it could be placed on any surface, including flesh. When cast, this spell burned between 1-6 figures into the subject matter. Living tissue suffered excruciating pain from the experience. Once placed upon an inanimate surface, only the caster of the spell could remove the brand. If placed on living tissue, the caster or a heal spell could remove a brand.\nPersons with a brand on a visible part of their body were often shunned by others.\nThis spell only required verbal and somatic components to cast."
     }
 }

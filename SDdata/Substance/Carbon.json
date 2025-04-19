@@ -1,31 +1,7 @@
 {
-    "template_data": {
-        "rca": "center",
-        "1|ounce|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Carbon",
-        "aliases": "",
-        "locations": "",
-        "discovered": "",
-        "date": "",
-        "creators": "",
-        "created": "",
-        "hisrefs": "",
-        "type": "Element",
-        "components": "",
-        "color": "",
-        "properties": "",
-        "markings": "",
-        "phyrefs": "",
-        "uses": "[[Material component]], alloys, medicine",
-        "cost": "{{Split table|rca=center",
-        "Amorphous|2 [[gp]] per {{SI|1|oz}}\n|Graphitic|3 gp per {{SI|6|oz}}\n|Elemental|2 gp per {{SI|1|oz}}\n}}\n| userefs": "",
+        "Graphitic|3 gp per \n|Elemental|2 gp per \n| userefs": "",
         "items": "",
-        "mainbody": "'''Carbon''' was an elemental material found in the [[Realms]].",
-        "Availability": "Carbon was commonly found in the near-pure forms of [[soot]], [[charcoal]], [[coke]], and [[graphite]].{{Cite dragon/81/Living in a material world|61}} It was much more rarely encountered as [[diamond]]s, a pure and naturally forming kind of crystalline carbon.{{Cite dragon/248/Crystal Confusion|45}}{{Cite archive/Greenwood's Grotto/2023-03-10/Diamonds as spell components}}\n\n[[Aurora's Emporium]] sold amorphous carbon for 1 [[gp]] per {{SI|6|oz}} and [[graphitic carbon]] for 3 gp per {{SI|6|oz}}, which were intended for the arcane uses of [[wizard]]s.\n\nThe [[Elemental Store]] of [[Karsus Enclave]] sold pure elemental carbon for 2 gp per {{SI|1|ounce|long=yes}}.",
-        "Usages": "* [[Star metal]] was naturally composed of [[iron]] infused with carbon.{{Cite dragon/148/Always Wear Your Best Suit|17}}{{Cite dragon/123/Fire for Effect!|35}}\n* [[Iron]] and [[steel]] used carbon in the alloying process to improve the metal. Too much would render the metal brittle and useless.{{Cite dragon/316/Elminster's Guide to the Realms: The Black Dwarf Mine|74-77}}\n* The ''[[enchanted weapon]]'' weapon spell used some powdered carbon and [[Lime (material)|lime]]."
+        "mainbody": "Carbon was an elemental material found in the Realms.\nCarbon was commonly found in the near-pure forms of soot, charcoal, coke, and graphite. It was much more rarely encountered as diamonds, a pure and naturally forming kind of crystalline carbon.\nAuroras Emporium sold amorphous carbon for 1 gp per  and graphitic carbon for 3 gp per , which were intended for the arcane uses of wizards.\nThe Elemental Store of Karsus Enclave sold pure elemental carbon for 2 gp per .\n* Star metal was naturally composed of iron infused with carbon.\n* Iron and steel used carbon in the alloying process to improve the metal. Too much would render the metal brittle and useless.\n* The enchanted weapon weapon spell used some powdered carbon and lime."
     }
 }

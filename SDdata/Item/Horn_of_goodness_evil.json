@@ -1,28 +1,8 @@
 {
-    "template_data": {
-        "0.5|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Horn of good evil.png",
-        "caption": "",
-        "name": "''Horn of Goodness/Evil''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Horn]]",
-        "location": "[[Elmwood]], [[Moonsea]]<br/>[[Cormyr]]<br/>[[Damara]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "5{{th}}",
         "itemlevel3e": "",
         "value3e": "",
-        "weight3e": "{{SI|0.5|lb|k|long=yes}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -38,8 +18,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''''Horns of goodness/evil''''' were [[trumpet]]s that had limited musical capability but powerful [[enchantment]]s.",
-        "Powers": "These instruments were capable of producing only two musical tones: a high ringing carillon peal that acred as the ''[[magic circle against evil]]'' spell and a low moan that summoned a ''[[magic circle against good]]''. Either one of these notes could be produced only once per day.\n\nA variant of these trumpets, ''horns of goodness'' that could only protect the user from creatures of good, had a nasty chance of changing the [[bard]] who used it. There was a coin-toss chase that if a goodly person were to use it, the horn's magics perverted them, turning them closer to the side of evil.",
-        "Notable Owners": "*[[Gar Saru]], a retired knight from [[Ravens Bluff]], active in the late 14{{th}} century [[DR]]."
+        "mainbody": "Horns of goodness/evil were trumpets that had limited musical capability but powerful enchantments.\nThese instruments were capable of producing only two musical tones a high ringing carillon peal that acred as the magic circle against evil spell and a low moan that summoned a magic circle against good. Either one of these notes could be produced only once per day.\nA variant of these trumpets, horns of goodness that could only protect the user from creatures of good, had a nasty chance of changing the bard who used it. There was a coin-toss chase that if a goodly person were to use it, the horns magics perverted them, turning them closer to the side of evil.\n*Gar Saru, a retired knight from Ravens Bluff, active in the late 14 century DR."
     }
 }

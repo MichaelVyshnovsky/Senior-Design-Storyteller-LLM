@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "0.5|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Boots of Hardiness''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Boots]]",
-        "location": "[[Neverwinter]], [[Sword Coast]]<br />[[Neverwinter Wood]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+1,+2,+3",
-        "value3e": "",
-        "weight3e": "{{SI|0.5|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Boots of hardiness''''' were enchanted [[boots]] worn by the members of [[Neverwinter Wood]]'s [[druid]] grove ''circa'' [[1372 DR]].",
-        "Powers": "''Boots of hardiness'' increased the wearer's defense via enhanced dodging skills as well and increased their constitution.",
-        "History": "The first pair of ''boots of hardiness'' was commissioned by a druid named [[Aawill]] who travelled all over the north of [[Faerûn]]. He needed a reliable pair of boots that improved his chanced of survival while heading to the dangers of Neverwinter Woods. Eventually, he became the arch druid of the woods' druid grove and ordered more pairs of the enchanted boots to be created for his fellow circle members."
+        "mainbody": "Boots of hardiness were enchanted boots worn by the members of Neverwinter Woods druid grove circa 1372 DR.\nBoots of hardiness increased the wearers defense via enhanced dodging skills as well and increased their constitution.\nThe first pair of boots of hardiness was commissioned by a druid named Aawill who travelled all over the north of Faerûn. He needed a reliable pair of boots that improved his chanced of survival while heading to the dangers of Neverwinter Woods. Eventually, he became the arch druid of the woods druid grove and ordered more pairs of the enchanted boots to be created for his fellow circle members."
     }
 }

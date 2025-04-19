@@ -1,30 +1,8 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Doomkin scarab''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Amulet]]",
-        "creator": "",
-        "location": "[[Myth Drannor]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "15{{th}}",
         "itemlevel3e": "",
         "value3e": "",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,9 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Doomkin scarabs''''' were enchanted [[amulet]]s that belonged to the elite fighting force of the [[Cult of the Dragon]], the Doomkin ''circa'' [[1369 DR]].",
-        "Description": "''Doomkin scarabs'' were jewels cut into a shape of a [[scarab]], common among magical amulets. The scarab was decorated with the sigil of the Cult of the Dragon.",
-        "Powers": "''Doomkin scarabs'' served only one function to allow the Cult of the Dragon members to ''[[dominate person|dominate]]'' the minds of their opponents.",
-        "History": "In 1369 DR, the Cult of the Dragon invaded the ruins of [[Myth Drannor]] under the leadership of [[Kya Mordrayn]]. Her personal elite force of the Doomkin was led by [[Azmark Duathel]], with a ''doomkin scarab'' hanging around his neck. Azmark and his squad eventually met their doom facing the group of adventurers known as the [[Veiled Ones]], trying to stop the heroes from restoring the corrupted ''[[mythal]]''."
+        "mainbody": "Doomkin scarabs were enchanted amulets that belonged to the elite fighting force of the Cult of the Dragon, the Doomkin circa 1369 DR.\nDoomkin scarabs were jewels cut into a shape of a scarab, common among magical amulets. The scarab was decorated with the sigil of the Cult of the Dragon.\nDoomkin scarabs served only one function to allow the Cult of the Dragon members to dominate the minds of their opponents.\nIn 1369 DR, the Cult of the Dragon invaded the ruins of Myth Drannor under the leadership of Kya Mordrayn. Her personal elite force of the Doomkin was led by Azmark Duathel, with a doomkin scarab hanging around his neck. Azmark and his squad eventually met their doom facing the group of adventurers known as the Veiled Ones, trying to stop the heroes from restoring the corrupted mythal."
     }
 }

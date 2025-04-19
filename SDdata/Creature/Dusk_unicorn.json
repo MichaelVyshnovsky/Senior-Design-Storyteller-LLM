@@ -1,33 +1,6 @@
 {
-    "template_data": {
-        "25|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Dusk Unicorn",
-        "othernames": "",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "Large",
-        "origin4e": "[[Fey]]",
-        "type4e": "[[Magical beast]]",
-        "subtype4e": "",
-        "alignment4e": "[[Unaligned]]",
-        "refs4e": "",
-        "patron deity": "",
-        "movement": "",
-        "vision": "[[Low-light vision]]",
-        "activecycle": "",
-        "diet": "",
-        "lifespan": "",
-        "location": "",
-        "intelligence": "{{Int|17}}",
-        "language": "[[Elven language|Elven]]",
+        "language": "Elven",
         "climate": "",
         "terrain": "",
         "genrefs": "",
@@ -43,9 +16,6 @@
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "A '''dusk unicorn''' was a rare breed of [[unicorn]]. Some fey believed that the birth of one was an auspicious omen.",
-        "Description": "Unlike regular unicorns, dusk unicorns possessed a dark coat and mane and a black horn.\n<!--==Behavior==-->",
-        "Abilities": "Dusk unicorns, like other unicorns, could heal other creatures by touching them with their horn. Additionally, a dusk unicorn possessed a further two unusual magical abilities: they could manifest a group of [[dancing lights]] that drew other creatures towards the light, and they could teleport themselves or a group of allies up to {{SI|25|ft|long=yes}}.",
-        "Combat": "Dusk unicorns wielded their hooves and their horn as weapons; in particular, charging into an enemy horn-first was an effective tactic of theirs.\n<!--==Ecology=="
+        "mainbody": "A dusk unicorn was a rare breed of unicorn. Some fey believed that the birth of one was an auspicious omen.\nUnlike regular unicorns, dusk unicorns possessed a dark coat and mane and a black horn.\nDusk unicorns, like other unicorns, could heal other creatures by touching them with their horn. Additionally, a dusk unicorn possessed a further two unusual magical abilities they could manifest a group of dancing lights that drew other creatures towards the light, and they could teleport themselves or a group of allies up to .\nDusk unicorns wielded their hooves and their horn as weapons in particular, charging into an enemy horn-first was an effective tactic of theirs."
     }
 }

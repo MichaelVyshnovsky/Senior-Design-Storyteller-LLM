@@ -1,47 +1,10 @@
 {
-    "template_data": {
-        "1.2|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Suzailian Sweet.png",
-        "caption": "",
-        "name": "Suzailian Sweet",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Wine]]",
-        "creator": "",
-        "location": "[[Baldur's Gate]], [[Western Heartlands]]<br/>[[Suzail]], [[Cormyr]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "",
-        "refs3e": "",
-        "level4e": "",
-        "value4e": "",
-        "weight4e": "",
-        "refs4e": "",
-        "rarity5e": "",
-        "attunement5e": "",
-        "school5e": "",
-        "level5e": "",
-        "value5e": "48 [[gp]]",
-        "weight5e": "{{SI|1.2|lb|k|long=yes}}",
         "refs5e": "",
         "communication": "",
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Suzailian Sweet''' was a variety of sweet [[wine]], produced in [[Suzail]], the capital city of [[Cormyr]]. It was exported as far as the [[Western Heartlands]], the lands along the [[River Chionthar]], and the city of [[Baldur's Gate]], as of the late 15{{th}} century [[DR]].",
-        "Description": "This luxury dresser wine was known for its distinct bottles decorated with rings of scales around the perimeter. These thematic decorative bottles were to accentuate Cormyr's trade in [[dragon]]-themed items."
+        "mainbody": "Suzailian Sweet was a variety of sweet wine, produced in Suzail, the capital city of Cormyr. It was exported as far as the Western Heartlands, the lands along the River Chionthar, and the city of Baldurs Gate, as of the late 15 century DR.\nThis luxury dresser wine was known for its distinct bottles decorated with rings of scales around the perimeter. These thematic decorative bottles were to accentuate Cormyrs trade in dragon-themed items."
     }
 }

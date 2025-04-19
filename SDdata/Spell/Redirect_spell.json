@@ -1,29 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Redirect Spell",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Abjuration]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Cleric]]|3|[[Paladin]]|3}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -37,7 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "When '''''Redirect spell''''' was cast by a [[divine]] spellcaster, it created a connection between them and an ally whereupon any spells cast at the ally would be directed to the caster. For this redirection to work, both participants must remain within range of one another for the spell's duration. If this range was broken, the protective connection would end.",
-        "References": "{{refs}}\n[[Category:Abjuration spells]]\n[[Category:Cleric spells]]\n[[Category:Paladin spells]]\nqh097y6041y9fn5esq9obrixgx6qdbl"
+        "mainbody": "When Redirect spell was cast by a divine spellcaster, it created a connection between them and an ally whereupon any spells cast at the ally would be directed to the caster. For this redirection to work, both participants must remain within range of one another for the spells duration. If this range was broken, the protective connection would end.\nCategoryAbjuration spells\nCategoryCleric spells\nCategoryPaladin spells\nqh097y6041y9fn5esq9obrixgx6qdbl"
     }
 }

@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Adelimer's Aural Augmenter",
-        "deity": "",
-        "inventor": "[[Adelimer]]",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|4}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Adelimer's aural augmenter''''' was a unique [[alteration]] [[spell]] found in [[Jaluster's Orizon]]. This spell was developed by [[Adelimer]].",
-        "Effects": "This spell was a variation of the ''[[extension I]]'' spell with a few minor differences. This spell extended the duration of elementary spells but was able to be cast in half the time as ''extension I''.",
-        "Components": "This spell only required [[Verbal component|verbal]] and [[somatic component|somatic]] components to cast."
+        "mainbody": "Adelimers aural augmenter was a unique alteration spell found in Jalusters Orizon. This spell was developed by Adelimer.\nThis spell was a variation of the extension I spell with a few minor differences. This spell extended the duration of elementary spells but was able to be cast in half the time as extension I.\nThis spell only required verbal and somatic components to cast."
     }
 }

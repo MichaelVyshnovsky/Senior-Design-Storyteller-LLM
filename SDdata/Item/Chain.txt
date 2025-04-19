@@ -1,27 +1,9 @@
-{{Otheruses4|the tool or weapon|the armor|Chainmail}}
-{{Item
-| image         = Chain Devil CLB.jpg
-| caption       = A chain devil, the most fanatical proponent of chains
-| name          = Chain
-| othernames    = 
-| nicknames     = 
-| type          = Tool<br/>Weapon
-| creator       = 
-| location      = 
-| basicrefs     = 
-| value1e       = 
-| weight1e      = 
-| refs1e        = 
-| school2e      = 
-| level2e       = 
-| value2e       = 5 [[sp]]
-| weight2e      = {{SI|3|lb|k}}
 | refs2e        = 
 | school3e      = 
 | casterlevel3e = 
 | itemlevel3e   = 
-| value3e       = 30 [[gp]]
-| weight3e      = {{SI|2|lb|k}}
+| value3e       = 30 gp
+| weight3e      = 
 | refs3e        = 
 | level4e       = 
 | value4e       = 
@@ -38,221 +20,53 @@
 | languages     = 
 | alignment     = 
 | sentientrefs  = 
-}}
-A '''chain''' was a linear series of rings, linked together, that was usually crafted from metal.
-
-{{Quote|[[Rope]]s and chains are the sinew of civilization.|An old [[Dwarf|dwarven]] proverb}}
-
-==Description==
-A typical chain was about {{SI|10|ft|long=yes}} long and weighed from {{SIrange|2|3|lb|k|long=yes}}. Market prices varied wildly, ranging from as little as 5 [[silver piece]]s to as much as 30 [[gold piece]]s. Longer, {{SIAdj|25|ft|long=yes}} chains were sold by [[Aurora's Emporium]] in all manner of sizes. Depending on the thickness and material, they could bear various loads, as depicted in the following table.
-
-{| class="wikitable"
-|+ {{SIAdj|25|ft|long=yes}} Chains
-|-
-! Material
-! Diameter
-! Cost
-! Weight
-! Load
-|-
-| [[Iron]]
-| {{SI|0.125|in|m}}
-| 6 [[sp]]
-| {{SI|6|lb|k}}
-| {{SI|12|lb|k}}
-|-
-|-
-| Iron
-| {{SI|0.25|in|m}}
-| 2 [[gp]]
-| {{SI|18|lb|k}}
-| {{SI|96|lb|k}}
-|-
-| Iron
-| {{SI|0.5|in|m}}
-| 5 gp
-| {{SI|36|lb|k}}
-| {{SI|970|lb|k}}
-|-
-| Iron
-| {{SI|0.75|in|m}}
-| 9 gp
-| {{SI|98|lb|k}}
-| {{SI|2300|lb|k}}
-|-
-| Iron
-| {{SI|1|in|c}}
-| 17 gp
-| {{SI|130|lb|k}}
-| {{SI|5000|lb|k}}
-|-
-| Iron
-| {{SI|2|in|c}}
-| 25 gp
-| {{SI|210|lb|k}}
-| {{SI|12000|lb|k}}
-|-
-| Iron
-| {{SI|3|in|c}}
-| 35 gp
-| {{SI|400|lb|k}}
-| {{SI|27000|lb|k}}
-|-
-| Iron
-| {{SI|4|in|c}}
-| 60 gp
-| {{SI|700|lb|k}}
-| {{SI|65000|lb|k}}
-|-
-| [[Steel]]
-| {{SI|0.125|in|m}}
-| 12 sp
-| {{SI|6|lb|k}}
-| {{SI|24|lb|k}}
-|-
-|-
-| Steel
-| {{SI|0.25|in|m}}
-| 4 gp
-| {{SI|18|lb|k}}
-| {{SI|192|lb|k}}
-|-
-| Steel
-| {{SI|0.5|in|m}}
-| 10 gp
-| {{SI|36|lb|k}}
-| {{SI|1940|lb|k}}
-|-
-| Steel
-| {{SI|0.75|in|m}}
-| 18 gp
-| {{SI|98|lb|k}}
-| {{SI|4600|lb|k}}
-|-
-| Steel
-| {{SI|1|in|c}}
-| 34 gp
-| {{SI|130|lb|k}}
-| {{SI|10000|lb|k}}
-|-
-| Steel
-| {{SI|2|in|c}}
-| 50 gp
-| {{SI|210|lb|k}}
-| {{SI|24000|lb|k}}
-|-
-| Steel
-| {{SI|3|in|c}}
-| 70 gp
-| {{SI|400|lb|k}}
-| {{SI|54000|lb|k}}
-|-
-| Steel
-| {{SI|4|in|c}}
-| 120 gp
-| {{SI|700|lb|k}}
-| {{SI|130000|lb|k}}
-|-
-| [[Silver]]
-| {{SI|0.125|in|m}}
-| 12 gp
-| {{SI|6|lb|k}}
-| {{SI|12|lb|k}}
-|-
-|-
-| Silver
-| {{SI|0.25|in|m}}
-| 40 gp
-| {{SI|18|lb|k}}
-| {{SI|96|lb|k}}
-|-
-| Silver
-| {{SI|0.5|in|m}}
-| 100 gp
-| {{SI|36|lb|k}}
-| {{SI|970|lb|k}}
-|-
-| [[Gold]]
-| {{SI|0.125|in|m}}
-| 120 gp
-| {{SI|6|lb|k}}
-| {{SI|12|lb|k}}
-|-
-|-
-| Gold
-| {{SI|0.25|in|m}}
-| 400 gp
-| {{SI|18|lb|k}}
-| {{SI|96|lb|k}}
-|-
-| Gold
-| {{SI|0.5|in|m}}
-| 1000 gp
-| {{SI|36|lb|k}}
-| {{SI|970|lb|k}}
-|}
-
-==Availability==
-Most blacksmiths in the Realms could produce chains as needed,{{Cite dragon/245/The Heart of the Forge|26}} though some lacked the skill to make truly fine chains. The knowledge of how to produce chains went as far back as the first dwarves. In many [[human]] communities, urban [[gnome]] and dwarf artisans pioneered fine chain and [[wire]] crafting.
-===Trade===
-* The [[Arnaden region]] of [[south Faerûn]] was known for exporting quality chains, particularly the city of [[Yeshpek]], whose trade earned it the name "City of Chains".
-* Aurora's Emporium and ''[[Aurora's Whole Realms Catalogue (in-universe)|Aurora's Whole Realms Catalogue]]'', as detailed prior, sold a wide variety of chains.
-* [[Charn]]'s smithy in [[Tyrluk]], a small village in [[Cormyr]].<ref name=VGtC-p173>
-* The city of [[Crimmor]]'s Smiths Guild.{{Cite dragon/334/Crimmor: City of Caravans|29}}
-* [[Golden Key Locksmiths]], a locksmith business in the city of [[Waterdeep]], sold door chains imported from the [[Moonshae Isles]] that were said to have been hardened by the fire of [[dragon]]s.<ref>
-* [[Hornshield Keep]] in the [[West Reaches of Cormyr]] had a small but thriving community of chainmakers and other tradesmen.<ref>
-* The [[Jewelers' Guild]] and the [[Most Careful Order of Skilled Smiths & Metalforgers]] of Waterdeep made, traded, and used chains.<ref> The cost of their chains, depending upon the size and strength desired, ranged from 1 to 5 gp per {{SI|1|yard|long=yes}}.<ref>
-* The city of [[Khôltar]] was devoted to metalworking, and the shop of [[Oraundro Nempeth's]] sold chains, as well as rope, cord, twine, wire, and tying rings.{{Cite web/Elminster Speaks archive|77}}{{Cite web/Elminster Speaks/Part 59: Khôltar, Part 10, Hungry in Handrornlar, and More}}
-* [[Muldryn's Chainworks]], a shop in the city of [[Ravens Bluff]].
-* The small trail town of [[Soumar]] had many merchants who dealt in chains and cages.<ref>
-* [[Szantel's Ropes, Cords, Chains, and Mesh]], a shop in the city of [[Arabel]].
-* [[Thardregh Droon]], a traveling merchant in the late 14{{th}} century DR, dealt in ornamental chains.{{Cite web/Elminster Speaks archive|1-2}}
-* [[Vilteern's Fine Chains]], a shop in the [[Duthcloim]] district of [[Menzoberranzan]].
-
-==Usages==
-* Chains were often used to bind things or to connect them together, such as binding prisoners with [[manacles]].
-* Chains were often used in [[jewelry]], such as [[necklace]]s. 
-* Chains were commonly used as [[leash]]es for pet [[animal]]s.
-* Chains were commonly used on ships to hold [[anchor]]s.
-* Chains were sometimes used in place of ropes for [[grappling hook]]s.<ref> 
-* Huge chains, referred to as '''harbor chains''', were strung across the bottom of harbor mouths and raised whenever a port needed to prevent ships from entering or leaving a harbor.<ref> 
-* Many businesses hung their exterior [[lantern]]s from chains so they could later be easily drawn up to a window, unhooked and pulled own, or lowered when it came time to refill them.<ref>
-* Many cooks in the Realms used chains to hold [[cooking pot]]s over hearths.
-* Chains could also be wielded as [[bludgeoning weapon]]s, However, chains were also adapted into a variety of more complicated weapons, such as [[spiked chain]]s, the [[chijiriki]], [[kusari-gama]],<ref> and [[flail]]s.
-===Spell Components===
-Chains were used as a [[material component]] in a number of spells:
-* ''[[Binding chain of fate]]'' required a small chain made of silver.
-* ''[[Blood link]]'' required a chain made of [[zalantar]] wood.
-* ''[[Galather's gnostic chain]]'' required simply three joined links of chain of any material in order to cast.
-* ''[[Howling chain]]'' and ''[[Sighing chain]]'' both required a length of at least three joined links of chain, made of either fine steel or another pure metal.<ref>
-* ''[[Shield of chains]]'', a spell that conjured a barrier of flailing chains of force energy, only required a single link from a used chain to cast.{{cite book/Secrets of the Magister|104}}
-* ''[[Whirlchain]]'' required a metal chain that was longer in length than the user's hand.
-
-==Notable Chains==
-* ''[[Chanting Chain]]'', a massive steel chain of fourteen links, treated with [[everbright]], that was sacred to the [[Talassan]] faith.<ref>
-* [[Gond the Wonderbringer]] once forged a sturdy chain,{{Loss of Tyr's hand}}
-* ''[[The Facade]]'', a magical [[Imaskar]]i [[mask (object)|mask]] that consisted largely of chains, which wrapped around the wearer's head like gauze.<ref>{{Cite dragon/281/Bazaar of the Bizarre: Imaskarcana: Faces of Magic|89}}
-* The ''[[Ivory Chain of Pao]]'', a legendary [[artifact]] of [[Shou Lung]] history that was crafted by the [[Lesser Immortals|Lesser Immortal]] [[Master Pao]] and had the power to bind any spirit or being of the [[outer planes]].
-* The [[demon lord]] [[Kostchtchie]] was once shackled by [[Zariel]] in a [[Kostchtchie's Maw|Avernian ravine]] with magical chains that continuously tightened over his body.
-* The [[Olympian pantheon|Olympian]] deity [[Prometheus]] was for a long time bound to the summit of the colossal Mount Aetna in [[Olympus]] by magical chains that were virtually impossible for all to break but the Olympian deity [[Zeus]].
-
-==Notable Users==
-[[File:Jangling hiter-2e.jpg|thumb|273px|''You really badly want some chains in the [[Nine Hells]]? Then have a whole City of Chains full of chain devils and chain golems.'']]
-===Chain Creatures===
-Some creatures in the Realms and across the planes had chains as part of their physiology or had a special connection with chains in general:
-* [[Angel of torment|Angels of torment]] wreathed themselves in cruel, hooked chains.{{Cite dungeon/177/Deities & Demigods: Torog, the King that Crawls|75}}
-* [[Kyton]], otherwise known as '''chain devils''', were humanoid [[devil]]s covered in chains that they had the power to animate and use as weaponry. If a ritual called the "Gift of Chains" was undergone, a kyton had the expanded power to animate loose chains around them, make them gain {{SI|15|ft|long=yes}} of length, or manifest jagged spikes. They primarily dwelled within a metropolis called the [[Jangling Hiter|City of Chains]], which aptly was suspended in [[Minauros]] by unfathomably long and razor-augmented chains, connected to posts positioned throughout the city.<ref>
-* [[Chain golem]]s, a variety of [[construct]] created by chain devils, were wholly made up of chains which varied in size and shape.
-* Mated pairs of [[astral dragon]]s had magical chains that bound them together, which manifested after mating. These chains could extend up to {{SI|100|ft|long=yes}} in length and were said to be a sign of their devotion to one another.
-* Some [[poltergeist]]s were wrapped in heavy chains, upon which were attached items that represented the evil actions they had committed in life.
-* [[Zelekhut]], one of the subraces of intelligent constructs known as the [[inevitable]]s, had spiked chains built into their bodies that they could spring out from their forearms to fight with.<ref>
-===Individuals===
-* [[Ashok]], a [[shadar-kai]], fought with a chain and [[dagger]].
-* [[Haku (yakuza)|Haku]], a member of the [[yakuza]] in [[Wa]], fought with a chain and [[knife]].
-
-==History==
+A chain was a linear series of rings, linked together, that was usually crafted from metal.
+A typical chain was about  long and weighed from . Market prices varied wildly, ranging from as little as 5 silver pieces to as much as 30 gold pieces. Longer,  chains were sold by Auroras Emporium in all manner of sizes. Depending on the thickness and material, they could bear various loads, as depicted in the following table.
+Most blacksmiths in the Realms could produce chains as needed, though some lacked the skill to make truly fine chains. The knowledge of how to produce chains went as far back as the first dwarves. In many human communities, urban gnome and dwarf artisans pioneered fine chain and wire crafting.
+* The Arnaden region of south Faerûn was known for exporting quality chains, particularly the city of Yeshpek, whose trade earned it the name "City of Chains".
+* Auroras Emporium and Auroras Whole Realms Catalogue, as detailed prior, sold a wide variety of chains.
+* Charns smithy in Tyrluk, a small village in Cormyr.
+* The city of Crimmors Smiths Guild.
+* Golden Key Locksmiths, a locksmith business in the city of Waterdeep, sold door chains imported from the Moonshae Isles that were said to have been hardened by the fire of dragons.
+* Hornshield Keep in the West Reaches of Cormyr had a small but thriving community of chainmakers and other tradesmen.
+* The Jewelers Guild and the Most Careful Order of Skilled Smiths & Metalforgers of Waterdeep made, traded, and used chains. The cost of their chains, depending upon the size and strength desired, ranged from 1 to 5 gp per .
+* The city of Khôltar was devoted to metalworking, and the shop of Oraundro Nempeths sold chains, as well as rope, cord, twine, wire, and tying rings.
+* Muldryns Chainworks, a shop in the city of Ravens Bluff.
+* The small trail town of Soumar had many merchants who dealt in chains and cages.
+* Szantels Ropes, Cords, Chains, and Mesh, a shop in the city of Arabel.
+* Thardregh Droon, a traveling merchant in the late 14 century DR, dealt in ornamental chains.
+* Vilteerns Fine Chains, a shop in the Duthcloim district of Menzoberranzan.
+* Chains were often used to bind things or to connect them together, such as binding prisoners with manacles.
+* Chains were often used in jewelry, such as necklaces. 
+* Chains were commonly used as leashes for pet animals.
+* Chains were commonly used on ships to hold anchors.
+* Chains were sometimes used in place of ropes for grappling hooks. 
+* Huge chains, referred to as harbor chains, were strung across the bottom of harbor mouths and raised whenever a port needed to prevent ships from entering or leaving a harbor. 
+* Many businesses hung their exterior lanterns from chains so they could later be easily drawn up to a window, unhooked and pulled own, or lowered when it came time to refill them.
+* Many cooks in the Realms used chains to hold cooking pots over hearths.
+* Chains could also be wielded as bludgeoning weapons, However, chains were also adapted into a variety of more complicated weapons, such as spiked chains, the chijiriki, kusari-gama, and flails.
+Chains were used as a material component in a number of spells
+* Binding chain of fate required a small chain made of silver.
+* Blood link required a chain made of zalantar wood.
+* Galathers gnostic chain required simply three joined links of chain of any material in order to cast.
+* Howling chain and Sighing chain both required a length of at least three joined links of chain, made of either fine steel or another pure metal.
+* Shield of chains, a spell that conjured a barrier of flailing chains of force energy, only required a single link from a used chain to cast.
+* Whirlchain required a metal chain that was longer in length than the users hand.
+* Chanting Chain, a massive steel chain of fourteen links, treated with everbright, that was sacred to the Talassan faith.
+* Gond the Wonderbringer once forged a sturdy chain,
+* The Facade, a magical Imaskari mask that consisted largely of chains, which wrapped around the wearers head like gauze.
+* The Ivory Chain of Pao, a legendary artifact of Shou Lung history that was crafted by the Lesser Immortal Master Pao and had the power to bind any spirit or being of the outer planes.
+* The demon lord Kostchtchie was once shackled by Zariel in a Avernian ravine with magical chains that continuously tightened over his body.
+* The Olympian deity Prometheus was for a long time bound to the summit of the colossal Mount Aetna in Olympus by magical chains that were virtually impossible for all to break but the Olympian deity Zeus.
+thumb|273px|You really badly want some chains in the Nine Hells? Then have a whole City of Chains full of chain devils and chain golems.
+Some creatures in the Realms and across the planes had chains as part of their physiology or had a special connection with chains in general
+* Angels of torment wreathed themselves in cruel, hooked chains.
+* Kyton, otherwise known as chain devils, were humanoid devils covered in chains that they had the power to animate and use as weaponry. If a ritual called the "Gift of Chains" was undergone, a kyton had the expanded power to animate loose chains around them, make them gain  of length, or manifest jagged spikes. They primarily dwelled within a metropolis called the City of Chains, which aptly was suspended in Minauros by unfathomably long and razor-augmented chains, connected to posts positioned throughout the city.
+* Chain golems, a variety of construct created by chain devils, were wholly made up of chains which varied in size and shape.
+* Mated pairs of astral dragons had magical chains that bound them together, which manifested after mating. These chains could extend up to  in length and were said to be a sign of their devotion to one another.
+* Some poltergeists were wrapped in heavy chains, upon which were attached items that represented the evil actions they had committed in life.
+* Zelekhut, one of the subraces of intelligent constructs known as the inevitables, had spiked chains built into their bodies that they could spring out from their forearms to fight with.
+* Ashok, a shadar-kai, fought with a chain and dagger.
+* Haku, a member of the yakuza in Wa, fought with a chain and knife.
 Throughout the 1200s DR, the Realms experienced a dramatic rise in the use of fine chains in jewelry and garment adornment. This led to an in an increasing demand for fine and even finer chain.
-
-==Reputation==
-[[Great Chain Bridge of Ra-Khati]] was a famous bridge crossing the [[Jumpa River Gorge]] that was constructed of [[iron]] chains.
-
+Great Chain Bridge of Ra-Khati was a famous bridge crossing the Jumpa River Gorge that was constructed of iron chains.

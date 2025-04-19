@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "8|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Inshula sar Mashewe.png",
-        "caption": "",
-        "name": "''Preyhunter''",
-        "othernames": "''Inshula's Preyhunter''",
-        "nicknames": "",
-        "type": "[[Heavy crossbow]]",
-        "creator": "",
-        "location": "[[Tashluta]], [[Tashalar]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+1",
-        "value3e": "",
-        "weight3e": "{{SI|8|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The '''''Preyhunter''''' was a unique [[heavy crossbow]] – the favorite weapons of [[Inshula sar Mashewe]], a mercenary hunter from the nation of [[Tashalar]], active in the late 14{{th}} century [[DR]].",
-        "Powers": "The crossbow was a powerful but slow weapon. Despite its speed, each [[bolt]] unleashed packed enough force to pierce heavy armor as easily as beast hide. Unlike many other crossbows, ''Inshula's Preyhunter'' dealt significantly more piercing damage, and the force of impact dealt additional bludgeoning harm. The weapon's ''+1'' enchantment made what crossbow impossible to handle by anyone who was not a [[human]] [[ranger]].",
-        "History": "In the {{YearlinkName|1374}}, the ''Preyhunter'' accompanied Inshula on her travels from [[Tashluta]] to the jungles of [[Samarach]] and working with the [[Sword Coast]] adventurers for the merchant [[Sa'Sani]] of [[Samargol]]."
+        "mainbody": "The Preyhunter was a unique heavy crossbow – the favorite weapons of Inshula sar Mashewe, a mercenary hunter from the nation of Tashalar, active in the late 14 century DR.\nThe crossbow was a powerful but slow weapon. Despite its speed, each bolt unleashed packed enough force to pierce heavy armor as easily as beast hide. Unlike many other crossbows, Inshulas Preyhunter dealt significantly more piercing damage, and the force of impact dealt additional bludgeoning harm. The weapons +1 enchantment made what crossbow impossible to handle by anyone who was not a human ranger.\nIn the , the Preyhunter accompanied Inshula on her travels from Tashluta to the jungles of Samarach and working with the Sword Coast adventurers for the merchant SaSani of Samargol."
     }
 }

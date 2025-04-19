@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Sand seal",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]], [[Conjuration]], [[Sand (school)|Sand]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|3}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Sand seal''''' was a [[spell]] unique to [[Zakhara]], the Land of Fate.",
-        "Effects": "With this spell a [[wizard]] was able to create a solid barrier of [[sand]] capable of barring a doorway.\n\nWizards with more power were able to create sand seals that were more resilient to attack. The sand seal had a small chance to utterly shatter a weapon striking it.",
-        "Components": "This spell required a handful of sand and a small lump of wax as [[material component]]s in order to cast."
+        "mainbody": "Sand seal was a spell unique to Zakhara, the Land of Fate.\nWith this spell a wizard was able to create a solid barrier of sand capable of barring a doorway.\nWizards with more power were able to create sand seals that were more resilient to attack. The sand seal had a small chance to utterly shatter a weapon striking it.\nThis spell required a handful of sand and a small lump of wax as material components in order to cast."
     }
 }

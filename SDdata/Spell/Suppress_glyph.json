@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Suppress Glyph",
-        "deity": "[[Deneir]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Cleric]]|6}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Suppress glyph''''' was a [[transmutation]] [[spell]] used by [[cleric]]s. The spell originated from [[Deneir]], the Lord of All Glyphs.",
-        "Effects": "This spell enhanced the caster's awareness to magical writings, bathing such writings in pale blue light. The caster could read magical writings without triggering any harmful effects for the spell's duration.",
-        "Components": "This spell required only [[Verbal component|verbal]] and [[somatic component|somatic]] components to cast."
+        "mainbody": "Suppress glyph was a transmutation spell used by clerics. The spell originated from Deneir, the Lord of All Glyphs.\nThis spell enhanced the casters awareness to magical writings, bathing such writings in pale blue light. The caster could read magical writings without triggering any harmful effects for the spells duration.\nThis spell required only verbal and somatic components to cast."
     }
 }

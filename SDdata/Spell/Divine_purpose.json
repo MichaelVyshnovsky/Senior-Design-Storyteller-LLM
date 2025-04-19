@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Divine Purpose",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Divination]]",
-        "spheres2e": "[[Divination sphere]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|3}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Divine purpose''''' was a [[divination]] [[spell]] that allowed a [[cleric]] to gain insight into the purpose of an item, device or other object they encountered. The specifications for this spell could be found in the [[Gond]]ar relic known as ''[[The Argyr]]''.",
-        "Effects": "When cast, the cleric called upon their connection with their patron [[deity]] in order to understand the functioning or importance of any solid object they could physically touch. It was possible they were even granted a vision that allowed them to discern more information regarding the item.\n\nThe chance a cleric learned more about an object by use of ''divine purpose'' depended on a number of factors including their skill and experience; their natural intuition and judgement; the item's racial or cultural origin; as well as whether or not the item was [[magic]]al or mundane in its function and whether or not that function, or one similar to it, had been previously observed by the caster.\n\nA cleric could only cast this spell once upon a specific item. Any subsequent castings automatically failed.",
-        "Casting": "When ''divine purpose'' was cast, the cleric was required to hold their ''[[holy symbol]]'' in one hand and touch the item in question with their other hand. Neither of the items were damaged or otherwise affect by this spell's casting. In addition to the holy symbol, ''divine purpose'' only required a [[somatic component]]."
+        "mainbody": "Divine purpose was a divination spell that allowed a cleric to gain insight into the purpose of an item, device or other object they encountered. The specifications for this spell could be found in the Gondar relic known as The Argyr.\nWhen cast, the cleric called upon their connection with their patron deity in order to understand the functioning or importance of any solid object they could physically touch. It was possible they were even granted a vision that allowed them to discern more information regarding the item.\nThe chance a cleric learned more about an object by use of divine purpose depended on a number of factors including their skill and experience their natural intuition and judgement the items racial or cultural origin as well as whether or not the item was magical or mundane in its function and whether or not that function, or one similar to it, had been previously observed by the caster.\nA cleric could only cast this spell once upon a specific item. Any subsequent castings automatically failed.\nWhen divine purpose was cast, the cleric was required to hold their holy symbol in one hand and touch the item in question with their other hand. Neither of the items were damaged or otherwise affect by this spells casting. In addition to the holy symbol, divine purpose only required a somatic component."
     }
 }

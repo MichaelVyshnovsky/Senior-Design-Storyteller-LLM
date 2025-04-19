@@ -1,23 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Pestilence",
-        "deity": "[[Zaltec]]",
-        "domains": "",
-        "inventor": "",
-        "reversible2e": "",
-        "school2e": "[[Hishna]], [[Conjuration]]",
-        "spheres2e": "[[Hishna]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|3|[[Hishnashaper]]|3}}",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''''Pestilence''''' was a [[spell]] unique to [[Maztica]]. The spell allowed a caster to summon insects, arthropods, and other invertebrates.",
-        "Effects": "This spell was a less powerful version of the ''[[insect plague]]'' spell used in [[Faerûn]]. The main difference between this spell and ''insect plague'' was that ''pestilence'' had a longer duration. Like ''insect plague'', this spell summoned all types of crawling invertebrates, such as [[ant]]s, [[beetle]]s, [[caterpillar]]s, [[roach]]es, [[spider]]s, and others. They then infested the target area, consuming plants and causing animals to flee. The spell could clear an area of plants within a day. Any individual within the area received numerous bites and stings. Once cast, the infested area could not be moved.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, the spell required [[material component]]s: some [[venom]] from a spider and a dead [[june bug]]."
+        "mainbody": "Pestilence was a spell unique to Maztica. The spell allowed a caster to summon insects, arthropods, and other invertebrates.\nThis spell was a less powerful version of the insect plague spell used in Faerûn. The main difference between this spell and insect plague was that pestilence had a longer duration. Like insect plague, this spell summoned all types of crawling invertebrates, such as ants, beetles, caterpillars, roaches, spiders, and others. They then infested the target area, consuming plants and causing animals to flee. The spell could clear an area of plants within a day. Any individual within the area received numerous bites and stings. Once cast, the infested area could not be moved.\nIn addition to verbal and somatic components, the spell required material components some venom from a spider and a dead june bug."
     }
 }

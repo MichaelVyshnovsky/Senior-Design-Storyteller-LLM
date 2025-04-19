@@ -1,32 +1,10 @@
 {
-    "template_data": {
-        "edition": "4e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Blastback Swipe",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "{{desc/arcane}}{{Desc/thunder}}{{desc/weapon}}",
-        "level4e": "{{spell table|edition=4e|[[Swordmage]]|3}}",
+        "level4e": "",
         "type4e": "Encounter",
         "category4e": "",
         "skill4e": "",
         "refs4e": "",
-        "mainbody": "'''''Blastback swipe''''' was a [[spell]] used by some [[swordmage]]s, particularly those of the [[Swordmage#Assault Swordmage|assault]] style.",
-        "Effects": "When cast, even when charging, ''blastback swipe'' caused the swordmage's weapon to strike a foe with the force and sound of a thunderclap. The sonic energy not only caused the creature extra injury, but also pushed them back 10 feet (3 meters).\n\nAssault swordmages could also use it for their ''[[aegis of assault]]'' spell."
+        "mainbody": "Blastback swipe was a spell used by some swordmages, particularly those of the assault style.\nWhen cast, even when charging, blastback swipe caused the swordmages weapon to strike a foe with the force and sound of a thunderclap. The sonic energy not only caused the creature extra injury, but also pushed them back 10 feet (3 meters).\nAssault swordmages could also use it for their aegis of assault spell."
     }
 }

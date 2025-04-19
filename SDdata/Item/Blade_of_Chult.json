@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "8|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Blade of Chult.jpg",
-        "caption": "",
-        "name": "''Blade of Chult''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Greatsword]]",
-        "location": "[[Westgate]], [[Dragon Coast]]<br/>[[Chult]], [[Chultan Peninsula]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+1",
-        "value3e": "11,494 [[gp]]",
-        "weight3e": "{{SI|8|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Blades of Chult''''' were [[enchanted]] [[greatsword]]s wielded by cruel slavers from the danger-filled jungles of [[Chult]].",
-        "Powers": "These hefty blades were imbued with ''+1'' enchantments and were ensorcelled to produce potent [[poison]] that sapped the target's health and withered their physique.",
-        "History": "These gruesome weapons originated from the jungles of Chult, wielded by its [[yuan-ti|serpentine]] slavers. In order to keep their \"cattle\" cooperating, the slavers used swords imbued with deadly poisons on the most spirited captives or on those who were brave enough to attempt an escape. A single cut was enough to make the unruly captives sick and suffering. It often took a promise of ''[[antidote]]'' to keep poisoned slaves in line. In the {{YearlinkName|1374}}, one ''Blade of Chult'' was sold in [[Westgate]], among countless unique rare weapons and armor on the city's [[Market Triangle]]."
+        "mainbody": "Blades of Chult were enchanted greatswords wielded by cruel slavers from the danger-filled jungles of Chult.\nThese hefty blades were imbued with +1 enchantments and were ensorcelled to produce potent poison that sapped the targets health and withered their physique.\nThese gruesome weapons originated from the jungles of Chult, wielded by its serpentine slavers. In order to keep their \"cattle\" cooperating, the slavers used swords imbued with deadly poisons on the most spirited captives or on those who were brave enough to attempt an escape. A single cut was enough to make the unruly captives sick and suffering. It often took a promise of antidote to keep poisoned slaves in line. In the , one Blade of Chult was sold in Westgate, among countless unique rare weapons and armor on the citys Market Triangle."
     }
 }

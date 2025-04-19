@@ -1,37 +1,11 @@
 {
-    "template_data": {
-        "135|ft|long": "yes",
-        "15|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Trireme.png",
-        "caption": "",
-        "name": "Trireme",
-        "aliases": "",
-        "type": "Sailing ship",
-        "size": "Colossal",
-        "location": "",
-        "captain": "",
-        "notable crew": "",
-        "flag": "",
-        "built by": "",
-        "used by": "",
-        "value": "12,000 - 20,000 [[gp]]",
-        "tonnage": "",
-        "crew": "170",
-        "passengers": "30",
-        "armament": "Ram",
-        "cargo": "",
-        "keel length": "{{SI|130|ft}}",
-        "beam width": "{{SI|15|ft}}",
+        "beam width": "",
         "usethe": "",
         "useon": "",
         "inhabitants": "",
         "source": "",
         "page": "",
-        "mainbody": "'''Triremes''' were a type of [[galley]] related to the [[bireme]]s, noted for having three banks of [[oar]]s",
-        "Description": "[[File:Trireme AoH.png|thumb|280px|''A side and interior view of a trireme.'']]\nOn average, from bow to stern these ships measured {{SI|135|ft|long=yes}} in length, a beam (width) of {{SI|15|ft|long=yes}}, and required a depth of at least {{SI|3|ft}} in order to float. These ships were only partially decked, lacking any coverage over their three oar banks. They usually had a walkway that ran the whole length of the ship, between and overhead of the benches where the oar rowers would sit.\n\nTriremes had single mast that could be lowered and it typically was during battles. They also had two stern rudders, a detachable ram, and little space for cargo on a trireme. all rowers, but could easily fit an extra thirty [[warrior]] passengers. The bare minimum of rowers necessary to sail a trireme were seventy, with the other hundred acting as a skeleton crew. Triremes could also be loaded with small artillery, though at the cost of deck space for passengers.",
-        "History": "Over the years triremes were primarily used on [[Toril]] by the nations of [[east Faerûn]]. These included the three nations that made up the [[Old Empires]] region - [[Chessenta]], [[Mulhorand]], and [[Unther]] - as well as the navies of [[Aglarond]] and [[Thay]] of the [[Unapproachable East]], and the nation of [[Chondath]] in the [[Vilhon Reach]]. Outside of naval use, triremes originating from both Chessenta and Chondath were among the pirate vessels one could encounter in the [[Pirate Isles]] as of [[1356 DR]].\n\nUnther's navy was once the terror of the southern [[Inner Sea]] with its fleet of a hundred warships, most of them biremes and triremes, but over the course of several years their navy was whittled down until by [[1359 DR]] it consisted of just five ships that were kept docked in the port city of [[Unthalass]]. By that year, triremes were considered to be a rare sight in the Inner Sea, primarily being used by the Mulhorandi, whereas the Chessentans rarely took their triremes outside the [[Bay of Chessenta]].<ref>\n\nOn [[Flamerule 9]], in the {{YearlinkName|1369}}, two triremes were cut loose in the Bay of Chessenta and ran aground at [[Airspur (Chessenta)|Airspur]]. The [[Dragon Watch]] blamed this upon raiders from the Chessantan city-state of [[Soorenar]], but later learned that it had been done by a raiding party of [[sahuagin]]s.<ref>\n\nIn the 15{{th}} century [[DR]], triremes were still widely considered to be the vessel of choice for sailing the Bay of Chessenta.<ref>{{Cite dungeon/178/Backdrop: Chessenta|72}}",
-        "Notable Triremes": "* ''[[Argent (ship)|Argent]]'', a [[Zhentarim]] trireme that sailed during the [[Time of Troubles]]. It was used by the [[deity]] [[Cyric]] and a handful of other Zhents to sail back to [[Tantras]] when [[Bane]] ordered their return."
+        "mainbody": "Triremes were a type of galley related to the biremes, noted for having three banks of oars\nthumb|280px|A side and interior view of a trireme.\nOn average, from bow to stern these ships measured  in length, a beam (width) of , and required a depth of at least  in order to float. These ships were only partially decked, lacking any coverage over their three oar banks. They usually had a walkway that ran the whole length of the ship, between and overhead of the benches where the oar rowers would sit.\nTriremes had single mast that could be lowered and it typically was during battles. They also had two stern rudders, a detachable ram, and little space for cargo on a trireme. all rowers, but could easily fit an extra thirty warrior passengers. The bare minimum of rowers necessary to sail a trireme were seventy, with the other hundred acting as a skeleton crew. Triremes could also be loaded with small artillery, though at the cost of deck space for passengers.\nOver the years triremes were primarily used on Toril by the nations of east Faerûn. These included the three nations that made up the Old Empires region - Chessenta, Mulhorand, and Unther - as well as the navies of Aglarond and Thay of the Unapproachable East, and the nation of Chondath in the Vilhon Reach. Outside of naval use, triremes originating from both Chessenta and Chondath were among the pirate vessels one could encounter in the Pirate Isles as of 1356 DR.\nUnthers navy was once the terror of the southern Inner Sea with its fleet of a hundred warships, most of them biremes and triremes, but over the course of several years their navy was whittled down until by 1359 DR it consisted of just five ships that were kept docked in the port city of Unthalass. By that year, triremes were considered to be a rare sight in the Inner Sea, primarily being used by the Mulhorandi, whereas the Chessentans rarely took their triremes outside the Bay of Chessenta.\nOn Flamerule 9, in the , two triremes were cut loose in the Bay of Chessenta and ran aground at Airspur. The Dragon Watch blamed this upon raiders from the Chessantan city-state of Soorenar, but later learned that it had been done by a raiding party of sahuagins.\nIn the 15 century DR, triremes were still widely considered to be the vessel of choice for sailing the Bay of Chessenta.\n* Argent, a Zhentarim trireme that sailed during the Time of Troubles. It was used by the deity Cyric and a handful of other Zhents to sail back to Tantras when Bane ordered their return."
     }
 }

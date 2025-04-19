@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "0.3|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Cloak of Protection Versus Evil''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Cloak]]",
-        "location": "[[Neverwinter]], [[Waterdeep]], [[Sword Coast]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+2,+5",
-        "value3e": "7,443 [[gp]]",
-        "weight3e": "{{SI|0.3|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Cloaks of protection versus evil''''' were magic [[cloak]]s  that proved increased defense against evil-aligned creatures.",
-        "Powers": "''Cloaks of protection versus evil'' and their stronger version, ''greater cloaks of protection versus evil'' both gave the wearer enchanted protection of ''+2'' and ''+5'' enchantment respectively.",
-        "History": "In the late 14{{th}} century [[DR]], the most common source of the ''cloaks of protection versus evil'' came from [[Waterdeep]]. [[Khelben Arunsun]] spent months training one of his student in creation of these cloaks to supply the [[City Watch (Waterdeep)|City Watch]] with defensive and fashionable magic armor. Eventually that apprentice opened a shop where he started experimenting with designs and stiles of the ''cloaks of protection versus evil''."
+        "mainbody": "Cloaks of protection versus evil were magic cloaks  that proved increased defense against evil-aligned creatures.\nCloaks of protection versus evil and their stronger version, greater cloaks of protection versus evil both gave the wearer enchanted protection of +2 and +5 enchantment respectively.\nIn the late 14 century DR, the most common source of the cloaks of protection versus evil came from Waterdeep. Khelben Arunsun spent months training one of his student in creation of these cloaks to supply the City Watch with defensive and fashionable magic armor. Eventually that apprentice opened a shop where he started experimenting with designs and stiles of the cloaks of protection versus evil."
     }
 }

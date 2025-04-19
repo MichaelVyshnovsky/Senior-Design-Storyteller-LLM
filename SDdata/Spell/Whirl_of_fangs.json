@@ -1,35 +1,6 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Whirl of fangs",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Evocation]]",
-        "domains3e": "",
-        "descriptors3e": "{{Desc/force}}",
-        "level3e": "{{spell table|edition=3e|[[Cleric]]|6|[[Sorcerer]]|7|[[Wizard]]|7}}",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,8 +14,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Whirl of fangs''''' was an [[evocation]] [[spell]] that created a whirling barrier of pure force, in the form and appearance of continuously-biting, serpentine jaws.",
-        "Effects": "When cast, the ''whirl of fangs'' could be oriented horizontal, vertical or at any diagonal degree in between. Any creature passing through the barrier was beset at all sides by the snake-like jaws of force. If the target was nimble enough, they could possibly avoid some of the jaws' bites and avoid some harm. The caster drew no attention from the barrier and could freely move through its edges.",
-        "Usage": "Many [[yuan-ti]] [[spellcaster]]s \"wore\" a ''whirl of fangs'' around them, protecting them from any would-be assailants."
+        "mainbody": "Whirl of fangs was an evocation spell that created a whirling barrier of pure force, in the form and appearance of continuously-biting, serpentine jaws.\nWhen cast, the whirl of fangs could be oriented horizontal, vertical or at any diagonal degree in between. Any creature passing through the barrier was beset at all sides by the snake-like jaws of force. If the target was nimble enough, they could possibly avoid some of the jaws bites and avoid some harm. The caster drew no attention from the barrier and could freely move through its edges.\nMany yuan-ti spellcasters \"wore\" a whirl of fangs around them, protecting them from any would-be assailants."
     }
 }

@@ -1,21 +1,8 @@
 {
-    "template_data": {
-        "rca": "right"
-    },
     "document_data": {
-        "image": "Glass_containers-2e.jpg",
-        "caption": "A beaker (bottom), [[glass tubing]], and [[vial]].",
-        "name": "Beaker",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Tool",
-        "location": "[[Urmlaspyr]]",
-        "value1e": "3 [[gp]]",
-        "weight1e": "",
-        "refs1e": "<ref>{{Cite dragon/117/Dungeoneer's Shopping Guide|22}}",
         "school2e": "",
         "level2e": "",
-        "value2e": "{{Split table|rca=right|Small|5 [[sp]]|Medium|1 gp|Large|3 gp}}",
+        "value2e": "",
         "weight2e": "",
         "refs2e": "",
         "school3e": "",
@@ -39,10 +26,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Beakers''' were glass containers that were used to manipulate liquids and powders. They were typically used in laboratories or by itinerant [[alchemist]]s to conduct experiments.",
-        "Description": "Though generally made of [[glass]], some beakers were made of crystal, [[ceramic]], or even lightly hammered metal. They were used to heat liquids, combine solutions, and dissolve watery compounds.",
-        "Availability": "''[[Aurora's Whole Realms Catalogue (in-universe)|Aurora's Whole Realms Catalogue]]'' sold beakers in a variety of different sizes, along with [[vial]]s and other laboratory glass containers, all of which were produced by the [[glass-blowers guild]] of [[Urmlaspyr]].",
-        "Notable Beakers": "* ''[[Beaker of plentiful potions]]''",
-        "Notable Users of Beakers": "* Beakers of several different sizes were essential in [[wizard]]s' laboratories. \n* Beakers were an integral components of [[alchemist's supplies]]."
+        "mainbody": "Beakers were glass containers that were used to manipulate liquids and powders. They were typically used in laboratories or by itinerant alchemists to conduct experiments.\nThough generally made of glass, some beakers were made of crystal, ceramic, or even lightly hammered metal. They were used to heat liquids, combine solutions, and dissolve watery compounds.\nAuroras Whole Realms Catalogue sold beakers in a variety of different sizes, along with vials and other laboratory glass containers, all of which were produced by the glass-blowers guild of Urmlaspyr.\n* Beaker of plentiful potions\n* Beakers of several different sizes were essential in wizards laboratories. \n* Beakers were an integral components of alchemists supplies."
     }
 }

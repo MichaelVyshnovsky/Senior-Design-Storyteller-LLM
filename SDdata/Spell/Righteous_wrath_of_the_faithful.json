@@ -1,16 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "name": "Righteous Wrath of the Faithful",
-        "school2e": "[[Enchantment]] (Charm)",
-        "spheres2e": "[[Combat sphere|Combat]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|5|[[Combat sphere|Combat]]|5|[[Crusader]]|5}}",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''''Righteous wrath of the faithful''''' was an [[enchantment]] spell that inflamed the battle fury of the caster's allies, improving their abilities in combat and granting a temporary health boost.",
-        "Effects": "When this spell was cast, all friends and allies of the caster in a 60 ft (18.3 m) radius are granted the benefits of an ''[[aid]]'' spell (temporary increase in morale, combat skill, and health). Those of the same religion as the caster were fired with divine fury, allowing them to attack more often and with greater effectiveness. When the spell ended, any remaining health boost was lost and those that experienced the ''righteous wrath'' found themselves exhausted and had to rest for at least 10 minutes before attempting anything strenuous.",
-        "Components": "Verbal and somatic components, plus the priest's [[holy symbol]], were required to cast this spell."
+        "mainbody": "Righteous wrath of the faithful was an enchantment spell that inflamed the battle fury of the casters allies, improving their abilities in combat and granting a temporary health boost.\nWhen this spell was cast, all friends and allies of the caster in a 60 ft (18.3 m) radius are granted the benefits of an aid spell (temporary increase in morale, combat skill, and health). Those of the same religion as the caster were fired with divine fury, allowing them to attack more often and with greater effectiveness. When the spell ended, any remaining health boost was lost and those that experienced the righteous wrath found themselves exhausted and had to rest for at least 10 minutes before attempting anything strenuous.\nVerbal and somatic components, plus the priests holy symbol, were required to cast this spell."
     }
 }

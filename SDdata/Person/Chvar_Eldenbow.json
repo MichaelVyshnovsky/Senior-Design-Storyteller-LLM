@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Chvar Eldenbow",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "the Loreseeker",
-        "nicknames": "",
-        "home": "[[Western Heartlands]],[[west Faerûn]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "race": "[[Half-elf]]",
-        "ethnicity": "",
-        "occupation": "Moonstar agent",
-        "age": "",
-        "patron deity": "[[Oghma]]",
-        "languages": "",
-        "reckoning": "DR",
-        "dob": "",
-        "dobnotes": "",
-        "turned": "",
-        "turnednotes": "",
-        "death": "",
-        "deathnotes": "",
-        "destroyed": "",
-        "destroyednotes": "",
-        "alignment": "",
-        "class": "",
-        "rules": "",
-        "alignment1e": "",
-        "class1e": "",
-        "refs1e": "",
-        "alignment2e": "[[Chaotic good]]",
-        "class2e": "{{class table|edition=2e|[[Ranger]]|10|[[Cleric]]|11}}",
         "refs2e": "",
         "alignment3e": "",
         "class3e": "",
@@ -49,7 +13,6 @@
         "alignment5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Chvar Eldenbow''' was the field agent of the [[Moonstars]] for the [[Western Heartlands]] in the [[1370 DR|Year of the Tankard, 1370 DR]].",
-        "History": "Chvar was always a knowledge seeker, gaining the informal title of \"Loreseeker\". In his travels through the entire [[Western Heartlands]] and along the [[Sword Coast]] he discovered much lore hidden in wilder territories.\n\nIn 1370 DR, Chvar was chosen to be field agent of the Moonstars for the [[North]]."
+        "mainbody": "Chvar Eldenbow was the field agent of the Moonstars for the Western Heartlands in the Year of the Tankard, 1370 DR.\nChvar was always a knowledge seeker, gaining the informal title of \"Loreseeker\". In his travels through the entire Western Heartlands and along the Sword Coast he discovered much lore hidden in wilder territories.\nIn 1370 DR, Chvar was chosen to be field agent of the Moonstars for the North."
     }
 }

@@ -1,29 +1,5 @@
 {
-    "template_data": {
-        "0.5|lb|k|long": "yes",
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Censer of controlling air elementals 5e.png",
-        "caption": "",
-        "name": "''Censer of Controlling Air Elementals''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Wondrous item",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "100,000 [[gp]]",
-        "weight3e": "{{SI|0.5|lb|k|long=yes}} - {{SI|1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -40,11 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Censers of controlling air elementals''''' were [[enchanted]] [[incense]] burners that could pull creatures from the [[Elemental Plane of Air]] to the [[Prime Material plane]].",
-        "Description": "These enchanted thuribles were made out of [[gold]] and covered with arcane scripts etched into the surface. These words translated to prayers to [[Akadi]], the Queen of Air.",
-        "Powers": "When fulled with incense and lit, such ''censer'' summoned an [[air elemental]] under the summoner's control. This ritual could be performed once per day. If magical ''[[incense of meditation]]'' was used with these thuribles, an [[elder air elemental]] was summoned. Each ''censer of controlling air elementals'' could only summon one creature at a time. The summoned air elemental could be ''[[Dispelling|dispelled]]'' with spells or dismissed by its summoner.",
-        "Creation": "A skilled crafter of wondrous items could create similar censers with the use of ''[[summon monster VI]]'' and ''[[summon monster IX]]'' spells.",
-        "History": "''Circa'' [[1372 DR]], several powerful magical items were brought to [[Toril]] by a planeswalking [[wizard]] [[Vejoni H. Wyzz]] who pitched his extraplanar tent just outside the town of [[Liam's Hold]]. ''Censers of controlling air elementals'' could be found in his collection.",
-        "Notable Users": "*[[Bahamut]]'s divine powers allowed him to create various enchanted items, including ''censers of controlling air elementals''."
+        "mainbody": "Censers of controlling air elementals were enchanted incense burners that could pull creatures from the Elemental Plane of Air to the Prime Material plane.\nThese enchanted thuribles were made out of gold and covered with arcane scripts etched into the surface. These words translated to prayers to Akadi, the Queen of Air.\nWhen fulled with incense and lit, such censer summoned an air elemental under the summoners control. This ritual could be performed once per day. If magical incense of meditation was used with these thuribles, an elder air elemental was summoned. Each censer of controlling air elementals could only summon one creature at a time. The summoned air elemental could be dispelled with spells or dismissed by its summoner.\nA skilled crafter of wondrous items could create similar censers with the use of summon monster VI and summon monster IX spells.\nCirca 1372 DR, several powerful magical items were brought to Toril by a planeswalking wizard Vejoni H. Wyzz who pitched his extraplanar tent just outside the town of Liams Hold. Censers of controlling air elementals could be found in his collection.\n*Bahamuts divine powers allowed him to create various enchanted items, including censers of controlling air elementals."
     }
 }

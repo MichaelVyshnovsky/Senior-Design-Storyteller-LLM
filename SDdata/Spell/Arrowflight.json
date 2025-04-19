@@ -1,23 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Arrowflight",
-        "deity": "[[Qotal]]",
-        "domains": "",
-        "inventor": "",
-        "reversible2e": "",
-        "school2e": "[[Pluma]], [[Alteration]]",
-        "spheres2e": "[[Pluma]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|1|[[Eagle Knight]]|1|[[Plumaweaver]]|1}}",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''''Arrowflight''''' was a [[pluma]] [[spell]] unique to [[Maztica]] used to help archers.",
-        "Effects": "This spell increased the ability to shoot [[arrow]]s of (depending on the power of the plumaweaver) one or several persons: It allowed them to shoot the projectiles twice as far as usual, and also slightly increased the severity of the wounds inflicted.",
-        "Components": "Aside from [[Verbal component|verbal]] and [[somatic component]]s, a small amount of downfeather shaped like the fletching of an arrow was needed."
+        "mainbody": "Arrowflight was a pluma spell unique to Maztica used to help archers.\nThis spell increased the ability to shoot arrows of (depending on the power of the plumaweaver) one or several persons It allowed them to shoot the projectiles twice as far as usual, and also slightly increased the severity of the wounds inflicted.\nAside from verbal and somatic components, a small amount of downfeather shaped like the fletching of an arrow was needed."
     }
 }

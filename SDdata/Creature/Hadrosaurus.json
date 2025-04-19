@@ -1,13 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Hadrosaurus",
-        "size5e": "Large",
-        "type5e": "[[Beast]]",
-        "subtype5e": "",
-        "alignment5e": "[[Unaligned]]",
-        "challenge5e": "{{Frac|1|4}}",
         "refs5e": "",
         "size4e": "",
         "origin4e": "",
@@ -48,12 +40,8 @@
         "eyecolor": "",
         "build": "",
         "distinctions": "",
-        "based": "[[Wikipedia:Hadrosaurus|Hadrosaurus]]",
+        "based": "Hadrosaurus",
         "first": "",
-        "mainbody": "A '''hadrosaurus''' was a type of [[dinosaur]].",
-        "Description": "Hadrosaurs were herbivores and could stand on either their hind legs or on all fours. Their most distinguishable characteristic was their bone head crest.",
-        "Ecology": "If raised from a very young age (ideally immediately after hatching), hadrosaurs could be trained to work as a riding animal.",
-        "Combat": "If threatened, a hadrosaurus could use its tail as a weapon.",
-        "Notable Hadrosaurs": "* [[Banana Candy]], a well-trained racing hadrosaurus from [[Port Nyanzaru]]."
+        "mainbody": "A hadrosaurus was a type of dinosaur.\nHadrosaurs were herbivores and could stand on either their hind legs or on all fours. Their most distinguishable characteristic was their bone head crest.\nIf raised from a very young age (ideally immediately after hatching), hadrosaurs could be trained to work as a riding animal.\nIf threatened, a hadrosaurus could use its tail as a weapon.\n* Banana Candy, a well-trained racing hadrosaurus from Port Nyanzaru."
     }
 }

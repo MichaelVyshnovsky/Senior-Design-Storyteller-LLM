@@ -1,28 +1,8 @@
 {
-    "template_data": {
-        "3|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Cloak of Mists.png",
-        "caption": "",
-        "name": "''Cloak of Mists''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Cloak]]",
-        "location": "[[Crab's Claw Coast]], [[Sword Coast]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "10{{th}}",
         "itemlevel3e": "",
         "value3e": "",
-        "weight3e": "{{SI|3|lb|k|long=yes}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,9 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The '''''Cloak of Mists''''' was a unique [[enchanted]] [[cloak]] of mysterious origins in the 14{{th}} century [[DR]].",
-        "Description": "This beautiful cloak was made out of strange glowing fabric.",
-        "Powers": "The ''Cloak of Mists'' granted the wearer improved defenses against mundane or magical threats and effects. The wearer also was granted the ability to summon a powerful ''[[gust of wind]]'' once per day.",
-        "History": "A strange enigmatic being only known as [[Metastakixx]] was trapped in an ancient temple in one of the caves in the [[Crab's Claw Coast]]. The being's history was unknown; however, it was believed that Metastakixx was an incredibly old creature tasked with protecting remnants of an old and forgotten deity. As of the {{YearlinkName|1372}}, Metastakixx was still bound to the temple and waited for the one person destined to let them free. If the strange being was to be freed from the eternal bondage, the ''Cloak of Mists'' was sure to be a reward for the kind deed, despite freedom being Metastakixx's doom."
+        "mainbody": "The Cloak of Mists was a unique enchanted cloak of mysterious origins in the 14 century DR.\nThis beautiful cloak was made out of strange glowing fabric.\nThe Cloak of Mists granted the wearer improved defenses against mundane or magical threats and effects. The wearer also was granted the ability to summon a powerful gust of wind once per day.\nA strange enigmatic being only known as Metastakixx was trapped in an ancient temple in one of the caves in the Crabs Claw Coast. The beings history was unknown however, it was believed that Metastakixx was an incredibly old creature tasked with protecting remnants of an old and forgotten deity. As of the , Metastakixx was still bound to the temple and waited for the one person destined to let them free. If the strange being was to be freed from the eternal bondage, the Cloak of Mists was sure to be a reward for the kind deed, despite freedom being Metastakixxs doom."
     }
 }

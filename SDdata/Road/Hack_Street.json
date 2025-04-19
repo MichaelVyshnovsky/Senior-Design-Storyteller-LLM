@@ -1,15 +1,9 @@
 {
     "document_data": {
-        "image": "HarborZhentilKeep.jpg",
-        "caption": "A map showing Hack Street in south Zhentil Keep.",
-        "name": "Hack Street",
-        "type": "Road",
-        "aliases": "",
-        "length": "{{SI|300|ft}}",
         "width": "",
         "pavement": "",
-        "location": "The [[Zhentil Keep/Harbor District|Harbor District]], [[Zhentil Keep]]",
-        "starts": "The wall of the [[Zhentil Keep/Common Quarter|Common Quarter]]",
+        "location": "The Harbor District, Zhentil Keep",
+        "starts": "The wall of the Common Quarter",
         "ends": "The docks",
         "built": "",
         "refs": "",
@@ -23,8 +17,6 @@
         "roads": "yes",
         "bodies of water": "",
         "events": "",
-        "mainbody": "'''Hack Street''' was a road located in the city of [[Zhentil Keep]] during the mid–14{{th}} century [[DR]].",
-        "Location": "Hack Street was located in Zhentil Keep's [[Zhentil Keep/Harbor District|Harbor District]] in the south section of the city. The road was located in the northwest section of the Harbor District, running between the wall of the [[Zhentil Keep/Common Quarter|Common Quarter]] and the docks.",
-        "Notable Locations": "A warehouse used by the [[Zhentarim]] was located on Hack Street."
+        "mainbody": "Hack Street was a road located in the city of Zhentil Keep during the mid–14 century DR.\nHack Street was located in Zhentil Keeps Harbor District in the south section of the city. The road was located in the northwest section of the Harbor District, running between the wall of the Common Quarter and the docks.\nA warehouse used by the Zhentarim was located on Hack Street."
     }
 }

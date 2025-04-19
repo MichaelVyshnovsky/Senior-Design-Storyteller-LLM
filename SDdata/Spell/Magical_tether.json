@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Magical Tether",
-        "othernames": "",
-        "deity": "[[Ulutiu]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Invocation]]",
-        "spheres2e": "[[Combat sphere|Combat]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|1}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -45,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Magical tether''''' was a [[Divine magic|divine]] [[invocation]] [[spell]] used by specialty priests devoted to [[Ulutiu]], enabling them to create an unbreakable magical tether.",
-        "Effects": "This spell created an unbreakable magical tether when cast upon a nonliving target and a living being. The ethereal tether created was graspable only by the target of the spell. The target could drop the tether if they wished, but it would not otherwise fall from their hands. The tether could not be used to harm another person such as in the case of strangling them.",
-        "Components": "This spell required only [[verbal component|verbal component]]s and [[somatic component]]s to cast."
+        "mainbody": "Magical tether was a divine invocation spell used by specialty priests devoted to Ulutiu, enabling them to create an unbreakable magical tether.\nThis spell created an unbreakable magical tether when cast upon a nonliving target and a living being. The ethereal tether created was graspable only by the target of the spell. The target could drop the tether if they wished, but it would not otherwise fall from their hands. The tether could not be used to harm another person such as in the case of strangling them.\nThis spell required only verbal components and somatic components to cast."
     }
 }

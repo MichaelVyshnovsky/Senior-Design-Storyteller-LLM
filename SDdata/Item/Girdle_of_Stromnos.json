@@ -1,24 +1,5 @@
 {
-    "template_data": {
-        "2|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Girdle of Stromnos.png",
-        "caption": "",
-        "name": "''Girdle of Stromnos''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Belt]]",
-        "creator": "[[Presdon]]",
-        "location": "[[Dorn's Deep]], [[Spine of the World]]<br/>[[The Vast]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "{{SI|2|lb|k|long=yes}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -41,9 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The '''''girdle of Stromnos''''' was an [[enchanted]] [[belt]] created by [[Presdon]] of the [[Vast]].",
-        "Description": "The belt was a plain in appearance but distinctly wide girdle.",
-        "Powers": "The ''girdle of Stromnos'' possessed a simple enchantment that significantly enhanced its wearer's strength, making them as strong as a [[hill giant]].",
-        "History": "The ''girdle of Stromnos'' was created by Presdon of the Vast several centuries before [[1281 DR]]. The [[enchanter]] once encountered a hungry hill giant named [[Stromnos]] while gathering [[spell component]]s. Presdon survived the encounter and named the belt after Stromnos. The girdle then was passed along to the enchanter's bodyguard [[Dendes the Wry]]. The belt was lost some time late outside [[Ordulin]] as Dendes was filled in the line of duty.\n\nFor the several centuries , the ''girdle of Stromnos'' was though lost, until it reappeared in the {{YearlinkName|1281}}. The belt was worn by [[Flozem]], one of the two bodyguards employed by [[Marketh]] of the [[Dorn's Deep]] in the [[Spine of the World]]."
+        "mainbody": "The girdle of Stromnos was an enchanted belt created by Presdon of the Vast.\nThe belt was a plain in appearance but distinctly wide girdle.\nThe girdle of Stromnos possessed a simple enchantment that significantly enhanced its wearers strength, making them as strong as a hill giant.\nThe girdle of Stromnos was created by Presdon of the Vast several centuries before 1281 DR. The enchanter once encountered a hungry hill giant named Stromnos while gathering spell components. Presdon survived the encounter and named the belt after Stromnos. The girdle then was passed along to the enchanters bodyguard Dendes the Wry. The belt was lost some time late outside Ordulin as Dendes was filled in the line of duty.\nFor the several centuries , the girdle of Stromnos was though lost, until it reappeared in the . The belt was worn by Flozem, one of the two bodyguards employed by Marketh of the Dorns Deep in the Spine of the World."
     }
 }

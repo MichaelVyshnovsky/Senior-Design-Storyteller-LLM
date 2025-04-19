@@ -1,26 +1,7 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "variant": "psionic power",
-        "5|lb|long": "yes",
-        "15|long": "yes",
-        "5|ft|long": "yes",
-        "2|lb|long": "yes"
-    },
     "document_data": {
-        "name": "Far Hand",
-        "discipline3e": "[[Psychokinesis]]",
-        "mantles3e": "",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|variant=psionic power|[[Psion]]|1|[[Wilder]]|1}}",
         "type3e": "Standard power",
-        "refs3e": "<ref group=\"note\" name=\"level\">When first printed in the ''[[Psionics Handbook]]'', ''far hand'' was listed as a 0{{th}} level power for only psions. When it was reprinted in the ''[[Expanded Psionics Handbook]]'', the power was revised to be 1{{st}} level power for both psions and wilders.",
-        "mainbody": "'''''Far hand''''' was a basic [[psionic]] power of the [[psychokinesis]] [[discipline]] that enabled a minor form of telekinesis.",
-        "Effects": "For a period of up to a minute of concentration, this power allowed a [[psion]] to mentally lift, move, and propel mundane objects, weighing around {{SI|5|lb|long=yes}}, anywhere within {{SI|15|long=yes}}. This power would cease if the distance between the psion and object ever exceeded this range. Through exerting themselves mentally, psions were capable of expanding this power's range in increments of {{SI|5|ft|long=yes}} and the power's weight limit in increments of {{SI|2|lb|long=yes}}.",
-        "Display": "Manifesting this power produced a standard visual [[display]].",
-        "Notable Users": {
-            "Creatures & Sentient Races": "* [[blue (goblinoid)|Blue goblins]], a psionic subrace of [[goblin]]s, all innately knew ''far hand''.\n* [[Githyanki]] all possessed a psi-like ability similar to ''far hand''.<ref>",
-            "Individuals": "* [[Gaulauntyr]], an adult [[copper dragon]].{{Cite web/Wyrms of the North/Gaulauntyr, \"Glorytongue\"}}{{Gaulauntyr race}}\n* [[Saryndalaghlothtor]], an adult [[crystal dragon]].\n* [[Selinah Varhast]], a [[human]] psion and [[assassin]].<ref>{{Cite web/Realms Personalities/Selinah Varhast}}"
-        }
+        "refs3e": "When first printed in the Psionics Handbook, far hand was listed as a 0 level power for only psions. When it was reprinted in the Expanded Psionics Handbook, the power was revised to be 1 level power for both psions and wilders.",
+        "mainbody": "Far hand was a basic psionic power of the psychokinesis discipline that enabled a minor form of telekinesis.\nFor a period of up to a minute of concentration, this power allowed a psion to mentally lift, move, and propel mundane objects, weighing around , anywhere within . This power would cease if the distance between the psion and object ever exceeded this range. Through exerting themselves mentally, psions were capable of expanding this powers range in increments of  and the powers weight limit in increments of .\nManifesting this power produced a standard visual display.\n* Blue goblins, a psionic subrace of goblins, all innately knew far hand.\n* Githyanki all possessed a psi-like ability similar to far hand.\n* Gaulauntyr, an adult copper dragon.\n* Saryndalaghlothtor, an adult crystal dragon.\n* Selinah Varhast, a human psion and assassin."
     }
 }

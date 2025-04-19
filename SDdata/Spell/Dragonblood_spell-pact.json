@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Dragonblood Spell-pact",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "level3e": "{{spell table|edition=3e|[[Sorcerer]]|5|}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -36,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Dragonblood spell-pact''''' was a spell that was used by [[dragon]]s.",
-        "Effects": "This spell allowed two dragons or draconic creature to trade a known spell. While the spells that are to be traded must be of the same level, they did not have to be in the same [[schools of magic|school]]. A caster could not use this spell to learn more spells then permitted by their skill level and once a spell was traded, it must be re-learned. This spell could only be cast by dragons or other draconic creatures.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, this spell required a [[material component]]. Each caster had to partake in a blood ceremony, with the drawn blood to be used as the material component."
+        "mainbody": "Dragonblood spell-pact was a spell that was used by dragons. \nThis spell allowed two dragons or draconic creature to trade a known spell. While the spells that are to be traded must be of the same level, they did not have to be in the same school. A caster could not use this spell to learn more spells then permitted by their skill level and once a spell was traded, it must be re-learned. This spell could only be cast by dragons or other draconic creatures. \nIn addition to verbal and somatic components, this spell required a material component. Each caster had to partake in a blood ceremony, with the drawn blood to be used as the material component."
     }
 }

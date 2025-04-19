@@ -1,36 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "20|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Moon Motes",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Invocation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Silverstar]]|2}}",
         "refs3e": "",
         "reversible2e": "",
         "school2e": "",
@@ -43,7 +12,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Moon motes''''' was an offensive [[invocation]] [[spell]] granted exclusively to the [[Silverstar]]s of [[Selûne]].",
-        "Effects": "Once the spell's incantations were uttered, the Silverstar tapped into her goddess' connection to moonlight and magic, creating a {{SI|20|ft|long=yes}} cone-shaped spray of glowing spheres. The motes of moonlight possessed offensive power and dealt energy damage to all creatures in their way. The magic still hurt creatures fast enough to dodge out of harm's way."
+        "mainbody": "Moon motes was an offensive invocation spell granted exclusively to the Silverstars of Selûne.\nOnce the spells incantations were uttered, the Silverstar tapped into her goddess connection to moonlight and magic, creating a  cone-shaped spray of glowing spheres. The motes of moonlight possessed offensive power and dealt energy damage to all creatures in their way. The magic still hurt creatures fast enough to dodge out of harms way."
     }
 }

@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Spellslayer Arrow",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Assassin]]|2|[[Justice of weald and woe]]|2|[[Ranger]]|2}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Spellslayer arrow''''' was a [[transmutation]] [[spell]] that altered an [[arrow]] of ''masterwork'' quality, bestowing upon it extra lethality to those who were affected by [[magic]]al effects or abilities.",
-        "Effects": "The enhanced arrow became more harmful to people and creatures that had been [[enchantment|enchanted]], protected or otherwise affected by magical spells.\n\nIn order for the effects of the spell to apply, the arrow had to be launched within a few seconds of ''spellslayer arrow's'' casting. The arrow itself was destroyed whether or not it struck its intended target.",
-        "Casting": "In addition to [[verbal]] and [[somatic component]]s, this spell required the [[material component]] of a single ''masterwork'' arrow."
+        "mainbody": "Spellslayer arrow was a transmutation spell that altered an arrow of masterwork quality, bestowing upon it extra lethality to those who were affected by magical effects or abilities.\nThe enhanced arrow became more harmful to people and creatures that had been enchanted, protected or otherwise affected by magical spells.\nIn order for the effects of the spell to apply, the arrow had to be launched within a few seconds of spellslayer arrows casting. The arrow itself was destroyed whether or not it struck its intended target.\nIn addition to verbal and somatic components, this spell required the material component of a single masterwork arrow."
     }
 }

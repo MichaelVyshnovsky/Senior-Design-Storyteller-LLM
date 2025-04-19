@@ -1,21 +1,8 @@
 {
-    "template_data": {
-        "edition": "4e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Merinid Dalael",
-        "true name": "",
-        "alt_spelling": "",
-        "aliases": "",
-        "home": "[[Menzoberranzan]]",
-        "formerhomes": "",
-        "race": "[[Drow]]",
-        "class4e": "{{class table|edition=4e|[[Skirmisher]]|5}}",
         "sex": "Male",
-        "alignment4e": "[[Evil]]",
-        "languages": "[[Common]], [[Elven]]",
+        "alignment4e": "Evil",
+        "languages": "Common, Elven",
         "reckoning": "DR",
         "dob": "",
         "dobnotes": "",
@@ -23,7 +10,6 @@
         "destroyed": "",
         "destroyednotes": "",
         "ref4e": "",
-        "mainbody": "'''Merinid Dalael''' was a [[drow]] [[assassin]] member of the [[Jaezred Chaulssin]] in [[Menzoberranzan]] in [[1479 DR]].",
-        "History": "In 1479 DR, sent by [[Valan Jaelre]], one of the lairs used by members of the [[Council of Spiders]]. There he killed the Council's elders [[Raelaryn Xorlarrin]] and a minor scion of [[House Barrison Del'Armgo]] and captured [[Hoshtar Xorlarrin]], Raelaryn's cousin."
+        "mainbody": "Merinid Dalael was a drow assassin member of the Jaezred Chaulssin in Menzoberranzan in 1479 DR.\nIn 1479 DR, sent by Valan Jaelre, one of the lairs used by members of the Council of Spiders. There he killed the Councils elders Raelaryn Xorlarrin and a minor scion of House Barrison DelArmgo and captured Hoshtar Xorlarrin, Raelaryns cousin."
     }
 }

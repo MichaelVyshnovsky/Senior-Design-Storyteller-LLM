@@ -1,37 +1,5 @@
 {
-    "template_data": {
-        "index": "[[Ca'thul]];[[Hamish Graymoor]]",
-        "index_1": "[[human]]",
-        "ref": "[[kobold]]",
-        "index_2": "[[Cult of the Dragon safehouse]];[[Eveningstar]];[[Stonelands]]",
-        "title": "Items",
-        "index_3": "''[[blazing sun]]'';''[[dragon mask]]''",
-        "title_1": "Spells",
-        "index_4": "''[[dimensional anchor]]''",
-        "index_5": "[[Cult of the Dragon]];[[Harpers]]",
-        "title_2": "Food & Drinks",
-        "index_6": "[[ham]];[[pumpkin]]",
-        "title_3": "Items",
-        "index_7": "[[lantern]];[[orb]]",
-        "title_4": "Titles",
-        "index_8": "[[Cult of the Dragon#Hierarchy",
-        "title_5": "Vegetation",
-        "index_9": "[[fungus]]",
-        "title_6": "Weapons",
-        "index_10": "[[arrow]];[[dart]]"
-    },
     "document_data": {
-        "index": "[[arrow]];[[dart]]",
-        "ref": "[[kobold]]",
-        "title": "Weapons",
-        "mainbody": "",
-        "Index": {
-            "Characters": "{{Index\n|index = [[Ca'thul]];[[Hamish Graymoor]]\n}}",
-            "Creatures": "{{Index\n|index = [[human]]\n|ref = [[kobold]]\n}}",
-            "Locations": "{{Index\n|index = [[Cult of the Dragon safehouse]];[[Eveningstar]];[[Stonelands]]\n}}",
-            "Magic": "{{Index\n|title = Items\n|index = ''[[blazing sun]]'';''[[dragon mask]]''\n}}\n{{Index\n|title = Spells\n|index = ''[[dimensional anchor]]''\n}}",
-            "Organizations": "{{Index\n|index = [[Cult of the Dragon]];[[Harpers]]\n}}",
-            "Miscellaneous": "{{Index\n|title = Food & Drinks\n|index = [[ham]];[[pumpkin]]\n}}\n{{Index\n|title = Items\n|index = [[lantern]];[[orb]]\n}}\n{{Index\n|title = Titles\n|index = [[Cult of the Dragon#Hierarchy|Dragonfang]];[[Dragonsoul]];[[Cult of the Dragon#Hierarchy|Dragonwing]]\n}}\n{{Index\n|title = Vegetation\n|index = [[fungus]]\n}}\n{{Index\n|title = Weapons\n|index = [[arrow]];[[dart]]\n}}"
-        }
+        "mainbody": "ask of Deception is a stand-alone quest in Dungeons & Dragons Online where the player characters are sent by the Harpers to infiltrate a Cult of the Dragon safehouse in the Stonelands that holds the white dragon mask in their possession. The quest was added on December 11, 2014 as part of Update 24."
     }
 }

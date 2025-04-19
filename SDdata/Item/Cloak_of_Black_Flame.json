@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "3|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Cloak of Black Flame.png",
-        "caption": "",
-        "name": "''Cloak of Black Flame''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Cloak]]",
-        "location": "[[Liam's Hold]], [[Delimbiyr Vale]]<br/>[[Sorcere]], [[Menzoberranzan]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|3|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,10 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Cloaks of Black Flame''''' were [[enchanted]] defensive [[cloak]]s from the [[Sorcere]] of [[Menzoberranzan]].",
-        "Description": "''Cloaks of Black Flame'' were thick black cloaks that resembled a tangle of black spiderwebs. Once such cloak was put on, its wild cobwebbed texture smoothed into a black masterfully-woven cloth.",
-        "Powers": "These cloaks, originally of [[drow]] make, were imbued with magics that protected the wearers from spells and abilities that sapped the strength, energy, and experiences.",
-        "History": "The first ''cloaks of Black Flame'' originated in the drow Sorcere wizardly academy of Menzoberranzan. They were used by the school's [[necromancer]]s who often needed protection agains their own [[undead]] creations. By the late 14{{th}} century [[DR]], similar cloaks were created to be worn by the inhabitants of the surface world.",
-        "Notable Owners": "*[[Vejoni H. Wyzz]]: a planar-traveling [[wizard]] who briefly stayed in the hamlet of [[Liam's Hold]] along the [[Trade Way]] in [[1372 DR]]."
+        "mainbody": "Cloaks of Black Flame were enchanted defensive cloaks from the Sorcere of Menzoberranzan.\nCloaks of Black Flame were thick black cloaks that resembled a tangle of black spiderwebs. Once such cloak was put on, its wild cobwebbed texture smoothed into a black masterfully-woven cloth.\nThese cloaks, originally of drow make, were imbued with magics that protected the wearers from spells and abilities that sapped the strength, energy, and experiences.\nThe first cloaks of Black Flame originated in the drow Sorcere wizardly academy of Menzoberranzan. They were used by the schools necromancers who often needed protection agains their own undead creations. By the late 14 century DR, similar cloaks were created to be worn by the inhabitants of the surface world.\n*Vejoni H. Wyzz a planar-traveling wizard who briefly stayed in the hamlet of Liams Hold along the Trade Way in 1372 DR."
     }
 }

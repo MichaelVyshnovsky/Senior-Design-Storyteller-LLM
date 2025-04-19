@@ -1,35 +1,6 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "Quillfire.JPG",
-        "caption": "A druid makes a point with quillfire.",
-        "name": "Quillfire",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "{{Desc/poison3e}}",
-        "level3e": "{{spell table|edition=3e|[[Druid]]|3}}",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,8 +14,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Quillfire''''' was a [[spell]] used by [[druid]]s.",
-        "Effects": "When cast, the caster's hand became covered in quills that contained poison. The caster was able to use these quills in either melee or ranged combat against an opponent. The amount of damage the poison inflicted was determined by the caster's skill level.",
-        "Components": "This spell required only [[Verbal component|verbal]] and [[somatic component|somatic]] components."
+        "mainbody": "Quillfire was a spell used by druids.\nWhen cast, the casters hand became covered in quills that contained poison. The caster was able to use these quills in either melee or ranged combat against an opponent. The amount of damage the poison inflicted was determined by the casters skill level.\nThis spell required only verbal and somatic components."
     }
 }

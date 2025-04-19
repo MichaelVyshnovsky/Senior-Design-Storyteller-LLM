@@ -1,22 +1,6 @@
 {
     "document_data": {
-        "image": "Helmet types.png",
-        "caption": "A great helm wearer stands to the bottom-right of a group of armored men.",
-        "name": "Great helm",
-        "othernames": "Bucket helm<br/>Pot helm<ref>",
-        "nicknames": "",
-        "type": "[[Helmet]]",
-        "creator": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "30 [[gp]]",
-        "weight2e": "{{SI|10|lb|k}}",
-        "refs2e": "<ref>",
+        "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
         "itemlevel3e": "",
@@ -38,15 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Great helm''' was a term used to refer to large [[helmet]]s that covered the entirety of the wearer's head and neck, as well as often their upper shoulders. They were typically found in combination with [[plate mail]] or heavier armors, but rarely anything lighter than [[banded mail]].",
-        "Description": "[[File:Dezmyr.png|thumb|273px|''[[Dezmyr Shadowdusk]] wears an intimidating great helm with her plate mail.'']]\nA great helm typically impaired its wearer's sense of hearing and vision, and [[knight]]s often paired them with a [[mail coif]].",
-        "History": "By the 1370's [[DR]], the great helm style of helm was commonly issued in nations across the [[Eastern Heartlands|Heartlands]] to various nobles, knights, cavalrymen and officers. These helmets typically had hinged visors, that opened either horizontally or vertically, and were paired with [[gorget]]s and plate mail.<ref>{{Cite web/Candlekeep forum/Questions for Ed Greenwood (2009)/Regional Armor}}\n\nIn [[1492 DR]],{{WDH-time}} a group of [[duergar]] outfitted in [[iron]] bucket helms with visors ventured from their home in the [[Terminus Level]] of [[Undermountain]] up into the [[Runestone Level]], determined to plunder a shrine dedicated to [[Laduguer]] and return their loot to their ruler [[Fazrian]].",
-        "Notable Great Helms": "* ''[[Lords' helm]]'', a variety of [[enchanted]] bucket helms worn by all members of the [[Lords of Waterdeep]] to protect their identity.\n* ''[[Penfall's Pot]]'', an enchanted pot helm that belonged to [[Angus Hammerfall]].",
-        "Notable Users": {
-            "Groups": "* The sixteen [[orog]] pirates that were part of the crew of the [[Scavenger (spelljammer)|''Scavenger'']] all wore bucket helms that were designed to resemble the bulbous heads of [[mind flayer]]s. This included having large, glass-covered eye holes and tentacle-like breathing tubes.\n* The [[tomb guardian]]s that protected the [[Tomb of the Nine Gods]] were typically outfitted with bucket helms.<ref>",
-            "Individuals": "* [[Gralnakh Longtooth]], the [[half-orc]] bartender of [[The Serpent's Tooth]] and a former [[bandit]], owned a great helm that he kept in his bedroom.<ref>{{Cite dungeon/19/The Serpent's Tooth|28}}\n* [[Islif Lurelake]], one of the original [[Knights of Myth Drannor]], wore a great helm with her [[field plate]].<ref>\n* [[Thalamra Vanthampur]] kept a [[helmed horror]] in her private study, whose black plate armor was forged in [[Avernus]] and included a bucket helm.\n* [[Ygnath]], a follower of [[Bane]], dressed in [[chainmail]] paired with a bucket helm.",
-            "Religions": "* The [[Gauntlet of Iyachtu Xvim|Gauntlets of Iyachtu Xvim]], a variety of [[specialty priest]] in the [[Church of Iyachtu Xvim]], always wore black great helms.<ref>\n* [[Scale (specialty priest)|Scales]], a variety of specialty priest in the [[Church of Tyr]], typically wore gleaming white great helms with sealed visor plates that rendered them effectively blind.<ref name=\"WaPotR-p119\" >"
-        },
-        "Trivia": "* [[Arcturia]]'s private chambers in the [[Arcturiadoom]] level of Undermountain were guarded by a life-sized statue of a [[dwarf]] adorned in a bucket helmet and plate mail.\n* The [[Haunted Halls]] had a hall of statues adorned in various forms of armor, one of which featured a great helm.<ref>\n* The entrance to [[Shraevyn's Tomb]] featured a statue of an armored warrior wearing a great helm."
+        "mainbody": "Great helm was a term used to refer to large helmets that covered the entirety of the wearers head and neck, as well as often their upper shoulders. They were typically found in combination with plate mail or heavier armors, but rarely anything lighter than banded mail.\nthumb|273px|Dezmyr Shadowdusk wears an intimidating great helm with her plate mail.\nA great helm typically impaired its wearers sense of hearing and vision, and knights often paired them with a mail coif.\nBy the 1370s DR, the great helm style of helm was commonly issued in nations across the Heartlands to various nobles, knights, cavalrymen and officers. These helmets typically had hinged visors, that opened either horizontally or vertically, and were paired with gorgets and plate mail.\nIn 1492 DR, a group of duergar outfitted in iron bucket helms with visors ventured from their home in the Terminus Level of Undermountain up into the Runestone Level, determined to plunder a shrine dedicated to Laduguer and return their loot to their ruler Fazrian.\n* Lords helm, a variety of enchanted bucket helms worn by all members of the Lords of Waterdeep to protect their identity.\n* Penfalls Pot, an enchanted pot helm that belonged to Angus Hammerfall.\n* The sixteen orog pirates that were part of the crew of the Scavenger all wore bucket helms that were designed to resemble the bulbous heads of mind flayers. This included having large, glass-covered eye holes and tentacle-like breathing tubes.\n* The tomb guardians that protected the Tomb of the Nine Gods were typically outfitted with bucket helms.\n* Gralnakh Longtooth, the half-orc bartender of The Serpents Tooth and a former bandit, owned a great helm that he kept in his bedroom.\n* Islif Lurelake, one of the original Knights of Myth Drannor, wore a great helm with her field plate.\n* Thalamra Vanthampur kept a helmed horror in her private study, whose black plate armor was forged in Avernus and included a bucket helm.\n* Ygnath, a follower of Bane, dressed in chainmail paired with a bucket helm.\n* The Gauntlets of Iyachtu Xvim, a variety of specialty priest in the Church of Iyachtu Xvim, always wore black great helms.\n* Scales, a variety of specialty priest in the Church of Tyr, typically wore gleaming white great helms with sealed visor plates that rendered them effectively blind.\n* Arcturias private chambers in the Arcturiadoom level of Undermountain were guarded by a life-sized statue of a dwarf adorned in a bucket helmet and plate mail.\n* The Haunted Halls had a hall of statues adorned in various forms of armor, one of which featured a great helm.\n* The entrance to Shraevyns Tomb featured a statue of an armored warrior wearing a great helm."
     }
 }

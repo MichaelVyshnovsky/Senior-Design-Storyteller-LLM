@@ -1,24 +1,8 @@
 {
-    "template_data": {
-        "variant": "psionic power",
-        "edition": "3e",
-        "variant_1": "psionic power",
-        "20|ft|long": "yes"
-    },
     "document_data": {
-        "name": "Finger of Fire",
-        "discipline3e": "[[Metacreativity]]",
-        "mantles3e": "",
-        "descriptors3e": "{{desc/fire|variant=psionic power}}",
-        "level3e": "{{Spell table|edition=3e|variant=psionic power|[[Psion]]|0}}",
+        "level3e": "",
         "type3e": "Talent",
         "refs3e": "",
-        "mainbody": "'''''Finger of Fire''''' was a basic [[fire]]-based [[psionic]] power of the [[Metacreativity]] [[discipline]] that allowed one to manifest a mote of flames.",
-        "Effects": "This power manifest motes of unstable flaring [[ectoplasm]] that explosively dissipates in flames at an area of choice, setting fire to anything flammable it touches in the process. The maximum targeting range of this power was {{SI|20|ft|long=yes}}.",
-        "Display": "Manifesting this power produced a standard visual [[display]].",
-        "Notable Users": {
-            "Creatures & Sentient Races": "* [[blue (goblinoid)|Blue goblins]], a psionic subrace of [[goblin]]s, all had an innate ability to unleash ''Finger of Fire''.",
-            "Individuals": "* [[Gaulauntyr]], an adult [[copper dragon]].{{Cite web/Wyrms of the North/Gaulauntyr, \"Glorytongue\"}}{{Gaulauntyr race}}"
-        }
+        "mainbody": "Finger of Fire was a basic fire-based psionic power of the Metacreativity discipline that allowed one to manifest a mote of flames.\nThis power manifest motes of unstable flaring ectoplasm that explosively dissipates in flames at an area of choice, setting fire to anything flammable it touches in the process. The maximum targeting range of this power was .\nManifesting this power produced a standard visual display.\n* Blue goblins, a psionic subrace of goblins, all had an innate ability to unleash Finger of Fire.\n* Gaulauntyr, an adult copper dragon."
     }
 }

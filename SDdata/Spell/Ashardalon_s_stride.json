@@ -1,22 +1,5 @@
 {
-    "template_data": {
-        "edition": "5e"
-    },
     "document_data": {
-        "image": "Ashardalons stride5e.jpeg",
-        "caption": "A [[red dragon]] casting Ashardalon's stride.",
-        "name": "Ashardalon's Stride",
-        "deity": "",
-        "inventor": "[[Ashardalon]]",
-        "type": "",
-        "school5e": "[[Transmutation]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "{{spell table|edition=5e|[[Artificer]]|3|[[Ranger]]|3|[[Sorcerer]]|3|[[Wizard]]|3}}",
         "type5e": "",
         "refs5e": "",
         "feature4e": "",
@@ -43,8 +26,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Ashardalon's stride''''' was a [[spell]] used by [[artificer]]s, [[ranger]]s, [[sorcerer]]s, and [[wizard]]s to increase their speed.",
-        "Effects": "When cast, this spell caused flames to burst from the feet of the caster, which massively increased their speed and allowed them to move unrestricted. Anyone who got too close to the caster while this spell was active would likely be burned.",
-        "Components": "The spell required only [[verbal component|verbal]] and [[somatic component]]s."
+        "mainbody": "Ashardalons stride was a spell used by artificers, rangers, sorcerers, and wizards to increase their speed. \nWhen cast, this spell caused flames to burst from the feet of the caster, which massively increased their speed and allowed them to move unrestricted. Anyone who got too close to the caster while this spell was active would likely be burned. \nThe spell required only verbal and somatic components."
     }
 }

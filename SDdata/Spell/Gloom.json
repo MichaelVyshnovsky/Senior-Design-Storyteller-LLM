@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Gloom",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]<br/>[[Shadow magic|Shadow]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|4}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Gloom''''' was a rare [[spell]] that darkened an area.",
-        "Effects": "When cast, all light sources within a {{SI|120|ft}} area dimmed significantly. The spell affected both magical and mundane light. This spell was often used to protect light-sensitive creatures such as [[vampire]]s from sunlight.",
-        "Casting": "In addition to [[verbal]] and [[somatic component]]s, this spell required a [[material component]], special [[incense]] which was made by the caster.",
-        "History": "This spell was known to be used by wizards of the [[Cult of the Dragon]]."
+        "mainbody": "Gloom was a rare spell that darkened an area.\nWhen cast, all light sources within a  area dimmed significantly. The spell affected both magical and mundane light. This spell was often used to protect light-sensitive creatures such as vampires from sunlight.\nIn addition to verbal and somatic components, this spell required a material component, special incense which was made by the caster.\nThis spell was known to be used by wizards of the Cult of the Dragon."
     }
 }

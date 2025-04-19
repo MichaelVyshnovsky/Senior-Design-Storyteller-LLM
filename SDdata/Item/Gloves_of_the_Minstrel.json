@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Gloves of the Minstrel''",
-        "othernames": "''Greater Gloves of the Minstrel''<br/>''Epic Gloves of the Minstrel''",
-        "nicknames": "",
-        "type": "Gloves",
-        "creator": "",
-        "location": "[[Neverwinter]], [[Sword Coast]]<br/>[[Samarach]], [[Samargol]]<br/>[[Mere of Dead Men]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Gloves of the Minstrel''''' were [[enchanted]] gloves created to increase musical skills of [[minstrel]]s and [[bard]]s.",
-        "Powers": "''Gloves of the Minstrel'' were created with three enchantment strengths. Regular gloves enchanted the wearer's performance skill, ''greater gloves of the Minstrel'' made the wearer a master performer, while ''epic gloves of the Minstrel'' made the bard who put them on into an unparalleled musician.",
-        "History": "The first pair of ''gloves of the Minstrel'' was commissioned by a famous musician [[Lendoku Marhael]] for his son, [[Gardoku Marhael]], whose musical skills were mediocre at best. Eventually, the [[wizard]] hired for the enchanting task realized the value of such gloves and started selling copies of the bardic \"performance enhancers.\" Subsequently, the wizard was found dead outside a tavern owned by the Marhael family.\n\nBy the late 14{{th}} century [[DR]], copies of these gloves could be found along the [[Sword Coast]]. In the {{YearlinkName|1374}}, a [[tiefling]] merchant [[Vadin'ya]] sold a pair on the [[Openpalm Bazar]] in [[Samargol]]."
+        "mainbody": "Gloves of the Minstrel were enchanted gloves created to increase musical skills of minstrels and bards.\nGloves of the Minstrel were created with three enchantment strengths. Regular gloves enchanted the wearers performance skill, greater gloves of the Minstrel made the wearer a master performer, while epic gloves of the Minstrel made the bard who put them on into an unparalleled musician.\nThe first pair of gloves of the Minstrel was commissioned by a famous musician Lendoku Marhael for his son, Gardoku Marhael, whose musical skills were mediocre at best. Eventually, the wizard hired for the enchanting task realized the value of such gloves and started selling copies of the bardic \"performance enhancers.\" Subsequently, the wizard was found dead outside a tavern owned by the Marhael family.\nBy the late 14 century DR, copies of these gloves could be found along the Sword Coast. In the , a tiefling merchant Vadinya sold a pair on the Openpalm Bazar in Samargol."
     }
 }

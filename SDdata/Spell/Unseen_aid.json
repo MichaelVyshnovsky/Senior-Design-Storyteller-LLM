@@ -1,15 +1,8 @@
 {
-    "template_data": {
-        "edition": "4e"
-    },
     "document_data": {
-        "type": "Encounter",
-        "name": "Unseen Aid",
-        "school": "",
-        "keywords4e": "{{Desc/arcane}}",
-        "level4e": "{{spell table|edition=4e|[[Sorcerer]]|2}}",
+        "level4e": "",
         "type4e": "Encounter",
-        "refs4e": "{{Cite dragon/371/The Sorcerer, Levels 1-3}}",
-        "mainbody": "'''''Unseen aid''''' was a [[spell]] used by many [[sorcerer]]s during their initial training. Using ''unseen aid'' granted [[arcane]] assistance to the caster, allowing them to perform a number of tasks with greater proficiency than they would otherwise be able to. ''Unseen aid'' was not particularly difficult to cast, taking only an instance to use and a rest of a few minutes or more to recharge."
+        "refs4e": "",
+        "mainbody": "Unseen aid was a spell used by many sorcerers during their initial training. Using unseen aid granted arcane assistance to the caster, allowing them to perform a number of tasks with greater proficiency than they would otherwise be able to. Unseen aid was not particularly difficult to cast, taking only an instance to use and a rest of a few minutes or more to recharge."
     }
 }

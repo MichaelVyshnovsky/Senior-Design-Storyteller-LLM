@@ -1,28 +1,3 @@
-{{Item
-| image         = Flasks.png
-| caption       = A flask and [[vial]], along with filled flasks of [[holy water]], [[acid]], and [[antitoxin]].
-| name          = Flask
-| othernames    = 
-| nicknames     = 
-| type          = Container
-| material      = Metal, ceramic, glass
-| creator       = 
-| origin        = 
-| location      = 
-| basicrefs     = 
-| value1e       = 
-| weight1e      = 
-| refs1e        = 
-| school2e      = 
-| level2e       = 
-| value2e       = 
-| weight2e      = 
-| refs2e        = 
-| school3e      = 
-| casterlevel3e = 
-| itemlevel3e   = 
-| value3e       = 3 [[cp]]
-| weight3e      = ½–{{SI|1|lb|k}}
 | refs3e        = 
 | level4e       = 
 | value4e       = 
@@ -39,23 +14,15 @@
 | languages     = 
 | alignment     = 
 | sentientrefs  = 
-}}
-A '''flask''' was a small container for liquids, widely appreciated by anyone who need to securely store and transport small amounts of material. It was sibling to the smaller [[vial]] and larger [[bottle]], though the terms were sometimes used interchangeably. [[Skin]]s and [[canteen]]s served a similar function, though usually just for water, while [[beaker]]s were used for precise alchemical purposes.
-
-==Description==
-An idealized average flask could hold {{SI|1|pt|L}} of liquid, and was secured with a stopper. The flask could be made from a variety of durable materials, including metals, [[ceramic]]s, or [[glass]], and had a flat base and a narrow neck. Flasks intended for being worn on the hip (usually containing beverages) were made with a curved shape that sat neatly against the body.
-
-==Usage==
-* [[Lamp oil]] was often stored in 1-pint flasks. This standard measure would fuel a typical [[lamp]] for about 6 hours. They could also be thrown as missile weapons, potentially breaking on impact and covering the target in oil. An attached fuse would allow the fuel to ignite.
-* [[Potion]]s, [[magical oil]]s, and medicine like [[antitoxin]]s were kept in sturdy flasks for ready use, usually containing one dose each.
-* [[Alchemist's fire]], volatile [[acid]], and ''[[oil of fiery burning]]'' could be kept in breakable flasks, allowing them to be used as thrown weapons that shattered on impact. Flasks of [[holy water]] could also be used the same way, as could flasks of gases such as [[sleeping gas]].
-
-==Notable Flasks==
-[[File:Flasks-ME.png|thumb|150px|''A pair of flasks.'']]
+A flask was a small container for liquids, widely appreciated by anyone who need to securely store and transport small amounts of material. It was sibling to the smaller vial and larger bottle, though the terms were sometimes used interchangeably. Skins and canteens served a similar function, though usually just for water, while beakers were used for precise alchemical purposes.
+An idealized average flask could hold  of liquid, and was secured with a stopper. The flask could be made from a variety of durable materials, including metals, ceramics, or glass, and had a flat base and a narrow neck. Flasks intended for being worn on the hip (usually containing beverages) were made with a curved shape that sat neatly against the body.
+* Lamp oil was often stored in 1-pint flasks. This standard measure would fuel a typical lamp for about 6 hours. They could also be thrown as missile weapons, potentially breaking on impact and covering the target in oil. An attached fuse would allow the fuel to ignite.
+* Potions, magical oils, and medicine like antitoxins were kept in sturdy flasks for ready use, usually containing one dose each.
+* Alchemists fire, volatile acid, and oil of fiery burning could be kept in breakable flasks, allowing them to be used as thrown weapons that shattered on impact. Flasks of holy water could also be used the same way, as could flasks of gases such as sleeping gas.
+thumb|150px|A pair of flasks.
 Magical flasks often contained things far removed from normal flask functionality, making opening one a risky proposition.
-* ''[[Bottomless flask of whisky]]'', a [[bronze]] alcohol-producing device.{{cite book/Darkvision|33-34|4}}
-* ''[[Cursed Imaskari flask]]'', a [[copper]] flask that produced undrinkable water.{{cite book/Blood Charge|54}}
-* ''[[Flask of curses]]'', an innocuous flask that contained a horrid ''[[curse]]''.
-* ''[[Flask of vapor]]'', a device that produced fog.
-* ''[[Iron flask]]'', a magical device capable of trapping a powerful planar being.
-
+* Bottomless flask of whisky, a bronze alcohol-producing device.
+* Cursed Imaskari flask, a copper flask that produced undrinkable water.
+* Flask of curses, an innocuous flask that contained a horrid curse.
+* Flask of vapor, a device that produced fog.
+* Iron flask, a magical device capable of trapping a powerful planar being.

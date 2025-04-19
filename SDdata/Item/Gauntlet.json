@@ -1,25 +1,6 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Gauntlet",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Armor/weapon",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "{{Plain table|Standard|2 [[gp]]|Spiked|5 gp|Locked|8 gp}}",
-        "weight3e": "{{Plain table|Standard|1 lb.|Spiked|1 lb.|Locked|5 lbs.}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -33,17 +14,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "A '''gauntlet''' was a metal glove worn to protect the hand. They were a standard part of medium and heavy suits of armor.\n{{TOC limit|3}}",
-        "Varieties": {
-            "Spiked gauntlet": "This gauntlet allowed one to pierce his or her opponents with a punch.",
-            "Locked gauntlet": "This type of gauntlet used small [[chain]]s and braces to lock a held weapon in the hand of the wearer."
-        },
-        "Reputation": "A gauntlet was the [[holy symbol]] of the deities [[Helm]] and [[Torm]]. Additionally, the [[cleric]]s of [[Bane]] commonly wore a black gauntlet on a single fist. The [[favored weapon]] of the [[Morndinsamman|dwarven]] god [[Thard Harr]] was likewise a spiked gauntlet.",
-        "Notable Gauntlets": {
-            "''[[Black Hand of Bane]]''": "This was the favored weapon of the god Bane.",
-            "''[[Claw of the revenancer]]''": "This silver gauntlet was an [[artifact]] of the [[drow]] goddess [[Kiaransalee]].",
-            "''[[Gauntlets of the valorous]]''": "These magic gauntlets were worn by the heroes of [[Myth Drannor]]."
-        },
-        "Trivia": "* In the [[Roll of Years]], the year [[1369 DR]] bore the name \"Year of the Gauntlet\".<ref>"
+        "mainbody": "A gauntlet was a metal glove worn to protect the hand. They were a standard part of medium and heavy suits of armor.\n Spiked gauntlet  This gauntlet allowed one to pierce his or her opponents with a punch.\n Locked gauntlet  This type of gauntlet used small chains and braces to lock a held weapon in the hand of the wearer.\nA gauntlet was the holy symbol of the deities Helm and Torm. Additionally, the clerics of Bane commonly wore a black gauntlet on a single fist. The favored weapon of the dwarven god Thard Harr was likewise a spiked gauntlet.\n Black Hand of Bane  This was the favored weapon of the god Bane.\n Claw of the revenancer  This silver gauntlet was an artifact of the drow goddess Kiaransalee.\n Gauntlets of the valorous  These magic gauntlets were worn by the heroes of Myth Drannor.\n* In the Roll of Years, the year 1369 DR bore the name \"Year of the Gauntlet\"."
     }
 }

@@ -1,42 +1,6 @@
 {
     "document_data": {
-        "image": "Chaos shard 4e.jpg",
-        "caption": "A spectrum of chaos shards",
-        "name": "Chaos shard",
-        "othernames": "",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "[[Elemental]]",
-        "type4e": "[[Magical beast]]",
-        "subtype4e": "",
-        "alignment4e": "[[Chaotic evil]]",
-        "refs4e": "",
-        "size3e": "",
-        "type3e": "",
-        "subtype3e": "",
-        "alignment3e": "",
-        "challenge3e": "",
-        "refs3e": "",
-        "size2e": "",
-        "alignment2e": "",
-        "refs2e": "",
-        "size1e": "",
-        "alignment1e": "",
-        "refs1e": "",
-        "patron deity": "",
-        "movement": "Flying",
-        "vision": "[[Darkvision]]",
-        "activecycle": "",
-        "diet": "",
-        "lifespan": "",
-        "location": "",
-        "intelligence": "{{Int|7}}",
-        "language": "[[Abyssal language|Abyssal]]",
+        "language": "Abyssal",
         "subraces": "",
         "climate": "",
         "terrain": "",
@@ -56,23 +20,6 @@
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Chaos shards''' were a variety of [[elemental]]s Chaos shards materialized at the boundary between these two planes and influence from the ''[[shard of evil]]'' that had formed the Abyss.",
-        "Description": "These elementals varied in the type of element they expressed, but all shared the trait of having crystalline bodies that floated above the ground.",
-        "Behavior": "Chaos shards were semi-intelligent creatures that leaned towards a [[chaotic evil]] alignment due to the nature of the two planes they manifested from, making them quite malevolent and destructive.",
-        "Abilities": {
-            "Varieties": {
-                "Death shard": "Chaos shards that expressed [[necrotic energy]]. They had the appearance of purplish crystals full of shadowy skulls.",
-                "Flame shard": "Chaos shards that expressed [[elemental fire]]. They had the appearance of amorphous blobs of fire.",
-                "Prismatic shard": "Chaos shards that expressed [[radiant energy]]. They had the appearance of a large cluster of multi-hued [[tourmaline]].",
-                "Storm shard": "Chaos shards that expressed as thunder and lightning. They appeared as stormy whirlwinds, crackling with lightning and full of blue crystals swirling around their vortex."
-            }
-        },
-        "History": "In the late 15{{th}} century [[DR]], [[Rezlus]] and his [[Banite]] faction of the [[Zhentarim]] counted some flame shards among their monstrous minions. A handful of them were sent alongside a pair of [[rockfist smasher]]s, named [[Granifex]] and [[Obsidia]], to assault the fortress of his rival [[Nezra]] and her [[Cyricist]] faction of Zhents in the [[Desertsmouth Mountains]] before they could launch an assault upon the [[Tower of the Void]] with a group of [[adventurer]]s.",
-        "Ecology": {
-            "Habitats": "In the Abyss these elementals could be found on the 1{{st}} layer, [[Pazunia]], as it was closest to the Elemental Chaos.<ref>",
-            "Languages": "Unlike other elementals, which spoke the [[Primordial language]], chaos shards spoke [[Abyssal language|Abyssal]].",
-            "Relationships": "Some [[wizard]]s and other individuals who drew power from the Elemental Chaos would occasionally capture chaos shards for the purpose of using them as a source of power. In the Abyssal city of [[Morglon-Daar]], there were many chaos shards enslaved to act as a power source for street lamps.<ref>\n\nChaos shards could sometimes be found in the company of [[eldritch giant]]s,<ref> [[evistro]]s, and [[slaad]]s."
-        },
-        "Rumors & Legends": "Some claimed that the most powerful of chaos shards may have been splinters of the legendary ''shard of evil'' itself."
+        "mainbody": "Chaos shards were a variety of elementals Chaos shards materialized at the boundary between these two planes and influence from the shard of evil that had formed the Abyss.\nThese elementals varied in the type of element they expressed, but all shared the trait of having crystalline bodies that floated above the ground.\nChaos shards were semi-intelligent creatures that leaned towards a chaotic evil alignment due to the nature of the two planes they manifested from, making them quite malevolent and destructive.\nAll chaos shards emitted a harmful aura of the element they expressed and could fire that element in concentrated blasts, such as rays of energy, gouts of flame, or bolts of lightning. When brought to the point of death, a chaos shard would outwardly explode a wave of their expressed element.\nDeath shard Chaos shards that expressed necrotic energy. They had the appearance of purplish crystals full of shadowy skulls.\nFlame shard Chaos shards that expressed elemental fire. They had the appearance of amorphous blobs of fire.\nPrismatic shard Chaos shards that expressed radiant energy. They had the appearance of a large cluster of multi-hued tourmaline.\nStorm shard Chaos shards that expressed as thunder and lightning. They appeared as stormy whirlwinds, crackling with lightning and full of blue crystals swirling around their vortex.\nIn the late 15 century DR, Rezlus and his Banite faction of the Zhentarim counted some flame shards among their monstrous minions. A handful of them were sent alongside a pair of rockfist smashers, named Granifex and Obsidia, to assault the fortress of his rival Nezra and her Cyricist faction of Zhents in the Desertsmouth Mountains before they could launch an assault upon the Tower of the Void with a group of adventurers.\nIn the Abyss these elementals could be found on the 1 layer, Pazunia, as it was closest to the Elemental Chaos.\nUnlike other elementals, which spoke the Primordial language, chaos shards spoke Abyssal.\nSome wizards and other individuals who drew power from the Elemental Chaos would occasionally capture chaos shards for the purpose of using them as a source of power. In the Abyssal city of Morglon-Daar, there were many chaos shards enslaved to act as a power source for street lamps.\nChaos shards could sometimes be found in the company of eldritch giants, evistros, and slaads.\nSome claimed that the most powerful of chaos shards may have been splinters of the legendary shard of evil itself."
     }
 }

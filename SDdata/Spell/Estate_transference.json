@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "3|ft|long": "yes",
-        "5|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Estate Transference",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|9}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -45,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Estate transference''''' was a powerful [[alteration]] [[spell]] used by [[wizard]]s.",
-        "Effects": "''Estate transference'' moved a large area of land, including everything found on that land during the time of casting, on the [[Prime Material Plane]] to one of the [[Elemental Plane]]s. The new pocket of land was the same size on the elemental plane. Creatures could pass into the pocket, but the element of the plane was kept out. The temperature within the pocket was the same as it was at the time of casting. The spell would create a source of water within the pocket if one was not already included on the land.\n\nThe area to be transferred needed to be surrounded with markers made from material of the target elemental plane. The markers needed to be above ground or no more than {{SI|3|ft|long=yes}} under the ground and placed no more than {{SI|5|ft|long=yes}} apart. A piece of land transferred using this spell could never again be moved in the same manner.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[Somatic component|somatic]] components, this spell required the appropriate magical device to cast. The magical device was permanently placed in the heart of the area and unable to be used for any other purpose. The spell would instantly fail if the device was disturbed in any way."
+        "mainbody": "Estate transference was a powerful alteration spell used by wizards.\nEstate transference moved a large area of land, including everything found on that land during the time of casting, on the Prime Material Plane to one of the Elemental Planes. The new pocket of land was the same size on the elemental plane. Creatures could pass into the pocket, but the element of the plane was kept out. The temperature within the pocket was the same as it was at the time of casting. The spell would create a source of water within the pocket if one was not already included on the land.\nThe area to be transferred needed to be surrounded with markers made from material of the target elemental plane. The markers needed to be above ground or no more than  under the ground and placed no more than  apart. A piece of land transferred using this spell could never again be moved in the same manner.\nIn addition to verbal and somatic components, this spell required the appropriate magical device to cast. The magical device was permanently placed in the heart of the area and unable to be used for any other purpose. The spell would instantly fail if the device was disturbed in any way."
     }
 }

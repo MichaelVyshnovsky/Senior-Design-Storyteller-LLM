@@ -1,34 +1,5 @@
 {
-    "template_data": {
-        "0.5|lb|long": "yes",
-        "0.125|lb|long": "yes",
-        "100|lb|k|long": "yes",
-        "long": "yes",
-        "long_1": "yes"
-    },
     "document_data": {
-        "image": "Hired Hexblade AFR.jpg",
-        "caption": "A pouch of gold is exchanged with a [[hexblade]].",
-        "name": "Pouch",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Container",
-        "creator": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "5 [[sp]]",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "1 [[gp]]",
-        "weight3e": "{{SI|0.5|lb}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -45,19 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "A '''pouch''' was a container used for carrying small items, such as [[coin]]s, on one's person. They were commonly used as [[adventurer|adventuring]] gear. and pouches were also how children's [[marbles]] were typically stored.",
-        "Description": "Most pouches were made of [[leather]] and weighed about {{SI|0.5|lb|long=yes}}. Those made for small folk, such as [[gnome]]s or [[halfling]]s, were about a fourth the size and weighed around {{SI|0.125|lb|long=yes}}. Most could strap to one's belt. They sold in most markets for around 1 [[gold piece]] but could be found in [[Aurora's Emporium]] for only 2 [[silver piece]]s. Merchants selling sling bullets usually included a complimentary pouch with the bullets.",
-        "Variations": {
-            "[[Feedbag]]": "A pouch used to feed domesticated animals.",
-            "Seed pouch": "This large leather pouch was worn over the hip and used by sowers to carry up to {{SI|100|lb|k|long=yes}} of seed. They were sold by Aurora's Emporium for 2 gold pieces.<ref name=\"AWRC-p53>",
-            "[[Spell component pouch]]": "This pouch was watertight and had special compartments for quick access to tiny [[material component]]s and [[Spell focus|foci]] for [[spell]]s.",
-            "[[Waterskin]]": "This pouch had a narrow neck and was used for carrying water."
-        },
-        "Notable Pouches": {
-            "Spell-Made Pouches": {
-                "''[[Wrap]]''": "Pouches were among the many types of containers that this [[cantrip]] could create from any material. Any pouch created by the spell could hold a maximum volume of {{SI|1|cu yd|long=yes}} and could open by the spellcaster issuing a verbal command."
-            }
-        },
-        "Trivia": "The word for \"pouch\" in [[thieves' cant]] was ''byb''.{{Cite dragon/66/Thieves' Cant|37}}"
+        "mainbody": "A pouch was a container used for carrying small items, such as coins, on ones person. They were commonly used as adventuring gear. and pouches were also how childrens marbles were typically stored.\nMost pouches were made of leather and weighed about . Those made for small folk, such as gnomes or halflings, were about a fourth the size and weighed around . Most could strap to ones belt. They sold in most markets for around 1 gold piece but could be found in Auroras Emporium for only 2 silver pieces. Merchants selling sling bullets usually included a complimentary pouch with the bullets. \nthumb|300px|Money pouches are ripe for rogues to pick.\n Feedbag A pouch used to feed domesticated animals.\n Seed pouch  This large leather pouch was worn over the hip and used by sowers to carry up to  of seed. They were sold by Auroras Emporium for 2 gold pieces.\n Spell component pouch  This pouch was watertight and had special compartments for quick access to tiny material components and foci for spells.\n Waterskin  This pouch had a narrow neck and was used for carrying water.\nthumb|A simple pouch.\nThere were many magical pouches known to have existed in the Realms\n Bag of boulders  This pouch contained sling bullets that would grow to the size of light catapult stones when thrown.\n Bottomless pouch  This pouch contained an extradimensional space, allowing it to store more than it should have been able to physically.\n Dahlver-Nar Pouch A leather pouch decorated with stitched images of various heroes and lightly fanciful creatures was typically used to carry the Teeth of Dahlver-Nar.\n Enemy spirit pouch  This pouch was worn like a necklace by rangers and enhanced their skills against their favored enemies.\n Girdle of many pouches  This magic belt contained multiple extra-dimensional pouches that could respond to mental commands from the wearer.\n Gnomish workmans pouch Sets of Gnomish workmans leather were built with 56 pouches that functioned similarly to a bottomless pouch or pouch of accessibility. Only sixteen of these pouches were visible, with five of them having nine additional pouches sewn into their interior and each of those fifty could hold up to  of material weighing up to . Five of the unconnected pouches could only hold up to  of material weighing up to . And one larger pouch was designed to hold a familiar, regardless of its size, along with any food or water they might need. All of the pouches responded to their wearers thoughts, always having on top whatever specific item was desired by them when they reached in.\n Hewards handy spice pouch  This magic pouch could create any spice that the owner desired.\n Pouch of accessibility  This pouch magically contained 30 separate interior compartments.\n Pouch of winds  This magical bag contained wind that could blow a sailing vessel.\nSome spells in the Realms allowed casters to create pouches.\n Wrap  Pouches were among the many types of containers that this cantrip could create from any material. Any pouch created by the spell could hold a maximum volume of  and could open by the spellcaster issuing a verbal command.\nThe word for \"pouch\" in thieves cant was byb."
     }
 }

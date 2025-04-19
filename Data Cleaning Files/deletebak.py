@@ -12,7 +12,7 @@ def delete_bak_files(folder_path: str):
     
     for root, dirs, files in os.walk(folder_path):
         for file in files:
-            if file.lower().endswith('.txt'):
+            if file.lower().endswith('.bak'):
                 file_path = os.path.join(root, file)
                 try:
                     os.remove(file_path)

@@ -1,31 +1,9 @@
 {
     "document_data": {
-        "image": "DoubleBlade-4e.png",
-        "caption": "",
-        "name": "Two-bladed sword",
-        "othernames": "Double-sword",
-        "nicknames": "",
-        "type": "Exotic",
-        "creator": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "100 [[gp]]",
-        "weight3e": "{{SI|10|lbs.|k}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "40 gp",
-        "weight4e": "{{SI|9|lbs.|k}}",
+        "weight4e": "",
         "refs4e": "",
         "rarity5e": "",
         "attunement5e": "",
@@ -38,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "A '''two-bladed sword''', or '''double-sword''', was an exotic two-handed variety of [[sword]].{{Cite comic/The Gathering|12}}",
-        "Description": "The two-bladed sword was approximately the same length as a [[greatsword]] or a [[quarterstaff]], but had two [[short sword]]-sized blades at each end.",
-        "Weaponology": "It took special training to wield a two-bladed sword effectively.",
-        "Notable Users": "[[File:Escape from Shoonach.png|thumb|right|300px|''Timoth Eyesbright holds on tight to his two-bladed sword while fleeing from the ruins of [[Shoonach]].'']]\n* [[Artor Morlin]], a [[Waterdhavian]] [[vampire]], wielded a ''+2 [[Vampiric (weapon quality)|vampiric]] two-bladed sword'' during the 14{{th}} century [[DR]].<ref>{{Cite dungeon/128/Vampires of Waterdeep: The Fireplace Level|86-87}}\n* [[Petrello]], a [[halfling]] [[bard]] in the 14{{th}} century DR, wielded a ''+1 double-bladed sword''.\n* [[Timoth Eyesbright]], a [[centaur]] [[adventurer]], wielded a distinct two-bladed sword around [[1357 DR]].{{Cite comic/The Bounty Seekers Of Manshaka|14}}{{Cite comic/The Secret of Selûne's Eye|13}}"
+        "mainbody": "A two-bladed sword, or double-sword, was an exotic two-handed variety of sword.\nThe two-bladed sword was approximately the same length as a greatsword or a quarterstaff, but had two short sword-sized blades at each end.\nIt took special training to wield a two-bladed sword effectively.\nthumb|right|300px|Timoth Eyesbright holds on tight to his two-bladed sword while fleeing from the ruins of Shoonach.\n* Artor Morlin, a Waterdhavian vampire, wielded a +2 vampiric two-bladed sword during the 14 century DR.\n* Petrello, a halfling bard in the 14 century DR, wielded a +1 double-bladed sword.\n* Timoth Eyesbright, a centaur adventurer, wielded a distinct two-bladed sword around 1357 DR."
     }
 }

@@ -1,32 +1,7 @@
 {
-    "template_data": {
-        "rca": "center",
-        "caption": "",
-        "rightheader": "Year",
-        "rca_1": "center",
-        "caption_1": "",
-        "rightheader_1": "Year"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Hero's Reward",
-        "aliases": "",
-        "type": "Tavern",
-        "architecture": "",
-        "floors": "",
-        "location": "[[Newfort]], [[Rauvin Mountains]]",
-        "built": "[[1371 DR]]",
-        "destroyed": "",
-        "owner": "",
-        "staff": "",
-        "occupants": "",
-        "services": "Food and drinks",
-        "worship": "",
-        "basicrefs": "",
-        "ownertable": "{{Split table|rca=center|caption=",
         "rulertable": "",
-        "stafftable": "{{Split table|rca=center|caption=",
+        "stafftable": "",
         "histrefs": "",
         "pipes": "",
         "tankards": "",
@@ -43,15 +18,6 @@
         "inhabitants": "",
         "locations": "",
         "organizations": "",
-        "mainbody": "The '''Hero's Reward''' was tavern found in the small village of [[Newfort]] in the [[Silver Marches]] during the 14{{th}} and 15{{th}} centuries [[DR]].",
-        "Interior": {
-            "Atmosphere": "The taproom of the tavern was described as being rather cozy."
-        },
-        "Services": "Throughout its history, the tavern provided tasty drinks and delicious food to its patrons.",
-        "History": "Hero's Reward was first established by Newfort's founder and first mayor, [[Trevis Uhl]], in the {{YearlinkName|1371}}.\n\nIn the years following the [[War of the Silver Marches]], the tavern was run by the well-liked [[half-elf]] [[Delf Dereldar]].",
-        "Notable Patrons": {
-            "15{{th}} Century": "* [[Jorok Narm]], the constable of Newfort who played regular games of [[chess (game)|chess]] with Delf."
-        },
-        "Rumors & Legends": "The tavern's name was a wink and a not to the ex-soldiers of [[Zhentil Keep]] that resettled in Newfort in the years following the keep's destruction, many of whom were patrons at Trevis' previous establishment within the [[Moonsea]] city."
+        "mainbody": "The Heros Reward was tavern found in the small village of Newfort in the Silver Marches during the 14 and 15 centuries DR.\nThe taproom of the tavern was described as being rather cozy.\nThroughout its history, the tavern provided tasty drinks and delicious food to its patrons.\nHeros Reward was first established by Newforts founder and first mayor, Trevis Uhl, in the .\nIn the years following the War of the Silver Marches, the tavern was run by the well-liked half-elf Delf Dereldar.\n15 Century\n* Jorok Narm, the constable of Newfort who played regular games of chess with Delf.\nThe taverns name was a wink and a not to the ex-soldiers of Zhentil Keep that resettled in Newfort in the years following the keeps destruction, many of whom were patrons at Trevis previous establishment within the Moonsea city."
     }
 }

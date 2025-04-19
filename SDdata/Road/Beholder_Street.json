@@ -1,15 +1,9 @@
 {
     "document_data": {
-        "image": "NEZhentilKeep.JPG",
-        "caption": "A map showing Beholder Street in east Zhentil Keep.",
-        "name": "Beholder Street",
-        "type": "Road",
-        "aliases": "",
-        "length": "{{SI|1900|ft}}",
         "width": "",
         "pavement": "",
-        "location": "The [[Zhentil Keep/Common Quarter|Common Quarter]], [[Zhentil Keep]]",
-        "starts": "The wall of the [[Zhentil Keep/Inner Quarter|Inner Quarter]]",
+        "location": "The Common Quarter, Zhentil Keep",
+        "starts": "The wall of the Inner Quarter",
         "ends": "Southeast Zhentil Keep",
         "built": "",
         "refs": "",
@@ -23,8 +17,6 @@
         "roads": "yes",
         "bodies of water": "",
         "events": "",
-        "mainbody": "'''Beholder Street''' was a large road located in the city of [[Zhentil Keep]] during the mid–14{{th}} century [[DR]].",
-        "Location": "Beholder Street was located in east Zhentil Keep in the [[Zhentil Keep/Common Quarter|Common Quarter]]. The road originated where the [[Street of Dragons]] met the wall of the [[Zhentil Keep/Inner Quarter|Inner Quarter]] in the north, then passed south through the city before terminating in the southeast corner. Along the way Beholder Street was crossed by the [[Street of Swords (Zhentil Keep)|Street of Swords]], [[Dusk Street]], [[Traders' Way (Zhentil Keep)|Traders' Way]], [[Realm Street]], [[Ale Street]], and [[Moonsea Avenue]].",
-        "Notable Locations": "Prominent locations along Beholder Street included the [[Four Dwarf Miners]], [[the Gorey Eye-Beast]], [[the Serpent's Eye]], and a barracks for the [[Zhentilar]]."
+        "mainbody": "Beholder Street was a large road located in the city of Zhentil Keep during the mid–14 century DR.\nBeholder Street was located in east Zhentil Keep in the Common Quarter. The road originated where the Street of Dragons met the wall of the Inner Quarter in the north, then passed south through the city before terminating in the southeast corner. Along the way Beholder Street was crossed by the Street of Swords, Dusk Street, Traders Way, Realm Street, Ale Street, and Moonsea Avenue.\nProminent locations along Beholder Street included the Four Dwarf Miners, the Gorey Eye-Beast, the Serpents Eye, and a barracks for the Zhentilar."
     }
 }

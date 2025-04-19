@@ -1,22 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Heroicus",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Eileanar]], [[Netheril]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "gender": "",
-        "race": "[[Human]]",
-        "ethnicity": "[[Netherese]]{{Neth-race}}",
         "occupation": "Teacher",
         "age": "",
         "patron deity": "",
@@ -28,7 +11,7 @@
         "turned": "",
         "turnednotes": "",
         "death": "-339",
-        "deathnotes": "during [[Karsus's Folly]]",
+        "deathnotes": "during Karsuss Folly",
         "destroyed": "",
         "destroyednotes": "",
         "daterefs": "",
@@ -46,8 +29,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Chaotic good]]",
-        "class2e": "{{class table|edition=2e|[[Arcanist]] ([[Variator]])|26}}",
+        "alignment2e": "Chaotic good",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
@@ -64,7 +47,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Heroicus''' was a [[Netherese]] [[arcanist]] who taught magic at the [[Variator's Intelligentsia]] in [[Eileanar]] before its destruction in {{yearlinkConvert|3520|NY}}.",
-        "Activities": "Heroicus was a master [[summoning]] and controlling [[elemental]]s. He taught the topic at the college under Dean [[Arrias]], particularly focusing on its applications with ''[[mythallar]]s''."
+        "mainbody": "Heroicus was a Netherese arcanist who taught magic at the Variators Intelligentsia in Eileanar before its destruction in .\nHeroicus was a master summoning and controlling elementals. He taught the topic at the college under Dean Arrias, particularly focusing on its applications with mythallars."
     }
 }

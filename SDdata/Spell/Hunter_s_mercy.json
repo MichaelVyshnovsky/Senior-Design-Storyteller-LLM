@@ -1,32 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Hunter's Mercy",
-        "deity": "",
-        "inventor": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Ranger]]|1}}",
         "refs3e": "",
         "reversible2e": "",
         "school2e": "",
@@ -37,8 +10,6 @@
         "school1e": "",
         "level1e": "",
         "refs1e": "",
-        "mainbody": "'''''Hunter's mercy''''' was a [[transmutation]] spell granted uniquely to [[ranger]]s by their deities.",
-        "Effects": "After a prayer for mercy, a ranger's next shot with a bow, if taken quickly, would not miss and had a good chance of inflicting critical damage to its target.",
-        "Components": "To cast this spell required [[verbal component|verbal]] and [[somatic component]]s."
+        "mainbody": "Hunters mercy was a transmutation spell granted uniquely to rangers by their deities.\nAfter a prayer for mercy, a rangers next shot with a bow, if taken quickly, would not miss and had a good chance of inflicting critical damage to its target.\nTo cast this spell required verbal and somatic components."
     }
 }

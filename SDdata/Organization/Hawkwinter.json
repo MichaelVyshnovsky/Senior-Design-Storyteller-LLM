@@ -1,39 +1,16 @@
 {
-    "template_data": {
-        "HAWK|win|ter|refs": "Their sigil showed two flags flying in the breeze."
-    },
     "document_data": {
-        "image": "Hawkwinter-coat-of-arms.png",
-        "caption": "The Hawkwinter house insignia.",
-        "name": "Hawkwinter",
-        "aliases": "",
-        "base": "[[Waterdeep]], [[Sword Coast North]]",
-        "leader": "[[Eremoes Hawkwinter]] ([[1372 DR]])",
-        "symbol": "",
-        "favored deity": "[[Helm]]",
-        "favored weapon": "",
-        "domains": "",
-        "formed": "[[1276 DR]]",
-        "disbanded": "",
-        "basicrefs": "{{Cite web enhancement/Noble Houses of Waterdeep|4}}",
-        "members": "41 {{Small|(as of [[1372 DR]])}}",
+        "members": "41",
         "memberstable": "",
         "memtableheader": "",
-        "alignment": "{{Alignment grid|on|on|on|off|off|off|off|off|off}}",
-        "races": "[[Human]]s ([[Tethyrian]])",
+        "alignment": "",
+        "races": "Humans (Tethyrian)",
         "memrefs": "",
         "allegiances": "",
         "enemies": "",
         "relrefs": "",
         "showmembers": "yes",
         "orgname": "the Hawkwinter family",
-        "mainbody": "The '''Hawkwinters''' ({{Pronounce|HAWK|win|ter|refs= Their sigil showed two flags flying in the breeze.",
-        "Activities": "House Hawkwinter was most often associated with soldiering, garrisons, and guardianship. As of the 1370s [[DR]], their net worth was estimated at 35,000 [[gold piece]]s.",
-        "Base of Operations": "The family owned a villa in the [[Waterdeep/North Ward|North Ward]], on the southeast corner of [[Tower March]] and [[Whaelgond Way]].",
-        "Members": {
-            "14{{th}} Century": "In [[1372 DR]] House Hawkwinter contained 41 nobles. The patriarch was [[Eremoes Hawkwinter]]. [[Genos Hawkwinter]] was to be the next heir after Eremoes.",
-            "15{{th}} Century": "[[Harriana Hawkwinter|Lady Harriana Hawkwinter]] was a knight of the [[Order of the Gauntlet]] in the service of [[Helm]]."
-        },
-        "Family Tree": "{{/Family tree}}"
+        "mainbody": "The Hawkwinters ( Century===\nIn 1372 DR House Hawkwinter contained 41 nobles. The patriarch was Eremoes Hawkwinter. Genos Hawkwinter was to be the next heir after Eremoes.\nLady Harriana Hawkwinter was a knight of the Order of the Gauntlet in the service of Helm."
     }
 }

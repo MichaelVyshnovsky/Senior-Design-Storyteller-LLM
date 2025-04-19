@@ -1,17 +1,7 @@
 {
-    "template_data": {
-        "rca": "center",
-        "caption": "All dates in [[Dalereckoning]]"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Wyvern Watch Inn",
-        "type": "[[Inn]]",
-        "location": "[[Wheloon]], [[Cormyr]]",
-        "owner": "{{split table|rca=center|caption=All dates in [[Dalereckoning]]|[[Buldegas Mhaerkoon]]|[[1358 DR|1358]]|[[Buldegas Mhaerkoon]]|[[1369 DR|1369]]|[[Asanta]] & [[Baerill]]|[[1374 DR|1374]]}}",
         "owneryear": "",
-        "services": "[[Inn]], stabling",
+        "services": "Inn, stabling",
         "worship": "",
         "basicrefs": "",
         "pipes": "3",
@@ -23,9 +13,6 @@
         "inhabitants": "yes",
         "locations": "",
         "organizations": "",
-        "mainbody": "The '''Wyvern Watch Inn''' was an [[inn]] located in the city of [[Wheloon]] in [[Cormyr]]. It was owned by the Mhaerkoon family: [[Buldegas Mhaerkoon]] and later his daughters [[Asanta]] & [[Baerill]].",
-        "Location": "The Wyvern Watch Inn lay at the western end of the [[Wyvern Ferry]] over the [[Wyvernflow River]], opposite its rival, the [[Lantern Inn and Boathouse]] on the other bank. It stood right next to the ferry slip, and close to the center of town, with the [[Wheloon Watch House]] nearby.",
-        "Services": "The Wyvern Watch Inn was the biggest and best-looking inn in Wheloon, as well as the most popular and successful. This was thanks to its prime location by the ferry and its cheap prices. The rates were as low as 1 [[silver]] [[falcon (coin)|falcon]] per person per night, including all meals, drinks, and a bath. For an extra 2 [[copper piece]]s, mounts could be stabled, fed, and cared for .\n\nFor the low cost, the inn was not great, but it was cozy and sufficient. The rooms, mostly simple cubicles, were private and warm, with bolted doors and opening windows. There were no beds, only simple rope-and-straw mattresses tied from wall-to-wall, but always with fresh sheets. Each room was equipped with a chamberpot, a shelf, and hanging pegs on the wall.\n\nThe provender consisted of salty vegetable [[stew]]s and coarse [[bread]], but was nourishing enough. Buldegas watered down the [[beer]] and [[wine]], though his daughters conveniently forgot his instructions and thus made the inn more popular. Asanta and Baerill's constant chat and noisy arguments also improved the atmosphere.",
-        "History": "The Wyvern Watch Inn was in business by [[1358 DR]] and still in business in [[1369 DR]], under the long-term ownership of Buldegas Mhaerkoon.\n\nHowever, not long before [[1374 DR]], Buldegas chose to build a new inn in [[Arabel]], taking away his money and some of his best employees. He left the Wyvern in the care of his daughters, Asanta and Baerill, who increased its popularity.\n\nIn early [[Eleint]], in the {{YearlinkName|1374}}, [[Tunaster Dranik]] based himself at the Wyvern Watch Inn while recruiting adventurers to investigate the new [[Temple of Mystra (Wheloon)|Temple of Mystra]]."
+        "mainbody": "The Wyvern Watch Inn was an inn located in the city of Wheloon in Cormyr. It was owned by the Mhaerkoon family Buldegas Mhaerkoon and later his daughters Asanta & Baerill.\nThe Wyvern Watch Inn lay at the western end of the Wyvern Ferry over the Wyvernflow River, opposite its rival, the Lantern Inn and Boathouse on the other bank. It stood right next to the ferry slip, and close to the center of town, with the Wheloon Watch House nearby.\nThe Wyvern Watch Inn was the biggest and best-looking inn in Wheloon, as well as the most popular and successful. This was thanks to its prime location by the ferry and its cheap prices. The rates were as low as 1 silver falcon per person per night, including all meals, drinks, and a bath. For an extra 2 copper pieces, mounts could be stabled, fed, and cared for .\nFor the low cost, the inn was not great, but it was cozy and sufficient. The rooms, mostly simple cubicles, were private and warm, with bolted doors and opening windows. There were no beds, only simple rope-and-straw mattresses tied from wall-to-wall, but always with fresh sheets. Each room was equipped with a chamberpot, a shelf, and hanging pegs on the wall.\nThe provender consisted of salty vegetable stews and coarse bread, but was nourishing enough. Buldegas watered down the beer and wine, though his daughters conveniently forgot his instructions and thus made the inn more popular. Asanta and Baerills constant chat and noisy arguments also improved the atmosphere.\nThe Wyvern Watch Inn was in business by 1358 DR and still in business in 1369 DR, under the long-term ownership of Buldegas Mhaerkoon.\nHowever, not long before 1374 DR, Buldegas chose to build a new inn in Arabel, taking away his money and some of his best employees. He left the Wyvern in the care of his daughters, Asanta and Baerill, who increased its popularity.\nIn early Eleint, in the , Tunaster Dranik based himself at the Wyvern Watch Inn while recruiting adventurers to investigate the new Temple of Mystra."
     }
 }

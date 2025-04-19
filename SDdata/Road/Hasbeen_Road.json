@@ -1,16 +1,10 @@
 {
     "document_data": {
-        "image": "SEZhentilKeep1.jpg",
-        "caption": "A map showing Hasbeen Road in southeast Zhentil Keep.",
-        "name": "Hasbeen Road",
-        "type": "Road",
-        "aliases": "",
-        "length": "{{SI|700|ft}}",
         "width": "",
         "pavement": "",
-        "location": "The [[Zhentil Keep/Common Quarter|Common Quarter]], [[Zhentil Keep]]",
-        "starts": "[[Moonsea Avenue]]",
-        "ends": "Wall of the [[Zhentil Keep/Harbor District|Harbor District]]",
+        "location": "The Common Quarter, Zhentil Keep",
+        "starts": "Moonsea Avenue",
+        "ends": "Wall of the Harbor District",
         "built": "",
         "refs": "",
         "daggers": "",
@@ -23,7 +17,6 @@
         "roads": "yes",
         "bodies of water": "",
         "events": "",
-        "mainbody": "'''Hasbeen Road''' was a street located in the city of [[Zhentil Keep]] during the mid–14{{th}} century [[DR]].",
-        "Location": "Hasbeen Road was located in southeast Zhentil Keep in the [[Zhentil Keep/Common Quarter|Common Quarter]]. The road branched south then west off of the midpoint of [[Moonsea Avenue]] and terminated several blocks later at the wall of the [[Zhentil Keep/Harbor District|Harbor District]]. Hasbeen Road connected with [[Alley Way]]."
+        "mainbody": "Hasbeen Road was a street located in the city of Zhentil Keep during the mid–14 century DR.\nHasbeen Road was located in southeast Zhentil Keep in the Common Quarter. The road branched south then west off of the midpoint of Moonsea Avenue and terminated several blocks later at the wall of the Harbor District. Hasbeen Road connected with Alley Way."
     }
 }

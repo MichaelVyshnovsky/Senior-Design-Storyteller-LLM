@@ -1,21 +1,13 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "edition_1": "2e"
-    },
     "document_data": {
-        "name": "Spike Stones",
-        "school3e": "[[Transmutation]]",
-        "descriptors3e": "{{desc/earth}}",
-        "level3e": "{{spell table|edition=3e|[[Earth domain|Earth]]|4|[[Druid]]|4}}",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
-        "school2e": "[[Alteration]], [[Enchantment]]",
-        "spheres2e": "[[Elemental sphere|Elemental]] [[Elemental earth sphere|Earth]]",
-        "level2e": "{{spell table|edition=2e|[[Druid]]|5|[[Elemental sphere|Elemental]]|5|[[Elemental earth sphere|Elemental Earth]]|5}}",
+        "school2e": "Alteration, Enchantment",
+        "spheres2e": "Elemental Earth",
+        "level2e": "",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''Spike stones''' was a [[transmutation]] (or [[alteration]] with an [[enchantment]] component) spell that caused stone surfaces or rocky terrain to reform into long, sharp, camouflaged spikes that inflicted damage on any who passed through them.\n{{stub}}",
-        "References": "{{refs}}\n[[Category:Transmutation spells]]\n[[Category:Alteration spells]]\n[[Category:Enchantment spells]]\n[[Category:Druid spells]]\ndpv74s9bgo4lu9bs7eg6k665fnlzppj"
+        "mainbody": "Spike stones was a transmutation (or alteration with an enchantment component) spell that caused stone surfaces or rocky terrain to reform into long, sharp, camouflaged spikes that inflicted damage on any who passed through them.\nCategoryTransmutation spells\nCategoryAlteration spells\nCategoryEnchantment spells\nCategoryDruid spells\ndpv74s9bgo4lu9bs7eg6k665fnlzppj"
     }
 }

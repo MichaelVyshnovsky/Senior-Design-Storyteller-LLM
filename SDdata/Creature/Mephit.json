@@ -1,28 +1,9 @@
 {
-    "template_data": {
-        "4|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption2": "Various depictions of mephits.",
-        "name": "Mephit",
-        "othernames": "",
-        "size5e": "Small",
-        "type5e": "[[Elemental]]",
-        "subtype5e": "",
-        "alignment5e": "[[Neutral evil]]",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "Small",
-        "origin4e": "[[Elemental]]",
-        "type4e": "[[Humanoid]]",
-        "subtype4e": "[[Fire]]",
-        "alignment4e": "[[Unaligned]]",
-        "refs4e": "{{Cite dragon/421/Creature Incarnations: Mephits}}",
         "size3e": "Small",
-        "type3e": "[[Outsider]]",
+        "type3e": "Outsider",
         "subtype3e": "",
-        "alignment3e": "Usually [[neutral]]",
+        "alignment3e": "Usually neutral",
         "challenge3e": "3",
         "refs3e": "",
         "size2e": "",
@@ -37,13 +18,13 @@
         "activecycle": "",
         "diet": "",
         "lifespan": "",
-        "location": "[[Elemental planes]]",
+        "location": "Elemental planes",
         "language": "",
         "subraces": "",
         "climate": "",
         "terrain": "Land, underground",
         "genrefs": "",
-        "height": "{{SI|4|ft}}",
+        "height": "",
         "length": "",
         "wingspan": "",
         "weight": "",
@@ -58,14 +39,6 @@
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Mephits''' were extraplanar, [[outsider]] creatures similar to [[imp]]s. \n\n{{quote|''Red sky at night, mephit's delight.''|A folk saying from the [[Moonsea]].}}",
-        "Description": "Mephits were roughly [[humanoid]] in appearance and somewhat small – approximately {{SI|4|ft|long=yes}} in height.",
-        "Personality": "The exact disposition of mephits depended on their plane of origin, though they were universally capricious tricksters They took great pleasure in being pests, displaying tendencies towards vulgar behavior. They were by no means inherently evil, and in fact were highly impressionable, always eager to please their masters and shifting [[alignment]] to better do so. Their habit of making mischief simply made them more inclined to serve evil-doers, becoming sadistic, vindictive, and malicious under such being.",
-        "Abilities": "Each type of mephit had some form of breath weapon, which could usually do minor elemental damage, though it was mostly intended to ward off would-be attackers.",
-        "Combat": "Mephits' combat abilities greatly varied from one type to another, but their most basic attacks consisted of clawing and biting. For example, an [[earth mephit]] could [[soften earth and stone]], whilst a [[fire mephit]] could [[heat metal]]. In order to aid each other in combat, mephits could summon other mephits. Following this, they may have attacked in a swarm of multiple mephits. Such creatures could regenerate quickly.",
-        "Society": {
-            "Homelands": "Mephits were not native to the [[Prime Material Plane]], being linked to the various [[elemental planes|elemental]] or [[quasi-elemental planes]] of existence.\n\nBeyond the elemental planes, all varieties of mephit could be found in the [[Domains of Dread]].",
-            "Usages": "Mephit [[guano]] was a substance which possessed some magical properties. It was used to [[enchanted|enchant]] items and, if thrown, exploded in a deadly ''[[stinking cloud]]''. Carrying such items around was frowned upon and their stench was surely to scare people away."
-        }
+        "mainbody": "Mephits were extraplanar, outsider creatures similar to imps. \nMephits were roughly humanoid in appearance and somewhat small – approximately  in height.\nThe exact disposition of mephits depended on their plane of origin, though they were universally capricious tricksters They took great pleasure in being pests, displaying tendencies towards vulgar behavior. They were by no means inherently evil, and in fact were highly impressionable, always eager to please their masters and shifting alignment to better do so. Their habit of making mischief simply made them more inclined to serve evil-doers, becoming sadistic, vindictive, and malicious under such being.\nEach type of mephit had some form of breath weapon, which could usually do minor elemental damage, though it was mostly intended to ward off would-be attackers.\nMephits combat abilities greatly varied from one type to another, but their most basic attacks consisted of clawing and biting. For example, an earth mephit could soften earth and stone, whilst a fire mephit could heat metal. In order to aid each other in combat, mephits could summon other mephits. Following this, they may have attacked in a swarm of multiple mephits. Such creatures could regenerate quickly.\nthumb|250px|right|A swarm of mephits.\nMephits were not native to the Prime Material Plane, being linked to the various elemental or quasi-elemental planes of existence.\nBeyond the elemental planes, all varieties of mephit could be found in the Domains of Dread.\nMephit guano was a substance which possessed some magical properties. It was used to enchant items and, if thrown, exploded in a deadly stinking cloud. Carrying such items around was frowned upon and their stench was surely to scare people away."
     }
 }

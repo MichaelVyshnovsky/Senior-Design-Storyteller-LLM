@@ -1,29 +1,11 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Mazewalkers",
-        "othernames": "",
-        "abbr": "",
-        "symbol": "Clr symbol.png",
-        "affiliation": "",
-        "region": "",
-        "type2e": "Priest Class",
-        "variant-of2e": "",
-        "variants2e": "",
-        "kit-for2e": "",
-        "kits2e": "",
-        "alignment2e": "{{Alignment grid| on  | on  | on | on | on | on | on  | on | on }}",
-        "race2e": "[[Human]] ([[Tabaxi (tribe)|Tabaxi]])",
+        "race2e": "Human (Tabaxi)",
         "sex2e": "Any",
-        "deity2e": "[[Ubtao]]",
+        "deity2e": "Ubtao",
         "otherprereqs2e": "",
         "refs2e": "",
         "classname": "mazewalkers",
-        "mainbody": "'''Mazewalkers''' were [[specialty priest]]s devoted to [[Ubtao]], the Father of the Dinosaurs within the [[Chultan pantheon]].",
-        "Activities": "Mazewalkers maintained the spiritual state of members of their clan, navigating them safely through the \"maze\" of life. They also served as historians for their tribe, councilors, and peacemakers between other tribes.",
-        "Culture": "They were usually [[human]] [[Tabaxi (tribe)|tabaxi]].",
-        "Abilities": "Given Ubtao's particular loathing of the [[undead]], mazewalkers were very skilled at [[turn undead|turning undead]]. They were skilled navigators who never got lost within the jungles of [[Chult]]. All mazewalkers were immune to the ''[[maze]]'' and ''[[confusion]]'' [[spell]]s. They could cast the following spells once per day: ''[[analyze balance]]'', ''[[mind read]]'', ''[[memory read]]'', ''[[addition]]'', ''[[genius]]'', ''[[fire purge]]'', ''[[find the path]]'', ''[[call dinosaurs]]'', and ''[[mind tracker]]''.",
-        "Possessions": "Mazewalkers only used blunt weaponry. They did not have [[armor]] restrictions."
+        "mainbody": "Mazewalkers were specialty priests devoted to Ubtao, the Father of the Dinosaurs within the Chultan pantheon.\nMazewalkers maintained the spiritual state of members of their clan, navigating them safely through the \"maze\" of life. They also served as historians for their tribe, councilors, and peacemakers between other tribes.\nThey were usually human tabaxi.\nGiven Ubtaos particular loathing of the undead, mazewalkers were very skilled at turning undead. They were skilled navigators who never got lost within the jungles of Chult. All mazewalkers were immune to the maze and confusion spells. They could cast the following spells once per day analyze balance, mind read, memory read, addition, genius, fire purge, find the path, call dinosaurs, and mind tracker.\nMazewalkers only used blunt weaponry. They did not have armor restrictions."
     }
 }

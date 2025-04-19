@@ -1,40 +1,5 @@
 {
-    "template_data": {
-        "index": "{{P"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "code": "",
-        "title": "Anduri's Wandering Conundrum",
-        "publisher": "[[RPGA]]",
-        "designer": "[[Brett King]]",
-        "editor": "",
-        "reviewer": "",
-        "also_credited": "",
-        "cover_artist": "",
-        "inter_artist": "",
-        "cartography": "",
-        "realm year": "",
-        "setting": "",
-        "edition1": "LC",
-        "debut": "MACE '98",
-        "released": "November 13, 1998",
-        "subcat": "",
-        "pages": "22",
-        "game_edition": "2",
-        "isbn": "",
-        "play_time": "3&ndash;4 hours",
-        "rounds": "1",
-        "players": "",
-        "levels": "Any",
-        "series": "",
-        "preceded_by": "",
-        "followed_by": "",
-        "index": "{{P|[[Ravens Bluff]]|}}",
-        "mainbody": "",
-        "Index": {
-            "Locations": "{{Index\n|index = {{P|[[Ravens Bluff]]|}}\n}}"
-        }
+        "mainbody": "nduris Wandering Conundrum is an adventure in the Living City organized play campaign for Dungeons & Dragons 2 edition."
     }
 }

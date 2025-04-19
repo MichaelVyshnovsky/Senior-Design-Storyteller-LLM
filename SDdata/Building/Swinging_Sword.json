@@ -1,18 +1,5 @@
 {
-    "template_data": {
-        "rca": "right"
-    },
     "document_data": {
-        "image": "Swinging_sword-5e.jpg",
-        "caption": "The Swinging Sword (right) with its many chimneys.",
-        "name": "Swinging Sword",
-        "aliases": "",
-        "type": "Inn",
-        "architecture": "Stone with slate roof",
-        "floors": "3",
-        "location": "[[Red Larch]], the [[Savage Frontier]], [[Northwest Faerûn]]",
-        "owner": "",
-        "ownertable": "{{Split table|rca=right|[[Jhandlatha Taskaloath|Jhandlatha]] and [[Peieyrie Taskaloath]]|[[1370 DR]]|[[Kaylessa Irkell]]|[[1491 DR]]}}",
         "staff": "",
         "stafftable": "",
         "occupants": "",
@@ -30,10 +17,6 @@
         "inhabitants": "yes",
         "locations": "",
         "organizations": "",
-        "mainbody": "The '''Swinging Sword''' was a stone and timber inn in the town of [[Red Larch]].",
-        "Appearance": "The Swinging Sword was a three-story building of stone and timber, with a steep slate roof, many chimneys, and a covered porch that runs parallel to the [[Long Road]]. It also has a round turret that looks like it belongs on a large castle.",
-        "Atmosphere": "The Swinging Sword is old, dark and full of secret passages and storage closets. It also has a lot of mice and cats who hunt them. Sometimes the Swinging Sword gets rowdy, as it's the favorite inn in Red Larch of adventurers, professional escorts, and those who are people of action.",
-        "Ownership": "In 1370 DR, the inn was owned and run by elderly sisters [[Jhandlatha Taskaloath|Jhandlatha]] and [[Peieyrie Taskaloath]], who were both sorcerers, and loved to hear the tales of adventurers who stopped at the inn.\n\nBy 1491 DR, the inn was in the possession of the [[Irkell]] family of [[Waterdeep]], and run by [[Kaylessa Irkell]].",
-        "Rumors": "Around 1370 DR, there were rumors that a ''[[gate]]'' (or even more than one), were hidden somewhere in or near the Swinging Sword. Tales told of connections with the [[Moonshaes]], [[The Vast]], and the [[Tashalar]]. The rumors were supported by strange folk showing up in the inn often."
+        "mainbody": "The Swinging Sword was a stone and timber inn in the town of Red Larch.\nThe Swinging Sword was a three-story building of stone and timber, with a steep slate roof, many chimneys, and a covered porch that runs parallel to the Long Road. It also has a round turret that looks like it belongs on a large castle.\nThe Swinging Sword is old, dark and full of secret passages and storage closets. It also has a lot of mice and cats who hunt them. Sometimes the Swinging Sword gets rowdy, as its the favorite inn in Red Larch of adventurers, professional escorts, and those who are people of action.\nIn 1370 DR, the inn was owned and run by elderly sisters Jhandlatha and Peieyrie Taskaloath, who were both sorcerers, and loved to hear the tales of adventurers who stopped at the inn.\nBy 1491 DR, the inn was in the possession of the Irkell family of Waterdeep, and run by Kaylessa Irkell.\nAround 1370 DR, there were rumors that a gate (or even more than one), were hidden somewhere in or near the Swinging Sword. Tales told of connections with the Moonshaes, The Vast, and the Tashalar. The rumors were supported by strange folk showing up in the inn often."
     }
 }

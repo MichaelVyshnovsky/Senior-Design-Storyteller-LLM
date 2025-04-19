@@ -1,24 +1,5 @@
 {
-    "template_data": {
-        "2|3|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Play bow and arrow set.jpg",
-        "caption": "",
-        "name": "Bow and arrow set",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Toy",
-        "creator": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "2 [[gp]]",
-        "weight2e": "{{SIrange|2|3|lb|k}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -41,8 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "A '''bow and arrow set''' was a type of toy designed for children to play pretend and emulate [[ranger]]s, as well as means by which to teach children proper etiquette regarding ranged weaponry. Despite being supposedly harmless fun, it was generally advised that adults supervise children playing with them.",
-        "Description": "Each set consisted of three [[bowstring]]s,{{Cite organized play/LC/Tears of Selûne|23}} by affixed [[bean bag]]s, and a small [[bow]]. These bows were crafted with a very resilient [[willow]] stem, had a {{SI|5|lb}} pull, and weighed around {{SIrange|2|3|lb|k|long=yes}}.",
-        "Availability": "* ''[[Aurora's Whole Realms Catalogue (in-universe)|Aurora's Whole Realms Catalogue]]'' sold bow and arrow sets made in [[the Dalelands]] for 2 [[gold piece]]s.\n* The [[Toysmiths]], a toyshop in Ravens Bluff that was owned and operated by the [[gnome]] brothers [[Gunder Gaewilder|Gunder]] and [[Relvan Gaewilder]],<ref>{{Cite organized play/LC/Tears of Selûne|7}} sold bow and arrow sets at the same price."
+        "mainbody": "A bow and arrow set was a type of toy designed for children to play pretend and emulate rangers, as well as means by which to teach children proper etiquette regarding ranged weaponry. Despite being supposedly harmless fun, it was generally advised that adults supervise children playing with them.\nEach set consisted of three bowstrings, by affixed bean bags, and a small bow. These bows were crafted with a very resilient willow stem, had a  pull, and weighed around .\n* Auroras Whole Realms Catalogue sold bow and arrow sets made in the Dalelands for 2 gold pieces.\n* The Toysmiths, a toyshop in Ravens Bluff that was owned and operated by the gnome brothers Gunder and Relvan Gaewilder, sold bow and arrow sets at the same price."
     }
 }

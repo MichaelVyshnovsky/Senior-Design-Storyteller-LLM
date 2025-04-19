@@ -1,23 +1,8 @@
 {
-    "template_data": {
-        "variant": "channel divinity",
-        "edition": "4e",
-        "variant_1": "channel divinity"
-    },
     "document_data": {
-        "name": "Sune's Touch",
-        "deity": "[[Sune]]",
-        "inventor": "",
-        "type": "Encounter",
-        "keywords5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "{{desc/divine|variant=channel divinity}}",
-        "level4e": "{{spell table|edition=4e|variant=channel divinity|[[Avenger]]|1|[[Cleric]]|1|[[Invoker]]|1|[[Paladin]]|1}}",
+        "level4e": "",
         "type4e": "Encounter",
         "refs4e": "",
-        "mainbody": "'''''Sune's touch''''' was a divine spell, or Channel Divinity, given to worshipers of [[Sune]] that granted a nearby ally an improved chance to hit or perform a skill during a brief window of opportunity.",
-        "References": "{{refs}}\ncjo6a5tzi6o4on9oradhdmbvqb1cc2x"
+        "mainbody": "Sunes touch was a divine spell, or Channel Divinity, given to worshipers of Sune that granted a nearby ally an improved chance to hit or perform a skill during a brief window of opportunity.\ncjo6a5tzi6o4on9oradhdmbvqb1cc2x"
     }
 }

@@ -1,31 +1,6 @@
 {
-    "template_data": {
-        "edition": "4e",
-        "15|feet|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Ethereal Stride",
-        "othernames": "",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "{{desc/arcane}}{{desc/teleportation}}",
-        "level4e": "{{spell table|edition=4e|[[Warlock]]|2}}",
+        "level4e": "",
         "type4e": "Encounter",
         "category4e": "",
         "skill4e": "",
@@ -46,7 +21,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Ethereal stride''''' was a [[spell]] used by [[warlock]]s who made a star pact to enable them to fade out of the world for a split second.",
-        "Effects": "By briefly moving out of phase with the world, the warlock transplanted themselves a distance of {{SI|15|feet|long=yes}}. The effects of the movement stuck with the warlock several seconds longer, however, making them slightly more difficult to attack."
+        "mainbody": "Ethereal stride was a spell used by warlocks who made a star pact to enable them to fade out of the world for a split second.\nBy briefly moving out of phase with the world, the warlock transplanted themselves a distance of . The effects of the movement stuck with the warlock several seconds longer, however, making them slightly more difficult to attack."
     }
 }

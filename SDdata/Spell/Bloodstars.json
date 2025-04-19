@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "90|ft|long": "yes",
-        "10|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Bloodstars.JPG",
-        "caption": "A wizard arms himself with bloodstars.",
-        "name": "Bloodstars",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|7}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -45,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Bloodstars''''' was a rare [[evocation]] [[spell]] used by [[wizard]]s.{{Cite dragon/200/The Wizards Three: Once more the three|24}}",
-        "Effects": "''Bloodstars'' created seven spiky electrical stars from the caster's blood that whirled around the caster. The caster could direct the ''bloodstars'' to attack up to seven different targets, though only one ''bloodstar'' could strike a particular target at any given time. ''Bloodstars'' could not move more than {{SI|90|ft|long=yes}} from the caster. ''Bloodstars'' moved with dashing speed and accuracy, ignoring armor and other non-magical barriers.\n\nWhen striking a target, a ''bloodstar'' lodged itself in the target to cause harm. Once the ''bloodstar'' was attached, the caster could detonate it when they wished to cause additional harm to the target and any other creature standing within {{SI|10|ft|long=yes}}. ''Bloodstars'', even upon exploding, never harmed the caster.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[Somatic component|somatic]] components, this spell required drops of the caster's blood to cast."
+        "mainbody": "Bloodstars was a rare evocation spell used by wizards.\nBloodstars created seven spiky electrical stars from the casters blood that whirled around the caster. The caster could direct the bloodstars to attack up to seven different targets, though only one bloodstar could strike a particular target at any given time. Bloodstars could not move more than  from the caster. Bloodstars moved with dashing speed and accuracy, ignoring armor and other non-magical barriers.\nWhen striking a target, a bloodstar lodged itself in the target to cause harm. Once the bloodstar was attached, the caster could detonate it when they wished to cause additional harm to the target and any other creature standing within . Bloodstars, even upon exploding, never harmed the caster.\nIn addition to verbal and somatic components, this spell required drops of the casters blood to cast."
     }
 }

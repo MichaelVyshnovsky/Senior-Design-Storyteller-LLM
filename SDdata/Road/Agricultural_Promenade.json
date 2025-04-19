@@ -1,28 +1,5 @@
 {
     "document_data": {
-        "image": "Agricultural.png",
-        "caption": "A map of Huzuz showing the Agricultural Promenade lined in black.",
-        "name": "Agricultural Promenade",
-        "type": "Street",
-        "aliases": "Farmers' Road",
-        "length": "",
-        "width": "",
-        "pavement": "",
-        "location": "[[Huzuz]], [[Zakhara]]",
-        "starts": "[[Road to Enlightenment]]",
-        "ends": "[[Grand Bazaar]]",
-        "built": "",
-        "refs": "",
-        "daggers": "",
-        "usethe": "yes",
-        "useon": "yes",
-        "inhabitants": "yes",
-        "locations": "yes",
-        "organizations": "yes",
-        "settlements": "",
-        "roads": "yes",
-        "events": "",
-        "mainbody": "The '''Agricultural Promenade''', or '''Farmers' Road''', was located in [[Huzuz]], the City of Delights, in [[1367 DR]].{{AQ-time}}",
-        "Description": "The Farmers' Road separated the [[Clothiers' District]] and [[Peasants' District]], branching off from the [[Road to Enlightenment]] near the [[Gulf Gate]] to run north roughly parallel to [[Clothiers' Way]] before terminating at the [[Grand Bazaar]] in the [[Merchants' District]]."
+        "mainbody": "he Agricultural Promenade, or Farmers Road, was located in Huzuz, the City of Delights, in 1367 DR.\nThe Farmers Road separated the Clothiers District and Peasants District, branching off from the Road to Enlightenment near the Gulf Gate to run north roughly parallel to Clothiers Way before terminating at the Grand Bazaar in the Merchants District."
     }
 }

@@ -1,21 +1,5 @@
 {
-    "template_data": {
-        "rca": "right"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Halurskan Wine",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Wine]]",
-        "origin": "[[Berdusk]], [[Sunset Vale]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "{{Split table|rca=right|Glass|1 [[gp]]}}",
         "weight2e": "",
         "refs2e": "",
         "school3e": "",
@@ -38,8 +22,7 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "creator": "[[Halurska the Fat]]",
-        "mainbody": "'''Halurskan wine''' was a fermented alcoholic beverage created by [[Halurska the Fat]], a baked of the city of [[Berdusk]] long before the 14{{th}} century [[DR]].",
-        "Description": "The [[wine]] was a black and nutty-tasting alcoholic beverage made from [[mushroom]]s. It was commonly served by the [[Church of Milil]] during revels at [[Evensong Tower]], a many-spired temple dedicated to [[Milil]]."
+        "creator": "Halurska the Fat",
+        "mainbody": "Halurskan wine was a fermented alcoholic beverage created by Halurska the Fat, a baked of the city of Berdusk long before the 14 century DR.\nThe wine was a black and nutty-tasting alcoholic beverage made from mushrooms. It was commonly served by the Church of Milil during revels at Evensong Tower, a many-spired temple dedicated to Milil."
     }
 }

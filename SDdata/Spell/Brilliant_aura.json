@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Brilliant Aura",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Druid]]|7}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Brilliant aura''''' was a [[spell]] used by [[druid]]s.",
-        "Effects": "When cast, the spell outlined the caster's allies in a luminous vapor. As a result, their melee and ranged weapons temporarily became energy weapons. The energy weapons were strong enough to penetrate most armor but had no effect on [[construct]]s, objects or [[undead]] creatures. The aura illuminated the surrounding area up to {{SI|20|ft}} around each ally.",
-        "Components": "This spell required only [[Verbal component|verbal]] and [[somatic component|somatic]] components."
+        "mainbody": "Brilliant aura was a spell used by druids.\nWhen cast, the spell outlined the casters allies in a luminous vapor. As a result, their melee and ranged weapons temporarily became energy weapons. The energy weapons were strong enough to penetrate most armor but had no effect on constructs, objects or undead creatures. The aura illuminated the surrounding area up to  around each ally.\nThis spell required only verbal and somatic components."
     }
 }

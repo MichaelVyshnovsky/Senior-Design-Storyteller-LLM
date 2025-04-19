@@ -1,42 +1,5 @@
 {
     "document_data": {
-        "image": "Crown Aflame.png",
-        "caption": "''One of The Crown Aflame's performances.''",
-        "name": "Crown Aflame",
-        "aliases": "The Red Fruit",
-        "type": "Theater",
-        "architecture": "",
-        "floors": "",
-        "location": "[[Temple District (Athkatla)|Temple District]], [[Athkatla]]",
-        "owner": "",
-        "ownertable": "",
-        "staff": "A dozen or so actors and performers",
-        "stafftable": "",
-        "occupants": "",
-        "services": "Farcical and grand plays",
-        "worship": "",
-        "pipes": "",
-        "tankards": "",
-        "coins": "4",
-        "daggers": "",
-        "quality": "",
-        "price": "",
-        "usethe": "yes",
-        "useon": "",
-        "inhabitants": "",
-        "locations": "",
-        "organizations": "",
-        "source": "[[Volo's Guide to Baldur's Gate II]]",
-        "page": "14",
-        "mainbody": "The '''Crown Aflame''', known by some as '''the Red Fruit''', was a lush theater on [[Sarlannus Street]] in the [[Temple District (Athkatla)|Temple District]] of [[Athkatla]] during the 14{{th}} century [[DR]]. The building of the theater was a former temple of [[Azuth]], as evidenced by the magnificent pillars at its entrance.\n\nThe inner walls of the Crown were plush and draped in red velvet. Jutting out from its reaches were a series of inward-facing, rounded balconies. The seats were steeply arranged around a grand, ovular stage that was fantastic for carrying the voices of performers, especially while singing.",
-        "Performances": {
-            "Grand Plays": "* ''[[And So They Met the Gargoyle]]'': The classic by [[Zarghar]].\n*''[[Gilded Unicorn]]'': Written by the young playwright [[Raulivan Torthtra]] of [[Zazesspur]].\n*''[[The Shattered Throne Tumbles]]'': A play written by the blind [[Ilmatari]] [[monk]] [[Annadas Athlo]].",
-            "Farces": "*''[[The Terrible Tale of Talvadar the Merchant]]'': A thoroughly enjoyed farce that was famous within the city around the year [[1370 DR]]."
-        },
-        "Performers": {
-            "Crown Players": "* [[Tarathae Deluskar]]: A former dancer and courtesan.\n*[[Halvaruth Feirn]]: The stone-faced actor famed for his subtle expressions.\n*[[Meerdaun Jhavalanko]]: A particularly acrobatic actor.\n*[[Mhaviklo Nathalar|\"Lord\" Mhaviklo Nathalar]]: An older but magnificently talented actor who held a number of roles in his semi-retirement.",
-            "Traveling Favorites": "*[[Shadazzryl Chalraeva]]: She was among the most beloved actresses in Athkatla from among the troupes that regularly traveled to the city."
-        },
-        "The Talking Painting": "Although the theater's main draw was the plays and shows that were put on the stage, it had another attraction for visitors in between performances. Under the careful watch of Athkatlan guards, patrons could pay a few [[gold piece]]s for a tour of the ''[[Talking Painting]]'', a massive many-paneled painting on the Crown's walls. It portrayed a life-size scene of many guild masters and burghers of Athkatla that was [[magic]]ally enchanted to have them speak a variety of seemingly random phrases. Their meaning was unknown, though it was speculated that they amounted to an elaborate practical joke or scavenger hunt for some long-lost treasures and [[artifact]]s."
+        "mainbody": "he Crown Aflame, known by some as the Red Fruit, was a lush theater on Sarlannus Street in the Temple District of Athkatla during the 14 century DR. The building of the theater was a former temple of Azuth, as evidenced by the magnificent pillars at its entrance.\nThe inner walls of the Crown were plush and draped in red velvet. Jutting out from its reaches were a series of inward-facing, rounded balconies. The seats were steeply arranged around a grand, ovular stage that was fantastic for carrying the voices of performers, especially while singing.\nthumb|The location of The Crown Aflame, the building with a distinct triangular shape in the Temple District.|355x355px\nA seat for a matinee showing cost 4 gp while an evening show was 8 gp. Each play or performance would typically last under two hours, after which the audience was expected to file out before the next one began.\nPlays drew moderately sized audiences, though they would swell in the case of an actor debuting a new performance or when the city was abuzz about a particularly dramatic display.\nThe Crown Aflame showed two main types of shows \"grand plays\" and \"farce frolics\". Mugging for laughs and extravagant over-acting were common among the actors of the Crown. Anyone who took themselves too seriously, especially playwrights, were often mocked and derided, even by their fellow cast members.\nGrand Plays\n* And So They Met the Gargoyle The classic by Zarghar.\n*Gilded Unicorn Written by the young playwright Raulivan Torthtra of Zazesspur.\n*The Shattered Throne Tumbles A play written by the blind Ilmatari monk Annadas Athlo.\nFarces\n*The Terrible Tale of Talvadar the Merchant A thoroughly enjoyed farce that was famous within the city around the year 1370 DR.\nThe Crown had a staff of a dozen or so regular actors, known as the Crown Players. They took in additional performers in the form of traveling troupes who would stay in Athkatla for two tendays or a month, before traveling on. Athkatlan theater aficionados would typically attend at least one performance of a familiar play when there was a run by a new troupe in the city.\nCrown Players\n* Tarathae Deluskar A former dancer and courtesan.\n*Halvaruth Feirn The stone-faced actor famed for his subtle expressions.\n*Meerdaun Jhavalanko A particularly acrobatic actor.\n*\"Lord\" Mhaviklo Nathalar An older but magnificently talented actor who held a number of roles in his semi-retirement.\nTraveling Favorites\n*Shadazzryl Chalraeva She was among the most beloved actresses in Athkatla from among the troupes that regularly traveled to the city.\nAlthough the theaters main draw was the plays and shows that were put on the stage, it had another attraction for visitors in between performances. Under the careful watch of Athkatlan guards, patrons could pay a few gold pieces for a tour of the Talking Painting, a massive many-paneled painting on the Crowns walls. It portrayed a life-size scene of many guild masters and burghers of Athkatla that was magically enchanted to have them speak a variety of seemingly random phrases. Their meaning was unknown, though it was speculated that they amounted to an elaborate practical joke or scavenger hunt for some long-lost treasures and artifacts."
     }
 }

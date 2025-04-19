@@ -1,12 +1,5 @@
 {
-    "template_data": {
-        "yoo|par|KAYR|ee|a|refs": "{{Cite dragon/93/Ay pronunseeAYshun gyd"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Euparkeria",
-        "othernames": "Runner{{Cite organized play/LJ/Herd|26}}",
         "size5e": "",
         "type5e": "",
         "subtype5e": "",
@@ -26,10 +19,10 @@
         "challenge3e": "",
         "refs3e": "",
         "size2e": "Small",
-        "alignment2e": "[[Neutral]]{{Nil-alignment}}",
-        "refs2e": "{{Cite dragon/155/Sage Advice|86}}",
+        "alignment2e": "Neutral",
+        "refs2e": "",
         "size1e": "Small",
-        "alignment1e": "[[Neutral]]",
+        "alignment1e": "Neutral",
         "refs1e": "",
         "patron deity": "",
         "movement": "",
@@ -44,7 +37,7 @@
         "climate": "Any",
         "terrain": "Any",
         "genrefs": "",
-        "height": "{{SI|3|ft|c}}",
+        "height": "",
         "length": "",
         "wingspan": "",
         "weight": "",
@@ -57,11 +50,8 @@
         "distinctions": "",
         "appearrefs": "",
         "first": "",
-        "based": "[[Wikipedia:Euparkeria|Euparkeria]]",
+        "based": "Euparkeria",
         "histrefs": "",
-        "mainbody": "'''Euparkeria''' ({{Pronounce|yoo|par|KAYR|ee|a|refs={{Cite dragon/93/Ay pronunseeAYshun gyd|26}}}}), also known as '''runner''' among the denizens of the [[Malatran Plateau]], was a species of [[dinosaur]].",
-        "Description": "Euparkerias were small dinosaurs with four legs and a tail.",
-        "Combat": "Euparkerias hunted in packs. They usually targeted small prey and [[humanoid]]s. They have been known to stalk a wounded creature much larger than they were. As a defensive measure, they had the ability to run upright on their hind legs for a short distance.",
-        "Biology": "Euparkerias were carnivores and lived together in small groups."
+        "mainbody": "Euparkeria (), also known as runner among the denizens of the Malatran Plateau, was a species of dinosaur.\nEuparkerias were small dinosaurs with four legs and a tail.  \nEuparkerias hunted in packs. They usually targeted small prey and humanoids. They have been known to stalk a wounded creature much larger than they were. As a defensive measure, they had the ability to run upright on their hind legs for a short distance.\nEuparkerias were carnivores and lived together in small groups."
     }
 }

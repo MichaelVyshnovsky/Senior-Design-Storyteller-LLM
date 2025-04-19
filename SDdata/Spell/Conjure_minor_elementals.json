@@ -1,26 +1,7 @@
 {
-    "template_data": {
-        "edition": "5e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "Conjure minor elementals.png",
-        "caption": "",
-        "name": "Conjure minor elementals",
-        "school": "[[Conjuration]]",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "school5e": "[[Conjuration]]",
-        "level5e": "{{spell table|edition=5e|[[Druid]]|4|[[Wizard]]|4}}",
         "type5e": "",
         "refs5e": "",
-        "mainbody": "'''Conjure minor elementals''' was a [[conjuration]] [[spell]] that summoned one or multiple minor [[elemental]]s.",
-        "Effect": "In casting this spell, the caster could choose to summon up to four minor elementals. The spell's power would be divided among the summoned elementals so the more elementals there were, the less powerful they would be. The elementals were friendly to the caster and their allies and would follow orders and last for a hour.\n\nHowever, if the caster lost concentration, then the elementals would break free and become hostile toward the caster and their allies. If the spell was cast at specific higher spell levels, then the number of summons could double or even triple but not decrease in strength with numbers.",
-        "Components": "Only [[verbal]] and [[somatic]] components were needed for the casting of this spell."
+        "mainbody": "Conjure minor elementals was a conjuration spell that summoned one or multiple minor elementals.\nIn casting this spell, the caster could choose to summon up to four minor elementals. The spells power would be divided among the summoned elementals so the more elementals there were, the less powerful they would be. The elementals were friendly to the caster and their allies and would follow orders and last for a hour.\nHowever, if the caster lost concentration, then the elementals would break free and become hostile toward the caster and their allies. If the spell was cast at specific higher spell levels, then the number of summons could double or even triple but not decrease in strength with numbers.\nOnly verbal and somatic components were needed for the casting of this spell."
     }
 }

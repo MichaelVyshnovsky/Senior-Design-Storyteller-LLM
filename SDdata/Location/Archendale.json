@@ -1,30 +1,6 @@
 {
     "document_data": {
-        "type": "Vale",
-        "name": "Archendale",
-        "image": "Archendale-1367DR.png",
-        "caption": "Map of Archendale and environs, circa [[1367 DR]].",
-        "aliases": "",
-        "capital": "[[Archenbridge]]",
-        "area": "[[Dalelands]], [[North Faerûn]]",
-        "size": "",
-        "georefs": "",
-        "demonym": "Arkhenfolk<br/>Archenfolk",
-        "ruler1": "[[Swords of Archendale]]",
-        "ruleryear1": "1372",
-        "ruler2": "''unknown''",
-        "ruleryear2": "1440",
-        "ruler3": "",
-        "ruleryear3": "",
-        "ruler4": "",
-        "ruleryear4": "",
-        "ruler5": "",
-        "ruleryear5": "",
-        "rulertype": "",
-        "government": "Autocracy",
-        "languages": "",
-        "races": "{{percentage table|[[Human]]s|92|[[Half-elf|Half-elves]]|3|[[Gnome]]s|2|[[Halfling]]s|2|Other|1|}}",
-        "religion": "[[Chauntea]], [[Lathander]], [[Mielikki]], [[Selûne]], [[Silvanus]], [[Tempus]]",
+        "religion": "Chauntea, Lathander, Mielikki, Selûne, Silvanus, Tempus",
         "reckoning": "DR",
         "population1": "92,300",
         "popyear1": "1372",
@@ -32,9 +8,9 @@
         "popyear2": "1479",
         "population3": "",
         "popyear3": "",
-        "imports": "Exotic metalwork, silks, [[spices]]",
+        "imports": "Exotic metalwork, silks, spices",
         "exports": "Shellfish, fruits, produce, ores, timber",
-        "alignment": "{{alignment grid|off|on|off|on|on|off|off|off|off}}",
+        "alignment": "",
         "allegiance": "",
         "usethe": "",
         "useon": "",
@@ -42,26 +18,8 @@
         "locations": "yes",
         "organizations": "yes",
         "settlements": "yes",
-        "source": "[[Forgotten Realms Campaign Setting 3rd edition]]",
+        "source": "Forgotten Realms Campaign Setting 3rd edition",
         "page": "118",
-        "mainbody": "'''Archendale''' ({{Pronounce|ARK|hen|dale|refs=}}), one of the lands' ''trading Dales'', was the most aggressive, influential and well-defended of the dales within the [[Dalelands]]. The large trading hub viewed themselves as the leader of the region, boasting the largest standing army and strong economy based on its self-reliance and abundance of rich natural resources such as game, crops and valuable minerals.",
-        "Geography": {
-            "Geographical features": {
-                "Forests and woods": "* [[Arch Wood]], the forest that extended from the [[Forest of Cormanthor]]. It bordered the northern edge of Archendale between [[Deepingdale]] to the north and [[Tasseldale]] to the east.",
-                "Mountains & Valleys": "* [[Arkhen Vale]]: This steep, rocky valley, formed by the river Arkhen, cradled the entirety of Archendale.\n* [[Mount Thalagbror]], the mountain overlooking the dale that was named after an [[ogre mage]] who formerly terrorized the region, but has since been slain.",
-                "Bodies of Water": "* [[Arkhen Falls]], the beautiful waterfall that flowed from a natural spring in Mount Thalagbror to the vale below.\n* [[River Arkhen]], a major river set into a deep gorge within the Arkhen vale."
-            }
-        },
-        "Society": "Despite their warlike attitude, the dale owed its prosperity to mercantile success rather than military prowess. As such the life of a successful trader and businessman was highly valued.\n\nLawfulness and order were paramount to achieve continued prosperity in the eyes of the Archendalesmen, a view that was propagated by the Three Swords. As such, adventurers were not necessarily welcomed as they often brought uncertainty and chaos.",
-        "Government": {
-            "Law and order": "Military justice was prevalent in Archendale, and punishment for breaking the law was particularly harsh. Officers of the Ride had the power to charge or arrest lawbreakers, sentence minor offenders and bring major criminals to the ''Swords'' for judgement and sentencing.\n\nSpying was severely punished in the Dale: usually by permanent exile and a confiscation of all goods, a sentence which couldn't be appealed. The isolationist Arkhenfolk tended to accuse strangers of spying to entertain themselves and to make outsiders fear them&mdash;this resulted in a variety of merchants visiting the Dale using false names and clumsy disguises, due to past suspicions.\n\nIn addition, the Dalesmen followed a couple atypical laws:\n* No man could reveal the identities of the three ''Swords''.\n* The army patrols had strict orders to unearth anything buried by visitors, and confiscate it if it was of value."
-        },
-        "Trade": "Archendale was entirely self-sufficient, having scattered farmlands as well as apple and [[grus-grus]] orchards along the valley floor. The numerous streams were full of crawfish and fresh-water crabs. It also had a number of very profitable ore mines adding to the Dales overall exports.\n\nDue to its self-sufficiency, only fancy, exotic or extravagant items were required to be imported. The wealthiest merchants in Archendale operated out of its largest city, [[Archenbridge]]. A number of trading costers operated out of the city. Among these were the [[Darkwater Brand]], a merchant clan that traded ore from Archendale for finished goods from the [[Moonsea]] region; [[Jendalar's Fine Fruits]], the company that exported the goods from Archendale's orchards and farms; and [[Mirksha, Mirksha and Mirksha]], a company of three brothers that traded exotic goods from southern coast of the [[Sea of Fallen Stars]].",
-        "Defenses": "Archendale was defended by an army known as the [[Archenriders]], consisting of ten ''rides'' of 60 mounted soldiers. While half of the army was typically standing down, the other half would be active, stationed throughout the Dale. Three of them were always stationed at [[Swordpoint]], a stone keep and the Dales' major garrison, one at [[White Ford]] and another would patrol the Dale in 10-man units. Rides would alternate between active and off-duty in two month rotations. \n\nRegular militias were kept at a number of towns, comprising veterans and young men and women preparing for regular service. Due to its security, the region was a haven for merchants.",
-        "Relationships": "After a major war victory, the Dalesmen wrestled a treaty out of [[Sembia]]. It required the city of [[Ordulin]] to pay 300,000 [[gp]] worth of [[gem]]s to the Dale every year",
-        "Notable locations": {
-            "Temples": "Most rural Archendalesman were followers of [[Chauntea]], but there were also temples in devotion to [[Lathander]] and [[Tempus]]. There were also smaller shrines in the woods of the Dale, devoted to nature deities such as [[Silvanus]], [[Eldath]], [[Mielikki]] and [[Selune]].\n\n* [[Bounty of the Goddess (Archenbridge)|Bounty of the Goddess]], a prominent Chauntean temple that was a richly-painted, re-purposed barn, whose entrance was flanked by two pillars carved to look like enormous stalks of wheat. It was overseen by an ambitious priest named [[Thaliach Mindogar]].\n* [[Glory of the Morning]], built a bit before [[1369 DR]], this sanctuary to the Morninglord was served by [[Stellaga Brightstar]] and a dozen minor [[cleric]]s.",
-            "Settlements": "*[[Archenbridge]], Archendale's capital and the largest city in the Dalelands. It was a bustling metropolis with a heavy influence from the Sembia, both in trading opportunities and fear of military action.\n*[[Arch Wood (village)|Arch Wood]], a tiny village hidden in the forest of the [[Arch Wood|same name]].\n*[[Swordpoint]], the capital building of Archendale was a massive, old fortress that served as a seat of power to both the Swords and Archenriders.\n*[[White Ford]], a sleepy town that was formed around a group of boulders that were dumped into the river"
-        }
+        "mainbody": "Archendale (), one of the lands trading Dales, was the most aggressive, influential and well-defended of the dales within the Dalelands. The large trading hub viewed themselves as the leader of the region, boasting the largest standing army and strong economy based on its self-reliance and abundance of rich natural resources such as game, crops and valuable minerals.\nthumb|right|275px|Map showing White Ford and the trail to Highmoon, circa 1367 DR.\nThe Dale rested in the gorge of River Arkhen, a steep and rocky cliffside that offered natural protection on either side. The only routes into the Dale were the mouth of the valley at Archenbridge and a winding trail at White Ford leading to Highmoon.\nForests and woods\n* Arch Wood, the forest that extended from the Forest of Cormanthor. It bordered the northern edge of Archendale between Deepingdale to the north and Tasseldale to the east.\nMountains & Valleys\n* Arkhen Vale This steep, rocky valley, formed by the river Arkhen, cradled the entirety of Archendale.\n* Mount Thalagbror, the mountain overlooking the dale that was named after an ogre mage who formerly terrorized the region, but has since been slain.\nBodies of Water\n* Arkhen Falls, the beautiful waterfall that flowed from a natural spring in Mount Thalagbror to the vale below.\n* River Arkhen, a major river set into a deep gorge within the Arkhen vale.\nDespite their warlike attitude, the dale owed its prosperity to mercantile success rather than military prowess. As such the life of a successful trader and businessman was highly valued.\nLawfulness and order were paramount to achieve continued prosperity in the eyes of the Archendalesmen, a view that was propagated by the Three Swords. As such, adventurers were not necessarily welcomed as they often brought uncertainty and chaos.\nThe most powerful of the Dales was ruled by the leaders of its army, a group of three known as the Swords of Archendale. The identity of these leaders was a well-kept secret among the towns leadership and they were only known as the Black Sword, Red Sword and Blue Sword. There were perhaps a dozen people who knew their true identity, but it was a high law of Archendale that they never be revealed.\nThe Swords lost rulership over Archendale during the , when they were discovered to be consorting with Sembia.\nMilitary justice was prevalent in Archendale, and punishment for breaking the law was particularly harsh. Officers of the Ride had the power to charge or arrest lawbreakers, sentence minor offenders and bring major criminals to the Swords for judgement and sentencing.\nSpying was severely punished in the Dale usually by permanent exile and a confiscation of all goods, a sentence which couldnt be appealed. The isolationist Arkhenfolk tended to accuse strangers of spying to entertain themselves and to make outsiders fear them&mdashthis resulted in a variety of merchants visiting the Dale using false names and clumsy disguises, due to past suspicions.\nIn addition, the Dalesmen followed a couple atypical laws\n* No man could reveal the identities of the three Swords.\n* The army patrols had strict orders to unearth anything buried by visitors, and confiscate it if it was of value.\nArchendale was entirely self-sufficient, having scattered farmlands as well as apple and grus-grus orchards along the valley floor. The numerous streams were full of crawfish and fresh-water crabs. It also had a number of very profitable ore mines adding to the Dales overall exports.\nDue to its self-sufficiency, only fancy, exotic or extravagant items were required to be imported. The wealthiest merchants in Archendale operated out of its largest city, Archenbridge. A number of trading costers operated out of the city. Among these were the Darkwater Brand, a merchant clan that traded ore from Archendale for finished goods from the Moonsea region Jendalars Fine Fruits, the company that exported the goods from Archendales orchards and farms and Mirksha, Mirksha and Mirksha, a company of three brothers that traded exotic goods from southern coast of the Sea of Fallen Stars.\nArchendale was defended by an army known as the Archenriders, consisting of ten rides of 60 mounted soldiers. While half of the army was typically standing down, the other half would be active, stationed throughout the Dale. Three of them were always stationed at Swordpoint, a stone keep and the Dales major garrison, one at White Ford and another would patrol the Dale in 10-man units. Rides would alternate between active and off-duty in two month rotations. \nRegular militias were kept at a number of towns, comprising veterans and young men and women preparing for regular service. Due to its security, the region was a haven for merchants.\nAfter a major war victory, the Dalesmen wrestled a treaty out of Sembia. It required the city of Ordulin to pay 300,000 gp worth of gems to the Dale every year\nTemples\nMost rural Archendalesman were followers of Chauntea, but there were also temples in devotion to Lathander and Tempus. There were also smaller shrines in the woods of the Dale, devoted to nature deities such as Silvanus, Eldath, Mielikki and Selune.\n* Bounty of the Goddess, a prominent Chauntean temple that was a richly-painted, re-purposed barn, whose entrance was flanked by two pillars carved to look like enormous stalks of wheat. It was overseen by an ambitious priest named Thaliach Mindogar.\n* Glory of the Morning, built a bit before 1369 DR, this sanctuary to the Morninglord was served by Stellaga Brightstar and a dozen minor clerics.\nSettlements\n*Archenbridge, Archendales capital and the largest city in the Dalelands. It was a bustling metropolis with a heavy influence from the Sembia, both in trading opportunities and fear of military action.\n*Arch Wood, a tiny village hidden in the forest of the same name.\n*Swordpoint, the capital building of Archendale was a massive, old fortress that served as a seat of power to both the Swords and Archenriders.\n*White Ford, a sleepy town that was formed around a group of boulders that were dumped into the river"
     }
 }

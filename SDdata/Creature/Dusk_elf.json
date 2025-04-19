@@ -1,21 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Dusk Elf",
-        "othernames": "",
-        "size5e": "Medium",
-        "type5e": "[[Humanoid]]",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "Medium",
-        "origin4e": "[[Fey]]",
-        "type4e": "[[Humanoid]]",
-        "subtype4e": "",
-        "alignment4e": "Any",
-        "refs4e": "{{Cite dragon/382/Winning Races: Dusk Elf}}",
         "size3e": "",
         "type3e": "",
         "subtype3e": "",
@@ -28,9 +12,9 @@
         "size1e": "",
         "alignment1e": "",
         "refs1e": "",
-        "patron deity": "[[Sehanine Moonbow]]",
+        "patron deity": "Sehanine Moonbow",
         "movement": "",
-        "vision": "[[Darkvision]]",
+        "vision": "Darkvision",
         "activecycle": "",
         "diet": "",
         "lifespan": "",
@@ -51,11 +35,10 @@
         "eyecolor": "Light blue or violet",
         "build": "Slight",
         "distinctions": "",
-        "appearrefs": "In their original appearance in ''Winning Races: Dusk Elf'', dusk elves were described as pale-skinned and fair-haired, but their more recent description on page 119 of ''Curse of Strahd'' refers to them as dark-skinned and dark-haired.",
+        "appearrefs": "In their original appearance in Winning Races Dusk Elf, dusk elves were described as pale-skinned and fair-haired, but their more recent description on page 119 of Curse of Strahd refers to them as dark-skinned and dark-haired.",
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Dusk elves''' were a subset of [[elf|elves]] that took no side in the [[Dark Seldarine#History|War of the Seldarine]]. Gaining the enmity of [[Corellon]], these elves were accepted and sheltered from the Protector's vengeance by [[Sehanine Moonbow]].",
-        "Notable Dusk Elves": "The [[Velikovna]]s were a family of dusk elves that inhabited [[Barovia]]. Among their number were [[Patrina Velikovna]], one of [[Strahd von Zarovich]]'s former brides who haunted the catacombs of [[Castle Ravenloft]] as a [[banshee]], and her brother, [[Kasimir Velikov]].{{Cite dungeon/207/Fair Barovia}}"
+        "mainbody": "Dusk elves were a subset of elves that took no side in the War of the Seldarine. Gaining the enmity of Corellon, these elves were accepted and sheltered from the Protectors vengeance by Sehanine Moonbow.\nThe Velikovnas were a family of dusk elves that inhabited Barovia. Among their number were Patrina Velikovna, one of Strahd von Zarovichs former brides who haunted the catacombs of Castle Ravenloft as a banshee, and her brother, Kasimir Velikov."
     }
 }

@@ -1,27 +1,18 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "edition_1": "2e",
-        "edition_2": "1e"
-    },
     "document_data": {
-        "name": "Repel Wood",
-        "level3e": "{{spell table|edition=3e|[[Druid]]|6|[[Plant domain|Plant]]|6}}",
-        "domains3e": "[[Plant domain|Plant]]",
-        "school3e": "[[Transmutation]]",
+        "domains3e": "Plant",
+        "school3e": "Transmutation",
         "type3e": "",
         "refs3e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Plant sphere|Plant]]",
-        "level2e": "{{spell table|edition=2e|[[Druid]]|6|[[Plant sphere|Plant]]|6}}",
+        "school2e": "Alteration",
+        "spheres2e": "Plant",
+        "level2e": "",
         "type2e": "",
         "refs2e": "",
-        "school1e": "[[Alteration]]",
-        "level1e": "{{spell table|edition=1e|[[Druid]]|6}}",
+        "school1e": "Alteration",
+        "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Repel wood''''', also known as '''''turn wood''''' was a [[transmutation]] or [[alteration]] [[druid]] spell that pushed wooden objects in a given direction.",
-        "Effects": "This spell caused waves of wood-repelling force to emanate from the spot where the spell was cast, in the direction the caster was facing. Once cast, the druid could move away and do other things while antiwood force flowed on. All wooden objects 3 in (7.6 cm) in diameter or smaller were inexorably pushed away at the speed of a brisk walk. Securely fastened wooden objects cracked, splintered, and broke, becoming missiles that joined the stream. Stout objects (more than 3 in/7.6 cm in diameter) that were securely fastened to something immobile could withstand ''repel wood'', but wooden armor, [[shield]]s, [[spear]]s, hafts, [[staves]], [[bow]]s, [[arrow]]s, [[crossbow]]s, [[siege engine]]s on wheels, furniture, etc. were forced along the path, taking with them anyone managing to hold on. Magical items with wooden components were repelled also, but a successful ''[[dispel magic]]'' or an ''[[antimagic field]]'' were proof against this spell.\n\n''Repel wood'' lasted for a few minutes; longer for more experienced druids. The transmutation version of this spell affected a narrow corridor 60 ft (18.3 m) long whereas the alteration version's area of effect was 120 ft (36.6 m) wide and 20 ft (6.1 m) long per level of the caster.",
-        "Components": "Only [[verbal]] and [[somatic component]]s were required to cast this spell."
+        "mainbody": "Repel wood, also known as turn wood was a transmutation or alteration druid spell that pushed wooden objects in a given direction.\nThis spell caused waves of wood-repelling force to emanate from the spot where the spell was cast, in the direction the caster was facing. Once cast, the druid could move away and do other things while antiwood force flowed on. All wooden objects 3 in (7.6 cm) in diameter or smaller were inexorably pushed away at the speed of a brisk walk. Securely fastened wooden objects cracked, splintered, and broke, becoming missiles that joined the stream. Stout objects (more than 3 in/7.6 cm in diameter) that were securely fastened to something immobile could withstand repel wood, but wooden armor, shields, spears, hafts, staves, bows, arrows, crossbows, siege engines on wheels, furniture, etc. were forced along the path, taking with them anyone managing to hold on. Magical items with wooden components were repelled also, but a successful dispel magic or an antimagic field were proof against this spell.\nRepel wood lasted for a few minutes longer for more experienced druids. The transmutation version of this spell affected a narrow corridor 60 ft (18.3 m) long whereas the alteration versions area of effect was 120 ft (36.6 m) wide and 20 ft (6.1 m) long per level of the caster.\nOnly verbal and somatic components were required to cast this spell."
     }
 }

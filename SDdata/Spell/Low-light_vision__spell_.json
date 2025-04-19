@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Low-light Vision",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Assassin]]|1|[[Harper agent]]|1|[[Hathran]]|1|[[Ranger]]|1|[[Sorcerer]]|1|[[Wizard]]|1}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Low-light vision''''' was a [[transmutation]] [[spell]] that granted a target creature the [[low-light vision|type of vision]] after which it was named.",
-        "Effects": "By casting this spell, the affected creature could see twice as far as a [[human]] in poorly lit areas such as those illuminated by starlight or candlelight. The recipient of this effect could more effectively distinguish and better discern details within its field of vision.",
-        "Casting": "In addition to [[verbal]] and [[somatic component]]s, this spell required a small [[candle]] in its casting."
+        "mainbody": "Low-light vision was a transmutation spell that granted a target creature the type of vision after which it was named.\nBy casting this spell, the affected creature could see twice as far as a human in poorly lit areas such as those illuminated by starlight or candlelight. The recipient of this effect could more effectively distinguish and better discern details within its field of vision.\nIn addition to verbal and somatic components, this spell required a small candle in its casting."
     }
 }

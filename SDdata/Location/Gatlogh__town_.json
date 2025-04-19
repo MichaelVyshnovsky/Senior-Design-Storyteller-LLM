@@ -1,12 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Gatlogh",
-        "alt spelling": "",
-        "aliases": "",
-        "type": "Settlement",
-        "region": "[[Kurrimal]], [[Alamber Sea]]<br />{{Former}} [[Aleaxtis]]",
         "size": "Town",
         "elevation": "",
         "depth": "",
@@ -15,9 +8,9 @@
         "georefs": "",
         "demonym": "",
         "population": "",
-        "races": "[[Sahuagin]]",
+        "races": "Sahuagin",
         "languages": "",
-        "religion": "[[Sekolah]]",
+        "religion": "Sekolah",
         "alignment": "",
         "socrefs": "",
         "imports": "",
@@ -26,11 +19,11 @@
         "comrefs": "",
         "government": "Monarchy",
         "rulertype": "Prince",
-        "ruler": "[[Gatlogh (character)|Gatlogh]]",
+        "ruler": "Gatlogh",
         "head of state": "",
         "leader1": "",
         "head of government": "King",
-        "leader2": "[[T'Kalah]]",
+        "leader2": "TKalah",
         "executive": "",
         "legislature": "",
         "judiciary": "",
@@ -42,7 +35,7 @@
         "event1": "",
         "date1": "",
         "event2": "Renamed Gatlogh",
-        "date2": "[[1370 DR]]",
+        "date2": "1370 DR",
         "event3": "",
         "date3": "",
         "event4": "",
@@ -88,9 +81,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "'''Gatlogh'''was one of the nine towns of the [[sahuagin]] kingdom of [[Kurrimal]] and its predecessor [[Aleaxtis]].",
-        "Geography": "This town was located within the [[Alamber Sea]].",
-        "Government": "Like all nine of the towns of Kurrimal, this town was governed by a prince of the same name, [[Gatlogh (character)|Gatlogh]].",
-        "History": "In the {{YearlinkName|1370}}, when the kingdom of Kurrimal was founded as the successor of Aleaxtis,<ref> this town's name was changed to that of the prince put in charge of governing it."
+        "mainbody": "Gatloghwas one of the nine towns of the sahuagin kingdom of Kurrimal and its predecessor Aleaxtis.\nThis town was located within the Alamber Sea.\nLike all nine of the towns of Kurrimal, this town was governed by a prince of the same name, Gatlogh.\nIn the , when the kingdom of Kurrimal was founded as the successor of Aleaxtis, this towns name was changed to that of the prince put in charge of governing it."
     }
 }

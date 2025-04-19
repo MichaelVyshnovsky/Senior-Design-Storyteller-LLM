@@ -1,16 +1,8 @@
 {
-    "template_data": {
-        "edition": "4e"
-    },
     "document_data": {
-        "type": "encounter",
-        "name": "Lightning Clash",
-        "school": "",
-        "keywords4e": "{{desc/arcane}}{{desc/lightning}}{{desc/weapon}}",
-        "level4e": "{{spell table|edition=4e|[[Swordmage]]|1}}",
+        "level4e": "",
         "type4e": "Encounter",
         "refs4e": "",
-        "mainbody": "'''''Lightning clash''''' is a somewhat basic [[spell]] of the [[evocation school]] used by several inexperienced [[swordmage]]s. When a swordmage casts ''lightning clash'' a bolt of rippling electrical energy sprouts from a creature struck by their sword, leaping through the air to strike another creature within twenty-five feet of the original target. Like most swordmage spells the precise power of the lightning's charge depends upon the swordmage's mental processing power. ''Lightning clash'' is relatively easy to cast and requires only a few minutes of rest in order to be recharged.",
-        "References": "{{refs}}\n[[Category:Swordmage spells]]\n0b72rp28y75vxfqe644k2cevclikf9u"
+        "mainbody": "Lightning clash is a somewhat basic spell of the evocation school used by several inexperienced swordmages. When a swordmage casts lightning clash a bolt of rippling electrical energy sprouts from a creature struck by their sword, leaping through the air to strike another creature within twenty-five feet of the original target. Like most swordmage spells the precise power of the lightnings charge depends upon the swordmages mental processing power. Lightning clash is relatively easy to cast and requires only a few minutes of rest in order to be recharged.\nCategorySwordmage spells\n0b72rp28y75vxfqe644k2cevclikf9u"
     }
 }

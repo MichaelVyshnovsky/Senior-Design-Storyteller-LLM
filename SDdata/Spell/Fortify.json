@@ -1,16 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "name": "Fortify",
-        "school2e": "[[Necromancy]]",
-        "spheres2e": "[[Healing sphere|Healing]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|4|[[Crusader]]|4|[[Druid]]|4|[[Healing sphere|Healing]]|4|[[Mystic]]|4|[[Paladin]]|4}}",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''''Fortify''''' was a cooperative magic spell allowing one [[priest]] to enhance the healing powers of another.",
-        "Effects": "The priest casting ''fortify'' had to touch another priest casting ''[[cure light wounds]]'', ''[[cure serious wounds]]'', or ''[[cure critical wounds]]'' on a subject, and both spells had to be cast simultaneously. At the completion of both spells, the maximum possible healing effect was granted to the subject for the cure spell being cast.\n\nIt is unknown if ''fortify'' worked with other ''cure'' spells, including the ''mass cure'' variety.",
-        "Components": "[[Verbal]] and [[somatic]] components, and the priest's [[holy symbol]], were all that were required to cast this spell."
+        "mainbody": "Fortify was a cooperative magic spell allowing one priest to enhance the healing powers of another.\nThe priest casting fortify had to touch another priest casting cure light wounds, cure serious wounds, or cure critical wounds on a subject, and both spells had to be cast simultaneously. At the completion of both spells, the maximum possible healing effect was granted to the subject for the cure spell being cast.\nIt is unknown if fortify worked with other cure spells, including the mass cure variety.\nVerbal and somatic components, and the priests holy symbol, were all that were required to cast this spell."
     }
 }

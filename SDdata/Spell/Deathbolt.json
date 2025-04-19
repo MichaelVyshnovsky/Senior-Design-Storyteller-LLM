@@ -1,42 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "10|yard|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Deathbolt",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Necromancy]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|8|}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -44,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Deathbolt''''' was an uncommon [[Necromancy|necromantic]] [[spell]] of the [[southern magic]] tradition.{{Southernmagic}}",
-        "Effects": "When cast, the spell unleashed a bolt of [[Negative energy|death energy]] at the target. This bolt was usually fatal to any creature of the [[Prime Material plane]]. The spell had a range of {{SI|10|yard|long=yes}}.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required a [[material component]], [[vampire blood|vampire ichor]]."
+        "mainbody": "Deathbolt was an uncommon necromantic spell of the southern magic tradition.\nWhen cast, the spell unleashed a bolt of death energy at the target. This bolt was usually fatal to any creature of the Prime Material plane. The spell had a range of .\nIn addition to verbal and somatic components, this spell required a material component, vampire ichor."
     }
 }

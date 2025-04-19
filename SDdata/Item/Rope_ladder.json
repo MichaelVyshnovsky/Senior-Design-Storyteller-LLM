@@ -1,25 +1,5 @@
 {
-    "template_data": {
-        "2|in|c|long": "yes",
-        "2|ft|long": "yes",
-        "4|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Ropeladder.png",
-        "caption": "A common rope ladder.",
-        "name": "Rope Ladder",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Tool",
-        "creator": "",
-        "location": "[[Toril]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "1 [[sp]] per {{SI|4|ft}}",
         "weight2e": "",
         "refs2e": "",
         "school3e": "",
@@ -43,9 +23,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Rope ladders''' were a type of [[ladder]] made largely of [[rope]], with wooden slats between.",
-        "Description": "The average rope ladder was made from [[hemp]] rope, with wooden slats measuring {{SI|2|in|c|long=yes}} wide.",
-        "Notable Users": "* [[Ranger]]s sometimes carried rope ladders throughout the wilds of [[Faerûn]]. Though most were quite fleet-footed and dexterous enough to climb trees without the need of such aid, they were sometimes needed to provide aid to clumsy companions.",
-        "History": "Rope ladders were available for sale through ''[[Aurora's Whole Realms Catalogue (in-universe)|Aurora's Whole Realms Catalogue]]'', where they were sold in increments of {{SI|2|ft|long=yes}} for 1 [[silver piece]] per {{SI|4|ft|long=yes}}."
+        "mainbody": "Rope ladders were a type of ladder made largely of rope, with wooden slats between.\nThe average rope ladder was made from hemp rope, with wooden slats measuring  wide.\n* Rangers sometimes carried rope ladders throughout the wilds of Faerûn. Though most were quite fleet-footed and dexterous enough to climb trees without the need of such aid, they were sometimes needed to provide aid to clumsy companions.\nRope ladders were available for sale through Auroras Whole Realms Catalogue, where they were sold in increments of  for 1 silver piece per ."
     }
 }

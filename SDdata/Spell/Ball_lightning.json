@@ -1,36 +1,12 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "edition_1": "2e"
-    },
     "document_data": {
-        "image": "BallLightning.jpg",
-        "caption": "A [[drow]] wizard casts ball lightning.",
-        "name": "Ball Lightning",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Evocation]]",
-        "domains3e": "",
-        "descriptors3e": "{{Desc/electricity}}",
-        "level3e": "{{Spell table|edition=3e|[[Sorcerer]]|5|[[Stormlord]]|5|[[Wizard]]|5}}",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
-        "school2e": "[[Conjuration]]",
+        "school2e": "Conjuration",
         "spheres2e": "",
-        "level2e": "{{Spell table|edition=2e|[[Wizard]]|4}}",
+        "level2e": "",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -38,9 +14,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Ball lightning''''', also known as '''''nautical ball lightning''''',<ref> was an [[arcane]] [[conjuration]] spell that produced one or more spheres of coruscating electricity that skimmed along surfaces, possibly catching them on fire.",
-        "Effects": "This spell had a range of ~{{SI|180|ft}} and lasted a number of minutes, depending on the power of the caster. Once a ''ball lightning'' struck a target, it rolled rapidly along the surface, following the contours in random directions, turning corners, and climbing or descending without regard for gravity. There was a small chance that a ball would come to rest at one of the turning points and catch the surface on fire, if it was flammable.\n\nA later version of the spell expired much quicker, but allowed the caster to directly control the direction in which the spheres of lightning traveled. They were maneuvered with precise accuracy, at a speed of approximately 17' (5.2 m) per second.\n\nLiving creatures touched by a ''ball lightning'' were shocked and sustained some damage even if they were able to resist this spell. Casters of advanced level could produce additional spheres which could each be hurled at different targets.",
-        "Components": "Only [[verbal]] and [[somatic]] components were required to cast this spell.",
-        "History": "This spell was associated with the pirates roaming the [[Sea of Fallen Stars]]."
+        "mainbody": "Ball lightning, also known as nautical ball lightning, was an arcane conjuration spell that produced one or more spheres of coruscating electricity that skimmed along surfaces, possibly catching them on fire.\nThis spell had a range of ~ and lasted a number of minutes, depending on the power of the caster. Once a ball lightning struck a target, it rolled rapidly along the surface, following the contours in random directions, turning corners, and climbing or descending without regard for gravity. There was a small chance that a ball would come to rest at one of the turning points and catch the surface on fire, if it was flammable.\nA later version of the spell expired much quicker, but allowed the caster to directly control the direction in which the spheres of lightning traveled. They were maneuvered with precise accuracy, at a speed of approximately 17 (5.2 m) per second.\nLiving creatures touched by a ball lightning were shocked and sustained some damage even if they were able to resist this spell. Casters of advanced level could produce additional spheres which could each be hurled at different targets.\nOnly verbal and somatic components were required to cast this spell.\nThis spell was associated with the pirates roaming the Sea of Fallen Stars."
     }
 }

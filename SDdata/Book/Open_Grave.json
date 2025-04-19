@@ -1,44 +1,5 @@
 {
-    "template_data": {
-        "index": "{{P",
-        "index_1": "{{P",
-        "title": "Buildings",
-        "index_2": "{{P",
-        "title_1": "Planes",
-        "index_3": "{{P",
-        "title_2": "Items",
-        "index_4": "{{P",
-        "title_3": "Rituals",
-        "index_5": "{{P"
-    },
     "document_data": {
-        "image": "[[File:Open_Grave_cover_-_Chris_Seaman.jpg|250px|Cover of Open Grave]]",
-        "code": "239457200",
-        "title": "Rituals",
-        "citetitle": "Open Grave",
-        "author": "[[Bruce R. Cordell]], [[Eytan Bernstein]], [[Brian R. James]]",
-        "publisher": "[[Wizards of the Coast]]",
-        "released": "January 20, 2009",
-        "type": "Accessory",
-        "binding": "Hardcover",
-        "pages": "224",
-        "isbn10": "0786950692",
-        "isbn13": "978-0786950690",
-        "series": "D&D Rules Supplement",
-        "preceded_by": "",
-        "followed_by": "",
-        "source": "[http://www.amazon.com/dp/0786950692 Amazon.com product listing]<br/>[http://www.wizards.com/default.asp?x=products/dndacc/9780786950690 Wizards.com product listing]",
-        "index": "{{P|''[[Skull Watch]]''|49-50,111}};{{P|''[[Undead servitor]]''|49-50,111}}",
-        "ref": "{{P|[[blazing skeleton]]|51,177,199}}",
-        "mainbody": "===Religions===\n:{{P|[[Doresain]]|21,112-119}} • {{P|[[Orcus]]|6, 13, 16, 21-23, 26, 36-37, 41, 54-56, 112-117, 120, 136, 138-139, 175, 179, 199, 205, 212}} • {{P|[[Raven Queen]]|6, 13, 21-23, 26, 36, 55, 147, 179, 205-206, 212}} • {{P|[[Tharizdun]]|35, 112, 119}} • [[Vecna]]\n\n===Miscellaneous===\n:{{P|[[coffin]]|28,55,66,99,191}} • {{P|[[stake]]|75,188}}",
-        "Contents": "''Open Grave'' is a supplement meant for use in the 4th edition of the ''Dungeons & Dragons'' roleplaying game, regardless of setting, which lists lore and gameplay information on undead. This ranges from a listing of new monsters to ecological details on undead of any type, as well as statistics for non-player characters (NPCs) of undead origin.\n\nThe book is organized into four chapters, as follow:\n\n# '''Undead Lore''' — This chapter gives players and \"dungeon masters\" (game referees and storytellers) an in-depth look at common characteristics of all undead, including physiology and outlook but also a brief look into the origins of the undead and how they might interact with the living.\n# '''DM's Guide to the Undead''' — Meant exclusively for dungeon masters (abbreviated as \"DMs\") this chapter provides story hooks and ideas for adventurers, as well as a listing of powerful [[artifact]]s that could be used in a campaign centered around undead.\n# '''Undead Lairs''' — This chapter provides the DM with a number of possible adventure sites or \"dungeons\" to be used in their campaign, complete with quest lines and NPCs with which to interact in addition to regular encounters, combat or otherwise.\n# '''[[:Category:Undead|New Monsters]]''' — A listing, alphabetically, of new undead monsters for the 4th edition of ''Dungeons & Dragons'', though some are monsters from earlier editions republished for use with the new rules, such as [[alhoon]]s. Also included in this chapter is a listing of famous undead such as the [[deity|god]] Vecna or the legendary vampire, [[Strahd von Zarovich]].",
-        "Index": {
-            "Characters": "{{Index\n|index  ={{P|[[Acererak]]|22,200-201}} • {{P|[[Atropus]]|16}} • {{P|[[Haemnathuun]]|120-123,126}} • {{P|[[Strahd von Zarovich]]|47, 210-211}} • {{P|[[Tatyana]]|47, 211}}\n|ref    =\n}}",
-            "Creatures": "{{Index\n|title  =\n|index  ={{P|[[alhoon]]|164-165}} • {{P|[[baelnorn lich]]|162, 165}} • {{P|[[blood amniote]]|174-175}} • {{P|[[bloodkiss beholder]]|132-33}} • {{P|[[brain in a jar]]|140-141}} • {{P|[[caller in darkness]]|152}} • {{P|[[carcass eater]]|78,149,196,198}} • {{P|[[charnel cinderhouse]]|138-139}} • {{P|[[crawling claw]]|142-143}} • {{P|[[death dog]]|158-159}} • {{P|[[death titan]]|125}} • {{P|[[death tyrant]]|132-133}} • {{P|[[demilich]]|164-165}} •  • {{P|[[dragonscale slough]]|145}} • {{P|[[drowned ghost]]|150-153}} • {{P|[[drowned one]]|196}} • {{P|[[famine hound]]|57,143,158-159,193,222}} • {{P|[[forsaken shell]]|148-149}} ({{P|[[dragon shell]]|148-149}}) • {{P|[[ghost]]|150-153}} • {{P|[[wraith|moon wraith]]|192-193}} • {{P|[[nighthaunt]]|170-171}} • {{P|[[oblivion wraith]]|171,173,179,193}} • {{P|[[poltergeist]]|150, 152}} • {{P|[[rot hound]]|143,158-159,222}} • {{P|[[shadar-kai (Netherese)|shadar-kai]]|22-23, 159}} • {{P|[[death kin skeleton|skeleton, death kin]]|139,181-183,199}} • {{P|[[marrowshriek skeleton|skeleton, marrowshriek]]|86-87,137,182-183}} • {{P|[[skinwalker skeleton|skeleton, skinwalker]]|180,183}} • {{P|[[spine creep skeleton|skeleton, spine creep]]|139,141,173,182-183}} • {{P|[[Lacedon|sodden ghoul]]|154-155}} • {{P|[[vampire]]|21, 55, 188, 210-211}} • {{P|[[corpse vampire|vampire, corpse]]|188-191}} • {{P|[[vampire muse]]|171,179,190-191}} • {{P|[[wraith|wisp wraith]]|192-193}} • {{P|[[zombie throng]]|32,198-199}}\n|ref    ={{P|[[blazing skeleton]]|51,177,199}}\n}}",
-            "Locations": "{{Index\n|title  =Buildings\n|index  ={{P|[[Castle Ravenloft]]|211}}\n|ref    =\n}}\n{{Index\n|title  =Planes\n|index  ={{P|[[Astral Sea]]|16, 23, 35, 55, 120, 127, 205, 212}} • {{P|[[Elemental Chaos]]|35, 55, 112}} • {{P|[[Feywild]]|6, 55, 104, 191}} • [[Shadowfell]] ({{P|[[Barovia]]|47, 211}})\n|ref    =\n}}",
-            "Magic": "{{Index\n|title = Items\n|index = {{P|''[[eye of Vecna]]''|45,213-214}};{{P|''[[hand of Vecna]]''|213-214}};{{P|''[[sword of Kas]]''|44-46,212}};{{P|''[[undead graft]]''|24,51}}\n}}\n{{Index\n|title = Rituals\n|index = {{P|''[[Skull Watch]]''|49-50,111}};{{P|''[[Undead servitor]]''|49-50,111}}\n}}",
-            "Religions": ":{{P|[[Doresain]]|21,112-119}} • {{P|[[Orcus]]|6, 13, 16, 21-23, 26, 36-37, 41, 54-56, 112-117, 120, 136, 138-139, 175, 179, 199, 205, 212}} • {{P|[[Raven Queen]]|6, 13, 21-23, 26, 36, 55, 147, 179, 205-206, 212}} • {{P|[[Tharizdun]]|35, 112, 119}} • [[Vecna]]",
-            "Miscellaneous": ":{{P|[[coffin]]|28,55,66,99,191}} • {{P|[[stake]]|75,188}}"
-        }
+        "mainbody": "pen Grave is a supplement meant for use in the 4th edition of the Dungeons & Dragons roleplaying game, regardless of setting, which lists lore and gameplay information on undead. This ranges from a listing of new monsters to ecological details on undead of any type, as well as statistics for non-player characters (NPCs) of undead origin.\nThe book is organized into four chapters, as follow\n# Undead Lore — This chapter gives players and \"dungeon masters\" (game referees and storytellers) an in-depth look at common characteristics of all undead, including physiology and outlook but also a brief look into the origins of the undead and how they might interact with the living.\n# DMs Guide to the Undead — Meant exclusively for dungeon masters (abbreviated as \"DMs\") this chapter provides story hooks and ideas for adventurers, as well as a listing of powerful artifacts that could be used in a campaign centered around undead.\n# Undead Lairs — This chapter provides the DM with a number of possible adventure sites or \"dungeons\" to be used in their campaign, complete with quest lines and NPCs with which to interact in addition to regular encounters, combat or otherwise.\n# New Monsters — A listing, alphabetically, of new undead monsters for the 4th edition of Dungeons & Dragons, though some are monsters from earlier editions republished for use with the new rules, such as alhoons. Also included in this chapter is a listing of famous undead such as the god Vecna or the legendary vampire, Strahd von Zarovich.\n •  •  •  • \n|ref    =\n •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  () •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  • \n|ref    =\n|ref    =\n •  •  • Shadowfell ()\n|ref    =\n •  •  •  • Vecna\n •"
     }
 }

@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "2|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Girdle of beatification.png",
-        "caption": "",
-        "name": "''Girdle of Beatification''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Belt]]",
-        "creator": "",
-        "location": "[[Targos]], [[Ten Towns]]<br/>[[Berdusk]], [[Sunset Vale]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "2,725 [[gp]]",
-        "weight3e": "{{SI|2|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The '''''girdle of beatification''''' was an [[enchanted]] [[belt]], gifted by the [[Church of Helm]] to hero [[Thom Wainwright]] of [[Berdusk]] some time before [[1312 DR]].",
-        "Powers": "The wearer of the girdle was under constant effects of the ''[[bless]]'' [[spell]].",
-        "History": "At some point before the {{YearlinkName|1312}}, the ''girdle of beatification'' was gifted to Thom Wainwright by the clergy of Helm as a reward for allegedly destroying the [[Unseeing Eye‎‎]] and its [[Blinded Acolytes]] in Berdusk. Thom went on performing many other heroic deeds for the church until falling into debt later in life. The ''girdle of beatification'' was sold off to a renowned cleric [[Mask]].\n\nBy 1312 DR, the enchanted belt found its way into hands of [[Elytharra Dinnesmore]], an [[enchantress]] and wife of Speaker [[Ulbrec Dinnesmore]] of [[Targos]] in [[Icewind Dale]]."
+        "mainbody": "The girdle of beatification was an enchanted belt, gifted by the Church of Helm to hero Thom Wainwright of Berdusk some time before 1312 DR.\nThe wearer of the girdle was under constant effects of the bless spell.\nAt some point before the , the girdle of beatification was gifted to Thom Wainwright by the clergy of Helm as a reward for allegedly destroying the Unseeing Eye‎‎ and its Blinded Acolytes in Berdusk. Thom went on performing many other heroic deeds for the church until falling into debt later in life. The girdle of beatification was sold off to a renowned cleric Mask.\nBy 1312 DR, the enchanted belt found its way into hands of Elytharra Dinnesmore, an enchantress and wife of Speaker Ulbrec Dinnesmore of Targos in Icewind Dale."
     }
 }

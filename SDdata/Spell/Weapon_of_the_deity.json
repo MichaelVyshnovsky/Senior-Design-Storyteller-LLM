@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Weapon of the Deity",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Blackguard]]|4|[[Cleric]]|4|[[Paladin]]|4}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Weapon of the deity''''' was a [[transmutation]] [[spell]] used by [[cleric]]s, [[paladin]]s and [[blackguard]]s.",
-        "Effects": "This spell was cast when a deities' favored weapon was held, granting the wielder proficiency with the weapon that they previously lacked. The spell temporarily enchanted the weapon, allowing it to strike opponents with more ease and cause more harm. Additionally, the weapon was imbued with the deities' specific special enchantment.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, this spell required the deities' weapon to cast."
+        "mainbody": "Weapon of the deity was a transmutation spell used by clerics, paladins and blackguards.\nThis spell was cast when a deities favored weapon was held, granting the wielder proficiency with the weapon that they previously lacked. The spell temporarily enchanted the weapon, allowing it to strike opponents with more ease and cause more harm. Additionally, the weapon was imbued with the deities specific special enchantment.\nIn addition to verbal and somatic components, this spell required the deities weapon to cast."
     }
 }

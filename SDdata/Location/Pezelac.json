@@ -1,12 +1,5 @@
 {
     "document_data": {
-        "type": "Territory",
-        "name": "Pezelac",
-        "image": "Pezelac.jpg",
-        "caption": "The land of Pezelac.",
-        "aliases": "The Pale Flat Land",
-        "capital": "[[Pezelac (city)]]",
-        "area": "[[Maztica]], [[Toril]]<br/>{{Former}} [[Abeir]]<br/>{{Former}} Toril",
         "size": "",
         "ruler1": "",
         "ruleryear1": "",
@@ -20,9 +13,9 @@
         "ruleryear5": "",
         "rulertype": "Revered Counselor",
         "government": "",
-        "languages": "Pezelac dialect of [[Nexalan]]",
-        "races": "[[Nexalan|Humans]]",
-        "religion": "[[Maztican pantheon]]",
+        "languages": "Pezelac dialect of Nexalan",
+        "races": "Humans",
+        "religion": "Maztican pantheon",
         "currency": "",
         "reckoning": "DR",
         "population1": "",
@@ -32,7 +25,7 @@
         "population3": "",
         "popyear3": "",
         "imports": "",
-        "exports": "[[Gold]], [[obsidian]], [[salt]]",
+        "exports": "Gold, obsidian, salt",
         "alignment": "",
         "allegiance": "",
         "usethe": "",
@@ -42,13 +35,6 @@
         "organizations": "",
         "settlements": "",
         "demonym": "Pezelan",
-        "mainbody": "'''Pezelac''' was a nation in central [[Maztica]]. It paid tribute to its stronger western neighbor, [[Nexal]]. It was mostly a land of farmers and merchants.",
-        "Geography": {
-            "Lake Pezel": "A broad, shallow lake that was prone to tempests. The shores were lined with reeds and were home to numerous waterfowl and fish. However, even though rumors of strange creatures lurking farther out were unproven, many canoeists who ventured out too far vanished forever."
-        },
-        "Inhabitants": "Pezelac was almost entirely inhabited by [[human]]s of the [[Nexalan]] ethnic group, with lean, long builds and angular features. Men did not have facial hair. Natives of Pezelac were called Pezels.",
-        "Government": "Pezelac was governed by a Revered Counselor, who was heavily advised by astrologers and priests. They were also a subject state to Nexal, and regularly paid them tribute.",
-        "Society": "Pezelac was a stable land, with a largely self-sustaining economy. They spoke a distinct dialect of the [[Nexalan language]]. The Pezels as whole tended to be fatalistic, unwilling to exert much effort to change the circumstances of their lives. Priests, astrologers, and warriors were well-respected in their society. However, Pezelac had few warriors compared to Nexal or Kultaka, and lacked those nations' taste for war.\n\nPezelac architecture and craftswork were very practical, rather than artistic. The farmers primarily grew [[mayz]], [[cocoa]], and cotton. The Pezels were not as good at [[pluma]] or [[hishna]] magic as the other nations, and so had less of the fountains and gardens found elsewhere in Maztica.\n\nThe Pezelac people valued their connection to the land, and villagers would rarely leave their home villages. They cherished strong bonds between family members, and greatly distrusted outsiders. In Pezelac society, it was taboo to marry a foreigner (which was anyone not from Pezelac).\n\nThe Pezels worshiped the Maztican pantheon, with each deity represented by a temple-pyramid in the city and smaller temples or shrines representing them in the villages. The priests of the appropriate deities practiced human sacrifice, some every day.",
-        "History": "One hundred and eight years after Nexal became an empire by conquering the Nexal Valley, in the first year of his reign, [[Tolco]], the fifth ruler of Nexal, sent his armies east against Pezelac. The war raged a full decade, with Nexal gaining much treasure and slaves, before Nexal withdrew from Pezelac, as they were unable to actually conquer Pezelac. However, the threat of another war was enough to make the Pezels pay tribute to the more warlike Nexalans.\n\nDuring the twenty-one-year reign of the sixth ruler of Nexal, [[Tenoch II]], Pezelac rebelled but was quickly subdued after Tenoch II sent a mighty army, led by his son [[Chimal]], which brutally destroyed one of Pezelac's larger villages. Tribute payments resumed, and Pezelac would not rebel again. This same Chimal would, during his eighteen-year reign, extend Nexal's trade network into Pezelac."
+        "mainbody": "Pezelac was a nation in central Maztica. It paid tribute to its stronger western neighbor, Nexal. It was mostly a land of farmers and merchants.\nPezelac was located in central Maztica, west of Payit but east of the Nexal Valley. The House of Tezca desert bordered it to the south, and the mountains of Kultaka made its northern border. It had only one city, creatively named Pezelac, with the rest of the population scattered throughout the country in large villages. The land itself was covered in dry scrublands, with occasional dense copses of brush, interrupted by the tidy, neatly laid-out villages and accompanying fields of mayz. Along the Pezel River there were a few jungles as well.\n Lake Pezel A broad, shallow lake that was prone to tempests. The shores were lined with reeds and were home to numerous waterfowl and fish. However, even though rumors of strange creatures lurking farther out were unproven, many canoeists who ventured out too far vanished forever.\nPezelac was almost entirely inhabited by humans of the Nexalan ethnic group, with lean, long builds and angular features. Men did not have facial hair. Natives of Pezelac were called Pezels.\nPezelac was governed by a Revered Counselor, who was heavily advised by astrologers and priests. They were also a subject state to Nexal, and regularly paid them tribute.\nPezelac was a stable land, with a largely self-sustaining economy. They spoke a distinct dialect of the Nexalan language. The Pezels as whole tended to be fatalistic, unwilling to exert much effort to change the circumstances of their lives. Priests, astrologers, and warriors were well-respected in their society. However, Pezelac had few warriors compared to Nexal or Kultaka, and lacked those nations taste for war.\nPezelac architecture and craftswork were very practical, rather than artistic. The farmers primarily grew mayz, cocoa, and cotton. The Pezels were not as good at pluma or hishna magic as the other nations, and so had less of the fountains and gardens found elsewhere in Maztica.\nThe Pezelac people valued their connection to the land, and villagers would rarely leave their home villages. They cherished strong bonds between family members, and greatly distrusted outsiders. In Pezelac society, it was taboo to marry a foreigner (which was anyone not from Pezelac).\nThe Pezels worshiped the Maztican pantheon, with each deity represented by a temple-pyramid in the city and smaller temples or shrines representing them in the villages. The priests of the appropriate deities practiced human sacrifice, some every day.\nOne hundred and eight years after Nexal became an empire by conquering the Nexal Valley, in the first year of his reign, Tolco, the fifth ruler of Nexal, sent his armies east against Pezelac. The war raged a full decade, with Nexal gaining much treasure and slaves, before Nexal withdrew from Pezelac, as they were unable to actually conquer Pezelac. However, the threat of another war was enough to make the Pezels pay tribute to the more warlike Nexalans.\nDuring the twenty-one-year reign of the sixth ruler of Nexal, Tenoch II, Pezelac rebelled but was quickly subdued after Tenoch II sent a mighty army, led by his son Chimal, which brutally destroyed one of Pezelacs larger villages. Tribute payments resumed, and Pezelac would not rebel again. This same Chimal would, during his eighteen-year reign, extend Nexals trade network into Pezelac."
     }
 }

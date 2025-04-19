@@ -1,24 +1,7 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Staff of Open Doors''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Staff]]",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "9{{th}}",
         "itemlevel3e": "",
-        "value3e": "42,200 [[gp]]",
+        "value3e": "42,200 gp",
         "weight3e": "",
         "refs3e": "",
         "level4e": "",
@@ -36,6 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "A '''''staff of open doors''''' was a magic [[staff]] containing spells of opening, known around the {{YearlinkName|1372}}.\n\nIt was a wooden staff covered in carvings of doors, some with tiny decorative keyholes and some with iron bindings.\n\nThe staff contained the ''[[knock]]'', ''[[open/close]]'', ''[[password]]'', and ''[[shatter]]'' spells.\n\nIt was worth around 42,200 [[gold piece]]s."
+        "mainbody": "A staff of open doors was a magic staff containing spells of opening, known around the .\nIt was a wooden staff covered in carvings of doors, some with tiny decorative keyholes and some with iron bindings.\nThe staff contained the knock, open/close, password, and shatter spells.\nIt was worth around 42,200 gold pieces."
     }
 }

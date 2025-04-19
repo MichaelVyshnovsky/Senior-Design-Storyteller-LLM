@@ -1,23 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Heartsense",
-        "deity": "[[Zaltec]]",
-        "domains": "",
-        "inventor": "",
-        "reversible2e": "",
-        "school2e": "[[Hishna]], [[Divination]]",
-        "spheres2e": "[[Hishna]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|2|[[Hishnashaper]]|2|[[Jaguar Knight]]|2}}",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''''Heartsense''''' was a spell unique to [[Maztica]]. The spell allowed a caster to detect nearby creatures.",
-        "Effects": "The spell functioned by detecting the beating of the heart of any warm-blooded creature, such as birds and mammals or warm-blooded humanoids, within 30 yards (27 meters) of the caster. This detection area increased as the caster's skill level increased. As a caster moved, the area of detection moving with them. Additionally, by means of this spell, the caster was able to estimate the approximate size of a detected creature.",
-        "Components": "This spell required only a [[Verbal component|verbal]] component."
+        "mainbody": "Heartsense was a spell unique to Maztica. The spell allowed a caster to detect nearby creatures.\nThe spell functioned by detecting the beating of the heart of any warm-blooded creature, such as birds and mammals or warm-blooded humanoids, within 30 yards (27 meters) of the caster. This detection area increased as the casters skill level increased. As a caster moved, the area of detection moving with them. Additionally, by means of this spell, the caster was able to estimate the approximate size of a detected creature.\nThis spell required only a verbal component."
     }
 }

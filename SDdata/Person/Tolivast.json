@@ -1,39 +1,5 @@
 {
-    "template_data": {
-        "edition": "4e"
-    },
     "document_data": {
-        "image": "Tolivast.jpg",
-        "caption": "",
-        "name": "Tolivast",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Neverwinter]], [[northwest Faerûn]]",
-        "formerhomes": "[[Thay]]",
-        "sex": "Male",
-        "race": "[[Human]]",
-        "occupation": "Necromancer",
-        "age": "",
-        "patron deity": "",
-        "languages": "",
-        "reckoning": "DR",
-        "dob": "1454",
-        "dobnotes": "",
-        "turned": "",
-        "turnednotes": "",
-        "death": "1479",
-        "deathnotes": "",
-        "destroyed": "",
-        "destroyednotes": "",
-        "class": "",
-        "class1e": "",
-        "class2e": "",
-        "class3e": "",
-        "alignment4e": "[[Chaotic evil]]",
-        "class4e": "{{class table|edition=4e|Controller|4}}",
         "class5e": "",
         "refs1e": "",
         "refs2e": "",
@@ -42,8 +8,6 @@
         "alignment": "",
         "rules": "",
         "source": "",
-        "mainbody": "page           =\n}}\n'''Tolivast''' was an apprentice [[Red Wizard]] of [[Thay]] who operated out of [[Neverwinter]] in [[1479 DR]].",
-        "Description": "Although he was biologically young, Tolivast had the aspect of a balding old man as a consequence of his use of [[necromancy]].",
-        "History": "In 1479 DR, Tolivast was operating out of Neverwinter under the orders of [[Valindra Shadowmantle]]. When Valindra learned that [[Seldra Tylmarande]] had obtained the ''[[Crown of Neverwinter#False Crown|Crown of Neverwinter]]'', she tasked Tolivast to steal the ''Crown'', as Valindra hoped to use it to advance the Thayan agenda in the region.\n\nTolivast was able to steal the ''Crown'' when Seldra arrived in Neverwinter, and then he went to hide in [[Neverdeath]], where he cursed the ''Crown'' with a [[spell]] of madness, following Valindra's instructions. \n\nHowever, a group of [[adventurer]]s hired by Seldra were able to track Tolivast down to the cemetery and after a difficult fight against the [[undead]] under Tolivast's control, were able to kill him and retrieve the ''Crown''."
+        "mainbody": "| page           =\nTolivast was an apprentice Red Wizard of Thay who operated out of Neverwinter in 1479 DR.\nAlthough he was biologically young, Tolivast had the aspect of a balding old man as a consequence of his use of necromancy.\nIn 1479 DR, Tolivast was operating out of Neverwinter under the orders of Valindra Shadowmantle. When Valindra learned that Seldra Tylmarande had obtained the Crown of Neverwinter, she tasked Tolivast to steal the Crown, as Valindra hoped to use it to advance the Thayan agenda in the region.\nTolivast was able to steal the Crown when Seldra arrived in Neverwinter, and then he went to hide in Neverdeath, where he cursed the Crown with a spell of madness, following Valindras instructions. \nHowever, a group of adventurers hired by Seldra were able to track Tolivast down to the cemetery and after a difficult fight against the undead under Tolivasts control, were able to kill him and retrieve the Crown."
     }
 }

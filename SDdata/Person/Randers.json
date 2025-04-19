@@ -1,22 +1,11 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Randers.png",
-        "caption": "",
-        "name": "Randers",
-        "sex": "Male{{Cite card/AD&D Trading Cards/1992|584|Randers}}",
-        "race": "[[Human]]",
+        "race": "Human",
         "ethnicity": "",
         "occupation": "",
-        "alignment2e": "[[Lawful good]]",
-        "class2e": "{{class table|edition=2e|[[Paladin]]|19}}",
+        "alignment2e": "Lawful good",
+        "class2e": "",
         "refs2e": "",
-        "mainbody": "'''Randers''' was a mighty [[human]] [[paladin]].",
-        "Description": "Randers was a tan, brown-haired man with narrow features and a prominent forehead. He wore a blue shirt underneath a suit of purple armor, and his head was covered by a purple, spiked helmet.",
-        "Personality": "Unwavering in his faith and unyielding in combat, Randers was a paragon of holy warriors.",
-        "Possessions": "Randers was adorned in [[plate mail|full plate]], gauntlets, and wore a ''[[medallion of ESP]]'' around his neck. He wielded a [[holy avenger]] in battle, astride his mount, a black [[horse]] in full [[barding]].",
-        "History": "The holy avenger was awarded to Randers after he drove a horde of [[fiend]]s from a temple outpost."
+        "mainbody": "Randers was a mighty human paladin.\nRanders was a tan, brown-haired man with narrow features and a prominent forehead. He wore a blue shirt underneath a suit of purple armor, and his head was covered by a purple, spiked helmet.\nUnwavering in his faith and unyielding in combat, Randers was a paragon of holy warriors.\nRanders was adorned in full plate, gauntlets, and wore a medallion of ESP around his neck. He wielded a holy avenger in battle, astride his mount, a black horse in full barding.\nThe holy avenger was awarded to Randers after he drove a horde of fiends from a temple outpost."
     }
 }

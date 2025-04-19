@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Dragonblood Affinity",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "level3e": "{{spell table|edition=3e|[[Bard]]|3|[[Sorcerer]]|3|}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -36,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Dragonblood affinity''''' was a spell that was used by [[dragon]]s.",
-        "Effects": "When cast, the spell significantly increased the strength of a targeted dragonic creature. This spell could only be cast by dragons or other draconic creatures.",
-        "Components": "This spell required [[Verbal component|verbal]] and [[somatic component|somatic]] components."
+        "mainbody": "Dragonblood affinity was a spell that was used by dragons. \nWhen cast, the spell significantly increased the strength of a targeted dragonic creature. This spell could only be cast by dragons or other draconic creatures. \nThis spell required verbal and somatic components."
     }
 }

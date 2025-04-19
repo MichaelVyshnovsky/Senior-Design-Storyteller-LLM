@@ -1,30 +1,8 @@
 {
-    "template_data": {
-        "0.5|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Boots of the Mountain King''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Boot]]s",
-        "creator": "",
-        "location": "[[Mount Hotenow]], [[Northwest Faerûn]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "7{{th}}",
         "itemlevel3e": "",
         "value3e": "",
-        "weight3e": "{{SI|0.5|lb|k|long=yes}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,9 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Boots of the Mountain King''''' was a variety of [[enchanted]] [[boot]]s around in [[Northwest Faerûn]] in the late 14{{th}} century [[DR]].",
-        "Description": "''Boots of the Mountain King'' were sturdily crafted and looked imposing on the wearer.",
-        "Powers": "These boots possessed powerful enchantment that granted the wearer ''[[freedom of movement]]'' and the ability to turn their skin [[Stoneskin|rock-hard]] once per day.",
-        "History": "A pair of ''boots of the Mountain King'' belonged to King [[Karagg]] of a small [[fire giant]] community in the [[Mount Hotenow]]'s lava caverns shortly after the {{YearlinkName|1374}}."
+        "mainbody": "Boots of the Mountain King was a variety of enchanted boots around in Northwest Faerûn in the late 14 century DR.\nBoots of the Mountain King were sturdily crafted and looked imposing on the wearer.\nThese boots possessed powerful enchantment that granted the wearer freedom of movement and the ability to turn their skin rock-hard once per day.\nA pair of boots of the Mountain King belonged to King Karagg of a small fire giant community in the Mount Hotenows lava caverns shortly after the ."
     }
 }

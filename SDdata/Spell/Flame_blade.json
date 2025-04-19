@@ -1,29 +1,17 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "edition_1": "3e",
-        "edition_2": "2e"
-    },
     "document_data": {
-        "name": "Flame Blade",
-        "image": "Flame blade 5e.png",
-        "caption": "",
-        "school5e": "[[Evocation]]",
-        "level5e": "{{spell table|edition=5e|[[Druid]]|2}}",
         "type5e": "",
         "refs5e": "",
-        "school3e": "[[Evocation]]",
-        "descriptors3e": "{{desc/fire}}",
-        "level3e": "{{spell table|edition=3e|[[Druid]]|2}}",
+        "school3e": "Evocation",
+        "descriptors3e": "",
+        "level3e": "",
         "type3e": "",
         "refs3e": "",
-        "school2e": "[[Evocation]]",
-        "spheres2e": "[[Elemental sphere|Elemental]] [[Elemental fire sphere|Fire]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|2|[[Druid]]|2|[[Elemental sphere|Elemental]]|2|[[Elemental fire sphere|Elemental Fire]]|2}}",
+        "school2e": "Evocation",
+        "spheres2e": "Elemental Fire",
+        "level2e": "",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''''Flame blade''''' was an [[evocation]] spell that created a sword-like beam of fire that extended from the caster's hand and performed similar to a [[scimitar]].",
-        "Effects": "[[File:Baldur's Gate EE - Flame Sword.png|thumb|''A halfling with the flame blade.'']]\nThe blade inflicted fire damage, could ignite items, and gave off light. Strangely enough, this flaming blade was not a magical weapon but unsurprisingly, it wouldn't work underwater.",
-        "Components": "All versions required [[verbal]] and [[somatic]] components, but the oldest version and the post-[[Second Sundering]] version required the caster to have a leaf of [[sumac]]."
+        "mainbody": "Flame blade was an evocation spell that created a sword-like beam of fire that extended from the casters hand and performed similar to a scimitar.\nthumb|A halfling with the flame blade.\nThe blade inflicted fire damage, could ignite items, and gave off light. Strangely enough, this flaming blade was not a magical weapon but unsurprisingly, it wouldnt work underwater.\nAll versions required verbal and somatic components, but the oldest version and the post-Second Sundering version required the caster to have a leaf of sumac."
     }
 }

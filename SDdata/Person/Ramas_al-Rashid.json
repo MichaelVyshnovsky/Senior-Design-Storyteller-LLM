@@ -1,20 +1,8 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Ramas al-Rashid",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Liham]], [[Zakhara]]{{cite book/Assassin Mountain/Holy Slayer Sourcebook|9}}",
         "formerhomes": "",
         "sex": "Male",
-        "race": "[[Human]]",
+        "race": "Human",
         "ethnicity": "",
         "occupation": "",
         "age": "",
@@ -37,8 +25,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Lawful evil]]",
-        "class2e": "{{class table|edition=2e|[[Thief]] ([[Holy slayer]])|5}}",
+        "alignment2e": "Lawful evil",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "class3e": "",
@@ -52,8 +40,6 @@
         "alignment5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Ramas al-Rashid''' was a [[holy slayer]] who lived in [[Liham]] in [[1367 DR]].{{AQ-time}}",
-        "Activities": "Ramas and his brothers were members of a merchant house in Liham. They used this as a front to mark a [[wikipedia:en:Caravanserai|caravanserai]] for robbery.",
-        "Relationships": "Ramas was brother to [[Harun al-Rashid]] and [[Beyab al-Rashid]]."
+        "mainbody": "Ramas al-Rashid was a holy slayer who lived in Liham in 1367 DR.\nRamas and his brothers were members of a merchant house in Liham. They used this as a front to mark a caravanserai for robbery.\nRamas was brother to Harun al-Rashid and Beyab al-Rashid."
     }
 }

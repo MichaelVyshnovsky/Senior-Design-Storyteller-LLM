@@ -1,24 +1,5 @@
 {
     "document_data": {
-        "image": "Cloak of poisonousness.png",
-        "caption": "",
-        "name": "''Cloak of Poisonousness''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Cloak]], [[Cursed]], Wondrous item",
-        "creator": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "2,500 [[gp]]",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "2,500 gp",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "[[Abjuration]]",
-        "casterlevel3e": "15{{th}}",
         "itemlevel3e": "",
         "value3e": "62,000 gp",
         "weight3e": "",
@@ -38,9 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "A '''''cloak of poisonousness''''' was a [[magic]] [[cloak]] that would kill whoever wore it.",
-        "Description": "This cloak was typically made of a woolly material, though ones made with leather were known to exist.",
-        "Powers": "Upon wearing this cloak, a creature would usually be immediately killed, though those of high fortitude were able to resist its effect and merely handling it would pose no danger. The [[poison]] within the cloak could be detected through use of a ''[[detect poison]]'' [[spell]], after which a small label would be visible that bore the words, ''\"Nesus Shirt company\"''.\n\nThis poison made it impossible to bring the victim back to life with a ''[[raise dead]]'' or ''[[resurrection (spell)|resurrection]]'' spell until a ''[[neutralize poison]]'' spell was used.\n\nRemoving this cloak from a victim required use of a ''[[remove curse]]'' spell, which would destroy its magical properties.",
-        "Trivia": "Depending upon how skilled they were, an [[alchemist]] could identify a ''cloak of poisonousness'' and then negate its poison effect.{{Cite dragon/130/Better Living Through Alchemy|35}}"
+        "mainbody": "A cloak of poisonousness was a magic cloak that would kill whoever wore it.\nThis cloak was typically made of a woolly material, though ones made with leather were known to exist.\nUpon wearing this cloak, a creature would usually be immediately killed, though those of high fortitude were able to resist its effect and merely handling it would pose no danger. The poison within the cloak could be detected through use of a detect poison spell, after which a small label would be visible that bore the words, \"Nesus Shirt company\".\nThis poison made it impossible to bring the victim back to life with a raise dead or resurrection spell until a neutralize poison spell was used.\nRemoving this cloak from a victim required use of a remove curse spell, which would destroy its magical properties.\nDepending upon how skilled they were, an alchemist could identify a cloak of poisonousness and then negate its poison effect."
     }
 }

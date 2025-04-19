@@ -1,22 +1,11 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Archadamius Luciard.png",
-        "caption": "",
-        "name": "Archadamius Luciard",
-        "nicknames": "",
-        "home": "[[Westgate]], [[Dragon Coast]]{{Cite card/AD&D Trading Cards/1992|681|Archadamius Luciard}}",
         "sex": "Male",
-        "race": "[[Elf]]",
+        "race": "Elf",
         "occupation": "Merchant",
-        "alignment2e": "[[Lawful neutral]]",
-        "class2e": "{{class table|edition=2e|[[Wizard]]|11}}",
+        "alignment2e": "Lawful neutral",
+        "class2e": "",
         "refs2e": "",
-        "mainbody": "'''Archadamius Luciard''' was an [[Elf|elven]] merchant and [[wizard]] from [[Westgate]].",
-        "Description": "Archadamius had light skin, blue eyes, and long, gray hair. He wore a blue robe and metallic bracers.",
-        "Possessions": "He owned several magical items, including a pair of ''[[bracers of defense]]'', a ''[[ring of protection]]'', and a ''[[staff of power]]''.",
-        "Activities": "He ran a small, yet successful shipping company out of Westgate's port. Archadamius had many connections in the city's nobility, which he used both for financial and political gain. His successful business allowed Archadamius to finance his magical training."
+        "mainbody": "Archadamius Luciard was an elven merchant and wizard from Westgate.\nArchadamius had light skin, blue eyes, and long, gray hair. He wore a blue robe and metallic bracers.\nHe owned several magical items, including a pair of bracers of defense, a ring of protection, and a staff of power.\nHe ran a small, yet successful shipping company out of Westgates port. Archadamius had many connections in the citys nobility, which he used both for financial and political gain. His successful business allowed Archadamius to finance his magical training."
     }
 }

@@ -1,30 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Ruby Way",
-        "type": "",
-        "aliases": "",
-        "length": "",
-        "width": "",
-        "pavement": "Reddish crystal",
-        "location": "[[Leuthilspar]], [[Evermeet]]",
-        "usethewithloc": "",
-        "starts": "",
-        "ends": "",
-        "built": "",
-        "refs": "",
-        "daggers": "",
-        "usethe": "yes",
-        "inhabitants": "yes",
-        "locations": "yes",
-        "settlements": "",
-        "events": "",
-        "mainbody": "'''Ruby Way''' was a reddish crystal road in [[Leuthilspar]] on the island of [[Evermeet]].",
-        "Structure": "Despite its name, the road was not made from [[ruby]]. Like the [[Diamond Road]], the Ruby Way had a smooth, shiny appearance but was not slippery underfoot.",
-        "Inhabitants": "*[[House Nierdre]]\n*[[House Silverspear]]",
-        "Notable locations": {
-            "Other locations": "*[[Sacred Oak]]"
-        }
+        "mainbody": "uby Way was a reddish crystal road in Leuthilspar on the island of Evermeet.\nDespite its name, the road was not made from ruby. Like the Diamond Road, the Ruby Way had a smooth, shiny appearance but was not slippery underfoot.\n*House Nierdre\n*House Silverspear\n*Sacred Oak"
     }
 }

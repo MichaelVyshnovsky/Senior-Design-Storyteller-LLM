@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Whirlwind",
-        "deity": "[[Akadi]], [[Aerdrie Faenya]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]]",
-        "spheres2e": "[[Elemental sphere|Elemental]], [[Elemental air sphere|Air]]",
-        "level2e": "{{Spell table|edition=2e|[[Cleric]]|7|[[Druid]]|7|[[Elemental sphere|Elemental]]|7|[[Elemental air sphere|Elemental Air]]|7|[[Monk]]|7|[[Shaman]]|7}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -37,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "This '''''whirlwind''''' spell was an extremely powerful version of the ''[[whirlwind]]'' spell that was only given to priests of [[Akadi]], the Queen of Air, and [[Aerdrie Faenya]], the Winged Mother. It created a towering rotational vortex on land or sea that destroyed most everything in its path.",
-        "Effects": "This spell took ten minutes to cast, which was longer than the duration of the effect. Upon completion of this spell, a swirling cone-shaped cyclone was formed, 10 ft (3 m) across the base, 30 ft (9.1 m) across the top, and 270 ft (82 m) tall. This spell would only function if there was enough room for a gigantic twister of these dimensions to form within 360 ft (110 m) of the caster. The speed of the ''whirlwind'' was chosen at the time of casting and could be 90 ft (27 m) or 180 ft (55 m) per minute. The ''whirlwind'' could change direction by 60 degrees per minute. The caster had to concentrate for a full minute to change the speed or direction of the destructive vortex.\n\nIf cast on land, the ''whirlwind'' had the form and destructive power of a tornado; over water, it hit with hurricane force. Flying creatures that resisted the magic of this spell were immediately grounded or splashed down. Those that struggled but failed to resist hit the surface as if they had fallen from the sky. Smaller creatures that were not protected or were caught unaware had to resist the spell or be killed. Larger creatures were injured by the buffeting winds and flying debris and could not move toward the caster. Buildings in the path of the ''whirlwind'' were damaged just as if they were hit by an ''[[earthquake]]'' spell&mdash;all but the sturdiest stone structures were turned to rubble.",
-        "Components": "This spell was verbally chanted for ten minutes and required the priest's [[holy symbol]] and a piece of straw."
+        "mainbody": "This whirlwind spell was an extremely powerful version of the whirlwind spell that was only given to priests of Akadi, the Queen of Air, and Aerdrie Faenya, the Winged Mother. It created a towering rotational vortex on land or sea that destroyed most everything in its path.\nThis spell took ten minutes to cast, which was longer than the duration of the effect. Upon completion of this spell, a swirling cone-shaped cyclone was formed, 10 ft (3 m) across the base, 30 ft (9.1 m) across the top, and 270 ft (82 m) tall. This spell would only function if there was enough room for a gigantic twister of these dimensions to form within 360 ft (110 m) of the caster. The speed of the whirlwind was chosen at the time of casting and could be 90 ft (27 m) or 180 ft (55 m) per minute. The whirlwind could change direction by 60 degrees per minute. The caster had to concentrate for a full minute to change the speed or direction of the destructive vortex.\nIf cast on land, the whirlwind had the form and destructive power of a tornado over water, it hit with hurricane force. Flying creatures that resisted the magic of this spell were immediately grounded or splashed down. Those that struggled but failed to resist hit the surface as if they had fallen from the sky. Smaller creatures that were not protected or were caught unaware had to resist the spell or be killed. Larger creatures were injured by the buffeting winds and flying debris and could not move toward the caster. Buildings in the path of the whirlwind were damaged just as if they were hit by an earthquake spell&mdashall but the sturdiest stone structures were turned to rubble.\nThis spell was verbally chanted for ten minutes and required the priests holy symbol and a piece of straw."
     }
 }

@@ -1,36 +1,5 @@
 {
-    "template_data": {
-        "1|ft|c|long": "yes"
-    },
     "document_data": {
-        "image": "Electrum_dragon-2e.jpg",
-        "caption": "",
-        "name": "Electrum Dragon",
-        "othernames": "Draco Magus Electrum",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "",
-        "type3e": "",
-        "subtype3e": "",
-        "alignment3e": "",
-        "challenge3e": "",
-        "refs3e": "",
-        "size2e": "Gargantuan",
-        "alignment2e": "[[Neutral good]]",
-        "refs2e": "",
-        "size1e": "Large",
-        "alignment1e": "[[Neutral good]]",
-        "refs1e": "{{Cite dragon/74/The Electrum Dragon|17}}",
         "patron deity": "",
         "movement": "Flying",
         "vision": "",
@@ -44,7 +13,7 @@
         "terrain": "Mountains, Barrens",
         "genrefs": "",
         "height": "",
-        "length": "{{SI|36|ft}}",
+        "length": "",
         "wingspan": "",
         "weight": "",
         "skincolor": "",
@@ -58,18 +27,6 @@
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Electrum dragons''', also called '''''Draco Magus electrum''''', were rare [[metallic dragon]]s. Peaceful and philosophically inclined, they preferred to live far from civilized areas.",
-        "Description": "They had deep green eyes.",
-        "Personality": "Electrum dragons enjoyed debating and trading, and were generally welcoming to visitors. They were very fond of beautiful objects. For that reason, their hoards tended to have relatively small amounts of [[coin]]s, but large amounts of finely crafted items such as statues, tapestries, musical instruments, [[gem]]s, and [[jewelry]].",
-        "Biology": {
-            "Breath": "The unique [[dragon breath]] of electrums consisted of a gas that had the effect of rendering creatures weakened and confused, in an effect similar to the ''[[ray of enfeeblement]]'' and ''[[confusion]]'' spells. These effects lingered in the area for several seconds after being released by the dragon.",
-            "Reproduction": "Electrum dragons tended to mate only once a century, in a ritual that included exchanging spells and playfully flying together. After about one year, the female dragon produced a clutch of one to four eggs. Their eggs were rubbery and measured about {{SI|1|ft|c|long=yes}} in length. Once laid, the eggs hatched in a few days."
-        },
-        "Abilities": "Competent spellcasters, electrum dragons possessed several innate magical abilities starting from birth. As they aged, their natural talent allowed them to learn numerous [[spell]]s, such as ''[[detect magic]]'', ''[[read magic]]'', ''[[identify]]'', ''[[locate object]]'', ''[[dispel magic]]'', ''[[telekinesis]]'', ''[[project image]]'', and ''[[heal]]''.",
-        "Combat": "Despite being peaceful creatures, electrum dragons made for formidable foes if attacked. Their peaceful demeanor granted them a serene alertness during fights, allowing them to observe and anticipate their enemies' strategies.",
-        "History": "Electrum dragons were known allies of the [[elves]] of [[Myth Drannor]]. They could be occasionally found within the area of the [[mythal]] that permeated that region.",
-        "Society": {
-            "Relationships": "Electrum dragons were a [[favored monster]] of the [[deity]] [[Dugmaren Brightmantle]]."
-        }
+        "mainbody": "Electrum dragons, also called Draco Magus electrum, were rare metallic dragons. Peaceful and philosophically inclined, they preferred to live far from civilized areas.\nThey had deep green eyes.\nElectrum dragons enjoyed debating and trading, and were generally welcoming to visitors. They were very fond of beautiful objects. For that reason, their hoards tended to have relatively small amounts of coins, but large amounts of finely crafted items such as statues, tapestries, musical instruments, gems, and jewelry.\nThe unique dragon breath of electrums consisted of a gas that had the effect of rendering creatures weakened and confused, in an effect similar to the ray of enfeeblement and confusion spells. These effects lingered in the area for several seconds after being released by the dragon.\nElectrum dragons tended to mate only once a century, in a ritual that included exchanging spells and playfully flying together. After about one year, the female dragon produced a clutch of one to four eggs. Their eggs were rubbery and measured about  in length. Once laid, the eggs hatched in a few days.\nCompetent spellcasters, electrum dragons possessed several innate magical abilities starting from birth. As they aged, their natural talent allowed them to learn numerous spells, such as detect magic, read magic, identify, locate object, dispel magic, telekinesis, project image, and heal.\nDespite being peaceful creatures, electrum dragons made for formidable foes if attacked. Their peaceful demeanor granted them a serene alertness during fights, allowing them to observe and anticipate their enemies strategies.\nElectrum dragons were known allies of the elves of Myth Drannor. They could be occasionally found within the area of the mythal that permeated that region.\nTypically solitary creatures, electrum dragons liked to observe their surroundings by perching on high mountaintops, where they remained immobile for large periods of time. They also enjoyed spending their time experimenting with magic and procuring beautiful items to add to their hoards.\nElectrum dragons were a favored monster of the deity Dugmaren Brightmantle."
     }
 }

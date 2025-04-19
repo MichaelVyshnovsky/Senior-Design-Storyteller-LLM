@@ -1,45 +1,9 @@
 {
-    "template_data": {
-        "0.1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Lolth's Candle.png",
-        "caption": "",
-        "name": "Lolth's Candle",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Gem]]",
-        "location": "[[Underdark]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "",
-        "refs3e": "",
-        "level4e": "",
-        "value4e": "",
-        "weight4e": "",
-        "rarity5e": "",
-        "attunement5e": "",
-        "school5e": "",
-        "level5e": "",
-        "value5e": "25 [[gp]]",
-        "weight5e": "{{SI|0.1|lb|k|long=yes}}",
         "refs5e": "",
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''Lolth's candles''' were luminescent flickering [[crystal]]s found in the [[Underdark]].",
-        "Description": "These glowing [[gem]]s emitted a flickering glow that more than once lured unlucky Underdark travelers to their dooms. Many confused Lolth's candles with fellow travelers' flickering lanterns in the darkness of the underground.",
-        "Availability": "Lolth's candles could be found in the area of [[Underdark]] just below the [[Western Heartlands]].",
-        "Usages": "These crystals could be refined into vitriol of Lolth's Candle, which, in turn, could be mixed with certain types of ash in order to create a powerful blinding [[poison]] called ''[[Malice]]''."
+        "mainbody": "Lolths candles were luminescent flickering crystals found in the Underdark.\nThese glowing gems emitted a flickering glow that more than once lured unlucky Underdark travelers to their dooms. Many confused Lolths candles with fellow travelers flickering lanterns in the darkness of the underground.\nLolths candles could be found in the area of Underdark just below the Western Heartlands.\nThese crystals could be refined into vitriol of Lolths Candle, which, in turn, could be mixed with certain types of ash in order to create a powerful blinding poison called Malice."
     }
 }

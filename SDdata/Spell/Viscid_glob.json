@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Viscid Glob",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Conjuration]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Sorcerer]]|4|[[Wizard]]|4}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Viscid glob''''' was a [[conjuration]] [[spell]] that caused the target to be stuck.",
-        "Effects": "''Viscid glob'' created an adhesive greenish-gray glob of 5 feet (1.5 meters) diameter. This glob was then shot at the target and could go into a random direction if not aimed properly. On hitting a creature of average size or smaller, the sticky substance robbed the victim of any physical movement except for speaking. Larger creatures could act normally, but could not leave the spot they were glued to. Breaking the adhesive was either an act of brute strength or particular skillfulness at escaping bonds.\n\nThe spell had an hours-long duration. Once this time was over, the adhesive simply vanished. However, trying to help out a person stuck by the adhesives was potentially dangerous. People who touched the substance and did not react fast enough could become stuck by it too, albeit the required physical strength or skillfulness at escaping bonds was lower.",
-        "Components": "''Viscid glob'' required [[somatic]], [[verbal]], and [[material component]]s in the form of a tiny ball of [[spider silk]]."
+        "mainbody": "Viscid glob was a conjuration spell that caused the target to be stuck.\nViscid glob created an adhesive greenish-gray glob of 5 feet (1.5 meters) diameter. This glob was then shot at the target and could go into a random direction if not aimed properly. On hitting a creature of average size or smaller, the sticky substance robbed the victim of any physical movement except for speaking. Larger creatures could act normally, but could not leave the spot they were glued to. Breaking the adhesive was either an act of brute strength or particular skillfulness at escaping bonds.\nThe spell had an hours-long duration. Once this time was over, the adhesive simply vanished. However, trying to help out a person stuck by the adhesives was potentially dangerous. People who touched the substance and did not react fast enough could become stuck by it too, albeit the required physical strength or skillfulness at escaping bonds was lower.\nViscid glob required somatic, verbal, and material components in the form of a tiny ball of spider silk."
     }
 }

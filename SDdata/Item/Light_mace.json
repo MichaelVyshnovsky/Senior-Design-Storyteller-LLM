@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "4|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Light-mace1.jpg",
-        "caption": "",
-        "name": "Light Mace",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Weapon",
-        "creator": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "5 [[gp]]",
-        "weight3e": "{{SI|4|lb|k}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,10 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "A '''light mace''' was a simple melee bludgeoning weapon and a smaller form of the [[heavy mace]].",
-        "Description": "A light mace was little more than a [[club]] with flanges, knobs, or ridges of metal placed symmetrically around the head. It was made completely out of metal, making it a heavy but difficult to break weapon. A typical light mace weighed {{SI|4|lb|k|long=yes}}.",
-        "Cost": "An average light mace cost 5 [[gp]].",
-        "Use": "This weapon was intended to be used one-handed and was simple enough for most combatants to use without any training.",
-        "Realmslore": "The light mace was the [[favored weapon]] of the deities [[Amaunator]] and [[Lathander]], who also treated the [[heavy mace]] the same."
+        "mainbody": "A light mace was a simple melee bludgeoning weapon and a smaller form of the heavy mace.\nA light mace was little more than a club with flanges, knobs, or ridges of metal placed symmetrically around the head. It was made completely out of metal, making it a heavy but difficult to break weapon. A typical light mace weighed .\nAn average light mace cost 5 gp.\nThis weapon was intended to be used one-handed and was simple enough for most combatants to use without any training.\nThe light mace was the favored weapon of the deities Amaunator and Lathander, who also treated the heavy mace the same."
     }
 }

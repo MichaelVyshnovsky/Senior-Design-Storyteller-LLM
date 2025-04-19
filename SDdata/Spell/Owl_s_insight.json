@@ -1,32 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Owl's Insight",
-        "deity": "",
-        "inventor": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Druid]]|5}}",
         "refs3e": "",
         "reversible2e": "",
         "school2e": "",
@@ -38,8 +11,6 @@
         "school1e": "",
         "level1e": "",
         "refs1e": "",
-        "mainbody": "'''''Owl's insight''''' was a [[druid]]ic [[spell]], common to powerful druids of the Realms, that granted a subject a taste of the inherent wisdom of nature.",
-        "Effects": "Upon casting this spell, the temporary visage of a snow owl covered the druid's face. The caster could lay hands on another and bestow a touch of insight and comprehension, such as commonly held to belong to the [[owl]]. The more powerful the druid, the greater was the increase to the subject's wisdom. The effect lasted for one hour.",
-        "Components": "This [[Divine magic|divine]] spell required both [[Verbal component|verbal]] and [[somatic component]]s."
+        "mainbody": "Owls insight was a druidic spell, common to powerful druids of the Realms, that granted a subject a taste of the inherent wisdom of nature.\nUpon casting this spell, the temporary visage of a snow owl covered the druids face. The caster could lay hands on another and bestow a touch of insight and comprehension, such as commonly held to belong to the owl. The more powerful the druid, the greater was the increase to the subjects wisdom. The effect lasted for one hour.\nThis divine spell required both verbal and somatic components."
     }
 }

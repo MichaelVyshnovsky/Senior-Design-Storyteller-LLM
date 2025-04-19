@@ -1,174 +1,77 @@
-{{Creature
-| image        = <gallery>
-Players_Handbook_5e_-_Gnome_-_Rob_Rey_-_p35.jpg|5e
-Gnomes - Chippy.jpg|4e
-Gnomes.jpg|3e
-Monstrous_Manual_2e_-_Gnome_-_p160.png|2e
-Forgotten_Realms_Campaign_Setting_-_D&D_-_Gnome.png|1e
-</gallery>
-| caption2     = Various depictions of gnomes.
-| name         = Gnome
-| abbr         = g
-| size5e       = Small 
-| type5e       = [[Humanoid]] 
-| subtype5e    = 
-| alignment5e  = Usually [[neutral good]] 
-| challenge5e  = 
-| refs5e       = 
-| origin4e     = [[Fey]]
-| size4e       = Small
-| type4e       = [[Humanoid]]
-| subtype4e    = 
-| alignment4e  = [[Unaligned]]
-| refs4e       = 
-| size3e       = Small
-| type3e       = [[Humanoid]]
-| subtype3e    = [[Gnome]]
-| alignment3e  = Usually [[neutral good]]
-| challenge3e  = {{Frac|1|2}}
 | refs3e       = 
 | size2e       = 
 | alignment2e  = 
 | refs2e       = 
 | size1e       = Small
-| alignment1e  = [[Neutral good|Neutral]] to [[Lawful good]]
+| alignment1e  = Neutral to Lawful good
 | refs1e       = 
-| height       = {{SIrange|3'4"|3'8"|ft-in}}, {{SIrange|3'0"|4'0"|ft-in}}
-| weight       = {{SIrange|50|75|lbs|k}}, {{SIrange|40|45|lbs|k}}
+| height       = , 
+| weight       = , 
 | skincolor    = Ruddy tan to woody brown to rocky gray
-| haircolor    = Any; grays to white with age
+| haircolor    = Any grays to white with age
 | eyecolor     = Glittering opaque orbs of black
-| vision       = [[Darkvision]]
+| vision       = Darkvision
 | distinctions = Small, keen mind, bright personality, magically gifted
-| lifespan     = Usually over 300 years; physically show aging but do not become infirm
-| location     = [[Toril]]<br/>The [[Feywild]]
-| language     = [[Common]], [[Gnomish]]
-| subraces     = [[Deep gnome]]s <br/> [[Forest gnome]]s <br/>[[Rock gnome]]s
-| based        = [[wikipedia:en:Gnome|Gnome]] (European)
-}}'''Gnomes''', or the '''Forgotten Folk''' as they were sometimes known, were small [[humanoid]]s known for their eccentric sense of humor, inquisitiveness, and engineering prowess. Having had few overt influences on the world's history but many small and unseen ones, gnomes were often overlooked by the powers that be, despite their craftiness and affinity for [[illusion]] magic. Gnomes were present in nearly every [[human]] city and most caravan-stop villages where other cultures and non-human races were at least tolerated.{{Cite dragon/269/The New Adventures of Volo: Hin Nobody Knows|86}}
-
-{{quote
-|It's not so much that we like keeping secrets as that we hate being discovered. We prefer to live our lives beneath notice, because when we're noticed, it's usually much bigger and much meaner creatures that notice us.
-|[[Egeira]] of [[Moonstair]]
-}}
-
-==Description==
-[[File:Gnome - Raven Mimura.jpg|thumb|left|''A male [[forest gnome]].'']]
-Gnomes were very small compared to most other races, with an average height of {{SIrange|3'0"|4'0"|ft-in}} and a weight of {{SIrange|40|45|lbs|k}}. Gnomes were generally larger and heavier than [[halfling]]s, though [[forest gnome]]s tended to be smaller than halflings, being {{SIrange|2'1"|2'10"|ft-in}} in height and {{SIrange|21|35|lbs|k}} in weight. This led some scholars to erroneously classify all gnomish races as "smaller than the [[Hin]]".
-
-While halflings were commonly said to resemble short humans, gnomes were more comparable with [[elves]], with whom they shared pointed ears and high cheekbones, or even [[dwarves]], due to their tendency to grow beards and live underground. Many gnomes had a more feral appearance than either, however, with hair that often sprouted from their heads in odd directions.
-
-The skin of gnomes ran in hue from reddish tans to earthy browns or even shades of gray, with exact hue somewhat dependent upon the ethnic origin of a gnome. Similarly, gnomish hair varied wildly in color from blond and brown to more exotic colors like white, orange, or even green. Gnomish eyes were often—particularly in individuals who were native to the [[Feywild]]—glittering black or blue, although more natural eye colors were also known to the race.
-
+| lifespan     = Usually over 300 years physically show aging but do not become infirm
+| location     = TorilThe Feywild
+| language     = Common, Gnomish
+| subraces     = Deep gnomes  Forest gnomes Rock gnomes
+| based        = Gnome (European)
+Gnomes, or the Forgotten Folk as they were sometimes known, were small humanoids known for their eccentric sense of humor, inquisitiveness, and engineering prowess. Having had few overt influences on the worlds history but many small and unseen ones, gnomes were often overlooked by the powers that be, despite their craftiness and affinity for illusion magic. Gnomes were present in nearly every human city and most caravan-stop villages where other cultures and non-human races were at least tolerated.
+thumb|left|A male forest gnome.
+Gnomes were very small compared to most other races, with an average height of  and a weight of . Gnomes were generally larger and heavier than halflings, though forest gnomes tended to be smaller than halflings, being  in height and  in weight. This led some scholars to erroneously classify all gnomish races as "smaller than the Hin".
+While halflings were commonly said to resemble short humans, gnomes were more comparable with elves, with whom they shared pointed ears and high cheekbones, or even dwarves, due to their tendency to grow beards and live underground. Many gnomes had a more feral appearance than either, however, with hair that often sprouted from their heads in odd directions.
+The skin of gnomes ran in hue from reddish tans to earthy browns or even shades of gray, with exact hue somewhat dependent upon the ethnic origin of a gnome. Similarly, gnomish hair varied wildly in color from blond and brown to more exotic colors like white, orange, or even green. Gnomish eyes were often—particularly in individuals who were native to the Feywild—glittering black or blue, although more natural eye colors were also known to the race.
 In terms of clothing, gnomes often preferred those with earthen tones or made of leather. They similarly preferred jewelry with earthen tones.
-
-==Personality==
 Gnomes were an intelligent
-
-Gnomes were naturally witty and jovial, and they preferred to overcome obstacles through cunning and innovation rather than the obvious way. Ever curious, gnomes were drawn to adventure more often by a desire to see the world than out of greed or the hope of fame. It was this curiosity, along with their cunning and witty repartee, that made gnomes both entertaining friends and adept [[arcane spellcaster]]s or scholars.
-
-Most gnomes loved [[gem]]s, particularly [[Ruby|rubies]], but they were not avaricious. The gnomes that most people encountered were content to raise [[goat]]s, grow [[potato]]es, and live a life of honest hard work.
-
-===Adventuring===
-Gnomes who left home to seek an [[adventurer]]'s life were rare, given the race's famed shyness and lack of ambition. Those that did were motivated by a number of factors, but the impulsive race was often driven by curiosity more than anything else. Many gnomes felt no more rationale for adventuring than simply to explore the world that surrounded them. A few, the more orderly ones that is, sought out adventure for more innately noble purposes, such as to help others, but these gnomes were rare. Other gnomes were driven to become adventurers by little more than simple avarice, as adventuring was often seen as a quick, if unsafe, avenue for wealth. Adventuring was not necessarily a welcomed lifestyle among gnomes, despite the curiosity that filled the whole race, and sometimes was, in fact, seen as a betrayal of sorts to a gnome's clan.
-
-==Abilities==
-Gnomes were a naturally intelligent and creative race, with a charm about them unusual for other humanoids. Gnomes also had a strong affinity for all things [[magic]]al. In particular they had a natural grasp of the [[arcane magic|arcane]], innately possessing the ability to cast the [[cantrip]] ''[[ghost sound]]'' and illusion, both for the purpose of using it for themselves as well as seeing through other attempts at it. After the [[Spellplague]], gnomes innately were able to use the ''[[Fade|fade away]]'' power to disappear temporarily from sight and additionally had a reflexive tendency to take cover and hide when suddenly endangered. Other gnomes were capable of casting ''[[dancing lights]]''.
-
-===Magic===
-Gnomes were talented [[illusionist]]s, with a natural grasp of the arcane. Regardless of their other talents, all gnomes were capable of casting a cantrip or two and had the capacity to disappear from sight if they wished. Gnomes were well-suited to all forms of arcane training, particularly that of a [[bard]], [[sorcerer]], [[warlock]], or [[wizard]].
-
-==Combat==
-Gnomes were known to wear a wide range of armor and [[shield]] types into combat. Including [[leather armor|leather]], [[studded leather]], [[ring mail]], and [[chainmail]]. In terms of weapons they most commonly fought with [[club]]s, [[short bow]]s, [[short sword]]s, [[sling]]s, and [[spear]]s.
-
-==Society==
-{{quote|''Bah, gnomes... thinking true power lies in gears and springs. Hah!''|[[Quarrel (half-drow)|Quarrel]] the [[Warlock]]}}<br/>
-Like other races, gnomish culture varied based on region and ethnicity, but a few characteristics were common to most gnomes. Among virtually all gnomes, great value was placed on one's ability to avoid trouble and stay out of the way of others. Children's games often involved elements of stealth and, among adults, drawing attention to one's self was considered a breach of etiquette. Most gnomes tried to remain inconspicuous and quietly left the scene of a fight. The few legends of gnomish heroes were not of powerful warriors but of subtle tricksters, who sneaked past or tricked their opponents rather than vanquishing them in combat. This in part came from the long-standing issue gnomes had faced, namely their miniscule size compared to larger predators or enemies such as the [[fomorian]]s of the Feywild, whom few gnomes could hope to stand toe to toe with in a fair fight.
-
-Gnomes had an intricate society based on their love of all kinds of arts, pranks, and their long lives. Gnomes loved indulgence, and they made most celebrations on a grand scale.<ref>
-
-Gnome weddings lasted for a week, even though gnomes didn't view love the same way humans did. If love began to go wrong between a couple they might break up, believing it was simply a prank by [[Garl Glittergold]].<ref>
-
-Their society was based on art; almost all gnomes took up some form of art, whether music, painting, cooking, building, or any other form that was considered creative by the time they came of age, or else they sponsored others.<ref>
-
-When living among other races, particularly humans, in an urban environment, gnomes were often shopkeepers or worked as everyday blacksmiths (leaving the fancy armor and weaponsmithing to the dwarves). They also worked with [[brass]], [[bronze]], [[tin]], and [[pewter]], casting and etching practical household items. Other occupations included gemcutters, mechanics, sages, or teachers, the last in particular being a highly valued profession by human employers, who knew that a single gnome could tutor multiple generations.
-
-===Lairs===
-[[File:Gnomebadger.png|thumb|273x273px|''A gnome with a badger companion.'']]
-In the [[Feywild]], as well as some places on [[Toril]], gnomes typically lived in earthen burrows and dug-out homes akin to those used by [[badger]]s, [[fox]]es, or [[rabbit]]s. As such they were fond of these small animals, feeling a sense of natural kinship with them. And much like these animals, gnomes had an aversion to danger that made them naturally inclined to hide away if able. Thus many gnomish homes were carefully hidden by magic or other methods.
-
-Gnomes most often liked to keep badgers, [[giant badger]]s, and [[wolverine]]s as guard animals in their lairs.
-
-===Homelands===
+Gnomes were naturally witty and jovial, and they preferred to overcome obstacles through cunning and innovation rather than the obvious way. Ever curious, gnomes were drawn to adventure more often by a desire to see the world than out of greed or the hope of fame. It was this curiosity, along with their cunning and witty repartee, that made gnomes both entertaining friends and adept arcane spellcasters or scholars.
+Most gnomes loved gems, particularly rubies, but they were not avaricious. The gnomes that most people encountered were content to raise goats, grow potatoes, and live a life of honest hard work.
+Gnomes who left home to seek an adventurers life were rare, given the races famed shyness and lack of ambition. Those that did were motivated by a number of factors, but the impulsive race was often driven by curiosity more than anything else. Many gnomes felt no more rationale for adventuring than simply to explore the world that surrounded them. A few, the more orderly ones that is, sought out adventure for more innately noble purposes, such as to help others, but these gnomes were rare. Other gnomes were driven to become adventurers by little more than simple avarice, as adventuring was often seen as a quick, if unsafe, avenue for wealth. Adventuring was not necessarily a welcomed lifestyle among gnomes, despite the curiosity that filled the whole race, and sometimes was, in fact, seen as a betrayal of sorts to a gnomes clan.
+Gnomes were a naturally intelligent and creative race, with a charm about them unusual for other humanoids. Gnomes also had a strong affinity for all things magical. In particular they had a natural grasp of the arcane, innately possessing the ability to cast the cantrip ghost sound and illusion, both for the purpose of using it for themselves as well as seeing through other attempts at it. After the Spellplague, gnomes innately were able to use the fade away power to disappear temporarily from sight and additionally had a reflexive tendency to take cover and hide when suddenly endangered. Other gnomes were capable of casting dancing lights.
+Gnomes were talented illusionists, with a natural grasp of the arcane. Regardless of their other talents, all gnomes were capable of casting a cantrip or two and had the capacity to disappear from sight if they wished. Gnomes were well-suited to all forms of arcane training, particularly that of a bard, sorcerer, warlock, or wizard.
+Gnomes were known to wear a wide range of armor and shield types into combat. Including leather, studded leather, ring mail, and chainmail. In terms of weapons they most commonly fought with clubs, short bows, short swords, slings, and spears.
+Like other races, gnomish culture varied based on region and ethnicity, but a few characteristics were common to most gnomes. Among virtually all gnomes, great value was placed on ones ability to avoid trouble and stay out of the way of others. Childrens games often involved elements of stealth and, among adults, drawing attention to ones self was considered a breach of etiquette. Most gnomes tried to remain inconspicuous and quietly left the scene of a fight. The few legends of gnomish heroes were not of powerful warriors but of subtle tricksters, who sneaked past or tricked their opponents rather than vanquishing them in combat. This in part came from the long-standing issue gnomes had faced, namely their miniscule size compared to larger predators or enemies such as the fomorians of the Feywild, whom few gnomes could hope to stand toe to toe with in a fair fight.
+Gnomes had an intricate society based on their love of all kinds of arts, pranks, and their long lives. Gnomes loved indulgence, and they made most celebrations on a grand scale.
+Gnome weddings lasted for a week, even though gnomes didnt view love the same way humans did. If love began to go wrong between a couple they might break up, believing it was simply a prank by Garl Glittergold.
+Their society was based on art almost all gnomes took up some form of art, whether music, painting, cooking, building, or any other form that was considered creative by the time they came of age, or else they sponsored others.
+When living among other races, particularly humans, in an urban environment, gnomes were often shopkeepers or worked as everyday blacksmiths (leaving the fancy armor and weaponsmithing to the dwarves). They also worked with brass, bronze, tin, and pewter, casting and etching practical household items. Other occupations included gemcutters, mechanics, sages, or teachers, the last in particular being a highly valued profession by human employers, who knew that a single gnome could tutor multiple generations.
+thumb|273x273px|A gnome with a badger companion.
+In the Feywild, as well as some places on Toril, gnomes typically lived in earthen burrows and dug-out homes akin to those used by badgers, foxes, or rabbits. As such they were fond of these small animals, feeling a sense of natural kinship with them. And much like these animals, gnomes had an aversion to danger that made them naturally inclined to hide away if able. Thus many gnomish homes were carefully hidden by magic or other methods.
+Gnomes most often liked to keep badgers, giant badgers, and wolverines as guard animals in their lairs.
 Gnomes primarily lived in wooded, hilly landscapes, most often underground. They typically built earthen homes with cellars and escape tunnels. Above-ground structures were often round and made of stone and thatch. Generally speaking, though, gnomes enjoyed the fresh air a good deal more than other subterranean races such as dwarves or drow and rarely burrowed very deep, spending a great deal of time on the surface. Gnomish homes or communities were generally well-hidden, making it difficult for unwelcome visitors to find them. Within, gnomish houses were warm and comfortable, akin to the burrows of small mammals.
-
-Gnomes were found widely throughout the world, though rarely in large numbers. Small communities were most commonly found in the [[Western Heartlands]], [[Elturgard]], and along the coastline of the [[Shining Sea]]. Other gnomes, notably the svirfneblin or deep gnomes, were found in the Underdark and were even more secretive than other gnomes, maintaining their distance from other races except for dwarves, with whom they were careful to maintain polite relationships for the purpose of protection.
-
-The majority of gnomes were found in [[Lantan]], the only land in which gnomes lived in great numbers and the closest they had to a homeland.
-
+Gnomes were found widely throughout the world, though rarely in large numbers. Small communities were most commonly found in the Western Heartlands, Elturgard, and along the coastline of the Shining Sea. Other gnomes, notably the svirfneblin or deep gnomes, were found in the Underdark and were even more secretive than other gnomes, maintaining their distance from other races except for dwarves, with whom they were careful to maintain polite relationships for the purpose of protection.
+The majority of gnomes were found in Lantan, the only land in which gnomes lived in great numbers and the closest they had to a homeland.
 The Feydark was home to a large number of gnomes. Their physical appearance differed from their surface-dwelling cousins, having larger eyes and skin so pale it appeared almost translucent. Feydark gnome culture was also quite different from that of surface-dwelling gnomes. They were known for their violent tendencies and gallows humor, while madness and savagery were considered positive personality traits. Feydark gnomes were also extremely xenophobic.
-
-===Religion===
-The primary gnome [[deity]] of the [[Lords of the Golden Hills|gnomish pantheon]] was [[Garl Glittergold]]. Other deities of the pantheon were [[Baervan Wildwanderer]], [[Gaerdal Ironhand]], and [[Urdlen]]. These gods were all themselves, at least after the [[Spellplague]], members of the [[Seldarine]], the fey pantheon headed by [[Corellon|Corellon Larethian]].
-
-Gnome funeral rites often employed cremation. It destroyed the body, (preventing desecration), and released the spirit to find its own way.<ref>
-
-===Languages===
-Most gnomes spoke [[Common]] as well as their own language, [[Gnomish]]. Some were known to be capable of speaking [[Dwarvish]], [[Halfling language|Halfling]], [[Goblin language|Goblin]], and [[Yipyak]]. Others were even said to be capable of speaking with burrowing mammals.
-
-===Relations===
-[[File:Gnome 2e.jpg|thumb|''An older rotund gnome, armed with his [[hammer]].'']]
-Gnomes, in general, were a reclusive people who'd rather stay out of others' affairs. Though some races interpreted this as cowardice, it's more the case that gnomes simply had nothing at stake in the conflicts between most other races and after centuries of being ignored or stomped on, were not particularly eager to fight someone else's fight. In fact, generally speaking, gnomes were a very courageous and good-hearted race, who frequently used their neutrality as a way to negotiate disputes. Of all the races in [[Faerûn]], it's fair to say that gnomes had the fewest enemies, although they had very few friends as well.
-
-Gnomes rarely intentionally invoked ire in any group, but at times circumstances made conflict with other races unavoidable. In the [[Feywild]], gnomes were particularly wary of the fomorians that sometimes enslaved them, regarding them with fear and caution. In the [[Prime Material Plane]], gnomes were most often at odds with [[goblin]]s and [[kobold]]s, who shared their underground homes and often war with them for territory or wealth. In these cases, gnomes were rarely the aggressors, owing to their tendency to avoid trouble rather than cause it.
-
+The primary gnome deity of the gnomish pantheon was Garl Glittergold. Other deities of the pantheon were Baervan Wildwanderer, Gaerdal Ironhand, and Urdlen. These gods were all themselves, at least after the Spellplague, members of the Seldarine, the fey pantheon headed by Corellon Larethian.
+Gnome funeral rites often employed cremation. It destroyed the body, (preventing desecration), and released the spirit to find its own way.
+Most gnomes spoke Common as well as their own language, Gnomish. Some were known to be capable of speaking Dwarvish, Halfling, Goblin, and Yipyak. Others were even said to be capable of speaking with burrowing mammals.
+thumb|An older rotund gnome, armed with his hammer.
+Gnomes, in general, were a reclusive people whod rather stay out of others affairs. Though some races interpreted this as cowardice, its more the case that gnomes simply had nothing at stake in the conflicts between most other races and after centuries of being ignored or stomped on, were not particularly eager to fight someone elses fight. In fact, generally speaking, gnomes were a very courageous and good-hearted race, who frequently used their neutrality as a way to negotiate disputes. Of all the races in Faerûn, its fair to say that gnomes had the fewest enemies, although they had very few friends as well.
+Gnomes rarely intentionally invoked ire in any group, but at times circumstances made conflict with other races unavoidable. In the Feywild, gnomes were particularly wary of the fomorians that sometimes enslaved them, regarding them with fear and caution. In the Prime Material Plane, gnomes were most often at odds with goblins and kobolds, who shared their underground homes and often war with them for territory or wealth. In these cases, gnomes were rarely the aggressors, owing to their tendency to avoid trouble rather than cause it.
 Gnomes were on fairly good terms with other fey, being particularly fond of eladrin, though they also shared good relations with elves. Gnomes also had sympathy for the fey commonly enslaved by fomorians, feeling empathy for creatures that shared the fate many of their forbears had suffered. Gnomes also got along well enough with halflings.
-
-Among those gnomes who lived in the caverns of the Prime, dwarves were often counted as friends, due in part to the two races' physical and cultural similarities. Additionally, dwarves and gnomes both counted goblins and [[giant]]s as enemies and could often be found working together against them. Gnomes were generally suspicious of other races, however.
-
-===Culture===
-Gnomes produced distinctly-colored glass items. Gnome glass was green like impure [[jade]] and translucent. This hue was a result of the gnome crafters melting and reshaping glass. Gnomish green glass cups were a commodity found throughout the Realms.
-
-==Biology==
+Among those gnomes who lived in the caverns of the Prime, dwarves were often counted as friends, due in part to the two races physical and cultural similarities. Additionally, dwarves and gnomes both counted goblins and giants as enemies and could often be found working together against them. Gnomes were generally suspicious of other races, however.
+Gnomes produced distinctly-colored glass items. Gnome glass was green like impure jade and translucent. This hue was a result of the gnome crafters melting and reshaping glass. Gnomish green glass cups were a commodity found throughout the Realms.
 Many gnomes were weak compared to other humanoids, though this was far from a universal trait for the race. Like elves, gnomes had sensitive hearing and were often capable of hearing things that other races might miss. Gnomish eyes were also suited for seeing in low-light conditions, to a degree comparable with elves or eladrin.
-
-Gnomes were also very long-lived, often living as long as elves, which meant living over three centuries was not uncommonly rare and five centuries was not unheard of. Generally, gnomes were considered to reach maturity at forty years of age. However, unlike elves or [[eladrin]], gnomes showed a greater degree of aging as they grew older and once a gnome had passed his or her first century, their hair began to gray, if it was not already white, and their skin began to wrinkle as in humans or dwarves. However, even the oldest gnome retained a vitality that would be extraordinarily unusual among many of the younger races.
-
-===Sub-Races===
-There were several subraces of gnomes, as listed below:
-;[[Forest gnome]]s
-: Smaller than other gnomes, these gnomes were a shy, secretive folk, living deep in wooded areas.
-;[[Rock gnomes]]
-: Rock gnomes primarily occupied burrows beneath rolling, wooded hills throughout [[Faerûn]].
-;[[Deep gnomes]]
-: The deep gnomes, or svirfneblin, dwelt in cities deep underground in the [[Underdark]]. They were far stealthier, much more combative, and avaricious than surface-dwelling gnomes. The former two qualities being because they had to constantly defend themselves against [[drow]] and other deadly enemies. Surface-dwelling gnomes had great respect, even reverence, for their [[Underdark]] brethren.
-==History==
+Gnomes were also very long-lived, often living as long as elves, which meant living over three centuries was not uncommonly rare and five centuries was not unheard of. Generally, gnomes were considered to reach maturity at forty years of age. However, unlike elves or eladrin, gnomes showed a greater degree of aging as they grew older and once a gnome had passed his or her first century, their hair began to gray, if it was not already white, and their skin began to wrinkle as in humans or dwarves. However, even the oldest gnome retained a vitality that would be extraordinarily unusual among many of the younger races.
+There were several subraces of gnomes, as listed below
+Forest gnomes
+ Smaller than other gnomes, these gnomes were a shy, secretive folk, living deep in wooded areas.
+Rock gnomes
+ Rock gnomes primarily occupied burrows beneath rolling, wooded hills throughout Faerûn.
+Deep gnomes
+ The deep gnomes, or svirfneblin, dwelt in cities deep underground in the Underdark. They were far stealthier, much more combative, and avaricious than surface-dwelling gnomes. The former two qualities being because they had to constantly defend themselves against drow and other deadly enemies. Surface-dwelling gnomes had great respect, even reverence, for their Underdark brethren.
 Throughout time gnomes maintained a rich oral tradition, but largely lacked a recorded history and they were rarely mentioned in the historical texts of other races. Because of this, it was unknown when exactly gnomes first emerged on Toril and migrated across Faerûn.
-
 Gnomish myths held that the gods of the gnome pantheon originated as gems deep within the bowels of the earth that were then exposed to open air.
-
-Beyond the ''Treatise Historical of the Dragon Tyrants'',{{Cite web/Mintiper's Chapbook/Part 6}} For the Netherese, the first gnomes to be enslaved were rock gnomes from nearby hills in [[-3649 DR]].<ref> That same year the Netherese, allegedly inspired by the evil Gnomish god Urdlen, began conducting experiments with magic to warp their gnome slaves into what became known as [[spriggan]]s, though by some accounts this offshoot race did not appear in the Realms until much later.
-
-The "Time of Bondage" as this period became known, such as [[Earlann]] and [[Illefarn]], 
-
-The elven nations would for a time house these refugees in the underground levels of the many frontier garrisons they had built to protect their forests, a fact of history that would later be largely forgotten by all but the gnomes. Fearing that they may incur the wrath of Netheril's [[archwizard]]s, the Earlanni eventually would shepherd their refugees further south of [[High Forest]] with the aid of Cormanthyr.<ref>
-
-Many [[elven high mage]]s would take a liking to the gnomish people and go on to teach them the art of magic.<ref> These early gnomish spellcasters found their people had an affinity for the illusion school of magic and its subschool [[phantasm]] - due to the ongoing need to hide from their Netherese captors, a tradition of specializing in this aspect of magic would begin to develop among the gnomes.
-
-Around [[-3150 DR]], the [[Mythallar Era]] of Netheril, the [[Trail of Mists]] was created through the joint efforts of gnome illusionists and Earlanni High Mages. A network of [[Border Ethereal]] crossings that linked together several elven fortifications, the Trail of Mists would make it easier for escaped gnomes to flee from Netheril. This system allowed slaves to easily move across [[the North]], as far south as what later became known as the [[River Chionthar]] and as far east as the mountain range later known as the [[Stormhorns]]. Most would choose to flee south, to the lands far beyond Netheril's sphere of influence. Over time these successful escapes from slavery would inspire further revolts.
-
-The gnomish tradition of illusion magic was further improved upon around [[-3095 DR]] by the elf [[Rilmohx Sha’Quessir]], who gained a deeper understanding of the school after glimpsing a stolen set of ''[[Nether Scrolls]]'' within [[Windsong Tower]] and spread what he learned to the gnomes.
-
-It would not be until the latter half of the Silver Age of Netheril, an age which commenced in [[-2758 DR]], that the gnomes would finally gain their freedom. Through a combination of stubborn refusal to work, their newfound skills in illusion magic, and the diplomatic efforts of Earlanni ambassadors. Resistant at first to give in, Netheril's archwizards tried to use mind-controlling magics to keep the gnomes in line, but this practice only proved to make them produce inventions that were of an inferior quality. Netheril would finally relent in [[-2387 DR]], emancipating their gnome populace. The gnomes that remained in Netheril would proceed to migrate south and east of what later became [[Anauroch]], seeking to get far away from the Netherese.
-
-Some gnomes would immigrate to the [[Western Heartlands]], settling in the [[Backlands]] and [[Sunset Vale]]. There in the [[Forgotten Forest]] of the Backlands and the [[Trielta Hills]] of Sunset Vale, forest and rock gnome communities respectively would be established with strong oral traditions, maintaining stories that told of their people's flight from Netheril and the challenges they endured along the way. It was also in these communities that the centuries of magical warping by the Netherese, begun back in -3649 DR,
-
-By the early [[Age of Humanity]], a number of elves in [[Myth Drannor]] would joke that their gnome neighbors must have been descended from [[Drannor]], on account of viewing the traditional personalities and values they exhibited as a sort of blending of elven and dwarven attitudes. Some humans would misinterpret this as a fact, spawning a long lasting misconception that gnomes were a hybrid race. 
-
-As the Age of Humanity went on, gnomes stood apart from the other races who over the centuries continued to establish empires and waged terrible wars against their fellow man. and the kingdom of [[Phalorm]].<ref> Over time some began referring to gnomes as the "Forgotten Folk", musing that they faded into the background of history whilst people of other races adventured, forged mighty legends, and were willing to challenge those in power.
-
-Some ancient gnome artifacts predating Netheril would survive well into the 14{{th}} century DR. However, despite this, some non-gnome sages would try to propose the erroneous theory that gnomes might have been created by [[Netherese arcanist]]s in an effort to make the perfect servile race.
-
-[[File:Gnome.JPG|thumb|right|''A gnome of Lantan.'']]
-As the human population in Faerûn grew and gnomes became further marginalized, younger generations began questioning the wisdom of their forebears in taking a deliberately passive role in world events. This attitude was seemingly encouraged by the appearance of [[Gond]], the god of invention, among the gnomes of Lantan during the [[Time of Troubles]] in [[1358 DR]]. As a result, a gradual trend emerged of more and more gnomes leaving their reclusive homes to travel the world. Many rock and deep gnomes went on to take up the life of a [[lorefinder]], seeking to uncover lost Netherese magic their fore-bearers had taken with them in their ancient emigrations from Netheril, in hopes to use such magic to bolster the position of the gnomish race. But along the way, such lorefinders uncovered many horrors thought lost long ago.<ref> But as always, gnomes had an aversion to becoming a part of anything "too big." Thus many others scattered into smaller, like-minded communities instead of attempting to direct larger ones.
-
+Beyond the Treatise Historical of the Dragon Tyrants, For the Netherese, the first gnomes to be enslaved were rock gnomes from nearby hills in -3649 DR. That same year the Netherese, allegedly inspired by the evil Gnomish god Urdlen, began conducting experiments with magic to warp their gnome slaves into what became known as spriggans, though by some accounts this offshoot race did not appear in the Realms until much later.
+The "Time of Bondage" as this period became known, such as Earlann and Illefarn, 
+The elven nations would for a time house these refugees in the underground levels of the many frontier garrisons they had built to protect their forests, a fact of history that would later be largely forgotten by all but the gnomes. Fearing that they may incur the wrath of Netherils archwizards, the Earlanni eventually would shepherd their refugees further south of High Forest with the aid of Cormanthyr.
+Many elven high mages would take a liking to the gnomish people and go on to teach them the art of magic. These early gnomish spellcasters found their people had an affinity for the illusion school of magic and its subschool phantasm - due to the ongoing need to hide from their Netherese captors, a tradition of specializing in this aspect of magic would begin to develop among the gnomes.
+Around -3150 DR, the Mythallar Era of Netheril, the Trail of Mists was created through the joint efforts of gnome illusionists and Earlanni High Mages. A network of Border Ethereal crossings that linked together several elven fortifications, the Trail of Mists would make it easier for escaped gnomes to flee from Netheril. This system allowed slaves to easily move across the North, as far south as what later became known as the River Chionthar and as far east as the mountain range later known as the Stormhorns. Most would choose to flee south, to the lands far beyond Netherils sphere of influence. Over time these successful escapes from slavery would inspire further revolts.
+The gnomish tradition of illusion magic was further improved upon around -3095 DR by the elf Rilmohx Sha’Quessir, who gained a deeper understanding of the school after glimpsing a stolen set of Nether Scrolls within Windsong Tower and spread what he learned to the gnomes.
+It would not be until the latter half of the Silver Age of Netheril, an age which commenced in -2758 DR, that the gnomes would finally gain their freedom. Through a combination of stubborn refusal to work, their newfound skills in illusion magic, and the diplomatic efforts of Earlanni ambassadors. Resistant at first to give in, Netherils archwizards tried to use mind-controlling magics to keep the gnomes in line, but this practice only proved to make them produce inventions that were of an inferior quality. Netheril would finally relent in -2387 DR, emancipating their gnome populace. The gnomes that remained in Netheril would proceed to migrate south and east of what later became Anauroch, seeking to get far away from the Netherese.
+Some gnomes would immigrate to the Western Heartlands, settling in the Backlands and Sunset Vale. There in the Forgotten Forest of the Backlands and the Trielta Hills of Sunset Vale, forest and rock gnome communities respectively would be established with strong oral traditions, maintaining stories that told of their peoples flight from Netheril and the challenges they endured along the way. It was also in these communities that the centuries of magical warping by the Netherese, begun back in -3649 DR,
+By the early Age of Humanity, a number of elves in Myth Drannor would joke that their gnome neighbors must have been descended from Drannor, on account of viewing the traditional personalities and values they exhibited as a sort of blending of elven and dwarven attitudes. Some humans would misinterpret this as a fact, spawning a long lasting misconception that gnomes were a hybrid race. 
+As the Age of Humanity went on, gnomes stood apart from the other races who over the centuries continued to establish empires and waged terrible wars against their fellow man. and the kingdom of Phalorm. Over time some began referring to gnomes as the "Forgotten Folk", musing that they faded into the background of history whilst people of other races adventured, forged mighty legends, and were willing to challenge those in power.
+Some ancient gnome artifacts predating Netheril would survive well into the 14 century DR. However, despite this, some non-gnome sages would try to propose the erroneous theory that gnomes might have been created by Netherese arcanists in an effort to make the perfect servile race.
+thumb|right|A gnome of Lantan.
+As the human population in Faerûn grew and gnomes became further marginalized, younger generations began questioning the wisdom of their forebears in taking a deliberately passive role in world events. This attitude was seemingly encouraged by the appearance of Gond, the god of invention, among the gnomes of Lantan during the Time of Troubles in 1358 DR. As a result, a gradual trend emerged of more and more gnomes leaving their reclusive homes to travel the world. Many rock and deep gnomes went on to take up the life of a lorefinder, seeking to uncover lost Netherese magic their fore-bearers had taken with them in their ancient emigrations from Netheril, in hopes to use such magic to bolster the position of the gnomish race. But along the way, such lorefinders uncovered many horrors thought lost long ago. But as always, gnomes had an aversion to becoming a part of anything "too big." Thus many others scattered into smaller, like-minded communities instead of attempting to direct larger ones.

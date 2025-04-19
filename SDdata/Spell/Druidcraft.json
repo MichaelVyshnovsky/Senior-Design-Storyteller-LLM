@@ -1,27 +1,7 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "variant": "cantrip"
-    },
     "document_data": {
-        "variant": "",
-        "image": "Druidcraft php5e revised.png",
-        "caption": "",
-        "name": "Druidcraft",
-        "school": "[[Transmutation]]",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "school5e": "[[Transmutation]]",
-        "level5e": "{{spell table|edition=5e|variant=cantrip|[[Druid]]|0}}",
-        "type5e": "[[Cantrip]]",
+        "type5e": "Cantrip",
         "refs5e": "",
-        "mainbody": "'''''Druidcraft''''' was a [[transmutation]] [[Cantrip (spell)|cantrip]] [[spell]] that allowed the caster to commune with spirits to cause minor effects.",
-        "Effect": "The spell could have one of four effects chosen by the caster:\n* Make a minor prediction of the weather within the area for the next 24 hours. The prediction would show, for example, a golden orb for clear sunny skies that would last for a couple of seconds.\n* Make a flower instantly go into bloom, a leaf bud bloom, or a seed pod open.\n* Instantly create a sensory effect, like falling leaves, the sound of an animal, the odor of a skunk, or a puff of wind. The effect only existed within a 5-foot-wide cube (1.5 meters).\n* Light or extinguish a small flame like a candle or small campfire instantly.",
-        "Components": "Only [[verbal]] and [[somatic component]]s were needed for the casting of the spell."
+        "mainbody": "Druidcraft was a transmutation cantrip spell that allowed the caster to commune with spirits to cause minor effects.\nThe spell could have one of four effects chosen by the caster\n* Make a minor prediction of the weather within the area for the next 24 hours. The prediction would show, for example, a golden orb for clear sunny skies that would last for a couple of seconds.\n* Make a flower instantly go into bloom, a leaf bud bloom, or a seed pod open.\n* Instantly create a sensory effect, like falling leaves, the sound of an animal, the odor of a skunk, or a puff of wind. The effect only existed within a 5-foot-wide cube (1.5 meters).\n* Light or extinguish a small flame like a candle or small campfire instantly.\nOnly verbal and somatic components were needed for the casting of the spell."
     }
 }

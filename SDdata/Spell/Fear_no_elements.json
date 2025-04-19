@@ -1,15 +1,7 @@
 {
-    "template_data": {
-        "edition": "4e"
-    },
     "document_data": {
-        "type": "daily",
-        "name": "Fear No Elements",
-        "school": "",
-        "keywords4e": "{{desc/arcane}}",
-        "level4e": "{{spell table|edition=4e|[[Swordmage]]|2}}",
+        "level4e": "",
         "type4e": "Daily",
-        "mainbody": "'''''Fear no elements''''' was a [[spell]] used by [[swordmage]]s very similar to, but weaker than, the ''[[resistance]]'' spell used by [[wizard]]s. When ''fear no elements'' was cast, it [[transmutation|transmuted]] its caster's body, making him or her less vulnerable to either acidic, electricity, fiery, freezing, or sonic attacks, to a degree dependent upon the swordmage's natural vitality. ''Fear no elements'' was a difficult spell to cast for its relative ease in learning and could only be cast once per day.",
-        "References": "*\n[[Category:Swordmage spells]]\n9wvqnedkq99wp0zpsnekqyss59mph8t"
+        "mainbody": "Fear no elements was a spell used by swordmages very similar to, but weaker than, the resistance spell used by wizards. When fear no elements was cast, it transmuted its casters body, making him or her less vulnerable to either acidic, electricity, fiery, freezing, or sonic attacks, to a degree dependent upon the swordmages natural vitality. Fear no elements was a difficult spell to cast for its relative ease in learning and could only be cast once per day.\n*\nCategorySwordmage spells\n9wvqnedkq99wp0zpsnekqyss59mph8t"
     }
 }

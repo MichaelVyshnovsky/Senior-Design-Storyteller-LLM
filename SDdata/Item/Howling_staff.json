@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "2.8|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Howling Staff''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Staff]]",
-        "creator": "",
-        "location": "[[Samarach]], [[Chult]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+1",
-        "value3e": "",
-        "weight3e": "{{SI|2.8|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Howling staves''''' were a type of naturally-created [[enchanted]] wooden weapons from the jungles of the [[Chultan Peninsula]].",
-        "Description": "''Howling staves'' were a result of thin, reed-like saplings being ravaged by [[termite]]s and then crafted into a minor magical item.",
-        "Powers": "Due to the wood being weakened by termites, its strikes were not as powerful as other similar weapons'. However, when swung, ''howling staves'' emitted eerie shrieking sounds caused by air moving through termite holes.\n\nThese weapons carried a ''+1 enchantment'' and reduced damage as well as weight. In battle, the ''howling staves'' did additional sonic damage."
+        "mainbody": "Howling staves were a type of naturally-created enchanted wooden weapons from the jungles of the Chultan Peninsula.\nHowling staves were a result of thin, reed-like saplings being ravaged by termites and then crafted into a minor magical item.\nDue to the wood being weakened by termites, its strikes were not as powerful as other similar weapons. However, when swung, howling staves emitted eerie shrieking sounds caused by air moving through termite holes.\nThese weapons carried a +1 enchantment and reduced damage as well as weight. In battle, the howling staves did additional sonic damage."
     }
 }

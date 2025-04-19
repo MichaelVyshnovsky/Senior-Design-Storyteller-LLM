@@ -1,31 +1,5 @@
 {
-    "template_data": {
-        "4|lb|k|long": "yes",
-        "15'|'\"|long": "yes"
-    },
     "document_data": {
-        "image": "Sword of Peredus.png",
-        "caption": "",
-        "name": "''Sword of Peredus''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Longsword]]",
-        "creator": "",
-        "location": "[[Daggerford]], [[Delimbiyr Vale]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+2",
-        "value3e": "",
-        "weight3e": "{{SI|4|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -42,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The '''''Sword of Peredus''''' was an [[enchanted]] [[longsword]], a lesser version of a ''[[holy avenger]]'' weapon that belonged to a fabled hero, [[Peredus]] the Great.",
-        "Powers": "The ''Sword of Peredus'' had a ''+2'' enchantment and was blessed by a high [[priest]] of [[Torm]], allowing it to be especially deadly to creatures that venerated evil. When wielded against evil, the sword was empowered by [[positive energy]]. The ''Sword of Peredus'' radiated gentle white light {{SI|15'|'\"|long=yes}} around it. The Tormish nature of this longsword made it usable by creatures of pure heart only.",
-        "History": "The enchanted blade was famously wielded by Peredus, a heroic caravan guard who perished in a bandit attack while traveling along the [[Trade Way]]. For many years, the sword and the hero's body were left at the bottom of a wishing well in the [[Western Heartland]] for many years. Eventually, the story of the hero became a popular ballad in the city of [[Daggerford]], silly called ''[[Peredus the Great]]''. The song mentioned the powerful magical ''Sword of Peredus'' making it a desirable treasure that attracted many adventurers over the course of passing years. Eventually, the sword's location was discovered by [[Burnas Tellrot]] in [[1372 DR]]. The [[halfling]] sent adventurers to retrieve it for them only to be devoured by a [[black dragon]] [[Sulfurus]]."
+        "mainbody": "The Sword of Peredus was an enchanted longsword, a lesser version of a holy avenger weapon that belonged to a fabled hero, Peredus the Great.\nThe Sword of Peredus had a +2 enchantment and was blessed by a high priest of Torm, allowing it to be especially deadly to creatures that venerated evil. When wielded against evil, the sword was empowered by positive energy. The Sword of Peredus radiated gentle white light  around it. The Tormish nature of this longsword made it usable by creatures of pure heart only.\nThe enchanted blade was famously wielded by Peredus, a heroic caravan guard who perished in a bandit attack while traveling along the Trade Way. For many years, the sword and the heros body were left at the bottom of a wishing well in the Western Heartland for many years. Eventually, the story of the hero became a popular ballad in the city of Daggerford, silly called Peredus the Great. The song mentioned the powerful magical Sword of Peredus making it a desirable treasure that attracted many adventurers over the course of passing years. Eventually, the swords location was discovered by Burnas Tellrot in 1372 DR. The halfling sent adventurers to retrieve it for them only to be devoured by a black dragon Sulfurus."
     }
 }

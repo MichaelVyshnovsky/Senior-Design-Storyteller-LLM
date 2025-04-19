@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "Chiang lung.png",
-        "caption": "A river dragon.",
-        "name": "Chiang Lung",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "",
-        "type3e": "[[Dragon]]",
-        "subtype3e": "[[:Category:Creatures with the spirit subtype|Spirit]], [[:Category:Creatures with the water subtype|water]]",
-        "alignment3e": "Usually [[lawful neutral]]",
-        "challenge3e": "{{CR table|edition=3e|Juvenile|9|Young adult|12|Adult|14|Mature adult|17|Old|19|Very old|20|Ancient|22|Wyrm|23|Great wyrm|25}}",
         "refs3e": "",
         "size2e": "Gargantuan",
         "alignment2e": "Lawful neutral",
@@ -31,12 +8,12 @@
         "alignment1e": "",
         "refs1e": "",
         "patron deity": "",
-        "vision": "[[Darkvision]], [[low-light vision]], [[Blindsight]]",
+        "vision": "Darkvision, low-light vision, Blindsight",
         "activecycle": "",
         "diet": "Omnivore",
         "lifespan": "",
-        "location": "[[Kara-Tur]]",
-        "language": "[[Draconic language|Draconic]], [[Spirit Tongue]], [[Celestial Court language|Celestial Court]]",
+        "location": "Kara-Tur",
+        "language": "Draconic, Spirit Tongue, Celestial Court",
         "subraces": "",
         "climate": "Warm, tropical, subtropical",
         "terrain": "Aquatic, lakes, rivers",
@@ -51,17 +28,8 @@
         "eyecolor": "",
         "build": "",
         "distinctions": "",
-        "based": "[[wikipedia:Qiulong|Qiulong]]",
+        "based": "Qiulong",
         "first": "",
-        "mainbody": "'''Chiang lungs''' ({{Pronounce|chee|ang|_|lung|refs=}}), also known as '''river dragons''', were wingless [[lung dragon]]s that inhabited bodies of water in [[Kara-Tur]].\n{{TOC limit}}",
-        "Description": "Chiang lungs were physically distinguished by their enormous size, up to 158 feet (48 meters) in length. Their scales were various shades of green or blue, with a yellow underside. They had long, white horns that grew from their heads, and adults had multi-colored beards. As they were polymorphs, they were frequently seen in [[human]] form only.",
-        "Biology": "Chiang lungs were omnivores. Their diet consisted of minerals, [[gem]]s, fish, [[sheep]], or other large mammals. Their lairs were usually frequented by lesser spirits, who acted as aides or bodyguards. At birth they could immediately breathe both water and air. Despite being wingless, they could fly thanks to magical blue pearls which were embedded in their brains.",
-        "Combat": "Chiang lung would avoid combat when possible, but were savage fighters nonetheless. In melee combat they used their claws, fangs and tails which inflicted severe damage to their opponents. When in human form, a chiang lung is armed with a massive sword.",
-        "Abilities": "[[File:Chiang lung 2e.jpg|thumb|''A chiang lung dragon coiling through the skies.'']]\nA chiang lung had several innate magical abilities, gaining more as they grew older. The dragon could ''[[polymorph self]]'' three times a day into any form it wished. They generated storm clouds at will, causing rain whenever desired. They could also lower the water level within a 1 square mile (1.6 square kilometer) radius, this range increased as they grew older. A creature in physical contact with the dragon was able to breath and move underwater with the same effects as the ''[[water breathing]]'' and ''[[freedom of movement]]'' spells.\n\nA mature chiang lung could use at will ''[[augury]]'', ''[[bane (spell)|bane]]'', ''[[bless]]'', ''[[control weather]]'', ''[[control winds]]'', ''[[curse]]'', ''[[dispel evil]]'', ''[[divination]]'', ''[[fate]]'', ''[[master of the rolling river]]'', ''[[omen]]'', and ''[[remove curse]]''. Three times per day a mature chiang lung could use ''[[polymorph self]]''. Once per day a mature chiang lung could use ''[[major creation]]'', ''[[reward]]'', and ''[[Tsunami]]''.",
-        "Society": {
-            "Homelands": "Outside of Kara-Tur, chiang lungs were known to occasionally be found in the forests of [[Hagga Shan]] and the [[Ama Basin]], as well as near the rivers of the [[Katakoro Plateau]]. In [[Faerûn]], chiang lungs could be found in [[Cormanthor]] in the [[River Ashaba]].<ref>",
-            "Celestial Bureaucracy": "Within the [[Celestial Bureaucracy]], chiang lungs served as guardians of lakes and rivers and bring rain. They worked for the Ministry of Thunder, which in turn answered to the [[Celestial Empire]]. The chiang lung were the lords and guardians of lakes and rivers; every such body of water was the jurisdiction of a single chiang lung, but they rarely showed themselves to humans outside their jurisdiction. They had the duties of making or bringing rain and managing water flows, and were responsible to the Bureaucracy for the denizens of the water within their jurisdictions. [[Shen lung]] were assigned to act as guards and assistants to chiang lung by the [[Celestial Bureaucracy]] and took this duty very seriously."
-        },
-        "Notable Chiang Lung": "[[File:Anyo.png|thumb|right|280px|''The chiang lung [[Anyo]] being met by a group of [[adventurer]]s in her cave.'']]\n* [[Anyo]], a loremaster of [[Wa]] living in a cave in the [[Jufosu Range]]."
+        "mainbody": "Chiang lungs (), also known as river dragons, were wingless lung dragons that inhabited bodies of water in Kara-Tur.\nChiang lungs were physically distinguished by their enormous size, up to 158 feet (48 meters) in length. Their scales were various shades of green or blue, with a yellow underside. They had long, white horns that grew from their heads, and adults had multi-colored beards. As they were polymorphs, they were frequently seen in human form only.\nChiang lungs were omnivores. Their diet consisted of minerals, gems, fish, sheep, or other large mammals. Their lairs were usually frequented by lesser spirits, who acted as aides or bodyguards. At birth they could immediately breathe both water and air. Despite being wingless, they could fly thanks to magical blue pearls which were embedded in their brains.\nChiang lung would avoid combat when possible, but were savage fighters nonetheless. In melee combat they used their claws, fangs and tails which inflicted severe damage to their opponents. When in human form, a chiang lung is armed with a massive sword. \nthumb|A chiang lung dragon coiling through the skies.\nA chiang lung had several innate magical abilities, gaining more as they grew older. The dragon could polymorph self three times a day into any form it wished. They generated storm clouds at will, causing rain whenever desired. They could also lower the water level within a 1 square mile (1.6 square kilometer) radius, this range increased as they grew older. A creature in physical contact with the dragon was able to breath and move underwater with the same effects as the water breathing and freedom of movement spells.\nA mature chiang lung could use at will augury, bane, bless, control weather, control winds, curse, dispel evil, divination, fate, master of the rolling river, omen, and remove curse. Three times per day a mature chiang lung could use polymorph self. Once per day a mature chiang lung could use major creation, reward, and Tsunami.\nOutside of Kara-Tur, chiang lungs were known to occasionally be found in the forests of Hagga Shan and the Ama Basin, as well as near the rivers of the Katakoro Plateau. In Faerûn, chiang lungs could be found in Cormanthor in the River Ashaba.\nWithin the Celestial Bureaucracy, chiang lungs served as guardians of lakes and rivers and bring rain. They worked for the Ministry of Thunder, which in turn answered to the Celestial Empire. The chiang lung were the lords and guardians of lakes and rivers every such body of water was the jurisdiction of a single chiang lung, but they rarely showed themselves to humans outside their jurisdiction. They had the duties of making or bringing rain and managing water flows, and were responsible to the Bureaucracy for the denizens of the water within their jurisdictions. Shen lung were assigned to act as guards and assistants to chiang lung by the Celestial Bureaucracy and took this duty very seriously.\nthumb|right|280px|The chiang lung Anyo being met by a group of adventurers in her cave.\n* Anyo, a loremaster of Wa living in a cave in the Jufosu Range."
     }
 }

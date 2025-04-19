@@ -1,24 +1,7 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Splitting",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Weapon quality]]",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "Moderate [[conjuration]] (creation)",
-        "casterlevel3e": "7{{th}}",
         "itemlevel3e": "",
-        "value3e": "9000 [[gp]]",
+        "value3e": "9000 gp",
         "weight3e": "",
         "refs3e": "",
         "level4e": "",
@@ -35,8 +18,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "The '''''splitting''''' quality was a [[weapon quality]] that could be added to [[weapon]]s that shot projectiles or to the projectiles themselves.",
-        "Description": "Weapons that had the ''splitting'' quality could be distinguished from those that did not have it by looking for V-shaped engravings on it.",
-        "Powers": "A projectile with the ''splitting'' quality or one shot from a weapon with the ''splitting'' quality would split into two. These split projectiles had exactly the same [[magic]]al qualities as the original except for the ''splitting'' quality, so they did not split even further, and both were as devastating as the ammunition before its splitting.\n\nTo craft weapons or ammunition with the ''splitting'' quality, the crafter not only required knowledge of how to create magical arms, but also actual natural training at shooting at close distance. The [[spell]] required for the casting was ''[[arrowsplit]]''."
+        "mainbody": "The splitting quality was a weapon quality that could be added to weapons that shot projectiles or to the projectiles themselves.\nWeapons that had the splitting quality could be distinguished from those that did not have it by looking for V-shaped engravings on it.\nA projectile with the splitting quality or one shot from a weapon with the splitting quality would split into two. These split projectiles had exactly the same magical qualities as the original except for the splitting quality, so they did not split even further, and both were as devastating as the ammunition before its splitting.\nTo craft weapons or ammunition with the splitting quality, the crafter not only required knowledge of how to create magical arms, but also actual natural training at shooting at close distance. The spell required for the casting was arrowsplit."
     }
 }

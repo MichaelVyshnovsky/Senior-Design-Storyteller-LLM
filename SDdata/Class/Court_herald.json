@@ -1,25 +1,5 @@
 {
-    "template_data": {
-        "image": "Court_Herald.jpg",
-        "caption": "A court herald making various sketches while spying on an adversary.",
-        "name": "Court Herald",
-        "region": "",
-        "alignment": "All",
-        "used-by": "Anyone who can speak at least three languages",
-        "levels": "11",
-        "source": "[[Power of Faerûn"
-    },
     "document_data": {
-        "image": "Court_Herald.jpg",
-        "caption": "A court herald making various sketches while spying on an adversary.",
-        "name": "Court Herald",
-        "region": "",
-        "alignment": "All",
-        "used-by": "Anyone who can speak at least three languages",
-        "levels": "11",
-        "source": "[[Power of Faerûn|PF]] (pg.109)",
-        "mainbody": "'''Court heralds''' were members of the [[Heralds of Faerûn]] who focused primarily on gaining knowledge. Their role was closely related to that of [[loremaster]]s.",
-        "Becoming a Herald": "Anyone who decided to become a court herald would be visited by two experienced heralds. These heralds presented these novices with several books containing general lore. After answering questions from the prospective heralds, they provided them with contacts, usually in the form of knowledgeable sages or [[Harpers]], then took their leave. The advanced heralds later checked up on the students, sometimes in secret, reporting on their progress to more learned heralds.",
-        "Abilities": "All court heralds were incredibly knowledgeable about the world around them, and were able to easily evaluate various tidbits of information. As such, they became very skilled in lore, in a similar manner to [[bard]]s. When court heralds became extremely experienced, they were able to evaluate [[magic]]al items, [[legend lore|recalling the items' legendary histories]] and even [[analyze dweomer|analyzing their dweomers]]."
+        "mainbody": "ourt heralds were members of the Heralds of Faerûn who focused primarily on gaining knowledge. Their role was closely related to that of loremasters.\nAnyone who decided to become a court herald would be visited by two experienced heralds. These heralds presented these novices with several books containing general lore. After answering questions from the prospective heralds, they provided them with contacts, usually in the form of knowledgeable sages or Harpers, then took their leave. The advanced heralds later checked up on the students, sometimes in secret, reporting on their progress to more learned heralds.\nAll court heralds were incredibly knowledgeable about the world around them, and were able to easily evaluate various tidbits of information. As such, they became very skilled in lore, in a similar manner to bards. When court heralds became extremely experienced, they were able to evaluate magical items, recalling the items legendary histories and even analyzing their dweomers."
     }
 }

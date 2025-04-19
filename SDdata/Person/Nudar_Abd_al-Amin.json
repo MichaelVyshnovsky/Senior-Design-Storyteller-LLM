@@ -1,42 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Nudar Abd al-Amin",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Hiyal]], [[Cities of the Heart]]",
-        "formerhomes": "",
-        "sex": "Female",
-        "race": "[[Half-elf]]",
-        "ethnicity": "",
-        "occupation": "Platoon Commander",
-        "age": "",
-        "patron deity": "",
-        "languages": "[[Midani language|Midani]]",
-        "reckoning": "DR",
-        "dob": "",
-        "dobnotes": "",
-        "turned": "",
-        "turnednotes": "",
-        "death": "",
-        "deathnotes": "",
-        "destroyed": "",
-        "destroyednotes": "",
-        "alignment": "",
-        "class": "",
-        "rules": "",
-        "alignment1e": "",
-        "class1e": "",
-        "refs1e": "",
-        "alignment2e": "",
-        "class2e": "{{class table|edition=2e|[[Fighter]] ([[Mamluk]])|4}}",
         "refs2e": "",
         "alignment3e": "",
         "class3e": "",
@@ -49,8 +12,6 @@
         "refs4e": "",
         "alignment5e": "",
         "class5e": "",
-        "mainbody": "refs5e         =\n}}\n'''Nudar Abd al-Amin''' was a platoon commander from [[Hiyal]] in [[Zakhara]] in [[1367 DR]].{{AQ-time}}",
-        "Personality": "Nudar was easy going and well-liked.",
-        "Activities": "She commanded a platoon within the [[mamluk]]s of the [[Faithful Mamluk Society|Faithful]], often protecting caravans travelling from Hiyal to [[Qudra]]."
+        "mainbody": "| refs5e         =\nNudar Abd al-Amin was a platoon commander from Hiyal in Zakhara in 1367 DR.\nNudar was easy going and well-liked.\nShe commanded a platoon within the mamluks of the Faithful, often protecting caravans travelling from Hiyal to Qudra."
     }
 }

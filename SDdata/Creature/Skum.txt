@@ -1,46 +1,4 @@
-{{Creature
-| image        = 
-<gallery>
-Skum5e.PNG|5e
-Skum3e.jpg|3e
-Skum2e.jpg|2e
-</gallery>
-| caption      = 
-| name         = Skum
-| othernames   = 
-| size5e       = Medium
-| type5e       = [[Aberration]]
-| subtype5e    = 
-| alignment5e  = [[Lawful evil]]
-| challenge5e  = 5
-| refs5e       = 
-| size4e       = 
-| origin4e     = 
-| type4e       = 
-| subtype4e    = 
-| alignment4e  = 
-| refs4e       = 
-| size3e       = Medium
-| type3e       = [[Aberration]]
-| subtype3e    = Aquatic
-| alignment3e  = Usually [[lawful evil]]
-| challenge3e  = 2
-| refs3e       = 
-| size2e       = Medium
-| alignment2e  = [[Lawful evil]]
-| refs2e       = 
-| size1e       = 
-| alignment1e  = 
-| refs1e       = 
-| patron deity = 
-| movement     = Swimming
-| vision       = [[Darkvision]]
-| activecycle  = Night
-| diet         = Omnivorous
-| lifespan     = 
-| location     = 
-| intelligence = {{Int|10}}
-| language     = [[Aquan]]
+| language     = Aquan
 | climate      = Tropical, temperate
 | terrain      = Underground
 | genrefs      = 
@@ -55,14 +13,5 @@ Skum2e.jpg|2e
 | first        = 
 | based        = 
 | histrefs     = 
-}}
-'''Skum''' ({{SingPl|refs=
-
-==Description==
+Skum (SingPl|refs=
 Skum resembled horrific hybrids of humans and fish, and were similar in height and weight to the former. They had a spiny frill on the back, bulbous eyes, and a tail.
-
-<!--==Abilities==
-==Behavior==
-==Combat==
-==Society==
-==History==-->

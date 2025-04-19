@@ -1,29 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Gaze Screen",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Abjuration]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Cleric]]|2|[[Druid]]|2|[[Sorcerer]]|2|[[Wizard]]|2|}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -37,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Gaze screen''''' was a spell that provided a defence against certain spells.",
-        "Effects": "This spell protected a targeted creature from effects and spells that relied on eye contact. When cast, a shimmering area appeared before the creatures eyes. This mirror-like area followed the creature and did not effect vision. However, ''gaze screen'' only provided protection about 50% of the time.",
-        "Components": "This spell required [[Verbal component|verbal]] and [[somatic component|somatic]] components."
+        "mainbody": "Gaze screen was a spell that provided a defence against certain spells. \nThis spell protected a targeted creature from effects and spells that relied on eye contact. When cast, a shimmering area appeared before the creatures eyes. This mirror-like area followed the creature and did not effect vision. However, gaze screen only provided protection about 50% of the time. \nThis spell required verbal and somatic components."
     }
 }

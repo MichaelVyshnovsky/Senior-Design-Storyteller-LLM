@@ -1,29 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Faith Healing Wand",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Cleric]]|3|}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -37,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Faith healing wand''''' was a spell used by [[cleric]]s.",
-        "Effects": "This spell was identical to ''[[convert wand]]'' with one key difference. When cast, this spell turned any [[wand]] into a ''[[wand of faith healing]]''.",
-        "Components": "This spell required [[Verbal component|verbal]] and [[somatic component|somatic]] components."
+        "mainbody": "Faith healing wand was a spell used by clerics.\nThis spell was identical to convert wand with one key difference. When cast, this spell turned any wand into a wand of faith healing.\nThis spell required verbal and somatic components."
     }
 }

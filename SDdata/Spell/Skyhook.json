@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Skyhook",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]]",
-        "spheres2e": "",
-        "level2e": "{{Spell table|edition=2e|[[Wizard]]|2}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Skyhook''''' was a [[spell]] that created a hook of force.",
-        "Effects": "The spell created a hook of force. This hook appeared in a designated space within 60 feet (18 meters) and remained there, even in midair without being attached to anything.\n\nThe hook's size was not one that allowed standing on it, but it was big enough to serve as a purchase for cables or hands.\n\nThe hook was virtually indestructible. No amount of physical force could destroy it. However, a few ways to destroy it existed. First, one could simply wait until the duration ended. Second, it could be ''[[dispel magic|dispelled]]'', but this method was not always accompanied by success. Third, a ''[[limited wish]]'' was a sure-fire way to destroy a ''skyhook''. Fourth, the caster could mentally cause the spell to end.",
-        "Components": "''Skyhook'' required somatic, verbal, and material components. The material one was a metal hook. A miniature fishhook was ideal. However, any piece of metal that was bent into a hook shape was enough.",
-        "History": "The spell was known by [[drow]], [[dwarf|dwarven]], and [[human]] miners and warriors. ''Skyhook'' was used for movement, like providing help in climbing, temporary support for bridging chasms, or scaling walls."
+        "mainbody": "Skyhook was a spell that created a hook of force.\nThe spell created a hook of force. This hook appeared in a designated space within 60 feet (18 meters) and remained there, even in midair without being attached to anything.\nThe hooks size was not one that allowed standing on it, but it was big enough to serve as a purchase for cables or hands.\nThe hook was virtually indestructible. No amount of physical force could destroy it. However, a few ways to destroy it existed. First, one could simply wait until the duration ended. Second, it could be dispelled, but this method was not always accompanied by success. Third, a limited wish was a sure-fire way to destroy a skyhook. Fourth, the caster could mentally cause the spell to end.\nSkyhook required somatic, verbal, and material components. The material one was a metal hook. A miniature fishhook was ideal. However, any piece of metal that was bent into a hook shape was enough.\nThe spell was known by drow, dwarven, and human miners and warriors. Skyhook was used for movement, like providing help in climbing, temporary support for bridging chasms, or scaling walls."
     }
 }

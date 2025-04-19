@@ -1,25 +1,7 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "variant": "channel divinity"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Emissary of Peace",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "[[Oath of Redemption|Redemption]]",
-        "patrons5e": "",
-        "traditions5e": "",
-        "level5e": "{{Spell table|edition=5e|variant=channel divinity|[[Paladin]]|3|[[Oath of Redemption|Redemption]]|3}}",
         "type5e": "Channel Divinity",
         "refs5e": "",
-        "mainbody": "'''''Emissary of Peace''''' was a gift to [[paladin]]s that took the [[Oath of Redemption]].",
-        "Effects": "When invoked, the caster became very persuasive for ten minutes."
+        "mainbody": "Emissary of Peace was a gift to paladins that took the Oath of Redemption.\nWhen invoked, the caster became very persuasive for ten minutes."
     }
 }

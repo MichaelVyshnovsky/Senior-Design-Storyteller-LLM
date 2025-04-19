@@ -1,22 +1,5 @@
 {
     "document_data": {
-        "image": "Imbrar Heltharn.jpg",
-        "caption": "Imbrar I with the Greatsword of Impiltur, a doomstrike weapon.",
-        "name": "''Doomstrike''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Weapon property",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "Faint [[evocation]]",
-        "casterlevel3e": "5{{th}}",
         "itemlevel3e": "",
         "value3e": "+1",
         "weight3e": "",
@@ -35,10 +18,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''''Doomstrike''''' was an [[item enchantment]] that could be applied to a [[weapon]].",
-        "Description": "Frequently, ''doomstrike weapons'' were decorated with artful, yet sinister, decoration. However, what they all had in common was a coating of blue-black frost or rime on the blade or head of the weapon.",
-        "Powers": "Warriors who valued strength, like the [[drow]] who learned the ''[[z'ress a'thalak]]''-style,{{Cite web/Drow Fighting Styles}} learned how to cleave through their enemies to attack another enemy after felling one and also how to sunder weapons and other objects in effective fashion. Normally, it was impossible for a warrior to combine these feats of strength. However, a ''doomstrike weapon'' made it possible. A skillful warrior, who mastered the art of destroying their enemies' weapons, could continue to cleave into the enemy after destroying the enemy's weapon.",
-        "Creation": "This property could be added by a caster who was trained in the creation of [[magic]]al arms and armors, knew how to cast ''[[shatter]]'', and was capable of doing the aforementioned physical feat of cleaving into a second enemy after felling the first.",
-        "Notable Owners": "* [[Imbrar I]], the second king of the [[Heltharn Dynasty]], owned the ''[[Greatsword of Impiltur]]'', which had the ''doomstrike'' property."
+        "mainbody": "Doomstrike was an item enchantment that could be applied to a weapon.\nFrequently, doomstrike weapons were decorated with artful, yet sinister, decoration. However, what they all had in common was a coating of blue-black frost or rime on the blade or head of the weapon.\nWarriors who valued strength, like the drow who learned the zress athalak-style, learned how to cleave through their enemies to attack another enemy after felling one and also how to sunder weapons and other objects in effective fashion. Normally, it was impossible for a warrior to combine these feats of strength. However, a doomstrike weapon made it possible. A skillful warrior, who mastered the art of destroying their enemies weapons, could continue to cleave into the enemy after destroying the enemys weapon.\nThis property could be added by a caster who was trained in the creation of magical arms and armors, knew how to cast shatter, and was capable of doing the aforementioned physical feat of cleaving into a second enemy after felling the first.\n* Imbrar I, the second king of the Heltharn Dynasty, owned the Greatsword of Impiltur, which had the doomstrike property."
     }
 }

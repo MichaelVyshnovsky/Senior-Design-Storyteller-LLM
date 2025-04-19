@@ -1,44 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Takkee",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Skullport]], [[Undermountain]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "race": "[[Human]]",
-        "ethnicity": "",
-        "occupation": "Fisherman, smuggler",
-        "age": "",
-        "patron deity": "",
-        "languages": "",
-        "reckoning": "DR",
-        "dob": "",
-        "dobnotes": "",
-        "turned": "",
-        "turnednotes": "",
-        "death": "",
-        "deathnotes": "",
-        "destroyed": "",
-        "destroyednotes": "",
-        "parents": "",
-        "spouses": "",
-        "siblings": "",
-        "children": "",
-        "familyrefs": "",
-        "alignment1e": "",
-        "class1e": "",
-        "refs1e": "",
-        "alignment2e": "[[Neutral]]",
-        "class2e": "{{class table|edition=2e|[[Thief]]|2}}",
         "refs2e": "",
         "alignment3e": "",
         "class3e": "",
@@ -52,7 +13,6 @@
         "alignment5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Takkee''' was an incompetent fisherman and smuggler in [[Skullport]]. He was the owner of [[Fourwinds Shipping]].",
-        "History": "Around [[1370 DR]], Takkee survived largely thanks to the generosity of his customers."
+        "mainbody": "Takkee was an incompetent fisherman and smuggler in Skullport. He was the owner of Fourwinds Shipping.\nAround 1370 DR, Takkee survived largely thanks to the generosity of his customers."
     }
 }

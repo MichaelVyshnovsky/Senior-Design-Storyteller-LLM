@@ -1,35 +1,8 @@
 {
-    "template_data": {
-        "25|30|ft|long": "yes"
-    },
     "document_data": {
-        "image": "TunnelWorm-1e.png",
-        "caption": "",
-        "name": "Tunnel Worm",
-        "othernames": "",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "",
-        "type3e": "",
-        "subtype3e": "",
-        "alignment3e": "",
-        "challenge3e": "",
-        "refs3e": "",
-        "size2e": "Gargantuan",
-        "alignment2e": "[[Neutral]]{{Nil-alignment}}",
-        "refs2e": "{{Cite dragon/155/Sage Advice|86}}",
+        "refs2e": "",
         "size1e": "Large",
-        "alignment1e": "[[Neutral]]",
+        "alignment1e": "Neutral",
         "refs1e": "",
         "patron deity": "",
         "movement": "",
@@ -44,7 +17,7 @@
         "terrain": "Underground",
         "genrefs": "",
         "height": "",
-        "length": "{{SIrange|25|30|ft}}",
+        "length": "",
         "wingspan": "",
         "weight": "",
         "skincolor": "",
@@ -58,16 +31,6 @@
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Tunnel worms''' were a rare species of insect related to [[giant centipede]]s.",
-        "Description": "On average the body of a tunnel worm grew to be around {{SIrange|25|30|ft|long=yes}} in length. Their burrows were {{SI|2|ft}} in diameter.",
-        "Behavior": "These creatures had rather aggressive demeanors.",
-        "Combat": "Tunnel worms typically hid near the hidden entrance to their burrows, waiting for prey to pass. Whenever one did, the creature would lunge out from their hidden burrow and seize prey in their mandibles.\n\n[[File:TunnelWorm-MC.png|thumb|260x260px|''A tunnel worm crawls out of a brick wall.'']]",
-        "History": "In [[1357 DR]], tunnel worms could occasionally be found in the sewers beneath [[Waterdeep]].",
-        "Ecology": {
-            "Diet": "Tunnel worms were a carnivorous species of predators and scavengers, who largely fed upon carrion and dragged corpses back to their lairs.",
-            "Habitats": "These creatures were typically found inhabiting subterranean areas, such as caves and dungeons, where they lived in burrows which honeycombed the walls. Their lairs often had treasure within them from previous victims.\n\nBeyond [[Toril]], tunnel worms (or creatures that were nearly indistinguishable from them) could be found on the planet of [[Armistice]].",
-            "Usages": "Stew made from tunnel worms was an exotic dish in the city of [[Menzoberranzan]]."
-        },
-        "Rumors & Legends": "The planet of Armistice was rumored to be home to an aquatic offshoot of tunnel worms, which grew to twice the size of their terrestrial counterparts."
+        "mainbody": "Tunnel worms were a rare species of insect related to giant centipedes.\nOn average the body of a tunnel worm grew to be around  in length. Their burrows were  in diameter.\nThese creatures had rather aggressive demeanors.\nTunnel worms typically hid near the hidden entrance to their burrows, waiting for prey to pass. Whenever one did, the creature would lunge out from their hidden burrow and seize prey in their mandibles.\nthumb|260x260px|A tunnel worm crawls out of a brick wall.\nIn 1357 DR, tunnel worms could occasionally be found in the sewers beneath Waterdeep.\nThese creatures laid their eggs on corpses.\nTunnel worms were a carnivorous species of predators and scavengers, who largely fed upon carrion and dragged corpses back to their lairs.\nThese creatures were typically found inhabiting subterranean areas, such as caves and dungeons, where they lived in burrows which honeycombed the walls. Their lairs often had treasure within them from previous victims.\nBeyond Toril, tunnel worms (or creatures that were nearly indistinguishable from them) could be found on the planet of Armistice.\nStew made from tunnel worms was an exotic dish in the city of Menzoberranzan.\nThe planet of Armistice was rumored to be home to an aquatic offshoot of tunnel worms, which grew to twice the size of their terrestrial counterparts."
     }
 }

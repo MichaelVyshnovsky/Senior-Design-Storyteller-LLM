@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "3|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "[[File:Blacksoul sickle.jpg]]",
-        "caption": "",
-        "name": "''Blacksoul Sickle''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Sickle]]",
-        "location": "[[Neverwinter]], [[Sword Coast]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+1; +6",
-        "value3e": "",
-        "weight3e": "{{SI|3|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Blacksoul sickles''''' were sinister magical [[sickle]]s that possessed a vampiric enchantment.",
-        "Powers": "''Blacksoul sickles'' radiated evil magic and possessed a ''+1'' or ''+6'' enchantments and gave the wielder ''vampiric regeneration''.",
-        "History": "Even though the creator of ''Blacksoul sickles'' was unknown, there weapons were surrounded by stories and rumors of evil rituals under the cover of night. Unlike the usual sickle, these sinister items were never associated with [[druid]]s or any creatures of [[neutral]] alignment.\n\nIn [[1372 DR]], a ''Blacksoul sickle'' was in possession of a group of evil druids worshiping [[Malar]] who had a lair in the [[Lonely Barrens]] area outside of [[Daggerford]]."
+        "mainbody": "Blacksoul sickles were sinister magical sickles that possessed a vampiric enchantment.\nBlacksoul sickles radiated evil magic and possessed a +1 or +6 enchantments and gave the wielder vampiric regeneration.\nEven though the creator of Blacksoul sickles was unknown, there weapons were surrounded by stories and rumors of evil rituals under the cover of night. Unlike the usual sickle, these sinister items were never associated with druids or any creatures of neutral alignment.\nIn 1372 DR, a Blacksoul sickle was in possession of a group of evil druids worshiping Malar who had a lair in the Lonely Barrens area outside of Daggerford."
     }
 }

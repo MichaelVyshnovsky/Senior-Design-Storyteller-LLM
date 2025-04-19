@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Storm's Spell Thrust",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "[[Storm Silverhand]]",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Enchantment]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|5}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Storm's spell thrust''''' was an [[enchantment]] [[wizard]] [[spell]] created by [[Storm Silverhand]].",
-        "Effects": "This spell protected the caster from up to two hostile spells targeted at them at a time by rebounding the spells back to their source. Each casting of ''spell thrust'' granted the caster this protection for two consecutive minutes. This rebounding was automatic so the caster was still protected even if unaware of the attack.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, this spell required as a [[material component]] a small curved piece of glass or metal to cast."
+        "mainbody": "Storms spell thrust was an enchantment wizard spell created by Storm Silverhand.\nThis spell protected the caster from up to two hostile spells targeted at them at a time by rebounding the spells back to their source. Each casting of spell thrust granted the caster this protection for two consecutive minutes. This rebounding was automatic so the caster was still protected even if unaware of the attack.\nIn addition to verbal and somatic components, this spell required as a material component a small curved piece of glass or metal to cast."
     }
 }

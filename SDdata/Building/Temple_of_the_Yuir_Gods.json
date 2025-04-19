@@ -1,20 +1,12 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Temple of the Yuir Gods",
-        "aliases": "",
-        "type": "Temple",
-        "architecture": "",
-        "floors": "",
-        "location": "[[Feywild]]<br />{{Former}} [[Yuirwood]], [[Aglarond]]",
         "built": "",
         "destroyed": "",
         "owner": "",
         "staff": "",
-        "occupants": "{{Former}} [[Star elves]]",
+        "occupants": "Star elves",
         "services": "Place of worship",
-        "worship": "[[Yuir pantheon]]",
+        "worship": "Yuir pantheon",
         "basicrefs": "",
         "ownertable": "",
         "stafftable": "",
@@ -34,15 +26,6 @@
         "inhabitants": "yes",
         "locations": "",
         "organizations": "",
-        "mainbody": "The '''Temple of the Yuir Gods''' was an ancient temple found in the [[Yuirwood]] that was transported away from the [[Prime Material plane]] to the [[Feywild]].{{Cite organized play/LFR/Lost Temple of the Fey Gods|4}} It was a place of worship dedicated to the [[Yuir pantheon]].",
-        "Structure": "The temple was formed out of group of trees that stood upon a hill in the Yuirwood.",
-        "Interior": {
-            "Atmosphere": "Motes of light floated throughout the temple, providing ample illumination within.{{Cite organized play/LFR/Lost Temple of the Fey Gods|17}}"
-        },
-        "Activities": "The [[star elves]] of the Yuirwood used the temple as a place of worship, but also as the holy site within which they could inter their dead.",
-        "History": "Some time ''circa'' the {{YearlinkName|1479}},{{4e-time}} the [[cult of Voldini]] uncovered the ancient [[fey]] document, the ''[[Tome of Twilight Boughs]]'', which outlined a ritual that could bring back the temple to Toril. They had the ultimate goal of returning the Yuir pantheon to prominence in the Realms.\n\nThe cultists led by [[Berrain Truescourge]] ultimately proved successful in their efforts, and completed the ritual,{{Cite organized play/LFR/Lost Temple of the Fey Gods|13}} inadvertently corrupting nearby fey, such as [[pixie]]s and [[dryad]]s, in the Yuirwood.{{Cite organized play/LFR/Lost Temple of the Fey Gods|8}}\n\nThe same night the temple returned, a group of [[adventurer]]s returned the temple to the Feywild and protected the fey of the Yuirwood from utter corruption. They accomplished this feat by implanting a crystal imbued life force of a noble fey that sacrificed their life, within the temple's thrice-twined tree.{{Cite organized play/LFR/Lost Temple of the Fey Gods|22-23}}",
-        "Inhabitants": {
-            "Notable Inhabitants": "* [[Nimiwi]], a dryad who was seperated from her tree when the temple transported to the Feywild."
-        }
+        "mainbody": "The Temple of the Yuir Gods was an ancient temple found in the Yuirwood that was transported away from the Prime Material plane to the Feywild. It was a place of worship dedicated to the Yuir pantheon.\nThe temple was formed out of group of trees that stood upon a hill in the Yuirwood.\nThe entrance hall of the temple was adorned with four, uniquely crafted, statues of the old Yuir gods Elikarashae, Magnar the Bear, Zandilar the Dancer, and Relkath of the Infinite Branches. These statues appeared not be crafted from stone or metal, but rather grown upward from the temples floor.\nJust beyond the entranceway was the temples ossuary. Within the heart of the temple was the thrice-twined tree.\nMotes of light floated throughout the temple, providing ample illumination within.\nThe star elves of the Yuirwood used the temple as a place of worship, but also as the holy site within which they could inter their dead.\nSome time circa the , the cult of Voldini uncovered the ancient fey document, the Tome of Twilight Boughs, which outlined a ritual that could bring back the temple to Toril. They had the ultimate goal of returning the Yuir pantheon to prominence in the Realms.\nThe cultists led by Berrain Truescourge ultimately proved successful in their efforts, and completed the ritual, inadvertently corrupting nearby fey, such as pixies and dryads, in the Yuirwood.\nThe same night the temple returned, a group of adventurers returned the temple to the Feywild and protected the fey of the Yuirwood from utter corruption. They accomplished this feat by implanting a crystal imbued life force of a noble fey that sacrificed their life, within the temples thrice-twined tree.\n* Nimiwi, a dryad who was seperated from her tree when the temple transported to the Feywild."
     }
 }

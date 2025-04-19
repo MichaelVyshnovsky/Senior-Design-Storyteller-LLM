@@ -1,50 +1,24 @@
-{{Spell
-| image         =Dancing lights spell.webp 
-| caption       = 
-| name          = Dancing Lights
-| deity         = 
-| inventor      = [[Brightfinger]]
-| type          = 
-| school5e      = [[Evocation]]
-| domains5e     = 
-| circles5e     = 
-| oaths5e       = 
-| patrons5e     = 
-| traditions5e  = 
-| level5e       = {{spell table|edition=5e|variant=cantrip|[[Artificer]]|0|[[Bard]]|0|[[Sorcerer]]|0|[[Wizard]]|0}}
-| type5e        = [[Cantrip]]
+| type5e        = Cantrip
 | refs5e        = 
-| school3e      = [[Evocation]]
-| descriptors3e = {{desc/light}}
-| level3e       = {{spell table|edition=3e|[[Bard]]|0|[[Sorcerer]]|0|[[Wizard]]|0|[[Wu jen]]|0}}
+| school3e      = Evocation
+| descriptors3e = 
+| level3e       = 
 | refs3e        = 
 | reversible2e  = 
-| school2e      = [[Alteration]], [[Elemental fire school|Fire]], [[Flame (province)|Flame]]<br/>[[Variation]]
+| school2e      = Alteration, Fire, FlameVariation
 | spheres2e     = 
-| level2e       = {{Spell table|edition=2e|[[Arcanist]]|1|[[Wizard]]|1}}
+| level2e       = 
 | type2e        = 
-| refs2e        = <ref><ref>
+| refs2e        = 
 | reversible1e  = 
-| school1e      = [[Alteration]]
-| level1e       = {{Spell table|edition=1e|[[Illusionist]]|1|[[Magic-user]]|1|[[Witch doctor]]|1}}
+| school1e      = Alteration
+| level1e       = 
 | type1e        = 
-| refs1e        = <ref>
-}}
-'''''Dancing lights''''' was an [[evocation]] or [[alteration]] [[spell]] that produced levitating lights that could move at the caster's direction.
-
-==Effects==
-All versions of this spell produced up to four floating lights that could be made to appear as [[torch]]es, lanterns, or as orbs vaguely resembling [[will-o'-wisp]]s. They could also be combined into a roughly man-sized glowing humanoid shape reminiscent of a being from the [[Elemental Plane of Fire]]. The lights were fairly dim, casting as much light as a regular torch.
-
-The oldest versions of this spell had a minimum range of {{SI|150|ft|long=yes}} and a minimum duration of two minutes, both of which could be extended by casters of higher level. The separate lights could move independently and, once set in motion, did not require concentration by the caster. A newer version had a minimum range of {{SI|100|ft|long=yes}} and a duration of one minute. The lights had to remain within a {{SI|10|ft|long=yes}} radius sphere. After the [[Second Sundering]], this spell had a fixed range of {{SI|120|ft|long=yes}}, one minute duration, required caster concentration, and each light had to remain within {{SI|20|ft|long=yes}} of one of its siblings.
-
-All versions of ''dancing lights'' winked out if they exceeded the range of the spell. This spell could be made permanent using the ''[[permanency]]'' spell.
-
-==Drow==
-[[Drow]] elves could cast this spell once a day as a spell-like ability. Some drow also learned to combine this power with their other abilities of ''[[darkness]]'' and ''[[faerie fire]]'' to produce even stranger effects.
-
-==Components==
-All versions of this spell required [[verbal component|verbal]] and [[somatic component]]s. ''[[Dancing lights]]''' somatic component was a finger pointed in front of the caster and twirled in a circular motion while reciting the spell's quick arcane phrase. One version did not require any [[material component]],{{Cite dragon/147/Variety the Spice of Magic|24}}
-
-==History==
-The spell was attributed to [[Netherese arcanist]] [[Brightfinger]] in {{Yearlink|-1647}} and was originally called ''Brightfinger's dancers''.
-
+| refs1e        = 
+Dancing lights was an evocation or alteration spell that produced levitating lights that could move at the casters direction.
+All versions of this spell produced up to four floating lights that could be made to appear as torches, lanterns, or as orbs vaguely resembling will-o-wisps. They could also be combined into a roughly man-sized glowing humanoid shape reminiscent of a being from the Elemental Plane of Fire. The lights were fairly dim, casting as much light as a regular torch.
+The oldest versions of this spell had a minimum range of  and a minimum duration of two minutes, both of which could be extended by casters of higher level. The separate lights could move independently and, once set in motion, did not require concentration by the caster. A newer version had a minimum range of  and a duration of one minute. The lights had to remain within a  radius sphere. After the Second Sundering, this spell had a fixed range of , one minute duration, required caster concentration, and each light had to remain within  of one of its siblings.
+All versions of dancing lights winked out if they exceeded the range of the spell. This spell could be made permanent using the permanency spell.
+Drow elves could cast this spell once a day as a spell-like ability. Some drow also learned to combine this power with their other abilities of darkness and faerie fire to produce even stranger effects.
+All versions of this spell required verbal and somatic components. Dancing lights somatic component was a finger pointed in front of the caster and twirled in a circular motion while reciting the spells quick arcane phrase. One version did not require any material component,
+The spell was attributed to Netherese arcanist Brightfinger in  and was originally called Brightfingers dancers.

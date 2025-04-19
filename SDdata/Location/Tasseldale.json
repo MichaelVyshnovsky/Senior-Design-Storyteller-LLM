@@ -1,43 +1,6 @@
 {
     "document_data": {
-        "type": "",
-        "name": "Tasseldale",
-        "image": "[[File:DunHills-Tasseldale.png]]",
-        "caption": "Map of Tasseldale. Click to enlarge.",
-        "aliases": "",
-        "capital": "[[Tegal's Mark]]",
-        "area": "[[Dalelands]], [[North Faerûn]]",
-        "size": "",
-        "georefs": "",
-        "demonym": "Tassadran",
-        "start event": "Humans settle in Tasseldale",
-        "start date": "[[980 DR]]",
-        "event1": "Joind under the united rule of [[Aencar Burlisk]]",
-        "date1": "[[1038 DR]]",
-        "event2": "Forcefully seized by [[Sembia]]",
-        "date2": "[[1420 DR]]",
-        "event3": "",
-        "date3": "",
-        "event4": "",
-        "date4": "",
-        "end event": "",
-        "end date": "",
-        "ruler1": "[[Elizzaria Whitehand]]",
-        "ruleryear1": "1367",
-        "ruler2": "[[Erich Inshiland]]",
-        "ruleryear2": "1479",
-        "ruler3": "",
-        "ruleryear3": "",
-        "ruler4": "",
-        "ruleryear4": "",
-        "ruler5": "",
-        "ruleryear5": "",
-        "rulertype": "",
-        "government": "Republic",
-        "govref": "",
-        "languages": "",
-        "races": "{{percentage table|[[Human]]s|94|[[Halflings]]|2|[[Gnomes]]|2|[[Half-elf|Half-elves]]|1|Other|1|}}",
-        "religion": "[[Tyr]]",
+        "religion": "Tyr",
         "currency": "",
         "reckoning": "",
         "population1": "",
@@ -48,7 +11,7 @@
         "popyear3": "1479",
         "imports": "Gold, jewels, silver, tin",
         "exports": "Fine manufactured goods, pottery, textiles",
-        "alignment": "{{alignment grid|on|off|off|on|on|off|off|off|off}}",
+        "alignment": "",
         "allegiances": "Sembia after 1420 DR",
         "usethe": "",
         "useon": "",
@@ -56,18 +19,6 @@
         "locations": "yes",
         "organizations": "yes",
         "settlements": "yes",
-        "mainbody": "'''Tasseldale''', one of lands' ''trading dales'', was among the wealthiest within the [[Dalelands]], having always been heavily influenced by the nation of [[Sembia]]. The land was comprised of twelve towns, or ''tassels'', that accommodated about half of their population and served as the center of their society.\n\nThey were one of the southern-most located dales, and conveyed a large amount of the regions traffic along the [[East Way]] and [[Rauthauvyr's Road]], which together connected [[Cormyr]] to [[Hillsfar]]. Many other small roads criss-crossed around the [[Tasselway]], the prominent trail that ran the length of the dale.",
-        "Culture": {
-            "Trade": "The general economic dynamic of the Dalelands was each dale would produce locally-cultivated food products or harvest natural resources like timber or [[iron]] and trade them for the finished goods needed for everyday life. The opposite was true in Tasseldale. While they housed enough craftspeople to suit the needs of their populace, with enough still to export and profit, they lacked the raw materials that were so abundant in the other dales.\n\nDue to their high economic demand, Tasseldale was extremely dependent upon Sembia for success. It wasn't a one-way boon for the nation, as Tasseldale offered a quaint getaway for travel, far enough to escape the urban lifestyle of [[Selgaunt]] or [[Ordulin]] but still quite close. Despite the fears of annexation held by many Tassadran in the 14{{th}} century, the dale was considered by Sembia to be much more profitable as a neighbor, than another district. This outlook proved temporary as time went on.\n\nThe dale was home to a number of branches of large Sembian trading costers including the [[Red Wyvern Company]] and the [[Sheathed Dagger Coster]], but had their own smaller competitors like the [[Tasselway Coster]] of [[Glaun]]."
-        },
-        "Government": "Tasseldale was ruled by the [[Grand Mairshar]], whose broad powers included law enforcement, handling foreign relations and, with consult of the [[Tassel Elders]], writing laws and executing military action. Grand Mairshars appointed their successor upon retirement, pending approval of the elders. \n\nThe [[Mairshar]] themselves served as the dale's constables, adjudicators and soldiers. From all the volunteers candidates, only a select few passed the months of assessment and years service as a cadet. In addition to their martial prowess, the Mairshar were selected for their even-tempered disposition and tempered judgement.\n\nTo supplement this elite force, Tasseldale maintained an extensive militia of Tassadran that, when assembled, would fall under the command of a Mairshar.",
-        "History": "After  [[Moondale]] was founded in [[700 DR]], the forests of region receded and more dalesfolk settled in the area that would become Tasseldale around [[980 DR]]. \n\nAfter [[Aencar Burlisk]] declared himself ''King of the Dales'', Tasseldale willfully joined alongside [[Battledale]] and [[Shadowdale]] under his rule. He was beloved to the Tassadran and they saw his authority as rightfully earned.\n  \nFollowing the murder of some Tassadran hunters within the Arch Wood in [[1368]], the rivalry between the loggers of Tasseldale and Archendale turned violent with the development of the game known as ''[[Woodsmen's War]]''. This game was little more than outright violent fisticuffs between the hunters, soldiers and rowdy youth of the two dales.\n\nDespite the mutually-beneficial relationship enjoyed by both Tasseldale and Sembia throughout the 1400's Grand Mairshar [[Erich Inshiland]] resisted the assault, but were ultimately defeated by Sembian forces.",
-        "Geographical features": {
-            "[[Dun Hills]]": ":These mounds seperated the dale from [[Battledale]] to the north and [[Deepingdale]] to the west. It was populated by teams of wild [[ponies]].",
-            "[[Glaun Bog]]": ":A dark marshland that was abundant in [[coal]], [[iron]] and home to many dangers including [[quicksand]], carnivorous plants and [[will-o'-wisp]]s."
-        },
-        "Notable locations": {
-            "Tassels": "* [[Archtassel]]: This smaller tassel rested near the [[Arch Wood]], south of the [[East Way]]. It was home to many loggers, woodworkers, and trappers who all earned their living from the forest. They maintained an intense rivalry with the loggers of [[Archendale]].\n\n* [[Arrowmark]]: A small and exceptionally quiet hamlet that was renowned for its skilled fletchers and bow-makers.\n\n* [[Glaun]]: Built into the [[Dun Hills]], this smoke-covered, iron-working town smelted the ore gathered from the nearby [[Glaun Bog]]. In the past they were assaulted by [[peryton]]s and [[wyvern]]s, and the fringes of their cottages were sporadically harassed by [[troll]]s and [[goblinoid]]s.\n\n* [[Halfcrag]]: A small, easily-defensible village that rested atop a mesa isolated from the Dun Hills. They were once the largest farming settlement in all the dales.\n\n* [[Moontassel]]: Located nearest the former-dale of [[Moondale]], this sprawling town was full of lively street vendors, frivolous entertainment and other attractions for tourists visiting from Sembia.\n\n* [[Tasselheart]]: This town was nestled right in the crossroads of Tasseldale and accommodated its large, [[Midsummer Market]] during the season.\n\n* [[Tegal's Mark]]: Named after the famous swordsmith [[Tegal]], this tassel housed the [[Sharburg]], an ancient [[elven]] fortress that served as the seat of power for the Mairshar."
-        }
+        "mainbody": "Tasseldale, one of lands trading dales, was among the wealthiest within the Dalelands, having always been heavily influenced by the nation of Sembia. The land was comprised of twelve towns, or tassels, that accommodated about half of their population and served as the center of their society.\nThey were one of the southern-most located dales, and conveyed a large amount of the regions traffic along the East Way and Rauthauvyrs Road, which together connected Cormyr to Hillsfar. Many other small roads criss-crossed around the Tasselway, the prominent trail that ran the length of the dale.\nThe Tassadran were by and large, craftspeople and traders, The craftsmen of the dale included gold, silver, pewter and tinsmiths, book-binders, wood-workers. illustrators, toy-makers and scores more. The minority of their populace that were unhappy with the crafting lifestyle typically moved on to other dales or work as loggers in the Arch Wood forest.\nLike the rest of the Dalesfolk they were fiercely independent, and while visitors might dismiss them as money-hungry, would-be Sembians, they maintained a quiet, unassuming pride. They quietly set out to do what they thought was right.\nThe general economic dynamic of the Dalelands was each dale would produce locally-cultivated food products or harvest natural resources like timber or iron and trade them for the finished goods needed for everyday life. The opposite was true in Tasseldale. While they housed enough craftspeople to suit the needs of their populace, with enough still to export and profit, they lacked the raw materials that were so abundant in the other dales.\nDue to their high economic demand, Tasseldale was extremely dependent upon Sembia for success. It wasnt a one-way boon for the nation, as Tasseldale offered a quaint getaway for travel, far enough to escape the urban lifestyle of Selgaunt or Ordulin but still quite close. Despite the fears of annexation held by many Tassadran in the 14 century, the dale was considered by Sembia to be much more profitable as a neighbor, than another district. This outlook proved temporary as time went on.\nThe dale was home to a number of branches of large Sembian trading costers including the Red Wyvern Company and the Sheathed Dagger Coster, but had their own smaller competitors like the Tasselway Coster of Glaun.\nTasseldale was ruled by the Grand Mairshar, whose broad powers included law enforcement, handling foreign relations and, with consult of the Tassel Elders, writing laws and executing military action. Grand Mairshars appointed their successor upon retirement, pending approval of the elders. \nThe Mairshar themselves served as the dales constables, adjudicators and soldiers. From all the volunteers candidates, only a select few passed the months of assessment and years service as a cadet. In addition to their martial prowess, the Mairshar were selected for their even-tempered disposition and tempered judgement.\nTo supplement this elite force, Tasseldale maintained an extensive militia of Tassadran that, when assembled, would fall under the command of a Mairshar.\nAfter  Moondale was founded in 700 DR, the forests of region receded and more dalesfolk settled in the area that would become Tasseldale around 980 DR. \nAfter Aencar Burlisk declared himself King of the Dales, Tasseldale willfully joined alongside Battledale and Shadowdale under his rule. He was beloved to the Tassadran and they saw his authority as rightfully earned.\nFollowing the murder of some Tassadran hunters within the Arch Wood in 1368, the rivalry between the loggers of Tasseldale and Archendale turned violent with the development of the game known as Woodsmens War. This game was little more than outright violent fisticuffs between the hunters, soldiers and rowdy youth of the two dales.\nDespite the mutually-beneficial relationship enjoyed by both Tasseldale and Sembia throughout the 1400s Grand Mairshar Erich Inshiland resisted the assault, but were ultimately defeated by Sembian forces.\nUnlike the rest of the dales, Tasseldale was a vast, flat open space ideally suited for farmlands. It featured a nearly-daily morning mist that blanketed rolling grasslands with small hedgerows and thin, winding streams that all emptied into the River Ashaba.\n Dun Hills \nThese mounds seperated the dale from Battledale to the north and Deepingdale to the west. It was populated by teams of wild ponies.\n Glaun Bog \nA dark marshland that was abundant in coal, iron and home to many dangers including quicksand, carnivorous plants and will-o-wisps.\n* Abbey of the Just Hammer This monastery of Tyr located in the Dun Hills emphasized the justice aspect of the deitys portfolio. They provided legal education for travelers who braved a journey to their abbey,\n*Sun Soul Monastary The Order of the Sun Soul established one of their few monasteries in the refurbished ruins of an abandoned freehold within the Dun Hills.\n* Archtassel This smaller tassel rested near the Arch Wood, south of the East Way. It was home to many loggers, woodworkers, and trappers who all earned their living from the forest. They maintained an intense rivalry with the loggers of Archendale.\n* Arrowmark A small and exceptionally quiet hamlet that was renowned for its skilled fletchers and bow-makers.\n* Glaun Built into the Dun Hills, this smoke-covered, iron-working town smelted the ore gathered from the nearby Glaun Bog. In the past they were assaulted by perytons and wyverns, and the fringes of their cottages were sporadically harassed by trolls and goblinoids.\n* Halfcrag A small, easily-defensible village that rested atop a mesa isolated from the Dun Hills. They were once the largest farming settlement in all the dales.\n* Moontassel Located nearest the former-dale of Moondale, this sprawling town was full of lively street vendors, frivolous entertainment and other attractions for tourists visiting from Sembia.\n* Tasselheart This town was nestled right in the crossroads of Tasseldale and accommodated its large, Midsummer Market during the season.\n* Tegals Mark Named after the famous swordsmith Tegal, this tassel housed the Sharburg, an ancient elven fortress that served as the seat of power for the Mairshar."
     }
 }

@@ -1,31 +1,17 @@
 {
-    "template_data": {
-        "12|lbs.|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption2": "Various depictions of blunderbusses",
-        "name": "Blunderbuss",
-        "othernames": "Blunderbus",
-        "nicknames": "Gondgun",
-        "type": "[[Firearm]]<br />Piercing weapon",
-        "creator": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "500 [[gp]]",
-        "weight1e": "{{SI|8|lbs.|k}}",
-        "refs1e": "{{Cite dragon/70/A Second Volley|33}}",
+        "refs1e": "",
         "school2e": "",
         "level2e": "",
         "value2e": "500 gp",
-        "weight2e": "{{SI|12|lbs.|k}}",
+        "weight2e": "",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
         "itemlevel3e": "",
         "value3e": "200 gp",
-        "weight3e": "{{SI|10|lbs.|k}}",
-        "refs3e": "<ref>{{Cite dragon/321/The Way of the Gun|34}}",
+        "weight3e": "",
+        "refs3e": "",
         "level4e": "",
         "value4e": "",
         "weight4e": "",
@@ -41,10 +27,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The '''blunderbuss''', also known derisively as the '''Gondgun''', was a variation of the [[arquebus]].",
-        "Description": "Like any arquebus, the blunderbuss consisted of a wooden stock, metal barrel, and a matchlock firing mechanism. Unlike a standard arquebus, this weapon had a wide bore and a [[trumpet]]-flaring barrel. They were also larger and heavier, weighing around {{SI|12|lbs.|k|long=yes}}. \n\nBlunderbusses that came from [[Lantan]] typically had the symbol of [[Gond]] stamped on the butt of their stock.",
-        "Weaponology": "Due to the design of a blunderbuss, it had less muzzle velocity than a standard arquebus. Meaning it was less accurate, had less penetrating power, and very poor range. Due to their size and weight, a blunderbuss also required support in order to keep its barrel aimed when firing.\n\nTheir advantage over the standard arquebus was that, rather than requiring a projectile carefully shaped for its bore,{{Cite dragon/70/A Second Volley|34}} and their barrels were designed to scatter their shot across a wide arc.<ref name =\"drag321-p31\">{{Cite dragon/321/The Way of the Gun|31}} Together these made it so blunderbusses had the potential to hit several targets simultaneously. \n\nLike any arquebus, they were sturdy enough to be wielded like a [[club]], but they could be damaged in the process. They required [[smokepowder]] to use.",
-        "History": "On the world of [[Toril]], the blunderbuss originated on the island nation of Lantan, during the [[Time of Troubles]], after the deity Gond revealed to his followers how to make reasonably safe and accurate firearms that utilized smokepowder.\n\nWhen the blunderbuss and other arquebuses first showed up off of Lantan they were considered mere curios, but after five or so years they became increasingly common.<ref>{{Cite dragon/232/Sorcerous Six-Shooters|37}} With one source being the [[Smiths' Coster]] trading company, who conducted business with the Lantanna, [[Waterdeep|Waterdhavians]], and elsewhere.\n\nBy [[1370 DR]], one could purchase a blunderbuss among other types of arquebuses from [[The Brigadier]], a [[giff]] gunsmith, in [[Skullport]].",
-        "Price": "In the first three years that it was available for purchase outside of Lantan, a blunderbuss cost roughly 5,000 [[gold piece]]s. Through the third to fifth year, as the weapon became more common, the cost lowered to 1,000 gold pieces. Following the fifth year, a blunderbuss on Toril consistently cost around 500 gold pieces."
+        "mainbody": "The blunderbuss, also known derisively as the Gondgun, was a variation of the arquebus.\nLike any arquebus, the blunderbuss consisted of a wooden stock, metal barrel, and a matchlock firing mechanism. Unlike a standard arquebus, this weapon had a wide bore and a trumpet-flaring barrel. They were also larger and heavier, weighing around . \nBlunderbusses that came from Lantan typically had the symbol of Gond stamped on the butt of their stock.\nDue to the design of a blunderbuss, it had less muzzle velocity than a standard arquebus. Meaning it was less accurate, had less penetrating power, and very poor range. Due to their size and weight, a blunderbuss also required support in order to keep its barrel aimed when firing.\nTheir advantage over the standard arquebus was that, rather than requiring a projectile carefully shaped for its bore, and their barrels were designed to scatter their shot across a wide arc. Together these made it so blunderbusses had the potential to hit several targets simultaneously. \nLike any arquebus, they were sturdy enough to be wielded like a club, but they could be damaged in the process. They required smokepowder to use.\nOn the world of Toril, the blunderbuss originated on the island nation of Lantan, during the Time of Troubles, after the deity Gond revealed to his followers how to make reasonably safe and accurate firearms that utilized smokepowder.\nWhen the blunderbuss and other arquebuses first showed up off of Lantan they were considered mere curios, but after five or so years they became increasingly common. With one source being the Smiths Coster trading company, who conducted business with the Lantanna, Waterdhavians, and elsewhere.\nBy 1370 DR, one could purchase a blunderbuss among other types of arquebuses from The Brigadier, a giff gunsmith, in Skullport.\nIn the first three years that it was available for purchase outside of Lantan, a blunderbuss cost roughly 5,000 gold pieces. Through the third to fifth year, as the weapon became more common, the cost lowered to 1,000 gold pieces. Following the fifth year, a blunderbuss on Toril consistently cost around 500 gold pieces."
     }
 }

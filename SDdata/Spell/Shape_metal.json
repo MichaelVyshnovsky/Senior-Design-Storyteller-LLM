@@ -1,37 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "long": "yes",
-        "long_1": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Shape Metal",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Cleric]]|4|[[Sorcerer]]|5|[[Wizard]]|5}}",
         "refs3e": "",
         "reversible2e": "",
         "school2e": "",
@@ -44,9 +12,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Shape metal''''' was a [[transmutation]] [[spell]] that allowed the caster to reshape objects made of [[:Category:Metals|metal]].",
-        "Effects": "The spell's effects were largely comparable to those of the ''[[stone shape]]'' spell, with the obvious difference being that it was metal rather than rock that could be molded or shaped. At baseline, the spell could affect any metal object or piece of metal of up to {{SI|10|cubic feet|long=yes}}, with more powerful casters being able to affect even larger objects.\n\nCasters could use the spell in combat to injure [[construct]]s made of metal, or could even attempt to use the spell to damage an opponent's metallic [[armor]], [[weapon]]s, or [[shield]].",
-        "Components": "Casting the spell required the caster to touch the object which they intended to shape, and involved both [[verbal]] and [[somatic component]]s. [[Cleric]]s further required a [[divine focus]], while [[Arcane magic|arcane]] casters required a [[material component]] in the form of a piece of metal [[wire]] bent into the approximate shape that the caster wished to affect upon the target piece of metal. This wire had to be touched to the target object while the verbal component was uttered.",
-        "History": "The [[urdunnir]] [[dwarves]] were blessed by [[Dumathoin]] with the innate ability to cast this spell, although they could only affect objects of up to {{SI|5|cubic feet|long=yes}}. They were skilled enough with this innate power that they could ''shape'' a metal weapon as it struck them in order to minimize their injuries.\n\nThe [[Divine magic|divine]] variant of the spell was first devised by [[shield dwarf]] [[priests]]."
+        "mainbody": "Shape metal was a transmutation spell that allowed the caster to reshape objects made of metal.\nThe spells effects were largely comparable to those of the stone shape spell, with the obvious difference being that it was metal rather than rock that could be molded or shaped. At baseline, the spell could affect any metal object or piece of metal of up to , with more powerful casters being able to affect even larger objects.\nCasters could use the spell in combat to injure constructs made of metal, or could even attempt to use the spell to damage an opponents metallic armor, weapons, or shield.\nCasting the spell required the caster to touch the object which they intended to shape, and involved both verbal and somatic components. Clerics further required a divine focus, while arcane casters required a material component in the form of a piece of metal wire bent into the approximate shape that the caster wished to affect upon the target piece of metal. This wire had to be touched to the target object while the verbal component was uttered.\nThe urdunnir dwarves were blessed by Dumathoin with the innate ability to cast this spell, although they could only affect objects of up to . They were skilled enough with this innate power that they could shape a metal weapon as it struck them in order to minimize their injuries.\nThe divine variant of the spell was first devised by shield dwarf priests."
     }
 }

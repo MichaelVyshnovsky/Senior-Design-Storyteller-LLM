@@ -1,34 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Guardian Mantle",
-        "deity": "[[Dugmaren Brightmantle]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "reversible2e": "",
-        "school2e": "[[Abjuration]]<br>[[Invocation]]",
-        "spheres2e": "[[Protection sphere|Protection]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|7}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -36,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Guardian mantle''''' was a [[spell]] used by [[cleric]]s of [[Dugmaren Brightmantle]].",
-        "Effects": "When cast, this spell temporarily encased the caster in a shell of transparent blue energy. This energy protected the caster from both melee and missile attacks. The spell did not protect the caster from magic-based attacks. The spell also diminished any protective magic in use by the caster, except for ''[[Mage armor|armor]]''.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required [[material component]]s, the holy symbol of Dugmaren Brightmantle, a small piece of blue velvet and any [[gem]] with a value of at least 500 [[gp]]."
+        "mainbody": "Guardian mantle was a spell used by clerics of Dugmaren Brightmantle.\nWhen cast, this spell temporarily encased the caster in a shell of transparent blue energy. This energy protected the caster from both melee and missile attacks. The spell did not protect the caster from magic-based attacks. The spell also diminished any protective magic in use by the caster, except for armor.\nIn addition to verbal and somatic components, this spell required material components, the holy symbol of Dugmaren Brightmantle, a small piece of blue velvet and any gem with a value of at least 500 gp."
     }
 }

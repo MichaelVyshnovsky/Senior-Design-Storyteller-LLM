@@ -1,15 +1,7 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "name": "Sariandi Floshin",
-        "sex": "Female",
-        "race": "[[Fey'ri]]",
-        "class": "{{class table|edition=3e|[[Fighter]]|4}}",
         "rules": "3rd edition",
-        "alignment": "[[Chaotic evil]]",
-        "mainbody": "'''Sariandi Floshin''' was a female [[fey'ri]] [[fighter]] and a member of the [[daemonfey]].\n\n{{stub}}",
-        "References": "{{refs}}\n[[Category:Fey'ri]]\n[[Category:Fighters]]\n[[Category:Members of the daemonfey]]\n[[Category:Inhabitants]]\n[[Category:Inhabitants of Toril]]\n[[Category:Inhabitants of Faerûn]]\n03nl2ep9dd256kuz7sal1e6oybj1f8e"
+        "alignment": "Chaotic evil",
+        "mainbody": "Sariandi Floshin was a female feyri fighter and a member of the daemonfey.\nCategoryFeyri\nCategoryFighters\nCategoryMembers of the daemonfey\nCategoryInhabitants\nCategoryInhabitants of Toril\nCategoryInhabitants of Faerûn\n03nl2ep9dd256kuz7sal1e6oybj1f8e"
     }
 }

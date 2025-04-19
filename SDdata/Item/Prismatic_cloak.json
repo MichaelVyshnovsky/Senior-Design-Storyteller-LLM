@@ -1,32 +1,5 @@
 {
-    "template_data": {
-        "0.1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Prismatic Cloak''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Cloak]]",
-        "material": "Cloth",
-        "creator": "",
-        "origin": "[[Storm Horns]]",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|0.1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -43,10 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "How did the rainbow meet its end;<br/>\nWill the spectrum ever mend?\n}}\nThe red cloak warded off fire and extreme heat.\n\n;Violet\n{{Quote\n|Caught in a Prism;<br/>\nThe colors suffered a schism.\n}}\nThe violet cloak absorbed electrical shocks for the wearer.\n\n;Blue\n{{Quote\n|Loyalty betrayed;<br/>\nLured by the shade.\n}}\nThe blue cloak protected the wearer from extreme cold.\n\n;Green\n{{Quote\n|The rainbow fought;<br/>\nBut the curse was wrought.\n}}\nThe green cloak absorbed [[acid]]ic threats.\n\n;Grey\n{{Quote\n|Hue lost, the world stands stark;<br/>\nTrapped forever in the dark.\n}}\nThe grey cloak dampened thunderous bursts of sonic energy.": "=History==",
-        "mainbody": "e cloaks were found among the forces of [[Thultanthar]] in the [[Storm Horns]] as [[Harpers]] and [[Cormyr]]ean soldiers fought them around Archwizard [[Amskar]]'s new [[Amskar's enclave|glacier enclave]].",
-        "Description": "The cloaks each had a distinct color, but shared the same design of having the lighter and darker shades of their color [[Wikipedia:Division_of_the_field#Common_divisions_of_the_field|''party per bend'']] across the cloak, with the shades reversed for the trim.",
-        "Powers": "The ''prismatic cloaks'' were metaphorically or literally representative of the [[Empire of Shade]]'s ability to subvert, deceive, and conquer its divided enemies. Each cloak had a particular defensive enhancement that was not shared by the others.\n\n;Red\n{{Quote\n|How did the rainbow meet its end;<br/>\nWill the spectrum ever mend?\n}}\nThe red cloak warded off fire and extreme heat.\n\n;Violet\n{{Quote\n|Caught in a Prism;<br/>\nThe colors suffered a schism.\n}}\nThe violet cloak absorbed electrical shocks for the wearer.\n\n;Blue\n{{Quote\n|Loyalty betrayed;<br/>\nLured by the shade.\n}}\nThe blue cloak protected the wearer from extreme cold.\n\n;Green\n{{Quote\n|The rainbow fought;<br/>\nBut the curse was wrought.\n}}\nThe green cloak absorbed [[acid]]ic threats.\n\n;Grey\n{{Quote\n|Hue lost, the world stands stark;<br/>\nTrapped forever in the dark.\n}}\nThe grey cloak dampened thunderous bursts of sonic energy.",
-        "History": "The cloaks were found among the forces of [[Thultanthar]] in the [[Storm Horns]] as [[Harpers]] and [[Cormyr]]ean soldiers fought them around Archwizard [[Amskar]]'s new [[Amskar's enclave|glacier enclave]]."
+        "mainbody": "The prismatic cloaks were a set of magical cloaks found in Cormyr in the mid-1480s DR.\nThe cloaks each had a distinct color, but shared the same design of having the lighter and darker shades of their color party per bend across the cloak, with the shades reversed for the trim.\nThe prismatic cloaks were metaphorically or literally representative of the Empire of Shades ability to subvert, deceive, and conquer its divided enemies. Each cloak had a particular defensive enhancement that was not shared by the others.\nRed\nThe red cloak warded off fire and extreme heat.\nViolet\nThe violet cloak absorbed electrical shocks for the wearer.\nBlue\nThe blue cloak protected the wearer from extreme cold.\nGreen\nThe green cloak absorbed acidic threats.\nGrey\nThe grey cloak dampened thunderous bursts of sonic energy.\nThe cloaks were found among the forces of Thultanthar in the Storm Horns as Harpers and Cormyrean soldiers fought them around Archwizard Amskars new glacier enclave."
     }
 }

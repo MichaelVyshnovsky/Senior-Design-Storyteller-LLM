@@ -1,21 +1,5 @@
 {
     "document_data": {
-        "image": "Seawraith.png",
-        "caption": "''A seawraith, drowning a sailor.''",
-        "name": "Seawraith",
-        "othernames": "",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "Medium",
-        "origin4e": "[[:Category:Shadow creatures|Shadow]]",
-        "type4e": "[[Humanoid]]",
-        "subtype4e": "[[:Category:Aquatic creatures|Aquatic]], [[undead]]",
-        "alignment4e": "[[Chaotic evil]]",
-        "refs4e": "{{Cite organized play/LFR/Mystery of Deepwater Harbor|26}}",
         "size3e": "",
         "type3e": "",
         "subtype3e": "",
@@ -34,7 +18,7 @@
         "activecycle": "",
         "diet": "",
         "lifespan": "",
-        "location": "[[Waterdeep]], [[Sea of Swords]]",
+        "location": "Waterdeep, Sea of Swords",
         "intelligence": "Semi to average",
         "language": "",
         "subraces": "",
@@ -56,8 +40,6 @@
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''''Seawraiths''''' were aquatic creatures somewhat similar in appearance of regular [[undead]] [[wraith]]s.",
-        "Description": "''Seawraiths'' appeared as emaciated translucent naked [[humanoid]]s with parchment-thin skin and long hair that swirled in the waters of their habitats. Their eyes emanated sinister yellow radiance and mouth were filled with terrifying sharp teeth.",
-        "History": "Sometime in the days that followed the [[Spellplague]], seawraiths menaced the city of [[Waterdeep]]. They emerged from the [[Sea of Swords]] to attack ships in the harbors of the City of Splendors and usually driven back into the sea by the agents of the [[Lords of Waterdeep]]."
+        "mainbody": "Seawraiths were aquatic creatures somewhat similar in appearance of regular undead wraiths.\nSeawraiths appeared as emaciated translucent naked humanoids with parchment-thin skin and long hair that swirled in the waters of their habitats. Their eyes emanated sinister yellow radiance and mouth were filled with terrifying sharp teeth.\nSometime in the days that followed the Spellplague, seawraiths menaced the city of Waterdeep. They emerged from the Sea of Swords to attack ships in the harbors of the City of Splendors and usually driven back into the sea by the agents of the Lords of Waterdeep."
     }
 }

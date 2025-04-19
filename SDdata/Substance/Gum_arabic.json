@@ -1,32 +1,7 @@
 {
-    "template_data": {
-        "6|oz|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Gum arabic",
-        "aliases": "",
-        "locations": "",
-        "discovered": "",
-        "date": "",
-        "creators": "",
-        "created": "",
-        "hisrefs": "",
-        "type": "[[Resin]]",
-        "components": "",
-        "color": "",
-        "properties": "",
-        "markings": "",
-        "phyrefs": "",
-        "uses": "[[Material component]], medicine, cooking, [[glue]], [[alchemy]]",
-        "cost": "5 [[sp]] per {{SI|6|oz}}",
-        "userefs": "{{Cite dragon/81/Living in a material world|62,64}}",
+        "userefs": "",
         "items": "",
-        "mainbody": "'''Gum arabic''' was a plant [[resin]] from the [[acacia]] tree, used for mundane, alchemical, and magical purposes.",
-        "Availability": "[[Aurora's Emporium]] sold gum arabic for 5 [[sp]] per {{SI|6|oz|long=yes}}, intended for [[wizard]]s to use in their spells and laboratory experiments.",
-        "Usage": {
-            "Spell Components": "Gum arabic was a [[material component]] in several [[spell]]s:\n* ''[[Invisibility]]'' and ''[[mass invisibility]]'' used an eyelash encased in gum arabic.\n* ''[[Otiluke's resilient sphere]]'' and ''[[Otiluke's telekinetic sphere]]'' used a hemisphere of gum arabic and a hemisphere of [[gemstone]].{{Cite dragon/67/From the Sorcerer's Scroll|57}}\n* ''[[Polymorph any object]]'' used gum arabic, [[mercury]], and smoke as material components.\n* ''[[Sequester]]'' used gum arabic, a [[basilisk]] eyelash, and [[whitewash]].{{Cite dragon/68/From the Sorcerer's Scroll|56}}"
-        }
+        "mainbody": "Gum arabic was a plant resin from the acacia tree, used for mundane, alchemical, and magical purposes.\nAuroras Emporium sold gum arabic for 5 sp per , intended for wizards to use in their spells and laboratory experiments.\nGum arabic was widely used to make baked goods, candy, adhesives, and more esoteric alchemical recipes. It also found some use in medicine, such as repairing damaged tissue.\nGum arabic was a material component in several spells\n* Invisibility and mass invisibility used an eyelash encased in gum arabic.\n* Otilukes resilient sphere and Otilukes telekinetic sphere used a hemisphere of gum arabic and a hemisphere of gemstone.\n* Polymorph any object used gum arabic, mercury, and smoke as material components.\n* Sequester used gum arabic, a basilisk eyelash, and whitewash."
     }
 }

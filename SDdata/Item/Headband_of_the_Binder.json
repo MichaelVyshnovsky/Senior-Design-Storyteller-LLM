@@ -1,31 +1,5 @@
 {
     "document_data": {
-        "image": "Headband of the Binder.png",
-        "caption": "",
-        "name": "''Headband of the Binder''",
-        "othernames": "''Headband of the Lorebinder''",
-        "nicknames": "",
-        "type": "Circlet",
-        "location": "",
-        "school": "",
-        "level": "",
-        "value": "",
-        "weight": "",
-        "rules": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "3",
-        "itemlevel3e": "5",
-        "value3e": "2,600 [[gp]]",
-        "weight3e": "&ndash;",
-        "refs3e": "{{Cite web enhancement/The Leaves of Learning|6}}",
         "level4e": "",
         "value4e": "",
         "weight4e": "",
@@ -38,8 +12,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "A '''''headband of the Binder''''' was a magic item created by [[bards]] It was also referred to as a '''''headband of the lorebinder'''''.",
-        "Description": "This item was a metal circlet of blue-green hue with the symbol of Oghma, a blank scroll, embossed on the front.",
-        "Powers": "The wearer of a ''headband of the Binder'' was able to ''[[read magic]]'' three times a day. This item was created by bards, and if the wearer was a bard, it also greatly increased the retention and recall of bardic knowledge. It also did the same for [[loremaster]]s and the lore they studied."
+        "mainbody": "A headband of the Binder was a magic item created by bards It was also referred to as a headband of the lorebinder.\nThis item was a metal circlet of blue-green hue with the symbol of Oghma, a blank scroll, embossed on the front.\nThe wearer of a headband of the Binder was able to read magic three times a day. This item was created by bards, and if the wearer was a bard, it also greatly increased the retention and recall of bardic knowledge. It also did the same for loremasters and the lore they studied."
     }
 }

@@ -1,34 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Bane of Yondalla",
-        "deity": "[[Yondalla]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "reversible2e": "",
-        "school2e": "[[Necromancy]]",
-        "spheres2e": "[[Necromantic sphere|Necromantic]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|5}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -36,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Bane of Yondalla''''' was a [[spell]] used by [[cleric]]s of [[Yondalla]].",
-        "Effects": "When cast on a target, this spell had a similar effect as if the targeted creature had been struck by a ''[[staff of withering]]''. The targeted creature aged about ten percent of its natural lifespan. If the caster was strong enough and targets a specific limb of a target, the limb became shriveled and rendered useless. The spell had no effect on creature who did not age.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required [[material component]]s, the [[holy symbol]] of the caster, and a dried vine. The vine was consumed by the spell."
+        "mainbody": "Bane of Yondalla was a spell used by clerics of Yondalla.\nWhen cast on a target, this spell had a similar effect as if the targeted creature had been struck by a staff of withering. The targeted creature aged about ten percent of its natural lifespan. If the caster was strong enough and targets a specific limb of a target, the limb became shriveled and rendered useless. The spell had no effect on creature who did not age.\nIn addition to verbal and somatic components, this spell required material components, the holy symbol of the caster, and a dried vine. The vine was consumed by the spell."
     }
 }

@@ -1,22 +1,14 @@
 {
-    "template_data": {
-        "edition": "5e"
-    },
     "document_data": {
-        "image": "Dethrone.png",
-        "caption": "",
-        "name": "Dethrone",
-        "deity": "",
-        "inventor": "[[Karsus]]{{Speculation}}",
         "type": "",
-        "school5e": "[[Necromancy]]",
+        "school5e": "Necromancy",
         "domains5e": "",
         "circles5e": "",
         "oaths5e": "",
         "patrons5e": "",
         "traditions5e": "",
         "archetypes5e": "",
-        "level5e": "{{Spell table|edition=5e|[[Wizard]]|5}}",
+        "level5e": "",
         "type5e": "",
         "refs5e": "",
         "feature4e": "",
@@ -42,8 +34,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Dethrone''''' was a powerful and extremely rare [[arcane]] [[necromancy]] [[spell]] from the 5{{th}} circle of magic, possibly authored by [[Karsus]], the Momentary God{{Speculation}} before the [[Fall of Netheril]].",
-        "Effects": "When the spell's words were uttered, a powerful magical force was unleash upon a single creature, shredding its very essence by pulling on the strands of the [[Weave]]. It resulted in a great amount of [[necrotic]] damage, however, the caster [[mage]] could only use the spell once per day and the spell was not empowered if the caster was powerful and experienced beyond the ability to cast magics of the 5{{th}} circle.",
-        "History": "Two copies of the ''dethrone'' spell were stored deep within the magically sealed, trapped, and protected vaults of [[Ramazith's tower]] in the {{YearlinkName|1492}}. The tower's master, [[Lorroakan]], kept them in the vault marked by the name of \"Karsus\", alongside other powerful [[enchanted]] items, including ''[[The Annals of Karsus]]'' – the [[book]] that detailed the ''[[Regalia of Karsus]]'', a collection of powerful [[Netherese]] [[artifact]]s."
+        "mainbody": "Dethrone was a powerful and extremely rare arcane necromancy spell from the 5 circle of magic, possibly authored by Karsus, the Momentary God before the Fall of Netheril.\nWhen the spells words were uttered, a powerful magical force was unleash upon a single creature, shredding its very essence by pulling on the strands of the Weave. It resulted in a great amount of necrotic damage, however, the caster mage could only use the spell once per day and the spell was not empowered if the caster was powerful and experienced beyond the ability to cast magics of the 5 circle.\nTwo copies of the dethrone spell were stored deep within the magically sealed, trapped, and protected vaults of Ramaziths tower in the . The towers master, Lorroakan, kept them in the vault marked by the name of \"Karsus\", alongside other powerful enchanted items, including The Annals of Karsus – the book that detailed the Regalia of Karsus, a collection of powerful Netherese artifacts."
     }
 }

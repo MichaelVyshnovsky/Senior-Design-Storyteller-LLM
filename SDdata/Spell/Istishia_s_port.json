@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Istishia' Port",
-        "othernames": "",
-        "deity": "[[Istishia]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Elemental water sphere|Elemental water]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|7}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -45,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Istishia's port''''' was a powerful [[Divine magic|divine]] [[alteration]] [[spell]] used by priests devoted to [[Istishia]], enabling them to leave the [[Prime Material plane]].",
-        "Effects": "Istishia granted this spell to his devout followers who were ready to leave their home plane to travel the multiverse. This spell was cast while standing in a body of water. The caster and all of their belongings turned to water, allowing them to travel to any plane where water was present. Usually this spell only affected the caster, but Istishia sometimes allowed the caster's companions to travel in this manner as well.",
-        "Components": "This spell required only [[verbal component]]s to cast."
+        "mainbody": "Istishias port was a powerful divine alteration spell used by priests devoted to Istishia, enabling them to leave the Prime Material plane.\nIstishia granted this spell to his devout followers who were ready to leave their home plane to travel the multiverse. This spell was cast while standing in a body of water. The caster and all of their belongings turned to water, allowing them to travel to any plane where water was present. Usually this spell only affected the caster, but Istishia sometimes allowed the casters companions to travel in this manner as well.\nThis spell required only verbal components to cast."
     }
 }

@@ -1,22 +1,8 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "[[File:Glory of the martyr.jpg|250px]]",
-        "caption": "''A paladin of Ilmater uses glory of the martyr in a battle with skeletons.''",
-        "name": "Glory of the martyr",
-        "deity": "[[Ilmater]]",
-        "level3e": "{{spell table|edition=3e|[[Champion of Gwynharwyf]]|4|[[Paladin]]|4}}",
-        "descriptors3e": "{{desc/good}}",
-        "school3e": "[[Abjuration]]",
+        "descriptors3e": "",
+        "school3e": "Abjuration",
         "type3e": "",
-        "refs3e": "{{cite book/Book of Exalted Deeds|99}}{{cite book/Magic of Faerûn|73, 97}}",
-        "mainbody": "'''Glory of the martyr''' was a [[Divine magic|divine]] [[abjuration]] spell for [[paladin]]s that granted a protective ward to multiple subjects, transferring some of their wounds to the spellcaster and healing them if the caster should die. Although created by [[Ilmater]], the Crying God, and used by his [[Church of Ilmater|faithful]], the spell spread to paladins of other faiths.",
-        "Users": "The spell could be cast by [[paladin]]s—originally only those of Ilmater, but later of other faiths. It could also be cast by [[champion of Gwynharwyf|champions of Gwynharwyf]].",
-        "Effect": "The ''glory of the martyr'' spell functioned like an advanced version of the ''[[shield other]]'' spell, in that it worked on multiple recipients.{{cite book/Player's Handbook v.3.5|278}}\n\nFurthermore, if the caster of ''glory of the martyr'' died while it was still active, then the spell ended in a burst of [[positive energy]] that healed the linked recipients.",
-        "Components": "To function, the spell required each subject and the caster to wear a [[platinum]] ring, valued at 50 [[gp]] or more. These served as a focus.",
-        "History": "The ''glory of the martyr'' spell originated among the [[Church of Ilmater|faithful of Ilmater]], and was created by the Crying God himself. However, it since spread to paladins of other faiths.\n\nA paladin of Ilmater once prayed for ''glory of the martyr'' to protect his allies in the midst of a battle with [[skeleton]] warriors.",
-        "References": "{{refs}}\n[[Category:Abjuration spells]]\n[[Category:Ilmatari spells]]\n[[Category:Paladin spells]]\n79qo47nj4ccjzkm9zsjgi6913pjehc2"
+        "mainbody": "|refs3e=\nGlory of the martyr was a divine abjuration spell for paladins that granted a protective ward to multiple subjects, transferring some of their wounds to the spellcaster and healing them if the caster should die. Although created by Ilmater, the Crying God, and used by his faithful, the spell spread to paladins of other faiths.\nThe spell could be cast by paladins—originally only those of Ilmater, but later of other faiths. It could also be cast by champions of Gwynharwyf.\nThe glory of the martyr spell functioned like an advanced version of the shield other spell, in that it worked on multiple recipients.\nFurthermore, if the caster of glory of the martyr died while it was still active, then the spell ended in a burst of positive energy that healed the linked recipients.\nTo function, the spell required each subject and the caster to wear a platinum ring, valued at 50 gp or more. These served as a focus.\nThe glory of the martyr spell originated among the faithful of Ilmater, and was created by the Crying God himself. However, it since spread to paladins of other faiths.\nA paladin of Ilmater once prayed for glory of the martyr to protect his allies in the midst of a battle with skeleton warriors.\nCategoryAbjuration spells\nCategoryIlmatari spells\nCategoryPaladin spells\n79qo47nj4ccjzkm9zsjgi6913pjehc2"
     }
 }

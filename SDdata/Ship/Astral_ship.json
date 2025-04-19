@@ -1,11 +1,6 @@
 {
     "document_data": {
-        "image": "Astral_ships-4e.jpg",
-        "caption": "A fleet of astral ships sailing the [[Astral Plane]].",
-        "name": "Astral Ship",
-        "propername": "",
-        "aliases": "Void cruiser{{Cite dragon/166/Forum|86}}{{Cite organized play/LC/Three Coins in a Well|6}}",
-        "type": "Planar vessel<br />[[Spelljammer]] (some)",
+        "type": "Planar vesselSpelljammer (some)",
         "size": "",
         "location": "",
         "captain": "",
@@ -26,8 +21,6 @@
         "usethe": "",
         "useon": "",
         "inhabitants": "",
-        "mainbody": "'''Astral ships''',",
-        "Description": "Many different designs of astral ships existed. The most common non-[[spelljammer|spelljamming]] vessels included the [[astral clipper]] and the [[astral schooner]], which navigated by capturing the astral winds in mesh sails built on multiple masts that extended in all directions outward from the ship. Their hull configuration included both open decks similar to [[sailing ship]]s and closed decks that could only be accessed through hatches. Neither of those designs were functional outside of the Astral Plane.\n\nSpelljammers sailing the Astral Plane typically made use of fan-shaped sails to catch the astral winds and to help with steering. Their spelljamming helms allowed for [[plane shift]]ing magic, making them common sights across many different planes.\n\n[[Githyanki]]-built astral ships were powered by spelljamming helms that converted [[psionic]] energy into motion. They were usually piloted by a [[gish]]. The main astral ship designs in the githyanki fleet included the small [[astral skiff]]s, capable of carrying about a dozen passengers; larger [[astral brigs]] that were more heavily armed and could carry up to 60 passengers; and a few [[planar raiders]], their largest ships.{{Cite dragon/309/Incursion: A World Under Siege|72}}",
-        "History": "[[File:Githyanki astral ships-5e.jpg|thumb|300px|''A fleet of githyanki astral ships during a raid.'']]\nThe githyanki obtained the knowledge to construct astral ships by discovering the magic behind the workings of [[nautiloid]]s at the time of the war for the liberation of the [[Gith (race)|gith]] from enslavement by the [[mind flayer]]s. Since the war, the githyanki developed their own designs to suit their purposes and built a formidable fleet of astral ships.\n\nIn the late 15{{th}} century [[DR]], githyanki astral ships and trading spelljammers docked regularly at [[Stardock]] to deliver supplies."
+        "mainbody": "Astral ships,\nMany different designs of astral ships existed. The most common non-spelljamming vessels included the astral clipper and the astral schooner, which navigated by capturing the astral winds in mesh sails built on multiple masts that extended in all directions outward from the ship. Their hull configuration included both open decks similar to sailing ships and closed decks that could only be accessed through hatches. Neither of those designs were functional outside of the Astral Plane.\nSpelljammers sailing the Astral Plane typically made use of fan-shaped sails to catch the astral winds and to help with steering. Their spelljamming helms allowed for plane shifting magic, making them common sights across many different planes.\nGithyanki-built astral ships were powered by spelljamming helms that converted psionic energy into motion. They were usually piloted by a gish. The main astral ship designs in the githyanki fleet included the small astral skiffs, capable of carrying about a dozen passengers larger astral brigs that were more heavily armed and could carry up to 60 passengers and a few planar raiders, their largest ships.\nthumb|300px|A fleet of githyanki astral ships during a raid.\nThe githyanki obtained the knowledge to construct astral ships by discovering the magic behind the workings of nautiloids at the time of the war for the liberation of the gith from enslavement by the mind flayers. Since the war, the githyanki developed their own designs to suit their purposes and built a formidable fleet of astral ships.\nIn the late 15 century DR, githyanki astral ships and trading spelljammers docked regularly at Stardock to deliver supplies."
     }
 }

@@ -1,18 +1,3 @@
-{{DEFAULTSORT:Mephit, smoke}}
-{{Creature
-| image        =
-<gallery>
-Smoke_Mephit-5e.png|5e
-Mephit1.gif|2e
-Smokemephit.png|1e
-</gallery>
-| caption2     = Various depictions of smoke mephits.
-| name         = Smoke mephit
-| size5e       = Small
-| type5e       = [[Elemental]]
-| subtype5e    = 
-| alignment5e  = [[Neutral evil]]
-| challenge5e  = {{Frac|1|4}}
 | refs5e       = 
 | size4e       = 
 | origin4e     = 
@@ -27,18 +12,18 @@ Smokemephit.png|1e
 | challenge3e  = 
 | refs3e       = 
 | size2e       = Medium
-| alignment2e  = [[Neutral]]
+| alignment2e  = Neutral
 | refs2e       = 
 | size1e       = Medium
-| alignment1e  = Variable, but always [[evil]]
+| alignment1e  = Variable, but always evil
 | refs1e       = 
 | patron deity = 
-| vision       = [[Darkvision]]
+| vision       = Darkvision
 | activecycle  = 
 | diet         = 
 | lifespan     = 
 | location     = 
-| language     = [[Auran]], [[Ignan]]
+| language     = Auran, Ignan
 | subraces     = 
 | climate      = 
 | terrain      = 
@@ -53,27 +38,12 @@ Smokemephit.png|1e
 | distinctions = 
 | based        = 
 | first        = 
-}}
-'''Smoke mephits''' were [[mephit]]s composed of [[air]] and [[fire]]. They were crude and lazy, as well as liars and tricksters who thrived on mockery and misdirection.
-
-==Combat==
+Smoke mephits were mephits composed of air and fire. They were crude and lazy, as well as liars and tricksters who thrived on mockery and misdirection.
 Smoke mephits had sharp claws, which they used to attack their enemies.
-
-===Physical Abilities===
 Smoke mephits could fly as fast as they could move on land. They had a complete immunity against fire and poison.
-
-They had an ability called ''cinder breath'', which consisted of smoldering ash, that blinded those caught in it.
-
-When a smoke mephit died, a cloud of smoke with a radius of {{SI|5|ft|long=yes}} appeared. This cloud obscured the vision of other creatures.
-
-===Magical Abilities===
-Smoke mephits could cast ''[[dancing lights]]'' once per day.
-
-Smoke mephits could summon one to four other smoke mephits once per day. These smoke mephits appeared within {{SI|60|ft|long=yes}} and disappeared after 1 minute, when the summoning smoke mephit died, or when the summoner released it. This ability worked only once every four times.
-
-==Society==
-Smoke mephits were servants of [[Vhaeraun]], the [[drow]] god of thievery, and were sent by him to [[Toril]].
-
-==Notable Smoke mephits==
-* [[Ehkahk]], self-proclaimed ruler of the [[Paraelemental Plane of Smoke]].
-
+They had an ability called cinder breath, which consisted of smoldering ash, that blinded those caught in it.
+When a smoke mephit died, a cloud of smoke with a radius of  appeared. This cloud obscured the vision of other creatures.
+Smoke mephits could cast dancing lights once per day.
+Smoke mephits could summon one to four other smoke mephits once per day. These smoke mephits appeared within  and disappeared after 1 minute, when the summoning smoke mephit died, or when the summoner released it. This ability worked only once every four times.
+Smoke mephits were servants of Vhaeraun, the drow god of thievery, and were sent by him to Toril.
+* Ehkahk, self-proclaimed ruler of the Paraelemental Plane of Smoke.

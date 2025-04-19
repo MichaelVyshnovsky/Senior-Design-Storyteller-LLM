@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Storm's Frozen Moment",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "[[Storm Silverhand]]",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|1}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Storm's frozen moment''''' was a [[wizard]] [[spell]] created by [[Storm Silverhand]].",
-        "Effects": "This spell was used to cause temporary interruption of any creature moving through the air. It affected both natural and magical movements. If the caster wished to cast this spell on an unwilling recipient, touching them greatly lowered their chance to resist the spell's effects.\n\nWhen the spell took effect, the being was halted mid-air for one minute. The being was held stable, allowing them to perform normal functions such as casting a spell of their own or tying a knot.\n\nIf cast upon a being under the influence of the ''[[feather fall]]'' spell (or similar [[magic item]]s), ''Storm's frozen moment'' would negate that spell or item for ten minutes after the spell expired.",
-        "Components": "''Storm's frozen moment'' only required [[verbal component|verbal]] and [[somatic component|somatic]] components to cast."
+        "mainbody": "Storms frozen moment was a wizard spell created by Storm Silverhand.\nThis spell was used to cause temporary interruption of any creature moving through the air. It affected both natural and magical movements. If the caster wished to cast this spell on an unwilling recipient, touching them greatly lowered their chance to resist the spells effects.\nWhen the spell took effect, the being was halted mid-air for one minute. The being was held stable, allowing them to perform normal functions such as casting a spell of their own or tying a knot.\nIf cast upon a being under the influence of the feather fall spell (or similar magic items), Storms frozen moment would negate that spell or item for ten minutes after the spell expired.\nStorms frozen moment only required verbal and somatic components to cast."
     }
 }

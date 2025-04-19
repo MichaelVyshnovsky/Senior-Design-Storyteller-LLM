@@ -1,30 +1,8 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Ring of Teeth''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Ring]]",
-        "creator": "",
-        "location": "[[Elven Catacombs]], [[Myth Drannor]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "10{{th}}",
         "itemlevel3e": "",
         "value3e": "",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,9 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Ring of teeth''''' was a severe-looking enchanted ring from the [[Elven Catacombs]] of [[Myth Drannor]].",
-        "Description": "''Ring of teeth'' appeared to be a jagged metal band decorated to be reminiscent of sharp teeth.",
-        "Powers": "The ring gave its wearer the ability to cast ''[[inflict serious wounds]]'' spell. ''Ring of teeth'' had five charges of the spell. The ring was also resistant to extreme temperatures, surviving white-hot flames of ancient furnaces.",
-        "History": "In [[1369 DR]], the ''ring of teeth'' could be found in one of the rooms of Elven Catacombs underneath [[Castle Cormanthor]], guarded by soulless [[orog]] thralls of the [[Cult of the Dragon]]. Most looted treasures in the room was stashed in the Cult's chests with the ''ring of teeth'' tossed into raiding molten rocks of a ever-lit magical furnace."
+        "mainbody": "Ring of teeth was a severe-looking enchanted ring from the Elven Catacombs of Myth Drannor.\nRing of teeth appeared to be a jagged metal band decorated to be reminiscent of sharp teeth.\nThe ring gave its wearer the ability to cast inflict serious wounds spell. Ring of teeth had five charges of the spell. The ring was also resistant to extreme temperatures, surviving white-hot flames of ancient furnaces.\nIn 1369 DR, the ring of teeth could be found in one of the rooms of Elven Catacombs underneath Castle Cormanthor, guarded by soulless orog thralls of the Cult of the Dragon. Most looted treasures in the room was stashed in the Cults chests with the ring of teeth tossed into raiding molten rocks of a ever-lit magical furnace."
     }
 }

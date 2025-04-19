@@ -1,28 +1,8 @@
 {
-    "template_data": {
-        "0.1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Potion of cleansing.png",
-        "caption": "",
-        "name": "''Potion of Cleansing''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Potion]]",
-        "location": "[[Lizard Marsh]], [[Sword Coast]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "5{{th}}",
         "itemlevel3e": "",
         "value3e": "",
-        "weight3e": "{{SI|0.1|lb|k|long=yes}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,8 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Potions of cleansing''''' were magical concoctions that were used to cure harmful [[disease]]s.",
-        "Powers": "''Potions of cleansing'', when consumed, alleviated illnesses and bodily afflictions as if under the effects of the ''[[remove disease]]'' [[spell]].",
-        "History": "''Circa'' [[1372 DR]], the [[Green Hag of Lizard Marsh]], who feuded with the [[lizardman]] [[shaman]] [[Uzzak-Szalzik]], possessed a rich collection of magic potions, tinctures, and brews. Among them were a ''potion of cleansing'' of her own creation. These potions were available to any of the [[green hag]]'s allies against her sworn lizardfolk enemies."
+        "mainbody": "Potions of cleansing were magical concoctions that were used to cure harmful diseases.\nPotions of cleansing, when consumed, alleviated illnesses and bodily afflictions as if under the effects of the remove disease spell.\nCirca 1372 DR, the Green Hag of Lizard Marsh, who feuded with the lizardman shaman Uzzak-Szalzik, possessed a rich collection of magic potions, tinctures, and brews. Among them were a potion of cleansing of her own creation. These potions were available to any of the green hags allies against her sworn lizardfolk enemies."
     }
 }

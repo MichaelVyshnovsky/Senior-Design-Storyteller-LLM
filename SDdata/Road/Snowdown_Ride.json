@@ -1,20 +1,10 @@
 {
-    "template_data": {
-        "70|mi|k|long": "yes",
-        "70|mi|k|long_1": "yes"
-    },
     "document_data": {
-        "image": "Snowdown.jpg",
-        "caption": "A map showing Snowdown Ride on Snowdown.",
-        "name": "Snowdown Ride",
-        "type": "Road",
-        "aliases": "",
-        "length": "{{SI|70|mi|k|long=yes}}",
         "width": "",
         "pavement": "",
-        "location": "[[Snowdown]], the [[Moonshae Isles]]",
-        "starts": "[[Llandrain]]",
-        "ends": "[[Pengram]]",
+        "location": "Snowdown, the Moonshae Isles",
+        "starts": "Llandrain",
+        "ends": "Pengram",
         "built": "",
         "refs": "",
         "daggers": "",
@@ -27,7 +17,6 @@
         "roads": "",
         "bodies of water": "",
         "events": "",
-        "mainbody": "'''Snowdown Ride''' was a well-maintained road found on the island of [[Snowdown]] within the [[Moonshae Isles]].{{Cite dungeon/196/Backdrop: The Moonshae Isles}}",
-        "Description": "Snowdown Ride cut through the heart of Snowdown for nearly {{SI|70|mi|k|long=yes}}. It began in the north at the town of [[Llandrain]] and continued south the southwest through the island to end at [[Pengram]]. Along the way were [[Caer Westphal]] and [[Harloch (town)|Harloch]], as well as all three of Snowdown's lakes.."
+        "mainbody": "Snowdown Ride was a well-maintained road found on the island of Snowdown within the Moonshae Isles.\nSnowdown Ride cut through the heart of Snowdown for nearly . It began in the north at the town of Llandrain and continued south the southwest through the island to end at Pengram. Along the way were Caer Westphal and Harloch, as well as all three of Snowdowns lakes.."
     }
 }

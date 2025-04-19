@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "7|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Umber Hulk Hide Heavy Shield''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Shield]]",
-        "location": "[[Westgate]], [[Dragon Coast]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "27,090 [[gp]]",
-        "value3e": "",
-        "weight3e": "{{SI|7|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Umber hulk hide heavy shields''''' were [[shield]]s crafted using [[umber hulk]] chitin and imbued with the creature's natural magic.",
-        "Powers": "These shields were created through stacking together thick umber hulk plates. They offered sturdy physical protection, similar to a ''+2'' enchantment and gave the wielder complete immunity to any mind-affecting abilities and spells.",
-        "History": "As of the {{YearlinkName|1374}}, ''Umber hulk hide heavy shields'' were sold by a [[drow]] merchant who did business in the [[Undergate]], [[Westgate]]'s unsavory underbelly."
+        "mainbody": "Umber hulk hide heavy shields were shields crafted using umber hulk chitin and imbued with the creatures natural magic.\nThese shields were created through stacking together thick umber hulk plates. They offered sturdy physical protection, similar to a +2 enchantment and gave the wielder complete immunity to any mind-affecting abilities and spells.\nAs of the , Umber hulk hide heavy shields were sold by a drow merchant who did business in the Undergate, Westgates unsavory underbelly."
     }
 }

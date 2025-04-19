@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Snow Snake",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]], [[Evocation]]",
-        "spheres2e": "[[Combat sphere|Combat]], [[Elemental sphere|Elemental]], [[Elemental water sphere|Elemental water]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|5|[[Combat sphere|Combat]]|5|[[Elemental sphere|Elemental]]|5|[[Elemental water sphere|Elemental water]]|5}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Snow snake''''' was a multi-[[school of magic|school]] [[divine]] spell that briefly conjured a serpentine being made of snow.",
-        "Effects": "This spell could only be cast if there was a significant volume of snow near the casting [[cleric]]. If this snow was produced by the spells ''[[ice storm]]'' or ''[[cone of cold]]'', it enhanced the capabilities of the ''snow snake''.\n \nWhen cast, the ''snow snake'' appeared and struck at any beings that were hostile to the cleric. It came crashing down in a massive dome-shaped blast.\n\nThe ''snow snake'' could be briefly ridden by the caster, but only for a short distance.",
-        "History": "This was spell was contained within the [[Auril]]ian [[relic]], the ''[[Silver Supplicant]]''.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component]]s, this spell required a number of [[material component]]s, including a mass of snow twice the size of the caster and a single teardrop, drop of water or spit."
+        "mainbody": "Snow snake was a multi-school divine spell that briefly conjured a serpentine being made of snow.\nThis spell could only be cast if there was a significant volume of snow near the casting cleric. If this snow was produced by the spells ice storm or cone of cold, it enhanced the capabilities of the snow snake.\nWhen cast, the snow snake appeared and struck at any beings that were hostile to the cleric. It came crashing down in a massive dome-shaped blast.\nThe snow snake could be briefly ridden by the caster, but only for a short distance.\nThis was spell was contained within the Aurilian relic, the Silver Supplicant.\nIn addition to verbal and somatic components, this spell required a number of material components, including a mass of snow twice the size of the caster and a single teardrop, drop of water or spit."
     }
 }

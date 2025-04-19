@@ -1,29 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Weighted Hands''",
-        "othernames": "''Lesser Weighted Hands''",
-        "nicknames": "",
-        "type": "Glove",
-        "creator": "",
-        "location": "[[Samarach]], [[Chultan Peninsula]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "itemlevel3e": "+1",
-        "value3e": "",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -40,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Weighted hands''''', or '''''lesser weighted hands''''', were enchanted [[monk]] gloves used by the members of [[Red Knightist]] monastic orders.",
-        "Powers": "The gloves had heavy [[lead]] pads sewn into their fingers and the centers of palms. The strikes landed by the Red Knightist monks's ''weighted hands'' effectively became ''+1'' enchanted weapons.",
-        "History": "''Weighted hands'' were created by monks who served the [[Red Knight]] sometime before the {{YearlinkName|1374}}. The gloves were used to weight the hands of the monks as they painfully held the long, precise poses in their morning routines. This resulted in physical agony and drastically stronger punches in battle.\n\nIn 1374 DR, a pair of these gloves fell into the hands of [[Vadin'ya]], a [[tiefling]] merchant of [[Samargol]]."
+        "mainbody": "Weighted hands, or lesser weighted hands, were enchanted monk gloves used by the members of Red Knightist monastic orders.\nThe gloves had heavy lead pads sewn into their fingers and the centers of palms. The strikes landed by the Red Knightist monkss weighted hands effectively became +1 enchanted weapons.\nWeighted hands were created by monks who served the Red Knight sometime before the . The gloves were used to weight the hands of the monks as they painfully held the long, precise poses in their morning routines. This resulted in physical agony and drastically stronger punches in battle.\nIn 1374 DR, a pair of these gloves fell into the hands of Vadinya, a tiefling merchant of Samargol."
     }
 }

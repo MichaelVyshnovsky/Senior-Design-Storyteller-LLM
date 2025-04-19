@@ -1,29 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "<gallery>",
-        "caption2": "Various depictions of coiled dragons.",
-        "name": "Pan Lung",
-        "othernames": "Coiled Dragon",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "",
-        "type3e": "[[Dragon]]",
-        "subtype3e": "[[:Category:Creatures with the spirit subtype|Spirit]], [[:Category:Creatures with the water subtype|water]]",
-        "alignment3e": "Lawful neutral",
-        "challenge3e": "{{CR table|edition=3e|Juvenile|7|Young adult|9|Adult|11|Mature adult|14|Old|16|Very old|18|Ancient|19|Wyrm|20|Great wyrm|22}}",
         "refs3e": "",
         "size2e": "Gargantuan",
         "alignment2e": "Chaotic neutral",
@@ -36,8 +12,8 @@
         "activecycle": "Any",
         "diet": "Herbivore",
         "lifespan": "",
-        "location": "[[Kara-Tur]]",
-        "language": "[[Draconic language|Draconic]], [[Aquan]], [[Common]]",
+        "location": "Kara-Tur",
+        "language": "Draconic, Aquan, Common",
         "subraces": "",
         "climate": "Tropical, subtropical. and temperate",
         "terrain": "Swamps, jungles",
@@ -52,14 +28,8 @@
         "eyecolor": "",
         "build": "",
         "distinctions": "",
-        "based": "[[Wikipedia:Panlong (mythology)|Panlong]]",
+        "based": "Panlong",
         "first": "",
-        "mainbody": "'''Pan lung''', also known as '''coiled dragons''', were [[dragon]]s that were found in crypts and temples of [[Kara-Tur]].",
-        "Description": "Pan lungs were physically distinguished by their enormous size, up to 142 feet (43 meters) in length. They resembled [[shen lung]] in appearance but were longer and thinner. Born with grey scales, a pan lung can develop scales in a number of colors. Green, orange and red scales were the most common. Its scales were naturally oily, which made them shimmer in sunlight. They had a polychromatic mane that surrounded its neck, and had dark whiskers.",
-        "Personality": "Pan lungs were unconcerned with the affairs of other [[lung dragon]]s and would only work with other dragons if ordered to do so by the [[Celestial Bureaucracy]]. They resented and were fiercely jealous of [[t'ien lung]] and would sometimes attack one unprovoked in a jealous rage.",
-        "Abilities": "A pan lung had several innate magical abilities. They were able to use ''[[scaly command]]'' to command several creatures, the number of which depended on the dragons age. They also had the ability to surrounded themselves in an aura of ''[[water fire]]''., ''[[bless]]'', ''[[charm monster]]'', ''[[curse]]'', ''[[phantasmal force]]'' and ''[[ventriloquism]]''. Once a day they could cast ''[[mirage arcana]]'' and ''[[phantasmal killer]]''.",
-        "Ecology": "At birth they can immediately breathe both water and air. Despite not having wings, a pan lung was able to fly. This was achieved with magical blood-red [[pearl]]s embedded in their brains. If found on a dead pan lung or removed from a live one, this pearl was worth 1,000[[gp]] yet did not retain its magical abilities. Their lairs were in the crypt or temple assigned to them by the [[Celestial Bureaucracy]], which they guarded jealously. This duty was passed down to the offspring of a pan lung. \n\nUnlike most dragons, pan lungs were herbivores, with a diet mainly of fruits and vegetables. They had intricate and vast gardens which were tended by their minions.",
-        "Celestial Bureaucracy": "Within the [[Celestial Bureaucracy]], pan lung served as guardians of hidden places. The [[Celestial Bureaucracy]] would often punish [[humans]] who were disloyal to their family by making them minions of a pan lung. Once a minion, they did not age and served a term determined by the Celestial Bureaucracy. A minion obeyed its pan lung master unconditionally, even to the death. As well as minions, some pan lungs had slaves, usually controlled with ''[[scaly command]]''.",
-        "Notable Pan Lung": "* [[Za-Jikku]]"
+        "mainbody": "Pan lung, also known as coiled dragons, were dragons that were found in crypts and temples of Kara-Tur.\nPan lungs were physically distinguished by their enormous size, up to 142 feet (43 meters) in length. They resembled shen lung in appearance but were longer and thinner. Born with grey scales, a pan lung can develop scales in a number of colors. Green, orange and red scales were the most common. Its scales were naturally oily, which made them shimmer in sunlight. They had a polychromatic mane that surrounded its neck, and had dark whiskers.\nPan lungs were unconcerned with the affairs of other lung dragons and would only work with other dragons if ordered to do so by the Celestial Bureaucracy. They resented and were fiercely jealous of tien lung and would sometimes attack one unprovoked in a jealous rage.  \nTaking the time to evaluate their enemies, a pan lung would wait until they have fully appraised the skills and limitations of an adversary before attacking. They would cast phantasmal force or ventriloquism to distract attackers or summon one of their minions to attack instead. When a pan lung decided to attack, they did so savagely. In melee attacks they used their claws, teeth and tail to inflict horrible damage on their foes. They would also coil their tail around a victim and constrict them, preventing their attacker from launching any more attacks or squeezing the life out of them.\nA pan lung had several innate magical abilities. They were able to use scaly command to command several creatures, the number of which depended on the dragons age. They also had the ability to surrounded themselves in an aura of water fire., bless, charm monster, curse, phantasmal force and ventriloquism. Once a day they could cast mirage arcana and phantasmal killer.\nAt birth they can immediately breathe both water and air. Despite not having wings, a pan lung was able to fly. This was achieved with magical blood-red pearls embedded in their brains. If found on a dead pan lung or removed from a live one, this pearl was worth 1,000gp yet did not retain its magical abilities. Their lairs were in the crypt or temple assigned to them by the Celestial Bureaucracy, which they guarded jealously. This duty was passed down to the offspring of a pan lung. \nUnlike most dragons, pan lungs were herbivores, with a diet mainly of fruits and vegetables. They had intricate and vast gardens which were tended by their minions. \nWithin the Celestial Bureaucracy, pan lung served as guardians of hidden places. The Celestial Bureaucracy would often punish humans who were disloyal to their family by making them minions of a pan lung. Once a minion, they did not age and served a term determined by the Celestial Bureaucracy. A minion obeyed its pan lung master unconditionally, even to the death. As well as minions, some pan lungs had slaves, usually controlled with scaly command.\n* Za-Jikku"
     }
 }

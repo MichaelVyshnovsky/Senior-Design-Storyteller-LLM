@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Rites of Istishia",
-        "othernames": "",
-        "deity": "[[Istishia]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Conjuration]], [[Divination]]",
-        "spheres2e": "[[Elemental water sphere|Elemental water]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|3}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -45,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Rites of Istishia''''' was a [[Divine magic|divine]] [[conjuration]] and [[divination]] [[spell]] used by priests devoted to [[Istishia]], enabling them to settle disagreements.",
-        "Effects": "The casting priest needed to be on the shore of a large body of water when casting this spell. This spell was used to settle disagreements among Istishia's faithful. Each dissenting priest provided a third party to argue their points. They cast the ''[[combine]]'' spell on the third party followed by the ''rites of Istishia''. A number of [[water elemental]]s equal to the number of priests were summoned. After the debate all of the priests would step out onto the water's surface. The priest whose point of view was favored by Isitishia would be supported on the water's surface by their elemental, while the remaining priests would be dragged to the bottom then released.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component]]s, this spell required as [[material component]]s the priest's [[holy symbol]] and a pinch of ground sea shell to cast."
+        "mainbody": "Rites of Istishia was a divine conjuration and divination spell used by priests devoted to Istishia, enabling them to settle disagreements.\nThe casting priest needed to be on the shore of a large body of water when casting this spell. This spell was used to settle disagreements among Istishias faithful. Each dissenting priest provided a third party to argue their points. They cast the combine spell on the third party followed by the rites of Istishia. A number of water elementals equal to the number of priests were summoned. After the debate all of the priests would step out onto the waters surface. The priest whose point of view was favored by Isitishia would be supported on the waters surface by their elemental, while the remaining priests would be dragged to the bottom then released.\nIn addition to verbal and somatic components, this spell required as material components the priests holy symbol and a pinch of ground sea shell to cast."
     }
 }

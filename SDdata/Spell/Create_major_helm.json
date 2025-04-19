@@ -1,34 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Create Major Helm",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "reversible2e": "",
-        "school2e": "[[Enchantment/Charm]]<br>[[Artifice]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|7}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -36,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Create major helm''''' was a [[spell]] that created a ''[[spelljamming helm|major spelljamming helm]]''.",
-        "Effects": "When cast, the caster altered a regular chair into a major spelljamming helm. This effect was temporary and was often reserved for emergencies. The spell was also infrequently used as it aged the caster by a whole year. The size of the [[spelljammer]] the helm could power was three times the caster's skill level.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, this spell required a [[material component]], any seat suitable for use as a helm."
+        "mainbody": "Create major helm was a spell that created a major spelljamming helm.\nWhen cast, the caster altered a regular chair into a major spelljamming helm. This effect was temporary and was often reserved for emergencies. The spell was also infrequently used as it aged the caster by a whole year. The size of the spelljammer the helm could power was three times the casters skill level.\nIn addition to verbal and somatic components, this spell required a material component, any seat suitable for use as a helm."
     }
 }

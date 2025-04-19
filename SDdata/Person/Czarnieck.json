@@ -1,24 +1,13 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "name": "Czarnieck",
-        "home": "[[Eileanar]], [[Netheril]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "gender": "",
-        "race": "[[Human]]",
-        "ethnicity": "[[Netherese]]{{Neth-race}}",
         "occupation": "Teacher",
         "basicrefs": "",
         "death": "-339",
-        "deathnotes": "during [[Karsus's Folly]]",
+        "deathnotes": "during Karsuss Folly",
         "daterefs": "",
-        "alignment2e": "[[Chaotic good]]",
-        "class2e": "{{class table|edition=2e|[[Arcanist]] ([[Mentalist]])|22}}",
+        "alignment2e": "Chaotic good",
+        "class2e": "",
         "refs2e": "",
-        "mainbody": "alignment3e    =\n| challenge3e    =\n| class3e        =\n| refs3e         =\n| alignment35    =\n| challenge35    =\n| class35        =\n| refs35         =\n| alignment4e    =\n| class4e        =\n| refs4e         =\n| alignment5e    =\n| challenge5e    =\n| class5e        =\n| refs5e         =\n}}\n'''Czarnieck''' was a skilled [[Netherese]] [[arcanist]] who taught at the [[Academy of Mentalist Study]] in [[Eileanar]] shortly before its destruction in {{yearlinkConvert|3520|NY}}.",
-        "Activities": "Czarnieck specialized in mind-control spells, and applied his expertise by teaching under the supervision of Dean [[Zucchi]]."
+        "mainbody": "| alignment3e    =\n| challenge3e    =\n| class3e        =\n| refs3e         =\n| alignment35    =\n| challenge35    =\n| class35        =\n| refs35         =\n| alignment4e    =\n| class4e        =\n| refs4e         =\n| alignment5e    =\n| challenge5e    =\n| class5e        =\n| refs5e         =\nCzarnieck was a skilled Netherese arcanist who taught at the Academy of Mentalist Study in Eileanar shortly before its destruction in .\nCzarnieck specialized in mind-control spells, and applied his expertise by teaching under the supervision of Dean Zucchi."
     }
 }

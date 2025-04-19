@@ -1,14 +1,8 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Marsh Drover",
-        "race": "[[Human]]",
-        "regions": "[[Farsea Marshes]]",
-        "language": "[[Andt]]{{Cite dragon annual/1999/Speaking in Tongues|26}}",
-        "deities": "[[Bright Nydra]], [[Chauntea]], [[Eldath]], [[Lathander]], [[Mielikki]]{{Cite polyhedron/117/Forgotten Deities: Bright Nydra}}",
+        "deities": "Bright Nydra, Chauntea, Eldath, Lathander, Mielikki",
         "classes": "",
-        "height": "{{Size table|Men|{{SI|5'2|ft-in}}|Women|{{SI|4'10|ft-in}}}}",
+        "height": "|Women|",
         "length": "",
         "wingspan": "",
         "weight": "",
@@ -19,7 +13,6 @@
         "eyecolor": "Deep brown",
         "build": "",
         "distinctions": "",
-        "mainbody": "The '''Marsh Drovers''' were a people inhabiting the [[Farsea Marshes]].",
-        "History": "It was believed that the Marsh Drovers descended from those humans of [[Anauria]] that fled the destruction of their kingdom in the {{YearlinkName|111}}. The [[Chauntea]]n cleric [[Twick]] theorized that, prior to settling in the Farsea Marshes, this group lived in the [[Goblin Marches]] for a while, migrating south due to the combined pressure of the [[orc]] and [[goblin]] kingdoms, as well as the hostile climate."
+        "mainbody": "The Marsh Drovers were a people inhabiting the Farsea Marshes.\nIt was believed that the Marsh Drovers descended from those humans of Anauria that fled the destruction of their kingdom in the . The Chauntean cleric Twick theorized that, prior to settling in the Farsea Marshes, this group lived in the Goblin Marches for a while, migrating south due to the combined pressure of the orc and goblin kingdoms, as well as the hostile climate."
     }
 }

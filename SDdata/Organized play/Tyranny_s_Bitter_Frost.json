@@ -1,49 +1,20 @@
 {
-    "template_data": {
-        "index": "{{P"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "code": "SPEC2-2 P2",
-        "title": "Tyranny's Bitter Frost",
-        "publisher": "[[RPGA]]",
-        "designer": "[[M. Sean Molley]]",
-        "editor": "",
-        "reviewer": "[[Shawn Merwin]], [[Dave Kay]]",
-        "also_credited": "",
-        "cover_artist": "",
-        "inter_artist": "",
-        "cartography": "",
-        "realm year": "1479 DR{{4e-time}}",
         "setting": "",
         "edition1": "LFR",
         "debut1": "",
         "released1": "August 2010",
-        "subcat1": "[[Living Forgotten Realms/Special|Special]]",
+        "subcat1": "Special",
         "pages1": "37",
         "game_edition1": "4",
         "isbn1": "",
-        "play_time": "3.5&ndash;4 hours",
+        "play_time": "3.5&ndash4 hours",
         "rounds": "",
-        "players": "4&ndash;6",
-        "levels": "14{{th}}&ndash;17{{th}}",
+        "players": "4&ndash6",
+        "levels": "14&ndash17",
         "series": "",
-        "preceded_by": "''[[Tyranny's Bleak Depths]]''",
-        "followed_by": "''[[Tyranny's Perilous Bastion]]''",
-        "index": "{{P|[[angel (astral)|angel]]|5-6,22-23,24,26}} ({{P|[[angel of torment]]|22-23,24,26}}, {{P|[[angel of vengeance]]|22-23,24,26}}) • {{P|[[boneclaw]]|6-7,21}} • {{P|[[demon]]|6,22-23,25,27}} ({{P|[[rageborn|rageborn frosthurler]]|6,22-23,25,27}}) • {{P|[[dwarf]]|8}} • {{P|[[frost giant]]|5-6,8-10,11-12,14-15,17,19}} • {{P|[[frost titan]]|5-6,9-10,13,16,17}} • {{P|[[human]]|8}} • {{P|[[shardsoul]]|34}} • {{P|[[undead]]|5,20}} • {{P|[[winter hag]]|6-7,21}} • {{P|[[winter wolf]]|6,22-23,25,27}}",
-        "ref": "{{P|[[goliath]]|8}}",
-        "mainbody": "===Locations===\n:;Buildings & Sites\n::{{P|[[Iyraclea's palace]]|5-7,8,19,20-22}}\n:;Realms\n::{{P|[[Damara]]|5-6,30,34-35}}\n:;Regions\n::{{P|[[Bloodstone Lands]]|5,34}} • {{P|[[Great Glacier]]|1,5-7,8-10,17,19-21,32,34}}\n:{{Refonly}}\n::{{P|[[Abyss]]|6,29}} • {{P|[[Astral Plane]]|5,35}} • {{P|[[Baunilorotha]]|5}} • {{P|[[Bloodstone Pass]]|5,34-35}} • {{P|[[Castle Perilous]]|6,29-30,35}} • {{P|[[Dunwood]]|34}} • {{P|[[Elturgard]]|6}} • {{P|[[Auril's Teeth#Frostfell|Frostfell]]|34}} • {{P|[[Galena Mountains]]|34-35}} • {{P|[[Impiltur]]|34}} • {{P|[[Kultaakarr]]|5}} • {{P|[[Moonsea]]|1,6,34}} • {{P|[[Mulmaster]]|1,6,8,30,32,34}} • {{P|[[Narfell]]|34}} • {{P|[[Netheril]]|34}} • {{P|[[Novularond Mountains]]|35}} • {{P|[[Thay]]|34}} • {{P|[[Vaasa]]|1,5-7,8,32,34-35}}\n\n===Items===\n:;Armor & Clothing\n::{{P|[[chainmail]]|11,14}} • {{P|[[heavy armor]]|8}} • {{P|[[hide armor]]|11-12,14-15}} • {{P|[[plate armor]]|8,24,26}}\n:;Weapons\n::{{P|[[axe]]|8-10,11,14}} ({{P|[[greataxe]]|9-10,11-16}}, {{P|[[hand axe]]|11,14}}) • {{P|[[flail]]|11,14}} • {{P|[[longsword]]|24,26}}\n:;Miscellaneous\n::{{P|[[gem]]|30}} • {{P|[[gold pieces]]|10,30-32}} • {{P|[[holy symbol]]|8}} • {{P|[[jewelry]]|30}}\n\n===Magic===\n:;Magic Items\n::{{P|''[[aegis blade]]''|23,31,33}} • {{P|''[[champion's symbol]]''|8,31,33}} • {{P|''[[ironfell ring|iron ring]]''|8}} • {{P|''[[orb of revenant magic]]''|30,31,33}} • {{P|''[[piercing songblade]]''|23,31,33}} • {{P|''[[potion of vitality]]''|31}} • {{P|''[[rod of the bloodthorn]]''|30,31,33}} • {{P|''[[watchful spirit totem]]''|10,31,33}} • {{P|''[[wyrmtooth dagger]]''|10,31,33}}\n:;Spells & Rituals\n::{{P|[[Endure Elements]]|8}} • {{P|[[Hand of Fate]]|19}}\n::{{Refonly}}\n::{{P|[[divination]]|19}} • {{P|[[Pact of the Iron Ring]]|8}}\n\n===Events===\n::{{Refonly}}\n::{{P|[[Abyssal Plague (disease)|Abyssal Plague]]|5}} • {{P|[[Spellplague]]|5}} • {{P|[[1373 DR|Year of Rogue Dragons]]|35}} • {{P|[[1347 DR|Year of the Bright Blade]]|35}}\n\n===Organizations===\n:{{P|[[Dragonsbane]]|34}} • {{P|[[Warlock Knights]]|1,5-6,8-9,29-30,32,34}}\n::{{Refonly}}\n::{{P|[[Bound Ones]]|34}} • {{P|[[church of Amaunator]]|30}} • {{P|[[Council of Blades]]|1,6-7,32}} • {{P|[[Ironfell Council]]|34}} • {{P|[[Luminaries]]|34}}\n\n===Religion===\n:{{P|[[Amaunator]]|5-6,30}} • {{P|[[Auril]]|1,5-6,10,17,20,32,35}} • {{P|[[Bane]]|1,5-7,8,29-30,32,34}}\n::{{Refonly}}\n::{{P|[[Chosen]]|5,32,35}} • {{P|[[exarch]]|5-6,20-21,32,35}} • {{P|[[Silvanus]]|35}} • {{P|[[Telos]]|34}} • {{P|[[Three Furies]]|35}} ({{P|[[Malar]]|35}}, {{P|[[Umberlee]]|35}})\n\n===Miscellaneous===\n:;Languages\n::{{P|[[Abyssal language]]|25,27}} • {{P|[[Common]]|25,27}} • {{P|[[Giant language]]|11-16,25,27}} • {{P|[[Primordial language]]|11-16}} • {{P|[[Supernal]]|24,26}}\n:;Materials & Substances\n::{{P|''[[ironfell]]''|8}} • {{P|[[sapphire]]|10}}",
-        "Index": {
-            "Characters": ":{{P|[[Yazeth Cobb]]|5-6,29-30}} • {{P|[[Zaol]]|5-6,22-23}}\n::{{Refonly}}\n:: • {{P|[[Gareth Dragonsbane]]|35}} • {{P|[[Iyraclea]]|1,5-7,8,10,19-21,22,30,32,35}} • {{P|[[Orcus]]|6,29-30}} • {{P|[[Yarin Frostmantle]]|34}} • {{P|[[Zhengyi]]|5-6,29-30,32,35}}",
-            "Creatures": "{{Index\n|title=\n|index={{P|[[angel (astral)|angel]]|5-6,22-23,24,26}} ({{P|[[angel of torment]]|22-23,24,26}}, {{P|[[angel of vengeance]]|22-23,24,26}}) • {{P|[[boneclaw]]|6-7,21}} • {{P|[[demon]]|6,22-23,25,27}} ({{P|[[rageborn|rageborn frosthurler]]|6,22-23,25,27}}) • {{P|[[dwarf]]|8}} • {{P|[[frost giant]]|5-6,8-10,11-12,14-15,17,19}} • {{P|[[frost titan]]|5-6,9-10,13,16,17}} • {{P|[[human]]|8}} • {{P|[[shardsoul]]|34}} • {{P|[[undead]]|5,20}} • {{P|[[winter hag]]|6-7,21}} • {{P|[[winter wolf]]|6,22-23,25,27}}\n|ref={{P|[[goliath]]|8}}\n}}",
-            "Locations": ":;Buildings & Sites\n::{{P|[[Iyraclea's palace]]|5-7,8,19,20-22}}\n:;Realms\n::{{P|[[Damara]]|5-6,30,34-35}}\n:;Regions\n::{{P|[[Bloodstone Lands]]|5,34}} • {{P|[[Great Glacier]]|1,5-7,8-10,17,19-21,32,34}}\n:{{Refonly}}\n::{{P|[[Abyss]]|6,29}} • {{P|[[Astral Plane]]|5,35}} • {{P|[[Baunilorotha]]|5}} • {{P|[[Bloodstone Pass]]|5,34-35}} • {{P|[[Castle Perilous]]|6,29-30,35}} • {{P|[[Dunwood]]|34}} • {{P|[[Elturgard]]|6}} • {{P|[[Auril's Teeth#Frostfell|Frostfell]]|34}} • {{P|[[Galena Mountains]]|34-35}} • {{P|[[Impiltur]]|34}} • {{P|[[Kultaakarr]]|5}} • {{P|[[Moonsea]]|1,6,34}} • {{P|[[Mulmaster]]|1,6,8,30,32,34}} • {{P|[[Narfell]]|34}} • {{P|[[Netheril]]|34}} • {{P|[[Novularond Mountains]]|35}} • {{P|[[Thay]]|34}} • {{P|[[Vaasa]]|1,5-7,8,32,34-35}}",
-            "Items": ":;Armor & Clothing\n::{{P|[[chainmail]]|11,14}} • {{P|[[heavy armor]]|8}} • {{P|[[hide armor]]|11-12,14-15}} • {{P|[[plate armor]]|8,24,26}}\n:;Weapons\n::{{P|[[axe]]|8-10,11,14}} ({{P|[[greataxe]]|9-10,11-16}}, {{P|[[hand axe]]|11,14}}) • {{P|[[flail]]|11,14}} • {{P|[[longsword]]|24,26}}\n:;Miscellaneous\n::{{P|[[gem]]|30}} • {{P|[[gold pieces]]|10,30-32}} • {{P|[[holy symbol]]|8}} • {{P|[[jewelry]]|30}}",
-            "Magic": ":;Magic Items\n::{{P|''[[aegis blade]]''|23,31,33}} • {{P|''[[champion's symbol]]''|8,31,33}} • {{P|''[[ironfell ring|iron ring]]''|8}} • {{P|''[[orb of revenant magic]]''|30,31,33}} • {{P|''[[piercing songblade]]''|23,31,33}} • {{P|''[[potion of vitality]]''|31}} • {{P|''[[rod of the bloodthorn]]''|30,31,33}} • {{P|''[[watchful spirit totem]]''|10,31,33}} • {{P|''[[wyrmtooth dagger]]''|10,31,33}}\n:;Spells & Rituals\n::{{P|[[Endure Elements]]|8}} • {{P|[[Hand of Fate]]|19}}\n::{{Refonly}}\n::{{P|[[divination]]|19}} • {{P|[[Pact of the Iron Ring]]|8}}",
-            "Events": "::{{Refonly}}\n::{{P|[[Abyssal Plague (disease)|Abyssal Plague]]|5}} • {{P|[[Spellplague]]|5}} • {{P|[[1373 DR|Year of Rogue Dragons]]|35}} • {{P|[[1347 DR|Year of the Bright Blade]]|35}}",
-            "Organizations": ":{{P|[[Dragonsbane]]|34}} • {{P|[[Warlock Knights]]|1,5-6,8-9,29-30,32,34}}\n::{{Refonly}}\n::{{P|[[Bound Ones]]|34}} • {{P|[[church of Amaunator]]|30}} • {{P|[[Council of Blades]]|1,6-7,32}} • {{P|[[Ironfell Council]]|34}} • {{P|[[Luminaries]]|34}}",
-            "Religion": ":{{P|[[Amaunator]]|5-6,30}} • {{P|[[Auril]]|1,5-6,10,17,20,32,35}} • {{P|[[Bane]]|1,5-7,8,29-30,32,34}}\n::{{Refonly}}\n::{{P|[[Chosen]]|5,32,35}} • {{P|[[exarch]]|5-6,20-21,32,35}} • {{P|[[Silvanus]]|35}} • {{P|[[Telos]]|34}} • {{P|[[Three Furies]]|35}} ({{P|[[Malar]]|35}}, {{P|[[Umberlee]]|35}})",
-            "Miscellaneous": ":;Languages\n::{{P|[[Abyssal language]]|25,27}} • {{P|[[Common]]|25,27}} • {{P|[[Giant language]]|11-16,25,27}} • {{P|[[Primordial language]]|11-16}} • {{P|[[Supernal]]|24,26}}\n:;Materials & Substances\n::{{P|''[[ironfell]]''|8}} • {{P|[[sapphire]]|10}}"
-        }
+        "preceded_by": "Tyrannys Bleak Depths",
+        "followed_by": "Tyrannys Perilous Bastion",
+        "mainbody": "Tyrannys Bitter Frost is an adventure in the Living Forgotten Realms organized play campaign for Dungeons & Dragons 4 edition.\n • \n •  •  •  •  • \n (, ) •  •  () •  •  •  •  •  •  •  • \n|ref=\nBuildings & Sites\nRealms\nRegions\n • \n •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  •  • \nArmor & Clothing\n •  •  • \nWeapons\n (, ) •  • \nMiscellaneous\n •  •  • \nMagic Items\n •  •  •  •  •  •  •  • \nSpells & Rituals\n • \n • \n •  •  • \n • \n •  •  •  • \n •  • \n •  •  •  •  (, )\nLanguages\n •  •  •  • \nMaterials & Substances\n •"
     }
 }

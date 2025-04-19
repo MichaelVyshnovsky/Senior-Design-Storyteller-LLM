@@ -1,23 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Lifequench",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "reversible2e": "",
-        "school2e": "[[Necromancy]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|8}}",
         "type2e": "",
-        "refs2e": "{{Cite dragon annual/1997/The magic of Myth Drannor|92}}",
-        "mainbody": "'''''Lifequench''''' was a perilous [[spell]] that augmented another at the expense of a victim's life.",
-        "Effects": "The spell first quenched a target's life, snuffing them out instantly, and then augmented a spell still in the caster's mind to double their normal power, increasing area, damage, and duration. It could be thwarted if the target survived.",
-        "Components": "The first [[somatic]] component for the spell was grabbing the target; the spell also had a [[verbal]] component.",
-        "History": "In [[Cormanthyr]], as of {{yearlink|261}}, the spell was meant only for use in protection of the [[Coronal]]; nonetheless, [[Llombaerth Starym]] taught it to [[Elminster]] and tricked him into casting it to slay [[Nacacia]], another of Llombaerth's apprentices, to augment an antimagic effect atop a hut. Through the scheme, he framed Elminster for [[Mythanthar]]'s death."
+        "refs2e": "",
+        "mainbody": "Lifequench was a perilous spell that augmented another at the expense of a victims life.\nThe spell first quenched a targets life, snuffing them out instantly, and then augmented a spell still in the casters mind to double their normal power, increasing area, damage, and duration. It could be thwarted if the target survived.\nThe first somatic component for the spell was grabbing the target the spell also had a verbal component.\nIn Cormanthyr, as of , the spell was meant only for use in protection of the Coronal nonetheless, Llombaerth Starym taught it to Elminster and tricked him into casting it to slay Nacacia, another of Llombaerths apprentices, to augment an antimagic effect atop a hut. Through the scheme, he framed Elminster for Mythanthars death."
     }
 }

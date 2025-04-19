@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Gloves of appraisal.png",
-        "caption": "",
-        "name": "''Gloves of Appraisal''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Gloves",
-        "location": "[[Waterdeep]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Gloves of appraisal''''' were enchanted gloves blessed by [[Waukeen]] that at one time were commonly owned by wealthy merchants of [[Waterdeep]].",
-        "Description": "These expensive-looking enchanted gloves were sewn out of finest [[silk]]s and embroidered with the image of Waukeen or her symbols.",
-        "Powers": "The ''gloves of appraisal'' and their more powerful versions, ''greater gloves of appraisal'' were weaved with intricate magic that allowed the wearer to better gauge the weight and quality of gemstones and other smaller trade goods, increasing the effectiveness of the appraisal skill of the wearer.",
-        "History": "''Gloves of appraisal'' were commonly owned by the most prosperous merchants of Waterdeep before the [[Time of Troubles]]. Following the goddess' mysterious disappearance, most of the ''gloves of appraisal'' were sold by their owners who were disillusioned with the subject of their goddess not answering their prayers following the end of the Godswar. This made the ''gloves of appraisal'' a common item on the markets of the [[Sword Coast]], following the Merchant's Friend freedom and return to power in [[1370 DR]]. By [[1372 DR]], these gloves could be found in many cities along the coast, such as [[Neverwinter]], [[Daggerford]], and even in the ports of the [[Nelanther Isles]]."
+        "mainbody": "Gloves of appraisal were enchanted gloves blessed by Waukeen that at one time were commonly owned by wealthy merchants of Waterdeep.\nThese expensive-looking enchanted gloves were sewn out of finest silks and embroidered with the image of Waukeen or her symbols.\nThe gloves of appraisal and their more powerful versions, greater gloves of appraisal were weaved with intricate magic that allowed the wearer to better gauge the weight and quality of gemstones and other smaller trade goods, increasing the effectiveness of the appraisal skill of the wearer.\nGloves of appraisal were commonly owned by the most prosperous merchants of Waterdeep before the Time of Troubles. Following the goddess mysterious disappearance, most of the gloves of appraisal were sold by their owners who were disillusioned with the subject of their goddess not answering their prayers following the end of the Godswar. This made the gloves of appraisal a common item on the markets of the Sword Coast, following the Merchants Friend freedom and return to power in 1370 DR. By 1372 DR, these gloves could be found in many cities along the coast, such as Neverwinter, Daggerford, and even in the ports of the Nelanther Isles."
     }
 }

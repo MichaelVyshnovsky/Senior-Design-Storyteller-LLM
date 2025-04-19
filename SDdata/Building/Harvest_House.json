@@ -1,24 +1,8 @@
 {
-    "template_data": {
-        "lca": "left",
-        "rca": "right",
-        "caption": "1370 DR",
-        "captionstyle": "font-weight:bold;font-size:90%;"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Harvest House",
-        "aliases": "",
-        "type": "",
-        "architecture": "",
-        "floors": "",
-        "location": "[[Daggerford]], [[Sword Coast]]",
-        "owner": "[[Maerovyna]]",
-        "staff": "{{Split table|lca=left|rca=right|caption=1370 DR|captionstyle=font-weight:bold;font-size:90%;|[[Battle-Chaplain]]|1|[[priest]]s|14|lay brother|30}}",
         "occupants": "",
         "services": "",
-        "worship": "[[Chauntea]]",
+        "worship": "Chauntea",
         "pipes": "",
         "tankards": "",
         "coins": "",
@@ -30,10 +14,6 @@
         "inhabitants": "yes",
         "locations": "",
         "organizations": "",
-        "mainbody": "'''Harvest House''' was a temple of [[Chauntea]] in [[Daggerford]]. It was led by Lady Priestess [[Maerovyna]].{{Cite interactive atlas|3990 Daggerford}}\n\n{{quote|''Grass and flowers inside a building? This doesn't seem proper... Although it does smell nice... Hmph, no, not proper at all.''|[[Raegen Brunegar]]}}",
-        "Location": "The temple was located on the [[Farmer's Road]] near [[Duke's Way]] in central Daggerford.",
-        "Description": "Located by the city's northern gate, also known as the [[Farmers' Gate]], the Harvest House was a large stone temple that employed 14 priests and 30 laborers at one time in [[1370 DR]]. The main chamber where the worship took place was room carpeted by grass, with vines hanging off the walls, trees places along the floor in pots, and opulent flowers blooming across the room. The main shrine was a tree that radiated divine light and magic.",
-        "Activities": "In addition to teaching worshipers about religion and agriculture, the occupants of the Harvest House also maintained small shrines to other deities.\n\nThe temple was also housed the shop of the old [[Duneden]], the only [[apothecary]] of Daggerford.",
-        "Relationships": "The clergy of the Harvest House, especially the [[priest]]ess [[Maerovyna]], were close to the [[druid]]s of the [[Misty Forest]]. The druids maintained another temple to Chauntea in the forest, and Maerovyna would regularly send aspiring new recruits their way."
+        "mainbody": "Harvest House was a temple of Chauntea in Daggerford. It was led by Lady Priestess Maerovyna.\nThe temple was located on the Farmers Road near Dukes Way in central Daggerford.\nLocated by the citys northern gate, also known as the Farmers Gate, the Harvest House was a large stone temple that employed 14 priests and 30 laborers at one time in 1370 DR. The main chamber where the worship took place was room carpeted by grass, with vines hanging off the walls, trees places along the floor in pots, and opulent flowers blooming across the room. The main shrine was a tree that radiated divine light and magic.\nIn addition to teaching worshipers about religion and agriculture, the occupants of the Harvest House also maintained small shrines to other deities.\nThe temple was also housed the shop of the old Duneden, the only apothecary of Daggerford.\nThe clergy of the Harvest House, especially the priestess Maerovyna, were close to the druids of the Misty Forest. The druids maintained another temple to Chauntea in the forest, and Maerovyna would regularly send aspiring new recruits their way."
     }
 }

@@ -1,14 +1,8 @@
 {
-    "template_data": {
-        "edition": "4e"
-    },
     "document_data": {
-        "name": "Skulker’s Venom",
-        "keywords4e": "{{Desc/divine}}{{desc/poison}}{{desc/shadow}}",
         "type4e": "Encounter",
-        "level4e": "{{Spell table|edition=4e|[[Skulker of Vhaeraun]]|1}}",
-        "refs4e": "{{Cite dragon/413/Character Themes: Fringes of Drow Society}}",
-        "mainbody": "'''''Skulker’s venom''''' was the most basic of all abilities used by a [[skulker of Vhaeraun]].",
-        "References": "{{Refs}}\n1z8a45ybedvfkrc6vag93vwzvx0gblf"
+        "level4e": "",
+        "refs4e": "",
+        "mainbody": "Skulker’s venom was the most basic of all abilities used by a skulker of Vhaeraun.\nA skulker of Vhaeraun used skulkers venom by invoking Vhaerauns name and then striking his intended target with the poisoned weapon. The target didnt only suffer physical damage, which became increasingly more severe as the skulker gained power, but became more susceptible to follow-up attacks, though the effect quickly dissipated as did the poison if not used fast.\nA truly accomplished skulker could use this ability to temporarily weaken the targets offensive abilities.\n1z8a45ybedvfkrc6vag93vwzvx0gblf"
     }
 }

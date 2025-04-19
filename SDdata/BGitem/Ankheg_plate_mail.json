@@ -1,19 +1,5 @@
 {
     "document_data": {
-        "image": "Ankheg plate mail.png",
-        "caption": "",
-        "name": "Ankheg plate mail",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Chitin armor]]",
-        "location": "[[Faerûn]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "5,000 [[gp]]",
-        "weight2e": "{{SI|25|lb|k}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -35,7 +21,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''Ankheg plate mail''' was a type of [[chitin armor]], a suit of [[armor]] crafted from the chitinous shell of an [[ankheg]]. Despite its name, it was not ''true'' [[plate mail]] but rather offered its wearer similar protection in combat and could be worn by [[druid]]s.\n\nThis armor was highly valued for its lightness, as it weighed significantly less than metal plate armor. As such it cost anywhere from 4,000 - 6,000 [[gp]] and took between one to three days to be made.",
-        "Known crafters": "* [[Cromwell]] of [[Athkatla]]\n* [[Taerom Fuiruim]] of the [[Thunderhammer Smithy]] in [[Beregost]]"
+        "mainbody": "Ankheg plate mail was a type of chitin armor, a suit of armor crafted from the chitinous shell of an ankheg. Despite its name, it was not true plate mail but rather offered its wearer similar protection in combat and could be worn by druids.\nThis armor was highly valued for its lightness, as it weighed significantly less than metal plate armor. As such it cost anywhere from 4,000 - 6,000 gp and took between one to three days to be made.\n* Cromwell of Athkatla\n* Taerom Fuiruim of the Thunderhammer Smithy in Beregost"
     }
 }

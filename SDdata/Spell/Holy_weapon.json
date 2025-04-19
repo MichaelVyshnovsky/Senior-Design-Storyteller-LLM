@@ -1,24 +1,5 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "30|ft|long": "yes",
-        "30|ft|long_1": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Holy Weapon",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Evocation]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "{{spell table|edition=5e|[[Cleric]]|5|[[Paladin]]|5}}",
         "type5e": "",
         "refs5e": "",
         "feature4e": "",
@@ -45,8 +26,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Holy weapon''''' was a [[spell]] used by [[cleric]]s and [[paladin]]s to create a magical weapon.",
-        "Effects": "This spell allowed a caster to temporarily bless a weapon and imbue it with magical powers. During the spell, the weapon became radiant and bright light emanated from it, illuminating an area of up to {{SI|30|ft|long=yes}} in radius. At any point during the spell's duration, the caster could dismiss the spell, which caused a brilliant burst of radiant light. As a result, creatures within {{SI|30|ft|long=yes}} of the weapon were blinded for a short period.",
-        "Components": "This spell required only [[Verbal component|verbal]] and [[somatic component|somatic]] components."
+        "mainbody": "Holy weapon was a spell used by clerics and paladins to create a magical weapon. \nThis spell allowed a caster to temporarily bless a weapon and imbue it with magical powers. During the spell, the weapon became radiant and bright light emanated from it, illuminating an area of up to  in radius. At any point during the spells duration, the caster could dismiss the spell, which caused a brilliant burst of radiant light. As a result, creatures within  of the weapon were blinded for a short period. \nThis spell required only verbal and somatic components."
     }
 }

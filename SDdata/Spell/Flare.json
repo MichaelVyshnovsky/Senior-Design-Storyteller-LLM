@@ -1,36 +1,6 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "25|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Flare",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Evocation]]",
-        "domains3e": "",
-        "descriptors3e": "{{Desc/light}}",
-        "level3e": "{{spell table|edition=3e|[[Bard]]|0|[[Druid]]|0|[[Sorcerer]]|0|[[Wizard]]|0|[[Wu jen]]|0}}",
+        "level3e": "",
         "refs3e": "",
         "reversible2e": "",
         "school2e": "",
@@ -43,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''Flare''' was an [[Arcane magic|arcane]] [[evocation]] [[cantrip]] that produced a dazzling flash of light, possibly impairing vision.",
-        "Effects": "The caster could place the burst of light at any point within {{SI|25|ft|long=yes}} (farther for more experienced casters). It instantaneously produced a flash of blinding light at the target point. Any creature in close proximity that was facing the blast was dazzled for one minute unless they managed to resist the spell. Creatures without sight or those already dazzled were immune to the effects.",
-        "Components": "This cantrip only required a [[verbal component]] to cast."
+        "mainbody": "Flare was an arcane evocation cantrip that produced a dazzling flash of light, possibly impairing vision.\nThe caster could place the burst of light at any point within  (farther for more experienced casters). It instantaneously produced a flash of blinding light at the target point. Any creature in close proximity that was facing the blast was dazzled for one minute unless they managed to resist the spell. Creatures without sight or those already dazzled were immune to the effects.\nThis cantrip only required a verbal component to cast."
     }
 }

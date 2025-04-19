@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Ease Labor",
-        "othernames": "",
-        "deity": "[[Shiallia]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "Yes",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Healing sphere|Healing]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|3}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -45,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Ease labor''''' was a [[Divine magic|divine]] [[alteration]] [[spell]] used by specialty priests devoted to [[Shiallia]] called [[Woodwive]]s, enabling them to ease the birthing process.",
-        "Effects": "This spell eased the pain associated with giving birth when the priestess laid her hands upon the target's womb or just above it. This effect would last so long as the priestesses' hands remained on the target's body. \n\nThe reverse of this spell, ''inflict labor'', made the target experience the pain of labor to its fullest. The priestess only had to touch the target a single time for the pain to begin. The target first experienced violent nausea, preventing them from communicating or performing any basic function. Next the target would be physically exhausted to the point where they could barely move. Lastly, the target experienced intense pain that temporarily depleted their strength.\n\nShiallia's will prevented ''inflict labor'' from working on a pregnant target.",
-        "Components": "In addition to [[verbal component|verbal]] and [[somatic component]]s, this spell required as [[material component]]s an acorn to cast."
+        "mainbody": "Ease labor was a divine alteration spell used by specialty priests devoted to Shiallia called Woodwives, enabling them to ease the birthing process.\nThis spell eased the pain associated with giving birth when the priestess laid her hands upon the targets womb or just above it. This effect would last so long as the priestesses hands remained on the targets body. \nThe reverse of this spell, inflict labor, made the target experience the pain of labor to its fullest. The priestess only had to touch the target a single time for the pain to begin. The target first experienced violent nausea, preventing them from communicating or performing any basic function. Next the target would be physically exhausted to the point where they could barely move. Lastly, the target experienced intense pain that temporarily depleted their strength.\nShiallias will prevented inflict labor from working on a pregnant target.\nIn addition to verbal and somatic components, this spell required as material components an acorn to cast."
     }
 }

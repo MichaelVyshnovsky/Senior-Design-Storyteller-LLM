@@ -1,14 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "name": "Chaos Ward",
-        "school2e": "[[Abjuration]]",
-        "spheres2e": "[[Chaos sphere|Chaos]]",
-        "level2e": "{{spell table|edition=2e|[[Chaos sphere|Chaos]]|2|[[Cleric]]|2|[[Crusader]]|2}}",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''''Chaos ward''''' was an [[abjuration]] spell that surrounded a creature with a swirling light that reduced the chance of being hit in combat and even had a slight chance of deflecting or reflecting ranged attacks, physical or magical."
+        "mainbody": "Chaos ward was an abjuration spell that surrounded a creature with a swirling light that reduced the chance of being hit in combat and even had a slight chance of deflecting or reflecting ranged attacks, physical or magical."
     }
 }

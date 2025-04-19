@@ -1,23 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Northern Wharves Fishery",
-        "aliases": "",
-        "type": "Fishmonger",
-        "architecture": "",
-        "floors": "1",
-        "location": "[[Skullport/Lower Port|Lower Port]], [[Skullport]]",
-        "built": "",
-        "destroyed": "",
-        "owner": "",
-        "staff": "",
-        "occupants": "",
-        "services": "",
-        "worship": "",
-        "basicrefs": "",
-        "ownertable": "",
-        "stafftable": "{{Split table|[[Plunkwuurp]]|[[1370 DR]]}}",
         "histrefs": "",
         "pipes": "",
         "tankards": "",
@@ -34,9 +16,6 @@
         "inhabitants": "",
         "locations": "",
         "organizations": "",
-        "mainbody": "The '''Northern Wharves Fishery''' was a fishmonger in the [[Skullport/Lower Port|Lower Port]] of [[Skullport]] in the late 14{{th}} century [[DR]].",
-        "Structure": "The Northern Wharves Fishery was a one-story establishment in poor condition.",
-        "Services": "The Northern Wharves Fishery was known ostensibly as a business for buying and selling [[fish]] at average prices and quality. However, its true purpose was in rumormongering, making it one of Skullport's most effective hubs for spreading information—true or otherwise. For a nominal fee, typically ranging from 1 to 100 [[gold pieces]] depending on the nature and target of the rumor, patrons could discreetly relay a rumor to one of the many fish-cutters employed at the Fishery. Within hours, this information circulated through Skullport by word of mouth, reaching nearly every corner of the city.\n\nWhile the fishmongers bore no responsibility for any consequences resulting from the spread of hearsay, they could, for an additional fee, reveal the identity of the individual who initiated the rumor. The Fishery was also a reliable source of information for those seeking to hear the latest rumors, though caution was advised: much of what circulated may have been paid for by others looking to manipulate public perception.",
-        "Inhabitants": "The true ownership of the Fishery remained a mystery, likely for the safety of those involved. The establishment was managed by [[Plunkwuurp]], who was always present and ready to listen to new rumors and assisted with their dissemination."
+        "mainbody": "The Northern Wharves Fishery was a fishmonger in the Lower Port of Skullport in the late 14 century DR.\nThe Northern Wharves Fishery was a one-story establishment in poor condition.\nThe Northern Wharves Fishery was known ostensibly as a business for buying and selling fish at average prices and quality. However, its true purpose was in rumormongering, making it one of Skullports most effective hubs for spreading information—true or otherwise. For a nominal fee, typically ranging from 1 to 100 gold pieces depending on the nature and target of the rumor, patrons could discreetly relay a rumor to one of the many fish-cutters employed at the Fishery. Within hours, this information circulated through Skullport by word of mouth, reaching nearly every corner of the city.\nWhile the fishmongers bore no responsibility for any consequences resulting from the spread of hearsay, they could, for an additional fee, reveal the identity of the individual who initiated the rumor. The Fishery was also a reliable source of information for those seeking to hear the latest rumors, though caution was advised much of what circulated may have been paid for by others looking to manipulate public perception.\nThe true ownership of the Fishery remained a mystery, likely for the safety of those involved. The establishment was managed by Plunkwuurp, who was always present and ready to listen to new rumors and assisted with their dissemination."
     }
 }

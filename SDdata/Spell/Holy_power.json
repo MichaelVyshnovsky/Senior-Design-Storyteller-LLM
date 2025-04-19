@@ -1,29 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Holy Power",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Evocation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Cleric]]|4|[[Paladin]]|4|[[Painbearer]]|5}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -37,7 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Holy power''''' was strengthening [[spell]] from the [[evocation]] school of magic, used by [[divine]] spellcasters as well as by [[Painbearer]]s of [[Ilmater]].",
-        "Effects": "This divine magic allowed the caster to channel the power of their deity and temporarily strengthen their bodies. ''Holy power'' improved the caster's aim and the amount of damage they could deal to the target. The power of this spell grew along with the [[cleric]]'s or [[paladin]]'s proficiencies and experience."
+        "mainbody": "Holy power was strengthening spell from the evocation school of magic, used by divine spellcasters as well as by Painbearers of Ilmater.\nThis divine magic allowed the caster to channel the power of their deity and temporarily strengthen their bodies. Holy power improved the casters aim and the amount of damage they could deal to the target. The power of this spell grew along with the clerics or paladins proficiencies and experience."
     }
 }

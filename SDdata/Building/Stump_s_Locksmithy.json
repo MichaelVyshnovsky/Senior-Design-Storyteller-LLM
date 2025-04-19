@@ -1,22 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Stump's Locksmithy",
-        "aliases": "",
-        "type": "Shop",
-        "architecture": "",
-        "floors": "1",
-        "location": "[[Skullport/Central Trade Lanes|Central Trade Lanes]], [[Skullport]]",
-        "built": "",
-        "destroyed": "",
-        "owner": "",
-        "staff": "",
-        "occupants": "",
-        "services": "",
-        "worship": "",
-        "basicrefs": "",
-        "ownertable": "{{Split table|[[Stump]]|[[1370 DR]]}}",
         "stafftable": "",
         "histrefs": "",
         "pipes": "",
@@ -34,9 +17,6 @@
         "inhabitants": "",
         "locations": "",
         "organizations": "",
-        "mainbody": "'''Stump's Locksmithy''' was a locksmith in the [[Skullport/Central Trade Lanes|Central Trade Lanes]] of [[Skullport]] in the late 14{{th}} century [[DR]].",
-        "Structure": "Stump's Locksmithy was a one-story building in poor condition.",
-        "Services": "Stump's Locksmithy's locks and mechanisms were characterized by their exceptional complexity and quality, making them notoriously difficult for [[thieves]] and burglars to pick or disarm. Prices reflected the quality of the work, starting at 150 [[gold pieces]] for a standard lock and increasing significantly for added features, such as [[trap]]s or heightened complexity. Additionally, Stump was an avid [[chess]] player, and he offered a unique discount: anyone who defeated him in a game received a one-time 20% reduction on their purchase.",
-        "Inhabitants": "The owner was [[Stump]], a [[human]] [[rogue]] renowned for his skill in crafting highly sophisticated locks and traps."
+        "mainbody": "Stumps Locksmithy was a locksmith in the Central Trade Lanes of Skullport in the late 14 century DR.\nStumps Locksmithy was a one-story building in poor condition.\nStumps Locksmithys locks and mechanisms were characterized by their exceptional complexity and quality, making them notoriously difficult for thieves and burglars to pick or disarm. Prices reflected the quality of the work, starting at 150 gold pieces for a standard lock and increasing significantly for added features, such as traps or heightened complexity. Additionally, Stump was an avid chess player, and he offered a unique discount anyone who defeated him in a game received a one-time 20% reduction on their purchase.\nThe owner was Stump, a human rogue renowned for his skill in crafting highly sophisticated locks and traps."
     }
 }

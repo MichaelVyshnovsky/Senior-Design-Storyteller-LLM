@@ -1,25 +1,21 @@
 2900
 153177
-
 939700
 867687
-2024-05-12T22:42:59Z
-
+2024-05-12T224259Z
 Artyom.pavlov
 24367202
-
 939700
 interactivemap
 text/plain
-{
-    "mapImage": "Shining South - Luiren - D&D 3.5 - p143.jpg",
-    "pageCategories": [
+    "mapImage" "Shining South - Luiren - D&D 3.5 - p143.jpg",
+    "pageCategories" [
         "Maps"
     ],
-    "defaultSort": "",
-    "description": "A map of the southern [[halfling]] land of [[Luiren]] on the [[Great Sea]].",
-    "coordinateOrder": "xy",
-    "mapBounds": [
+    "defaultSort" "",
+    "description" "A map of the southern halfling land of Luiren on the Great Sea.",
+    "coordinateOrder" "xy",
+    "mapBounds" [
         [
             0,
             0
@@ -29,547 +25,490 @@ text/plain
             1488
         ]
     ],
-    "origin": "bottom-left",
-    "useMarkerClustering": false,
-    "categories": [
-        {
-            "id": "1",
-            "listId": 1,
-            "name": "Cities",
-            "color": "#f00",
-            "symbol": "",
-            "symbolColor": "",
-            "icon": "File:City icon.svg"
-        },
-        {
-            "id": "2",
-            "listId": 2,
-            "name": "Towns & Settlements",
-            "color": "#ff6a6a",
-            "symbol": "",
-            "symbolColor": "",
-            "icon": "File:Hamlet icon.svg"
-        },
-        {
-            "id": "8",
-            "listId": 3,
-            "name": "Points of Interest",
-            "color": "#ffffff",
-            "symbol": "",
-            "symbolColor": "",
-            "icon": "File:Black elminster icon.svg"
-        },
-        {
-            "id": "10",
-            "listId": 4,
-            "name": "Ruins",
-            "color": "#656565",
-            "symbol": "",
-            "symbolColor": "",
-            "icon": "File:Ruins icon.svg"
-        },
-        {
-            "id": "9",
-            "listId": 5,
-            "name": "Roads & Trails",
-            "color": "#2e2703",
-            "symbol": "",
-            "symbolColor": "",
-            "icon": "File:Mountain road icon.svg"
-        },
-        {
-            "id": "4",
-            "listId": 6,
-            "name": "Forests",
-            "color": "#00921c",
-            "symbol": "",
-            "symbolColor": "",
-            "icon": "File:Forest icon.svg"
-        },
-        {
-            "id": "5",
-            "listId": 7,
-            "name": "Mountains",
-            "color": "#ff9900",
-            "symbol": "",
-            "symbolColor": "",
-            "icon": "File:Mountains icon.svg"
-        },
-        {
-            "id": "6",
-            "listId": 8,
-            "name": "Wetlands",
-            "color": "#6882f2",
-            "symbol": "",
-            "symbolColor": "",
-            "icon": "File:Swamp icon.svg"
-        },
-        {
-            "id": "3",
-            "listId": 9,
-            "name": "Bodies of Water",
-            "color": "#00e8fa",
-            "symbol": "",
-            "symbolColor": "",
-            "icon": "File:Bodies of water icon.svg"
-        },
-        {
-            "id": "7",
-            "listId": 10,
-            "name": "Islands",
-            "color": "#050065",
-            "symbol": "",
-            "symbolColor": "",
-            "icon": "File:Islands icon.svg"
-        }
+    "origin" "bottom-left",
+    "useMarkerClustering" false,
+    "categories" [
+            "id" "1",
+            "listId" 1,
+            "name" "Cities",
+            "color" "#f00",
+            "symbol" "",
+            "symbolColor" "",
+            "icon" "FileCity icon.svg"
+        ,
+            "id" "2",
+            "listId" 2,
+            "name" "Towns & Settlements",
+            "color" "#ff6a6a",
+            "symbol" "",
+            "symbolColor" "",
+            "icon" "FileHamlet icon.svg"
+        ,
+            "id" "8",
+            "listId" 3,
+            "name" "Points of Interest",
+            "color" "#ffffff",
+            "symbol" "",
+            "symbolColor" "",
+            "icon" "FileBlack elminster icon.svg"
+        ,
+            "id" "10",
+            "listId" 4,
+            "name" "Ruins",
+            "color" "#656565",
+            "symbol" "",
+            "symbolColor" "",
+            "icon" "FileRuins icon.svg"
+        ,
+            "id" "9",
+            "listId" 5,
+            "name" "Roads & Trails",
+            "color" "#2e2703",
+            "symbol" "",
+            "symbolColor" "",
+            "icon" "FileMountain road icon.svg"
+        ,
+            "id" "4",
+            "listId" 6,
+            "name" "Forests",
+            "color" "#00921c",
+            "symbol" "",
+            "symbolColor" "",
+            "icon" "FileForest icon.svg"
+        ,
+            "id" "5",
+            "listId" 7,
+            "name" "Mountains",
+            "color" "#ff9900",
+            "symbol" "",
+            "symbolColor" "",
+            "icon" "FileMountains icon.svg"
+        ,
+            "id" "6",
+            "listId" 8,
+            "name" "Wetlands",
+            "color" "#6882f2",
+            "symbol" "",
+            "symbolColor" "",
+            "icon" "FileSwamp icon.svg"
+        ,
+            "id" "3",
+            "listId" 9,
+            "name" "Bodies of Water",
+            "color" "#00e8fa",
+            "symbol" "",
+            "symbolColor" "",
+            "icon" "FileBodies of water icon.svg"
+        ,
+            "id" "7",
+            "listId" 10,
+            "name" "Islands",
+            "color" "#050065",
+            "symbol" "",
+            "symbolColor" "",
+            "icon" "FileIslands icon.svg"
     ],
-    "markers": [
-        {
-            "categoryId": "4",
-            "position": [
+    "markers" [
+            "categoryId" "4",
+            "position" [
                 526.999265521549,
                 930.0034008903455
             ],
-            "popup": {
-                "title": "Lluirwood",
-                "description": "An ancient 300 mile-long forest in [[Luiren]], home to dire monsters like [[stirge]]s, [[spider]]s, [[snake]]s, [[dark tree]]s, and the site of the [[Hin Ghostwar.]]",
-                "link": {
-                    "url": "Lluirwood",
-                    "label": "Lluirwood"
-                },
-                "image": "File:Shining South - Kaldair and Vaprak - Vince Locke - p149.jpg"
-            },
-            "id": "1"
-        },
-        {
-            "categoryId": "4",
-            "position": [
+            "popup" 
+                "title" "Lluirwood",
+                "description" "An ancient 300 mile-long forest in Luiren, home to dire monsters like stirges, spiders, snakes, dark trees, and the site of the Hin Ghostwar.",
+                "link" 
+                    "url" "Lluirwood",
+                    "label" "Lluirwood"
+                ,
+                "image" "FileShining South - Kaldair and Vaprak - Vince Locke - p149.jpg"
+            ,
+            "id" "1"
+        ,
+            "categoryId" "4",
+            "position" [
                 343.000734478451,
                 142.00680178069092
             ],
-            "popup": {
-                "title": "Southern Lluirwood",
-                "description": "Also known as the '''Granuin Forest''', once a part of larger [[Lluirwood]], the home of at least one [[hin]]-snatching [[yuan-ti]] clan, and a territorial [[beholder]] deep within its forest stronghold.",
-                "link": {
-                    "url": "Southern Lluirwood",
-                    "label": "Southern Lluirwood"
-                }
-            },
-            "id": "2"
-        },
-        {
-            "categoryId": "3",
-            "position": [
+            "popup" 
+                "title" "Southern Lluirwood",
+                "description" "Also known as the Granuin Forest, once a part of larger Lluirwood, the home of at least one hin-snatching yuan-ti clan, and a territorial beholder deep within its forest stronghold.",
+                "link" 
+                    "url" "Southern Lluirwood",
+                    "label" "Southern Lluirwood"
+            ,
+            "id" "2"
+        ,
+            "categoryId" "3",
+            "position" [
                 1516.4582911266689,
                 43.806047845601825
             ],
-            "popup": {
-                "title": "Great Sea",
-                "description": "Also known as '''Bahr al-Kibar''', one of the larger seas of [[Toril]]; it laid between the continents of [[Faer\u00fbn]] and [[Zakhara]].",
-                "link": {
-                    "url": "Great Sea",
-                    "label": "Great Sea"
-                },
-                "image": "File:Tartyron Unbound Tartyron 3.jpg"
-            },
-            "id": "3"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Great Sea",
+                "description" "Also known as Bahr al-Kibar, one of the larger seas of Toril it laid between the continents of Faer\u00fbn and Zakhara.",
+                "link" 
+                    "url" "Great Sea",
+                    "label" "Great Sea"
+                ,
+                "image" "FileTartyron Unbound Tartyron 3.jpg"
+            ,
+            "id" "3"
+        ,
+            "categoryId" "8",
+            "position" [
                 214,
                 1466.0020005237327
             ],
-            "popup": {
-                "title": "Eastern Shaar",
-                "description": "An eastern extension of [[the Shaar]], separated by the [[Landrise]] \u2013 a relative wasteland of wild monsters and raiders.",
-                "link": {
-                    "url": "Eastern Shaar",
-                    "label": "Eastern Shaar"
-                }
-            },
-            "id": "4"
-        },
-        {
-            "categoryId": "10",
-            "position": [
+            "popup" 
+                "title" "Eastern Shaar",
+                "description" "An eastern extension of the Shaar, separated by the Landrise \u2013 a relative wasteland of wild monsters and raiders.",
+                "link" 
+                    "url" "Eastern Shaar",
+                    "label" "Eastern Shaar"
+            ,
+            "id" "4"
+        ,
+            "categoryId" "10",
+            "position" [
                 1971.9996852235208,
                 1456
             ],
-            "popup": {
-                "title": "Thruldar",
-                "description": "The most westerly outpost of [[Estagund]], destroyed by a [[druid]] named [[Voolad]] in [[1264 DR]] with his spirit imprisoned within the ruin.",
-                "link": {
-                    "url": "Thruldar",
-                    "label": "Thruldar"
-                },
-                "image": "File:Thruldar.png"
-            },
-            "id": "5"
-        },
-        {
-            "categoryId": "5",
-            "position": [
+            "popup" 
+                "title" "Thruldar",
+                "description" "The most westerly outpost of Estagund, destroyed by a druid named Voolad in 1264 DR with his spirit imprisoned within the ruin.",
+                "link" 
+                    "url" "Thruldar",
+                    "label" "Thruldar"
+                ,
+                "image" "FileThruldar.png"
+            ,
+            "id" "5"
+        ,
+            "categoryId" "5",
+            "position" [
                 1109.001364031409,
                 1464.0032008379721
             ],
-            "popup": {
-                "title": "Toadsquat Mountains",
-                "description": "Also known as the '''Little Mountains''', a mountain range that formed the northern border of [[Luiren]], inhabited by reclusive [[dwarves]] and hungry [[ogre]]s.",
-                "link": {
-                    "url": "Toadsquat Mountains",
-                    "label": "Toadsquat Mountains"
-                }
-            },
-            "id": "6"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Toadsquat Mountains",
+                "description" "Also known as the Little Mountains, a mountain range that formed the northern border of Luiren, inhabited by reclusive dwarves and hungry ogres.",
+                "link" 
+                    "url" "Toadsquat Mountains",
+                    "label" "Toadsquat Mountains"
+            ,
+            "id" "6"
+        ,
+            "categoryId" "8",
+            "position" [
                 1058.999790149014,
                 1092.0006001571198
             ],
-            "popup": {
-                "title": "Battle of Three Stumps",
-                "description": "The site of a battle against invading rampaging [[ogre]]s who menaced [[Luiren]] in [[450 DR]].",
-                "link": {
-                    "url": "Battle of Three Stumps",
-                    "label": "Battle of Three Stumps"
-                }
-            },
-            "id": "7"
-        },
-        {
-            "categoryId": "2",
-            "position": [
+            "popup" 
+                "title" "Battle of Three Stumps",
+                "description" "The site of a battle against invading rampaging ogres who menaced Luiren in 450 DR.",
+                "link" 
+                    "url" "Battle of Three Stumps",
+                    "label" "Battle of Three Stumps"
+            ,
+            "id" "7"
+        ,
+            "categoryId" "2",
+            "position" [
                 1420.999790149014,
                 1049.0002000523732
             ],
-            "popup": {
-                "title": "Fasruil",
-                "description": "The northernmost city in [[Luiren]], famous for the tasty red [[rhubarb]] and abundant fruit harvests.",
-                "link": {
-                    "url": "Fasruil",
-                    "label": "Fasruil"
-                }
-            },
-            "id": "8"
-        },
-        {
-            "categoryId": "1",
-            "position": [
+            "popup" 
+                "title" "Fasruil",
+                "description" "The northernmost city in Luiren, famous for the tasty red rhubarb and abundant fruit harvests.",
+                "link" 
+                    "url" "Fasruil",
+                    "label" "Fasruil"
+            ,
+            "id" "8"
+        ,
+            "categoryId" "1",
+            "position" [
                 1392.999790149014,
                 810.0005001309331
             ],
-            "popup": {
-                "title": "Shoun",
-                "description": "A coastal trade city of the [[hin]], famed for its bakeries, dairy, and produce.",
-                "link": {
-                    "url": "Shoun",
-                    "label": "Shoun"
-                }
-            },
-            "id": "9"
-        },
-        {
-            "categoryId": "2",
-            "position": [
+            "popup" 
+                "title" "Shoun",
+                "description" "A coastal trade city of the hin, famed for its bakeries, dairy, and produce.",
+                "link" 
+                    "url" "Shoun",
+                    "label" "Shoun"
+            ,
+            "id" "9"
+        ,
+            "categoryId" "2",
+            "position" [
                 1086.999895074507,
                 964.0004001047465
             ],
-            "popup": {
-                "title": "Lluirvale",
-                "description": "A [[halfling]] settlement of note.",
-                "link": {
-                    "url": "Lluirvale",
-                    "label": "Lluirvale"
-                }
-            },
-            "id": "10"
-        },
-        {
-            "categoryId": "1",
-            "position": [
+            "popup" 
+                "title" "Lluirvale",
+                "description" "A halfling settlement of note.",
+                "link" 
+                    "url" "Lluirvale",
+                    "label" "Lluirvale"
+            ,
+            "id" "10"
+        ,
+            "categoryId" "1",
+            "position" [
                 1083.999790149014,
                 778.0001000261866
             ],
-            "popup": {
-                "title": "Ojannath",
-                "description": "A coastal [[halfling]] city of note.",
-                "link": {
-                    "url": "Ojannath",
-                    "label": "Ojannath"
-                }
-            },
-            "id": "11"
-        },
-        {
-            "categoryId": "2",
-            "position": [
+            "popup" 
+                "title" "Ojannath",
+                "description" "A coastal halfling city of note.",
+                "link" 
+                    "url" "Ojannath",
+                    "label" "Ojannath"
+            ,
+            "id" "11"
+        ,
+            "categoryId" "2",
+            "position" [
                 603.999895074507,
                 650.0004001047465
             ],
-            "popup": {
-                "title": "Crimel",
-                "description": "A small [[halfling]] city along the edge of the [[Long Forest]], famed for its woodwork and lumber.",
-                "link": {
-                    "url": "Crimel",
-                    "label": "Crimel"
-                },
-                "image": "File:Crimel.png"
-            },
-            "id": "12"
-        },
-        {
-            "categoryId": "1",
-            "position": [
+            "popup" 
+                "title" "Crimel",
+                "description" "A small halfling city along the edge of the Long Forest, famed for its woodwork and lumber.",
+                "link" 
+                    "url" "Crimel",
+                    "label" "Crimel"
+                ,
+                "image" "FileCrimel.png"
+            ,
+            "id" "12"
+        ,
+            "categoryId" "1",
+            "position" [
                 851.999790149014,
                 567.0002000523732
             ],
-            "popup": {
-                "title": "Beluir",
-                "description": "The largest trade city and the de-facto capital of [[Luiren]], established in [[14 DR]].",
-                "link": {
-                    "url": "Beluir",
-                    "label": "Beluir"
-                },
-                "image": "File:Shining South - Festival - Vince Locke - p145.jpg"
-            },
-            "id": "13"
-        },
-        {
-            "categoryId": "2",
-            "position": [
+            "popup" 
+                "title" "Beluir",
+                "description" "The largest trade city and the de-facto capital of Luiren, established in 14 DR.",
+                "link" 
+                    "url" "Beluir",
+                    "label" "Beluir"
+                ,
+                "image" "FileShining South - Festival - Vince Locke - p145.jpg"
+            ,
+            "id" "13"
+        ,
+            "categoryId" "2",
+            "position" [
                 534.999895074507,
                 393.0004001047465
             ],
-            "popup": {
-                "title": "Ammathluir",
-                "description": "An important trading town in [[Luiren]], a caravan hub inhabited by craftsmen, woodcarvers, and leatherworkers.",
-                "link": {
-                    "url": "Ammathluir",
-                    "label": "Ammathluir"
-                },
-                "image": "File:Luiren and a human.png"
-            },
-            "id": "14"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Ammathluir",
+                "description" "An important trading town in Luiren, a caravan hub inhabited by craftsmen, woodcarvers, and leatherworkers.",
+                "link" 
+                    "url" "Ammathluir",
+                    "label" "Ammathluir"
+                ,
+                "image" "FileLuiren and a human.png"
+            ,
+            "id" "14"
+        ,
+            "categoryId" "8",
+            "position" [
                 242.99832119211197,
                 405.9986996595738
             ],
-            "popup": {
-                "title": "Ammathvale",
-                "description": "A an open valley spanning roughly 100\u202fmiles (160,000\u202fmeters).",
-                "link": {
-                    "url": "Ammathvale",
-                    "label": "Ammathvale"
-                },
-                "image": "File:Luiren2E.JPG"
-            },
-            "id": "15"
-        },
-        {
-            "categoryId": "10",
-            "position": [
+            "popup" 
+                "title" "Ammathvale",
+                "description" "A an open valley spanning roughly 100\u202fmiles (160,000\u202fmeters).",
+                "link" 
+                    "url" "Ammathvale",
+                    "label" "Ammathvale"
+                ,
+                "image" "FileLuiren2E.JPG"
+            ,
+            "id" "15"
+        ,
+            "categoryId" "10",
+            "position" [
                 96,
                 209.00050013093312
             ],
-            "popup": {
-                "title": "Ammathtar",
-                "description": "A ruined city located along the western border of [[Southern Lluirwood]] near the [[Caravan Road]], destroyed by a [[beholder]] in [[461 DR]].",
-                "link": {
-                    "url": "Ammathtar",
-                    "label": "Ammathtar"
-                },
-                "image": "File:Dunfeld.JPG"
-            },
-            "id": "16"
-        },
-        {
-            "categoryId": "6",
-            "position": [
+            "popup" 
+                "title" "Ammathtar",
+                "description" "A ruined city located along the western border of Southern Lluirwood near the Caravan Road, destroyed by a beholder in 461 DR.",
+                "link" 
+                    "url" "Ammathtar",
+                    "label" "Ammathtar"
+                ,
+                "image" "FileDunfeld.JPG"
+            ,
+            "id" "16"
+        ,
+            "categoryId" "6",
+            "position" [
                 1105.9150057757604,
                 287.0864848288561
             ],
-            "popup": {
-                "title": "Mortik Swamp",
-                "description": "Or '''Mortick Swamp''', the largest wetlands in [[Luiren]] inhabited by giant insects, [[giant toad]]s, [[merrow]], and [[scrag]]s.",
-                "link": {
-                    "url": "Mortik Swamp",
-                    "label": "Mortik Swamp"
-                }
-            },
-            "id": "17"
-        },
-        {
-            "categoryId": "1",
-            "position": [
+            "popup" 
+                "title" "Mortik Swamp",
+                "description" "Or Mortick Swamp, the largest wetlands in Luiren inhabited by giant insects, giant toads, merrow, and scrags.",
+                "link" 
+                    "url" "Mortik Swamp",
+                    "label" "Mortik Swamp"
+            ,
+            "id" "17"
+        ,
+            "categoryId" "1",
+            "position" [
                 960.9998950745071,
                 343.0004001047465
             ],
-            "popup": {
-                "title": "Chethel",
-                "description": "A coastal [[hin]] city of trade and skilled shipbuilders.",
-                "link": {
-                    "url": "Chethel",
-                    "label": "Chethel"
-                }
-            },
-            "id": "18"
-        },
-        {
-            "categoryId": "1",
-            "position": [
+            "popup" 
+                "title" "Chethel",
+                "description" "A coastal hin city of trade and skilled shipbuilders.",
+                "link" 
+                    "url" "Chethel",
+                    "label" "Chethel"
+            ,
+            "id" "18"
+        ,
+            "categoryId" "1",
+            "position" [
                 1294.999790149014,
                 362.00060015711983
             ],
-            "popup": {
-                "title": "Krenadir",
-                "description": "A [[halfling]] city of note established in [[218 DR]].",
-                "link": {
-                    "url": "Krenadir",
-                    "label": "Krenadir"
-                }
-            },
-            "id": "19"
-        },
-        {
-            "categoryId": "8",
-            "position": [
+            "popup" 
+                "title" "Krenadir",
+                "description" "A halfling city of note established in 218 DR.",
+                "link" 
+                    "url" "Krenadir",
+                    "label" "Krenadir"
+            ,
+            "id" "19"
+        ,
+            "categoryId" "8",
+            "position" [
                 1316.9266163735076,
                 197.83903238482912
             ],
-            "popup": {
-                "title": "Krenalir Peninsula",
-                "description": "The peninsula that covered all of the land from the [[Mortick Swamp]] east to the coast to the [[Luirenstrand]] and on the south by the [[Great Sea]].",
-                "link": {
-                    "url": "Krenalir Peninsula",
-                    "label": "Krenalir Peninsula"
-                },
-                "image": "File:KrenalirPen.JPG"
-            },
-            "id": "20"
-        },
-        {
-            "categoryId": "3",
-            "position": [
+            "popup" 
+                "title" "Krenalir Peninsula",
+                "description" "The peninsula that covered all of the land from the Mortick Swamp east to the coast to the Luirenstrand and on the south by the Great Sea.",
+                "link" 
+                    "url" "Krenalir Peninsula",
+                    "label" "Krenalir Peninsula"
+                ,
+                "image" "FileKrenalirPen.JPG"
+            ,
+            "id" "20"
+        ,
+            "categoryId" "3",
+            "position" [
                 947.4919255083732,
                 656.2076827378017
             ],
-            "popup": {
-                "title": "Hambone Bay",
-                "description": "A small body of water located on the western end of the [[Luirenstrand]].",
-                "link": {
-                    "url": "Hambone Bay",
-                    "label": "Hambone Bay"
-                }
-            },
-            "id": "21"
-        },
-        {
-            "categoryId": "3",
-            "position": [
+            "popup" 
+                "title" "Hambone Bay",
+                "description" "A small body of water located on the western end of the Luirenstrand.",
+                "link" 
+                    "url" "Hambone Bay",
+                    "label" "Hambone Bay"
+            ,
+            "id" "21"
+        ,
+            "categoryId" "3",
+            "position" [
                 1249.0305653834616,
                 527.3663528406302
             ],
-            "popup": {
-                "title": "Luirenstrand",
-                "description": "A large bay and coastline in the [[Great Sea]] that formed one of the borders of [[Luiren]].\n",
-                "link": {
-                    "url": "Luirenstrand",
-                    "label": "Luirenstrand"
-                }
-            },
-            "id": "22"
-        },
-        {
-            "categoryId": "7",
-            "position": [
+            "popup" 
+                "title" "Luirenstrand",
+                "description" "A large bay and coastline in the Great Sea that formed one of the borders of Luiren.\n",
+                "link" 
+                    "url" "Luirenstrand",
+                    "label" "Luirenstrand"
+            ,
+            "id" "22"
+        ,
+            "categoryId" "7",
+            "position" [
                 1788.4704624838569,
                 651.8976718325557
             ],
-            "popup": {
-                "title": "Quelthiir",
-                "description": "Or '''Passion Island''', a large island 100 miles long and 10 miles wide; a sandbar, with low hills and sea grass with only the occasional stunted tree.",
-                "link": {
-                    "url": "Quelthiir",
-                    "label": "Quelthiir"
-                }
-            },
-            "id": "23"
-        },
-        {
-            "categoryId": "9",
-            "position": [
+            "popup" 
+                "title" "Quelthiir",
+                "description" "Or Passion Island, a large island 100 miles long and 10 miles wide a sandbar, with low hills and sea grass with only the occasional stunted tree.",
+                "link" 
+                    "url" "Quelthiir",
+                    "label" "Quelthiir"
+            ,
+            "id" "23"
+        ,
+            "categoryId" "9",
+            "position" [
                 278.312024989425,
                 1063.863662929101
             ],
-            "popup": {
-                "title": "Trader's Way",
-                "description": "The caravan road that began on the [[Golden Road]] at [[Kormul]] and moved southeast, passing by the [[River Talar]], [[Rethmar]], [[Channathgate]], before climbing the [[Landrise]] and reaching [[Three Swords]], [[Eartheart]], and [[Delzimmer]], ending in [[Dambrath]].",
-                "link": {
-                    "url": "Trader's Way",
-                    "label": "Trader's Way"
-                },
-                "image": "File:Luiren 2e map.png"
-            },
-            "id": "24"
-        },
-        {
-            "categoryId": "2",
-            "position": [
+            "popup" 
+                "title" "Traders Way",
+                "description" "The caravan road that began on the Golden Road at Kormul and moved southeast, passing by the River Talar, Rethmar, Channathgate, before climbing the Landrise and reaching Three Swords, Eartheart, and Delzimmer, ending in Dambrath.",
+                "link" 
+                    "url" "Traders Way",
+                    "label" "Traders Way"
+                ,
+                "image" "FileLuiren 2e map.png"
+            ,
+            "id" "24"
+        ,
+            "categoryId" "2",
+            "position" [
                 173.99832119211203,
                 1306
             ],
-            "popup": {
-                "title": "Deepburrow",
-                "description": "A [[hin]] settlement in [[Luiren]] with extensive tunnels connecting to the [[Underdark]].",
-                "link": {
-                    "url": "Deepburrow",
-                    "label": "Deepburrow"
-                },
-                "image": "File:Bhaerynden.png"
-            },
-            "id": "25"
-        },
-        {
-            "categoryId": "10",
-            "position": [
+            "popup" 
+                "title" "Deepburrow",
+                "description" "A hin settlement in Luiren with extensive tunnels connecting to the Underdark.",
+                "link" 
+                    "url" "Deepburrow",
+                    "label" "Deepburrow"
+                ,
+                "image" "FileBhaerynden.png"
+            ,
+            "id" "25"
+        ,
+            "categoryId" "10",
+            "position" [
                 789.9991605960561,
                 1397.9963990572815
             ],
-            "popup": {
-                "title": "Castle Al'Hanar",
-                "description": "A ruined fortress built during the time of the Kingdom of [[Eltabranar]], rumored to contain more [[magic]] in one location than any other place since the reign of the [[Imaskari]].",
-                "link": {
-                    "url": "Castle Al'Hanar",
-                    "label": "Castle Al'Hanar"
-                },
-                "image": "File:Beastlands.jpg"
-            },
-            "id": "26"
-        },
-        {
-            "categoryId": "10",
-            "position": [
+            "popup" 
+                "title" "Castle AlHanar",
+                "description" "A ruined fortress built during the time of the Kingdom of Eltabranar, rumored to contain more magic in one location than any other place since the reign of the Imaskari.",
+                "link" 
+                    "url" "Castle AlHanar",
+                    "label" "Castle AlHanar"
+                ,
+                "image" "FileBeastlands.jpg"
+            ,
+            "id" "26"
+        ,
+            "categoryId" "10",
+            "position" [
                 1103.4425426313164,
                 216.29496226571152
             ],
-            "popup": {
-                "title": "Mortik City",
-                "description": "The legendary ruins of a former settlement in the heart [[Mortik Swamp]], under the realm of the enigmatic [[Bog King]].",
-                "link": {
-                    "url": "Mortik City",
-                    "label": "Mortik City"
-                }
-            },
-            "id": "27"
-        }
+            "popup" 
+                "title" "Mortik City",
+                "description" "The legendary ruins of a former settlement in the heart Mortik Swamp, under the realm of the enigmatic Bog King.",
+                "link" 
+                    "url" "Mortik City",
+                    "label" "Mortik City"
+            ,
+            "id" "27"
     ]
-}
 dcafcsgsvsofe47l6s8f2473yey050f
-
-

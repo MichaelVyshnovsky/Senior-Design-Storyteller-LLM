@@ -1,21 +1,5 @@
 {
-    "template_data": {
-        "75|mile|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Torlathan",
-        "alt spelling": "",
-        "aliases": "",
-        "type": "Settlement",
-        "region": "[[Amn]], [[west Faerûn]]",
-        "size": "City",
-        "elevation": "",
-        "depth": "",
-        "capital": "",
-        "largest city": "",
-        "georefs": "{{Cite web enhancement/Westgate Timeline}}",
         "demonym": "",
         "population": "",
         "races": "",
@@ -43,7 +27,7 @@
         "start event": "",
         "start date": "",
         "event1": "Destroyed",
-        "date1": "[[1255 DR]]",
+        "date1": "1255 DR",
         "event2": "",
         "date2": "",
         "event3": "",
@@ -91,8 +75,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "'''Torlathan''' was a city in eastern [[Amn]] that served as an important trade stop with the [[Dragon Coast]], named after the royal [[Torlath]] family.",
-        "Geography": "The city was built on the north bank of the [[Valashar River]], {{SI|75|mile|k|long=yes}} upstream of its confluence with the [[Khalieshyr]].",
-        "History": "Torlathan was an important part of the overland caravans between Amn and [[Westgate]] over the [[Giant's Plain]]. It was destroyed during the early [[Crusade of Slaughter]] in the {{YearlinkName|1255}}, as the [[Bhaal]]ist crusaders traveled from eastern Amn to Westgate along the trade route, crippling the east–west trade for decades. Attempts to rebuild the city and re-establish the trade routes proceeded slowly until the fall of the Amnian monarchy in the {{YearlinkName|1276}}, when it was abandoned completely."
+        "mainbody": "Torlathan was a city in eastern Amn that served as an important trade stop with the Dragon Coast, named after the royal Torlath family.\nThe city was built on the north bank of the Valashar River,  upstream of its confluence with the Khalieshyr.\nTorlathan was an important part of the overland caravans between Amn and Westgate over the Giants Plain. It was destroyed during the early Crusade of Slaughter in the , as the Bhaalist crusaders traveled from eastern Amn to Westgate along the trade route, crippling the east–west trade for decades. Attempts to rebuild the city and re-establish the trade routes proceeded slowly until the fall of the Amnian monarchy in the , when it was abandoned completely."
     }
 }

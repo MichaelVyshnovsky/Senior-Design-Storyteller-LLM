@@ -1,32 +1,5 @@
 {
-    "template_data": {
-        "0.1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Consuming Darkness''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Ring]]",
-        "material": "[[Gold]]",
-        "creator": "",
-        "origin": "[[Amskar's enclave]]",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|0.1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -43,10 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "A ring blessed with [[Shar]]'s love.\n}}": "=Description==",
-        "mainbody": "spite being made of [[gold]], the ring appeared as if a completely black silhouette, shedding or reflecting no light at all.",
-        "Description": "Despite being made of [[gold]], the ring appeared as if a completely black silhouette, shedding or reflecting no light at all.",
-        "Powers": "''Consuming Darkness'' granted the wearer an increased ability in the fields of discombobulating and assassinating their targets.",
-        "History": "The ring was taken from the treasury of the [[Shadovar]] Archwizard [[Amskar]]'s [[Amskar's enclave|flying glacier enclave]] by [[Cormyr]]ean forces as they attacked it. The battle destroyed the enclave and the army upon it, but ''Consuming Darkness'' was one of the treasures recovered intact."
+        "mainbody": "Consuming Darkness was a magical ring found in Cormyr in the mid-1480s DR.\nDespite being made of gold, the ring appeared as if a completely black silhouette, shedding or reflecting no light at all.\nConsuming Darkness granted the wearer an increased ability in the fields of discombobulating and assassinating their targets.\nThe ring was taken from the treasury of the Shadovar Archwizard Amskars flying glacier enclave by Cormyrean forces as they attacked it. The battle destroyed the enclave and the army upon it, but Consuming Darkness was one of the treasures recovered intact."
     }
 }

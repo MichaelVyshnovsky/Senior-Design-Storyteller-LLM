@@ -1,22 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Clockwork Prosthetics",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Prosthetic]]",
-        "material": "",
-        "creator": "[[Tohkkal Burrwarden]], [[Tykkyl Burrwarden]]",
-        "origin": "",
-        "location": "[[Clockwork Wonders]], [[Skullport]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "{{plain table|Hand|7,500 gp|Leg|10,000 gp|Arm|20,000 gp}}",
         "weight2e": "",
         "refs2e": "",
         "school3e": "",
@@ -47,7 +30,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Clockwork prosthetics''' were mechanical [[prosthetic]]s.",
-        "Description": "Clockwork prosthetics were highly specialized and costly, with prices starting at 10,000 [[gold piece]]s for a leg, 20,000 for an arm, and around 7,500 for a hand, owing to its complex parts. The production process for each prosthetic was labor-intensive, requiring a month for design and an additional one to three months to construct and refine each limb.\n\nClockwork prosthetics offered durability and strength that natural limbs could not. Prosthetic arms and hands inflicted additional damage while unarmed, while the prosthetic legs enabled powerful kicks. The durability of each limb varied.\n\nDespite their remarkable functionality, clockwork prosthetics had inherent limitations. Regular maintenance was essential, as they must be oiled frequently to prevent jamming or corrosion. Additionally, they required winding several times per day, with each winding powering the limb for a few hours. They could not be wound continuously to last an entire day.\n\nThe mechanical nature of these limbs reduced their effectiveness compared to natural limbs. Prosthetic legs, for instance, decreased movement speed, and prosthetic arms and hands diminished dexterity for ranged attacks and had a negative effect on skills such as picking pockets, unlocking mechanisms, and disarming [[trap]]s. All clockwork prosthetics produced a faint whirring sound, which made it difficult to be stealthy.\n\nThe creators of clockwork prosthetics,[[Tohkkal Burrwarden|Tohkkal]] and [[Tykkyl Burrwarden]], offered customizable upgrades at additional cost. Optional features included increased durability and concealed spring-loaded weaponry, although such modifications typically more than doubled the initial cost."
+        "mainbody": "Clockwork prosthetics were mechanical prosthetics.\nClockwork prosthetics were highly specialized and costly, with prices starting at 10,000 gold pieces for a leg, 20,000 for an arm, and around 7,500 for a hand, owing to its complex parts. The production process for each prosthetic was labor-intensive, requiring a month for design and an additional one to three months to construct and refine each limb.\nClockwork prosthetics offered durability and strength that natural limbs could not. Prosthetic arms and hands inflicted additional damage while unarmed, while the prosthetic legs enabled powerful kicks. The durability of each limb varied.\nDespite their remarkable functionality, clockwork prosthetics had inherent limitations. Regular maintenance was essential, as they must be oiled frequently to prevent jamming or corrosion. Additionally, they required winding several times per day, with each winding powering the limb for a few hours. They could not be wound continuously to last an entire day.\nThe mechanical nature of these limbs reduced their effectiveness compared to natural limbs. Prosthetic legs, for instance, decreased movement speed, and prosthetic arms and hands diminished dexterity for ranged attacks and had a negative effect on skills such as picking pockets, unlocking mechanisms, and disarming traps. All clockwork prosthetics produced a faint whirring sound, which made it difficult to be stealthy.\nThe creators of clockwork prosthetics,Tohkkal and Tykkyl Burrwarden, offered customizable upgrades at additional cost. Optional features included increased durability and concealed spring-loaded weaponry, although such modifications typically more than doubled the initial cost."
     }
 }

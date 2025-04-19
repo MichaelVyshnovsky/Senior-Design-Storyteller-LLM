@@ -1,19 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "name": "'''Cairn'''",
-        "school2e": "[[Conjuration]]/[[Summoning]]",
-        "spheres2e": "[[Elemental sphere|Elemental]] [[Elemental earth sphere|(earth)]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|4|[[Elemental sphere|Elemental]]|4|[[Elemental earth sphere|Elemental Earth]]|4}}",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''''Cairn''''' was a [[Divine magic|divine]] [[conjuration]] spell that created a pile of rocks.",
-        "Effect": "The spell gathered rocks and stones from all around (not including any organic or other materials) and dropped them on a given location from a height of 20 feet (6 meters). This created a rough pile some 5 feet (1.5 meters) and 15 feet (4.5 meters) high.",
-        "Uses": "The ''cairn'' spell had a number of common uses, typically to form a grave, but also to mark a specific location, to bury or hide a buried stash or store, or whatever else one might use a pile of rocks for. More dangerously, it could be used to crush a victim under the falling rocks, and even bury them.",
-        "Components": "The spell required at least eight pebbles that could all fit in the caster's hand. The actual stones used in the ''cairn'' were lifted from random locations in the vicinity.",
-        "History": "The ''cairn'' spell appeared within the ''[[Tome of Torment]]'', the holiest book of the [[church of Ilmater]], which first appeared in the Realms in [[848 DR]].\n\nIn [[1341 DR]], the rogue priest of [[Ilmater]], Brother [[Bloirt Waelarn]] used a ''cairn'' spell from the ''Tome'' to bury Sir [[Guth]]. He then dug Guth out with a pick, using an axe to chop off any limb that was revealed, soon killing the knight.",
-        "References": "{{refs}}\n[[Category:Evocation spells]]\n[[Category:Cleric spells]]\ncsodebu6giiuypsdqwhnpxvpalq8jgg"
+        "mainbody": "Cairn was a divine conjuration spell that created a pile of rocks.\nThe spell gathered rocks and stones from all around (not including any organic or other materials) and dropped them on a given location from a height of 20 feet (6 meters). This created a rough pile some 5 feet (1.5 meters) and 15 feet (4.5 meters) high.\nThe cairn spell had a number of common uses, typically to form a grave, but also to mark a specific location, to bury or hide a buried stash or store, or whatever else one might use a pile of rocks for. More dangerously, it could be used to crush a victim under the falling rocks, and even bury them.\nThe spell required at least eight pebbles that could all fit in the casters hand. The actual stones used in the cairn were lifted from random locations in the vicinity.\nThe cairn spell appeared within the Tome of Torment, the holiest book of the church of Ilmater, which first appeared in the Realms in 848 DR.\nIn 1341 DR, the rogue priest of Ilmater, Brother Bloirt Waelarn used a cairn spell from the Tome to bury Sir Guth. He then dug Guth out with a pick, using an axe to chop off any limb that was revealed, soon killing the knight.\nCategoryEvocation spells\nCategoryCleric spells\ncsodebu6giiuypsdqwhnpxvpalq8jgg"
     }
 }

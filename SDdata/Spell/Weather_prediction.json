@@ -1,15 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "name": "Weather Prediction",
-        "school2e": "[[Divination]]",
-        "spheres2e": "[[Weather sphere|Weather]]",
-        "level2e": "{{spell table|edition=2e|[[Druid]]|3|[[Weather sphere|Weather]]|3}}",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''Weather prediction''' was a [[divination]] spell that allowed a druid to know the weather conditions at the site of casting, days in advance.\n{{Stub/Spell}}",
-        "References": "{{refs}}\n[[Category:Divination spells]]\n[[Category:Druid spells]]\n5iaq6qc6mk0usr2d7pdok5ujcfy8w74"
+        "mainbody": "Weather prediction was a divination spell that allowed a druid to know the weather conditions at the site of casting, days in advance.\nCategoryDivination spells\nCategoryDruid spells\n5iaq6qc6mk0usr2d7pdok5ujcfy8w74"
     }
 }

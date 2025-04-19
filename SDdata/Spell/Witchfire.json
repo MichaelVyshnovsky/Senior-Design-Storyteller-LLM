@@ -1,17 +1,8 @@
 {
-    "template_data": {
-        "edition": "4e"
-    },
     "document_data": {
-        "image": "[[File:Arena_of_War_-_Spell_-_Witchfire.jpg]]",
-        "caption": "The [[Arena of War (game)|AoW:G]] spell card.",
-        "type": "encounter",
-        "name": "Witchfire",
-        "school": "",
-        "keywords4e": "{{desc/arcane}}{{desc/fire}}{{desc/implement}}",
-        "level4e": "{{spell table|edition=4e|[[Warlock]]|1}}",
+        "level4e": "",
         "type4e": "Encounter",
         "refs4e": "",
-        "mainbody": "'''''Witchfire''''' was a mildly complex [[invocation]] wielded by several [[warlock]]s. When ''witchfire'' was cast, it summoned from the [[Feywild]] a hot, white flame into a target of the warlock's choosing within fifty feet (fifteen meters). If set inside a living creature, the flame caused the creature immense pain, sending streams of enchanted fire through the creature's orifices with such pain as to distract them from all other things, making them less effective combatants. The potency of ''witchfire'' was largely determined by the strength of personality possessed by the warlock casting it, though warlocks of the [[Warlock#Fey Pact Warlock|fey pact]] also found a strong intellect to be of enormous importance. The spell was not easily cast, and once it had been used, it could not be recast by the warlock without a brief respite for the body and mind."
+        "mainbody": "Witchfire was a mildly complex invocation wielded by several warlocks. When witchfire was cast, it summoned from the Feywild a hot, white flame into a target of the warlocks choosing within fifty feet (fifteen meters). If set inside a living creature, the flame caused the creature immense pain, sending streams of enchanted fire through the creatures orifices with such pain as to distract them from all other things, making them less effective combatants. The potency of witchfire was largely determined by the strength of personality possessed by the warlock casting it, though warlocks of the fey pact also found a strong intellect to be of enormous importance. The spell was not easily cast, and once it had been used, it could not be recast by the warlock without a brief respite for the body and mind."
     }
 }

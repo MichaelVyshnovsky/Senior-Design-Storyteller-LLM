@@ -1,38 +1,15 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "<gallery>",
-        "caption2": "Various depictions of rats.",
-        "name": "Rat",
-        "size5e": "Tiny",
-        "type5e": "[[Beast]]",
-        "subtype5e": "",
-        "alignment5e": "[[Unaligned]]",
-        "challenge5e": "0",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "[[Natural creature|Natural]]",
-        "type4e": "[[Beast]]",
-        "subtype4e": "",
-        "alignment4e": "[[Unaligned]]",
-        "refs4e": "",
-        "size3e": "Tiny",
-        "type3e": "[[Animal]]",
-        "subtype3e": "",
-        "alignment3e": "Always [[neutral]]",
-        "challenge3e": "{{CR table|edition=3e|Single|{{Frac|1|8}}|Swarm|2}}",
-        "refs3e": "",
+        "Swarm|2\n| refs3e": "",
         "size2e": "",
-        "alignment2e": "[[Neutral]]",
+        "alignment2e": "Neutral",
         "refs2e": "",
         "size1e": "Small",
-        "alignment1e": "[[Neutral]]",
+        "alignment1e": "Neutral",
         "refs1e": "",
         "patron deity": "",
         "movement": "Climbing",
-        "vision": "[[Blindsight]], [[low-light vision]], [[Darkvision]]",
+        "vision": "Blindsight, low-light vision, Darkvision",
         "activecycle": "Night",
         "diet": "Scavenger",
         "lifespan": "",
@@ -52,13 +29,8 @@
         "eyecolor": "",
         "build": "",
         "distinctions": "",
-        "first": "[[Monster Manual II 1st edition|''Monster Manual II'' 1{{st}} edition]]",
-        "based": "[[wikipedia:en:Rat|Rat]]",
-        "mainbody": "A '''rat''' was a long-tailed rodent, a species of [[animal]].{{Cite web enhancement/Deity Do's and Don'ts|10-15}}",
-        "Behavior": "Rats were generally cowardly creatures, but would become fierce if cornered or trapped. They feared fire, but if hungry enough could be driven to ignore this base instinct.",
-        "Species": "*[[Dire rat]] \n*[[Giant rat]]\n*[[Giant Zakharan rat]]<ref>\n*[[Osquip]]\n*[[Vapor rat]]",
-        "Ecology": {
-            "Habitats": "Rats thrived in urban environments where they could easily feed off the leftover food and waste of the community.\n\nBeyond the [[Prime Material plane]], rats could be found in the [[Domains of Dread]]."
-        }
+        "first": "Monster Manual II 1 edition",
+        "based": "Rat",
+        "mainbody": "A rat was a long-tailed rodent, a species of animal.\nRats were generally cowardly creatures, but would become fierce if cornered or trapped. They feared fire, but if hungry enough could be driven to ignore this base instinct.\n*Dire rat \n*Giant rat\n*Giant Zakharan rat\n*Osquip\n*Vapor rat\nthumb|300px|A rat in the city of Luskan.\nThomas C. Quirkilious of the Chromatic Scale instrument shop in Baldurs Gate experimented with using ratgut to make lute strings. The experiment was a failure, as it proved difficult to process them into strings and the resulting fiber squeaked when played.\nRats thrived in urban environments where they could easily feed off the leftover food and waste of the community.\nBeyond the Prime Material plane, rats could be found in the Domains of Dread."
     }
 }

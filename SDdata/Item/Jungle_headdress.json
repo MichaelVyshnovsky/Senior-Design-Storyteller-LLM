@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "2|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Jungle headdress.png",
-        "caption": "",
-        "name": "''Jungle Headdress''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Mask",
-        "creator": "",
-        "location": "[[Samarach]], [[Chult]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "{{SI|2|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Jungle headdresses''''' were [[enchanted]] [[Batiri]] decorative headdresses created by the [[shaman]]s of the [[Shattered Spear tribe]].",
-        "Description": "''Jungle headdresses'' were adorned with dark-colored feathers of Chultan [[bird]]s.",
-        "Powers": "These masks were not just decorative but also possessed minor enchantments. The headdresses were created by shamans of the Shattered Spear tribe to be used by younger generations of Batiri. When worn, ''jungle headdresses'' whispered advice, secrets of the wild, and survival tips into the owner's ears.",
-        "Notable Owners": "*[[Taelunangul]], the chieftain on the [[Batiri]] Shattered Spear tribe ''circa'' a [[1374 DR]]."
+        "mainbody": "Jungle headdresses were enchanted Batiri decorative headdresses created by the shamans of the Shattered Spear tribe.\nJungle headdresses were adorned with dark-colored feathers of Chultan birds.\nThese masks were not just decorative but also possessed minor enchantments. The headdresses were created by shamans of the Shattered Spear tribe to be used by younger generations of Batiri. When worn, jungle headdresses whispered advice, secrets of the wild, and survival tips into the owners ears.\n*Taelunangul, the chieftain on the Batiri Shattered Spear tribe circa a 1374 DR."
     }
 }

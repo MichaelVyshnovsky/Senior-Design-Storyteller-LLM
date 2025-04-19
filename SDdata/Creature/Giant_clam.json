@@ -1,20 +1,5 @@
 {
-    "template_data": {
-        "6'|'\"|long": "yes",
-        "2|ft|long": "yes",
-        "200|ft|long": "yes"
-    },
     "document_data": {
-        "image": "GiantClam-2e.png",
-        "caption": "",
-        "name": "Giant Clam",
-        "othernames": "",
-        "size5e": "Medium",
-        "type5e": "[[Beast]]",
-        "subtype5e": "",
-        "alignment5e": "[[Neutral]]",
-        "challenge5e": "2",
-        "refs5e": "{{Cite adventurers league/Underworld Speculation|13}}",
         "size4e": "",
         "origin4e": "",
         "type4e": "",
@@ -28,14 +13,14 @@
         "challenge3e": "",
         "refs3e": "",
         "size2e": "Medium",
-        "alignment2e": "[[Neutral]]",
-        "refs2e": "{{Cite dragon/116/The Dragon's Bestiary|39}}{{Cite dragon/190/Deep Beneath the Waves|23}}",
+        "alignment2e": "Neutral",
+        "refs2e": "",
         "size1e": "Medium",
-        "alignment1e": "[[Neutral]]",
-        "refs1e": "{{Template:Cite dragon/116/The Dragon's Bestiary|39}}",
+        "alignment1e": "Neutral",
+        "refs1e": "",
         "patron deity": "",
         "movement": "",
-        "vision": "[[Tremorsense]]",
+        "vision": "Tremorsense",
         "activecycle": "Any",
         "diet": "",
         "lifespan": "",
@@ -47,7 +32,7 @@
         "terrain": "Ocean",
         "genrefs": "",
         "height": "",
-        "length": "{{SI|6'|'\"|long=yes}}",
+        "length": "",
         "wingspan": "",
         "weight": "",
         "skincolor": "",
@@ -61,18 +46,6 @@
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Giant clams''' were a large variety of the [[clam|creatures of the same name]], also including [[oyster]]s and scallops.",
-        "Description": "[[File:SerosianLocathah.png|thumb|273px|''A [[Serôs]]ian [[locathah]] works to free his ally from a giant clam.'']]\nThese were soft-bodied creatures that lived in the mantle cavity of protective shells. The abductor muscles of these creatures acted as a hinge for these shells and were quite powerful. Lining the lips of their shell were numerous, hair-like [[Wikipedia:Cilium|cilia]]. These were small tentacles about {{SI|2|ft|long=yes}} in length, which they used to grasp and move prey. These were too weak to act in any defensive manner. And they used inhalant and exhalant siphons to move these shells across the ocean floor.\n\nThe protective shell of a giant clam was vertically symmetrical though these were not as lustrous as the pearls of mundane clams.\n\nSome species of giant clam had wavy-edged shells that were so sharp they could potentially sever a limb. Those known as giant oysters had a more elongated and uneven shape, as well as a grayish hue.",
-        "Abilities": "The eye-spots of these creatures could detect movement as well as distinguish between light and shadow. However, they could not estimate size. In effect, they possessed a form of [[tremorsense]].\n\nNear the front of a giant clam's mantle cavity were special organs that could detect and analyze chemical traces within the water around them.",
-        "Combat": "[[File:GiantOyster-Basic.png|thumb|273px|An aquatic humanoid struggles to free itself from the maw of a giant oyster.]]\nWhenever a giant clam was threatened or something tried to reach within it, their protective shell would clamp down. This was an instinctive defense mechanism, caused by their cilia being brushed against. Many naturalists in the Realms insisted that these could not close fast enough to cause any serious injury.",
-        "Ecology": {
-            "Diet": "Giant clams were primarily a filter feeding species, eating microscopic sea animals such as [[shrimp]]. They also lived on algae colonies that grew within their shell mantle.",
-            "Habitats": "These creatures were typically found in shallow ocean waters, at depths of up to {{SI|200|ft|long=yes}},{{Cite web/theedverse/2020-07-04 - River Lapendrar Fauna}} within the oyster reef section of the [[Sea of Moving Ice]], and within the [[Trackless Sea]]. In the Trackless Sea, many giant clams could be found throughout the stronghold [[Maelstrom (fortress)|Maelstrom]].\n\nBeyond Faerûn, they could be found in parts of the [[Crowded Sea]],{{Cite dragon/190/Sounds of Wonder & Delight}}<ref> such as the bay of [[Batihat al-Saji]].\n\nIn the [[Elemental Plane of Water]], giant clams could be found around the coral reef compound known as the [[Citadel of Ten Thousand Pearls]].<ref>",
-            "Languages": "Communication with these creatures was not possible except on the most basic of empathic levels.",
-            "Relationships": "[[Triton]]s were known to have domesticated giant clams and tended to beds of them.",
-            "Usages": "[[File:Neverwinter - giant clam.png|thumb|200px]]\nThe [[malenti]] colony of [[Kymal]] used giant clam shells as part of constructing their residences. Likewise, some [[octopus|octopi]] were known to lair within giant clams.\n\nThe [[shalarin]] of the Sea of Fallen Stars would carefully insert clothing constructed from [[coral|sheeps' coral]] into the maws of giant clams, leaving them there for two months to be coated in their mucous. The shalarin then tempered that mucus with special shells, turning their clothing into [[pearl armor]].\n\nTheir tongues could be used as an ingredient for [[Potion of giant size|''potions of giant size'']]. Their pearls could be used to create the soundbox of an ''[['Ud of the marids]]''.\n\nThe mother of pearl within their shells were worth around 50 to 500 [[gold piece]]s. And depending on their size and quality, a giant pearl could be worth around 500 to 1,000 gold pieces. The rare black pearl of a giant clam was worth around 5,000 gold pieces."
-        },
-        "Rumors & Legends": "* Some rumors claimed that there existed intelligent, or even [[psionic]], colonies of giant clams.\n* Local legends around [[Marsember]] persistently claimed that obscure sea cults dwelled in the city that fed living sacrifices to giant clams.<ref>",
-        "Trivia": "* The field manuals of some navies in the Realms described methods of how one could escape from the clamped maw of a giant clam.\n* The [[blue dragon]] [[Iymrith]] sometimes used her magic to transform her foes into giant clams.{{Cite dragon/242/Wyrms of the North: Iymrith|57}}"
+        "mainbody": "Giant clams were a large variety of the creatures of the same name, also including oysters and scallops.\nthumb|273px|A Serôsian locathah works to free his ally from a giant clam.\nThese were soft-bodied creatures that lived in the mantle cavity of protective shells. The abductor muscles of these creatures acted as a hinge for these shells and were quite powerful. Lining the lips of their shell were numerous, hair-like cilia. These were small tentacles about  in length, which they used to grasp and move prey. These were too weak to act in any defensive manner. And they used inhalant and exhalant siphons to move these shells across the ocean floor.\nThe protective shell of a giant clam was vertically symmetrical though these were not as lustrous as the pearls of mundane clams.\nSome species of giant clam had wavy-edged shells that were so sharp they could potentially sever a limb. Those known as giant oysters had a more elongated and uneven shape, as well as a grayish hue.\nThe eye-spots of these creatures could detect movement as well as distinguish between light and shadow. However, they could not estimate size. In effect, they possessed a form of tremorsense.\nNear the front of a giant clams mantle cavity were special organs that could detect and analyze chemical traces within the water around them.\nthumb|273px|An aquatic humanoid struggles to free itself from the maw of a giant oyster.\nWhenever a giant clam was threatened or something tried to reach within it, their protective shell would clamp down. This was an instinctive defense mechanism, caused by their cilia being brushed against. Many naturalists in the Realms insisted that these could not close fast enough to cause any serious injury.\nThese creatures lived within small groups, though there existed persistent rumors that large beds of them could be found.\nGiant clams were primarily a filter feeding species, eating microscopic sea animals such as shrimp. They also lived on algae colonies that grew within their shell mantle.\nThese creatures were typically found in shallow ocean waters, at depths of up to , within the oyster reef section of the Sea of Moving Ice, and within the Trackless Sea. In the Trackless Sea, many giant clams could be found throughout the stronghold Maelstrom.\nBeyond Faerûn, they could be found in parts of the Crowded Sea, such as the bay of Batihat al-Saji.\nIn the Elemental Plane of Water, giant clams could be found around the coral reef compound known as the Citadel of Ten Thousand Pearls.\nCommunication with these creatures was not possible except on the most basic of empathic levels.\nTritons were known to have domesticated giant clams and tended to beds of them.\nthumb|200px\nThe malenti colony of Kymal used giant clam shells as part of constructing their residences. Likewise, some octopi were known to lair within giant clams.\nThe shalarin of the Sea of Fallen Stars would carefully insert clothing constructed from sheeps coral into the maws of giant clams, leaving them there for two months to be coated in their mucous. The shalarin then tempered that mucus with special shells, turning their clothing into pearl armor.\nTheir tongues could be used as an ingredient for potions of giant size. Their pearls could be used to create the soundbox of an Ud of the marids.\nThe mother of pearl within their shells were worth around 50 to 500 gold pieces. And depending on their size and quality, a giant pearl could be worth around 500 to 1,000 gold pieces. The rare black pearl of a giant clam was worth around 5,000 gold pieces.\n* Some rumors claimed that there existed intelligent, or even psionic, colonies of giant clams.\n* Local legends around Marsember persistently claimed that obscure sea cults dwelled in the city that fed living sacrifices to giant clams.\n* The field manuals of some navies in the Realms described methods of how one could escape from the clamped maw of a giant clam.\n* The blue dragon Iymrith sometimes used her magic to transform her foes into giant clams."
     }
 }

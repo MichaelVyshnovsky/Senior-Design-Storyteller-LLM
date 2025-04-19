@@ -1,25 +1,7 @@
-{{Creature
-| image        = Orcwort.jpg
-| caption      = 
-| name         = Orcwort
-| othernames   = 
-| size5e       = 
-| type5e       = 
-| subtype5e    = 
-| alignment5e  = 
-| challenge5e  = 
-| refs5e       = 
-| size4e       = 
-| origin4e     = 
-| type4e       = 
-| subtype4e    = 
-| alignment4e  = 
-| refs4e       = 
-| size3e       = {{Size table|Orcwort|Colossal|Wortling|Small}}
-| type3e       = [[Plant creature|Plant]]
+| type3e       = Plant
 | subtype3e    = 
-| alignment3e  = Always [[neutral]]
-| challenge3e  = {{CR table|edition=3e|Orcwort|20|Wortling|3}}
+| alignment3e  = Always neutral
+| challenge3e  = 
 | refs3e       = 
 | size2e       = 
 | alignment2e  = 
@@ -29,12 +11,12 @@
 | refs1e       = 
 | patron deity = 
 | movement     = 
-| vision       = [[Woodsense]]
+| vision       = Woodsense
 | activecycle  = 
 | diet         = Carnivorous
 | lifespan     = 
-| location     = [[Lluirwood]]
-| intelligence = {{Int|10}}
+| location     = Lluirwood
+| intelligence = 
 | language     = 
 | subraces     = 
 | climate      = 
@@ -55,5 +37,4 @@
 | first        = 
 | based        = 
 | histrefs     = 
-}}
-'''Orcworts''' were tree-like predators that hunted with the help of their mobile fruit bodies, known as '''wortlings'''. A single orcwort could, throughout the course of a week, devour a small village's worth of people and livestock.
+Orcworts were tree-like predators that hunted with the help of their mobile fruit bodies, known as wortlings. A single orcwort could, throughout the course of a week, devour a small villages worth of people and livestock.

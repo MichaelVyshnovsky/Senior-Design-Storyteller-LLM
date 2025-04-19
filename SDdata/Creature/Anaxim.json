@@ -1,24 +1,9 @@
 {
     "document_data": {
-        "image": "<gallery>",
-        "caption2": "Various depictions of anaxims.",
-        "name": "Anaxim",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "[[Elemental creature|Elemental]]",
-        "type4e": "[[Animate]]",
-        "subtype4e": "[[Construct]]",
-        "alignment4e": "[[Unaligned]]",
-        "refs4e": "{{Cite dragon/375/Gontal: Dominions of Nehu|81}}",
         "size3e": "Medium",
-        "type3e": "[[Construct]]",
-        "subtype3e": "[[:Category:Creatures with the lawful subtype|Lawful]]",
-        "alignment3e": "Always [[lawful neutral]]",
+        "type3e": "Construct",
+        "subtype3e": "Lawful",
+        "alignment3e": "Always lawful neutral",
         "challenge3e": "22",
         "refs3e": "",
         "size2e": "",
@@ -32,8 +17,8 @@
         "activecycle": "",
         "diet": "",
         "lifespan": "",
-        "location": "[[Glaur Barrens]], [[Gontal]]{{Cite dragon/375/Gontal: Dominions of Nehu|77-81}}",
-        "language": "[[Abyssal language|Abyssal]], [[Celestial language|Celestial]], [[Infernal language|Infernal]], [[Telepathy]]",
+        "location": "Glaur Barrens, Gontal",
+        "language": "Abyssal, Celestial, Infernal, Telepathy",
         "subraces": "",
         "climate": "",
         "terrain": "",
@@ -50,12 +35,6 @@
         "distinctions": "",
         "based": "",
         "first": "",
-        "mainbody": "An '''anaxim''', also called a '''sheen''',{{Cite dragon/375/Gontal: Dominions of Nehu|80}} was a [[golem]]-like metallic [[elemental]] native to the [[Glaur Barrens]] of [[Gontal]], in [[Laerakond]].",
-        "Description": "The anaxims did not have a definite form. They were a conglomerate of metallic parts jutting with too many cutting implements and rusted surfaces.{{Cite dragon/366/Gontal|51}} While no two anaxims were exactly alike, these creatures were classified in broad types, such as the \"hounds\" (that looked like [[dog]]s) or the \"maulers\" (that were [[humanoid]] in appearance).",
-        "Ecology": {
-            "Habitat": "Anaxims were encountered exclusively in the Glaur Barrens, an inhospitable region north of the kingdom of Gontal. There were sections of the ancient fortress of [[Glaur]] that were infested with anaxims. Explorers called this the \"Dominion of the Mindless\"."
-        },
-        "History": "Anaxims were faulty creations of deities of the [[Forge domain|forge]]. Unlike most other [[abomination]]s, they were carefully constructed instead of spontaneously created out of rage or lust. Yet, their designs still conveyed a sense of apocalyptic intent.\n\nThe exact origin of the Glaur Barren anaxims was not known to the few [[Abeir]]an sages and [[druid]]s who studied the creatures. The [[primordial]] [[Nehushta]] was credited as their creator.{{Cite dragon/366/Gontal|51}}",
-        "Notable Anaxims": "A few unique anaxims had existed for hundreds of years. Some speculated they were actually intelligent although still dangerous to all living beings. Among the known ones were:\n\n* The [[Iron Worm]]\n* The [[Mother Mauler]]"
+        "mainbody": "An anaxim, also called a sheen, was a golem-like metallic elemental native to the Glaur Barrens of Gontal, in Laerakond.\nThe anaxims did not have a definite form. They were a conglomerate of metallic parts jutting with too many cutting implements and rusted surfaces. While no two anaxims were exactly alike, these creatures were classified in broad types, such as the \"hounds\" (that looked like dogs) or the \"maulers\" (that were humanoid in appearance).\nAnaxims were mindless creatures, lacking even an animals basic instincts. They did possess some form of pseudo-consciousness, but it was filled with a murderous intent that made them dangerous to any other lifeforms, including even themselves.\nAnaxims were not born naturally, but instead were created by the Storm Spire of the fortress of Glaur. Their lifespans were usually short, and those that werent killed by other creatures just fell victim to the undiscerning fury of stronger siblings. The ones that survived more than a few months were able to learn some residual cunning, which made them all the more dangerous when encountered.\nA few Gontese explorers, as well as members of the Dominion of the Burned, knew how to domesticate anaxims, but due to their lack on intelligence that \"training\" only lasted at most a day before the anaxim returned to its former beast-like behaviour.\nAnaxims were encountered exclusively in the Glaur Barrens, an inhospitable region north of the kingdom of Gontal. There were sections of the ancient fortress of Glaur that were infested with anaxims. Explorers called this the \"Dominion of the Mindless\".\nAnaxims were faulty creations of deities of the forge. Unlike most other abominations, they were carefully constructed instead of spontaneously created out of rage or lust. Yet, their designs still conveyed a sense of apocalyptic intent.\nThe exact origin of the Glaur Barren anaxims was not known to the few Abeiran sages and druids who studied the creatures. The primordial Nehushta was credited as their creator.\nA few unique anaxims had existed for hundreds of years. Some speculated they were actually intelligent although still dangerous to all living beings. Among the known ones were\n* The Iron Worm\n* The Mother Mauler"
     }
 }

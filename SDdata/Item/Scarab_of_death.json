@@ -1,29 +1,6 @@
 {
-    "template_data": {
-        "1'|'\"|long": "yes"
-    },
     "document_data": {
-        "image": "Scarab of death.jpg",
-        "caption": "",
-        "name": "''Scarab of Death''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Amulet]], brooch",
-        "creator": "",
-        "location": "[[Feng-Tu]], [[the Abyss]]<br/>[[Vast Swamp]], [[Cormyr]]<br/>[[Jathrin's Jump]], [[Turmish]]",
-        "basicrefs": "",
-        "value1e": "2,500 [[gp]]",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "19{{th}}",
-        "value3e": "80,000 [[gp]]",
+        "value3e": "80,000 gp",
         "weight3e": "",
         "refs3e": "",
         "level4e": "",
@@ -41,10 +18,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Scarabs of death''''' were deadly [[enchanted]] items that appeared harmless at first glance.",
-        "Description": "''Scarabs of death'' appeared indistinguishable from mundane or magical [[amulet]]s, brooches, or scarabs.",
-        "Powers": "If a ''scarab of death'' was touching warm living flesh, placed in a bag or a similar container, worn on clothes, or simply kept within {{SI|1'|'\"|long=yes}} from a warm living creature for between 1 and 10 minutes, the item's enchantment became obvious. \nA ''scarab of death'' transformed into a deadly flesh-burrowing insect that chewed and tore through the target's [[leather armor]], clothes, and body moving towards the heart. It took 1 to 10 minutes for the monster to reach the target's heart and kill them. After the target's death, a ''scarab of death'' transformed back into its inert form.\n\n''Scarabs of death'' could be safely kept in containers made of thick [[wood]], [[ceramic]], [[ivory]], or metal.{{Cite card/AD&D Trading Cards/1992|151|Mazrikoth's Scarab of Death}}",
-        "Creation": "''Scarabs of death'' could be created by experienced magic item crafters with the use of the ''[[slay living]]'' [[spell]].",
-        "Notable Owners": "[[Aragath]], a [[lich]] priest of [[Talos]] who laired underneath [[Jathrin's Jump]] guarded his underground temple with six [[golem]]s. Each was outfitted with numerous magic items, including ''scarabs of death''."
+        "mainbody": "Scarabs of death were deadly enchanted items that appeared harmless at first glance.\nScarabs of death appeared indistinguishable from mundane or magical amulets, brooches, or scarabs.\nIf a scarab of death was touching warm living flesh, placed in a bag or a similar container, worn on clothes, or simply kept within  from a warm living creature for between 1 and 10 minutes, the items enchantment became obvious. \nA scarab of death transformed into a deadly flesh-burrowing insect that chewed and tore through the targets leather armor, clothes, and body moving towards the heart. It took 1 to 10 minutes for the monster to reach the targets heart and kill them. After the targets death, a scarab of death transformed back into its inert form.\nScarabs of death could be safely kept in containers made of thick wood, ceramic, ivory, or metal.\nScarabs of death could be created by experienced magic item crafters with the use of the slay living spell.\nAragath, a lich priest of Talos who laired underneath Jathrins Jump guarded his underground temple with six golems. Each was outfitted with numerous magic items, including scarabs of death."
     }
 }

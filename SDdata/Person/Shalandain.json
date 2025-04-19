@@ -1,27 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Shalandain.jpg",
-        "caption": "",
-        "name": "Shalandain",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Rock of Bral]], [[Realmspace]]",
-        "formerhomes": "",
-        "sex": "Female",
-        "gender": "",
-        "race": "[[Human]]",
-        "ethnicity": "",
-        "occupation": "",
-        "age": "",
-        "patron deity": "",
-        "languages": "",
-        "basicrefs": "{{Cite card/AD&D Trading Cards/1993|32|Shalandain}}",
         "reckoning": "",
         "dob": "",
         "dobnotes": "",
@@ -46,8 +24,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Lawful good]]",
-        "class2e": "{{class table|edition=2e|[[Crusader]]|11}}",
+        "alignment2e": "Lawful good",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
@@ -64,8 +42,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Shalandain''' was a [[human]] [[paladin]] [[crusader]] member of the do-gooder group called the [[Company of the Chalice]] based on the [[Rock of Bral]] in the mid–14{{th}} century [[DR]].",
-        "Possessions": "Shalandain wore a powerful magical ''+3'' [[field plate]], a ''+5'' ''[[holy avenger]]'' [[long sword]] and a mundane [[shield]]. Other [[enchanted]] items of hers included ''[[boots of starstriding]]'' and ''[[potions of flying]]''.",
-        "History": "Shalandain belonged to a band of heroes who reverted to good and hunted down evil – the Company of the Chalice. Shalandain was the second-in-command of the group's Rock of Bral base that focused on crusades against the [[neogi]]."
+        "mainbody": "Shalandain was a human paladin crusader member of the do-gooder group called the Company of the Chalice based on the Rock of Bral in the mid–14 century DR.\nShalandain wore a powerful magical +3 field plate, a +5 holy avenger long sword and a mundane shield. Other enchanted items of hers included boots of starstriding and potions of flying.\nShalandain belonged to a band of heroes who reverted to good and hunted down evil – the Company of the Chalice. Shalandain was the second-in-command of the groups Rock of Bral base that focused on crusades against the neogi."
     }
 }

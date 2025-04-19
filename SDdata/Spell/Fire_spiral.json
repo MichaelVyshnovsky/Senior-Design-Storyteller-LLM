@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Fire spiral",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Abjuration]], [[Evocation]], [[Flame (school)|Flame]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|3}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Fire spiral''''' was a [[Flame (province)|flame]] and [[abjuration]] spell utilized by members of the [[Brotherhood of the True Flame]] in [[Zakhara]].{{Cite dragon/268/Secrets of the Brotherhood of the True Flame}}",
-        "Effects": "This spell created a spiral thread of flame that originated at the caster's feet and wound around their body before terminating above their head. The ''fire spiral'' would flex to interrupt any incoming attack, both ranged and melee, directed at the caster. The ''fire spiral'' would block all attacks for the duration of the spell, which varied depending on the skill of the caster, but usually lasted for several minutes.\n\nAll mundane missiles and weapons touched by the ''fire spiral'' were instantly vaporized. Magical weapons also had a chance of being destroyed, but their enchantments offered a degree of resistance. A magical weapon not destroyed by the ''fire spiral'' was deflected instead.\n\nAny attacker holding a weapon vaporized by a ''fire spiral'' suffered intense burns. Likewise, anyone attempting to touch the caster would also be burned horribly.\n\nA ''fire spiral'' would move automatically to stay about one foot away from the caster's body at all times, allowing them to move freely and cast spells without harming themselves. The ''fire spiral'' was dispelled instantly if the caster committed to any form of melee attack.",
-        "Components": "In addition to verbal and somatic components, ''fire spiral'' required a small piece of pumice to cast."
+        "mainbody": "Fire spiral was a flame and abjuration spell utilized by members of the Brotherhood of the True Flame in Zakhara.\nThis spell created a spiral thread of flame that originated at the casters feet and wound around their body before terminating above their head. The fire spiral would flex to interrupt any incoming attack, both ranged and melee, directed at the caster. The fire spiral would block all attacks for the duration of the spell, which varied depending on the skill of the caster, but usually lasted for several minutes.\nAll mundane missiles and weapons touched by the fire spiral were instantly vaporized. Magical weapons also had a chance of being destroyed, but their enchantments offered a degree of resistance. A magical weapon not destroyed by the fire spiral was deflected instead.\nAny attacker holding a weapon vaporized by a fire spiral suffered intense burns. Likewise, anyone attempting to touch the caster would also be burned horribly.\nA fire spiral would move automatically to stay about one foot away from the casters body at all times, allowing them to move freely and cast spells without harming themselves. The fire spiral was dispelled instantly if the caster committed to any form of melee attack.\nIn addition to verbal and somatic components, fire spiral required a small piece of pumice to cast."
     }
 }

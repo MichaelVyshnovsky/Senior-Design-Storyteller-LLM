@@ -1,17 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "name": "Blessed Abundance",
-        "school2e": "[[Conjuration]]",
-        "spheres2e": "[[Creation sphere|Creation]]",
-        "level2e": "{{spell table|edition=2e|[[Creation sphere|Creation]]|5|[[Cleric]]|5}}",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''''Blessed abundance''''' was a [[conjuration]] spell that allowed the caster to multiply a quantity of animal or vegetable matter.",
-        "Effects": "This spell worked on raw or prepared food and live or harvested plants, not on live creatures, metals, minerals, or magical items. Up to one cubic foot (0.28 m<sup>3</sup>) of organic matter could be multiplied by the caster's level. The creations were real and permanent.",
-        "Components": "Verbal and somatic components, as well as the priest's [[holy symbol]] were required to cast this spell.",
-        "References": "{{refs}}\n[[Category:Conjuration spells]]\n[[Category:Cleric spells]]\nq7j2jo2qiskd1dm1a0t6oci1nlmnc40"
+        "mainbody": "Blessed abundance was a conjuration spell that allowed the caster to multiply a quantity of animal or vegetable matter.\nThis spell worked on raw or prepared food and live or harvested plants, not on live creatures, metals, minerals, or magical items. Up to one cubic foot (0.28 m3) of organic matter could be multiplied by the casters level. The creations were real and permanent.\nVerbal and somatic components, as well as the priests holy symbol were required to cast this spell.\nCategoryConjuration spells\nCategoryCleric spells\nq7j2jo2qiskd1dm1a0t6oci1nlmnc40"
     }
 }

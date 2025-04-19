@@ -1,38 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Trobriand's Baleful Teleport",
-        "othernames": "",
-        "deity": "",
-        "inventor": "[[Trobriand]]",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Conjuration]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Sorcerer]]|6|[[Wizard]]|6}}",
         "refs3e": "",
         "reversible2e": "",
         "school2e": "",
@@ -45,9 +12,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Trobriand's baleful teleport''''' was an [[arcane magic|arcane]] [[conjuration]] [[spell]] that transported a target to a designated location.",
-        "Effects": "A clear mental image of the target destination was vital to ensure the spell worked as intended.",
-        "Components": "''Trobriand's baleful teleport'' did not require [[spell component]]s of any kind to cast.",
-        "History": "This spell was developed by [[Trobriand]] of [[Waterdeep]]. A ''[[staff of rejecting]]'' was able to cast this spell."
+        "mainbody": "Trobriands baleful teleport was an arcane conjuration spell that transported a target to a designated location.\nA clear mental image of the target destination was vital to ensure the spell worked as intended.\nTrobriands baleful teleport did not require spell components of any kind to cast.\nThis spell was developed by Trobriand of Waterdeep. A staff of rejecting was able to cast this spell."
     }
 }

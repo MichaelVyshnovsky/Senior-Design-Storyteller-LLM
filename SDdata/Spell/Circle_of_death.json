@@ -1,36 +1,21 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "edition_1": "3e",
-        "edition_2": "2e",
-        "edition_3": "1e"
-    },
     "document_data": {
-        "image": "Circle Of Death 5e.png",
-        "caption": "",
-        "name": "Circle of Death",
-        "inventor": "[[Dethed]]",
-        "school5e": "[[Necromancy]]",
-        "level5e": "{{spell table|edition=5e|[[Sorcerer]]|6|[[Warlock]]|6|[[Wizard]]|6}}",
         "type5e": "",
         "refs5e": "",
-        "school3e": "[[Necromancy]]",
-        "level3e": "{{spell table|edition=3e|[[Sorcerer]]|6|[[Wizard]]|6}}",
-        "descriptors3e": "{{desc/death}}",
+        "school3e": "Necromancy",
+        "level3e": "",
+        "descriptors3e": "",
         "type3e": "",
         "refs3e": "",
-        "school2e": "[[Necromancy]]<br/>[[Universal (province)]]<br/>[[Inventive]]",
-        "level2e": "{{spell table|edition=2e|[[Arcanist]]|6|[[Wizard]]|6}}",
+        "school2e": "NecromancyUniversal (province)Inventive",
+        "level2e": "",
         "type2e": "",
-        "refs2e": "<ref><ref>",
+        "refs2e": "",
         "reversible1e": "",
-        "school1e": "[[Conjuration]] (Summoning)",
-        "level1e": "{{Spell table|edition=1e|[[Magic-user]]|6}}",
+        "school1e": "Conjuration (Summoning)",
+        "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Circle of death''''' was a [[necromancy]] [[spell]] that extinguished the life force of several living creatures in all directions.<ref>{{Cite web/Spell index}} Originally, this spell was simply called '''''death spell''''',",
-        "Effects": "The old ''death spell'' version slew creatures outright making it impossible for them to return except via a ''[[wish]]'' spell. This version killed creatures in a 30-foot-wide (9.1 meters) cube or bigger, depending on the caster's level. \n\n[[Negative energy]], appearing as light that is somehow dark, radiated out in a burst as directed by the caster. All touched by this energy could have their life force snuffed out.\n\nThe post–[[Second Sundering]] version created a 60-foot-radius (18 meters) ball of negative energy centered within a 150 foot (46 meters) range. Every creature in the sphere had a chance to resist the necrotic energies or they suffered serious damage. If cast at higher levels, the spell did even more damage.\n\nThis spell had no effect on the [[undead]], [[lycanthropes]], or creatures from [[plane]]s other than the [[Prime Material Plane]].",
-        "Components": "The [[somatic component]] of this spell required the caster to point a finger at the intended targets and toss powdered black pearl dust as a [[material component]] into the air in front of his or her lips. The [[verbal component]] was echoing and awe-inspiring. The powdered black [[pearl]] had to be worth at least 500 [[gold piece]]s. Older versions of this spell needed powdered black pearl worth at least 1,000 gold pieces.",
-        "History": "The [[Netherese]] [[arcanist]] [[Dethed]] was given credit for the creation of this spell in {{Yearlink|-1881}}. It was originally known as ''Dethed's spell''.<ref> ''Circle of death'' was a common spell in the Realms. \n\nThe [[Zhentarim]] mageling [[Fimril]] attempted to use a slaying spell that required powdered black pearl as its material component to slay [[Mirt]] and the moneylender's companions in the {{yearlinkName|1357}}, at [[Tethgard]]. The spell instead slew Fimril; the spell was almost certainly a ''death spell''.{{cite book/Crown of Fire/TPB 2002|109|6}}"
+        "mainbody": "Circle of death was a necromancy spell that extinguished the life force of several living creatures in all directions. Originally, this spell was simply called death spell,\nThe old death spell version slew creatures outright making it impossible for them to return except via a wish spell. This version killed creatures in a 30-foot-wide (9.1 meters) cube or bigger, depending on the casters level. \nNegative energy, appearing as light that is somehow dark, radiated out in a burst as directed by the caster. All touched by this energy could have their life force snuffed out.\nThe post–Second Sundering version created a 60-foot-radius (18 meters) ball of negative energy centered within a 150 foot (46 meters) range. Every creature in the sphere had a chance to resist the necrotic energies or they suffered serious damage. If cast at higher levels, the spell did even more damage.\nThis spell had no effect on the undead, lycanthropes, or creatures from planes other than the Prime Material Plane.\nThe somatic component of this spell required the caster to point a finger at the intended targets and toss powdered black pearl dust as a material component into the air in front of his or her lips. The verbal component was echoing and awe-inspiring. The powdered black pearl had to be worth at least 500 gold pieces. Older versions of this spell needed powdered black pearl worth at least 1,000 gold pieces.\nThe Netherese arcanist Dethed was given credit for the creation of this spell in . It was originally known as Detheds spell. Circle of death was a common spell in the Realms. \nThe Zhentarim mageling Fimril attempted to use a slaying spell that required powdered black pearl as its material component to slay Mirt and the moneylenders companions in the , at Tethgard. The spell instead slew Fimril the spell was almost certainly a death spell."
     }
 }

@@ -1,19 +1,10 @@
 {
-    "template_data": {
-        "400|ft|long": "yes"
-    },
     "document_data": {
-        "image": "NEZhentilKeep.JPG",
-        "caption": "A map showing the Street of Dragons in northeast Zhentil Keep.",
-        "name": "Street of Dragons",
-        "type": "Road",
-        "aliases": "",
-        "length": "{{SI|400|ft}}",
         "width": "",
         "pavement": "",
-        "location": "The [[Zhentil Keep/Common Quarter|Common Quarter]], [[Zhentil Keep]]",
-        "starts": "The [[Dragon Gate]]",
-        "ends": "The wall of the [[Zhentil Keep/Inner Quarter|Inner Quarter]]",
+        "location": "The Common Quarter, Zhentil Keep",
+        "starts": "The Dragon Gate",
+        "ends": "The wall of the Inner Quarter",
         "built": "",
         "refs": "",
         "daggers": "",
@@ -26,8 +17,6 @@
         "roads": "yes",
         "bodies of water": "",
         "events": "",
-        "mainbody": "The '''Street of Dragons''' was a small road located in the city of [[Zhentil Keep]] during the mid–14{{th}} century [[DR]].",
-        "Location": "The Street of Dragons was located in Zhentil Keep's [[Zhentil Keep/Common Quarter|Common Quarter]] in the northeast section of the city. The road took over for the [[Dragon Trail (Zhentil Keep)|Dragon Trail]] at the [[Dragon Gate]], passing southwest for just {{SI|400|ft|long=yes}} before terminating at the wall of the [[Zhentil Keep/Inner Quarter|Inner Quarter]]. The Street of Dragons was intersected by [[Border Street]], [[Fortress Street]], and [[Beholder Street]].",
-        "Notable Locations": "[[The Eagle of the North]] tavern was located along the Street of Dragons. Also found along this road were a [[Zhentilar]] barracks and guardpost."
+        "mainbody": "The Street of Dragons was a small road located in the city of Zhentil Keep during the mid–14 century DR.\nThe Street of Dragons was located in Zhentil Keeps Common Quarter in the northeast section of the city. The road took over for the Dragon Trail at the Dragon Gate, passing southwest for just  before terminating at the wall of the Inner Quarter. The Street of Dragons was intersected by Border Street, Fortress Street, and Beholder Street.\nThe Eagle of the North tavern was located along the Street of Dragons. Also found along this road were a Zhentilar barracks and guardpost."
     }
 }

@@ -1,13 +1,5 @@
 {
     "document_data": {
-        "image": "Orcish double axe.png",
-        "name": "Orc double axe",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Polearm]]",
-        "creator": "",
-        "location": "",
-        "basicrefs": "{{Cite dragon/331/The Point of Pole Arms|24}}",
         "value1e": "",
         "weight1e": "",
         "refs1e": "",
@@ -19,8 +11,8 @@
         "school3e": "",
         "casterlevel3e": "",
         "itemlevel3e": "",
-        "value3e": "60 [[gp]]",
-        "weight3e": "{{SIrange|15|25|lbs|k}}",
+        "value3e": "60 gp",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -37,16 +29,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Orc double axes''' were a type of [[orc]]ish [[polearm#Poleaxe_Family|poleaxe]].\n\n{{quote|''One blade good, two blades better!''|Orcish wisdom}}",
-        "Description": "This weapon was two double-bladed axes mounted on either end of a stout shaft. There were two wide grips on the haft, about midway between the center and each axe head. The blades were narrower than those on a [[greataxe]] to reduce the weight, which was considerable. The toe of each axe blade could be extended to a sharp point, and the ends of the haft could be spiked also. The average orc double axe weighed around {{SI|15|lbs|k}}.",
-        "Weaponology": "They were not designed to be used as throwing weapons.<ref>",
-        "Notable orc double axes": "* ''[[Ettin Axe of Uruth]]'', a [[sentient item|sentient]] [[Item enchantment|enchanted]] orc double axe that served as an infamous symbol of [[orc]] military power.",
-        "Notable Users": {
-            "Classes": "* An [[Eye of Gruumsh (disambiguation)|Eye of Gruumsh]], an orc [[barbarian]] that was touched by the power of [[Gruumsh]], was always adept in the use of orc double axes.<ref><ref>",
-            "Groups": "* The [[Broken Fang]] orc tribe.",
-            "Individuals": "* [[Broakus Dead-Eye]], an orc warlord, was buried with an orc double axe.\n* [[Krull (orc)|Krull the Wicked]], an orc warlord, was buried with an orc double axe.\n* [[Murgmar|Murgmar the Wretched]], an orc warlord, was buried with an orc double axe.\n* [[Naazlog]], an [[orog]] barbarian.<ref>\n* [[Skorn Bladebreaker]], an orc warlord, was buried with an orc double axe.\n* [[Tragwor|Tragwor the Brutal]], an orc warlord, was buried with an orc double axe.",
-            "Races & Sentient Creatures": "* Some [[ogre]]s could be found wielding this weapon.<ref>"
-        },
-        "Trivia": "Some [[soulknives]] were capable of reshaping their [[psionic]] blade into the shape of an orc double axe.<ref>"
+        "mainbody": "Orc double axes were a type of orcish poleaxe.\nThis weapon was two double-bladed axes mounted on either end of a stout shaft. There were two wide grips on the haft, about midway between the center and each axe head. The blades were narrower than those on a greataxe to reduce the weight, which was considerable. The toe of each axe blade could be extended to a sharp point, and the ends of the haft could be spiked also. The average orc double axe weighed around .\nThey were not designed to be used as throwing weapons.\n* Ettin Axe of Uruth, a sentient enchanted orc double axe that served as an infamous symbol of orc military power.\n* An Eye of Gruumsh, an orc barbarian that was touched by the power of Gruumsh, was always adept in the use of orc double axes.\n* The Broken Fang orc tribe.\n* Broakus Dead-Eye, an orc warlord, was buried with an orc double axe.\n* Krull the Wicked, an orc warlord, was buried with an orc double axe.\n* Murgmar the Wretched, an orc warlord, was buried with an orc double axe.\n* Naazlog, an orog barbarian.\n* Skorn Bladebreaker, an orc warlord, was buried with an orc double axe.\n* Tragwor the Brutal, an orc warlord, was buried with an orc double axe.\n* Some ogres could be found wielding this weapon.\nSome soulknives were capable of reshaping their psionic blade into the shape of an orc double axe."
     }
 }

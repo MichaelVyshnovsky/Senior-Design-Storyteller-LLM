@@ -1,16 +1,10 @@
 {
     "document_data": {
-        "image": "NWZhentilKeep.JPG",
-        "caption": "A map showing Wyvern Road in northwest Zhentil Keep.",
-        "name": "Wyvern Road",
-        "type": "Street",
-        "aliases": "",
-        "length": "{{SI|700|ft}}",
         "width": "",
         "pavement": "",
-        "location": "The [[Zhentil Keep/Common Quarter|Common Quarter]], [[Zhentil Keep]]",
-        "starts": "The [[Trail Gate]]",
-        "ends": "The [[Zhentil Keep/Inner Quarter|Inner Quarter]] wall",
+        "location": "The Common Quarter, Zhentil Keep",
+        "starts": "The Trail Gate",
+        "ends": "The Inner Quarter wall",
         "built": "",
         "refs": "",
         "daggers": "",
@@ -23,9 +17,6 @@
         "roads": "yes",
         "bodies of water": "",
         "events": "",
-        "mainbody": "'''Wyvern Road''' was a street located in the city of [[Zhentil Keep]] during the mid-14{{th}} century [[DR]].",
-        "Location": "Wyvern Road originated at Zhentil Keep's [[Trail Gate]], taking over for the [[Zhentilar Trail]] inside the city walls. The road terminated at the unnamed gate that allowed passage into the [[Zhentil Keep/Inner Quarter|Inner Quarter]]. Wyvern Road was located in northwest Zhentil Keep in the [[Zhentil Keep/Common Quarter|Common Quarter]]. Wyvern Road was part of a large convergence of other roads in Zhentil Keep that formed a large intersection just east of the Trail Gate. The other roads were [[Border Street]], [[Fortress Street]], [[Cobble Road]], and [[Nool Street]].",
-        "Description": "The road ran roughly west to east.",
-        "Notable Locations": "* The Trail Gate\n* A [[Zhentilar]] guard post"
+        "mainbody": "Wyvern Road was a street located in the city of Zhentil Keep during the mid-14 century DR.\nWyvern Road originated at Zhentil Keeps Trail Gate, taking over for the Zhentilar Trail inside the city walls. The road terminated at the unnamed gate that allowed passage into the Inner Quarter. Wyvern Road was located in northwest Zhentil Keep in the Common Quarter. Wyvern Road was part of a large convergence of other roads in Zhentil Keep that formed a large intersection just east of the Trail Gate. The other roads were Border Street, Fortress Street, Cobble Road, and Nool Street.\nThe road ran roughly west to east.\n* The Trail Gate\n* A Zhentilar guard post"
     }
 }

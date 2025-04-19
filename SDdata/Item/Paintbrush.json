@@ -1,22 +1,5 @@
 {
     "document_data": {
-        "image": "Paint-ME.png",
-        "caption": "A paintbrush in its natural habitat.",
-        "name": "Paintbrush",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Tool",
-        "material": "",
-        "creator": "",
-        "origin": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "{{Plain table|Paintbrush, small|3 [[sp]]|Paintbrush, medium|4 sp|4\" wide brush|4 [[gp]]|1\" wide brush|5 gp|3/4–1/16\" fine brush|3 gp}}",
         "weight2e": "",
         "refs2e": "",
         "school3e": "",
@@ -40,8 +23,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "A '''paintbrush''' was a basic tool used by artists, scribes, and limners.",
-        "Description": "A paintbrush was usually made of a wooden or [[ceramic]] handle with an attached hair head that picked up and applied [[paint]] or [[ink]].",
-        "Availability": "* ''[[Aurora's Whole Realms Catalogue (in-universe)|Aurora's Whole Realms Catalogue]]'' offered a wide selection of brushes for scribes and artists made with [[camel]] hair from [[Calimshan]]. Small and medium scribe's brushes were had for 3 [[sp]] and 4 sp, as well as 4-inch brushes for painting buildings (4 [[gp]]), 1-inch brushes for sighwriting (5 gp), and 3/4, 1/2, 1/4, 1/8, 1/16-inch and hairline brushes for fine painting and portraiture."
+        "mainbody": "A paintbrush was a basic tool used by artists, scribes, and limners.\nA paintbrush was usually made of a wooden or ceramic handle with an attached hair head that picked up and applied paint or ink.\n* Auroras Whole Realms Catalogue offered a wide selection of brushes for scribes and artists made with camel hair from Calimshan. Small and medium scribes brushes were had for 3 sp and 4 sp, as well as 4-inch brushes for painting buildings (4 gp), 1-inch brushes for sighwriting (5 gp), and 3/4, 1/2, 1/4, 1/8, 1/16-inch and hairline brushes for fine painting and portraiture."
     }
 }

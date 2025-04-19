@@ -1,18 +1,3 @@
-{{Spell
-| image         = 
-| caption       = 
-| name          = Earthbind
-| deity         = 
-| inventor      = 
-| type          = 
-| school5e      = [[Transmutation]]
-| domains5e     = 
-| circles5e     = 
-| oaths5e       = 
-| patrons5e     = 
-| traditions5e  = 
-| archetypes5e  = 
-| level5e       = {{Spell table|edition=5e|[[Druid]]|2|[[Sorcerer]]|2|[[Warlock]]|2|[[Wizard]]|2}}
 | type5e        = 
 | refs5e        = 
 | feature4e     = 
@@ -22,10 +7,10 @@
 | category4e    = 
 | skill4e       = 
 | refs4e        = 
-| school3e      = [[Transmutation]]
+| school3e      = Transmutation
 | domains3e     = 
 | descriptors3e = 
-| level3e       = {{Spell table|edition=3e|[[Druid]]|2|[[Sorcerer]]|2|[[Wizard]]|2}}
+| level3e       = 
 | type3e        = 
 | refs3e        = 
 | reversible2e  = 
@@ -39,17 +24,8 @@
 | level1e       = 
 | type1e        = 
 | refs1e        = 
-}}
-'''''Earthbind''''' was a [[transmutation]] [[spell]] that temporarily suppressed a creature's ability to fly.
-
-==Effects==
-The spell enveloped a creature within a range of {{SI|300|ft|long=yes}} in yellow strips of magical energy. If unable to resist, the affected creature could not fly again for up to 1 minute, as long as the caster kept concentrating.
-
-If ''earthbind'' was cast on an airborne creature, it gently descended to the ground as if under the effect of a ''[[feather fall]]'' spell. Even if a newly applied effect would grant the creature the ability to fly again, it would be suppressed for the duration of the ''earthbind'' spell.
-
-==Components==
-The spell required only [[verbal component]]s, though some older versions of it required a [[somatic component]].
-
-==Notable Users==
-* [[Gadacro]] had an innate ability to cast this spell once per day.
-
+Earthbind was a transmutation spell that temporarily suppressed a creatures ability to fly.
+The spell enveloped a creature within a range of  in yellow strips of magical energy. If unable to resist, the affected creature could not fly again for up to 1 minute, as long as the caster kept concentrating.
+If earthbind was cast on an airborne creature, it gently descended to the ground as if under the effect of a feather fall spell. Even if a newly applied effect would grant the creature the ability to fly again, it would be suppressed for the duration of the earthbind spell.
+The spell required only verbal components, though some older versions of it required a somatic component.
+* Gadacro had an innate ability to cast this spell once per day.

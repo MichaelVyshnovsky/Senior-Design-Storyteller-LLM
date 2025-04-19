@@ -1,29 +1,12 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Malathon",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "Dark Doom",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Castle Krag]], [[Shadowdale]], [[Dalelands]]",
-        "formerhomes": "",
-        "race": "[[Half-orc]]",
-        "class2e": "",
-        "class3e": "",
-        "class35": "{{class table|edition=3e|[[Cleric]]|10}}",
         "refs2e": "",
         "refs3e": "",
         "refs35": "",
         "sex": "Male",
-        "alignment": "[[Lawful evil]]",
-        "patron deity": "[[Bane]]",
-        "languages": "[[Common]], [[Orcish]]",
+        "alignment": "Lawful evil",
+        "patron deity": "Bane",
+        "languages": "Common, Orcish",
         "reckoning": "DR",
         "dob": "",
         "dobnotes": "",
@@ -33,9 +16,6 @@
         "deathnotes": "",
         "destroyed": "",
         "destroyednotes": "",
-        "mainbody": "'''Malathon''' was a [[half-orc]] [[cleric]] of [[Bane]] who helped in the attack on [[Shadowdale]].",
-        "Abilities": "His [[cleric]] domains were [[Destruction domain|Destruction]] and [[Evil domain|Evil]].",
-        "Possessions": "The Dark Doom wore ''+3 [[full plate]]'' that provided him with resistance to [[spell]]s in battle, and wielded an enchanted ''+2 [[morningstar]]''. For additional protection, Malathon carried a ''[[ring of counterspells]]'' and an ''[[amulet of proof against petrification]]''.",
-        "History": "During the [[Zhent]] occupation of [[Shadowdale]] in [[Hammer]], [[1375 DR]], High Priest Malathon was charged with rebuilding the temple of Bane in [[Castle Krag]]."
+        "mainbody": "Malathon was a half-orc cleric of Bane who helped in the attack on Shadowdale.\nHis cleric domains were Destruction and Evil.\nThe Dark Doom wore +3 full plate that provided him with resistance to spells in battle, and wielded an enchanted +2 morningstar. For additional protection, Malathon carried a ring of counterspells and an amulet of proof against petrification.\nDuring the Zhent occupation of Shadowdale in Hammer, 1375 DR, High Priest Malathon was charged with rebuilding the temple of Bane in Castle Krag."
     }
 }

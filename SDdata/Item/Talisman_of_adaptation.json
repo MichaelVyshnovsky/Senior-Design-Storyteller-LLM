@@ -1,25 +1,5 @@
 {
     "document_data": {
-        "caption": "",
-        "name": "''Talisman of Adaptation''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Magical item",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "650 [[gp]]",
-        "weight3e": "",
-        "refs3e": "{{Cite dragon/306/Racial Variants|61}}",
         "level4e": "",
         "value4e": "",
         "weight4e": "",
@@ -34,9 +14,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "A '''''talisman of adaptation''''' was a magical jewel that altered the physiology of an aquatic creature, allowing the wearer to breathe air and survive outside water for one week.",
-        "Description": "It took the form of a multicolored [[coral]] pendant.",
-        "Powers": "This talisman allowed a water-dweller to breathe air and to suffer no penalty for being outside water. Its effect lasted for one week, after which the talisman lost all its power, becoming a mundane decorative object.",
-        "Creation": "Crafting one required a ''[[water breathing]]'' spell."
+        "mainbody": "A talisman of adaptation was a magical jewel that altered the physiology of an aquatic creature, allowing the wearer to breathe air and survive outside water for one week.\nIt took the form of a multicolored coral pendant.\nThis talisman allowed a water-dweller to breathe air and to suffer no penalty for being outside water. Its effect lasted for one week, after which the talisman lost all its power, becoming a mundane decorative object. \nCrafting one required a water breathing spell."
     }
 }

@@ -1,28 +1,5 @@
 {
     "document_data": {
-        "image": "GrandBazaar.png",
-        "caption": "A map of Huzuz showing the Grand Bazaar Boulevard lined in black.",
-        "name": "Grand Bazaar Boulevard",
-        "type": "Street",
-        "aliases": "",
-        "length": "",
-        "width": "",
-        "pavement": "",
-        "location": "[[Huzuz]], [[Zakhara]]",
-        "starts": "[[Pilgrims' District]]",
-        "ends": "[[Grand Bazaar]]",
-        "built": "",
-        "refs": "",
-        "daggers": "",
-        "usethe": "yes",
-        "useon": "yes",
-        "inhabitants": "yes",
-        "locations": "yes",
-        "organizations": "yes",
-        "settlements": "",
-        "roads": "yes",
-        "events": "",
-        "mainbody": "The '''Grand Bazaar Boulevard''' was located in [[Huzuz]], the City of Delights, in [[1367 DR]].{{AQ-time}}",
-        "Description": "This road ran from the heart of Huzuz near the mosques in the [[Pilgrims' District]] northwest to the [[Grand Bazaar]] in the [[Merchants' District]]. It bordered the entire southern face of the Grand Bazaar, providing ample access to the giant marketplace. The Grand Bazaar Boulevard also passed through the [[Central District]] en route to the bazaar."
+        "mainbody": "he Grand Bazaar Boulevard was located in Huzuz, the City of Delights, in 1367 DR.\nThis road ran from the heart of Huzuz near the mosques in the Pilgrims District northwest to the Grand Bazaar in the Merchants District. It bordered the entire southern face of the Grand Bazaar, providing ample access to the giant marketplace. The Grand Bazaar Boulevard also passed through the Central District en route to the bazaar."
     }
 }

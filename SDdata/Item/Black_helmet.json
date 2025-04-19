@@ -1,15 +1,5 @@
 {
     "document_data": {
-        "image": "Black helmet shells1.jpg",
-        "caption": "Black helmet shells.",
-        "name": "Black Helmet",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Shell",
-        "location": "",
-        "value1e": "45 [[gp]]",
-        "weight1e": "",
-        "refs1e": "{{Cite dragon/72/Gems Galore|22}}",
         "school2e": "",
         "level2e": "",
         "value2e": "45 gp",
@@ -35,7 +25,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''Black helmet''' was a [[wikipedia:en:cassidae|cassidae]] shell found in the Realms.",
-        "Description": "Helmet shells were sought after for making cameos. Black helmet shells had a dark brown layer beneath a lighter colored layer. This gave a cameo an [[onyx]]-like appearance. A large specimen in good condition had a base value of 45 gp."
+        "mainbody": "Black helmet was a cassidae shell found in the Realms.\nHelmet shells were sought after for making cameos. Black helmet shells had a dark brown layer beneath a lighter colored layer. This gave a cameo an onyx-like appearance. A large specimen in good condition had a base value of 45 gp."
     }
 }

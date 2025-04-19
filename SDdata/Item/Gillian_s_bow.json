@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "3|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Gillian's bow.png",
-        "caption": "",
-        "name": "''Gillian's Bow''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Longbow]]",
-        "location": "[[Gillian's Hill]], [[Delimbiyr Vale]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+2",
-        "value3e": "",
-        "weight3e": "{{SI|3|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Gillian's bow''''' was the [[enchanted]] [[longbow]] that belonged to [[Gillian Cantilar]], the defender of the [[Trade Way]] and the namesake of the hamlet of [[Gillian's Hill]].",
-        "Powers": "''Gillian's bow'' possessed a ''+2'' enchantment. The weapon was also fitted with an ingenious sighting mechanism of [[gnome|gnomish]] creation. It gave ''Gillian's bow'' range, dramatically longer than other longbows, and gave the weapon the ability to deal devastating critical damage when its arrows reached their targets dead-center.",
-        "History": "This enchanted bow faithfully served Gillian Cantilar, the [[half-elven]] [[ranger]] hero of the Trade Way. By [[1372 DR]], ''Gillian's bow'' was in the hands of [[Gillian's Hill Gang]], a group of bandits who took over the fire cairn tower on the hill's summit and menaced the locals and traveling merchants."
+        "mainbody": "Gillians bow was the enchanted longbow that belonged to Gillian Cantilar, the defender of the Trade Way and the namesake of the hamlet of Gillians Hill.\nGillians bow possessed a +2 enchantment. The weapon was also fitted with an ingenious sighting mechanism of gnomish creation. It gave Gillians bow range, dramatically longer than other longbows, and gave the weapon the ability to deal devastating critical damage when its arrows reached their targets dead-center.\nThis enchanted bow faithfully served Gillian Cantilar, the half-elven ranger hero of the Trade Way. By 1372 DR, Gillians bow was in the hands of Gillians Hill Gang, a group of bandits who took over the fire cairn tower on the hills summit and menaced the locals and traveling merchants."
     }
 }

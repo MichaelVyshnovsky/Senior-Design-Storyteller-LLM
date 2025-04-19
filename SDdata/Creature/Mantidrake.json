@@ -1,16 +1,6 @@
 {
-    "template_data": {
-        "25|feet|long": "yes",
-        "k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Mantidrake",
-        "othernames": "",
-        "size2e": "Huge",
-        "alignment2e": "{{Alignment grid|off|off|off|off|off|off|on|on|on}}",
-        "refs2e": "{{cite dragon/170/Crossing Dragons With Everything|19-20,22,24}}{{cite book/Cult of the Dragon|108}}",
+        "refs2e": "",
         "patron deity": "",
         "movement": "Flying",
         "vision": "",
@@ -19,12 +9,12 @@
         "lifespan": "Same as manticore",
         "location": "",
         "intelligence": "Low",
-        "language": "As parent, sometimes [[Common]]",
+        "language": "As parent, sometimes Common",
         "climate": "Any",
         "terrain": "Any",
         "genrefs": "",
         "height": "",
-        "length": "{{SI|25|feet|long=yes}}",
+        "length": "",
         "wingspan": "",
         "weight": "",
         "skincolor": "As parent, blended with brown",
@@ -35,16 +25,9 @@
         "build": "Winged lion",
         "distinctions": "",
         "appearrefs": "",
-        "first": "[[Dragon magazine 170]]",
+        "first": "Dragon magazine 170",
         "based": "",
         "histrefs": "",
-        "mainbody": "A '''mantidrake''' was the offspring of a [[manticore]] and a chromatic [[dragon]]. They sometimes served the [[Cult of the Dragon]] as mounts.",
-        "Description": "Mantidrakes resembled scaled manticores. They bore a lion's mane around their head, which was more like a dragon's, and they carried two large wings. Their coloration resembled their dragon parent, blended with the dun brown of the manticore; the dragon color predominated in its head, wings, hindquarters, face and belly, with the rest only having stripes of the scale color.",
-        "Personality": "Wild mantidrakes were solitary brutes. They liked to collect treasure, and favored manflesh for its taste.",
-        "Abilities": "Mantidrakes were clumsy fliers. They could use their dragon parent's [[dragon breath|breath weapon]], destructive enough that one gout had the potential to slay them at full vitality if they weren't immune to its element, which they were; they could unleash this devastating attack up to four times a day. Magic that empowered attacks meant for dragons had no additional effect when wielded against them.",
-        "Combat": "Mantidrakes always opened combat with a volley of their tail spikes, of which it regrew up to 4 volleys a day. They avoided aerial combat if at all possible, using it only for ambushes and to keep their range from creatures too dangerous to engage at close range. The toughness of their naturally armored skin and the resilience of their bodies varied according to the parent dragon.",
-        "Society": "[[File:Mantidrake by Baxa.png|thumb|250px|right|]]\nMantidrakes preferred warm habitats, making their parents more likely to be blue dragons. They spoke the language of their rearing parent (most often the mother), with a minimal understanding of the other parent's language, if it was involved at all. Cult mantidrakes normally knew [[Common]] and the language of their dragon parent. Those mantidrakes that had escaped the [[Cult of the Dragon]] became solitary in the wild; where more than one was encountered, those were pairs that mated for life, like manticores did.\n\nIt was impossible to train a mantidrake unless it was taken from its parents shortly after birth. They often served the Cult as protectors or distractions, sometimes even as mounts. An adult mantidrake only understood partnerships, and wouldn't be interested unless brought great amounts of treasure and food.",
-        "Ecology": "Mantidrakes with a territory smaller than {{SI|25|sq. mi|k|long=yes}} overhunted until it was devoid of all animals and humans. Their hide, curiously supple, could fetch about 5,000 [[gp]] (if intact).",
-        "History": "Mantidrakes were created by [[Sammaster]] in the course of his research into draconic life, to better understand how to prolong that life after death. Enterprising cult members later realized they could be used as guards and servants; some of these hybrids later escaped into the wild.{{cite book/Cult of the Dragon|98}} There were known hybrids not only with [[red dragon|red]], [[white dragon|white]], [[green dragon|green]], [[blue dragon|blue]] and [[black dragon|black]] dragons, but also with [[brown dragon|brown]] and [[yellow dragon]]s.{{cite web/theedverse/2022-03-21 - Shadow Dragon Hybrids}}"
+        "mainbody": "A mantidrake was the offspring of a manticore and a chromatic dragon. They sometimes served the Cult of the Dragon as mounts.\nMantidrakes resembled scaled manticores. They bore a lions mane around their head, which was more like a dragons, and they carried two large wings. Their coloration resembled their dragon parent, blended with the dun brown of the manticore the dragon color predominated in its head, wings, hindquarters, face and belly, with the rest only having stripes of the scale color.\nWild mantidrakes were solitary brutes. They liked to collect treasure, and favored manflesh for its taste.\nMantidrakes were clumsy fliers. They could use their dragon parents breath weapon, destructive enough that one gout had the potential to slay them at full vitality if they werent immune to its element, which they were they could unleash this devastating attack up to four times a day. Magic that empowered attacks meant for dragons had no additional effect when wielded against them.\nMantidrakes always opened combat with a volley of their tail spikes, of which it regrew up to 4 volleys a day. They avoided aerial combat if at all possible, using it only for ambushes and to keep their range from creatures too dangerous to engage at close range. The toughness of their naturally armored skin and the resilience of their bodies varied according to the parent dragon.\nthumb|250px|right|\nMantidrakes preferred warm habitats, making their parents more likely to be blue dragons. They spoke the language of their rearing parent (most often the mother), with a minimal understanding of the other parents language, if it was involved at all. Cult mantidrakes normally knew Common and the language of their dragon parent. Those mantidrakes that had escaped the Cult of the Dragon became solitary in the wild where more than one was encountered, those were pairs that mated for life, like manticores did.\nIt was impossible to train a mantidrake unless it was taken from its parents shortly after birth. They often served the Cult as protectors or distractions, sometimes even as mounts. An adult mantidrake only understood partnerships, and wouldnt be interested unless brought great amounts of treasure and food.\nMantidrakes with a territory smaller than  overhunted until it was devoid of all animals and humans. Their hide, curiously supple, could fetch about 5,000 gp (if intact).\nMantidrakes were created by Sammaster in the course of his research into draconic life, to better understand how to prolong that life after death. Enterprising cult members later realized they could be used as guards and servants some of these hybrids later escaped into the wild. There were known hybrids not only with red, white, green, blue and black dragons, but also with brown and yellow dragons."
     }
 }

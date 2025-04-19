@@ -1,14 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "name": "Compulsive Order",
-        "school2e": "[[Enchantment]] (Charm)",
-        "spheres2e": "[[Law sphere|Law]]",
-        "level2e": "{{spell table|edition=2e|[[Crusader]]|4|[[Law sphere|Law]]|4}}",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''''Compulsive order''''' was an [[enchantment]] spell that could force one creature to be obsessed with making their world clean, neat, and logically arranged."
+        "mainbody": "Compulsive order was an enchantment spell that could force one creature to be obsessed with making their world clean, neat, and logically arranged."
     }
 }

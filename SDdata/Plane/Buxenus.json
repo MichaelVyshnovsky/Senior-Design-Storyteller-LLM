@@ -1,29 +1,16 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Buxenus",
-        "othernames": "",
-        "symbol": "Arcadia.png",
-        "demonym": "",
-        "natives": "",
-        "languages": "",
-        "fork-material": "[[Gold]]",
-        "fork-note": "C#",
-        "fork-chord": "major",
-        "fork-audio": "C-sharp major.ogg",
-        "basicrefs": "{{Cite dragon/120/Plane Speaking|42-43}}",
         "type-GW": "Layer",
         "shape-size-GW": "Infinite",
         "gravity-GW": "Normal",
         "time-GW": "Normal",
         "morphic-GW": "Divinely",
         "element-energy-GW": "",
-        "alignment-GW": "{{Alignment grid|on|off|off|on|off|off|off|off|off}}",
+        "alignment-GW": "",
         "magical-GW": "Normal",
         "layers-GW": "",
         "layer-number-GW": "2",
-        "location-GW": "[[Arcadia]]",
+        "location-GW": "Arcadia",
         "refs-GW": "",
         "type-WA": "",
         "shape-size-WA": "",
@@ -56,9 +43,6 @@
         "settlements": "yes",
         "usethe": "",
         "useon": "",
-        "mainbody": "'''Buxenus''' was the second layer of [[Arcadia]] in the [[Great Wheel cosmology]]. It contained the [[divine realm]]s of [[Azuth]] and [[Savras]], as well as  [[Heliopolis]], the shared divine realm of [[Horus-Re]], [[Isis]], [[Osiris]], and [[Ra]] of the [[Mulhorandi pantheon]].",
-        "Geography": "Although similar to the first layer, [[Abellio]], with its orderly plains dotted with  mountains, hills, forests, lakes and streams, Buxenus was also a highly organized war camp, training site and mustering ground for armies bent on reconquering [[Nemausus]].",
-        "Notable Locations": "* [[Azuth (realm)|Azuth]], realm of [[Azuth]]. It was a cavern whose entrance was hidden in the side of a hill, opening into a descending stairway that led down to a series of chambers filled with marvels.\n* [[The Eye]], realm of [[Savras]].\n* [[Heliopolis]], shared realm of [[Horus-Re]], [[Isis]], [[Osiris]], and [[Ra]]. It was a triangle-shaped realm divided in thirds, each controlled by Isis, Osiris, and Ra. Horus wandered between the realms and did not hold a territory of his own.\n* [[Melodia]], the home town of the [[Harmonium]], a faction of individuals from the [[Prime Material plane]] that served as the police force of [[Sigil]].",
-        "Inhabitants": "The training grounds were run by the Harmonium. Besides mustering forces to recover Nemausus from [[Mechanus]], their secondary goal was to convert creatures of chaotic tendencies into their vision of the harmonious nature of the plane itself. By doing so forcefully, the Harmonium's success rate was very low, to the point that many of the captured creatures perished. This persistent harmful effect of the training camps slowly permeated into the plane itself, gradually shifting its identity towards neutrality. Unwittingly, the Harmonium's efforts were helping to destroy the second layer of the plane instead of recovering the already lost third layer."
+        "mainbody": "Buxenus was the second layer of Arcadia in the Great Wheel cosmology. It contained the divine realms of Azuth and Savras, as well as  Heliopolis, the shared divine realm of Horus-Re, Isis, Osiris, and Ra of the Mulhorandi pantheon.\nAlthough similar to the first layer, Abellio, with its orderly plains dotted with  mountains, hills, forests, lakes and streams, Buxenus was also a highly organized war camp, training site and mustering ground for armies bent on reconquering Nemausus.\n* Azuth, realm of Azuth. It was a cavern whose entrance was hidden in the side of a hill, opening into a descending stairway that led down to a series of chambers filled with marvels.\n* The Eye, realm of Savras.\n* Heliopolis, shared realm of Horus-Re, Isis, Osiris, and Ra. It was a triangle-shaped realm divided in thirds, each controlled by Isis, Osiris, and Ra. Horus wandered between the realms and did not hold a territory of his own.\n* Melodia, the home town of the Harmonium, a faction of individuals from the Prime Material plane that served as the police force of Sigil.\nThe training grounds were run by the Harmonium. Besides mustering forces to recover Nemausus from Mechanus, their secondary goal was to convert creatures of chaotic tendencies into their vision of the harmonious nature of the plane itself. By doing so forcefully, the Harmoniums success rate was very low, to the point that many of the captured creatures perished. This persistent harmful effect of the training camps slowly permeated into the plane itself, gradually shifting its identity towards neutrality. Unwittingly, the Harmoniums efforts were helping to destroy the second layer of the plane instead of recovering the already lost third layer."
     }
 }

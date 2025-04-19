@@ -1,40 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Taunt",
-        "deity": "",
-        "inventor": "[[Dace (arcanist)|Dace]]",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Enchantment]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|1}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -42,10 +7,7 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "othernames": "Dace's Taunting",
-        "mainbody": "'''''Taunt''''' (originally called '''''Dace's taunting'''''",
-        "Effects": "When ''taunt'' was cast, the affected creature became hostile and would attempt to attack the caster.\n\nWhen used in conjunction with a ''[[ventriloquism]]'' spell, the creatures might attack the apparent source, depending upon their intelligence, a leader's presence, and so on.",
-        "Components": "The spell required [[Verbal component|verbal]], [[Somatic component|somatic]], and [[material component]]s. The material component was a slug, which was hurled at the creatures.",
-        "History": "The spell was attributed to [[Arcanist|Netherese arcanist]] [[Dace (arcanist)|Dace]], in [[-1839 DR|−1839 DR]], originally called ''Dace's taunting''."
+        "othernames": "Daces Taunting",
+        "mainbody": "Taunt (originally called Daces taunting\nWhen taunt was cast, the affected creature became hostile and would attempt to attack the caster.\nWhen used in conjunction with a ventriloquism spell, the creatures might attack the apparent source, depending upon their intelligence, a leaders presence, and so on.\nThe spell required verbal, somatic, and material components. The material component was a slug, which was hurled at the creatures.\nThe spell was attributed to Netherese arcanist Dace, in −1839 DR, originally called Daces taunting."
     }
 }

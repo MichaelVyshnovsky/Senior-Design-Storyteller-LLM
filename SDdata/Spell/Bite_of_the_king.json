@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Bite of the King",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Necromancy]]",
-        "domains3e": "Gluttony",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Gluttony domain|Gluttony]]|8}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Bite of the king''''' was a [[necromancy]] [[spell]] that gave a living creature the ability to swallow things that were normally too big for it.",
-        "Effects": "On casting ''bite of the king'', the caster gained a special pocket dimension inside their stomach and the ability to extend their mouth unnaturally wide and swallow a creature inside this pocket dimension.\n\nA creature who was swallowed by the beneficiary of the spell was crushed by the small pocket dimension and burned by [[acid]]. One way for the victim to save themself was to cut their way out with a slashing or piercing weapon. The pocket dimension could only withstand a certain amount of such damage before breaking down and on successfully breaking it, the victim appeared next to the caster.",
-        "Components": "''Bite of the king'' required only verbal components."
+        "mainbody": "Bite of the king was a necromancy spell that gave a living creature the ability to swallow things that were normally too big for it.\nOn casting bite of the king, the caster gained a special pocket dimension inside their stomach and the ability to extend their mouth unnaturally wide and swallow a creature inside this pocket dimension.\nA creature who was swallowed by the beneficiary of the spell was crushed by the small pocket dimension and burned by acid. One way for the victim to save themself was to cut their way out with a slashing or piercing weapon. The pocket dimension could only withstand a certain amount of such damage before breaking down and on successfully breaking it, the victim appeared next to the caster.\nBite of the king required only verbal components."
     }
 }

@@ -1,15 +1,5 @@
 {
     "document_data": {
-        "image": "Horn-2e.jpg",
-        "caption": "A horn from [[Aurora's Emporium]].",
-        "name": "Horn",
-        "othernames": "Trumpet",
-        "nicknames": "",
-        "type": "Musical instrument",
-        "location": "",
-        "value1e": "6 [[gp]]",
-        "weight1e": "",
-        "refs1e": "<ref>{{Cite dragon/117/Dungeoneer's Shopping Guide|22}}",
         "school2e": "",
         "level2e": "",
         "value2e": "40 gp",
@@ -23,23 +13,18 @@
         "refs3e": "",
         "level4e": "",
         "value4e": "7 gp",
-        "weight4e": "{{SI|3|lbs.|k}}",
+        "weight4e": "",
         "refs4e": "",
         "rarity5e": "",
         "attunement5e": "",
         "school5e": "",
         "level5e": "",
         "value5e": "3 gp",
-        "weight5e": "{{SI|2|lbs.|k}}",
+        "weight5e": "",
         "refs5e": "",
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''Horns''' were a type of wind musical instrument.",
-        "Description": "Several variants of horns existed, such as [[chordal horn]]s, [[fanfare horn]]s, [[hunting horn]]s, and [[Glaur (instrument)|glaur]]s. Horns were typically made of brass, [[bronze]], horn or shell.\n\nThe common horn, also known as a valveless trumpet, was traditional to kings' courts.",
-        "Availability": "Trumpets and other horns were available for purchase through ''[[Aurora's Whole Realms Catalogue]]''.",
-        "Notable Users of Horns": {
-            "Religions": "* It was common for [[cleric]]s of [[Eilistraee]] to be proficient with horns, as well as [[flute]]s and [[harp]]s."
-        }
+        "mainbody": "Horns were a type of wind musical instrument.\nSeveral variants of horns existed, such as chordal horns, fanfare horns, hunting horns, and glaurs. Horns were typically made of brass, bronze, horn or shell.\nThe common horn, also known as a valveless trumpet, was traditional to kings courts.\nTrumpets and other horns were available for purchase through Auroras Whole Realms Catalogue.\n* It was common for clerics of Eilistraee to be proficient with horns, as well as flutes and harps."
     }
 }

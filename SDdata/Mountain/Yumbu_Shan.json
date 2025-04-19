@@ -1,21 +1,5 @@
 {
-    "template_data": {
-        "image": "KhazariSR.JPG",
-        "caption": "A map of Khazari showing Yumbu Shan in the southwest.",
-        "name": "Yumbu Shan",
-        "aliases": "",
-        "type": "Mountain",
-        "area": "[[Katakoro Shan]], [[Khazari]]",
-        "elevation": "{{SI"
-    },
     "document_data": {
-        "image": "KhazariSR.JPG",
-        "caption": "A map of Khazari showing Yumbu Shan in the southwest.",
-        "name": "Yumbu Shan",
-        "aliases": "",
-        "type": "Mountain",
-        "area": "[[Katakoro Shan]], [[Khazari]]",
-        "elevation": "{{SI|16041|ft}}",
         "georefs": "",
         "races": "",
         "socrefs": "",
@@ -30,8 +14,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "'''Yumbu Shan''' was a large mountain peak found in the nation of [[Khazari]] in the [[Hordelands]].",
-        "Geography": "Yumbu Shan was found in the southwest corner of Khazari where an arm of [[Katakoro Shan]] encircled the country from the south.",
-        "Description": "The peak rose to an elevation of {{SI|16041|ft}}. [[Yumbu Citadel]] was built atop Yumbu Shan."
+        "mainbody": "Yumbu Shan was a large mountain peak found in the nation of Khazari in the Hordelands.\nYumbu Shan was found in the southwest corner of Khazari where an arm of Katakoro Shan encircled the country from the south.\nThe peak rose to an elevation of . Yumbu Citadel was built atop Yumbu Shan."
     }
 }

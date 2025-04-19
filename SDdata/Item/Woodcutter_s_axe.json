@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "5|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Woodcutter's axe.png",
-        "caption": "",
-        "name": "''Woodcutter's Axe''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Handaxe]]",
-        "location": "[[Voonlar]], [[Moonsea]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+2",
-        "value3e": "",
-        "weight3e": "{{SI|5|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Woodcutter's axes''''' were [[enchanted]] tools of lumberjacks's trade in the [[Moonsea]] region.",
-        "Powers": "These magic ''woodcutter's axes'' were created to increase the work efficiency of individual lumberjacks as hands-on logging was the most efficient method. The enchantments placed on ''woodcutter's axes'' guided the weapon towards the \"sweet spot\" on the target's body. This effectively was a ''+2'' enchantment when wielded in battle. The same magic made these aces especially deadly against various [[shapechanger]] foes.",
-        "History": "By the {{YearlinkName|1373}}, ''woodcutter's axes'' were used by lumberjacks in the Moonsea region and the city of [[Voonlar]]. One such weapon could be found stuck in a tree stump on the outskirts of Voonlar ''circa'' the [[Order of the Crippled Fang]] crisis and a devastating [[fiend]] assault on the city."
+        "mainbody": "Woodcutters axes were enchanted tools of lumberjackss trade in the Moonsea region.\nThese magic woodcutters axes were created to increase the work efficiency of individual lumberjacks as hands-on logging was the most efficient method. The enchantments placed on woodcutters axes guided the weapon towards the \"sweet spot\" on the targets body. This effectively was a +2 enchantment when wielded in battle. The same magic made these aces especially deadly against various shapechanger foes.\nBy the , woodcutters axes were used by lumberjacks in the Moonsea region and the city of Voonlar. One such weapon could be found stuck in a tree stump on the outskirts of Voonlar circa the Order of the Crippled Fang crisis and a devastating fiend assault on the city."
     }
 }

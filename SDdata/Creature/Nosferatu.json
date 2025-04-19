@@ -1,47 +1,20 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "360|ft|long": "yes",
-        "15|ft|long": "yes",
-        "40|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Nosferatu_5e.png",
-        "caption": "",
-        "name": "Nosferatu",
-        "othernames": "",
-        "size5e": "Medium",
-        "type5e": "[[Undead]]",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "8",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "",
-        "type3e": "[[Undead]]",
-        "subtype3e": "[[Augmented humanoid]]<br />[[Vampire]]",
-        "alignment3e": "Always [[evil]] (any)",
-        "challenge3e": "{{CR table|edition=3e|Fledling|+2|Mature|+2|Old|+3|Ancient|+3|Eminent|+4|Patriarch|+5}}",
         "refs3e": "",
         "size2e": "Medium",
-        "alignment2e": "Any [[evil]]",
+        "alignment2e": "Any evil",
         "refs2e": "",
         "size1e": "",
         "alignment1e": "",
         "refs1e": "",
         "patron deity": "",
         "movement": "",
-        "vision": "[[Darkvision]]",
+        "vision": "Darkvision",
         "activecycle": "Night",
         "diet": "Blood",
         "lifespan": "",
-        "location": "[[Domains of Dread]]",
-        "intelligence": "Genius<br/>High<br/>Semi-",
+        "location": "Domains of Dread",
+        "intelligence": "GeniusHighSemi-",
         "language": "Languages it knew in life",
         "subraces": "",
         "climate": "",
@@ -62,18 +35,6 @@
         "first": "",
         "based": "",
         "histrefs": "",
-        "mainbody": "'''Nosferatu''' ({{SingPl}}) were a strain of [[vampire]] originating from the [[Domains of Dread]] that exhibited a degree of variance in their supernatural nature.",
-        "Description": "Nosferatu exhibited gaunt faces, that was cold to the touch, and eyes that glowed with an unholy light. Though they could appear flushed and warm to the touch, just as how they did when alive, for several hours after feeding.\n\nSome nosferatu exhibited fierce claws, or were incapable of casting a shadow or reflection. Furthermore, some sources claimed a nosferatu often grew more attractive with the passing of centuries, their bodies becoming gradually smoother, and that the oldest of them exhibited skin comparable to [[porcelain]] in their smoothness.",
-        "Personality": "Some were said to have rather high or genius intellects, capable of mastering languages over the course of their unlife, whilst other nosferatu were only semi-intelligent savage brutes. The latter were said to attain a state of lucidity following feeding.",
-        "Abilities": {
-            "Weaknesses": "Nosferatu also suffered all the same weaknesses as a common vampire, and running water. Some nosferatu fell into death-like comas at sunrise, whilst others did not. For some nosferatu [[sunlight]] was not fatal, only weakening, causing their powers to become inactive. And if caught in a ''shapechanged'' form at daybreak, a nosferatu would be trapped in that form until their powers returned. For these same nosferatu it was said that exposure to direct moonlight enabled greater regenerative capabilities, allowing them to even reattach severed limbs.\n\nA [[stake]] through the heart would slay a nosferatu, though it would come back to life upon the stake's removal unless further actions were taken with the body. This required either burning the body or severing and scattering its limbs far from the reach of the nosferatu's minions."
-        },
-        "Combat": "Some nosferatu fought with the use of their claws, whilst others were seen to fight with weaponry, even magical weaponry such as ''+1 [[rapier]]s'', and exceptional nosferatu were even seen to utilize [[spell]]s. Some claimed nosferatu only ever attacked those who were weak or ''charmed'' by them.",
-        "History": "Sometime around the {{YearlinkName|1371}},{{LCRB}} an evil [[mage]] in [[the Vast]] by the name of [[Kimber]] attracted the attention of the [[Dark Powers]] of Ravenloft after creating a [[demiplane|demi-dimension]]. Intrigued by what might occur, they decided to open a [[portal]] between the Domains of Dread and [[Toril]], allowing a vampire through to aid the sorceress in her plans.<ref>{{Cite organized play/LC/The \"Life\" of the Party|3}} A [[drow vampire]] by the name of [[Johnathon Freid]] came through and eagerly acquiesced to aiding Kimber's plans of revenge, later bringing through a nosferatu by the name of [[Victoria Freid]].<ref>{{Cite organized play/LC/The \"Life\" of the Party|14-15}}<ref group=\"note\" name=\"strain\">It is not explicitly stated in the adventure ''The \"Life\" of the Party'' where Victoria Freid came from. The adventure only explicitly states that Johnathon Freid crossed over from Ravenloft and infected ten members of [[Ravens Bluff]]'s [[City Guard (Ravens Bluff)|City Guard]] with vampirism. Due to their shared surname, as well as the adventure featuring eight basic vampires and two [[vorlog]]s, it stands to reason that Victoria was not one of these ten guards and must have been brought in off-screen.",
-        "Notable Nosferatu": "* [[Jander Sunstar]], a [[gold elf]] vampire from [[Evermeet]] and one of the top experts on vampires in the Domains of Dread, was according to some sources a variant of the nosferatu strain.",
-        "Society": {
-            "Diet": "Nosferatu had a far greater dependence upon blood for subsistence than the common vampire, bordering on addiction, growing hungrier with each passing night. If deprived of food for long enough, a nosferatu was liable to go into a frenzy upon any viable victim that came within {{SI|40|ft|long=yes}} of them. They were able to subsist upon animal blood for a time, though they could not completely forgo humanoid blood, as living off the blood of animals would leave nosferatu in a weakened state.",
-            "Languages": "Like most vampires, nosferatu retained all the languages that they had known in life prior to becoming undead."
-        }
+        "mainbody": "Nosferatu () were a strain of vampire originating from the Domains of Dread that exhibited a degree of variance in their supernatural nature.\nNosferatu exhibited gaunt faces, that was cold to the touch, and eyes that glowed with an unholy light. Though they could appear flushed and warm to the touch, just as how they did when alive, for several hours after feeding.\nSome nosferatu exhibited fierce claws, or were incapable of casting a shadow or reflection. Furthermore, some sources claimed a nosferatu often grew more attractive with the passing of centuries, their bodies becoming gradually smoother, and that the oldest of them exhibited skin comparable to porcelain in their smoothness.\nSome were said to have rather high or genius intellects, capable of mastering languages over the course of their unlife, whilst other nosferatu were only semi-intelligent savage brutes. The latter were said to attain a state of lucidity following feeding.\nMost nosferatu possessed all the same powers of a common vampire, such as being able to spider climb, shapechange, assume a gaseous form, and charm people. Though they lacked their energy draining touch and those that were savage brutes only displayed the power to cling to and climb across walls and ceilings. Nosferatu also had a number of powers that were unique to their strain, as well as different powers depending upon what demihuman race an individual nosferatu was.\nSome possessed a one-way form of telepathy, allowing them to charm and command anyone they had previously bitten. This charm lasted until either the nosferatu was killed or the victim had either the break enchantment or remove curse spell cast upon them. In order to command their charmed victims a nosferatu had to be within  of them. The more savage of nosferatu lacked this power, instead being capable of projectile vomiting blood out to  in front of them. This blood was deleterious to other creatures, being suffused with necrotic energy.\nHumanoids who died from having their blood drained by a nosferatu were likely to become either subservient nosferatu or vampire spawn. Some sources claimed that such victims would arise from their graves on the next fullmoon, whilst other sources claimed this occurred around one to ten days after being buried.\nNosferatu also suffered all the same weaknesses as a common vampire, and running water. Some nosferatu fell into death-like comas at sunrise, whilst others did not. For some nosferatu sunlight was not fatal, only weakening, causing their powers to become inactive. And if caught in a shapechanged form at daybreak, a nosferatu would be trapped in that form until their powers returned. For these same nosferatu it was said that exposure to direct moonlight enabled greater regenerative capabilities, allowing them to even reattach severed limbs.\nA stake through the heart would slay a nosferatu, though it would come back to life upon the stakes removal unless further actions were taken with the body. This required either burning the body or severing and scattering its limbs far from the reach of the nosferatus minions.\nSome nosferatu fought with the use of their claws, whilst others were seen to fight with weaponry, even magical weaponry such as +1 rapiers, and exceptional nosferatu were even seen to utilize spells. Some claimed nosferatu only ever attacked those who were weak or charmed by them.\nSometime around the , an evil mage in the Vast by the name of Kimber attracted the attention of the Dark Powers of Ravenloft after creating a demi-dimension. Intrigued by what might occur, they decided to open a portal between the Domains of Dread and Toril, allowing a vampire through to aid the sorceress in her plans. A drow vampire by the name of Johnathon Freid came through and eagerly acquiesced to aiding Kimbers plans of revenge, later bringing through a nosferatu by the name of Victoria Freid.It is not explicitly stated in the adventure The \"Life\" of the Party where Victoria Freid came from. The adventure only explicitly states that Johnathon Freid crossed over from Ravenloft and infected ten members of Ravens Bluffs City Guard with vampirism. Due to their shared surname, as well as the adventure featuring eight basic vampires and two vorlogs, it stands to reason that Victoria was not one of these ten guards and must have been brought in off-screen.\n* Jander Sunstar, a gold elf vampire from Evermeet and one of the top experts on vampires in the Domains of Dread, was according to some sources a variant of the nosferatu strain.\nNosferatu were largely solitary beings active at night, though sometimes they were encountered in small groups of nosferatu or nosferatu and vampire spawn.\nThey made their lairs in places that were typically avoided by the living due to being either filthy or difficult to access, such as caves, ruins, sewers,  cemeteries, and other sorts of abandoned areas. The average nosferatu had multiple small lairs with coffins, having no less than three or four different coffins they could retreat to. For the most savage minded of nosferatu, these lairs were devoid of any creature comforts.\nThis excess of coffins was because, unlike other vampires, nosferatu required sleep for periods of eight hours in order to remain healthy. Going too long without this proper could be as harmful as going without blood. In order for them to \"rest\", a nosferatus coffin had to contain a handful of soil from the nosferatus original grave. Though for some nosferatu this resting period was only done in order to restore powers disabled from exposure to sunlight.\nNosferatu had a far greater dependence upon blood for subsistence than the common vampire, bordering on addiction, growing hungrier with each passing night. If deprived of food for long enough, a nosferatu was liable to go into a frenzy upon any viable victim that came within  of them. They were able to subsist upon animal blood for a time, though they could not completely forgo humanoid blood, as living off the blood of animals would leave nosferatu in a weakened state.\nLike most vampires, nosferatu retained all the languages that they had known in life prior to becoming undead."
     }
 }

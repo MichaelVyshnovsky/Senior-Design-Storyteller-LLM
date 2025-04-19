@@ -1,29 +1,9 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "3'6\"|ft-in|long": "yes",
-        "67|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Jaccob the halfling.png",
-        "caption": "Jaccob the halfling, moments before his demise.",
-        "name": "Jaccob",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Breakneck Resort]], [[Ten-Towns]]",
-        "formerhomes": "[[Luskan]], [[Sword Coast North]]",
-        "sex": "Male",
-        "gender": "",
-        "race": "[[Halfling]]",
-        "ethnicity": "",
-        "occupation": "Apprentice tourist guide<br/>{{Former}} smuggler",
         "age": "",
         "patron deity": "",
         "languages": "",
-        "basicrefs": "{{Cite polyhedron/121/Contests|22}}",
+        "basicrefs": "",
         "reckoning": "",
         "dob": "",
         "dobnotes": "",
@@ -48,8 +28,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Chaotic neutral]]",
-        "class2e": "{{Class table|edition=2e|[[Smuggler]]|4}}",
+        "alignment2e": "Chaotic neutral",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
@@ -66,10 +46,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Jaccob''' was a [[halfling]] [[smuggler]] and [[thief]] turned tourist guide in the [[Ten Towns]] of [[Icewind Dale]] in the late 14{{th}} century [[DR]].\n{{quote|''Oh yes, yes. There aren't to many tourists here though... It almost seems as if there are more guides than tour—...''|Overheard at Jaccob's eulogy}}",
-        "Description": "Jaccob was a {{SI|3'6\"|ft-in|long=yes}} tall hin who weighed {{SI|67|lb|k|long=yes}}. He had brown hair and hazel eyes.",
-        "Abilities": "The halfling used [[club]]s, [[dagger]]s, and [[sling]]s in battle. He was proficient in appraisal, [[rope]] use, and could write and read in [[Common]].",
-        "Possessions": "Jaccob's possessions included [[lock pick]]s, [[charcoal]], [[aniseed]], a hand [[lamp]], hollow [[boots]], a false [[scabbard]], a ''[[mouse cart]]'', three pet [[mice]], and an [[enchanted]] ''+2'' dagger called ''[[Longtooth]]''.",
-        "History": "Jaccob made a name for himself working as a smuggler to and from the northern city of [[Luskan]]. His career ended in earning a large bounty on his head, forcing the halfling to flee north to the frigid Ten Towns. Some claimed he had been the second halfling to ever visit the Ten Towns. Jaccob found a fleeting temporary home while apprenticing under [[Henry Coldwater]] as a tourist guide at the [[Breakneck Resort]]. Henry saw potential and initiative in the newcomer. However, Breakneck Resort proved its name to the amateur [[snowskis|skier]]. Only the most proficient skiers and [[orc]]s returned from the slopes unharmed. A short time later, Henry Coldwater hosted a eulogy for the dearly departed Jaccob the halfling."
+        "mainbody": "Jaccob was a halfling smuggler and thief turned tourist guide in the Ten Towns of Icewind Dale in the late 14 century DR.\nJaccob was a  tall hin who weighed . He had brown hair and hazel eyes.\nThe halfling used clubs, daggers, and slings in battle. He was proficient in appraisal, rope use, and could write and read in Common.\nJaccobs possessions included lock picks, charcoal, aniseed, a hand lamp, hollow boots, a false scabbard, a mouse cart, three pet mice, and an enchanted +2 dagger called Longtooth.\nJaccob made a name for himself working as a smuggler to and from the northern city of Luskan. His career ended in earning a large bounty on his head, forcing the halfling to flee north to the frigid Ten Towns. Some claimed he had been the second halfling to ever visit the Ten Towns. Jaccob found a fleeting temporary home while apprenticing under Henry Coldwater as a tourist guide at the Breakneck Resort. Henry saw potential and initiative in the newcomer. However, Breakneck Resort proved its name to the amateur skier. Only the most proficient skiers and orcs returned from the slopes unharmed. A short time later, Henry Coldwater hosted a eulogy for the dearly departed Jaccob the halfling."
     }
 }

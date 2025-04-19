@@ -1,26 +1,16 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "float": "left",
-        "text": "Wizard! Wizard! Call up thy fiends, and we'll watch pretty fire in the night!",
-        "source": "Arkanuirr Tchellem, Sultan of Tulmon, ''Sayings of the Sultan: Court Records, Book 36''"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Arkanuirr Tchallem",
-        "alt_spelling": "Arkanuirr Tchellem{{Cite dragon/272/The New Adventures of Volo: Quotations of the Realms|95}}<ref group=\"note\">''Dragon'' #272 has a different spelling of his surname. The article is titled using the most recent source.",
         "titles": "",
         "aliases": "",
         "nicknames": "",
         "true name": "",
-        "home": "[[Tulmon]], [[Lake of Steam (region)|Lake of Steam]]",
+        "home": "Tulmon, Lake of Steam",
         "formerhomes": "",
         "sex": "Male",
-        "race": "[[Human]]",
+        "race": "Human",
         "ethnicity": "",
         "occupation": "",
-        "age": "Over 300 in [[1372 DR]]",
+        "age": "Over 300 in 1372 DR",
         "patron deity": "",
         "languages": "",
         "basicrefs": "",
@@ -51,9 +41,9 @@
         "alignment2e": "",
         "class2e": "",
         "refs2e": "",
-        "alignment3e": "[[Lawful neutral]]",
+        "alignment3e": "Lawful neutral",
         "challenge3e": "",
-        "class3e": "{{class table|edition=3e|[[Sorcerer]]|11}}",
+        "class3e": "",
         "refs3e": "",
         "alignment35": "",
         "challenge35": "",
@@ -66,6 +56,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Arkanuirr Tchallem''' (also seen as '''Tchellem'''){{cite web/More Lake of Steam and Dragon Coast}}\n\n{{Fq|float=left|text=Wizard! Wizard! Call up thy fiends, and we'll watch pretty fire in the night!|source=Arkanuirr Tchellem, Sultan of Tulmon, ''Sayings of the Sultan: Court Records, Book 36''}}\n{{-}}"
+        "mainbody": "Arkanuirr Tchallem (also seen as Tchellem)"
     }
 }

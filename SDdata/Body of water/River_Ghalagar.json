@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "200|miles|long": "yes"
-    },
     "document_data": {
-        "image": "Shipgrave.png",
-        "caption": "A map Halruaa showing the River Ghalagar.",
-        "name": "River Ghalagar",
-        "aliases": "",
-        "type": "River",
-        "region": "[[Halruaa]], the [[Shining South]]",
-        "size": "",
-        "depth": "",
-        "river source": "[[Lhairghal Mountains]]",
-        "river mouth": "[[Lake Halruaa]]",
-        "tributaries": "",
-        "tributary of": "",
-        "georefs": "",
-        "races": "",
-        "socrefs": "",
-        "usethe": "yes",
-        "useon": "yes",
-        "inhabitants": "",
-        "locations": "yes",
-        "organizations": "",
-        "settlements": "yes",
-        "mountains": "",
-        "events": "",
-        "food and drink": "",
-        "items": "",
-        "mainbody": "The '''River Ghalagar''' was a small waterway found in western [[Halruaa]].",
-        "Geography": "The River Ghalagar originated in the [[Lhairghal Mountains]] on Halruaa's western border. It flowed southeast through the foothills of the mountains where it bisected the [[Akhlaur Swamp]] before ultimately reaching [[Lake Halruaa]]. The river had a length of approximately {{SI|200|miles|long=yes}}.",
-        "Notable Locations": "* [[Akhlaur Swamp]]"
+        "mainbody": "he River Ghalagar was a small waterway found in western Halruaa.\nThe River Ghalagar originated in the Lhairghal Mountains on Halruaas western border. It flowed southeast through the foothills of the mountains where it bisected the Akhlaur Swamp before ultimately reaching Lake Halruaa. The river had a length of approximately .\n* Akhlaur Swamp"
     }
 }

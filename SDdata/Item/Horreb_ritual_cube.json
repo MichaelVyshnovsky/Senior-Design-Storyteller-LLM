@@ -1,14 +1,10 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Horreb Ritual Cube''",
-        "othernames": "Horreb cube{{Cite dungeon/170/Monument of the Ancients|60}}",
         "nicknames": "",
-        "type": "[[Magic item]]",
+        "type": "Magic item",
         "material": "",
         "creator": "",
-        "origin": "[[Horreb]]",
+        "origin": "Horreb",
         "location": "",
         "basicrefs": "",
         "value1e": "",
@@ -47,9 +43,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The '''Horreb ritual cube''' was a [[enchanted]] puzzle box created by artificers of [[Horreb]]. It served as a secure vessel for storing and releasing [[ritual]]s.{{Cite dungeon/170/Monument of the Ancients|61}}",
-        "Description": "Intricately designed, the cube was composed of smaller, interlocking cubes, each marked with a unique glyph, allowing for numerous possible arrangements.",
-        "Powers": "A Horreb ritual cube could store a ritual during its creation, which could later be released when the cube's faces were arranged in the correct configuration. The design of the cube prevented accidental or premature activation of the ritual.",
-        "Notable Cubes": "One of the most notable cubes contained a ritual specifically designed to keep the [[primordial]] [[Maram|Maram of the Great Spear]] locked in his prison, acting as a failsafe to prevent Maram from returning to the [[material plane]]."
+        "mainbody": "The Horreb ritual cube was a enchanted puzzle box created by artificers of Horreb. It served as a secure vessel for storing and releasing rituals.\nIntricately designed, the cube was composed of smaller, interlocking cubes, each marked with a unique glyph, allowing for numerous possible arrangements.\nA Horreb ritual cube could store a ritual during its creation, which could later be released when the cubes faces were arranged in the correct configuration. The design of the cube prevented accidental or premature activation of the ritual.\nOne of the most notable cubes contained a ritual specifically designed to keep the primordial Maram of the Great Spear locked in his prison, acting as a failsafe to prevent Maram from returning to the material plane."
     }
 }

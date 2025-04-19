@@ -1,37 +1,8 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Deathwatch",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Necromancy]]",
-        "domains3e": "[[Generosity domain|Generosity]], [[Planning domain|Planning]]",
-        "descriptors3e": "{{desc/evil}}",
-        "level3e": "{{spell table|edition=3e|[[Cleric]]|1|[[Generosity domain|Generosity]]|1|[[Planning domain|Planning]]|1}}",
+        "level3e": "",
         "type3e": "",
-        "refs3e": "{{Cite dragon/355/Seven Saintly Domains|28}}",
+        "refs3e": "",
         "reversible2e": "",
         "school2e": "",
         "spheres2e": "",
@@ -43,8 +14,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Deathwatch''''' was a [[divine]] [[necromancy]] [[spell]] that informed the caster how badly wounded subjects were.",
-        "Effects": "With the power of unlife, the caster acquired a necromantic vision with which they could tell the status of living creatures close to death within an area of {{SI|30|ft}}. He or she immediately sensed if a creature was dead or close to death from wounds, [[undead]], or neither alive nor dead (as in the case of [[construct]]s). This spell foiled any magic or ability with which creatures could fake death.\n\nCertain [[deity|deities]] granted this spell for non-evil purposes.",
-        "Components": "This spell required only [[verbal]] and [[somatic component]]s to cast."
+        "mainbody": "Deathwatch was a divine necromancy spell that informed the caster how badly wounded subjects were.\nWith the power of unlife, the caster acquired a necromantic vision with which they could tell the status of living creatures close to death within an area of . He or she immediately sensed if a creature was dead or close to death from wounds, undead, or neither alive nor dead (as in the case of constructs). This spell foiled any magic or ability with which creatures could fake death.\nCertain deities granted this spell for non-evil purposes.\nThis spell required only verbal and somatic components to cast."
     }
 }

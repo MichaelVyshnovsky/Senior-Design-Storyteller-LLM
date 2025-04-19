@@ -1,26 +1,17 @@
 {
-    "template_data": {
-        "100|yards|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Shinkintin",
-        "alt spelling": "",
-        "aliases": "",
-        "type": "Ruins<br />{{Former}} Settlement",
-        "region": "[[Fochu Peninsula]], [[Tsukishima]], [[Wa]]",
-        "size": "[[Village]]",
+        "region": "Fochu Peninsula, Tsukishima, Wa",
+        "size": "Village",
         "elevation": "",
         "depth": "",
         "capital": "",
         "largest city": "",
         "georefs": "",
         "demonym": "",
-        "population": "~500 before [[1352 DR]]",
-        "races": "[[Human]]s ([[Wanese]])",
-        "languages": "[[Wa-an]]",
-        "religion": "{{Former}} [[Path of Enlightenment]]",
+        "population": "~500 before 1352 DR",
+        "races": "Humans (Wanese)",
+        "languages": "Wa-an",
+        "religion": "Path of Enlightenment",
         "alignment": "",
         "socrefs": "",
         "imports": "",
@@ -28,7 +19,7 @@
         "currency": "",
         "comrefs": "",
         "government": "",
-        "rulertype": "[[Wa-an dictionary#S|''Shoya'']]",
+        "rulertype": "Shoya",
         "ruler": "",
         "head of state": "",
         "leader1": "",
@@ -91,11 +82,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "'''Shinkintin''' was once one of the many isolated villages of the [[Fochu Peninsula]] in [[Wa]], before it was utterly destroyed by a [[krakentua]].",
-        "Description": "After its destruction, all that remained of Shinkintin was the debris of its former buildings. The ruins smelled of rotten [[fish]] and [[cherry]] blossoms. Scattered among the ruins were crushed, snapped, and burned skeletons of [[human]]s and animals and dead [[octopus]]es. About 200 Refugees from the former village continued to live in a camp of tents and shacks northeast of the ruins across a small bay, on a beach about {{SI|100|yards|long=yes}} wide. These refugees wore heavy [[copper]] bells about their necks, which they rang whenever their krakentua appeared. Some fished, but many gathered cherries and cherry milk for their mistress.",
-        "Geography": "Shinkintin was located in the south of the island of [[Tsukishima]], on the east coast of the Fochu Peninsula near the [[Momoben Forest]].",
-        "Government": "Villages in Wa were run by an administrator known as a [[Wa-an dictionary#S|''shoya'']]. Before its destruction, the ''shoya'' of Shinkintin was a powerful [[wu jen]].",
-        "Religion": "The refugees of Shinkintin worshiped the krakentua who had destroyed their village, whom they called the \"lady of the ocean\",",
-        "History": "Sometime around {{YearlinkConvert|1770|WY}}, a female krakentua from the [[Isle of Gargantuas]] visited the Fochu Peninsula, looking for human worshipers. The wu jen ''shoya'' of Shinkintin transformed the nearby [[Asamura Stream]] into cherry milk as a gift to her. Not all citizens of the village, however, were so eager to follow the sea monster, and they rebelled. In response, the krakentua flattened the entire village. The survivors, in fear, then promised her their worship."
+        "mainbody": "Shinkintin was once one of the many isolated villages of the Fochu Peninsula in Wa, before it was utterly destroyed by a krakentua.\nAfter its destruction, all that remained of Shinkintin was the debris of its former buildings. The ruins smelled of rotten fish and cherry blossoms. Scattered among the ruins were crushed, snapped, and burned skeletons of humans and animals and dead octopuses. About 200 Refugees from the former village continued to live in a camp of tents and shacks northeast of the ruins across a small bay, on a beach about  wide. These refugees wore heavy copper bells about their necks, which they rang whenever their krakentua appeared. Some fished, but many gathered cherries and cherry milk for their mistress.\nShinkintin was located in the south of the island of Tsukishima, on the east coast of the Fochu Peninsula near the Momoben Forest.\nVillages in Wa were run by an administrator known as a shoya. Before its destruction, the shoya of Shinkintin was a powerful wu jen.\nThe refugees of Shinkintin worshiped the krakentua who had destroyed their village, whom they called the \"lady of the ocean\",\nSometime around , a female krakentua from the Isle of Gargantuas visited the Fochu Peninsula, looking for human worshipers. The wu jen shoya of Shinkintin transformed the nearby Asamura Stream into cherry milk as a gift to her. Not all citizens of the village, however, were so eager to follow the sea monster, and they rebelled. In response, the krakentua flattened the entire village. The survivors, in fear, then promised her their worship."
     }
 }

@@ -1,29 +1,9 @@
 {
-    "template_data": {
-        "cats": "yes",
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "Howling_dragon-3e.jpg",
-        "caption": "",
-        "name": "Howling Dragon",
-        "size5e": "",
-        "type5e": "",
-        "subtype5e": "",
-        "alignment5e": "",
-        "challenge5e": "",
-        "refs5e": "",
-        "size4e": "",
-        "origin4e": "",
-        "type4e": "",
-        "subtype4e": "",
-        "alignment4e": "",
-        "refs4e": "",
-        "size3e": "{{Size table|Wyrmling|Medium|Very young|Large|Young|Large|Juvenile|Large|Young adult|Huge|Adult|Huge|Mature adult|Huge|Old|Gargantuan|Very old|Gargantuan|Ancient|Gargantuan|Wyrm|Colossal|Great wyrm|Colossal}}",
-        "type3e": "[[Dragon]]",
+        "type3e": "Dragon",
         "subtype3e": "",
-        "alignment3e": "{{Alignment grid|cats=yes|off|off|off|off|off|on|off|off|on}}",
-        "challenge3e": "{{CR table|edition=3e|Wyrmling|5|Very young|6|Young|8|Juvenile|10|Young adult|13|Adult|14|Mature adult|17|Old|19|Very old|20|Ancient|21|Wyrm|22|Great wyrm|23}}",
+        "alignment3e": "",
+        "challenge3e": "",
         "refs3e": "",
         "size2e": "",
         "alignment2e": "",
@@ -36,7 +16,7 @@
         "activecycle": "",
         "diet": "Carnivore",
         "lifespan": "",
-        "location": "[[Pandemonium]],",
+        "location": "Pandemonium,",
         "language": "",
         "subraces": "",
         "climate": "",
@@ -54,10 +34,6 @@
         "distinctions": "",
         "based": "",
         "first": "",
-        "mainbody": "'''Howling dragons''' were completely insane [[dragon]]s native to [[Pandemonium]].",
-        "Description": "Howling dragons had long and slender bodies whose purple scales were dotted with black and darkened as they aged. Their legs and wings were equally thin. Their heads and shoulders were covered in frill-like spines. Their large, small-pupilled eyes were yellow and feral.\n\nThey subsisted on any type of creature they could find, including [[undead]] and [[construct]]s. They particularly enjoyed eating their prey while it was still alive and moving.",
-        "Personality": "Howling dragons were extremely intelligent. From the depths of their insanity, they continuously worked on inscrutable schemes.",
-        "Combat": "Ferocious and aggressive combatants, howling dragons made extensive and random use of their two [[dragon breath|breath weapons]]: a cone of deafening sound, and a howl that progressively drove its victims insane. Due to the extremely loud winds of Pandemonium, those effects had a reduced range there.\n\nThey could cause effects similar to the ''[[confusion]]'', ''[[gust of wind]]'', ''[[insanity]]'', ''[[phantasmal killer]]'', ''[[shatter]]'', ''[[shout]]'', ''[[sound burst]]'', ''[[symbol of insanity]]'', ''[[Tasha's hideous laughter]]'', ''[[weird]]'', ''[[whirlwind]]'', and ''[[wind wall]]'' [[spell]]s.",
-        "Society": "Howling dragons preferred to build their lairs in isolated caves. They tended to thoroughly explore their surroundings, roaming through all tunnels and crevices they could find. They could be found alone or in families as they raised their young. Clutches of young howling dragons were also commonly found.\n\nIn addition to their native plane of Pandemonium, howling dragons could also be found in the [[Dragon Eyrie]], [[Fury's Heart]], and the [[Supreme Throne]]. If found in the [[Prime Material plane]], they tended to look for underground locations to build their lairs."
+        "mainbody": "Howling dragons were completely insane dragons native to Pandemonium.\nHowling dragons had long and slender bodies whose purple scales were dotted with black and darkened as they aged. Their legs and wings were equally thin. Their heads and shoulders were covered in frill-like spines. Their large, small-pupilled eyes were yellow and feral.\nThey subsisted on any type of creature they could find, including undead and constructs. They particularly enjoyed eating their prey while it was still alive and moving.\nHowling dragons were extremely intelligent. From the depths of their insanity, they continuously worked on inscrutable schemes.\nFerocious and aggressive combatants, howling dragons made extensive and random use of their two breath weapons a cone of deafening sound, and a howl that progressively drove its victims insane. Due to the extremely loud winds of Pandemonium, those effects had a reduced range there.\nThey could cause effects similar to the confusion, gust of wind, insanity, phantasmal killer, shatter, shout, sound burst, symbol of insanity, Tashas hideous laughter, weird, whirlwind, and wind wall spells.\nHowling dragons preferred to build their lairs in isolated caves. They tended to thoroughly explore their surroundings, roaming through all tunnels and crevices they could find. They could be found alone or in families as they raised their young. Clutches of young howling dragons were also commonly found.\nIn addition to their native plane of Pandemonium, howling dragons could also be found in the Dragon Eyrie, Furys Heart, and the Supreme Throne. If found in the Prime Material plane, they tended to look for underground locations to build their lairs."
     }
 }

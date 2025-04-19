@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Remarkus",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Myth Drannor]], [[Cormanthor]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "race": "[[Lich]]",
-        "ethnicity": "",
-        "occupation": "",
-        "age": "",
-        "patron deity": "",
-        "reckoning": "DR",
-        "dob": "",
-        "dobnotes": "",
-        "turned": "",
-        "turnednotes": "",
-        "death": "",
-        "deathnotes": "",
-        "destroyed": "",
-        "destroyednotes": "",
-        "parents": "",
-        "spouses": "",
-        "siblings": "",
-        "children": "",
-        "familyrefs": "",
-        "alignment1e": "",
-        "class1e": "",
-        "refs1e": "",
-        "alignment2e": "[[Neutral evil]]",
-        "class2e": "{{class table|edition=2e|[[Wizard]]|18}}",
         "refs2e": "",
         "alignment3e": "",
         "class3e": "",
@@ -45,7 +7,6 @@
         "alignment35": "",
         "class35": "",
         "refs35": "",
-        "mainbody": "'''Remarkus''' was an insane [[lich]] in [[Myth Drannor]] in [[1357 DR]].",
-        "Activities": "Remarkus haunted a kind of war room with a map of Myth Drannor around [[757 DR]] with pins indicating all the [[undead]] he controlled. If someone entered he called an equal number of undead and observed the battle, not caring who was the winner."
+        "mainbody": "Remarkus was an insane lich in Myth Drannor in 1357 DR.\nRemarkus haunted a kind of war room with a map of Myth Drannor around 757 DR with pins indicating all the undead he controlled. If someone entered he called an equal number of undead and observed the battle, not caring who was the winner."
     }
 }

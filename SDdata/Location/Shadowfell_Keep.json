@@ -1,42 +1,7 @@
 {
-    "template_data": {
-        "url": "http://www.wizards.com/dnd/files/dungeon/155_Shadowfell_FR.pdf",
-        "author": "[[Greg Bilsland]]",
-        "title": "Keep on the Shadowfell Forgotten Realms Conversion",
-        "accessdate": "2008-06-13",
-        "format": "PDF",
-        "work": "Dungeon magazine 155",
-        "pages": "12",
-        "url_1": "http://www.wizards.com/dnd/files/dungeon/155_Shadowfell_FR.pdf",
-        "author_1": "[[Greg Bilsland]]",
-        "title_1": "Keep on the Shadowfell Forgotten Realms Conversion",
-        "accessdate_1": "2008-06-13",
-        "format_1": "PDF",
-        "work_1": "Dungeon magazine 155",
-        "pages_1": "4",
-        "url_2": "http://www.wizards.com/dnd/files/dungeon/155_Shadowfell_FR.pdf",
-        "author_2": "[[Greg Bilsland]]",
-        "title_2": "Keep on the Shadowfell Forgotten Realms Conversion",
-        "accessdate_2": "2008-06-13",
-        "format_2": "PDF",
-        "work_2": "Dungeon magazine 155",
-        "pages_2": "5",
-        "url_3": "http://www.wizards.com/dnd/files/dungeon/155_Shadowfell_FR.pdf",
-        "author_3": "[[Greg Bilsland]]",
-        "title_3": "Keep on the Shadowfell Forgotten Realms Conversion",
-        "accessdate_3": "2008-06-13",
-        "format_3": "PDF",
-        "work_3": "Dungeon magazine 155",
-        "pages_3": "15"
-    },
     "document_data": {
-        "type": "Large castle",
-        "name": "Shadowfell Keep",
-        "image": "[[File:DFa1X5C.jpg|thumb]]",
-        "caption": "''Ruins of Shadowfell Keep''",
-        "aliases": "Keegan's Keep{{cite web |url=http://www.wizards.com/dnd/files/dungeon/155_Shadowfell_FR.pdf |author=[[Greg Bilsland]] |title=Keep on the Shadowfell Forgotten Realms Conversion |accessdate=2008-06-13|format=PDF |work=Dungeon magazine 155 |pages=12}}",
         "capital": "",
-        "area": "[[Cormyr]], [[Thunder Peaks]]",
+        "area": "Cormyr, Thunder Peaks",
         "size": "",
         "ruler1": "",
         "ruleryear1": "",
@@ -55,10 +20,6 @@
         "religion": "",
         "population1": "",
         "settlements": "",
-        "mainbody": "'''Shadowfell Keep''', originally called '''Keegan's Keep''',{{cite web |url=http://www.wizards.com/dnd/files/dungeon/155_Shadowfell_FR.pdf |author=[[Greg Bilsland]] |title=Keep on the Shadowfell Forgotten Realms Conversion |accessdate=2008-06-13|format=PDF |work=Dungeon magazine 155 |pages=4}}",
-        "History": "When Cormyr began to create a series of fortresses along its frontier in [[236 DR]], the [[shadow dragon]] [[Shadraxil]] took this as an affront to his lands and began attacking the outposts. In response to Shadraxil's depredations, Cormyr sent a small force of armed men and [[War Wizard]]s led by the knight [[Jerold Keegan]]. Keegan set about creating a magical trap within one of the keeps in order to ensnare Shadraxil and bind him in the [[Plane of Shadow]]. The plan succeeded, and Shadraxil was trapped there for over eleven centuries, kept in a deep slumber for most of that time.{{cite web |url=http://www.wizards.com/dnd/files/dungeon/155_Shadowfell_FR.pdf |author=[[Greg Bilsland]] |title=Keep on the Shadowfell Forgotten Realms Conversion |accessdate=2008-06-13|format=PDF |work=Dungeon magazine 155 |pages=5}}\n\nSir Jerold Keegan soon afterwards became the lord of that outpost, which was then called Keegan's Keep. The Keep was consecrated to the goddess [[Selûne]]. The town of Winterhaven was founded nearby, likely for the keep's protection.\n\nIt was said that some time after Shadraxil's banishment, Keegan became a crazed madman and slew all of his family and friends, cursing the keep forever. All of this was in fact due to Shadraxil, still locked away in the Plane of Shadow but nonetheless able to exert his dark power over Keegan's mind. The leaders of Cormyr, afraid that this dark influence could be corrupting, ordered the keep torn down and its secrets hidden. They slew a young shadow dragon, claimed it was Shadraxil's corpse, and buried in a fake dragon burial site southwest of Winterhaven.\n\nFor years, rumors persisted of great treasures buried beneath the keep, yet few dared to explore it. Sir Keegan's ghost was said to roam the corridors beneath the ruins, wailing in grief over the tragedy of his life. The people of Winterhaven avoided the place, and the mere mention of Shadowfell Keep was considered bad luck by many of the farmers and villagers.<ref> \n\nIn the years after the [[Spellplague]] struck in [[1385 DR]], Shar folded the Plane of Shadow into the [[Shadowfell]], and Shadraxil awoke. The Spellplague weakened his magical binding, but he was still imprisoned. Seeking out aid, Shadraxil agreed to serve Shar as long as her followers could free him. Adventurers, however, thwarted Shar's cultists' efforts, and Shadraxil remained trapped in the Shadowfell.{{cite web |url=http://www.wizards.com/dnd/files/dungeon/155_Shadowfell_FR.pdf |author=[[Greg Bilsland]] |title=Keep on the Shadowfell Forgotten Realms Conversion |accessdate=2008-06-13|format=PDF |work=Dungeon magazine 155|pages=15}}",
-        "References": {
-            "For Further Reading": "*\n[[Category:Locations]]\n[[Category:Locations on Toril]]\n[[Category:Locations in Faerûn]]\n[[Category:Locations in Interior Faerûn]]\n[[Category:Locations in the Thunder Peaks]]\n[[Category:Locations in Cormyr]]\n[[Category:Keeps]]\n[[Category:Ruins]]\n[[Category:Locations in the Eastern Heartlands]]\n3rgo1zrgankjfpyhf64x52tnr8gb4e1"
-        }
+        "mainbody": "Shadowfell Keep, originally called Keegans Keep,\nWhen Cormyr began to create a series of fortresses along its frontier in 236 DR, the shadow dragon Shadraxil took this as an affront to his lands and began attacking the outposts. In response to Shadraxils depredations, Cormyr sent a small force of armed men and War Wizards led by the knight Jerold Keegan. Keegan set about creating a magical trap within one of the keeps in order to ensnare Shadraxil and bind him in the Plane of Shadow. The plan succeeded, and Shadraxil was trapped there for over eleven centuries, kept in a deep slumber for most of that time.\nSir Jerold Keegan soon afterwards became the lord of that outpost, which was then called Keegans Keep. The Keep was consecrated to the goddess Selûne. The town of Winterhaven was founded nearby, likely for the keeps protection.\nIt was said that some time after Shadraxils banishment, Keegan became a crazed madman and slew all of his family and friends, cursing the keep forever. All of this was in fact due to Shadraxil, still locked away in the Plane of Shadow but nonetheless able to exert his dark power over Keegans mind. The leaders of Cormyr, afraid that this dark influence could be corrupting, ordered the keep torn down and its secrets hidden. They slew a young shadow dragon, claimed it was Shadraxils corpse, and buried in a fake dragon burial site southwest of Winterhaven.\nFor years, rumors persisted of great treasures buried beneath the keep, yet few dared to explore it. Sir Keegans ghost was said to roam the corridors beneath the ruins, wailing in grief over the tragedy of his life. The people of Winterhaven avoided the place, and the mere mention of Shadowfell Keep was considered bad luck by many of the farmers and villagers. \nIn the years after the Spellplague struck in 1385 DR, Shar folded the Plane of Shadow into the Shadowfell, and Shadraxil awoke. The Spellplague weakened his magical binding, but he was still imprisoned. Seeking out aid, Shadraxil agreed to serve Shar as long as her followers could free him. Adventurers, however, thwarted Shars cultists efforts, and Shadraxil remained trapped in the Shadowfell.\n*\nCategoryLocations\nCategoryLocations on Toril\nCategoryLocations in Faerûn\nCategoryLocations in Interior Faerûn\nCategoryLocations in the Thunder Peaks\nCategoryLocations in Cormyr\nCategoryKeeps\nCategoryRuins\nCategoryLocations in the Eastern Heartlands\n3rgo1zrgankjfpyhf64x52tnr8gb4e1"
     }
 }

@@ -1,28 +1,21 @@
 {
-    "template_data": {
-        "1|oz.|long": "yes"
-    },
     "document_data": {
-        "image": "Garlic.png",
-        "caption": "",
-        "name": "Garlic",
-        "othernames": "Os ([[Thieves' cant]]){{Cite dragon/66/Thieves' Cant|44}}",
         "nicknames": "",
         "type": "Spice",
-        "location": "[[Gillian's Hill]], [[Liam's Hold]]<br/>[[Mosstone]], [[Tethyr]]",
+        "location": "Gillians Hill, Liams HoldMosstone, Tethyr",
         "basicrefs": "",
-        "value1e": "{{Split table|5 [[cp]]|Bud}}",
+        "value1e": "",
         "weight1e": "",
         "refs1e": "",
         "school2e": "",
         "level2e": "",
-        "value2e": "{{Split table|1 [[cp]]|Ounce|3 [[cp]]|Large clove|5 [[cp]]|Large bud|5 [[sp]]|Quart (pickled)}}",
+        "value2e": "",
         "weight2e": "",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
         "itemlevel3e": "",
-        "value3e": "{{Split table|1 [[cp]]|Ounce}}",
+        "value3e": "",
         "weight3e": "",
         "refs3e": "",
         "level4e": "",
@@ -40,21 +33,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Garlic''' was a common form of [[spices|spice]] found in the Realms.",
-        "Description": "Garlic plants had hollow long dark green spear-shaped leaves. The top of the plant had a round cluster of fine white flowers. The plant was renown for its strong smell, making it easy to identify in the wild, poultices, or foods. The scent became potent when the leaves were crushed. Garlic plants flowered in the mid-to late summer.{{Cite dragon/82/Wounds and weeds|16}}\n\nIf one were to cast ''[[speak with plants]]'' on some garlic, it's likely the plants would speak to the caster about cooking and vampires.{{Cite organized play/LC/With Great Risks|15}}",
-        "Availability": "Garlic was often cultivated in gardens. The plant preferred moist earth and humid locations and in the wild, could be seen growing in meadows or thin forests. Places in the Realms where garlic was known to be cultivated included:\n* The [[Dalelands]].",
-        "Cost": "Garlic was not an expensive spice. In most economies, {{SI|1|oz.|long=yes}} of garlic sold for only a [[copper piece]]. [[Aurora's Emporium]] sold a large clove of garlic for 3 coppers and a large bud of garlic for 5 coppers. A quart of pickled garlic sold for 5 [[silver piece]]s.",
-        "History": "''Circa'' [[1370 DR]], Rab Bitnez created the first in Faerûn [[Garlic vine|garlic-bearing vine]].",
-        "Usages of Garlic": {
-            "Culinary Usages": "* Garlic was commonly used as a seasoning. \n* It was sometimes used to flavor [[crackers]].\n* [[Garlic butter]].\n* [[Garlic sauce]]\n* The recipe for [[Amnian Dragoon Soup]] included garlic.",
-            "Magical Usages": "* Garlic was used as a [[material component]] in some versions of the ''[[slow poison]]'' and ''[[hold poison]]'' spells, as well as ''[[halt undead]]''.\n* [[Vampire]]s, famously, could not tolerate the smell of garlic and would not voluntarily enter an area with a strong odor of it. (This was not true, however, for [[vampiric dragon]]s!)",
-            "Miscellaneous Usages": "* Medicinally, garlic was used in various herbal concoctions, such as a snuff used for nasal ailments. \n* Garlic was known for its antiseptic properties and could be used as an [[insect repellent]].\n* It was said to purify and detoxify the blood, and to kill [[:Category:Parasites|parasites]]. It was also said to be useful for treating coughs and the [[common cold]]."
-        },
-        "Notable Users": {
-            "Classes": "* Garlic was a common ingredient that could be found in [[wizard]]s' laboratories.",
-            "Individuals": "* [[Rab Bitnez]], a wizard who wrote the garlic-centric cookbook [[101 Garlic Recipes]], which featured recipes like [[The Bitnez Pavlova Extraordinaire!]], [[Rab's Riotously Intense Ice Cream]], and [[Garlic Guy Pie]].",
-            "Regions & Settlements": "[[File:Garlic bulb.png|thumb|''A garlic bulb from the [[Western Heartlands]].'']]\n* The [[Oak-Father's Boon]] inn in [[Mosstone]] of [[Tethyr]] served [[lamb]] kidneys in smokey and garlicky sauce.\n* In the [[Western Heartlands]], ground garlic was among the spices considered \"base staples\" and were often found being carried in the spice pouches of travelers.<ref name=\"EdVerse.SWT />"
-        },
-        "Trivia": "* [[Mindflayer]]s that were healthy from brain-rich diets excreted a thin film of slimy, glistening [[illithid mucus|mucus]] that gave off a faint odor that was sometimes described as similar to garlic, although this smell was imperceptible from afar."
+        "mainbody": "Garlic was a common form of spice found in the Realms.\nGarlic plants had hollow long dark green spear-shaped leaves. The top of the plant had a round cluster of fine white flowers. The plant was renown for its strong smell, making it easy to identify in the wild, poultices, or foods. The scent became potent when the leaves were crushed. Garlic plants flowered in the mid-to late summer.\nIf one were to cast speak with plants on some garlic, its likely the plants would speak to the caster about cooking and vampires.\nGarlic was often cultivated in gardens. The plant preferred moist earth and humid locations and in the wild, could be seen growing in meadows or thin forests. Places in the Realms where garlic was known to be cultivated included\n* The Dalelands.\nGarlic was not an expensive spice. In most economies,  of garlic sold for only a copper piece. Auroras Emporium sold a large clove of garlic for 3 coppers and a large bud of garlic for 5 coppers. A quart of pickled garlic sold for 5 silver pieces.\nCirca 1370 DR, Rab Bitnez created the first in Faerûn garlic-bearing vine.\nthumb|A garlic plant.|303x303px\n* Garlic was commonly used as a seasoning. \n* It was sometimes used to flavor crackers.\n* Garlic butter.\n* Garlic sauce\n* The recipe for Amnian Dragoon Soup included garlic.\n* Garlic was used as a material component in some versions of the slow poison and hold poison spells, as well as halt undead.\n* Vampires, famously, could not tolerate the smell of garlic and would not voluntarily enter an area with a strong odor of it. (This was not true, however, for vampiric dragons!)\n* Medicinally, garlic was used in various herbal concoctions, such as a snuff used for nasal ailments. \n* Garlic was known for its antiseptic properties and could be used as an insect repellent.\n* It was said to purify and detoxify the blood, and to kill parasites. It was also said to be useful for treating coughs and the common cold.\n* Garlic was a common ingredient that could be found in wizards laboratories.\n* Rab Bitnez, a wizard who wrote the garlic-centric cookbook 101 Garlic Recipes, which featured recipes like The Bitnez Pavlova Extraordinaire!, Rabs Riotously Intense Ice Cream, and Garlic Guy Pie.\nthumb|A garlic bulb from the Western Heartlands.\n* The Oak-Fathers Boon inn in Mosstone of Tethyr served lamb kidneys in smokey and garlicky sauce.\n* In the Western Heartlands, ground garlic was among the spices considered \"base staples\" and were often found being carried in the spice pouches of travelers.\n* Mindflayers that were healthy from brain-rich diets excreted a thin film of slimy, glistening mucus that gave off a faint odor that was sometimes described as similar to garlic, although this smell was imperceptible from afar."
     }
 }

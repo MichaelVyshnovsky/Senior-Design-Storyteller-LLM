@@ -1,31 +1,11 @@
 {
-    "template_data": {
-        "60|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Aetharnar",
-        "othernames": "",
-        "abbr": "",
-        "symbol": "Clr symbol.png",
-        "affiliation": "",
-        "region": "",
-        "type2e": "Priest Class",
-        "variant-of2e": "",
-        "variants2e": "",
-        "kit-for2e": "",
-        "kits2e": "",
-        "alignment2e": "{{Alignment grid| off | off | off | off | off | off | on | on | on }}",
-        "race2e": "[[Dwarves]]",
+        "race2e": "Dwarves",
         "sex2e": "Any",
-        "deity2e": "[[Abbathor]]",
+        "deity2e": "Abbathor",
         "otherprereqs2e": "",
         "refs2e": "",
         "classname": "aetharnor",
-        "mainbody": "'''Aetharnor''' were [[specialty priest]]s devoted to [[Abbathor]], the Great Master of Greed.",
-        "Culture": "The vast majority of aetharnor were either [[gold dwarves]] or [[shield dwarves]], but members of all of the [[dwarf]] races, to include both males and females, could become an aetharnar.",
-        "Abilities": "Aetharnor were usually skilled miners with an eye for appraising the value of [[gemstone]]s and precious metals. They were proficient in the use of [[thieves' cant]] as a form of communication.\n\nIn addition to their normal [[spell]]s, aetharnor could cast ''[[detect metals and minerals]]'', ''[[maskstone]]'', ''[[darkness, 15' radius]]'', ''[[conceal riches]]'', ''[[knock]]'', ''[[Von Gasik's refusal]]'', ''[[steal enchantment]]'', and ''[[Gunther's kaleidoscopic strike]]'' on a daily basis. Furthermore, they could cast ''[[glorious transmutation]]'' once per month provided they owned a ''[[philosopher's stone]]''. When concentrating, an aetharnar could ''[[detect illusion]]s'' within {{SI|60|ft|long=yes}} in front of them.",
-        "Possessions": "Aetharnor wielded a variety of weapons including [[club]]s, [[dagger]]s, [[dart]]s, [[hand crossbow]]s, [[knives]], [[lasso]]s, [[shortbow]]s, [[sling]]s, [[longsword]]s, [[broadsword]]s, [[short sword]]s, and [[staves]]. They did not have restrictions on the type of [[armor]] they were permitted to wear."
+        "mainbody": "Aetharnor were specialty priests devoted to Abbathor, the Great Master of Greed.\nThe vast majority of aetharnor were either gold dwarves or shield dwarves, but members of all of the dwarf races, to include both males and females, could become an aetharnar.\nAetharnor were usually skilled miners with an eye for appraising the value of gemstones and precious metals. They were proficient in the use of thieves cant as a form of communication.\nIn addition to their normal spells, aetharnor could cast detect metals and minerals, maskstone, darkness, 15 radius, conceal riches, knock, Von Gasiks refusal, steal enchantment, and Gunthers kaleidoscopic strike on a daily basis. Furthermore, they could cast glorious transmutation once per month provided they owned a philosophers stone. When concentrating, an aetharnar could detect illusions within  in front of them.\nAetharnor wielded a variety of weapons including clubs, daggers, darts, hand crossbows, knives, lassos, shortbows, slings, longswords, broadswords, short swords, and staves. They did not have restrictions on the type of armor they were permitted to wear."
     }
 }

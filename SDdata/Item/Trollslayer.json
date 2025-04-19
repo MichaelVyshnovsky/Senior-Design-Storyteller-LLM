@@ -1,24 +1,5 @@
 {
-    "template_data": {
-        "8|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Trollslayer.png",
-        "caption": "",
-        "name": "Trollslayer",
-        "othernames": "",
-        "nicknames": "",
-        "type": "",
-        "creator": "[[Epp the Foolhardy]]",
-        "location": "[[Kuldahar]], [[Spine of the World]]<br/>[[North Faerûn]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "+1",
-        "value2e": "25,500 [[gp]]",
-        "weight2e": "{{SI|8|lb|k|long=yes}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -41,8 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "The '''''Trollslayer''''' was a unique [[enchanted]] [[bastard sword]] especially effective against [[troll]]s.",
-        "Powers": "The crimson blade possessed a ''+1'' enchantment and became a powerful ''+4'' enchantment when wielded against trolls of any breed. In addition to slashing damage, the ''Trollslayer'' burned its targets.",
-        "History": "The ''Trollslayer'' was created sometime before the {{YearlinkName|1281}} by a [[wizard]] named [[Epp the Foolhardy]]. The weapon was created for the spellcaster's [[ranger]] companion [[Farl Greenbog]] who spent his life exterminating the troll population in [[north Faerûn]]. With ''Trollslayer's'' use, Farl managed to push trolls further south, away from his homelands. However, the triumph was short-lived as the ranger was ambushed and slain by a band of troll [[shaman]]s and Epp the Foolhardy could not reach his ally in time. Epp incinerated the shamans with his [[spell]]s and recovered the ''Trollslayer''.\n\nBy 1281 DR, the ''Trollslayer'' found its way to the hands of [[Conlan]], the smith of [[Kuldahar]], a village on the [[Spine of the World]]."
+        "mainbody": "The Trollslayer was a unique enchanted bastard sword especially effective against trolls.\nThe crimson blade possessed a +1 enchantment and became a powerful +4 enchantment when wielded against trolls of any breed. In addition to slashing damage, the Trollslayer burned its targets.\nThe Trollslayer was created sometime before the  by a wizard named Epp the Foolhardy. The weapon was created for the spellcasters ranger companion Farl Greenbog who spent his life exterminating the troll population in north Faerûn. With Trollslayers use, Farl managed to push trolls further south, away from his homelands. However, the triumph was short-lived as the ranger was ambushed and slain by a band of troll shamans and Epp the Foolhardy could not reach his ally in time. Epp incinerated the shamans with his spells and recovered the Trollslayer.\nBy 1281 DR, the Trollslayer found its way to the hands of Conlan, the smith of Kuldahar, a village on the Spine of the World."
     }
 }

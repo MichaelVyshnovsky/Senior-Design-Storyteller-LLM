@@ -1,22 +1,5 @@
 {
     "document_data": {
-        "type": "City",
-        "name": "Luthcheq",
-        "aliases": "City of Madness",
-        "image": "Luthcheq1.JPG",
-        "caption": "''Luthcheq''",
-        "size": "Metropolis",
-        "ruler1": "[[Tchazzar]] (formerly)",
-        "ruleryear1": "1479",
-        "ruler2": "[[Shala Karanok]]",
-        "ruleryear2": "1479",
-        "rulertype": "",
-        "government": "Monarchy",
-        "languages": "",
-        "races": "Mostly Human",
-        "religion": "[[Amaunator]], [[Waukeen]], [[Tiamat]], [[Cult of Tchazzar]]",
-        "reckoning": "DR",
-        "population1": "38,000{{Cite dungeon/178/Backdrop: Chessenta}}",
         "popyear1": "1479",
         "imports": "",
         "exports": "",
@@ -35,12 +18,6 @@
         "events": "",
         "food and drink": "",
         "items": "yes",
-        "mainbody": "'''Luthcheq''' was the capital city of [[Chessenta]].  Formerly a port city located on the Bay of Chessenta, as of [[1479 DR]] the city was miles from what remained of the bay.  Because it was only a few miles from the [[River Adder]], Luthcheq maintained its status as a maritime city.",
-        "Culture": "Like most of Chessenta, Luthcheq had a martial culture that valued physical fitness and the military arts.  Prior to [[Tchazzar]]'s return in 1479 DR, [[mage]]s were persecuted and forced to live in their own ghetto.  At the urging of his adviser [[Jhesrhi Coldcreek]], Tchazzar enacted laws protecting magic users.",
-        "Religions": "A gigantic [[sphere of annihilation]] known as [[Entropy]] was worshiped as a god in Luthcheq.{{cite book/Volo's Guide to All Things Magical|109}}",
-        "Notable Buildings": {
-            "War College": "This citadel and palace sat atop a high bluff overlooking the city.",
-            "Temple of Tchazzar": "Still under construction as of [[1479 DR]], this massive structure was sure to dwarf all other houses of worship in the city."
-        }
+        "mainbody": "Luthcheq was the capital city of Chessenta.  Formerly a port city located on the Bay of Chessenta, as of 1479 DR the city was miles from what remained of the bay.  Because it was only a few miles from the River Adder, Luthcheq maintained its status as a maritime city.\t\nLike most of Chessenta, Luthcheq had a martial culture that valued physical fitness and the military arts.  Prior to Tchazzars return in 1479 DR, mages were persecuted and forced to live in their own ghetto.  At the urging of his adviser Jhesrhi Coldcreek, Tchazzar enacted laws protecting magic users.\nA gigantic sphere of annihilation known as Entropy was worshiped as a god in Luthcheq.\nWar College This citadel and palace sat atop a high bluff overlooking the city.\nTemple of Tchazzar Still under construction as of 1479 DR, this massive structure was sure to dwarf all other houses of worship in the city."
     }
 }

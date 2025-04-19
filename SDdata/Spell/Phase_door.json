@@ -1,25 +1,15 @@
 {
-    "template_data": {
-        "edition": "3e",
-        "edition_1": "2e"
-    },
     "document_data": {
-        "name": "Phase Door",
-        "inventor": "[[Undine]]",
-        "level3e": "{{spell table|edition=3e|[[Travel domain|Travel]]|8|[[Sorcerer]]|7|[[Wizard]]|7}}",
-        "domains3e": "[[travel domain|Travel]]",
+        "domains3e": "Travel",
         "descriptors3e": "",
-        "school3e": "[[Conjuration]] (Creation)",
+        "school3e": "Conjuration (Creation)",
         "type3e": "",
         "refs3e": "",
-        "school2e": "[[Alteration]]<br/>[[Dimension]], [[Shadow magic|Shadow]]<br/>[[Universal (province)]]<br/>[[Variation]]",
+        "school2e": "AlterationDimension, ShadowUniversal (province)Variation",
         "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Arcanist]]|7|[[Wizard]]|7}}",
+        "level2e": "",
         "type2e": "",
-        "refs2e": "<ref><ref><ref>",
-        "mainbody": "'''''Phase door''''' was a [[conjuration]] or spell that opened passages, where there were none.",
-        "Effects": "While the spell was called ''phase'' \"''door''\", what appeared on casting was an ethereal, and thus invisible, tunnel. This tunnel was both invisible and unusable for everyone but the caster, though the caster can open access to others.\n\nOnly on wooden, plaster or stone surfaces was the tunnel successfully created. The caster can walk through the wall via this tunnel for an increasing number of times per strength of the caste. By using up more uses, the caster can also bring others along. Light or sound from the one side didn't get to the other side and if the spell was forcefully ended, for example through dispelling, those inside the phase door were ejected out as it happened when a ''[[passwall]]'' spell was dispelled with someone inside.\n\nAccess for usage could be given to others by stating a number of conditions on casting. These conditions needed to be observable, like identity or passwords.\n\nWhile its ethereal nature made it possible for some creatures to see it, like with a ''[[gem of true seeing]]'', just seeing didn't allow usage.\n\nA ''phase door'' collapsed when its uses were completely depleted. This could be circumvented by making it permanent through a ''[[permanency]]'' spell, thus allowing infinite uses of the ''phase door''.",
-        "Components": "Only [[verbal component]]s were required to cast this spell.",
-        "History": "The spell was attributed to [[Netherese arcanist]] [[Undine]] in {{Yearlink|-919}} and was originally called '''''Undine's door'''''."
+        "refs2e": "",
+        "mainbody": "Phase door was a conjuration or spell that opened passages, where there were none.\nWhile the spell was called phase \"door\", what appeared on casting was an ethereal, and thus invisible, tunnel. This tunnel was both invisible and unusable for everyone but the caster, though the caster can open access to others.\nOnly on wooden, plaster or stone surfaces was the tunnel successfully created. The caster can walk through the wall via this tunnel for an increasing number of times per strength of the caste. By using up more uses, the caster can also bring others along. Light or sound from the one side didnt get to the other side and if the spell was forcefully ended, for example through dispelling, those inside the phase door were ejected out as it happened when a passwall spell was dispelled with someone inside.\nAccess for usage could be given to others by stating a number of conditions on casting. These conditions needed to be observable, like identity or passwords.\nWhile its ethereal nature made it possible for some creatures to see it, like with a gem of true seeing, just seeing didnt allow usage.\nA phase door collapsed when its uses were completely depleted. This could be circumvented by making it permanent through a permanency spell, thus allowing infinite uses of the phase door.\nOnly verbal components were required to cast this spell.\nThe spell was attributed to Netherese arcanist Undine in  and was originally called Undines door."
     }
 }

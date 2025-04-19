@@ -1,16 +1,10 @@
 {
     "document_data": {
-        "image": "SEZhentilKeep1.jpg",
-        "caption": "A map showing Alley Way in southeast Zhentil Keep.",
-        "name": "Alley Way",
-        "type": "Road",
-        "aliases": "",
-        "length": "{{SI|500|ft}}",
         "width": "",
         "pavement": "",
-        "location": "The [[Zhentil Keep/Common Quarter|Common Quarter]], [[Zhentil Keep]]",
-        "starts": "[[Hasbeen Road]]",
-        "ends": "[[Vice Street]]<br/>[[Border Street]]",
+        "location": "The Common Quarter, Zhentil Keep",
+        "starts": "Hasbeen Road",
+        "ends": "Vice StreetBorder Street",
         "built": "",
         "refs": "",
         "daggers": "",
@@ -23,7 +17,6 @@
         "roads": "yes",
         "bodies of water": "",
         "events": "",
-        "mainbody": "'''Alley Way''' was a street located in the city of [[Zhentil Keep]] during the mid–14{{th}} century [[DR]].",
-        "Location": "Alley Way was located in southeast Zhentil Keep in the [[Zhentil Keep/Common Quarter|Common Quarter]]. The road branched south then southwest from the midpoint of [[Hasbeen Road]] to terminate along [[Vice Street]] and [[Border Street]] near the southern wall of the city."
+        "mainbody": "Alley Way was a street located in the city of Zhentil Keep during the mid–14 century DR.\nAlley Way was located in southeast Zhentil Keep in the Common Quarter. The road branched south then southwest from the midpoint of Hasbeen Road to terminate along Vice Street and Border Street near the southern wall of the city."
     }
 }

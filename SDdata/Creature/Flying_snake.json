@@ -1,12 +1,5 @@
 {
     "document_data": {
-        "caption": "",
-        "name": "Flying Snake",
-        "size5e": "Tiny",
-        "type5e": "[[Beast]]",
-        "subtype5e": "",
-        "alignment5e": "[[Unaligned]]",
-        "challenge5e": "{{Frac|1|8}}",
         "refs5e": "",
         "origin4e": "",
         "type4e": "",
@@ -14,9 +7,9 @@
         "alignment4e": "",
         "refs4e": "",
         "size3e": "Small",
-        "type3e": "[[Magical beast]]",
+        "type3e": "Magical beast",
         "subtype3e": "",
-        "alignment3e": "usually [[neutral]]",
+        "alignment3e": "usually neutral",
         "challenge3e": "1/2",
         "refs3e": "",
         "alignment2e": "",
@@ -24,7 +17,7 @@
         "alignment1e": "",
         "refs1e": "",
         "patron deity": "",
-        "vision": "[[Blindsight]]",
+        "vision": "Blindsight",
         "lifespan": "",
         "location": "Remote Jungles",
         "language": "",
@@ -42,12 +35,6 @@
         "distinctions": "",
         "based": "",
         "first": "",
-        "mainbody": "'''Flying snakes''' were brightly colored, winged [[snake|serpents]] found in tropical locations and remote jungles such as [[Chult]].",
-        "History": "During the late 15{{th}} century [[DR]], flying snakes trained as messengers were popular with members of the [[Zhentarim]] and were sometimes recognized as symbols of the faction. \n\nIn [[Port Nyanzaru]], the merchant prince [[Ifan Talro'a]] sold flying snakes exclusively to members of the Zhentarim.",
-        "Ecology": {
-            "Usage": "Flying snakes could sometimes be domesticated to serve as messengers that delivered scrolls wrapped in their coils.",
-            "Habitats": "Besides Chult, flying snakes were known to inhabit the [[Wood of Dark Trees]].",
-            "Relationships": "Flying snakes were often gifted by the deity [[Sseth]] to his [[wizard]] or [[priest]] worshipers as [[familiar]]s or [[animal companion]]s."
-        }
+        "mainbody": "Flying snakes were brightly colored, winged serpents found in tropical locations and remote jungles such as Chult.\nDuring the late 15 century DR, flying snakes trained as messengers were popular with members of the Zhentarim and were sometimes recognized as symbols of the faction. \nIn Port Nyanzaru, the merchant prince Ifan Talroa sold flying snakes exclusively to members of the Zhentarim.\nFlying snakes could sometimes be domesticated to serve as messengers that delivered scrolls wrapped in their coils.\nBesides Chult, flying snakes were known to inhabit the Wood of Dark Trees.\nFlying snakes were often gifted by the deity Sseth to his wizard or priest worshipers as familiars or animal companions."
     }
 }

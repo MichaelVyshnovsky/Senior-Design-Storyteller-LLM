@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "30|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Armor of command.png",
-        "caption": "",
-        "name": "''Armor of Command''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Medium armor]]",
-        "location": "[[Neverwinter]], [[Sword Coast]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+3",
-        "value3e": "",
-        "weight3e": "{{SI|30|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Armor of command''''' were [[enchanted]] sets of impressive and beautiful [[medium armor]] often worn by nobility and military leaders.",
-        "Powers": "''Armor of command'' was imbued with a ''+3'' enchantment. The potent magic of these sets surrounded the wearer with an aura of influence and admiration, increasing their charisma and persuasiveness.",
-        "History": "Throughout history, these sets of armor were highly sought after by accomplished and aspiring generals. One notable incident that involved an ''armor of command'' happened at the [[Battle of Moregrade]] when an unlucky sycophant was granted command of an army just because they wore this beautiful enchanted armor.\n\nThese armors became more common in the late 14{{th}} century [[DR]], found in several cities across the [[Sword Coast]], [[Neverwinter]]. One set of ''armor of command'' could be found in catacombs underneath [[Voonlar]] in the [[Moonsea]] region ''circa'' [[1373 DR]]."
+        "mainbody": "Armor of command were enchanted sets of impressive and beautiful medium armor often worn by nobility and military leaders.\nArmor of command was imbued with a +3 enchantment. The potent magic of these sets surrounded the wearer with an aura of influence and admiration, increasing their charisma and persuasiveness.\nThroughout history, these sets of armor were highly sought after by accomplished and aspiring generals. One notable incident that involved an armor of command happened at the Battle of Moregrade when an unlucky sycophant was granted command of an army just because they wore this beautiful enchanted armor.\nThese armors became more common in the late 14 century DR, found in several cities across the Sword Coast, Neverwinter. One set of armor of command could be found in catacombs underneath Voonlar in the Moonsea region circa 1373 DR."
     }
 }

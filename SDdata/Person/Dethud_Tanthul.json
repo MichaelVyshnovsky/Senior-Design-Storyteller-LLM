@@ -1,21 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Dethud Tanthul",
-        "alt_spelling": "",
-        "titles": "Prince",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Thultanthar]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "gender": "",
-        "race": "[[Shade]] {{Former}} [[human]]",
         "ethnicity": "",
         "occupation": "Prince",
         "age": "",
@@ -32,10 +16,10 @@
         "destroyed": "",
         "destroyednotes": "",
         "daterefs": "",
-        "parents": "[[Telamont Tanthul]]",
+        "parents": "Telamont Tanthul",
         "spouses": "",
-        "siblings": "[[Aglarel Tanthul|Aglarel]], [[Brennus Tanthul|Brennus]], [[Clariburnus Tanthul|Clariburnus]], [[Escanor Tanthul|Escanor]], [[Lamorak Tanthul|Lamorak]], [[Malath Tanthul|Malath]], [[Mattick Tanthul|Mattick]], [[Melegaunt Tanthul|Melegaunt]], [[Rivalen Tanthul|Rivalen]],[[Vattick Tanthul|Vattick]], [[Yder Tanthul|Yder]]",
-        "children": "[[Manarlume Tanthul|Manarlume]], [[Lelavdra Tanthul|Lelavdra]].",
+        "siblings": "Aglarel, Brennus, Clariburnus, Escanor, Lamorak, Malath, Mattick, Melegaunt, Rivalen,Vattick, Yder",
+        "children": "Manarlume, Lelavdra.",
         "familyrefs": "",
         "dynasty": "",
         "start of reign": "",
@@ -49,9 +33,9 @@
         "alignment2e": "",
         "class2e": "",
         "refs2e": "",
-        "alignment3e": "[[Lawful evil]]",
+        "alignment3e": "Lawful evil",
         "challenge3e": "26",
-        "class3e": "{{class table|edition=3e|[[Necromancer]]|15|[[Shadow adept]]|8}}",
+        "class3e": "",
         "refs3e": "",
         "alignment35": "",
         "challenge35": "",
@@ -64,11 +48,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Dethud Tanthul''' was a [[shade]] [[necromancer]] and [[shadow adept]] and one of [[Princes of Shade|the twelve princes]] of [[Thultanthar]] in the 14{{th}} and 15{{th}} centuries [[DR]].",
-        "Relationships": "His father was High Prince [[Telamont Tanthul]], and he had eleven brothers, the princes of Shade: [[Aglarel Tanthul|Aglarel]], [[Brennus Tanthul|Brennus]], [[Clariburnus Tanthul|Clariburnus]], [[Escanor Tanthul|Escanor]], [[Lamorak Tanthul|Lamorak]], [[Malath Tanthul|Malath]], [[Mattick Tanthul|Mattick]], [[Melegaunt Tanthul|Melegaunt]], [[Rivalen Tanthul|Rivalen]],[[Vattick Tanthul|Vattick]], and [[Yder Tanthul|Yder]].\n\nDethud had two daughters, [[Manarlume Tanthul]] and [[Lelavdra Tanthul]].",
-        "Personality": "Dethud was taciturn and reserved, more so than any of his brother princes—all in the City of Shade knew him as the quiet one. He hardly ever talked to anyone directly, but when he did talk, he did so with the voice of wisdom.",
-        "Activities": "In the royal family of Thultanthar, Dethud settled into a role as a mediator and advisor to his father and fellow princes. Telamont usually placed Dethud in his political and military councils, giving him great influence compared to the other eleven princes. However, they also often came to him for advice with their problems and their feuds with one another. Dethud almost always stayed neutral and gave his incisive analysis and a logical solution. However, he did support Melegaunt's policy of manipulation in order to carry out Telamont's plans for conquering [[Faerûn]] ''circa'' [[1372 DR]], at least when someone could get his opinion out of him.\n\nBy the late 1400s DR, Dethud headed up the intelligence services of the revived empire of [[Netheril]].",
-        "Symbol": "His personal sigil was a stylized black sunburst over a field of pale yellow.",
-        "History": "In the {{YearlinkName|1371}}, Dethud and the other princes engaged in a spell-battle with [[Galaeron Nihmedu]], [[Vala Thorsdotter]], [[Aris (giant)|Aris]], [[Khelben Arunsun]], and [[Laeral Silverhand]].<ref>"
+        "mainbody": "Dethud Tanthul was a shade necromancer and shadow adept and one of the twelve princes of Thultanthar in the 14 and 15 centuries DR.\nHis father was High Prince Telamont Tanthul, and he had eleven brothers, the princes of Shade Aglarel, Brennus, Clariburnus, Escanor, Lamorak, Malath, Mattick, Melegaunt, Rivalen,Vattick, and Yder.\nDethud had two daughters, Manarlume Tanthul and Lelavdra Tanthul.\nDethud was taciturn and reserved, more so than any of his brother princes—all in the City of Shade knew him as the quiet one. He hardly ever talked to anyone directly, but when he did talk, he did so with the voice of wisdom.\nIn the royal family of Thultanthar, Dethud settled into a role as a mediator and advisor to his father and fellow princes. Telamont usually placed Dethud in his political and military councils, giving him great influence compared to the other eleven princes. However, they also often came to him for advice with their problems and their feuds with one another. Dethud almost always stayed neutral and gave his incisive analysis and a logical solution. However, he did support Melegaunts policy of manipulation in order to carry out Telamonts plans for conquering Faerûn circa 1372 DR, at least when someone could get his opinion out of him.\nBy the late 1400s DR, Dethud headed up the intelligence services of the revived empire of Netheril.\nHis personal sigil was a stylized black sunburst over a field of pale yellow.\nIn the , Dethud and the other princes engaged in a spell-battle with Galaeron Nihmedu, Vala Thorsdotter, Aris, Khelben Arunsun, and Laeral Silverhand."
     }
 }

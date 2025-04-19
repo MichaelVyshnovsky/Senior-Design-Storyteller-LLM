@@ -1,15 +1,10 @@
 {
-    "template_data": {
-        "0.5|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Necklace of prayer beads5e.jpeg",
-        "caption": "''A necklace of prayer beads circa 14{{th}} century DR.''",
-        "name": "''Necklace of Prayer Beads''",
+        "name": "Necklace of Prayer Beads",
         "othernames": "",
         "nicknames": "",
-        "type": "[[Amulet]]<br>Wondrous item",
-        "location": "[[Sword Coast]]",
+        "type": "AmuletWondrous item",
+        "location": "Sword Coast",
         "value1e": "",
         "weight1e": "",
         "refs1e": "",
@@ -19,10 +14,10 @@
         "weight2e": "",
         "refs2e": "",
         "school3e": "",
-        "casterlevel3e": "10{{th}}",
+        "casterlevel3e": "10",
         "itemlevel3e": "",
         "value3e": "",
-        "weight3e": "{{SI|0.5|lb|k|long=yes}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,9 +34,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Necklace of prayer beads''''' were enchanted [[amulet]]s imbued with [[divine magic]] of the [[deity]] worshiped at the temple where they were created.",
-        "Description": "Most of the ''necklaces of prayer beads'' appeared cheap and nothing more than a string of polished round stones.",
-        "Powers": "These necklaces were usable only by divine spellcasters, such as [[cleric]]s, [[ranger]]s, [[paladin]]s, and [[druid]]s.\nThe ''necklaces of prayer beads'' that dated to the age of the old [[Myth Drannor]] gave the wearer the ability to cast the ''[[Prayer (spell)|prayer]]'' spell.\n\nThe 14{{th}} century version of the item came with fifty charges and was able to cast a set of [[spell]]s, each consuming the certain number of charges. ''[[Bless]]'' consumed no charges, ''[[cure serious wounds]]'' - three charges, ''[[remove blindness or deafness]]'' - three charges, and ''[[remove disease]]'' - three charges as well.",
-        "History": "In [[1369 DR]] one ancient ''necklace of prayer beads'' could be found on a master [[spectre]] of one of the fallen of the [[Weeping War]] deep in the [[Elven Catacombs]] of [[Myth Drannor]].\n\nIn the 14{{th}} century, ''necklaces of prayer beads'' were occasionally distributed or sold by the bigger temples of the [[Sword Coast]] to the faithful of the congregation as a reward, or a way of enticing new followers."
+        "mainbody": "Necklace of prayer beads were enchanted amulets imbued with divine magic of the deity worshiped at the temple where they were created.\nMost of the necklaces of prayer beads appeared cheap and nothing more than a string of polished round stones.\nThese necklaces were usable only by divine spellcasters, such as clerics, rangers, paladins, and druids.\nThe necklaces of prayer beads that dated to the age of the old Myth Drannor gave the wearer the ability to cast the prayer spell.\nThe 14 century version of the item came with fifty charges and was able to cast a set of spells, each consuming the certain number of charges. Bless consumed no charges, cure serious wounds - three charges, remove blindness or deafness - three charges, and remove disease - three charges as well.\nIn 1369 DR one ancient necklace of prayer beads could be found on a master spectre of one of the fallen of the Weeping War deep in the Elven Catacombs of Myth Drannor.\nIn the 14 century, necklaces of prayer beads were occasionally distributed or sold by the bigger temples of the Sword Coast to the faithful of the congregation as a reward, or a way of enticing new followers."
     }
 }

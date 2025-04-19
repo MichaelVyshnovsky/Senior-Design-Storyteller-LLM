@@ -1,17 +1,7 @@
 {
-    "template_data": {
-        "variant": "prayer",
-        "variant_1": "prayer",
-        "edition": "4e",
-        "variant_2": "prayer"
-    },
     "document_data": {
-        "type": "At-Will",
-        "name": "Righteous Brand",
-        "keywords": "{{desc/divine|variant=prayer}}{{desc/weapon|variant=prayer}}",
-        "level": "{{spell table|edition=4e|variant=prayer|[[Cleric]]|1}}",
+        "level": "",
         "rules": "4th",
-        "mainbody": "'''''Righteous brand''''' is a [[prayer]] cast by many [[cleric]]s, particularly those of the [[Cleric#Battle Cleric|battle cleric]] tradition. When cast, ''righteous brand'' lights a cleric's weapon with the [[holy symbol]] of their [[deity]], allowing the cleric to channel [[divine magic|divine power]] through it. When a cleric strikes a foe with a weapon so enchanted they momentarily brand their enemy with the symbol and the release of divine magic allows them to enhance the martial skill of an ally within twenty-five feet to a degree dependent on the cleric's physical strength. Like most prayers of its power level, ''righteous brand'' increases in strength as the cleric's experience grows. ''Righteous brand'' is easily cast and can be reused instantaneously.",
-        "References": "{{refs}}\nr9brzaxrmita09pl5hz0l7c5li7iup5"
+        "mainbody": "Righteous brand is a prayer cast by many clerics, particularly those of the battle cleric tradition. When cast, righteous brand lights a clerics weapon with the holy symbol of their deity, allowing the cleric to channel divine power through it. When a cleric strikes a foe with a weapon so enchanted they momentarily brand their enemy with the symbol and the release of divine magic allows them to enhance the martial skill of an ally within twenty-five feet to a degree dependent on the clerics physical strength. Like most prayers of its power level, righteous brand increases in strength as the clerics experience grows. Righteous brand is easily cast and can be reused instantaneously.\nr9brzaxrmita09pl5hz0l7c5li7iup5"
     }
 }

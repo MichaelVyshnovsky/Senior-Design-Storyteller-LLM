@@ -1,28 +1,9 @@
 {
-    "template_data": {
-        "30000|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Mount_clangeddin-2e.jpg",
-        "caption": "",
-        "name": "Mount Clangeddin",
-        "othernames": "",
-        "symbol": "Arcadia.png",
-        "demonym": "",
-        "natives": "[[Dwarves]], [[einheriar]]",
-        "languages": "",
-        "basicrefs": "",
-        "type-GW": "Realm",
-        "shape-size-GW": "Conical mountain",
-        "gravity-GW": "Normal",
-        "time-GW": "Normal",
-        "morphic-GW": "Divinely",
-        "element-energy-GW": "None",
-        "alignment-GW": "{{Alignment grid|on|off|off|on|off|off|off|off|off}}",
         "magical-GW": "Normal",
         "layers-GW": "",
         "layer-number-GW": "",
-        "location-GW": "[[Abellio]]",
+        "location-GW": "Abellio",
         "refs-GW": "",
         "type-WA": "",
         "shape-size-WA": "",
@@ -55,10 +36,6 @@
         "settlements": "",
         "usethe": "",
         "useon": "",
-        "There is no greater glory than the glory of righteous battle!\n|A [[dwarf]] [[petitioner]]\n}}": "=Description==",
-        "mainbody": "e realm was a perfectly conical mountain over {{SI|30000|ft|long=yes}} tall. Its peak was permanently obscured by stormy clouds. The mountain interior was riddled with tunnels and passages that opened to the surface to let natural light in, perfectly straight halls and corridors that looped and bent as they followed the mountain's curvature.\n\nAll entries into the mountain were extremely well defended by [[einheriar]] patrols and by carefully laid out traps. At the same time, the realm was very welcoming to visitors, who were nevertheless kept under close watch. The realm had numerous forges, armories, and shops that provided works of excellent quality.\n\nA single city spanned the entirety of the realm. It was divided into nine districts that more or less specialized in different activities, such as healing or mining. The lowest halls were the city's unsavory underside, where darker and more violent dealings took place.",
-        "Description": "The realm was a perfectly conical mountain over {{SI|30000|ft|long=yes}} tall. Its peak was permanently obscured by stormy clouds. The mountain interior was riddled with tunnels and passages that opened to the surface to let natural light in, perfectly straight halls and corridors that looped and bent as they followed the mountain's curvature.\n\nAll entries into the mountain were extremely well defended by [[einheriar]] patrols and by carefully laid out traps. At the same time, the realm was very welcoming to visitors, who were nevertheless kept under close watch. The realm had numerous forges, armories, and shops that provided works of excellent quality.\n\nA single city spanned the entirety of the realm. It was divided into nine districts that more or less specialized in different activities, such as healing or mining. The lowest halls were the city's unsavory underside, where darker and more violent dealings took place.",
-        "Cosmography": "A ''[[portal]]'' in the city of [[Berronar's Side]] connected the realm of [[Erackinor]] in [[Solania]] to Mount Clangeddin.",
-        "Inhabitants": "All inhabitants of Mount Clangeddin were trained for battle. The realm's petitioners and einheriar were frequently sent out to raid the [[Lower Planes]], in particular [[Acheron]], to fight against their old enemies, the [[goblin]]s and [[orc]]s. Unlike in other planes, petitioners who died outside of Mount Clangeddin did not fade into nothingness, but had their essence returned to the plane of Arcadia."
+        "mainbody": "Mount Clangeddin was an enormous mountain in Abellio, the first layer of Arcadia. It was the divine realm of Clangeddin Silverbeard according to the Great Wheel cosmology.\nThe realm was a perfectly conical mountain over  tall. Its peak was permanently obscured by stormy clouds. The mountain interior was riddled with tunnels and passages that opened to the surface to let natural light in, perfectly straight halls and corridors that looped and bent as they followed the mountains curvature.\nAll entries into the mountain were extremely well defended by einheriar patrols and by carefully laid out traps. At the same time, the realm was very welcoming to visitors, who were nevertheless kept under close watch. The realm had numerous forges, armories, and shops that provided works of excellent quality.\nA single city spanned the entirety of the realm. It was divided into nine districts that more or less specialized in different activities, such as healing or mining. The lowest halls were the citys unsavory underside, where darker and more violent dealings took place.\nA portal in the city of Berronars Side connected the realm of Erackinor in Solania to Mount Clangeddin.\nAll inhabitants of Mount Clangeddin were trained for battle. The realms petitioners and einheriar were frequently sent out to raid the Lower Planes, in particular Acheron, to fight against their old enemies, the goblins and orcs. Unlike in other planes, petitioners who died outside of Mount Clangeddin did not fade into nothingness, but had their essence returned to the plane of Arcadia."
     }
 }

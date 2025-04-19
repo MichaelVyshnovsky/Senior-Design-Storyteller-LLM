@@ -1,22 +1,5 @@
 {
-    "template_data": {
-        "40|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Umber Hulk Plate.png",
-        "caption": "",
-        "name": "''Umber Hulk Plate''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Plate mail]]",
-        "location": "[[Dorn's Deep]], [[Spine of the World]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "+2",
-        "value2e": "8,300 [[gp]]",
-        "weight2e": "{{SI|40|lb|k|long=yes}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -39,8 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Umber hulk plate''''' was a type of [[heavy armor]] crafted using [[umber hulk]] chitin and imbued with the creature's natural magic.",
-        "Powers": "These plate mails were created through reasonably easy shaping and tampering of umber hulk's shell to a [[humanoid]] form. [[Duergar]] smiths learned the process of curing and reinforcing these dark sets of plates. ''Umber hulk plates'' possessed a ''+2'' enchantment but were somewhat vulnerable to slashing weapons.",
-        "History": "In the {{YearlinkName|1281}}, ''umber hulk plates'' were crafted by a [[svirfneblin]] named [[Dirty Llew]] who inhabited a deep gnome camp in the depths of the Lower [[Dorn's Deep]] in the [[Spine of the World]]."
+        "mainbody": "Umber hulk plate was a type of heavy armor crafted using umber hulk chitin and imbued with the creatures natural magic.\nThese plate mails were created through reasonably easy shaping and tampering of umber hulks shell to a humanoid form. Duergar smiths learned the process of curing and reinforcing these dark sets of plates. Umber hulk plates possessed a +2 enchantment but were somewhat vulnerable to slashing weapons.\nIn the , umber hulk plates were crafted by a svirfneblin named Dirty Llew who inhabited a deep gnome camp in the depths of the Lower Dorns Deep in the Spine of the World."
     }
 }

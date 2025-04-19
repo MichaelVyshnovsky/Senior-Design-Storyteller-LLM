@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Arm Hammers",
-        "deity": "[[Geb]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Invocation/Evocation]]",
-        "spheres2e": "[[Combat sphere|Combat]]",
-        "level2e": "{{Spell table|edition=2e|[[Cleric]]|2|[[Combat sphere|Combat]]|2}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -37,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Arm hammers''''' was a [[southern magic]] [[divine magic|divine]] [[spell]] available to worshipers of [[Geb]].",
-        "Effects": "When cast, this spell turned the caster's arm and hands into strong [[hammer]]s of [[adamantine]]. The hammers were strong enough to cut or tunnel through stone. The hammers were heavy, which made it difficult for the caster to move or manipulate objects nor could they cast spells requiring somatic and material components. While the spell was in effect, the caster was immune to both ''[[haste]]'' and ''[[slow]]'' spells. The hammers were vulnerable to spells such as ''[[shatter]]''.",
-        "Components": "In addition to [[Somatic component|somatic]] and [[Verbal component|verbal]] components, this spell required [[material component]]s—a pair of small hammers made from stone—and the [[holy symbol]] of the caster. The stone hammers had to be crafted from a single stone."
+        "mainbody": "Arm hammers was a southern magic divine spell available to worshipers of Geb.\nWhen cast, this spell turned the casters arm and hands into strong hammers of adamantine. The hammers were strong enough to cut or tunnel through stone. The hammers were heavy, which made it difficult for the caster to move or manipulate objects nor could they cast spells requiring somatic and material components. While the spell was in effect, the caster was immune to both haste and slow spells. The hammers were vulnerable to spells such as shatter.\nIn addition to somatic and verbal components, this spell required material components—a pair of small hammers made from stone—and the holy symbol of the caster. The stone hammers had to be crafted from a single stone."
     }
 }

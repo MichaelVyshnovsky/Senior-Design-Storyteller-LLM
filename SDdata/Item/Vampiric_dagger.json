@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Artemis Entreri's vampiric dagger.png",
-        "caption": "[[Artemis Entreri]]'s vampiric dagger.",
-        "name": "''Vampiric Dagger''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Dagger]]",
-        "creator": "",
-        "location": "[[Mere of Dead Men]], [[Sword Coast North]]<br/>[[Thay]], [[Unapproachable East]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+2",
-        "value3e": "",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,9 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Vampiric daggers''''' were [[enchanted]] [[dagger]]s that drew strength from its victims, created sometime before the late 14{{th}} century [[DR]].",
-        "Powers": "''Vampiric daggers'' had blades of deadly sharpness and tiny serrations. They possessed a powerful ''+2'' enchantment that made the weapon's attacks deadlier and guided the wielder's hand toward their aim. Each successful strike with a ''vampiric dagger'' sapped the strength from the target, granting the wielder [[Vampiric (weapon quality)|vampiric]] ''[[Regenerate|regeneration]].",
-        "History": "Sometime after the {{YearlinkName|1374}}, a ''vampiric dagger'' was handled by the leader of the three remnants of the [[Shadow Cult]] that followed the [[King of Shadows]]. The remnants of the cult holed up in a ruined fort in the [[Mere of Dead Men]], trying to resurrect the King. The priests used a ''vampiric dagger'' against a band of adventurers from [[Crossroad Keep]], sent by [[Khelgar Ironfist]] to end the cult once and for all.",
-        "Notable Users": "*[[Tharchion]] [[Aznar Thrul]] never parted with his ''vampiric dagger'' in the 14{{th}} century [[DR]].\n*[[Renho Thane]], a [[transmuter]] apprentice of [[Szass Tam]]'s in [[1368 DR]]."
+        "mainbody": "Vampiric daggers were enchanted daggers that drew strength from its victims, created sometime before the late 14 century DR.\nVampiric daggers had blades of deadly sharpness and tiny serrations. They possessed a powerful +2 enchantment that made the weapons attacks deadlier and guided the wielders hand toward their aim. Each successful strike with a vampiric dagger sapped the strength from the target, granting the wielder vampiric regeneration.\nSometime after the , a vampiric dagger was handled by the leader of the three remnants of the Shadow Cult that followed the King of Shadows. The remnants of the cult holed up in a ruined fort in the Mere of Dead Men, trying to resurrect the King. The priests used a vampiric dagger against a band of adventurers from Crossroad Keep, sent by Khelgar Ironfist to end the cult once and for all.\n*Tharchion Aznar Thrul never parted with his vampiric dagger in the 14 century DR.\n*Renho Thane, a transmuter apprentice of Szass Tams in 1368 DR."
     }
 }

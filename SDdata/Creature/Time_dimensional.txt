@@ -1,31 +1,7 @@
-{{Creature
-| image        = 
-| caption      = 
-| name         = Time Dimensional
-| othernames   = Time Elemental;<br />Time Demielemental
-| size5e       = 
-| type5e       = 
-| subtype5e    = 
-| alignment5e  = 
-| challenge5e  = 
-| refs5e       = 
-| size4e       = 
-| origin4e     = 
-| type4e       = 
-| subtype4e    = 
-| alignment4e  = 
-| refs4e       = 
-| size3e       = 
-| type3e       = 
-| subtype3e    = 
-| alignment3e  = 
-| challenge3e  = 
-| refs3e       = 
-| size2e       = {{Size table|Common|Small|Noble|Small|Royal|Large}}
-| alignment2e  = [[Neutral]]
+| alignment2e  = Neutral
 | refs2e       = 
 | size1e       = Small
-| alignment1e  = [[Neutral]]
+| alignment1e  = Neutral
 | refs1e       = 
 | patron deity = 
 | movement     = 
@@ -33,7 +9,7 @@
 | activecycle  = Any
 | diet         = Momentum of time
 | lifespan     = 
-| location     = [[Demiplane of Time]]
+| location     = Demiplane of Time
 | intelligence = Very to supra-genius
 | language     = 
 | subraces     = 
@@ -41,52 +17,28 @@
 | terrain      = 
 | genrefs      = 
 | form1        = Common
-| appearance1  = {{Appearance|height=|length={{SI|3|ft|c}}|wingspan=|weight=|skincolor=|haircolor=|hairstyles=|feathers=|eyecolor=|build=|distinctions=Sphere of silver light}}
+| appearance1  = |wingspan=|weight=|skincolor=|haircolor=|hairstyles=|feathers=|eyecolor=|build=|distinctions=Sphere of silver light
 | form2        = Noble
-| appearance2  = {{Appearance|height=|length={{SI|4|ft|c}}|wingspan=|weight=|skincolor=|haircolor=|hairstyles=|feathers=|eyecolor=|build=|distinctions=Sphere of silver light}}
+| appearance2  = |wingspan=|weight=|skincolor=|haircolor=|hairstyles=|feathers=|eyecolor=|build=|distinctions=Sphere of silver light
 | form3        = Royal
-| appearance3  = {{Appearance|height=|length={{SI|7|ft|c}}|wingspan=|weight=|skincolor=|haircolor=|hairstyles=|feathers=|eyecolor=|build=|distinctions=Sphere of silver light}}
+| appearance3  = |wingspan=|weight=|skincolor=|haircolor=|hairstyles=|feathers=|eyecolor=|build=|distinctions=Sphere of silver light
 | appearrefs   = 
-| first        = [[Monster Manual II 1st edition|''Monster Manual II'' 1{{st}} ed.]]
+| first        = Monster Manual II 1 ed.
 | based        = 
 | histrefs     = 
-}}
-A '''time dimensional'''&mdash;often incorrectly called a '''time elemental'''
-
-==Description==
-In its true form, a time dimensional was a transparent ball of silver light, with a diameter between {{SI|3|ft|c|long=yes}} and {{SI|7|ft|c|long=yes}}, but when appearing in a reality, they instead appeared as a cloud of dust, fire, or gas. This vapory appearance was because they always appeared in a reality simultaneously at different points in time. In fact multiple versions of a single time dimensional existed concurrently across all of time; each of these versions exhibited independence from the others and yet somehow, they were all the same entity.
-
-==Types==
+A time dimensional&mdashoften incorrectly called a time elemental
+In its true form, a time dimensional was a transparent ball of silver light, with a diameter between  and , but when appearing in a reality, they instead appeared as a cloud of dust, fire, or gas. This vapory appearance was because they always appeared in a reality simultaneously at different points in time. In fact multiple versions of a single time dimensional existed concurrently across all of time each of these versions exhibited independence from the others and yet somehow, they were all the same entity.
 Common time dimensionals were the smallest of their kind. Somewhat larger time dimensionals, called "noble time dimensionals" were more powerful. There were also rumors of "royal time dimensionals", who were the largest and most powerful and thought to rule over their lesser kind, though there was no real evidence of such authority. Some scholars claimed that royal time dimensionals served certain deities.
-
-==Abilities==
-Time dimensionals were supremely intelligent beings. As timeless entities, they could slip into and out of reality at will. Unlike mortal creatures on the [[Prime Material plane]] or most other [[plane]]s, time dimensionals were "nonlinear", that is, their "lifelines" did not have a beginning and an end. As such, nothing prevented them from existing in multiple copies of themselves in the same time. Nevertheless, while they could duplicate themselves like this, they seemed to hate doing so, so they used this ability only very rarely.
-
-The more powerful the time dimensional, the more quickly it could move. The weakest and smallest time dimensionals could only move at a rate of {{SIspeed|120|yards|min||min|long=yes}} or about {{SIspeed|4|miles|hour|k|hour|long=yes}}; but the large and powerful royal time dimensionals could mover as fast as {{SIspeed|280|yards|min||min|long=yes}} or {{SIspeed|9.5|miles|hour|k|hour|long=yes}}.
-
-[[Chronomancy]] spells did not function in the close presence of a time dimensional&mdash;within about {{SI|30|yards|long=yes}}; the dimensionals simply absorbed such magic. Similarly and for the same reasons, time magics did not have any effect on time dimensionals, even if cast from a farther range. Even non-time magics had little effect on most time dimensionals, as it was very hard to target a time dimensional, since the creature existed in multiple times at once. Effectively, only about 10% of spells would be effective when cast in reality. If the caster happened to be on the Demiplane of Time, the chance of successfully targeting a time dimensional with magic increased significantly to 75%.)
-
+Time dimensionals were supremely intelligent beings. As timeless entities, they could slip into and out of reality at will. Unlike mortal creatures on the Prime Material plane or most other planes, time dimensionals were "nonlinear", that is, their "lifelines" did not have a beginning and an end. As such, nothing prevented them from existing in multiple copies of themselves in the same time. Nevertheless, while they could duplicate themselves like this, they seemed to hate doing so, so they used this ability only very rarely.
+The more powerful the time dimensional, the more quickly it could move. The weakest and smallest time dimensionals could only move at a rate of  or about  but the large and powerful royal time dimensionals could mover as fast as  or .
+Chronomancy spells did not function in the close presence of a time dimensional&mdashwithin about  the dimensionals simply absorbed such magic. Similarly and for the same reasons, time magics did not have any effect on time dimensionals, even if cast from a farther range. Even non-time magics had little effect on most time dimensionals, as it was very hard to target a time dimensional, since the creature existed in multiple times at once. Effectively, only about 10% of spells would be effective when cast in reality. If the caster happened to be on the Demiplane of Time, the chance of successfully targeting a time dimensional with magic increased significantly to 75%.)
 Time dimensionals could only be physically harmed by magical weapons.
-
-Noble time dimensionals had innate powers akin to the ''[[time stop]]'' spell and could change the age of other creatures by up to 20 years or minerals by up to 1,000 years. They were also said to be able to transport up to four other individuals at once forward or backward in time.
-
-Royal time dimensionals had all the powers of common and noble dimensionals and also seemed able to summon the weaker time dimensionals to their aid. They could use a noble's powers more often and could additionally [[Articus's melee manager|make attacks with greater frequency]]. They could defend themselves by means of a ''[[temporal shell]]''.
-
-==Ecology==
-Time dimensionals roamed the [[Demiplane of Time]]. They gained nourishment from the movement of time itself. They could sense turbulence in timestreams and would move toward such locations, because it was easier for them to feed at such disturbances in the flow of time.
-
-==Behavior==
-Time dimensionals avoided most other forms of life, even within their native home of the Demiplane of Time. They were only very rarely found outside the Demiplane of Time, as they found the forward-only momentum of the flow of time in reality uncomfortable. However, since time dimensionals were attracted to time turbulence, [[chronomancer]]s or other powerful [[planewalker]]s would sometimes encounter them, since the creatures would be enticed by the changes that they could sense in the timestreams. Thankfully, a time dimensional was highly unlikely to attack unless it were attacked first.
-
-It was extremely challenging to communicate with a time dimensional, despite their high intelligence, since it was very difficult for most occupants of reality to comprehend a being that encompassed all time simultaneously. They ignored most attempts at using language to communicate with them, though they were capable of understanding speech. If one could even successfully gain the notice of a time dimensional, and if it chose to reply, the answers would come back as messages formed from fragments of memories from the individual's own mind.
-
+Noble time dimensionals had innate powers akin to the time stop spell and could change the age of other creatures by up to 20 years or minerals by up to 1,000 years. They were also said to be able to transport up to four other individuals at once forward or backward in time.
+Royal time dimensionals had all the powers of common and noble dimensionals and also seemed able to summon the weaker time dimensionals to their aid. They could use a nobles powers more often and could additionally make attacks with greater frequency. They could defend themselves by means of a temporal shell.
+Time dimensionals roamed the Demiplane of Time. They gained nourishment from the movement of time itself. They could sense turbulence in timestreams and would move toward such locations, because it was easier for them to feed at such disturbances in the flow of time.
+Time dimensionals avoided most other forms of life, even within their native home of the Demiplane of Time. They were only very rarely found outside the Demiplane of Time, as they found the forward-only momentum of the flow of time in reality uncomfortable. However, since time dimensionals were attracted to time turbulence, chronomancers or other powerful planewalkers would sometimes encounter them, since the creatures would be enticed by the changes that they could sense in the timestreams. Thankfully, a time dimensional was highly unlikely to attack unless it were attacked first.
+It was extremely challenging to communicate with a time dimensional, despite their high intelligence, since it was very difficult for most occupants of reality to comprehend a being that encompassed all time simultaneously. They ignored most attempts at using language to communicate with them, though they were capable of understanding speech. If one could even successfully gain the notice of a time dimensional, and if it chose to reply, the answers would come back as messages formed from fragments of memories from the individuals own mind.
 Some chronomancers attempted to make deals with time dimensionals, but success at such an endeavor usually came with great risk.
-
-==Combat==
-When defending themselves in one of the realities, time dimensionals emitted a fine spray at their opponents. On contact with living tissue, the substance rapidly aged the cells of whatever it touched, causing [[wikipedia:en:Necrosis|necrosis]]. If on their home plane, where time behaved differently, they struck with pure temporal forces, causing damage through shock to creatures not protected from [[magic]]. (Such a blow left no physical signs of harm.)
-
+When defending themselves in one of the realities, time dimensionals emitted a fine spray at their opponents. On contact with living tissue, the substance rapidly aged the cells of whatever it touched, causing necrosis. If on their home plane, where time behaved differently, they struck with pure temporal forces, causing damage through shock to creatures not protected from magic. (Such a blow left no physical signs of harm.)
 If especially threatened, a time elemental could take advantage of its nonlinear existence and call forth other versions of itself from other times to attack in concert. Thankfully to those encountering them, a time elemental would usually only do this once right before than escaping, but multiple attacks from two to five versions of the same time elemental could be devastating. Since such attacking time elementals were all versions of the same entity, damage caused to one version affected all versions simultaneously.
-
-==History==
-The remains of a killed time dimensional were one of the several [[spell component]]s required for successful completion of the ''[[time conduit]]'' spell.
-
+The remains of a killed time dimensional were one of the several spell components required for successful completion of the time conduit spell.

@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Alustriel's Fang",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "[[Alustriel Silverhand]]",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|2}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Alustriel's fang''''' was a [[wizard]] [[spell]] created by [[Alustriel Silverhand]].",
-        "Effects": "This spell affected small piercing weapons, allowing the caster to fire them in a straight line from the palm of their hand. The effective range of this attack was 60 feet. The caster could execute two of these attacks each time the spell was cast if the weapon was not barred from returning to their hand after the first attack. In order for this spell to be effective the caster needed to be martially familiar with the subject weapon.\n\nIf the caster's hands were not empty then the weapon would hover in the air near their hand, dropping to the ground after several minutes when the spell expired.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, this spell required a pinch of iron and a weapon to cast."
+        "mainbody": "Alustriels fang was a wizard spell created by Alustriel Silverhand.\nThis spell affected small piercing weapons, allowing the caster to fire them in a straight line from the palm of their hand. The effective range of this attack was 60 feet. The caster could execute two of these attacks each time the spell was cast if the weapon was not barred from returning to their hand after the first attack. In order for this spell to be effective the caster needed to be martially familiar with the subject weapon.\nIf the casters hands were not empty then the weapon would hover in the air near their hand, dropping to the ground after several minutes when the spell expired.\nIn addition to verbal and somatic components, this spell required a pinch of iron and a weapon to cast."
     }
 }

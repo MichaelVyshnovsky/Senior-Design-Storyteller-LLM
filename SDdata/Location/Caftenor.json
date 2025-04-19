@@ -1,24 +1,13 @@
 {
-    "template_data": {
-        "20|mi|k|long": "yes"
-    },
     "document_data": {
-        "image": "KorinnAtlas.JPG",
-        "caption": "A map showing Caftenor in the Korinn Archipelago.",
-        "name": "Caftenor",
-        "alt spelling": "",
-        "aliases": "",
-        "type": "Island",
-        "region": "The [[Korinn Archipelago]], the [[Moonshae Isles]]",
-        "size": "{{SI|25|mi|k}} long",
         "elevation": "",
         "depth": "",
         "capital": "",
-        "largest city": "[[Caftenor (town)|Caftenor]]",
+        "largest city": "Caftenor",
         "georefs": "",
         "demonym": "",
         "population": "",
-        "races": "[[Northlander]]s",
+        "races": "Northlanders",
         "languages": "",
         "religion": "",
         "alignment": "",
@@ -36,9 +25,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "'''Caftenor''' was an island within the [[Korinn Archipelago]] in the [[Moonshae Isles]].{{Cite interactive atlas}}{{Cite dungeon/196/Backdrop: Moonshae Isles|11}}",
-        "Geography": "Caftenor was the southernmost island within the Korinn Archipelago, sitting just {{SI|20|mi|k|long=yes}} off the coast of northern [[Gnarhelm]] near the [[Lake of the Leech]]. Several small unnamed islands were found just off the island's coast. The village of [[Caftenor (town)|Caftenor]] was located near center of the island on the eastern coast.",
-        "Inhabitants": "A large population of [[halfling]]s made their home on Caftenor.",
-        "Notable Locations": "* [[Caftenor (town)|Caftenor]]"
+        "mainbody": "Caftenor was an island within the Korinn Archipelago in the Moonshae Isles.\nCaftenor was the southernmost island within the Korinn Archipelago, sitting just  off the coast of northern Gnarhelm near the Lake of the Leech. Several small unnamed islands were found just off the islands coast. The village of Caftenor was located near center of the island on the eastern coast.\nA large population of halflings made their home on Caftenor.\n* Caftenor"
     }
 }

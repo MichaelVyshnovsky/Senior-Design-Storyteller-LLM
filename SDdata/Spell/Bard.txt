@@ -1,52 +1,21 @@
-{{Class
-|image            = 
-<gallery>
-Bard PHB5e2024.png|5.5e
-Bard Clint-Cearley PHB5e.jpg|5e
-4e bard.jpg|4e
-Bard Gimble PHB3e.jpg|3e
-Bard POSP.png|2e
-Bard PHB1e.png|1e
-</gallery>
-| caption2        = Various depictions of bards.
-| name            = Bard
-| othernames      = 
-| abbr            = Brd, B
-| symbol          = Brd symbol.png
-| affiliation     = 
-| region          = 
-| type5e          = Base Class
-| subclass-of5e   = 
-| subclasses5e    = [[College of Glamour]]<br />[[College of Lore]]<br />[[College of Swords]]<br />[[Skald|College of Valor]]<br />[[College of Whispers]]
-| subclasstype5e  = Bard Colleges
-| weapons5e       = [[Simple weapons]]<br />[[Hand crossbow]]s<br />[[Longsword]]s<br />[[Rapier]]s<br />[[Short sword]]s
-| armor5e         = [[Light armor]]<br />[[Shields]]
-| tools5e         = [[Instruments]]
-| languages5e     = 
-| magictype5e     = [[Arcane magic|Arcane]]
-| spellprep5e     = Spontaneous
-| race5e          = 
-| multiclassreq5e = 
-| otherprereqs5e  = 
-| refs5e          = {{cite book/Player's Handbook 5th edition|51-55}}
 | type4e          = Base Class
 | role4e          = Leader
-| power4e         = [[Arcane magic|Arcane]]
+| power4e         = Arcane
 | paragon-of4e    = 
-| paragons4e      = Student of the Seven<br />Summer rhymer<br />Voice of thunder<br />War chanter
-| weapons4e       = [[Simple weapons|Simple]] [[melee weapons]]<br />[[Longsword]]s<br />[[Scimitar]]s<br />[[Short sword]]s<br />[[Simple weapons|Simple]] [[ranged weapons]]<br />[[Martial weapons|Military]] [[ranged weapons]]
-| armor4e         = [[Cloth armor]]<br />[[Leather armor]]<br />[[Hide armor]]<br />[[Chainmail]]<br />[[Light shields]]
-| implements4e    = [[Wand]]s
+| paragons4e      = Student of the SevenSummer rhymerVoice of thunderWar chanter
+| weapons4e       = Simple melee weaponsLongswordsScimitarsShort swordsSimple ranged weaponsMilitary ranged weapons
+| armor4e         = Cloth armorLeather armorHide armorChainmailLight shields
+| implements4e    = Wands
 | refs4e          = 
 | type3e          = Base Class
 | variant-of3e    = 
 | variants3e      = 
-| weapons3e       = [[Simple weapons]]<br />[[Longsword]]s<br />[[Rapier]]s<br />[[Sap]]<br />[[Short sword]]s<br />[[Shortbow]]<br />[[Whip]]
-| armor3e         = [[Light armor]]<br />[[Shields]]
+| weapons3e       = Simple weaponsLongswordsRapiersSapShort swordsShortbowWhip
+| armor3e         = Light armorShields
 | languages3e     = 
-| magictype3e     = [[Arcane magic|Arcane]]
+| magictype3e     = Arcane
 | spellprep3e     = Spontaneous
-| alignment3e     = {{Alignment grid|off|on|on|off|on|on|off|on|on}}
+| alignment3e     = 
 | race3e          = 
 | sex3e           = 
 | deity3e         = 
@@ -57,8 +26,8 @@ Bard PHB1e.png|1e
 | variants2e      = 
 | kit-for2e       = 
 | kits2e          = 
-| alignment2e     = {{Alignment grid|off|on|off|on|on|on|off|on|off}}
-| race2e          = [[Human]]<br />[[Half-elf]]
+| alignment2e     = 
+| race2e          = HumanHalf-elf
 | sex2e           = 
 | deity2e         = 
 | otherprereqs2e  = 
@@ -66,102 +35,47 @@ Bard PHB1e.png|1e
 | type1e          = Base Class
 | subclass-of1e   = 
 | subclasses1e    = 
-| alignment1e     = {{Alignment grid|off|on|off|on|on|on|off|on|off}}
-| race1e          = [[Human]]<br />[[Half-elf]]
+| alignment1e     = 
+| race1e          = HumanHalf-elf
 | refs1e          = 
 | spelllist       = yes
-}}
-<gallery  widths=270px type=slideshow position=left''>
-Image:Bard BGIII.png|''5e symbol of the bard.''
-Image:Bard Icon.png|''4e symbol of the bard.''
-</gallery>
-
-'''Bards''' were versatile [[arcane spellcaster]]s, capable in combat, art, and [[arcane magic|magic]] alike. Bards practiced magic as they would art or song, using their artistic talents to induce magical effects that either bolstered their allies or hindered their enemies, typically through [[charm|charms]] and [[illusion|illusions]]. In addition to their magical skills, bards were artistically talented and extraordinarily well-learned, possessing knowledge in a wide range of fields.{{cite book/Player's Handbook 5th edition|51}} Bards were among the most versatile of [[adventurer]]s, capable of learning from practically any trade.{{cite book/Player's Handbook 2|66-67}}
-{{quote|I've been a bard long enough to know the three main rules of the entertainer. Don't turn your back on your audience. Don't upstage the act that follows. Always leave the audience wanting more.|[[Joel]] the Rebel Bard}}
-
-==Culture==
-{{quote|''Stupid bards. Half the crowd always loves their songs, and the other half hates them. No better way to start a fight than to let a musician sing.''|[[Xaphira Matrell]] of [[Arrabar]]}}
-
-Both literally and figuratively enchanting, bards drew upon, more than perhaps any other profession, the works of all who'd come before them. Storytellers, musicians, enchanters, dancers, and lorekeepers, bards were prone to wanderlust, traveling from one place to another in search of new lore or perhaps in the hopes of spreading what they already knew.{{cite book/Player's Handbook 5th edition|51-52}} Some came into the services of others as ambassadors or spies, but most bards preferred the freedom of mobility and living by one's whims, though this was not without exception{{cite book/Player's Handbook 2|67}} and most bards acquired their skills as a result of training under previous bards, drawing upon ancient traditions of lore and arcane magic.
-
+ImageBard BGIII.png|5e symbol of the bard.
+ImageBard Icon.png|4e symbol of the bard.
+Bards were versatile arcane spellcasters, capable in combat, art, and magic alike. Bards practiced magic as they would art or song, using their artistic talents to induce magical effects that either bolstered their allies or hindered their enemies, typically through charms and illusions. In addition to their magical skills, bards were artistically talented and extraordinarily well-learned, possessing knowledge in a wide range of fields. Bards were among the most versatile of adventurers, capable of learning from practically any trade.
+Both literally and figuratively enchanting, bards drew upon, more than perhaps any other profession, the works of all whod come before them. Storytellers, musicians, enchanters, dancers, and lorekeepers, bards were prone to wanderlust, traveling from one place to another in search of new lore or perhaps in the hopes of spreading what they already knew. Some came into the services of others as ambassadors or spies, but most bards preferred the freedom of mobility and living by ones whims, though this was not without exception and most bards acquired their skills as a result of training under previous bards, drawing upon ancient traditions of lore and arcane magic.
 Bards had a reputation for being joyful and inspiring, though as with every skill their ability to charm and inspire had a darker side. Evil bards were manipulative and cunning, twisting the hearts of others either through magic or sheer charisma. Most bards, though, regardless of their individual morals, held a strong distaste for blatant violence, at least when it could be avoided. To a bard the joys of life were in seeking knowledge or, better yet, witnessing the discovery of such knowledge firsthand. For this reason many bards were drawn to the adventuring lifestyle, hoping to witness the weaving of new tales firsthand - or perhaps even to instigate them.
-
-Bards were common throughout [[Toril]], appearing most commonly in the [[Dalelands]] and [[North Faerûn]], though they could also be found in large numbers in as diverse locations as [[Chult]] or [[Vaasa]]. Some of the world's greatest magical and adventuring traditions were propped up and supported by bards. The most notable of these, the [[Harper]]s, held a large numbers of bards within their ranks.
-
-[[File:Neverwinter bard.jpg|thumb|left|350px|''A valiant bard who just emerged victorious in a brawl.'']]
-The most common bards were [[human]]s and [[elves]], as well as [[half-elves]] to a lesser extent, the latter two drawing upon the ancient magical and musical traditions of the elves to their benefit. On the other hand, few [[half-orc]]s, [[orc]]s, or [[goblinoid]]s became bards, their ancient traditions less befitting the bard's lifestyle. Nor, for that matter, were [[dwarf|dwarven]], except for [[gold dwarf|gold dwarves]], though [[halfling]] and [[gnome|gnomish]] bards were. Of all the races, half-elves, with their unusual combination of endurance and charm, were considered to have the best natural capability for a bard's lifestyle, though gnomes and [[tiefling]]s also made excellent bards.{{cite book/Player's Handbook 2|67}}
-
-Bards typically got along well with non-bards, in no small part due to their versatility and charm. In parties of adventurers most bards served as spokesmen of sorts, due to their affinity for social interaction and skill at [[enchantment]]. Bards clashed with few people, having a little bit of something to offer just about anyone.
-
-Bards were drawn most often to the worship of [[god]]s of magic, such as [[Corellon]], [[Selûne]], or others. Good bards sometimes worshiped [[Bahamut]] or [[Moradin]]. Less moralistic bards were instead sometimes drawn to the worship of [[Lolth]], [[Tiamat]], or [[Zehir]].{{cite book/Player's Handbook 2|67}}
-
-==Abilities==
-{{Fq|text=All folk laugh from time to time, and none can say for sure what will unleash a man's mirth. Ye may have a gift to call up laughter. Good; but mind ye never try to amuse a mage. Why not? Well, just bridle thy tongue and take a good look at what makes them laugh. Do ye want to try such things?|source=[[Zanshareen Sabiyryn]], ''A Sage's Travel Guide to The North''{{Cite dragon/272/The New Adventures of Volo: Quotations of the Realms|96}}}}
-Bards were among the most versatile of adventurers. While not necessarily as tough as a [[fighter]], as skilled as a [[rogue]], or as intelligent as a [[wizard]], bards were widely capable in a number of different situations and were widely recognized as a sort of "jack-of-all-trades."{{cite book/Player's Handbook 5th edition|54}} For instance, bards were better trained in weaponry than all other arcane spellcasters (including [[swordmage]]s) trained in the use of all simple weapons, [[longsword]]s, [[rapier]]s, [[shortsword]]s, and hand crossbows.{{cite book/Player's Handbook 5th edition|52}} Additionally, some bards exhibited proficiency in [[scimitar]]s and martial ranged weapons as well.{{cite book/Player's Handbook 2|66}} Similarly, bards were naturally knowledgeable and had an uncanny ability for improvisation and trying new things. But unlike fighters or rogues, who might be similarly proficient, bards were capable of casting [[ritual]]s and [[spell]]s, including those normally only used by other spellcasters.{{cite book/Player's Handbook 5th edition|53-54}}
-
-Bards of all kinds learned to inspire virtue and ability in those around them. Exactly how frequently a bard could do this depended partially upon their strength of personality as well as their level of experience.{{cite book/Player's Handbook 2|67-68}} In addition to this, experienced bards could also counteract the effects of spells designed to charm or frighten, providing magical aid to their allies. Similarly, bards, through their music and arts, could soothe the nerves of their allies and, through their magic, heal their wounds and bolster their spirits, either at rest or in combat.
-
+Bards were common throughout Toril, appearing most commonly in the Dalelands and North Faerûn, though they could also be found in large numbers in as diverse locations as Chult or Vaasa. Some of the worlds greatest magical and adventuring traditions were propped up and supported by bards. The most notable of these, the Harpers, held a large numbers of bards within their ranks.
+thumb|left|350px|A valiant bard who just emerged victorious in a brawl.
+The most common bards were humans and elves, as well as half-elves to a lesser extent, the latter two drawing upon the ancient magical and musical traditions of the elves to their benefit. On the other hand, few half-orcs, orcs, or goblinoids became bards, their ancient traditions less befitting the bards lifestyle. Nor, for that matter, were dwarven, except for gold dwarves, though halfling and gnomish bards were. Of all the races, half-elves, with their unusual combination of endurance and charm, were considered to have the best natural capability for a bards lifestyle, though gnomes and tieflings also made excellent bards.
+Bards typically got along well with non-bards, in no small part due to their versatility and charm. In parties of adventurers most bards served as spokesmen of sorts, due to their affinity for social interaction and skill at enchantment. Bards clashed with few people, having a little bit of something to offer just about anyone.
+Bards were drawn most often to the worship of gods of magic, such as Corellon, Selûne, or others. Good bards sometimes worshiped Bahamut or Moradin. Less moralistic bards were instead sometimes drawn to the worship of Lolth, Tiamat, or Zehir.
+Bards were among the most versatile of adventurers. While not necessarily as tough as a fighter, as skilled as a rogue, or as intelligent as a wizard, bards were widely capable in a number of different situations and were widely recognized as a sort of "jack-of-all-trades." For instance, bards were better trained in weaponry than all other arcane spellcasters (including swordmages) trained in the use of all simple weapons, longswords, rapiers, shortswords, and hand crossbows. Additionally, some bards exhibited proficiency in scimitars and martial ranged weapons as well. Similarly, bards were naturally knowledgeable and had an uncanny ability for improvisation and trying new things. But unlike fighters or rogues, who might be similarly proficient, bards were capable of casting rituals and spells, including those normally only used by other spellcasters.
+Bards of all kinds learned to inspire virtue and ability in those around them. Exactly how frequently a bard could do this depended partially upon their strength of personality as well as their level of experience. In addition to this, experienced bards could also counteract the effects of spells designed to charm or frighten, providing magical aid to their allies. Similarly, bards, through their music and arts, could soothe the nerves of their allies and, through their magic, heal their wounds and bolster their spirits, either at rest or in combat.
 Bards were, as a general rule, uncannily skilled advocates and diplomats. For many bards this was a result of their typically high charisma but some bards - including those who were less charming - could boost their persuasive power through magic. They did this by actually enchanting the very words they speak, making them sound even more persuasive and compelling than they would normally.
-
-Like other spellcasters, bards usually used implements to increase the effectiveness of their spells{{cite book/Player's Handbook 2|67}} or to subsitute for their material cost.{{cite book/Player's Handbook 5th edition|203}} Some bards used [[wand]]s for this purpose, wielding them like a conductor's baton. Others use more specialized implements such as [[songblade]]s. Most however used a [[musical instrument]], enchanted or mundane, focusing their magic through music. Many bards particularly treasured this latter method and believed their music tapped into the [[Words of Creation]] themselves, sprinkling song and story with echoes of the universe's beginnings.
-
-==Bard Colleges==
-[[File:Bard_playing_lute-5e.jpg|thumb|200px|''A bard playing a [[lute]].'']]
-Eager to learn and often fond of company, most bards organized themselves into loosely bound fellowships known as colleges, which helped to preserve each bard's individual knowledge and pass them on to others.
-
-===College of Glamour===
-{{Main|College of Glamour}}
-Some bards preferred to hone their craft not by the masters singers and storytellers of Faerûn, but rather studied at the feet (or hooves) of [[fey]] beings. They learned how to bewitch and entrance others with the magic of the [[Feywild]]. They were often viewed with an interesting combination of wonder and some fright by the common folk, but their performances were considered among the most magnificent. The eloquence with which they shared stories or performed recitations was legendary in its ability to win over allies and influence the minds of even the most formidable beings of the Realms.
-
+Like other spellcasters, bards usually used implements to increase the effectiveness of their spells or to subsitute for their material cost. Some bards used wands for this purpose, wielding them like a conductors baton. Others use more specialized implements such as songblades. Most however used a musical instrument, enchanted or mundane, focusing their magic through music. Many bards particularly treasured this latter method and believed their music tapped into the Words of Creation themselves, sprinkling song and story with echoes of the universes beginnings.
+thumb|200px|A bard playing a lute.
+Eager to learn and often fond of company, most bards organized themselves into loosely bound fellowships known as colleges, which helped to preserve each bards individual knowledge and pass them on to others.
+Some bards preferred to hone their craft not by the masters singers and storytellers of Faerûn, but rather studied at the feet (or hooves) of fey beings. They learned how to bewitch and entrance others with the magic of the Feywild. They were often viewed with an interesting combination of wonder and some fright by the common folk, but their performances were considered among the most magnificent. The eloquence with which they shared stories or performed recitations was legendary in its ability to win over allies and influence the minds of even the most formidable beings of the Realms.
 Bards of the College of Glamour performed songs whose lyrics and melodies were imbued with fey magic. They could be used to take on wondrous appearances, that inspired their allies to perform great feats in battle, or seduce listeners with otherworldly allure. The most experienced of bards could appear as majestic ferocious as the fey themselves, influencing the minds of bystanders and turning enemies away from their glory.
-
-===College of Lore===
-{{Main|College of Lore}}
-Given all bards' love of learning it is little surprise that some bards prioritized it during their training. Bards belong to the College of Lore, also known as cunning bards, be it academic writings or folk tales, gathering in universities and local festivals alike in their pursuit of lore. Bards of this tradition weaved what tales and trivia they found into their stories and songs to entertain, as well as to illuminate that which they hold to be important. Uncompromising in their views, College of Lore bards' first loyalty was to the truth, which made them valuable (if occasionally brazen) advisers.
-
+Given all bards love of learning it is little surprise that some bards prioritized it during their training. Bards belong to the College of Lore, also known as cunning bards, be it academic writings or folk tales, gathering in universities and local festivals alike in their pursuit of lore. Bards of this tradition weaved what tales and trivia they found into their stories and songs to entertain, as well as to illuminate that which they hold to be important. Uncompromising in their views, College of Lore bards first loyalty was to the truth, which made them valuable (if occasionally brazen) advisers.
 Cunning bards preferred a path of trickery and cunning, using charm and intellect together to overcome obstacles. As a result, while cunning bards were as charming as most other bards, they placed less of an emphasis on vitality and more of one on intellectual pursuits.
-
 In addition to their peerless skill, bards from the College of Lore were also versatile spellcasters, capable of learning or imitating even more spells than a typical bard. Many cunning bards preferred using wands as implements to cast ranged spells and nearly all had training as tacticians, coordinating their allies in the midst of a battle.
-
-===College of Swords===
-{{Main|Blade (class)}}
-College of Swords bards, also known as [[blade (class)|blades]], were skilled combatants that embodied flamboyant grace and deadliness in all of their performances. They often held dual-lives, working as public entertainers while simultaneously (or later in life) serving as hired killers or mercenaries. Their skill with bladed weapons were unequaled in either respect.
-
-Bards from the College of Swords performed certain moves, referred to as 'spins' or 'flourishes' in combat. These daring and risky actions allowed them to better deflect incoming attacks, inflicted more lethal damage, gain tactical advantage against their foes, or incite terror in their hearts. They preferred to wear only minimal armor, and only wielded one-handed bladed weapons, such as [[scimitar]]s.
-
-===College of Valor===
-[[File:Valor Singer AFR.jpg|thumb|right|300px|''A [[tiefling]] bard singing a song of valor.'']]
-{{main|Skald}}
-College of Valor bards, also known as [[skald]]s, or valorous bards, were daring adventurers, who preferred to emulate the heroes they heard and learned of than to merely sing of them. Frequently found in mead halls or other gatherings of warriors, skalds hoped to witness heroic deeds firsthand so they may inspire future generations to similar heights. Believing that the heart should come before the mind, valorous bards were often great leaders, inspiring others to acts of heroism as legends inspired them.
-
+College of Swords bards, also known as blades, were skilled combatants that embodied flamboyant grace and deadliness in all of their performances. They often held dual-lives, working as public entertainers while simultaneously (or later in life) serving as hired killers or mercenaries. Their skill with bladed weapons were unequaled in either respect.
+Bards from the College of Swords performed certain moves, referred to as spins or flourishes in combat. These daring and risky actions allowed them to better deflect incoming attacks, inflicted more lethal damage, gain tactical advantage against their foes, or incite terror in their hearts. They preferred to wear only minimal armor, and only wielded one-handed bladed weapons, such as scimitars.
+thumb|right|300px|A tiefling bard singing a song of valor.
+College of Valor bards, also known as skalds, or valorous bards, were daring adventurers, who preferred to emulate the heroes they heard and learned of than to merely sing of them. Frequently found in mead halls or other gatherings of warriors, skalds hoped to witness heroic deeds firsthand so they may inspire future generations to similar heights. Believing that the heart should come before the mind, valorous bards were often great leaders, inspiring others to acts of heroism as legends inspired them.
 Proficient in a greater number of weapons and armor than typical bards, bards from the College of Valor were also exceptionally skilled as warriors, capable of attacking more frequently and casting spells at the same time.
-
-===College of Whispers===
-{{Main|College of Whispers}}
 Members of the College of Whispers served as spies and information brokers in the places of great importance across the Realms. They eschewed the fame and public adoration sought by many other bards, preferring secretive lives that were spent assuming the identities of others. Not many bards of strong moral standing joined the College of Whispers. Fortunately they were not the right individuals required to develop the skills needed to thrive and even survive the lifestyle of this bardic college. They mastered subtlety, self-discipline, and temperance when influencing the powers-at-be.
-
-These bards developed skills to assume the identities of anyone whose deaths they had witnessed. If forced out into the open and into a fight, they could strike at minds of their opponents just as their blade pierced their flesh. The most experienced of their ranks could even gain some control over someone's mind at the mere utterance of an otherwise mundane phrase.
-
-==History==
-===Bardic Colleges===
-[[File:Bard AFR.jpg|thumb|right|200px|''Incontrovertible evidence that bards do read books. Picture books count, right?'']]
-{{Main|Bardic college}}
-{{quote|''Some think that since he's a bard, he must be a Harper. Hrmmph – I'm a bard, and I'm not a Harper.''|[[Adamar Session]]}}
-
-In addition to the loose associations of bard colleges, which ensured that knowledge passed on from master to apprentice, bards of the [[Realms]] built organized learning institutions for masters to teach students on the bardic arts. These institutions were called [[bardic college]]s and were present during a number of periods in different places of [[Faerûn]].
-
-The oldest known bardic colleges were the seven elder colleges of [[Fochlucan]], [[Mac-Fuirmidh]],
-[[Doss]], [[Canaith]], [[Cli]], [[Anstruth]], and [[New Olamn|Ollamh]], believed to be founded by the legendary bard [[Falataer]] from the [[Moonshae Isles]] originally as a single college divided in seven levels of skill. The seven [[Instruments of the Bards]] were named after each of these ancient colleges.
-
-By the 1480s [[DR]], only two of the elder colleges were still active: the college of [[Fochlucan]] in [[Silverymoon]], which was revived by the bard [[Forell Luekuan]] with help from the [[Harpers]], and the college of [[New Olamn]] in [[Waterdeep]], established in [[1366 DR]] after the old college of Ollamh. Bards across the Realms dreamed of restoring the other ancient colleges as well.
-
-Other known bardic colleges included the [[College of the Herald]] within [[Herald's Holdfast]] and the [[Academia Vilhonus]] in [[Turmish]], among others.
-
-==Notable Bards==
-* [[Davil Starsong]], an agent of the [[Zhentarim]] that operated in [[Waterdeep]] during the late 15{{th}} century [[DR]].
-* [[Deekin Scalesinger]], the beloved [[kobold]] bard from [[Neverwinter]].
-* [[Finder Wyvernspur]], the brilliant bard and [[Harper]] agent who reached apotheosis after slaying [[Moander]], the god of decay during the [[Godswar]].
-* [[Joel]] the Rebel Bard, a [[priest]] of Finder Wyvernspur, adventuring [[planewalker]], and accomplished bard of the late 14{{th}} century.
-* [[Ningal]], the [[air genasi]] rebel from [[Unther]] and self-proclaimed "daughter of the moon".
-* [[Storm Silverhand]], the Bard of [[Shadowdale]] and one of the [[Seven Sisters]] born to the goddess [[Mystra]].
-
+These bards developed skills to assume the identities of anyone whose deaths they had witnessed. If forced out into the open and into a fight, they could strike at minds of their opponents just as their blade pierced their flesh. The most experienced of their ranks could even gain some control over someones mind at the mere utterance of an otherwise mundane phrase.
+thumb|right|200px|Incontrovertible evidence that bards do read books. Picture books count, right?
+In addition to the loose associations of bard colleges, which ensured that knowledge passed on from master to apprentice, bards of the Realms built organized learning institutions for masters to teach students on the bardic arts. These institutions were called bardic colleges and were present during a number of periods in different places of Faerûn.
+The oldest known bardic colleges were the seven elder colleges of Fochlucan, Mac-Fuirmidh,
+Doss, Canaith, Cli, Anstruth, and Ollamh, believed to be founded by the legendary bard Falataer from the Moonshae Isles originally as a single college divided in seven levels of skill. The seven Instruments of the Bards were named after each of these ancient colleges.
+By the 1480s DR, only two of the elder colleges were still active the college of Fochlucan in Silverymoon, which was revived by the bard Forell Luekuan with help from the Harpers, and the college of New Olamn in Waterdeep, established in 1366 DR after the old college of Ollamh. Bards across the Realms dreamed of restoring the other ancient colleges as well.
+Other known bardic colleges included the College of the Herald within Heralds Holdfast and the Academia Vilhonus in Turmish, among others.
+* Davil Starsong, an agent of the Zhentarim that operated in Waterdeep during the late 15 century DR.
+* Deekin Scalesinger, the beloved kobold bard from Neverwinter.
+* Finder Wyvernspur, the brilliant bard and Harper agent who reached apotheosis after slaying Moander, the god of decay during the Godswar.
+* Joel the Rebel Bard, a priest of Finder Wyvernspur, adventuring planewalker, and accomplished bard of the late 14 century.
+* Ningal, the air genasi rebel from Unther and self-proclaimed "daughter of the moon".
+* Storm Silverhand, the Bard of Shadowdale and one of the Seven Sisters born to the goddess Mystra.

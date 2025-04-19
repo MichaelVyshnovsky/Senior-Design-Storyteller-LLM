@@ -1,28 +1,11 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Spidersword",
-        "othernames": "",
-        "abbr": "",
-        "symbol": "Clr symbol.png",
-        "affiliation": "",
-        "region": "",
-        "type2e": "Priest Class",
-        "variant-of2e": "",
-        "variants2e": "",
-        "kit-for2e": "",
-        "kits2e": "",
-        "alignment2e": "{{Alignment grid| off | off | off | off | off | off | off | on | on }}",
-        "race2e": "[[Drow]]</br>[[Aranea]]",
+        "race2e": "DrowAranea",
         "sex2e": "Male",
-        "deity2e": "[[Selvetarm]]",
+        "deity2e": "Selvetarm",
         "otherprereqs2e": "",
         "refs2e": "",
         "classname": "spiderswords",
-        "mainbody": "'''Spiderswords''' were [[specialty priest]]s devoted to [[Selvetarm]], the Lord of the Venomire.",
-        "Culture": "All spiderswords were male [[drow]] or [[aranea]].",
-        "Abilities": "Spiderswords were skilled trackers and excelled at fighting in the dark or while blind. They were completely immune to all [[spider]] [[venom]] as well as magical fear. They were capable of inciting a [[berserker]] rage that lasted ten minutes. A raging spiderword would often turn on allies if no enemies were available for attack. Otherwise, holding the rage at bay would cause them physical harm until the rage faded away. They practised their weapons skills frequently, allowing them to strike more often during combat similar to warriors.\n\nIn addition to their normal [[spell]]s, spiderswords could cast ''[[remove fear]]'', ''[[protection from good]]'', ''[[aid]]'', ''[[prayer]]'', ''[[charm monster]]'', and ''[[haste]]'' on a daily basis. Spiderswords did not suffer aging effects when casting ''haste''. They could also temporarily enchant an edged weapon to glow with blue-white fire for one minute. The magical fire made it easier for the spidersword to strike and harm their target.",
-        "Possessions": "Spiderswords only had one restriction with regards to they type of weapon they wielded. They were not permitted to wield ranged weapons of any kind. They could wear whatever [[armor]] they desired, but the only [[shield]] they could carry was a [[buckler|spiked buckler]]."
+        "mainbody": "Spiderswords were specialty priests devoted to Selvetarm, the Lord of the Venomire.\nAll spiderswords were male drow or aranea.\nSpiderswords were skilled trackers and excelled at fighting in the dark or while blind. They were completely immune to all spider venom as well as magical fear. They were capable of inciting a berserker rage that lasted ten minutes. A raging spiderword would often turn on allies if no enemies were available for attack. Otherwise, holding the rage at bay would cause them physical harm until the rage faded away. They practised their weapons skills frequently, allowing them to strike more often during combat similar to warriors.\nIn addition to their normal spells, spiderswords could cast remove fear, protection from good, aid, prayer, charm monster, and haste on a daily basis. Spiderswords did not suffer aging effects when casting haste. They could also temporarily enchant an edged weapon to glow with blue-white fire for one minute. The magical fire made it easier for the spidersword to strike and harm their target.\nSpiderswords only had one restriction with regards to they type of weapon they wielded. They were not permitted to wield ranged weapons of any kind. They could wear whatever armor they desired, but the only shield they could carry was a spiked buckler."
     }
 }

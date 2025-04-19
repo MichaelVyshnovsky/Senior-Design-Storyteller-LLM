@@ -1,27 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Skiprock",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Projectile weapon<br />Ammunition",
-        "creator": "[[Halfling]]s",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "3 [[gp]]",
-        "weight3e": "{{SI|0.25|lbs}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -38,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Skiprocks''' were specially made, polished stone projectiles invented by [[halfling]] weaponsmiths",
-        "Weaponology": "Skiprocks were finely weighted and shaped to ensure they were perfect for throwing. If thrown well enough, after hitting a target they would typically ricochet and hit another.\n\nBesides their use as pure projectiles, skiprocks were known to be used as [[bullet]]s for [[slings]] or the heavy [[warsling]]. However, when shot from a sling they typically did not ricochet.",
-        "Notable Users of Slingrocks": "Skiprocks were primarily wielded by halflings, They were also a standard weapon in the arsenal of any [[warsling sniper]]."
+        "mainbody": "Skiprocks were specially made, polished stone projectiles invented by halfling weaponsmiths\nSkiprocks were finely weighted and shaped to ensure they were perfect for throwing. If thrown well enough, after hitting a target they would typically ricochet and hit another.\nBesides their use as pure projectiles, skiprocks were known to be used as bullets for slings or the heavy warsling. However, when shot from a sling they typically did not ricochet.\nSkiprocks were primarily wielded by halflings, They were also a standard weapon in the arsenal of any warsling sniper."
     }
 }

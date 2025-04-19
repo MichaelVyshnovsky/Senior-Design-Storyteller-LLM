@@ -1,25 +1,8 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Skull Mask''",
-        "othernames": "''White Skull Mask''",
-        "nicknames": "",
-        "type": "Wondrous item",
-        "location": "[[Myth Drannor]], [[Cormanthor]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "5{{th}}",
         "itemlevel3e": "",
-        "value3e": "50,000 [[gp]]",
-        "weight3e": "{{SI|1|lb|k}}",
+        "value3e": "50,000 gp",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -36,9 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Skull masks''''', also known as '''''white skull masks''''' were magic masks crafted to resemble masquerade face-wear and provided the wearer with several beneficial enchantments.",
-        "Description": "These enchanted masks were crafted to resemble a [[humanoid]] skull, white in color, with black paint around the eyes.",
-        "Powers": "''White Skull Mask'' transformed the wearer's face to appear like an actual skull. It granted the wearer increased morale and improved the defenses against ''diseases'', ''[[fear]]'', and ''paralysis'', as well as making them immune to abilities and spells that drained life force. Additionally, the wearer was able to recognize any creature's true nature, whether living, dead, undead, or inanimate.\n\nThe mask did possess one negative effect, the [[undead]] were attracted to the wearer of the mask and prioritized attacking them above all other opponents.",
-        "Creation": "''White Skull Masks'' could be created by anyone proficient in crafting wondrous items. The creation involved casting of the following spells: ''[[deathwatch]]'', ''[[detect magic]]'', ''[[detect undead]]'', ''[[negative plane protection]]'', and ''[[remove fear]]''."
+        "mainbody": "Skull masks, also known as white skull masks were magic masks crafted to resemble masquerade face-wear and provided the wearer with several beneficial enchantments.\nThese enchanted masks were crafted to resemble a humanoid skull, white in color, with black paint around the eyes.\nWhite Skull Mask transformed the wearers face to appear like an actual skull. It granted the wearer increased morale and improved the defenses against diseases, fear, and paralysis, as well as making them immune to abilities and spells that drained life force. Additionally, the wearer was able to recognize any creatures true nature, whether living, dead, undead, or inanimate.\nThe mask did possess one negative effect, the undead were attracted to the wearer of the mask and prioritized attacking them above all other opponents.\nWhite Skull Masks could be created by anyone proficient in crafting wondrous items. The creation involved casting of the following spells deathwatch, detect magic, detect undead, negative plane protection, and remove fear."
     }
 }

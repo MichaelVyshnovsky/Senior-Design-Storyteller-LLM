@@ -1,23 +1,5 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "90|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Psychic Scream",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Enchantment]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "{{Spell table|edition=5e|[[Bard]]|9|[[Sorcerer]]|9|[[Warlock]]|9|[[Wizard]]|9}}",
         "type5e": "",
         "refs5e": "",
         "feature4e": "",
@@ -44,8 +26,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Psychic scream''''' was a powerful [[enchantment]] [[spell]] that caused devastating damage to the intellects of multiple creatures.",
-        "Effects": "The spell unleashed a violent blast of [[psionic]] energy that hit up to ten creatures within a range of {{SI|90|ft|long=yes}}. Even creatures with a moderate animal intelligence were susceptible to this effect. In addition to the traumatic damage, the spell also rendered those who could not resist its effect stunned and unable to act for several seconds.\n\nIf a creature was killed by the spell, its head exploded (provided it had a head).",
-        "Components": "The spell only required a [[somatic component]]."
+        "mainbody": "Psychic scream was a powerful enchantment spell that caused devastating damage to the intellects of multiple creatures.\nThe spell unleashed a violent blast of psionic energy that hit up to ten creatures within a range of . Even creatures with a moderate animal intelligence were susceptible to this effect. In addition to the traumatic damage, the spell also rendered those who could not resist its effect stunned and unable to act for several seconds.\nIf a creature was killed by the spell, its head exploded (provided it had a head).\nThe spell only required a somatic component."
     }
 }

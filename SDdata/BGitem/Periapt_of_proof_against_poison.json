@@ -1,19 +1,5 @@
 {
     "document_data": {
-        "image": "PeriaptPoison.PNG",
-        "caption": "",
-        "name": "''Periapt of Proof against Poison''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Wondrous item<br />[[Magic]]al amulet",
-        "location": "[[Kara-Tur]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "2,500 [[gp]]",
-        "weight2e": "{{SI|1|lb|k}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -35,11 +21,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "The '''''periapt of proof against poison''''' was a type of [[magic]]al amulet that granted protective attributes and curative abilities to its wearer. They were found in the continent of [[Kara-Tur]]. [[Eunuch]]s who served as food-tasters for emperors would commonly wear these articles of jewelry.",
-        "Description": "The periapt was a large [[gem]]stone, hanging from a [[gold]] chain. Post-[[Second Sundering]] versions of the amulet consisted of a black gem pendant hanging from a [[silver]] chain.",
-        "Powers": "This amulet completely protected its wearer from magical and mundane [[poison]]s.",
-        "Notable Users": {
-            "Classes": "* [[Alchemist]]s often owned a ''periapt of proof against poison''.{{Cite dragon/49/Leomund's Tiny Hut: A recipe for the Alchemist|57}}"
-        }
+        "mainbody": "The periapt of proof against poison was a type of magical amulet that granted protective attributes and curative abilities to its wearer. They were found in the continent of Kara-Tur. Eunuchs who served as food-tasters for emperors would commonly wear these articles of jewelry.\nThe periapt was a large gemstone, hanging from a gold chain. Post-Second Sundering versions of the amulet consisted of a black gem pendant hanging from a silver chain.\nThis amulet completely protected its wearer from magical and mundane poisons.\n* Gathlarue had an amulet rendering her immune to all poisons in the mid-14 century DR.\n* Alchemists often owned a periapt of proof against poison."
     }
 }

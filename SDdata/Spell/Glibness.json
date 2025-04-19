@@ -1,27 +1,16 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "edition_1": "3e"
-    },
     "document_data": {
-        "variant": "",
-        "name": "Glibness",
-        "type": "",
-        "school5e": "[[Transmutation]]",
-        "level5e": "{{spell table|edition=5e|[[Bard]]|8|[[Warlock]]|8}}",
         "type5e": "",
         "refs5e": "",
         "keywords4e": "",
         "level4e": "",
         "type4e": "",
-        "school3e": "[[Transmutation]]",
+        "school3e": "Transmutation",
         "domains3e": "",
         "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Assassin]]|4|[[Bard]]|3|[[Celebrant of Sharess]]|3}}",
-        "type3e": "[http://en.wikipedia.org/wiki/Magic_%28gaming%29#Spell_systems Vancian]",
+        "level3e": "",
+        "type3e": "[http//en.wikipedia.org/wiki/Magic_%28gaming%29#Spell_systems Vancian]",
         "refs3e": "",
-        "mainbody": "'''''Glibness''''' was a [[transmutation]] spell that altered the caster's speech, making his or her elocution much more convincing and believable.",
-        "Effects": "The caster of this spell was blessed with an agility of speech that greatly increased the chance that a bluff would succeed. It even made magical means of detecting or preventing lies,<ref>{{Cite web/Player's Handbook v.3.5 Errata}} such as ''[[discern lies]]'', or a ''[[zone of truth]]'', difficult and more likely to fail. The silver tongue ability lasted for 10 minutes per experience level of the caster.",
-        "Components": "Only a [[somatic component]] was required to cast this spell, making it very subtle."
+        "mainbody": "Glibness was a transmutation spell that altered the casters speech, making his or her elocution much more convincing and believable.\nThe caster of this spell was blessed with an agility of speech that greatly increased the chance that a bluff would succeed. It even made magical means of detecting or preventing lies, such as discern lies, or a zone of truth, difficult and more likely to fail. The silver tongue ability lasted for 10 minutes per experience level of the caster.\nOnly a somatic component was required to cast this spell, making it very subtle."
     }
 }

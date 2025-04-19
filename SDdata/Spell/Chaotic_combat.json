@@ -1,15 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "name": "Chaotic Combat",
-        "school2e": "[[Evocation]]",
-        "spheres2e": "[[Chaos sphere|Chaos]]",
-        "level2e": "{{spell table|edition=2e|[[Chaos sphere|Chaos]]|4|[[Cleric]]|4|[[Crusader]]|4}}",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''Chaotic combat''' was an [[evocation]] spell that randomly increased or decreased a [[warrior]]'s chance to hit and be hit in combat.\n{{Stub/Spell}}",
-        "References": "{{refs}}\n[[Category:Evocation spells]]\n[[Category:Cleric spells]]\n[[Category:Crusader spells]]\n1ka3ycpabqcecwei8vksmo7sbm8r391"
+        "mainbody": "Chaotic combat was an evocation spell that randomly increased or decreased a warriors chance to hit and be hit in combat.\nCategoryEvocation spells\nCategoryCleric spells\nCategoryCrusader spells\n1ka3ycpabqcecwei8vksmo7sbm8r391"
     }
 }

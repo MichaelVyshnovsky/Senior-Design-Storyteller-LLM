@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Depth warning",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Divination]], [[Sea (school)|Sea]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|2}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Depth warning''''' was a [[spell]] unique to [[Zakhara]], the Land of Fate.",
-        "Effects": "The caster of this spell could tell sudden changes in depth, including obstacles such as reefs, while at sea.",
-        "Components": "This spell required a clear glass bead to cast. The bead was crushed during casting."
+        "mainbody": "Depth warning was a spell unique to Zakhara, the Land of Fate.\nThe caster of this spell could tell sudden changes in depth, including obstacles such as reefs, while at sea.\nThis spell required a clear glass bead to cast. The bead was crushed during casting."
     }
 }

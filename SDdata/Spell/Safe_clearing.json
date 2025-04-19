@@ -1,29 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Safe Clearing",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Abjuration]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Ranger]]|3}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -37,7 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Safe clearing''''' was an [[abjuration]] spell that a [[ranger]] could cast to make an area safe from all attacks, similar to that of ''[[sanctuary]]''. It affected an area 30 ft in radius and lasted for a number of hours. Anyone within the spell's area-of-effect or anyone passing through after it was cast would be hampered in attacking or harming others or casting any spells that would target another person.",
-        "References": "{{refs}}\n[[Category:Abjuration spells]]\n[[Category:Ranger spells]]\nrnjwfyk2t4ahn6xrnnl75tk8nxoavd7"
+        "mainbody": "Safe clearing was an abjuration spell that a ranger could cast to make an area safe from all attacks, similar to that of sanctuary. It affected an area 30 ft in radius and lasted for a number of hours. Anyone within the spells area-of-effect or anyone passing through after it was cast would be hampered in attacking or harming others or casting any spells that would target another person.\nCategoryAbjuration spells\nCategoryRanger spells\nrnjwfyk2t4ahn6xrnnl75tk8nxoavd7"
     }
 }

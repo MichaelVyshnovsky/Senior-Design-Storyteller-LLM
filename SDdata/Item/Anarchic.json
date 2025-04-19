@@ -1,24 +1,6 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Anarchic",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Weapon quality]]",
-        "creator": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "[[Evocation]] {{desc/chaotic}}",
-        "casterlevel3e": "7{{th}}",
+        "casterlevel3e": "7",
         "itemlevel3e": "",
         "value3e": "+2 equivalent",
         "weight3e": "",
@@ -38,9 +20,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Anarchic''''' was a [[weapon quality]] that could be added to any weapon. Infused with [[chaos]], the weapon became chaotically aligned and inflicted more damage to creatures of [[lawful]] alignment. Any lawful creature wielding an ''anarchic'' weapon would be weakened.",
-        "Creation": "The creator of an anarchic weapon had to be chaotic and know the spell ''[[chaos hammer]]''.",
-        "Uses": "Some veteran [[Thayan gladiator]]s had their horns, claws, and other natural weapons enhanced as ''anarchic'' weapons.",
-        "Notable Anarchic Weapons": "* ''[[Razor's Edge]]'', the personal weapon of the strife god [[Cyric]], was a ''+5 anarchic [[keen]] [[screaming]] [[wounding]] [[longsword]]''.\n* The ''[[Sword of Shadows]]'', the personal weapon of the traveler god [[Shaundakul]], was a ''+5 anarchic [[icy burst]] [[keen]] [[greatsword]]''.\n* ''[[Battle Prowess]]'', the personal weapon of the war god [[Tempus]], was a ''+3 anarchic [[keen]] [[speed]] [[battleaxe]]''."
+        "mainbody": "Anarchic was a weapon quality that could be added to any weapon. Infused with chaos, the weapon became chaotically aligned and inflicted more damage to creatures of lawful alignment. Any lawful creature wielding an anarchic weapon would be weakened.\nThe creator of an anarchic weapon had to be chaotic and know the spell chaos hammer.\nSome veteran Thayan gladiators had their horns, claws, and other natural weapons enhanced as anarchic weapons. \n* Razors Edge, the personal weapon of the strife god Cyric, was a +5 anarchic keen screaming wounding longsword.\n* The Sword of Shadows, the personal weapon of the traveler god Shaundakul, was a +5 anarchic icy burst keen greatsword.\n* Battle Prowess, the personal weapon of the war god Tempus, was a +3 anarchic keen speed battleaxe."
     }
 }

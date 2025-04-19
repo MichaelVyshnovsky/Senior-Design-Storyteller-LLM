@@ -1,46 +1,5 @@
 {
     "document_data": {
-        "image": "HatDisguise-TC.png",
-        "caption": "",
-        "name": "''Hat of Disguise''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Wondrous item",
-        "location": "",
-        "value1e": "7,500 [[gp]]",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "2,500 gp",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "",
-        "refs3e": "",
-        "level4e": "",
-        "value4e": "",
-        "weight4e": "",
-        "refs4e": "",
-        "rarity5e": "Uncommon",
-        "attunement5e": "Required",
-        "school5e": "",
-        "level5e": "",
-        "value5e": "",
-        "weight5e": "",
-        "refs5e": "",
-        "communication": "",
-        "languages": "",
-        "alignment": "",
-        "mainbody": "A '''''hat of disguise''''' was a magical hat that allowed its wearer to assume any appearance.\n\n{{Quote|Just concentrate on what you want to look like, and the hat does the rest.{{Cite dragon/262/The Ecology of the Jermlaine|56}}}}",
-        "Powers": "While wearing the hat, the user could cast the ''[[disguise self]]'' spell at will. The spell only worked while the hat was being worn.",
-        "Varieties": "In the land of [[Zakhara]], a ''hat of disguise'' often took the form of [[fez]]zes, [[keffiyeh]]s, and [[turban]]s.{{cite book/Land of Fate/Fortunes and Fates|54}}",
-        "Notable Owners": {
-            "Groups": "* All agents of the [[Hands of Gond]], a [[Lantan]] spy network, owned ''hats of disguise''.{{Cite polyhedron/64/The Everwinking Eye: Daily Life in Mulmaster|21}}",
-            "Individuals": "* [[Celerum|Celerum the Black]] of the [[Host Tower of the Arcane]] used a ''hat of disguise'' to assume the identity of [[Boswell Peddywinkle]], a trader and caravaneer, in his quest for the [[Accursed Tower]] of [[Icewind Dale]].\n* The [[mercenary]] [[Jarlaxle Baenre]] owned a ''hat of disguise'', which he used on numerous occasions to assume different identities in his various dealings."
-        }
+        "mainbody": "hat of disguise was a magical hat that allowed its wearer to assume any appearance.\nWhile wearing the hat, the user could cast the disguise self spell at will. The spell only worked while the hat was being worn.\nIn the land of Zakhara, a hat of disguise often took the form of fezzes, keffiyehs, and turbans.\n* All agents of the Hands of Gond, a Lantan spy network, owned hats of disguise.\n* Celerum the Black of the Host Tower of the Arcane used a hat of disguise to assume the identity of Boswell Peddywinkle, a trader and caravaneer, in his quest for the Accursed Tower of Icewind Dale.\n* The mercenary Jarlaxle Baenre owned a hat of disguise, which he used on numerous occasions to assume different identities in his various dealings."
     }
 }

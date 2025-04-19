@@ -1,21 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Toren",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Daggerdale]], [[Dalelands]]",
-        "formerhomes": "",
-        "race": "[[Half-orc]]",
-        "alignment2e": "[[Neutral evil]]",
-        "class2e": "{{class table|edition=2e|[[Fighter]]|4}}",
         "refs2e": "",
         "sex": "Male",
         "age": "",
@@ -28,7 +12,6 @@
         "deathnotes": "",
         "destroyed": "",
         "destroyednotes": "",
-        "mainbody": "rules          =\n}}\n'''Toren''' was a [[half-orc]] [[fighter]] and a member of the [[Zhentarim]]. He was a high-ranking member of the [[Zhent]] occupation army in [[Daggerdale]] in [[1369 DR]].",
-        "History": "Toren was a brutal half-orc fighter in command of part of the Zhent army in [[Dagger Falls]]. During the kidnapping of [[Randal Morn]], he had many skirmished with the adventures recruited to free the dale's rightful heir.\n \nAt last, in the final battle against the resistance fighters, Toren and some of his men refused to accept defeat and retreated into a tavern., There they fought to the last man against Morn's forces."
+        "mainbody": "| rules          =\nToren was a half-orc fighter and a member of the Zhentarim. He was a high-ranking member of the Zhent occupation army in Daggerdale in 1369 DR.\nToren was a brutal half-orc fighter in command of part of the Zhent army in Dagger Falls. During the kidnapping of Randal Morn, he had many skirmished with the adventures recruited to free the dales rightful heir.\nAt last, in the final battle against the resistance fighters, Toren and some of his men refused to accept defeat and retreated into a tavern., There they fought to the last man against Morns forces."
     }
 }

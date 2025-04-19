@@ -1,36 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "360|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Wound",
-        "deity": "[[Bhaal]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Necromancy]]",
-        "spheres2e": "[[Necromantic sphere|Necromantic]]",
-        "level2e": "{{Spell table|edition=2e|[[Cleric]]|5|[[Necromantic sphere|Necromantic]]|5}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -38,7 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Wound''''' was a [[divine]] [[necromancy]] [[spell]] that was granted to [[specialty priest]]s of [[Bhaal]], up until the [[Time of Troubles]]. It functioned in the same manner as ''[[cause serious wounds]]'' except that it could be cast up to {{SI|360|ft|long=yes}} away from its the target.",
-        "Components": "The casting of this spell only required [[verbal component|verbal]] and [[somatic component]]s."
+        "mainbody": "Wound was a divine necromancy spell that was granted to specialty priests of Bhaal, up until the Time of Troubles. It functioned in the same manner as cause serious wounds except that it could be cast up to  away from its the target.\nThe casting of this spell only required verbal and somatic components."
     }
 }

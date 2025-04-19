@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Find the Gap",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Divination]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{spell table|edition=3e|[[Assassin]]|3|[[Paladin]]|3|[[Ranger]]|3}}",
         "refs3e": "",
         "reversible2e": "",
         "school2e": "",
@@ -42,8 +12,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Find the gap''''' was a spell used to bypass armor and shields of many kinds.{{cite book/Spell Compendium|91}}",
-        "Effects": "For at least half a minute, the one who employed the spell became so cognizant of their foes' weak points that some of their attacks completely bypassed all armor, shields, and even bodily toughness. They were able to loose roughly ten attacks of such precision in any given minute.",
-        "Components": "The spell called only for [[verbal component]]s."
+        "mainbody": "Find the gap was a spell used to bypass armor and shields of many kinds.\nFor at least half a minute, the one who employed the spell became so cognizant of their foes weak points that some of their attacks completely bypassed all armor, shields, and even bodily toughness. They were able to loose roughly ten attacks of such precision in any given minute.\nThe spell called only for verbal components."
     }
 }

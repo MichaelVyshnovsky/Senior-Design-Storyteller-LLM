@@ -1,32 +1,5 @@
 {
-    "template_data": {
-        "4|lb|k|long": "yes",
-        "6'|'\"|long": "yes",
-        "9'|'\"|long": "yes"
-    },
     "document_data": {
-        "image": "Staff of Corrosion.png",
-        "caption": "",
-        "name": "''Staff of Corrosion''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Staff]]",
-        "creator": "",
-        "location": "[[Icewind Dale]], [[Northwest Faerûn]]<br/>[[Neverwinter]], [[Sword Coast North]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "2,834 [[gp]]",
-        "weight3e": "{{SI|4|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "+4,+5,+6",
         "value4e": "",
@@ -43,10 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Staves of corrosion''''' were [[enchanted]] [[staves]] that exuded [[acid]].",
-        "Description": "''Staves of corrosion'' were simple-looking wooden [[quarterstaves]] from {{SI|6'|'\"|long=yes}} to {{SI|9'|'\"|long=yes}} long. They were sometimes carved out of stout [[oak]] and impeded with [[jade]] stones.",
-        "Powers": "In battle, ''staves of corrosion'' exuded [[acid]] when hitting a target. Some stronger versions of the item existed, bearing potent damage and aiming enchantments.",
-        "History": "In the {{YearlinkName|1312}}, ''staves of corrosion'' could be found in the [[Icewind Dale]] region of [[northwest Faerûn]].",
-        "Notable Owners": "* [[Elytharra Dinnesmore]], an [[enchantress]] and wife of Speaker [[Ulbrec Dinnesmore]] of [[Targos]] in [[Icewind Dale]] ''circa'' the {{YearlinkName|1312}}."
+        "mainbody": "Staves of corrosion were enchanted staves that exuded acid.\nStaves of corrosion were simple-looking wooden quarterstaves from  to  long. They were sometimes carved out of stout oak and impeded with jade stones.\nIn battle, staves of corrosion exuded acid when hitting a target. Some stronger versions of the item existed, bearing potent damage and aiming enchantments.\nIn the , staves of corrosion could be found in the Icewind Dale region of northwest Faerûn.\n* Elytharra Dinnesmore, an enchantress and wife of Speaker Ulbrec Dinnesmore of Targos in Icewind Dale circa the ."
     }
 }

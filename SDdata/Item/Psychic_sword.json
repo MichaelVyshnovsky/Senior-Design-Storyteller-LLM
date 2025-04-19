@@ -1,46 +1,5 @@
 {
-    "template_data": {
-        "image": ""
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Psychic Sword''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Psionic item",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "",
-        "refs3e": "",
-        "level4e": "",
-        "value4e": "",
-        "weight4e": "",
-        "refs4e": "",
-        "rarity5e": "",
-        "attunement5e": "",
-        "school5e": "",
-        "level5e": "",
-        "value5e": "",
-        "weight5e": "",
-        "refs5e": "",
-        "communication": "",
-        "languages": "",
-        "alignment": "",
-        "mainbody": "A '''''psychic sword''''' was a [[psionic]] [[longsword]] that was inspired by the [[githyanki silver sword]]s. It replaced [[magic]] with psionics however.",
-        "Description": "The blade was dark and inert until it was wielded by a being of intelligence. When that occurred, the psionic circuitry in the sword would glow.",
-        "Powers": "Depending on the user's intelligence, the powers of a ''psychic sword'' differed and it was likely that different blades provided different powers. Either way, the powers were cumulative: \n* Any blade of this kind acted like a mundane sword to a user who was able to pick up new ideas quickly and learn easily.\n* Such a blade was barely usable to a user who could solve most problems with little effort. It was just easier to hit the wielder's target.\n* A wielder of the blade who was fairly intelligent would find it was even easier to hit one's target, and that the cut bit deeper. Beyond this, while drawn, the sword granted the user ''[[non-detection]]'' from both magical and psionic means.\n* A genius who wielded the blade would find it even easier to hit their opponent, while cuts were even deeper. The user of the sword was given ''non-detection'' and also ''[[body equilibrium]]'', which behaved identically to the devotion from the psionic discipline of [[psychometabolism]].\n* A wielder who was highly knowledgeable found that the cuts from the blade went even deeper. The wielder gained ''non-detection'' and ''body equilibrium''. On top of this, the blade was able to ignore enchantments half of the time, even from items.",
-        "Users": "It was often supplied to illithid sentinels in major tunnels that led into [[Oryndoll]].<ref name=\"DDGttU>"
+        "mainbody": "psychic sword was a psionic longsword that was inspired by the githyanki silver swords. It replaced magic with psionics however.\nThe blade was dark and inert until it was wielded by a being of intelligence. When that occurred, the psionic circuitry in the sword would glow.\nDepending on the users intelligence, the powers of a psychic sword differed and it was likely that different blades provided different powers. Either way, the powers were cumulative \n* Any blade of this kind acted like a mundane sword to a user who was able to pick up new ideas quickly and learn easily.\n* Such a blade was barely usable to a user who could solve most problems with little effort. It was just easier to hit the wielders target.\n* A wielder of the blade who was fairly intelligent would find it was even easier to hit ones target, and that the cut bit deeper. Beyond this, while drawn, the sword granted the user non-detection from both magical and psionic means.\n* A genius who wielded the blade would find it even easier to hit their opponent, while cuts were even deeper. The user of the sword was given non-detection and also body equilibrium, which behaved identically to the devotion from the psionic discipline of psychometabolism.\n* A wielder who was highly knowledgeable found that the cuts from the blade went even deeper. The wielder gained non-detection and body equilibrium. On top of this, the blade was able to ignore enchantments half of the time, even from items.\nIt was often supplied to illithid sentinels in major tunnels that led into Oryndoll."
     }
 }

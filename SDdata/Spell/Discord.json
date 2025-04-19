@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Discord",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Enchantment]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|5}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Discord''''' was an [[enchantment]] [[spell]] that caused any people or creatures hostile to the caster to attack their nearby companions, friends and allies.",
-        "Effects": "Upon casting this spell, any being caught within its area of affect, that was considered an enemy or combatant by the caster, immediately began assaulting their friends and comrades. The area was a circle that extended out from the caster for at least 90' (27.4 m), but continued further depending on the skill and power of the caster. Its effects lasted for a matter of seconds and were similarly lengthened by the prowess of the caster.\n\nThe spell had no effects on anyone the caster did not consider hostile.",
-        "Usage": "This spell was unique to the [[elves]] of [[Evermeet]]. The specifications of its casting were a well-kept secret of island realm.",
-        "Components": "In addition to [[verbal]] and [[somatic component]]s, this spell required the use of a small mirror."
+        "mainbody": "Discord was an enchantment spell that caused any people or creatures hostile to the caster to attack their nearby companions, friends and allies.\nUpon casting this spell, any being caught within its area of affect, that was considered an enemy or combatant by the caster, immediately began assaulting their friends and comrades. The area was a circle that extended out from the caster for at least 90 (27.4 m), but continued further depending on the skill and power of the caster. Its effects lasted for a matter of seconds and were similarly lengthened by the prowess of the caster.\nThe spell had no effects on anyone the caster did not consider hostile.\nThis spell was unique to the elves of Evermeet. The specifications of its casting were a well-kept secret of island realm.\nIn addition to verbal and somatic components, this spell required the use of a small mirror."
     }
 }

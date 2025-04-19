@@ -1,46 +1,5 @@
 {
-    "template_data": {
-        "es|proo|AR|audio": "Espruar.ogg",
-        "refs": "and the script used to write the [[Elven language]]."
-    },
     "document_data": {
-        "image": "Espruar-5e.jpg",
-        "caption": "Letters and numerals of Espruar.",
-        "name": "Espruar",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Writing script",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "",
-        "refs3e": "",
-        "level4e": "",
-        "value4e": "",
-        "weight4e": "",
-        "refs4e": "",
-        "rarity5e": "",
-        "attunement5e": "",
-        "school5e": "",
-        "level5e": "",
-        "value5e": "",
-        "weight5e": "",
-        "refs5e": "",
-        "communication": "",
-        "languages": "",
-        "alignment": "",
-        "mainbody": "'''Espruar''' ({{Pronounce|es|proo|AR|audio=Espruar.ogg|refs= and the script used to write the [[Elven language]].",
-        "Description": "[[File:A_true_friend-5e.jpg|thumb|350px|''\"A true friend<br />As the trees and the water<br />Are true friends.\"'']]\nEspruar was a graceful and fluid script. It was also used as the writing system for the [[Dambrathan language]].\n\nThe script was also used by mortals when writing in [[Deep Speech]], the language of [[aberration]]s, as it had no native script of its own.",
-        "History": "The Espruar script was originally developed by the moon elves, but had been subsequently adopted by [[sun elves]], [[drow]], and other elven peoples as their preferred script, remaining so for several millennia.\n\nAround {{Yearlink|1357}} and by the late 15{{th}} century DR, most elves across [[Faerûn]] used it to render messages, either in [[Common]] or in their own language. The language was also used on [[Evermeet]].{{Cite dragon/Speaking in Tongues|26}}\n\nBy {{Yearlink|1372}}, a variant of the Espruar script was commonly in use, with characters that differed substantially from the ones in use in previous and subsequent decades."
+        "mainbody": "spruar ( and by the late 15 century DR, most elves across Faerûn used it to render messages, either in Common or in their own language. The language was also used on Evermeet.\nBy , a variant of the Espruar script was commonly in use, with characters that differed substantially from the ones in use in previous and subsequent decades."
     }
 }

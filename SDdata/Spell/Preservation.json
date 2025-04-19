@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Preservation",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]/[[necromancy]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|2}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Preservation''''' was an [[alteration]]/[[necromancy]] [[spell]] that preserved uncooked food or meat.",
-        "Effects": "By casting this spell, a [[mage]] maintained food or meat in a state of relative freshness. In the case of animal flesh, it was kept as if creature had just recently been killed.",
-        "Usage": "This spell could be used to prevent the decay of a [[humanoid]] body, in preparation for the individual to be ''[[Resurrection (spell)|resurrected]]'' (in a manner similar to ''[[gentle repose]]''). If cast on a [[zombie]], [[lich]] or similar [[undead]] being, it prevented further decay of their body.",
-        "Casting": "This spell required [[verbal]], [[somatic]] and material components in its casting, the latter of which was a single pinch of salt."
+        "mainbody": "Preservation was an alteration/necromancy spell that preserved uncooked food or meat.\nBy casting this spell, a mage maintained food or meat in a state of relative freshness. In the case of animal flesh, it was kept as if creature had just recently been killed.\nThis spell could be used to prevent the decay of a humanoid body, in preparation for the individual to be resurrected (in a manner similar to gentle repose). If cast on a zombie, lich or similar undead being, it prevented further decay of their body.\nThis spell required verbal, somatic and material components in its casting, the latter of which was a single pinch of salt."
     }
 }

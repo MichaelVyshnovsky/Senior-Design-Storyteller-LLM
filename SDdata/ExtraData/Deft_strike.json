@@ -1,18 +1,8 @@
 {
-    "template_data": {
-        "variant": "exploit",
-        "variant_1": "exploit",
-        "edition": "4e",
-        "variant_2": "exploit"
-    },
     "document_data": {
-        "type": "At-Will",
-        "name": "Deft Strike",
-        "keywords4e": "{{desc/martial|variant=exploit}}{{desc/weapon|variant=exploit}}",
-        "level4e": "{{spell table|edition=4e|variant=exploit|[[Rogue]]|1}}",
+        "level4e": "",
         "type4e": "At-will",
         "refs4e": "",
-        "mainbody": "'''''Deft strike''''' was a [[rogue]] [[exploit]] that gave a better chance to hit by out-maneuvering an opponent.",
-        "References": "{{refs}}\n2qo133crpz9r14cu4hv5qmxgobx304r"
+        "mainbody": "Deft strike was a rogue exploit that gave a better chance to hit by out-maneuvering an opponent.\n2qo133crpz9r14cu4hv5qmxgobx304r"
     }
 }

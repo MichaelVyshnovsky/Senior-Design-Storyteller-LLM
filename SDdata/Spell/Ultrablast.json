@@ -1,32 +1,9 @@
 {
-    "template_data": {
-        "variant": "psionic power",
-        "edition": "3e",
-        "variant_1": "psionic power",
-        "50|ft|long": "yes",
-        "100|ft|long": "yes",
-        "10|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Ultrablast",
-        "deity": "",
-        "inventor": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "discipline3e": "[[Telepathy]]",
-        "mantles3e": "[[Destruction mantle|Destruction]]",
-        "descriptors3e": "{{desc/mind-affecting|variant=psionic power}}",
-        "level3e": "{{Spell table|edition=3e|variant=psionic power|[[Destruction mantle|Destruction]]|7|[[Psion]]|7|[[Wilder]]|7}}",
+        "level3e": "",
         "type3e": "Standard power",
-        "refs3e": "<ref>",
-        "discipline2e": "[[Metapsionic]]",
+        "refs3e": "",
+        "discipline2e": "Metapsionic",
         "level2e": "Major (Science)",
         "type2e": "Standard power",
         "wild2e": "",
@@ -34,12 +11,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Ultrablast''''' was a major [[psionic]] science of the [[metapsionic]] and later [[telepathy]] [[discipline]]s, that allowed a [[psion]] or [[wilder]] to unleash a powerfully destructive wave of psychic energy.",
-        "Effects": "This power allowed a psionicist to send out overwhelming thought waves, a horrid psychic shriek, from their subconscious. This shriek would penetrate and disrupt the soft tissues of brains within the blast radius.\n\nPrior to [[1372 DR]],{{Cite web/Class Chronicles: Psionic Classes}} ''ultrablast'' had an effective radius of {{SI|50|ft|long=yes}} out from the user. It would cause them to pass out and potentially caused such mental trauma to the psyche that any affected psionicist could lose all of their psionic powers. The only way to recover from such an effect was to undergo ''[[psychic surgery]]''.\n\nThe power also carried a significant risk for the user themselves. ''Ultrablast'' could potentially backfire and, if it did, it could either kill the psionicist that attempted to use it or send them into a comatose state for anywhere between a single day to a [[tenday]]. In the latter scenario, the psionicist would also lose all access to their psionic powers for a period ranging from 2 to 12 days.\n\nFollowing the year 1372 DR,In ''[[Psionics Handbook]]'', the range for this power was given as \"{{SI|100|ft|long=yes}} + {{SI|10|ft|long=yes}} per level\". In the ''[[Expanded Psionics Handbook]]'', this range was revised down to just {{SI|15|ft}}, putting it in line with the power's Area of Effect range.",
-        "Displays": "Manifesting this power produced a standard auditory [[display]]. This took the form of a psionic \"grumbling\", that was audible to both psionic and non-psionic individuals.",
-        "Known Users": {
-            "Creatures & Sentient Races": "* [[Amethyst dragon]]s, a species of [[gem dragon]].\n* [[Phrenic creature]]s.<ref>",
-            "Individuals": "* Lord [[Githon]], a [[githyanki]] warrior.<ref>{{Cite organized play/LC/A Meeting of Brains|18}}\n* [[Mei-liang]], a powerful [[human]] psionicist from [[Kara-Tur]].<ref>{{Cite organized play/LC/The Lacquered Chest|38-39}}\n* [[Ryvvik Dlardrageth]], a psionic [[fey'ri]].<ref>\n* [[Vladmir]], a githyanki warrior and commander of the [[Mindspear Battalion]].<ref>{{Cite dungeon/43/Into The Silver Realm|70}}"
-        }
+        "mainbody": "Ultrablast was a major psionic science of the metapsionic and later telepathy disciplines, that allowed a psion or wilder to unleash a powerfully destructive wave of psychic energy.\nThis power allowed a psionicist to send out overwhelming thought waves, a horrid psychic shriek, from their subconscious. This shriek would penetrate and disrupt the soft tissues of brains within the blast radius.\nPrior to 1372 DR, ultrablast had an effective radius of  out from the user. It would cause them to pass out and potentially caused such mental trauma to the psyche that any affected psionicist could lose all of their psionic powers. The only way to recover from such an effect was to undergo psychic surgery.\nThe power also carried a significant risk for the user themselves. Ultrablast could potentially backfire and, if it did, it could either kill the psionicist that attempted to use it or send them into a comatose state for anywhere between a single day to a tenday. In the latter scenario, the psionicist would also lose all access to their psionic powers for a period ranging from 2 to 12 days.\nFollowing the year 1372 DR,In Psionics Handbook, the range for this power was given as \" +  per level\". In the Expanded Psionics Handbook, this range was revised down to just , putting it in line with the powers Area of Effect range.\nManifesting this power produced a standard auditory display. This took the form of a psionic \"grumbling\", that was audible to both psionic and non-psionic individuals.\n* Amethyst dragons, a species of gem dragon.\n* Phrenic creatures.\n* Lord Githon, a githyanki warrior.\n* Mei-liang, a powerful human psionicist from Kara-Tur.\n* Ryvvik Dlardrageth, a psionic feyri.\n* Vladmir, a githyanki warrior and commander of the Mindspear Battalion."
     }
 }

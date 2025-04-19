@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "0.3|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Gelugon's Gouge.png",
-        "caption": "",
-        "name": "''Gelugon's Gouge''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Spear]]",
-        "creator": "",
-        "location": "[[Liam's Hold]], [[Delimbiyr Vale]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+1",
-        "value3e": "",
-        "weight3e": "{{SI|0.3|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Gelugon's Gouge''''' was an [[enchanted]] [[spear]] fashioned out of a tail of an [[ice devil]].",
-        "Powers": "This [[polearm]]'s head was a tail spike of an unlucky gelugon. The weapon was always cold to the touch. It was imbued with a ''+1'' enchantment and burned its targets with the ice devil's freezing magic. Upon a successful strike, the spear had a chance of ''[[slow]]ing'' its target down.",
-        "History": "One of ''Gelugon's Gouge'' magic weapons was hidden deep inside a vault of the Temple of [[Bhaal]] in the town of [[Liam's Hold]], later known as the [[Stronghold (Liam's Hold)|Stronghold]]. The enchanted spear was deposited there sometime before the temple's fall and abandonment during the [[Time of Troubles]]. As of [[1372 DR]], the spear was still locked behind the vault's hidden door and guarded by three [[gargoyle]]s."
+        "mainbody": "Gelugons Gouge was an enchanted spear fashioned out of a tail of an ice devil.\nThis polearms head was a tail spike of an unlucky gelugon. The weapon was always cold to the touch. It was imbued with a +1 enchantment and burned its targets with the ice devils freezing magic. Upon a successful strike, the spear had a chance of slowing its target down.\nOne of Gelugons Gouge magic weapons was hidden deep inside a vault of the Temple of Bhaal in the town of Liams Hold, later known as the Stronghold. The enchanted spear was deposited there sometime before the temples fall and abandonment during the Time of Troubles. As of 1372 DR, the spear was still locked behind the vaults hidden door and guarded by three gargoyles."
     }
 }

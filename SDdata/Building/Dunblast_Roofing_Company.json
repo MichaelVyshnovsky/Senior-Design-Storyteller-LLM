@@ -1,16 +1,8 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Dunblast Roofing Company",
-        "aliases": "",
-        "type": "Woodshop",
-        "architecture": "",
-        "floors": "2",
-        "location": "[[Coffinmarch]], [[Waterdeep/Trades Ward|Trades Ward]], [[Waterdeep]]<br />{{Former}} [[Ironpost Street]], Trades Ward, Waterdeep",
         "built": "",
         "destroyed": "",
-        "owner": "[[Elemos Dunblast]]",
+        "owner": "Elemos Dunblast",
         "staff": "",
         "occupants": "",
         "services": "Carpentry and roofing",
@@ -34,9 +26,6 @@
         "inhabitants": "yes",
         "locations": "",
         "organizations": "",
-        "mainbody": "'''Dunblast Roofing Company''' was a carpentry business in the city of [[Waterdeep]] that was owned by [[Elemos Dunblast]] in the 14{{th}} century [[DR]].",
-        "Location": "This shop was located along the corner of [[Ironpost Street]] and [[Zendulth Street]], This lasted until the late 14{{th}} century DR, at which point the business moved from Ironpost Street to [[Coffinmarch]].",
-        "Structure": "This shop's building stood two stories tall.",
-        "Services": "The Dunblast Roofing Company that offered carpentry and roofing services to customers."
+        "mainbody": "Dunblast Roofing Company was a carpentry business in the city of Waterdeep that was owned by Elemos Dunblast in the 14 century DR.\nThis shop was located along the corner of Ironpost Street and Zendulth Street, This lasted until the late 14 century DR, at which point the business moved from Ironpost Street to Coffinmarch.\nThis shops building stood two stories tall.\nThe Dunblast Roofing Company that offered carpentry and roofing services to customers."
     }
 }

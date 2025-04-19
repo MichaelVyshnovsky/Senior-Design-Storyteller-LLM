@@ -1,17 +1,7 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Dundaden's Armory",
-        "aliases": "",
-        "type": "Shop, smithy",
-        "architecture": "",
-        "floors": "",
-        "location": "[[Eileanar]], [[Netheril]]",
-        "built": "",
-        "destroyed": "{{Yearlink|-339}} during [[Karsus's Folly]]",
-        "owner": "[[Dundaden]]",
-        "staff": "[[Macchi]], [[Lucio]]",
+        "owner": "Dundaden",
+        "staff": "Macchi, Lucio",
         "occupants": "",
         "services": "Armorcrafting",
         "worship": "",
@@ -34,8 +24,6 @@
         "inhabitants": "",
         "locations": "",
         "organizations": "",
-        "mainbody": "'''Dundaden's Armory''' was a renowned smithy and [[armor]] shop in [[Eileanar]] until its destruction in {{yearlinkConvert|3520|NY}}.",
-        "Location": "The Armory lay on the eastern edge of the city, between the [[Netheril Mint]] and [[Constabulary Branch Three]].",
-        "Services": "[[Dundaden]] was reputed to be the finest armorer in Karsus Enclave and potentially all of [[Netheril]]. She and her employees [[Macchi]] and [[Lucio]] worked together to make exceptional armor, working from raw metal to finished products."
+        "mainbody": "Dundadens Armory was a renowned smithy and armor shop in Eileanar until its destruction in .\nThe Armory lay on the eastern edge of the city, between the Netheril Mint and Constabulary Branch Three.\nDundaden was reputed to be the finest armorer in Karsus Enclave and potentially all of Netheril. She and her employees Macchi and Lucio worked together to make exceptional armor, working from raw metal to finished products."
     }
 }

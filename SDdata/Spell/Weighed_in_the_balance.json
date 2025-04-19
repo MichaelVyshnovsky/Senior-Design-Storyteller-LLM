@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Weighed in the Balance",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Necromancy]]",
-        "domains3e": "[[Balance domain|Balance]]",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Balance domain|Balance]]|9}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''Weighed in the balance''' was a [[necromancy]] [[spell]] that healed those who were in balance with nature and harmed those who were not.",
-        "Effects": "''Weighed in the balance'' was a spell that affected all creatures within 30 feet (9 meters) of the caster. The exact effect, which the affected creatures felt depended on two factors, what kind of [[alignment|moral and ethical outlook]] the affected creature had and whether the affected creature was an [[undead]].\n\nIf a creature had a [[true neutral]] outlook, meaning no extreme ethical or moral views, the creature experienced a ''[[cure critical wounds]]'' effect. If the creature had an extreme outlook regarding ethics or morals, but a balanced view on the other, meaning [[chaotic neutral]], [[neutral evil]], and [[neutral good]] creatures, suffered an ''[[inflict light wounds]]'' effect. Creatures with extreme views on life, meaning [[chaotic evil]], [[chaotic good]], [[lawful evil]], and [[lawful good]] creatures, suffered an ''[[inflict critical wounds]]'' effect.\n\nThe second criteria, whether the affected creature was an undead or not, determined whether the creature came under the effects of a ''[[heal]]'' effect.",
-        "Components": "''Weighed in the balance'' required merely [[verbal component]]s."
+        "mainbody": "Weighed in the balance was a necromancy spell that healed those who were in balance with nature and harmed those who were not.\nWeighed in the balance was a spell that affected all creatures within 30 feet (9 meters) of the caster. The exact effect, which the affected creatures felt depended on two factors, what kind of moral and ethical outlook the affected creature had and whether the affected creature was an undead.\nIf a creature had a true neutral outlook, meaning no extreme ethical or moral views, the creature experienced a cure critical wounds effect. If the creature had an extreme outlook regarding ethics or morals, but a balanced view on the other, meaning chaotic neutral, neutral evil, and neutral good creatures, suffered an inflict light wounds effect. Creatures with extreme views on life, meaning chaotic evil, chaotic good, lawful evil, and lawful good creatures, suffered an inflict critical wounds effect.\nThe second criteria, whether the affected creature was an undead or not, determined whether the creature came under the effects of a heal effect.\nWeighed in the balance required merely verbal components."
     }
 }

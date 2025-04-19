@@ -1,19 +1,5 @@
 {
-    "template_data": {
-        "k|long": "yes",
-        "30|mi|k|long": "yes",
-        "60|mi|k|long": "yes",
-        "15|mi|k|long": "yes"
-    },
     "document_data": {
-        "image": "Hitan.JPG",
-        "caption": "A map showing Hitan Island near Fahhas.",
-        "name": "Hitan Island",
-        "alt spelling": "",
-        "aliases": "",
-        "type": "Island",
-        "region": "[[Golden Gulf]], [[Interior Zakhara]]",
-        "size": "{{SI|900|sq mi|k|long=yes}}",
         "elevation": "",
         "depth": "",
         "capital": "",
@@ -55,7 +41,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "'''Hitan Island''' was an island within the [[Golden Gulf]] of [[interior Zakhara]].{{Cite interactive atlas|B2bSWIc}}",
-        "Geography": "Hitan Island sat approximately {{SI|30|mi|k|long=yes}} offshore due west of the mainland of the northern section of the [[Cities of the Pantheon]] region. The elongated island measured roughly {{SI|60|mi|k|long=yes}} in length and {{SI|15|mi|k|long=yes}} wide. Much of the shore was rocky. There were no settlements on Hitan Island as of [[1367 DR]]{{AQ-time}}. Four smaller unamed islands lay off of Hitan Island's northeast corner."
+        "mainbody": "Hitan Island was an island within the Golden Gulf of interior Zakhara.\nHitan Island sat approximately  offshore due west of the mainland of the northern section of the Cities of the Pantheon region. The elongated island measured roughly  in length and  wide. Much of the shore was rocky. There were no settlements on Hitan Island as of 1367 DR. Four smaller unamed islands lay off of Hitan Islands northeast corner."
     }
 }

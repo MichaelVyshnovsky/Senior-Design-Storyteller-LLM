@@ -1,23 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Disarming",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Weapon quality]]",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "7{{th}}",
         "itemlevel3e": "",
         "value3e": "+2",
         "weight3e": "",
@@ -37,7 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Disarming''''' was a [[weapon quality]] that let a weapon be used to disarm another.",
-        "Powers": "It made it easier for the wielder to disarm an opponent's weapon. It also eliminated any advantage the wielder's opponent received from weapon size or from two-handed weaponry."
+        "mainbody": "Disarming was a weapon quality that let a weapon be used to disarm another.\nIt made it easier for the wielder to disarm an opponents weapon. It also eliminated any advantage the wielders opponent received from weapon size or from two-handed weaponry."
     }
 }

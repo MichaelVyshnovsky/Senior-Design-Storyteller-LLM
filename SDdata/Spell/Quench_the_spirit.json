@@ -1,42 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Quench the Spirit",
-        "deity": "[[Myrkul]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Necromancy]]",
-        "spheres2e": "[[Necromantic sphere|Necromantic]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|6}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -44,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Quench the spirit''''' was a powerful [[Divine magic|divine]] [[necromancy]] [[spell]] used by priests devoted to [[Myrkul]], enabling them to extinguish a victim's life force.",
-        "Effects": "This spell allowed the caster to kill any target they pointed at with a bone finger when the bone was snapped. The victim could not be raised or resurrected. [[Human]] victims of this spell could be raised several days later by the caster as [[ju-ju zombie]]s under their control. A simple ceremony involving the priest's [[holy symbol]] and six vials of [[unholy water]] was required to do this.",
-        "Components": "In addition to [[verbal component|verbal]] and [[somatic component]]s, this spell required as a [[material component]] a [[human]] finger bone to cast."
+        "mainbody": "Quench the spirit was a powerful divine necromancy spell used by priests devoted to Myrkul, enabling them to extinguish a victims life force.\nThis spell allowed the caster to kill any target they pointed at with a bone finger when the bone was snapped. The victim could not be raised or resurrected. Human victims of this spell could be raised several days later by the caster as ju-ju zombies under their control. A simple ceremony involving the priests holy symbol and six vials of unholy water was required to do this.\nIn addition to verbal and somatic components, this spell required as a material component a human finger bone to cast."
     }
 }

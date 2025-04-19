@@ -1,27 +1,5 @@
 {
-    "template_data": {
-        "10|foot|long": "yes",
-        "adj": "yes",
-        "10|feet|long": "yes",
-        "70|foot|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Baths of Garimsharr",
-        "aliases": "",
-        "type": "Ruined Bathhouse",
-        "architecture": "",
-        "floors": "",
-        "location": "[[Phoenix (city)|Phoenix]], [[Raurin]]",
-        "built": "",
-        "destroyed": "",
-        "owner": "",
-        "staff": "",
-        "occupants": "",
-        "services": "",
-        "worship": "",
-        "basicrefs": "{{cite book/Desert of Desolation|92}}{{cite book/Desert of Desolation|93}}",
         "ownertable": "",
         "stafftable": "",
         "histrefs": "",
@@ -40,8 +18,6 @@
         "inhabitants": "",
         "locations": "",
         "organizations": "",
-        "mainbody": "The '''Baths of Garimsharr''' were a bathhouse ruin in [[Phoenix (city)|Phoenix]].",
-        "Structure": "The Baths of Garimsharr were a massive rose-colored building; it had three entrances, all of which led into a {{SI|10|foot|long=yes|adj=yes}}wide gallery {{SI|10|feet|long=yes}} above the ground; on the ground level, there were three pairs of {{SI|70|foot|long=yes}} pillars leading to the ceiling. Those pillars were ornately carved to resemble legendary beasts; four pools lay between the pillars. Four more pools lay at the corners of the room, and there was a drain.\n\nThe drain led across a nest of [[spider|red spiders]] towards a manhole, which opened before a statue of [[Set]].",
-        "Inhabitants": "About thirteen skeletons remained in reserve within the pools. A [[wraith]], the spirit of [[Krinos Pandipolous]], was hidden in the drain and would command the skeletons if it saw an opportunity to slay adventurers."
+        "mainbody": "The Baths of Garimsharr were a bathhouse ruin in Phoenix.\nThe Baths of Garimsharr were a massive rose-colored building it had three entrances, all of which led into a wide gallery  above the ground on the ground level, there were three pairs of  pillars leading to the ceiling. Those pillars were ornately carved to resemble legendary beasts four pools lay between the pillars. Four more pools lay at the corners of the room, and there was a drain.\nThe drain led across a nest of red spiders towards a manhole, which opened before a statue of Set.\nAbout thirteen skeletons remained in reserve within the pools. A wraith, the spirit of Krinos Pandipolous, was hidden in the drain and would command the skeletons if it saw an opportunity to slay adventurers."
     }
 }

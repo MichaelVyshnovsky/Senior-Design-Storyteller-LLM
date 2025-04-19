@@ -1,13 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Harpo Bogglinn.jpg",
-        "caption": "",
-        "name": "Harpo Bogglinn",
-        "alt_spelling": "",
-        "titles": "{{former}} Prince",
         "aliases": "",
         "nicknames": "",
         "true name": "",
@@ -15,13 +7,13 @@
         "formerhomes": "",
         "sex": "Male",
         "gender": "",
-        "race": "[[Halfling]]",
+        "race": "Halfling",
         "ethnicity": "",
         "occupation": "",
         "age": "",
         "patron deity": "",
         "languages": "",
-        "basicrefs": "{{Cite card/AD&D Trading Cards/1993|107|Harpo Bogglinn}}",
+        "basicrefs": "",
         "reckoning": "",
         "dob": "",
         "dobnotes": "",
@@ -46,8 +38,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Chaotic neutral]]",
-        "class2e": "{{class table|edition=2e|[[Fighter]]|3|[[Thief]]|4}}",
+        "alignment2e": "Chaotic neutral",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
@@ -64,8 +56,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Harpo Bogglinn''' was a [[hin]] Prince, exiled off the face of [[Toril]] sometime in or before the mid-14{{th}} century [[DR]].",
-        "Possessions": "Harpo could be seen wearing a set of [[leather armor|leathers]] or [[field plate]]s depending on the occasion, often riding on his fully-barded war [[pony]]. He wielded an [[enchanted]] [[Short sword]] called ''[[Orc-Slayer (sword)|Orc-Slayer]]''.",
-        "History": "At some point in or before the mid-14{{th}} century DR, Harpo was blamed for the death of his brother whilst defending the homeland from an [[orc]]ish horde. Harpo's younger brother fell to the orcish blades as the hin prince himself laid wounded by an [[orog]] [[arrow]] in his throat. Harpo survived the battle but was rendered permanently [[mute]] by the wound. The grieving halfling king lashed out at Harpo, banishing him from Toril in disgrace, commanding the prince not to return until he personally slew one thousand and one orcs."
+        "mainbody": "Harpo Bogglinn was a hin Prince, exiled off the face of Toril sometime in or before the mid-14 century DR.\nHarpo could be seen wearing a set of leathers or field plates depending on the occasion, often riding on his fully-barded war pony. He wielded an enchanted Short sword called Orc-Slayer.\nAt some point in or before the mid-14 century DR, Harpo was blamed for the death of his brother whilst defending the homeland from an orcish horde. Harpos younger brother fell to the orcish blades as the hin prince himself laid wounded by an orog arrow in his throat. Harpo survived the battle but was rendered permanently mute by the wound. The grieving halfling king lashed out at Harpo, banishing him from Toril in disgrace, commanding the prince not to return until he personally slew one thousand and one orcs."
     }
 }

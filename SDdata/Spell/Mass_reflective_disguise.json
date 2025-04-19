@@ -1,35 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Mass Reflective Disguise",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Illusion]] (Glamer)",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Bard]]|5|[[Prime Underdark guide]]|4|[[Sorcerer]]|6|[[Wizard]]|6}}",
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
@@ -43,8 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Mass reflective disguise''''' was an [[illusion]] [[spell]] that made the recipient look like a member of the onlookers' race and sex.",
-        "Effects": "''Mass reflective disguise'' worked like ''[[reflective disguise]]'' with two differences. First, unlike the latter, the former affected several people not just the caster as long as the others were within 30 feet (9 meters) of the caster. This illusiory effect stayed in effect even when the person went further away than the aforementioned 30 feet. A potential recipient of this spell could defend him- or herself against it by sheer force of will or by means of an innate resistance against [[magic]]. The second difference was the duration. ''Reflective disguise'' had a duration that lengthened with the caster's skill, whereas ''mass reflective disguise'' had a fixed duration of twelve hours, no matter the strength of the caster. The caster could prematurely end the spell.",
-        "Components": "''Mass reflective disguise'' required only [[somatic]] and [[verbal component]]s to cast."
+        "mainbody": "Mass reflective disguise was an illusion spell that made the recipient look like a member of the onlookers race and sex.\nMass reflective disguise worked like reflective disguise with two differences. First, unlike the latter, the former affected several people not just the caster as long as the others were within 30 feet (9 meters) of the caster. This illusiory effect stayed in effect even when the person went further away than the aforementioned 30 feet. A potential recipient of this spell could defend him- or herself against it by sheer force of will or by means of an innate resistance against magic. The second difference was the duration. Reflective disguise had a duration that lengthened with the casters skill, whereas mass reflective disguise had a fixed duration of twelve hours, no matter the strength of the caster. The caster could prematurely end the spell.\nMass reflective disguise required only somatic and verbal components to cast."
     }
 }

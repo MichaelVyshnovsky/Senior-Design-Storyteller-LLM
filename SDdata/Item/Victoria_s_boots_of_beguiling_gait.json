@@ -1,30 +1,8 @@
 {
-    "template_data": {
-        "2|ft|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Victoria's Boots of Beguiling Gait''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Boots]]",
-        "creator": "",
-        "location": "[[Elven Catacombs]], [[Myth Drannor]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "10{{th}}",
         "itemlevel3e": "",
         "value3e": "",
-        "weight3e": "{{SI|2|lb|k}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,9 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Victoria's boots of beguiling gait''''' was a pair of unique [[enchanted]] [[elf|elven]] [[boots]] that once belonged to an [[Akh'Velahr]] war party leader, [[Victoria]], who died in the [[Weeping War]].",
-        "Description": "''Victoria's boots of beguiling gait'' were a pair of [[leather]] thigh-high boots.",
-        "Powers": "These enchanted boots possessed magic that enhanced the wearer's dexterity and reflexes as well as increased her movement speed. Additionally, these boots allowed the wearer to cast the ''[[displacement]]'' spell, creating an illusory copy of herself anywhere within {{SI|2|ft|long=yes}} of her actual location.",
-        "History": "During the Weeping War, Victoria led her elven war party against the invading [[Army of Darkness]] and met her demise in the [[Elven Catacombs]]. In [[1369 DR]], the [[drow]] of [[House Freth]] were smuggling elven artifacts from the catacombs under the city and Victoria's gear was among the items that were collected and prepared for transport. ''Victoria's boots of beguiling gait'' never reached the [[Underdark]] as a group of adventurers from [[Phlan]] destroyed drow operations in the Elven Catacombs."
+        "mainbody": "Victorias boots of beguiling gait was a pair of unique enchanted elven boots that once belonged to an AkhVelahr war party leader, Victoria, who died in the Weeping War.\nVictorias boots of beguiling gait were a pair of leather thigh-high boots.\nThese enchanted boots possessed magic that enhanced the wearers dexterity and reflexes as well as increased her movement speed. Additionally, these boots allowed the wearer to cast the displacement spell, creating an illusory copy of herself anywhere within  of her actual location.\nDuring the Weeping War, Victoria led her elven war party against the invading Army of Darkness and met her demise in the Elven Catacombs. In 1369 DR, the drow of House Freth were smuggling elven artifacts from the catacombs under the city and Victorias gear was among the items that were collected and prepared for transport. Victorias boots of beguiling gait never reached the Underdark as a group of adventurers from Phlan destroyed drow operations in the Elven Catacombs."
     }
 }

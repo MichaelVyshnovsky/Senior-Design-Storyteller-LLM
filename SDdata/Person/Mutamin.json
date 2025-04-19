@@ -1,22 +1,7 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Mutamin",
-        "true name": "",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "home": "[[Mutamin's Garden]], [[Gullykin]]",
-        "formerhomes": "",
-        "race": "[[Gnome]]",
-        "class2e": "{{class table|edition=3e|[[Conjurer]]|6}}",
         "sex": "Male",
-        "alignment": "[[Lawful evil]]",
+        "alignment": "Lawful evil",
         "patron deity": "",
         "languages": "",
         "reckoning": "",
@@ -29,9 +14,6 @@
         "destroyed": "",
         "destroyednotes": "",
         "rules": "2nd",
-        "mainbody": "'''Mutamin''' was a [[gnome]] [[wizard|mage]], possibly mad, who resided in an area known as [[Mutamin's Garden]] north of the [[halfling]] village of [[Gullykin]].",
-        "Possessions": "Mutamin wore an [[enchanted]] ''[[adventurer's robe]]'' and was armed with a plain [[quarterstaff]]. He usually kept two ''[[potions of healing]]'', a [[scroll]] of ''[[horror]]'' and a scroll of ''[[stinking cloud]]'' handy.",
-        "Activities": "The gnome had trained the local [[basilisk]] population to attack and petrify wandering humanoids, but not to eat them, as Mutamin wanted to keep the statues of their victims as \"art\".",
-        "History": "Mutamin was said to have died in [[1368 DR]] at the hands of adventurers."
+        "mainbody": "Mutamin was a gnome mage, possibly mad, who resided in an area known as Mutamins Garden north of the halfling village of Gullykin.\nMutamin wore an enchanted adventurers robe and was armed with a plain quarterstaff. He usually kept two potions of healing, a scroll of horror and a scroll of stinking cloud handy.\nThe gnome had trained the local basilisk population to attack and petrify wandering humanoids, but not to eat them, as Mutamin wanted to keep the statues of their victims as \"art\". \nMutamin was said to have died in 1368 DR at the hands of adventurers."
     }
 }

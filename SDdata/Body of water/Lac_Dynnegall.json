@@ -1,15 +1,5 @@
 {
-    "template_data": {
-        "10|mi|k|long": "yes"
-    },
     "document_data": {
-        "image": "Moray.jpg",
-        "caption": "A map showing Lac Dynnegall in northern Moray.",
-        "name": "Lac Dynnegall",
-        "aliases": "",
-        "type": "Lake",
-        "region": "[[Moray]], the [[Moonshae Isles]]",
-        "size": "{{SI|10|mi|k}} long",
         "depth": "",
         "river source": "",
         "river mouth": "",
@@ -28,8 +18,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "'''Lac Dynnegall''' was the only freshwater lake found on the isle of [[Moray]] within the [[Moonshae Isles]].{{Cite dungeon/196/Backdrop: The Moonshae Isles}}",
-        "Geography": "The lake was found along the northern edge of the [[Breasal Marsh]] near north central Moray. The [[Shannyth River]] fed the lake from its southern shore, and exited on the north shore to empty into the [[Sea of Moonshae]]. Lac Dynnegall was roughly {{SI|10|mi|k|long=yes}} long.",
-        "Notable Locations": "The small village of [[Dynnegall]] was located on the lakes northeast shore. The swampy lake provided the villagers with a good supply of peat which was used for heating purposes.{{Cite dungeon/196/Backdrop: The Moonshae Isles|9}}"
+        "mainbody": "Lac Dynnegall was the only freshwater lake found on the isle of Moray within the Moonshae Isles.\nThe lake was found along the northern edge of the Breasal Marsh near north central Moray. The Shannyth River fed the lake from its southern shore, and exited on the north shore to empty into the Sea of Moonshae. Lac Dynnegall was roughly  long.\nThe small village of Dynnegall was located on the lakes northeast shore. The swampy lake provided the villagers with a good supply of peat which was used for heating purposes."
     }
 }

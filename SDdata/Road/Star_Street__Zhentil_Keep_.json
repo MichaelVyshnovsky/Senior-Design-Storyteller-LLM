@@ -1,16 +1,10 @@
 {
     "document_data": {
-        "image": "NEZhentilKeep.JPG",
-        "caption": "A map showing Star Street in east Zhentil Keep.",
-        "name": "Star Street",
-        "type": "Road",
-        "aliases": "",
-        "length": "{{SI|500|ft}}",
         "width": "",
         "pavement": "",
-        "location": "The [[Zhentil Keep/Common Quarter|Common Quarter]], [[Zhentil Keep]]",
-        "starts": "[[Dusk Street]]",
-        "ends": "[[Realm Street]]",
+        "location": "The Common Quarter, Zhentil Keep",
+        "starts": "Dusk Street",
+        "ends": "Realm Street",
         "built": "",
         "refs": "",
         "daggers": "",
@@ -24,8 +18,6 @@
         "roads": "yes",
         "bodies of water": "",
         "events": "",
-        "mainbody": "'''Star Street''' was a road located in the city of [[Zhentil Keep]] during the mid–14{{th}} century [[DR]].",
-        "Location": "Star Street was located in east Zhentil Keep in the [[Zhentil Keep/Common Quarter|Common Quarter]]. The road ran north to south, in between [[Dusk Street]] in the north and [[Realm Street]] in the south. Star Street was intesected by [[Traders' Way (Zhentil Keep)|Traders' Way]] near its midpoint.",
-        "Notable Locations": "[[Joseph's Locks]] was the only prominent location along Star Street."
+        "mainbody": "Star Street was a road located in the city of Zhentil Keep during the mid–14 century DR.\nStar Street was located in east Zhentil Keep in the Common Quarter. The road ran north to south, in between Dusk Street in the north and Realm Street in the south. Star Street was intesected by Traders Way near its midpoint.\nJosephs Locks was the only prominent location along Star Street."
     }
 }

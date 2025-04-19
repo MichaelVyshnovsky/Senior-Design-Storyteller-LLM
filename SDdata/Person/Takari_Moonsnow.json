@@ -1,27 +1,5 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "D281-Takari Moonsnow-Glenn Harrington.png",
-        "caption": "",
-        "name": "Takari Moonsnow",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Evereska]], [[Western Heartlands]]",
-        "formerhomes": "[[Reitheillaethor]], [[High Forest]]",
-        "sex": "",
-        "gender": "",
-        "race": "[[Wood elf]]",
-        "ethnicity": "",
-        "occupation": "[[Evereskan Tomb Guard]]",
-        "age": "",
-        "patron deity": "",
-        "languages": "[[Common]], [[Elven language|Elven]], [[Sylvan language|Sylvan]]",
-        "basicrefs": "{{Cite dragon/281/Rogues Gallery: Heroes of the Summoning}}",
         "reckoning": "",
         "dob": "",
         "dobnotes": "",
@@ -49,9 +27,9 @@
         "alignment2e": "",
         "class2e": "",
         "refs2e": "",
-        "alignment3e": "[[Chaotic good]]",
+        "alignment3e": "Chaotic good",
         "challenge3e": "12",
-        "class3e": "{{class table|edition=3e|[[Ranger]]|8|[[Wizard]] ([[Diviner]])|4}}",
+        "class3e": "",
         "refs3e": "",
         "alignment35": "",
         "challenge35": "",
@@ -64,15 +42,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Takari Moonsnow''' was a [[wood elf]] and [[ranger]] and [[wizard]] of [[Evereska]] who served under [[Galaeron Nihmedu]] as a member of the [[Evereskan Tomb Guard]] during the mid–14{{th}} century [[DR]].",
-        "Description": "She had a slender and elegant form, with wide innocent-looking eyes.",
-        "Personality": "A playful and happy elf, Takari was noted as being quite different in battle, where she was particularly focused. Like others of her kin, she was mistrusting of [[human]]s.",
-        "Relationships": "Takari and her squad leader Galaeron served together for many years and they enjoyed an intuitive bond with one another. Takari believed that he was her 'spirit-deep mate' but had yet to realize that fact. In fact, Galaeron was of the opinion that only misfortune befell moon and wood elves, when they chose to partner, as evidenced by his parents parting ways.",
-        "History": {
-            "Early Life": "Takari grew up among the wood elves of the [[High Forest]], in [[Reitheillaethor]]. It was not until Galaeron Nihmedu visited the High Forest that Takari considered leaving the woodland realm. She had fallen in love with the Evereskan elf and, despite Galaeron not reciprocating her feelings, Takari followed him  to Evereska in the {{YearlinkName|1351}}, and joined the Evereskan Tomb Guard.",
-            "Freeing the Phaerimm": "In [[Nightal]] of the {{YearlinkName|1371}}, Takari, Galaeron, and their fellow Tomb Guards responded to human crypt-breakers in the southern [[Desert Border]], within the ancestral crypts of [[House Vyshaan]]. There they encountered a band of [[Vaasan]] warriors led by [[Vala Thorsdotter]], along with an enigmatic [[sorcerer]] named [[Melegaunt Tanthul|Melegaunt]]. After a fight broke out between the two groups, an unfortunate combination of [[shadow magic]] and [[the Weave|Weave magic]] opened up the [[Sharn Wall]] barrier, and let loose the horrific [[phaerimm]] upon the Realms.\n\nThe humans and elves fought together and slew one of the terrible creatures, but unfortunately Takari was pierced by its tail barb. and Galaeron rushed her to Evereska on [[horse]]back for healing at the [[Hall of the High Hunt]]. Melegaunt offered his healing powers to those of the Hall's Singing Spring, and Takari was expected to make a full recovery. Nonetheless, Galaeron directed that she return to the wood elves of Reitheillaethor for a year to recover.",
-            "Retrieving the Karsestone": "Takari was reunited with Galaeron and his new human companions—and their new friend [[Aris (giant)|Aris]] the [[stone giant]]—when their traveling party arrived at Reitheillaethor within the High Forest a few days later. Takari teased Galaeron and tried to get him to join in celebration with her fellow wood elves, but saw that he had changed during their short time apart. She joined the group's trek north through the High Forest, to retrieve the ''[[Karsestone]]'' from within the [[Dire Wood]], on their quest to undo their mistake of freeing the phaerimm. \n\nAfter passing through the [[Pale Ring]], Takari introduced Galaeron and the others to [[Jhingleshod]], the [[half-golem]] that could lead them to the ancient ruins of [[Karse]]. Their journey took them along the path of the [[Heartblood River]]. The group were attacked by a swarm of [[undead]] and Galaeron risked his life, along with those of Takari and Melegaunt, to race to Vala's rescue. Takari was left heartbroken. Eventually, they reached the [[Shrine of the Undying Heart]] atop the [[Karsus Butte]], and found the ''Karsestone'' within. A terrible battle broke out between the companions, Jhingleshod, and his [[lich]] master [[Wulgreth (Ascalhorn)|Wulgreth]], and Takari was left in mortal danger. Galaeron ignored her cries for help while focused on the magic of the ''Karsestone'', but fortunately Vala came to Takari's rescue. Takari remained deeply wounded, both in body and spirit, and just barely remained conscious as Galaeron used the ''Karsestone'' to summon [[Thultanthar]] back to the [[Prime Material plane]].",
-            "Evereska–Phaerimm War": "She was estranged from Galaeron for a while and, during the later part of the Evereska–phaerimm war, she decided to bed [[Kuhl]] in order to get pregnant and thus be able to wield his family blade, a ''[[darksword]]''.<ref>\n\nFollowing Kuhl's death, and the victory over the phaerimm, she traveled to [[Vaasa]] with Galaeron and Vala.<ref>"
-        }
+        "mainbody": "Takari Moonsnow was a wood elf and ranger and wizard of Evereska who served under Galaeron Nihmedu as a member of the Evereskan Tomb Guard during the mid–14 century DR.\nShe had a slender and elegant form, with wide innocent-looking eyes.\nA playful and happy elf, Takari was noted as being quite different in battle, where she was particularly focused. Like others of her kin, she was mistrusting of humans.\nTakari and her squad leader Galaeron served together for many years and they enjoyed an intuitive bond with one another. Takari believed that he was her spirit-deep mate but had yet to realize that fact. In fact, Galaeron was of the opinion that only misfortune befell moon and wood elves, when they chose to partner, as evidenced by his parents parting ways.\nTakari grew up among the wood elves of the High Forest, in Reitheillaethor. It was not until Galaeron Nihmedu visited the High Forest that Takari considered leaving the woodland realm. She had fallen in love with the Evereskan elf and, despite Galaeron not reciprocating her feelings, Takari followed him  to Evereska in the , and joined the Evereskan Tomb Guard.\nIn Nightal of the , Takari, Galaeron, and their fellow Tomb Guards responded to human crypt-breakers in the southern Desert Border, within the ancestral crypts of House Vyshaan. There they encountered a band of Vaasan warriors led by Vala Thorsdotter, along with an enigmatic sorcerer named Melegaunt. After a fight broke out between the two groups, an unfortunate combination of shadow magic and Weave magic opened up the Sharn Wall barrier, and let loose the horrific phaerimm upon the Realms.\nThe humans and elves fought together and slew one of the terrible creatures, but unfortunately Takari was pierced by its tail barb. and Galaeron rushed her to Evereska on horseback for healing at the Hall of the High Hunt. Melegaunt offered his healing powers to those of the Halls Singing Spring, and Takari was expected to make a full recovery. Nonetheless, Galaeron directed that she return to the wood elves of Reitheillaethor for a year to recover.\nTakari was reunited with Galaeron and his new human companions—and their new friend Aris the stone giant—when their traveling party arrived at Reitheillaethor within the High Forest a few days later. Takari teased Galaeron and tried to get him to join in celebration with her fellow wood elves, but saw that he had changed during their short time apart. She joined the groups trek north through the High Forest, to retrieve the Karsestone from within the Dire Wood, on their quest to undo their mistake of freeing the phaerimm. \nAfter passing through the Pale Ring, Takari introduced Galaeron and the others to Jhingleshod, the half-golem that could lead them to the ancient ruins of Karse. Their journey took them along the path of the Heartblood River. The group were attacked by a swarm of undead and Galaeron risked his life, along with those of Takari and Melegaunt, to race to Valas rescue. Takari was left heartbroken. Eventually, they reached the Shrine of the Undying Heart atop the Karsus Butte, and found the Karsestone within. A terrible battle broke out between the companions, Jhingleshod, and his lich master Wulgreth, and Takari was left in mortal danger. Galaeron ignored her cries for help while focused on the magic of the Karsestone, but fortunately Vala came to Takaris rescue. Takari remained deeply wounded, both in body and spirit, and just barely remained conscious as Galaeron used the Karsestone to summon Thultanthar back to the Prime Material plane. \nShe was estranged from Galaeron for a while and, during the later part of the Evereska–phaerimm war, she decided to bed Kuhl in order to get pregnant and thus be able to wield his family blade, a darksword.\nFollowing Kuhls death, and the victory over the phaerimm, she traveled to Vaasa with Galaeron and Vala."
     }
 }

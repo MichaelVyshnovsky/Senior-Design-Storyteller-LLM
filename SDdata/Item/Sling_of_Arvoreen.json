@@ -1,30 +1,5 @@
 {
-    "template_data": {
-        "0.1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Sling of Arvoreen.gif",
-        "caption": "",
-        "name": "''Sling of Arvoreen''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Sling]]",
-        "creator": "",
-        "location": "[[Neverwinter]], [[Sword Coast North]]<br/>[[Melvaunt]], [[Moonsea]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+4",
-        "value3e": "",
-        "weight3e": "{{SI|0.1|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -41,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Slings of Arvoreen''''' were magic [[sling]]s, thought to be created through a blessing from the [[hin]] deity [[Arvoreen]].",
-        "Powers": "These slings were [[enchanted]] to deal truly mighty blows to their targets. They functioned as weapons possessing a powerful ''+4'' enchantment and granted the wielders magical ''[[freedom of movement]]''.",
-        "History": "The very first of these [[Arvoreenan]] weapons were believed to be gifted to the halfling hero [[Tuckerby Letterworp]] after he emerged victorious from the [[Battle of Moor Road]]. However, that story was contradicted because similar items appeared in virtually all halfling settlements across the Realms. Like the famed ''[[Story of Littleman]]'', the story behind ''slings of Arvoreen'' remained unconfirmed and obscured by boisterous embellishments.\n\nBy the late 14{{th}} century [[DR]], a number of such magic slings existed, found along the [[Sword Coast]], in the city of [[Neverwinter]], as well as the city of [[Melvaunt]] in the [[Moonsea]] region."
+        "mainbody": "Slings of Arvoreen were magic slings, thought to be created through a blessing from the hin deity Arvoreen.\nThese slings were enchanted to deal truly mighty blows to their targets. They functioned as weapons possessing a powerful +4 enchantment and granted the wielders magical freedom of movement.\nThe very first of these Arvoreenan weapons were believed to be gifted to the halfling hero Tuckerby Letterworp after he emerged victorious from the Battle of Moor Road. However, that story was contradicted because similar items appeared in virtually all halfling settlements across the Realms. Like the famed Story of Littleman, the story behind slings of Arvoreen remained unconfirmed and obscured by boisterous embellishments.\nBy the late 14 century DR, a number of such magic slings existed, found along the Sword Coast, in the city of Neverwinter, as well as the city of Melvaunt in the Moonsea region."
     }
 }

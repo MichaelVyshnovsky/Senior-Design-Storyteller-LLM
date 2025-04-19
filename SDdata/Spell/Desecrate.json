@@ -1,19 +1,8 @@
 {
-    "template_data": {
-        "name": "Desecrate",
-        "school": "[[Evocation]]",
-        "level": "{{spell table",
-        "edition": "3e"
-    },
     "document_data": {
-        "name": "Desecrate",
-        "school": "[[Evocation]]",
-        "level": "{{spell table|edition=3e|[[Cleric]]|2|[[Evil domain|Evil]]|2|[[Undeath domain|Undeath]]|2}}",
-        "descriptors": "{{desc/evil}}",
-        "domains": "[[Evil domain|Evil]], [[Undeath domain|Undeath]]",
+        "descriptors": "",
+        "domains": "Evil, Undeath",
         "rules": "3rd",
-        "mainbody": "'''Desecrate''' was an [[evocation]] [[spell]] used by [[cleric]]s.",
-        "Effect": "This spell strengthened the [[undead]] by filling them with [[negative energy]].\n\nNegative energy was used to fill a designated area. The effects of this spell were greatly increased if the designated area contained any kind of structure devoted to the cleric's god.\n\nConversely, if the designated area contained a structure dedicated to any other god, then area became cursed, cutting off its connection with the god. The caster could use this spell to willingly desecrate sites dedicated to other gods.\n\nThis spell could last for several hours all the way up to several days, depending on the strength of the caster. This spell could be used to counter or dispell and area blessed by the [[consecrate]] spell.",
-        "Material Components": "Material components needed to cast this spell included a unholy water and 5 lbs. (2.2kg) of [[silver]] dust. All of the silver dust needed to be sprinkled around the area to be filled by the negative energy."
+        "mainbody": "Desecrate was an evocation spell used by clerics. \nThis spell strengthened the undead by filling them with negative energy.\nNegative energy was used to fill a designated area. The effects of this spell were greatly increased if the designated area contained any kind of structure devoted to the clerics god.\nConversely, if the designated area contained a structure dedicated to any other god, then area became cursed, cutting off its connection with the god. The caster could use this spell to willingly desecrate sites dedicated to other gods.\nThis spell could last for several hours all the way up to several days, depending on the strength of the caster. This spell could be used to counter or dispell and area blessed by the consecrate spell.\nMaterial components needed to cast this spell included a unholy water and 5 lbs. (2.2kg) of silver dust. All of the silver dust needed to be sprinkled around the area to be filled by the negative energy."
     }
 }

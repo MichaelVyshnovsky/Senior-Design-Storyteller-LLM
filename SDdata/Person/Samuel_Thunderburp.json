@@ -1,23 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Samuel Thunderburp",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Athkatla]], [[Amn]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "gender": "",
-        "race": "[[Halfling]]",
-        "ethnicity": "",
-        "occupation": "Innkeep <br />{{Former}} Adventurer",
         "age": "",
         "patron deity": "",
         "languages": "",
@@ -46,8 +28,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Neutral good]]",
-        "class2e": "{{class table|edition=2e|[[Fighter]]|7}}",
+        "alignment2e": "Neutral good",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
@@ -64,10 +46,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Samuel Thunderburp''' was a retired adventurer and the innkeep of the [[Five Flagons]] in [[Athkatla]], during the mid–14{{th}} century [[DR]].",
-        "Description": "Samuel had a reputation as a being one of the greatest fighters in all of [[Highdale]].",
-        "Personality": "He was a friendly man who offered a warm welcome to those who entered his establishment. He liked to boast that the Five Flagons offered every beverage that could be found throughout the entirety of [[Faerûn]].",
-        "Relationships": "Samuel ran the Five Flagons with his partner [[Thalia Thunderburp|Thalia]].\n\nHe was well-acquainted with a number of [[Amn]]ish adventurers. Among his friends the brave [[Truesword]] [[Mazzy Fentan]], as well as the actor–adventurers [[Haer'Dalis]] and [[Raelis Shai]].",
-        "History": "Before he settled down in Athkatla, Samuel spent considerable time as an adventurer. In the end, Thalia managed to pull him away from that life and find one that was considerably less dangerous."
+        "mainbody": "Samuel Thunderburp was a retired adventurer and the innkeep of the Five Flagons in Athkatla, during the mid–14 century DR.\nSamuel had a reputation as a being one of the greatest fighters in all of Highdale.\nHe was a friendly man who offered a warm welcome to those who entered his establishment. He liked to boast that the Five Flagons offered every beverage that could be found throughout the entirety of Faerûn.\nSamuel ran the Five Flagons with his partner Thalia.\nHe was well-acquainted with a number of Amnish adventurers. Among his friends the brave Truesword Mazzy Fentan, as well as the actor–adventurers HaerDalis and Raelis Shai.\nBefore he settled down in Athkatla, Samuel spent considerable time as an adventurer. In the end, Thalia managed to pull him away from that life and find one that was considerably less dangerous."
     }
 }

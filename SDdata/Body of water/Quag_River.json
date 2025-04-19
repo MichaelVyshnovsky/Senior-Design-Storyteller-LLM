@@ -1,21 +1,11 @@
 {
-    "template_data": {
-        "75|mi|k|long": "yes"
-    },
     "document_data": {
-        "image": "SpiderSwamp.JPG",
-        "caption": "A map showing the Quag River in the Spider Swamp.",
-        "name": "Quag River",
-        "aliases": "",
-        "type": "River",
-        "region": "The [[Spider Swamp]], [[Calimshan]]",
-        "size": "{{SI|75|mi|k}} long",
         "depth": "",
         "river source": "The Spider Swamp",
         "river mouth": "The Shining Sea",
         "tributaries": "",
         "tributary of": "",
-        "georefs": "<ref name=EotSS.M\"/>",
+        "georefs": "",
         "races": "",
         "socrefs": "",
         "usethe": "yes",
@@ -28,7 +18,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "The '''Quag River''' was a small waterway found in the far eastern corner of [[Calimshan]].{{Cite interactive atlas}}<ref name=EotSS.M\">",
-        "Geography": "The river flowed through the [[Spider Swamp]]. It originated on the northern end of the swamp near the edge of the [[Forest of Mir]] and flowed south and southwest for approximately {{SI|75|mi|k|long=yes}} until it reached the coast and the [[Shining Sea]].<ref name=EotSS.M\"/>"
+        "mainbody": "The Quag River was a small waterway found in the far eastern corner of Calimshan.\nThe river flowed through the Spider Swamp. It originated on the northern end of the swamp near the edge of the Forest of Mir and flowed south and southwest for approximately  until it reached the coast and the Shining Sea."
     }
 }

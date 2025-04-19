@@ -1,23 +1,5 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "variant": "cantrip"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Primal Savagery",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Transmutation]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "{{Spell table|edition=5e|variant=cantrip|[[Druid]]|0}}",
         "type5e": "Cantrip",
         "refs5e": "",
         "feature4e": "",
@@ -44,8 +26,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Primal savagery''''' was a [[transmutation]] [[cantrip]] used by [[druid]]s to physically attack an opponent with magically sharpened, corrosive teeth and nails.",
-        "Effects": "The spell briefly sharpened the caster's teeth or nails, imbuing them with [[acid]]ic properties. The druid then immediately attacked an opponent, delivering the acid with an intensity that increased as the caster grew in power. After the attack, the caster's body returned to normal.",
-        "Components": "The spell only required a [[somatic component]]."
+        "mainbody": "Primal savagery was a transmutation cantrip used by druids to physically attack an opponent with magically sharpened, corrosive teeth and nails.\nThe spell briefly sharpened the casters teeth or nails, imbuing them with acidic properties. The druid then immediately attacked an opponent, delivering the acid with an intensity that increased as the caster grew in power. After the attack, the casters body returned to normal.\nThe spell only required a somatic component."
     }
 }

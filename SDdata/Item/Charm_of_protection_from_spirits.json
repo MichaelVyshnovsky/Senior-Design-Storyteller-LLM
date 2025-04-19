@@ -1,26 +1,7 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Charm of Protection from Spirits''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Wondrous item",
-        "creator": "",
-        "location": "[[Kara-Tur]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "3{{rd}}, 7{{th}}, 11{{th}}",
         "itemlevel3e": "",
-        "value3e": "12,000 [[gp]] - 132,000 [[gp]]",
+        "value3e": "12,000 gp - 132,000 gp",
         "weight3e": "",
         "refs3e": "",
         "level4e": "",
@@ -38,10 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Charms of protection from spirits''''' were bijou sheets of paper that held protective magics.",
-        "Description": "''Charms of protection from spirits'' were [[ink]]ed with treats to spirits on red or yellow pieces of paper.",
-        "Powers": {
-            "Creation": "The more powerful a ''charms of protection from spirits'' was, the more proficient the crafter of wondrous items had to be. They were created using the  ''[[protection from spirits]]'' and ''[[heighten spell]]'' magics."
-        }
+        "mainbody": "Charms of protection from spirits were bijou sheets of paper that held protective magics.\nCharms of protection from spirits were inked with treats to spirits on red or yellow pieces of paper.\nThese paper charms created a protective barrier that was almost impregnable by spirits. Only spirits of indomitable will could enter buildings protected by such charms. However, charms of protection from spirits did not stop spirits from using magics on the areas protected by them. In order to be activated, a charm of protection from spirits was attached to the lintel of the protected areas door.\nThe more powerful a charms of protection from spirits was, the more proficient the crafter of wondrous items had to be. They were created using the  protection from spirits and heighten spell magics."
     }
 }

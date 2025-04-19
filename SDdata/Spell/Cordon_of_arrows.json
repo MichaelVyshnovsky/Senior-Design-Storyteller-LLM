@@ -1,27 +1,7 @@
 {
-    "template_data": {
-        "edition": "5e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Cordon of arrows",
-        "school": "[[Transmutation]]",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "school5e": "[[Transmutation]]",
-        "level5e": "{{spell table|edition=5e|[[Ranger]]|2|}}",
         "type5e": "",
         "refs5e": "",
-        "mainbody": "'''''Cordon of arrows''''' was a [[transmutation]] [[spell]] that made a number of missiles lie in wait for a triggering target.",
-        "Effect": "The caster placed four non-magical bolts or arrows in the ground. These waited until a target moved into a range of 30 feet (9.1 meters) before striking the target. When casting the spell, the caster could designate what type of creatures the spell would not attack. The spell would last for 8 hours. Missiles used would be destroyed after being fired at a target and the spell ended when no missiles remained.\n\nIf used with a higher level, more missiles could be used.",
-        "Components": "This spell needed verbal and somatic components and four or more bolts or arrows.",
-        "References": "{{refs}}\n[[Category:Transmutation spells]]\n[[Category:Ranger spells]]\npgpw7imm18vgf4wzszgbpqz9s58nbdd"
+        "mainbody": "Cordon of arrows was a transmutation spell that made a number of missiles lie in wait for a triggering target.\nThe caster placed four non-magical bolts or arrows in the ground. These waited until a target moved into a range of 30 feet (9.1 meters) before striking the target. When casting the spell, the caster could designate what type of creatures the spell would not attack. The spell would last for 8 hours. Missiles used would be destroyed after being fired at a target and the spell ended when no missiles remained.\nIf used with a higher level, more missiles could be used.\nThis spell needed verbal and somatic components and four or more bolts or arrows.\nCategoryTransmutation spells\nCategoryRanger spells\npgpw7imm18vgf4wzszgbpqz9s58nbdd"
     }
 }

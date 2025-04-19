@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Alamir's Fundamental Breakdown",
-        "deity": "",
-        "inventor": "[[Alamir]]",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Divination]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|3}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Alamir's fundamental breakdown''''' was a [[divination]] [[spell]] used by [[wizard]]s. This spell was developed by [[Alamir]].",
-        "Effects": "This spell allowed the caster to discern the ingredients and formulas used to make a [[magic item]] or chemical mixture. The information would appear in the caster's mind but that did not guarantee that they would be able to understand it. If the caster understood the information then it would be retained in their memory indefinitely, otherwise the information was forgotten. A failed attempt on a specific item would continue to fail no matter how many times the spell was cast until the wizard gained more skill.\n\nThe expertise of the caster determined the type of information that could be learned. Examples included:\n\n* type and quantity of ingredients and preparation process for a non-magical item\n* ingredients and formula for producing a magical liquid such as a [[potion]] or [[scroll]] [[ink]]\n* formula for producing any kind of magic item excluding [[artifact]]s\n\nIt should be noted that knowing how something was made did not guarantee a wizard's success in recreating the process given the expense, time allotment, and precise workings of creating certain objects.\n\nItems analyzed with this spell experienced detrimental effects. Potions, scrolls, and other single-use items were automatically destroyed. There was a chance that other magic items would release their stored power in a violent explosion when analyzed.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, this spell required a [[wand]] cut from a 100-year-old [[oak]] tree to cast. The wand touched the object in question then vanished in a puff of smoke when the spell was completed.",
-        "Notable Users": "* [[Mijel Morigan]], a wizard who operated [[Morrigan's Complete Components]] in Ravens Bluff.<ref>{{Cite polyhedron/75/The Living City: Eye Of Newt and Food For Familiars|7}}\n*[[Xothor]], who were [[specialty priest]]s devoted to [[Dugmaren Brightmantle]], used ''Alimir's fundamental breakdown''."
+        "mainbody": "Alamirs fundamental breakdown was a divination spell used by wizards. This spell was developed by Alamir.\nThis spell allowed the caster to discern the ingredients and formulas used to make a magic item or chemical mixture. The information would appear in the casters mind but that did not guarantee that they would be able to understand it. If the caster understood the information then it would be retained in their memory indefinitely, otherwise the information was forgotten. A failed attempt on a specific item would continue to fail no matter how many times the spell was cast until the wizard gained more skill.\nThe expertise of the caster determined the type of information that could be learned. Examples included\n* type and quantity of ingredients and preparation process for a non-magical item\n* ingredients and formula for producing a magical liquid such as a potion or scroll ink\n* formula for producing any kind of magic item excluding artifacts\nIt should be noted that knowing how something was made did not guarantee a wizards success in recreating the process given the expense, time allotment, and precise workings of creating certain objects.\nItems analyzed with this spell experienced detrimental effects. Potions, scrolls, and other single-use items were automatically destroyed. There was a chance that other magic items would release their stored power in a violent explosion when analyzed.\nIn addition to verbal and somatic components, this spell required a wand cut from a 100-year-old oak tree to cast. The wand touched the object in question then vanished in a puff of smoke when the spell was completed.\n* Mijel Morigan, a wizard who operated Morrigans Complete Components in Ravens Bluff.\n*Xothor, who were specialty priests devoted to Dugmaren Brightmantle, used Alimirs fundamental breakdown."
     }
 }

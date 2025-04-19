@@ -1,14 +1,5 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Karsus Butte",
-        "alt spelling": "",
-        "aliases": "",
-        "type": "Hill",
-        "region": "[[Karse]], [[Dire Wood]]",
-        "size": "",
-        "elevation": "{{SI|100|ft}}",
         "depth": "",
         "capital": "",
         "largest city": "",
@@ -17,7 +8,7 @@
         "population": "",
         "races": "",
         "languages": "",
-        "religion": "[[Cult of Karsus]]",
+        "religion": "Cult of Karsus",
         "alignment": "",
         "socrefs": "",
         "imports": "",
@@ -40,9 +31,9 @@
         "start event": "",
         "start date": "",
         "event1": "Karsus Butte formed",
-        "date1": "[[-339 DR]]",
-        "event2": "[[The Return]]",
-        "date2": "[[1371 DR]]",
+        "date1": "-339 DR",
+        "event2": "The Return",
+        "date2": "1371 DR",
         "event3": "",
         "date3": "",
         "event4": "",
@@ -88,15 +79,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "The '''Karsus Butte''' was the [[petrified]] remains of the Momentary God [[Karsus]], the [[Netherese]] [[arcanist]] that achieved godhood for a single moment.",
-        "Description": "The mesa-like rock formation was made up of coarse, red [[sandstone]]\n\n[[Wild magic]] radiated outward from the Butte, extending out to Karse and the surrounding Dire Wood.",
-        "Geography": {
-            "Geographical Features": "Karsus' Butte was the source of the [[Heartblood River]], the foaming red-hued waterway that flowed westward through the forest."
-        },
-        "History": "The butte was formed immediately after [[Karsus's Folly]] in the {{YearlinkName|-339}}, when Karsus was destroyed a moment after achieving apostheosis and his godly remains plummeted down to [[Toril]].\n\nOn [[Hammer 1]] in the {{YearlinkName|1372}}, [[Galaeron Nihmedu]] used magic from a powerful artifact taken from within the Karsus Butte to summon [[the Return]] of the [[Netherese enclave]] of [[Thultanthar]] to [[Faerûn]] from the [[plane of Shadow]].",
-        "Notable Locations": "The single notable structure atop the Karsus Butte was the [[Shrine of the Undying Heart]], a temple built atop the butte dedicated to the Momentary God.",
-        "Inhabitants": {
-            "Notable Inhabitants": "* [[Wulgreth (Ascalhorn)|Wulgreth]], the [[lich]] and former [[archmage]] that made his lair within the Karsus Butte centuries after his fall."
-        }
+        "mainbody": "The Karsus Butte was the petrified remains of the Momentary God Karsus, the Netherese arcanist that achieved godhood for a single moment.\nThe mesa-like rock formation was made up of coarse, red sandstone\nWild magic radiated outward from the Butte, extending out to Karse and the surrounding Dire Wood.\nIt lay within the Dire Wood region of the eastern High Forest. The city of Karse was built at the \"foot\" of the fallen god.\nKarsus Butte was the source of the Heartblood River, the foaming red-hued waterway that flowed westward through the forest.\nThe butte was formed immediately after Karsuss Folly in the , when Karsus was destroyed a moment after achieving apostheosis and his godly remains plummeted down to Toril.\nOn Hammer 1 in the , Galaeron Nihmedu used magic from a powerful artifact taken from within the Karsus Butte to summon the Return of the Netherese enclave of Thultanthar to Faerûn from the plane of Shadow. \nThe single notable structure atop the Karsus Butte was the Shrine of the Undying Heart, a temple built atop the butte dedicated to the Momentary God.\nKarsus Butte was considered a holy site by the cultists that worshiped him.\n* Wulgreth, the lich and former archmage that made his lair within the Karsus Butte centuries after his fall."
     }
 }

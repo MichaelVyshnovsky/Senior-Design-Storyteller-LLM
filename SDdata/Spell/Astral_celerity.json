@@ -1,15 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "name": "Astral Celerity",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Astral sphere|Astral]]",
-        "level2e": "{{spell table|edition=2e|[[Astral sphere|Astral]]|1|[[Cleric]]|1}}",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''Astral celerity''' was an [[Alteration]] spell that increased movement rate on the [[Astral Plane]].\n{{Stub/Spell}}",
-        "References": "{{refs}}\n[[Category:Alteration spells]]\n[[Category:Cleric spells]]\nosmru3tn59jppeudle86s3jgtxde115"
+        "mainbody": "Astral celerity was an Alteration spell that increased movement rate on the Astral Plane.\nCategoryAlteration spells\nCategoryCleric spells\nosmru3tn59jppeudle86s3jgtxde115"
     }
 }

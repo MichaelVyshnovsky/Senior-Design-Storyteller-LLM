@@ -1,24 +1,7 @@
 {
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Skull Blade''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Enchanted]] [[longsword]]",
-        "location": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "7{{th}}",
         "itemlevel3e": "+1",
-        "value3e": "9,315 [[gp]]",
+        "value3e": "9,315 gp",
         "weight3e": "",
         "refs3e": "",
         "level4e": "",
@@ -35,7 +18,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "A '''''skull blade''''' was an [[enchanted]], ''+1 [[unholy (weapon quality)|unholy]] [[longsword]]'' wielded by the followers of [[Cyric]].",
-        "Description": "The blades and hilts of these [[sword]]s were adorned with the [[holy symbol]] of Cyric. Agents of the ''Prince of Lies'' who traveled incognito typically covered their blades to prevent easy detection when traveling across the Realms."
+        "mainbody": "A skull blade was an enchanted, +1 unholy longsword wielded by the followers of Cyric.\nThe blades and hilts of these swords were adorned with the holy symbol of Cyric. Agents of the Prince of Lies who traveled incognito typically covered their blades to prevent easy detection when traveling across the Realms."
     }
 }

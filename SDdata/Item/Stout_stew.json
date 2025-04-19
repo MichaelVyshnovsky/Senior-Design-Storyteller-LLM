@@ -1,47 +1,10 @@
 {
-    "template_data": {
-        "0.6|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Stout Stew.png",
-        "caption": "",
-        "name": "Stout Stew",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Food",
-        "creator": "",
-        "location": "[[Western Heartlands]], [[West Faerûn]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "",
-        "value3e": "",
-        "weight3e": "",
-        "refs3e": "",
-        "level4e": "",
-        "value4e": "",
-        "weight4e": "",
-        "refs4e": "",
-        "rarity5e": "Common",
-        "attunement5e": "",
-        "school5e": "",
-        "level5e": "",
-        "value5e": "7 [[gp]]",
-        "weight5e": "{{SI|0.6|lb|k|long=yes}}",
         "refs5e": "",
         "communication": "",
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Stout stew''' was a common dish found in the city of [[Baldur's Gate]], the [[Western Heartlands]], and the [[West Faerûn]] in the late 15{{th}} century [[DR]].",
-        "Description": "A [[broth]]y stew of uniform meat cubes, browned and cooked thoroughly with [[stout]] [[beer]], [[carrot]] medallions, and other vegetables, it was thought to be a comforting dish that sat snuggly in one's stomach and felt like a warm hug."
+        "mainbody": "Stout stew was a common dish found in the city of Baldurs Gate, the Western Heartlands, and the West Faerûn in the late 15 century DR.\nA brothy stew of uniform meat cubes, browned and cooked thoroughly with stout beer, carrot medallions, and other vegetables, it was thought to be a comforting dish that sat snuggly in ones stomach and felt like a warm hug."
     }
 }

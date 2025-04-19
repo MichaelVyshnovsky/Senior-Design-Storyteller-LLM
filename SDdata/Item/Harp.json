@@ -1,25 +1,15 @@
 {
     "document_data": {
-        "image": "Instrument of the Bards AFR.jpg",
-        "caption": "A [[bard]] playing an [[Ollamh harp]].",
-        "name": "Harp",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Musical instrument",
-        "location": "[[Impiltur]], [[Selgaunt]],",
-        "value1e": "50 [[gp]]",
-        "weight1e": "",
-        "refs1e": "<ref>{{Cite dragon/117/Dungeoneer's Shopping Guide|22}}",
         "school2e": "",
         "level2e": "",
-        "value2e": "{{Plain table|Full-scale ([[wood]])|75 gp|Half-scale (wood)|50 gp|Half-scale (silver)|120 gp|Quarter-scale (wood)|30 gp|Quarter-scale ([[silver]])|75 gp}}",
+        "value2e": "",
         "weight2e": "",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
         "itemlevel3e": "",
-        "value3e": "{{Plain table|common|5 gp|Masterwork|100 gp}}",
-        "weight3e": "{{SI|3|lbs.}}",
+        "value3e": "",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -35,19 +25,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "'''Harps''' were a type of stringed musical instrument that could be found in several varieties across the [[Realms]].",
-        "Availability": "[[Impiltur]] was known for making high-quality wood harps, and [[Selgaunt]] produced [[silver]] harps. Both were available for purchase in different sizes from ''[[Aurora's Whole Realms Catalogue]]''.\n\n[[Halambar Lutes & Harps]] in [[Waterdeep]] was a well-known musical instrument shop that sold harps.\n[[File:Harp 1e.png|thumb|left|''A harp-stringing musician, alone at night.'']]",
-        "Notable harps": {
-            "''[[Anstruth harp]]''": "One of the seven [[Instrument of the Bards|Instruments of the Bards]]. Magical harps capable of controlling elements and healing, among other magical powers.",
-            "''[[Caveharp]]''": "A type of high quality but non magical harps found in the [[Underdark]]. Its sound transmitted extremely long distances there, something between one to six miles (about 1.61km to 9.66km). It was thus used to relay information over long distances but also for entertainment.",
-            "''[[Dove's harp]]''": "the harp named after [[Dove Falconhand]] who possessed one of these magic items of restorative power.",
-            "''[[Harp of screams]]''": "A variety of enchanted harps, carved from expensive woods into the shape of a [[dragon]], whose magical effect made them act as a sort of alarm.<ref>{{Cite dragon/256/Bazaar of the Bizarre: Tools of the Trade|90}}",
-            "''The [[Harp that Sings by Itself]]''": "A legendary enchanted harp that played its own tunes.",
-            "''[[Ollamh harp]]''": "Another Instrument of the Bards. These magical harps could control the minds of listeners, among other magical powers."
-        },
-        "Notable Users of Harps": {
-            "Races": "* Harps were one of the most preferred instruments among [[cloud giant]]s.\n* [[Korred]]s were often known to play harps during their ceremonial celebrations to their patron god.",
-            "Religions": "* It was common for [[cleric]]s of [[Eilistraee]] to be proficient with harps, as well as [[flute]]s and [[horn]]s."
-        }
+        "mainbody": "Harps were a type of stringed musical instrument that could be found in several varieties across the Realms.\nImpiltur was known for making high-quality wood harps, and Selgaunt produced silver harps. Both were available for purchase in different sizes from Auroras Whole Realms Catalogue.\nHalambar Lutes & Harps in Waterdeep was a well-known musical instrument shop that sold harps.\nthumb|left|A harp-stringing musician, alone at night.\n Anstruth harp  One of the seven Instruments of the Bards. Magical harps capable of controlling elements and healing, among other magical powers.\n Caveharp  A type of high quality but non magical harps found in the Underdark. Its sound transmitted extremely long distances there, something between one to six miles (about 1.61km to 9.66km). It was thus used to relay information over long distances but also for entertainment.\n Doves harp  the harp named after Dove Falconhand who possessed one of these magic items of restorative power.\n Harp of screams A variety of enchanted harps, carved from expensive woods into the shape of a dragon, whose magical effect made them act as a sort of alarm.\n The Harp that Sings by Itself  A legendary enchanted harp that played its own tunes.\n Ollamh harp  Another Instrument of the Bards. These magical harps could control the minds of listeners, among other magical powers.\n* Harps were one of the most preferred instruments among cloud giants.\n* Korreds were often known to play harps during their ceremonial celebrations to their patron god.\n* It was common for clerics of Eilistraee to be proficient with harps, as well as flutes and horns."
     }
 }

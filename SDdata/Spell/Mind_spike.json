@@ -1,23 +1,5 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "60|ft|long": "yes"
-    },
     "document_data": {
-        "image": "Mind Spike AHBG.jpg",
-        "caption": "",
-        "name": "Mind Spike",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Divination]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "{{Spell table|edition=5e|[[Sorcerer]]|2|[[Warlock]]|2|[[Wizard]]|2}}",
         "type5e": "",
         "refs5e": "",
         "feature4e": "",
@@ -44,8 +26,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Mind spike''''' was a [[divination]] [[spell]] that reached another creature's mind, both damaging it and revealing information about it to the caster.",
-        "Effects": "The spell probed the mind of a visible creature within a range of {{SI|60|ft|long=yes}}, inflicting damage to it. Moreover, if the target did not resist the spell's effects, the creature's location became known to the caster for up to 1 minute, as long as the caster kept concentrating and as long as both creatures were located in the same [[plane of existence]].",
-        "Components": "The spell only required a [[somatic component]]."
+        "mainbody": "Mind spike was a divination spell that reached another creatures mind, both damaging it and revealing information about it to the caster.\nThe spell probed the mind of a visible creature within a range of , inflicting damage to it. Moreover, if the target did not resist the spells effects, the creatures location became known to the caster for up to 1 minute, as long as the caster kept concentrating and as long as both creatures were located in the same plane of existence.\nThe spell only required a somatic component."
     }
 }

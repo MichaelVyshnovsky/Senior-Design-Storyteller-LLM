@@ -1,30 +1,14 @@
 {
-    "template_data": {
-        "16|miles|k|long": "yes"
-    },
     "document_data": {
-        "image": "Ithmog environs.png",
-        "caption": "",
-        "name": "Ustan",
-        "alt spelling": "",
-        "aliases": "",
-        "type": "Settlement",
-        "region": "[[Rivershire]], the [[Crown Lands]],<ref name=LoI1-T-map> [[Tethyr]]",
-        "size": "[[Hamlet]]",
-        "elevation": "",
-        "depth": "",
-        "capital": "",
-        "largest city": "",
-        "georefs": "{{Cite dungeon/38/A Blight On The Land|4-10}}",
         "demonym": "",
-        "population": "80&ndash;100",
+        "population": "80&ndash100",
         "races": "",
         "languages": "",
         "religion": "",
         "alignment": "",
         "socrefs": "",
         "imports": "",
-        "exports": "[[Cattle]]",
+        "exports": "Cattle",
         "currency": "",
         "comrefs": "",
         "government": "",
@@ -91,9 +75,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "'''Ustan''' was a village in [[Tethyr]] that supplied the city of [[Ithmong]] (later [[Darromar]]) with food.",
-        "Description": "Ustan was a small [[hamlet]] of about 80 to 100 persons living in 12 to 15 simple homes. The village was surrounded by farmland and pastures for keeping herds of [[cattle]].",
-        "Geography": "Ustan was located in the county of [[Rivershire]], in the [[Crown Lands]] of Tethyr.<ref name=LoI1-T-map /> It sat in a grassy area with only minimal tree cover, northeast of the city of Ithmong about {{SI|16|miles|k|long=yes}} from the [[River Ith]].",
-        "History": "During the [[Time of Troubles]] in [[1358 DR]], many of the crops in Ustan and the surrounding villages were destroyed in the chaos of that world-shattering event. A month after the Time of Troubles ended, however, things did not return to normal. Instead, the population of monsters in the region seemed to increase, and this led to a shortage of food in nearby Ithmong, which relied on Ustan and other nearby villages for food.\n\nThese monsters were, in fact, summoned to the region by a series of [[Thayvian beacon]]s as part of a plot by the [[Knights of the Shield]] and [[Inselm Hhune]] to prevent [[Ernest Gallowglass]] from rising to power over all of Tethyr&mdash;a position that Hhune himself wanted&mdash;during the time of anarchy known as the [[Tethyrian Interregnum]].\n\nThe [[Company of Eight]] became involved and hired a group of [[adventurer]]s to investigate the area and determine the cause of all the monster attacks."
+        "mainbody": "Ustan was a village in Tethyr that supplied the city of Ithmong (later Darromar) with food.\nUstan was a small hamlet of about 80 to 100 persons living in 12 to 15 simple homes. The village was surrounded by farmland and pastures for keeping herds of cattle.\nUstan was located in the county of Rivershire, in the Crown Lands of Tethyr. It sat in a grassy area with only minimal tree cover, northeast of the city of Ithmong about  from the River Ith.\nDuring the Time of Troubles in 1358 DR, many of the crops in Ustan and the surrounding villages were destroyed in the chaos of that world-shattering event. A month after the Time of Troubles ended, however, things did not return to normal. Instead, the population of monsters in the region seemed to increase, and this led to a shortage of food in nearby Ithmong, which relied on Ustan and other nearby villages for food.\nThese monsters were, in fact, summoned to the region by a series of Thayvian beacons as part of a plot by the Knights of the Shield and Inselm Hhune to prevent Ernest Gallowglass from rising to power over all of Tethyr&mdasha position that Hhune himself wanted&mdashduring the time of anarchy known as the Tethyrian Interregnum.\nThe Company of Eight became involved and hired a group of adventurers to investigate the area and determine the cause of all the monster attacks."
     }
 }

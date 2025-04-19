@@ -1,43 +1,12 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Censure",
-        "deity": "[[Lathander]]",
-        "inventor": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Conjuration]] (summoning)<br/>[[Alteration]]/[[Illusion]] (phantasm)",
-        "spheres2e": "[[All sphere|All]]",
-        "level2e": "{{Spell table|edition=2e|[[All sphere|All]]|4|[[Cleric]]|4|[[Crusader]]|4|[[Druid]]|4|[[Monk]]|4|[[Mystic]]|4|[[Shaman]]|4}}",
         "type2e": "",
-        "refs2e": "The earlier version of this spell in ''[[Pages from the Mages]]'' lists ''censure'' as a [[conjuration]] spell. It is unknown if this discrepancy was an error or conscious gameplay change.",
+        "refs2e": "The earlier version of this spell in Pages from the Mages lists censure as a conjuration spell. It is unknown if this discrepancy was an error or conscious gameplay change.",
         "reversible1e": "",
         "school1e": "",
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Censure''''' was a [[divine]] [[conjuration]] [[spell]] that allowed a [[cleric]] to mark a creature with their [[holy symbol]].",
-        "Effects": "When cast, this spell would spiritually \"brand\" a specified creature and physically mark it for any clergy with the same [[alignment]] as the caster. Any priests seeing this mark would instinctively react with fear, repulsion, and hatred. In addition they would refuse to aid, speak to, or even approach the ''censured'' being.\n\nThe mark lasted for hours to days, depending on the caster, and shone through any clothes or covering to those faithful of similar alignment. If the targeted creature was of different alignment than the caster, it was entirely possible for them to be completely unaware of the mark. This dynamic allowed for clergy of similarly aligned [[deities]] to spy on and coordinate around marked targets. Because of this power, priests around [[Faerûn]] were warned that abuse of this spell would bring the wrath of their god.\n\nThe mark could be detected with a ''[[detect magic]]'' spell and removed with ''[[dispel magic]]''.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, the spell required a [[material component]], the holy symbol of the caster.",
-        "History": "This rare spell could be found in the [[spellbook]] known as the ''[[Book of Bats]]''."
+        "mainbody": "Censure was a divine conjuration spell that allowed a cleric to mark a creature with their holy symbol.\nWhen cast, this spell would spiritually \"brand\" a specified creature and physically mark it for any clergy with the same alignment as the caster. Any priests seeing this mark would instinctively react with fear, repulsion, and hatred. In addition they would refuse to aid, speak to, or even approach the censured being.\nThe mark lasted for hours to days, depending on the caster, and shone through any clothes or covering to those faithful of similar alignment. If the targeted creature was of different alignment than the caster, it was entirely possible for them to be completely unaware of the mark. This dynamic allowed for clergy of similarly aligned deities to spy on and coordinate around marked targets. Because of this power, priests around Faerûn were warned that abuse of this spell would bring the wrath of their god.\nThe mark could be detected with a detect magic spell and removed with dispel magic.\nIn addition to verbal and somatic components, the spell required a material component, the holy symbol of the caster.\nThis rare spell could be found in the spellbook known as the Book of Bats."
     }
 }

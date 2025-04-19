@@ -1,21 +1,5 @@
 {
     "document_data": {
-        "image": "Elven Healing Wine.png",
-        "caption": "",
-        "name": "''Elven Healing Wine''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Wine]]",
-        "creator": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "729 [[gp]]",
-        "weight2e": "{{SI|1|lbs}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
@@ -38,8 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''Elven healing wine''' was a unique type of [[elven]] [[wine]], found only in the ruins of [[Severed Hand]].",
-        "Powers": "This wine possessed the properties of a [[healing potion]].",
-        "History": "Some time prior to the fortress's destruction, the [[Seldarine]] [[priest]]s of the [[Severed Hand|Hand of Seldarine]] became heavily intoxicated during an elven festival one day. In their drunk stupor, the priests accidentally added a barrel of some type of elven wine to a mixture that had been intended for healing potions. Following this incident, bottles of the new concoction were sold by the elven merchant [[Lehland]].\n\nFollowing his transformation into a [[ghost]], Lehland continued to offer elven healing wine alongside other products."
+        "mainbody": "Elven healing wine was a unique type of elven wine, found only in the ruins of Severed Hand.\nThis wine possessed the properties of a healing potion.\nSome time prior to the fortresss destruction, the Seldarine priests of the Hand of Seldarine became heavily intoxicated during an elven festival one day. In their drunk stupor, the priests accidentally added a barrel of some type of elven wine to a mixture that had been intended for healing potions. Following this incident, bottles of the new concoction were sold by the elven merchant Lehland.\nFollowing his transformation into a ghost, Lehland continued to offer elven healing wine alongside other products."
     }
 }

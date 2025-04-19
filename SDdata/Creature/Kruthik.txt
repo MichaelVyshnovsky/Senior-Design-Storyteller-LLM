@@ -1,37 +1,27 @@
-{{Creature
-| image        = 
-<gallery>
-Morderkainens Tome of Foes Kruthiks.png|5e
-Kruthik MM 4e.jpg|4e
-Kruthik 3 5e.jpg|3e
-</gallery>
-| caption2     = Various depictions of kruthiks.
-| name         = Kruthik
-| size5e       = {{Size table|Young|Small|Adult|Medium|Hive Lord|Large}}
-| type5e       = [[Monstrosity]]
+| type5e       = Monstrosity
 | subtype5e    = 
-| alignment5e  = [[Unaligned]]
-| challenge5e  = {{CR table|edition=5e|Young|{{Frac|1|8}}|Adult|2|Hive Lord|5}}
+| alignment5e  = Unaligned
+| challenge5e  = |Adult|2|Hive Lord|5
 | refs5e       = 
-| size4e       = {{Size table|Hatchling|Small|Young|Small|Adult|Medium|Hive Lord|Large}}
-| origin4e     = [[Natural]]
-| type4e       = [[Beast]]
-| subtype4e    = [[Reptile]]
-| alignment4e  = [[Unaligned]]
-| refs4e       = {{Cite dragon/430/Ecology of the Kruthik}}
-| size3e       = {{Size table|Hatchling|Small|Adult|Medium|Greater|Large}}
-| type3e       = [[Magical beast]]
+| size4e       = 
+| origin4e     = Natural
+| type4e       = Beast
+| subtype4e    = Reptile
+| alignment4e  = Unaligned
+| refs4e       = 
+| size3e       = 
+| type3e       = Magical beast
 | subtype3e    = 
-| alignment3e  = Usually [[lawful evil]]
-| challenge3e  = {{CR table|edition=3e|Hatchling|2|Adult|4|Greater|6}}
+| alignment3e  = Usually lawful evil
+| challenge3e  = 
 | refs3e       = 
 | patron deity = 
-| vision       = [[Darkvision]], [[Tremorsense]]
+| vision       = Darkvision, Tremorsense
 | activecycle  = 
 | diet         = Carnivore
 | lifespan     = 
-| location     = [[Nerath]],
-| language     =Kruthik<ref name=MToF /> 
+| location     = Nerath,
+| language     =Kruthik 
 | subraces     = 
 | climate      = Warm
 | terrain      = Plains, underground
@@ -48,44 +38,19 @@ Kruthik 3 5e.jpg|3e
 | distinctions = Chitin-covered reptilian bodies
 | based        = 
 | first        = 
-}}'''Kruthiks''' were [[Reptile|reptilian]] hybrids of an insect and a [[drake]].
-
-==History==
-Kruthiks were created through vile [[magic]]s by an ancient [[tiefling]] empire on the world of [[Nerath]] for use as living siege weapons. The beastmasters infused the essence of a fiendish burrowing insect from the [[Nine Hells]] into [[scytheclaw drake]]s, creating the first kruthiks. The monstrous creations proved impossible to control and they quickly escaped into Nerath's [[Underdark]] during the empire's fall. Unleashed into the world of Nerath, kruthiks thrived and became one of the greatest threats that the subterranean civilizations of the Underdark, as well as their neighbors on the surface, faced.
-
-On [[Toril]], a small hive of kruthiks was discovered in the vicinity of [[Spellgard]] ''circa'' [[1470 DR]].
-
-==Description==
-Kruthiks became more horrid as they advanced through their life cycle, but all kruthiks shared certain characteristics. A kruthik vaguely resembled a canine covered in plates of thick, silvery chitin. It had six limbs composed of bone, chitin, and steely scales; the front and rear appendages ended in long scythes that could hew through stone. In addition to serving as a kruthik's weapons, manipulators, and means of travel, these limbs were its main sensory organs. Its reptilian head was mostly large, serrated mandibles. Armored plates protected a kruthik's neck and back.
-
-==Behavior==
-{{fq
-| text   = As I had feared, our clan's newest mining outpost, one of our proudest achievements, was completely destroyed. Kruthik tunnels riddled the deserted complex, and I knew it was pointless to search for survivors.
-| source = Theros Silveraxe, Dwarf Darkstrider
-| float  = 
-| width  = 
-}}These sadistic half-reptiles were an unyielding force of chaos and destruction. They turned quickly on their failed masters and, given their burrowing capabilities, easily wandered off and massacred whatever they found.
-
-Kruthiks were aggressively territorial and would defend their hives, especially the nest's hatchery, and food stores.
-
+Kruthiks were reptilian hybrids of an insect and a drake.
+Kruthiks were created through vile magics by an ancient tiefling empire on the world of Nerath for use as living siege weapons. The beastmasters infused the essence of a fiendish burrowing insect from the Nine Hells into scytheclaw drakes, creating the first kruthiks. The monstrous creations proved impossible to control and they quickly escaped into Neraths Underdark during the empires fall. Unleashed into the world of Nerath, kruthiks thrived and became one of the greatest threats that the subterranean civilizations of the Underdark, as well as their neighbors on the surface, faced.
+On Toril, a small hive of kruthiks was discovered in the vicinity of Spellgard circa 1470 DR.
+Kruthiks became more horrid as they advanced through their life cycle, but all kruthiks shared certain characteristics. A kruthik vaguely resembled a canine covered in plates of thick, silvery chitin. It had six limbs composed of bone, chitin, and steely scales the front and rear appendages ended in long scythes that could hew through stone. In addition to serving as a kruthiks weapons, manipulators, and means of travel, these limbs were its main sensory organs. Its reptilian head was mostly large, serrated mandibles. Armored plates protected a kruthiks neck and back.
+These sadistic half-reptiles were an unyielding force of chaos and destruction. They turned quickly on their failed masters and, given their burrowing capabilities, easily wandered off and massacred whatever they found.
+Kruthiks were aggressively territorial and would defend their hives, especially the nests hatchery, and food stores.
 Kruthiks communicated with each other through complex insect-like chitters, reptilian hisses, and pheromones. They were intelligent enough to understand simple phrases in other languages.
-
-==Combat==
 These monstrosities hunted in packs. The hatchlings and the young swarmed around the nearest foe in a vicious horde, raking the target to pieces with their claws and mandibles and fighting until slain. The adults used their toxic spikes on tempting targets within range before engaging in melee. Similarly, the hive lords used acid blasts to weaken enemies then followed with relentless claw attacks, while staying close to other kruthiks.
-
-==Ecology==
-When a kruthik was in contact with the ground, it could detect the slightest vibrations, allowing it to pinpoint the location of any creature within a radius of 50 feet (15 meters) or {{SI|60|ft|long=yes}}.
-
-[[File:Dragon430 Nesting Warrens.png|thumb|320px|''A kruthik nesting warren.'']]
-Kruthiks reproduced once a year by laying a clutch of six gray eggs that hatched a day or two later. The hatchlings were the size of a small [[dog]] but could easily rend a humanoid in half. After a week of constant feeding, a hatchling became a young kruthik, which was almost {{SI|3|ft|long=yes}} long and weighing {{SI|30|lbs|k|long=yes}}. Young kruthiks had dragonfly-like wings, but most of them couldn't fly, with the wings instead giving them a speed advantage over their older kin. After a year, a kruthik matured into an adult, which was over {{SI|6|ft|long=yes}} long and weighing {{SI|250|lbs|k|long=yes}}.
-
+When a kruthik was in contact with the ground, it could detect the slightest vibrations, allowing it to pinpoint the location of any creature within a radius of 50 feet (15 meters) or .
+thumb|320px|A kruthik nesting warren.
+Kruthiks reproduced once a year by laying a clutch of six gray eggs that hatched a day or two later. The hatchlings were the size of a small dog but could easily rend a humanoid in half. After a week of constant feeding, a hatchling became a young kruthik, which was almost  long and weighing . Young kruthiks had dragonfly-like wings, but most of them couldnt fly, with the wings instead giving them a speed advantage over their older kin. After a year, a kruthik matured into an adult, which was over  long and weighing .
 Adult kruthiks developed chitinous spikes on their plates that filled with acerbic venom when threatened. Those spikes could also be hurled short distances with deadly accuracy.
-
-Most kruthiks died before reaching their final stage of life at five or more years. That stage was the hive lord; they encased themselves in a dull gray-blue chrysalis and after four weeks of metamorphosis emerged covered with bulkier chitin plates, nearly {{SI|12|ft|long=yes}} long and weighing a {{SI|1|ton|k|long=yes}}. The hive lords had highly caustic and nauseating blue saliva, which they could spray in a wide arc.
-
-Kruthiks were social creatures dwelling in hierarchical nomadic hives, which typically consisted of numerous kruthiks led by one or more hive lords. The hives depleted all resources in the area and moved on. Kruthiks inhabited large underground chambers or cave systems. They were attracted to sources of heat and magical energies, especially those connected to the [[Nine Hells]], and excavated lairs as close to such locations as possible.
-
-Kruthiks tolerated [[construct]]s, [[elemental]]s, [[ooze]]s, and [[undead]], and sometimes used them to help guard the hive.
-
-Because kruthiks were repelled by the [[sulfur]]ous smells of their dead, there was a thriving market for their ichor and body parts. Armorers were able to use kruthik chitin to create lightweight yet durable armor and shields.
-
+Most kruthiks died before reaching their final stage of life at five or more years. That stage was the hive lord they encased themselves in a dull gray-blue chrysalis and after four weeks of metamorphosis emerged covered with bulkier chitin plates, nearly  long and weighing a . The hive lords had highly caustic and nauseating blue saliva, which they could spray in a wide arc.
+Kruthiks were social creatures dwelling in hierarchical nomadic hives, which typically consisted of numerous kruthiks led by one or more hive lords. The hives depleted all resources in the area and moved on. Kruthiks inhabited large underground chambers or cave systems. They were attracted to sources of heat and magical energies, especially those connected to the Nine Hells, and excavated lairs as close to such locations as possible.
+Kruthiks tolerated constructs, elementals, oozes, and undead, and sometimes used them to help guard the hive.
+Because kruthiks were repelled by the sulfurous smells of their dead, there was a thriving market for their ichor and body parts. Armorers were able to use kruthik chitin to create lightweight yet durable armor and shields.

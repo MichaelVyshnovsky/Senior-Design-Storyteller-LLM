@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "50|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Delver's armor.png",
-        "caption": "",
-        "name": "''Delver's Armor''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Heavy armor]]",
-        "location": "[[Neverwinter]], [[Sword Coast]]<br/>[[Undermountain]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+2",
-        "value3e": "",
-        "weight3e": "{{SI|50|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Delver's armor''''' were [[enchanted]] sets of [[heavy armor]] used by the [[Order of Delvers]] in the late 14{{th}} century [[DR]].",
-        "Powers": "These sets of [[plate mail]] were enhanced with a ''+2'' enchantment and improved the wearers defenses against most natural and magical dangers encountered in the dark subterranean places.",
-        "History": "The [[dwarves]] of the delver's guild faced many dangers in their profession, including deadly attacks by [[goblin]]s, [[troll]]s, and hungry evil beasties. The Order of Delvers built these sturdy sets of heavy armor to better protect the delvers from all things dangerous underground. In the late late 14{{th}} century DR, some sets of ''delver's armor'' were in the hands of other persons other than the guild members, found in the cities such as [[Neverwinter]], in the depths of [[Undermountain]], and along the trade routes of the [[Moonsea]] region."
+        "mainbody": "Delvers armor were enchanted sets of heavy armor used by the Order of Delvers in the late 14 century DR.\nThese sets of plate mail were enhanced with a +2 enchantment and improved the wearers defenses against most natural and magical dangers encountered in the dark subterranean places.\nThe dwarves of the delvers guild faced many dangers in their profession, including deadly attacks by goblins, trolls, and hungry evil beasties. The Order of Delvers built these sturdy sets of heavy armor to better protect the delvers from all things dangerous underground. In the late late 14 century DR, some sets of delvers armor were in the hands of other persons other than the guild members, found in the cities such as Neverwinter, in the depths of Undermountain, and along the trade routes of the Moonsea region."
     }
 }

@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Mordenkainen's Penultimate Cogitation",
-        "deity": "",
-        "inventor": "[[Mordenkainen]]",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]<br />[[Incantation]] ([[Metamagic]])",
-        "spheres2e": "",
-        "level2e": "{{Spell table|edition=2e|[[Wizard]]|7}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,9 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Mordenkainen's penultimate cogitation''''' was a powerful [[spell]] that allowed a [[wizard]] to recall a spell from any of his or her [[spellbook]]s.",
-        "Effects": "Through the use of the spell, any spell less powerful than ''Mordenkainen's penultimate cogitation'' could be recalled from one of the caster's spellbooks, as long as it stood less than one mile (1.6 km) away. It could not recall spells from [[scroll]]s or another wizard's spellbook. There was also a small chance that recalling the spell using this method erased it from the spellbook.\n\nThe spell could not reach the spellbook if a [[crystal sphere]] stood between it and the caster.",
-        "Components": "The spell required only [[verbal]] and [[somatic]] components.",
-        "History": "The spell was attributed to the [[Oerth]]ian [[archmage]] [[Mordenkainen]]. In the mid‒14{{th}} century [[DR]], the spell was uncommon in [[Faerûn]]. This spell was known to be used by wizards of the [[Cult of the Dragon]]."
+        "mainbody": "Mordenkainens penultimate cogitation was a powerful spell that allowed a wizard to recall a spell from any of his or her spellbooks.\nThrough the use of the spell, any spell less powerful than Mordenkainens penultimate cogitation could be recalled from one of the casters spellbooks, as long as it stood less than one mile (1.6 km) away. It could not recall spells from scrolls or another wizards spellbook. There was also a small chance that recalling the spell using this method erased it from the spellbook.\nThe spell could not reach the spellbook if a crystal sphere stood between it and the caster.\nThe spell required only verbal and somatic components.\nThe spell was attributed to the Oerthian archmage Mordenkainen. In the mid‒14 century DR, the spell was uncommon in Faerûn. This spell was known to be used by wizards of the Cult of the Dragon."
     }
 }

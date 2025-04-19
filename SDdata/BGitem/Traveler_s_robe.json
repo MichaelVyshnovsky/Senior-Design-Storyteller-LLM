@@ -1,27 +1,11 @@
 {
     "document_data": {
-        "image": "Traveler's Robe.png",
-        "caption": "",
-        "name": "''Traveler's Robe''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Robe]]s",
-        "creator": "",
-        "location": "",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "600 [[gp]]",
-        "weight2e": "{{SI|4|lb}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
         "itemlevel3e": "",
-        "value3e": "795 [[gp]]",
-        "weight3e": "{{SI|4|lb}}",
+        "value3e": "795 gp",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -38,7 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "A '''''traveler's robe''''' was a type of garment favored by those [[arcane spellcaster]]s who lived transient lives, moving from one settlement to another.",
-        "Powers": "This type of robe offered its wearer protection against weapons that pierced the flesh, such as [[arrow]]s and [[dagger]]s. It also offered them an extra breath of life when threatened by billowing clouds of noxious gas."
+        "mainbody": "A travelers robe was a type of garment favored by those arcane spellcasters who lived transient lives, moving from one settlement to another.\nThis type of robe offered its wearer protection against weapons that pierced the flesh, such as arrows and daggers. It also offered them an extra breath of life when threatened by billowing clouds of noxious gas."
     }
 }

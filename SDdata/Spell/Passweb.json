@@ -1,18 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Passweb",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "reversible2e": "",
-        "school2e": "[[Abjuration]], [[Alteration]]",
-        "spheres2e": "[[Necromantic sphere|Necromantic]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|4|[[Necromantic sphere|Necromantic]]|4|[[Wizard]]|5}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -20,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Passweb''''' was a single-target [[spell]] that allowed the target to pass through [[magic|magical]] and natural webs, tough [[rope]], and organic vines.",
-        "Effects": "The spell would allow the caster, or target, to pass through many types of web-like material, including magical webs acting as gates. The caster could also attempt to free a captive entangled in the web-like material. However, if the captive chose to stay entangled, they would remain so. The structure of the webs would not change in shape or form when passed through.\n\nThe [[cleric]] version of this spell differed by having a shorter casting time.",
-        "Components": "Only [[Verbal component|verbal]] and [[Somatic component|somatic]] components were required to cast this spell."
+        "mainbody": "Passweb was a single-target spell that allowed the target to pass through magical and natural webs, tough rope, and organic vines.\nThe spell would allow the caster, or target, to pass through many types of web-like material, including magical webs acting as gates. The caster could also attempt to free a captive entangled in the web-like material. However, if the captive chose to stay entangled, they would remain so. The structure of the webs would not change in shape or form when passed through.\nThe cleric version of this spell differed by having a shorter casting time.\nOnly verbal and somatic components were required to cast this spell."
     }
 }

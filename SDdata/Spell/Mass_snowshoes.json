@@ -1,31 +1,7 @@
 {
-    "template_data": {
-        "edition": "3e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Mass Snowshoes",
-        "deity": "[[Auril]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "[[Transmutation]]",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "{{Spell table|edition=3e|[[Cleric]]|3|[[Druid]]|2|[[Ranger]]|3}}",
         "type3e": "",
-        "refs3e": "{{Cite dragon/312/Faiths of Faerun: Prayers of the Frostmaiden|65}}",
+        "refs3e": "",
         "reversible2e": "",
         "school2e": "",
         "spheres2e": "",
@@ -37,9 +13,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Mass snowshoes''''' was a [[divine magic]] spell available to priests and [[ranger]]s of [[Auril]], the Frostmaiden. It cast the [[Snowshoes (spell)|''snowshoes'']] spell on a group of creatures.",
-        "Effects": "This spell could be cast at a creature or group of creatures up to 30 ft (9.1 m) away (higher level casters could extend this range). It affected a number of creatures determined by the caster's level, and that fit within a 30 ft (9.1 m) diameter circle<ref group=\"note\">It doesn't have to be a circle, but a circle gives the maximum possible area. It could be an equilateral triangle with 30 ft sides, or a square with 30 ft diagonals, for example. or other regular shape as long as no two individuals were more than 30 ft (9.1 m) apart. The recipients were able to travel unhindered over icy or snowy terrain for a few hours as per the [[Snowshoes (spell)|''snowshoes'']] spell.",
-        "Components": "Only verbal and somatic components were required to cast this spell.",
-        "History": "This spell was believed to be recorded in a holy book of Auril called ''[[Revelations of the Icedawn]]''{{Cite dragon/312/Faiths of Faerun: Prayers of the Frostmaiden|62}} and was granted to her [[cleric]]s, [[druid]]s, and [[ranger]]s."
+        "mainbody": "Mass snowshoes was a divine magic spell available to priests and rangers of Auril, the Frostmaiden. It cast the snowshoes spell on a group of creatures.\nThis spell could be cast at a creature or group of creatures up to 30 ft (9.1 m) away (higher level casters could extend this range). It affected a number of creatures determined by the casters level, and that fit within a 30 ft (9.1 m) diameter circleIt doesnt have to be a circle, but a circle gives the maximum possible area. It could be an equilateral triangle with 30 ft sides, or a square with 30 ft diagonals, for example. or other regular shape as long as no two individuals were more than 30 ft (9.1 m) apart. The recipients were able to travel unhindered over icy or snowy terrain for a few hours as per the snowshoes spell.\nOnly verbal and somatic components were required to cast this spell.\nThis spell was believed to be recorded in a holy book of Auril called Revelations of the Icedawn and was granted to her clerics, druids, and rangers."
     }
 }

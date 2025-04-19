@@ -1,29 +1,7 @@
 {
-    "template_data": {
-        "0.1|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "''Lathander's Favor''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Amulet]]",
-        "creator": "",
-        "location": "[[Westgate]], [[Dragon Coast]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "2{{nd}}",
         "itemlevel3e": "",
-        "value3e": "{{SI|0.1|lb|k|long=yes}}",
+        "value3e": "",
         "weight3e": "",
         "refs3e": "",
         "level4e": "",
@@ -41,8 +19,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Lathander's Favor''''' was a type of [[enchanted]] [[amulet]] created by the [[Church of Lathander]] and sold in the Morninglord's temples.",
-        "Powers": "Each of these amulets was ensorcelled with Lathander's divine magics allowing the wearer to receive the deity's ''[[bless]]ing'' once per day.",
-        "History": "In the late 14{{th}} century [[DR]], ''Lathander's Favors'' were sold in the [[Morningstar Haven]], temple of Lathander in [[Westgate]]."
+        "mainbody": "Lathanders Favor was a type of enchanted amulet created by the Church of Lathander and sold in the Morninglords temples.\nEach of these amulets was ensorcelled with Lathanders divine magics allowing the wearer to receive the deitys blessing once per day.\nIn the late 14 century DR, Lathanders Favors were sold in the Morningstar Haven, temple of Lathander in Westgate."
     }
 }

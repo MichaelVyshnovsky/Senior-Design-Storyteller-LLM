@@ -1,13 +1,3 @@
-{{DEFAULTSORT:Mephit, mud}}
-{{Creature
-| image        = Mud_Mephit-5e.png
-| caption      = 
-| name         = Mud mephit
-| size5e       = Small
-| type5e       = [[Elemental]]
-| subtype5e    = 
-| alignment5e  = [[Neutral evil]]
-| challenge5e  = {{Frac|1|4}}
 | refs5e       = 
 | size4e       = 
 | origin4e     = 
@@ -28,12 +18,12 @@
 | alignment1e  = 
 | refs1e       = 
 | patron deity = 
-| vision       = [[Darkvision]]
+| vision       = Darkvision
 | activecycle  = 
 | diet         = 
 | lifespan     = 
 | location     = 
-| language     = [[Aquan]], [[Terran]]
+| language     = Aquan, Terran
 | subraces     = 
 | climate      = 
 | terrain      = 
@@ -48,9 +38,5 @@
 | distinctions = 
 | based        = 
 | first        = 
-}}
-'''Mud mephits''' were [[mephit]]s composed of [[water]] and [[Earth (element)|earth]]. They were slow, greedy and falsely polite, constantly complaining and seeking attention.
-
-==Ecology==
-Mud mephit wings were an [[alchemical]] ingredient. When the wings of [[clay]] and mud were harvested, they quickly detrained and fell apart. These wings could be processed into a suspension of muddy goo, that, in turn, when mixed with a certain alchemical sublimate to create an ''[[elixir of poison resistance]]''.
-
+Mud mephits were mephits composed of water and earth. They were slow, greedy and falsely polite, constantly complaining and seeking attention.
+Mud mephit wings were an alchemical ingredient. When the wings of clay and mud were harvested, they quickly detrained and fell apart. These wings could be processed into a suspension of muddy goo, that, in turn, when mixed with a certain alchemical sublimate to create an elixir of poison resistance.

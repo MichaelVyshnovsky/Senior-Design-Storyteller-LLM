@@ -1,31 +1,11 @@
 {
-    "template_data": {
-        "1|lb|k|long": "yes",
-        "1|lb|k|long_1": "yes"
-    },
     "document_data": {
-        "image": "Potion of Master Thievery.png",
-        "caption": "",
-        "name": "''Potion of Master Thievery''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "",
-        "creator": "",
-        "location": "[[Nashkel]], [[Amn]]<br/>[[Sorcerous Sundries]], [[Baldur's Gate]]",
-        "basicrefs": "",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "400 [[gp]]",
-        "weight2e": "{{SI|1|lb|k|long=yes}}",
         "refs2e": "",
         "school3e": "",
         "casterlevel3e": "",
         "itemlevel3e": "",
         "value3e": "",
-        "weight3e": "{{SI|1|lb|k|long=yes}}",
+        "weight3e": "",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -42,8 +22,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''Potions of Master Thievery''''' were magic [[potion]]s that fortified the imbiber's skills often associated with [[rogue]]s and [[thieves]].",
-        "Powers": "When consumed, these potions temporarily gave the drinker abilities of a master thief, dramatically increasing their skills to pick locks and pockets. The effects of these potions lasted between three hours",
-        "Notable Owners": "*[[Black Lily]], a merchant of [[Baldur's Gate]]'s thieves' guild in the 14{{th}} century [[DR]].\n*[[Silence (person)|Silence]], a merchant from the eastern part of Baldur's Gate  in the 14{{th}} century DR.\n*[[Vitiare]], a person claiming to be a \"master thief\" in the town of Nashkel in the 14{{th}} century DR."
+        "mainbody": "Potions of Master Thievery were magic potions that fortified the imbibers skills often associated with rogues and thieves.\nWhen consumed, these potions temporarily gave the drinker abilities of a master thief, dramatically increasing their skills to pick locks and pockets. The effects of these potions lasted between three hours\n*Black Lily, a merchant of Baldurs Gates thieves guild in the 14 century DR.\n*Silence, a merchant from the eastern part of Baldurs Gate  in the 14 century DR.\n*Vitiare, a person claiming to be a \"master thief\" in the town of Nashkel in the 14 century DR."
     }
 }

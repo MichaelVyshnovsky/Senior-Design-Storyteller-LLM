@@ -1,18 +1,8 @@
-{{Creature
-| image        = <gallery>
-Emerald dragon 5e.jpg|5e
-Emerald dragon.jpg|3e
-Emerald dragon 2e.jpg|2e
-</gallery>
-| caption2     = Various depictions of emerald dragons.
-| name         = Emerald Dragon
-| othernames   = 
-| size5e       = {{Size table|Wyrmling|Medium|Young|Large|Adult|Huge|Ancient|Gargantuan|Greatwyrm|Gargantuan}}
-| type5e       = [[Dragon]]
-| subtype5e    = [[Gem dragon]]
-| alignment5e  = Typically [[lawful neutral]]
-| challenge5e  = {{CR table|edition=5e|Wyrmling|2|Young|8|Adult|14|Ancient|21|Greatwyrm|26}}
-| refs5e       = <ref name=FToD-p201">
+| type5e       = Dragon
+| subtype5e    = Gem dragon
+| alignment5e  = Typically lawful neutral
+| challenge5e  = 
+| refs5e       = 
 | size4e       = 
 | origin4e     = 
 | type4e       = 
@@ -20,18 +10,18 @@ Emerald dragon 2e.jpg|2e
 | alignment4e  = 
 | refs4e       = 
 | size3e       = 
-| type3e       = [[Dragon]]
-| subtype3e    = [[:Category:Creatures with the air subtype|Air]], [[:Category:Psionic creatures|psionic]]
-| alignment3e  = Always [[lawful neutral]]
-| challenge3e  = {{CR table|edition=3e|Wyrmling|3|Very young|5|Young|7|Juvenile|9|Young adult|12|Adult|15|Mature adult|17|Old|19|Very old|20|Ancient|22|Wyrm|23|Great wyrm|25}}
+| type3e       = Dragon
+| subtype3e    = Air, psionic
+| alignment3e  = Always lawful neutral
+| challenge3e  = 
 | refs3e       = 
 | size2e       = Huge
-| alignment2e  = [[Lawful neutral]]
+| alignment2e  = Lawful neutral
 | refs2e       = 
 | size1e       = Large
-| alignment1e  = [[Neutral]]
-| refs1e       = {{Cite dragon/37/That's not in the Monster Manual!|7,35,36}}
-| patron deity = [[Sardior]]<ref>{{Cite web/The Legend of Sardior}}
+| alignment1e  = Neutral
+| refs1e       = 
+| patron deity = Sardior
 | movement     = 
 | vision       = 
 | activecycle  = Any
@@ -39,13 +29,13 @@ Emerald dragon 2e.jpg|2e
 | lifespan     = 
 | location     = 
 | intelligence = Exceptional
-| language     = [[Draconic language|Draconic]]
+| language     = Draconic
 | subraces     = 
 | climate      = Tropical, subtropical
 | terrain      = Extinct volcanoes
 | genrefs      = 
 | height       = 
-| length       = {{SI|20|ft}}
+| length       = 
 | wingspan     = 
 | weight       = 
 | skincolor    = Shades of green
@@ -59,65 +49,32 @@ Emerald dragon 2e.jpg|2e
 | first        = 
 | based        = 
 | histrefs     = 
-}}
-'''Emerald dragons''' were a breed of [[gem dragon]] known to be inquisitive, often more knowledgeable than most sages, and for their striking [[emerald]] color.
- 
-==Description==
-When a [[wyrmling]], an emerald dragon had translucent sea-green scales. As it grew older, its scales hardened Conversely, their pupils faded with age, so a [[great wyrm]]'s eyes were naught but blank green glowing orbs. On the whole, however, they were quite beautiful. 
-
-A hatchling had a {{SIAdj|3|ft|long=yes|adj=long}} body and {{SIAdj|2|ft|long=yes|adj=long}} tail, while an adult had a body length of {{SIrange|45|54|ft|long=yes}} and a tail length of {{SIrange|35|42|ft|long=yes}}. The biggest great wyrms grew to {{SI|108|ft|long=yes}} long in the body, with tails {{SI|84|ft|long=yes}} long.
-
-==Personality==
+Emerald dragons were a breed of gem dragon known to be inquisitive, often more knowledgeable than most sages, and for their striking emerald color.
+When a wyrmling, an emerald dragon had translucent sea-green scales. As it grew older, its scales hardened Conversely, their pupils faded with age, so a great wyrms eyes were naught but blank green glowing orbs. On the whole, however, they were quite beautiful. 
+A hatchling had a  body and  tail, while an adult had a body length of  and a tail length of . The biggest great wyrms grew to  long in the body, with tails  long.
 Emerald dragons were deeply inquisitive, with a keen interest in local customs and history.
-
-However, they also tended to be paranoid and distrustful of visitors, and their lairs often had many [[trap]]s. They were reclusive did not like anyone going anywhere near their hoards. Hence, it was very hard to make even a casual acquaintance with an emerald dragon, let alone learn what they knew.
-
-==Abilities==
-In place of [[dragon breath]], emerald dragons could instead make a loud keening wail. Its sonic vibrations In one version, this sonic assault could affect all in hearing range, which was {{SI|120|ft|long=yes}} from its mouth for an adult and its effects could last up to an hour, but only made twice a day. In another, it was a more limited cone of sonic energy extending to {{SI|50|ft|long=yes}} with effects lasting only up to a minute for an adult, but made much more frequently.
-
-Hence, emerald dragons were naturally immune to [[:Category:Sonic_spells|sonic spells]].
-
+However, they also tended to be paranoid and distrustful of visitors, and their lairs often had many traps. They were reclusive did not like anyone going anywhere near their hoards. Hence, it was very hard to make even a casual acquaintance with an emerald dragon, let alone learn what they knew.
+In place of dragon breath, emerald dragons could instead make a loud keening wail. Its sonic vibrations In one version, this sonic assault could affect all in hearing range, which was  from its mouth for an adult and its effects could last up to an hour, but only made twice a day. In another, it was a more limited cone of sonic energy extending to  with effects lasting only up to a minute for an adult, but made much more frequently.
+Hence, emerald dragons were naturally immune to sonic spells.
 The ever-shifting green shades of its scales could be quite distracting to those who saw it, and emerald dragons knew it. By undulating its body and rippling its scales in certain ways, it could hypnotize creatures watching it. After three minutes of dealing peaceably, an emerald dragon could take one by surprise with a sudden attack or flight, if it chose.
-
 They might also generate a cloud of fog to blind opponents.
-
-Like any dragon, and in addition to the common powers of gem dragons, emerald dragons gained an array of magical powers as they aged, though accounts of these varied. Alternatively, young dragons could cast ''[[improved invisibility]]'' thrice a day, juveniles could produce a ''[[fog cloud]]'' thrice a day, adults could cast ''[[legend lore]]'' whenever they liked, old dragons could use ''[[clairaudience/clairvoyance]]'' and ''[[nondetection]]'' both thrice a day, and ancient dragons could ''[[sculpt sound]]'' thrice a day. Finally, great wyrms could use ''[[shield of prudence]]'' thrice a day, extending their senses into the future a few moments, granting them greater ability to defend themselves against surprise attacks. Psionic emerald dragons could use ''[[object reading]]'' rather than ''legend lore'', ''[[control sound]]'' instead of ''sculpt sound'', and ''[[augmented invisibility]]'' instead of ''improved invisibility''.
-
-Similarly, emerald dragons could acquire and cast new [[spell]]s of their own, whether arcane or divine, but they were most noted for their talent in [[psionics]]. Those who were so gifted learned the psionic attacks ''[[psionic blast]]'', ''[[id insinuation]]'', or ''[[psychic crush]]'' and the psionic defenses ''[[mind blank (psionic)|mind blank]]'', ''[[tower of iron will]]'', or ''[[thought shield]]''. Common clairsentience powers for crystal dragons were ''[[aura sight]]'', ''object reading'', and ''[[precognition]]'' and common telepathy powers were ''[[contact]]'', ''[[mindlink]]'', ''[[ejection]]'', ''[[ESP (psionic)|ESP]]'', ''[[life detection]]'', ''[[probe]]'', ''[[sight link]]'', and ''[[sound link]]''.
-
+Like any dragon, and in addition to the common powers of gem dragons, emerald dragons gained an array of magical powers as they aged, though accounts of these varied. Alternatively, young dragons could cast improved invisibility thrice a day, juveniles could produce a fog cloud thrice a day, adults could cast legend lore whenever they liked, old dragons could use clairaudience/clairvoyance and nondetection both thrice a day, and ancient dragons could sculpt sound thrice a day. Finally, great wyrms could use shield of prudence thrice a day, extending their senses into the future a few moments, granting them greater ability to defend themselves against surprise attacks. Psionic emerald dragons could use object reading rather than legend lore, control sound instead of sculpt sound, and augmented invisibility instead of improved invisibility.
+Similarly, emerald dragons could acquire and cast new spells of their own, whether arcane or divine, but they were most noted for their talent in psionics. Those who were so gifted learned the psionic attacks psionic blast, id insinuation, or psychic crush and the psionic defenses mind blank, tower of iron will, or thought shield. Common clairsentience powers for crystal dragons were aura sight, object reading, and precognition and common telepathy powers were contact, mindlink, ejection, ESP, life detection, probe, sight link, and sound link.
 They were skilled in acquiring information, hiding, and swimming.
-
-==Society==
-[[File:Raulothim.png|thumb|250px|''The great emerald wyrm Raulothim, the Silent Shadow, with all his rods and wands.'']]
+thumb|250px|The great emerald wyrm Raulothim, the Silent Shadow, with all his rods and wands.
 Emerald dragons were especially protective as parents. They took good care of their young and wished them to stay in their lairs with them for as long as was possible so they could protect one another. Families raised clutches of two to five offspring, and they were likely to be encountered alone or in such clans.
-
-They were omnivorous, but favored the flesh of [[giant]]s and [[lizard]]s.
-
-Emerald dragons spoke [[Draconic]]
-
-Like the rest of the gem dragons, emerald dragons were rarer in the Realms than the common [[chromatic dragon|chromatic]] and [[metallic dragon]]s.{{Cite web/Class Chronicles: Psionic Races and Classes (Ghostwise Halflings, Githyanki, Mind Flayers, Yuan-ti, and Psionic Bestiary)}}
-
-===Relations===
-Emerald dragons were afraid of [[red dragon]]s for their rapacious greed and were openly aggressive to [[fire giant]]s.
-
-They would occasionally have [[sapphire dragon]]s as their neighbors.
-
-Emerald dragons acted as [[favored monster|servants]] of the [[deities]] [[Thard Harr]]<ref> and [[Amaunator]].<ref><ref>
-
-===Lairs===
-Emerald dragons preferred to live underground. they did prefer to dwell in areas close to some sort of civilization and people of any race, though not where they were likely to make their presence known. Even when on the [[Inner Planes]], they kept an eye on their favorite places back in the [[Material Plane]].
-
-==Tactics==
-Distrusting all visitors, emerald dragons surrounded their lairs with alarms and concealed traps, both physical and magical, to give them timely warning. If intruders were not discouraged, the emerald dragon hid itself or turned invisible and used its powers to spy on them and rarely opened conversation. It would reveal itself only if the trespassers discovered the dragon, its hoard, or its hatchlings.{{Cite dragon/218/Dragon Intrigues|18}} Alternatively, they obscured their vision with a ''fog cloud'' before charging in or snatching foes while on the wing. Emerald dragons were very reluctant to get into melee with their foes, and would much rather weakened them as much as they could from a distance first.
-
+They were omnivorous, but favored the flesh of giants and lizards.
+Emerald dragons spoke Draconic
+Like the rest of the gem dragons, emerald dragons were rarer in the Realms than the common chromatic and metallic dragons.
+Emerald dragons were afraid of red dragons for their rapacious greed and were openly aggressive to fire giants.
+They would occasionally have sapphire dragons as their neighbors.
+Emerald dragons acted as servants of the deities Thard Harr and Amaunator.
+Emerald dragons preferred to live underground. they did prefer to dwell in areas close to some sort of civilization and people of any race, though not where they were likely to make their presence known. Even when on the Inner Planes, they kept an eye on their favorite places back in the Material Plane.
+Distrusting all visitors, emerald dragons surrounded their lairs with alarms and concealed traps, both physical and magical, to give them timely warning. If intruders were not discouraged, the emerald dragon hid itself or turned invisible and used its powers to spy on them and rarely opened conversation. It would reveal itself only if the trespassers discovered the dragon, its hoard, or its hatchlings. Alternatively, they obscured their vision with a fog cloud before charging in or snatching foes while on the wing. Emerald dragons were very reluctant to get into melee with their foes, and would much rather weakened them as much as they could from a distance first.
 If encountered at sea for some reason, an emerald dragon brewed up a storm somehow or smashed ships with its tail, starting with the masts before targeting the hulls. If feeling almost merciful, it would cause them to be becalmed or lost in fog or it would break a few masters, forcing the ship to limp back to port. If not, it would force a ship to a place it chose, interrogate the crew and examine the cargo, then take all it desired or ransom the ship, cargo, and, presumably, crew.
-
 Finally, if outnumbered or outmatched, an emerald dragon retreated and began plotting its revenge, and this could take years to play out.
-
-==Notable Emerald Dragons==
-* [[Smargad]], a thane of the gem dragon deity [[Sardior]], the Ruby Dragon.{{Cite web/The Legend of Sardior}}
-* [[Behrshimmer]], a wyrm who laired in the [[Giant's Run Mountains]] in the [[Vilhon Reach]].<ref>{{Cite web enhancement/Roll Call of Dragons}}<ref><ref>
-* [[Raulothim]], the Silent Shadow, a great wyrm who laired within an extinct volcano on [[Axgard]] near [[Ruathym]].{{Cite dragon/253/Wyrms of the North: Raulothim|84}}{{Cite web/Wyrms of the North/Raulothim, "The Silent Shadow"}}<ref>
-* [[Esmerandanna]], the Resplendent Queen and Daul of Thard, a great wyrm of the [[Peaks of Flame]] in [[Chult]] and friend to the [[wild dwarves]].<ref><ref>
-* [[Vercevoran]], a very old emerald of the [[Moonsea]] and [[Dalelands]].<ref><ref>
-
+* Smargad, a thane of the gem dragon deity Sardior, the Ruby Dragon.
+* Behrshimmer, a wyrm who laired in the Giants Run Mountains in the Vilhon Reach.
+* Raulothim, the Silent Shadow, a great wyrm who laired within an extinct volcano on Axgard near Ruathym.
+* Esmerandanna, the Resplendent Queen and Daul of Thard, a great wyrm of the Peaks of Flame in Chult and friend to the wild dwarves.
+* Vercevoran, a very old emerald of the Moonsea and Dalelands.

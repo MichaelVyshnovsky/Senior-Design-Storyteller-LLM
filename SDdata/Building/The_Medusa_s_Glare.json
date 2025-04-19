@@ -1,21 +1,5 @@
 {
     "document_data": {
-        "image": "MedusasGlare.png",
-        "caption": "A map showing the Medusa's Glare outlined in red on Slop Street.",
-        "name": "The Medusa's Glare",
-        "aliases": "",
-        "type": "Shop",
-        "architecture": "",
-        "floors": "",
-        "location": "[[Slop Street]], [[Waterdeep/Southern Ward|Southern Ward]], [[Waterdeep]]",
-        "built": "",
-        "destroyed": "",
-        "owner": "",
-        "staff": "",
-        "occupants": "",
-        "services": "",
-        "worship": "",
-        "basicrefs": "{{Cite dragon/211/\"I Sing a Song by the Deep-Water Bay\"|32}}",
         "ownertable": "",
         "stafftable": "",
         "histrefs": "",
@@ -34,11 +18,6 @@
         "inhabitants": "",
         "locations": "",
         "organizations": "",
-        "mainbody": "'''The Medusa's Glare''' was a sculptor's shop in the city of [[Waterdeep]] in the 14{{th}} century [[DR]].",
-        "Location": "This shop stood at the southern end of [[Slop Street]], near the [[Jade Dancer]], in the [[Waterdeep/Southern Ward|Southern Ward]] of Waterdeep.",
-        "Structure": {
-            "Interior": "Inside the building was a secret room containing a ''[[portal]]'' to [[Harpers' Hold]]."
-        },
-        "Activities": "Owned by a member of the [[Harpers]], the Medusa's Glare acted as a safe-house for that organization in addition to operating as a shop."
+        "mainbody": "The Medusas Glare was a sculptors shop in the city of Waterdeep in the 14 century DR.\nThis shop stood at the southern end of Slop Street, near the Jade Dancer, in the Southern Ward of Waterdeep.\nInside the building was a secret room containing a portal to Harpers Hold.\nOwned by a member of the Harpers, the Medusas Glare acted as a safe-house for that organization in addition to operating as a shop."
     }
 }

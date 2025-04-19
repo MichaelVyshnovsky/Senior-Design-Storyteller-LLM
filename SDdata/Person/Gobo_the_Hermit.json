@@ -1,23 +1,5 @@
 {
-    "template_data": {
-        "edition": "1e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Gobo the Hermit",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Miyama Province]], [[Kozakura]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "gender": "",
-        "race": "[[Human]]",
-        "ethnicity": "",
-        "occupation": "Hermit, {{former}} carpenter",
         "age": "",
         "patron deity": "",
         "languages": "",
@@ -44,11 +26,8 @@
         "successor": "",
         "successionrefs": "",
         "alignment1e": "",
-        "class1e": "{{Class table|edition=1e|[[Shukenja]]|7}}",
+        "class1e": "",
         "refs1e": "",
-        "mainbody": "'''Gobo the Hermit''' was a [[shukenja]] in [[Miyama Province]] in [[Kozakura]] ''circa'' {{YearlinkConvert|1430|KY}}.",
-        "Activities": "Dwelling in a small cave on a mountain slope, concealed amongst trees and maintaining an austere life, Gobo was in search of enlightenment. Before becoming a recluse, he had been a talented and prosperous carpenter.",
-        "Description": "He was middle aged.",
-        "Personality": "Gobo was a kind but rather intense man. He did not follow any religion but tried to develop his own path to understanding the forces and balance of the universe. He had not found it, however."
+        "mainbody": "Gobo the Hermit was a shukenja in Miyama Province in Kozakura circa .\nDwelling in a small cave on a mountain slope, concealed amongst trees and maintaining an austere life, Gobo was in search of enlightenment. Before becoming a recluse, he had been a talented and prosperous carpenter.\nHe was middle aged.\nGobo was a kind but rather intense man. He did not follow any religion but tried to develop his own path to understanding the forces and balance of the universe. He had not found it, however."
     }
 }

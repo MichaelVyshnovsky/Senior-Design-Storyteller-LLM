@@ -1,41 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Laeral's Dancing Whip",
-        "deity": "",
-        "inventor": "[[Laeral Silverhand]]",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Evocation]]",
-        "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|1}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -43,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Laeral's dancing whip''''' was a simple [[spell]] used by [[wizard]]s.",
-        "Effects": "When cast, this spell animated an item that was then used as a floating weapon. The item was transformed into a brilliant white light that was {{SI|5|ft}} in length and floated in the air, attacking a target chosen by the caster. The weapon was able to see through illusions and could detect invisible or shapechanged creatures. The weapon was not damaged as a result of its attacks. The weapon could be used against any target within {{SI|10|ft}} of the caster. This range increased as the caster's skill level grew. The weapon was vulnerable to ''[[dispel magic]]''.",
-        "Components": "In addition to [[Verbal component|verbal]] and [[somatic component|somatic]] components, the spell required a [[material component]], the item selected by the caster. The item had to be small enough to be carried by the caster one-handed, such as a small piece of wood or a whip. During casting, the caster tossed it into the air. The selected item was consumed by the spell."
+        "mainbody": "Laerals dancing whip was a simple spell used by wizards.\nWhen cast, this spell animated an item that was then used as a floating weapon. The item was transformed into a brilliant white light that was  in length and floated in the air, attacking a target chosen by the caster. The weapon was able to see through illusions and could detect invisible or shapechanged creatures. The weapon was not damaged as a result of its attacks. The weapon could be used against any target within  of the caster. This range increased as the casters skill level grew. The weapon was vulnerable to dispel magic.\nIn addition to verbal and somatic components, the spell required a material component, the item selected by the caster. The item had to be small enough to be carried by the caster one-handed, such as a small piece of wood or a whip. During casting, the caster tossed it into the air. The selected item was consumed by the spell."
     }
 }

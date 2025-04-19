@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Body link",
-        "deity": "",
-        "school": "",
-        "spheres": "",
-        "domains": "",
-        "inventor": "",
-        "descriptors": "",
-        "keywords": "",
-        "level": "",
-        "type": "",
-        "category": "",
-        "skill": "",
-        "school5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "type3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Necromancy]], [[Universal (province)|Universal]]<ref>",
-        "spheres2e": "[[Necromantic sphere]]",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|8|[[Cleric]]|7|[[Mystic]]|7}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -47,8 +9,6 @@
         "refs1e": "",
         "rules": "",
         "nocat": "",
-        "mainbody": "'''''Body link''''' was a [[spell]] unique to [[Zakhara]], the Land of Fate. This spell was usable by [[wizard]]s and [[priest]]s ([[cleric]]s).",
-        "Effects": "''Body link'' was used to prevent death from decapitation, or other kinds of dismemberment, by linking all body parts so that their separation would not effect them in any way. Example: a wizard was decapitated, yet his head could still talk and eat normally. Decapitation could cause the wielder to collapse.\n\nThe duration of this spell was based directly on the caster's power. Once dismemberment occurred, the spell lasted for a few more minutes. Any separated body part need only be placed at the site of dismemberment to be re-attached. The full normal effects of dismemberment were experienced if the body part was not re-attached before the spell expired.",
-        "Components": "In addition to verbal and somatic components, this spell required a pearl worth at least 500 [[gold]] pieces, a small amount of tree sap which was eaten by the caster. Casting the spell destroyed the pearl."
+        "mainbody": "Body link was a spell unique to Zakhara, the Land of Fate. This spell was usable by wizards and priests (clerics).\nBody link was used to prevent death from decapitation, or other kinds of dismemberment, by linking all body parts so that their separation would not effect them in any way. Example a wizard was decapitated, yet his head could still talk and eat normally. Decapitation could cause the wielder to collapse.\nThe duration of this spell was based directly on the casters power. Once dismemberment occurred, the spell lasted for a few more minutes. Any separated body part need only be placed at the site of dismemberment to be re-attached. The full normal effects of dismemberment were experienced if the body part was not re-attached before the spell expired.\nIn addition to verbal and somatic components, this spell required a pearl worth at least 500 gold pieces, a small amount of tree sap which was eaten by the caster. Casting the spell destroyed the pearl."
     }
 }

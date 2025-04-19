@@ -1,19 +1,5 @@
-{{Spell
-| image         = TransmuteRockMud.JPG
-| caption       = 
-| name          = Transmute Rock
-| deity         = 
-| inventor      = [[Proctiv]]
-| type          = 
-| school5e      = [[Transmutation]]
-| domains5e     = 
-| circles5e     = 
-| oaths5e       = 
-| patrons5e     = 
-| traditions5e  = 
-| level5e       = {{Spell table|edition=5e|[[Artificer]]|5|[[Druid]]|5|[[Wizard]]|5}}
 | type5e        = 
-| refs5e        = {{Cite document/Elemental Evil Player's Companion|12,14,22-23}}
+| refs5e        = 
 | feature4e     = 
 | keywords4e    = 
 | level4e       = 
@@ -21,38 +7,27 @@
 | category4e    = 
 | skill4e       = 
 | refs4e        = 
-| school3e      = [[Transmutation]]
-| level3e       = {{spell table|edition=3e|[[Druid]]|5|[[Slime domain|Slime]]|6|[[Sorcerer]]|5|[[Wizard]]|5}}
-| domains3e     = [[Slime domain|Slime]]
-| descriptors3e = {{desc/earth}}
+| school3e      = Transmutation
+| level3e       = 
+| domains3e     = Slime
+| descriptors3e = 
 | type3e        = 
 | refs3e        = 
-| school2e      = [[Alteration]], [[Elemental earth school|Earth]], [[Elemental water school|Water]]<br/>[[Sand (province)|Sand]], [[Sea (province)|Sea]], [[Variation]]
+| school2e      = Alteration, Earth, WaterSand, Sea, Variation
 | reversible2e  = true
-| spheres2e     = [[Elemental sphere|Elemental]] [[Elemental earth sphere|Earth]], [[Elemental water sphere|Water]]
-| level2e       = {{spell table|edition=2e|[[Arcanist]]|5|[[Druid]]|5|[[Elemental sphere|Elemental]]|5|[[Elemental earth sphere|Elemental Earth]]|5|[[Elemental water sphere|Elemental Water]]|5|[[Wizard]]|5}}
+| spheres2e     = Elemental Earth, Water
+| level2e       = 
 | type2e        = 
-| refs2e        = <ref><ref><ref><ref>
-| school1e      = [[Alteration]]
+| refs2e        = 
+| school1e      = Alteration
 | reversible1e  = true
-| level1e       = {{spell table|edition=1e|[[Druid]]|5|[[Magic-user]]|5}}
+| level1e       = 
 | type 1e       = 
 | refs1e        = 
-}}
-'''''Transmute rock''''' was a transmutation spell that transformed natural stone into an equivalent volume of viscous mud and vice versa.''Transmute mud to rock'' was not a [[slime domain]] and not a [[Sea (province)|sea]] spell. caused normal mud or [[quicksand]] to become a solid but brittle quantity of stone (like [[alabaster]], [[pipestone]], or sandstone) of equal volume.
-
-==Effects==
-The spell could transform an equivalent volume to {{SI|40|feet|long=yes}} on a side of non-magical rock into a thick flowing mud, that was fluid enough for creatures to sink in. Prior to the Spellplague, this spell only worked on uncut, un-worked rock and any shaping, polishing, or other alterations by non-natural processes prevented the transformation. The maximum depth of stone that could be changed was also smaller, at just {{SI|10|feet|long=yes}}. 
-
-Upon transformation, gravity caused the mud to fall, slide, ooze, subside, or pour to the lowest level possible. Any creatures or objects that were using the rock for support rapidly sank partway into the mud unless they were able to climb, fly, [[levitate]], or use other means to escape.
-
-Falling mud was likely to cause damage to any beneath the affected area. If cast on the ceiling of a cavern, structural integrity could possibly be compromised, causing further damage and destruction. The change was permanent until ''[[dispel magic]]'' or the reverse of this spell was successfully cast on the affected area. Note that restoring the material to its original composition did not necessarily restore its original shape.
-
-==Components==
-This spell required [[verbal]], [[somatic]], and [[material]] components to cast, including a small amount of clay and water. Divine spell casters could use their [[divine focus]] in place of the material components. ''Transmute mud to rock'' required verbal, somatic, and material components as well, including a pinch of [[sand]], [[lime (material)|lime]], and some water.
-
-In the [[Rashemen]] spellcasting tradition of the [[vremyonni]] the [[somatic component]] and the [[material component]] for this spell was to toss a ball of wet clay at the area to be effected by the spell.
-
-==History==
-The [[Arcane magic|arcane]] version of this spell was invented by [[Netheril|Netherese]] [[arcanist]] [[Proctiv]] in {{Yearlink|-2085}} and was originally called '''''Proctiv's rock-mud transmutation'''''.<ref>
-
+Transmute rock was a transmutation spell that transformed natural stone into an equivalent volume of viscous mud and vice versa.Transmute mud to rock was not a slime domain and not a sea spell. caused normal mud or quicksand to become a solid but brittle quantity of stone (like alabaster, pipestone, or sandstone) of equal volume.
+The spell could transform an equivalent volume to  on a side of non-magical rock into a thick flowing mud, that was fluid enough for creatures to sink in. Prior to the Spellplague, this spell only worked on uncut, un-worked rock and any shaping, polishing, or other alterations by non-natural processes prevented the transformation. The maximum depth of stone that could be changed was also smaller, at just . 
+Upon transformation, gravity caused the mud to fall, slide, ooze, subside, or pour to the lowest level possible. Any creatures or objects that were using the rock for support rapidly sank partway into the mud unless they were able to climb, fly, levitate, or use other means to escape.
+Falling mud was likely to cause damage to any beneath the affected area. If cast on the ceiling of a cavern, structural integrity could possibly be compromised, causing further damage and destruction. The change was permanent until dispel magic or the reverse of this spell was successfully cast on the affected area. Note that restoring the material to its original composition did not necessarily restore its original shape.
+This spell required verbal, somatic, and material components to cast, including a small amount of clay and water. Divine spell casters could use their divine focus in place of the material components. Transmute mud to rock required verbal, somatic, and material components as well, including a pinch of sand, lime, and some water.
+In the Rashemen spellcasting tradition of the vremyonni the somatic component and the material component for this spell was to toss a ball of wet clay at the area to be effected by the spell.
+The arcane version of this spell was invented by Netherese arcanist Proctiv in  and was originally called Proctivs rock-mud transmutation.

@@ -1,27 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "Mendolin Nightweaver.jpg",
-        "caption": "",
-        "name": "Mendolin Nightweaver",
-        "alt_spelling": "",
-        "titles": "",
-        "aliases": "",
-        "nicknames": "",
-        "true name": "",
-        "home": "[[Loudwater]], [[Delimbiyr Vale]]",
-        "formerhomes": "",
-        "sex": "Male",
-        "gender": "",
-        "race": "[[Elf]]",
-        "ethnicity": "",
-        "occupation": "",
-        "age": "",
-        "patron deity": "",
-        "languages": "",
-        "basicrefs": "{{Cite card/AD&D Trading Cards/1993|43|Mendolin Nightweaver}}",
         "reckoning": "",
         "dob": "",
         "dobnotes": "",
@@ -46,8 +24,8 @@
         "alignment1e": "",
         "class1e": "",
         "refs1e": "",
-        "alignment2e": "[[Neutral good]]",
-        "class2e": "{{class table|edition=2e|[[Cleric]]|2}}",
+        "alignment2e": "Neutral good",
+        "class2e": "",
         "refs2e": "",
         "alignment3e": "",
         "challenge3e": "",
@@ -64,9 +42,6 @@
         "challenge5e": "",
         "class5e": "",
         "refs5e": "",
-        "mainbody": "'''Mendolin Nightweaver''' was an [[elf|elvish]] [[specialty priest]] of [[Mystra]] in the mid–14{{th}} century [[DR]].",
-        "Description": "Mendolin was not a confident man and he had not reached his full potential as a [[cleric]].",
-        "Possessions": "The elf wore a set of mundane [[splint armor]] and carried a [[shield]]. He was armed with an [[enchanted]] ''+1'' [[silver]] [[dagger]].",
-        "History": "In the mid–14{{th}} century DR, Mendolin Nightweaver sought to establish a temple to Mystra in the city of [[Loudwater]] in the [[Savage Frontier]]."
+        "mainbody": "Mendolin Nightweaver was an elvish specialty priest of Mystra in the mid–14 century DR.\nMendolin was not a confident man and he had not reached his full potential as a cleric.\nThe elf wore a set of mundane splint armor and carried a shield. He was armed with an enchanted +1 silver dagger.\nIn the mid–14 century DR, Mendolin Nightweaver sought to establish a temple to Mystra in the city of Loudwater in the Savage Frontier."
     }
 }

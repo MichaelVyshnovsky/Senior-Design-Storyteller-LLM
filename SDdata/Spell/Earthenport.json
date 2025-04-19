@@ -1,43 +1,5 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "caption": "",
-        "name": "Earthenport",
-        "othernames": "",
-        "deity": "[[Grumbar]]",
-        "inventor": "",
-        "type": "",
-        "school5e": "",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "origins5e": "",
-        "patrons5e": "",
-        "specialists5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "",
-        "type5e": "",
-        "refs5e": "",
-        "feature4e": "",
-        "keywords4e": "",
-        "level4e": "",
-        "type4e": "",
-        "category4e": "",
-        "skill4e": "",
-        "refs4e": "",
-        "school3e": "",
-        "domains3e": "",
-        "descriptors3e": "",
-        "level3e": "",
-        "refs3e": "",
-        "reversible2e": "",
-        "school2e": "[[Alteration]]",
-        "spheres2e": "[[Elemental earth sphere|Elemental earth]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|5}}",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -45,8 +7,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Earthenport''''' was a [[Divine magic|divine]] [[alteration]] [[spell]] used by priests devoted to [[Grumbar]], enabling them to attune to the rocks surrounding them.",
-        "Effects": "This spell allowed the caster to use the rocks surrounding them as ''[[teleport]]'' gateways provided the rocks had at least as much volume as the caster and their equipment. This allowed the caster to safely teleport to any rocky location on the same [[plane]]. It took the caster ten minutes to arrive at their new destination when using this spell.\n\nThe caster was susceptible to harm and being stunned from spells such as ''[[dig]], [[stone shape]]'', and ''[[transmute rock to mud]]'' while using ''earthenport''.",
-        "Components": "This spell required only [[Verbal component|verbal]] and [[somatic component]]s to cast."
+        "mainbody": "Earthenport was a divine alteration spell used by priests devoted to Grumbar, enabling them to attune to the rocks surrounding them.\nThis spell allowed the caster to use the rocks surrounding them as teleport gateways provided the rocks had at least as much volume as the caster and their equipment. This allowed the caster to safely teleport to any rocky location on the same plane. It took the caster ten minutes to arrive at their new destination when using this spell.\nThe caster was susceptible to harm and being stunned from spells such as dig, stone shape, and transmute rock to mud while using earthenport.\nThis spell required only verbal and somatic components to cast."
     }
 }

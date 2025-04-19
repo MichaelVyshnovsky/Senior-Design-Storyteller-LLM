@@ -1,24 +1,5 @@
 {
-    "template_data": {
-        "edition": "5e",
-        "variant": "ritual",
-        "edition_1": "2e"
-    },
     "document_data": {
-        "image": "Skywrite.png",
-        "caption": "",
-        "name": "Skywrite",
-        "deity": "",
-        "inventor": "",
-        "type": "",
-        "school5e": "[[Transmutation]]",
-        "domains5e": "",
-        "circles5e": "",
-        "oaths5e": "",
-        "patrons5e": "",
-        "traditions5e": "",
-        "archetypes5e": "",
-        "level5e": "{{Spell table|edition=5e|variant=ritual|[[Artificer]]|2|[[Bard]]|2|[[Druid]]|2|[[Wizard]]|2}}",
         "type5e": "Ritual",
         "refs5e": "",
         "feature4e": "",
@@ -35,9 +16,9 @@
         "type3e": "",
         "refs3e": "",
         "reversible2e": "",
-        "school2e": "[[Alteration]], [[Elemental air school|Air]], [[Geometry]]",
+        "school2e": "Alteration, Air, Geometry",
         "spheres2e": "",
-        "level2e": "{{spell table|edition=2e|[[Wizard]]|3}}",
+        "level2e": "",
         "type2e": "",
         "refs2e": "",
         "reversible1e": "",
@@ -45,9 +26,6 @@
         "level1e": "",
         "type1e": "",
         "refs1e": "",
-        "mainbody": "'''''Skywrite''''' was a [[transmutation]] [[spell]] that created a short message composed of clouds in the sky.",
-        "Effects": "The spell created a stationary message that appeared to be made of clouds and consisted of up to ten words at any point in the sky within sight. The message lasted for up to 1 hour, unless a strong wind dissipated the clouds early.",
-        "Components": "The spell required only [[Verbal component|verbal]] and [[somatic component]]s.",
-        "History": "''Skywrite'' was among the spells contained in the last chapter of ''[[Myrl's Text]]'', written some time in the [[12th century]] [[DR]]. There was some indiction that this chapter was not written by the wizard [[Myrl]] alone, and it remained unclear if the spell was his creation.<ref>"
+        "mainbody": "Skywrite was a transmutation spell that created a short message composed of clouds in the sky.\nThe spell created a stationary message that appeared to be made of clouds and consisted of up to ten words at any point in the sky within sight. The message lasted for up to 1 hour, unless a strong wind dissipated the clouds early.\nThe spell required only verbal and somatic components.\nSkywrite was among the spells contained in the last chapter of Myrls Text, written some time in the 12th century DR. There was some indiction that this chapter was not written by the wizard Myrl alone, and it remained unclear if the spell was his creation."
     }
 }

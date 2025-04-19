@@ -1,37 +1,11 @@
 {
-    "template_data": {
-        "6|in|long": "yes",
-        "0'8\"|2'0\"|ft-in|long": "yes",
-        "4|ft|long": "yes"
-    },
     "document_data": {
-        "image": "[[Image:Khopesh(1).jpg|250px]]",
-        "caption": "''A typical khopesh.''",
-        "name": "Khopesh",
-        "type": "Sword",
-        "school": "",
-        "level": "",
-        "location": "",
-        "communication": "",
-        "languages": "",
-        "alignment": "",
-        "value1e": "10 [[gp]]",
-        "refs1e": "",
-        "value2e": "10 gp",
-        "weight2e": "{{SI|7|lb|k}}",
         "refs2e": "",
         "value3e": "20 gp",
-        "weight3e": "{{SI|12|lb|k}}",
+        "weight3e": "",
         "refs3e": "",
         "value4e": "20 gp",
-        "weight4e": "{{SI|8|lb|k}}",
         "refs4e": "",
-        "mainbody": "A '''khopesh''' ({{Plural|khopeshes}}) was a one-handed slashing weapon wielded like a [[sword]] or an [[axe]].",
-        "Description": "The khopesh typically had a handle like a knife rather than a hilt like a sword. The handle was about {{SI|6|in|long=yes}} long with optional [[wikipedia:quillon|quillons]]. The blade extended straight for {{SIrange|0'8\"|2'0\"|ft-in|long=yes}}  and then curved like a [[sickle]] with a sharp convex edge. The end of the blade was shaped to form a hook.",
-        "Weaponology": "The khopesh was a specialized weapon used in a slashing fashion like a sword or an axe. The {{SI|4|ft|long=yes}} blade was long and heavy, making this weapon slow to recover especially after a missed swing. \n\nLike [[battleaxe]]s, which were slightly smaller, khopeshes could be wielded with either one or two hands by creatures of roughly [[human]] size, dealing more damage when wielded with two, though at the cost of defense. Khopeshes were more brutal than most weapons dealing at least minor wounds whenever it hit.",
-        "History": "[[Bronze]] and [[iron]] khopesh swords first appeared in [[Netheril]] in the year {{Yearlink|-3105}}, serving as a primary military weapon for over a thousand years; both metals existed side-by-side in military and ceremonial functions, undergoing refinements until {{Yearlink|-2526}} when steel-making technology advanced to the point where [[steel]] khopeshes were developed to deal with the newly introduced steel [[chain mail]] armour. The steel khopesh continued to evolve until {{Yearlink|-2059}} when it ceased to be produced, leaving the field to the [[scimitar]]s and [[longsword]]s widely available at that time.",
-        "Usage": "Khopeshes were commonly found and used in [[Mulhorand]] and [[Zakhara]].{{cite book/Arabian Adventures}}",
-        "Notable Khopeshes": "* ''[[Ironwood khopesh]]''",
-        "Notable Owners": "* [[Ramas Fezim-Ret]], the right-hand man of the [[pharaoh]] [[Horustep III]], wielded a ''+1 khopesh''.{{Cite web/Realms Personalities/Ramas Fezim-Ret}}"
+        "mainbody": "A khopesh () was a one-handed slashing weapon wielded like a sword or an axe.\nThe khopesh typically had a handle like a knife rather than a hilt like a sword. The handle was about  long with optional quillons. The blade extended straight for   and then curved like a sickle with a sharp convex edge. The end of the blade was shaped to form a hook.\nThe khopesh was a specialized weapon used in a slashing fashion like a sword or an axe. The  blade was long and heavy, making this weapon slow to recover especially after a missed swing. \nLike battleaxes, which were slightly smaller, khopeshes could be wielded with either one or two hands by creatures of roughly human size, dealing more damage when wielded with two, though at the cost of defense. Khopeshes were more brutal than most weapons dealing at least minor wounds whenever it hit.\nBronze and iron khopesh swords first appeared in Netheril in the year , serving as a primary military weapon for over a thousand years both metals existed side-by-side in military and ceremonial functions, undergoing refinements until  when steel-making technology advanced to the point where steel khopeshes were developed to deal with the newly introduced steel chain mail armour. The steel khopesh continued to evolve until  when it ceased to be produced, leaving the field to the scimitars and longswords widely available at that time.\nKhopeshes were commonly found and used in Mulhorand and Zakhara.\n* Ironwood khopesh\n* Ramas Fezim-Ret, the right-hand man of the pharaoh Horustep III, wielded a +1 khopesh."
     }
 }

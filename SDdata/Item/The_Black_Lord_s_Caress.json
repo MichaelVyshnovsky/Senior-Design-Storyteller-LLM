@@ -1,28 +1,5 @@
 {
-    "template_data": {
-        "5|lb|k|long": "yes"
-    },
     "document_data": {
-        "image": "Black Lord's Caress.png",
-        "caption": "",
-        "name": "''The Black Lord's Caress''",
-        "othernames": "",
-        "nicknames": "",
-        "type": "[[Light flail]]",
-        "location": "[[Voonlar]], [[Moonsea]]",
-        "value1e": "",
-        "weight1e": "",
-        "refs1e": "",
-        "school2e": "",
-        "level2e": "",
-        "value2e": "",
-        "weight2e": "",
-        "refs2e": "",
-        "school3e": "",
-        "casterlevel3e": "",
-        "itemlevel3e": "+4",
-        "value3e": "",
-        "weight3e": "{{SI|5|lb|k|long=yes}}",
         "refs3e": "",
         "level4e": "",
         "value4e": "",
@@ -39,8 +16,6 @@
         "languages": "",
         "alignment": "",
         "sentientrefs": "",
-        "mainbody": "'''''The Black Lord's Caress''''' was the unique and ancient [[enchanted]] [[bane|Banite]] [[light flail]] that belonged to [[banelich]] [[Shrazgul]].",
-        "Powers": "This [[flail]] held a ''+4'' enchantment and was imbued with ''[[negative energy]]''. The weapon's hammer could easily smash through bones with its massive critical hits.",
-        "History": "Banelich Shrazgul infamously wielded this dreadful weapon against the enemies of the [[Church of Bane]] and even the fellow Banites when the lich deemed them guilty of supposed slights against him. Shrazgul named the weapon ''the Black Lord's Caress'' in pious attempts to honor his dark deity. However, that did not stop the god from imprisoning him when the banelich became wayward and hard to control. In [[1135 DR]], ''the Black Lord's Caress'' was considered lost after its owner's disappeared from the Realms.\n\nThe weapon resurfaced in [[1373 DR]], found under the town of [[Voonlar]], inside its deep catacombs dedicated to recently resurrected god Bane."
+        "mainbody": "The Black Lords Caress was the unique and ancient enchanted Banite light flail that belonged to banelich Shrazgul.\nThis flail held a +4 enchantment and was imbued with negative energy. The weapons hammer could easily smash through bones with its massive critical hits.\nBanelich Shrazgul infamously wielded this dreadful weapon against the enemies of the Church of Bane and even the fellow Banites when the lich deemed them guilty of supposed slights against him. Shrazgul named the weapon the Black Lords Caress in pious attempts to honor his dark deity. However, that did not stop the god from imprisoning him when the banelich became wayward and hard to control. In 1135 DR, the Black Lords Caress was considered lost after its owners disappeared from the Realms.\nThe weapon resurfaced in 1373 DR, found under the town of Voonlar, inside its deep catacombs dedicated to recently resurrected god Bane."
     }
 }

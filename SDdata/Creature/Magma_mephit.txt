@@ -1,51 +1,34 @@
-{{DEFAULTSORT:Mephit, magma}}
-{{Creature
-| image        =
-<gallery>
-Magma_Mephit-5e.png|5e
-Magma mephit 4e.jpg|4e
-Magma mephit 2e.png|2e
-Magma mephit 1e.png|1e
-</gallery>
-| caption2     = Various depictions of magma mephits.
-| name         = Magma Mephit
-| othernames   = Lava mephit
-| size5e       = Small
-| type5e       = [[Elemental]]
-| subtype5e    = 
-| alignment5e  = [[Neutral evil]]
-| challenge5e  = {{Frac|1|2}}
 | refs5e       = 
 | size4e       = Small
-| origin4e     = [[Elemental creature|Elemental]]
-| type4e       = [[Humanoid]]
-| subtype4e    = [[:Category:Creatures with the earth subtype|Earth]], [[:Category:Creatures with the fire subtype|fire]]
-| alignment4e  = [[Unaligned]]
-| refs4e       = {{Cite dragon/421/Creature Incarnations: Mephits|7}}
+| origin4e     = Elemental
+| type4e       = Humanoid
+| subtype4e    = Earth, fire
+| alignment4e  = Unaligned
+| refs4e       = 
 | size3e       = Small
-| type3e       = [[Outsider]]
-| subtype3e    = [[:Category:Creatures with the fire subtype|Fire]]
-| alignment3e  = Usually [[neutral]]
+| type3e       = Outsider
+| subtype3e    = Fire
+| alignment3e  = Usually neutral
 | challenge3e  = 3
 | refs3e       = 
 | size2e       = Medium
-| alignment2e  = [[Neutral]]
+| alignment2e  = Neutral
 | refs2e       = 
 | size1e       = Medium
-| alignment1e  = Variable [[evil]]
+| alignment1e  = Variable evil
 | refs1e       = 
 | patron deity = 
 | movement     = Flying
-| vision       = [[Darkvision]]
+| vision       = Darkvision
 | activecycle  = Any
 | diet         = 
 | lifespan     = 
-| location     = [[Lower planes]]<br/>[[Para-Elemental Plane of Magma]]<br />[[Elemental Plane of Fire]]
-| language     = [[Common]]<br />[[Ignan]]<br />[[Terran]]<br />[[Primordial language|Primordial]]
+| location     = Lower planesPara-Elemental Plane of MagmaElemental Plane of Fire
+| language     = CommonIgnanTerranPrimordial
 | subraces     = 
 | climate      = 
 | terrain      = 
-| height       = ~4'
+| height       = ~4
 | length       = 
 | wingspan     = 
 | weight       = ~60 lbs.
@@ -56,21 +39,9 @@ Magma mephit 1e.png|1e
 | distinctions = 
 | based        = 
 | first        = 
-}}
-A '''magma mephit''', or a '''lava mephit''', was a [[mephit]] composed of [[Earth (element)|earth]] and [[fire]]. They emitted a red glow and were slow to understand other creatures.
-
-==Description==
+A magma mephit, or a lava mephit, was a mephit composed of earth and fire. They emitted a red glow and were slow to understand other creatures.
 They consistently ooze molten lava from their bodies, as if it were perspiration. The heat from their bodies could be sensed from 30 feet (9.1 meters).
-
-==Behavior==
-They were the least intelligent of all mephits, being slow minded and the brunt of [[fire mephit]] jokes.
-
-==Combat==
-They attacked using their claws and a breath weapon. Their breath weapon consisted of a molten blob of lava which hit a single designated target. If they were encountered in a volcanic region, they regenerated health every few seconds. The touch of a lava mephit automatically dissolved materials such as wood at a slow pace, but melted metal is a matter of seconds, such as [[plate mail]].
-
-They had the ability to ''[[shapechange]]'' into a pool of molten lava, and even ''[[gate]]'' in other mephits of a random type. If they came into contact with large quantities of water, they would harden and move half as fast. This had a down-side for those using this tactic: the contact of the water with the mephit would release a large amount of sulfurous steam, poisoning and nauseating the opponents.
-
-==Society==
-===Relationships===
-For the few [[urdunnir]] who employed [[arcane magic]], magma mephits were sometimes employed as [[familiar]]s.<ref>
-
+They were the least intelligent of all mephits, being slow minded and the brunt of fire mephit jokes.
+They attacked using their claws and a breath weapon. Their breath weapon consisted of a molten blob of lava which hit a single designated target. If they were encountered in a volcanic region, they regenerated health every few seconds. The touch of a lava mephit automatically dissolved materials such as wood at a slow pace, but melted metal is a matter of seconds, such as plate mail.
+They had the ability to shapechange into a pool of molten lava, and even gate in other mephits of a random type. If they came into contact with large quantities of water, they would harden and move half as fast. This had a down-side for those using this tactic the contact of the water with the mephit would release a large amount of sulfurous steam, poisoning and nauseating the opponents.
+For the few urdunnir who employed arcane magic, magma mephits were sometimes employed as familiars.

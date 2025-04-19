@@ -1,19 +1,9 @@
 {
-    "template_data": {
-        "edition": "2e"
-    },
     "document_data": {
-        "image": "",
-        "name": "Deathcalm the Loved",
-        "aliases": "",
-        "home": "[[Mirabar]]",
-        "sex": "Female",
-        "race": "[[Human]]",
-        "class": "{{Class table|edition=2e|[[Cleric]]|12}}",
-        "alignment": "[[Chaotic good]]",
-        "patron deity": "[[Lathander]]",
+        "alignment": "Chaotic good",
+        "patron deity": "Lathander",
         "dob": "",
         "age": "",
-        "mainbody": "'''Deathcalm the Loved''' helped to run [[Galvendo's Lodge]] with her companion and business partner [[Galvendo]], of whom the lodge was named. She assisted in such ways as raising clients who had met their end on hunting trips with Galvendo."
+        "mainbody": "Deathcalm the Loved helped to run Galvendos Lodge with her companion and business partner Galvendo, of whom the lodge was named. She assisted in such ways as raising clients who had met their end on hunting trips with Galvendo."
     }
 }

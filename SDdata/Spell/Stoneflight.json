@@ -1,24 +1,7 @@
 {
-    "template_data": {
-        "edition": "2e",
-        "30|yd|long": "yes"
-    },
     "document_data": {
-        "variant": "",
-        "image": "",
-        "caption": "",
-        "name": "Stoneflight",
-        "deity": "[[Qotal]]",
-        "domains": "",
-        "inventor": "",
-        "reversible2e": "",
-        "school2e": "[[Pluma]], [[Alteration]]",
-        "spheres2e": "[[Pluma]]",
-        "level2e": "{{spell table|edition=2e|[[Cleric]]|1|[[Eagle Knight]]|1|[[Plumaweaver]]|1}}",
         "type2e": "",
         "refs2e": "",
-        "mainbody": "'''''Stoneflight''''' was a spell unique to [[Maztica]].",
-        "Effects": "This spell was cast on slingers, allowing them to launch their missiles father and with greater force. This spell could be cast on three individuals at a time. The amount of individuals was determined by the caster's spell level, up to a maximum of thirty people at a time. Any individual had to be within {{SI|30|yd|long=yes}} of the caster to gain this ability.",
-        "Components": "In addition to [[verbal]] and [[somatic]] components, casting this spell required a [[material component]] in the form of a small ball made from [[bird]] [[guano]]."
+        "mainbody": "Stoneflight was a spell unique to Maztica.\nThis spell was cast on slingers, allowing them to launch their missiles father and with greater force. This spell could be cast on three individuals at a time. The amount of individuals was determined by the casters spell level, up to a maximum of thirty people at a time. Any individual had to be within  of the caster to gain this ability.\nIn addition to verbal and somatic components, casting this spell required a material component in the form of a small ball made from bird guano."
     }
 }

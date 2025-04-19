@@ -1,13 +1,7 @@
 {
     "document_data": {
-        "image": "Gulthmere settlements.png",
-        "caption": "A map of Starmantle and the surrounding area, ''circa'' [[1372 DR]]",
-        "name": "Starmantle",
-        "alt spelling": "",
-        "aliases": "Ruins of Starmantle",
-        "type": "Settlement<br/>{{Former}} ruins",
-        "region": "[[Dragon Coast]], [[Eastern Heartlands]]",
-        "size": "Village{{Cite archive/Greenwood's Grotto/2023-04-14/Starmantle resettled}}<br />{{Former}} small city",
+        "region": "Dragon Coast, Eastern Heartlands",
+        "size": "Village small city",
         "elevation": "",
         "depth": "",
         "capital": "",
@@ -15,9 +9,9 @@
         "georefs": "",
         "demonym": "",
         "population": "",
-        "races": "{{Former}} [[plaguechanged]] [[ghoul]]s, [[human]]s, [[lizardmen]], [[orc]]s, [[half-ogre]]s, [[drow]], [[gnoll]]s, [[bugbear]]s",
+        "races": "plaguechanged ghouls, humans, lizardmen, orcs, half-ogres, drow, gnolls, bugbears",
         "languages": "",
-        "religion": "[[Istishia]]",
+        "religion": "Istishia",
         "alignment": "",
         "socrefs": "",
         "imports": "",
@@ -36,7 +30,7 @@
         "judiciary": "",
         "allegiances": "",
         "govrefs": "",
-        "established": "{{Yearlink|-29}}",
+        "established": "",
         "start event": "",
         "start date": "",
         "event1": "",
@@ -88,16 +82,6 @@
         "events": "",
         "food and drink": "",
         "items": "",
-        "mainbody": "'''Starmantle''', referred to as the '''Ruins of Starmantle''' during the century that followed the [[Spellplague]], was once a small, coastal city that was located on the [[Dragon Coast]], up until the late 14{{th}} century [[DR]], and resettled in the late 15{{th}} century DR.",
-        "Description": "Following its destruction, the ruins of the city and the surrounding landscape were covered by large, man-sized, gemstone-hard, emerald-colored outcrops that hummed with a single flute-like note. A flickering blue glow passed between the outcrops and [[obsidian]] masses slowly drifted across the open ground. \n\nStarmantle had an analogous city in the [[Shadowfell]] known as [[Elgrin Fau]].\n\nAfter being resettled, Starmantle was a village that grew around a caravan stop and a general store.",
-        "Geography": "The city was linked to the town of [[Reddansyr]] and the [[Trader's Road]], by means of the [[Trader's Road]].{{Cite dragon/365/Backdrop: Cormyr|45}}\n\nThe fortress of [[Stormwatch]] was located to Starmantle's west, situated between it and the large city of [[Westgate]].",
-        "Trade": "For centuries, Starmantle was one of Westgate's main rivals for trade across the Sea of Fallen Stars. The competition made both cities stronger rather than lead to one of their downfall.\n\nIt was one of the few cities that housed smiths that crafted the [[Harper pin|magical pins]] worn by the agents of the [[Harpers]].",
-        "History": "In the early 1370s [[DR]], members of the [[Night Masks]] thieves' guild took charge of all the higher-end criminal activity within the city.\n\nBeginning in the {{YearlinkName|1382}}, Starmantle was inundated by flood of [[Shou]] [[human]]s from [[Thesk]].\n\nStarmantle was destroyed in the {{YearlinkName|1385}} by the [[Spellplague]], when a conflagration of blue fire shot forth from a ''[[portal]]'' and ravaged the city. Just over a decade later, the city was little more than ruins.\n\nBy the late 15{{th}} century DR, Starmantle became a small village that grew around a caravan stop and a tent city in the city's ruins after an inn was built and a humble general store opened next to a warehouse.",
-        "Notable Locations": "Starmantle was one of the coastal cities along the Sea of Fallen Stars that boasted a temple to the [[primordial]] [[Istishia]]. \n\nIt was also known to have at least one academic college.",
-        "Inhabitants": {
-            "Notable Inhabitants": {
-                "14{{th}} Century": "* [[Adamar Session]], a [[bard]] and teacher of history at the local college.\n* [[Maeve]], a [[half-elf|half-]][[drow]] [[archmage]] originally from [[Cathtyr]].\n* [[Tasso]], the noted [[mage]] and author that dwelled in a cave found nearby the city."
-            }
-        }
+        "mainbody": "Starmantle, referred to as the Ruins of Starmantle during the century that followed the Spellplague, was once a small, coastal city that was located on the Dragon Coast, up until the late 14 century DR, and resettled in the late 15 century DR.\nFollowing its destruction, the ruins of the city and the surrounding landscape were covered by large, man-sized, gemstone-hard, emerald-colored outcrops that hummed with a single flute-like note. A flickering blue glow passed between the outcrops and obsidian masses slowly drifted across the open ground. \nStarmantle had an analogous city in the Shadowfell known as Elgrin Fau.\nAfter being resettled, Starmantle was a village that grew around a caravan stop and a general store.\nThe city was linked to the town of Reddansyr and the Traders Road, by means of the Traders Road.\nThe fortress of Stormwatch was located to Starmantles west, situated between it and the large city of Westgate.\nFor centuries, Starmantle was one of Westgates main rivals for trade across the Sea of Fallen Stars. The competition made both cities stronger rather than lead to one of their downfall.\nIt was one of the few cities that housed smiths that crafted the magical pins worn by the agents of the Harpers.\nIn the early 1370s DR, members of the Night Masks thieves guild took charge of all the higher-end criminal activity within the city.\nBeginning in the , Starmantle was inundated by flood of Shou humans from Thesk.\nStarmantle was destroyed in the  by the Spellplague, when a conflagration of blue fire shot forth from a portal and ravaged the city. Just over a decade later, the city was little more than ruins.\nBy the late 15 century DR, Starmantle became a small village that grew around a caravan stop and a tent city in the citys ruins after an inn was built and a humble general store opened next to a warehouse.\nStarmantle was one of the coastal cities along the Sea of Fallen Stars that boasted a temple to the primordial Istishia. \nIt was also known to have at least one academic college.\nFollowing the Spellplague, the only inhabitants of Starmantle were plaguechanged ghouls.\n14 Century\n* Adamar Session, a bard and teacher of history at the local college.\n* Maeve, a half-drow archmage originally from Cathtyr.\n* Tasso, the noted mage and author that dwelled in a cave found nearby the city."
     }
 }

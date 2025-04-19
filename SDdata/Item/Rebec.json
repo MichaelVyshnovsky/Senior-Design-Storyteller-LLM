@@ -1,15 +1,5 @@
 {
     "document_data": {
-        "image": "Rebec-2e.jpg",
-        "caption": "A rebec from [[Aurora's Emporium]].",
-        "name": "Rebec",
-        "othernames": "",
-        "nicknames": "",
-        "type": "Musical instrument",
-        "location": "[[Selgaunt]]",
-        "value1e": "30 [[gp]]",
-        "weight1e": "",
-        "refs1e": "<ref>{{Cite dragon/117/Dungeoneer's Shopping Guide|22}}",
         "school2e": "",
         "level2e": "",
         "value2e": "55 gp",
@@ -35,8 +25,6 @@
         "communication": "",
         "languages": "",
         "alignment": "",
-        "mainbody": "A '''rebec''' was a string instrument considered a precursor to the [[violin]].",
-        "Description": "Rebecs were favored among peasants and made for very lively music.\n\nTwo- and three-string rebecs were available for purchase through ''[[Aurora's Whole Realms Catalogue]]'' produced by guild craftsmen from [[Selgaunt]].",
-        "Notable Users": "* The [[Bendekar's Mercantile]] storehouse in [[Ravens Bluff]] had two rebecs in their instruments collection.{{Cite polyhedron/98/A Handful of Dust|16}}"
+        "mainbody": "A rebec was a string instrument considered a precursor to the violin.\nRebecs were favored among peasants and made for very lively music.\nTwo- and three-string rebecs were available for purchase through Auroras Whole Realms Catalogue produced by guild craftsmen from Selgaunt.\n* The Bendekars Mercantile storehouse in Ravens Bluff had two rebecs in their instruments collection."
     }
 }
