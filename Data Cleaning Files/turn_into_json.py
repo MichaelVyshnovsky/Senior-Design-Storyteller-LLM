@@ -43,7 +43,7 @@ def parse_content(content):
     mainbody_start = last_kv_match[-1].end() if last_kv_match else 0
     first_section_match = re.search(r'^==([^=]+)==', content[mainbody_start:], re.MULTILINE)
     mainbody_end = first_section_match.start() + mainbody_start if first_section_match else len(content)
-    doc_data['mainbody'] = content[mainbody_start+1:mainbody_end].strip()
+    doc_data['mainbody'] = content[mainbody_start:mainbody_end].strip()
     
     # Sections (==section==) and subsections
     sections = re.finditer(r'^==([^=]+)==\n(.*?)(?=^==[^=]+==|\Z)', content, re.MULTILINE | re.DOTALL)

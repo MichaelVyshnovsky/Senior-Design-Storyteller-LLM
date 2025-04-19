@@ -1,19 +1,5 @@
 A spell is any sort of magical incantation, charms, etc, whether arcane, divine, or otherwise that, is used or mentioned within the Forgotten Realms.
 &nbsp
-| keywords4e    = 
-| school3e      = Conjuration (Creation)
-| descriptors3e = 
-| domains3e     = Air, Water
-| level3e       = 
-| type3e        = 
-| school2e      = Alteration
-| spheres2e     = Weather
-| level2e       = 
-| type2e        = 
-| school1e      = Alteration
-| level1e       = 
-| type1e        = 
-| nocat         = true 
 By their very nature, spells have a lot more crunch to them than most other articles, and the edition of the spell has a lot to do with the spells categorization. Spells have changed over the years from 1e, 2e, 3e, and 4e (and soon, 5e) and the  template has been updated to accept info from all editions and present it organized by edition. (Note for this template, 3.5 edition is considered 3rd edition because few if any changes were made to spells between 3e and 3.5.) For most spells, this helps prevent multiple nearly-identical articles being written, one for each edition of the spell, but it does require the author to explain the changes between editions in the article. An example spell infobox is shown to the right. Here is how you would go about categorizing this spell
 The template will automatically generate some of the categories for you, so lets go over these first. Fourth edition has a different name for each classs powers. So far, the names are Discipline, Evocation, Exploit, Hex, Prayer, Channel Divinity Prayer, and Spell. The template automatically generates these categories based on the type and variant
 *CategoryEvocations

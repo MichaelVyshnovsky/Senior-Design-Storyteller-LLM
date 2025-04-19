@@ -1,21 +1,5 @@
 {
     "document_data": {
-        "type5e": "",
-        "refs5e": "",
-        "school3e": "Abjuration",
-        "domains3e": "Magic, Temperance",
-        "level3e": "",
-        "refs3e": "",
-        "type3e": "",
-        "school2e": "Abjuration, UniversalIncantation (Disruptive)Inventive, Mentalism,Variation",
-        "level2e": "",
-        "spheres2e": "All, ProtectionThis spell was originally in the Protection sphere until the Players Option Spells & Magic moved it to the All sphere.",
-        "refs2e": "",
-        "type2e": "",
-        "school1e": "Abjuration",
-        "level1e": "",
-        "type1e": "",
-        "refs1e": "",
         "mainbody": "~ Manual page 109\nDispel magic was a abjuration spell that could negate magic on a creature or object (including potions), or interfere with casting spells and the use of spell-like abilities. It was one of the spells available from the Balance of Belaros, a holy relic of Tyr.\nWhen a magic effect is dispelled it ceases to function as if the spell duration had expired. Some spells were crafted specifically not to be susceptible to dispelling, but these were the exception rather than the rule. Casters could always dispel their own spells. Magical items that had magic built into them as part of their construction could not be permanently dispelled by this spell, but they could be made temporarily nonmagical for a short time. The chance to dispel an effect was based on the difference in level between the caster of dispel and the caster/creator/inherent power of the target. This spell could be cast in one of three ways, as chosen by the caster\nTargeted Dispel The target could be one creature, object, or an active spell. If an object or creature had more than one spell effect active simultaneously, the dispel had a chance to dismiss each of them. Items worn or carried by the targeted creature were not affected. If the creature was summoned, then dispel had a chance to end the summoning spell. If the object was a magic item, then dispel had a chance to suppress the function of item for a short time.The older versions of this spell treated potions differently than all other magic items. Dispel magic had a chance to destroy potions, treating them as 12th level for comparison purposes.\nArea Dispel For the newer version of this spell, the area was a circle of 20 ft (6.1 m) radius. For the older versions, the area was a 30 ft (9.1 m) cube. Each creature and object in the area of effect was subject to the dispelling of one spell placed on that creature or object, if applicable. Dispel magic attempted to counteract the highest level spell first, followed by any successively lower level spells in turn until dispel succeeded in countering one effect or failed to counter anything. The only exception to this was for summoned creatures dispel magic also had a chance to counter the summoning spell as well as any other spells that targeted the summoned creature (checking highest level spells first and so on, as above).\n If the point of origin of an area-effect spell was within the area covered by dispel magic, then the area-effect spell had a chance to be negated. If the area covered by dispel magic overlapped a portion of an area-effect spell, then dispel had a chance to counteract the area-effect spell in the overlapping area only.\n Magic items are not affected by an area dispel.\nCounterspell Targeting a spellcaster, dispel magic attempted to spoil the spell being cast by the target.\nThe older versions of this spell did a combination of all three of the above uses acting like targeted dispel over the entire area of effect on each creature or object (including those worn or carried) and possibly counterspelling any casting being done in the area of effect at that instant.\nThe post Second Sundering version of the spell was very simple and functioned mostly like the targeted dispel. Targeting a creature, object or magical effect within 120 feet of the same level as the spell was cast with (its power grew if it was cast with a higher spell level) would dispel it out right. If the dispel magic was of lower level then the spell it target the spell could try and resist the dispelling attempt.\nOnly verbal and somatic components were required to cast this spell.\nThis spell was inscribed within the Kelemvorite relic the Testament of Vraer."
     }
 }

@@ -39,15 +39,18 @@ def process_file(file_path: str, patterns_dict: Dict[str, Union[str, re.Pattern]
             
         modified_content = content
         
-        # First pass: Remove all templates and their contents
+        # First pass: Remove all lines starting with |
+        modified_content = re.sub(r'^\|.*$', '', modified_content, flags=re.MULTILINE)
+        
+        # Second pass: Remove all templates and their contents
         modified_content = re.sub(r'\{\{.*?\}\}', '', modified_content, flags=re.DOTALL)
         modified_content = re.sub(r'\{\|.*?\|\}', '', modified_content, flags=re.DOTALL)
         
-        # Second pass: Process links and formatting
+        # Third pass: Process links and formatting
         modified_content = re.sub(r'\[\[(?:[^|\]]*\|)?([^\]]+)\]\]', r'\1', modified_content)
         modified_content = re.sub(r"''+", '', modified_content)
         
-        # Third pass: Clean up HTML and special cases
+        # Fourth pass: Clean up HTML and special cases
         modified_content = re.sub(r'<ref[^>]*>.*?</ref>', '', modified_content, flags=re.DOTALL)
         modified_content = re.sub(r'<[^>]+>', '', modified_content)
         modified_content = re.sub(r'^=+.*?=+\s*$', '', modified_content, flags=re.MULTILINE)
