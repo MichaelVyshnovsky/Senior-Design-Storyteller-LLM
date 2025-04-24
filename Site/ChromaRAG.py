@@ -2,6 +2,7 @@ import chromadb
 import os
 import ollama
 import json
+import re
 from html.parser import HTMLParser
 
 class ChromaRAG():
@@ -140,7 +141,9 @@ class ChromaRAG():
             client = ollama.Client(host=use_url)
         else:
             client = ollama.Client()
-
+        print(template)
+        print(context)
+        print(prompt)
         response = client.chat(model=self.model_name, messages=[{'role':'system', 'content': template + context }, {'role':'user', 'content':prompt}])
 
                

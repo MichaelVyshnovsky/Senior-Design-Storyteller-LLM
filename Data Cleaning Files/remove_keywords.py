@@ -107,7 +107,21 @@ if __name__ == "__main__":
         r'\}': "",
         r'<br />': "",
         r';': "",
-        r':': ""
+        r':': "",
+        r'\{\{.*?\}\}': "",  # Remove all {{...}} templates
+        r'<ref[^>]*>.*?</ref>': "",  # Remove all <ref>...</ref> tags
+        r'<ref[^>]*/>': "",  # Remove self-closing ref tags
+        r'{{DEFAULTSORT:.*?}}': "",
+        r'{{Otheruses4.*?}}': "",
+        r'</?small>': "",  # Handles both opening and closing small tags
+        r'{{Cite (book|game).*?}}': "",  # Combined book/game citations
+        r'\[\[(?:[^|\]]*\|)?([^\]]+)\]\]': r'\1',  # Clean wikilinks
+        r"''''*": "",  # Handles all bold/italic markup
+        r'[{}]': "",  # Remove single braces
+        r'<br\s*/?>': "",  # Handles <br> and <br />
+        r'[;:]': "",  # Remove semicolons and colons
+        r'thumb\|.*?\|': "",  # General thumb pattern
+        r'\|(?:right|left)\|thumb\|.*?\|': ""  # Handles positioned thumbs   
     }
 
     # File extensions to process
