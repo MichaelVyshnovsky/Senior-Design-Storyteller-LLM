@@ -13,7 +13,7 @@ from accelerate import Accelerator
 from datetime import datetime
 
 # Configuration - CHANGED TO GPT-2
-MODEL_NAME = "meta-llama/Llama-2-7b-hf"  # Using GPT-2 which is designed for causal LM
+MODEL_NAME = "gpt2"  # Using GPT-2 which is designed for causal LM
 DATA_ROOT = "./SDdata"              
 RESULTS_DIR = "./results"         
 BATCH_SIZE = 4                    # Reduced for GPT-2 which is larger
