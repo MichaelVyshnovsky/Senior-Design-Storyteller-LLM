@@ -10,7 +10,7 @@ model = AutoModelForCausalLM.from_pretrained(model_path)
 device = "cuda" if torch.cuda.is_available() else "cpu"
 model = model.to(device)
 
-def generate_text(prompt, max_length=100, temperature=0.7, top_k=50, top_p=0.95):
+def generate_text(prompt, max_length=1000, temperature=0.7, top_k=50, top_p=0.95):
     """
     Generate text from the model given a prompt
     
