@@ -2,7 +2,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
 
 # Load your trained model and tokenizer
-model_path = "./results/model_20250417_153158"  # Replace with your actual model path
+model_path = "./results/model_20250419_210944"  # Replace with your actual model path
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 model = AutoModelForCausalLM.from_pretrained(model_path)
 
@@ -10,7 +10,7 @@ model = AutoModelForCausalLM.from_pretrained(model_path)
 device = "cuda" if torch.cuda.is_available() else "cpu"
 model = model.to(device)
 
-def generate_text(prompt, max_length=1000, temperature=0.7, top_k=50, top_p=0.95):
+def generate_text(prompt, max_length=250, temperature=0.7, top_k=50, top_p=0.95):
     """
     Generate text from the model given a prompt
     
