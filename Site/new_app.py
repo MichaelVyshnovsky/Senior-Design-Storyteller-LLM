@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 OLLAMA_URL = "http://localhost:11434/api/generate"  # Ensure Ollama is running
 GPU_URL = "http://137.99.227.35:11434"
-MODEL_NAME = "deepseek-r1:7b"
+MODEL_NAME = "deepseek-r1:1.5b"
 WIKI_FILE = "data/ollama_wiki.html"
 docPath = "./data/wiki_entries"
 
