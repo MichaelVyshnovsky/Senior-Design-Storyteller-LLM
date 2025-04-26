@@ -6,7 +6,7 @@ import re
 from html.parser import HTMLParser
 
 class ChromaRAG():
-    def __init__(self, doc_path="./docs", collection_path="./collection", template_path="./templates", model_name="deepseek-r1:7b", ollama_url=None):
+    def __init__(self, doc_path="./docs", collection_path="./collection", template_path="./templates", model_name="deepseek-r1:1.5b", ollama_url=None):
         self.doc_path = doc_path
         self.model_name = model_name
         self.collection_path = collection_path
@@ -273,7 +273,7 @@ def context_to_list(documents, ids):
         res.append(documents[x])
     return res
 
-MODEL_NAME = "deepseek-r1:7b"
+MODEL_NAME = "deepseek-r1:1.5b"
 TEMPLATE_PATH = "./templates"
 DOC_PATH = "./test_docs"
 COLLECTION_NAME = "test_collection"
