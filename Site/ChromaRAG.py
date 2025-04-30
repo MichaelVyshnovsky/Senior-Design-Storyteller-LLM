@@ -2,14 +2,18 @@ import chromadb
 import os
 import ollama
 import json
+import torch
+from diffusers import AutoPipelineForText2Image
+from PIL import Image
 from html.parser import HTMLParser
 
 class ChromaRAG():
-    def __init__(self, doc_path="./docs", collection_path="./collection", template_path="./templates", model_name="deepseek-r1:7b", ollama_url=None):
+    def __init__(self, doc_path="./docs", collection_path="./collection", template_path="./templates", image_path="./images", model_name="deepseek-r1:7b", ollama_url=None):
         self.doc_path = doc_path
         self.model_name = model_name
         self.collection_path = collection_path
         self.template_path = template_path
+        self.image_path = image_path
         self.chroma = chromadb.PersistentClient(path=collection_path)
         self.collection = self.chroma.get_or_create_collection(name = "collection")
         self.add_to_collection()
@@ -237,11 +241,27 @@ class ChromaRAG():
             return response[0]
 
 
+
     def format_prompt(self, in_prompt, context, template):
         template = open(self.template_path + "/" + template + ".template").read()
         return template + context + "###Query\n\n" + in_prompt
 
 
+    def generate_image(doc_name):
+
+        html_parse = html_ripper()
+        html_parse.feed(open(self.doc_path + doc_name, "r").read())
+        doc_text = html_parse.get_data()
+
+        pipeline = AutoPipelineForText2Image.from_pretrained( "stabilityai/stable-diffusion-xl-base-1.0", torch_dtype=torch.float16, variant="fp16")
+
+        pipeline = pipeline.to('cuda')
+        prompt = ollama.generate(model="deepseek-r1:7b", prompt="In 50 words or less create a visual description of what is described by the following biography. You must answer in 50 words or less:\n\n" + doc_text).split("</think>")[1]
+        prompt = "Isometric image of " + prompt
+        
+        image = pipeline(prompt=prompt).images[0]
+        image.save(name[:-5]+".png")
+        return 0
 
 
 class html_ripper(HTMLParser):
